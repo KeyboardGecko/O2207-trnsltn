@@ -1,4 +1,4 @@
-#dos
+#
 #
 #
 #
@@ -12,8 +12,8 @@
 {53}{}{Height}
 {54}{}{Done}
 {55}{}{Cancel}
-{56}{}{To apply the settings, you must restart the game.}
-{57}{}{Restart the game now?}
+{56}{}{Fallout must restart to apply settings.}
+{57}{}{Would you like to restart Fallout now?}
 {58}{}{True}
 {59}{}{False}
 {60}{}{}
@@ -59,7 +59,6 @@
 {157}{}{Death}
 {158}{}{End Slides}
 {159}{}{Main Menu}
-
 
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
@@ -107,3 +106,5 @@
 {523}{}{Click below to cycle the in-game interface Side Bar options.}
 {524}{}{Apply any changes and Exit.}
 {525}{}{Exit without saving.}
+
+

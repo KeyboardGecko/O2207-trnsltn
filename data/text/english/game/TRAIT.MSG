@@ -4,38 +4,38 @@
 #
 #   TRAIT NAMES
 #
-{100}{}{Быстрый метаболизм}
-{101}{}{Крушила}
-{102}{}{Маленький}
-{103}{}{Однорукий}
-{104}{}{Точность}
-{105}{}{Камикадзе}
-{106}{}{Тяжел на руку}
-{107}{}{Быстрый стрелок}
-{108}{}{Громила}
-{109}{}{Дурной глаз}
-{110}{}{Добродушный}
-{111}{}{Неуст. к химии}
-{112}{}{Уст. к химии}
-{113}{}{Мех. память}
-{114}{}{Умелец}
-{115}{}{Талант}
+{100}{}{Fast Metabolism}
+{101}{}{Bruiser}
+{102}{}{Small Frame}
+{103}{}{One Hander}
+{104}{}{Finesse}
+{105}{}{Kamikaze}
+{106}{}{Heavy Handed}
+{107}{}{Fast Shot}
+{108}{}{Bloody Mess}
+{109}{}{Jinxed}
+{110}{}{Good Natured}
+{111}{}{Chem Reliant}
+{112}{}{Chem Resistant}
+{113}{}{Self-taught}
+{114}{}{Skilled}
+{115}{}{Gifted}
 #
 #   TRAIT DESCRIPTIONS
 #
-{200}{}{Ваш уровень метаболизма вдвое превышает норму. Это означает, что вы будете менее устойчивы к воздействию радиации и ядов, но лечиться будете быстрее.}
-{201}{}{Двигаемся помедленнее, но зато повнушительнее. Бьем нечасто, но зато так, чтобы на всю жизнь запомнили! Количество ваших очков Действия уменьшается, но зато Сила увеличивается.}
-{202}{}{Вы не так велики, как другие люди, хотя это никогда вам особо не мешало. Вы не в состоянии таскать тяжелые грузы, зато более проворны.}
-{203}{}{Вы хорошо работаете только одной из рук. Благодаря этому вы неплохо владеете обычным оружием, но с двуручным начинаются проблемы.}
-{204}{}{Все ваши атаки очень точны. Повреждений наносится поменьше, но при этом больше вероятность критического удара.}
-{205}{}{В бою вы не обращаете внимания на окружающую обстановку и действуете напролом. Снижается количество ваших очков брони вплоть до минимума, но увеличивается порядок действий.}
-{206}{}{Вы бьете сильно, но не очень точно. Жестокие удары причиняют огромные повреждения врагам, однако почти никогда не оказываются критическими для их состояния.}
-{207}{}{У вас нет времени для нормального прицеливания, поэтому Вы стреляете наугад, лишь бы побыстрее. Для применения оружия вам требуется на одно очко действий меньше.}
-{208}{}{По странной случайности, люди вокруг вас умирают страшной, мучительной смертью. Для них вы находите худший вариант кончины.}
-{209}{}{Xорошая сторона дела заключается в том, что ваши враги постоянно ошибаются. Плохо то, что вы ошибаетесь не меньше их!}
-{210}{}{В детстве Вы занимались тихими, размеренными занятиями и не делали зарядку. Ваши боевые умения понижэены, но зато Первая Помощь, Доктор, Беседа и Торговля заметно лучше.}
-{211}{}{Вы легче попадаете в зависимость от химикалий. Вероятность привыкания к разным веществам вдвое больше, чем норма, но вы проще переносите их эффект.}
-{212}{}{Xимикалии приносят вам только половину нормального эффекта, но вероятность привыкания также снижена на 50% от нормы.}
-{213}{}{Ваш организм страдает от общих недостатков, но тело запоминает все движения и жесты. Вы получаете бонус автоматического роста умений, но основные показатели снизятся на один пункт.}
-{214}{}{Так как Вы неустанно работали над улучшением своих умений, то начнете игру с улучшенными параметрами. С другой стороны, вы получаете меньше доп. умений - одно за каждые 4 уровня.}
-{215}{}{Вы очень одарены различными способностями и превосходите обычный уровень. Все ваши параметры больше на единицу, но вы теряете 10% для умений и получаете на 5 очков меньше за уровень.}
+{200}{}{Your metabolic rate is twice normal.  This means that you are much less resistant to radiation and poison, but your body heals faster.}
+{201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!  Your total action points are lowered, but your Strength is increased.}
+{202}{}{You are not quite as big as the other villagers, but that never slowed you down.  You can't carry as much, but you are more agile.}
+{203}{}{One of your hands is very dominant.  You excel with single-handed weapons, but two-handed weapons cause a problem.}
+{204}{}{Your attacks show a lot of finesse.  You don't do as much damage, but you cause more critical hits.}
+{205}{}{By not paying attention to any threats, you can act a lot faster in a turn.  This lowers your armor class to just what you are wearing, but you sequence much faster in a combat turn.}
+{206}{}{You swing harder, not better.  Your attacks are very brutal, but lack finesse.  You rarely cause a good critical, but you always do more melee damage.}
+{207}{}{You don't have time to aim for a targeted attack, because you attack faster than normal people.  It costs you one less action point for guns and thrown weapons.}
+{208}{}{By some strange twist of fate, people around you die violently.  You always see the worst way a person can die.}
+{209}{}{The good thing is that everyone around you has more critical failures in combat, the bad thing is so do you!}
+{210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
+{211}{}{You are more easily influenced by chems.  Your chance to be reliant by chem use is twice normal, but you recover faster from their ill effects.}
+{212}{}{Chems only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
+{213}{}{While your body suffers greatly for as long as you can remember, you were well-loved, and taught yourself that you can do and learn anything you want. You learn skills by doing them, but your primary statistcs are all decreased by 1 point.}
+{214}{}{Since you spent more time improving your skills than a normal person, you gain 5 additional skill points per experience level. The tradeoff is that you do not gain as many extra abilities. You gain a perk every four levels.}
+{215}{}{You have more innate abilities than most, so you have not spent as much time honing your skills.  Your primary statistics are each +1, but you lose -10% on all skills to start, and receive 5 less skill points per level.}
