@@ -1,0 +1,1049 @@
+; Map datafile for worldmap.c, etc.
+; Fallout 2
+; 4:12 PM 8/4/98
+;
+
+
+; Note: This is a numerically ordered list.  There can be *NO GAPS*
+;   in the sequence.
+
+; Note: Random encounter maps *do* map back to a 'city'.
+
+; Note: Elevation names (for automap/saves) are in a separate
+;   message file, and are indexed based on (map #) * (MAX_ELEV)
+
+
+[Map 000]
+lookup_name=TestMap1
+map_name=02test
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 001]
+lookup_name=Tartar Parking 3
+map_name=tartar03
+music=Spark001
+ambient_sfx=gustwind:30, laughter:20, footste1:20, footstep:30
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 002]
+lookup_name=Tartar 1st Floor 1
+map_name=tartar11
+music=Spark001
+ambient_sfx=gntlwin1:15, gustwind:15, laughter:20, footste1:20, footstep:30
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 003]
+lookup_name=Tartar 1st Floor 2
+map_name=tartar12
+music=Breeding
+ambient_sfx=gntlwin1:15, gustwind:15, laughter:20, footste1:20, footstep:30
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 004]
+lookup_name=Tartar 1st Floor 3
+map_name=tartar13
+music=Breeding
+ambient_sfx=gntlwin1:15, gustwind:15, laughter:20, footste1:20, footstep:30
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 005]
+lookup_name=Tartar 2nd Floor 2
+map_name=tartar22
+music=Breeding
+ambient_sfx=electri1:15, electric:15, elevator:20, elevato1:15, steam:20, steam:15
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 006]
+lookup_name=Tartar 2nd Floor 3
+map_name=tartar23
+music=Breeding
+ambient_sfx=electri1:15, electric:15, elevator:20, elevato1:15, steam:20, steam:15
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 007]
+lookup_name=Tartar 3rd Floor 2
+map_name=tartar32
+music=Powered1
+ambient_sfx=electri1:20, elevato1:15, chemica1:15, mechpum1:10, mechpump:10, steam:20, blank:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 008]
+lookup_name=Tartar 3rd Floor 3
+map_name=tartar33
+music=Powered1
+ambient_sfx=electri1:15, electric:15, chemical:20, elevato1:15, steam:20, steam:15
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 009]
+lookup_name=Tartar Chistilische
+map_name=tarchist
+music=Limbo001
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 010]
+lookup_name=Tartar Exit
+map_name=tarexit
+music=dsrmstr1
+ambient_sfx=animal:20, gntlwind:30, gntlwin1:20, brdchir1:10, brdchirp:20
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 011]
+lookup_name=Tartar Parking 2
+map_name=tartar02
+music=Spark001
+ambient_sfx=gustwind:30, laughter:20, footste1:20, footstep:30
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 012]
+lookup_name=PN Passage
+map_name=pnpass
+music=Metro1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 013]
+lookup_name=PN Station
+map_name=pnpltfrm
+music=Metro2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 014]
+lookup_name=PN Hall
+map_name=pnhall
+music=Metro2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 015]
+lookup_name=PN City
+map_name=pncity01
+music=Metcity
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 016]
+lookup_name=PN City 2
+map_name=pncity02
+music=Metcity
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 017]
+lookup_name=PN City Basement
+map_name=pnunder
+music=darkplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 018]
+lookup_name=SJ Enter
+map_name=sjenter
+music=Sjenter
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 019]
+lookup_name=SJ Main1
+map_name=sjmain1
+music=Jackal1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 020]
+lookup_name=SJ Repairs
+map_name=sjrepair
+music=Jackal1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 021]
+lookup_name=SJ Baraks
+map_name=sjbaraks
+music=Jackal2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 022]
+lookup_name=SJ Store
+map_name=sjstore
+music=Jackal1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 023]
+lookup_name=SJ SCI21
+map_name=sjlabs
+music=Mistery1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 024]
+lookup_name=SJ Bunker
+map_name=sjbunker
+music=Jackal1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 025]
+lookup_name=SJ Plato
+map_name=sjplato
+music=Dsrmstr1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 026]
+lookup_name=SJ Chris Cave
+map_name=sjcave
+music=darkplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 027]
+lookup_name=NWO Enter
+map_name=nwenter
+music=Market
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 028]
+lookup_name=NWO Shop
+map_name=nwshop
+music=Workplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 029]
+lookup_name=NWO 2nd Floor
+map_name=nw2floor
+music=Workplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 030]
+lookup_name=NWO Basement
+map_name=nwbase
+music=Darkplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 031]
+lookup_name=NWO Backyard
+map_name=nwyard
+music=Calmplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 032]
+lookup_name=Livos Enter
+map_name=lventer
+music=Desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 033]
+lookup_name=Livos Trade
+map_name=lvtrade
+music=Market
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 034]
+lookup_name=Livos Living Rooms
+map_name=lvrooms
+music=richnmad
+ambient_sfx=lvshugar:15, lvlovvee:15, lvmrsman:20, lvlolpop:20, laughter:15, electric:5, footstep:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 035]
+lookup_name=Livos Techroom
+map_name=lvtech
+music=Workplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 036]
+lookup_name=Livos Filtering
+map_name=lvfilter
+music=Workplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 037]
+lookup_name=Livos Monster Cave
+map_name=lvcave
+music=Cavscry1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 038]
+lookup_name=RB Main
+map_name=rbmain
+music=Market
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 039]
+lookup_name=RB Arena
+map_name=rbarena
+music=Jackal2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 040]
+lookup_name=RB Arena Fight
+map_name=rbarenaf
+music=Combat1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 041]
+lookup_name=RB Fabric
+map_name=rbfabric
+music=Workplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 042]
+lookup_name=RB Basement
+map_name=rbunder
+music=Limbo001
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 043]
+lookup_name=RB Ants Ferm
+map_name=rbferm
+music=cavscry2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 044]
+lookup_name=Oazis Enter
+map_name=oaenter
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 045]
+lookup_name=Oazis Main
+map_name=oamain
+music=Trible
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 046]
+lookup_name=Oazis Cave
+map_name=oacave
+music=Darkplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 047]
+lookup_name=Fred House
+map_name=frhouse
+music=Desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 048]
+lookup_name=Warbase Enter
+map_name=wbenter
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 049]
+lookup_name=Warbase Bunker
+map_name=wbbunker
+music=Jackal2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 050]
+lookup_name=Tin Enter
+map_name=tienter
+music=Desert3
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 051]
+lookup_name=Tin Shop
+map_name=tishop
+music=Cavscry1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 052]
+lookup_name=Tin Basement
+map_name=tiunder
+music=x12lab
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 053]
+lookup_name=Renessance Enter
+map_name=rsenter
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 054]
+lookup_name=Renessance City
+map_name=rscity
+music=Mistery1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 055]
+lookup_name=Olympus Enter
+map_name=olenter
+music=Olgods
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 056]
+lookup_name=Olympus Horton
+map_name=olhorton
+music=Richcalm
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 057]
+lookup_name=Olympus Organics
+map_name=olorgnic
+music=Scient1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 058]
+lookup_name=Olympus Spawn
+map_name=olspawn
+music=Limbo001
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 059]
+lookup_name=Olympus Engineering
+map_name=olengnr
+music=Scient2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 060]
+lookup_name=Olympus Terass
+map_name=olterass
+music=olterass
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 061]
+lookup_name=Olympus Physics
+map_name=olphysic
+music=Scient2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 062]
+lookup_name=Olympus Hi Tech
+map_name=olhitech
+music=Olpower
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 063]
+lookup_name=Olympus Server
+map_name=olserver
+music=Space002
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 064]
+lookup_name=Olympus Top Floor
+map_name=oltop
+music=Limbo001
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 065]
+lookup_name=Olympus Anderson
+map_name=olfinal
+music=Epic
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 066]
+lookup_name=Special Trostniki
+map_name=sptrostn
+music=Hunting
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 067]
+lookup_name=Special Ursul Huntings
+map_name=sphunt
+music=desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 068]
+lookup_name=Special Chimeras
+map_name=spchimer
+music=Cavscry1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 069]
+lookup_name=Special Death Meadow
+map_name=spmeadow
+music=Dsrmstr1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 070]
+lookup_name=Random Desert 1
+map_name=desert1
+music=Desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 071]
+lookup_name=Random Desert 2
+map_name=desert2
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 072]
+lookup_name=Random Desert 3
+map_name=desert3
+music=Desert3
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 073]
+lookup_name=Random Desert 4
+map_name=desert4
+music=Desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 074]
+lookup_name=Random Desert 5
+map_name=desert5
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 075]
+lookup_name=Random Desert 6
+map_name=desert6
+music=Desert3
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 076]
+lookup_name=Random Desert 7
+map_name=desert7
+music=Desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 077]
+lookup_name=Random Desert 8
+map_name=desert8
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 078]
+lookup_name=Random Desert 9
+map_name=desert9
+music=Desert3
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 079]
+lookup_name=Random Desert 10
+map_name=desert10
+music=Desert1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 080]
+lookup_name=Random Meadow 1
+map_name=meadow1
+music=Meadow1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 081]
+lookup_name=Random Meadow 2
+map_name=meadow2
+music=Meadow1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 082]
+lookup_name=Random Meadow 3
+map_name=meadow3
+music=cavscry2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 083]
+lookup_name=Random Meadow 4
+map_name=meadow4
+music=Desert2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 084]
+lookup_name=Random Meadow 5
+map_name=meadow5
+music=Desert3
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 085]
+lookup_name=Random City 1
+map_name=city1
+music=Ruins1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 086]
+lookup_name=Random City 2
+map_name=city2
+music=Ruins1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 087]
+lookup_name=Random City 3
+map_name=city3
+music=Ruins1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 088]
+lookup_name=Random Coast 1
+map_name=coast1
+music=Coast1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 089]
+lookup_name=Random Coast 2
+map_name=coast2
+music=Coast1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 090]
+lookup_name=Fred 2nd floor
+map_name=fr2nd
+music=Calmplce
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 091]
+lookup_name=Random Rocks 1
+map_name=mount1
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 092]
+lookup_name=Random Rocks 2
+map_name=mount2
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 093]
+lookup_name=Random Rocks 3
+map_name=mount3
+music=cavscry2
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 094]
+lookup_name=Random Rocks 4
+map_name=mount4
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 095]
+lookup_name=Random Rocks 5
+map_name=mount5
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 096]
+lookup_name=Random Rocks 6
+map_name=mount6
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 097]
+lookup_name=Random Rocks 7
+map_name=mount7
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 098]
+lookup_name=Random Rocks 8
+map_name=mount8
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 099]
+lookup_name=Random Rocks 9
+map_name=mount9
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 100]
+lookup_name=Random Rocks 10
+map_name=mount10
+music=Rocks1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=No
+dead_bodies_age=No
+can_rest_here=No,No,No
+
+[Map 101]
+lookup_name=SJ Main2
+map_name=sjmain2
+music=Jackal1
+ambient_sfx=water:40, water1:25, animal:15 animal:10, pebble:5, pebble1:5
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 102]
+lookup_name=PS Market
+map_name=psmarket
+music=Coast1
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 103]
+lookup_name=PS Hospital
+map_name=pshospit
+music=Coast1
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 104]
+lookup_name=Biolabory N2
+map_name=spbiolab
+music=Cavscry1
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 105]
+lookup_name=Spec FireFly
+map_name=sxfirfly
+music=Calmplce
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 106]
+lookup_name=Spec Road
+map_name=sxroad
+music=Darkplce
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 107]
+lookup_name=Spec MadMax
+map_name=sxmax
+music=Combat1
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 108]
+lookup_name=Spec Dredd
+map_name=sxdredd
+music=Trible
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 109]
+lookup_name=Spec Tankgirl
+map_name=sxtank
+music=Jackal2
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 110]
+lookup_name=Spec ElyBook
+map_name=sxely
+music=Dsrmstr1
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 111]
+lookup_name=Spec LostVillage
+map_name=sxtown
+music=Meadow1
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 112]
+lookup_name=Spec SixString
+map_name=sxstring
+music=Richnmad
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, rattle1:15, vulture:10
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=Yes,Yes,Yes
+
+[Map 113]
+lookup_name=Spec Lumeniers
+map_name=spxlmnrs
+music=Scient2
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, blank:40
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No
+
+[Map 114]
+lookup_name=Spec DesertPirates
+map_name=spxbndts
+music=Sjenter
+ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, blank:40
+saved=Yes
+dead_bodies_age=Yes
+can_rest_here=No,No,No

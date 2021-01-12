@@ -1,0 +1,9 @@
+ // Map vars for Olympus Maps
+
+ // Comments
+
+
+MAP_GLOBAL_VARS:
+                                                NUMBER
+MVAR_test_1              :=0;            // (0)
+MVAR_test_2              :=0;            // (1)

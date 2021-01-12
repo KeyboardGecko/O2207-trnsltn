@@ -1,0 +1,9 @@
+ // Map vars for Olympus Maps
+
+ // Comments
+
+
+MAP_GLOBAL_VARS:
+                                                NUMBER
+MVAR_door_guard              :=0;            // (0)
+MVAR_trans_tip              :=0;            // (1)         

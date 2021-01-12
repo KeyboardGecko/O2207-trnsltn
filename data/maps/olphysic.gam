@@ -1,0 +1,8 @@
+ // Map vars for Olympus Maps
+
+ // Comments
+
+
+MAP_GLOBAL_VARS:
+                                                NUMBER
+MVAR_poor_lavash              :=0;            // (0)
