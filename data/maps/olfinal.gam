@@ -1,0 +1,9 @@
+ // Map vars for Olympus Maps
+
+ // Comments
+
+
+MAP_GLOBAL_VARS:
+                                                NUMBER
+MVAR_wall_start                  :=0;            // (0)
+MVAR_Anderson_death              :=0;            // (1)

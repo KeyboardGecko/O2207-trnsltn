@@ -1,0 +1,57 @@
+#
+# holodisk.txt
+#
+# Controls display of holodisks in the pipboy.
+#
+# format of each line is:
+#
+#   gvar, title, text
+#
+# where:
+#
+#   gvar is the GVAR_* number for the variable corresponding to the holodisk.
+#
+#   title is the number of the message in pipboy.msg with the title of the holodisk.
+#
+#   text is the number of the message in pipboy.msg where the text for the holodisk
+#     starts.  Numbers in the range of (text)-(text+500) are used for that holodisk.
+#
+
+# GVAR_DISK_JACKALS_DIARY
+103, 400, 1000
+
+# GVAR_DISK_JANGS_RESEARCHES
+104, 401, 2000
+
+# GVAR_DISK_WAR_CHRONICS
+105, 402, 3000
+
+# GVAR_DISK_WORKS_IN_RENESSANCE
+106, 403, 4000
+
+# GVAR_DISK_METAL_PD
+107, 404, 5000
+
+# GVAR_DISK_TARTARS_DIRECTIVE
+108, 405, 6000
+
+# GVAR_DISK_SHVAIN_DAIRY
+109, 406, 7000
+
+# GVAR_DISK_PROMO_OLYMPUS
+110, 407, 8000
+
+# GVAR_DISK_LUMENIERS
+111, 408, 9000
+
+# GVAR_DISK_NOVOBRANETS
+112, 409, 10000
+
+# GVAR_DISK_EVERYPONY
+113, 410, 11000
+
+# GVAR_DISK_RENESSANCE_CHECK
+114, 411, 12000
+
+# GVAR_DISK_BIOLABORY
+115, 412, 13000

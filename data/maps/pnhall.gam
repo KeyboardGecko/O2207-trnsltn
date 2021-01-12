@@ -1,0 +1,11 @@
+ // Map vars for Olympus Maps
+
+ // Comments
+
+
+MAP_GLOBAL_VARS:
+                                                NUMBER
+MVAR_BONO_how_go_to_Tartar              :=0;            // (0)
+MVAR_WC_door                            :=0;            // (1)
+MVAR_killed_rats_in_WC                  :=0;            // (2)
+MVAR_WC_is_cleaned                      :=0;            // (3)

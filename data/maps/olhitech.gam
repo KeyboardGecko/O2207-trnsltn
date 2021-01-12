@@ -1,0 +1,9 @@
+ // Map vars for Olympus Maps
+
+ // Comments
+
+
+MAP_GLOBAL_VARS:
+                                                NUMBER
+MVAR_test_the_armor              :=0;            // (0)
+MVAR_go_for_party                :=0;            // (1)
