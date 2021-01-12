@@ -1,24 +1,24 @@
 ##############################
-#‹®ª ζ¨ο: ¥ι¥ΰλ ¥¦¨β¨
-#¬ο:  ΰβ 
-#ΰ βª®¥ ®―¨α ­¨¥:  βμ ‹¨«¨ ¨ ­¥­ Ά¨αβ ­¨ζ  ¬¥ΰβΆοª®Ά.
-#„ β  α®§¤ ­¨ο: 05.05.2014
+#β€ΉΒ®ΒªΒ Γ¦Β¨Γ―: ΒΒ¥Γ©Β¥Γ Γ« ΒΒ¥Β¦Β¨ΓΆΒ¨
+#Λ†Β¬Γ―: Ε’Β Γ ΓΆΒ 
+#Ε Γ Β ΓΆΒªΒ®Β¥ Β®Β―Β¨Γ΅Β Β­Β¨Β¥: Ε’Β ΓΆΓ¬ β€ΉΒ¨Β«Β¨ Β¨ Β­Β¥Β­Β ΒΆΒ¨Γ΅ΓΆ Β­Β¨Γ¦Β  Β¬Β¥Γ ΓΆΒΆΓ―ΒªΒ®ΒΆ.
+#β€Β ΓΆΒ  Γ΅Β®Β§Β¤Β Β­Β¨Γ―: 05.05.2014
 ##############################
-#„«ο ¨£ΰλ "«¨¬― 2207"
-#€ΰβ¥¬ "Rainman" ‘ ¬®©«®Ά
+#β€Β«Γ― Β¨Β£Γ Γ« "Ε½Β«Β¨Β¬Β― 2207"
+#β‚¬Γ ΓΆΒ¥Β¬ "Rainman" β€Β Β¬Β®Β©Β«Β®ΒΆ
 ##############################
 #
-#‘€… ’’…€
+#Ε½ΒΛ†β€β‚¬ΒΛ†β€¦ Ε ΒΛ†β€™β€™β€¦Ββ‚¬
 #
-# ¤® §­ ª®¬αβΆ 
+# Β¤Β® Β§Β­Β ΒªΒ®Β¬Γ΅ΓΆΒΆΒ 
 {1}{}{You see: a skinny woman.}
 {2}{}{She looks very nervous.}
 #
-# ―®α«¥ §­ ª®¬αβΆ 
+# Β―Β®Γ΅Β«Β¥ Β§Β­Β ΒªΒ®Β¬Γ΅ΓΆΒΆΒ 
 {3}{}{You see: Martha.}
 {4}{}{This is Martha - mother of Lily, the only child on this station.}
 #
-#‡„…‘ €—€…’‘ „€‹ƒ
+#β€΅β€β€¦β€Ε“ Ββ‚¬β€”Λ†Ββ‚¬β€¦β€™β€ΕΈ β€Λ†β‚¬β€ΉΕ½Ζ’
 #
 #Node001
 {10}{}{What do you want from me!?}
@@ -34,7 +34,7 @@
 {23}{999}{Oh, glad to meet. All the best.}
 
 #Node003
-{30}{}{I'm glat you asked, }
+{30}{}{I'm glad you asked, }
 {31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are sumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
 {32}{QA}{Calm the little girl? Of course I can do that [go to Lily]}
 {33}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
