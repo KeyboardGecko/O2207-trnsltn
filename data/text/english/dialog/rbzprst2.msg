@@ -29,103 +29,103 @@
 #
 #ОПИСАНИЕ ПЕРСОНАЖА
 #
-{1}{}{Вы видите: шлюха.}
-{2}{}{Вы видите: проститутка.}
-{3}{}{Вы видите: жрица любви.}
-{4}{}{Вы видите: путана.}
-{5}{}{Вы видите: ночная бабочка.}
-{6}{}{Она напоминает порнозвезду, которой пора на покой.}
-{7}{}{Почему-то ее фотография на доске у входа выглядит намного привлекательнее...}
-{8}{}{У нее засохшие белые пятна в самых разных местах ее одежды.}
-{9}{}{На свой вырвиглазный макияж она тратит вряд ли больше двух минут.}
+{1}{}{You see: a hooker.}
+{2}{}{You see: a prostitute.}
+{3}{}{You see: a love priestess.}
+{4}{}{You see: lady of the evening.}
+{5}{}{You see: nightfly.}
+{6}{}{She looks like a porn star in retirement.}
+{7}{}{For some reason, her photo, pinned, near the entrance, looks much more attractive...}
+{8}{}{She has dry white stains in the most unusual places of her clothes.}
+{9}{}{It's unlikely she spends more than a couple of minutes on her obnoxious make-up.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[манит Вас пальчиком]}
-{11}{}{Давай же, ковбой, седлай меня!}
-{12}{}{Я покажу тебе ворота в рай, сладенький.}
-{13}{}{Если захочешь - ручками, ножками, губками.}
-{14}{}{Ты платишь, говоришь - и я делаю, супермен.}
-{15}{}{27 батареек - и я твоя [подмигивает]}
-{16}{}{Не слышу звона батареек, красавчик.}
-{17}{}{Любая твоя мечта - всего за 27 батареек.}
-{18}{}{Спереди, сзади, вверх ногами - 27 батареек за сеанс.}
+{10}{}{[invites you with a finger]}
+{11}{}{Come, ride me, cowboy!}
+{12}{}{I'm gonna show you the gates of heaven, my sweet pie.}
+{13}{}{As you want it - with hands, legs, lips.}
+{14}{}{You pay, you say - I do, my superman.}
+{15}{}{27 batteries - and I'm all yours [winks]}
+{16}{}{I still can't hear the clanking of batteries, my pretty boy.}
+{17}{}{Any dream - for 27 batteries only.}
+{18}{}{To the front, to the back, upside-down - 27 batteries for a run.}
 {19}{}{}
-{101}{}{Ёей, милый, я помню про таксу - раз в две недели, а? Я же тебе платила не так давно.}
-{102}{}{Но-но, красавчик - процент плачу только раз в две недели, как уговаривались!}
-{103}{}{Да ты не горячись, просто проверяю, что ты не забыла и не прогуляла мои 10 процентов.}
-{104}{}{За мздой пришел, а? На, держи свои 10 процентов. Все что есть.}
-{105}{}{Смотрите-ка, какой большой налоговый орган пришел за своим процентом! Вот, держи, "хозяин"!}
-{106}{}{Да-да, раз в две недели... [отсыпает Вам батарейки] Вот, начальник, все что набралось.}
-{107}{}{[забрать батарейки] Не выкобенивайся тут, а то отправлю ручных шакалов обслуживать.}
+{101}{}{Hey, honey, I remember about the tax twice a week! I paid you not too long ago!}
+{102}{}{No sweetie, I'm paying twice a week, just as we agreed!}
+{103}{}{Don't get all hot-headed, just checking that you didn't forget about my 10 percent.}
+{104}{}{Came to collect? Here, take your 10 percent. All I have.}
+{105}{}{Look at that big bad tax autority, came for his percent! Here, "master", take it!}
+{106}{}{Yeah-yeah, twice a week... [gives you batteries] Here boss, all I could gather.}
+{107}{}{[take the batteries] Don't get too sassy or I'll put you under a pet jackals.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Приветик, малыш!}
-{1001}{}{Любой каприз за твои деньги!}
-{1002}{}{Я лучшая, говорю тебе.}
-{1003}{}{Я умею как пылесос. Не знаю что это, но все же все так говорят.}
-{1004}{}{Золотой дождь не входит в перечень услуг.}
-{1005}{}{Нет, я не позволяю себя связывать.}
-{1006}{}{Не найдется закурить?}
-{1007}{}{[Эротично оттопыривает зад]}
-{1008}{}{[Облизывает палец]}
-{1009}{}{[Ласкает себя]}
+{1000}{}{Heeey baby!}
+{1001}{}{Any whim for your batteries!}
+{1002}{}{I'm the best, I tell you.}
+{1003}{}{I can do better than vacuum cleaner. Don't know what it is, but everybody says so.}
+{1004}{}{Golden rain is not included.}
+{1005}{}{No, you can't tie me up.}
+{1006}{}{Have a cigarette?}
+{1007}{}{[erotically puts out her rear]}
+{1008}{}{[licks finger]}
+{1009}{}{[touches herself]}
 # Нейтральные сообщения
-{1010}{}{За отдельную плату могу надеть костюм животного...}
-{1011}{}{Сегодня сзади закрыто.}
-{1012}{}{Я страстная госпожа, если у тебя есть чем заплатить...}
-{1013}{}{Малыш, а деньги-то у тебя есть?}
-{1014}{}{Ух ты, твой маленький Джимми потянулся ко мне... какая прелесть.}
-{1015}{}{Давай, красавчик, ты не пожалеешь!}
-{1016}{}{[Играет со своей грудью]}
-{1017}{}{[Призывно виляет попкой]}
-{1018}{}{[Крутит в руках дилдо]}
-{1019}{}{::томно постанывает::}
+{1010}{}{For a price I can wear animal costume...}
+{1011}{}{Today back door is closed.}
+{1012}{}{I'm a passionate mistress, If you can afford it...}
+{1013}{}{Baby, do you even have the batteries?}
+{1014}{}{Wow, your lil'Jimmy reached out to me... So cute!}
+{1015}{}{Come on, beautiful, you won't regret it!}
+{1016}{}{[plays with her boobs]}
+{1017}{}{[wags her butt]}
+{1018}{}{[flails a dildo]}
+{1019}{}{::moans::}
 # Отрицательные сообщения
-{1020}{}{Заморышам не даю.}
-{1021}{}{Свали!}
-{1022}{}{Уйди!}
-{1023}{}{С глаз долой!}
-{1024}{}{Проваливай!}
-{1025}{}{Не для таких как ты я сегодня брила киску!}
-{1026}{}{Мелкий, у тебя еще даже яйца мхом не обросли!}
-{1027}{}{Иди сначала хотелку отрасти!}
-{1028}{}{Уберите этого говнюка от меня!}
-{1029}{}{Пшел нах!}
+{1020}{}{Losers will not get lucky with me.}
+{1021}{}{Get off!}
+{1022}{}{Get lost!}
+{1023}{}{Get out!}
+{1024}{}{Get away!}
+{1025}{}{Not for the likes of you I shaved my pussy today!}
+{1026}{}{Little one, there's not even a little moss growing on your balls!}
+{1027}{}{Go grow up your wand!}
+{1028}{}{Get this shitter off me!}
+{1029}{}{Get the fuck away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1034}{}{::м-у-у-а-а-а-м-м-м...::}
-{1035}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1036}{}{::м-у-у-а-а-а-м-м-м...::}
-{1037}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1038}{}{::м-м-м-а-а-м-м...::}
-{1039}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Mhmhmrm...::}
+{1032}{}{::Mmmmhyaaaaaghmm...::}
+{1033}{}{::Uuhhhrmm...::}
+{1034}{}{::Mmmyammmm...::}
+{1035}{}{::Aaaaarhmhmmm...::}
+{1036}{}{::Myammmhmmm...::}
+{1037}{}{::Zzzzzzzzzz...::}
+{1038}{}{::Mmmmmummmmm...::}
+{1039}{}{::Uhhhhhhmmmrmrm...::}
 #МЫСЛИ ВСЛУЁ
 #Стандартные
-{1040}{}{Скорей бы конец смены...}
-{1041}{}{Черт, что ж так промежность горит-то...}
-{1042}{}{[Поправляет волосы]}
-{1043}{}{[Пытается оттереть белое пятно с одежды]}
-{1044}{}{[Ковыряется в зубах]}
+{1040}{}{Can't wait for the end of my shift...}
+{1041}{}{Damn, my crotch is BURNING...}
+{1042}{}{[adjusts her hair]}
+{1043}{}{[tries to cover some spot on her clothes]}
+{1044}{}{[picks her teeth]}
 #Кабан убит игроком
-{1045}{}{Черт, куда же я дела сигареты?}
-{1046}{}{Что ж теперь будет?}
-{1047}{}{::кашляет::}
-{1048}{}{[Растерянно смотрит по сторонам]}
-{1049}{}{Все через жопу...}
+{1045}{}{Damn, where did I put my cigarettes?}
+{1046}{}{What's going to happen now?}
+{1047}{}{::coughs::}
+{1048}{}{[distractedly looks around]}
+{1049}{}{All went to shit...}
 #Наоми Янг сбежала
-{1050}{}{Может тоже сбежать куда-нибудь?}
-{1051}{}{Ёмм...}
-{1052}{}{Еще один день полный говна.}
-{1053}{}{Цены растут на все, кроме моей задницы... что-то тут не то...}
-{1054}{}{[Что-то оттирает с подбородка]}
+{1050}{}{Maybe I should run away too?}
+{1051}{}{Hmm...}
+{1052}{}{One more day full of shit.}
+{1053}{}{The prices are rising on everything, except my ass... Something's not right here...}
+{1054}{}{[scrubs something white off her chin]}
 #Наоми Янг сделала каплю сильнее
-{1055}{}{::хмх::}
-{1056}{}{::мррр::}
-{1057}{}{[Она стоит смотря вникуда. Когда Вы подходите ближе она словно просыпается]}
-{1058}{}{::смех::}
-{1059}{}{Мне давно не было так хорошо...}
+{1055}{}{::Hmh::}
+{1056}{}{::Mhrhm::}
+{1057}{}{[She is staring blankly. When you come closer she almost wakes up]}
+{1058}{}{::laughs::}
+{1059}{}{I haven't felt so good in a long time...}
