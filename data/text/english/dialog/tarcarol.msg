@@ -24,18 +24,18 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Кэрол.}
-{2}{}{Кэрол - девушка-ремонтник, само воплощение феминизма!}
+{1}{}{You see: Carol.}
+{2}{}{Carol - a repairwoman, the walking definition of feminism!}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Кэрол.}
-{4}{}{Кэрол - девушка-ремонтник, само воплощение феминизма!}
+{3}{}{You see: Carol.}
+{4}{}{Carol - a repairwoman, the walking definition of feminism!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ты кто такой?}
-{11}{}{Я - герой!}
+{10}{}{Who are you?}
+{11}{}{I'm a hero!}
 {12}{}{}
 {13}{}{}
 {14}{}{}
@@ -47,54 +47,54 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Та-ак, никак мужчинке не обойтись без женской помощи, а?}
-{101}{}{Что тебе еще?}
+{100}{}{Well-well, looks like a boy needs a heping hand from a girl?}
+{101}{}{What do you want?}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
 # Положительные сообщения
-{1000}{}{Привет, красавчик!}
-{1001}{}{Здравствуй! Как дела?}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Приветик! Как жизнь?}
-{1004}{}{Я бы с радостью поболтала, но... Давай в другой раз.}
-{1005}{}{Рада тебя видеть! Не хочешь вместе заняться починкой кровати?}
-{1006}{}{А что, может, поболтаем? Ну, как хочешь.}
-{1007}{}{У меня есть кое-что для тебя. Ну ладно, потом поговорим.}
-{1008}{}{Заглядывай почаще, мачо!}
-{1009}{}{Ну конечно! Обращайся в любое время!}
+{1000}{}{Hey beautiful!}
+{1001}{}{Hello! How are you?}
+{1002}{}{Well, hello there!}
+{1003}{}{Hi! How are you?}
+{1004}{}{I would gladly stop and chat... But let's do it some other time.}
+{1005}{}{So glad to see you! Want to repair a bed together?}
+{1006}{}{Maybe wanna chat? Suit yourself.}
+{1007}{}{I have something for you. Okay, let's talk later.}
+{1008}{}{Come again, big boy!}
+{1009}{}{Of course! Come back anytime!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занята.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Нет, сейчас не до тебя. Здесь постоянно что-то ломается.}
-{1013}{}{Эй, слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Знаешь, я бы и не против, но сейчас мне некогда.}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо.}
-{1017}{}{В другой раз, хорошо? Мне нужно еще залатать эти котлы.}
-{1018}{}{Оох... Ну что опять? Ты видишь, я чиню эти чертовы механизмы!}
-{1019}{}{Ой, слушай, давай немного попозже поговорим, а?}
+{1010}{}{Don't talk to me, I'm busy.}
+{1011}{}{Can't you see? I'm busy.}
+{1012}{}{No, I can't talk to you right now. There's always something here that's broken.}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{You know, I actually don't mind - but I'm busy now.}
+{1015}{}{Listen, don't touch me, let me rest a little.}
+{1016}{}{What else do you want?}
+{1017}{}{Some other time, okay? I need to repair that damn reservoirs.}
+{1018}{}{Sheeesh... Again? See, I'm fixing that freaking mechanisms!}
+{1019}{}{Oh. Listen, let's talk a litte later, m?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел отсюда!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого черта тебе от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?!}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Парам-пам-пам!}
-{1031}{}{Мужики, мужики. Ничего сами не могут.}
-{1032}{}{Та-ак, эту фиговину в эту штуковину.}
-{1033}{}{Что за?... Кто стащил мой ключ?}
-{1034}{}{Ладно, и так разберемся.}
-{1035}{}{Ничего-ничего, щас все заработает.}
-{1036}{}{Ну вот чего здесь сложного?}
-{1037}{}{А все кто виноват? Правильно, мужланы!}
-{1038}{}{...а нечего было меня подкалывать.}
-{1039}{}{[что-то мурлычет под нос]}
+{1030}{}{La-dee-dah!}
+{1031}{}{Men. Can't do shit by themselves.}
+{1032}{}{So, this thingie goes into that thingie.}
+{1033}{}{What the?... Who took my wrench?}
+{1034}{}{Screw that, I'll do fine without it.}
+{1035}{}{Okay, it's gonna work in a minute.}
+{1036}{}{There! Was that so difficult?}
+{1037}{}{And who's fault is that? Right! Bozos!}
+{1038}{}{...all because of a little nudge.}
+{1039}{}{[mumbles something under her nose]}

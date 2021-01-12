@@ -8,23 +8,23 @@
 # Это - сломаный станок без детали в НМП, который нужно починить
 #
 # Описание 1
-{1}{}{Вы видите: какое-то устройство.}
-{2}{}{Вы видите: механизм конвейера.}
+{1}{}{You see: some kind of mechanism.}
+{2}{}{You see: a conveyor machinery.}
 
 # Описание 2
-{3}{}{Ёмм, похоже эта штуковина не работает.}
-{4}{}{Отремонтировано Вашими золотыми руками!}
-{5}{}{Ничего, Ёуан починит этот механизм.}
-{6}{}{Нужно заставить эту штуковину работать.}
+{3}{}{Looks like this thing does not work.}
+{4}{}{Fixed with your hands of gold!}
+{5}{}{No worries, Juan will repair this.}
+{6}{}{Need to make this junk work.}
 
 # Действия
-{6}{}{Ффррр... Чего-то тут не хватает.}
-{7}{}{Так-так... Вот тут явно должен стоять распределитель..}
-{8}{}{Ёмм, кто-то вырвал распределитель прямо с проводами...}
-{9}{}{Нет, Ёуан это сделает лучше.}
-{10}{}{Ну-жу, еще немного... Готово! Оно будет работать и без недостающей детали!}
-{11}{}{Э-эх, немного не получилось! Кропотливая работа...}
-{12}{}{Нет, Вы слишком неумелы в этом вопросе.}
+{6}{}{Hrrrmhrm... Something's missing here.}
+{7}{}{Well now... There should definitely be allocator here..}
+{8}{}{Oh! Someone ripped the allocator out, together with parts and cords...}
+{9}{}{No, Juan will do this job a lot better.}
+{10}{}{Come one, just a little more... Got it! Now it should work without the needed part!}
+{11}{}{Oh man, I can't! A painstaking work to do...}
+{12}{}{No, you are too inexperienced with this task.}
 {13}{}{}
 {14}{}{}
 {15}{}{}

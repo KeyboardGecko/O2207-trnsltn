@@ -29,96 +29,96 @@
 #
 #ОПИСАНИЕ ПЕРСОНАЖА
 #
-{1}{}{Вы видите: местная секс-бомба.}
-{2}{}{Вы видите: полуобнаженная девица.}
-{3}{}{Вы видите: артистка грудей и шеста.}
-{4}{}{Вы видите: стриптизерша.}
-{5}{}{Вы видите: танцовщица.}
-{6}{}{Такое чуство, что ее задница поставлена в режим вибрации.}
-{7}{}{Когда она улыбается, то показывает неровную шашечку зубов.}
-{8}{}{От нее воняет потом, паршивым табаком, дешевым пойлом и... чем-то еще.}
-{9}{}{Кажется, ее учил танцевать лаваш во время брачного периода.}
+{1}{}{You see: a local sex-bomb.}
+{2}{}{You see: a half-naked girl.}
+{3}{}{You see: an artist of pole and boobs.}
+{4}{}{You see: a stripper.}
+{5}{}{You see: a dancer.}
+{6}{}{Looks like her ass in set on a vibration mode.}
+{7}{}{When she smiles, her checkered teeth are shown.}
+{8}{}{She smells sweat, bad tobacco, cheap booze and... something else.}
+{9}{}{Looks like her dancing teacher was some lavash in mating period.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{101}{}{Ёей, милый, я помню про таксу - раз в две недели, а? Я же тебе платила не так давно.}
-{102}{}{Но-но, красавчик - процент плачу только раз в две недели, как уговаривались!}
-{103}{}{Да ты не горячись, просто проверяю, что ты не забыла и не прогуляла мои 10 процентов.}
-{104}{}{За мздой пришел, а? На, держи свои 10 процентов. Все что есть.}
-{105}{}{Смотрите-ка, какой большой налоговый орган пришел за своим процентом! Вот, держи, "хозяин"!}
-{106}{}{Да-да, раз в две недели... [отсыпает Вам батарейки] Вот, начальник, все что набралось.}
-{107}{}{[забрать батарейки] Не выкобенивайся тут, а то отправлю ручных шакалов обслуживать.}
+{101}{}{Hey, honey, I remember about the tax twice a week! I paid you not too long ago!}
+{102}{}{No sweetie, I'm paying twice a week, just as we agreed!}
+{103}{}{Don't get all hot-headed, just checking that you didn't forget about my 10 percent.}
+{104}{}{Came to collect? Here, take your 10 percent. All I have.}
+{105}{}{Look at that big bad tax autority, came for his percent! Here, "master", take it!}
+{106}{}{Yeah-yeah, twice a week... [gives you batteries] Here boss, all I could gather.}
+{107}{}{[take the batteries] Don't get too sassy or I'll put you under a pet jackals.}
 {17}{}{}
 {18}{}{}
 {19}{}{}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{А?}
-{1001}{}{Привет, симпатяга!}
-{1002}{}{Ёочешь потрогать?}
-{1003}{}{Похоже, у кого-то проснулся маленький друг?}
-{1004}{}{Нет, я сегодня не обслуживаю клиентов.}
-{1005}{}{Ёочешь облизать?}
-{1006}{}{[Показательно облизывает губы]}
-{1007}{}{[Соблазнительно играет языком]}
-{1008}{}{[Она подмигнула Вам]}
-{1009}{}{[Закусила нижнюю губу, хищно поглядывая на посетителей]}
+{1000}{}{Hm?}
+{1001}{}{Hey sweetie!}
+{1002}{}{Wanna touch it?}
+{1003}{}{Looks like someone has his little frend woken up?}
+{1004}{}{No, I'm not serving clients today.}
+{1005}{}{Wanna lick it?}
+{1006}{}{[licks her lips with a tempting look]}
+{1007}{}{[seductively plays with her tong]}
+{1008}{}{[she winked at you]}
+{1009}{}{[bites her lip, cougarly looking at the customers]}
 # Нейтральные сообщения
-{1010}{}{Сегодня я только танцую.}
-{1011}{}{Либо плати, либо отвали. Поболтать не бесплатно.}
-{1012}{}{Ну что?}
-{1013}{}{[Крутит грудью]}
-{1014}{}{[Томно дышит, смотря на Вас]}
-{1015}{}{[Неуклюже пританцовывает]}
-{1016}{}{[Оттягивает трусики, демонстрируя себя клиентам]}
-{1017}{}{Кто хочет погорячее?}
-{1018}{}{[С нее стекают капельки пота]}
-{1019}{}{[Она чуть подалась вперед, сжимая свои груди в руках]}
+{1010}{}{Today I'm dance only.}
+{1011}{}{Either pay, or get off. Talk is not for free.}
+{1012}{}{What?}
+{1013}{}{[spins her breasts]}
+{1014}{}{[looks at you, sensually breathing]}
+{1015}{}{[dances clumsily]}
+{1016}{}{[pulls out her panties, demonstrating herself to the clients]}
+{1017}{}{Someone likes it hot.}
+{1018}{}{[a couple of sweat drops are running down her forehead]}
+{1019}{}{[she leans forward, squeezing her breasts]}
 # Отрицательные сообщения
-{1020}{}{За посмотреть тоже платить надо.}
-{1021}{}{Отвали, я не даю сегодня.}
-{1022}{}{Скройся, урод.}
-{1023}{}{Ты вызываешь у меня рвотные позывы.}
-{1024}{}{Мерзкий мелкий похотливый сучонок!}
-{1025}{}{Иди до столба докопайся.}
-{1026}{}{Оттрахай себя сам.}
-{1027}{}{Тебе наверное только трупы дают?}
-{1028}{}{[Показывает Вам средний палец]}
-{1029}{}{[Показывает Вам два средних пальца]}
+{1020}{}{You pay for looking too.}
+{1021}{}{Get off, I'm not in the mood today.}
+{1022}{}{Get lost, freak.}
+{1023}{}{You are making me want to puke.}
+{1024}{}{Disgusting little filthy son of a bitch!}
+{1025}{}{Go talk to that pole.}
+{1026}{}{Fuck yourself.}
+{1027}{}{You must be having luck only with corpses.}
+{1028}{}{[gives you middle finger]}
+{1029}{}{[gives you two middle fingers]}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1034}{}{::м-у-у-а-а-а-м-м-м...::}
-{1035}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1036}{}{::м-у-у-а-а-а-м-м-м...::}
-{1037}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1038}{}{::м-м-м-а-а-м-м...::}
-{1039}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Mhmhmrm...::}
+{1032}{}{::Mmmmhyaaaaaghmm...::}
+{1033}{}{::Uuhhhrmm...::}
+{1034}{}{::Mmmyammmm...::}
+{1035}{}{::Aaaaarhmhmmm...::}
+{1036}{}{::Myammmhmmm...::}
+{1037}{}{::Zzzzzzzzzz...::}
+{1038}{}{::Mmmmmummmmm...::}
+{1039}{}{::Uhhhhhhmmmrmrm...::}
 #МЫСЛИ ВСЛУЁ В ГРИМЕРКЕ
 #Стандартные
-{1040}{}{Как меня задолбали эти банки спермы ходячие...}
-{1041}{}{Черт, ну куда делись сигареты?}
-{1042}{}{[Поправляет подвязку на ноге]}
-{1043}{}{[Курит]}
-{1044}{}{Как меня все задолбало...}
+{1040}{}{I'm so sick of all these walking sperm banks...}
+{1041}{}{Damn, where did my cigarettes go?}
+{1042}{}{[adjusts her garter on a leg]}
+{1043}{}{[smokes]}
+{1044}{}{I'm tired of everything...}
 #Кабан убит игроком
-{1045}{}{Эх, такой мужик был...}
-{1046}{}{[Прикуривает очередную сигарету от предыдущей, продолжает курить]}
-{1047}{}{За что Кабанчика вальнули...}
-{1048}{}{Нам терь полюбому так жить недолго осталось.}
-{1049}{}{::бормочет::}
+{1045}{}{What a man he was...}
+{1046}{}{[lights the next cigarette using previous one. Continues to smoke]}
+{1047}{}{Why Hog was put down...}
+{1048}{}{We definitely don't have much time left to live like that.}
+{1049}{}{::mumbles::}
 #Наоми Янг сбежала
-{1050}{}{А молодец эта сучка, сбежала...}
-{1051}{}{Может толкнуть свои запасы капли втридорога?}
-{1052}{}{[Чиркает зажигалкой в попытке прикурить сигарету]}
-{1053}{}{Пффф...}
-{1054}{}{Что же дальше будет?}
+{1050}{}{That bitch is smart. Managed to get away...}
+{1051}{}{Maybe I should sell my stash of drop to a highest bidder.}
+{1052}{}{[tries to light the cigarette and fails]}
+{1053}{}{Pffft...}
+{1054}{}{What's next, I wonder?}
 #Наоми Янг сделала каплю сильнее
-{1055}{}{Как меня достали эти лунатики...}
-{1056}{}{Кажется они вообще смотрят в... себя.}
-{1057}{}{[Выдыхает густой сигаретный дым, закашливается]}
-{1058}{}{[Меняет наряд для следующего выхода]}
-{1059}{}{::бормочет::}
+{1055}{}{I'm so sick of all these lunatics...}
+{1056}{}{It's like they look not at me, but... into themselves.}
+{1057}{}{[puts out a cloud of a heavy cigarette smoke, coughs up]}
+{1058}{}{[tries to change her clothes for the next round]}
+{1059}{}{::mumbles::}

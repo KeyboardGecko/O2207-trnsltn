@@ -24,13 +24,13 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: доктор Пэт.}
-{2}{}{Доктор Пэт - сын Богов, он обеспечивает жителей Тартара нужными лекарствами.}
+{1}{}{You see: dr. Pat.}
+{2}{}{dr. Pat - son of the gods, he provides residents of Tartarus with necessary medications.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: доктор Пэт.}
-{4}{}{Доктор Пэт - сын Богов, он обеспечивает жителей Тартара нужными лекарствами.}
+{3}{}{You see: dr. Pat.}
+{4}{}{dr. Pat - son of the gods, he provides residents of Tartarus with necessary medications.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
@@ -47,32 +47,32 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Привет, малыш! Что ты хотел?}
-{101}{}{Здравствуйте, доктор Пэт! Давайте меняться!}
-{102}{}{Добрый день, доктор! Я просто гуляю здесь. Ну, я пойду.}
-{103}{}{Доктор, доктор! Маме Кэтти очень плохо, дайте, пожалуйста, вашего лекарства!}
-{110}{}{Что-нибудь еще, мальчик мой?}
-{111}{}{Не-а, я потом еще Вас навещу!}
-{112}{}{А покажите еще раз, что у Вас есть?}
+{100}{}{Hey there, little one! What did you want?}
+{101}{}{Hello dr. Pat! Let's trade!}
+{102}{}{Good day doctor! I'm just walking here. I need to go.}
+{103}{}{Doctor! Catty's mom is very sick, give her some medicine please!}
+{110}{}{Anything else, my boy?}
+{111}{}{Nah, I'll come to you again later!}
+{112}{}{Can you show me again what do you have?}
 
-{113}{}{Я бы не смог помочь в любом случае, малыш. У меня не осталось ни одной инъекции "рад-аут".}
-{114}{}{Как жа-а-а-алко-о-о... Ну ладно, может еще где найду.}
-{115}{}{А покажите еще раз, что у Вас есть?}
+{113}{}{I couldn't be of any help, my boy. I'm completely out of "RadOut".}
+{114}{}{Too baaaaaad... Okay then, I'll look somewhere else.}
+{115}{}{Can you show me again what do you have?}
 
-{120}{}{Ты понимаешь, я ведь уже давал Стэлле лекарство на этой неделе... Если я еще раз выдам ей лекарство, то в следующий раз его не достанется кому-то другому...}
-{121}{}{Но, ведь кому-то другому сейчас не так плохо, как маме Кэтти! Ей сейчас лекарство гораздо нужнее!}
-{122}{}{Но ведь ей очень-очень плохо, доктор!}
-{130}{}{Ну-у, что ж... Держи, но это в первый и последний раз! Стэлла не должна перенапрягаться, и с ней все будет в порядке.}
-{131}{}{Спасибище, доктор!}
-{132}{}{[пробубнить под нос] ...она делает столько, сколько от нее просят Боги... Спасибо, доктор!}
-{140}{}{Нет, так делать неправильно. Я не могу просто так тебе дать "Рад-Аут". Можем, если хочешь, на что-нибудь поменяться.}
-{141}{}{Ммм... давайте поменяемся...}
-{142}{}{Но до-о-октор... У меня нет ничего полезного. Ладно, я пойду.}
-{143}{}{[пробубнить под нос] надеюсь, совесть тебя загрызет... До свиданья, доктор.}
-{200}{}{Ну привет [он смотрит куда-то сквозь Вас] Что нужно?}
-{201}{}{Еще что-нибудь?}
-{202}{}{Что у тебя есть из "вкусненького"?}
-{203}{}{Да, пожалуй, ничего. Я пойду.}
+{120}{}{You should understand, I already gave Stella the medicine this week... If I do it again for her, someone else might be not getting it.}
+{121}{}{But this someone else doesn't feel so sick as she does!! Catty's mom needs medicine more that anyone now!}
+{122}{}{But she feels very-very sick, doctor!}
+{130}{}{Well... Okay, here you go, but this is the last time! Stella should rest more and she will be fine.}
+{131}{}{A great thanks, doctor!}
+{132}{}{[mumble] ...She does everything the gods ask... Thanks, doctor!}
+{140}{}{No, it's not right. I can't just give you "RadOut". I can trade it, if you want.}
+{141}{}{Hmm... Let's trade...}
+{142}{}{But doooctoooor... I have nothing valuable. Okay, I'll go.}
+{143}{}{[mumble] You'll bear it on your conscience... Goodbye, doctor.}
+{200}{}{Well, hello [he looks through you]. Need something?}
+{201}{}{Something else?}
+{202}{}{What "frest things" do you have?}
+{203}{}{Nothing. I'll go.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
