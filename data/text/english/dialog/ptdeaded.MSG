@@ -1,0 +1,34 @@
+# Данный файл описывает сообщения,
+# использующиеся в скриптах сценери
+#
+# Created by Artem "Rainman" Samoylov
+# 30/07/2013
+#
+# ЧТО ЭТО?
+# Это - труп отца Санни в Пирсон-Таун
+#
+# Описание 1
+{1}{}{You see: man's corpse.}
+{2}{}{You see: remains of Sunny's father.}
+
+# Описание 2
+{3}{}{Looks like he is dead for a couple of days now. His death was horrible - he is completely torn apart.}
+{4}{}{The man lies here for a couple of days, probably, he is the Sunny's father. He is completely torn apart - his death was unpleasant.}
+
+# Действия
+{5}{}{He's got nothing on him - only rotting pieces of meat hanging from his mauled bones.}
+{6}{}{}
+{7}{}{}
+{8}{}{}
+{9}{}{}
+{10}{}{}
+{11}{}{}
+{12}{}{}
+{13}{}{}
+{14}{}{}
+{15}{}{}
+{16}{}{}
+{17}{}{}
+{18}{}{}
+{19}{}{}
+{20}{}{}

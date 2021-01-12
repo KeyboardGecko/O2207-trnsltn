@@ -1,0 +1,3098 @@
+;
+; Worldmap datafile
+; Fallout 2
+;
+
+
+; Note: Max line length is _MAX_PATH, which is 144 under watcom 10.6/Dos
+
+; Note: For speedup, it could save out *all* of this info into a file
+;   and if the timestamp on the source is later than this saved file,
+;   just rebuild the file.  This would be a good idea for speed
+;   purposes, especially if this takes a while to parse, but would
+;   require extra coding for saving/loading this information.
+
+; Note: This could also affect patches with regards to savegames,
+;   because some of this information is saved and not dynamically
+;   re-read from the original file.  This means that some things
+;   wouldn't change unless we had a way of forcing them.  However,
+;   it also means that things that aren't saved *WILL* be changed
+;   if they are patched.  So we could change frequencies of
+;   encounters, or what the encounters *are*, even though a save
+;   in a random encounter map might not be in the same state (have
+;   to keep track of this to prevent possible problems.)
+
+
+; Note: Scripts need accessor functions to turn on/off locations,
+;   as well as (possibly) mark world tiles as known/unknown (?).
+
+
+
+; This sets up the default values for data that is used by the worldmap
+[Data]
+; Encounter frequency percentages:
+Forced=100%        ; This shouldn't change
+Frequent=55%       ; Was 9/3d6
+Common=35%         ; Was 8/3d6
+Uncommon=15%       ; Was 6/3d6
+Rare=11%            ; Was 5/3d6
+None=0%            ; This shouldn't change
+
+; Terrain types:
+   ; WIP! # is the number of pixels drawn before skipping?
+;terrain_types=Desert:2, Mountain:3, City:1, Ocean:1
+terrain_types=Desert:1, Mountain:3, City:2
+; These short names are used for debugging only
+terrain_short_names=DES ; WIP!WIP!WIP!
+
+;   These determine which maps are randomly chosen from for normal
+; random encounters
+
+;   These determine which maps are randomly chosen from for normal
+; random encounters
+[Random Maps: Desert]
+map_00=Random Desert 1
+map_01=Random Desert 2
+map_02=Random Desert 3
+map_03=Random Desert 4
+map_04=Random Desert 5
+map_05=Random Desert 6
+map_06=Random Desert 7
+map_07=Random Desert 8
+map_08=Random Desert 9
+map_09=Random Desert 10
+map_10=Random Meadow 1
+map_11=Random Meadow 2
+map_12=Random Meadow 3
+map_13=Random Meadow 4
+map_14=Random Meadow 5
+;map_15=Random Coast 1
+;map_16=Random Coast 2
+
+[Random Maps: Mountain]
+map_00=Random Rocks 1
+map_01=Random Rocks 2
+map_02=Random Rocks 3
+map_03=Random Rocks 4
+map_04=Random Rocks 5
+map_05=Random Rocks 6
+map_06=Random Rocks 7
+map_07=Random Rocks 8
+
+[Random Maps: City]
+map_00=Random City 1
+map_01=Random City 2
+map_02=Random City 3
+map_03=Random Rocks 9
+map_04=Random Rocks 10
+
+; WIP! Ability to specify scenery art for scenery?  Build scenery lists?
+
+; Random encounter tables
+
+;[Pid Lists]
+;pid0000=16777219,Male      ;Good Raider
+;pid0001=16777220,Female    ;Average Raider
+;pid0002=16777221,Scorp     ;Raider Leader
+;pid0003=16777222,Big Scorp ;Peasant
+;pid0003=16777223,Claw
+;pid0003=16777224,Big Claw
+;pid0003=16777225,Dog
+;pid0003=16777226,Brahmin
+;pid0003=16777227,Rat
+;pid0003=16777228,Mantis
+;pid0004=71,Mutated Fruit
+
+;[Item Lists]
+;list000=Name:Dead Loser Items, Item:(5-25)Caps, Item:Knife
+
+
+; Scripts: 255-Raider attacks Player
+; Scripts: 256-Peasant flees Player
+; Scripts: 257-Merchant
+; Scripts: 258-Guard Protects Merchant
+
+; Scripts: 269-Gecko
+; Scripts: 270-Golden Gecko
+
+
+; Type Subinfo:
+;-------------
+; Ratio:#% determines frequency of occurrence
+; pid:<#> determines what this critter's pid is
+; pid:<string> looks up the pid # from the string
+; Script:<#> overrides the default script with a new one
+; Dead means that the critter starts out in a dead state
+; Item:<#> gives an item of a given pid #
+; Item:<string> dictates an item (from a lookup table) that this critter has
+; Item:(#)<string> the # dictates quantity of the item, possibly a range
+; Item:(<string>) -- give a whole *list* of items
+; If:<something> -- conditionals, allows <,>,<=,>=,==,& as well as tests
+;    on Player(<stat/attribute/skill/etc.>), Enctr(Num_Critters),
+;    Time, Global(<variable index>), Rand(Chance%)
+; Distance:# -- Forces the distance for a particular critter (if possible)
+; <type_#>(TileNum) -- Forces this object to appear at the same tile # as
+;    the object listed at <type_#> (this means the last one if there were
+;    multiples of that type).
+; TileNum:# -- Forces this object to appear at a given tile #
+; Spatial:<string> -- attaches a spatial script to the map
+
+[Encounter: M_Scorp]
+type_00=ratio:100%, pid:16777424
+;type_01=ratio:0%, pid:, Item:, Item:, Script:
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:4
+
+[Encounter: M_Ant1]
+type_00=ratio:100%, pid:16777422
+;type_01=ratio:0%, pid:, Item:, Item:, Script:
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:4
+
+[Encounter: M_Ant2]
+type_00=ratio:100%, pid:16777423
+type_01=Dead, pid:16777433, Item:(1-10)41, If (Rand(5%))
+type_02=Dead, pid:16777432, Item:(1-10)41, Item:238, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:3
+
+[Encounter: M_Jackal1]
+type_00=ratio:80%, pid:16777417
+type_01=ratio:20%, pid:16777418
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=wedge, spacing:2
+
+[Encounter: M_Jackal2]
+type_00=ratio:50%, pid:16777417
+type_01=ratio:50%, pid:16777418
+type_02=Dead, pid:16777436, Item:(1-10)41, Item:228, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=Surrounding, spacing:3, Distance:5
+
+[Encounter: M_Urs]
+type_00=ratio:100%, pid:16777420
+;type_01=ratio:0%, pid:, Item:, Item:, Script:
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:7
+
+[Encounter: M_Chimera_weak]
+type_00=ratio:100%, pid:16777414
+;type_01=ratio:0%, pid:, Item:, Item:, Script:
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:4
+
+[Encounter: M_Chimera]
+type_00=ratio:100%, pid:16777413
+;type_01=ratio:0%, pid:16777414
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=Surrounding, spacing:6, Distance:6
+
+[Encounter: M_Beast]
+type_00=ratio:100%, pid:16777428
+type_01=Dead, pid:16777436, Item:(1-2)63, Item:(1-15)41, If (Rand(5%))
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=Surrounding, spacing:3, Distance:5
+
+[Encounter: M_Bagur]
+type_00=ratio:100%, pid:16777429
+;type_01=ratio:0%, pid:, Item:, Item:, Script:
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:6
+
+[Encounter: M_Rat]
+type_00=ratio:100%, pid:16777421
+type_01=Dead, pid:16777461, Item:(0-3)41, If (Rand(5%))
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:3
+
+[Encounter: M_Molerat]
+type_00=ratio:70%, pid:16777419
+type_01=ratio:30%, pid:16777421
+type_02=Dead, pid:16777435, Item:(0-3)41, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:4
+
+[Encounter: M_Mindless1]
+type_00=ratio:70%, pid:16777426
+type_01=ratio:30%, pid:16777427
+type_02=Dead, pid:16777445, Item:(1-10)41, Item:233, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=wedge, spacing:5
+
+[Encounter: M_Mindless2]
+type_00=ratio:70%, pid:16777427
+type_01=ratio:30%, pid:16777426
+type_02=Dead, pid:16777451, Item:(5-20)41, Item:37, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=Surrounding, spacing:3
+
+[Encounter: P_NWO_Traider]
+type_00=pid:16777456
+type_01=pid:16777457
+type_02=ratio:50%, pid:16777458
+;type_03=ratio:50%, pid:16777459
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:2
+
+[Encounter: P_Wander1]
+type_00=ratio:50%, pid:16777435, Script:478
+type_01=ratio:50%, pid:16777436, Script:478
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:3
+
+[Encounter: P_Wander2]
+type_00=ratio:50%, pid:16777436, Script:478
+type_01=ratio:40%, pid:16777437, Script:478
+type_02=ratio:10%, pid:16777438, Script:478
+type_03=Dead, pid:16777446, Item:219, If (Rand(10%))
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:3
+
+[Encounter: P_Wander_Alone]
+type_00=ratio:100%, pid:16777438, Script:478
+type_01=Dead, pid:16777424, If (Rand(5%))
+type_02=Dead, pid:16777422, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:2
+
+[Encounter: P_Pirates1]
+type_00=ratio:60%, pid:16777444, Script:480
+type_01=ratio:40%, pid:16777445, Script:480
+type_02=Dead, pid:16777432, Item:238, If (Rand(5%))
+type_03=Dead, pid:16777433, Item:110, If (Rand(5%))
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=cone, spacing:6
+
+[Encounter: P_Pirates2]
+type_00=ratio:70%, pid:16777451, Script:480
+type_01=ratio:30%, pid:16777448, Script:480
+type_02=Dead, pid:16777436, Item:70, If (Rand(5%))
+type_03=Dead, pid:16777435, Item:225, Item:(2-7)41, If (Rand(5%))
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=wedge, spacing:6
+
+[Encounter: P_Pirates3]
+type_00=ratio:60%, pid:16777451, Script:480
+type_01=ratio:20%, pid:16777452, Script:480
+type_02=ratio:20%, pid:16777453, Script:480
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=wedge, spacing:7
+
+[Encounter: P_Raiders1]
+type_00=ratio:50%, pid:16777445, Script:481
+type_01=ratio:30%, pid:16777446, Script:481
+type_02=ratio:20%, pid:16777449, Script:481
+type_03=Dead, pid:16777435, Item:225, Item:(2-7)41, If (Rand(5%))
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:6
+
+[Encounter: P_Raiders2]
+type_00=ratio:50%, pid:16777455, Script:481
+type_01=ratio:30%, pid:16777454, Script:481
+type_02=ratio:20%, pid:16777453, Script:481
+type_03=Dead, pid:16777433, Item:110, If (Rand(5%))
+type_04=Dead, pid:16777436, If (Rand(5%))
+position=cone, spacing:7
+
+[Encounter: P_Hunters1]
+type_00=ratio:80%, pid:16777382, Script:477
+type_01=ratio:20%, pid:16777383, Script:477
+type_02=Dead, pid:16777436, Item:65, If (Rand(5%))
+type_03=Dead, pid:16777417, If (Rand(5%))
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=wedge, spacing:3
+
+[Encounter: P_Hunters2]
+type_00=ratio:50%, pid:16777382, Script:477
+type_01=ratio:50%, pid:16777383, Script:477
+type_02=Dead, pid:16777445, Item:62, If (Rand(5%))
+type_03=Dead, pid:16777447, Item:236, If (Rand(5%))
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=cone, spacing:4
+
+[Encounter: P_Lumens1]
+type_00=ratio:80%, pid:16777430
+type_01=ratio:20%, pid:16777431
+;type_02=ratio:0%, pid:, Item:, Item:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=double_line, spacing:3
+
+[Encounter: P_Lumens2]
+type_00=ratio:60%, pid:16777430
+type_01=ratio:40%, pid:16777431
+type_02=Dead, pid:16777448, Item:(1-20)41, Item:139, If (Rand(5%))
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=double_line, spacing:4
+
+[Encounter: P_Defends1]
+type_00=ratio:70%, pid:16777401
+type_01=ratio:15%, pid:16777402
+type_02=ratio:15%, pid:16777415
+type_03=Dead, pid:16777437, Item:(1-2)220
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=double_line, spacing:3
+
+[Encounter: P_Defends2]
+type_00=ratio:50%, pid:16777401
+type_01=ratio:30%, pid:16777402
+type_02=ratio:20%, pid:16777415
+type_03=Dead, pid:16777451, Item:233
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=double_line, spacing:4
+
+[Encounter: P_NWO_Patrol1]
+type_00=ratio:50%, pid:16777320, Script:482
+type_01=ratio:50%, pid:16777323, Script:483
+;type_02=ratio:0%, pid:, Script:
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=straight_line, spacing:4
+
+[Encounter: P_NWO_Patrol2]
+type_00=ratio:50%, pid:16777322, Script:482
+type_01=ratio:30%, pid:16777320, Script:482
+type_02=ratio:20%, pid:16777321, Script:483
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=straight_line, spacing:4
+
+[Encounter: P_Searchers1]
+type_00=ratio:50%, pid:16777432, Script:484
+type_01=ratio:30%, pid:16777433, Script:484
+type_02=ratio:20%, pid:16777434, Script:484
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=huddle, spacing:3
+
+[Encounter: P_Searchers2]
+type_00=ratio:50%, pid:16777439, Script:484
+type_01=ratio:30%, pid:16777441, Script:484
+type_02=ratio:20%, pid:16777462, Script:484
+;type_03=ratio:0%, pid:, Item:, Item:, Script:
+;type_04=Dead, pid:, Item:, Item:, Script:
+position=wedge, spacing:3
+
+[Encounter: Special1]
+type_00=ratio:0%, pid:19
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;  Newly added Random Encounter Types for Fallout2   ;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;   RWH2    June 19, 1998    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[Encounter Table 0]
+lookup_name=BAND_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Pirates1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Pirates2 FIGHTING (1-3) M_Ant1
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 3)
+enc_08=Chance:5%,Enc:(2-4) P_Raiders2 FIGHTING (1-3) M_Urs ,If(Player(Level) >= 8)
+enc_09=Chance:5%,Enc:(2-4) M_Ant2 FIGHTING M_Urs
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 1]
+lookup_name=BAND_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Pirates1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Pirates2 FIGHTING (1-3) M_Ant1
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 3)
+enc_08=Chance:5%,Enc:(2-4) P_Raiders2 FIGHTING (1-3) M_Urs ,If(Player(Level) >= 8)
+enc_09=Chance:5%,Enc:(2-4) M_Ant2 FIGHTING M_Urs
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 2]
+lookup_name=BAND_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Pirates1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Pirates2 FIGHTING (1-3) M_Ant1
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 3)
+enc_08=Chance:5%,Enc:(2-4) P_Raiders2 FIGHTING (1-3) M_Urs ,If(Player(Level) >= 8)
+enc_09=Chance:5%,Enc:(2-4) M_Ant2 FIGHTING M_Urs
+
+[Encounter Table 3]
+lookup_name=BAND_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_01=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player ,If(Player(Level) >= 6)
+enc_04=Chance:10%,Enc:(2-3) P_Wander2 FIGHTING (1-3) M_Jackal1
+enc_05=Chance:10%,Enc:(2-3) P_Pirates1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) P_Pirates1 FIGHTING (2-4) P_Wander1
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_08=Chance:5%,Enc:M_Urs FIGHTING (3-4) M_Jackal1
+enc_09=Chance:5%,Enc:(2-4) P_Pirates3 AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 4]
+lookup_name=BAND_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_01=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player ,If(Player(Level) >= 6)
+enc_04=Chance:10%,Enc:(2-3) P_Wander2 FIGHTING (1-3) M_Jackal1
+enc_05=Chance:10%,Enc:(2-3) P_Pirates1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) P_Pirates1 FIGHTING (2-4) P_Wander1
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_08=Chance:5%,Enc:M_Urs FIGHTING (3-4) M_Jackal1
+enc_09=Chance:5%,Enc:(2-4) P_Pirates3 AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 5]
+lookup_name=BAND_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_01=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player ,If(Player(Level) >= 6)
+enc_04=Chance:10%,Enc:(2-3) P_Wander2 FIGHTING (1-3) M_Jackal1
+enc_05=Chance:10%,Enc:(2-3) P_Pirates1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) P_Pirates1 FIGHTING (2-4) P_Wander1
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_08=Chance:5%,Enc:M_Urs FIGHTING (3-4) M_Jackal1
+enc_09=Chance:5%,Enc:(2-4) P_Pirates3 AMBUSH Player ,If(Player(Level) >= 7)
+
+[Encounter Table 6]
+lookup_name=BAND_3D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Chimera ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 5)
+enc_06=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Chimera FIGHTING (1-3) M_Beast
+enc_09=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player ,If(Player(Level) >= 5)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 7]
+lookup_name=BAND_3M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Chimera ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 5)
+enc_06=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Chimera FIGHTING (1-3) M_Beast
+enc_09=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player ,If(Player(Level) >= 5)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 8]
+lookup_name=BAND_3C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Chimera ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 5)
+enc_06=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Chimera FIGHTING (1-3) M_Beast
+enc_09=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player ,If(Player(Level) >= 5)
+
+[Encounter Table 9]
+lookup_name=BAND_4D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_03=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_04=Chance:10%,Enc:M_Beast AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Pirates1 FIGHTING (3-4) P_Wander1
+enc_06=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_07=Chance:5%,Enc:M_Bagur AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player
+enc_09=Chance:5%,Enc:(4-6) P_Raiders2 FIGHTING (2-3) M_Beast ,If(Player(Level) >= 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 10]
+lookup_name=BAND_4M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_03=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_04=Chance:10%,Enc:M_Beast AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Pirates1 FIGHTING (3-4) P_Wander1
+enc_06=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_07=Chance:5%,Enc:M_Bagur AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player
+enc_09=Chance:5%,Enc:(4-6) P_Raiders2 FIGHTING (2-3) M_Beast ,If(Player(Level) >= 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 11]
+lookup_name=BAND_4C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_03=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_04=Chance:10%,Enc:M_Beast AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Pirates1 FIGHTING (3-4) P_Wander1
+enc_06=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_07=Chance:5%,Enc:M_Bagur AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player
+enc_09=Chance:5%,Enc:(4-6) P_Raiders2 FIGHTING (2-3) M_Beast ,If(Player(Level) >= 8)
+
+[Encounter Table 12]
+lookup_name=BAND_5D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:M_Chimera_weak AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Mindless2 FIGHTING P_Pirates2
+enc_06=Chance:10%,Enc:(2-3) P_Pirates2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Ant2 AMBUSH Player ,If(Player(Level) >= 5)
+enc_08=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player ,If(Player(Level) > 8)
+enc_09=Chance:5%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 13]
+lookup_name=BAND_5M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:M_Chimera_weak AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Mindless2 FIGHTING P_Pirates2
+enc_06=Chance:10%,Enc:(2-3) P_Pirates2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Ant2 AMBUSH Player ,If(Player(Level) >= 5)
+enc_08=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player ,If(Player(Level) > 8)
+enc_09=Chance:5%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 14]
+lookup_name=BAND_5C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:M_Chimera_weak AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Mindless2 FIGHTING P_Pirates2
+enc_06=Chance:10%,Enc:(2-3) P_Pirates2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Ant2 AMBUSH Player ,If(Player(Level) >= 5)
+enc_08=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player ,If(Player(Level) > 8)
+enc_09=Chance:5%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+
+[Encounter Table 15]
+lookup_name=BAND_7D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(3-5) P_Pirates1 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-3) M_Scorp FIGHTING (1-3) M_Jackal1
+enc_09=Chance:5%,Enc:(2-3) M_Molerat AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 16]
+lookup_name=BAND_7M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(3-5) P_Pirates1 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-3) M_Scorp FIGHTING (1-3) M_Jackal1
+enc_09=Chance:5%,Enc:(2-3) M_Molerat AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 17]
+lookup_name=BAND_7C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(3-5) P_Pirates1 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-3) M_Scorp FIGHTING (1-3) M_Jackal1
+enc_09=Chance:5%,Enc:(2-3) M_Molerat AMBUSH Player
+
+[Encounter Table 18]
+lookup_name=BAND_8D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-4) P_Searchers1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_07=Chance:5%,Enc:(3-4) P_Searchers1 FIGHTING (2-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-3) P_Wander1 FIGHTING (3-4) P_Pirates3
+enc_09=Chance:5%,Enc:(3-4) P_Searchers2 FIGHTING (1-3) M_Jackal2
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 19]
+lookup_name=BAND_8M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-4) P_Searchers1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_07=Chance:5%,Enc:(3-4) P_Searchers1 FIGHTING (2-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-3) P_Wander1 FIGHTING (3-4) P_Pirates3
+enc_09=Chance:5%,Enc:(3-4) P_Searchers2 FIGHTING (1-3) M_Jackal2
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 20]
+lookup_name=BAND_8C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-4) P_Searchers1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_07=Chance:5%,Enc:(3-4) P_Searchers1 FIGHTING (2-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-3) P_Wander1 FIGHTING (3-4) P_Pirates3
+enc_09=Chance:5%,Enc:(3-4) P_Searchers2 FIGHTING (1-3) M_Jackal2
+
+[Encounter Table 21]
+lookup_name=COMMD
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 FIGHTING (1-3) M_Jackal1
+enc_07=Chance:5%,Enc:(3-5) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Jackal1 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 22]
+lookup_name=COMMM
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 FIGHTING (1-3) M_Jackal1
+enc_07=Chance:5%,Enc:(3-5) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Jackal1 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 23]
+lookup_name=COMMC
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 FIGHTING (1-3) M_Jackal1
+enc_07=Chance:5%,Enc:(3-5) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Jackal1 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+
+[Encounter Table 24]
+lookup_name=DFND_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-3) P_Defends2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:M_Urs AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_Defends2 FIGHTING M_Urs
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) P_Defends2 FIGHTING (1-3) M_Chimera_weak
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 25]
+lookup_name=DFND_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-3) P_Defends2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:M_Urs AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_Defends2 FIGHTING M_Urs
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) P_Defends2 FIGHTING (1-3) M_Chimera_weak
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 26]
+lookup_name=DFND_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(2-3) P_Defends2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:M_Urs AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_Defends2 FIGHTING M_Urs
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) P_Defends2 FIGHTING (1-3) M_Chimera_weak
+
+[Encounter Table 27]
+lookup_name=DFND_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_02=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_NWO_Traider AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:P_Wander1 FIGHTING P_NWO_Traider
+enc_07=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(2-4) P_Wander2 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(2-4) P_Defends2 FIGHTING (4-6) P_Wander1 ,If(Player(Level) >= 9)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 28]
+lookup_name=DFND_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_02=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_NWO_Traider AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:P_Wander1 FIGHTING P_NWO_Traider
+enc_07=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(2-4) P_Wander2 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(2-4) P_Defends2 FIGHTING (4-6) P_Wander1 ,If(Player(Level) >= 9)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 29]
+lookup_name=DFND_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Wander1 AMBUSH Player
+enc_02=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_NWO_Traider AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:P_Wander1 FIGHTING P_NWO_Traider
+enc_07=Chance:5%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(2-4) P_Wander2 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(2-4) P_Defends2 FIGHTING (4-6) P_Wander1 ,If(Player(Level) >= 9)
+
+[Encounter Table 30]
+lookup_name=DFND_3D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Defends2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-3) P_Defends1 FIGHTING (3-4) P_Wander1 ,If(Player(Level) >= 6)
+enc_07=Chance:5%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(3-5) M_Rat AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) P_Defends1 FIGHTING (1-3) M_Jackal2
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 31]
+lookup_name=DFND_3M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Defends2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-3) P_Defends1 FIGHTING (3-4) P_Wander1 ,If(Player(Level) >= 6)
+enc_07=Chance:5%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(3-5) M_Rat AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) P_Defends1 FIGHTING (1-3) M_Jackal2
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 32]
+lookup_name=DFND_3C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Defends2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-3) P_Defends1 FIGHTING (3-4) P_Wander1 ,If(Player(Level) >= 6)
+enc_07=Chance:5%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(3-5) M_Rat AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) P_Defends1 FIGHTING (1-3) M_Jackal2
+
+[Encounter Table 33]
+lookup_name=DFND_4D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:(2-4) P_Searchers1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) M_Mindless2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Searchers2 FIGHTING (2-4) P_Wander2 ,If(Player(Level) >= 7)
+enc_07=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak FIGHTING (2-4) P_Defends2
+enc_09=Chance:5%,Enc:(2-4) P_Searchers1 FIGHTING (1-3) M_Chimera
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 34]
+lookup_name=DFND_4M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:(2-4) P_Searchers1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) M_Mindless2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Searchers2 FIGHTING (2-4) P_Wander2 ,If(Player(Level) >= 7)
+enc_07=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak FIGHTING (2-4) P_Defends2
+enc_09=Chance:5%,Enc:(2-4) P_Searchers1 FIGHTING (1-3) M_Chimera
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 35]
+lookup_name=DFND_4C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Wander2 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:(2-4) P_Searchers1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) M_Mindless2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Searchers2 FIGHTING (2-4) P_Wander2 ,If(Player(Level) >= 7)
+enc_07=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak FIGHTING (2-4) P_Defends2
+enc_09=Chance:5%,Enc:(2-4) P_Searchers1 FIGHTING (1-3) M_Chimera
+
+[Encounter Table 36]
+lookup_name=DFND_5D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-4) P_Raiders1 FIGHTING P_NWO_Traider ,If(Player(Level) >= 9)
+enc_06=Chance:10%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) P_Pirates1 FIGHTING (2-3) P_Defends1
+enc_09=Chance:5%,Enc:(3-4) P_Searchers1 FIGHTING (1-3) P_Pirates1
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 37]
+lookup_name=DFND_5M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-4) P_Raiders1 FIGHTING P_NWO_Traider ,If(Player(Level) >= 9)
+enc_06=Chance:10%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) P_Pirates1 FIGHTING (2-3) P_Defends1
+enc_09=Chance:5%,Enc:(3-4) P_Searchers1 FIGHTING (1-3) P_Pirates1
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 38]
+lookup_name=DFND_5C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) P_Defends1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-4) P_Raiders1 FIGHTING P_NWO_Traider ,If(Player(Level) >= 9)
+enc_06=Chance:10%,Enc:(2-3) P_Raiders1 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) P_Pirates1 FIGHTING (2-3) P_Defends1
+enc_09=Chance:5%,Enc:(3-4) P_Searchers1 FIGHTING (1-3) P_Pirates1
+
+[Encounter Table 39]
+lookup_name=HUNT_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(3-5) M_Rat AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) P_Hunters2 AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:M_Urs FIGHTING M_Chimera_weak
+enc_07=Chance:5%,Enc:(1-3) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Hunters2 FIGHTING M_Urs
+enc_09=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 40]
+lookup_name=HUNT_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(3-5) M_Rat AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) P_Hunters2 AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:M_Urs FIGHTING M_Chimera_weak
+enc_07=Chance:5%,Enc:(1-3) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Hunters2 FIGHTING M_Urs
+enc_09=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 41]
+lookup_name=HUNT_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(3-5) M_Rat AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) P_Hunters2 AMBUSH Player
+enc_05=Chance:10%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:M_Urs FIGHTING M_Chimera_weak
+enc_07=Chance:5%,Enc:(1-3) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Hunters2 FIGHTING M_Urs
+enc_09=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+
+[Encounter Table 42]
+lookup_name=LUM_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Lumens1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-4) P_Raiders1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) P_Hunters2 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Lumens2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) P_Pirates2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_Hunters1 FIGHTING (1-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-4) P_Lumens2 FIGHTING (1-3) P_Pirates1 ,If(Player(Level) >= 5)
+enc_09=Chance:5%,Enc:(2-4) P_Pirates3 AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 43]
+lookup_name=LUM_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Lumens1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-4) P_Raiders1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) P_Hunters2 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Lumens2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) P_Pirates2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_Hunters1 FIGHTING (1-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-4) P_Lumens2 FIGHTING (1-3) P_Pirates1 ,If(Player(Level) >= 5)
+enc_09=Chance:5%,Enc:(2-4) P_Pirates3 AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 44]
+lookup_name=LUM_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) P_Lumens1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-4) P_Raiders1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) P_Hunters2 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_Lumens2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) P_Pirates2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_Hunters1 FIGHTING (1-3) P_Pirates1
+enc_08=Chance:5%,Enc:(2-4) P_Lumens2 FIGHTING (1-3) P_Pirates1 ,If(Player(Level) >= 5)
+enc_09=Chance:5%,Enc:(2-4) P_Pirates3 AMBUSH Player
+
+[Encounter Table 45]
+lookup_name=LUM_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Lumens1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) >= 7)
+enc_04=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Urs AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) P_Lumens2 AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Chimera AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Lumens2 FIGHTING (1-3) M_Chimera_weak
+enc_09=Chance:5%,Enc:(2-3) M_Beast FIGHTING (2-3) M_Chimera
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 46]
+lookup_name=LUM_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Lumens1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) >= 7)
+enc_04=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Urs AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) P_Lumens2 AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Chimera AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Lumens2 FIGHTING (1-3) M_Chimera_weak
+enc_09=Chance:5%,Enc:(2-3) M_Beast FIGHTING (2-3) M_Chimera
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 47]
+lookup_name=LUM_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) P_Lumens1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) >= 7)
+enc_04=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Urs AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) P_Lumens2 AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Chimera AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Lumens2 FIGHTING (1-3) M_Chimera_weak
+enc_09=Chance:5%,Enc:(2-3) M_Beast FIGHTING (2-3) M_Chimera
+
+[Encounter Table 48]
+lookup_name=LUM_3D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) P_Lumens1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Hunters2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) P_Hunters1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) P_Lumens2 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Hunters1 FIGHTING (1-3) M_Jackal2
+enc_08=Chance:5%,Enc:(2-3) P_Lumens1 FIGHTING (1-3) P_Pirates1
+enc_09=Chance:5%,Enc:(4-7) P_Hunters1 AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 49]
+lookup_name=LUM_3M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) P_Lumens1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Hunters2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) P_Hunters1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) P_Lumens2 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Hunters1 FIGHTING (1-3) M_Jackal2
+enc_08=Chance:5%,Enc:(2-3) P_Lumens1 FIGHTING (1-3) P_Pirates1
+enc_09=Chance:5%,Enc:(4-7) P_Hunters1 AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 50]
+lookup_name=LUM_3C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Raiders1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) P_Lumens1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Hunters2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) P_Hunters1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) P_Lumens2 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Hunters1 FIGHTING (1-3) M_Jackal2
+enc_08=Chance:5%,Enc:(2-3) P_Lumens1 FIGHTING (1-3) P_Pirates1
+enc_09=Chance:5%,Enc:(4-7) P_Hunters1 AMBUSH Player ,If(Player(Level) >= 7)
+
+[Encounter Table 51]
+lookup_name=LUM_4D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Lumens1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:M_Chimera AMBUSH Player
+enc_04=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Hunters2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Jackal2 FIGHTING (2-4) P_Hunters1
+enc_07=Chance:5%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Lumens2 FIGHTING (1-3) M_Chimera_weak
+enc_09=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player ,If(Player(Level) >= 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 52]
+lookup_name=LUM_4M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Lumens1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:M_Chimera AMBUSH Player
+enc_04=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Hunters2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Jackal2 FIGHTING (2-4) P_Hunters1
+enc_07=Chance:5%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Lumens2 FIGHTING (1-3) M_Chimera_weak
+enc_09=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player ,If(Player(Level) >= 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 53]
+lookup_name=LUM_4C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Lumens1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_Hunters1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:M_Chimera AMBUSH Player
+enc_04=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Hunters2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Jackal2 FIGHTING (2-4) P_Hunters1
+enc_07=Chance:5%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(3-4) P_Lumens2 FIGHTING (1-3) M_Chimera_weak
+enc_09=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player ,If(Player(Level) >= 8)
+
+[Encounter Table 54]
+lookup_name=NWO_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(1-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_NWO_Patrol1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_NWO_Patrol2 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_NWO_Patrol2 FIGHTING (1-3) M_Mindless1
+enc_08=Chance:5%,Enc:(1-3) P_Wander2 FIGHTING (3-5) M_Rat
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 55]
+lookup_name=NWO_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(1-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_NWO_Patrol1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_NWO_Patrol2 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_NWO_Patrol2 FIGHTING (1-3) M_Mindless1
+enc_08=Chance:5%,Enc:(1-3) P_Wander2 FIGHTING (3-5) M_Rat
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 56]
+lookup_name=NWO_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(1-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_NWO_Patrol1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_03=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) P_NWO_Patrol2 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) P_NWO_Patrol2 FIGHTING (1-3) M_Mindless1
+enc_08=Chance:5%,Enc:(1-3) P_Wander2 FIGHTING (3-5) M_Rat
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+
+[Encounter Table 57]
+lookup_name=SRCH_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_03=Chance:10%,Enc:(3-5) P_Searchers1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) P_Searchers1 FIGHTING (2-3) M_Jackal2
+enc_05=Chance:10%,Enc:(2-4) M_Jackal2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) M_Chimera AMBUSH Player
+enc_08=Chance:5%,Enc:M_Chimera FIGHTING (3-4) P_Searchers2
+enc_09=Chance:5%,Enc:(4-7) M_Scorp AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 58]
+lookup_name=SRCH_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_03=Chance:10%,Enc:(3-5) P_Searchers1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) P_Searchers1 FIGHTING (2-3) M_Jackal2
+enc_05=Chance:10%,Enc:(2-4) M_Jackal2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) M_Chimera AMBUSH Player
+enc_08=Chance:5%,Enc:M_Chimera FIGHTING (3-4) P_Searchers2
+enc_09=Chance:5%,Enc:(4-7) M_Scorp AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 59]
+lookup_name=SRCH_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_03=Chance:10%,Enc:(3-5) P_Searchers1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-3) P_Searchers1 FIGHTING (2-3) M_Jackal2
+enc_05=Chance:10%,Enc:(2-4) M_Jackal2 AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) M_Chimera AMBUSH Player
+enc_08=Chance:5%,Enc:M_Chimera FIGHTING (3-4) P_Searchers2
+enc_09=Chance:5%,Enc:(4-7) M_Scorp AMBUSH Player ,If(Player(Level) >= 7)
+
+[Encounter Table 60]
+lookup_name=SRCH_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(3-5) P_Searchers1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Raiders1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_06=Chance:10%,Enc:(1-4) P_Searchers2 AMBUSH Player
+enc_07=Chance:5%,Enc:M_Chimera FIGHTING (2-3) M_Jackal2
+enc_08=Chance:5%,Enc:(2-3) P_Raiders2 FIGHTING (3-5) P_Searchers1 ,If(Player(Level) >= 6)
+enc_09=Chance:5%,Enc:(2-4) M_Chimera_weak AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 61]
+lookup_name=SRCH_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(3-5) P_Searchers1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Raiders1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_06=Chance:10%,Enc:(1-4) P_Searchers2 AMBUSH Player
+enc_07=Chance:5%,Enc:M_Chimera FIGHTING (2-3) M_Jackal2
+enc_08=Chance:5%,Enc:(2-3) P_Raiders2 FIGHTING (3-5) P_Searchers1 ,If(Player(Level) >= 6)
+enc_09=Chance:5%,Enc:(2-4) M_Chimera_weak AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 62]
+lookup_name=SRCH_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_01=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(3-5) P_Searchers1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Raiders1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_06=Chance:10%,Enc:(1-4) P_Searchers2 AMBUSH Player
+enc_07=Chance:5%,Enc:M_Chimera FIGHTING (2-3) M_Jackal2
+enc_08=Chance:5%,Enc:(2-3) P_Raiders2 FIGHTING (3-5) P_Searchers1 ,If(Player(Level) >= 6)
+enc_09=Chance:5%,Enc:(2-4) M_Chimera_weak AMBUSH Player
+
+[Encounter Table 63]
+lookup_name=TRAD_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-3) P_Raiders2 AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) P_Pirates1 FIGHTING P_NWO_Traider
+enc_08=Chance:5%,Enc:(3-4) M_Jackal1 FIGHTING (2-3) P_Raiders2
+enc_09=Chance:5%,Enc:(3-5) M_Ant2 AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 64]
+lookup_name=TRAD_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-3) P_Raiders2 AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) P_Pirates1 FIGHTING P_NWO_Traider
+enc_08=Chance:5%,Enc:(3-4) M_Jackal1 FIGHTING (2-3) P_Raiders2
+enc_09=Chance:5%,Enc:(3-5) M_Ant2 AMBUSH Player ,If(Player(Level) >= 7)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 65]
+lookup_name=TRAD_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-3) P_Raiders2 AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) P_Pirates1 FIGHTING P_NWO_Traider
+enc_08=Chance:5%,Enc:(3-4) M_Jackal1 FIGHTING (2-3) P_Raiders2
+enc_09=Chance:5%,Enc:(3-5) M_Ant2 AMBUSH Player ,If(Player(Level) >= 7)
+
+[Encounter Table 66]
+lookup_name=TRAD_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Raiders2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_05=Chance:10%,Enc:(1-3) M_Scorp FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Beast FIGHTING (3-5) P_Raiders2 ,If(Player(Level) > 8)
+enc_08=Chance:5%,Enc:(3-5) P_Pirates1 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 67]
+lookup_name=TRAD_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Raiders2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_05=Chance:10%,Enc:(1-3) M_Scorp FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Beast FIGHTING (3-5) P_Raiders2 ,If(Player(Level) > 8)
+enc_08=Chance:5%,Enc:(3-5) P_Pirates1 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 68]
+lookup_name=TRAD_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Raiders2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_05=Chance:10%,Enc:(1-3) M_Scorp FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Beast FIGHTING (3-5) P_Raiders2 ,If(Player(Level) > 8)
+enc_08=Chance:5%,Enc:(3-5) P_Pirates1 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+
+[Encounter Table 69]
+lookup_name=TRAD_3D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Raiders2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) P_Pirates1 FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_08=Chance:5%,Enc:(3-4) M_Jackal2 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) M_Beast FIGHTING (2-3) M_Mindless1
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 70]
+lookup_name=TRAD_3M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Raiders2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) P_Pirates1 FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_08=Chance:5%,Enc:(3-4) M_Jackal2 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) M_Beast FIGHTING (2-3) M_Mindless1
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 71]
+lookup_name=TRAD_3C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Jackal2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Raiders2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) P_Pirates1 FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) M_Molerat AMBUSH Player
+enc_07=Chance:5%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) > 8)
+enc_08=Chance:5%,Enc:(3-4) M_Jackal2 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-4) M_Beast FIGHTING (2-3) M_Mindless1
+
+[Encounter Table 72]
+lookup_name=TRAD_4D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Wander2 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-5) P_Wander1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal2 AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Jackal1 FIGHTING P_NWO_Traider
+enc_09=Chance:5%,Enc:(2-3) M_Scorp FIGHTING (3-4) P_Wander2
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 73]
+lookup_name=TRAD_4M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Wander2 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-5) P_Wander1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal2 AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Jackal1 FIGHTING P_NWO_Traider
+enc_09=Chance:5%,Enc:(2-3) M_Scorp FIGHTING (3-4) P_Wander2
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 74]
+lookup_name=TRAD_4C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) P_Wander2 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) P_Pirates2 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-5) P_Wander1 AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Jackal2 AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Jackal1 FIGHTING P_NWO_Traider
+enc_09=Chance:5%,Enc:(2-3) M_Scorp FIGHTING (3-4) P_Wander2
+
+[Encounter Table 75]
+lookup_name=TRAD_5D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Pirates3 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Wander2 FIGHTING (3-4) P_Searchers1 ,If(Player(Level) > 6)
+enc_07=Chance:5%,Enc:(3-5) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_09=Chance:5%,Enc:M_Ant1 FIGHTING M_Scorp
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 76]
+lookup_name=TRAD_5M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Pirates3 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Wander2 FIGHTING (3-4) P_Searchers1 ,If(Player(Level) > 6)
+enc_07=Chance:5%,Enc:(3-5) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_09=Chance:5%,Enc:M_Ant1 FIGHTING M_Scorp
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 77]
+lookup_name=TRAD_5C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:P_Wander_Alone AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Searchers2 AMBUSH Player
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 AMBUSH Player
+enc_05=Chance:10%,Enc:(2-4) P_Pirates3 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Wander2 FIGHTING (3-4) P_Searchers1 ,If(Player(Level) > 6)
+enc_07=Chance:5%,Enc:(3-5) M_Molerat AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Chimera_weak AMBUSH Player
+enc_09=Chance:5%,Enc:M_Ant1 FIGHTING M_Scorp
+
+[Encounter Table 78]
+lookup_name=TRAD_6D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_NWO_Patrol1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) P_NWO_Patrol2 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-4) P_NWO_Patrol1 FIGHTING (1-3) M_Jackal1
+enc_08=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Mindless2 AMBUSH Player ,If(Player(Level) >= 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 79]
+lookup_name=TRAD_6M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_NWO_Patrol1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) P_NWO_Patrol2 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-4) P_NWO_Patrol1 FIGHTING (1-3) M_Jackal1
+enc_08=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Mindless2 AMBUSH Player ,If(Player(Level) >= 8)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 80]
+lookup_name=TRAD_6C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) P_NWO_Patrol1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player
+enc_04=Chance:10%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp FIGHTING P_NWO_Traider
+enc_06=Chance:10%,Enc:(2-4) P_NWO_Patrol2 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-4) P_NWO_Patrol1 FIGHTING (1-3) M_Jackal1
+enc_08=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Mindless2 AMBUSH Player ,If(Player(Level) >= 8)
+
+[Encounter Table 81]
+lookup_name=TRAD_7D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(3-5) M_Ant1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_05=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Jackal2 AMBUSH Player
+enc_07=Chance:5%,Enc:M_Bagur FIGHTING P_NWO_Traider
+enc_08=Chance:5%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) M_Beast
+enc_09=Chance:5%,Enc:(5-7) M_Ant1 AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 82]
+lookup_name=TRAD_7M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(3-5) M_Ant1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_05=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Jackal2 AMBUSH Player
+enc_07=Chance:5%,Enc:M_Bagur FIGHTING P_NWO_Traider
+enc_08=Chance:5%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) M_Beast
+enc_09=Chance:5%,Enc:(5-7) M_Ant1 AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 83]
+lookup_name=TRAD_7C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:P_NWO_Traider AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(3-5) M_Ant1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_05=Chance:10%,Enc:M_Bagur AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Jackal2 AMBUSH Player
+enc_07=Chance:5%,Enc:M_Bagur FIGHTING P_NWO_Traider
+enc_08=Chance:5%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) M_Beast
+enc_09=Chance:5%,Enc:(5-7) M_Ant1 AMBUSH Player
+
+[Encounter Table 84]
+lookup_name=WAND_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Wander2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Wander2 FIGHTING (2-3) M_Ant1
+enc_08=Chance:5%,Enc:(3-5) M_Ant1 AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Scorp AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 85]
+lookup_name=WAND_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Wander2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Wander2 FIGHTING (2-3) M_Ant1
+enc_08=Chance:5%,Enc:(3-5) M_Ant1 AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Scorp AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 86]
+lookup_name=WAND_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Wander2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Wander2 FIGHTING (2-3) M_Ant1
+enc_08=Chance:5%,Enc:(3-5) M_Ant1 AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Scorp AMBUSH Player
+
+[Encounter Table 87]
+lookup_name=WAND_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) >= 4)
+enc_05=Chance:10%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) M_Beast
+enc_06=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_07=Chance:5%,Enc:P_Wander_Alone FIGHTING (1-3) M_Jackal1
+enc_08=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_09=Chance:5%,Enc:(3-4) M_Ant2 AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 88]
+lookup_name=WAND_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) >= 4)
+enc_05=Chance:10%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) M_Beast
+enc_06=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_07=Chance:5%,Enc:P_Wander_Alone FIGHTING (1-3) M_Jackal1
+enc_08=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_09=Chance:5%,Enc:(3-4) M_Ant2 AMBUSH Player
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 89]
+lookup_name=WAND_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-3) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(3-4) M_Jackal1 AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Beast AMBUSH Player ,If(Player(Level) >= 4)
+enc_05=Chance:10%,Enc:(3-4) M_Jackal2 FIGHTING (1-3) M_Beast
+enc_06=Chance:10%,Enc:P_Wander_Alone AMBUSH Player
+enc_07=Chance:5%,Enc:P_Wander_Alone FIGHTING (1-3) M_Jackal1
+enc_08=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_09=Chance:5%,Enc:(3-4) M_Ant2 AMBUSH Player
+
+[Encounter Table 90]
+lookup_name=WILD_1D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_02=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Mindless1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 7)
+enc_07=Chance:5%,Enc:(3-5) M_Rat AMBUSH Player
+enc_08=Chance:5%,Enc:(2-4) M_Ant2 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-3) M_Urs FIGHTING (1-3) M_Chimera_weak
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 91]
+lookup_name=WILD_1M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_02=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Mindless1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 7)
+enc_07=Chance:5%,Enc:(3-5) M_Rat AMBUSH Player
+enc_08=Chance:5%,Enc:(2-4) M_Ant2 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-3) M_Urs FIGHTING (1-3) M_Chimera_weak
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 92]
+lookup_name=WILD_1C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_02=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Mindless1 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 7)
+enc_07=Chance:5%,Enc:(3-5) M_Rat AMBUSH Player
+enc_08=Chance:5%,Enc:(2-4) M_Ant2 AMBUSH Player
+enc_09=Chance:5%,Enc:(2-3) M_Urs FIGHTING (1-3) M_Chimera_weak
+
+[Encounter Table 93]
+lookup_name=WILD_2D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-3) M_Mindless1 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-6) M_Rat AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) P_Wander1 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_09=Chance:5%,Enc:(2-3) M_Urs FIGHTING (2-3) M_Beast
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 94]
+lookup_name=WILD_2M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-3) M_Mindless1 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-6) M_Rat AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) P_Wander1 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_09=Chance:5%,Enc:(2-3) M_Urs FIGHTING (2-3) M_Beast
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 95]
+lookup_name=WILD_2C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(2-3) M_Mindless1 AMBUSH Player
+enc_05=Chance:10%,Enc:(3-6) M_Rat AMBUSH Player
+enc_06=Chance:10%,Enc:(2-3) P_Wander1 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(2-3) M_Beast AMBUSH Player
+enc_08=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player
+enc_09=Chance:5%,Enc:(2-3) M_Urs FIGHTING (2-3) M_Beast
+
+[Encounter Table 96]
+lookup_name=WILD_3D
+maps=Random Desert 1, Random Desert 2,Random Desert 3, Random Desert 4, Random Desert 5, Random Desert 6, Random Desert 7, Random Desert 8, Random Desert 9, Random Desert 10, Random Meadow 1, Random Meadow 2, Random Meadow 3, Random Meadow 4, Random Meadow 5
+enc_00=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_05=Chance:10%,Enc:(3-6) M_Rat AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Ant1 FIGHTING M_Bagur
+enc_08=Chance:5%,Enc:(2-4) M_Beast FIGHTING M_Chimera_weak
+enc_09=Chance:5%,Enc:(5-8) P_Searchers1 FIGHTING (5-8) P_Wander1 ,If(Player(Level) >= 12)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec FireFly,Enc:Special1, If(Player(Level) > 3) And If(Global(410) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec Road,Enc:Special1, If(Player(Level) > 6) And If(Global(411) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec MadMax,Enc:Special1, If(Player(Level) > 6) And If(Global(412) < 1)
+enc_13=Chance:1%,Counter:1,Special,Map:Spec Tankgirl,Enc:Special1, If(Player(Level) > 4) And If(Global(414) < 1)
+enc_14=Chance:1%,Counter:1,Special,Map:Spec ElyBook,Enc:Special1, If(Player(Level) > 4) And If(Global(415) < 1)
+enc_15=Chance:1%,Counter:1,Special,Map:Spec DesertPirates,Enc:Special1, If(Player(Level) > 8) And If(Global(418) < 1)
+
+[Encounter Table 97]
+lookup_name=WILD_3M
+maps=Random Rocks 1, Random Rocks 2, Random Rocks 3, Random Rocks 4, Random Rocks 5, Random Rocks 6, Random Rocks 7, Random Rocks 8
+enc_00=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_05=Chance:10%,Enc:(3-6) M_Rat AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Ant1 FIGHTING M_Bagur
+enc_08=Chance:5%,Enc:(2-4) M_Beast FIGHTING M_Chimera_weak
+enc_09=Chance:5%,Enc:(5-8) P_Searchers1 FIGHTING (5-8) P_Wander1 ,If(Player(Level) >= 12)
+enc_10=Chance:1%,Counter:1,Special,Map:Spec Dredd,Enc:Special1, If(Player(Level) > 7) And If(Global(413) < 1)
+enc_11=Chance:1%,Counter:1,Special,Map:Spec SixString,Enc:Special1, If(Player(Level) > 5) And If(Global(416) < 1)
+enc_12=Chance:1%,Counter:1,Special,Map:Spec Lumeniers,Enc:Special1, If(Player(Level) > 8) And If(Global(417) < 1)
+
+[Encounter Table 98]
+lookup_name=WILD_3C
+maps=Random City 1, Random City 2, Random City 3, Random Rocks 9, Random Rocks 10
+enc_00=Chance:15%,Enc:(2-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Chimera AMBUSH Player ,If(Player(Level) >= 3)
+enc_02=Chance:15%,Enc:M_Bagur AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) M_Chimera_weak AMBUSH Player
+enc_04=Chance:10%,Enc:(1-3) M_Mindless2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_05=Chance:10%,Enc:(3-6) M_Rat AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 AMBUSH Player
+enc_07=Chance:5%,Enc:(3-4) M_Ant1 FIGHTING M_Bagur
+enc_08=Chance:5%,Enc:(2-4) M_Beast FIGHTING M_Chimera_weak
+enc_09=Chance:5%,Enc:(5-8) P_Searchers1 FIGHTING (5-8) P_Wander1 ,If(Player(Level) >= 12)
+
+[Encounter Table 99]
+lookup_name=WAND_1B
+maps=Random Meadow 3, Random Meadow 4, Random Coast 1, Random Coast 2
+enc_00=Chance:15%,Enc:(2-4) P_Wander1 AMBUSH Player
+enc_01=Chance:15%,Enc:(2-4) M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-4) M_Ant1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-4) P_Wander2 AMBUSH Player
+enc_04=Chance:10%,Enc:P_Wander_Alone FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(3-4) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(1-3) M_Mindless1 AMBUSH Player
+enc_07=Chance:5%,Enc:(2-3) P_Wander2 FIGHTING (2-3) M_Ant1
+enc_08=Chance:5%,Enc:(3-5) M_Ant1 AMBUSH Player
+enc_09=Chance:5%,Enc:(3-5) M_Scorp AMBUSH Player
+
+[Encounter Table 100]
+lookup_name=BAND_1B
+maps=Random Meadow 1, Random Meadow 2, Random Coast 1, Random Coast 2
+enc_00=Chance:15%,Enc:M_Urs AMBUSH Player
+enc_01=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_02=Chance:15%,Enc:(1-3) P_Pirates1 AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) P_Pirates2 FIGHTING (1-3) M_Ant1
+enc_04=Chance:10%,Enc:(3-4) P_Pirates1 FIGHTING (1-3) M_Ant1
+enc_05=Chance:10%,Enc:(1-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_06=Chance:10%,Enc:(2-4) P_Raiders2 FIGHTING M_Urs
+enc_07=Chance:5%,Enc:(1-3) M_Urs AMBUSH Player ,If(Player(Level) >= 3)
+enc_08=Chance:5%,Enc:(2-4) P_Raiders2 FIGHTING (1-3) M_Urs ,If(Player(Level) >= 8)
+enc_09=Chance:5%,Enc:(2-4) M_Ant2 FIGHTING M_Urs
+
+[Encounter Table 101]
+lookup_name=COMMB
+maps=Random Meadow 4, Random Meadow 5, Random Coast 1, Random Coast 2
+enc_00=Chance:15%,Enc:(1-3) M_Ant1 AMBUSH Player
+enc_01=Chance:15%,Enc:M_Scorp AMBUSH Player
+enc_02=Chance:15%,Enc:(2-3) M_Jackal1 AMBUSH Player
+enc_03=Chance:10%,Enc:(2-3) M_Ant2 AMBUSH Player ,If(Player(Level) >= 3)
+enc_04=Chance:10%,Enc:(1-3) M_Jackal2 AMBUSH Player
+enc_05=Chance:10%,Enc:(1-3) M_Scorp AMBUSH Player
+enc_06=Chance:10%,Enc:(2-4) M_Ant2 FIGHTING (1-3) M_Jackal1
+enc_07=Chance:5%,Enc:(3-5) M_Jackal1 AMBUSH Player
+enc_08=Chance:5%,Enc:(2-3) M_Jackal1 FIGHTING (1-3) M_Scorp
+enc_09=Chance:5%,Enc:(3-4) M_Scorp AMBUSH Player
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;   End of Newly added Encounter Types    ;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Encounter area types:
+; Individual Encounter Tables
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;   End of Newly added Encounter Tables   ;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; All of the Tile information:
+[Tile Data]
+num_horizontal_tiles=4
+
+; Known means that you have heard of a place (partial fog and button
+;   shows up)
+; Visited means that you have been there (no fog at all, button is
+;   available)
+; Not really sure if these are necessary...
+
+; 7 X 6
+
+[Tile 0]
+art_idx=339
+encounter_difficulty=0
+walk_mask_name=wrldmp00
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,WILD_2D
+4_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+5_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+5_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+5_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+6_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMB
+6_1=Mountain,No_Fill,Rare,Uncommon,Rare,WAND_1B
+6_2=Mountain,No_Fill,Rare,Uncommon,Rare,WAND_1B
+6_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+6_4=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+
+[Tile 1]
+art_idx=340
+encounter_difficulty=0
+walk_mask_name=wrldmp01
+0_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+0_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+0_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_1M
+0_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_1M
+0_4=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_1M
+0_5=Desert,No_Fill,Rare,Uncommon,Uncommon,WILD_1D
+1_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+1_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+1_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_1M
+1_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_1M
+1_4=Mountain,No_Fill,Rare,Uncommon,Uncommon,HUNT_1M
+1_5=Desert,No_Fill,Rare,Common,Uncommon,HUNT_1D
+2_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+2_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+2_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_1M
+2_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,HUNT_1M
+2_4=Desert,No_Fill,Rare,Common,Uncommon,HUNT_1D
+2_5=Desert,No_Fill,Rare,Common,Uncommon,HUNT_1D
+3_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+3_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+3_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+3_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,HUNT_1M
+3_4=Desert,No_Fill,Rare,Common,Uncommon,HUNT_1D
+3_5=Desert,No_Fill,Rare,Common,Uncommon,HUNT_1D
+4_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+4_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+4_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+4_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+4_4=Desert,No_Fill,Rare,Uncommon,Uncommon,HUNT_1D
+4_5=Desert,No_Fill,Rare,Common,Uncommon,LUM_1D
+5_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+5_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+5_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+5_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+5_4=Desert,No_Fill,Rare,Uncommon,Uncommon,HUNT_1D
+5_5=Desert,No_Fill,Rare,Common,Uncommon,LUM_1D
+6_0=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+6_1=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+6_2=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+6_3=Mountain,No_Fill,Rare,Uncommon,Uncommon,WILD_2M
+6_4=Desert,No_Fill,Rare,Uncommon,Uncommon,HUNT_1D
+6_5=Desert,No_Fill,Rare,Common,Uncommon,LUM_1D
+
+[Tile 2]
+art_idx=341
+encounter_difficulty=0
+walk_mask_name=wrldmp02
+0_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+0_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,LUM_1D
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,LUM_1D
+1_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+1_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,LUM_1D
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,LUM_1D
+2_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+2_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,LUM_1D
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,LUM_2D
+3_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+3_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_4=Mountain,No_Fill,Rare,Uncommon,Rare,LUM_1M
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,LUM_2D
+4_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+4_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_4=Mountain,No_Fill,Rare,Uncommon,Rare,LUM_1M
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,LUM_3D
+5_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+5_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_4=Mountain,No_Fill,Rare,Uncommon,Rare,LUM_2M
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,LUM_3D
+6_0=Mountain,No_Fill,Rare,Uncommon,Rare,COMMM
+6_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_4=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+6_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+
+[Tile 3]
+art_idx=342
+encounter_difficulty=0
+walk_mask_name=wrldmp03
+0_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+0_4=Mountain,No_Fill,Rare,Uncommon,Rare,WAND_2M
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+1_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_4=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+2_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_4=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_2D
+3_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_2D
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+4_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_4D
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+5_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_3=Mountain,No_Fill,Rare,Uncommon,Rare,BAND_2M
+5_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_4D
+5_5=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_3=Mountain,No_Fill,Rare,Uncommon,Rare,BAND_2M
+6_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+6_5=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+
+[Tile 4]
+art_idx=343
+encounter_difficulty=0
+walk_mask_name=wrldmp04
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMB
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,COMMB
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,COMMB
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1B
+2_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMB
+2_5=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1B
+3_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1B
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+4_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+5_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+5_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+5_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+6_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+6_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+6_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+6_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+6_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+
+[Tile 5]
+art_idx=344
+encounter_difficulty=0
+walk_mask_name=wrldmp05
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+0_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_5D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+1_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+1_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+2_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+2_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+2_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+3_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+3_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+3_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_1D
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+4_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+4_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_1D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+5_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+5_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+6_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_1D
+6_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+6_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+6_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+
+[Tile 6]
+art_idx=345
+encounter_difficulty=0
+walk_mask_name=wrldmp06
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_1D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_1D
+0_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_1D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+1_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+1_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+1_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+2_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+3_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+3_1=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+3_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,LUM_4D
+4_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+4_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+5_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+5_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+6_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+6_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_7D
+6_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+6_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+
+[Tile 7]
+art_idx=346
+encounter_difficulty=0
+walk_mask_name=wrldmp07
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_4D
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_7D
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_7D
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_7D
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,WILD_3D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,WILD_3D
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+4_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+4_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,WILD_3D
+4_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+4_4=Mountain,No_Fill,Rare,Uncommon,Rare,WAND_2M
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+5_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+5_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+5_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_3M
+5_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+5_4=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+6_0=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+6_1=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_1M
+6_2=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_3M
+6_3=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_4=Mountain,No_Fill,Rare,Uncommon,Rare,WILD_2M
+6_5=City,No_Fill,Rare,Uncommon,Rare,COMMC
+
+[Tile 8]
+art_idx=347
+encounter_difficulty=0
+walk_mask_name=wrldmp08
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMB
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMB
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMB
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+5_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+6_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+6_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+6_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+6_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+6_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+6_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+
+[Tile 9]
+art_idx=348
+encounter_difficulty=0
+walk_mask_name=wrldmp09
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+0_2=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+1_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+2_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_4D
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_4D
+2_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+2_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+3_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+3_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_2D
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+3_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+4_1=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+4_2=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_2D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+4_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+5_1=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+5_2=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+5_3=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+5_5=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+6_0=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+6_1=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+6_2=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+6_3=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+6_4=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+6_5=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+
+[Tile 10]
+art_idx=349
+encounter_difficulty=0
+walk_mask_name=wrldmp10
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+0_2=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+0_3=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_1M
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_2D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_2D
+1_2=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_2M
+1_3=City,No_Fill,Uncommon,Common,Uncommon,DFND_3C
+1_4=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_3D
+1_5=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_3D
+2_0=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_3D
+2_1=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_2M
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_2D
+2_3=City,No_Fill,Uncommon,Common,Uncommon,DFND_2C
+2_4=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_2D
+2_5=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_2D
+3_0=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_4D
+3_1=Mountain,No_Fill,Uncommon,Common,Uncommon,DFND_4M
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_4D
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_4D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_4D
+3_5=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_2D
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_8D
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_5D
+4_2=City,No_Fill,Uncommon,Common,Uncommon,DFND_5C
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_5D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_4D
+4_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_8D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_5D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_5D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_5D
+5_3=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_5D
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_1D
+5_5=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_2D
+6_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_5D
+6_1=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_1D
+6_2=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_2D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_2D
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_1D
+6_5=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_2D
+
+[Tile 11]
+art_idx=350
+encounter_difficulty=0
+walk_mask_name=wrldmp11
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+0_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+1_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+1_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+1_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_5D
+2_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+2_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_2D
+2_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_8C
+3_0=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+3_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_2D
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,WILD_1D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,WILD_1D
+3_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_8C
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+4_2=Desert,No_Fill,Uncommon,Common,Uncommon,WILD_1D
+4_3=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+4_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+4_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_8C
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_1D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,WILD_1D
+5_3=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+5_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+5_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_8C
+6_0=City,No_Fill,Uncommon,Common,Uncommon,BAND_1C
+6_1=Mountain,No_Fill,Uncommon,Common,Uncommon,COMMM
+6_2=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+6_3=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+6_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+6_5=Mountain,No_Fill,Uncommon,Common,Uncommon,BAND_2M
+
+[Tile 12]
+art_idx=351
+encounter_difficulty=0
+walk_mask_name=wrldmp12
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,WILD_3D
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+5_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+5_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+5_5=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+6_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+6_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+6_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+6_5=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+
+[Tile 13]
+art_idx=352
+encounter_difficulty=0
+walk_mask_name=wrldmp13
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+0_2=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_2D
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+0_4=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+0_5=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+1_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_6D
+1_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_6D
+1_4=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+1_5=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+2_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_6D
+2_4=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+2_5=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+3_0=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+3_1=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_6D
+3_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_6D
+4_0=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_2D
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+4_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+4_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+5_3=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+5_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+6_0=Desert,No_Fill,Uncommon,Common,Uncommon,DFND_1D
+6_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+6_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_7D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+6_5=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+
+[Tile 14]
+art_idx=353
+encounter_difficulty=0
+walk_mask_name=wrldmp14
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_7D
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_7D
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_6D
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_6D
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,SRCH_2D
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_6D
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,SRCH_2D
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+4_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+5_0=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+5_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_3=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1D
+5_4=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+6_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+6_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+6_2=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+6_3=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+6_4=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+6_5=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+
+[Tile 15]
+art_idx=354
+encounter_difficulty=0
+walk_mask_name=wrldmp15
+0_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+0_1=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_2=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_1D
+0_4=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+0_5=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_4D
+1_0=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+1_1=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+1_2=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+1_3=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+1_4=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+1_5=Desert,No_Fill,Uncommon,Common,Uncommon,WILD_1D
+2_0=City,No_Fill,Uncommon,Common,Uncommon,WAND_1C
+2_1=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+2_2=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+2_3=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+2_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+2_5=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+3_0=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+3_1=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+3_2=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+3_3=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+3_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+3_5=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_1M
+4_0=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+4_1=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+4_2=City,No_Fill,Uncommon,Common,Uncommon,WILD_1C
+4_3=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+4_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_1M
+4_5=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+5_0=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+5_1=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+5_2=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+5_3=City,No_Fill,Uncommon,Common,Uncommon,WILD_2C
+5_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+5_5=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+6_0=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+6_1=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+6_2=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+6_3=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+6_4=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+6_5=Mountain,No_Fill,Uncommon,Common,Uncommon,WILD_2M
+
+[Tile 16]
+art_idx=355
+encounter_difficulty=0
+walk_mask_name=wrldmp16
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+0_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+0_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+0_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_1B
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+1_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+1_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1B
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+4_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+5_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+5_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_8D
+6_0=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+6_1=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+6_2=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+6_3=City,No_Fill,Rare,Uncommon,Rare,NWO_1C
+6_4=City,No_Fill,Rare,Uncommon,Rare,NWO_1C
+6_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+
+[Tile 17]
+art_idx=356
+encounter_difficulty=0
+walk_mask_name=wrldmp17
+0_0=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+0_1=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+0_2=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+0_3=City,No_Fill,Rare,Uncommon,Rare,NWO_1C
+0_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+0_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+1_0=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+1_1=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+1_2=City,No_Fill,Uncommon,Common,Uncommon,NWO_1C
+1_3=City,No_Fill,Rare,Uncommon,Rare,NWO_1C
+1_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+1_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+2_0=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+2_1=Desert,No_Fill,Uncommon,Common,Uncommon,NWO_1D
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,NWO_1D
+2_3=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+2_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+2_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,NWO_1D
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+3_3=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+3_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+3_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,NWO_1D
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+4_2=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+4_3=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+4_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+4_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+5_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+5_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_7D
+5_2=City,No_Fill,Rare,Uncommon,Rare,BAND_7C
+5_3=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+5_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+5_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+6_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+6_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+6_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+6_3=City,No_Fill,Rare,Uncommon,Rare,COMMC
+6_4=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+6_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+
+[Tile 18]
+art_idx=357
+encounter_difficulty=0
+walk_mask_name=wrldmp18
+0_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+0_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+0_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+0_3=City,No_Fill,Rare,Uncommon,Rare,COMMC
+0_4=City,No_Fill,Rare,Uncommon,Rare,COMMC
+0_5=City,No_Fill,Rare,Uncommon,Rare,WAND_2C
+1_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+1_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+1_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+1_3=Desert,No_Fill,Rare,Uncommon,Rare,COMMD
+1_4=City,No_Fill,Rare,Uncommon,Rare,COMMC
+1_5=City,No_Fill,Rare,Uncommon,Rare,COMMC
+2_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_4D
+2_1=Desert,No_Fill,Rare,Uncommon,Rare,SRCH_2D
+2_2=Desert,No_Fill,Rare,Uncommon,Rare,SRCH_2D
+2_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_1D
+2_4=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+2_5=Desert,No_Fill,Rare,Uncommon,Rare,WAND_2D
+3_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_1D
+3_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+3_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+3_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+3_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+3_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+4_0=Desert,No_Fill,Rare,Uncommon,Rare,TRAD_6D
+4_1=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+4_2=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+4_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+4_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+4_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+5_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_6D
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_3D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_3D
+5_3=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+5_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+5_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_3D
+6_0=Desert,No_Fill,Uncommon,Common,Uncommon,TRAD_3D
+6_1=City,No_Fill,Uncommon,Common,Uncommon,BAND_5C
+6_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_5D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_5D
+6_4=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+6_5=Desert,No_Fill,Rare,Uncommon,Rare,BAND_5D
+
+[Tile 19]
+art_idx=358
+encounter_difficulty=0
+walk_mask_name=wrldmp19
+0_0=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+0_1=City,No_Fill,Uncommon,Common,Uncommon,TRAD_6C
+0_2=City,No_Fill,Uncommon,Common,Uncommon,WAND_2C
+0_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_4D
+0_4=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+0_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+1_0=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_2D
+1_1=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_8D
+1_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_8D
+1_3=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_4D
+1_4=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+1_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+2_0=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+2_1=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+2_2=Desert,No_Fill,Uncommon,Common,Uncommon,BAND_8D
+2_3=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_2D
+2_4=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+2_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+3_0=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+3_1=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_2D
+3_2=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+3_3=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+3_4=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_2D
+3_5=City,No_Fill,Uncommon,Common,Uncommon,BAND_4C
+4_0=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_2M
+4_1=Desert,No_Fill,Uncommon,Common,Uncommon,COMMD
+4_2=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+4_3=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+4_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+4_5=Desert,No_Fill,Uncommon,Common,Uncommon,SRCH_2D
+5_0=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_1M
+5_1=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+5_2=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+5_3=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+5_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+5_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+6_0=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_1M
+6_1=Mountain,No_Fill,Uncommon,Common,Uncommon,WAND_1M
+6_2=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+6_3=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+6_4=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D
+6_5=Desert,No_Fill,Uncommon,Common,Uncommon,WAND_1D

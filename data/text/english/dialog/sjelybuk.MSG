@@ -1,0 +1,34 @@
+# Данный файл описывает сообщения,
+# использующиеся в скриптах сценери
+#
+# Created by Artem "Rainman" Samoylov
+# 30/07/2013
+#
+# ЧТО ЭТО?
+# Это - книга Илая, которую ГГ должен расшифровать.
+#
+# Описание 1
+{1}{}{An odd book.}
+{2}{}{The book contains dots and lines, which pop out of its pages. Despite your efforts, you fail to figure out the solution to this.}
+{6}{}{No, looks like you are not that smart to solve it.}
+
+# Описание 2
+{3}{}{You see: "Bible"}
+{4}{}{It sais "Bible: the old testament" on the cover}
+{5}{}{You concentrate, then it hits you - You know how to read the book!}
+
+# Действия
+{7}{}{}
+{8}{}{}
+{9}{}{}
+{10}{}{}
+{11}{}{}
+{12}{}{}
+{13}{}{}
+{14}{}{}
+{15}{}{}
+{16}{}{}
+{17}{}{}
+{18}{}{}
+{19}{}{}
+{20}{}{}
