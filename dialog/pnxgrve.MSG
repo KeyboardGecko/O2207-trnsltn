@@ -8,12 +8,12 @@
 # Это - надгробие Надин в городе над метро. Нужно для квеста ДЖО.
 #
 # Описание 1
-{1}{}{Вы видите: красивое надгробие.}
-{2}{}{Вы видите: надгробие с красивой табличкой.}
+{1}{}{You see: a fancy tombstone.}
+{2}{}{You see: a tombstone with a beautiful sign.}
 
 # Описание 2
-{3}{}{Ёмм, это надгробие выполнено с большой любовью.}
-{4}{}{На надгробие прикреплена резная деревянная табличка удивительно тонкой ручной работы, на табличке изображена летящая в облаках голубка и надпись: "Мы встретимся на небесах, Надин".}
+{3}{}{Looks like someone put a lot of effort into this gravestone.}
+{4}{}{A plank of a beautiful and delicate craftsmanship is attached to the tombstone. It depicts a dove, flying in the clouds. There's also an inscription: "We'll meet in Heaven, my lovely Nadine".}
 
 # Действия
 {5}{}{}

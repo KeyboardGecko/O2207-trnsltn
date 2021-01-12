@@ -22,23 +22,23 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: одичалая.}
-{2}{}{Вы видите: дикарка.}
-{3}{}{Вы видите: местная женщина.}
-{4}{}{Вы видите: охотница.}
-{5}{}{Вы видите: местная.}
-{6}{}{Мышцы проступают через тонкую кожу.}
-{7}{}{Она выглядит сильнее большинства мужчин, что Вам встречались.}
-{8}{}{Это просто воплощение первобытной, животной женщины.}
-{9}{}{Странные мысли лезут Вам в голову при взгляде на ее тренированное тело.}
+{1}{}{You see: wildling.}
+{2}{}{You see: savage.}
+{3}{}{You see: local woman.}
+{4}{}{You see: huntress.}
+{5}{}{You see: local.}
+{6}{}{The muscles pop out of a thin skin.}
+{7}{}{She looks stronger than many of men you encountered.}
+{8}{}{This is an embodiment of a primal, wild woman.}
+{9}{}{You have all kinds of strange thoughts in your head when looking at her trained body.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Заходить, поесть и поспать!}
-{11}{}{Не бояться, мы любить чужаки!}
-{12}{}{Ты хотеть наши женщины? Мы дать их твой!}
-{13}{}{Еда и постель, мы иметь все нужное!}
-{14}{}{Ты уставать! Заходить спать к нам!}
+{10}{}{Come, eat and sleep!}
+{11}{}{No afraid, we love outsiders!}
+{12}{}{You want our women? We give you!}
+{13}{}{Bed and food, we have all need!}
+{14}{}{You tire! Come sleep to us!}
 {15}{}{}
 {16}{}{}
 {17}{}{}

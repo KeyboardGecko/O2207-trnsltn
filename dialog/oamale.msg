@@ -22,23 +22,23 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: одичалый.}
-{2}{}{Вы видите: дикарь.}
-{3}{}{Вы видите: сильный дикарь.}
-{4}{}{Вы видите: воин.}
-{5}{}{Вы видите: дикий.}
-{6}{}{Он поигрывает мышцами.}
-{7}{}{Выражение лица у него отнюдь не гостеприимное.}
-{8}{}{Все его тело покрыто татуировками.}
-{9}{}{Наверняка он мог бы перекусить Вам руку.}
+{1}{}{You see: wildling.}
+{2}{}{You see: savage.}
+{3}{}{You see: strong savage.}
+{4}{}{You see: warrior.}
+{5}{}{You see: wild one.}
+{6}{}{He flexes his muscles.}
+{7}{}{The expression on his face does not look hospitable at all.}
+{8}{}{His body is fully covered with tattoos.}
+{9}{}{He could probably chew off you hand with ease.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Заходить, поесть и поспать!}
-{11}{}{Не бояться, мы любить чужаки!}
-{12}{}{Ты хотеть наши женщины? Мы дать их твой!}
-{13}{}{Еда и постель, мы иметь все нужное!}
-{14}{}{Ты уставать! Заходить спать к нам!}
+{10}{}{Come, eat and sleep!}
+{11}{}{No afraid, we love outsiders!}
+{12}{}{You want our women? We give you!}
+{13}{}{Bed and food, we have all need!}
+{14}{}{You tire! Come sleep to us!}
 {15}{}{}
 {16}{}{}
 {17}{}{}

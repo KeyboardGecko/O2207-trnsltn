@@ -8,17 +8,17 @@
 # Это - ведро с кормежкой лавашей, в которую Даниэль и Арсэн подливают машинное масло.
 #
 # Описание 1
-{1}{}{Вы видите: бадья с кормом.}
+{1}{}{You see: a tub with food.}
 {2}{}{}
 
 # Описание 2
-{3}{}{Похоже, этот кормежка для лавашей.}
+{3}{}{Looks like food for lavashi.}
 {4}{}{}
 
 # Действия
-{5}{}{Вы долго всматриваетесь в емкость с вонючей жижей, но не видите ничего странного.}
-{6}{}{Присмотревшись повнимательнее Вы замечаете в кашеообразной жиже масляные разводы от машинного масла!}
-{7}{}{Вы равномерно наносите краску на ободок бадьи, слегка припорошив ее пылью. Ловушка поставлена, остается ждать.}
+{5}{}{You stare into the stinky goop, but fail to see anything unusual.}
+{6}{}{A closer inspection reveals that this mushy goo contains oil grease!}
+{7}{}{You carefully put some paint on the tub's edge, slightly covering it with dust. The trap is set, all you have to do now is to wait.}
 {8}{}{}
 {9}{}{}
 {10}{}{}

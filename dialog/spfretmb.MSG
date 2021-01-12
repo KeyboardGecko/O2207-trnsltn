@@ -8,17 +8,17 @@
 # Это - несколько надгробий светлячков
 #
 # Описание 1
-{1}{}{Вы видите: странное надгробие с каменной нишей.}
-{2}{}{Вы видите: необычный памятник.}
+{1}{}{You see: a strange gravestone with a niche in it.}
+{2}{}{You see: an unusual gravestone.}
 
 # Подробное описание
-{3}{}{Нет ни каменной ниши, ни выбитой на камне надписи. Это больше похоже на какой-то постамент.}
-{4}{}{Полустертые буквы все еще можно разобрать. На камне высечено "Ёобан Уошберн".}
-{5}{}{Надпись едва различима "Пастор Дерриал Бук".}
-{6}{}{Кажется, здесь написано "Мистер Вселенная".}
+{3}{}{You can't see any inscribings or niche. This looks more like a pedestal.}
+{4}{}{You can still read the letters here. The carved inscription says: "Hoban Washburn".}
+{5}{}{You can hardly see the letters: "Shepherd Derrial Book".}
+{6}{}{Looks like the sign reads: "mr. Universe".}
 
 # Действия
-{7}{}{При раскопке Вы обнаруживаете человеческий скелет, обнимающий останки робота.}
+{7}{}{Digging around, you find a human skeleton hugging some robotic remains.}
 {8}{}{}
 {9}{}{}
 {10}{}{}
