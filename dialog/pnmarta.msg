@@ -87,7 +87,7 @@
 
 #Node033
 {330}{}{Oh, you are such handsome young man! Thank you so much! Ask me anything, I won't say no to you!}
-{331}{034}{Wll, um, it would be great to have something useful.}
+{331}{034}{Well, um, it would be great to have something useful.}
 {332}{035}{Won't say no, you say? Martha... [put your hand on her shoulder]}
 {333}{999}{It's okay, I'm glad to be helpful. All the best.}
 
