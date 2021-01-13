@@ -255,7 +255,7 @@
 {1019}{}{Supervisor}
 {1020}{}{Overseer}
 {1021}{}{Druglord}
-{1022}{}{Lord of Radius}
+{1022}{}{Lord of the Wastes}
 {1023}{}{Mystery Seeker}
 {1024}{}{Crazy Hands}
 {1025}{}{Sex Machine}
