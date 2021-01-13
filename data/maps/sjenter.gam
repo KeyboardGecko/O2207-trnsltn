@@ -1,8 +1,0 @@
- // Map vars for Olympus Maps
-
- // Comments
-
-
-MAP_GLOBAL_VARS:
-                                                NUMBER
-MVAR_open_barier                :=0;            // (0)
