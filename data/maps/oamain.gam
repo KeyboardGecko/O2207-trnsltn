@@ -1,9 +1,0 @@
- // Map vars for Olympus Maps
-
- // Comments
-
-
-MAP_GLOBAL_VARS:
-                                                NUMBER
-MVAR_Ptuna_kill_Khala              :=0;            // (0)
-MVAR_fight_to_klumk                :=0;            // (1)
