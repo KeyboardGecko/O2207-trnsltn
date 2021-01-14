@@ -130,10 +130,10 @@
 {102}{}{:: something clicked:}
 {103}{}{krrr-trrr-click}
 {104}{}{trrr-krr-click}
-{105}{}{:: click:: }
+{105}{}{::click::}
 {106}{}{krr-rrr-click}
 {107}{}{krrr-trrr-click}
-{108}{}::door opened::}
+{108}{}{::door opened::}
 {109}{}{::opens::}
 #
 # locked doors, safes, drawers
@@ -145,7 +145,7 @@
 {114}{}{Damn, it didn't work...}
 {115}{}{And what did you want to achieve??}
 {116}{}{It doesn't seem like a good idea.}
-{{117}{}{No! That won't do!}
+{117}{}{No! That won't do!}
 {118}{}{You locked the lock and jammed the door.}
 {119}{}{::Locked::}
 #
