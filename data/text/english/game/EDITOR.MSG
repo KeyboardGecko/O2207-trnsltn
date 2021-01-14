@@ -236,16 +236,16 @@
 {1000}{}{Reputation (General) }
 {1001}{}{Childkiller}
 {1002}{}{God of Olympus}
-{1003}{}{Grim Reaper}
-{1004}{}{Spot-Up addiction}#Nuka Cola
-{1005}{}{Stronghold addiction}#Buffout
-{1006}{}{Brainiac addiction}#Mentats
-{1007}{}{Combatid addiction}#Psycho
-{1008}{}{Resistanol addiction}#RadAway
-{1009}{}{Alcohol addiction}
-{1010}{}{Drop addiction}#Jet
-{1011}{}{Deadly addiction}#Tragic
-{1012}{}{TçIS GOES WITç TçE TEMPORARì ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE TçIS}
+{1003}{}{Berserker}
+{1004}{}{Nuka-Cola addiction}
+{1005}{}{Buffout addiction}
+{1006}{}{Mentats addiction}
+{1007}{}{Psycho addiction}
+{1008}{}{RadAway addiction}
+{1009}{}{Alcoholism}
+{1010}{}{Jet addiction}
+{1011}{}{Tragic addiction}
+{1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Ray of Hope}
 {1014}{}{True Believer}
 {1015}{}{Atheist}
@@ -257,39 +257,39 @@
 {1021}{}{Druglord}
 {1022}{}{Lord of the Wastes}
 {1023}{}{Mystery Seeker}
-{1024}{}{Crazy Hands}
+{1024}{}{Magical Hands}
 {1025}{}{Sex Machine}
 {1026}{}{Gravedigger}
 #
 # Karma description strings
 #
-{1100}{}{This setting is responsible for your reputation. The higher it is, the better you will be treated by good characters and civilians. With a negative reputation, everyone will hate you.}
-{1101}{}{You kill small, innocent kids, Radius's hope and future. The evil you do not like anybody. This is very bad.}
-{1102}{}{There it is, now you are the God of Olympus! Through how much it was necessary to pass, but in fact it was worth it! Only here, how to deal with such power?}
-{1103}{}{You decided to walk like the grim reaper through Radius and destroy all dissenters and dissidents.}
-{1104}{}{You thoroughly enjoy Spot-Up, the addictively popular soda of the post-nuclear world.}
-{1105}{}{You are addicted to Stronghold. You must take these green pills on a regular schedule or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Brainiac addiction. You must consume a tasty Mentat regularly or suffer adversely from withdrawal.}
-{1107}{}{You have an addiction to Combatid. If you don't take the drug on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to Resistanol. While not a life threatening condition, you must take the drug regularly to feel well.}
-{1109}{}{You have a problem with alcohol, you can't get enough! Your preoccupation with getting drunk sometimes interferes with your sense of priorities.}
-{1110}{}{You are addicted to Drop. If you don't consume the drug regularly, you're a helluva mess.}
-{1111}{}{Tragically, you are addicted to the Dead. You are constantly in search of new expansions.}
+{1100}{}{This is a ranged stat that represents your general reputation. The higher the number, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
+{1101}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
+{1102}{}{This is it, you are now the God of Olympus! How much I had to go through, but it was worth it! But what to do with such power?}
+{1103}{}{You have killed a large number of people. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the pop of the post-nuclear world.}
+{1105}{}{You are addicted to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular chem or suffer withdrawal.}
+{1107}{}{You have a chem addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1108}{}{Your body has become addicted to Rad-Away. While not life threatening, you must take it regularly.}
+{1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
+{1110}{}{You have a chem addiction. You must take Jet on a regular basis.}
+{1111}{}{Tragically, you are hooked on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{You decided to direct all the resources of the skyscraper to the needs of Radius residents, even though it makes Olympus defenseless against robbers and looters.}
+{1113}{}{You decided to direct all the resources of the skyscraper to the needs of the inhabitants of the Wasteland, even though this makes Olympus defenseless against robbers and marauders.}
 {1114}{}{You diligently agitated the inhabitants of Tartarus to serve the fictional Gods, and they began to work harder. Food and water became abundant and many unrest was quelled. Lying for salvation?}
-{1115}{}{You diligently convinced the people of Tartarus that they were being fooled and that there were no gods. Many threw down the work and the more unrest was raised. There is less food and water but more cruelty from the "Gods".}
-{1116}{}{You managed to incite a punitive detachment of Olympus to the Caves of the Undead! Rejoice, nobody left alive there.}
+{1115}{}{You diligently convinced the people of Tartarus that they were being fooled, and that there were no gods. Many threw down their work and more unrest arose. There is less food and water but more cruelty from the "Gods".}
+{1116}{}{You managed to incite a retaliatory squadron of Olympus to the Caves of the Undead! Rejoice, nobody left alive there.}
 {1117}{}{You did a nice job of making the soil in the Undeath Caves a little more fertile, and the harvest a little richer. Rejoice, now they live a little easier.}
 {1118}{}{Betrayals, secret murders, deception, denunciations ... Who cares? Winners are not judged! You are now the leader of the Sunset Dogs!}
-{1119}{}{The intrigue of intrigues and long-standing family quarrels - you've unraveled all and even took the post of Supervisor in the New World Order Cannery! You can now be provided with canned food.}
-{1120}{}{It is not easy to become the head of four crazy families in Laivos, but in a crazy world there rules are crazy. Oh, and why are the residents of the shelter calling you "Overseer"?}
-{1121}{}{It's not everyone's dream in Radius to control drugs and narcotics. You realized this dream and took the whole community of "Rainbow Raiders" under your iron fist!}
-{1122}{}{How is that even possible? Four groups that hate each other, and you managed to become the head figure in each of them? Bravo!}
-{1123}{}{You are a famous seeker of old world governmental, scientific or other secrets and the loot therein. Find unknown places and loot them is your motto!}
-{1124}{}{How many locks you've opened and useful items or garbage collected! Truly, your hands can work wonders with locks!}
-{1125}{}{You have decided to do this in detail. How many women have passed through you? One hundred? Two? Maybe it's time to go to the doctor and check yourself?}
-{1126} {} {Dig, dig, my shovel! Just digging, digging, quietly turning the corpse ... Valuable things are sometimes put into graves, but do the dead really need them?}
+{1119}{}{Intrigues of intrigue and long-standing family feuds - you unraveled everything, and even took the post of Supervisor in the New World Order Cannery! Well, now you are definitely provided with canned food.}
+{1120}{}{It is not easy to be the head of four crazy families in Laivos, but in a crazy world there are crazy rules. Oh, and why are the vault residents calling you "Overseer"?}
+{1121}{}{Controlling drugs and narcotics is not everyone's dream in the Wastes. You made that dream come true and now control the entire Rainbow Raiders community under your iron fist!}
+{1122}{}{How is that even possible? Four groups that hate each other, and you managed to become the head figure in each of them! Bravo!}
+{1123}{}{You are a famous seeker of old world governmental, scientific or other secrets... and of course the loot therein. Finding the unknown is your motto!}
+{1124}{}{How many locks you've opened and collected either useful items or garbage... Truly, your hands can work wonders with locks!}
+{1125}{}{You have thoroughly decided to tackle this business. How many women have passed through you? A hundred? Two? Maybe it's time to go to the doctor and get yourself checked?}
+{1126}{}{"They're dead, they don't care," has become your motto. Digging up the remains of others is more than a hobby for you.}
 #
 # Town reputations
 #
@@ -328,7 +328,7 @@
 # Karma section descriptions.
 #
 {4100}{}{Represents your reputation for a particular location.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Things you have become addicted to.}
 #
 # Special Demo version only text
 #
