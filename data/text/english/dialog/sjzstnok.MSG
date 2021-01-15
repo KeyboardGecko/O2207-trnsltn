@@ -1,25 +1,25 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# „ ­­л© д ©« ®ЇЁблў Ґв б®®ЎйҐ­Ёп,
+# ЁбЇ®«м§гойЁҐбп ў бЄаЁЇв е бжҐ­ҐаЁ
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - поломанный станок карла, который может случайно починить Форрест Гамп
+# —’Ћ ќ’Ћ?
+# ќв® - Ї®«®¬ ­­л© бв ­®Є Є а« , Є®в®ал© ¬®¦Ґв б«гз ©­® Ї®зЁ­Ёвм ”®ааҐбв ѓ ¬Ї
 #
-# Описание 1
-{1}{}{Вы видите: поломанный станок.}
-{2}{}{Вы видите: отремонтированный станок.}
+# ЋЇЁб ­ЁҐ 1
+{1}{}{You see: a broken machine.}
+{2}{}{You see: a repaired machine.}
 
-# Описание 2
-{3}{}{Не понятно почему, но этот станок не работает.}
-{4}{}{Похоже, устройство вполне себе рабочее.}
+# ЋЇЁб ­ЁҐ 2
+{3}{}{You don't know why, but this machine does not work.}
+{4}{}{Looks like the machine is working now.}
 
-# Действия
-{5}{}{Вы АБСОЛЮТНО не понимаете, что с этим можно было бы сделать.}
-{6}{}{Нет, у вас нет совершенно никаких идей, как и чем это можно было бы починить.}
-{7}{}{Вы попытались потянуть за рычаг, но задели гаечный ключ, и падая внутрь машины он обо что-то брякнулся, и станок запустился!}
-{8}{}{Этот станок отлично работает, не нужно с ним ничего больше делать.}
+# „Ґ©бвўЁп
+{5}{}{You have ABSOLUTELY no idea what could be done about it.}
+{6}{}{No, you don't have a slightest clue about how this can be fixed.}
+{7}{}{You tried to pull the lever. Accidentally you push off some wrench, which falls inside the machine. You hear some clanking inside. Suddenly, the machine starts to work!}
+{8}{}{This one is working fine. You don't need to do something about it.}
 {9}{}{}
 {10}{}{}
 {11}{}{}

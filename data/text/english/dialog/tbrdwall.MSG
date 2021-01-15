@@ -1,27 +1,27 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# „ ­­л© д ©« ®ЇЁблў Ґв б®®ЎйҐ­Ёп,
+# ЁбЇ®«м§гойЁҐбп ў бЄаЁЇв е бжҐ­ҐаЁ
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
 #
-# Описание 1
-{1}{}{Вы видите: стена.}
-{2}{}{С виду обычная стена.}
+# ЋЇЁб ­ЁҐ 1
+{1}{}{You see: a wall.}
+{2}{}{It looks like any other wall.}
 
-# Описание 2
-{3}{}{Вы видите: новая кирпичная кладка.}
-{4}{}{Заметно, что кладка совсем новая, а раствор слабый, кирпичи можно хоть пальцем выковырять.}
+# ЋЇЁб ­ЁҐ 2
+{3}{}{You see: a fresh brickwork.}
+{4}{}{It's pretty noticeable that the bricks are freshly laid. The cement also looks so weak it could be pulled out with a finger.}
 
-# Действия
-{5}{}{Чуть поднатужившись Вам удается вытащить пару кирпичей, а за ними разрушается и целый кусок стены...}
-{6}{}{Свежая кладка не выдерживает мощной взрывной волны, и стена рушится, как карточный домик.}
-{7}{}{Эмм... Нет, из этого ничего не выйдет.}
-{8}{}{Как Вы себе ЭТО представляете?}
-{9}{}{Может просто стоит пнуть? Или подуть на нее?}
-{10}{}{Похоже, Вам не хватает сил, чтобы разрушить кладку.}
-{11}{}{Вы недостаточно сильны чтобы этим разрушить кладку.}
-{12}{}{Это же... Труп! Труп Сына Богов!}
+# „Ґ©бвўЁп
+{5}{}{With little effort, you manage to pull out a couple of bricks. It makes a whole piece of the wall to crumble down.}
+{6}{}{Fresh brickwork can't hold the explosion. The wall folds like a house of cards.}
+{7}{}{Uh, no, that does not do anything.}
+{8}{}{How do you think it should work!?}
+{9}{}{Maybe it needs a little kick? Perhaps, some blowing onto?}
+{10}{}{Looks like you lack strength to break it.}
+{11}{}{You have not enough strength to bring down the wall with this.}
+{12}{}{Could it be... the corpse! It is Son of Gods' corpse!}
 {13}{}{}
 {14}{}{}
 {15}{}{}

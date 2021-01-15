@@ -1,22 +1,22 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# „ ­­л© д ©« ®ЇЁблў Ґв б®®ЎйҐ­Ёп,
+# ЁбЇ®«м§гойЁҐбп ў бЄаЁЇв е бжҐ­ҐаЁ
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - труп отца Санни в Пирсон-Таун
+# —’Ћ ќ’Ћ?
+# ќв® - вагЇ ®вж  ‘ ­­Ё ў ЏЁаб®­-’ г­
 #
-# Описание 1
-{1}{}{Вы видите: труп мужчины.}
-{2}{}{Вы видите: останки отца Санни.}
+# ЋЇЁб ­ЁҐ 1
+{1}{}{You see: man's corpse.}
+{2}{}{You see: remains of Sunny's father.}
 
-# Описание 2
-{3}{}{Похоже, он мертв уже пару дней. Смерть была ужасной, он весь растерзан.}
-{4}{}{Мужчина здесь уже пару дней, наверняка это отец Санни. Его тело разодрано на куски, он умер ужасной смертью.}
+# ЋЇЁб ­ЁҐ 2
+{3}{}{Looks like he is dead for a couple of days now. His death was horrible - he is completely torn apart.}
+{4}{}{The man lies here for a couple of days, probably, he is the Sunny's father. He is completely torn apart - his death was unpleasant.}
 
-# Действия
-{5}{}{У него нечего взять, только протухшие куски плоти на обнаженных костях.}
+# „Ґ©бвўЁп
+{5}{}{He's got nothing on him - only rotting pieces of meat hanging from his mauled bones.}
 {6}{}{}
 {7}{}{}
 {8}{}{}
