@@ -22,7 +22,7 @@
 {16}{}{Hit Points}
 {17}{}{The motion sensor option is not installed.}
 {18}{}{The motion sensor has no charges remaining.}
-{20}{}{Nebesa Games, 2010-2011 : www.olympus2207.com    Version2.1 [build by Foxx]}
+{20}{}{English Translation by KeyboardGecko and fedprod}
 {30}{}{This is not yet the end! Do you wish to continue playing?}
 {50}{}{If you see THIS message dial 555-EXTERMINATUS immediately.}
 #
