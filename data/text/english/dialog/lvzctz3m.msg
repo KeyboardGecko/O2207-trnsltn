@@ -1,35 +1,37 @@
 #############################################################
-#Critter text file << Livos resident guy in the filtration room >> 
+#Текстовый файл для криттера << Парень-житель ЛАЙВОС в фильтрационной зале >> 
 #############################################################
-#File structure:
-#lines 1-9 - description of the character;
-#lines 10-29 - acquaintance with a pesonage;
-#lines 30-99 - I don't know yet, but I think it will be useful...
-#Next, on the branches of the dialogue.
-#Each branch is a multiple of 100, i.e. 100 is one topic of dialogue, 200 is another.
-#Character replicas go after 10, i.e. 100, 110, 120, etc. With that
-#for replica 100 use Node010, for replica 240 use Node024.
-#For player answers - continuous numbering, i.e. the replica 650 responses will be 651, 652, 653, etc.
-#For special branches use additional numbers (for example, the replica 360 is divided into 3601 and 3602,
-#the same applies to the Node procedure, the answers will be in the usual form - 361, 362, etc.)
+#Структура файла:
+#строки 1-9 - описание персонажа;
+#строки 10-29 - знакомство с песонажем;
+#строки 30-99 - пока не знаю, но думаю, что пригодятся...
+#Далее, по веткам диалога.
+#Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
+#Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
+#для реплики 100 использовать Node010, для реплики 240 - Node024.
+#Для ответов игрока - сквозная нумерация, т.е. на реплику 650 ответы будут 651, 652, 653 и т.д. 
+#Для особых ответвлений использовать дополнительные цифры (например, реплика 360 делится на 3601 и 3602,
+#это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
 #############################################################
-#Such an organizational system does not allow creating too complex dialogues,
-#which for me personally is very good!!!
+#Такая организационная система не позволяет создавать слишком сложные диалоги,
+#что для меня лично очень хорошо!!!
 ############################################################
-#specially for "Olympus 2207", by Rainman, 13/04/2013
+#специально для "Олимп 2207", by Rainman, 13/04/2013
 #############################################################
 #
-#CRITTER DESCRIPTION
+#ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: a guy.}
-{2}{}{You see: a local guy.}
-{3}{}{You see: a young man.}
-{4}{}{You see: a resident of the shelter.}
-{5}{}{You see: a resident of Livos.}
-{6}{}{A young man. The lines of blue veins are clearly seen through the pale skin.}
-{7}{}{He dresses quite well.}
-{8}{}{He does not seem to bother himself with too much work.}
-{9}{}{He looks at you as if you owed him something very valuable.}
+{1}{}{Вы видите: парень.}
+{2}{}{Вы видите: местный житель.}
+{3}{}{Вы видите: молодой человек.}
+{4}{}{Вы видите: житель убежища.}
+{5}{}{Вы видите: житель Лайвос.}
+{6}{}{Молодой человек, сквозь бледную кожу отчетливо проступают паутинки синих вен.}
+{7}{}{Он вполне себе прилично одет.}
+{8}{}{Видно, что он занят чем-то полезным для общества. Он пинает железные устройства.}
+{9}{}{Он смотрит на Вас как... как будто Вы ему задолжали что-то очень ценное.}
+#
+#ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 {10}{}{}
 {11}{}{}
@@ -42,48 +44,48 @@
 {18}{}{}
 {19}{}{}
 #
-#SWIMMING MESSAGES
-# Positive messages
-{1000}{}{Greetings brother!}
-{1001}{}{Good day, friend!}
-{1002}{}{Hello! Can we get together near the wine machine some time later?}
-{1003}{}{Yes, yes, I'm glad to see you too.}
-{1004}{}{Wonderful day today, isn't it?}
-{1005}{}{I'm so glad to see you!}
-{1006}{}{I cannot express with words how glad I am to see you, my friend!}
-{1007}{}{Let's make contact at any time!}
-{1008}{}{You are our pride!}
-{1009}{}{Without second thoughts, my dear!}
-# Neutral messages
-{1010}{}{What else?}
-{1011}{}{N-no, just leave.}
-{1012}{}{Find yourself something to do.}
-{1013}{}{You are invading my personal space.}
-{1014}{}{How do I say it... Scat away from me.}
-{1015}{}{You are preventing me from admiring our chambers.}
-{1016}{}{Go stick to the Hortons. They are friendly.}
-{1017}{}{Better go irritate Schweins.}
-{1018}{}{Listen, new one... On the other hand, I'm too lazy to talk to you.}
-{1019}{}{Phew! The smell of you!}
-# Negative messages
-{1020}{}{Arrrgh! Go away!}
-{1021}{}{I hate you, scum!}
-{1022}{}{How dare you!?..}
-{1023}{}{Get away, abomination of hell!}
-{1024}{}{Oh you fucking burp of nasty beast!}
-{1025}{}{I'm gonna tear out your spleen and eat it with a glass of Chianti!}
-{1026}{}{We urgently need to clear the world of your presence, you bastard!}
-{1027}{}{What the hell do you want from me?!}
-{1028}{}{Just thinking about you makes me sick!}
-{1029}{}{You... You... Bitch!}
-#Sleeping messages
-{1030}{}{Need. To. Keep. The. Damn. Mechanisms. Working.}
-{1031}{}{I huffed and puffed and hit hard - but it still makes noise...}
-{1032}{}{I definitely picked the wrong turn in life...}
-{1033}{}{Why am I doomed to do this, I wonder? Is it karma? Maybe there is no such thing as fate and everything is in vain...}
-{1034}{}{To knock, to spit, to scratch the back of my head... It seems that I do everything according to the instructions, but it is not being repaired.}
-{1035}{}{Someone, bring me an electric hammer! I will show these gears...}
-{1036}{}{I am the light of the New World! I must breed, not sweat here...}
-{1037}{}{Rrrh, n- oh, come on! Work, you hellish device!}
-{1038}{}{Filters don't filter, generator does not generate...}
-{1039}{}{...We need to make filters filter and regenerate the generator!}
+#ПЛАВАЮЩИЕ СООБЩЕНИЯ
+# Положительные сообщения
+{1000}{}{Приветствую тебя, брат!}
+{1001}{}{Доброго дня, друг!}
+{1002}{}{Привет! Может сходим как-нибудь вместе в винной машине, а?}
+{1003}{}{Да-да, я тоже рад тебя видеть.}
+{1004}{}{Чудесный сегодня денек, не правда ли?}
+{1005}{}{Рад тебя видеть!}
+{1006}{}{Не выразить словами, как я рад тебе, друг!}
+{1007}{}{Обращайся в любое время!}
+{1008}{}{Ах, ты наша гордость!}
+{1009}{}{Всенепременнейше, дорогуша!}
+# Нейтральные сообщения
+{1010}{}{Ну что еще?}
+{1011}{}{Н-н-нет, просто уйди.}
+{1012}{}{Найди себе какое-нибудь занятие.}
+{1013}{}{Ты тут вторгаешься в мое пространство...}
+{1014}{}{Как бы так сказать... Брысь от меня.}
+{1015}{}{Ты мешаешь мне любоваться нашими чертогами.}
+{1016}{}{Приставай лучше... к Хортонам. Они дружелюбные.}
+{1017}{}{Иди лучше Швайнов подоставай.}
+{1018}{}{Слушай, новенький... Впрочем, мне лень с тобой разговаривать.}
+{1019}{}{Фу-у-у! Ну и запашок у тебя!}
+# Отрицательные сообщения
+{1020}{}{Аррргх! Пшел вон!}
+{1021}{}{Я тебя ненавижу, мразь!}
+{1022}{}{Да как ты смеешь!?..}
+{1023}{}{Сгинь, мерзость преисподней!}
+{1024}{}{Ах ты поганая отрыжка мерзких тварей!}
+{1025}{}{Я бы вырвал твою селезенку и съел бы ее с бокальчиком кьянти!}
+{1026}{}{Нужно срочно очистить мир от твоего присутствия, сволочь!}
+{1027}{}{Какого хрена те от меня надо?!}
+{1028}{}{Меня тошнит от одной мысли о тебе!}
+{1029}{}{Ты... Ты... Фу сука!}
+#Спящие сообщения
+{1030}{}{Нужно. Поддерживать. В. Порядке. Чертовы. Механизмы.}
+{1031}{}{Вроде и тряпочкой протирал, и ботинком постучал - а все равно шумит...}
+{1032}{}{О-ох не мое это призвание, сердцем чувствую - не мое...}
+{1033}{}{Интересно, а почему я должен этим заниматься? Это карма? Или судьбы нет, и все тщетно?..}
+{1034}{}{Стукнуть, плюнуть, почесать затылок... Вроде все по науке делаю - а не чинится.}
+{1035}{}{Эй, кто-нибудь! Принесите электромолот! Я покажу этим шестеренкам...}
+{1036}{}{Я же свет Нового Мира! Я должен размножаться, а не потеть тут...}
+{1037}{}{Ррргх, н-на, получи! Работай же, адская машина!}
+{1038}{}{Фильтры не фильтруют, генератор не генерирует...}
+{1039}{}{...нужно нам фильтры перефильтровать, генератор перегенерировать!}

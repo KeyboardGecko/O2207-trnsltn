@@ -1,37 +1,37 @@
 #############################################################
-#Critter text file << Livos resident girl >> 
+#Текстовый файл для криттера << Девушка-житель ЛАЙВОС >> 
 #############################################################
-#File structure:
-#lines 1-9 - description of the character;
-#lines 10-29 - acquaintance with a pesonage;
-#lines 30-99 - I don't know yet, but I think it will be useful...
-#Next, on the branches of the dialogue.
-#Each branch is a multiple of 100, i.e. 100 is one topic of dialogue, 200 is another.
-#Character replicas go after 10, i.e. 100, 110, 120, etc. With that
-#for replica 100 use Node010, for replica 240 use Node024.
-#For player answers - continuous numbering, i.e. the replica 650 responses will be 651, 652, 653, etc.
-#For special branches use additional numbers (for example, the replica 360 is divided into 3601 and 3602,
-#the same applies to the Node procedure, the answers will be in the usual form - 361, 362, etc.)
+#Структура файла:
+#строки 1-9 - описание персонажа;
+#строки 10-29 - знакомство с песонажем;
+#строки 30-99 - пока не знаю, но думаю, что пригодятся...
+#Далее, по веткам диалога.
+#Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
+#Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
+#для реплики 100 использовать Node010, для реплики 240 - Node024.
+#Для ответов игрока - сквозная нумерация, т.е. на реплику 650 ответы будут 651, 652, 653 и т.д. 
+#Для особых ответвлений использовать дополнительные цифры (например, реплика 360 делится на 3601 и 3602,
+#это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
 #############################################################
-#Such an organizational system does not allow creating too complex dialogues,
-#which for me personally is very good!!!
+#Такая организационная система не позволяет создавать слишком сложные диалоги,
+#что для меня лично очень хорошо!!!
 ############################################################
-#specially for "Olympus 2207", by Rainman, 13/04/2013
+#специально для "Олимп 2207", by Rainman, 13/04/2013
 #############################################################
 #
-#CRITTER DESCRIPTION
+#ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: a girl.}
-{2}{}{You see: a local girl.}
-{3}{}{You see: a young lady.}
-{4}{}{You see: a resident of the vault.}
-{5}{}{You see: a resident of Livos.}
-{6}{}{A young lady with a haggled, pale face.}
-{7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
-{8}{}{Bags under her eyes are clumsily masked by some powder. Or is it lime?..}
-{9}{}{Catching your gaze, the girl blinks with her left eye. Apparently, this is some kind of a tick.}
+{1}{}{Вы видите: девушка.}
+{2}{}{Вы видите: местная девушка.}
+{3}{}{Вы видите: юная особа.}
+{4}{}{Вы видите: жительница убежища.}
+{5}{}{Вы видите: жительница Лайвос.}
+{6}{}{Молодая особа, с осунувшимся бледным лицом.}
+{7}{}{Хоть ее одежда и сильно потрепана, Вы уверены, что ей НИКОГДА не приходилось охотиться на крыс или ночевать в пещерах.}
+{8}{}{Мешки под ее глазами неумело замаскированы какими-то белилами. Или это известь?..}
+{9}{}{Поймав Ваш взгляд, девушка подернула левым глазом. Судя по всему, это просто нервный тик.}
 #
-#HERE BEGINS A DIALOGUE
+#ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 {10}{}{}
 {11}{}{}
@@ -44,48 +44,48 @@
 {18}{}{}
 {19}{}{}
 #
-#SWIMMING MESSAGES
-# Positive messages
-{1000}{}{Hey, sweetie!}
-{1001}{}{Good day!}
-{1002}{}{Hello! Wanna hang out near the wine machine sometime?}
-{1003}{}{Yes, I'm glad to see you too.}
-{1004}{}{A wonderful day for sex, isn't it? [winks]}
-{1005}{}{I'm so glad to see you!}
-{1006}{}{Hey-hey, valiant warrior!}
-{1007}{}{Honey, any whim - for you!}
-{1008}{}{Oh, these pants suit you so much!}
-{1009}{}{Surely! Let me just finish here something.}
-# Neutral messages
-{1010}{}{So, how are you?}
-{1011}{}{No, you know, not today.}
-{1012}{}{Find yourself something to do.}
-{1013}{}{You are invading my personal space.}
-{1014}{}{No, not today.}
-{1015}{}{Nothing personal - you are just not my type, cowboy.}
-{1016}{}{This place is not suitable for you. Or the other way around.}
-{1017}{}{Do not look at me like that! So many perverts here...}
-{1018}{}{Listen, new one... Forget it, I'm too lazy to talk to you.}
-{1019}{}{Go away, nasty.}
-# Negative messages
-{1020}{}{Arrrgh! I'll scratch your face out with this fork!}
-{1021}{}{I hate you, asshole!}
-{1022}{}{How can you!?..}
-{1023}{}{You insult my life with your presence!}
-{1024}{}{Oh you fucking burp of nasty beast!}
-{1025}{}{I would tie you up and slowly cut you with a knife into many little pieces!}
-{1026}{}{Do a favor to the world - cut your balls off!}
-{1027}{}{You nasty thing! I'm sick of you!}
-{1028}{}{Goat! All goats, but you... You are archgoat!}
-{1029}{}{Scum! Monster! Hypocrite! Freak!}
-#Sleeping messages
-{1030}{}{No, I do not need baggy pants! I clearly said - DRESS!}
-{1031}{}{Oh, you stupid piece of metal! Black dress, not red!}
-{1032}{}{It hurt me again... When does Peter going to repair this piece of junk!?}
-{1033}{}{Oof! There is someone's tail in my oatmeal!!! Gyaaaah...}
-{1034}{}{Oatmeal, oatmeal, oatmeal... I want ice cream!}
-{1035}{}{Nooo, it looks like a rat poop...}
-{1036}{}{If you, stupid piece of metal, will not give me tangerines right away - I'm going to rip your cogs out!}
+#ПЛАВАЮЩИЕ СООБЩЕНИЯ
+# Положительные сообщения
+{1000}{}{Приветик, красавчик!}
+{1001}{}{Доброго дня!}
+{1002}{}{Привет! Может сходим как-нибудь вместе в винной машине, а?}
+{1003}{}{Да-да, я тоже рада тебя видеть.}
+{1004}{}{Чудесный сегодня денек для секса, не правда ли? [подмигивает]}
+{1005}{}{Я та-ак рада видеть тебя!}
+{1006}{}{Хэ-эй, доблестный воин!}
+{1007}{}{Лапочка, для тебя - любая прихоть!}
+{1008}{}{Ах, тебе так идут эти штаны!}
+{1009}{}{Ну конечно же! Вот только закончу тут кое-что.}
+# Нейтральные сообщения
+{1010}{}{Ну что тебе?}
+{1011}{}{Н-н-нет, знаешь, сегодня не хочется.}
+{1012}{}{Найди себе какое-нибудь занятие.}
+{1013}{}{Ты тут вторгаешься в мое пространство...}
+{1014}{}{Да ну, не охота.}
+{1015}{}{Ничего такого, просто ты не в моем вкусе, ковбой.}
+{1016}{}{Ты тут... Ну-у, просто не в тему, понимаешь?}
+{1017}{}{Да не смотри ты на меня так! Понабежало всяких извращенцев...}
+{1018}{}{Слушай, новенький... Впрочем, мне лень с тобой разговаривать.}
+{1019}{}{Уйди, противный.}
+# Отрицательные сообщения
+{1020}{}{Аррргх! Я расцарапаю тебе лицо вот этой вилкой!}
+{1021}{}{Я тебя ненавижу, мразь!}
+{1022}{}{Да как ты смеешь!?..}
+{1023}{}{Одним своим присутствием ты поганишь мою жизнь!}
+{1024}{}{Ах ты поганая отрыжка мерзких тварей!}
+{1025}{}{Я бы привязала тебя и медленно разрезала бы ножом на мелкие кусочки!}
+{1026}{}{Сделай услугу миру - отрежь себе яйца!}
+{1027}{}{Беее! Фу! Мерзость поганая! Меня тошнит от тебя!}
+{1028}{}{Козел! Все козлы, но ты... Ты - архикозел!}
+{1029}{}{Мразь! Тварь! Лицемер! Подонок!}
+#Спящие сообщения
+{1030}{}{Да не нужны мне трусы с начесом! Я же ясно указала - ПЛАТЬЕ!}
+{1031}{}{Ах ты дурацкая железяка! Черное платье, не красное!}
+{1032}{}{Опять зажевало... Да когда же Питер починит этот хлам!?}
+{1033}{}{Фу-у-у! Тут чей-то хвост в каше!!! Бе-е-е-е...}
+{1034}{}{Овсянка, овсянка, овсянка... Я хочу мороженого!}
+{1035}{}{Не-е-ет, ну это вообще похоже на крысиные какашки...}
+{1036}{}{Если ты, дурацкая железка, не дашь мне мандаринов - я тебя по винтикам разберу!}
 {1037}{}{}
 {1038}{}{}
 {1039}{}{}
