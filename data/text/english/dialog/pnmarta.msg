@@ -1,116 +1,116 @@
 ##############################
-#вЂ№В®ВЄВ Г¦ВЁГЇ: ВЏВҐГ©ВҐГ Г« ВЌВҐВ¦ВЁГўВЁ
-#Л†В¬ГЇ: Е’В Г ГўВ 
-#Е Г В ГўВЄВ®ВҐ В®ВЇВЁГЎВ В­ВЁВҐ: Е’В ГўГ¬ вЂ№ВЁВ«ВЁ ВЁ В­ВҐВ­В ВўВЁГЎГў В­ВЁГ¦В  В¬ВҐГ ГўВўГЇВЄВ®Вў.
-#вЂћВ ГўВ  ГЎВ®В§В¤В В­ВЁГЇ: 05.05.2014
+#Локация: Пещеры Нежити
+#Имя: Марта
+#Краткое описание: Мать Лили и ненавист ница мертвяков.
+#Дата создания: 05.05.2014
 ##############################
-#вЂћВ«ГЇ ВЁВЈГ Г« "ЕЅВ«ВЁВ¬ВЇ 2207"
-#в‚¬Г ГўВҐВ¬ "Rainman" вЂВ В¬В®В©В«В®Вў
+#Для игры "Олимп 2207"
+#Артем "Rainman" Самойлов
 ##############################
 #
-#ЕЅВЏЛ†вЂв‚¬ВЌЛ†вЂ¦ Е ВђЛ†вЂ™вЂ™вЂ¦Вђв‚¬
+#ОПИСАНИЕ КРИТТЕРА
 #
-# В¤В® В§В­В ВЄВ®В¬ГЎГўВўВ 
-{1}{}{You see: a skinny woman.}
-{2}{}{She looks very nervous.}
+# до знакомства
+{1}{}{Вы видите: исхудавшая женщина.}
+{2}{}{Она выглядит крайне взволнованной.}
 #
-# ВЇВ®ГЎВ«ВҐ В§В­В ВЄВ®В¬ГЎГўВўВ 
-{3}{}{You see: Martha.}
-{4}{}{This is Martha - mother of Lily, the only child on this station.}
+# после знакомства
+{3}{}{Вы видите: Марта.}
+{4}{}{Это Марта - мать Лили, единственного ребенка на станции.}
 #
-#вЂЎвЂћвЂ¦вЂЕ“ ВЌв‚¬вЂ”Л†ВЌв‚¬вЂ¦вЂ™вЂЕё вЂћЛ†в‚¬вЂ№ЕЅЖ’
+#ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{What do you want from me!?}
-{11}{002}{Who are you? Why are you alone here?}
-{12}{003}{My name is }
-{13}{003}{. You look scared, something happened?}
-{14}{999}{Nothing, I'm already leaving.}
+{10}{}{Что Вам нужно!?}
+{11}{002}{Кто Вы? И почему Вы тут одна?}
+{12}{003}{Меня зовут }
+{13}{003}{. Вы выглядите взволнованной, что-то случилось?}
+{14}{999}{Ничего, я уже ухожу.}
 
 #Node002
-{20}{}{Oh, my name is Martha. I'm looking after my little treasure, Lily [she nods in the girl's direction]}
-{21}{020}{You look pretty nervous, Martha. Something happened?}
-{22}{010}{Pleased to meet you, can I ask some questions?}
-{23}{999}{Oh, glad to meet. All the best.}
+{20}{}{Ах, мое имя Марта, и я тут присматриваю за моим маленьким сокровищем, Лили [кивает головой в сторону маленькой девочки]}
+{21}{020}{Вы выглядите взволнованной, Марта. Что-то случилось?}
+{22}{010}{Рад познакомиться, можно пару вопросов?}
+{23}{999}{Ах, рад был познакомиться. Всего хорошего.}
 
 #Node003
-{30}{}{I'm glad you asked, }
-{31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are sumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
-{32}{QA}{Calm the little girl? Of course I can do that [go to Lily]}
-{33}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
+{30}{}{Хорошо, что Вы спросили, }
+{31}{}{... Меня зовут Мартой, я мама вот этой маленькой несчастной девочки - Лили [кивает головой в сторону маленькой девочки]. Мою малышку недавно ужалил скорпион, когда она гуляла на поверхности. Я всегда ей запрещала, знала, что случится что-то ужасное! Теперь она постоянно стонет, никак не может уснуть. Старый мертвяк Громус дал ей выпить какую-то отраву, и похоже ей становится только хуже! ::шепчет::...знаете, не доверяю я этим мертвякам... говорят, они любят полакомиться человечинкой [делает многозначительный взгляд] Я ничем не могу успокоить малышку, может вы поможете ей успокоиться и уснуть? бедняжке нужно поспать, чтобы набраться сил.}
+{32}{QA}{Успокоить маленькую девочку? Да конечно, я помогу вам [отправиться к Лили]}
+{33}{999}{Что? Петь колыбельные девочкам? Не-ет, это женское занятие, разбирайтесь сами.}
 
 #Node010
-{100}{}{Yes? It's you again, young man?}
-{101}{}{Sure, ask away.}
-{102}{011}{Tell me about this place.}
-{103}{020}{You look pretty nervous, Martha. Something happened?}
-{104}{030}{About calming the baby...}
-{105}{999}{Actually I have to go.}
-{106}{040}{Joe looks for his wife Nadine. Did you see her?}
+{100}{}{Да? Это снова Вы, молодой человек?}
+{101}{}{Конечно, спрашивайте.}
+{102}{011}{Расскажите в двух словах, что это за место?}
+{103}{020}{Вы выглядите взволнованной, Марта. Что-то случилось?}
+{104}{030}{Вы просили успокоить малышку...}
+{105}{999}{На самом деле мне уже пора идти.}
+{106}{040}{Тут Джо ищет свою жену, Надин. Вы ее случайно не видели?}
 
 #Node011
-{110}{}{I don't know much. It's an old subway station, as far as I can tell. I've spent a long time being held captive by the Dogs of Dawn, raped and tortured... but I got away. Then Robin and the prospectors found me and brought me here. After that my Lily was born. So we are striving through every day to see the next one - and that's how it is for us, mostly.}
-{111}{012}{Yeah, sad story. But who are the Dogs of Dawn?}
-{112}{010}{This must be hard. Can I ask another question?}
-{113}{}{We are just trying to get by to see another day - that's what we do.}
-{114}{010}{I see. Can I ask another question?}
-{115}{999}{Yeah, yeah. I, uh, gotta go.}
+{110}{}{Даже не знаю. Это старая подземная станция, насколько я знаю. Когда-то давно меня похитили Псы Заката, насиловали, пытали... Но я сбежала, а потом Робин со своими искателями нашли меня, и привели сюда. А потом родилась Лили, моя маленькая девочка. Мы просто пытаемся прожить каждый день, чтобы проснуться на следующее утро - вот и все, чем мы занимаемся.}
+{111}{012}{Мда, печальная история. А что за Псы Заката такие?}
+{112}{010}{Ну да, нелегко вам тут. Можно еще вопрос?}
+{113}{}{Мы тут все просто пытаемся прожить каждый день, чтобы проснуться на следующее утро - вот и все, чем мы занимаемся.}
+{114}{010}{Ясно. Можно еще вопрос?}
+{115}{999}{Ну да, ну да. Мне, правда, пора идти.}
 
 #Node012
-{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius just for their amusement, and if you "got lucky" to be born pretty - a couple of rapings will correct that. A terrible people, I don't want to talk about them.}
-{121}{010}{I'm so sorry. Can I ask another question?}
-{122}{010}{Cruel world - cruel people. I'd like to ask something else.}
+{120}{}{Банда насильников и убийц! Они убивают невинных жителей Радиуса просто забавы ради, а если тебе "повезло" родиться хорошенькой - так пара изнасилований сделает тебя такой же, как и все прочие. Ужасные мрази, не хочу о них говорить.}
+{121}{010}{Извиняюсь. Можно еще вопрос?}
+{122}{010}{Жестокий мир - жестокие нравы. Хочу еще спросить.}
 
 #Node020
-{200}{}{My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are sumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
-{201}{QA}{Calm the little girl? Of course I can do that [go to Lily]}
-{202}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
+{200}{}{Мою малышку недавно ужалил скорпион, когда она гуляла на поверхности. Я всегда ей запрещала, знала, что случится что-то ужасное! Теперь она постоянно стонет, никак не может уснуть. Старый мертвяк Громус дал ей выпить какую-то отраву, и похоже ей становится только хуже! ::шепчет::...знаете, не доверяю я этим мертвякам... говорят, они любят полакомиться человечинкой [делает многозначительный взгляд] Я ничем не могу успокоить малышку, может вы поможете ей успокоиться и уснуть? бедняжке нужно поспать, чтобы набраться сил.}
+{201}{QA}{Успокоить маленькую девочку? Да конечно, я помогу вам [отправиться к Лили]}
+{202}{999}{Что? Петь колыбельные девочкам? Не-ет, это женское занятие, разбирайтесь сами.}
 
 #NodeQA
 
 #Node030
-{300}{}{Yeah, but it was a long time ago. Lily feels fine, she doesn't need your help.}
-{301}{999}{Really? Well, I'm glad for her. See you.}
-{302}{}{Hm? [she leans forward] Is she asleep? Did you make it?}
-{303}{031}{Yes, she is in a deep sleep. I had to give her some alcohol, but I think she'll be fine.}
-{304}{032}{Yes, she's asleep. Probably will leave a bruise though.}
-{305}{033}{Yeah, the lullaby worked, so it's all good.}
-{306}{999}{I'm working on it. Almost done.}
+{300}{}{Да, но ведь это было уже давно. Лили вполне хорошо себя чувствует, и без Вашей помощи.}
+{301}{999}{Да? Ну что ж, я рад за нее. Всего хорошего.}
+{302}{}{Да? [она всем телом подается вперед] Она уснула? У Вас получилось?}
+{303}{031}{Да, малышка крепко спит. Пришлось дать ей спиртного, но, думаю, с ней все будет в порядке.}
+{304}{032}{Да, малышка спит. Наверно, будет небольшая шишка.}
+{305}{033}{Да, колыбельная убаюкала ее, все в порядке.}
+{306}{999}{Я этим занимаюсь, она почти уснула.}
 
 #Node031
-{310}{}{Oh my god, you didn't have to spend your alcohol on us! I don't know how to thank you. Here, at least take this box of matches. It always comes in handy.}
-{311}{999}{Uh, you are welcome. Glad to be of help.}
+{310}{}{О Божечки, не стоило тратить на нас спиртное! Даже не знаю, чем вас отблагодарить. Вот, возьмите хоть спички. Всегда полезно иметь источник огня.}
+{311}{999}{Эмм, не стоит благодарности. Рад был помочь.}
 
 #Node032
-{320}{}{Bruise? What bruise? Oh, it doesn't matter. Thank you for your help! Here, at least take this box of matches. It always comes in handy.}
-{321}{999}{Uh, you are always welcome.}
+{320}{}{Шишка? Какая шишка? Ой, да что это я. Спасибо Вам за помощь! В благодарность - вот, возьмите хоть коробок спичек. Всегда полезно иметь источник огня.}
+{321}{999}{Эмм, да всегда пожалуйста.}
 
 #Node033
-{330}{}{Oh, you are such handsome young man! Thank you so much! Ask me anything, I won't say no to you!}
-{331}{034}{Well, um, it would be great to have something useful.}
-{332}{035}{Won't say no, you say? Martha... [put your hand on her shoulder]}
-{333}{999}{It's okay, I'm glad to be helpful. All the best.}
+{330}{}{Ой, вы такой очаровательный молодой человек! Спасибо вам огромное! Просите что хотите, я Вам ни в чем не могу отказать!}
+{331}{034}{Ну-у, неплохо бы заиметь хоть что-то полезное.}
+{332}{035}{Ни в чем, говоришь? Марта... [положить руку Марте на плечо]}
+{333}{999}{Ничего-ничего, я был рад помочь вам. Всего хорошего.}
 
 #Node034
-{340}{}{I don't know how to thank you! Here, at least take this box of matches. It always comes in handy.}
-{341}{999}{It does. Well, glad to help.}
+{340}{}{Даже не знаю, чем вас отблагодарить. Вот, возьмите хоть спички. Всегда полезно иметь источник огня.}
+{341}{999}{Действительно полезно. Ну, рад был помочь.}
 
 #Node035
-{350}{}{[she shyly looks away and takes you by the hand] No one comes into here without knocking first... }
-{351}{036}{[put Martha down and start to take off her clothes...]}
-{352}{999}{Yeah, I shouldn't have either. [pull your hand away] Glad to help, all the best.}
+{350}{}{[Марта смущенно отводит взгляд и берет Вас за руку] Сюда никто не входит без стука... }
+{351}{036}{[уложить Марту на лежак и снять с нее одежду...]}
+{352}{999}{Да, и мне не следовало. [одернуть руку от Марты] Рад был помочь. Всего вам хорошего.}
 
 #Node036
-{360}{}{[some time later, Martha falls asleep.]}
-{361}{999}{[leave quietly]}
+{360}{}{[спустя какое-то время Марта засыпает]}
+{361}{999}{[тихо уйти]}
 
 #Node040
-{400}{}{[she sighs] Oh Joe... No one have seen Nadine for 4 years already. Poor thing had something in her blood, was always sick. Joe tried hard to take care of her, but the illnesses took their toll. He buried her himself, on the surface, under the tree near fountain. Then he got his mind clouded, looking for her all the time since. He made some kind of a beautiful labeled plate for a grave then, maybe telling him about it could make him remember.}
-{401}{999}{Is that so? Well, I'm going to go look for that grave.}
+{400}{}{::глубоко вздыхает:: Бедняга Джо... Надин уже давно никто не видел, года уж 4 как. Бедняжка всегда была малокровной, постоянно болела. Джо ухаживал за ней как мог, но болезни взяли свое. Он сам ее и похоронил наверху, под деревом около фонтана, да после этого умом и тронулся. Постоянно ее ищет. Он для могилки какую-то красивую табличку тогда сделал, может, если ему про табличку эту сказать - он что-то и вспомнит.}
+{401}{999}{Вот так значит? Что ж, пойду, посмотрю на могилку.}
 
-{500}{}{Martha is deeply asleep.}
-{501}{}{Hey there handsome!}
-{502}{}{Sure, come by at any time.}
-{503}{}{Sorry, I'm a little busy.}
-{504}{}{A little later, okay?}
-{505}{}{You know, I have to take care of my baby.}
+{500}{}{Марта крепко спит.}
+{501}{}{Привет, красавчик!}
+{502}{}{Конечно, заходи в любое время.}
+{503}{}{Извини, сейчас я немного занята.}
+{504}{}{Давай немного позже, хорошо?}
+{505}{}{Знаешь, мне ведь нужно присматривать за малышкой.}

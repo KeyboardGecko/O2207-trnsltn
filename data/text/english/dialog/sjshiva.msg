@@ -1,91 +1,90 @@
 ##############################
-#Location: Sunset Dogs
-#Name: Sheeva 
-#Short Description: Screamer Toy
-#Date of creation: 27.09.2014
+#Локация: Псы Заката
+#Имя: Шива 
+#Краткое описание: Игрушка Крикуна
+#Дата создания: 27.09.2014
 ##############################
-#For the game "Olympus 2207"
-#Artem "Rainman" Samoilov	
-##############################	
-#	
-#CRITTER DESCRIPTION	
-#NEED TO TEST THIS ONE
-#	
-# before meeting
-{1}{}{You see: a pretty, albeit very dirty girl.}
-{2}{}{She looks damn attractive in these clothes.}
+#Для игры "Олимп 2207"
+#Артем "Rainman" Самойлов
+##############################
 #
-# after meeting
-{3}{}{You see: a pretty, albeit very dirty girl.}
-{2}{}{She looks damn attractive in these clothes.}
+#ОПИСАНИЕ КРИТТЕРА
 #
-{5}{}{Let's talk another time.}
-{6}{}{Are you again? Pfft...}
-{7}{}{Sheeva's nose breaks with a crunch, she falls on her back, squealing. Her blood drips from your fist.}
+# до знакомства
+{1}{}{Вы видите: довольно симпатичная, хотя и грязная девушка.}
+{2}{}{Ее "одежда" смотрится чертовски привлекательно.}
 #
-#HERE BEGINS A DIALOGUE
+# после знакомства
+{3}{}{Вы видите: Шива.}
+{4}{}{Она поправляет обрывки своей одежды.}
 #
-{10}{}{[the girl starts talking before you have any chance to open your mouth] Another newcomer to the camp! Hello there. My name is Sheeva.}
-{11}{002}{Hello, my name is}
-{12}{002}{...}
+{5}{}{Давай в другой раз поболтаем.}
+{6}{}{Опять ты? Пфф...}
+{7}{}{Нос Шивы с хрустом ломается, она падает с визгом на спину. На вашем кулаке осталась ее кровь.}
+#
+#ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
+#
+{10}{}{[девушка начала говорить до того, как вы успели открыть рот] Еще один новичок в лагере. Ну привет. Меня Шива зовут. }
+{11}{002}{Привет, а меня }
+{12}{002}{ зовут.}
 
 
-{20}{}{Yeah. So what brings you into this extremely picturesque and interesting place? Wait a minute, let me guess: you came here from some half-dead farm, because you could barely make ends meet, and decided to live by the robbery and alcoholism, like a real thug.}
-{21}{003}{Well... you can say that.}
-{22}{006}{No, it is not like that at all.}
+{20}{}{Ага. И что ты забыл в этом крайне "живописном и интересном" месте? Хотя погоди, дай я угадаю: ты пришел сюда из какой-нибудь еле живой фермы, так как еле сводил концы с концами и решил жить разбоем, пьянством и вести себя как бравый бандит с большой дороги? }
+{21}{003}{Ну... можно и так сказать.}
+{22}{006}{Нет, это не так.}
 
 
-{30}{}{Pffft... [girl rolls her eyes] How interesting.}
-{31}{004}{Listen, I have a couple of questions.}
-{32}{997}{Well, I AM quite interesting. All right, I'll go. To do other interesting things.}
+{30}{}{Пффф... [девушка закатила глаза] о да-а-а... как интересно.}
+{31}{004}{Слушай, у меня пара вопросов.}
+{32}{997}{Ну, а мне вполне себе интересно. Ладно, я пойду. Займусь "интересными" вещами.}
 
 
-{40}{}{I don't like to answer questions. I like asking them. And you are hardly going to tell me anything interesting...}
-{41}{005}{Oh my, you are such a bore.}
-{42}{997}{Don't care. I'll go find a more talkative companion.}
+{40}{}{Я не люблю отвечать на вопросы. Я люблю их задавать. А ты мне ничего интересного не расскажешь...}
+{41}{005}{Ну ты и зануда.}
+{42}{997}{Ну, кому интересно, а кому и нет. Пойду найду более словоохотливого собеседника.}
 
 
-{50}{}{Me? Bore? It is you who is boring, you asshole! We have nothing to talk about!}
-{51}{997}{Yeah-yeah [wave hand and leave]}
-{52}{998}{Did you just call me an asshole!? [punch her face]}
+{50}{}{Это я-то зануда? Это ты занудный мудак! Нам с тобой говорить не о чем!}
+{51}{997}{Ага-ага [махнуть рукой и уйти]}
+{52}{998}{Это я-то мудак!? [врезать ей в нос]}
 
 
-{60}{}{Oh well. Tell me something interesting about yourself!}
-{61}{011}{I am from Olympus!}
-{62}{008}{I can punch the helmet so hard it caves in.}
-{63}{007}{I can flay corpses.}
-{64}{009}{I can assemble and disassemble almost any device with my eyes closed.}
+{60}{}{Ну ну. Расскажи мне что-нибудь интересное о себе!}
+{61}{011}{Я из Олимпа!}
+{62}{008}{Я могу ударить кулаком по каске и в ней останется глубокая вмятина.}
+{63}{007}{Я умею свежевать трупы.}
+{64}{009}{Я могу с закрытыми глазами собрать и разобрать практически любой ствол.}
 
 
-{72}{}{So what? Ursul could skin ursaj before he got eaten by one.}
-{70}{005}{Oh my, you are such a bore.}
-{71}{997}{Don't care. I'll go find a more talkative companion.}
+{72}{}{А Урсул может освежевать урса еще до того как тот сдохнет. Не поразил в общем.}
+{70}{005}{Ну ты и зануда.}
+{71}{997}{Ну, кому интересно, а кому и нет. Пойду найду более словоохотливого собеседника.}
 
 
-{80}{}{So? Wall is breaking bricks with his head. He giggles while doing it, as if he is tickled.}
-{81}{005}{Oh my, you are such a bore.}
-{82}{997}{Don't care. I'll go find a more talkative companion.}
+{80}{}{Стен проламывал головой кирпичную стену. При этом он хихикал, словно его щекотили.}
+{81}{005}{Ну ты и зануда.}
+{82}{997}{Ну, кому интересно, а кому и нет. Пойду найду более словоохотливого собеседника.}
 
 
-{90}{}{Yeah? Yesterday Carl disassembled, cleaned and assembled back Vince's rifle in seven minutes. And Vince's rifle was fully covered in shit.}
-{91}{005}{Oh my, you are such a bore.}
-{92}{997}{Don't care. I'll go find a more talkative companion.}
+{90}{}{Карл вчера разобрал, прочистил, смазал и собрал винтовку Винса за семь минут. А винтовка Винса была вся в дерьме.}
+{91}{005}{Ну ты и зануда.}
+{92}{997}{Ну, кому интересно, а кому и нет. Пойду найду более словоохотливого собеседника.}
 
 
-{110}{}{You're lying!}
-{111}{013}{I'm not lying!}
-{112}{012}{You can believe me or not. I don't give a shit. }
+{110}{}{Врешь!}
+{111}{013}{Я не вру!}
+{112}{012}{Хочешь - верь. Не хочешь - не верь. Мне вообще насрать. }
 
 
-{120}{}{As I thought - you are full of shit. Dickhead.}
-{121}{997}{Yeah-yeah [wave hand and leave]}
-{122}{998}{What did you say to me!? [punch her nose]}
+{120}{}{Как я и думала - балабол.}
+{121}{997}{Ага-ага [махнуть рукой и уйти]}
+{122}{998}{Это я-то балабол!? [врезать ей в нос]}
 
 
-{130}{}{Well, prove it.}
-{131}{014}{[tell your story]}
-{132}{012}{You wish. I have one less problem if you won't be prattling about me around here.}
+{130}{}{Ну так докажи.}
+{131}{014}{[рассказать свою историю]}
+{132}{012}{Еще чего. Не хватало чтобы ты обо мне трепалась.}
 
 
-{140}{}{[Sheeva hears you out. At first, she was mostly rolling her eyes, but after a couple of minutes in, you had her full attention.] You are really from there! This is nuts! Usually we are not very fond of their people, because when we approach the tower, they tend to kill us. So I wouldn't advise to talk around here about where you are from. The others won't listen to your story and will beat the shit out of you right after the phrase "I am from Olympus." But I'll keep it as a secret. [she smiles, scratching her forehead, and moves a lock of hair from her eyes] It was really interesting... Well, don't hang around here for long - one of my boyfriends could think that you are a competitor [she giggles]}
-{141}{996}{Okay, I'm leaving already.}
+{140}{}{[Шива выслышала историю полностью. Поначалу она слушала вполуха закатив глаза, однако минут через десять она уже полностью сосредоточила внимание на Вас] Ну ничерта себе! А ты и впрямь оттуда! Офигеть. Вообще мы тут не очень любим людей оттуда, так как когда мы подходим к башне - нас убивают. Так что не советую тут балаболить о твоем происхождении. Они не стан слушать всю историю и грохнут тебя сразу после фразы "я из Олимпа". Но я - молчок. [она улыбнулась, почесала лоб и убрала прядь волос с глаз] Это было действительно интересно... Ладно, тебе я советую тут больше лясы не точить, а то один из моих ухажеров сочтет что ты конкурент [она хихикнула] }
+{141}{996}{Ладно, уже ухожу.}
