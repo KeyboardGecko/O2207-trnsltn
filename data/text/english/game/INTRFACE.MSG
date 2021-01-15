@@ -1,8 +1,8 @@
 #
 #   Interface text from INTFACE.C
 #
-{100}{}{SNEAK}
-{101}{}{LEVEL}
-{102}{}{ADDICT}
+{100}{}{SNEAKING}
+{101}{}{LEVEL UP}
+{102}{}{ADDICTED}
 {103}{}{POISONED}
 {104}{}{RADIATED}
