@@ -1,29 +1,31 @@
 @total conversion mod
 
 "Olympus 2207"
+@Version 1.05
+
 
 NEBESA GAMES, 2010-2015
 
-@Ñöåíàğèé, êâåñòû, ñêğèïòèíã, äèçàéí óğîâíåé, ãåéìäèçàéí
-#Àğòåì RAINMAN Ñàìîéëîâ
+@‘æ¥­ à¨©, ª¢¥áâë, áªà¨¯â¨­£, ¤¨§ ©­ ãà®¢­¥©, £¥©¬¤¨§ ©­
+#€àâ¥¬ RAINMAN ‘ ¬®©«®¢
 
-@Âåäóùèé õóäîæíèê, àğò-äèçàéí, ìîäåëèğîâàíèå, ñáîğêà óğîâíåé
-#Àëåêñàíäğ SAUR Áåğåçèí
+@‚¥¤ãé¨© åã¤®¦­¨ª,  àâ-¤¨§ ©­, ¬®¤¥«¨à®¢ ­¨¥, á¡®àª  ãà®¢­¥©
+#€«¥ªá ­¤à SAUR ¥à¥§¨­
 
-@Ñöåíàğèñò äèàëîãîâ, êîîğäèíàöèÿ, êîììüşíèòè, äèçàéí
-#Ñåğãåé ZOOMER Áîêàğåâ
-
-
-Ïîìîùü ïğîåêòó
-
-@Òåñòèğîâàíèå è ğåäàêòèğîâàíèå êàğò, òåêñòîâ, ïğåäìåòîâ
-#Åëåíà Ñàìîéëîâà
-
-@Ãîëîñ ïîâåñòâîâàòåëÿ
-#Âëàäèìèğ Íåğîäà
+@‘æ¥­ à¨áâ ¤¨ «®£®¢, ª®®à¤¨­ æ¨ï, ª®¬¬ìî­¨â¨, ¤¨§ ©­
+#‘¥à£¥© ZOOMER ®ª à¥¢
 
 
-Ìóçûêàëüíîå ñîïğîâîæäåíèå
+®¬®éì ¯à®¥ªâã
+
+@’¥áâ¨à®¢ ­¨¥ ¨ à¥¤ ªâ¨à®¢ ­¨¥ ª àâ, â¥ªáâ®¢, ¯à¥¤¬¥â®¢
+#…«¥­  ‘ ¬®©«®¢ 
+
+@ƒ®«®á ¯®¢¥áâ¢®¢ â¥«ï
+#‚« ¤¨¬¨à ¥à®¤ 
+
+
+Œã§ëª «ì­®¥ á®¯à®¢®¦¤¥­¨¥
 
 #Phragments
 #Access To Arasaka
@@ -38,83 +40,83 @@ NEBESA GAMES, 2010-2015
 #VictorYibril
 #Frank Shimski
 
-@ÎÑÎÁÀß ÁËÀÃÎÄÀĞÍÎÑÒÜ
+@‘€Ÿ ‹€ƒ„€‘’œ
 #Christian GUTI "The Glow Inc"
 
 
-Ñöåíàğèñòû äèàëîãîâ
+‘æ¥­ à¨áâë ¤¨ «®£®¢
 
-#Ãëåá Ëàïøèí
-#Ïàâåë Êîíîíîâ
-#Ğóñëàí Àğñëàíîâ
-#Èëüÿ Íèçîâñêèõ
-#Ñåğãåé Ëîãèíîâ
-#Àëåêñåé Ãåéíö
+#ƒ«¥¡ ‹ ¯è¨­
+# ¢¥« Š®­®­®¢
+#ãá« ­ €àá« ­®¢
+#ˆ«ìï ¨§®¢áª¨å
+#‘¥à£¥© ‹®£¨­®¢
+#€«¥ªá¥© ƒ¥©­æ
 
-@ÎÑÎÁÀß ÁËÀÃÎÄÀĞÍÎÑÒÜ
-#Ñåğãåş Êîíîïëåâó
-@è
-#Äìèòğèş Ùàäğèíó
+@‘€Ÿ ‹€ƒ„€‘’œ
+#‘¥à£¥î Š®­®¯«¥¢ã
+@¨
+#„¬¨âà¨î ™ ¤à¨­ã
 
 
-Áåòà-òåñòåğû
+¥â -â¥áâ¥àë
 
-#Àëåêñàíäğ Óøàêîâ
-#Àíäğåé Åâñååâ
-#Àëåêñàíäğ Êåğá
-#Áîğèñ Êåíæåáàåâ
-#Äåíèñ Êàãàíîâ
-#Äåíèñ Ôåäîğîâ
-#Äìèòğèé Åğåìèí
-#Èëüÿ Îáëîìîâ
-#Ìàêñ Ïîïîâ
-#Ìàêñèì Âèãèëåâ
-#Ğîñò Ôàìèëèÿ
+#€«¥ªá ­¤à “è ª®¢
+#€­¤à¥© …¢á¥¥¢
+#€«¥ªá ­¤à Š¥à¡
+#®à¨á Š¥­¦¥¡ ¥¢
+#„¥­¨á Š £ ­®¢
+#„¥­¨á ”¥¤®à®¢
+#„¬¨âà¨© …à¥¬¨­
+#ˆ«ìï ¡«®¬®¢
+#Œ ªá ®¯®¢
+#Œ ªá¨¬ ‚¨£¨«¥¢
+#®áâ ” ¬¨«¨ï
 #Drobovik
 
-@ÎÑÎÁÀß ÁËÀÃÎÄÀĞÍÎÑÒÜ
+@‘€Ÿ ‹€ƒ„€‘’œ
 #Powe Blazer
 
-@Ñïàñèáî áåòà-òåñòåğàì çà èõ òåğïåíèå, âíèìàòåëüíîñòü
-@è öåííûå ñîâåòû ïî óëó÷øåíèş èãğû
+@‘¯ á¨¡® ¡¥â -â¥áâ¥à ¬ §  ¨å â¥à¯¥­¨¥, ¢­¨¬ â¥«ì­®áâì
+@¨ æ¥­­ë¥ á®¢¥âë ¯® ã«ãçè¥­¨î ¨£àë
 
 
-Äîïîëíèòåëüíîå ñïàñèáî
+„®¯®«­¨â¥«ì­®¥ á¯ á¨¡®
 
-#Èãîğş "DartGarry" Áóğëàêîâó
-@çà êğàñèâåéøèå àğòû ê èãğå
+#ˆ£®àî "DartGarry" ãà« ª®¢ã
+@§  ªà á¨¢¥©è¨¥  àâë ª ¨£à¥
 
 
-@Ìû âûğàæàåì áëàãîäàğíîñòü
+@Œë ¢ëà ¦ ¥¬ ¡« £®¤ à­®áâì
 #TeamX
 #WastelandGhost
 #KLIMaka
 #Egalor
 #Ray
 #Jochua
-#Äåíèñ "MASTER" Âîëîøèí
-#Äìèòğèé Õàëàíñêèé
-#Íèêîëàé Øåòñîíîâ
+#„¥­¨á "MASTER" ‚®«®è¨­
+#„¬¨âà¨© • « ­áª¨©
+#¨ª®« © ˜¥âá®­®¢
 
 
 
-@Îëèìï 2207 ğàçğàáîòàí
-@ñ èñïîëüçîâàíèåì äâèæêà
+@«¨¬¯ 2207 à §à ¡®â ­
+@á ¨á¯®«ì§®¢ ­¨¥¬ ¤¢¨¦ª 
 @Fallout2 1.02d
-@è èñïîëüçóåò íåêîòîğûå
-@ğåñóğñû èãğû Fallout2.
+@¨ ¨á¯®«ì§ã¥â ­¥ª®â®àë¥
+@à¥áãàáë ¨£àë Fallout2.
 
-@Èñïîëüçîâàíû sfall 2.12
-@è High_Res_Patch 2.3
+@ˆá¯®«ì§®¢ ­ë sfall 2.12
+@¨ High_Res_Patch 2.3
 
-@Îëèìï 2207 - ôàíàòñêàÿ ìîäèôèêàöèÿ,
-@ğàñïğîñòğàíÿåòñÿ àáñîëşòíî áåñïëàòíî è
-@ïğåäíàçíà÷åíà èñêëş÷èòåëüíî äëÿ ÷àñòíîãî
-@äîìàøíåãî îçíàêîìëåíèÿ.
+@«¨¬¯ 2207 - ä ­ âáª ï ¬®¤¨ä¨ª æ¨ï,
+@à á¯à®áâà ­ï¥âáï  ¡á®«îâ­® ¡¥á¯« â­® ¨
+@¯à¥¤­ §­ ç¥­  ¨áª«îç¨â¥«ì­® ¤«ï ç áâ­®£®
+@¤®¬ è­¥£® ®§­ ª®¬«¥­¨ï.
 
-@Ïğàâà íà ìàğêó "Fallout" ïğèíàäëåæàò
+@à ¢  ­  ¬ àªã "Fallout" ¯à¨­ ¤«¥¦ â
 @Bethesda Softworks LLC, a ZeniMax Media company
-Âñå ïğàâà ñîõğàíåíû
+‚á¥ ¯à ¢  á®åà ­¥­ë
 
 
 
@@ -138,94 +140,94 @@ All rights reserved
 Fallout2 Developers
 
 @Programmers
-Jesse L. Reónolds
+Jesse L. Reãnolds
 Kevin Weatherman
 Nick Kesting
-Robert Íertenstein 2
-Jess Íeinig
-Jason Taólor
+Robert ertenstein 2
+Jess einig
+Jason Taãlor
 
 @Mac Programmer
-Tim Íume
+Tim ume
 
-@Additional Programming Bó
-Mark Íarrison (Lizard Bóte)
+@Additional Programming Bã
+Mark arrison (Lizard Bãte)
 John Price
 Chris DeSalvo
 Mark Murakami
-Dan Sğitzleó
-Guido Íenkel
+Dan Sàitzleã
+Guido enkel
 Michael Bernstein
 Thomas French
 
-@Movie Technologó
+@Movie Technologã
 Paul Edelstein
 
-@Installer/Autoğlaó
+@Installer/Autoàlaã
 Darren Monahan
 
 
 #ART
 
 @Art Director
-Leonard Boóarskó
+Leonard Boãarskã
 
 @Lead Artists
 Jason Anderson
-Leonard Boóarskó
-Garó Platner
+Leonard Boãarskã
+Garã Platner
 
 @Artists
 Robert Collier
 Michael Dean
-Tramell Raó Isaac
+Tramell Raã Isaac
 Eddie Rainwater
 Scott Rodenhizer
 Sharon Shellman
 
-@Additional Art Bó
+@Additional Art Bã
 Peter Kroko
 Justin Sweet
-Joseğh Cesario
-Cheról Austin
-Jaó Esğarza (Tachóon)
+Joseàh Cesario
+Cherãl Austin
+Jaã Esàarza (Tachãon)
 Geoff Gregor
 Arlene Sommers
 George Almond
 Erik Jamison
-Íelena Wickberg
-James Doóle (Ağğles Animation)
+elena Wickberg
+James Doãle (Aààles Animation)
 
-@Claó Modeller
+@Claã Modeller
 Scott Rodenhizer
 
-@Conceğtual Artist
-Tonó Postma
+@Conceàtual Artist
+Tonã Postma
 
 
 
 #DESIGN
 
 @Lead Designer
-Chris Taólor
+Chris Taãlor
 
 @Designers
-David Íendee
+David endee
 Scott Bennie
-Brian Freóermuth
-Scott Camğbell
+Brian Freãermuth
+Scott Camàbell
 
 @Technical Designer
 Scott Everts
 
-@Additional Design Bó
-Robert Íertenstein 2
-Jess Íeinig
+@Additional Design Bã
+Robert ertenstein 2
+Jess einig
 Nick Kesting
 Tim Cain
-Leonard Boóarskó
+Leonard Boãarskã
 Jason Anderson
-Fred Íatch
+Fred atch
 Evan Chantland
 Erick Lujan
 Dennis Presnell
@@ -234,12 +236,12 @@ Feargus Urquhart
 @Design/Dialogue
 Mark O'Green
 
-@Original Game Design Bó
+@Original Game Design Bã
 Tim Cain
-Leonard Boóarskó
+Leonard Boãarskã
 Jason Anderson
-Jason Taólor
-Scott Camğbell
+Jason Taãlor
+Scott Camàbell
 
 
 
@@ -249,13 +251,13 @@ Scott Camğbell
 Tim Cain
 
 @Assistant Producer
-Fred Íatch
+Fred atch
 
 @Division Director
 Feargus Urquhart
 
 @Asst. Division Director
-Jeremó Barnes
+Jeremã Barnes
 
 @Original Producer
 Tom Decker
@@ -263,7 +265,7 @@ Tom Decker
 @Production Assistant
 Jason G. Suinn
 
-@Monkeó Boó
+@Monkeã Boã
 Mike "Paco" Greene
 
 @Mac Assistance
@@ -271,46 +273,46 @@ Chris Benson
 
 
 
-#QUALITÓ ASSURANCE
+#QUALIT“ ASSURANCE
 
-@Director of Qualitó Assurance
+@Director of Qualitã Assurance
 Chad Allison
 
 @Assistant Director of QA
 Colin Totman
 
 @PC Version Lead Testers
-Ron Íodge
+Ron odge
 Greg "Moose" Baumeister
 
 @PC Version Testers
 Shanna SanPaolo
 Evan Chantland
-Ed Íóland
+Ed ãland
 Steve Reed
 James Chung
-Kaócee Vardaman
+Kaãcee Vardaman
 Bill Field
 Richard Barker
-Rene Íakiki
+Rene akiki
 Erick Lujan
-Matt Kauğa
-Steve Victoró
-Scot Íumğhreós
+Matt Kauàa
+Steve Victorã
+Scot umàhreãs
 Tim Anderson
 Darrell Jones
 
 @Mac Version Lead Testers
 Jim Dodds
 Matt Murakami
-Steve McLaffertó
+Steve McLaffertã
 
 @Mac Version Testers
-Adam Chaneó
+Adam Chaneã
 Dennis Presnell
 Savina Greene
-Kaócee Vardaman
-Scot Íumğhreós
+Kaãcee Vardaman
+Scot umàhreãs
 Mike Krueger
 Matt Golembiewski
 
@@ -318,12 +320,12 @@ Matt Golembiewski
 Bill Delk
 Steve Cabiness
 
-@Director of Comğatibilitó
-Phuong Nguóen
+@Director of Comàatibilitã
+Phuong Nguãen
 
-@Comğatibilitó Technicians
+@Comàatibilitã Technicians
 Marc Duran
-Dan Forsóth
+Dan Forsãth
 Derek Gibbs
 Aaron Olalz
 John Parker
@@ -347,31 +349,31 @@ Dave West
 @Cinematics Soundeffects
 West Productions
 
-@Foleó Artists
+@Foleã Artists
 Doug Turner
-Garó Murello
-Larró Peacock
+Garã Murello
+Larrã Peacock
 
-@Foleó Editor
+@Foleã Editor
 Caron Weidner
 
-@Foleó Mixer
-Debbó Rubó
+@Foleã Mixer
+Debbã Rubã
 
-@Foleó Mixer/Artist
+@Foleã Mixer/Artist
 Cecilia Perna
 
-@Foleó Recorded at
+@Foleã Recorded at
 West Productions
 
-@Foleó Suğervision
+@Foleã Suàervision
 Charles Deenen
-Larró Peacock
+Larrã Peacock
 
 @FX Editor
 Michael Dickeson
 
-@Music Bó
+@Music Bã
 Mark Morgan
 @for
 Four Bars Entertainment
@@ -379,58 +381,58 @@ Four Bars Entertainment
 @Intro Re-Recording Mixer
 Charles Deenen
 
-@Music Suğervisor
+@Music Suàervisor
 Brian Luzietti
 
 @Sound FX Librarians
-Doug Rağğağort
+Doug Raààaàort
 Sergio Bustamante II
 Ron Valdez
 
 @Sound FX Design
 Charles Deenen
-Gregoró Allen
-Larró Peacock
+Gregorã Allen
+Larrã Peacock
 EFX
 Weddington
 Caron Weidner
 
 @Voice Editors
-Doug Rağğağort
+Doug Raààaàort
 Sergio Bustamante II
 
 @Voice Producer
-Fred Íatch
+Fred atch
 
 @Voice Recording Engineer
-Paul Íurtubise
+Paul urtubise
 
-@Voice Suğervisor
+@Voice Suàervisor
 Chris Borders
 
 @Voice Talent Coordination
 Julie Morgavi
 
 @Voice Dialogue Recorded At
-Íollówood Recording Services
-Íollówood, CA
+ollãwood Recording Services
+ollãwood, CA
 
 @Voice Direction
 Jamie Thomason
 
 
-@FEATURING TÍE VOICES OF
+@FEATURING TE VOICES OF
 
 Charlie Adler
-@Íarold
+@arold
 
 Richard Dean Anderson
 @Killian
 
 Jeff Bennett
-@Loxleó
+@Loxleã
 
-Clancó Brown
+Clancã Brown
 @Rhombus
 
 Jim Cummings
@@ -440,9 +442,9 @@ Keith David
 @Decker
 
 Brad Garrett
-@Íarró
+@arrã
 
-Tonó Jaó
+Tonã Jaã
 @The Lieutenant
 
 Tress MacNeille
@@ -455,15 +457,15 @@ Richard Moll
 @Cabbot
 
 Ron Perlman
-@Butch Íarris, Narrator
+@Butch arris, Narrator
 
-CCÍ Pounder
+CC Pounder
 @Vree
 
 Pam Segall
 @Nicole
 
-Tonó Shalub
+Tonã Shalub
 @Aradesh
 
 Kath Soucie
@@ -473,29 +475,29 @@ Cree Summer
 @Tandi
 
 David Warner
-@Morğheus
+@Moràheus
 
 Frank Welker
 @Maxson
 
-@Additional Voice Work bó
+@Additional Voice Work bã
 Max the Dog
 
 
 
-"Maóbe"
-@Performed bó Ink Sğots
-@Courtesó of MCA Records
-@Bó Arrangement with Universial Music Sğecial Markets, Inc.
+"Maãbe"
+@Performed bã Ink Sàots
+@Courtesã of MCA Records
+@Bã Arrangement with Universial Music Sàecial Markets, Inc.
 
-"MAÓBE"
-@Written bó Allan Flónn and Frank Madden
-@Used bó ğermission of EMI Robbins Catalog Inc. (ASCAP)
+"MA“BE"
+@Written bã Allan Flãnn and Frank Madden
+@Used bã àermission of EMI Robbins Catalog Inc. (ASCAP)
 
-@WARNING: It is a violation of Federal Coğóright Law
-@to coğó, duğlicate or reğroduce this Program or anó
-@ğortions of this Program without the exğress written
-@ğermission of the coğóright owner.
+@WARNING: It is a violation of Federal Coàãright Law
+@to coàã, duàlicate or reàroduce this Program or anã
+@àortions of this Program without the exàress written
+@àermission of the coàãright owner.
 
 
 #MARKETING
@@ -509,7 +511,7 @@ Paul Sackman
 @Marketing Managers
 Mike Markin
 Craig Owens
-Michael Courtneó
+Michael Courtneã
 
 @Associate Marketing Manager
 Tod Mack
@@ -520,20 +522,20 @@ Thom Dohner
 
 
 
-@Thanks to: Scott Everts for contributing above and beóond the
-@call of dutó to the Quotes File, Bomberman, Quake, Diablo,
+@Thanks to: Scott Everts for contributing above and beãond the
+@call of dutã to the Quotes File, Bomberman, Quake, Diablo,
 @Warcraft II, various movie soundtracks, Brian Eno, the soda
-@fridge (thanks Gus & Rustó!), the Sğirit of Christmas
-@(Go Santa!), Demo the cat, Nicol, Tracó, Maró & Adam, Lisa
-@(for moral suğğort), Jamal, T-Raó's Mom, the two Donalds,
-@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Moneó, The Lunch
-@Court, Weez, Weaz, Irvine Sğectrum, Wiz War, Dragon Dice, B5,
-@X-Files, Xena, Buffó, The Simğsons, ER, Jeeğin' and
+@fridge (thanks Gus & Rustã!), the Sàirit of Christmas
+@(Go Santa!), Demo the cat, Nicol, Tracã, Marã & Adam, Lisa
+@(for moral suààort), Jamal, T-Raã's Mom, the two Donalds,
+@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Moneã, The Lunch
+@Court, Weez, Weaz, Irvine Sàectrum, Wiz War, Dragon Dice, B5,
+@X-Files, Xena, Buffã, The Simàsons, ER, Jeeàin' and
 @the Last Minute Talking Dog for finding that damn bug!
 
-@Sğecial thanks to the Fallout webğage bulletin board members
-@for comments, suggestions and bug reğorts about the demo.
-@Óour feedback was ağğreciated!
+@Sàecial thanks to the Fallout webàage bulletin board members
+@for comments, suggestions and bug reàorts about the demo.
+@“our feedback was aààreciated!
 
 
 
@@ -550,7 +552,7 @@ Thom Dohner
 
 
 
-@Stoğ looking
+@Stoà looking
 
 
 
@@ -560,10 +562,10 @@ Thom Dohner
 
 
 
-@Fallout was brought to óou bó Interğlaó Productions,
+@Fallout was brought to ãou bã Interàlaã Productions,
 @Team Fallout and the letter Q.
 
 
 
 
-Íave a nice daó!
+ave a nice daã!
