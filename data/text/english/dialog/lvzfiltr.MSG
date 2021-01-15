@@ -1,59 +1,59 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# This file describes the messages
+# used in scenario scripts
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - сломанный фильтр-агрегат в Лайвос. ГГ должен починить его электродвигатель.
+# WHAT IS IT?
+# This is a broken filter unit in Laivos. PC has to repair its electric engine.
 #
-# Описание 1
-{1}{}{Вы видите: работающий фильтр-агрегат.}
-{2}{}{Вы видите: поломанный фильтр-агрегат.}
-{3}{}{Вы видите: нерабочий фильтр-агрегат.}
+# Description 1
+{1}{}{You see: a working filter unit.}
+{2}{}{You see: a broken filter unit.}
+{3}{}{You see: non-working filter unit.}
 
-# Описание 2
-{4}{}{Фильтр работает как часы! Приятно посмотреть!}
-{5}{}{Не-ет, эта штуковина уже никогда не загудит.}
-{6}{}{Что-то не так с этой бандуриной.}
+# Description 2
+{4}{}{The filter works like a clock! A sight to see!}
+{5}{}{No, this thing will never work.}
+{6}{}{Something is wrong with this thing.}
 
-# Действия
-{7}{}{Он в отличном состоянии! Лучше лишний раз туда не соваться.}
-{8}{}{Тут все так раскурочено... Этот фильтр уже никогда и ничего не отфильтрует.}
-{9}{}{[перед Вами довольно сложный механизм фильтрационного агрегата. Тут и там торчат разные провода, из некоторых шлангов сочится мутная жидкость. Похоже, кто-то неумелый здесь уже хорошо потрудился...]}
-{10}{}{Да ну его... [выйти]}
-{11}{}{Фф-у-ух, слишком сложно... [выйти]}
-{12}{}{[почесать затылок, дунуть, плюнуть и махнуть рукой]}
+# Actions
+{7}{}{It's in excellent condition! Better not to touch it again.}
+{8}{}{Everything is so wrong here... This filter will never filter anything ever again.}
+{9}{}{[before you stands quite complex mechanism of the filtration unit. Different wires stick up here and there, a cloudy liquid drips from hoses. It seems that someone, who didn't really knew what he was doing, had already done some work here...]}
+{10}{}{Screw it... [exit]}
+{11}{}{Phew, it's too hard... [exit]}
+{12}{}{[scratch your head, blow, spit and wave a hand]}
 
-{13}{002}{[попробовать забраться в механизмы поглубже]}
-{14}{003}{[закрыть глаза и довериться своим рукам]}
-{15}{004}{[достать нерабочий двигатель]}
-{16}{005}{[яростно раскурочить все внутренности!]}
-{17}{011}{[вставить новый электродвигатель]}
-{18}{006}{[попытаться починить электродвигатель]}
+{13}{002}{[try to get into the mechanisms deeper]}
+{14}{003}{[close your eyes and trust your hands]}
+{15}{004}{[dismantle a non-working engine]}
+{16}{005}{[violently crush the insides of mechanism]}
+{17}{011}{[insert a new engine]}
+{18}{006}{[try to repair the engine]}
 
-//изучить 002
-{19}{}{[Вы не так хорошо соображаете в этих механизмах. Ничего нового Вы так и не узнали.]}
-{20}{}{[Хмм, похоже, тут все дело во-он в том электродвигателе. Похоже, что-то в нем вышло из строя.]}
+//learn 002
+{19}{}{[You are not so good with these mechanisms. You learn nothing new about the problem.]}
+{20}{}{[It seems that the problem is in the electric engine. Something inside it has failed.]}
 
-//починить 003
-{21}{}{[Ваши движения оказались настолько неуклюжи и катастрофически неверны, что все механизмы внутри аппарата заскрежетали, что-то хлопнуло, булькнуло, и все обрушилось. Похоже, это конец жизненного пути этого фильтра.]}
-{22}{}{[Вы чувствуете, что почти нащупали причину поломки, но... нет, Вы недостаточно хороши для этого дела.]}
-{23}{}{[Хмм, похоже, тут все дело во-он в том электродвигателе. Похоже, что-то в нем вышло из строя.]}
-{24}{}{[Невероятно, но Ваши руки будто бы знали что делать! Приложив небольшое усилие на маховик электродвигателя, и вставив подвернувшийся штырь в его зубчатое соединение, Вы почувствовали вибрацию и жужжание! Фильтр снова заработал!]}
+//fix 003
+{21}{}{[Your movements turned out to be so clumsy and catastrophically wrong that all the mechanisms inside the apparatus gnash, something slammed, gurgled, and then everything collapsed. Looks like this is the end of the line for this filter.]}
+{22}{}{[You feel that you almost get the cause of the problem... but no, you are not good enough.]}
+{23}{}{[Looks like the problem is in that electric engine. Something inside it has failed.]}
+{24}{}{[Incredibly, your hands seem to know what to do! With a little effort from the flywheel of the electric engine, you insert the tucked pins into its gear connections. Suddenly, you feel a vibration and a buzz! The filter is working again!]}
 
-//раскурочить 005
-{25}{}{[Вы потеряли счет времени, яростно круша и ломая внутренности механизма, пока, наконец, все детали не приходят в неремонтопригодное состояние. Да, этому аппарату явно пришел конец!]}
-{26}{}{[самодовольно хмыкнуть]}
+//mix 005
+{25}{}{[You have lost track of time, while violently smashing and breaking the insides of the mechanism, until finally all the details are in an unrepairable state. Yes, this device clearly met its end.]}
+{26}{}{[smugly smirk]}
 
-//вытащить движок 004
-{27}{}{[не без усилия, но Вам удается извлечь поломанный электродвигатель из фильтра]}
-{28}{}{[уйти с добычей]}
+//pull the engine 004
+{27}{}{[not without effort, but you manage to extract the broken engine from the filter]}
+{28}{}{[leave with loot]}
 
-//движок вытащен 
-{29}{}{[на Вас смотрит зияющая дыра от вытащенного электродвигателя]}
-{30}{}{[уйти с добычей]}
+//engine pulled out 
+{29}{}{[a gaping hole from a pulled-out electric engine is looking at you]}
+{30}{}{[leave with loot]}
 
-//движок вставлен 011
-{31}{}{[Вы очень осторожно вставляете двигатель на место, аккуратно подключаете все провода и шланги, и, затаив дыхание, ждете результата... и... да, оно заработало!]}
-{32}{}{[выход]}
+//engine inserted 011
+{31}{}{[You carefully insert the engine into place, gently connecting all the wires and hoses. With halted breath, you wait for the results...Yes, it works!]}
+{32}{}{[exit]}
