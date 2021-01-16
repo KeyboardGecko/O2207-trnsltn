@@ -273,8 +273,8 @@
 #First Visit on a map
 #
 {300}{}{}
-{301}{}{All of the technicians roam the parking lot in search of the same spare parts.}
-{302}{}{You are woken up by your mother's warm hands.}
+{301}{}{All the technicians roam the parking lot in search of spare parts.}
+{302}{}{The warm hands of your mother wake you up.}
 {303}{}{So many years have passed, but almost nothing has changed in Tartarus.}
 {304}{}{After another 4 years still nothing has changed.}
 {305}{}{The Farms of Tartarus... The humid air is saturated with the smell of rotten corn and the shit of the Lavash.}
