@@ -39,7 +39,7 @@
 {32}{}{You removed the trap from the door.}
 {33}{}{Want to try to manually match the wire combination? If you unsuccessfully try it will shock you, and the security system will change the electrical circuit! Otherwise you will need at least a skill of }
 {34}{}{You've been poking around the wires for a long time, but you still haven't been able to hack the security system. Want to try to manually pick a wire combination? If you fail, you can get an electric shock and the security system will change the electrical circuit!}
-{35}{}{Your trap has been defused and went into the belongings of }
+{35}{}{Your trap has been disarmed and went into the belongings of }
 {36}{}{The door is critically damaged and about to fall apart.}
 {37}{}{The door is badly damaged and barely holds on its hinges.}
 {38}{}{If you want to manually select the combination, then you need to use a screwdriver.}
@@ -217,9 +217,9 @@
 # Traps on Containers
 #
 {170}{}{At the last moment, you notice a hidden blade under the lid.}
-{171}{}{You happen to notice a tripwire leading to a trap's fuse.}
+{171}{}{You happen to notice a tripwire leading to a trap.}
 {172}{}{A trap has been set!}
-{173}{}{You have successfully defused the trap!}
+{173}{}{You have successfully disarmed the trap!}
 {174}{}{You've discovered a trap!}
 {175}{}{You don't see anything unusual here.}
 {176}{}{}

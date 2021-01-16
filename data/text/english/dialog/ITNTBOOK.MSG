@@ -1,18 +1,18 @@
 #############################################################
-#Текстовый файл для записей в личную записнушку 
-#Номер строки в scripts.lst << 61 >>
+#Text file for writing to your personal notebook 
+#Line number in scripts. lst << 61 >>
 #############################################################
-#Структура файла:
-#строки 1-9 - описание персонажа;
-#строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
-#Далее, по веткам диалога.
-#Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
-#Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
-#для реплики 100 использовать Node010, для реплики 240 - Node024.
-#Для ответов игрока - сквозная нумерация, т.е. на реплику 650 ответы будут 651, 652, 653 и т.д. 
-#Для особых ответвлений использовать дополнительные цифры (например, реплика 360 делится на 3601 и 3602,
-#это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
+#File structure:
+#line 1-9 - description of the character;
+## lines 10-29 - getting to know the character;
+# lines 30-99 - I don't know yet, but I think they will be useful...
+#Further, along the branches of the dialog.
+##Each branch is 100, i.e. 100 is one dialog topic, 200 is another.
+# Character replicas go through 10, i.e. 100, 110, 120, etc. With what 
+#for replica 100, use Node010, for replica 240-Node024.
+#For player responses-end-to-end numbering, i.e. for replica 650, the responses will be 651, 652, 653, etc.
+#For special branches, use additional digits (for example, replica 360 is divided into 3601 and 3602,
+#the same applies to the Node procedure, the answers will be in the usual form-361, 362, etc.)
 #############################################################
 #Такая организационная система не позволяет создавать слишком сложные диалоги,
 #что для меня лично очень хорошо!!!
@@ -32,36 +32,36 @@
 {8}{}{8) }
 {9}{}{9) }
 #######################
-{100}{}{Список моих приключений!}
-{101}{}{Найти и вернуть папе его ключ}
-{102}{}{Помочь брату разобраться с Булли}
-{103}{}{Достать "Рад-Аут" для мамы Кэтти}
-{104}{}{Выяснить причину болезни лавашей}
-{105}{}{Собрать Фильтр клапана и починить водный насос}
-{106}{}{Починить трансформатор}
-{107}{}{Собрать для Кэтти 24 початка}
-{108}{}{Принести охраннику бутылку самогона}
-{109}{}{Перетаскать бочки с водой смотрителям лавашей}
-{110}{}{Принести охраннику в Чистилище медикаменты}
-{111}{}{Выяснить, что случилось с папой}
-{112}{}{Новая запись в Вашем личном дневнике.}
+{100}{}{List of my Adventures!}
+{101}{}{Find and return Dad's key}
+{102}{}{Help my brother deal with the Bully}
+{103}{}{Get a "Rad-Out" for Katie's mom}
+{104}{}{Find the cause for sick Lavash}
+{105}{}{Assemble the valve filter and repair the water pump}
+{106}{}{Repair the transformer}
+{107}{}{Collect 24 cobs for Katie}
+{108}{}{Bring the guard a bottle of moonshine}
+{109}{}{Drag barrels of water to the Lavash keepers}
+{110}{}{Bring medicine to the Purgatory guard}
+{111}{}{Find out what happened to Dad}
+{112}{}{A new entry in your personal diary.}
 #######################
-{200}{}{ (сделано)}
+{200}{}{ (done)}
 #######################
-{201}{}{В органайзере какая-то заметка про "Ренессанс". При случае нужно постараться узнать побольше.}
-{202}{}{У меня все части карты "Ренессанса"! Координаты в органайзере, обязательно туда схожу.}
-{203}{}{Нужно поговорить с Xуаном, Сайреном, Флинтом, Оуэном, Баком и Гиндером на счет Сэма.}
-{204}{}{Я новый руководитель НМП? И что теперь - приказы раздавать?..}
-{205}{}{Похоже, можно попасть в "Олимп" под личиной этого Дугласа. Нужна такая же форма и его жетон...}
-{206}{}{Список вещей для "Олимпа"а: Восхищение, Ультраремнабор, Прототип Плазмогана и Энциклопедия НМП.}
-{207}{}{На всякий случай запишу код от панели на уровне Зочкиса: 2358.}
+{201}{}{There's a note in the organizer about "Renaissance". On occasion, you should try to learn more.}
+{202}{}{I have all the parts of the Renaissance map! The coordinates are in the organizer, I will definitely go there.}
+{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck, and Kinder about Sam.}
+{204}{}{I'm the new head of the NWO... So, what Orders do I give out now?}
+{205}{}{It looks like you can get into Olympus under the guise of this Douglas. I need the same form and his tag...}
+{206}{}{List of items for Olympus: "Admiration", Ultra-Repair-Kit, Prototype Plasmarifles, and the NWO Encyclopedia.}
+{207}{}{Just in case, I'll write down the code from the panel at Zochkis level: 2358.}
 {208}{}{}
 {209}{}{}
 #######################
-{210}{}{У здешних монстров, похоже, есть слабости. Буду записывать сюда.}
-{211}{}{Пули и ножи химер не берут совсем! А вот огня они, похоже, боятся.}
-{212}{}{Грубая шкура урса не восприимчива к огню, но пулями прошивается на ура!}
-{213}{}{Муравьев и скорпионов ни пули, ни огонь не берут, но к взрывам они явно не приспособлены.}
-{214}{}{Шакалов вполне можно убить взрывом или пулями, а огонь против них бесполезен.}
-{215}{}{От шкур бестий пули просто отскакивают! Против них только взрывом да лазером можно сражаться!}
+{210}{}{The monsters here seem to have weaknesses. I'll write them down here.}
+{211}{}{Bullets and Knifes don't work well with Chimera's! But they seem to be afraid of fire.}
+{212}{}{The rough hides of Ursa's are not susceptible to fire, but are easily penetrated with bullets!}
+{213}{}{Ants and Scorpions easily shrug of flames and bullets, but they have clearly not adapted against explosives.}
+{214}{}{Jackals can be killed with an explosion or bullets, but fire is useless against them.}
+{215}{}{Bullets just bounce off the skins of the Beasts! You only has a change against them with explosives or energy weapons!}
 {216}{}{}
