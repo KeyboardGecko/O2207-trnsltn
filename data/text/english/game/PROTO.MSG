@@ -3,296 +3,298 @@
 #
 # strings
 #
-{10}{}{<Нету>}
+{10}{}{<None>}
 #
 # Material Types
 #
-{100}{}{Стекло}
-{101}{}{Металл}
-{102}{}{Пластик}
-{103}{}{Дерево}
-{104}{}{Грязь}
-{105}{}{Камень}
-{106}{}{Цемент}
-{107}{}{Кожа}
+{100}{}{Glass}
+{101}{}{Metal}
+{102}{}{Plastic}
+{103}{}{Wood}
+{104}{}{Dirt}
+{105}{}{Stone}
+{106}{}{Cement}
+{107}{}{Leather}
 #
 # Item Types
 #
-{150}{}{Доспех}
-{151}{}{Контейнер}
-{152}{}{Лекарство}
-{153}{}{Оружие}
-{154}{}{Патроны}
-{155}{}{Предмет}
-{156}{}{Ключ}
+{150}{}{Armor}
+{151}{}{Container}
+{152}{}{Drug}
+{153}{}{Weapon}
+{154}{}{Ammo}
+{155}{}{Misc Item}
+{156}{}{Key}
 #
 # Scenery Types
 #
-{200}{}{Дверь}
-{201}{}{Лестница}
-{202}{}{Лифт}
-{203}{}{Низ лестницы}
-{204}{}{Верх лестницы}
-{205}{}{Общее}
+{200}{}{Portal}
+{201}{}{Stairs}
+{202}{}{Elevator}
+{203}{}{Ladder Bottom}
+{204}{}{Ladder Top}
+{205}{}{Generic Scenery}
 #
 # Damage Code Types
 #
-{250}{}{Обычные}
-{251}{}{Лазер}
-{252}{}{Огонь}
-{253}{}{Плазма}
-{254}{}{Электричество}
-{255}{}{ЭМИ}
-{256}{}{Взрыв}
+{250}{}{normal_dam}
+{251}{}{laser}
+{252}{}{fire}
+{253}{}{plasma}
+{254}{}{electrical}
+{255}{}{emp}
+{256}{}{explosion}
 #
 # Caliber Types for weapons
 #
-{300}{}{Нет}
-{301}{}{.223 кал.}
-{302}{}{.308 кал.}
-{303}{}{.38 кал.}
-{304}{}{.45 кал.}
-{305}{}{.50 кал.}
-{306}{}{12 калибр}
-{307}{}{25 мм}
-{308}{}{40 мм}
-{309}{}{9 мм}
-{310}{}{БигБат}
-{311}{}{МиниБат}
-{312}{}{Травматические}
-{313}{}{Дротики}
-{314}{}{Магнум}
-{315}{}{Напалм}
-{316}{}{Ракета}
-{317}{}{Шарики}
-{318}{}{Зажигательные}
+{300}{}{None}
+{301}{}{.223 cal.}
+{302}{}{.308 cal.}
+{303}{}{.38 cal.}
+{304}{}{.45 cal.}
+{305}{}{.50 cal.}
+{306}{}{12 gauge}
+{307}{}{25mm}
+{308}{}{40mm}
+{309}{}{9mm}
+{310}{}{Large Battery}
+{311}{}{Small Battery}
+{312}{}{Rubber Bullet}
+{313}{}{Darts}
+{314}{}{Magnum}
+{315}{}{Napalm}
+{316}{}{Rocket}
+{317}{}{BB Pellets}
+{318}{}{Incendiary}
 #
 # Race Types
 #
-{350}{}{Белая}
-{351}{}{Черная}
+{350}{}{Caucasian}
+{351}{}{African}
 #
 # Body Types
 #
-{400}{}{Двуногое}
-{401}{}{Четвероногое}
-{402}{}{Робот}
+{400}{}{Biped}
+{401}{}{Quadruped}
+{402}{}{Robotic}
 #
 # Kill Types names
 #
 # Note: These were moved to 1450+ to handle new ones!
-{450}{}{Люди}
-{451}{}{Женщины}
-{452}{}{Детишки}
-{453}{}{СуперМутанты}
-{454}{}{Мертвяки}
-{455}{}{Брамы}
-{456}{}{Рад Скорпионы}
-{457}{}{Крыссы}
-{458}{}{Летуны}
-{459}{}{Кентавры}
-{460}{}{Роботы}
-{461}{}{Собаки}
-{462}{}{Мантиссы}
-{463}{}{Руки Смерти}
-{464}{}{Установки}
+{450}{}{Men}
+{451}{}{Women}
+{452}{}{Children}
+{453}{}{Super Mutants}
+{454}{}{Ghouls}
+{455}{}{Brahmin}
+{456}{}{Radscorpions}
+{457}{}{Rats}
+{458}{}{Floaters}
+{459}{}{Centaurs}
+{460}{}{Robots}
+{461}{}{Dogs}
+{462}{}{Manti}
+{463}{}{DeathClaws}
+{464}{}{Plant}
 #{465}{}{}
 #
 # Kill type info descriptions
 #
-{465}{}{Здесь указано число убитых вами за время путешествий и приключений человеческих особей мужского пола.}
-{466}{}{Здесь указано число убитых вами за время путешествий и приключений человеческих особей женского пола.}
-{467}{}{Здесь указано число убитых вами за время путешествий и приключений бедных маленьких человеческих детишек.}
-{468}{}{Здесь указано число уничтоженных вами за время путешествий и приключений Супер Мутантов.}
-{469}{}{Здесь указано число уничтоженных вами за время путешествий и приключений мертвяков-мутантов.}
-{470}{}{Здесь указано число порезанных вами за время путешествий и приключений Браминов - мутировавших коров.}
-{471}{}{Здесь указано число уничтоженных вами за время путешествий и приключений Рад Скорпионов.}
-{472}{}{Здесь указано число уничтоженных вами за время путешествий и приключений крыссов и им подобных.}
-{473}{}{Здесь указано число уничтоженных вами за время путешествий и приключений Летунов.}
-{474}{}{Количество убитых вами мутантов - Кентавров.}
-{475}{}{Общее количество разобранных или сломанных вами в путешествиях роботов.}
-{476}{}{Общее количество собак, отправленных вами в великую небесную псарню на веки вечные.}
-{477}{}{Здесь указано число передавленных вами за время путешествий и приключений Мантисс, других насекомых и подобных им существ.}
-{478}{}{Здесь указано число убитых вами отродий Руки Смерти или даже ее самой.}
-{479}{}{Общее количество успешно пущенных вами на удобрения злых растений.}
+{465}{}{This line shows the number of male humans you have killed during the course of your adventures.}
+{466}{}{This line shows the number of female humans you have killed during the course of your adventures.}
+{467}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
+{468}{}{The number of Super Mutants you have slain during the course of your adventures.}
+{469}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
+{470}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}
+{471}{}{The number of mutated Radscorpions that you have put to death during your adventure.}
+{472}{}{The number of rats you have killed.  Includes all members of the rat family.}
+{473}{}{This is the number of mutant Floaters that you have put to death.}
+{474}{}{Your tally of dead mutant Centaurs.}
+{475}{}{This is the number of robots that you have destroyed or dismantled.}
+{476}{}{The total number of dogs that you have sent to the great kennel in the sky.}
+{477}{}{This line shows the total number of dead Manti, or large mutated mantis-like insects, that you have squashed so far.}
+{478}{}{This line shows that you have slain the Deathclaw, and any of his spawn.}
+{479}{}{The number of plants whose quest for sunlight you have terminated.}
 #
 # Use text
 #
-{480}{}{Это %s.}
+{480}{}{You see %s.}
 #
 # Use Container text
 #
-{485}{}{Вы осмотрели: %s.}
-{486}{}{Вы закрыли: %s.}
-{487}{}{Закрыто.}
+{485}{}{You search the %s.}
+{486}{}{You close the %s.}
+{487}{}{It is locked.} # new
 #
 # Look text
 #
-{490}{}{Вы видите: %s.}
-{491}{}{Вы видите труп: %s.}
-{492}{}{Вы видите останки: %s.}
-{493}{}{Вы не видите ничего необычного.}
+{490}{}{You see: %s.}
+{491}{}{You see a dead: %s.}
+{492}{}{You see the remains of: %s.}
+{493}{}{You see nothing out of the ordinary.}
 #
 # Examine text
 #
-{500}{}{Труп}
-{501}{}{Почти мертв}
-{502}{}{Сильно кровоточит}
-{503}{}{Ранен}
-{504}{}{Без царапины}
+{500}{}{Dead}
+{501}{}{Almost Dead}
+{502}{}{Severely Wounded}
+{503}{}{Wounded}
+{504}{}{Unhurt}
 #
 # Examine text messages
 #
-{510}{}{Модиф-р КБ: %d}
-{511}{}{Модиф-р СУ: %d}
-{512}{}{Модиф-р урона: %d/%d}
-{518}{}{Вы видите: %s }
+{510}{}{AC Mod: %d}
+{511}{}{DR Mod: %d}
+{512}{}{Dmg Mod: %d/%d}
+{518}{}{You look: %s }
 {519}{}{%s %s }
-{520}{}{Вы видите: %s.}
+{520}{}{You look: %s.}
 {521}{}{%s %s.}
-{522}{}{Объект: %s }
-{523}{}{Объект: %s }
-{524}{}{Объект: %s }
+{522}{}{He looks: %s }
+{523}{}{She looks: %s }
+{524}{}{It looks: %s }
 # (note: hps are short for hit-points)
-{525}{}{%s имеет %d/%d оч. жизни.}
+{525}{}{%s has %d/%d hps.}
 # (note: this is for guns that have ammo)
-{526}{}{Имеется %d/%d зарядов - %s.}
-{530}{}{и есть поврежденные органы.}
-{531}{}{но есть поврежденные органы.}
-{532}{}{и имеют поврежденные органы.}
-{533}{}{но имеют поврежденные органы.}
+{526}{}{It has %d/%d shots of %s.}
+{530}{}{and has crippled limbs.}  # These append to lines 500-504
+{531}{}{but has crippled limbs.}
+{532}{}{and have crippled limbs.}
+{533}{}{but have crippled limbs.}
 # (note: hps are short for hit-points)
-{535}{}{У него есть %d/%d оч. жизни}
-{536}{}{У нее есть %d/%d оч. жизни}
-{537}{}{Оно имеет %d/%d оч. жизни}
-{540}{}{Вес: %d}
-{541}{}{Вес: %d}
+{535}{}{He has %d/%d hps}
+{536}{}{She has %d/%d hps}
+{537}{}{It has %d/%d hps}
+{540}{}{It weighs %d pounds.}
+{541}{}{It weighs %d pound.}
 {544}{}{, }
 {545}{}{.}
-{546}{}{ и носит при себе : %s.}
-{547}{}{ и носит при себе : %s с %d/%d зарядов калибра %s.}
-{548}{}{Похоже сейчас эта машина в нерабочем состоянии.}
-{549}{}{Эта машина работает на %d%% своей мощности.}
+{546}{}{ and is wielding a %s.}
+{547}{}{ and is wielding a %s with %d/%d shots of %s.}
+{548}{}{The car doesn't look like it's working right now.}
+{549}{}{The car is running at %d%% power.}
 #
 # Examine text error messages
 #
-{550}{}{\nОшибка: lookuр_val вне радиуса!}
-{551}{}{\nОшибка: obj_examine: рroto_рtr ошибся!}
+{550}{}{\nError: lookup_val out of range!}
+{551}{}{\nError: obj_examine: proto_ptr failed!}
 #
 # Use text messages
 #
-{580}{}{Вы применили : %s.}
-{581}{}{Вы применили : %s на %s.}
-{582}{}{Из этого ничего не вышло.}
-{583}{}{К своей досаде, вы догадались, что перед вами обычный труп.}
-{584}{}{Когда вы нагнулись и посмотрели, то обнаружили мертвое тело.}
-{585}{}{Жаль, но вы опоздали.}
-{586}{}{Это все как мертвому припарки.}
-{587}{}{Вы засветили фонарь.}
-{588}{}{Фонарь уже зажжен.}
-{589}{}{Вы установили таймер.}
-{590}{}{Таймер давно начал работу!}
-{595}{}{Вы подзарядили машину энергией.}
-{596}{}{Энергоблок машины уже полностью заряжен.}
-{597}{}{Вход, кажется, заблокирован...}
+{580}{}{You use the %s.}
+{581}{}{You use the %s on %s.}
+{582}{}{That does nothing.}
+{583}{}{To your dismay, you realize that it is already dead.}
+{584}{}{As you reach down, you realize that it is already dead.}
+{585}{}{Alas, you are too late.} # This is relating to a critter being dead.
+{586}{}{That won't work on the dead.}
+{587}{}{You light the flare.}
+{588}{}{The flare is already lit.}
+{589}{}{You set the timer.}
+{590}{}{The timer is already ticking!}
+{595}{}{You charge the car with more power.}
+{596}{}{The car is already full of power.}
+{597}{}{The doorway seems to be blocked.}
 #
 # Experience-Point messages
 #
-{620}{}{Вы получили %d очков опыта за убийство существа : %s.}
-{621}{}{%s вы получили %d очков опыта.}
-{622}{}{За победу над врагами, }
-{623}{}{За уничтожение противника, }
-{624}{}{Вы победили в этом бою, }
-{625}{}{За разгром ваших врагов, }
-{626}{}{За уничтожение противника без единой царапины, }
+{620}{}{You gain %d experience points for killing: %s.}
+{621}{}{%s you earn %d exp. points.}
+{622}{}{For defeating your enemies, }  # 622-626 prepend to line 621
+{623}{}{For slaying your opponents, }
+{624}{}{You are victorious in combat, }
+{625}{}{For crushing your enemies, }
+{626}{}{For destroying your enemies without taking a scratch, }
 #
 # Dialog messages
 #
-{650}{}{[Готово]}
-{651}{}{[Далее]}
-{652}{}{Далее}
-{653}{}{[Назад]}
-{654}{}{Назад}
-{655}{}{Вперед}
-{656}{}{Эээ...}
-{660}{}{Вы не заглянете туда.}
-{661}{}{Слишком далеко.}
-{670}{}{Хорошо.}
-{671}{}{Прекрасно.}
-{672}{}{Как вы хотите.}
-{673}{}{Все, что вы говорите.}
-{674}{}{Я пытаюсь.}
-{675}{}{Я не могу сделать это.}
-{676}{}{Я не думаю, что смогу это сделать.}
-{677}{}{Арв!}
-{678}{}{Гаав!}
+{650}{}{[Done]}
+{651}{}{[More]}
+{652}{}{More}
+{653}{}{[Back]}
+{654}{}{Back}     # changed number from 653
+{655}{}{Go on}    # new
+{656}{}{Err...}   # new
+{660}{}{You can't see there.}
+{661}{}{Too far away.}
+{670}{}{Okay.}    # F2: Used in PM: CombatAI settings
+{671}{}{Sure.}    # F2: Used in PM: CombatAI settings
+{672}{}{As you wish.}       # F2: Used in PM: CombatAI settings
+{673}{}{Whatever you say.}  # F2: Used in PM: CombatAI settings
+{674}{}{I'll try.}          # F2: Used in PM: CombatAI settings
+{675}{}{I can't do that.}   # F2: Used in PM: CombatAI settings
+{676}{}{I don't think I can do that.}   # F2: Used in PM: CombatAI settings
+{677}{}{Arf!}   # F2: Used in PM: CombatAI settings -- RoboDog
+{678}{}{Woof!}  # F2: Used in PM: CombatAI settings -- RoboDog
+
 #
 # Not Enough AP message
 #
-{700}{}{У Вас недостаточно очков действия.}
+{700}{}{You don't have enough action points.}
 #
 # Book messages
 #
-{800}{}{Вы прочитали книгу.}
-{801}{}{Нет, ничего нового Вы так и не узнали.}
-{802}{}{Вы узнали кое-что новенькое из области науки.}
-{803}{}{Вы многое выяснили о способах починки различной аппаратуры.}
-{804}{}{Вы узнали новые способы обработки ран.}
-{805}{}{Вы научились лучше обращаться с оружием.}
-{806}{}{Вы изучили новые способы выживания в пустыне.}
+{800}{}{You read the book.}
+{801}{}{You learn nothing new.}
+{802}{}{You learn new science information.}
+{803}{}{You learn a lot about repairing broken electronics.}
+{804}{}{You learn new ways to heal injury.}
+{805}{}{You learn how to handle your guns better.}
+{806}{}{You learn a lot about wilderness survival.}
 #
 # Use on messages (and some extra stuff that Jesse needed)
 #
-{900}{}{Запасы в Сумке Доктора подошли к концу.}
-{901}{}{Запасы в Аптечке Первой Помощи подошли к концу.}
-{902}{}{Вы не можете делать это во время боя.}
-{903}{}{Этот персонаж не будет торговать с вами.}
-{904}{}{Этот персонаж ничего вам не собирается говорить.}
-{905}{}{Вы не подберете этот предмет. Вы и так слишком нагружены разными вещами.}
-{910}{}{Запасы в Сумке Парамедика закончились.}
-{911}{}{Запасы в Полевой Аптечке Первой Помощи подошли к концу.}
-{913}{}{Это не принесло никакого результата.}
+{900}{}{The supplies in the Doctor's Bag run out.}
+{901}{}{The supplies in the First Aid Kit run out.}
+{902}{}{You cannot do that in combat.}
+{903}{}{This person will not barter with you.}
+{904}{}{This person has nothing to tell you about.}
+{905}{}{You cannot pick up that item. You are at your maximum weight capacity.}
+{910}{}{The supplies in the Paramedic's Bag run out.}
+{911}{}{The supplies in the Field Medic First Aid Kit run out.}
+{913}{}{This critter can't carry anything.}
 #
 # Kill Types names
 #
-{1450}{}{Мужчин}
-{1451}{}{Женщин}
-{1452}{}{Мальчиков}
-{1453}{}{Девочек}
-{1454}{}{Мертвяков}
-{1455}{}{Лавашей}
-{1456}{}{Скорпионов}
-{1457}{}{Крыс}
-{1458}{}{Бестии}
-{1459}{}{Безумных}
-{1460}{}{Роботов}
-{1461}{}{Песчаных Шакалов}
-{1462}{}{Защитных Экранов}
-{1463}{}{Химер}
-{1464}{}{Турелей}
-{1465}{}{Кротокрысов}
-{1466}{}{Урсов}
-{1467}{}{Муравьиных Львов}
-{1468}{}{Повелителей "Олимпа"}
+{1450}{}{Men}
+{1451}{}{Women}
+{1452}{}{Boys}
+{1453}{}{Girls}
+{1454}{}{Ghouls}
+{1455}{}{Lavash}
+{1456}{}{Scorpions}
+{1457}{}{Rats}
+{1458}{}{Beasts}
+{1459}{}{Lunatics}
+{1460}{}{Robots}
+{1461}{}{Jackals}
+{1462}{}{Protectors}
+{1463}{}{Chimera}
+{1464}{}{Turrets}
+{1465}{}{Mole Rats}
+{1466}{}{Ursas}
+{1467}{}{Ant Lions}
+{1468}{}{Lord of Olympus}
 #
 # Kill type info descriptions
 #
-{1469}{}{Здесь ведется подсчет убитых Вами мужчин, как больших и сильных, так и немощных и слабых.}
-{1470}{}{Здесь ведется подсчет убитых Вами женщин, как здоровых и сексапильных, так и больных и страшненьких.}
-{1471}{}{Учет числа маленьких мальчиков, погибших от Вашей жестокой руки.}
-{1472}{}{Учет числа маленьких девочек с бантиками, умерших из-за Ваших действий. Если показатель не равен "0" - Вы настоящий злодей!}
-{1473}{}{Здесь показано общее количество убитых Вами полуразложившихся, но не потерявших рассудок, мертвяков.}
-{1474}{}{Учет убитых Вами двухголовых коров-мутантов - лавашей. Их действительно нужно убивать?}
-{1475}{}{Здесь показано количество убитых Вами скорпионов, ядовитых и не очень.}
-{1476}{}{Никакая катастрофа их не может уничтожить, но Вы справились! Количество убитых Вами крыс.}
-{1477}{}{Это число показывает общее количество уничтоженных Вами больших мутировавших ягуаров - бестий и багуров.}
-{1478}{}{Здесь указано число убитых Вами безумных - рехнувшихся от голода и радиации мертвяков.}
-{1479}{}{Здесь указано общее количество сломанных, разобранных, взорванных или отформатированных Вами роботов и механизмов.}
-{1480}{}{Здесь указано количество песчаных шакалов, отправившихся по Вашей доброй воле на вечную охоту на небесах.}
-{1481}{}{Здесь показывается, как много Защитных Экранов Андерсона Вы смогли разгромить.}
-{1482}{}{Эти скромные цифры означают количество убитых Вашей рукой химер.}
-{1483}{}{Здесь учитывается количество уничтоженных Вами турелей, по несчастью оказавшихся у Вас на пути.}
-{1484}{}{Эти цифры показывают количество исправленных Вами ошибок природы - убитых кротокрысов.}
-{1485}{}{Это число означает количество урсов, отправленных Вами в небесную берлогу на вечную спячку.}
-{1486}{}{Здесь ведется учет убитых Вами муравьиных львов разных мастей.}
-{1487}{}{Здесь указано общее количество убитых Вами странных мужиков в железных сферах, подключенных проводами к системам управления небоскребами.}
+{1469}{}{This line shows the number of male humans you have killed during the course of your adventures.}
+{1470}{}{This line shows the number of female humans you have killed during the course of your adventures.}
+{1471}{}{This line shows the number of little boys killed by your cruel hand. You bastard!}
+{1472}{}{This line shows the number of little girls killed by your cruel hand. You bastard!}
+{1473}{}{The number of half-decayed, but not insane, walking dead you killed.}
+{1474}{}{This numer of Lavash you have chopped up during your travels. Those poor cows.}
+{1475}{}{The number of mutated Scorpions that you have put to death during your adventure.}
+{1476}{}{The number of Rats you have clobbered to death, either for food or for sports.}
+{1477}{}{The number of big mutated felines you killed, Jaguars and Lions. Congratulations on a big hunt!}
+{1478}{}{The number of lunatics you killed, Ghouls that have gone insane from hunger and radiation.}
+{1479}{}{This is the number of robots and computer that you have destroyed, dismantled or formated.}
+{1480}{}{The total number of dogs and jackals that you have sent to the great kennel in the sky.}
+{1481}{}{This shows how many Anderson'S Protectors you've been able to defeat.}
+{1482}{}{This modest number shows that you have killed some very dangerous Chimeras and lived.}
+{1483}{}{This line shows the number of turrets that where in your way and you managed to destroy.}
+{1484}{}{The number of errors of nature you have corrected, also known as Mole Rats you killed.}
+{1485}{}{The number of big hungry Ursa you have sent to the heavenly den for eternal hibernation.}
+{1486}{}{The many and countless numbers of all different kinds of Ants you have killed.}
+{1487}{}{The count of freakish men in metal spheres, attached to a computer control system you killed.}
+
