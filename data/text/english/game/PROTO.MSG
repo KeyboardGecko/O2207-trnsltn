@@ -269,11 +269,11 @@
 {1460}{}{Robots}
 {1461}{}{Jackals}
 {1462}{}{Protectors}
-{1463}{}{Chimera}
+{1463}{}{Chimeras}
 {1464}{}{Turrets}
 {1465}{}{Mole Rats}
 {1466}{}{Ursas}
-{1467}{}{Ant Lions}
+{1467}{}{Ants}
 {1468}{}{Lord of Olympus}
 #
 # Kill type info descriptions
@@ -286,15 +286,15 @@
 {1474}{}{This numer of Lavash you have chopped up during your travels. Those poor cows.}
 {1475}{}{The number of mutated Scorpions that you have put to death during your adventure.}
 {1476}{}{The number of Rats you have clobbered to death, either for food or for sports.}
-{1477}{}{The number of big mutated felines you killed, Jaguars and Lions. Congratulations on a big hunt!}
+{1477}{}{The number of human-sized mutated Jaguars you have successful tracked down and hunted.}
 {1478}{}{The number of lunatics you killed, Ghouls that have gone insane from hunger and radiation.}
 {1479}{}{This is the number of robots and computer that you have destroyed, dismantled or formated.}
-{1480}{}{The total number of dogs and jackals that you have sent to the great kennel in the sky.}
-{1481}{}{This shows how many Anderson'S Protectors you've been able to defeat.}
+{1480}{}{The total number of Wild Dogs and Jackals that you have sent to the great kennel in the sky.}
+{1481}{}{This line shows the number of how many of Anderson's Protectors you've been able to defeat.}
 {1482}{}{This modest number shows that you have killed some very dangerous Chimeras and lived.}
 {1483}{}{This line shows the number of turrets that where in your way and you managed to destroy.}
 {1484}{}{The number of errors of nature you have corrected, also known as Mole Rats you killed.}
 {1485}{}{The number of big hungry Ursa you have sent to the heavenly den for eternal hibernation.}
-{1486}{}{The many and countless numbers of all different kinds of Ants you have killed.}
+{1486}{}{The number of all different kinds of mutated ants you have killed in teh wastes.}
 {1487}{}{The count of freakish men in metal spheres, attached to a computer control system you killed.}
 

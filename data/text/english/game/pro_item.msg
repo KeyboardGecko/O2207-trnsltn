@@ -371,7 +371,7 @@
 {18600}{}{Pneumatic Rifle}
 {18601}{}{A rifle that shoots small BB Pellets with the help of compressed air. Has more power than the pistol versions. Min ST: 3}
 {18700}{}{Raven Rifle}
-{18701}{}{A descent rifle that shoots small BB Pellets. Even a wild jackal would not like to get hit by a bullet from this one. Min ST: 3}
+{18701}{}{A descent rifle that shoots small BB Pellets. Even a wild dog would not like to get hit by a bullet from this one. Min ST: 3}
 {18800}{}{Repaired Rifle}
 {18801}{}{A repaired and worn rifle, but stil deadly. Min ST: 5}
 {18900}{}{Placeholder Rifle}
@@ -1028,7 +1028,7 @@
 {51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
 {51500}{}{Chimera Claw}
 {51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
-{51600}{}{Jackal Tooth}
+{51600}{}{Dog Teeth}
 {51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
 {51700}{}{Jackal Fang}
 {51701}{}{This jackal was clearly not eager to share this tooth with you. Appreciate it as its former owner did.}
