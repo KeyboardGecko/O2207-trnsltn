@@ -530,8 +530,8 @@
 {26501}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but it makes you curious.}
 {26600}{}{Box}
 {26601}{}{Usually people keep their stuff in something like it.}
-{26700}{}{Box}
-{26701}{}{A great item for storing items.}
+{26700}{}{Footlocker}
+{26701}{}{A great place for storing items.}
 {26800}{}{Table}
 {26801}{}{The station administrator's desk.}
 {26900}{}{Shelves}
