@@ -58,16 +58,16 @@
 #
 # Holodisk titles
 #
-{400}{}{Jackal Records}
-{401}{}{Carlos Young: Research}
+{400}{}{Jackal's Diary}
+{401}{}{Young's Research}
 {402}{}{War Chronicle}
-{403}{}{Work at Renaissance}
+{403}{}{Work in Renaissance}
 {404}{}{PD Alloy Research}
 {405}{}{Tartarus Directive}
-{406}{}{Sebastian Shvain}
-{407}{}{Exhibition at Olympus}
-{408}{}{Knights of the Light}
-{409}{}{My personal diary}
+{406}{}{Shvain's Notes}
+{407}{}{Olympus Promotion}
+{408}{}{On Lumenieri}
+{409}{}{Recruit's Diary}
 {410}{}{Equestria}
 {411}{}{Project Renaissance}
 {412}{}{Biolabory #2 Reports}

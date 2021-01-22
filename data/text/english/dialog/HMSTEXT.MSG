@@ -44,16 +44,16 @@
 {106}{}{<<EMPTY>>}
 {107}{}{<<EMPTY>>}
 {108}{}{<<EMPTY>>}
-{109}{}{   <<ÑÎÁÐÀÒÜ!>>}
+{109}{}{   <<ASSEMBLE!>>}
 {110}{}{ > Craft Pump Filter.}
 {111}{}{ > Craft Distillery Filter}
-{112}{}{ > Craft Fake Seekers Armor}
+{112}{}{ > Craft Fake Military Armor}
 {113}{}{ > Craft Electric Trap}
 {114}{}{ > Craft Explosive Trap}
 {115}{}{ > Craft Serrated Cleaver}
 {116}{}{ > Craft Rusty Cuirass}
-{117}{}{ > Craft Homemade Rocket Launcher}
-{118}{}{ > Craft Homemade Grenade}
+{117}{}{ > Craft Self-made Rocket Launcher}
+{118}{}{ > Craft Self-made Grenade}
 {119}{}{ > Craft Energy Drink}
 {120}{}{ > Craft Fertilizer}
 {121}{}{ > Craft Jackal Revolver}
@@ -67,13 +67,13 @@
 {129}{}{ > Collect the Item}
 {130}{}{HMS UPDATED! You now know how to make a Pump Filter!}
 {131}{}{HMS UPDATED! You now know how to make a Moonshine Filter.}
-{132}{}{HMS UPDATED! You now know how to make a Fake Seeker Armor}
+{132}{}{HMS UPDATED! You now know how to make a Fake Military Armor}
 {133}{}{HMS UPDATED! You now know how to make an Electric Trap.}
 {134}{}{HMS UPDATED! You now know how to make an Explosive Trap.}
 {135}{}{HMS UPDATED! You now know how to make a Serrated Cleaver.}
 {136}{}{HMS UPDATED! You now know how to make a Rusty Cuirass.}
-{137}{}{HMS UPDATED! You now know how to make a homemade Rocket Launcher.}
-{138}{}{HMS UPDATED! You now know how to make a homemade Grenade.}
+{137}{}{HMS UPDATED! You now know how to make a Self-made Rocket Launcher.}
+{138}{}{HMS UPDATED! You now know how to make a Self-made Grenade.}
 {139}{}{HMS UPDATED! You now know how to make Energy Drinks.}
 {140}{}{HMS UPDATED! You now know how to make Fertilizer.}
 {141}{}{HMS UPDATED! You now know how to make a Jackal Revolver.}
@@ -106,9 +106,9 @@
 {222}{}{Great Job, }
 {223}{}{After some time and some effort, }
 {224}{}{A little patience - and that's it, }
-{225}{}{you may collect the repaired}
+{225}{}{you may collect the repaired }
 {226}{}{you can get the repaired out of the vise }
-{227}{}{you can pick up the newly assembled}
+{227}{}{you can pick up the newly assembled }
 {228}{}{you can loosen the vise and pick up the repaired }
 {229}{}{now you can use the repaired for its intended purpose }
 {230}{}{}
