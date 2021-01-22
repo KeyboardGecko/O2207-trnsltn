@@ -255,8 +255,8 @@
 {12800}{}{AS-2000 MKII}
 {12801}{}{The AS-2000 has been replaced by a modern upgraded and modified MKII, that features an added programmable stabilization system and an inverse kinematics system.}
 {12900}{}{MCA Defender}
-{12901}{}{This is the legendary mechanized combat armor system, powered by diesel-nuclear propulsion. Only the defenders of Olympus, the Protectors, are worthy to wear such a suit!}
-{13000}{}{Super Luger}
+{12901}{}{This is a legendary mechanized combat armor system, powered by diesel-nuclear propulsion. Only the elite defenders of Olympus, the Protectors, are worthy to wear such a suit!}
+{13000}{}{Slugger}
 {13001}{}{An award-winning German-made pistol, characterized by it's high accuracy, stopping power, reliability and an elegant intrinsic handle design. Min ST: 4}
 {13100}{}{Detective Revolver}
 {13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. He failed many at a critical moment, but also saved many! Min ST: 4}
@@ -268,10 +268,10 @@
 {13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor. Min ST: 5}
 {13500}{}{Thunderer}
 {13501}{}{This weapon is made on the basis of an single-fire under-barrel 40mm grenade launcher. It will bring quite a few merry moments to its owner. Min ST: 6}
-{13600}{}{9mm Glock}
-{13601}{}{The 9mm Glock pistol, manufactured by D&R, is a classic representative of the German military industry, very accurate and reliable. Min ST: 4}
-{13700}{}{9mm Glock Auto}
-{13701}{}{An improved model of the Glock Pistol family, that can fire bursts for even more fun with 9mm. Min ST: 5}
+{13600}{}{9mm Glocker}
+{13601}{}{The 9mm Glocker pistol, manufactured by D&R, is a classic representative of the German military industry, very accurate and reliable. Min ST: 4}
+{13700}{}{9mm Glocker Auto}
+{13701}{}{An improved model of the Glocker Pistol family, that can fire bursts for even more fun with 9mm. Min ST: 5}
 {13800}{}{9mm Pistol}
 {13801}{}{A basic average pistol in 9mm, nothing special about it. Min ST: 4}
 {13900}{}{9mm Revolver}
@@ -593,7 +593,7 @@
 {29700}{}{Nuclear Moonshine}
 {29701}{}{A bottle of an extremely strong liquor. It glows in the dark!}
 {29800}{}{*Douglas's Badge*}
-{29801}{}{Shiny badge for Sheriff Douglas.}
+{29801}{}{The shiny badge of Sheriff Douglas.}
 {29900}{}{*Encyclopedia*}
 {29901}{}{A scientific reference guide containing useful information from various fields of life.}
 {30000}{}{*Prototype Plasma Rifle*}
@@ -772,14 +772,14 @@
 {38601}{}{The notes of the gunsmith Sebastian Schwein.}
 {38700}{}{Olympus Promotion}
 {38701}{}{Olympus! The greatest creation of mankind!}
-{38800}{}{On Lumenieri}
-{38801}{}{Notes of a certain person about the experience of communicating with the "Lumenieri".}
+{38800}{}{On the Enlightened Ones}
+{38801}{}{Notes of a certain person about the experience of communicating with the Enlightened Ones.}
 {38900}{}{Recruit's Diary}
 {38901}{}{A dusty, dirty disk from a nameless corpse.}
 {39000}{}{Solar Scorcher}
 {39001}{}{A unique pistol powered by solar energy, a great economical weapon.}
 {39100}{}{MCA Predator}
-{39101}{}{A mechanized combat armor system from NCASTR. Only the developers can use this, BUH!}
+{39101}{}{A mechanized combat armor system from NCASTR. Only the Enlightened Ones may wear use this Holy Armor!}
 {39200}{}{SMG Parts}
 {39201}{}{Spare parts for a submachine gun, still oiled.}
 {39300}{}{*Personal Diary*}
