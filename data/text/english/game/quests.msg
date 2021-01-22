@@ -7,7 +7,7 @@
 # TARTAR Quests
 #
 {100}{}{Help Dr. Pat get the workers of Tartarus back on their feet.}
-{101}{}{Your father is strongly irradiated. You need to find a way to return to Tartarus and help him.
+{101}{}{Your father is strongly irradiated. You need to find a way to return to Tartarus and help him.}
 {102}{}{Your father needs Rad-Away. Find it and bring it to Dr. Pat in Tartarus.}
 #
 # UNDEAD CAVES Quests
