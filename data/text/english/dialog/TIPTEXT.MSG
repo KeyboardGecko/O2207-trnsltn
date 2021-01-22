@@ -1,26 +1,26 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах итемов
+# This file describes the messages,
+# used in the pop-up help scripts
 #
 # Created by Artem "Rainman" Samoylov
 # 16/11/2010
 #
-#Общие положения
+#General
 #
-{10}{}{Приветствуем Вас в игре "Олимп 2207"!}
-{11}{}{Если Вы впервые играете в "Олимп 2207", мы настоятельно рекомендуем Вам получать подсказки по ходу игры.}
-{12}{}{Вы хотите получать подсказки по игре?}
+{10}{}{Welcome to "Olympus 2207"!}
+{11}{}{If you are playing Olympus 2207 for the first time, we strongly recommend that you enable hints.}
+{12}{}{Do you want to get hints during gameplay?}
 {13}{}{}
 {14}{}{}
-{15}{}{Вы выполнили достаточно заданий, чтобы перейти к следующей части игры. Для этого "воспользуйтесь" Вашей постелью на первом уровне.}
-{16}{}{Вы выполнили все задания и теперь можете перейти к следующей части игры. Для этого "воспользуйтесь" Вашей постелью на первом уровне.}
-{17}{}{Вы получили первое задание по сборке предмета. Для доступа к панели сборки кликните по значку "HMS" в правой части панели интерфейса (см. рисунок ниже) и следуйте инструкциям. Чтобы получить доступ к сборке других предметов, Ваш герой должен узнать о возможности их сборки.}
-{18}{}{Для ремонта трансформатора Вы можете применить на него навык "Наука" и починить его вручную. Подобным образом в игре можно замыкать электронные замки, предварительно вскрыв отверткой их электрощиток.}
-{19}{}{Будьте аккуратны при попытках обворовать кого-либо, ведь если ваш навык воровства слишком низкий, то с вероятностью 25% жертва может заметить Ваши злонамерения и напасть на Вас! Учитывайте так же, что для воровства у торговцев Ваш навык должен быть не ниже 100-120%}
-{20}{}{Убивая кого-либо, Вы не только увеличиваете свой счетчик убийств, но, так же, меняете свою карму! Будьте крайне внимательны, стреляя очередному собеседнику между глаз, ведь если он окажется сюжетным персонажем, то Вам придется прокладывать дальнейший путь через гору трупов!}
-{21}{}{Решая встающие перед Вами задачи, помните, что каждое принятое решение влияет на Вашу карму и на отношение к Вам как отдельных персонажей, так и целых локаций. От уровня Вашей кармы зависят варианты реплик, доступные в диалогах, варианты решения квестов и даже доступность квестов.}
-{22}{}{Ремонт искрящегося трансформатора - дело сложное и небезопасное! Если Ваш навык "Ремонт" достаточно высок - можете попробовать использовать его для ремонта. Если Вы сомневаетесь в своих ремонтных способностях - используйте навык "Наука" и попытайте удачу своими руками. Ну а если Ваш язык хорошо подвешен - можете просто попросить кого-нибудь другого починить трансформатор за Вас. Например, Смитти на техническом уровне.}
-{23}{}{Вы должны спуститься на этаж "фермы" и получить список дневных заданий у Вестника, стоящего в центре ферм. Для перемещения между этажами Тартара "используйте" проходы-лестницы за спинами охранников.}
-{24}{}{РАДИАЦИЯ! Следите за уровнем облучения своего организма при помощи "Рад-о-метра" или по сообщениям о накопленной радиации в информационном дисплее в левой части панели управления. Если вы накопили более 300 рад у Вас понизятся Сила и Ловкость, и даже после очищения организма от радиации понадобится еще пара дней на то, чтобы эти характеристики восстановились. Накопив более 400 - 500 рад Вы рискуете потерять очки здоровья, а пониженные характеристики могут не восстановиться! Если вы не хотите страдать от радиации - понизьте сложность игры на "низкую" прямо сейчас.}
-{25}{}{Андерсон мертв. Стоя над телом поверженного врага, Вы вспоминаете свой долгий и трудный путь от наивного раба до покорителя Олимпа, сумевшего победить "Бога"! Вы - первый, кто смог дойти до конца этого пути! И пусть многие вопросы остались без ответов - отныне это участь других искателей, идущих по Вашим стопам, а Вы... разве у Вас есть выбор? А был ли он у Андерсона? "Олимпу" НУЖЕН управляющий. [занять место Андерсона]}
-{26}{}{Если вы не в первый раз решились исследовать мир "Олимпа" - у Вас есть возможность пропустить начальные этапы игры в Тартаре прямо сейчас. Вам зачтутся все пропущенные квесты по нижней границе возможных очков опыта, а все пропущенные решения будут считаться по умолчанию нейтральными. Вы хотите пропустить начальные этапы Тартара?}
-{27}{}{По ходу игры Вам будет встречаться большое количество самых разнообразных предметов. Наиболее важные и интересные из них помечены знаком "*" в названии. Найдя такой предмет - берегите его, ведь скорее всего он является важной частью квеста или ключом к удивительным местам мира игры!}
+{15}{}{You have completed enough tasks to move on to the next part of the game. To do this, "use" your bed on the first level.}
+{16}{}{You have completed all the tasks and can now move on to the next part of the game. To do this, "use" your bed on the first level.}
+{17}{}{You have received your first item assembling task. To access the build panel, click on the " HMS " icon on the right side of the interface panel (see figure below) and follow the instructions. To gain access to the collection of other items, your hero must learn about the possibility of assembling them.}
+{18}{}{To repair the transformer, you can apply the "Science" skill to it and fix it manually. Also you can hack electronic locks, after opening their electric panel with a screwdriver.}
+{19}{}{Be careful when trying to steal from someone, because if your theft skill is too low, then there is a 25% chance that the victim will notice your malicious intentions and attack you! Keep in mind that to steal from merchants, your skill must be at least 100-120%}
+{20}{}{By killing someone, you not only increase your kill count, but also change your karma! Be extremely careful, shooting the next person between the eyes, because if he turns out to be a plot character, then you will have to pave the way through a mountain of corpses!}
+{21}{}{When solving the tasks you face, remember that each decision you make affects your karma and the attitude of individual characters and entire locations towards you. The level of your karma depends on the options for lines available in dialogues, options for solving quests, and even the availability of quests.}
+{22}{}{Fixing a sparking transformer is a complicated and unsafe task! If your "Repair" skill is high enough, you can try to use it for repairs. If you doubt your repair abilities use the "Science" skill and try your luck with your own hands. Or if you have more of a silver tongue , you can just ask someone else to fix the transformer for you. For example, Smitty at the technical level.}
+{23}{}{You must go down to the "farm" floor and get a list of the day's tasks from the Herald standing in the center of the farms. To move between the floors of Tartarus, "use" the passageways / stairs behind the guards.}
+{24}{}{RADIATION! Monitor your body's radiation levels using the "Radiometer" or the accumulated radiation messages in the information display on the left side of the control panel. If you have accumulated more than 300 rad, your Strength and Agility will decrease, and even after cleansing the body of radiation, it will take another couple of days for these statistics to recover. If you accumulate more than 400-500 rad, you risk losing health points, and reduced stats might not recover. If you do not want to suffer from radiation - lower the difficulty of the game to "low" right now.}
+{25}{}{Anderson is dead. Standing over the body of a defeated enemy, you remember your long and difficult journey from a naive servant to the conqueror of Olympus, who managed to defeat "God"! You are the first to reach the end of this path! And even if many questions remain unanswered, from now on this is the fate of other seekers following in your footsteps, and you... what other choice do you have? Did Anderson have one? Olympus NEEDS a head figure. [You take Anderson's place]}
+{26}{}{If this is not the first time you have decided to explore the world of "Olympus" - you have the opportunity to skip the initial stages of the game in Tartarus right now. This resolves all skipped quests at the lower end of possible experience points, and all skipped solutions will be considered neutral by default. Do you want to skip the initial stages of Tartarus?}
+{27}{}{As the game progresses, you will encounter a large number of different items. The most important and interesting ones are marked with a * in the title. If you find such an item, hold on to it! Most likely it is an important part of a quest, or the key to an amazing places of the game world!}

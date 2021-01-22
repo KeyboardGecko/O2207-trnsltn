@@ -57,11 +57,11 @@
 {151}{}{Swift Learner}
 {152}{}{Tag!}
 {153}{}{Mutate!}
-{154}{}{Nuka-Cola Reliance}
-{155}{}{Buffout Reliance}
-{156}{}{Mentats Reliance}
-{157}{}{Psycho Reliance}
-{158}{}{Radaway Reliance}
+{154}{}{Spot-Up Addiction}
+{155}{}{Stronghold Addiction}
+{156}{}{Brainiac Addiction}
+{157}{}{Combatid Addiction}
+{158}{}{Resistanol Addiction}
 {159}{}{Weapon Long Range}
 {160}{}{Weapon Accurate}
 {161}{}{Weapon Penetrate}
@@ -74,8 +74,8 @@
 {168}{}{Weapon Flameboy}
 {169}{}{Armor Advanced I}
 {170}{}{Armor Advanced II}
-{171}{}{Jet Reliance}
-{172}{}{Tragic Reliance}
+{171}{}{Drop Addiction}
+{172}{}{Tragic Addiction}
 {173}{}{Armor Charisma}
 {174}{}{Gecko Skinning}
 {175}{}{Dermal Impact Armor}
@@ -180,7 +180,7 @@
 {1151}{}{You are indeed a Swift Learner with this Perk, as each level gives you an additional +5% bonus whenever you earn experience points.  This is best taken early.}
 {1152}{}{Your skills have improved to the point where you can pick an additional Tag Skill.  Tag skills increase twice as fast.}
 {1153}{}{The radiation of the wasteland has changed you!  One of your Traits has mutated into something else...}
-{1154}{}{You crave another Nuka-Cola.}
+{1154}{}{You crave another Spot-Up.}
 {1155}{}{You've got the shakes.}
 {1156}{}{You feel groggy.}
 {1157}{}{You feel light-headed.}
@@ -197,7 +197,7 @@
 {1168}{}{Weapon Flameboy}
 {1169}{}{Armor Advanced I}
 {1170}{}{Armor Advanced II}
-{1171}{}{Everything is moving so slowly... you need to get some more Jet, right NOW!}
+{1171}{}{Everything is moving so slowly... you need to get some more Drop, right NOW!}
 {1172}{}{You feel a burning desire to open another box of Tragic cards.}
 {1173}{}{Armor Charisma}
 {1174}{}{You have the knowledge of how to skin geckos properly to get their hides.}

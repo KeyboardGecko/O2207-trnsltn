@@ -1,1202 +1,1202 @@
-{100}{}{.223 калибр}
-{101}{}{Винтовочный патрон, калибр .223 дюйма, фабричного производства. Заводская упаковка.}
-{200}{}{.223 калибр (куст.)}
-{201}{}{Винтовочный патрон, калибр .223 дюйма, кустарного производства. Продается поштучно.}
-{300}{}{.223 калибр (ББ)}
-{301}{}{Бронебойный винтовочный патрон, калибр .223 дюйма, такой патрон эффективен против бронированной цели. Заводская упаковка.}
-{400}{}{.308 калибр}
-{401}{}{Винтовочные пули .308 калибра, еще из старых армейских запасов. Заводская упаковка.}
-{500}{}{.308 калибр (куст.)}
-{501}{}{Самопальные винтовочные пули .308 калибра. Продаются поштучно.}
-{600}{}{.38 калибр}
-{601}{}{Пистолетные патроны калибра .38, иногда используются для мелкокалиберных винтовок. Заводская упаковка.}
-{700}{}{.38 калибр (куст.)}
-{701}{}{Самодельные пистолетные патроны .38 калибра. Продаются поштучно.}
-{800}{}{.45 калибр}
-{801}{}{Фабричные патроны .45 калибра. Заводская упаковка.}
-{900}{}{.45 калибр (куст.)}
-{901}{}{Самодельные патроны .45 калибра. Продаются поштучно.}
-{1000}{}{.50 калибр}
-{1001}{}{.50 калибр, еще в заводской упаковке.}
-{1100}{}{12 калибр}
-{1101}{}{Патроны 12 калибра, снаряженные дробью среднего диаметра. Заводская упаковка.}
-{1200}{}{12 калибр (удл.)}
-{1201}{}{Удлиненный вариант охотничьего патрона 12 калибра. Заводская упаковка.}
-{1300}{}{12 калибр (пул.)}
-{1301}{}{Пулевой патрон 12 калибра, еще новенькие. Заводская упаковка.}
-{1400}{}{12 калибр (куст.)}
-{1401}{}{Патрон 12 калибра, ручная сборка. Продаются поштучно.}
-{1500}{}{25 мм}
-{1501}{}{Снаряд диаметром 25 мм, из старых запасов. Продается поштучно.}
-{1600}{}{25 мм (ЭМИ)}
-{1601}{}{Специальный вариант 25 мм снаряда, предназначенный для поражения электроники и роботов в том числе. Продается поштучно.}
-{1700}{}{40 мм}
-{1701}{}{Гранатометная граната, фугасного типа. Продается поштучно.}
-{1800}{}{40 мм (ТЕРМО)}
-{1801}{}{Гранатометная граната, зажигательного типа. Продается поштучно.}
-{1900}{}{9 мм}
-{1901}{}{Патроны калибром 9 мм. Армейский вариант. Заводская упаковка.}
-{2000}{}{9 мм (куст.)}
-{2001}{}{Самодельные патроны 9 мм. Продается поштучно.}
-{2100}{}{9 мм (ПСЦТ)}
-{2101}{}{Фабричные 9 мм патроны со смещенным центром тяжести в заводской упаковке. Вошла в живот - вышла через затылок!}
-{2200}{}{9 мм (ББ)}
-{2201}{}{9 мм бронебойные патроны. За счет стального сердечника пробивают легкую броню. Заводская упаковка.}
-{2300}{}{БигБат}
-{2301}{}{Большая энергетическая ячейка, работающее на радиоактивном элементе. Заводская упаковка.}
-{2400}{}{Травмат-пули}
-{2401}{}{Резиновые пули - не самый опасный боеприпас, однако болевой шок может вырубить противника на какое-то время. Продаются поштучно.}
-{2500}{}{Отравленные дротики}
-{2501}{}{Отлично сбалансированные, хоть и изготовленные из хлама дротики. Внутри каждого есть полость, содержащая яд. Жаль, что одноразовые. Продаются поштучно.}
-{2600}{}{Зажигательные 12 мм}
-{2601}{}{Уникальный зажигательный патрон для такого же уникального дробовика "Хоттер". Заводская упаковка.}
-{2700}{}{Патроны Магнум}
-{2701}{}{Револьверные патроны Магнум, повышенной мощности. Заводская упаковка.}
-{2800}{}{МиниБат}
-{2801}{}{Малая энергетическая ячейка, работающая на радиоактивном элементе. Заводская упаковка.}
-{2900}{}{Напалм}
-{2901}{}{Вязкое зажигательное вещество на основе бензина. Заводская упаковка.}
-{3000}{}{Ракета (ЭМИ)}
-{3001}{}{Ракета для базук, с поражающим электромагнитным импульсом. Продается поштучно.}
-{3100}{}{Ракета}
-{3101}{}{Снаряд для базуки, 60 калибр. Продается поштучно.}
-{3200}{}{Ракета (ББ)}
-{3201}{}{Бронебойный усиленный ракетный снаряд 60-го калибра. Продается поштучно.}
-{3300}{}{Шарики}
-{3301}{}{Металлические шарики, используются для стрельбы из пневматических пистолетов и винтовок. Заводская упаковка.}
-{3400}{}{Кастет-Дробовик}
-{3401}{}{Э-хей, этот кастет шмаляет дробью при ударе! Аккуратнее, кровь жертвы может заклинить механизм. Мин. сл: 5}
-{3500}{}{Алюминиевый кастет}
-{3501}{}{Маленький, легкий, невыразительный, но этот кастет поможет вам не выбить костяшки об чью-нибудь челюсть. Мин. сл: 2}
-{3600}{}{Кованый кастет}
-{3601}{}{Вот это уже посерьезнее! Таким кастетом можно и череп проломить, и коленную чашечку разбить. Пользуйтесь на здоровье! Мин. сл: 4}
-{3700}{}{Шипованный кастет}
-{3701}{}{Самый опасный из кастетов: рвет кожу, ломает кости и поднимает настроение своему обладателю! Мин. сл: 4}
-{3800}{}{Свинцовая перчатка}
-{3801}{}{Крайне полезная штука - крушит кости на раз! Мин. сл: 5}
-{3900}{}{Штопор}
-{3901}{}{Довольно опасное и незаметное орудие убийства. При ударе метьтесь в глаз! Мин. сл: 3}
-{4000}{}{Пила "Циркуляр"}
-{4001}{}{Вжжжж! Дисковая пила на вашей руке! Рубит мясо, режет жилы, мелет кость! Такая легкая и удобная, что вы можете забыть о ней, когда решите почесать себе что-нибудь. Мин. сл: 6}
-{4100}{}{Батарейки}
-{4101}{}{Единственное общепринятое средство платежа в Радиусе.}
-{4200}{}{Мина}
-{4201}{}{Американская противопехотная мина нажимного действия с химическим механизмом дезактивации.}
-{4300}{}{Взрывчатка С4}
-{4301}{}{Пластиковая взрывчатка с детонатором, мощная штука.}
-{4400}{}{Взрывчатка С4 актив}
-{4401}{}{!!!Активированная!!! Пластиковая взрывчатка с детонатором, мощная штука.}
-{4500}{}{Детонатор С4}
-{4501}{}{Радиоуправляемый детонатор взрывчатки С4.}
-{4600}{}{Дезактиватор С4}
-{4601}{}{Устройство для отмены активации взрывчатки С4.}
-{4700}{}{Аптечка первой помощи}
-{4701}{}{В этой аптечки есть самое необходимое для оказания первой доврачебной помощи.}
-{4800}{}{Электроловушка}
-{4801}{}{Ловушка использует электрический элемент для поражающего фактора.}
-{4900}{}{Взрывная ловушка}
-{4901}{}{Фактически это растяжка, будьте аккуратны при установке!}
-{5000}{}{ Не использовать это!}
+{100}{}{.223 FMJ}
+{101}{}{A case of standard .223 caliber rifle ammunition.}
+{200}{}{.223 Custom}
+{201}{}{Self-made .223 caliber rifle bullets.}
+{300}{}{.223 AP}
+{301}{}{A case of armor-piercing .223 caliber rifle ammunition.}
+{400}{}{.308 FMJ}
+{401}{}{A case of standard .308 caliber rifle ammunition.}
+{500}{}{.308 Custom}
+{501}{}{Self-made .308 caliber rifle bullets.}
+{600}{}{.38 ACP}
+{601}{}{A case of standard .38 caliber pistol ammunition.}
+{700}{}{.38 Custom}
+{701}{}{Self-made .38 caliber pistol bullets.}
+{800}{}{.45 ACP}
+{801}{}{A case of standard .45 caliber pistol ammunition.}
+{900}{}{.45 Custom}
+{901}{}{Self-made .45 caliber pistol bullets.}
+{1000}{}{.50 BMG}
+{1001}{}{A case of standard .50 caliber heavy machine gun ammunition.}
+{1100}{}{12 ga. Buckshot}
+{1101}{}{A case of standard 12 gauge shotgun buckshot shells.}
+{1200}{}{12 ga. Long}
+{1201}{}{A case of extra long 12 gauge shotgun shells.}
+{1300}{}{12 ga. Slug)}
+{1301}{}{A case of standard 12 gauge shotgun slug cartriges.}
+{1400}{}{12 ga. Custom}
+{1401}{}{Self-made 12 gauge buckshot shells.}
+{1500}{}{25mm HE}
+{1501}{}{A standard 25mm high explosive grenade.}
+{1600}{}{25mm EMP}
+{1601}{}{A special 25mm grenade, designed to destroy electronics and robots.}
+{1700}{}{40mm HE}
+{1701}{}{A standard 40mm high explosive grenade.}
+{1800}{}{40mm WP}
+{1801}{}{A white phosphorous 40mm incendiary grenade.}
+{1900}{}{9mm JHP}
+{1901}{}{A case of standard military 9mm pistol ammunition.}
+{2000}{}{9mm Custom}
+{2001}{}{Self-made 9mm pistol bullets.}
+{2100}{}{9mm HPS}
+{2101}{}{A case of special anti-personel 9mm pistol ammunition.}
+{2200}{}{9mm AP}
+{2201}{}{A case of armor-piercing 9mm pistol ammuniton.}
+{2300}{}{Large Battery}
+{2301}{}{A large, self-contained energy cell.}
+{2400}{}{Rubber Bullet}
+{2401}{}{While not the most dangerous type of ammunition, rubber bullets can knock an opponent out for a while.}
+{2500}{}{Poisoned Dart}
+{2501}{}{Although made of junk, the darts are perfectly balanced. Inside each is a cavity containing poison. Too bad they're single use only.}
+{2600}{}{12mm Nitro}
+{2601}{}{A case of special 12mm incendiary ammunition for the unique Hotter shotgun.}
+{2700}{}{Magnum Bullets}
+{2701}{}{Very powerful magnum revolver cartriges.}
+{2800}{}{Small Battery}
+{2801}{}{A small, self-contained energy cell.}
+{2900}{}{Napalm}
+{2901}{}{A canister of a viscous incendiary substance based on gasoline.}
+{3000}{}{EMP Rocket}
+{3001}{}{A special rocket shell, designed to destroy electronics and robots.}
+{3100}{}{HE Rocket}
+{3101}{}{A standard rocket with a high explosive warhead.}
+{3200}{}{AP Rocket}
+{3201}{}{A special rocket shell, designed to pierce armor plating.}
+{3300}{}{BB Pellets}
+{3301}{}{A case of small metal ball bearings, used by pneumatic pistols and rifles.}
+{3400}{}{Shotgun Fist}
+{3401}{}{Whoa, someone mounted a shotgun in these knuckles. Be careful, the blood of your victims can jam the mechanism. Min ST: 5}
+{3500}{}{Aluminium Knuckles}
+{3501}{}{Small, light, featureless, but this brass knuckles will help you not to hurt your knuckles on someone's jaw. Min ST: 2}
+{3600}{}{Brass Knuckles}
+{3601}{}{That's more like it! With this brass knuckles, you can break someone's skull or kneecaps. Min ST: 4}
+{3700}{}{Spiked Knuckles}
+{3701}{}{The most dangerous of brass knuckles: rips the skin, breaks bones and lifts the mood of its owner! Min ST: 4}
+{3800}{}{Lead Gloves}
+{3801}{}{Very useful, breaks bones like it's nothing. Min ST: 5}
+{3900}{}{Corkscrew}
+{3901}{}{A rather dangerous and inconspicuous weapon. Aim for their eyes! Min ST: 3}
+{4000}{}{Buzz Blade}
+{4001}{}{A chainsaw with a handle. Chopping meat, cutting sinew, crushing bone was never easier! It's so light and comfortable that you can forget about it when you decide to scratch yourself. Min. sl: 6}
+{4100}{}{Batteries}
+{4101}{}{The only widely accepted means of tender in the Wastes.}
+{4200}{}{Mine}
+{4201}{}{A typical american made anti-personal mine with a chemical activation trigger.}
+{4300}{}{C4 Explosives}
+{4301}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive.}
+{4400}{}{Armed C4 Explosives}
+{4401}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. It's armed!}
+{4500}{}{C4 Detonator}
+{4501}{}{A radio-controlled detonator for C4 explosives.}
+{4600}{}{C4 Deactivator}
+{4601}{}{A device for canceling the activation of C4 explosives.}
+{4700}{}{First Aid Kit}
+{4701}{}{A small kit containing basic medical equipment. Bandages, wraps, antiseptic spray, and more.}
+{4800}{}{Electric Trap}
+{4801}{}{A trap that employs an electric charge when triggered.}
+{4900}{}{Explosive Trap}
+{4901}{}{A trap that detonates then the tripwire is triggered.}
+{5000}{}{ Don't use this!}
 {5001}{}{}
-{5100}{}{Динамит}
-{5101}{}{Шашка старого доброго динамита.}
-{5200}{}{Счетчик Гейгера}
-{5201}{}{Тот самый счетчик Гейгера, жизненно важный инструмент в пустоши. Определяет уровень гамма и бета излучения.}
-{5300}{}{Часы}
-{5301}{}{Наручные часы фирмы "Single-tronic". Кварцевый механизм, противоударный корпус.}
-{5400}{}{Стелс-бой}
-{5401}{}{Устройство, которое на основе электромагнитного поля создает эффект невидимости вокруг пользователя.}
-{5500}{}{Отмычки}
-{5501}{}{Небольшой, но разнообразный набор отмычек. Один из главных инструментов взломщика.}
-{5600}{}{Отмычки МК2}
-{5601}{}{Отличный набор отмычек на все случаи жизни. Изготовлены из прочного металла.}
-{5700}{}{Электроотмычка}
-{5701}{}{Электроотмычка универсальный инструмент взлома электрозамков.}
-{5800}{}{Электроотмычка МК2}
-{5801}{}{Усовершенствованная электроотмычка. Теперь можно открыть в два раза больше замков!}
-{5900}{}{Сканер движения}
-{5901}{}{Датчик движения. Улавливает даже малейшие колебания на достаточно большом расстоянии.}
-{6000}{}{Пила "Бобер"}
-{6001}{}{Можно пилить дрова, можно пилить людей. Лучше людей, они мерзкие твари. Мин. сл: 6}
-{6100}{}{Лазерный резак}
-{6101}{}{Этот инструмент может разрезать практически все что угодно. Будьте предельно внимательны при его использовании. Мин. сл: 4}
-{6200}{}{Боевой метательный нож}
-{6201}{}{Сразу видно, что на ножах заводская заточка. Эти бесшумные ножи частенько использовались отрядами "Морских Котов" в своих операциях. Мин. сл: 4}
-{6300}{}{Метательный нож}
-{6301}{}{Самодельный, заточенный и сбалансированный метательный нож. Конечно, он летит не так ровно и далеко, как заводской вариант, но тоже неплох! Мин. сл: 3}
-{6400}{}{Боевой нож}
-{6401}{}{Нож с самым широким кровостоком, и это не удивительно, ведь в умелых руках эта заточенная железяка может убить сотни людей! Мин. сл: 4}
-{6500}{}{Кухонный нож}
-{6501}{}{Если вам нужно порезать хлеб, колбасу или надоедливого соседа. Мин. сл: 3}
-{6600}{}{Тесак}
-{6601}{}{Нож мясника, разрубающий кости за один взмах руки. Мин. сл: 5}
-{6700}{}{Скальпель}
-{6701}{}{Хирургический скальпель, очень острый и легкий в обращении. Будьте осторожны с ним! Мин. сл: 2}
-{6800}{}{Зазубренный тесак}
-{6801}{}{Это орудие маньяков! Мощное холодное оружие с зазубренным лезвием покромсает любого врага. Мин. сл: 4}
-{6900}{}{Электро-копье "Молния"}
-{6901}{}{Металлическое копье с подключенным к нему источником питания поражает врага не только своим острым жалом, но и изрядным электрическим ударом. Мин. сл: 5}
-{7000}{}{Деревянное копье}
-{7001}{}{Острое деревянное копье, изготовленное по технологиям каменного века. Мин. сл: 4}
-{7100}{}{Железное копье}
-{7101}{}{Металлический прут с острым заточенным жалом. Мин. сл: 5}
-{7200}{}{Резервное копье}
+{5100}{}{Dynamite}
+{5101}{}{A stick of good old dynamite.}
+{5200}{}{Geiger Counter}
+{5201}{}{A vital tool in the wasteland. It determines the exposure of gamma and beta radiation.}
+{5300}{}{Watch}
+{5301}{}{A "Single-Tronic" wristwatch, with a quartz mechanism and shockproof case.}
+{5400}{}{Stealth Boy}
+{5401}{}{A device that uses an electromagnetic field to create an invisibility effect around the user.}
+{5500}{}{Lockpicks}
+{5501}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.}
+{5600}{}{Expanded Lockpick Set}
+{5601}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks. This set also includes some special tools for more difficult mechanical locking mechanisms.}
+{5700}{}{Electronic Lockpick}
+{5701}{}{An universal tools for defeating electronic locks and security devices.}
+{5800}{}{Electronic Lockpick MKII}
+{5801}{}{A more advanced version of electronic lockpick. For defeating electronic locks and security devices. This Mark II version includes updated software and interface tools.}
+{5900}{}{Motion Sensor}
+{5901}{}{A motion sensor detects even the slightest movements over a long distance, using a tuned radar device.}
+{6000}{}{Chainsaw Sword}
+{6001}{}{Cuts people better than wood, way better! Purge the Heretic! Kill the Xeno! Min ST: 6}
+{6100}{}{Laser Cutter}
+{6101}{}{This tool can cut almost anything. Take extreme care when using it. Min ST: 4}
+{6200}{}{Combat Throwing Knife}
+{6201}{}{A very sharp and balanced knife that is excellent for throwing. You heard that squads of Navy SEALS used them for silent takedowns. Min ST: 4}
+{6300}{}{Throwing Knife}
+{6301}{}{A self-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory made though. Min ST: 3}
+{6400}{}{Combat Knife}
+{6401}{}{A heavy knife with a wide blade to allow for much bloodloss. In the right hands this piece of cold steel can a lot of people! Min ST: 4}
+{6500}{}{Cutting Knife}
+{6501}{}{If you can't decide if you want to cut up bread, sausages or an annoying neighbor. Min ST: 3}
+{6600}{}{Cleaver}
+{6601}{}{A butcher's knife that cuts through bones in a single swing of the hand. Min ST: 5}
+{6700}{}{Scalpel}
+{6701}{}{A surgical scalpel, very sharp and simple to use. Be careful with it! Min ST: 2}
+{6800}{}{Serrated Cleaver}
+{6801}{}{The tool of maniacs! A powerful edged weapon with a serrated blade will cut down any enemy. Min ST: 4}
+{6900}{}{Lightning Spear}
+{6901}{}{A heavy metal spear with a power source connected to it. Hits the enemy not only with its pointed tip, but also with a hefty electric shock. Min ST: 5}
+{7000}{}{Wooden Spear}
+{7001}{}{A sharp wooden spear made using Stone Age technology. Min ST: 4}
+{7100}{}{Iron Spear}
+{7101}{}{A metal rod with a sharp, pointed head. Min ST: 5}
+{7200}{}{Placeholder Spear}
 {7201}{}{}
-{7300}{}{Учебник по науке}
-{7301}{}{Изучайте науку, в данное время любая информация на вес золота.}
-{7400}{}{Части пистолета}
-{7401}{}{Конструктор! Соберите его, если получился пистолет - хорошо, если нет, то тоже не плохо.}
-{7500}{}{Части револьвера}
-{7501}{}{Можно собрать револьвер, главное - настойчивость и ремкомплект.}
-{7600}{}{Учебник по ремонту}
-{7601}{}{"Оранжевый электроник" - пособие по ремонту сломанного оборудования, аппаратуры и электроники. }
-{7700}{}{Части винтовки}
-{7701}{}{Эта куча деталей может стать хорошей винтовкой, при наличии у вас желания ее собрать и специального ремнабора.}
-{7800}{}{Части дробовика}
-{7801}{}{Прямо как конструктор "Собери Сам"! Правда, чтобы собрать из ЭТОГО дробовик, вам нужен набор для ремонта дробовиков.}
-{7900}{}{Вспышка}
-{7901}{}{Магниевая осветительная шашка.}
-{8000}{}{Учебник по медицине}
-{8001}{}{Медицинский справочник в таблицах, удобное пособие для быстрого освоения самого необходимого.}
-{8100}{}{Части автомата}
-{8101}{}{Детали автомата, из них пожалуй можно собрать автомат при наличии соответственного ремнабора.}
-{8200}{}{Мультиотвертка}
-{8201}{}{Отвертка с множеством насадок, подходит для множества операций.}
-{8300}{}{Ремнабор}
-{8301}{}{Ремонтный набор включает в себя множество различных инструментов (ключи, отвертки, насадки).}
-{8400}{}{Пистолетный ремнабор}
-{8401}{}{Ремонтный набор для ремонта и сборки пистолетов.}
-{8500}{}{Взрывпакет}
-{8501}{}{Старый добрый магний с марганцем.}
-{8600}{}{Учебник скаутов}
-{8601}{}{Умением бродить по лесам и полям должны обладать любые скауты. Почерпните информацию из этого пособия.}
-{8700}{}{Электро-молот "Зевс"}
-{8701}{}{Огромный металлический молот, работающий на батарейках. Посмотрите, как весело размозженный череп врага дергается под действием электрического заряда! Мин. сл: 7}
-{8800}{}{Молот}
-{8801}{}{Таким молотом можно дробить гранит и черепа! Чаще - черепа. Мин. сл: 7}
-{8900}{}{Кувалда}
-{8901}{}{Весьма примитивный, тяжелый, но действенный способ успокоить нервного двуногого! Или любое другое существо. Мин. сл: 7}
-{9000}{}{Резервная кувалда}
+{7300}{}{Science Book}
+{7301}{}{Study science, at this time any information is worth its weight in gold.}
+{7400}{}{Pistol Parts}
+{7401}{}{You can assemble a pistol from this, if you have the skills and a special repair kit.}
+{7500}{}{Revolver Parts}
+{7501}{}{You can assemble a revolver from this, if you have the skills and a special repair kit.}
+{7600}{}{Engineering Book}
+{7601}{}{A manual for repairing broken equipment, machines and electronics.}
+{7700}{}{Rifle Parts}
+{7701}{}{You can assemble a rifle from this, if you have the skills and a special repair kit.}
+{7800}{}{Shotgun Parts}
+{7801}{}{You can assemble a shotgun from this, if you have the skills and a special repair kit.}
+{7900}{}{Flare}
+{7901}{}{A magnesium flare.}
+{8000}{}{Medical Book}
+{8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary things.}
+{8100}{}{Automatic Parts}
+{8101}{}{You can assemble an automatic weapon from this, if you have the skills and a special repair kit.}
+{8200}{}{Universal Screwdriver}
+{8201}{}{A screwdriver with multiple attachments, suitable for many operations.}
+{8300}{}{Tool Kit}
+{8301}{}{A universal repair set, containing various useful tools, including pliers.}
+{8400}{}{Pistol Repair Kit}
+{8401}{}{A kit for the maintenance and assembly of pistols.}
+{8500}{}{Explosives}
+{8501}{}{A bundle of good old trinitrotoluene.}
+{8600}{}{Scout Handbook}
+{8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
+{8700}{}{Zeus Hammer}
+{8701}{}{A huge metal hammer powered by batteries. See how merrily the crushed skull of the enemy twitches under the influence of an electric charge! Min ST: 7}
+{8800}{}{Hammer}
+{8801}{}{This hammer can crush granite and skulls! More often it is skulls. Min ST: 7}
+{8900}{}{Sledgehammer}
+{8901}{}{A large hammer with a big handle. Very popular with the muscular crowd. Min ST: 7}
+{9000}{}{Placeholder Hammer}
 {9001}{}{}
-{9100}{}{Докторская сумка}
-{9101}{}{Сумка полевого доктора. Вместительная, прочная, удобная.}
-{9200}{}{Пулемет "Саппорт"}
-{9201}{}{Военный пулемет поддержки, калибра .223, стоял на вооружении тяжелой пехоты ВС ВША с 1978 по 1989 год. Мин. сл: 7}
-{9300}{}{Пулемет "Барака"}
-{9301}{}{Экспериментальный сверхтяжелый пулемет, разрабатывавшийся компанией "Britanic Engineering" для перспективных Боевых Механизированных Комплексов "Дефендер". Отдача невероятной силы может запросто вырвать неподготовленную руку! Мин. сл: 10}
-{9400}{}{Турельный пулемет}
-{9401}{}{Как вам удалось скрутить пулемет с турели? Мин. сл: 9}
-{9500}{}{Тяжелый пулемет "Лоу"}
-{9501}{}{Крупнокалиберный пулемет "Лоу" компании "Сивил Дефендс", .50 калибр, разработанный по заказу ВС ВША для подразделений военизированной полиции. Отлично показал себя против митингующих на легкобронированном транспорте! Мин. сл: 8}
-{9600}{}{Лазерная винтовка "SLR-3"}
-{9601}{}{Модификация "Лазерной Винтовки Великого Швайна", разработанной Себастианом Швайном в 2198 году. Неудобная, тяжелая, но чертовски лазерная штуковина! Мин. сл: 7}
-{9700}{}{Лазерная винтовка "SLR-4"}
-{9701}{}{Данный образец пришел на смену винтовки "SLR-3" в 2202 году и отличается от предшественницы чуть большим весом, большей дальностью стрельбы и стабильностью лазерного импульса. Мин. сл: 8}
-{9800}{}{Плазменная пушка}
-{9801}{}{Уникальное оружие, сверхраскаленная плазма режет металл, как нож теплое масло, только не забывайте менять ядерные источники питания. Гордитесь собой, ведь без вашего участия это средство уничтожения всего живого так и не увидело бы свет! Мин. сл: 9}
-{9900}{}{Огнемет "FT2A"}
-{9901}{}{Военный образец огнемета, заряжается напалмом - плюется огнем. Жги, детка, жги! Мин. сл: 8}
-{10000}{}{Огнемет "Хэллбрингер"}
-{10001}{}{Поэтическое название этого зажигательного монстра говорит само за себя. С этой пушкой запах паленого мяса крепко засядет в ваших ноздрях! Мин. сл: 9}
-{10100}{}{Огнемет "Фэстер"}
-{10101}{}{Самопальный и довольно резвый представитель огнеметного царства, но будьте осторожны, ведь усиленная подача горячей смеси в сопло делает эту малышку весьма нестабильной! Мин. сл: 9}
-{10200}{}{Журнал "На мушку!"}
-{10201}{}{Читайте и мотайте на ус: много полезной информации об уничтожении неугодных вам существ при помощи плюющихся пулями палок.}
-{10300}{}{Электрошокер "Лайт"}
-{10301}{}{Довольно сильный удар тока отрезвит любого хулигана, напавшего на вас! Мин. сл: 5}
-{10400}{}{Фомка}
-{10401}{}{Выдирает гвозди, открывает двери, выбивает зубы. Спектр применения этой железяки безграничен! Мин. сл: 5}
-{10500}{}{Резервная палка}
+{9100}{}{Doctor's Bag}
+{9101}{}{A roomy bag that contains instruments and chems used by doctors in the application of their trade.}
+{9200}{}{Light Support Weapon}
+{9201}{}{A military support machine gun in caliber .223, was in service with the heavy infantry of the US Armed Forces from 1978 to 1989. Min ST: 7}
+{9300}{}{Barrack Machinegun}
+{9301}{}{An experimental super-heavy machine gun, developed by the company "Britanic Engineering" for the Advanced Research Projects Agency "Defender" project. The recoil has incredible power and can easily tear out an untrained arm! Min ST: 10}
+{9400}{}{Turret Machinegun}
+{9401}{}{How did you manage to wrest the machine gun from the chassis of the turret? Min ST: 9}
+{9500}{}{LVS Machinegun}
+{9501}{}{A heavy machine gun in .50 caliber, developed by "Civil Defense" for the US Army for paramilitary police units. Mounted on lightly armored vehicles, it prooved itself excellent against protesters! Min ST: 8}
+{9600}{}{SLR-3 Laser Rifle}
+{9601}{}{A modification of the "Grand Shvain Laser Rifle" developed by Sebastian Shvain in 2198. Awkward and heavy, but damn it's a laser! Min ST: 7}
+{9700}{}{SLR-4 Laser Rifle}
+{9701}{}{This model replaced the "SLR-3" rifle in 2202. Differences from its predecessor are a slightly higher weight, but a greater firing range and laser pulse stability. Min ST: 8}
+{9800}{}{Plasma Rifle}
+{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Just don't forget to feed the it a lot of energy cells. Without your participation this beast of massive destruction would never have seen the light of day! Min ST: 9}
+{9900}{}{FT2A Flamethrower}
+{9901}{}{A military flamethrower that spits searing flames of napalm. Burn, baby burn! Min ST: 8}
+{10000}{}{Hellbringer}
+{10001}{}{The poetic name of this incendiary monster speaks for itself. With this gun, the smell of burnt meat will stick firmly in your nostrils! Min ST: 9}
+{10100}{}{Festering Flamer}
+{10101}{}{A self-made and rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into the nozzle! Min ST: 9}
+{10200}{}{Gunpoint Magazine}
+{10201}{}{A gun magazine devoted to the practical use of firearms, and the occasional biased review.}
+{10300}{}{Taser}
+{10301}{}{A fairly strong electric shock will sober up any bully who attacks you! Min ST: 5}
+{10400}{}{Crowbar}
+{10401}{}{Rips out nails, opens doors, knocks out teeth. The range of applications of this piece of iron is limitless! Min ST: 5}
+{10500}{}{Placeholder Club}
 {10501}{}{}
-{10600}{}{Газовый ключ}
-{10601}{}{Старый, ржавый, но увесистый и с удобной рукояткой! Мин. сл: 6}
-{10700}{}{"Крысобойка"}
-{10701}{}{Самодельное специализированное оружие против мелких хвостатых тварей. Хотя, подходит и для крупных. Мин. сл: 6}
-{10800}{}{Молоток}
-{10801}{}{Ударное средство для работы и самозащиты. Попробуйте его в деле! Мин. сл: 5}
-{10900}{}{Палка с гвоздями}
-{10901}{}{Что только не придумают люди против других людей. Мин. сл: 5}
-{11000}{}{Ручка кия}
-{11001}{}{По сути это просто старая палка, но в руку ложится легко и удобно. Мин. сл: 4}
-{11100}{}{Труба}
-{11101}{}{Просто кусок ржавой трубы. При ударе об голову раздается веселый звон. Мин. сл: 6}
-{11200}{}{Резиновая дубинка "Кальмер"}
-{11201}{}{Старое полицейское средство общения с непокорными. Хлесткая дубинка причиняет сильную боль, практически не оставляет следов на теле!  Мин. сл: 5}
-{11300}{}{Кожанка}
-{11301}{}{Кожаная куртка, плотная и тяжелая вещь. Хотя от пули навряд ли защитит.}
-{11400}{}{Куртка "Авиатор"}
-{11401}{}{Модная куртка из очень плотной и качественной кожи. Она надежно защитит вас не только от ветра и холода, но и от удара ножа!}
-{11500}{}{Бейсбольная защита}
-{11501}{}{Когда-то спортивная экипировка, теперь очень даже хорошая боевая защита.}
-{11600}{}{"Супер Кэтчер"}
-{11601}{}{Спортивная бейсбольная экипировка служит приличной защитой от ударов и от попаданий из мелкокалиберного оружия.}
-{11700}{}{Хоккейная защита}
-{11701}{}{Прочная и удобная хоккейная защита, защитит вас от многих ударов.}
-{11800}{}{Ржавая кираса}
-{11801}{}{Похоже на кусок металла, правда это таки кираса, используйте ее как защиту, от выстрелов защищает и ладно.}
-{11900}{}{Металлическая броня}
-{11901}{}{Броня из листов металла, прочная и тяжелая, сковывает движения, однако имеет серьезные показатели защиты.}
-{12000}{}{Военная броня}
-{12001}{}{Такую броню использовали в армии ВША, ранее одна из самых распространенных.}
-{12100}{}{Боевая броня}
-{12101}{}{Боевая броня пехоты, кожа, кевлар, прослойки металла. Прекрасно задерживает множество видов снарядов.}
-{12200}{}{Броня скаута}
-{12201}{}{Облегченный вариант боевой брони, модернизирована для проведения длительных разведывательных операций в глубоком тылу противника. Легка, удобна, функциональна, и к тому же придает обладателю подтянутый и спортивный вид!}
-{12300}{}{Военная (фальшивка)}
-{12301}{}{Броня на вид как классическая военная броня скаутов "Олимпа", но, увы, только на вид. Другим словом - подделка.}
-{12400}{}{Боевой эко-костюм}
-{12401}{}{Костюм разработанный специально для использования в сверхзагрязненной среде, наиболее устойчив к радиоактивному и газовому заражению местности. Лучшее средство от радиации во всем Радиусе!}
-{12500}{}{Боевой доспех}
-{12501}{}{Доспех тотальной защиты, специально произведенный для штурмовых групп пехоты, за счет снижения толщины брони и использования композиционных материалов увеличена подвижность и маневренность.}
-{12600}{}{Боевой доспех МК2}
-{12601}{}{Улучшенная версия боевого доспеха - еще прочнее, еще внушительнее! И вы несомненно оцените комфорт новых кожаных вставок между набедренными пластинами!}
+{10600}{}{Pipe Wrench}
+{10601}{}{Old, rusty, but heavy and with a comfortable handle! Min ST: 6}
+{10700}{}{Ratcatcher}
+{10701}{}{Homemade weapon for clobbering small creatures. Although, it is also suitable for large ones. Min ST: 6}
+{10800}{}{Mallet}
+{10801}{}{A blunt instrument for work and self-defense. Min ST: 5}
+{10900}{}{Club with Nails}
+{10901}{}{What people will come up with against other people. Min ST: 5}
+{11000}{}{Bludgeon}
+{11001}{}{In fact it's just an old stick, but it fits easily and comfortably in your hand. Min ST: 4}
+{11100}{}{Pipe}
+{11101}{}{Just a piece of rusty pipe. When you hit someone on the head, there is a cheerful ringing sound. Min ST: 6}
+{11200}{}{Police Baton}
+{11201}{}{An old police tool for dealing with the unruly. The Baton causes a lot of pain, but it leaves almost no traces on the body! Min ST: 5}
+{11300}{}{Leather Jacket}
+{11301}{}{A leather jacket, thick and heavy. Although it will hardly protect you from a bullet.}
+{11400}{}{Aviator Jacket}
+{11401}{}{A fashionable jacket made of very thick and high-quality leather. It will reliably protect you not only from wind and cold, but also from a knife strike!}
+{11500}{}{Baseball Protector}
+{11501}{}{Once sports equipment, now very good combat protection.}
+{11600}{}{Super Protector}
+{11601}{}{Baseball sports equipment serves as a decent protection against blows and hits from small-caliber weapons.}
+{11700}{}{Hockey Protector}
+{11701}{}{Durable and comfortable hockey protection, will protect you from many blows.}
+{11800}{}{Rusty Cuirass}
+{11801}{}{Looks like a rusty mess of scrap metal, but it still gives you good protection from bullets.}
+{11900}{}{Metal Armor}
+{11901}{}{Strong and heavy armor made of sheet metal. Constricts movement somewhat but offers great protection.}
+{12000}{}{Military Armor}
+{12001}{}{The most common armor used by army grunts in the war, stil reliable.}
+{12100}{}{Combat Armor}
+{12101}{}{Infantry combat armor, leather, Kevlar, metal layers. Perfectly shields against many types of projectiles.}
+{12200}{}{Scout Armor}
+{12201}{}{Lightweight version of combat armor, upgraded for long-term reconnaissance operations in the deep behind enemy lines. It is light, comfortable, functional, and also gives the wearer a trim and sporty look!}
+{12300}{}{Fake Military Armor}
+{12301}{}{While this armor looks like the classic military armor of the Olympus Scouts, it's only a fake. Oh, and don't expect any good protection while wearing it!}
+{12400}{}{Enviromental Armor}
+{12401}{}{The suit is designed specifically for use in extreme hostile environments, and as such most resistant to radioactive and gas contaminations. The best radiation protection in the entire Wastes!}
+{12500}{}{Battle Armor}
+{12501}{}{The armor offers nearly total protection, and is specially made for infantry assault groups. It increases mobility and maneuverability by reducing the thickness of the armor and using composite materials.}
+{12600}{}{Battle Armor MKII}
+{12601}{}{An even improved version of the standard battle armor, even stronger, even more impressive! And you will surely appreciate the comfort of the new leather inserts between the hip plates!}
 {12700}{}{AS-2000}
-{12701}{}{Механизированный экзокостюм с системой гидравлических и сервоприводов, работающий от атомной батареи. Этот образец слабо спасает от радиации, но толстый слой брони является прекрасной защитой от огнестрельного и энергетического оружия!}
-{12800}{}{AS-2000 МК2}
-{12801}{}{На смену AS-2000 пришел новый модернизированный и модифицированный МК2, с дополнительной программируемой системой стабилизации и системой обратной кинематики.}
-{12900}{}{БМК "Дефендер"}
-{12901}{}{Легендарный боевой механизированный комплекс на дизель-ядерной тяге. Такой костюм достойны носить только защитники Олимпа - Дефендеры!}
-{13000}{}{Пистолет "Слюгер"}
-{13001}{}{Наградной пистолет немецкого производства. Отличается высокой точностью, убойностью, надежностью и элегантным арийским дизайном рукоятки. Мин. сл: 4}
-{13100}{}{Револьвер "Детектив"}
-{13101}{}{Короткоствольный револьвер ST-115, получил прозвище "Детектив" так, как до 1988 года был обязательным атрибутом любого частного сыщика. Многих он подвел в критический момент, но ведь многих и спас! Мин. сл: 4}
-{13200}{}{Револьвер}
-{13201}{}{Стандартный револьвер, механизм питания патронами которого выполнен в виде вращающегося барабана. Мин. сл: 5}
-{13300}{}{Револьвер "Магнум"}
-{13301}{}{Шестизарядный Магнум - самый мощный револьвер в мире. Убойная пушка. Мин. сл: 5}
-{13400}{}{Сигнальный пистолет}
-{13401}{}{Сигнальный пистолет, в качестве патрона использует осветительную ракету. Может прожечь кожаную броню. Мин. сл: 5}
-{13500}{}{Пистолет "Тандер"}
-{13501}{}{Пистолет изготовленный на основе автоматного подствольного гранатомета. Эта штука доставит не мало веселых минут его обладателю. Мин. сл: 6}
-{13600}{}{Пистолет "Глокер"}
-{13601}{}{9 мм пистолет "Глокер", производства "D&R", является классическим представителем немецкой военной промышленности: точный и безотказный. Мин. сл: 4}
-{13700}{}{Пистолет "Глокер" (авт.)}
-{13701}{}{Усовершенствованная модель, имеет способность стрельбы очередью. Этот агрегат может наделать дырок в любом противнике. Мин. сл: 5}
-{13800}{}{Пистолет 9 мм}
-{13801}{}{Стандартный 9 мм пистолет для отстрела мелких тварей. Мин. сл: 4}
-{13900}{}{Самопал}
-{13901}{}{Самодельный пистолет, слабая и не стабильная штука, заряжается 9 мм патронами. Мин. сл: 2}
-{14000}{}{Пистолет "Брейк"}
-{14001}{}{Травматический пистолет гражданской самообороны. Довольно слабое оружие, но может спасти вам жизнь. Мин. сл: 3}
-{14100}{}{Пистолет "Стинг"}
-{14101}{}{Пневматическое пусковое устройство для метания летающих инъекционных шприцов типа "Дротик". Мин. сл: 3}
-{14200}{}{Кольт "Питон"}
-{14201}{}{Эта штука сносит головы на раз. Один из самых популярных револьверов, был прославлен в кинематографе 40х годов вестернами с участием Эдди Колли. Мин. сл: 6}
-{14300}{}{Пистолет "Оптика"}
-{14301}{}{Чудо инженерной мысли - пистолет с оптическим прицелом. Позволяет наносить наиболее точные выстрелы по врагам. Мин. сл: 4}
-{14400}{}{Револьвер Шакала}
-{14401}{}{Именной револьвер Шакала. Крутая пушка из которой Шакал отстреливал головы своим врагам. Мин. сл: 6}
-{14500}{}{Лазерный пистолет "SL-10"}
-{14501}{}{Компактный и усовершенствованный вариант лазерного пистолета "SL-9". Легкий, быстрый, смертоносный! Заряжается энергоячейками "минибат". Мин. сл: 5}
-{14600}{}{Пневматический пистолет}
-{14601}{}{Стрелковое оружие, снаряд вылетает под воздействием давления газа. Подходит для отстрела грызунов. Мин. сл: 2}
-{14700}{}{Пистолет "Малиновка"}
-{14701}{}{Пневматический пистолет "Малиновка", одна из самых мощных моделей данного класса. Мин. сл: 3}
-{14800}{}{Лазерный резак}
-{14801}{}{Резак производства "Айзек Индастриз". Предназначен для прорезания неподатливых горных пород или мягких органических тканей. Мин. сл: 5}
-{14900}{}{Резервный пистолет}
+{12701}{}{A mechanized exo-suit, driven by a nuclear battery, with hydraulic and servo motors. This model is saved poorly against radiation, but the thick layer of armor is an excellent protection against firearms and energy weapons!}
+{12800}{}{AS-2000 MKII}
+{12801}{}{The AS-2000 has been replaced by a modern upgraded and modified MKII, that features an added programmable stabilization system and an inverse kinematics system.}
+{12900}{}{MCA Defender}
+{12901}{}{This is the legendary mechanized combat armor system, powered by diesel-nuclear propulsion. Only the defenders of Olympus, the Protectors, are worthy to wear such a suit!}
+{13000}{}{Super Luger}
+{13001}{}{An award-winning German-made pistol, characterized by it's high accuracy, stopping power, reliability and an elegant intrinsic handle design. Min ST: 4}
+{13100}{}{Detective Revolver}
+{13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. He failed many at a critical moment, but also saved many! Min ST: 4}
+{13200}{}{.45 Revolver}
+{13201}{}{A basic average revolver in .45 caliber. The name comes form the mechanism of feeding the loaded cartridges in a revolving rotating drum. Min ST: 5}
+{13300}{}{Magnum Revolver}
+{13301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. Do I feel lucky? Well, do ya punk?. Min ST: 5}
+{13400}{}{Flare Gun}
+{13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor. Min ST: 5}
+{13500}{}{Thunderer}
+{13501}{}{This weapon is made on the basis of an single-fire under-barrel 40mm grenade launcher. It will bring quite a few merry moments to its owner. Min ST: 6}
+{13600}{}{9mm Glock}
+{13601}{}{The 9mm Glock pistol, manufactured by D&R, is a classic representative of the German military industry, very accurate and reliable. Min ST: 4}
+{13700}{}{9mm Glock Auto}
+{13701}{}{An improved model of the Glock Pistol family, that can fire bursts for even more fun with 9mm. Min ST: 5}
+{13800}{}{9mm Pistol}
+{13801}{}{A basic average pistol in 9mm, nothing special about it. Min ST: 4}
+{13900}{}{9mm Revolver}
+{13901}{}{A very basic and self-made 9mm revolver, not very reliable. Min ST: 2}
+{14000}{}{Stun Pistol}
+{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could safe your life. Min ST: 3}
+{14100}{}{Sting}
+{14101}{}{A pneumatic launching device for hurling poisonous darts at your adversaries. Min ST: 3}
+{14200}{}{Colt Python}
+{14201}{}{This one blows heads just clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
+{14300}{}{9mm Pistol (Scoped)}
+{14301}{}{A basic average pistol in 9mm with an attached scope, that allows for even easier picking off your enemies at a distance. Min ST: 4}
+{14400}{}{Jackal Revolver}
+{14401}{}{The signature revolver of the Jackal. A nice cool gun to pop the heads of your enemies like melons. Min ST: 6}
+{14500}{}{SL-10 Laser Pistol}
+{14501}{}{Compact and advanced version of the SL-9 laser pistol. Light, fast and deadly! Powered by small batteries. Min ST: 5}
+{14600}{}{Pneumatic Pistol}
+{14601}{}{A pistol that shoots small BB Pellets with the help of compressed air. Only really suitable for shooting rodents. Min ST: 2}
+{14700}{}{Red Robin Pistol}
+{14701}{}{A pneumatic pistol, model "Red Robin". While it is the most powerful model of airguns, that doesn't count for much. Min ST: 3}
+{14800}{}{Laser Cutter}
+{14801}{}{An "Isaac Industries" laser cutting tool. Designed for cutting through unyielding rocks or soft organic tissue. Min ST: 5}
+{14900}{}{Gun Placeholder}
 {14901}{}{}
-{15000}{}{ПП "Гельмут"}
-{15001}{}{Пистолет-пулемет "Гельмут", стоял на вооружении Национальной Гвардии до 2002 года. Главная ценность в простоте и надежности, а также приличная огневая мощь. Мин. сл: 4}
-{15100}{}{ПП "Гетто"}
-{15101}{}{В охране любого мафиозного босса есть человек с такой пушкой. Внушающий вид является половиной мощности этого оружия, стоит противнику увидеть этот агрегат, как у него тут же пропадает всяческое желание вести себя неподобающе. Мин. сл: 5}
-{15200}{}{ПП "Крикет"}
-{15201}{}{Английский пистолет-пулемет стоявший на вооружении оперативных спецподразделений МИ-6. Мин. сл: 4}
-{15300}{}{ПП "Вендетта"}
-{15301}{}{Излюбленный ПП мафиозных группировок и просто бандитов. Легкий, небольшой, убойный. Что еще нужно для счастья? Мин. сл: 5}
-{15400}{}{ПП "ФЗП"}
-{15401}{}{Прототипный образец штурмового пистолета-пулемета для отрядов элитных морских пехотинцев. Легкий, надежный, водоупорный доставщик боли и страданий для всех врагов Америки! Мин. сл: 6}
-{15500}{}{ПП "Гельмут" (опт.)}
-{15501}{}{Модифицированный "Гельмут" с оптическим прицелом, позволяет отстреливать врагов на расстоянии. Мин. сл: 4}
-{15600}{}{ПП "Гельмут" (увл.маг.)}
-{15601}{}{Модифицированный "Гельмут" с увеличенным магазином, теперь можно поливать очередями по противнику еще дольше! Мин. сл: 5}
-{15700}{}{Лазерный пистолет "SL-9"}
-{15701}{}{Одна из первых удачных моделей лазерных пистолетов Швайна. И пусть он слегка тяжеловат, но это уже не просто лазерная указка! Его лучи ДЕЙСТВИТЕЛЬНО могут убить! Мин. сл: 5}
-{15800}{}{Плазменный пистолет}
-{15801}{}{Сильнейший электромагнитный импульс выталкивает из ствола сверхраскаленную плазму, разогнанную до огромной скорости. Прожигает металл, дерево, камень, а что вас собственно еще нужно? Мин. сл: 5}
-{15900}{}{Пистолет-пулемет}
-{15901}{}{Стандартный ПП среднего размера, ни чего особенного. Мин. сл: 6}
-{16000}{}{Винтовка "N17A1"}
-{16001}{}{Автоматическая винтовка 90 годов ХХ века, стабильная штука, полезная в бою, удобная в обращении, не прихотливая при обслуживании. Мин. сл: 6}
-{16100}{}{Винтовка "N17A1" (опт.)}
-{16101}{}{Автоматическая винтовка с оптическим прицелом 90 годов ХХ века, стабильная штука, полезная в бою, удобная в обращении, не прихотливая при обслуживании. Мин. сл: 6}
-{16200}{}{Барабанный автомат}
-{16201}{}{Автомат с историей, даже легендарный! Из такого автомата застрелили Джона Скерандо, одного из мафиозных боссов восточного побережья. Качественная игрушка калибра .223 Мин. сл: 7}
-{16300}{}{Гражданский карабин}
-{16301}{}{В довоенное время один из самых распространенных карабинов, его часто использовали охотники. Мин. сл: 5}
-{16400}{}{Автомат "KLH74"}
-{16401}{}{Легендарный трофейный автомат "KLH74". Произведен в Русской Единой Империи. Мин. сл: 6}
-{16500}{}{Автомат}
-{16501}{}{Автомат для отстрела мелкой и крупной живности. Мин. сл: 6}
-{16600}{}{Винтовка "Хантер"}
-{16601}{}{Охотничья винтовка на крупного зверя. В том числе можно охотиться и на людей. Мин. сл: 5}
-{16700}{}{Винтовка "Хантер" (опт.)}
-{16701}{}{Винтовка, предназначенная для охоты на крупного зверя, имеет оптический прицел, что дает возможность стрелять с приличного расстояния. Мин. сл: 5}
-{16800}{}{Автомат именной}
-{16801}{}{Именной наградной автомат. Мин. сл: 8}
-{16900}{}{Автомат "Бультерьер"}
-{16901}{}{Автомат "Бультерьер", приличный агрегат. Получил свое название от того, что рваные раны, оставленные им, похожи на укусы бойцовой собаки. Мин. сл: 7}
-{17000}{}{Снайперская винтовка}
-{17001}{}{Оптический прицел, .308 калибр, дальнобойность и точность. Что еще нужно снайперу? Мин. сл: 6}
-{17100}{}{Автомат "Рэйнбоу 6"}
-{17101}{}{Штурмовой автомат, спецназ полиции был вооружен такими! Отличная безотказная вещь. Мин. сл: 7}
-{17200}{}{Винтовка "Нэйл"}
-{17201}{}{Не смотря на размеры этой винтовки, эта крошка может доставить не мало проблем противнику. Мин. сл: 4}
-{17300}{}{Винтовка "Лилит"}
-{17301}{}{Убойная снайперская винтовка, большинство элитных снайперов пользовались ей. Дальнобойности ей не занимать. Мин. сл: 9}
-{17400}{}{Дробовик "Фобос"}
-{17401}{}{Система подачи пороховых газов для перезарядки дробовика делает из простого ружья, ужаснейшее оружие поражения ваших врагов. Мин. сл: 7}
-{17500}{}{Двустволка}
-{17501}{}{Двуствольное ружье, охотничий вариант, 12 калибр, крупная дробь. Идеальный вариант, чтобы поразить не бронированную цель. Мин. сл: 5}
-{17600}{}{Дробовик "Ревенджентон"}
-{17601}{}{Широко распространенное оружие полицейских для убиения непослушных граждан. Этот экземпляр в неплохом состоянии. Мин. сл: 5}
-{17700}{}{Дробовик "Покет"}
-{17701}{}{Малый и удобный дробовик, с небольшой отдачей. Практически дамский вариант. Мин. сл: 4}
-{17800}{}{Обрез}
-{17801}{}{Обрез самое распространенное оружие среди мелких бандитов, разбойников и других жуликов. Мин. сл: 4}
-{17900}{}{Дробовик}
-{17901}{}{Гражданский дробовик, продавался за 499 долларов чуть ли не в каждом оружейном магазине. Мин. сл: 5}
-{18000}{}{Дробовик "Уайлд"}
-{18001}{}{Охотничий дробовик, хорошо показывает себя против большого зверя. Мин. сл: 6}
-{18100}{}{Дробовик "Харденер"}
-{18101}{}{Один из лучших дробовиков, пожалуй, мощнейший в своем роде. Мин. сл: 9}
-{18200}{}{Гранатомет ЭМИ}
-{18201}{}{Пусковое устройство для крупнокалиберных снарядов типа граната, для поражения электромеханизмов. Мин. сл: 8}
-{18300}{}{Гранатомет 40мм}
-{18301}{}{Пусковое устройство для крупнокалиберных (40мм) снарядов типа граната, для поражения хорошо укрепленных целей. Мин. сл: 6}
-{18400}{}{Гранатомет "Страйк"}
-{18401}{}{"Страйк", серьезное орудие подавления противника. 40мм снаряд пробьет большинство типов брони. Мин. сл: 7}
-{18500}{}{Дробовик "Хоттер"}
-{18501}{}{Дробовик под зажигательный патрон с мелкой дробью и магниевой стружкой, которые воспламеняют врага. Действительно "зажигательный" дробовик! Мин. сл: 5}
-{18600}{}{Пневматика}
-{18601}{}{Хорошее оружие против мелких и незащищенных противников. Для отстрела мелких грызунов идеально. Мин. сл: 3}
-{18700}{}{Пневматика "Рэйвен"}
-{18701}{}{Более менее достойный вариант пневматического оружия, даже шакалу не понравится получить пулю из этого ствола. Мин. сл: 3}
-{18800}{}{Отремонтированная винтовка}
-{18801}{}{Залатанная, заштопанная, но вполне себе смертоносная винтовка. Мин. сл: 5}
-{18900}{}{Винтовка2}
+{15000}{}{Dread SMG}
+{15001}{}{A "Dread" submachine gun that was in service with the National Guard until 2002. The main value is in simplicity and reliability, as well as decent firepower. Min ST: 4}
+{15100}{}{Ghetto SMG}
+{15101}{}{In the personal mob of any mafia boss is at least one man with this gun. An inspiring look is half the power of this weapon, as soon as the enemy sees this piece, he immediately loses all desire to behave inappropriately. Min ST: 5}
+{15200}{}{Cricket SMG}
+{15201}{}{A british submachine gun that was in service with the MI-6 operational special forces. Min ST: 4}
+{15300}{}{Vendetta SMG}
+{15301}{}{A favorite submaschine gun of mafiosi and bandits. Light, small and lethal, what else does one want? Min ST: 5}
+{15400}{}{FSP-10 SMG}
+{15401}{}{An elite prototype of an assault submachine gun for the marines. A light, reliable and water-resistant deliverer of pain and suffering for all the enemies of America! Min ST: 6}
+{15500}{}{Dread SMG (Scoped)}
+{15501}{}{A modified "Dread" submachine gun with an optical sight, to even better keep your enemies at bay. Min ST: 4}
+{15600}{}{Dread SMG (Exp. Mag.))}
+{15601}{}{A modified "Dread" SMG with an added magazine for even more bursting fun. Min ST: 5}
+{15700}{}{SL-9 Laser Pistol}
+{15701}{}{One of the first successful models of Shvain's laser pistols. Though a bit heavy it's not just a laser pointer but quite deadly! Min ST: 5}
+{15800}{}{Plasma Pistol}
+{15801}{}{A strong electromagnet disperses super-heated globs of plasma at a high rate of fire. It burns easily through metal, wood, stone and of course also living tissue. Min ST: 5}
+{15900}{}{9mm Submachine gun}
+{15901}{}{A basic average SMG in 9mm, nothing special about it. Min ST: 6}
+{16000}{}{N17A1 Assault Rifle}
+{16001}{}{An automatic rifle from the 90s of the twentieth century, a reliable rifle, valuable in combat, easy to handle and not quirky to maintain. Min ST: 6}
+{16100}{}{N17A1 Assault Rifle (Scoped)}
+{16101}{}{A standard N17A1 with a scope attached for even more long range precission. Min ST: 6}
+{16200}{}{Barrage Machinegun}
+{16201}{}{A quite unique .223 modification of an old legendary Tommygun. It is rumored to have been in use by the mafia bosses of the east coast.  Min ST: 7}
+{16300}{}{Civilian Carbine}
+{16301}{}{A very old model of carbine, used in the pre-war period by hunters. Min ST: 5}
+{16400}{}{KLH74 Assault Rifle}
+{16401}{}{A legendary rifle trophy from the old wars, manufactured in the United Russian Empire. Min ST: 6}
+{16500}{}{Assault Rifle}
+{16501}{}{A basic average assault rifle in caliber .223, nothing special about it. Min ST: 6}
+{16600}{}{Hunting Rifle}
+{16601}{}{A hunting rifle in .223 for large animals, or bigger two legged game. Min ST: 5}
+{16700}{}{Hunting Rifle (Scoped)}
+{16701}{}{A hunting rifle in .223 with an attached scope that makes it easier to hunt from a distance, no matter what kind of game you're aiming for. Min ST: 5}
+{16800}{}{Peronal Assault Rifle}
+{16801}{}{A personalized assault rifle. Min ST: 8}
+{16900}{}{Bulldog Assault Rifle}
+{16901}{}{A modern and decent assault rifle in .308, named after the fact that it tears through enemies like a rabid dog through freshly killed prey. Min ST: 7}
+{17000}{}{Sniper Rifle}
+{17001}{}{A nice balanced rifle in caliber .308, with an optical sight, good range and perfect accuracy. What more does a sniper need? Min ST: 6}
+{17100}{}{R-6 Assault Rifle}
+{17101}{}{An excellent assault rifle in caliber .308 that was in use by the pre-war special forces. Very reliable and precise. Min ST: 7}
+{17200}{}{Varmint Rifle}
+{17201}{}{Despite the name and size of this rifle in caliber .38, this little baby can cause quite a few problems for your opponents. Min ST: 4}
+{17300}{}{Lilith Rifle}
+{17301}{}{A very deadly sniper rifle in caliber .50, that many elite sniper used. Has a very long range and stopping power. Min ST: 9}
+{17400}{}{Phobos Shotgun}
+{17401}{}{The automatic propellant gas rapid reloading system makes this shotgun a most dreadful experience for your enemies. Min ST: 7}
+{17500}{}{Double-barreled Shotgun}
+{17501}{}{A double-barreled hunting shotgun in 12 gauge, ideal for unarmored targets. Min ST: 5}
+{17600}{}{Remington Shotgun}
+{17601}{}{A 12 gauge pump-action shotgun that was widely in use as a police weapon. It's in good condition. Min ST: 5}
+{17700}{}{Pump-Action Shotgun}
+{17701}{}{A small and comfortable civilian pump-action shotgun in 12 gauge. Min ST: 4}
+{17800}{}{Sawn-off Shotgun}
+{17801}{}{A sawn-off shotgun is the most common weapon among small-time bandits, robbers and other crooks. Min ST: 4}
+{17900}{}{Shotgun}
+{17901}{}{A very basic civilian pump-action shotgun in 12 gauge that was widely in use. Min ST: 5}
+{18000}{}{Wilderer Shotgun}
+{18001}{}{A big nasty revolving long range shotgun for hunting large game. Min ST: 6}
+{18100}{}{Hardener Shotgun}
+{18101}{}{This is more like a shotgun cannon than a normal revolving shotgun. It is definately one of the most powerful and with a very long range to boot. The downside is it needs special 12 gauge Long ammunition. Min ST: 9}
+{18200}{}{EMP Launcher}
+{18201}{}{A grenade launcher for special 40mm EMP grenades, designed against robots and electronics. Min ST: 8}
+{18300}{}{40mm Launcher}
+{18301}{}{A grenade launcher for high explosive 40mm grenades against fortified targets. Min ST: 6}
+{18400}{}{Strike Launcher}
+{18401}{}{Grenades shot by this grenade launcher will supress your enemies and penetrate their armor. Min ST: 7}
+{18500}{}{Hotter Shotgun}
+{18501}{}{This revolving shotgun fires special 12 gauge incendiary shells in the face of your enemies. Oh, and it has a burst mode too! Min ST: 5}
+{18600}{}{Pneumatic Rifle}
+{18601}{}{A rifle that shoots small BB Pellets with the help of compressed air. Has more power than the pistol versions. Min ST: 3}
+{18700}{}{Raven Rifle}
+{18701}{}{A descent rifle that shoots small BB Pellets. Even a wild jackal would not like to get hit by a bullet from this one. Min ST: 3}
+{18800}{}{Repaired Rifle}
+{18801}{}{A repaired and worn rifle, but stil deadly. Min ST: 5}
+{18900}{}{Placeholder Rifle}
 {18901}{}{}
-{19000}{}{Пулемет "Ураган"}
-{19001}{}{Переносной шестиствольный пулемет NCASTR "Ураган", является оружием подавления противника. 75,000 выстрелов в минуту свинцового дождя .223 калибра снижает вероятность встретить достойное сопротивление. Мин. сл: 8}
-{19100}{}{Пулемет "Хэвирэйн"}
-{19101}{}{Тяжелый пулемет "Хэвирэйн" производства компании NCASTR способен разрушать стены домов, прошивать броню мелкой техники. Одним словом прирожденный разрушитель. Мин. сл: 9}
-{19200}{}{Турельная пушка}
-{19201}{}{Пушка для турелей любых модификаций от фирмы NCASTR стала проблемой для многих кто пытался пройти мимо. Поражающий фактор (90,000 выстрелов в минуту пулями .308 калибра) этого оружия практически безграничен. Мин. сл: 10}
-{19300}{}{Огнемет "HMG-1A4"}
-{19301}{}{Гениальная разработка - скорострельный огнемет. Небольшие шары раскаленной горящей жидкости, вылетающие из шести дул со скоростью 50,000 выстрелов, этого орудия создают стену огня и раскаляют броню противника до температуры свыше 3000 градусов Цельсия. Мин. сл: 8}
-{19400}{}{Миниган1}
+{19000}{}{Hurricane Minigun}
+{19001}{}{The portable six-barreled NCASTR minigun "Hurricane" is *the* weapon for suppress your opponents. A 75,000 rounds per minute .223 rain of lead makes it not likely to leave anything standing alive. Min ST: 8}
+{19100}{}{Heavy Rain Minigun}
+{19101}{}{Like it's predecessor, the "Heavy Rain" minigun tears through enemies like wet paper. It even powerful enough to destroy barricades and armored vehicles. Min ST: 9}
+{19200}{}{Turret Minigun}
+{19201}{}{This gun made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by with it's nearly limitless 90,000 reounds per minute hail of bullets. Min ST: 10}
+{19300}{}{HMG-1A4 Flamelance}
+{19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically it's more a plasma minigun, but nobody seems to care when they, and everything around them, melt away at a searing 3000 degrees Celsius. Min ST: 8}
+{19400}{}{Placeholder Minigun}
 {19401}{}{}
-{19500}{}{Ракетомет ЭМИ}
-{19501}{}{Ракетная пусковая установка для ЭМИ ракет, является оптимальным устройством поражения электроники за счет сильнейшего выброса электромагнитного импульса. Мин. сл: 7}
-{19600}{}{Ракетамет "Крусадер"}
-{19601}{}{Пусковая ракетная установка NCASTR "Крусадер" стреляет ракетами класса "земля-земля", достаточная мощность и точность обеспечивает высокий уровень поражения цели. Мин. сл: 8}
-{19700}{}{Самопальный ракетомет}
-{19701}{}{Самодельная пусковая ракетная установка, ну как установка: труба со спусковым механизмом. В общем, будьте бдительны с этой штукой. Мин. сл: 7}
-{19800}{}{Ракетомет1}
-{19801}{}{ Мин. сл: 7}
-{19900}{}{Ракетомет "SnR"}
-{19901}{}{Ультрадальнобойная пусковая установка "Shoot'n'Run, baby!". Да, это одноразовый ракетомет системы "выстрелил и выбросил". Не пытайтесь его разрядить - вставить ракету обратно будет невозможно! Мин. сл: 6}
-{20000}{}{Оружие1}
+{19500}{}{EMP Rocket Launcher}
+{19501}{}{A rocket launcher for special EMP rockets, designed against robots and electronics. Min ST: 7}
+{19600}{}{Crusader Rocket Launcher}
+{19601}{}{The NCASTR "Crusader" missile launcher fires surface-to-surface rockets, sufficient power and accuracy ensures a high level of target destruction. Min ST: 8}
+{19700}{}{Self-Made Rocket Launcher}
+{19701}{}{A short range single shot rocket launcher, basically just a pipe with a trigger mechanism. Be very careful fireing that thing! Min ST: 7}
+{19800}{}{Placeholder Rokcet Launcher}
+{19801}{}{Min ST: 7}
+{19900}{}{SnR Rocket Launcher}
+{19901}{}{A single use rocket launcher type "Shoot'n'Run" that is impossible to reload, jsut throw it away after uese. Min ST: 6}
+{20000}{}{Weapon 1}
 {20001}{}{}
-{20100}{}{Оружие2}
+{20100}{}{Weapon 2}
 {20101}{}{}
-{20200}{}{Оружие3}
+{20200}{}{Weapon 3}
 {20201}{}{}
-{20300}{}{Оружие4}
+{20300}{}{Weapon 4}
 {20301}{}{}
-{20400}{}{Оружие5}
+{20400}{}{Weapon 5}
 {20401}{}{}
-{20500}{}{  Вспышка (актив.)}
-{20501}{}{Зажженная магниевая осветительная шашка.}
-{20600}{}{  Динамит (актив.)}
-{20601}{}{Шашка старого доброго динамита с запаленным фитилем.}
-{20700}{}{  Счетчик Гейгера (актив.)}
-{20701}{}{Тот самый счетчик Гейгера, жизненно важный инструмент в пустоши. Определяет уровень гамма и бета излучения. Включен!}
-{20800}{}{  Датчик движения (актив.)}
-{20801}{}{Устройство для слежения за любыми передвижениями в пределах радиуса действия устройства. Включен!}
-{20900}{}{Взрывчатка (актив.)}
-{20901}{}{Активированная взрывчатка! Лучше избавится от этой ноши!}
-{21000}{}{  Стелс-Бой (актив.)}
-{21001}{}{Устройство, которое на основе электромагнитного поля создает эффект невидимости вокруг пользователя. Активирован!}
-{21100}{}{Граната ЭМИ}
-{21101}{}{Данный тип гранат разработан специально для уничтожения любой электроники. Мин. сл: 5}
-{21200}{}{Зажигательная граната}
-{21201}{}{Если нужно устроить пожар, то эта граната просто идеально подходит. Мин. сл: 4}
-{21300}{}{Камень}
-{21301}{}{Это камень. Твердый, тяжелый, каменный. Мин. сл: 4}
-{21400}{}{Коктейль Молотова}
-{21401}{}{Старый добрый коктейль Молотова, выжигает врагов на раз. Мин. сл: 5}
-{21500}{}{Граната}
-{21501}{}{Обычная фугасная граната. Мин. сл: 6}
-{21600}{}{Граната "Гад Фист"}
-{21601}{}{Одна из сильнейших гранат, секретная военная разработка. Мин. сл: 7}
-{21700}{}{Фреза}
-{21701}{}{Острые зубья легко разрежут незащищенную плоть, а ведь она еще и отлично летает! Мин. сл: 6}
-{21800}{}{Бильярдный шар}
-{21801}{}{Старый, потрескавшийся, но увесистый и с хорошими "летными" характеристиками. Может шар никого и не убьет, но шишек наставит точно! Мин. сл: 2}
-{21900}{}{Самопальная граната}
-{21901}{}{Самодельная граната, опасная штука, как для врага, так и для владельца. Мин. сл: 5}
-{22000}{}{Бинты}
-{22001}{}{Малоэффективно, но дешево и доступно. Бинты не восстановят вам отрубленную руку, но порез заживить помогут.}
-{22100}{}{Анальгетик}
-{22101}{}{Пара таблеток снизит болевые ощущения, а если повезет - то и затянут легкие раны!}
-{22200}{}{"Хилл-Ап"}
-{22201}{}{Разработанная на основе армейского обезболивающего, эта инъекция предназначена для домашнего использования. Не очень дешево, но довольно сердито. Укололся - и пошел.}
-{22300}{}{"Лазарет"}
-{22301}{}{Сильное армейское обезболивающее, заживляющее даже очень глубокие раны. Так же увеличивает силу и устойчивость к повреждениям. Незаменимо в бою!}
-{22400}{}{"Пойзон-Аут"}
-{22401}{}{Если вы отравились по своей (или чужой) воле - пара капсул и вам не грозит смерть от кровавого поноса!}
-{22500}{}{Фруктовый антидот}
-{22501}{}{Запах из бутылки сшибает с ног, но это "народное" средство прекрасно лечит отравления!}
-{22600}{}{"Рад-Аут"}
-{22601}{}{Инъекция, выгоняющая "радиактивную дрянь" из организма. Неприятно, но полезно!}
-{22700}{}{Железовый антирад}
-{22701}{}{Хвосты скорпионов, ногти крыс, чешуйки кротокрысов. От мысли, что там еще намешано становится дурно, но это зелье выводит радиацию получше фабричных препаратов!}
-{22800}{}{"Радиом"}
-{22801}{}{Если вы собираетесь поиграть со стержнем ядерного реактора - это чудо-таблетки для вас!}
-{22900}{}{"Резистанол"}
-{22901}{}{Военное чудо-средство, покрывающее кожу жесткими чешуйками, даже нож не возьмет вас! Может вызывать зуд и рак.}
-{23000}{}{"Комбатид"}
-{23001}{}{Вы захотели устроить холокост в одиночку? Запаситесь "Комбатидом"! Он не только заживляет раны, но и повышает ваши характеристики! Возможно сильное привыкание с летальным эффектом.}
-{23100}{}{"Брейниак"}
-{23101}{}{Ни один ученый не обходится без этого спрея в нос! Состав препарата попадает прямо в мозг, полностью раскрывая его спящий потенциал!}
-{23200}{}{"Стронгхольдин"}
-{23201}{}{Природа не наградила вас стальными мышцами? Не беда, "Стронгхольдин" поможет всегда! Просто вотрите мазь в мышцы, которые именно сейчас вам нужны!}
-{23300}{}{"Капля"}
-{23301}{}{Отколоть носик ампулы и вылить в рот - и через секунду вы почувствуете себя Богом!}
-{23400}{}{Виски}
-{23401}{}{Старый добрый виски, с отличным запахом и вкусом.}
-{23500}{}{Коньяк}
-{23501}{}{Редкий, благородный напиток благородных мужей! Если от вас пахнет коньяком - вас непременно будут уважать!}
-{23600}{}{Бухло}
-{23601}{}{Никто на знает, что в этой неказистой бутылке, но лучше это не пить.}
-{23700}{}{"Спотс-Ап"}
-{23701}{}{"Уотс ап? Спотс-Ап!" Об этой содовой ходили легенды, в том числе довольно страшные, но после одного глотка вы забудете все страхи и опасения!}
-{23800}{}{Яблоко}
-{23801}{}{Старое сухое яблоко. Похоже, на боку у него плесень.}
-{23900}{}{Груша}
-{23901}{}{Удивительно вкусный кусочек сушеной груши.}
-{24000}{}{Ремнабор для дробовиков}
-{24001}{}{Внушительных размеров ящик, наполненный ключами, переходниками и прочими инструментами для ухода за дробовиками.}
-{24100}{}{Винтовочный ремнабор}
-{24101}{}{Огромный комплект инструментов для ремонта и восстановления винтовок и автоматов.}
-{24200}{}{Лопата}
-{24201}{}{Этим предметом удобно что-нибудь откапывать. Или кого-нибудь закапывать.}
-{24300}{}{Веревка}
-{24301}{}{Моток добротной, крепкой веревки. Решайте сами, как ее использовать.}
-{24400}{}{Отвертка}
-{24401}{}{Классическая отвертка. И инструмент полезный, и для самообороны незаменимая вещь.}
-{24500}{}{Шелковые перчатки}
-{24501}{}{Если вы хотите кого-то ограбить, то этот элемент одежды окажется очень кстати.}
-{24600}{}{Энергетик}
-{24601}{}{Снимает усталость, убирает сонливость, помогает сконцентрироваться и придает бодрость духа!}
-{24700}{}{Рад-о-метр}
-{24701}{}{Ваш незаменимый помощник в борьбе с радиацией. Если случилась ядерная война - возьмите с собой Рад-о-метр!}
-{24800}{}{Инструменты}
+{20500}{}{Flare (lit)}
+{20501}{}{A lit magnesium flare.}
+{20600}{}{Dynamite (lit)}
+{20601}{}{A stick of good old dynamite with a lit fuse.}
+{20700}{}{Geiger Counter (active)}
+{20701}{}{A vital tool in the wasteland. It determines the exposure of gamma and beta radiation. It's activated.}
+{20800}{}{Motion Sensor}
+{20801}{}{A motion sensor detects even the slightest movements over a long distance, using a tuned radar device. It's activated}
+{20900}{}{Armed Explosives}
+{20901}{}{A bundle of good old trinitrotoluene with a lit fuse.}
+{21000}{}{Stealth Boy}
+{21001}{}{A device that uses an electromagnetic field to create an invisibility effect around the user. It's activated.}
+{21100}{}{EMP Grenade}
+{21101}{}{This type of grenade is designed specifically for the destruction of electronics. Min ST: 5}
+{21200}{}{WP Grenade}
+{21201}{}{If you need to start a fire, then this grenade is just perfect. Min ST: 4}
+{21300}{}{Rock}
+{21301}{}{It's a rock. The Granite-Inc. model is an upgraded version. Min ST: 4}
+{21400}{}{Molotov Cocktail}
+{21401}{}{A home-made flammable grenade. Min ST: 5}
+{21500}{}{HE Grenade}
+{21501}{}{An ordinary high-explosive grenade. Min ST: 6}
+{21600}{}{Fist of God}
+{21601}{}{One of the strongest grenades, a secret military design. Min ST: 7}
+{21700}{}{Sawblade}
+{21701}{}{Sharp teeth can easily cut through unprotected flesh, and it flies perfectly! Min ST: 6}
+{21800}{}{Billiard Ball}
+{21801}{}{Old, cracked, but weighty and with good flight characteristics. The ball may not kill anyone, but it will lead to some heavy bruises for sure! Min ST: 2}
+{21900}{}{Self-made Grenade}
+{21901}{}{A homemade grenade, dangerous for both, the enemy and the thrower. Min ST: 5}
+{22000}{}{Bandages}
+{22001}{}{Inefficient, yet cheap and affordable. Bandages will not reconstitute your severed arm, but they will help you heal a cut.}
+{22100}{}{Painkiller}
+{22101}{}{A couple of pills will reduce the pain, and will heal up light wounds!}
+{22200}{}{Heal-Up}
+{22201}{}{Developed on the basis of an army painkiller, this injection is designed for household use. Not really cheap, but pretty essential in the wastes.}
+{22300}{}{Surge}
+{22301}{}{A powerful army painkiller that heals even very deep wounds. It also increases strength and resistance to damage. Very essential in battle!}
+{22400}{}{Antidote}
+{22401}{}{If you are poisoned take a couple of pills and you will not face death from bloody diarrhea!}
+{22500}{}{Rot Gut}
+{22501}{}{The smell from the bottle of hootch knocks you off your feet, but this folk remedy let's you sweat out poisons pretty good!}
+{22600}{}{Rad-Out}
+{22601}{}{An injection that expels radioactive patricles from your bloodstream. Unpleasant, but useful!}
+{22700}{}{Wild Potion}
+{22701}{}{Scorpion tails, rat nails, mole rat scales. The thought of all the things mixed in theremakes you queasy, but this potion removes radiation better than factory drugs!}
+{22800}{}{Iodide}
+{22801}{}{If you are going to toy around the core of a nuclear reactor this miracle pill will help you not to burn out from your insides. Take before exposure!}
+{22900}{}{Resistanol}
+{22901}{}{A military miracle remedy that covers the skin with hard scales, even a knife will not harm you! May cause itching and cancer.}
+{23000}{}{Combatid}
+{23001}{}{If you want to rush though combat and cause mayhem and destruction stock up on Combatid. Not only does it heal your wounds, but also increases your resistances to damage. Possibly highly addictive with dangerous side effects.}
+{23100}{}{Brainiac}
+{23101}{}{No scientist can do without this nose spray! The composition of the drug gets directly into the brain, fully revealing its dormant potential!}
+{23200}{}{Strongman}
+{23201}{}{Hasn't nature awarded you with muscles of steel? Never mind, Stronghold is always there to help you. Just rub the ointment into your muscles and start clobbering!}
+{23300}{}{Drop}
+{23301}{}{Break off the nozzle of the ampoule and pour it into your mouth and in a second you will feel like a God!}
+{23400}{}{Whiskey}
+{23401}{}{Good old whiskey, with a nice bouquet and taste.}
+{23500}{}{Cognac}
+{23501}{}{A smooth and noble drink. If you smell if it, you certainly will be respected among your peers.}
+{23600}{}{Booze}
+{23601}{}{You aren't sure if this strong self-brewed hootch is really meant to drink or as a desinfectant.}
+{23700}{}{Spot-Up}
+{23701}{}{"What's up? Spot-Up!" There are legends about this soda, including some quite scary ones, but after one sip you will forget all your fears and doubts!}
+{23800}{}{Apple}
+{23801}{}{An old dry apple. It looks like it has mold on its side.}
+{23900}{}{Pear}
+{23901}{}{A surprisingly delicious piece of dried pear.}
+{24000}{}{Shotgun Repair Kit}
+{24001}{}{A kit for the maintenance and assembly of shotguns.}
+{24100}{}{Rifle Repair Kit}
+{24101}{}{A kit for the maintenance and assembly of rifles and submachine guns.}
+{24200}{}{Shovel}
+{24201}{}{This item is convenient in both, digging something up and bury someone.}
+{24300}{}{Rope}
+{24301}{}{A coil of good, strong rope. Decide for yourself how to use it.}
+{24400}{}{Screwdriver}
+{24401}{}{A typical screwdriver. Both a useful tool, and and irreplacable in self-defense.}
+{24500}{}{Silk Gloves}
+{24501}{}{If you want to rob someone this item of clothing will be very useful.}
+{24600}{}{Energy Drink}
+{24601}{}{Relieves fatigue, removes drowsiness, helps to concentrate and gives cheerfulness!}
+{24700}{}{Rad-O-meter}
+{24701}{}{An indispensable assistant in the fight against radiation. If there is a nuclear war, take the Rad-O-meter with you!}
+{24800}{}{Instrument}
 {24801}{}{}
-{24900}{}{Инструменты}
+{24900}{}{Instrument}
 {24901}{}{}
-{25000}{}{Ржавый шкафчик}
-{25001}{}{Не стоить судить о шкафчике по его внешнему виду - главное содержание.}
-{25100}{}{Ржавый шкафчик}
-{25101}{}{Слегка покосился, но вряд ли это сказалось на его содержимом.}
-{25200}{}{Ржавый шкафчик}
-{25201}{}{Даже лежа на земле, этот шкафчик не перестал быть шкафчиком.}
-{25300}{}{Полки}
-{25301}{}{Старые и пыльные полки с обилием всякого барахла.}
-{25400}{}{Вещи}
-{25401}{}{В такой куче вещей просто обязано быть что-то полезное.}
-{25500}{}{Коробки}
-{25501}{}{Небольшие коробки с неизвестным содержимым.}
-{25600}{}{Таз}
-{25601}{}{Старый вместительный таз.}
-{25700}{}{Вещи}
-{25701}{}{Обилие вещей не гарантирует наличие в них чего-то ценного, но любопытство пробуждает.}
-{25800}{}{Вещи}
-{25801}{}{Горка каких-то вещей и коробок.}
-{25900}{}{Станок}
-{25901}{}{Невысокий станок для работы с разными материалами.}
-{26000}{}{Вещи}
-{26001}{}{Обычно в таких местах люди хранят свои вещи.}
-{26100}{}{Вещи}
-{26101}{}{Обычно в таких местах люди хранят свои вещи.}
-{26200}{}{Вещи}
-{26201}{}{Обычно ценные вещи не сваливают такой кучей, но кто знает - люди странные.}
-{26300}{}{Вещи}
-{26301}{}{В закрытых коробках всегда присутствует какая-то неопределенность.}
-{26400}{}{Вещи}
-{26401}{}{Изучение большой кучи вещей отнимает много времени, но иногда оно того стоит. А иногда нет.}
-{26500}{}{Вещи}
-{26501}{}{Обилие вещей не гарантирует наличие в них чего-то ценного, но любопытство пробуждает.}
-{26600}{}{Ящик}
-{26601}{}{Обычно люди хранят в таких свои вещи.}
-{26700}{}{Ящик}
-{26701}{}{Отличная вещь для хранения вещей.}
-{26800}{}{Стол}
-{26801}{}{Стол администратора станции.}
-{26900}{}{Полки}
-{26901}{}{На этих полках много всякого барахла.}
-{27000}{}{Вещи}
-{27001}{}{Коробки, тюки, ящики - все эти предметы просто созданы для хранения вещей.}
-{27100}{}{Пожарный щит}
-{27101}{}{Вам всегда больше нравилось поджигать, чем тушить.}
-{27200}{}{Настенные ящики}
-{27201}{}{Аккуратнее с ними, похоже, эти ящики держатся на соплях.}
-{27300}{}{Капот}
-{27301}{}{Капот машины с явными следами коррозии.}
-{27400}{}{Багажник}
-{27401}{}{Багажник старой машины.}
-{27500}{}{Дверь машины}
-{27501}{}{Дверь машины, изрядно помятая.}
-{27600}{}{Дверь машины}
-{27601}{}{Дверь машины, изрядно помятая.}
-{27700}{}{Багажник}
-{27701}{}{Багажник старой машины.}
-{27800}{}{Ящик}
-{27801}{}{Кто-то оставил ящик в машине.}
-{27900}{}{Сейф в стене}
-{27901}{}{Выглядит обшарпанным. Интересно, повлияло ли время на его надежность.}
-{28000}{}{Углубление в стене}
-{28001}{}{Возможно в этом углублении был чей-то тайник.}
-{28100}{}{Старые коробки}
-{28101}{}{Помятые и грязные коробки.}
-{28200}{}{Комод}
-{28201}{}{Старый комод из рассохшегося, но все еще крепкого дерева.}
-{28300}{}{Полки}
-{28301}{}{Деревянные полки, выглядят пустыми, но вдруг вам повезет?}
-{28400}{}{Комод}
-{28401}{}{Сломанный деревянный комод.}
-{28500}{}{Полки}
-{28501}{}{Старые сломанные деревянные полки, похоже, они свое отслужили.}
-{28600}{}{Полки}
-{28601}{}{Деревянные полки - созданы, чтобы класть на них вещи.}
-{28700}{}{Полки}
-{28701}{}{Деревянные полки, выглядят пустыми, но вдруг вам повезет?}
-{28800}{}{Полки}
-{28801}{}{Старые сломанные деревянные полки, похоже, они свое отслужили.}
-{28900}{}{Пожарный щит}
-{28901}{}{Вам всегда больше нравилось поджигать, чем тушить.}
-{29000}{}{*Папин ключ*}
-{29001}{}{Небольшой регулируемый газовый ключ в идеальном состоянии.}
-{29100}{}{Кукуруза}
-{29101}{}{Аппетитный початок кукурузы.}
-{29200}{}{Канистра воды}
-{29201}{}{От воды сильно пахнет тухлятиной.}
-{29300}{}{*Кронштейн*}
-{29301}{}{Одна из частей для фильтра клапана насоса.}
-{29400}{}{*Фильтр*}
-{29401}{}{Одна из частей для фильтра клапана насоса.}
-{29500}{}{*Клапан*}
-{29501}{}{Одна из частей для фильтра клапана насоса.}
-{29600}{}{Фильтр клапана насоса}
-{29601}{}{Недостающая запчасть для сломанного агрегата по очистке воды.}
-{29700}{}{Ядерный самогон}
-{29701}{}{Бутыль крайне крепкого напитка. Он светится в темноте!}
-{29800}{}{*Жетон Дугласа*}
-{29801}{}{Блестящий жетон шерифа Дугласа.}
-{29900}{}{*Энциклопедия*}
-{29901}{}{Научное справочное пособие, содержащее в себе полезную информацию из различных сфер жизнедеятельности.}
-{30000}{}{*Прототип плазменной винтовки*}
-{30001}{}{Прототип плазменной винтовки, оружие последнего поколения, возможно единственный уцелевший экземпляр.}
-{30100}{}{*Ультраремнабор*}
-{30101}{}{Серьезный ремонтный набор. В нем, пожалуй, можно найти практически все необходимое для любого ремонта.}
-{30200}{}{*"Восхищение"*}
-{30201}{}{Одна доза наркотического средства "Восхищение", не стоит этим злоупотреблять.}
-{30300}{}{*Карта лифта 2В*}
-{30301}{}{Карта доступа к лифту 2В.}
-{30400}{}{*Модулятор голоса*}
-{30401}{}{Устройство для генерации звуковых волн в виде заданных словосочетаний имитирующих голос.}
-{30500}{}{Мешок удобрений}
-{30501}{}{Мешок органических удобрений. Всего горсть этого удобрения и кукуруза будет расти как на дрожжах.}
-{30600}{}{*Точильный камень*}
-{30601}{}{Этот камень можно использовать для заточки любого холодного оружия.}
-{30700}{}{Клык Химеры}
-{30701}{}{Зуб, точнее клык, опаснейшего существа - Химеры! Вам повезло, что вы смогли его получить и остаться при своих конечностях.}
-{30800}{}{Штамм S-вируса}
-{30801}{}{Герметичная ампула со смертельно опасным вирусом. Будьте осторожны.}
-{30900}{}{Странная книга}
-{30901}{}{На первый взгляд тяжело определить, что это за книга, на второй тоже.}
-{31000}{}{Палец с кольцом}
-{31001}{}{Это палец некогда принадлежал человеку, на пальце кольцо, на первый взгляд дорогое.}
-{31100}{}{*Кусок карты*}
-{31101}{}{Этот клочок бумаги часть какой-то карты. Возможно даже полезной.}
-{31200}{}{*Кусок карты*}
-{31201}{}{Часть карты, найдите остальные части и соберите этот пазл.}
-{31300}{}{*Кусок карты*}
-{31301}{}{Это карта, только не полная, необходимо найти остальные части.}
-{31400}{}{*Кусок карты*}
-{31401}{}{Карта местности, не полная. Возможно есть и другие куски этой карты.}
-{31500}{}{Сахарная лавашатина}
-{31501}{}{Сочный вкусный кусочек сахарной лавашатинки.}
-{31600}{}{Ключ от подвала НМП}
-{31601}{}{Хорошо сохранившийся ключ, используйте его по назначению.}
-{31700}{}{*Деталь станка*}
-{31701}{}{Одна из важнейших деталей станка.}
-{31800}{}{*Конституция 15-ти прав*}
-{31801}{}{Конституция Лайвос для жителей нового мира, созданная жителями для потомков. Пожалуй полезно знать ее положения.}
-{31900}{}{*Рука Роботрона*}
-{31901}{}{Электромеханическая конечность боевого роботрона.}
-{32000}{}{*Электро-двигатель*}
-{32001}{}{Залатанный, но рабочий электрический двигатель.}
-{32100}{}{Сломанный электро-двигатель}
-{32101}{}{Неисправный электрический двигатель.}
-{32200}{}{*Духи "Sasou"*}
-{32201}{}{Женские духи с дивным нежным ароматом.}
-{32300}{}{Кристальная вода}
-{32301}{}{Бутылка чистейшей воды.}
-{32400}{}{*"Романтик Коллекшн"*}
-{32401}{}{Диск со спокойной мелодичной романтичной музыкой.}
-{32500}{}{*Учебник по волнологии*}
-{32501}{}{Серьезное научное пособие по "Волнологии".}
-{32600}{}{*Колода карт*}
-{32601}{}{Колода карт. 36 штук. Пластиковое покрытие.}
-{32700}{}{*Особое муравьиное брюшко*}
-{32701}{}{Брюшко муравья необычно больших размеров, имеет люминесцирующий эффект.}
-{32800}{}{Человеческое мясо}
-{32801}{}{Кусок человечины. Ммм... Да, это точно человечина.}
-{32900}{}{Диск с порнушкой}
-{32901}{}{Диск с ХХХ-видео, автор этого творения увы неизвестен.}
-{33000}{}{Карта доступа "Органикс"}
-{33001}{}{Электронная карта доступа "Органикс".}
-{33100}{}{Карта доступа "Инжинеринг"}
-{33101}{}{Электронная карта доступа "Инжиниринг".}
-{33200}{}{Карта доступа "Физикс"}
-{33201}{}{Электронная карта доступа "Физикс".}
-{33300}{}{Карта доступа Х2}
-{33301}{}{Электронная карта доступа "Х2".}
-{33400}{}{Карта доступа Х1}
-{33401}{}{Электронная карта доступа "Х1".}
-{33500}{}{*"Антирадин"*}
-{33501}{}{Пузырек со странноватой, слегка пузырящейся мутной жидкостью. Непонятно, сделано это средство на фабрике, или на коленке, но по слухам оно прекрасно лечит от радиации.}
-{33600}{}{Дрова}
-{33601}{}{Огромная охапка отличных деревянных дров для огненного костра!}
-{33700}{}{Хвост скорпиона}
-{33701}{}{Большой мясистый хвост какого-то бедолаги-скорпиона.}
-{33800}{}{*Вантуз*}
-{33801}{}{Палка с резиновой помпой на конце. Незаменимо, если вам хочется кого-нибудь небольно ударить. так же годится для прочистки засоров.}
-{33900}{}{"Конфирмация фамилии"}
-{33901}{}{На трухлявом клочке бумаги неразборчиво написано, что "Предъявитель ДЕЙСТВИТЕЛЬНО является членом ВЕЛИКОГО и ДРЕВНЕГО рода Швайнов".}
-{34000}{}{Записка Дугласа}
-{34001}{}{Похоже на список вещей, нужных "Олимпу".}
-{34100}{}{*Набор запчастей*}
-{34101}{}{Тяжеленный ящик с кучей железок внутри.}
-{34200}{}{*Вибратор*}
-{34201}{}{Отполированный, хорошо смазанный прибор для снятия женского напряжения.}
-{34300}{}{"Инъекция послушания"}
-{34301}{}{Небольшой укол, вызывающий химическую привязанность уколотого к уколовшему. Похоже, действует только на особенные организмы.}
-{34400}{}{Банка консервов.}
-{34401}{}{Видно, что консервы закатаны сравнительно недавно. Мясо внутри может оказаться сюрпризом.}
-{34500}{}{Обрывок записки}
-{34501}{}{Части текста не хватает, но окончание можно разобрать: "...зачем тебе это надо, но код от его консоли - 2358. И помни, Грэй - мы с тобой повязаны!"}
-{34600}{}{*Энерго-ячейка*}
-{34601}{}{Невероятно тяжелый элемент питания. Вас не покидает мысль, что будет, если с размаху вдарить по нему кувалдой.}
-{34700}{}{*Эссенция стволовых клеток*}
-{34701}{}{Банка с вязкой органической субстанцией. Наверное, лучше даже не знать из чего это сделано.}
-{34800}{}{*Сервопривод*}
-{34801}{}{Похоже на моторчик довольно хитрой конструкции. Частично заляпан кровью и частичками кожи.}
-{34900}{}{Квест}
+{25000}{}{Rusty Locker}
+{25001}{}{Do not judge the locker by its appearance but the content in it.}
+{25100}{}{Rusty Locker}
+{25101}{}{It is slightly askew, but it is unlikely that this affected its contents.}
+{25200}{}{Rusty Lokcer}
+{25201}{}{Even lying on the ground, this locker didn't stop being a locker.}
+{25300}{}{Shelves}
+{25301}{}{Old and dusty shelves with plenty of junk on them.}
+{25400}{}{Stuff}
+{25401}{}{There might be something usefull in such a large pile of stuff.}
+{25500}{}{Boxes}
+{25501}{}{Small boxes with unknown contents.}
+{25600}{}{Bowl}
+{25601}{}{An old roomy bowl.}
+{25700}{}{Stuff}
+{25701}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but it makes you curious.}
+{25800}{}{Stuff}
+{25801}{}{A pile of some stuff and boxes.}
+{25900}{}{Machine}
+{25901}{}{A small machine for working with different materials.}
+{26000}{}{Stuff}
+{26001}{}{Usually people store their stuff something like it.}
+{26100}{}{Stuff}
+{26101}{}{Usually people store their stuff something like it.}
+{26200}{}{Stuff}
+{26201}{}{Usually valuables don't pile up like this, but who knows - people are strange.}
+{26300}{}{Stuff}
+{26301}{}{There is always some ambiguity in closed boxes.}
+{26400}{}{Stuff}
+{26401}{}{Rummaging through a large pile of things is time-consuming. Sometimes it's worth it, sometimes not.}
+{26500}{}{Stuff}
+{26501}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but it makes you curious.}
+{26600}{}{Box}
+{26601}{}{Usually people keep their stuff in something like it.}
+{26700}{}{Footlocker}
+{26701}{}{A great place for storing items.}
+{26800}{}{Table}
+{26801}{}{The station administrator's desk.}
+{26900}{}{Shelves}
+{26901}{}{There's a lot of junk on these shelves.}
+{27000}{}{Stuff}
+{27001}{}{Cartons, boxes, crates - all these are simply made for storing things.}
+{27100}{}{Fire Extinguisher}
+{27101}{}{You have always liked to set things on fire rather than putting it out.}
+{27200}{}{Mounted Containers}
+{27201}{}{Be careful with them, it seems like this containers are very deranged.}
+{27300}{}{Hood}
+{27301}{}{A hood of a car with obvious traces of corrosion.}
+{27400}{}{Trunk}
+{27401}{}{The trunk of an old car.}
+{27500}{}{Car Door}
+{27501}{}{A badly battered car door.}
+{27600}{}{Car Door}
+{27601}{}{A badly battered car door.}
+{27700}{}{Trunk}
+{27701}{}{The trunk of an old car.}
+{27800}{}{Crate}
+{27801}{}{Someone left a crate in the car.}
+{27900}{}{Wall Safe}
+{27901}{}{It looks shabby. You wonder if time has affected its reliability.}
+{28000}{}{Wall Hole}
+{28001}{}{Perhaps there was someone's stash in this hole.}
+{28100}{}{Old Boxes}
+{28101}{}{Crumpled and dirty boxes.}
+{28200}{}{Dresser}
+{28201}{}{An old chest of drawers made of cracked but still strong wood.}
+{28300}{}{Shelves}
+{28301}{}{The wooden shelves look empty, but maybe you are lucky?}
+{28400}{}{Dresser}
+{28401}{}{A broken wooden commode.}
+{28500}{}{Shelves}
+{28501}{}{Old broken wooden shelves, they seem to have served their time.}
+{28600}{}{Shelves}
+{28601}{}{Wooden shelves, designed to put things on them.}
+{28700}{}{Shelves}
+{28701}{}{The wooden shelves look empty, but maybe you are lucky?}
+{28800}{}{Shelves}
+{28801}{}{Old broken wooden shelves, they seem to have served their time.}
+{28900}{}{Fire Extinguisher}
+{28901}{}{You have always liked to set things on fire rather than putting it out.}
+{29000}{}{*Dad's Wrench*}
+{29001}{}{A small adjustable pipe wrench in perfect condition.}
+{29100}{}{Corn}
+{29101}{}{A mouth watering ear of corn.}
+{29200}{}{Water Container}
+{29201}{}{The water smells strongly of rotten meat.}
+{29300}{}{*Bracket*}
+{29301}{}{One of the parts for the pump valve filter.}
+{29400}{}{*Filter*}
+{29401}{}{One of the parts for the pump valve filter.}
+{29500}{}{*Valve*}
+{29501}{}{One of the parts for the pump valve filter.}
+{29600}{}{Pump Valve Filter}
+{29601}{}{Missing spare part for the broken water treatment unit.}
+{29700}{}{Nuclear Moonshine}
+{29701}{}{A bottle of an extremely strong liquor. It glows in the dark!}
+{29800}{}{*Douglas's Badge*}
+{29801}{}{Shiny badge for Sheriff Douglas.}
+{29900}{}{*Encyclopedia*}
+{29901}{}{A scientific reference guide containing useful information from various fields of life.}
+{30000}{}{*Prototype Plasma Rifle*}
+{30001}{}{A prototype plasma rifle, a weapon from the latest generation. Possibly the only surviving copy.}
+{30100}{}{*Ultra Repair Kit*}
+{30101}{}{A serious repair kit. In it you find probably almost everything you need for every repair.}
+{30200}{}{*Rapture*}
+{30201}{}{One does of the drug Rapture, don't misuse it.}
+{30300}{}{*Elevator Card 2B*}
+{30301}{}{Elevator access card 2B.}
+{30400}{}{*Voice Modulator*}
+{30401}{}{A device for generating sound waves in the form of specified phrases that mimic a voice.}
+{30500}{}{Bag of Fertilizer}
+{30501}{}{A bag of organic fertilizers. Just a handful of this fertilizer and the corn will grow fine and dandy.}
+{30600}{}{*Whetstone*}
+{30601}{}{This stone can be used to sharpen any edged weapon.}
+{30700}{}{Chimera Fang}
+{30701}{}{The tooth, or rather the fang, of the most dangerous creature, the Chimera! You are lucky that you were able to get it and remain all your limbs.}
+{30800}{}{S-Virus Strain}
+{30801}{}{A sealed ampoule containing a deadly virus. Be very careful with it!}
+{30900}{}{Strange Book}
+{30901}{}{At first glance it is difficult to determine what kind of book it is, at the second, too.}
+{31000}{}{Ring Finger}
+{31001}{}{This finger once belonged to a man, on the finger is a ring, at first glance it's very expensive.}
+{31100}{}{*Map Piece*}
+{31101}{}{This piece of paper is part of a map. This might even be useful.}
+{31200}{}{*Map Piece*}
+{31201}{}{Part of a map, find the rest of the pieces and solve the puzzle.}
+{31300}{}{*Map Piece*}
+{31301}{}{This is a map, only not complete. You need to find the rest of the pieces.}
+{31400}{}{*Map Piece*}
+{31401}{}{Map of an area, but not complete. Perhaps there are other pieces of this map.}
+{31500}{}{Lavash Jerky}
+{31501}{}{A juicy and delicious piece of Lavash jerky.}
+{31600}{}{NWO Basement Key}
+{31601}{}{A well-preserved key, use it for its intended purpose.}
+{31700}{}{*Machine Parts*}
+{31701}{}{One of the most important parts of the machine.}
+{31800}{}{*Constitution of 15 Rights*}
+{31801}{}{The Laivos Constitution for the inhabitants of the new world, created by the inhabitants for posterity. Perhaps it is useful to know the situation.}
+{31900}{}{*Robotron Hand*}
+{31901}{}{The electro-mechanical limb of a combat robotron.}
+{32000}{}{*Electric Motor*}
+{32001}{}{A patched but working electric motor.}
+{32100}{}{Broken Electric Motor}
+{32101}{}{A faulty electric motor.}
+{32200}{}{*Sasou Perfume*}
+{32201}{}{Women's perfume with a wonderful gentle fragrance.}
+{32300}{}{Crystal Water}
+{32301}{}{A bottle of the purest water.}
+{32400}{}{*Romantic Collection*}
+{32401}{}{A CD with calm melodic romantic music.}
+{32500}{}{*Analogue*}
+{32501}{}{A serious textbook on wave physics.}
+{32600}{}{*Card Deck*}
+{32601}{}{A deck of playing cards, 36 pieces coated in plastic.}
+{32700}{}{*Glowing Ant Abdomen*}
+{32701}{}{This ant's abdomen is unusually large and has a luminescent effect.}
+{32800}{}{Human Flesh}
+{32801}{}{A piece of human flesh. Mmm... Yes, it's definitely human flesh.}
+{32900}{}{Porn Disk}
+{32901}{}{A disk with a XXX video, the author of this creation is unfortunately unknown.}
+{33000}{}{IOS Access Card}
+{33001}{}{An electronic access card for the Institute of Organic Sciences.}
+{33100}{}{BDE Access Card}
+{33101}{}{An electronic access card for the Bureau of Design and Engineering.}
+{33200}{}{LPS Access Card}
+{33201}{}{An electronic access card for the Laboratories of Physical Sciences.}
+{33300}{}{Х2 Access Card}
+{33301}{}{An electronic access card marked X2.}
+{33400}{}{X1 Access Card}
+{33401}{}{An electronic access card marked X1.}
+{33500}{}{*Rad-Away*}
+{33501}{}{A blister with a strange, slightly bubbling murky liquid. It is not clear whether this remedy is made in a factory, or self-made, but it is rumored to be an excellent cure for radiation.}
+{33600}{}{Firewood}
+{33601}{}{A huge armful of excellent wooden fuel for a nice cozy fire!}
+{33700}{}{Scorpion Tail}
+{33701}{}{The big fleshy tail of some poor scorpion.}
+{33800}{}{*Plunger*}
+{33801}{}{A stick with a rubber pump on the end. It is practical if you want to hit someone gently. It is also suitable for unclogg toilets.}
+{33900}{}{"Name Certificate"}
+{33901}{}{On a rotten piece of paper, it is illegibly written that "The Bearer is INDEED a member of the GREAT and ANCIENT Shvain family."}
+{34000}{}{Douglas' Note}
+{34001}{}{Looks like a list of things Olympus needs.}
+{34100}{}{*Spare Parts Kit*}
+{34101}{}{A heavy box with a lot of hardware inside.}
+{34200}{}{*Vibrator*}
+{34201}{}{A polished, well-oiled device for relieving female tension.}
+{34300}{}{Obedience}
+{34301}{}{A small chemical injection that causes loyality between the person who administers the drug and whomever it is injected to. Seems to work only on specific organisms.}
+{34400}{}{Canned Meat}
+{34401}{}{Seems that the food was only recently canned. The meat inside might be a suprise, though.}
+{34500}{}{Torn Note}
+{34501}{}{Part of the text is missing, but you can make out the ending: "... why you would need this, but hte code for the console is 2358. And remember Grey, everything depends on you!"}
+{34600}{}{*Energy Cell*}
+{34601}{}{An incredibly heavy battery. You can't help but wonder what will happen if you hit it with a sledgehammer.}
+{34700}{}{*Stem Cell Essence*}
+{34701}{}{A jar with a viscous organic substance. It's probably better not to even know what it is made of.}
+{34800}{}{*Servo Motor*}
+{34801}{}{It looks like a motor of rather complicated design. Partially covered with blood and skin particles.}
+{34900}{}{Quest}
 {34901}{}{}
-{35000}{}{Квест}
+{35000}{}{Quest}
 {35001}{}{}
-{35100}{}{Квест}
+{35100}{}{Quest}
 {35101}{}{}
-{35200}{}{Квест}
+{35200}{}{Quest}
 {35201}{}{}
-{35300}{}{Квест}
+{35300}{}{Quest}
 {35301}{}{}
-{35400}{}{Квест}
+{35400}{}{Quest}
 {35401}{}{}
-{35500}{}{Квест}
+{35500}{}{Quest}
 {35501}{}{}
-{35600}{}{Квест}
+{35600}{}{Quest}
 {35601}{}{}
-{35700}{}{Квест}
+{35700}{}{Quest}
 {35701}{}{}
-{35800}{}{Квест}
+{35800}{}{Quest}
 {35801}{}{}
-{35900}{}{Квест}
+{35900}{}{Quest}
 {35901}{}{}
-{36000}{}{Квест}
+{36000}{}{Quest}
 {36001}{}{}
-{36100}{}{Квест}
+{36100}{}{Quest}
 {36101}{}{}
-{36200}{}{Квест}
+{36200}{}{Quest}
 {36201}{}{}
-{36300}{}{Квест}
+{36300}{}{Quest}
 {36301}{}{}
-{36400}{}{Квест}
+{36400}{}{Quest}
 {36401}{}{}
-{36500}{}{Квест}
+{36500}{}{Quest}
 {36501}{}{}
-{36600}{}{Квест}
+{36600}{}{Quest}
 {36601}{}{}
-{36700}{}{Квест}
+{36700}{}{Quest}
 {36701}{}{}
-{36800}{}{Квест}
+{36800}{}{Quest}
 {36801}{}{}
-{36900}{}{Квест}
+{36900}{}{Quest}
 {36901}{}{}
-{37000}{}{Квест}
+{37000}{}{Quest}
 {37001}{}{}
-{37100}{}{Квест}
+{37100}{}{Quest}
 {37101}{}{}
-{37200}{}{Квест}
+{37200}{}{Quest}
 {37201}{}{}
-{37300}{}{Квест}
+{37300}{}{Quest}
 {37301}{}{}
-{37400}{}{Квест}
+{37400}{}{Quest}
 {37401}{}{}
-{37500}{}{Квест}
+{37500}{}{Quest}
 {37501}{}{}
-{37600}{}{Квест}
+{37600}{}{Quest}
 {37601}{}{}
-{37700}{}{Квест}
+{37700}{}{Quest}
 {37701}{}{}
-{37800}{}{Квест}
+{37800}{}{Quest}
 {37801}{}{}
-{37900}{}{Квест}
+{37900}{}{Quest}
 {37901}{}{}
-{38000}{}{Записи Шакала}
-{38001}{}{Диск с личным дневником, путевыми заметками и другой информацией о Шакале.}
-{38100}{}{Исследования Янга}
-{38101}{}{Научная работа и исследования Янга.}
-{38200}{}{Хроника Войны}
-{38201}{}{Историческая хронология военных действий.}
-{38300}{}{Работы в "Ренессанс"}
-{38301}{}{Отчет о реализации и опасению использования роботронов.}
-{38400}{}{Отчеты о сплаве}
-{38401}{}{Химический анализ принципиального нового металлического сплава.}
-{38500}{}{Директива "Тартар"}
-{38501}{}{Акт и свод указов, распространяющихся в Тартаре.}
-{38600}{}{Записи Себастиана Швайна}
-{38601}{}{Записи оружейника Себастиана Швайна.}
-{38700}{}{Промо-диск "Олимп"}
-{38701}{}{Олимп! Величайшее творение человечества!}
-{38800}{}{О "Луменьерах"}
-{38801}{}{Заметки некоей особы об опыте общения с "Луменьерами".}
-{38900}{}{Дневник новобранца}
-{38901}{}{Пыльный грязный диск с безымянного трупа.}
-{39000}{}{Солнечный пистолет}
-{39001}{}{Уникальный пистолет, работающий от солнечной энергии, прекрасное экономное оружие.}
-{39100}{}{БМК "Хищник"}
-{39101}{}{Боевой Механизированный Комплекс военной разведки NCASTR. Только разработчики могут им пользоваться!!!}
-{39200}{}{Части пистолета-пулемета}
-{39201}{}{Запчасти для пистолета-пулемета, еще в масле.}
-{39300}{}{*Личный дневник*}
-{39301}{}{Это ваша личная обитель умных (и не очень) мыслей. Смотрите не потеряйте мамин подарок.}
-{39400}{}{*Балахон Вестника*}
-{39401}{}{Под рясой из плотной ткани скрывается надежная военная броня, а низкий капюшон полностью скрывает лицо владельца.}
-{39500}{}{Картофельная Сила}
-{39501}{}{Коллекционный картофельный супермен! Редкий и дорогой, он придаст вам силу!}
-{39600}{}{Картофельная Наблюдательность}
-{39601}{}{Почувствуйте истинную силу темной стороны с коллекционным картофельным Вейдером! Ваша Наблюдательность увеличивается!}
-{39700}{}{Картофельная Выносливость}
-{39701}{}{Коллекционный человеко-инопланетяно-обезьян! Эта фигурка придаст вам выносливости!}
-{39800}{}{Картофельная Харизма}
-{39801}{}{Настоящий картофельный обояшка-покоритель сердец! Картофельный Элвис передаст вам частичку своей харизмы!}
-{39900}{}{Картофельный Интеллект}
-{39901}{}{Мозговитый гений должен употреблять картофель! Коллекционный картофельный нерд сделает вас чуточку умнее.}
-{40000}{}{Картофельная Ловкость}
-{40001}{}{Ловкий, как летучая картофельная мышь! Коллекционный картофельный бэтмен прибавит вам ловкости.}
-{40100}{}{Картофельная Удача}
-{40101}{}{Фортуна любит картошку! Держите картофельного кролика при себе на удачу!}
-{40200}{}{Комикс "Рыжий Чак"}
-{40201}{}{Искрометный персонаж этого комикса быстро научит вас основам самообороны и рукопашного боя.}
-{40300}{}{Комикс "Оранжевый питчер"}
-{40301}{}{В этом комиксе Оранжевый бейсболист научит вас приемам метания, одному из важнейших навыков в этом мире.}
-{40400}{}{Комикс "Оранжевый спикер"}
-{40401}{}{Оранжевый болтун, вот наш герой! Его остроумные фразы и гениальные примеры могут дать вам много интересной информации об общении с людьми и не только.}
-{40500}{}{Модуль гранатометный}
+{38000}{}{Jackal's Diary}
+{38001}{}{A disk with a personal diary, travel notes, and other information regarding the Jackal.}
+{38100}{}{Young's Research}
+{38101}{}{Young's scientific work and research.}
+{38200}{}{War Chronicle}
+{38201}{}{Historical chronology of military operations.}
+{38300}{}{Work in Renaissance}
+{38301}{}{Report on the implementation and concerns about the use of robotrons.}
+{38400}{}{PD Alloy Research}
+{38401}{}{Chemical analysis of a fundamentally new metal alloy.}
+{38500}{}{Tartarus Directive}
+{38501}{}{A collection of edicts distributed in Tartarus.}
+{38600}{}{Shvain's Notes}
+{38601}{}{The notes of the gunsmith Sebastian Schwein.}
+{38700}{}{Olympus Promotion}
+{38701}{}{Olympus! The greatest creation of mankind!}
+{38800}{}{On Lumenieri}
+{38801}{}{Notes of a certain person about the experience of communicating with the "Lumenieri".}
+{38900}{}{Recruit's Diary}
+{38901}{}{A dusty, dirty disk from a nameless corpse.}
+{39000}{}{Solar Scorcher}
+{39001}{}{A unique pistol powered by solar energy, a great economical weapon.}
+{39100}{}{MCA Predator}
+{39101}{}{A mechanized combat armor system from NCASTR. Only the developers can use this, BUH!}
+{39200}{}{SMG Parts}
+{39201}{}{Spare parts for a submachine gun, still oiled.}
+{39300}{}{*Personal Diary*}
+{39301}{}{This is your personal diary of smart (and not so smart) thoughts. Don't lose your mother's gift.}
+{39400}{}{*Herald's Robes*}
+{39401}{}{Under the thick cloth cowl hides a reliable military armor, and a low hood completely hides the face of the owner.}
+{39500}{}{Mr. Potato Strength}
+{39501}{}{A collectible Potato Superman figurine! Rare and expensive! It will raise your strength!}
+{39600}{}{Mr. Potato Perception}
+{39601}{}{Feel the true power of the dark side with the collectible Potato Vader! Your power of perception increases!}
+{39700}{}{Mr. Potato Endurance}
+{39701}{}{A collectible human-alien-gorilla! This action figure will give you endurance.}
+{39800}{}{Mr. Potato Charisma}
+{39801}{}{As a real prince of the hearts, Potato Elvis will give you a bit of his charisma.}
+{39900}{}{Mr. Potato Intelligence}
+{39901}{}{A brainy genius should eat potatoes! The collectible Potato Nerd will make you a little smarter.}
+{40000}{}{Mr. Potato Agility}
+{40001}{}{Skillful as a potato bat, Potato Batman will increase your agility!}
+{40100}{}{Mr. Potato Luck}
+{40101}{}{Fortuna loves potatoes. Keep the collectible Potato Rabbit's Foot with you for good luck!}
+{40200}{}{Orange Chucky}
+{40201}{}{The sparkling character of this comic book will quickly teach you the basics of self-defense and hand-to-hand combat.}
+{40300}{}{A Player Orange}
+{40301}{}{In this comic, the orange baseball player will teach you throwing techniques, one of the most important skills in this world.}
+{40400}{}{Annoying Orange}
+{40401}{}{The orange tongue is our real hero! His witty phrases and ingenious examples can give you a lot of interesting information about communicating with people and beyond.}
+{40500}{}{Grenade Launcher Module}
 {40501}{}{}
-{40600}{}{Модуль минигана}
+{40600}{}{Minigun Module}
 {40601}{}{}
-{40700}{}{Модуль лазерный}
+{40700}{}{Laser module}
 {40701}{}{}
-{40800}{}{Полевая аптечка}
-{40801}{}{Бинты, перекись, обезболивающее, жгут и это еще не все, что можно найти в этой аптечке для оказания первой помощи.}
-{40900}{}{Сумка парамедика}
-{40901}{}{Реанимационный набор парамедика, все самое необходимое для оказания быстрой и серьезной помощи.}
-{41000}{}{Стеклянные шарики}
-{41001}{}{Симпатичные гладкие стеклянные шарики. Их так приятно катать в руках.}
-{41100}{}{Ржавый болт}
-{41101}{}{Старый ржавый болт. Он такой ржавый, что даже в руки брать не хочется.}
-{41200}{}{Растрепанная книга}
-{41201}{}{Еще можно разобрать отдельные фразы, но понять, о чем тут написано уже невозможно.}
-{41300}{}{Древний комикс}
-{41301}{}{Довольно занимательно посмотреть на выцветшие картинки, хотя пользы от этого - никакой.}
-{41400}{}{Стеклянная бутылка}
-{41401}{}{Пустая стеклянная бутылка. Чем бы ее наполнить?}
-{41500}{}{Деревянный гребень}
-{41501}{}{У вас еще остались волосы? Ну, хоть где-нибудь?.}
-{41600}{}{Детский рисунок}
-{41601}{}{Корявый детский рисунок. Сомнительное искусство.}
-{41700}{}{Детский рисунок}
-{41701}{}{Что здесь нарисовано? Апокалипсис?}
-{41800}{}{Детский рисунок}
-{41801}{}{Ну, если можно назвать это разноцветное пятно рисунком.}
-{41900}{}{Стальная вилка}
-{41901}{}{Вилка в неплохом состоянии. Ей можно есть. Или тыкнуть себе в глаз.}
-{42000}{}{Ржавая вилка}
-{42001}{}{НЕВЕРОЯТНО, ржавая вилка. Неужели кто-то этим ест.}
-{42100}{}{Гвозди}
-{42101}{}{Несколько довольно длинных гвоздей.}
-{42200}{}{Спички}
-{42201}{}{Спички - детям не игрушка! Э-гей, да они еще горят!}
-{42300}{}{Катушка ниток}
-{42301}{}{Если ваше призвание - швея-мотористка, то этот предмет несомненно сделает вас счастливым!}
-{42400}{}{Цветные карандаши}
-{42401}{}{Довольно редкая, хоть и ненужная вещь. Можно оставить где-нибудь наскальные рисунки.}
-{42500}{}{Стальная тарелка}
-{42501}{}{Очевидно, из этого можно есть суп. Или кашу.}
-{42600}{}{Ржавая тарелка}
-{42601}{}{Глядя на несколько слоев ржавчины, сложно представить, что из ЭТОГО можно есть.}
-{42700}{}{Железные пластинки}
-{42701}{}{Несколько железных пластинок, практически нетронутых ржавчиной.}
-{42800}{}{Мыло 72%}
-{42801}{}{Не ешьте это!!!}
-{42900}{}{Старая ложковилка}
-{42901}{}{Самое гениальное изобретение человечества - ЛОЖКОВИЛКА!}
-{43000}{}{Железная ложка}
-{43001}{}{Ложка. Ей можно есть, а можно выкопать маленькую могилку для крысы.}
-{43100}{}{Стальная стопка}
-{43101}{}{Предмет с одним единственным назначением - пить. Но, у вас ведь есть ладони?}
-{43200}{}{Печать}
-{43201}{}{Старая печать с символикой "NCASTR". Если шлепнуть ее себе по лбу - останется красивый след.}
-{43300}{}{Кусок тряпки}
-{43301}{}{Это просто кусок синей тряпки. Вы не видели тряпок других цветов.}
-{43400}{}{Конфета}
-{43401}{}{Вкусная, редкая штуковина. Если ее съесть, то может показаться, что все не так уж и плохо.}
-{43500}{}{Краска}
-{43501}{}{Старая банка масляной краски. Можно красить забор.}
-{43600}{}{Шкура лаваша}
-{43601}{}{Выделанная шкура лаваша, можно использовать для изготовления кожаных предметов.}
-{43700}{}{*Рулон жести*}
-{43701}{}{Рулон пятимиллиметровой жести, диву даешься, как его можно было поднять, вообще.}
-{43800}{}{Консервная банка}
-{43801}{}{Старая ржавая банка из под консервов.}
-{43900}{}{Сухие листья}
-{43901}{}{Пару горстей сухих листьев. Отличное удобрение!}
-{44000}{}{Зола}
-{44001}{}{Горсть древесной золы.}
-{44100}{}{*Засохший сыр*}
-{44101}{}{Кусок сыра пармезан, правда, уже высох до состояния деревяшки.}
-{44200}{}{Лавашатина}
-{44201}{}{Сырое мясо лаваша, в отличном состоянии.}
-{44300}{}{Сахар}
-{44301}{}{Пачка сахара, правда от старости и сырости он превратился в кусок, по прочности напоминающий кирпич, но все такой же сладкий, как и раньше.}
-{44400}{}{Секс-таблетка}
+{40800}{}{Field Medic Kit}
+{40801}{}{Bandages, peroxide, painkillers, a tourniquet and this is not all that can be found in this first aid kit.}
+{40900}{}{Paramedic Kit}
+{40901}{}{Resuscitation kit of a paramedic, everything you need to provide quick and serious help.}
+{41000}{}{Glas Marbles}
+{41001}{}{Cute and smooth glass marbles, it's nice to roll them in your hands}
+{41100}{}{Rusty Bolt}
+{41101}{}{An old rusty bolt. It's so rusty that you don't even want to pick it up.}
+{41200}{}{Tattered book}
+{41201}{}{You can still make out individual phrases, but it is no longer really possible to understand what is written there.}
+{41300}{}{Old Comic Book}
+{41301}{}{It is quite interesting to look at the faded pictures, although there is no benefit from this.}
+{41400}{}{Glass Bottle}
+{41401}{}{An empty glass bottle. What would you like to fill it with?}
+{41500}{}{Wooden Comb}
+{41501}{}{A utensil for grooming if you got any hair stil left on your head.}
+{41600}{}{Children's Drawing}
+{41601}{}{A crude child's drawing. Questionable art.}
+{41700}{}{Children's Drawing}
+{41701}{}{What is drawn here? The apocalypse?}
+{41800}{}{Children's Drawing}
+{41801}{}{Well, if you can call this multicolored smudge a drawing.}
+{41900}{}{Metal Fork}
+{41901}{}{The fork is in good condition. You can eat with it, or poke yourself in the eye.}
+{42000}{}{Rusty Fork}
+{42001}{}{A rusty fork, does anyone really eat with this?}
+{42100}{}{Nails}
+{42101}{}{Some rather long nails.}
+{42200}{}{Matches}
+{42201}{}{Matches are not a toy for children! Hey, they still lit!}
+{42300}{}{Yarn Spool}
+{42301}{}{If your calling is the sewing-machine, then this spool of robust thread will undoubtly make your very happy.}
+{42400}{}{Crayons}
+{42401}{}{Quite a rare, but useless item. You could leave some rock paintings somewhere.}
+{42500}{}{Metal Plate}
+{42501}{}{Obviously, you can eat soup from this. Or porridge.}
+{42600}{}{Rusty plate}
+{42601}{}{Looking at several layers of rust, it's hard to imagine what you CAN eat from it.}
+{42700}{}{Iron Plates}
+{42701}{}{A few iron plates, almost untouched by rust.}
+{42800}{}{72% Soap}
+{42801}{}{Don't eat it!!!}
+{42900}{}{Old Spork}
+{42901}{}{The most ingenious invention of mankind, the spork. Half spoon, halt fork, and his own best friend!}
+{43000}{}{Metal Spoon}
+{43001}{}{You can eat with it, or dig a grave for a rat.}
+{43100}{}{Metal Cup}
+{43101}{}{A container to drink liquids out of, if you don't want to use your hands.}
+{43200}{}{Stamp}
+{43201}{}{An old seal with the letters "NCASTR" on it. If you slap it on your forehead, it will leave a nice marking.}
+{43300}{}{Torn Rag}
+{43301}{}{It's just a piece of blue rag. You have not seen rags of other colors.}
+{43400}{}{Candy}
+{43401}{}{A delicious and quite rare treat. If you eat it, it may seem that everything is not so bad.}
+{43500}{}{Paint}
+{43501}{}{An old can of oil paint. You could paint a wall.}
+{43600}{}{Lavash Skin}
+{43601}{}{The tanned skin of lavash can be used to make leather items.}
+{43700}{}{*Metal Reel*}
+{43701}{}{A reel of five millimeters thick metal sheets. You wonder how one could lift that up.}
+{43800}{}{Tin can}
+{43801}{}{An old rusty tin can.}
+{43900}{}{Dried Leaves}
+{43901}{}{A couple of handfuls of dried leaves. Excellent fertilizer!}
+{44000}{}{Ash}
+{44001}{}{A handful of wood ash.}
+{44100}{}{*Dried Cheese*}
+{44101}{}{A piece of very old parmesan cheese, however it has already dried to the state of wood.}
+{44200}{}{Lavash Meat}
+{44201}{}{A lump of raw and fresh lavash meat, rich in protein and juicy.}
+{44300}{}{Sugar}
+{44301}{}{A packet of sugar. Although old age and dampness has it made hard as a rock, it is still as sweet as before.}
+{44400}{}{Sex Pill}
 {44401}{}{}
-{44500}{}{Потрепанный диск}
-{44501}{}{Похоже на чей-то любительский рассказ.}
-{44600}{}{Научный отчет}
-{44601}{}{На диске стикер: Проект "Гамма".}
-{44700}{}{Фигурка динозаврика}
-{44701}{}{Наверное хозяин любил эту игрушку.}
-{44800}{}{Книга с пометками}
-{44801}{}{На книге написано "Библия". Она вся в пометках, многие слова зачеркнуты или исправлены.}
-{44900}{}{Предмет}
+{44500}{}{Seedy Disk}
+{44501}{}{Sounds like someone's amateur story.}
+{44600}{}{Scientific Report}
+{44601}{}{A label on the side reads "Project Gamma"}
+{44700}{}{Dinosaur Figurine}
+{44701}{}{The the owner probably loved this toy.}
+{44800}{}{Annotated Book}
+{44801}{}{The cover says The Holy Bible. In it a lot of passages are marked, annotated and many words have been crossed out or corrected.}
+{44900}{}{Item}
 {44901}{}{}
-{45000}{}{Предмет}
+{45000}{}{Item}
 {45001}{}{}
-{45100}{}{Предмет}
+{45100}{}{Item}
 {45101}{}{}
-{45200}{}{Предмет}
+{45200}{}{Item}
 {45201}{}{}
-{45300}{}{Предмет}
+{45300}{}{Item}
 {45301}{}{}
-{45400}{}{Предмет}
+{45400}{}{Item}
 {45401}{}{}
-{45500}{}{Предмет}
+{45500}{}{Item}
 {45501}{}{}
-{45600}{}{Предмет}
+{45600}{}{Item}
 {45601}{}{}
-{45700}{}{Предмет}
+{45700}{}{Item}
 {45701}{}{}
-{45800}{}{Предмет}
+{45800}{}{Item}
 {45801}{}{}
-{45900}{}{Предмет}
+{45900}{}{Item}
 {45901}{}{}
-{46000}{}{Предмет}
+{46000}{}{Item}
 {46001}{}{}
-{46100}{}{Предмет}
+{46100}{}{Item}
 {46101}{}{}
-{46200}{}{Предмет}
+{46200}{}{Item}
 {46201}{}{}
-{46300}{}{Предмет}
+{46300}{}{Item}
 {46301}{}{}
-{46400}{}{Предмет}
+{46400}{}{Item}
 {46401}{}{}
-{46500}{}{Предмет}
+{46500}{}{Item}
 {46501}{}{}
-{46600}{}{Предмет}
+{46600}{}{Item}
 {46601}{}{}
-{46700}{}{Предмет}
+{46700}{}{Item}
 {46701}{}{}
-{46800}{}{Предмет}
+{46800}{}{Item}
 {46801}{}{}
-{46900}{}{Предмет}
+{46900}{}{Item}
 {46901}{}{}
-{47000}{}{Предмет}
+{47000}{}{Item}
 {47001}{}{}
-{47100}{}{Предмет}
+{47100}{}{Item}
 {47101}{}{}
-{47200}{}{Предмет}
+{47200}{}{Item}
 {47201}{}{}
-{47300}{}{Предмет}
+{47300}{}{Item}
 {47301}{}{}
-{47400}{}{Предмет}
+{47400}{}{Item}
 {47401}{}{}
-{47500}{}{Предмет}
+{47500}{}{Item}
 {47501}{}{}
-{47600}{}{Предмет}
+{47600}{}{Item}
 {47601}{}{}
-{47700}{}{Предмет}
+{47700}{}{Item}
 {47701}{}{}
-{47800}{}{Предмет}
+{47800}{}{Item}
 {47801}{}{}
-{47900}{}{Предмет}
+{47900}{}{Item}
 {47901}{}{}
-{48000}{}{Предмет}
+{48000}{}{Item}
 {48001}{}{}
-{48100}{}{Предмет}
+{48100}{}{Item}
 {48101}{}{}
-{48200}{}{Предмет}
+{48200}{}{Item}
 {48201}{}{}
-{48300}{}{Книга подсказок игры}
-{48301}{}{Эту книженцию бы получить в самом начале игры. Эх она бы пригодилась! =)}
-{48400}{}{Самогонный поддон}
-{48401}{}{С любовью выточенный из пластика и склеенный Смитти поддон для его Самогонной Макино Магнифико.}
-{48500}{}{Решетка}
-{48501}{}{Старая ржавая решетка. После прикосновения на пальцах остаются рыжие пятна.}
-{48600}{}{Самогонный фильтр}
-{48601}{}{Простенький фильтр для самогонного аппарата. Вроде как должен экономить расход редких конфет.}
-{48700}{}{Рукоятка "Шакала"}
-{48701}{}{Рукоять револьвера Шакала, найдите остальные части и соберите себе отличный пистолет.}
-{48800}{}{Ствол "Шакала"}
-{48801}{}{Ствол револьвера Шакала, найдите остальные части и соберите себе отличный пистолет.}
-{48900}{}{Барабан "Шакала"}
-{48901}{}{Барабан револьвера Шакала, найдите остальные части и соберите себе отличный пистолет.}
-{49000}{}{Модуль плазменный}
+{48300}{}{Hintbook}
+{48301}{}{Well, THIS would have been good to have at the beginning of the goddamn game.}
+{48400}{}{Moonshine Tray}
+{48401}{}{Made from plastic and lovingly glued together by Smitty, the tray is for his Magic Moonshine Machine.}
+{48500}{}{Rusty Grate}
+{48501}{}{An old rusty grate. After touching it, red spots remain on the fingers.}
+{48600}{}{Moonshine Filter}
+{48601}{}{A simple filter for the moonshine distiller. It looks like it should save the consumption of rare candies.}
+{48700}{}{Jackal Grip}
+{48701}{}{The grip of the Jackal Revolver, find the rest of the parts and build yourself a great gun.}
+{48800}{}{Jackal Barrel}
+{48801}{}{The barrel of the Jackal Revolver, find the rest of the parts and build yourself a great gun.}
+{48900}{}{Jackal Drum}
+{48901}{}{The drum of the Jackal Revolver, find the rest of the parts and build yourself a great gun.}
+{49000}{}{Plasma Module}
 {49001}{}{}
-{49100}{}{Модуль пулеметный}
+{49100}{}{Machinegun Module}
 {49101}{}{}
-{49200}{}{Предмет}
+{49200}{}{Item}
 {49201}{}{}
-{49300}{}{Предмет}
+{49300}{}{Item}
 {49301}{}{}
-{49400}{}{Предмет}
+{49400}{}{Item}
 {49401}{}{}
-{49500}{}{Предмет}
+{49500}{}{Item}
 {49501}{}{}
-{49600}{}{Предмет}
+{49600}{}{Item}
 {49601}{}{}
-{49700}{}{Предмет}
+{49700}{}{Item}
 {49701}{}{}
-{49800}{}{Предмет}
+{49800}{}{Item}
 {49801}{}{}
-{49900}{}{Предмет}
+{49900}{}{Item}
 {49901}{}{}
-{50000}{}{Предмет}
+{50000}{}{Item}
 {50001}{}{}
-{50100}{}{Предмет}
+{50100}{}{Item}
 {50101}{}{}
-{50200}{}{Предмет}
+{50200}{}{Item}
 {50201}{}{}
-{50300}{}{Предмет}
+{50300}{}{Item}
 {50301}{}{}
-{50400}{}{Предмет}
+{50400}{}{Item}
 {50401}{}{}
-{50500}{}{Предмет}
+{50500}{}{Item}
 {50501}{}{}
-{50600}{}{Предмет}
+{50600}{}{Item}
 {50601}{}{}
-{50700}{}{Предмет}
+{50700}{}{Item}
 {50701}{}{}
-{50800}{}{Предмет}
+{50800}{}{Item}
 {50801}{}{}
-{50900}{}{Предмет}
+{50900}{}{Item}
 {50901}{}{}
-{51000}{}{Предмет}
+{51000}{}{Item}
 {51001}{}{}
-{51100}{}{Предмет}
+{51100}{}{Item}
 {51101}{}{}
-{51200}{}{Предмет}
+{51200}{}{Item}
 {51201}{}{}
-{51300}{}{Оружие Богов}
-{51301}{}{Это уникальное оружие, его владельцем был один из "Богов" Олимпа!}
-{51400}{}{Рог химеры}
-{51401}{}{Трофей с трупа химеры. Ее рог. Можно использовать его в качестве оружия.}
-{51500}{}{Коготь химеры}
-{51501}{}{Трофейный коготь химеры. Опасная штука в бою.}
-{51600}{}{Клык шакала}
-{51601}{}{Из таких клыков вы можете сделать себе ожерелье. Или подобие ножа!}
-{51700}{}{Острый клык шакала}
-{51701}{}{Этот шакал явно не горел желанием поделиться этим зубом с вами. Цените его, как ценил его бывший владелец.}
-{51800}{}{Клык кротокрыса}
-{51801}{}{Острый клык жуткого кротокрыса.}
-{51900}{}{Клык урса}
-{51901}{}{Урсы не очень любят расставаться со своими зубами, так что тот, кто его добыл, храбрый человек или не человек.}
-{52000}{}{Коготь урса}
-{52001}{}{Коготь урса не редкость, но все же чего-то стоит. Острый и опасный! Можно вспороть пару глоток.}
-{52100}{}{Крысиный клык}
-{52101}{}{Крысы не редкость в здешних краях, так что при желании вы таких клыков можете насобирать несколько дюжин.}
-{52200}{}{Жало скорпиона}
-{52201}{}{Из жала скорпиона можно получить образец его яда, что очень полезно при изготовлении противоядия. Или использовать в качестве оружия.}
-{52300}{}{Клык бестии}
-{52301}{}{Владелец такого трофея может гордиться собой, да и продажа очень выгодна, да и как холодное оружие весьма сгодится.}
-{52400}{}{Коготь бестии}
-{52401}{}{Коготь бестии - прекрасное холодное боевое оружие.}
-{52500}{}{Полки}
-{52501}{}{Деревянные полки с каким-то барахлом.}
-{52600}{}{Полки}
-{52601}{}{Деревянные полки, очень удобны для хранения вещей.}
-{52700}{}{Полки}
-{52701}{}{Деревянные полки, очень удобны для хранения вещей.}
-{52800}{}{Стол}
-{52801}{}{Деревянный письменный стол с ящиками.}
-{52900}{}{Стол}
-{52901}{}{Деревянный письменный стол с ящиками.}
-{53000}{}{Коробки}
-{53001}{}{Вы невольно задумываетесь о происхождении на коробках этих странных бурых пятен.}
-{53100}{}{Коробки}
-{53101}{}{Вы невольно задумываетесь о происхождении на коробках этих странных бурых пятен.}
-{53200}{}{Вещи}
-{53201}{}{Вам когда-нибудь говорили, что копаться в чужих вещах нехорошо?}
-{53300}{}{Вещи}
-{53301}{}{Вам когда-нибудь говорили, что копаться в чужих вещах нехорошо?}
-{53400}{}{Хлам}
-{53401}{}{Иногда в хламе бывает что-нибудь полезное.}
-{53500}{}{Хлам}
-{53501}{}{Иногда в хламе бывает что-нибудь полезное.}
-{53600}{}{Вещи}
-{53601}{}{За активное копание в чужих вещах можно схлопотать по жизненно важным органам. Поэтому лучше делать это незаметно.}
-{53700}{}{Вещи}
-{53701}{}{Какие-то вещи, стоит к ним присмотреться.}
-{53800}{}{Компьютерный стол}
-{53801}{}{Вам любопытно зачем им тут два монитора.}
-{53900}{}{Сейф}
-{53901}{}{Сейфы придумали, чтобы что-то в них прятать, причем от типов вроде вас.}
-{54000}{}{Шкафчик}
-{54001}{}{Металлический шкафчик для хранения вещей.}
-{54100}{}{Шкафчик}
-{54101}{}{Металлический шкафчик для хранения вещей.}
-{54200}{}{Шкафчик}
-{54201}{}{Металлический шкафчик для хранения вещей.}
-{54300}{}{Шкафчик}
-{54301}{}{Металлический шкафчик для хранения вещей.}
-{54400}{}{Шкафчик}
-{54401}{}{Металлический шкафчик, довольно ржавый.}
-{54500}{}{Шкафчик}
-{54501}{}{Металлический шкафчик, довольно ржавый.}
-{54600}{}{Шкафчик}
-{54601}{}{Ржавый металлический шкафчик, который к тому же изрядно помяли.}
-{54700}{}{Шкафчик без дверки}
-{54701}{}{Отсутствие дверок обычно не мешает использовать шкафчики для хранения всякой всячины.}
-{54800}{}{Шкафчик без дверки}
-{54801}{}{Отсутствие дверок обычно не мешает использовать шкафчики для хранения всякой всячины.}
-{54900}{}{Самодельный ящик}
-{54901}{}{Сколотившего этот ящик, очевидно, мало заботили его эстетические свойства.}
-{55000}{}{Самодельный ящик}
-{55001}{}{Сколотившего этот ящик, очевидно, мало заботили его эстетические свойства.}
-{55100}{}{Ящик на ножках}
-{55101}{}{Добротный самодельный ящик. Его можно использовать в качестве скамьи, но с риском получить занозу в задницу.}
-{55200}{}{Ящик на ножках}
-{55201}{}{Добротный самодельный ящик. Его можно использовать в качестве скамьи, но с риском получить занозу в задницу.}
-{55300}{}{Часть машины}
-{55301}{}{Там вполне может быть что-то интересное.}
-{55400}{}{Хлам}
-{55401}{}{Наличие в этом хламе коробки с неизвестным содержимым пробуждает ваше любопытство.}
-{55500}{}{Хлам}
-{55501}{}{Наличие в этом хламе коробки с неизвестным содержимым пробуждает ваше любопытство.}
-{55600}{}{Коробка}
-{55601}{}{Обычно люди используют коробки, чтобы класть в них вещи.}
-{55700}{}{Сейф}
-{55701}{}{Сейфы придумали, чтобы что-то в них прятать, причем от типов вроде вас.}
-{55800}{}{Сейф}
-{55801}{}{Сейфы придумали, чтобы что-то в них прятать, причем от типов вроде вас.}
-{55900}{}{Шкаф}
-{55901}{}{Старый грязный шкаф.}
-{56000}{}{Коробка}
-{56001}{}{Обычно люди используют коробки, чтобы класть в них вещи.}
-{56100}{}{Коробка}
-{56101}{}{Обычно люди используют коробки, чтобы класть в них вещи.}
-{56200}{}{Полки}
-{56201}{}{Судя по свежим пятнам крови, какому-то бедняге недавно здесь очень не повезло.}
-{56300}{}{Контейнер}
-{56301}{}{Судя по свежим пятнам крови, какому-то бедняге недавно здесь очень не повезло.}
-{56400}{}{Шкафчик}
-{56401}{}{Его содержимое нужно непременно изучить.}
-{56500}{}{Коробка}
-{56501}{}{Большая приоткрытая коробка, что-то там виднеется.}
-{56600}{}{Шкаф}
-{56601}{}{В таких обычно что-то хранят, собственно для этого их и придумали.}
-{56700}{}{Полки}
-{56701}{}{Изобилие вещей на полках побуждает вас их исследовать.}
-{56800}{}{Саркофаг}
-{56801}{}{Эти лазерные лучи, наверное, запросто отрежут вам руку, но вы не горите желанием это проверять.}
-{56900}{}{Сейф}
-{56901}{}{Помогает хозяину прятать свои вещи от не в меру любопытных. Да-да, вы к таким тоже относитесь.}
-{57000}{}{Коробка}
-{57001}{}{Приоткрытая коробка так и напрашивается на изучение ее содержимого.}
-{57100}{}{Полки}
-{57101}{}{Настенные полки обычно служат для хранения вещей.}
-{57200}{}{Полки}
-{57201}{}{Настенные полки обычно служат для хранения вещей.}
-{57300}{}{Шкафчик}
-{57301}{}{В таком очень удобно хранить личные вещи и не только.}
-{57400}{}{Шкафчик}
-{57401}{}{Металлический шкафчик с дверкой.}
-{57500}{}{Ящик}
-{57501}{}{Металлический ящик, отлично защищает вещи от неблагоприятных внешних воздействий.}
-{57600}{}{Ящик}
-{57601}{}{Металлический ящик, отлично защищает вещи от неблагоприятных внешних воздействий.}
-{57700}{}{Шкаф}
-{57701}{}{Если вас спросят, зачем вы полезли в чужой шкаф, отвечайте, что искали в нем переход в сказочный мир.}
-{57800}{}{Шкаф}
-{57801}{}{Если вас спросят, зачем вы полезли в чужой шкаф, отвечайте, что искали в нем переход в сказочный мир.}
-{57900}{}{Полки}
-{57901}{}{Изобилие вещей на полках побуждает вас их исследовать.}
-{58000}{}{Полки}
-{58001}{}{Изобилие вещей на полках побуждает вас их исследовать.}
-{58100}{}{Полки}
-{58101}{}{Изобилие вещей на полках побуждает вас их исследовать.}
-{58200}{}{Шкафчик}
-{58201}{}{Металлический шкафчик с дверкой.}
-{58300}{}{Контейнер}
+{51300}{}{Godly Weapon}
+{51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
+{51400}{}{Chimera Horn}
+{51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
+{51500}{}{Chimera Claw}
+{51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
+{51600}{}{Jackal Tooth}
+{51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
+{51700}{}{Jackal Fang}
+{51701}{}{This jackal was clearly not eager to share this tooth with you. Appreciate it as its former owner did.}
+{51800}{}{Molerat Fang}
+{51801}{}{The sharp fang of a creepy mole rat.}
+{51900}{}{Ursa Fang}
+{51901}{}{Ursa don't like to part with their teeth very much, so whoever got it is a brave man or not a man at all.}
+{52000}{}{Ursa Claw}
+{52001}{}{Ursa claws are not uncommon, but they are still worth something. Sharp and dangerous! You can rip open a couple of throats.}
+{52100}{}{Rat Fang}
+{52101}{}{Rats are not uncommon in these parts, so you can collect a few dozen of these fangs if you want.}
+{52200}{}{Scorpion Stinger}
+{52201}{}{From the stinger of a scorpion, you can get a sample of its venom, which is very useful in making an antidote. Or use it as a weapon.}
+{52300}{}{Beast Fang}
+{52301}{}{The owner of such a trophy can be proud of himself. The sale is very profitable, and it's also very useful as a melee weapon.}
+{52400}{}{Beast Claw}
+{52401}{}{The Beast's Claw is an excellent melee weapon.}
+{52500}{}{Shelves}
+{52501}{}{Wooden shelves with some junk on them.}
+{52600}{}{Shelves}
+{52601}{}{Wooden shelves, very convenient for storing things.}
+{52700}{}{Shelves}
+{52701}{}{Wooden shelves, very convenient for storing things.}
+{52800}{}{Desk}
+{52801}{}{A wooden desk with drawers.}
+{52900}{}{Desk}
+{52901}{}{A wooden desk with drawers.}
+{53000}{}{Boxes}
+{53001}{}{You can't help but wonder about the origin of these strange brown spots on the boxes.}
+{53100}{}{Boxes}
+{53101}{}{You can't help but wonder about the origin of these strange brown spots on the boxes.}
+{53200}{}{Stuff}
+{53201}{}{Have you ever been told that it's not good to go through other people's belongings?}
+{53300}{}{Stuff}
+{53301}{}{Have you ever been told that it's not good to go through other people's belongings?}
+{53400}{}{Junk}
+{53401}{}{Sometimes there's something useful in the junk.}
+{53500}{}{Junk}
+{53501}{}{Sometimes there's something useful in the junk.}
+{53600}{}{Stuff}
+{53601}{}{Rummagin through other people's stuff can get you a hard piece of steel through your ribs very quickly. Better be discreet about it.}
+{53700}{}{Junk}
+{53701}{}{Some random stuff, nothing worth looking at.}
+{53800}{}{Computer Desk}
+{53801}{}{You're curious why they have two monitors here.}
+{53900}{}{Safe}
+{53901}{}{Safes were designed to hide something in them, and from people like you.}
+{54000}{}{Locker}
+{54001}{}{A metal storage cabinet.}
+{54100}{}{Locker}
+{54101}{}{A metal storage cabinet.}
+{54200}{}{Locker}
+{54201}{}{A metal storage cabinet.}
+{54300}{}{Locker}
+{54301}{}{A metal storage cabinet.}
+{54400}{}{Locker}
+{54401}{}{A metal cabinet, rather rusty.}
+{54500}{}{Locker}
+{54501}{}{A metal cabinet, rather rusty.}
+{54600}{}{Locker}
+{54601}{}{A rusty metal cabinet, which is also pretty dented.}
+{54700}{}{Cabinet}
+{54701}{}{The lack of doors usually does not prevent the use of drawers for storing all sorts of things.}
+{54800}{}{Cabinet}
+{54801}{}{The lack of doors usually does not prevent the use of drawers for storing all sorts of things.}
+{54900}{}{Makeshift Crate}
+{54901}{}{The person who built the box obviously cared little for its aesthetic properties.}
+{55000}{}{Makeshift Crate}
+{55001}{}{The person who built the box obviously cared little for its aesthetic properties.}
+{55100}{}{Sitting Crate}
+{55101}{}{A solid homemade box. It can be used as a bench, but at the risk of getting a splinter in the ass.}
+{55200}{}{Sitting Crate}
+{55201}{}{A solid homemade box. It can be used as a bench, but at the risk of getting a splinter in the ass.}
+{55300}{}{Machine Parts}
+{55301}{}{There may well be something interesting there.}
+{55400}{}{Stuff}
+{55401}{}{The presence of a box with unknown contents in this junk arouses your curiosity.}
+{55500}{}{Stuff}
+{55501}{}{The presence of a box with unknown contents in this junk arouses your curiosity.}
+{55600}{}{Box}
+{55601}{}{Usually people use boxes to put things in them.}
+{55700}{}{Safe}
+{55701}{}{Safes were designed to hide something in them, and from people like you.}
+{55800}{}{Safe}
+{55801}{}{Safes were designed to hide something in them, and from people like you.}
+{55900}{}{Cupboard}
+{55901}{}{A dirty old cupboard.}
+{56000}{}{Box}
+{56001}{}{Usually people use boxes to put things in them.}
+{56100}{}{Box}
+{56101}{}{Usually people use boxes to put things in them.}
+{56200}{}{Shelves}
+{56201}{}{Judging by the fresh bloodstains, some poor guy has been very unlucky here recently.}
+{56300}{}{Container}
+{56301}{}{Judging by the fresh bloodstains, some poor guy has been very unlucky here recently.}
+{56400}{}{Locker}
+{56401}{}{Its contents should definitely be examined.}
+{56500}{}{Box}
+{56501}{}{A large, slightly open box, something is visible inside.}
+{56600}{}{Cupboard}
+{56601}{}{People usually store something in them, and that's what they were invented for.}
+{56700}{}{Shelves}
+{56701}{}{The abundance of things on the shelves encourages you to explore them.}
+{56800}{}{Casket}
+{56801}{}{These laser beams can easily cut off your arm, but you are not eager to test it.}
+{56900}{}{Safe}
+{56901}{}{Helps it's owner to hide his belongins from the overtly curious curious. Yes, we mean you!}
+{57000}{}{Box}
+{57001}{}{A half-open box begs for a look at its contents.}
+{57100}{}{Shelves}
+{57101}{}{Wall-mounted shelves are usually used to store things.}
+{57200}{}{Shelves}
+{57201}{}{Wall-mounted shelves are usually used to store things.}
+{57300}{}{Personal Locker}
+{57301}{}{This is very convenient to store personal items and more here.}
+{57400}{}{Locker}
+{57401}{}{A metal cabinet with a door.}
+{57500}{}{Box}
+{57501}{}{A metal box, which perfectly protects things from adverse external influences.}
+{57600}{}{Box}
+{57601}{}{A metal box, which perfectly protects things from adverse external influences.}
+{57700}{}{Wardrobe}
+{57701}{}{If you are asked why you went into someone else's closet, answer that you were looking for a transition to a fairy-tale world in it.}
+{57800}{}{Wardrobe}
+{57801}{}{If you are asked why you went into someone else's closet, answer that you were looking for a transition to a fairy-tale world in it.}
+{57900}{}{Shelves}
+{57901}{}{The abundance of things on the shelves encourages you to explore them.}
+{58000}{}{Shelves}
+{58001}{}{The abundance of things on the shelves encourages you to explore them.}
+{58100}{}{Shelves}
+{58101}{}{The abundance of things on the shelves encourages you to explore them.}
+{58200}{}{Locker}
+{58201}{}{A metal cabinet with a door.}
+{58300}{}{Container}
 {58301}{}{}
-{58400}{}{Контейнер}
+{58400}{}{Container}
 {58401}{}{}
-{58500}{}{Контейнер}
+{58500}{}{Container}
 {58501}{}{}
-{58600}{}{Контейнер}
+{58600}{}{Container}
 {58601}{}{}
-{58700}{}{Контейнер}
+{58700}{}{Container}
 {58701}{}{}
-{58800}{}{Контейнер}
+{58800}{}{Container}
 {58801}{}{}
-{58900}{}{Контейнер}
+{58900}{}{Container}
 {58901}{}{}
-{59000}{}{Контейнер}
+{59000}{}{Container}
 {59001}{}{}
-{59100}{}{Контейнер}
+{59100}{}{Container}
 {59101}{}{}
-{59200}{}{Контейнер}
+{59200}{}{Container}
 {59201}{}{}
-{59300}{}{Контейнер}
+{59300}{}{Container}
 {59301}{}{}
-{59400}{}{Контейнер}
+{59400}{}{Container}
 {59401}{}{}
-{59500}{}{Крысиная нора}
-{59501}{}{Большая и глубокая, наверняка в ней кто-то живет.}
-{59600}{}{Могила}
-{59601}{}{Чья-то могила.}
-{59700}{}{Могила}
-{59701}{}{Там наверняка кто-то лежит.}
-{59800}{}{Могила}
-{59801}{}{Не исключено, что там есть чем поживиться.}
-{59900}{}{Могила}
-{59901}{}{Вы ведь не думаете о репутации "Гробокопателя"?}
-{60000}{}{Могила}
-{60001}{}{Даже не вздумайте ее раскапывать.}
-{60100}{}{Могила}
-{60101}{}{Где же лопата?..}
+{59500}{}{Rat Hole}
+{59501}{}{It's large, deep, and there must be someone living in it.}
+{59600}{}{Grave}
+{59601}{}{Someone's grave.}
+{59700}{}{Grave}
+{59701}{}{There must be someone lying there.}
+{59800}{}{Grave}
+{59801}{}{It is possible that there is something to gain there.}
+{59900}{}{Grave}
+{59901}{}{You don't care about the Gravedigger's reputation, do you?}
+{60000}{}{Grave}
+{60001}{}{Don't even try to dig it up.}
+{60100}{}{Grave}
+{60101}{}{Where is the shovel...}

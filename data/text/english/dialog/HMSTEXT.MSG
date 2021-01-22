@@ -1,116 +1,116 @@
-# Данный файл описывает сообщения,
-# использующиеся для окна HMS
+# This file describes the messages,
+# used for the HMS window
 #
 # Created by Artem "Rainman" Samoylov
 # 29/09/2011
 #
-# Сообщения Панели
+# Panel Messages
 #
-{10}{}{Добро пожаловать в Портативную Систему Конструирования "Hand Made Stuff"!}
-{11}{}{Что бы Вам хотелось сконструировать сегодня?}
-{12}{}{Система напоминает Вам, что для успешного конструирования Вы должны обладать всеми, повторяем, ВСЕМИ предметами, указанными в окошке слева от Вас. Кроме того, Ваши навыки должны соответствовать требуемому минимуму для данной конструкции! Ваши текущие навыки показаны в окошке справа от Вас. Для информации о необходимых навыках ("ТРЕБ. ПОКАЗАТЕЛИ") Вы должны владеть навыком ремонта не ниже 100%. Так же, возможны дополнительные требования, которые будут указаны все в том же окошке справа от Вас.}
-{13}{}{Простите, но Вам чего-то не хватает. Может, ума?}
-{14}{}{Простите, но Вам чего-то не хватает. У Вас, правда, обе руки на месте?}
-{15}{}{Простите, но Вам чего-то не хватает. И не нужно проявлять настойчивость!}
-{16}{}{Простите, но Вам чего-то не хватает. Напоминаем, что Система не виновата в Ваших проблемах!}
-{17}{}{Браво! Браво! У Вас получилось! Надеемся, полученная конструкция будет Вам полезна!}
-{18}{}{Невероятно! Вы смогли это! Не сомневаемся, что конечный продукт стоит затраченного на него сырья!}
-{19}{}{Приятно иметь дело с умелым мастером! Наслаждайтесь результатом Ваших трудов!}
+{10}{}{Welcome to the Portable Crafting System "Hand Made Stuff" !}
+{11}{}{         What would you like to build today?}
+{12}{}{As a reminder, in order to build successfully, you must have all of the items listed in the box to your left. In addition, your skills must meet the required minimum for a given design! Your current skills are shown in the box to your right under CURRENT required skills are listed under REQUIRED. You must have a repair skill of at least 100% to craft most things. In addition, extra requirements are possible and are listed under INFORMATION.}
+{13}{}{Sorry, but you are missing something. Maybe Intelligence?}
+{14}{}{Sorry, but you are missing something. Do you really have both hands in place?}
+{15}{}{Sorry, but you are missing something. You don't have to be persistent!}
+{16}{}{Sorry, but you are missing something. We remind you that the System is not to blame for your problems!}
+{17}{}{You did it! We hope that the resulting design will be useful to you!}
+{18}{}{Unbelievable! You could do it! We have no doubt that the final product is worth the raw materials spent on it!}
+{19}{}{It's a pleasure to deal with a skilled craftsman! Enjoy the result of your labors!}
 #
-{50}{}{..ТЕКУЩИЕ ПОКАЗАТЕЛИ..}
-{51}{}{..ТРЕБ. ПОКАЗАТЕЛИ..}
-{52}{}{..ДОПОЛНИТЕЛЬНО..}
+{50}{}{..CURRENT..}
+{51}{}{..REQUIRED..}
+{52}{}{..INFORMATION..}
 #
-{60}{}{ > СИЛА = }
-{61}{}{ > ИНТЕЛЛЕКТ = }
-{62}{}{ > ЛОВКОСТЬ = }
-{63}{}{ > РЕМОНТ = }
-{64}{}{ > НАУКА = }
-{65}{}{ > ВЗЛОМ = }
+{60}{}{ > STRENGTH = }
+{61}{}{ > INTELLIGENCE = }
+{62}{}{ > AGILITY = }
+{63}{}{ > REPAIR = }
+{64}{}{ > SCIENCE = }
+{65}{}{ > LOCKPICK = }
 #
-{70}{}{ > СИЛА >= }
-{71}{}{ > ИНТЕЛЛЕКТ >= }
-{72}{}{ > ЛОВКОСТЬ >= }
-{73}{}{ > РЕМОНТ >= }
-{74}{}{ > НАУКА >= }
-{75}{}{ > ВЗЛОМ >= }
+{70}{}{ > STRENGTH >= }
+{71}{}{ > INTELLIGENCE >= }
+{72}{}{ > AGILITY >= }
+{73}{}{ > REPAIR >= }
+{74}{}{ > SCIENCE >= }
+{75}{}{ > LOCKPICK >= }
 #
-{100}{}{   <<ВЫЙТИ>>}
-{101}{}{ > Перейти на экран приветствия.}
-{102}{}{   <<ДАЛЕЕ>>}
-{103}{}{                            ЕЩЕ ->>}
-{104}{}{                       <<- НАЗАД}
+{100}{}{   <<EXIT>>}
+{101}{}{ > Back to welcome screen.}
+{102}{}{   <<CONTINUE>>}
+{103}{}{                            MORE ->>}
+{104}{}{                       <<- BACK}
 {105}{}{???}
-{106}{}{<<ПУСТО>>}
-{107}{}{<<ПУСТО>>}
-{108}{}{<<ПУСТО>>}
-{109}{}{   <<СОБРАТЬ!>>}
-{110}{}{ > Собрать Фильтр Насоса.}
-{111}{}{ > Собрать Самогонный Фильтр.}
-{112}{}{ > Сделать Подделку Брони Искателей.}
-{113}{}{ > Собрать Электроловушку.}
-{114}{}{ > Собрать Взрывную Ловушку.}
-{115}{}{ > Выточить Зазубренный Тесак.}
-{116}{}{ > Смастерить Ржавую Кирасу.}
-{117}{}{ > Собрать Самопальный Ракетомет.}
-{118}{}{ > Собрать Самопальную Гранату.}
-{119}{}{ > Смешать Энергетик.}
-{120}{}{ > Собрать Мешок Удобрений.}
-{121}{}{ > Собрать Револьвер Шакала.}
-{122}{}{ > Изготовить Сахарную Лавашатину.}
-{123}{}{ > Собрать ПРЕДМЕТ.}
-{124}{}{ > Собрать ПРЕДМЕТ.}
-{125}{}{ > Собрать ПРЕДМЕТ.}
-{126}{}{ > Собрать ПРЕДМЕТ.}
-{127}{}{ > Собрать ПРЕДМЕТ.}
-{128}{}{ > Собрать ПРЕДМЕТ.}
-{129}{}{ > Собрать ПРЕДМЕТ.}
-{130}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Фильтр Насоса!}
-{131}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Самогонный Фильтр.}
-{132}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как сделать Подделку Брони Искателей.}
-{133}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Электроловушку.}
-{134}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Взрывную Ловушку.}
-{135}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как выточить Зазубренный Тесак.}
-{136}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как смастерить Ржавую Кирасу.}
-{137}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Самопальный Ракетомет.}
-{138}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Самопальную Гранату.}
-{139}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как смешать Энергетик.}
-{140}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Мешок Удобрений.}
-{141}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как собрать Револьвер Шакала.}
-{142}{}{HMS ОБНОВЛЕН! Теперь Вы знаете, как изготовить Сахарную Лавашатину.}
+{106}{}{<<EMPTY>>}
+{107}{}{<<EMPTY>>}
+{108}{}{<<EMPTY>>}
+{109}{}{   <<ASSEMBLE!>>}
+{110}{}{ > Craft Pump Filter.}
+{111}{}{ > Craft Distillery Filter}
+{112}{}{ > Craft Fake Military Armor}
+{113}{}{ > Craft Electric Trap}
+{114}{}{ > Craft Explosive Trap}
+{115}{}{ > Craft Serrated Cleaver}
+{116}{}{ > Craft Rusty Cuirass}
+{117}{}{ > Craft Self-made Rocket Launcher}
+{118}{}{ > Craft Self-made Grenade}
+{119}{}{ > Craft Energy Drink}
+{120}{}{ > Craft Fertilizer}
+{121}{}{ > Craft Jackal Revolver}
+{122}{}{ > Craft Lavash Jerky}
+{123}{}{ > Collect the Item}
+{124}{}{ > Collect the Item}
+{125}{}{ > Collect the Item}
+{126}{}{ > Collect the Item}
+{127}{}{ > Collect the Item}
+{128}{}{ > Collect the Item}
+{129}{}{ > Collect the Item}
+{130}{}{HMS UPDATED! You now know how to make a Pump Filter!}
+{131}{}{HMS UPDATED! You now know how to make a Moonshine Filter.}
+{132}{}{HMS UPDATED! You now know how to make a Fake Military Armor}
+{133}{}{HMS UPDATED! You now know how to make an Electric Trap.}
+{134}{}{HMS UPDATED! You now know how to make an Explosive Trap.}
+{135}{}{HMS UPDATED! You now know how to make a Serrated Cleaver.}
+{136}{}{HMS UPDATED! You now know how to make a Rusty Cuirass.}
+{137}{}{HMS UPDATED! You now know how to make a Self-made Rocket Launcher.}
+{138}{}{HMS UPDATED! You now know how to make a Self-made Grenade.}
+{139}{}{HMS UPDATED! You now know how to make Energy Drinks.}
+{140}{}{HMS UPDATED! You now know how to make Fertilizer.}
+{141}{}{HMS UPDATED! You now know how to make a Jackal Revolver.}
+{142}{}{HMS UPDATED! You now know how to make Lavash Jerky.}
 #
-#РЕМОНТНЫЕ ВЕРСТАКИ
+#REPAIR WORKBENCHES
 #
-{200}{}{Что-нибудь будем чинить?}
-{201}{}{[ВЫЙТИ]}
-{202}{}{[ДАЛЕЕ]}
-{203}{}{[НАЗАД]}
-{204}{}{пистолет}
-{205}{}{револьвер}
-{206}{}{пистолет-пулемет}
-{207}{}{дробовик}
-{208}{}{карабин}
-{209}{}{автомат}
-{210}{}{Починить }
-{211}{}{Забрать }
+{200}{}{Are we going to fix something?}
+{201}{}{[EXIT]}
+{202}{}{[MORE]}
+{203}{}{[BACK]}
+{204}{}{Pistol}
+{205}{}{Revolver}
+{206}{}{SMG}
+{207}{}{Shotgun}
+{208}{}{Rifle}
+{209}{}{Assault}
+{210}{}{Repair }
+{211}{}{Collect }
 {212}{}{.}
-{213}{}{Для проведения ремонтных работ Вам необходим }
-{214}{}{К сожалению, Ваш навык "Ремонта" недостаточен для успешной починки данного оружия. }
-{215}{}{Для гарантировано-успешного ремонта Вам потребуется уровень навыка не менее }
-{216}{}{"Пистолетный ремнабор"}
-{217}{}{"Ремнабор для дробовиков"}
-{218}{}{"Винтовочный ремнабор"}
+{213}{}{To carry out repair work, you need }
+{214}{}{Unfortunately, your Repair Skill is not sufficient to successfully repair this weapon. }
+{215}{}{For a successful repair, you will need a skill of at least }
+{216}{}{"Pistol Repair Kit"}
+{217}{}{"Shotgun Repair Kit"}
+{218}{}{"Rifle Repair Kit"}
 {219}{}{}
-{220}{}{Успешно, }
-{221}{}{Починка прошла успешно, }
-{222}{}{Вы отлично поработали, }
-{223}{}{Спустя некоторое время и некоторые усилия, }
-{224}{}{Немного терпения - и вот, }
-{225}{}{можно забрать отремонтированный}
-{226}{}{можно взять из тисков починенный }
-{227}{}{можете забирать вновь собранный}
-{228}{}{можно ослабить тиски и забрать отремонтированный }
-{229}{}{теперь можете использовать по назначению отремонтированный }
+{220}{}{Successfully, }
+{221}{}{The repair was successful, }
+{222}{}{Great Job, }
+{223}{}{After some time and some effort, }
+{224}{}{A little patience - and that's it, }
+{225}{}{you may collect the repaired }
+{226}{}{you can get the repaired out of the vise }
+{227}{}{you can pick up the newly assembled }
+{228}{}{you can loosen the vise and pick up the repaired }
+{229}{}{now you can use the repaired for its intended purpose }
 {230}{}{}
 {231}{}{}
 {232}{}{}
