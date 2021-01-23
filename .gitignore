@@ -13,3 +13,6 @@ data/text/russian/dialog/scanmsg.txt
 data/text/russian/game/scanmsg.exe
 data/text/russian/game/scanmsg.txt
 
+tools/SFallScriptEditor/sse.log
+tools/SFallScriptEditor/settings/settings.dat
+tools/SFallScriptEditor/settings/recent.dat

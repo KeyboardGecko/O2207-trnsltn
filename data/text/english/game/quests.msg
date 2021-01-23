@@ -6,98 +6,98 @@
 #
 # TARTAR Quests
 #
-{100}{}{Помогите доктору Пэту поставить на ноги рабочих Тартара.}
-{101}{}{Ваш отец сильно облучен. Нужно найти способ вернуться в Тартар и помочь ему.}
-{102}{}{Вашему отцу необходим "Антирадин". Разыщите его и принесите в Тартар доктору Пэту.}
+{100}{}{Help Dr. Pat get the workers of Tartarus back on their feet.}
+{101}{}{Your father is strongly irradiated. You need to find a way to return to Tartarus and help him.}
+{102}{}{Your father needs Rad-Away. Find it and bring it to Dr. Pat in Tartarus.}
 #
 # UNDEAD CAVES Quests
 #
-{200}{}{Нужно помочь искателям и принести дрова и 6 яблок.}
-{201}{}{Отправиться с Громусом на охоту и собрать скорпионьи хвосты.}
-{202}{}{Собрать для выступления Боно 10 местных жителей.}
-{203}{}{Присли просит принести ему мешок удобрений для грядок.}
-{204}{}{Питер просит вас прочистить забившийся унитаз. Нужен специнструмент.}
-{205}{}{Нужно найти способ успокоить малышку Лили и помочь ей заснуть.}
-{206}{}{Нужно помочь Джо найти его потерявшуюся жену.}
-{207}{}{Хьюго нужны "Комбатид" и 5 "Хилл-ап"ов для штурма Тартара.}
+{200}{}{Help out the hunters and bring them 6 apples and some firewood.}
+{201}{}{Go hunting with Gromus and collect scorpion tails.}
+{202}{}{Gather 10 local residents for Bono's performance.}
+{203}{}{Presley asks me to bring him a bag of fertilizer for the gardens.}
+{204}{}{Peter asks you to clean the clogged toilet. You need a special tool.}
+{205}{}{You need to find a way to calm baby Lilly and help her fall asleep.}
+{206}{}{Help Joe find his lost wife.}
+{207}{}{Hugo needs a Combatid and 5 Heal-Ups to storm Tartarus.}
 #
 # SUNSET JACKALS Quests
 #
-{300}{}{У Карла сломался станок, ему нужны запчасти со склада Криса Мурены.}
-{301}{}{Найти и завладеть ультраремнабором.}
-{302}{}{Найти редчайший точильный камень для Гарри.}
-{303}{}{Сходить на охоту с Урсулом. Постараться не умереть.}
-{304}{}{Каспер подговорил задонадерателя Стена напасть на Винса. Нужно помочь Винсу.}
-{305}{}{Крикун мастерит ожерелье из зубов химер. Нужно принести ему еще 3 зуба.}
-{306}{}{Освальд Браун не против заиметь редкий пистолет русских аристократов марки "Слюгер".}
-{307}{}{Билли Стоун просит, чтобы вы постояли на шухере у комнаты, когда он там будет с Шивой.}
-{308}{}{Крис Мурена просит избавиться от Кайла и найти ему замену.}
+{300}{}{Carl's machine broke down, and he needs spare parts from Chris Murena's warehouse.}
+{301}{}{Search and get hold of an Ultra Repair Kit.}
+{302}{}{Find a rare whetstone for Harry.}
+{303}{}{Go and hunt some Ursa, try not to die.}
+{304}{}{Casper initiated a siege against Vince. You need to help Vince.}
+{305}{}{Barker crafts necklaces out of chimera teeth and needs 3 more.}
+{306}{}{Oswald Brown wouldn't mind to get hold of a rare vintage "Slugger" pistol.}
+{307}{}{Billy Stone wants you to stand guard outside the room while he's with Shiva.}
+{308}{}{Chris Morena asks to get rid of Kyle and find a replacement for him.}
 #
 # NEW WORLD ORDER Quests
 #
-{400}{}{Марк просит вас помирить его жену Люси и его советника - Сэма.}
-{401}{}{Бак предложил вам найти замену умирающему Марку на посту Мэра.}
-{402}{}{Хуан жалуется на сломавшийся станок и просит вас помочь ему.}
-{403}{}{Разведчик Сайрен собирается за жестью в "Тин Индастриз", но ему нужен напарник.}
-{404}{}{За неплохое вознаграждение вы можете охранять караваны Флинта.}
-{405}{}{Неуклюжий Оуэн вывихнул руку, нужно попытаться ему помочь.}
-{406}{}{Кто-то ворует тушенку со склада в цеховом дворе, а невинно обвиненный Скит сидит за решеткой.}
-{407}{}{Лаваши Филиппа отказываются есть корм. Нужно выяснить, в чем причина.}
-{408}{}{В последний раз из "Лайвоса" пришла вода со странным привкусом. Сэм просит вас разобраться в чем там дело.}
-{409}{}{Братья Сэт и Мэт никак не могут ужиться друг с другом, нужно их помирить.}
-{410}{}{Бланка страстно жаждет любви. Найдите "спецприбор" и не разочаруйте ее!}
-{411}{}{Генри просит отыскать подруг Санни и Бекки в Пирсон-Тауне.}
+{400}{}{Mark asks you to broke peace between his wife Lucy and his adviser Sam.}
+{401}{}{Buck suggested that you find a replacement for the dying Mayor Mark.}
+{402}{}{Juan complains about the broken machine and asks you to help him.}
+{403}{}{Scout Cyren is going to Tin Industries for cans, but he needs a partner.}
+{404}{}{You can guard Flint's caravans for a good payoff.}
+{405}{}{Clumsy Owen has dislocated his arm, and we need to help him.}
+{406}{}{Someone steals meat from a warehouse in the workshop yard, and the innocently accused Skeet is sitting behind bars.}
+{407}{}{Philip's lavash refuse to eat food. Find out what the reason is.}
+{408}{}{The last time water came from Livos, it tasted strange. Sam asks you to look into what's going on.}
+{409}{}{Brothers Seth and Mat can not get along with each other, you need to reconcile them.}
+{410}{}{Bianca is passionately hungry for love. Find the "special device" and do not disappoint her!}
+{411}{}{Henry asks to find Sunny and Becky's friends in Pearson Town.}
 #
 # LIVOS Quests
 #
-{500}{}{Эдуард Швайн не впустит вас в "Лайвос" пока вы не докажите, что являетесь одним из членов семей.}
-{501}{}{Водный фильтр сломался, и Эштон Хортон просит вас его починить.}
-{502}{}{Семья Дантон просит вас убить всех тварей в пещере под "Фильтрационной".}
-{503}{}{Кристофер Швайн влюблен в Миньон Хортон и просит вас помочь поухаживать за девушкой.}
-{504}{}{Даллас МакКинзи влюблен в Миньон Хортон и просит вас помочь поухаживать за девушкой.}
-{505}{}{Людвиг Швайн говорит, что кто-то украл его учебник по волнологии. Помогите вернуть ценную книгу.}
-{506}{}{Соуп Дантон больше не может выносить тиранию своей жены Эмили и просит вас "убрать" ее.}
-{507}{}{Клаудия Хортон достает Бостона из-за смерти своего мужа. Нужно найти способ успокоить Клаудию.}
-{508}{}{Эдуард Швайн случайно отдал конституцию убежища какому-то огромному дикарю, и просит вас вернуть ее.}
+{500}{}{Eduard Shvain won't let you in at Livos until you can prove that you are one of the family members.}
+{501}{}{The water filter is broken, and Ashton Horton wants you to fix it.}
+{502}{}{The Danton family asks you to kill all the creatures in the cave under the filtration.}
+{503}{}{Christopher Shvain is in love with Minnie Horton and asks you to help him hook up with her.}
+{504}{}{Dallas McKinsey is in love with Minnie Horton and asks you to help him hook up with her.}
+{505}{}{Ludwig Shvain says that someone stole his textbook on wave physics. Help him return the valuable book.}
+{506}{}{Sope Danton can no longer stand the tyranny of his wife Emily and asks you to "remove" her.}
+{507}{}{Claudia Horton gets on Boston's nerves over her husband's death. We need to find a way to calm her down.}
+{508}{}{Eduard Shvain accidentally gave the Laivos Constitution to some huge savage, and asks you to return it.}
 #
 # RAINBOW RAIDERS Quests
 #
-{600}{}{Кент просит принести с фермы 8 муравьиных брюшек и отдать их Лекарю.}
-{601}{}{Лекарь просит вас выяснить, что за странный мужик в броне сидит в его баре.}
-{602}{}{В одном из боев на арене Дуглас потерял свой жетон. Найдите жетон и верните его Дугласу.}
-{603}{}{Джи, главарь банды подростков, требует 5 бутылок коньяка за право стать членом банды.}
-{604}{}{Джи намерен отправиться грабить караваны! Это ваш шанс!}
-{605}{}{Помогите бедной проститутке.}
-{606}{}{Пастух просит разобраться с Кирпичом, который постоянно БЕСПЛАТНО трахает его шлюх.}
-{607}{}{Наоми просит помочь ей сбежать.}
-{608}{}{Ленни не понимает, почему его друг Карл никак не воскресает из мертвых.}
-{609}{}{Кабан просит вас договориться с Псами о ненападении.}
-{610}{}{Пастух не справляется со всеми обдолбанными посетителями и просит помочь ему.}
+{600}{}{Kent asks to bring 8 ant abdomen from the farm and give them to the healer.}
+{601}{}{The healer asks you to find out what kind of strange armored man is sitting in the bar.}
+{602}{}{In one of the arena fights, Douglas lost his badge. Find the token and return it to him.}
+{603}{}{Big G, the leader of a gang of teenagers, demands 5 bottles of cognac for the right to become a member of the gang.}
+{604}{}{Big G intends to rob the caravan, this is your chance!}
+{605}{}{Help the poor prostitute.}
+{606}{}{The shepherd asks to deal with Brick, who constantly fucks his whores for free.}
+{607}{}{Naomi asks for help to escape.}
+{608}{}{Lenny doesn't understand why his friend Carl isn't coming back from the dead.}
+{609}{}{Boar asks you to negotiate with the Sunset Dogs about a peace agreement.}
+{610}{}{The shepherd can not cope with all the stoned visitors and asks for help.}
 #
 # OAZIS Quests
 #
-{700}{}{Победите Клумка, если хотите жить!}
-{701}{}{Кхалу за руку укусил хищный зверь, ей требуется медицинская помощь.}
-{702}{}{Птуна никак не может найти своего песчаного волка Хука.}
+{700}{}{Defeat Klumk if you want to stay alive!}
+{701}{}{Khala's hand was bitten by a ravenous animal, and she needs medical attention.}
+{702}{}{Ptuna can't find her desert jackal fang anywhere.}
 #
 # FREDS HOUSE Quests
 #
-{800}{}{Фред обложил весь дом минами, но позабыл, где они. Отыщите и разминируйте хотя бы 5 шт.}
-{801}{}{Отбейтесь от нападающих бестий.}
+{800}{}{Fred has laid mines all around the house, but forgot where they are. Find and clear at least 5 of them.}
+{801}{}{Fight off the attacking beasts.}
 #
 # OLYMPUS TOWER Quests
 #
-{900}{}{Ричардс поручает вам с помощью феромона приручить дикую химеру и привести ее Филлипу Грею. (инъекция действует только 8 дней)}
-{901}{}{Филлип Грей уверен, что Константин Зочкис, глава инженерного КБ, должен умереть как можно скорее. Ускорьте этот процесс.}
-{902}{}{Дэймонду Кранку нужен довоенный опытный образец ручной пушки "Баррака". Принесите ее.}
-{903}{}{Дэймонд Кранк уверен, что Людвиг Швайн в состоянии помочь ему сдвинуться с мертвой точки в исследованиях. Приведите Людвига.}
-{904}{}{Капитан N34 просит вас заполнить все формы документации и провести испытания оружия.}
-{905}{}{Пришло время смены пароля от Зала Контроля. Отправляйтесь на Серверный этаж и следуйте инструкциям.}
-{906}{}{УБЕЙТЕ АНДЕРСОНА!}
-{907}{}{Используйте ресурсы башни "Олимп" по своему усмотрению.}
-{908}{}{Сержант Джок положил глаз на Келли с этажа биологии. Убедите Келли встретиться с Джоком.}
-{909}{}{Моро никак не может настроить клон-машину. Приведите ему женщину из Тартара для опытов.}
-{910}{}{В клон-машине иссякла энергоячейка. Возьмите новую у Зочкиса с этажа инжиниринга.}
-{911}{}{Дик ждет клон своей жены Беатрисс, обещанный ему Греем за шпионаж. Моро должен помочь.}
-{912}{}{Для завершения клона доктору Моро нужна эссенция стволовых клеток из Биолабории N2.}
-{913}{}{Тейлор может починить продвинутый костюм Луменьеров, если вы принесете ему сервопривод с аналогичного костюма.}
+{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Gray. (The injection works only for 8 days)}
+{901}{}{Phillip Gray is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
+{902}{}{Daimond Krank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
+{903}{}{Daimond Krank is confident that Ludwig Shvain will be able to help him break the deadlock on his research. Bring Ludwig to him.}
+{904}{}{Captain N34 asks you to fill out all the documentation forms and conduct weapon tests.}
+{905}{}{It's time to change the password for the Control Room. Go to the Server Floor and follow the instructions.}
+{906}{}{KILL ANDERSON!}
+{907}{}{Use the resources of the Olympus Tower as you see fit.}
+{908}{}{Sergeant Jack has his eye on Kelly from the Biology Labs. Convince Kelly to meet with Jack.}
+{909}{}{Moreau can not calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
+{910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what'S up with that.}
+{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Gray for his services. Moreau might help.}
+{912}{}{To complete the clone, Dr. Moreau needs the Stemm Cell Essence from the Nr. 2 Biolab.}
+{913}{}{Taylor can repair an advanced Powersuit of the Enlightened Ones, if you bring him a servo from a similar suit.}
