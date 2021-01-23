@@ -24,112 +24,112 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Мама.}
-{2}{}{Это Элиза, ваша мать. Глядя на ее вечную беззаботную улыбку, вам становится тепло и уютно.}
+{1}{}{You see Mom.}
+{2}{}{This is Elise, your mother. Seeing her eternal carefree smile makes you feel warm and cozy.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Мама.}
-{4}{}{Это Элиза, ваша мать. Глядя на ее вечную беззаботную улыбку, вам становится тепло и уютно.}
+{3}{}{You see Mom.}
+{4}{}{This is Elise, your mother. Seeing her eternal carefree smile makes you feel warm and cozy.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{100}{}{С Днем Рождения, зайка! Подумать только, тебе уже целых СЕМЬ лет! Ой, даже не верится! Целый год мы готовили для тебя этот подарок, мы много работали, чтобы добыть каждую страничку этой удивительной книги приключений, теперь она - твоя, держи! [мама протягивает вам книгу в красивой обложке, но... страницы пустые!]}
-{101}{}{Обману-у-ли-и!!! Тут ведь ничего не-е-ету-у!!!}
-{102}{}{Но, но, мама? Она же пустая?? Здесь нету приключений...}
-{103}{}{[поразмыслив пару секунд] Это записная книжка? Я смогу здесь писать все, что захочу!}
-{104}{}{[поразмыслив пару секунд] И что мне с ней делать???}
-{1101}{}{У тебя впереди долгая и интересная жизнь! [при этих словах папа закатывает глаза и тяжело вздыхает] Ты сможешь написать свои собственные приключения!}
-{1102}{}{Ах ты мой смысленыш! Видишь, Джон, он весь в меня! У тебя впереди долгая и интересная жизнь! [при этих словах папа закатывает глаза и тяжело вздыхает] Ты сможешь написать свои собственные приключения!}
-{111}{}{А если у меня не будет никаких приключений? Что тогда мне с ней делать?}
-{112}{}{Спасибо, мамочка! Это лучший из всех подарков!!!}
-{1201}{}{Ну конечно же у тебя будет масса приключений! Нужно просто в это верить! [мама склоняется к вам и шепчет на ухо] А еще нужно просить об этом наших Богов, они помогут. [улыбается и целует вас в лоб] Ну, нам нужно идти. Ах, да, вот папа тебе достал вкусную конфетку, только не ешь ее сразу. Может, лучше поделишься с Кэтти? [подмигивает] А если заскучаешь - прибегай ко мне, я уж найду, чем тебе заняться!}
-{1202}{}{Ах ты моя зайка, ну прямо весь в маму! [улыбается и целует вас в лоб] Ну, нам нужно идти. Ах, да, вот папа тебе достал вкусную конфетку, только не ешь ее сразу. Может, лучше поделишься с Кэтти? [подмигивает] А если заскучаешь - прибегай ко мне, я уж найду, чем тебе заняться!}
-{121}{}{::Взять конфету::}
-{130}{}{Привет, малыш! Что мамочка может для тебя сделать?}
-{131}{}{Ничего! [улыбнуться и убежать]}
-{132}{}{Ма-ам, а ты не видела папин ключ?}
-{133}{}{Просто хотел узнать, что у тебя все в порядке!}
-{134}{}{Ма-ам! Я не знаю, чем мне еще заняться.}
-{140}{}{Эээ. Да, видела! Твой братишка Кирк с ним игрался не так давно.}
-{141}{}{А-а-ха! Человек-сыщик напал на след! Спасибо, мам!}
-{142}{}{Опять братец?! Пойду-ка схожу к нему.}
-{150}{}{Сынок, ты выглядишь усталым. Не хочешь прилечь поспать?}
-{151}{}{Эээ... Да, я бы поспал. Столько всего сделал за сегодня.}
-{152}{}{Нет, я в полном порядке! Меня приключения ждут!}
-{1601}{}{Вот и умничка! Хочешь, чтобы я почитала тебе сказочку?}
-{1602}{}{Ну зайка, ты ведь знаешь, что тебе нужно немного поспать, перенапрягаться нельзя! Хочешь, я тебе почитаю что-нибудь?}
-{1603}{}{Что тебе еще интересно?}
-{1604}{}{Хватит на сегодня, малыш. Отправляйся спать.}
-{1605}{}{Хорошо, мам. [направиться в сторону кровати]}
-{161}{}{Да! Расскажи мне еще про Богов!}
-{162}{}{Эээ. Расскажи мне про тварей в Чистилище?}
-{163}{}{Маам, а расскажи про детей Богов! Почему мы - слуги, а они - дети Богов?}
-{164}{}{Ничего не надо, я... уже... засыпаю... [направиться в сторону кровати]}
-{170}{}{Ну-у. Знаешь, раньше люди жили под небом, но они перестали это ценить, перестали уважать Богов, и тогда небо и земля сломались, и не осталось ничего, кроме смерти и ужасных тварей. Боги тогда возвели великую гору Олимп, а под этой горой они уберегли самых чистых духом людей.}
-{171}{}{А "чистые духом" - это мы, да?}
-{172}{}{А где стали жить сами Боги?}
-{1801}{}{Да, зайка, мы их потомки. Мы заботимся о продовольствии, чиним божественные механизмы, добываем воду, а Боги взамен нас защищают от ужасных тварей и дают нам укрытие от смерти. Наступит час - и Боги починят небо и землю, и все люди смогут снова жить как раньше!}
-{1802}{}{Боги устроились на вершине Олимпа. Оттуда они отгоняют от олимпа страшных тварей и ремонтируют небо и землю. Я уверена, настанет день - и все снова будет как прежде, и мы будем жить под теплым солнышком, как было написано в той книжке, помнишь?}
-{181}{}{Здорово! А расскажи мне еще!}
-{182}{}{Да, здорово. Что-то так спать захотелось... [направиться в сторону кровати]}
-{190}{}{Думаешь, это полезно? На ночь такие страшные вещи слушать? А, ладно, ты ведь уже взрослый мальчик? По сторонам от нас есть две пещеры - Чистилище и Пещеры Нежити. Говорят, в пещеры нежити убегали некоторые слуги, и там с ними случались ужасные вещи.}
-{191}{}{Что, что, что там сними было?}
-{200}{}{Никто не знает, но они превратились в ужасных тварей, которые стали жить в Чистилище, потому что даже сломанная земля их не выносит! Мне кажется, лучше бы этих заблудших бросили в Жерло Аида, так они хотя бы нам послужили. Вход в логово тварей находится как раз неподалеку от нашей комнаты. Никогда туда не ходи!!!}
-{201}{}{Ну конечно же не пойду! А расскажи мне еще!}
-{202}{}{Ну конечно же не пойду... [направиться в сторону кровати]}
-{210}{}{Я не знаю, крошка. Наверное, так решили Боги. Кто-то ведь должен и о нас заботиться, охранять нас, защищать. Как думаешь, легко быть избранником Богов и нести такую ответственность?}
-{211}{}{Думаю - да! Я хочу быть одним из детей Богов!}
-{212}{}{Я бы не хотел оказаться сыном Богов.}
-{2201}{}{Не думаю, что легко быть одним из них. Нужно постоянно следить за порядком, сражаться с ужасными тварями. Я бы не смогла... Ты же знаешь, я трусиха! [улыбается]}
-{2202}{}{Знаешь, мне тоже нравится быть обычной слугой жизни. Просто делаешь то - что тебе говорят. И надеешься на лучшее. Правда ведь это здорово! [улыбается]}
-{221}{}{Да, это все понятно. А расскажи мне еще!}
-{222}{}{Ну да, наверное. Что-то так спать захотелось... [направиться в сторону кровати]}
-{2301}{}{А ты сбегай к папе, он как раз снова что-то потерял! [хихикает]}
-{2302}{}{Отлично, тогда поговори с братом. Он какой-то расстроенный в последнее время, а мне ничего рассказывать не хочет.}
-{2303}{}{Даже не знаю. А ты свою подружку Кэтти давно проведывал? Вроде бы Стелла, ее мама, сильно заболела. Ты слетай-ка к ним, может помочь чем-нибудь надо?}
-{231}{}{Здорово, пойду к папе!}
-{232}{}{А что с ним? Пойду узнаю!}
-{233}{}{Мда?.. Надо сбегать проверить.}
+{100}{}{Happy Birthday, honey! I can't believe you're already SEVEN years old! A whole year we have been preparing this gift for you, working hard to get every page of this wonderful adventure book! Now it is yours, here you go! [Mom hands you a beautifully bound book, but... the pages are blank!]}
+{101}{}{But mooooom, there is nothing in theeeeeere!!!}
+{102}{}{Um... but mom? It's empty, there are no adventures in there...}
+{103}{}{[Thinking for a few seconds] Is it a notebook? I could write in here whatever I want!}
+{104}{}{[Thinking for a few seconds] Um, and what am I supposed to do with that?}
+{1101}{}{You've got a long and exiting life ahead of you! [heard this, your father rolls his eyes and sighs heavily] You could write your own adventures!}
+{1102}{}{You really are my clever boy! See John, he's just like me! You will have a long and interesting life ahead of you! [heard this, your father rolls his eyes and sighs heavily] You should write all about your own adventures!}
+{111}{}{And what if I don't have any adventures? What would I do with it?}
+{112}{}{Thank you mom! This is the best gift I could ever hope for!!!}
+{1201}{}{Well, of course you will have a lot of adventures! You just have to believe it! [mom leans over and whispers in your ear] But you also need to beg our Gods for it, they will help you. [smiles and kisses you on the forehead] Well, we gotta go. Oh, yeah, Dad got you a yummy candy, but don't eat it right away. Why don't you share it with Katie? [winks] And if you get bored, come to me, I'll find something for you to do!}
+{1202}{}{Ah my little sweetheart, you just look like your mother! [smiles and kisses you on the forehead] Well, we have to go to. Oh, yeah, Dad got you a yummy candy, but don't eat it right away. Why don't you share it with Katie? [winks] And if you get bored, come to me, I'll find something for you to do!}
+{121}{}{[Take candy]}
+{130}{}{Hi baby, what can your mom do for you?}
+{131}{}{Nothing! [smile and run away]}
+{132}{}{Mo-om, have you seen Dad's Wrench?}
+{133}{}{I just wanted to see if you were okay!}
+{134}{}{Mo-om, I am bored and don't know what else to do!}
+{140}{}{Oh... yes, I have! Your little brother Kirk played with it a while ago.}
+{141}{}{A-a-ha! The human detective is on the trail! Thank you, Mom!}
+{142}{}{Brother again? I'll go and find him.}
+{150}{}{Sonny, you look tired. Do you want to go to bed?}
+{151}{}{Uhh... Yes, I'd like to sleep. I've done so much today.}
+{152}{}{No, I'm totally fine! Adventures are waiting for me!}
+{1601}{}{That's a good kid! Do you want me to read you a story?}
+{1602}{}{Well, honey, you know you need to get some sleep, you shouldn't overexert yourself! Do you want me to read you something?}
+{1603}{}{What do you want to know?}
+{1604}{}{Enough for today, kid. Go to bed.}
+{1605}{}{Okay, mom [go to bed]}
+{161}{}{Yes! Tell me about the Gods!}
+{162}{}{Uh! Tell me about the creatures in Purgatory?}
+{163}{}{Mom, tell me about the children of the Gods! Why are we servants and they are the children of the Gods?}
+{164}{}{No, nothing, thanks. I am... sleeping already... [go to bed]}
+{170}{}{Well. You know, people used to live under the sky, but they stopped appreciating it, stopped respecting the Gods, and then the sky and the earth broke open, and there was nothing left but death and terrible creatures. The gods then erected the great Mount Olympus, and under this mountain they sheltered the purest-spirited people.}
+{171}{}{And the purest-spirited means us, right?}
+{172}{}{And where do the Gods themselves live?}
+{1801}{}{Yes, honey, we are their descendants. We take care of food, repair divine machinery, extract water, and in return the Gods protect us from terrible creatures and shelter us from death. The hour will come, when the Gods will mend the sky and the earth, and all people will be able to live again as before!}
+{1802}{}{The gods settled on the top of Olympus. From there, they scare away the terrible creatures and keep mending the sky and the earth. I am certain, one day, everything will be the same again, and we will live under the warm sun, just like it was written in that book, remember?}
+{181}{}{Great! And tell me more!}
+{182}{}{Yeah, that's great. I feel very sleepy now... [go to bed]}
+{190}{}{Do you think it's good for your sleep, listening to such terrible things at bedtime? Oh, well, you're a grown boy now, aren't you? There are two caves on either side of us, the Purgatory and the Undead Caves. It is said that some servants once escaped to the caves, and terrible things happened there.}
+{191}{}{What... what happened to them?}
+{200}{}{No one knows, but they turned into terrible creatures that began to live in Purgatory, because even the broken earth would not bear them! I think it would be better if these lost ones were thrown into the Mouth of Hades, so they would at least serve us in some form... The entrance to the creatures' lair is just outside our room. Don't you ever dare to go there!!!}
+{201}{}{Of course I won't! Tell me more!}
+{202}{}{Of course I won't... [go to bed]}
+{210}{}{I don't know, baby. The Gods must have decided so. Someone has to take care of us, protect us, defend us. Do you think it's easy to be the chosen one of the Gods and bear such a responsibility?}
+{211}{}{I think so! I want to be one of the children of the Gods!}
+{212}{}{I wouldn't want to be the child of the Gods...}
+{2201}{}{I don't think it's easy to be one of them. You will have to maintain order, battle hideous monsters... I know I couldn't... But you know how brave I am! [smiles]}
+{2202}{}{You know, I like being an ordinary servant of life, too. You just do what you're told. And hope for the better. Isn't that great? [smiles]}
+{221}{}{Yes, I understand this... But tell me more!}
+{222}{}{Well, yes, I guess. And also I'm very tired... [go to bed]}
+{2301}{}{Run to see your dad, he just seems to have lost something again! [chuckles]}
+{2302}{}{Okay, then talk to your brother. He's been kind of upset lately, and he doesn't want to tell me anything.}
+{2303}{}{I dunno... Have you seen your friend Katie lately? I've heard her mom, Stella, has fallen very ill... Run to see them, maybe they need some help with something?}
+{231}{}{Great, I'll see Dad!}
+{232}{}{What's up with him? I'll check it out!}
+{233}{}{Really? I should run over and talk to them.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{Привет, Зайчонок!}
-{1001}{}{Как ты себя чувствуешь? Животик не болит?}
-{1002}{}{Зайка, сейчас не время. Пойди поиграй с братом.}
-{1003}{}{Солнышко, маме нужно немного поработать.}
-{1004}{}{Лапочка, не приставай сейчас к маме, пожалуйста.}
-{1005}{}{А кто у нас тут маленький зайчонок, а?}
-{1006}{}{Защекочу - защекочу! Ути-ути!}
-{1007}{}{Зайка, не мешайся. Иди к папе, ему помешайся.}
-{1008}{}{Я обязательно с тобой поиграю, только вот закончу тут.}
-{1009}{}{::Улыбаясь смотрит на вас::}
+{1000}{}{Hey there, Sweetie!}
+{1001}{}{How are you feeling? Does your tummy hurt?}
+{1002}{}{Honey, this isn't the time. Go play with your brother.}
+{1003}{}{Honey, Mom needs to do some work.}
+{1004}{}{Honey, don't bother your mom right now, please.}
+{1005}{}{Who's that little bunny we got here, huh?}
+{1006}{}{Gonna tickle you a bit, heheheh!}
+{1007}{}{Honey, don't get in the way please. Go to your dad, bother him.}
+{1008}{}{I'll definitely play with you... when I'm done here.}
+{1009}{}{::looks at you smiling::}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Нейтральная реакция)
 #
-{1010}{}{Заечка, не сейчас.}
-{1011}{}{Немного попозже, лапочка.}
-{1012}{}{Ты видишь, маме некогда.}
-{1013}{}{Не приставай сейчас к маме.}
-{1014}{}{Нет, давай-ка чуть попозже.}
-{1015}{}{Сейчас не время, дорогой.}
-{1016}{}{Заечка, не сейчас.}
-{1017}{}{Немного попозже, лапочка.}
-{1018}{}{Нет, давай-ка чуть попозже.}
-{1019}{}{::Кажется, не обращает на вас внимания::}
+{1010}{}{Not now , sweetie...}
+{1011}{}{Later, sweetheart.}
+{1012}{}{Can't you see your mom's busy...}
+{1013}{}{Don't bother your mom now.}
+{1014}{}{No, later.}
+{1015}{}{Not now, darling.}
+{1016}{}{Not now, honey.}
+{1017}{}{Later, sweetie!}
+{1018}{}{No, later. okay?}
+{1019}{}{::seems not paying attention to you::}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Отрицательная реакция)
 #
-{1020}{}{Негодник! Мамочка на тебя обиделась!}
-{1021}{}{Даже не приставай, пока не извинишься!}
-{1022}{}{Мама не хочет разговаривать с такими плохими мальчиками!}
-{1023}{}{Гадкий мальчишка!}
-{1024}{}{Негодник! Мамочка на тебя обиделась!}
-{1025}{}{Даже не приставай, пока не извинишься!}
-{1026}{}{Мама не хочет разговаривать с такими плохими мальчиками!}
-{1027}{}{Гадкий мальчишка!}
-{1028}{}{Мамочке нужно время, чтобы тебя простить.}
-{1029}{}{::Кажется, она вот-вот взорвется::}
+{1020}{}{Bad kid! Mommy is angry because of you!}
+{1021}{}{Don't even bother until you apologize!}
+{1022}{}{Mommy don't want to talk to bad kids!}
+{1023}{}{You where very naughty!}
+{1024}{}{Bad kid! Mommy is angry because of you!}
+{1025}{}{Don't even dare to approach me, before you apologize!}
+{1026}{}{Mommy would not talk to bad boys!}
+{1027}{}{Bad kid!}
+{1028}{}{Mommy needs some time to forgive you...}
+{1029}{}{::seems she's about to explode::}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Сонные звуки)
 #
