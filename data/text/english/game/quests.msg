@@ -78,7 +78,7 @@
 #
 {700}{}{Defeat Klumk if you want to stay alive!}
 {701}{}{Khala's hand was bitten by a ravenous animal, and she needs medical attention.}
-{702}{}{Ptuna can't find her desert jackal fang anywhere.}
+{702}{}{Ptuna can't find her coyote fang anywhere.}
 #
 # FREDS HOUSE Quests
 #
