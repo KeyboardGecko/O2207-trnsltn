@@ -267,7 +267,7 @@
 {1458}{}{Beasts}
 {1459}{}{Lunatics}
 {1460}{}{Robots}
-{1461}{}{Jackals}
+{1461}{}{Coyotes}
 {1462}{}{Protectors}
 {1463}{}{Chimeras}
 {1464}{}{Turrets}
@@ -289,7 +289,7 @@
 {1477}{}{The number of human-sized mutated Jaguars you have successful tracked down and hunted.}
 {1478}{}{The number of lunatics you killed, Ghouls that have gone insane from hunger and radiation.}
 {1479}{}{This is the number of robots and computer that you have destroyed, dismantled or formated.}
-{1480}{}{The total number of Wild Dogs and Jackals that you have sent to the great kennel in the sky.}
+{1480}{}{The total number of wild Dogs and Coyotes that you have sent to the great kennel in the sky.}
 {1481}{}{This line shows the number of how many of Anderson's Protectors you've been able to defeat.}
 {1482}{}{This modest number shows that you have killed some very dangerous Chimeras and lived.}
 {1483}{}{This line shows the number of turrets that where in your way and you managed to destroy.}
