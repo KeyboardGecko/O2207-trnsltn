@@ -317,9 +317,9 @@
 
 
 {520}{}{I see... You know, I have to ask you not to talk wide about the matter... This could lead only to lynching from the town's folk. I'll talk to him myself. He will pay fully to the community, believe me. And... Thank you, not only for getting tin from Tin Industries, but also for telling me everything about this... Here, take it. It's well-deserved.}
-{501}{038}{Thanks, Mark, glad to be of help, you know. Would you tell me more about someone else?}
-{502}{031}{Thanks, Mark. Let's get back to questions about the town.}
-{503}{999}{Thanks, Mark. By the way, I gotta go. I'll come by.}
+{521}{038}{Thanks, Mark, glad to be of help, you know. Would you tell me more about someone else?}
+{522}{031}{Thanks, Mark. Let's get back to questions about the town.}
+{523}{999}{Thanks, Mark. By the way, I gotta go. I'll come by.}
 
 
 {530}{}{Our doctor. Has hands of gold. I don't recommend bothering him with stupid questions. The talk is, once he had a patient who wouldn't shut up. So, instead of painkillers, he injected the poor guy with some stuff, which caused itches wor a whole week straight. That idiot got himself fully cut and scratched. And a cherry on the cake - in the end his eyebrows fell off.}
