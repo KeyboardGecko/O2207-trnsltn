@@ -45,9 +45,6 @@
 {43}{011}{Frankly speaking, no, I didn't.}
 
 
-
-
-
 {50}{}{[she starts to get angry] Then tell me, with whom my friend's sister cheated with: my friend's husband, brother of my friend's husband, or with brother of sister's husband? You have four tries!}
 {51}{007}{[you know the right answer, because you listened carefully] Of course with brother of your friend's husband!}
 {52}{006}{How can it be four tries if there are three options?}

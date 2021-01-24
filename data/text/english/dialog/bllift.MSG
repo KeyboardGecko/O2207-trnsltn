@@ -1,22 +1,22 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# „ ­­л© д ©« ®ЇЁблў Ґв б®®ЎйҐ­Ёп,
+# ЁбЇ®«м§гойЁҐбп ў бЄаЁЇв е бжҐ­ҐаЁ
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - 
+# —’Ћ ќ’Ћ?
+# ќв® - 
 #
-# Описание 1
-{1}{}{Панель управления лифтом обесточена.}
-{2}{}{Невероятно, похоже эта технология работает! Мигающие лампочки так Вас гипнотизируют...}
+# ЋЇЁб ­ЁҐ 1
+{1}{}{The elevator control panel is not powered.}
+{2}{}{Unbelievable! Looks like this technology is working! The lightbulbs blink so hypnotizing...}
 
-# Описание 2
-{3}{}{Бесполезно, в панели нет питания.}
-{4}{}{Лифт доставил Вас на подземный этаж.}
-{5}{}{Лифт доставил Вас на верхний этаж.}
+# ЋЇЁб ­ЁҐ 2
+{3}{}{No use, there's no power in the control panel.}
+{4}{}{The elevator gets you to the underground level.}
+{5}{}{The elevator gets you to the upper level.}
 
-# Действия
+# „Ґ©бвўЁп
 {6}{}{}
 {7}{}{}
 {8}{}{}

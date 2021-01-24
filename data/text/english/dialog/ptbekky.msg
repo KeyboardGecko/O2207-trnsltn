@@ -30,7 +30,7 @@
 # ―®α«¥ §­ ª®¬αβΆ 
 #
 {3}{}{You see: Becky.}
-{4}{}{She still don't look very good, but you are sure that now she will be alright.}
+{4}{}{She still doesn't look very good, but you are sure that now she will be alright.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
 #

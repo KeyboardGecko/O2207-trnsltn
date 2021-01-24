@@ -1,33 +1,33 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# „ ­­л© д ©« ®ЇЁблў Ґв б®®ЎйҐ­Ёп,
+# ЁбЇ®«м§гойЁҐбп ў бЄаЁЇв е бжҐ­ҐаЁ
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - аккумулятор для починки в Биолабории 2
+# —’Ћ ќ’Ћ?
+# ќв® -  ЄЄг¬г«пв®а ¤«п Ї®зЁ­ЄЁ ў ЃЁ®« Ў®аЁЁ 2
 #
-# Описание 1
-{1}{}{Вы видите: аккумулятор.}
-{2}{}{Вы видите: рабочий аккумулятор.}
+# ЋЇЁб ­ЁҐ 1
+{1}{}{You see: power bank.}
+{2}{}{You see: a working power bank.}
 
-# Описание 2
-{3}{}{Он сломан, но Вы могли бы попробовать его починить при навыке ремонта или науки не ниже 55.}
-{4}{}{Он сломан, но Вам кажется, что его можно починить.}
-{5}{}{Ваши золотые руки привели аккумулятор в рабочее состояние! Ваши навыки ремонта все же пригодились.}
+# ЋЇЁб ­ЁҐ 2
+{3}{}{It's broken, but you might try fixing it with a skill of repair or science not less than 55.}
+{4}{}{It's broken, but you are sure it can be fixed.}
+{5}{}{The power bank is now in working condition, thanks to your hands of gold. Your skills really came in handy.}
 
-# Действия
+# „Ґ©бвўЁп
 {6}{}{}
 {7}{}{}
 {8}{}{}
 {9}{}{}
-{10}{}{Вас ощутимо дернуло током!}
-{11}{}{Порванные оголенные провода намекают, что их лучше не трогать.}
-{12}{}{Да! Умело применив электроотмычку, Вы успешно восстановили цепь питания!}
+{10}{}{You got electrocuted!}
+{11}{}{Torn live wires are hinting that you'd better not to touch them.}
+{12}{}{Yes! Deftly using lockpick, you successfully restore the connection circuit.}
 {13}{}{}
-{14}{}{Вы долго и напряженно всматриваетесь в мотки проводов, но ничего не происходит. Вы недостаточно умелы для такой починки.}
-{15}{}{Слегка напрячь извилины, вспомнить комиксы про "оранжевого электроника", соединить синий с черным... Вуаля! Все заработало!}
-{16}{}{Та-ак, красный или синий провод?... Упс, цепь замкнуло на Ваши пальцы, но похоже все заработало.}
+{14}{}{You give this jungle of wires long hard stare, but nothing happens. You are not skilled enough to make such repairs.}
+{15}{}{You are thinking hard, trying to remember the "orange electronic" comics, connecting black with blue... And voila! Everything is working.}
+{16}{}{So, red wire or blue?... Oops, looks like you closed off the circuit with your fingers. Everything now works though.}
 {17}{}{}
 {18}{}{}
 {19}{}{}

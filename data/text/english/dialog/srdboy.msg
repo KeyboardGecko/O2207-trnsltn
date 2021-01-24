@@ -24,8 +24,8 @@
 #
 # до знакомства
 #
-{1}{}{You see: boy.}
-{2}{}{This kid looks more like scared pet, than a boy.}
+{1}{}{You see: a boy.}
+{2}{}{This kid looks more like scared pet than a human child.}
 #
 # после знакомства
 #
