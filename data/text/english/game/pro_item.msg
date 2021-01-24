@@ -22,7 +22,7 @@
 {1101}{}{A case of standard 12 gauge shotgun buckshot shells.}
 {1200}{}{12 ga. Long}
 {1201}{}{A case of extra long 12 gauge shotgun shells.}
-{1300}{}{12 ga. Slug)}
+{1300}{}{12 ga. Slug}
 {1301}{}{A case of standard 12 gauge shotgun slug cartriges.}
 {1400}{}{12 ga. Custom}
 {1401}{}{Self-made 12 gauge buckshot shells.}
@@ -118,7 +118,7 @@
 {5901}{}{A motion sensor detects even the slightest movements over a long distance, using a tuned radar device.}
 {6000}{}{Chainsaw Sword}
 {6001}{}{Cuts people better than wood, way better! Purge the Heretic! Kill the Xeno! Min ST: 6}
-{6100}{}{Laser Cutter}
+{6100}{}{Laser Saw}
 {6101}{}{This tool can cut almost anything. Take extreme care when using it. Min ST: 4}
 {6200}{}{Combat Throwing Knife}
 {6201}{}{A very sharp and balanced knife that is excellent for throwing. You heard that squads of Navy SEALS used them for silent takedowns. Min ST: 4}
@@ -154,8 +154,8 @@
 {7701}{}{You can assemble a rifle from this, if you have the skills and a special repair kit.}
 {7800}{}{Shotgun Parts}
 {7801}{}{You can assemble a shotgun from this, if you have the skills and a special repair kit.}
-{7900}{}{Flare}
-{7901}{}{A magnesium flare.}
+{7900}{}{Torch}
+{7901}{}{An old flashlight.}
 {8000}{}{Medical Book}
 {8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary things.}
 {8100}{}{Automatic Parts}
@@ -172,10 +172,10 @@
 {8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
 {8700}{}{Zeus Hammer}
 {8701}{}{A huge metal hammer powered by batteries. See how merrily the crushed skull of the enemy twitches under the influence of an electric charge! Min ST: 7}
-{8800}{}{Hammer}
+{8800}{}{Sledgehammer}
 {8801}{}{This hammer can crush granite and skulls! More often it is skulls. Min ST: 7}
-{8900}{}{Sledgehammer}
-{8901}{}{A large hammer with a big handle. Very popular with the muscular crowd. Min ST: 7}
+{8900}{}{Battlehammer}
+{8901}{}{A very large hammer with a big handle. Very popular with the muscular crowd. Min ST: 7}
 {9000}{}{Placeholder Hammer}
 {9001}{}{}
 {9100}{}{Doctor's Bag}
@@ -212,9 +212,9 @@
 {10601}{}{Old, rusty, but heavy and with a comfortable handle! Min ST: 6}
 {10700}{}{Ratcatcher}
 {10701}{}{Homemade weapon for clobbering small creatures. Although, it is also suitable for large ones. Min ST: 6}
-{10800}{}{Mallet}
+{10800}{}{Hammer}
 {10801}{}{A blunt instrument for work and self-defense. Min ST: 5}
-{10900}{}{Club with Nails}
+{10900}{}{Nail Board}
 {10901}{}{What people will come up with against other people. Min ST: 5}
 {11000}{}{Bludgeon}
 {11001}{}{In fact it's just an old stick, but it fits easily and comfortably in your hand. Min ST: 4}
@@ -280,7 +280,7 @@
 {14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could safe your life. Min ST: 3}
 {14100}{}{Sting}
 {14101}{}{A pneumatic launching device for hurling poisonous darts at your adversaries. Min ST: 3}
-{14200}{}{Colt Python}
+{14200}{}{Python Revolver}
 {14201}{}{This one blows heads just clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
 {14300}{}{9mm Pistol (Scoped)}
 {14301}{}{A basic average pistol in 9mm with an attached scope, that allows for even easier picking off your enemies at a distance. Min ST: 4}
@@ -354,7 +354,7 @@
 {17701}{}{A small and comfortable civilian pump-action shotgun in 12 gauge. Min ST: 4}
 {17800}{}{Sawn-off Shotgun}
 {17801}{}{A sawn-off shotgun is the most common weapon among small-time bandits, robbers and other crooks. Min ST: 4}
-{17900}{}{Shotgun}
+{17900}{}{12 ga. Shotgun}
 {17901}{}{A very basic civilian pump-action shotgun in 12 gauge that was widely in use. Min ST: 5}
 {18000}{}{Wilderer Shotgun}
 {18001}{}{A big nasty revolving long range shotgun for hunting large game. Min ST: 6}
@@ -406,8 +406,8 @@
 {20301}{}{}
 {20400}{}{Weapon 5}
 {20401}{}{}
-{20500}{}{Flare (lit)}
-{20501}{}{A lit magnesium flare.}
+{20500}{}{Torch (lit)}
+{20501}{}{An old flashlight. It's lit}
 {20600}{}{Dynamite (lit)}
 {20601}{}{A stick of good old dynamite with a lit fuse.}
 {20700}{}{Geiger Counter (active)}
@@ -508,7 +508,7 @@
 {25401}{}{There might be something usefull in such a large pile of stuff.}
 {25500}{}{Boxes}
 {25501}{}{Small boxes with unknown contents.}
-{25600}{}{Bowl}
+{25600}{}{Tub}
 {25601}{}{An old roomy bowl.}
 {25700}{}{Stuff}
 {25701}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but it makes you curious.}
@@ -538,10 +538,10 @@
 {26901}{}{There's a lot of junk on these shelves.}
 {27000}{}{Stuff}
 {27001}{}{Cartons, boxes, crates - all these are simply made for storing things.}
-{27100}{}{Fire Extinguisher}
+{27100}{}{Firehose Box}
 {27101}{}{You have always liked to set things on fire rather than putting it out.}
-{27200}{}{Mounted Containers}
-{27201}{}{Be careful with them, it seems like this containers are very deranged.}
+{27200}{}{Vending Machine}
+{27201}{}{Be careful with them, it seems this containers are very deranged.}
 {27300}{}{Hood}
 {27301}{}{A hood of a car with obvious traces of corrosion.}
 {27400}{}{Trunk}
@@ -556,7 +556,7 @@
 {27801}{}{Someone left a crate in the car.}
 {27900}{}{Wall Safe}
 {27901}{}{It looks shabby. You wonder if time has affected its reliability.}
-{28000}{}{Wall Hole}
+{28000}{}{Wall Stash}
 {28001}{}{Perhaps there was someone's stash in this hole.}
 {28100}{}{Old Boxes}
 {28101}{}{Crumpled and dirty boxes.}
@@ -574,7 +574,7 @@
 {28701}{}{The wooden shelves look empty, but maybe you are lucky?}
 {28800}{}{Shelves}
 {28801}{}{Old broken wooden shelves, they seem to have served their time.}
-{28900}{}{Fire Extinguisher}
+{28900}{}{Firehose Box}
 {28901}{}{You have always liked to set things on fire rather than putting it out.}
 {29000}{}{*Dad's Wrench*}
 {29001}{}{A small adjustable pipe wrench in perfect condition.}
@@ -776,7 +776,7 @@
 {38801}{}{Notes of a certain person about the experience of communicating with the Enlightened Ones.}
 {38900}{}{Recruit's Diary}
 {38901}{}{A dusty, dirty disk from a nameless corpse.}
-{39000}{}{Solar Scorcher}
+{39000}{}{Solar Gun}
 {39001}{}{A unique pistol powered by solar energy, a great economical weapon.}
 {39100}{}{MCA Predator}
 {39101}{}{A mechanized combat armor system from NCASTR. Only the Enlightened Ones may wear use this Holy Armor!}
@@ -841,14 +841,14 @@
 {42100}{}{Nails}
 {42101}{}{Some rather long nails.}
 {42200}{}{Matches}
-{42201}{}{Matches are not a toy for children! Hey, they still lit!}
+{42201}{}{Matches are not a toy for children! Hey, they still light up!}
 {42300}{}{Yarn Spool}
 {42301}{}{If your calling is the sewing-machine, then this spool of robust thread will undoubtly make your very happy.}
 {42400}{}{Crayons}
 {42401}{}{Quite a rare, but useless item. You could leave some rock paintings somewhere.}
 {42500}{}{Metal Plate}
 {42501}{}{Obviously, you can eat soup from this. Or porridge.}
-{42600}{}{Rusty plate}
+{42600}{}{Rusty Plate}
 {42601}{}{Looking at several layers of rust, it's hard to imagine what you CAN eat from it.}
 {42700}{}{Iron Plates}
 {42701}{}{A few iron plates, almost untouched by rust.}
@@ -860,7 +860,7 @@
 {43001}{}{You can eat with it, or dig a grave for a rat.}
 {43100}{}{Metal Cup}
 {43101}{}{A container to drink liquids out of, if you don't want to use your hands.}
-{43200}{}{Stamp}
+{43200}{}{Seal Stamp}
 {43201}{}{An old seal with the letters "NCASTR" on it. If you slap it on your forehead, it will leave a nice marking.}
 {43300}{}{Torn Rag}
 {43301}{}{It's just a piece of blue rag. You have not seen rags of other colors.}
@@ -871,7 +871,7 @@
 {43600}{}{Lavash Skin}
 {43601}{}{The tanned skin of lavash can be used to make leather items.}
 {43700}{}{*Metal Reel*}
-{43701}{}{A reel of five millimeters thick metal sheets. You wonder how one could lift that up.}
+{43701}{}{A reel of rolled up five millimeters thick metal sheets.}
 {43800}{}{Tin can}
 {43801}{}{An old rusty tin can.}
 {43900}{}{Dried Leaves}
@@ -1022,29 +1022,29 @@
 {51101}{}{}
 {51200}{}{Item}
 {51201}{}{}
-{51300}{}{Godly Weapon}
+{51300}{}{D.E.U.S. Weapon}
 {51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
-{51400}{}{Chimera Horn}
+{51400}{}{Horns}
 {51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
-{51500}{}{Chimera Claw}
+{51500}{}{Claws}
 {51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
-{51600}{}{Coyote Teeth}
+{51600}{}{Teeth}
 {51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
-{51700}{}{Coyote Fang}
+{51700}{}{Sharp Fangs}
 {51701}{}{This jackal was clearly not eager to share this tooth with you. Appreciate it as its former owner did.}
-{51800}{}{Molerat Fang}
+{51800}{}{Fangs}
 {51801}{}{The sharp fang of a creepy mole rat.}
-{51900}{}{Ursa Fang}
+{51900}{}{Fangs}
 {51901}{}{Ursa don't like to part with their teeth very much, so whoever got it is a brave man or not a man at all.}
-{52000}{}{Ursa Claw}
+{52000}{}{Claws}
 {52001}{}{Ursa claws are not uncommon, but they are still worth something. Sharp and dangerous! You can rip open a couple of throats.}
-{52100}{}{Rat Fang}
+{52100}{}{Fangs}
 {52101}{}{Rats are not uncommon in these parts, so you can collect a few dozen of these fangs if you want.}
-{52200}{}{Scorpion Stinger}
+{52200}{}{Stinger}
 {52201}{}{From the stinger of a scorpion, you can get a sample of its venom, which is very useful in making an antidote. Or use it as a weapon.}
-{52300}{}{Beast Fang}
+{52300}{}{Fangs}
 {52301}{}{The owner of such a trophy can be proud of himself. The sale is very profitable, and it's also very useful as a melee weapon.}
-{52400}{}{Beast Claw}
+{52400}{}{Claws}
 {52401}{}{The Beast's Claw is an excellent melee weapon.}
 {52500}{}{Shelves}
 {52501}{}{Wooden shelves with some junk on them.}
@@ -1146,9 +1146,9 @@
 {57301}{}{This is very convenient to store personal items and more here.}
 {57400}{}{Locker}
 {57401}{}{A metal cabinet with a door.}
-{57500}{}{Box}
+{57500}{}{Footlocker}
 {57501}{}{A metal box, which perfectly protects things from adverse external influences.}
-{57600}{}{Box}
+{57600}{}{Footlocker}
 {57601}{}{A metal box, which perfectly protects things from adverse external influences.}
 {57700}{}{Wardrobe}
 {57701}{}{If you are asked why you went into someone else's closet, answer that you were looking for a transition to a fairy-tale world in it.}
