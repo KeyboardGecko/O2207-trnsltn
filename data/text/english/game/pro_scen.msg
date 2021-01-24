@@ -380,7 +380,7 @@
 {19900}{}{Curb}
 {19901}{}{A destroyed part of the sidewalk.}
 {20000}{}{Motorcycle}
-{20001}{}{A rusty motorcycle of the Sunset Dogs.}
+{20001}{}{A rusty motorcycle of the Sunset Jackals.}
 {20100}{}{Sign}
 {20101}{}{The sign on this post is pretty rust.}
 {20200}{}{Sign}
