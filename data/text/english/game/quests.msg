@@ -26,7 +26,7 @@
 {300}{}{Carl's machine broke down, and he needs spare parts from Chris Murena's warehouse.}
 {301}{}{Search and get hold of an Ultra Repair Kit.}
 {302}{}{Find a rare whetstone for Harry.}
-{303}{}{Go and hunt some Ursa, try not to die.}
+{303}{}{Go and hunt with Urs, try not to die.}
 {304}{}{Casper initiated a siege against Vince. You need to help Vince.}
 {305}{}{Barker crafts necklaces out of chimera teeth and needs 3 more.}
 {306}{}{Oswald Brown wouldn't mind to get hold of a rare vintage "Slugger" pistol.}
@@ -38,10 +38,10 @@
 {400}{}{Mark asks you to broke peace between his wife Lucy and his adviser Sam.}
 {401}{}{Buck suggested that you find a replacement for the dying Mayor Mark.}
 {402}{}{Juan complains about the broken machine and asks you to help him.}
-{403}{}{Scout Cyren is going to Tin Industries for cans, but he needs a partner.}
+{403}{}{The scout Seren is going to Tin Industries for cans, but he needs a partner.}
 {404}{}{You can guard Flint's caravans for a good payoff.}
 {405}{}{Clumsy Owen has dislocated his arm, and we need to help him.}
-{406}{}{Someone steals meat from a warehouse in the workshop yard, and the innocently accused Skeet is sitting behind bars.}
+{406}{}{Someone steals meat from the warehouse in yard, and the innocently accused Skeet is sitting behind bars.}
 {407}{}{Philip's lavash refuse to eat food. Find out what the reason is.}
 {408}{}{The last time water came from Livos, it tasted strange. Sam asks you to look into what's going on.}
 {409}{}{Brothers Seth and Mat can not get along with each other, you need to reconcile them.}
@@ -56,7 +56,7 @@
 {503}{}{Christopher Shvain is in love with Minnie Horton and asks you to help him hook up with her.}
 {504}{}{Dallas McKinsey is in love with Minnie Horton and asks you to help him hook up with her.}
 {505}{}{Ludwig Shvain says that someone stole his textbook on wave physics. Help him return the valuable book.}
-{506}{}{Sope Danton can no longer stand the tyranny of his wife Emily and asks you to "remove" her.}
+{506}{}{Sopé Danton can no longer stand the tyranny of his wife Emily and asks you to "remove" her.}
 {507}{}{Claudia Horton gets on Boston's nerves over her husband's death. We need to find a way to calm her down.}
 {508}{}{Eduard Shvain accidentally gave the Laivos Constitution to some huge savage, and asks you to return it.}
 #
@@ -78,7 +78,7 @@
 #
 {700}{}{Defeat Klumk if you want to stay alive!}
 {701}{}{Khala's hand was bitten by a ravenous animal, and she needs medical attention.}
-{702}{}{Ptuna can't find her desert jackal fang anywhere.}
+{702}{}{Ptuna can't find her coyote fang anywhere.}
 #
 # FREDS HOUSE Quests
 #
@@ -87,10 +87,10 @@
 #
 # OLYMPUS TOWER Quests
 #
-{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Gray. (The injection works only for 8 days)}
-{901}{}{Phillip Gray is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
-{902}{}{Daimond Krank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
-{903}{}{Daimond Krank is confident that Ludwig Shvain will be able to help him break the deadlock on his research. Bring Ludwig to him.}
+{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Grey. (The injection works only for 8 days)}
+{901}{}{Phillip Grey is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
+{902}{}{Daimond Crank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
+{903}{}{Daimond Crank is confident that Ludwig Shvain will be able to help him break the deadlock on his research. Bring Ludwig to him.}
 {904}{}{Captain N34 asks you to fill out all the documentation forms and conduct weapon tests.}
 {905}{}{It's time to change the password for the Control Room. Go to the Server Floor and follow the instructions.}
 {906}{}{KILL ANDERSON!}
@@ -98,6 +98,6 @@
 {908}{}{Sergeant Jack has his eye on Kelly from the Biology Labs. Convince Kelly to meet with Jack.}
 {909}{}{Moreau can not calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
 {910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what'S up with that.}
-{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Gray for his services. Moreau might help.}
-{912}{}{To complete the clone, Dr. Moreau needs the Stemm Cell Essence from the Nr. 2 Biolab.}
+{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Grey for his services. Moreau might help.}
+{912}{}{To complete the clone, Dr. Moreau needs the Stemm Cell Essence from Biolab Nr.2.}
 {913}{}{Taylor can repair an advanced Powersuit of the Enlightened Ones, if you bring him a servo from a similar suit.}
