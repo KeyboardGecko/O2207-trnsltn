@@ -20,7 +20,7 @@ f##############################
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Under thin greasy locks of hair, falling on the forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under the bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened, canine-like teeth] Ssoo... Unfeed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
+{10}{}{[Under thin greasy locks of hair, falling on forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under loads of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened, canine-like teeth] Ssoo... Unfeed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
 {11}{013}{Unfeed who? What are you even talking about?}
 {12}{011}{I really hope you're joking. It would be better for everybody.}
 {13}{014}{What an interesting choice. And you are the local cook, I suppose?}
@@ -36,11 +36,11 @@ f##############################
 {104}{012}{Why do you still call me an outsider? I proved my right to be side by side with you in battle!}
 {105}{025}{You didn't see a sand wolf around here by any chance, did you?}
 {106}{019}{It's about your wounds. I need to examine them one more time.}
-{107}{999}{Не отвлекайся, я всего лишь проходил мимо.}
-{1002}{}{[Ее слезящиеся глаза впиваются вам в лицо, словно выбирая место, куда вонзить острые зубы] Чужак? Рука болит все сильнее! Может, если Кхала омоет раны твоей кровью, ей станет легче? }
-{108}{027}{Спокойно! Я как раз вернулся помочь тебе.}
-{109}{999}{Подожди еще немного, уже скоро.}
-{1010}{031}{Это боль ничто, по сравнению с той, что ты испытаешь сейчас, бешенная тварь! Давно пора отправить тебя в ад!}
+{107}{999}{Don't get distracted, I was just coming by.}
+{1002}{}{[Her teary eyes suck onto your face, as if choosing where to sink sharp teeth] Outsider? The hand hurts even more! Maybe if Khala washes her wounds with your blood, she would feel better? }
+{108}{027}{Calm down! I've returned to help you.}
+{109}{999}{Wait for a little longer, soon it'll be done.}
+{1010}{031}{This pain is nothing, compared to what you are going to suffer, you crazy animal! It's time to put you down!}
 {1003}{}{[Подтачивает зубы сломанным напильником, но при виде вас прячет его в один из кармашков замызганного фартука, на котором прибавилось кровавых пятен] И снова чужак приходит к Кхале... Велик и мудр Несытый Молчальник - он не дал ей сразу съесть тебя... [Достает из другого кармана кусок мяса и протягивает вам] Ёочешь? Почему нет? Свежее, только гнить начало! Чужаки такие странные...}
 {1011}{013}{Извини, что помешал тебе наводить красоту, но ты не расскажешь мне об этом Несытом?}
 {1012}{012}{Так и будешь называть меня чужаком?}
