@@ -30,7 +30,7 @@
 {6}{}{A girl running around Tartarus.}
 {7}{}{Nothing unusual, just a little girl.}
 {8}{}{This girls are always get on your way!}
-{9}{}{She is so sassy looking at you it makes you feel uncomfortable...}
+{9}{}{She is so sassy-looking at you that it makes you feel uncomfortable...}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #

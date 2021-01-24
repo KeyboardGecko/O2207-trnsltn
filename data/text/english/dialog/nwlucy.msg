@@ -1,456 +1,405 @@
 ##############################
-#Локация: НМП
-#Имя: Люси
-#Краткое описание: Жена руководителя НМП
-#Дата создания: 01.08.2014
+#‹®Є жЁп: ЌЊЏ
+#€¬п: ‹обЁ
+#Ља вЄ®Ґ ®ЇЁб ­ЁҐ: †Ґ­  агЄ®ў®¤ЁвҐ«п ЌЊЏ
+#„ в  б®§¤ ­Ёп: 01.08.2014
 ##############################
-#Для игры "Олимп 2207"
-#Артем "Rainman" Самойлов
+#„«п ЁЈал "Ћ«Ё¬Ї 2207"
+#ЂавҐ¬ "Rainman" ‘ ¬®©«®ў
 ##############################
 #
-#ОПИСАНИЕ КРИТТЕРА
+#ЋЏ€‘ЂЌ€… Љђ€’’…ђЂ
 #
-# до знакомства
-{1}{}{Вы видите: Красивая ухоженная женщина.}
-{2}{}{Она выглядит довольно привлекательно, несмотря на свой возраст. Судя по всему она явно не из "рабочего класса".}
+# ¤® §­ Є®¬бвў 
+{1}{}{You see: beautiful, well-groomed woman.}
+{2}{}{She looks pretty attractive, despite her age. She is definitely not of "working class".}
 #
-# после знакомства
-{3}{}{Вы видите: Люси.}
-{4}{}{Она как всегда безупречна.}
+# Ї®б«Ґ §­ Є®¬бвў 
+{3}{}{You see: Lucy.}
+{4}{}{She looks flawless, as always.}
 #
-#ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
+#‡„…‘њ ЌЂ—€ЌЂ…’‘џ „€Ђ‹Ћѓ
 #
-{10}{}{[Перед Вами женщина средних лет. Несколько морщин на ее лице выдают ее возраст, но аккуратно сложенные волосы, чистая и опрятная одежда и хорошо ухоженная кожа оставляют впечатление довольно симпатичной особы. Легкая улыбка и сверкающий взгляд говорят о ее активности, даже о некотором озорстве. От нее исходит слабый сладковатый аромат духов.] Здравствуйте. Что-то я Вас не припомню, мы знакомы?}
-{11}{002}{Здравствуйте. Нет, мы не знакомы, я прибыл сюда недавно. }
-{12}{014}{Привет. Нет, я недавно здесь.}
-{13}{020}{Ха, я тебя тоже первый раз вижу. }
+{10}{}{[You see a middle-aged woman. A few wrinkles on her face indicate about her age, but with impecably made hair, clean clothes and well-tended skin she look very attractive. She has a light smile and shining eyes and smells with a faint sweet scent of perfume.] Good day. I don't remember us meeting before, do I know you?}
+{11}{002}{Hello. No, I'm here recently. }
+{12}{014}{Hi. No, it's my first time here.}
+{13}{020}{Hah, I see you for the first time too. }
 
+{20}{}{[you hear curiosity in her voice] Oh, I'm so glad do meet a new people in our town! My name is Lucy, I'm Mark's wife. Come, make yourself at home, let's have a chat.}
+{21}{003}{I'm also fond of meeting new people. You can learn so much new information from them!}
+{22}{015}{I like talking to new peolpe too. You can make a lot of benefit from it.}
+{23}{017}{I don't like to talk sideways. Usually, I'm specific.}
+{24}{018}{Actually I'm not much of a talker. I prefer to act first, then ask questions.}
+{25}{010}{Thank you, but first I'd like to ask a few questions.}
+{26}{999}{Thanks, but not now, I'm in a hurry. Talk later.}
 
-{20}{}{[В голосе появляется интерес] О, я всегда рада новым людям в нашем городе! Я Люси, жена Марка. Проходите, располагайтесь, пообщаемся.}
-{21}{003}{Мне тоже всегда интересно знакомиться с новыми людьми. Столько много новой информации можно узнать!}
-{22}{015}{Я тоже люблю общаться с новыми людьми. Из общения всегда можно извлечь много пользы.}
-{23}{017}{Я редко люблю разговаривать по пустякам. Обычно кратко и по делу.}
-{24}{018}{Вообще-то, я не особо разговорчив. Я предпочитаю сразу действовать, а потом разбираться.}
-{25}{010}{Спасибо, но для начала я хотел бы задать несколько вопросов.}
-{26}{999}{Спасибо, но не сейчас, я спешу. Позже загляну.}
+{30}{}{[she brightens up] That's what I think too! Learning new things is so interesting! It's very boring here, no one to have a normal discussion with, while there's so much stuff going on around! For example, recently husband of my friend's sister caught my friend's brother making out with her sister, and then she... [you are caught into a long monologue about relationships between NWP's inhabitants] ...and turns out my friend actually cheated on her husband with his brother!}
+{31}{004}{[you listen with you mouth wide open, with attention to every detail] How could this happen!}
+{32}{008}{[you pretend to listen carefully, but actually tune out] Oh wow, I have no words!}
+{33}{008}{[from very beginning of her monologue, you begin to recall every single thing that occured to you since the start your journey. You count every ammo spent by you and your enemies in battles. And just as you started to count all the food you have eaten, Lucy finishes] What a story!}
+{34}{011}{[you fall asleep almost immediately. You wake up only when she finishes] What, done already?}
 
+{40}{}{You didn't listen!}
+{41}{005}{Yes I did, very carefully!}
+{42}{013}{I did, but not very carefully.}
+{43}{011}{Frankly speaking, no, I didn't.}
 
 
+{50}{}{[she starts to get angry] Then tell me, with whom my friend's sister cheated with: my friend's husband, brother of my friend's husband, or with brother of sister's husband? You have four tries!}
+{51}{007}{[you know the right answer, because you listened carefully] Of course with brother of your friend's husband!}
+{52}{006}{How can it be four tries if there are three options?}
 
-{30}{}{[Люси сильно оживилась] Вот и я так думаю! Это ж так интересно - узнавать новости! Здесь очень скучно, не с кем даже поговорить нормально. А вокруг столько всего происходит! Вот недавно муж сестры моей подруги застукал брата подруги со своей сестрой, а она... [далее идет длинный монолог на тему отношений между жителями НМП] ... и потом подруга все-таки изменила мужу с его братом!}
-{31}{004}{[Вы слушаете с открытым ртом, внимательно вникая во все детали] Бывает же такое!}
-{32}{008}{[Вы делаете вид, что внимательно слушаете, пропуская все мимо ушей] Надо же, вообще нет слов!}
-{33}{008}{[С самого начала монолога Вы начали вспоминать все события, которые происходили с Вами с начала путешествия. Успели посчитать все патроны, которые потратили Вы, и которые потратили враги. И начали уже считать потраченные припасы, но Люси закончила] Да, очень интересная история!}
-{34}{011}{[Почти сразу Вы начинаете дремать, очнувшись только тогда, когда Люси закончила] Что, уже все?}
 
+{60}{}{Don't try to change the subject with your math! Answer me!! [she is ready to explode, time to give the answer]}
+{61}{007}{Of course with brother of your friend's husband!}
 
 
 
-{40}{}{Да ты не слушал!}
-{41}{005}{Я слушал очень внимательно!}
-{42}{013}{Слушал, но не очень внимательно.}
-{43}{011}{Если честно, вообще не слушал.}
 
+{70}{}{[she almost jumps up from joy] That's correct! You did listen! You are so cool!}
+{71}{010}{Yeah, it was interesting. Let me ask you something.}
+{72}{999}{Um, I'll go, see you around.}
 
 
 
+{80}{}{You didn't listen!}
+{81}{005}{Yes I did, very carefully!}
+{82}{013}{I did, but not very carefully.}
+{83}{011}{Frankly speaking, no, I didn't.}
 
-{50}{}{[Люси начинает заводиться] Тогда с кем изменила сестра подруги: с мужем подруги, с братом мужа подруги или с братом мужа? У тебя четыре попытки из трех вариантов!}
-{51}{007}{[Так как Вы очень внимательно слушали, Вы знаете ответ] Конечно с братом мужа подруги!}
-{52}{006}{А как может быть четыре попытки из трех вариантов?}
 
 
-{60}{}{Ты мне зубы не заговаривай своей математикой! Отвечай! [Люси явно на взводе, пора говорить правильный ответ ]}
-{61}{007}{Конечно с братом мужа подруги!}
 
+{90}{}{[she starts to get angry] Then tell me, with whom my friend's sister cheated with: my friend's husband, brother of my friend's husband, or with brother of sister's husband? You have four tries!}
+{91}{011}{with your friend's husband!}
+{92}{007}{with brother of your friend's husband!}
+{93}{011}{with brother of sister's husband!}
+{94}{012}{How can it be four tries if there are three options?}
 
 
+{1000}{}{[seeing you, Lucy smiles a little] Oh, hello! Decided to come again?}
+{1001}{}{Okay then.}
+{1002}{}{[Lucy gives you a wide smile, waving her hand. She is definitely fond of you]Hey! Glad to see you! Wanna chat?}
+{1003}{}{[seeing, you Lucy tries to take on a serious look, crossing hands on her chest. She is definitely upset with you.] Yes, did you want something?}
+{1004}{}{You! Asshole! How could you! What disgusting things did you say to Mark about my son!? Are you hungry for power or something?}
+{101}{031}{What can I do in a town like this?}
+{102}{027}{Lucy, you are a wonderful person. I feel so easy when we talk, because you are so so sincere and open. This qualities are so rare to meet in someone, especially in current times.}
+{103}{029}{I noticed that you are remarkably good at taking care of yourself. How do you manage to be so well-groomed and good-looking among all this dirtyness and pollution around?}
+{104}{040}{Can you tell me about your family?}
+{105}{029}{You are so beautiful and clean. How are you doing it?}
+{106}{054}{What's the problem?}
+{107}{055}{Maybe you should have spent more time on parenting your son?}
+{108}{999}{I'll come by later.}
 
-{70}{}{[Люси от радости начинает подпрыгивать] Правильно! Ты действительно внимательно слушал! Ты такой классный!}
-{71}{010}{Да, было очень интересно. Давай, я у тебя спрошу.}
-{72}{999}{Ух, я пойду, потом увидимся.}
 
+{110}{}{You didn't listen at all! [she turns around and keeps silence]}
+{111}{999}{[You see that Lucy is upset and don't want to talk anymore. You quietly leave.]}
 
 
-{80}{}{Да ты не слушал!}
-{81}{009}{Я слушал очень внимательно!}
-{82}{013}{Слушал, но не очень внимательно.}
-{83}{011}{Если честно, вообще не слушал.}
+{120}{}{Don't try to change the subject with your math! Answer me!! [she is ready to explode, time to give the answer]}
+{121}{011}{with your friend's husband!}
+{122}{007}{with brother of your friend's husband!}
+{123}{011}{with brother of sister's husband!}
 
 
 
 
-{90}{}{[Люси начинает заводиться] Тогда с кем изменила сестра подруги: с мужем подруги, с братом мужа подруги или с братом мужа? У тебя четыре попытки из трех вариантов!}
-{91}{011}{С мужем подруги!}
-{92}{007}{С братом мужа подруги!}
-{93}{011}{С братом мужа!}
-{94}{012}{А как может быть четыре попытки из трех вариантов?}
+{130}{}{[Lucy looks a little upset, watching at you with silence. It seems though, that she wants to continue the conversation.]}
+{131}{010}{Let me better ask you a few questions.}
+{132}{999}{I'll go think about everything, see you later.}
 
 
-{1000}{}{[При виде Вас Люси слегка улыбается] А, привет, решил снова зайти?}
-{1001}{}{Ладно, давай.}
-{1002}{}{[Люси широко улыбается и машет Вам рукой. Она явно испытывает к Вам симпатию] Привет! Рада тебя видеть! Хочешь снова поговорить?}
-{1003}{}{[При виде Вас Люси пытается сделать серьезное выражение лица и скрещивает руки на груди. Она явно обижена] Да, ты что-то хотел?}
-{1004}{}{Ты! Сволочь! Как ты мог! Что ты там наговорил Марку про моего сыночка!? Жажда власти, да?}
-{101}{031}{Чем здесь в городе можно заняться?}
-{102}{027}{Люси, ты замечательный человек. Мне так приятно общаться с тобой, ты такая искренняя и открытая, это очень ценно в нашем мире. }
-{103}{029}{Я заметил, что ты очень хорошо ухаживаешь за собой. Как у тебя получается быть такой чистой и опрятной среди всей этой грязи и мусора вокруг?}
-{104}{040}{Можешь рассказать о своей семье?}
-{105}{029}{Ты очень красивая и чистая. Как это у тебя получается?}
-{106}{054}{В чем проблема?}
-{107}{055}{Может стоило заниматься воспитанием сына?}
-{108}{999}{Я позже зайду.}
+{140}{}{[you hear curiosity in her voice] I'm always glad do meet a new people in our town! My name is Lucy. Come, make yourself at home, let's have a chat.}
 
+{141}{003}{Yes, let's chat. I always like to hear new things.}
+{142}{015}{We can talk. You can find something valuable in every conversation.}
+{143}{017}{I don't like to talk sideways. Usually, I'm specific.}
+{144}{018}{Usually I'm more of a "punch now, talk later" guy. }
+{145}{010}{First I'd like to ask a few questions.}
+{146}{999}{I have no time to chat. I'll see you later.}
 
 
+{150}{}{Of course, every conversation is valuable! You can hear so much interesting news and gossips!}
+{151}{003}{I like hearing interesting news.}
+{152}{016}{I meant news that can benefit me.}
+{153}{019}{No, I'd like to know something specific.}
 
 
+{160}{}{[Lucy definitely didn't understand you] Oh, you must be talking about news from work or something? I'm not into that. Ask my husband Mark, maybe he can talk about such stuff.}
+{161}{010}{Maybe you'll answer a few questions first?}
+{162}{999}{Okay, I'll go see him.}
 
 
+{170}{}{[Lucy looks disappointed] So sad, because I love to chat. I have so many interesting news to tell! But I can't make it short...}
+{171}{003}{Okay, let's make an exception for today. I am starting to wonder what news do you have.}
+{172}{010}{Then better don't. Let's do it like this - I'll ask you specific questions and you'll answer them. Okay?}
 
-{110}{}{Ты совсем меня не слушал! [Люси обиженно отворачивается и молчит]}
-{111}{999}{[Вы понимаете, что Люси обиделась, и не хочет дальше разговаривать. Вы молча уходите]}
 
+{180}{}{[Lucy makes a pause, looking displeasured. Then, with hope in her eyes, she continues]. Maybe you actually want to hear some of the news? They are very interesting!}
+{181}{003}{Okay, I actually don't mind hearing some interesting news.}
+{182}{010}{No, Lucy, I don't. Let me ask you a few questions.}
 
 
+{190}{}{[she stops smiling] S-specific?.. I don't understand... I know nothing specific...}
+{191}{010}{Let me ask you questions, just answer them.}
+{192}{999}{Too bad you can't be specific. Talk later then. Bye.}
 
-{120}{}{Ты мне зубы не заговаривай своей математикой! Отвечай! [Люси явно на взводе, надо что-то отвечать]}
-{121}{011}{С мужем подруги!}
-{122}{007}{С братом мужа подруги!}
-{123}{011}{С братом мужа!}
 
+{200}{}{[she frowns and takes a step back] If you need something, tell me. I'm mayor's wife, therefore I'm very busy. My name is Lucy.}
+{201}{021}{[You notice that your straightforwardness made her upset. You think about some words to fix the situation, but nothing comes up, as usual. You make a sad face and throw your hands up]}
+{202}{010}{I want to ask a question.}
+{203}{999}{I'll go. }
 
 
+{210}{}{[she looks a little kinder than before] You know, you somehow remind me my son, Daniel. You have some common qualities. Wan to hear an interesting story? }
+{211}{022}{Yeah, I can listen.}
+{212}{025}{No, I need something.}
+{213}{999}{No, I'll go.}
 
-{130}{}{[Люси слегка обиделась, смотрит на Вас и молчит. Но видно, что она хочет продолжить разговор]}
-{131}{010}{Давай, лучше я задам тебе несколько вопросов.}
-{132}{999}{Пойду все обдумаю, увидимся позже.}
 
 
 
+{220}{}{[Lucy starts to get lively] Recently, husband of my friend's sister caught my friend's brother making out with her sister, and then she... [you are caught into a long monologue about relationships between NWP's inhabitants] ...and turns out my friend actually cheated on her husband with his brother!}
+{221}{023}{[You make a great effort, trying to make connection between everyone in this story, but you fail to do so]}
+{222}{023}{[You pretend to try to make connection between everyone in this story, but actually you don't really try]}
+{223}{024}{[You start to distract yourself, scratch your head, pick your nose.]}
 
-{140}{}{[В голосе появляется интерес] О, я всегда рада новым людям в нашем городе! Я Люси. Проходите, располагайтесь, пообщаемся.}
-{141}{003}{Давай пообщаемся. Я всегда любил узнавать много нового.}
-{142}{015}{Можно и пообщаться. В любом разговоре всегда можно найти нечто полезное.}
-{143}{017}{Обычно я говорю мало и только по делу.}
-{144}{018}{Не люблю слов. В обычной жизни я сначала бью, потом говорю. }
-{145}{010}{Сначала я хотел бы спросить.}
-{146}{999}{Сейчас у меня нет времени на разговоры. Зайду позже.}
 
 
+{230}{}{[Lucy leniently looks at you] Okay, you probably didn't get it. Oh, well. Tell me, what do you want.}
+{231}{010}{I want to ask a question.}
+{232}{999}{I'll go. }
 
 
-{150}{}{Конечно, в любом разговоре очень много полезного! Столько полезных и интересных новостей можно узнать!}
-{151}{003}{Я люблю узнавать интересные новости.}
-{152}{016}{Я имел в виду новости, которые могут принести мне пользу.}
-{153}{019}{Нет, я хотел бы узнать что-то конкретное.}
 
 
+{240}{}{[Lucy leniently looks at you] You definitely didn't listen. Oh, well. Tell me, what do you want.}
+{241}{010}{I want to ask a question.}
+{242}{999}{I'll go. }
 
 
 
-{160}{}{[Люси смотрит на Вас, не понимая] Ааа, наверное, ты о новостях по работе. Я такими не занимаюсь. Спроси моего мужа, Марка, у него может быть работа.}
-{161}{010}{Ответишь сначала на несколько вопросов?}
-{162}{999}{Хорошо, пойду поищу его.}
+{250}{}{What do you want? I have nothing to treat you with. Go to Daniel, maybe you'll find common ground.}
+{251}{026}{Have a job for me?}
+{252}{010}{I want to ask.}
+{253}{999}{I'll go to Daniel, bye.}
 
 
 
 
-{170}{}{[Люси разочаровано смотрит на Вас] Очень жаль, а то я очень люблю общаться. У меня столько интересных новостей есть! Но кратко у меня не получится...}
-{171}{003}{Думаю, сегодня можно сделать исключение. Мне стало интересно узнать, что это за новости.}
-{172}{010}{Тогда лучше не надо. Давай я задам тебе конкретные вопросы, а ты на них ответишь?}
+{260}{}{Ask my husband, Mark. Maybe he'll get a job for you.}
+{261}{010}{I want to ask then.}
+{262}{999}{I'll go to mark, bye.}
 
 
 
 
-{180}{}{[Люси с досадой делает паузу. Потом с надеждой в глазах продолжает] Может, все-таки послушаешь новости? Они очень интересные!}
-{181}{003}{Ладно, очень интересные всегда можно послушать.}
-{182}{010}{Нет, Люси, не надо. Давай я лучше задам тебе несколько вопросов.}
+{270}{}{[Lucy blushes, then gives you a shiny smile] That is so nice, thank you! Mark never tells me such words... Not a lot of people here notice my talents... }
+{271}{034}{How can one not notice your talents? You are the best in the topics of relationships between NWO's inhabitants. To be just that, one needs to have a wide worldview and honed skills.}
+{272}{029}{You are very attractive woman, you deserve to be the face of this town. }
+{273}{028}{I'm charmed by your sharp mind and wise judgement in dealing with any questions.}
 
 
+{280}{}{[Lucy feels that something wrong here and becomes serious] Oh, you are flattering. Let's talk about something else.}
+{281}{010}{Okay, let's change the subject. Another question.}
 
 
-{190}{}{[Улыбка сходит с ее лица] Что-то конкретное?.. Я не понимаю... Я ничего такого не знаю...}
-{191}{010}{Давай я задам тебе вопросы, а ты ответишь.}
-{192}{999}{Жаль, что ничего конкретного ты не можешь сказать. Поговорим позже, пока.}
+{290}{}{[Lucy smiles] Yes, woman should always be beautiful: at home, in the streets, at parties. I love taking care of myself. The looks is what always comes first. And I have a special, secret recipe, which helps me to keep myself young.}
+{291}{028}{You look like a 20-year-old even without a secret recipe! }
+{292}{030}{A secret recipe? You won't find such things just laying under your feet.}
+{293}{039}{Your appearance means nothing, the intellect is everything!}
+{294}{039}{The power comes first, looks doesn't matter much.}
+{295}{010}{Okay, let me ask another question.}
+{296}{999}{Good talk, but I need to go.}
 
 
 
+{300}{}{No, you are wrong here. Look around: what do you see?}
+{301}{}{All this buildings is not quite what I mean. What else do you see?}
+{302}{}{Everyone's going somewhere, to home, to work. What else?}
+{303}{}{Everyone has a lot of this stuff. What else do you observe?}
+{304}{030}{Buildings, houses... They serve us shelter.}
+{305}{030}{People, ghouls... Each carries his purpose.}
+{306}{030}{Guns, blades, ammo... Everyone has something on him.}
+{307}{032}{Dirt, trash, shit... That's the most common thing around us on the streets.}
 
 
-{200}{}{[Женщина нахмурилась, немного отстранилась] Если Вам что-то надо, говорите. Я жена мэра, и поэтому очень занята. Зовут меня Люси.}
-{201}{021}{[Вы замечаете, что Ваша прямолинейность ее расстроила. Вы пытаетесь подобрать слова, чтобы сгладить ситуацию, но ничего в голову не приходит. Впрочем, как обычно. Вы строите жалостливую гримасу и слегка разводите руками]}
-{202}{010}{Я хочу задать вопрос.}
-{203}{999}{Я пойду. }
+{310}{}{[Lucy frowns] It is very boring here, almost nothing to do. Everything is the same - same people, same days... Let's talk about something else.}
+{311}{010}{Okay, let me ask another question.}
 
 
+{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use lavash waste as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
+{321}{033}{To rub some lavash GUANO into my face? Of course! I've always dreamed about it - about having such beautiful skin!}
+{322}{010}{No way I'm getting this thing close... I mean, I'm good. Better ask you something else.}
+{323}{999}{Nah, don't wanna. Will better go to get some fresh air...}
 
 
 
-{210}{}{[Люси немного подобрела] Знаешь, ты мне чем-то напоминаешь моего сыночка Даниэля. У вас есть какие-то похожие черты. Хочешь послушать интересную историю? }
-{211}{022}{Да, я послушаю.}
-{212}{025}{Нет, мне кое-что нужно.}
-{213}{999}{Нет, я пойду.}
 
+{330}{}{[For a while Lucy puts the thick layer of GUANO on your head and face. Sitting under it you actually feel how your skin rejuvenates and hair becomes soft and silky] And that's it! Wow, you are so beautiful now!}
+{331}{010}{Yeah, I definitely feel myself a few years younger! I want to ask you about something else.}
+{332}{999}{Right, I immediately need to go take a shower. I mean, to fully feel all the silkyness and freshness of my skin. See you.}
 
 
 
-{220}{}{[Люси сильно оживилась] Недавно муж сестры моей подруги застукал брата подруги со своей сестрой, а она... [далее идет длинный монолог на тему отношений между жителями НМП] ... и потом подруга все-таки изменила мужу с его братом!}
-{221}{023}{[Вы всеми силами стараетесь уловить связь между участниками истории, но у Вас ничего не получается]}
-{222}{023}{[Вы делаете вид, что стараетесь уловить связь между участниками истории, но на самом деле не стараетесь]}
-{223}{024}{[Вы начинаете почесывать затылок, отвлекаться, ковыряться в носу]}
 
 
+{340}{}{[Lucy shines from happiness] This is my biggest talent! It's a pity I can't use it more often. I know so many things about everyone, can talk for hours!}
+{341}{035}{Let's go to a private room, where nothing will distract us. We'll continue the conversation there.}
+{342}{010}{No, thanks, I have no time to listen. I have a question to ask.}
+{343}{999}{Thanks for the talking, but I need to go.}
 
-{230}{}{[Люси снисходительно смотрит на Вас] Ладно, вряд ли ты понял всю историю целиком. А, что с тебя взять. Говори, что ты хотел.}
-{231}{010}{Хочу задать вопрос.}
-{232}{999}{Я пойду. }
 
 
 
+{350}{}{[The two of you go into a secluded room. Lucy flirtaciously looks at you] Well? What you want to do?}
+{351}{036}{Perfect, here no one will distract us... from a game [put out a chessboard]}
+{352}{037}{At last we are alone... [hug Lucy...]}
+{353}{038}{I am so ready to all of your stories [Sit tightly and start to listen...]}
+{354}{010}{No, it's too quiet here, let's go back and I'll ask some questions.}
 
 
-{240}{}{[Люси снисходительно смотрит на Вас] Ты даже и не слушал. А, что с тебя взять, я даже обидеться на тебя не могу. Говори, что ты хотел.}
-{241}{010}{Хочу задать вопрос.}
-{242}{999}{Я пойду. }
 
 
+{360}{}{[you easily win a couple of games in a row] Nah, It's very boring. Let's go back.}
+{361}{010}{Let's go, I have some questions.}
 
 
-{250}{}{Что ты хочешь? Мне нечем тебя угостить. Сходи-ка к Даниэлю, может, найдете общий язык.}
-{251}{026}{Есть работа?}
-{252}{010}{Хочу задать вопрос.}
-{253}{999}{Пойду к Даниэлю, пока.}
 
+{370}{}{[after hours of gymnastic exersises and acrobatics, tired but happy, you get back to reality] That was not bad at all. Let's go back.}
+{371}{010}{Let's go, I have some questions.}
 
 
 
-{260}{}{Спроси моего мужа, Марка. Может, подберет тебе работу.}
-{261}{010}{Тогда задам вопрос.}
-{262}{999}{Пойду к Марку. Пока.}
+{380}{}{[Lucy, for a really long time, tells you gossips in which you have no interest in] Oh, I haven't had such talk for a while. You are very good listener. But we need to go back.}
+{381}{010}{That was bloody interesting. Let's go, I have some questions.}
 
 
 
 
-{270}{}{[Люси немного покраснела, засмущалась. Она улыбается и вся сияет] Ой, как приятно, спасибо! Мне Марк никогда таких слов не говорил... Мало кто замечает мои достоинства... }
-{271}{034}{Как можно не замечать твою тонкую проницательность? Ты же лучше всех разбираешься в том, что происходит между жителями НМП. Нужно иметь огромный талант и широкий кругозор, чтобы все это заметить.}
-{272}{029}{Ты очень привлекательная женщина и достойна быть лицом города. }
-{273}{028}{Меня восхищает твой острый ум, твоя мудрая рассудительность в решении любых вопросов.}
+{390}{}{[Lucy frowns] If you were a woman, you'd understand. Okay, enough of that.}
+{391}{010}{Then another question.}
 
 
 
+{400}{}{I live with my husband Mark and my sonny Daniel. And there's this Sam, always crawling around. I hate him.}
+{401}{041}{Mark? Tell me more about Mark.}
+{402}{042}{Tell me about Daniel.}
+{403}{043}{I'd like to hear about Sam.}
+{404}{053}{Tell me about yourself. How did you end up here?}
+{405}{010}{I want to ask another question.}
+{406}{999}{I need to go, we'll talk later.}
 
 
 
 
+{410}{}{Mark is my husband, he is the mayor of NWO. He is always busy with his job, can't even talk to me, I need it so much! Also, lately, his health is not so good as before. And all this quarrels with Dunn are not helping at all!}
+{411}{048}{Why does he quarrel with Dunn?}
+{412}{049}{Tell me about Dunn.}
+{413}{040}{I want to ask more about family.}
+{414}{010}{I have another question.}
 
-{280}{}{[Люси чувствует подвох, и становится более серьезной] Ой, да ты мне льстишь. Давай поговорим о чем-нибудь другом.}
-{281}{010}{Хорошо, сменим тему. Еще вопрос.}
 
 
 
+{420}{}{[Lucy smiles] Daniel... My favourite son! He is so bright! He's the future mayor of this place! He's the only one who can lead this place after Mark. I'm always helping him in all matters.}
+{421}{051}{Do you think he will be a good successor to Mark?}
+{422}{052}{What matters do you mean?}
+{423}{040}{Then I want to ask more about family...}
+{424}{010}{I have another question.}
+{425}{999}{Okay, I'll go talk to him.}
 
 
 
-{290}{}{[Люси улыбается] Да, женщина должна быть красивой всегда и везде: и дома, и на улице, и в гостях. Я очень люблю ухаживать за собой. Внешний вид - это главное в любом деле. У меня есть секретный рецепт, как выглядеть всегда молодой.}
-{291}{028}{Ты выглядишь на 20 лет даже без секретного рецепта! }
-{292}{030}{Секретный рецепт? Такое просто так под ногами не валяется.}
-{293}{039}{Внешний вид - это ничто. Главное интеллект!}
-{294}{039}{Главное - это сила, а внешний вид никого не интересует.}
-{295}{010}{Хорошо, давай я задам еще вопрос.}
-{296}{999}{Приятно поболтали, но мне надо идти.}
+{430}{}{[Lucy gets angrier] Sam, Mark's granddad. He should have rotted a long time ago. He always gets between me and Mark.}
+{431}{}{You know, he has changed a lot lately. He apologized to me! I didn't believe at first and asked him for a favor. And he did it! And now he always helps!}
+{432}{}{We are good with Sam, we made peace.}
+{433}{044}{Why are you at odds with Sam?}
+{434}{010}{Then another question.}
 
 
+{440}{}{This old piece of a corpse always tells Mark that I'm cheating on him with anyone!}
+{441}{046}{I bet that you are cheating on him not with just anyone.}
+{442}{047}{Did you try to talk to him?}
+{443}{045}{Lucy, try to make peace with him, please. He is half-decayed, his brains are rotten to the core. He doesn't understand what he says.}
+{444}{045}{Sam is almost dead, his brains rotten. He doesn't understand what he says. Don't be angry with him, try to make peace. }
+{445}{010}{Another question.}
+{446}{999}{Okay, see you later.}
 
-{300}{}{Вот здесь ты не прав. Оглянись: что ты видишь вокруг?}
-{301}{}{Все эти здания - совсем не то. Что еще ты видишь?}
-{302}{}{Они все куда-то бредут, с работы, на работу. А что еще?}
-{303}{}{Этого добра у каждого много. Что еще можешь заметить?}
-{304}{030}{Постройки, дома... Они нам служат укрытием.}
-{305}{030}{Люди, мертвяки... Каждый занят своим делом.}
-{306}{030}{Стволы, клинки, патроны... Каждый носит что-нибудь при себе.}
-{307}{032}{Грязь, мусор, дерьмо... Этого на улицах больше всего. }
 
 
-{310}{}{[Люси недовольно хмурится] Здесь очень скучно, почти нечем заняться. Все вокруг одинаковое: одинаковые дни, одинаковые люди... Давай сменим тему.}
-{311}{010}{Хорошо, давай еще спрошу.}
 
+{450}{}{You know... You are actually saying the right things! If it was someone else telling me this, I wouldn't listen. But to you I trust. So, I'll do it! No more quarrels with Sam.}
+{451}{}{You know... You are actually saying the right things, but I don't trust you much... [maybe you need to do something to make her more sympathetic to you]}
+{452}{040}{Okay, then I want to ask more about family.}
+{453}{010}{Then another question.}
 
 
 
 
-{320}{}{Правильно! То, что лежит у нас под ногами, позволяет поддерживать кожу молодой! Я использую отходы лавашей в качестве компрессов, примочек и масок для лица. Там есть секретный ингредиент, он придает коже Гладкость, Упругость, Абсолютный тонус, Нормальный цвет и Отблеск. Сокращенно ГУАНО. Хочешь помазаться? }
-{321}{033}{Помазаться ГУАНО лавашей? Конечно хочу! Я всегда мечтал о красивой коже!}
-{322}{010}{Вот еще, не буду я ничем мазаться, мне и так нормально. Давай лучше еще спрошу.}
-{323}{999}{Не, я не хочу, я лучше пойду погуляю...}
+{460}{}{That's what I mean! I'm not cheating on him with just anyone, err, I'm not cheating on him at all! }
+{461}{040}{I want to ask more about family.}
+{462}{010}{Yeah, I believe that. Can I ask another question?}
 
 
 
+{470}{}{I don't want to see him, he disgusts me. Let's talk about something else.}
+{471}{040}{I want to ask more about family...}
+{472}{010}{Another question...}
 
-{330}{}{[Некоторое время Люси обмазывает Вас ГУАНО. Под его толстым слоем Вы ощущаете, как ваша кожа молодеет, а волосы становятся гладкими и шелковистыми] Ну, вот и все! Вау, ты теперь такой красавчик!}
-{331}{010}{Да, я чувствую, что стал на несколько лет моложе! Я еще хочу спросить.}
-{332}{999}{Так, мне срочно нужно пойти помыться. Ну, для того чтобы ощутить всю мягкость моей кожи. До встречи.}
 
 
+{480}{}{They are always arguing about politics, I understand nothing they say.}
+{481}{040}{I want to ask more about family...}
+{482}{010}{Another question...}
 
 
 
-{340}{}{[Люси просто сияет от счастья] Это мой самый главный талант! Жалко, не всегда можно его применить. Я столько всего обо всех знаю, могу часами рассказывать!}
-{341}{035}{Давай пойдем в комнату, где нас никто не будет отвлекать. И там продолжим разговор.}
-{342}{010}{Нет, спасибо, у меня сейчас нет времени, чтобы слушать. Я еще вопрос задам.}
-{343}{999}{Спасибо за разговор, но мне пора.}
 
+{490}{}{Dunn is the opposite of Mark in matter of politics. They always disagree. After Mark dies, with my sweet Daniel becoming mayor, everything will be better... Dunn wouldn't quarrel with his son, after all.}
+{491}{050}{Wait, so Daniel is Dunn's son? Not Mark's?}
 
 
 
-{350}{}{[Вы вдвоем заходите в комнату, скрытую от посторонних глаз. Люси кокетливо смотрит на Вас] Ну, чем займемся?}
-{351}{036}{Отлично, здесь никто нас не будет отвлекать от игры [Достаете шахматы]}
-{352}{037}{Наконец-то мы остались наедине... [Обнимаете Люси...]}
-{353}{038}{Я готов выслушать все твои истории [Присаживаетесь поудобнее и начинаете слушать...]}
-{354}{010}{Нет, здесь слишком тихо, давай вернемся обратно, и я задам еще пару вопросов.}
 
+{500}{}{[Lucy stumbles] No, no-no! You got it wrong, of course he is Mark's son! I tell you!}
+{501}{040}{Okay, I got it. I want to ask more about family.}
+{502}{010}{I see. Another question.}
 
 
 
-{360}{}{[Вы без труда обыгрываете Люси несколько раз подряд] Не, это очень скучно. Вернемся назад.}
-{361}{010}{Да, пошли, я хотел у тебя еще спросить.}
+{510}{}{Of course, he is an adult now and he is ready. He can do so many things, he is so sweet! He will be the best mayor of all times! More so, with me continuing to take care of him.}
+{511}{052}{How do you take care of him?}
+{512}{040}{I want to ask more about family.}
+{513}{010}{Another question.}
 
 
 
-{370}{}{[После гимнастических упражнений и акробатических трюков Вы, уставший, но довольный, возвращаетесь в реальность.] Ох, это было совсем неплохо. Давай вернемся обратно.}
-{371}{010}{Да, пошли, я хотел у тебя еще спросить.}
 
+{520}{}{Oh, in everything! From dusk, when I'm tying his shoes, and until dawn, when I put him to bed. He is very mature, and with my help he will become a great mayor!}
+{521}{040}{Tying his shoes? I see, he is very mature.I want to ask more about family.}
+{522}{010}{He should be, if you even help him go to bed. Okay, another question.}
+{523}{999}{Yeah, the best one. I'll go talk to him.}
 
 
-{380}{}{[Люси долго рассказывает сплетни, которые Вам абсолютно не интересны] Ух, давно я так не болтала. Ты очень хороший слушатель. Но теперь нам пора вернуться обратно.}
-{381}{010}{Это было чертовски интересно. Пойдем, я еще спрошу.}
 
 
+{530}{}{I went from town to town, until I got here, to NWO. Mark noticed me right away, then we got married. Not much interesting happened until Mark, just struggling for survival.}
+{531}{040}{I want to ask more about family.}
+{532}{010}{Another question.}
 
 
-{390}{}{[Люси нахмурилась] Вот если бы ты был женщиной, ты бы меня понял. Ладно, хватит об этом.}
-{391}{010}{Да, тогда еще вопрос.}
 
+{540}{}{That you are piece of shit! Everybody trusted you, and you... You snake! Get the hell out of here, I don't want to see you again!}
+{541}{999}{[end of dialogue]}
 
 
-{400}{}{Живу я с моим мужем Марком и сыночком Даниэлем. Еще этот Сэм к нам лезет постоянно, ненавижу его.}
-{401}{041}{Марк? Расскажи о нем.}
-{402}{042}{Расскажи о Даниэле}
-{403}{043}{Я хотел бы услышать о Сэме}
-{404}{053}{Расскажи о себе. Как ты здесь оказалась?}
-{405}{010}{Хочу задать другой вопрос}
-{406}{999}{Потом поговорим, мне надо уходить.}
+{550}{}{What? What did you say? Wh- WHAT? You will be bossing me around here? Go to hell, you asshole!!}
+{551}{999}{[end of dialogue]}
 
-
-
-
-{410}{}{Марк - мой муж, мэр НМП. Он вечно занят работой, даже поговорить со мной не может. Мне так не хватает общения! А в последнее время его здоровье сильно хромает. И эти ссоры с Даном его совсем добьют!}
-{411}{048}{Почему он ссорится с Даном?}
-{412}{049}{Расскажи о Дане.}
-{413}{040}{Хочу еще спросить о семье.}
-{414}{010}{Хочу задать другой вопрос.}
-
-
-
-
-{420}{}{[Люси улыбается] Даниэль... Это мой любимый сыночек! Он такой замечательный мальчик! Будущий мэр! Он единственный, кто сможет управлять НМП после смерти Марка. Я постоянно помогаю Даниэлю по делам.}
-{421}{051}{Думаешь, он будет хорошей заменой Марку?}
-{422}{052}{По каким делам ты ему помогаешь?}
-{423}{040}{Тогда еще вопрос о семье...}
-{424}{010}{Хочу задать еще вопрос.}
-{425}{999}{Хорошо, пойду найду его и поговорю.}
-
-
-
-{430}{}{[Люси начинает злиться] Сэм - это дед Марка, он должен был сгнить много лет назад. Он вечно лезет между мной и Марком.}
-{431}{}{Знаешь, в последнее время он сильно изменился. Он попросил прощения! Я не поверила и попросила об услуге. И он сделал! И теперь постоянно помогает, даже белье Даниэлю стирает, когда я его прошу.}
-{432}{}{Сейчас у нас все в порядке с Сэмом, мы помирились.}
-{433}{044}{Почему вы не ладите с Сэмом?}
-{434}{010}{Тогда еще вопрос.}
-
-
-{440}{}{Этот старый кусок трупа постоянно наговаривает Марку, что я ему изменяю с кем попало! Это неправда!}
-{441}{046}{Готов поспорить, что ты изменяешь ему совсем не с кем попало.}
-{442}{047}{Ты пробовала с ним поговорить?}
-{443}{045}{Люси, помирись с ним. Он же полуразложившийся труп, его мозги совсем прогнили. Он сам не понимает, что говорит.}
-{444}{045}{Сэм почти умер, у него мозги уже сгнили. Он не понимает, что говорит. Не ругайся с ним, помирись. }
-{445}{010}{Еще вопрос.}
-{446}{999}{Хорошо, увидимся позже.}
-
-
-
-
-{450}{}{Знаешь, ты правильные вещи говоришь! Если бы кто-нибудь другой мне сказал, я бы не послушалась. Но тебе я доверяю. Я так и сделаю! Не буду больше ссориться.}
-{451}{}{Знаешь, может ты и правильные вещи говоришь, но я тебе не очень доверяю... [Вы чувствуете, что что если сделаете что-нибудь, что увеличит ее симпатию к Вам, она согласится]}
-{452}{040}{Хорошо, тогда еще спрошу о семье.}
-{453}{010}{Хорошо, можно еще вопрос?}
-
-
-
-
-{460}{}{Вот и я ему так говорю! Я действительно с кем попало не сплю! То есть я вообще ни с кем не сплю! }
-{461}{040}{Хорошо, еще вопрос о семье.}
-{462}{010}{Охотно верю. Можно еще вопрос?}
-
-
-
-{470}{}{Я не хочу лишний раз его видеть. Он мне противен. Давай еще о чем-нибудь поговорим.}
-{471}{040}{Еще вопрос о семье...}
-{472}{010}{Еще вопрос...}
-
-
-
-{480}{}{Они там о политике постоянно спорят, я там ничего не понимаю.}
-{481}{040}{Еще вопрос о семье...}
-{482}{010}{Еще вопрос...}
-
-
-
-
-{490}{}{Дан - противник Марка по политике. Они вечно воюют по пустякам. После смерти Марка, когда мой милый Даниэль станет мэром, все будет спокойно.  Не будет же Дан с сыном ссориться.}
-{491}{050}{Так Даниэль - сын Дана, а не Марка?}
-
-
-
-
-{500}{}{[Люси сильно засмущалась] Нет-нет, ты не так меня понял! Даниэль, конечно же, сын Марка! Точно!}
-{501}{040}{А, понятно. Тогда еще вопрос о семье.}
-{502}{010}{Понятно. Другой вопрос.}
-
-
-
-{510}{}{Конечно, он уже взрослый, и вполне готов. Даниэль столько всего умеет, он такой у меня молодец! Это будет самый-самый лучший мэр! Тем более, я продолжу ему помогать.}
-{511}{052}{Как ты ему помогаешь?}
-{512}{040}{Еще вопрос о семье.}
-{513}{010}{Хочу задать еще вопрос.}
-
-
-
-
-{520}{}{О, я ему помогаю во всем! С самого утра, когда помогаю ему шнурки завязывать, и до позднего вечера, когда спать укладываю. Так что он вполне самостоятельный, и с моей помощью он станет отличным мэром!}
-{521}{040}{Он даже шнурки сам завязать не может? Понятно. Тогда еще вопрос о семье.}
-{522}{010}{Наверное, он очень самостоятельный, раз ты его спать укладываешь. Ладно, еще вопрос.}
-{523}{999}{Действительно, он будет отличным мэром. Пойду поговорю с ним.}
-
-
-
-
-{530}{}{Я долго скиталась из города в город, пока не оказалась в НМП. Марк сразу меня заметил, потом мы поженились. До встречи с Марком со мной ничего интересного не происходило, это была просто борьба за выживание.}
-{531}{040}{Еще вопрос о семье.}
-{532}{010}{Еще другой вопрос.}
-
-
-
-{540}{}{В том, что ты - кусок говна! Тут тебе все доверились, а ты... пригрели змею! Проваливай, и чтоб я тебя больше не видела!}
-{541}{999}{[конец диалога]}
-
-
-{550}{}{Что? Что ты сказал? Чтоооо? Ты меня еще учить будешь? Катись ты к черту, сволочь!}
-{551}{999}{[конец диалога]}
-
-#Люси разозлилась
-{560}{}{Да как ты смеешь!?}
-{561}{}{Пшел вон, "руководитель"!}
-{562}{}{Видеть тебя не хочу!}
-{563}{}{Убирайся прочь, недоносок!}
-{564}{}{Паскудник! Убирайся!}
+#‹обЁ а §®§«Ё« бм
+{560}{}{How dare you!?}
+{561}{}{Get the hell out of here, "leader"!}
+{562}{}{I don't want you here!}
+{563}{}{Get the hell out, you jerk!}
+{564}{}{You scoundrel! Get out!}

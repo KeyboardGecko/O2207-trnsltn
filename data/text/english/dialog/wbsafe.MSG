@@ -1,50 +1,50 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# „ ­­л© д ©« ®ЇЁблў Ґв б®®ЎйҐ­Ёп,
+# ЁбЇ®«м§гойЁҐбп ў бЄаЁЇв е бжҐ­ҐаЁ
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - сейф в стене военного бункера, где лежит карта лифта для подвала Олимпа
+# —’Ћ ќ’Ћ?
+# ќв® - бҐ©д ў бвҐ­Ґ ў®Ґ­­®Ј® Ўг­ЄҐа , Ј¤Ґ «Ґ¦Ёв Є ав  «Ёдв  ¤«п Ї®¤ў «  Ћ«Ё¬Ї 
 #
-# Описание 1
-{1}{}{Вы видите: надежный сейф.}
-{2}{}{Этот сейф выглядит очень надежным.}
+# ЋЇЁб ­ЁҐ 1
+{1}{}{You see: a durable safe.}
+{2}{}{This safe looks very durable.}
 
-# Описание 2
-{3}{}{Сейф закрыт магнитным замком, стена разломана и все провода видны.}
-{4}{}{Можно попытаться подобрать провода, чтобы отключить магнитный замок.}
+# ЋЇЁб ­ЁҐ 2
+{3}{}{The safe is locked with a magnetic lock. Nearby wall is torn apart, you can see all the wires.}
+{4}{}{You could try pick the right wires to unlock the magnetic lock.}
 
-# Действия
-{5}{}{Прекратите совать свои пальцы в оголенные провода.}
-{6}{}{На генераторе НЕТ рубильника, все закрыто в электрощитке.}
-{7}{}{Сейф закрыт, Вы не можете просто взять и открыть его.}
-{8}{}{Видно, что система электрозащиты питается от генератора.}
-{9}{}{Похоже, человек с руками механика без труда отключит эту электрозащиту.}
+# „Ґ©бвўЁп
+{5}{}{You should stop putting your fingers into live wires.}
+{6}{}{You see no switch on the generator. Looks like everything is in a fuse box.}
+{7}{}{You thoroughly study the structure... but don't understand a thing.}
+{8}{}{It seems like the defense system is powered with the generator.}
+{9}{}{Someone with the skills of a mechanic could easily turn off the defense.}
 #
-#Подключение проводов
+#Џ®¤Є«озҐ­ЁҐ Їа®ў®¤®ў
 #
-{10}{}{Хотите попытаться вручную подобрать комбинацию проводов? При неудачной попытке Вас может ударить током, а система безопасности поменяет электрическую схему!}
-{11}{}{Да, стоит попробовать!}
-{12}{}{Неет, не нужен мне бесплатный разряд по пальцам!}
-{13}{}{Что-то мне перехотелось в проводах ковыряться.}
-{14}{}{Ну уж дудки! Я не электрик и не кабельщик! Как-нибудь и без этого обойдусь.}
-{15}{}{Перед Вами 3 провода: красный, синий и зеленый. Вам нужно соединить два из них между собой. Какие Вы выбираете?}
-{16}{}{Красный + Синий}
-{17}{}{Зеленый + Красный}
-{18}{}{Синий + Зеленый}
-{19}{}{Теперь необходимо подсоединить оставшийся отдельный провод к одному из проводов в паре. К какому проводу Вы его подключите?}
-{20}{}{Подсоединить Красный к Зеленому}
-{21}{}{Подсоединить Красный к Синему}
-{22}{}{Подсоединить Зеленый к Красному}
-{23}{}{Подсоединить Зеленый к Синему}
-{24}{}{Подсоединить Синий к Красному}
-{25}{}{Подсоединить Синий к Зеленому}
-{26}{}{Вас ощутимо ударило током.}
-{27}{}{УПС! Вы получили разряд в палец.}
-{28}{}{Вас дернуло током. Палец все еще ноет.}
-{29}{}{Вы получили неслабый удар тока.}
+{10}{}{Do you want to try different combinations of wires? If you fail, you could get electrocuted, while security system changes the scheme.}
+{11}{}{Yeah, let's try!}
+{12}{}{No way, I don't want to get free electrocution!}
+{13}{}{I don't want to poke around these wires anymore.}
+{14}{}{Screw this, I'm no electrician! I'll somehow manage without it.}
+{15}{}{You see 3 wire: red, blue and green. You need to connect two of them. Which ones?}
+{16}{}{Red + Blue}
+{17}{}{Green + Red}
+{18}{}{Blue + Red}
+{19}{}{Now you need to connect the third wire. To which one?}
+{20}{}{Connect Red and Green}
+{21}{}{Connect Red and Blue}
+{22}{}{Connect Green and Red}
+{23}{}{Connect Green and Blue}
+{24}{}{Connect Blue and Red}
+{25}{}{Connect Blue and Green}
+{26}{}{You got electrocuted.}
+{27}{}{Oops! You had your finger electrocuted.}
+{28}{}{You got bit by an electric current. The finger still hurts.}
+{29}{}{You got electrocuted very badly.}
 #
 #
 #
-{30}{}{У Вас получилось! Сейф открыт!}
+{30}{}{You did it! The safe is open!}

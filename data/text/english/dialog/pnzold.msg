@@ -52,7 +52,7 @@
 {1003}{}{Well hello, young man.}
 {1004}{}{Yeah... You did good.}
 {1005}{}{Glad to see you.}
-{1006}{}{So good to see yl!}
+{1006}{}{So good to see you!}
 {1007}{}{Nice to see you youngsters don't forget about the old man.}
 {1008}{}{It's good you're here.}
 {1009}{}{I'm glad you're here with us.}

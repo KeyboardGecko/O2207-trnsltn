@@ -35,7 +35,7 @@
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ (á® §¢¥à¥¬???)
 #
 {10}{}{Lavash looks like shit.}
-{11}{}{He twirls his head... Oh shit, he puked!}
+{11}{}{He twirls his head... Oh man, he puked!}
 {12}{}{Lavash furiously darts his eyes back and forth, saliva drips from his snout.}
 {13}{}{Lavash swobbles and sighs.}
 {14}{}{Lavash is terrified by the water canister you carry.}
