@@ -400,7 +400,7 @@
 {19700}{}{Chimera}
 {19701}{}{}
 {19800}{}{Weak Chimera}
-{19801}{}{This one looks weak.}
+{19801}{}{This one looks very weak.}
 {19900}{}{Tame Chimera}
 {19901}{}{}
 {20000}{}{Mother Chimera}
