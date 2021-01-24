@@ -20,7 +20,7 @@ f##############################
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Under thin greasy locks of hair, falling on forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under loads of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened, canine-like teeth] Ssoo... Unfeed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
+{10}{}{[Under thin greasy locks of hair, falling on forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfeed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
 {11}{013}{Unfeed who? What are you even talking about?}
 {12}{011}{I really hope you're joking. It would be better for everybody.}
 {13}{014}{What an interesting choice. And you are the local cook, I suppose?}
@@ -37,28 +37,28 @@ f##############################
 {105}{025}{You didn't see a sand wolf around here by any chance, did you?}
 {106}{019}{It's about your wounds. I need to examine them one more time.}
 {107}{999}{Don't get distracted, I was just coming by.}
-{1002}{}{[Her teary eyes suck onto your face, as if choosing where to sink sharp teeth] Outsider? The hand hurts even more! Maybe if Khala washes her wounds with your blood, she would feel better? }
+{1002}{}{[Her teary eyes suck onto your face, as if she's choosing where to sink her sharp teeth] Outsider! The hand hurts even more! Maybe if Khala washes her wounds with your blood, she would feel better? }
 {108}{027}{Calm down! I've returned to help you.}
-{109}{999}{Wait for a little longer, soon it'll be done.}
+{109}{999}{Wait for a little longer, soon it'll be dealt with.}
 {1010}{031}{This pain is nothing, compared to what you are going to suffer, you crazy animal! It's time to put you down!}
-{1003}{}{[Подтачивает зубы сломанным напильником, но при виде вас прячет его в один из кармашков замызганного фартука, на котором прибавилось кровавых пятен] И снова чужак приходит к Кхале... Велик и мудр Несытый Молчальник - он не дал ей сразу съесть тебя... [Достает из другого кармана кусок мяса и протягивает вам] Ёочешь? Почему нет? Свежее, только гнить начало! Чужаки такие странные...}
-{1011}{013}{Извини, что помешал тебе наводить красоту, но ты не расскажешь мне об этом Несытом?}
-{1012}{012}{Так и будешь называть меня чужаком?}
-{1013}{031}{Как себя чувствуешь, Кхала?}
-{1014}{025}{Ты, случайно, не видела поблизости песчаного волка?}
-{1015}{999}{Рад был повидаться, но мне уже пора.}
+{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but, when seeing you, hides it into one of pockets on her dirty apron. This apron became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfeed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
+{1011}{013}{Excuse me for interrupting your make-up, but could you tell me about this Unfeed one?}
+{1012}{012}{You are still calling me an outsider?}
+{1013}{031}{How are you feeling, Khala?}
+{1014}{025}{You didn't see a sand wolf around here by any chance, did you?}
+{1015}{999}{Glad to see you, but I need to go.}
 
 
-{110}{}{[Удивленно смотрит на вас] Как всем может быть лучше, если никто никого не съест? Это ты хочешь подшутить над Кхалой! [Шипит сквозь зубы, поглаживая рукоять мясницкого тесака] А Кхала не любит шуток, Кхала любит мясо...}
-{111}{031}{Сбавь обороты, психичка. Иначе я найду способ успокоить тебя. }
-{112}{014}{Так, предлагаю быстро сменить тему. Расскажи, например, чем ты тут занимаешься?}
-{113}{999}{Черт, я тут вспомнил, что у меня скоро важная встреча. Всего хорошего, гурманка.}
+{110}{}{[she gives you a surprised look] How it would be better for everybody, if no one eats anyone? You are trying to make a joke on Khala! [She hisses through teeth, stroking the handle of a huge butcher knife] Khala doesn't like jokes. Khala likes meat...}
+{111}{031}{Slow down, you wacko. Or I'm gonna find a way to slow you down. }
+{112}{014}{Alright, let's hastly change the subject. For example, tell me, what do you do here.}
+{113}{999}{Oh damn, I've just remembered I have some places to be. See you around, foodie.}
 
 
-{120}{}{[Мотает головой, отчего медные серьги в ушах издают мелодичный звон] Для Кхалы ты всегда будешь чужаком. Ты как песчаный волк - сначала он ест с тобой и загоняет добычу с тобой, а потом тебя же кусает...[Отчего-то мрачнеет при этих словах] }
-{121}{025}{Волк? А почему это ты о нем вспомнила?}
-{122}{014}{Но о себе-то ты не откажешься рассказать?}
-{123}{999}{Ладно, дело твое. Будь здорова.}
+{120}{}{[she shakes her head, copper earrings in her ears give out a melodic chime] For Khala you will always be an outsider. You are like a sand wolf - at first it eats with you, hunts your prey with you, then he bites you... [her face darkens when she says these words]}
+{121}{025}{A wolf? Why did you come up with it now?}
+{122}{014}{You wouldn't mind telling about yourself then, would you?}
+{123}{999}{Okay, suit yourself. God bless.}
 
 
 {130}{}{Он приходит к нам с ночным ветром! Он тих и бесшумен, как и подобает воину!  И он всегда голоден... [Оглядывает вас, явно прикидывая, сколько мяса и крови можно извлечь из вашего тела] Молчальник учит видеть в каждом сперва еду... И только потом друга, дочь, родителя...}
@@ -171,16 +171,16 @@ f##############################
 
 
 {300}{}{[Вы ожидаете взрыва ярости, но Кхала лишь довольно оскаливается. Вязкая слюна стекает по ее подбородку, в глазах застыло голодное нетерпение] Как же Кхале будет приятно съесть тебя... Старейшина запрещает торопиться с чужаками, но ты сам хочешь попасть к нам в зубы! Как же долго Кхала этого ждала... Ммм... [Торопливо утирает слюни и идет к вам]}
-{301}{998}{Сейчас пулями подавишься, людоедка херова!}
-{302}{998}{Это мне будет приятно вырвать твое гнилое сердце!}
+{301}{998}{Choke on my bullets, you fucking maneater!}
+{302}{998}{It's me who will be happy, while ripping your rotten heart out!}
 
 
-{313}{}{[Улыбается в два заточенных ряда] Кхале хорошо! Даже кушать хочется еще и еще. Чужак помог Кхале. Когда она решит съесть чужака, он умрет быстро!}
-{310}{026}{Спасибо и на этом... Кстати, ты волка тут поблизости не видела?}
-{311}{999}{Ну отлично. Даже не знаю, за что такие почести. Ладно, мне пора идти.}
-{312}{999}{Лучше я пойду, пока разговор не зашел слишком далеко.}
+{313}{}{[she widely smiles, demonstrating two rows of sharp fangs] Khala feels good! She's even more hungry now. The outsider helped Khala. Whe she decides to eat the outsider, he will die fast and easy!}
+{310}{026}{Thank you for that... By the way, did you see a wolf around here?}
+{311}{999}{Well, great. Don't even know how I deserved it. Okay, gotta go.}
+{312}{999}{I'd better move, while our conversation haven't gotten too far.}
 
 
 {320}{}{[Нож стремительно проносится у вас перед лицом, едва не срезав нос] Чужак слишком много говорит! Если он скажет еще слово, Кхала вырвет его грязный язык! Она уже слышала про беду Птуны и хочет ей помочь. Чужак уйдет отсюда живым, если пообещает Кхале передать это Птуне!}
-{321}{031}{Да конечно! Все, достали вы меня, долбанные каннибалы! Пора начинать зачистку местности!}
-{322}{999}{[Кивнуть и осторожно удалиться]}
+{321}{031}{Yeah, sure! That's it, I'm sick of you, fucking cannibals! It's time to mop out the area!}
+{322}{999}{[nod and carefully step away]}
