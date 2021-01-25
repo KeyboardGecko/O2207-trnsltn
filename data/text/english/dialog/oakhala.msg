@@ -20,8 +20,8 @@ f##############################
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Under thin greasy locks of hair, falling on forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfeed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
-{11}{013}{Unfeed who? What are you even talking about?}
+{10}{}{[Under thin greasy locks of hair, falling on forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
+{11}{013}{Unfed who? What are you even talking about?}
 {12}{011}{I really hope you're joking. It would be better for everybody.}
 {13}{014}{What an interesting choice. And you are the local cook, I suppose?}
 {14}{012}{Who do you call an outsider? We are of the same blood now, your- I mean, our elder said so herself!}
@@ -29,8 +29,8 @@ f##############################
 {16}{999}{Okay, let's put away this conversation for now. And don't look at me like that!}
 
 
-{1001}{}{[Khala rummages through a big basket, sorting something] Eat today... Eat tomorrow... Silly Klumk! Why brought so little salt? The food shouldn't go to waste... And this one, with worms, Khala is going to eat herself, will cook it on fire... Mmm... Gonna be tasty! [as you come closer, you notice that the basket is filled to the top with big chunks of meat, unevenly rotten. Better not to try guessing which meat it is.] Who Unfeed sends us this time? Ah, it's an outsider again... Wait, Khala will clear a place here for you...}
-{101}{013}{Who's that Unfeed that you are talking about all the time?}
+{1001}{}{[Khala rummages through a big basket, sorting something] Eat today... Eat tomorrow... Silly Klumk! Why brought so little salt? The food shouldn't go to waste... And this one, with maggots, Khala is going to eat herself, will cook it on fire... Mmm... Gonna be tasty! [as you come closer, you notice that the basket is filled to the top with big chunks of meat, unevenly rotten. Better not to try guessing which meat it is.] Who Unfed sends us this time? Ah, it's an outsider again... Wait, Khala will clear a place here for you...}
+{101}{013}{Who's that Unfed that you are talking about all the time?}
 {102}{011}{I really hope you're joking. It would be better for everybody.}
 {103}{014}{Don't bother. Better tell me, what do you do here, except counting food inventory.}
 {104}{012}{Why do you still call me an outsider? I proved my right to be side by side with you in battle!}
@@ -41,8 +41,8 @@ f##############################
 {108}{027}{Calm down! I've returned to help you.}
 {109}{999}{Wait for a little longer, soon it'll be dealt with.}
 {1010}{031}{This pain is nothing, compared to what you are going to suffer, you crazy animal! It's time to put you down!}
-{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but, when seeing you, hides it into one of pockets on her dirty apron. This apron became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfeed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
-{1011}{013}{Excuse me for interrupting your make-up, but could you tell me about this Unfeed one?}
+{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but seeing you she hides it into one of pockets on her dirty apron. It became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
+{1011}{013}{Excuse me for interrupting your make-up, but could you tell me about this Unfed one?}
 {1012}{012}{You are still calling me an outsider?}
 {1013}{031}{How are you feeling, Khala?}
 {1014}{025}{You didn't see a sand wolf around here by any chance, did you?}
@@ -50,7 +50,7 @@ f##############################
 
 
 {110}{}{[she gives you a surprised look] How it would be better for everybody, if no one eats anyone? You are trying to make a joke on Khala! [She hisses through teeth, stroking the handle of a huge butcher knife] Khala doesn't like jokes. Khala likes meat...}
-{111}{031}{Slow down, you wacko. Or I'm gonna find a way to slow you down. }
+{111}{031}{Slow down, you wacko. Or I'm gonna find a way to make you slow down. }
 {112}{014}{Alright, let's hastly change the subject. For example, tell me, what do you do here.}
 {113}{999}{Oh damn, I've just remembered I have some places to be. See you around, foodie.}
 
@@ -61,126 +61,126 @@ f##############################
 {123}{999}{Okay, suit yourself. God bless.}
 
 
-{130}{}{Он приходит к нам с ночным ветром! Он тих и бесшумен, как и подобает воину!  И он всегда голоден... [Оглядывает вас, явно прикидывая, сколько мяса и крови можно извлечь из вашего тела] Молчальник учит видеть в каждом сперва еду... И только потом друга, дочь, родителя...}
-{131}{031}{Только конченные мрази вроде тебя могут молиться такой твари! Да вас дерьмо надо жрать заставить! }
-{132}{014}{Да? Так твоя кухня это еще и местное капище? Мда... И чем еще ты тут занимаешься?}
-{133}{999}{Прекрасно. Пойду-ка я отсюда, пожалуй.}
+{130}{}{He comes with a wind in the night! He is silent and quiet, like a warrior should be! And he is always hungry... [she glances over you, like she's trying to guess how much meat and blood can be taken out from your body] the Silent One teaches us to see the others as food in the first place... And only after that - as a friend, daughter or parent...}
+{131}{031}{Only the lowest of scum like you could worship a creature like this! Eat shit! }
+{132}{014}{Really? So, your kitchen doubles as a local cemetery? Hm... And what else do you do here?}
+{133}{999}{Wonderful. I should go, I think.}
 
 
-{1401}{}{[Кхала с нежностью проводит пальцами по рукоятям ножей, торчащих из отделений фартука] Кхала готовит еду, Кхала лечит... Несытый Молчальник щедро наделил ее дарами. [Поправляя браслет на запястье морщится от боли, и вы замечаете следы укусов на ее руке. Выглядит довольно скверно.]}
-{141}{015}{А ты не пробовала прибраться у себя...на кухне? Или специально разводишь тут червей?}
-{142}{018}{Что у тебя с рукой?}
-{143}{031}{Да какие дары, ты же людей жрешь, сука ты бешенная!}
-{144}{016}{Ты знаешь толк в лечении? А мне поможешь?}
-{145}{017}{Гм... Расскажешь мне пару рецептов?}
-{146}{999}{Информации пока достаточно. Еще увидимся...}
-{1402}{}{[Кхала с нежностью проводит пальцами по рукоятям ножей, торчащих из отделений фартука] Кхала готовит еду, Кхала лечит... Несытый Молчальник щедро наделил ее дарами. Ёочешь, Кхала и с тобой поделится знанием?}
-{147}{015}{А ты не пробовала прибраться у себя...на кухне? Или специально разводишь тут червей?}
-{148}{031}{Да какие дары, ты же людей жрешь, сука ты бешенная!}
-{149}{016}{Ты знаешь толк в лечении? А мне поможешь?}
-{1410}{017}{Гм... Расскажешь мне пару рецептов?}
-{1411}{999}{Информации пока достаточно. Еще увидимся...}
+{1401}{}{[Khala gently strokes knife handles, which stick up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. [she ajusts bracelet on her wrist and frowns in pain. You notice bite wounds on her elbow. Looks very nasty.]}
+{141}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
+{142}{018}{What's with your arm?}
+{143}{031}{What fucking gifts? You eat people, you crazy bitch!}
+{144}{016}{You know healing? Coud you heal me?}
+{145}{017}{Hmm... Mind teaching me some recipes?}
+{146}{999}{Enough information for now. See you later.}
+{1402}{}{[Khala gently strokes knife handles, sticking up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. If you want, Khala can share her knowledge.}
+{147}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
+{148}{031}{What fucking gifts? You eat people, you crazy bitch!}
+{149}{016}{You know healing? Coud you heal me?}
+{1410}{017}{Hmm... Mind teaching me some recipes?}
+{1411}{999}{Enough information for now. See you later.}
 
 
-{150}{}{Кхала любит, когда воздух пропитан кровью! Этот запах пропитывает плоть, дает силу! Поэтому Кхала носит только священные одежды для ежедневного ритуала поедания... [Поправляет лямки фартука. Так вот что это за странные узоры на нем!]}
-{151}{031}{Не, ну все, с меня хватит! Щас будет тебе кровь в воздухе!}
-{152}{014}{На самом деле, я хотел узнать о тебе не совсем это...}
-{153}{999}{Понятно... Но мне надо идти.}
+{150}{}{Khala likes when air smells with blood! This smell soaks into flesh, makes you strong! That's why Khala wears sacred clothes for her everyday eating ritual... [she touches straps of her apron. So that's what this patterns are about!]}
+{151}{031}{Okay, that's it, I'm done! Now you are getting your "smell of blood in the air"!}
+{152}{014}{Actually, I wanted to learn another thing about you...}
+{153}{999}{I see... But I need to go.}
 
 
-{160}{}{[Кхала присаживается на корточки и раскидывает по земле амулеты, сделанные из пожелтевших фаланг... разумеется, человеческих] Кхала знает три по десять наговоров и пять по десять редких трав! Но лучше всего она может резать. Кхала спасла жизнь родичу Клумка! Его укусил за палец дикий таракан, и Кхала отрезала ему руку. Ёочешь, Кхала и тебе что-нибудь отрежет? }
-{161}{031}{У меня встречное предложение - я отрублю твою больную башку и сыграю ей в футбол! Как тебе?}
-{162}{014}{Нет уж, благодарю. Лучше поведай мне еще что-нибудь о себе.}
-{163}{999}{Пока с меня хватит информации. Еще увидимся.}
+{160}{}{[Khala squats down and throws around her amulets, made of yellowed phalanges... human, of course] Khala knows three times ten of hexes and five fives ten of rare herbs! But her best skill is cutting. Khala saved life of Klumk's kinsman once! His finger was bit by a wild roach, so Khala chopped off his hand. Do you want Khala to cut something off you? }
+{161}{031}{I have a counter-proposal - I'll chop your head down and play soccer with it! What do you think?}
+{162}{014}{No, thank you. Better tell me about yourself a little bit more.}
+{163}{999}{Enough information for now. See you later.}
 
 
-{170}{}{[Кхала щедро делится с вами кулинарными хитростями] ...Надо подвесить живую еду за ноги и бить палками, пока она не помрет. Тогда мясо будет мягким и сочным... [Она продолжает в таком же духе еще добрых полчаса] ...Но главное не забыть сперва слить всю кровь и прочитать молитву Несытому Молчальнику. Если тебе повезет, то ты проверишь на себе мастерство Кхалы!}
-{171}{014}{Потрясающе. Какая жалость, что я ничего не успел записать. Нет-нет, повторять не надо. Лучше ответь мне еще на один вопрос.}
-{172}{031}{Ты... Да я твою кровь сейчас солью! И даже за ноги не буду подвешивать! Ты же на всю башку ебанутая!}
-{173}{999}{Мне нужно время, чтоб все это переварить. Увидимся позже, можешь меня не провожать.}
+{170}{}{[Khala generously shares her culinary wisdom with you] ...You need to hang your food by the feet while it's alive, and beat it with sticks until it dies. Then its meat will be soft and tender... [she goes on in this manner for another half an hour] ...But don't forget, main thing is to drain all the blood, while giving prayer to Unfed Silent One. If you are lucky, you'll test Khala's mastery on yourself!}
+{171}{014}{Simpy amazing. A pity I didn't have chance to write it down. No, no need to repeat. Better answer my other question.}
+{172}{031}{You... I'm gonna drain all of YOUR blood, even without hanging you by the feet! You are fucking nuts!}
+{173}{999}{I need some time to wrap my head around it. See you later, don't walk me out, I know the way.}
 
 
-{180}{}{[Она поспешно убирает руку за спину и огрызается, подозрительно прищурив и без того узкие глаза] Какое тебе дело до руки Кхалы? Зачем этот вопрос?}
-{181}{019}{К чему так нервничать? Я всего лишь хотел оценить степень повреждения и, может быть, помочь в лечении!}
-{182}{999}{Да так, к слову пришлось. Что ж, я приду позже, когда ты малость поуспокоишься.}
+{180}{}{[Khala hastly puts her hand behind and snarls at you, squinting her eyes] Why do you care about Khala's arm? Why do you ask this question?}
+{181}{019}{Why so nervous? I just wanted to assess the damages and maybe do a little helping healing.}
+{182}{999}{Just saying. Well, I'd better come back later, when you calm down.}
 
 
-{190}{}{[Кхала дважды отдергивает руку в последний момент, но все же дает вам исследовать раны. Видимо, они действительно доставляют ей немало проблем] Что чужак видит? Почему он молчит? }
-{191}{020}{Спокойно. Один момент...}
+{190}{}{[Khala pulls back her hand at least twice, but still lets you examine her wounds. It seems that they are really causing her problems.] What did the outsider see? Why did he become silent?}
+{191}{020}{Be calm, one moment...}
 
 
-{2001}{}{[Ваших познаний не хватает на адекватную оценку ситуации, но воспаление и неприятный запах от ран явно не к добру. Кхала ждет ответа, с каждой секундой теряя терпение  прикидывая, какую часть вашего тела съесть первой]}
-{201}{021}{Ну.. В общем, ничего серьезного! Это твой Голодный... эээ... Несытый, да! Он ниспослал на тебя эти раны в качестве испытания твоего духа. Ты держишься отлично, так что через недельку все прекрасно заживет. Сам не знаю, откуда мне это известно. Прямо озарение какое-то снизошло!}
-{202}{022}{Если честно, у меня маловато знаний... Но я попробую найти того, кто тебе поможет. Очень уж скверно все выглядит.}
-{203}{031}{Ёа, да подохнешь ты скоро! Я бы пристрелил тебя прямо сейчас, чтоб не мучилась!}
-{204}{999}{Мне надо время на обдумывание твоей проблемы. Подожди немного.}
-{2002}{}{[Судя по характерным повреждениям тканей, это типичная кусаная рана. Патогенные микробы сделали свое дело и в перспективе Кхалу вполне может ждать ампутация. Неприятный запах от гноящихся ран лишь подтверждает ваши опасения. Кхала ждет ответа, с каждой секундой теряя терпение  прикидывая, какую часть вашего тела съесть первой]}
-{205}{023}{Ничего хорошего, Кхала. Без медицинской помощи ты долго не протянешь. Я бы мог попробовать заняться твоим лечением. }
-{206}{021}{Ну.. В общем, ничего серьезного! Это твой Голодный...эээ... Несытый, да! Он ниспослал на тебя эти раны в качестве испытания твоего духа. Ты держишься отлично, так что через недельку все прекрасно заживет. Сам не знаю, откуда мне это известно. Прямо озарение какое-то снизошло!}
-{207}{022}{Ситуация скверная... Но я не возьмусь сам лечить тебя. Могу только постараться отыскать специалист на стороне.}
-{208}{031}{Ёа, да подохнешь ты скоро! Я бы пристрелил тебя прямо сейчас, чтоб не мучилась!}
-{209}{999}{Мне надо время на обдумывание твоей проблемы. Подожди немного.}
+{2001}{}{[Your current knowledge is not enough to adequately evaluate the situation, but swelling and stench from wounds definitely don't look good. Khala awaits, looking more impatient with every second. She might already be estimating which part of you she should eat first.]}
+{201}{021}{Uh, well.. It's nothing serious, really! This your Hungry- err, Unfed, yeah! He blessed you with this wounds as a test of your spirit. You are doing pretty good, so everything should be healed in a week or so. I don't understand myself how do I know that. Feels like sudden insight!}
+{202}{022}{Frankly, I don't have enough skill... But I do have enough skill to find someone who could help you out. This things here look very nasty.}
+{203}{031}{Ha, you're gonna die soon! I'd shoot you right now, to put you out of misery!}
+{204}{999}{I need to think about your problem. Wait for a while.}
+{2002}{}{[Judging by distinctiveness of injury, it's a typical lacerated wound. Pathogenous infection did its job, and in closest perspective Khala will probably face an amputation. A particular odor of pus only confirms your concerns. Khala awaits, looking more impatient with every second. She might already be estimating which part of you she should eat first.]}
+{205}{023}{Nothing good, Khala. You won't last long without medical help. I could try to do the treatment. }
+{206}{021}{Uh, well.. It's nothing serious, really! This your Hungry- err, Unfed, yeah! He blessed you with this wounds as a test of your spirit. You are doing pretty good, so everything should be healed in a week or so. I don't understand myself how do I know that. Feels like sudden insight!}
+{207}{022}{The situation is pretty bad... But I won't take the job of healing you. i can only go and find someone who will.}
+{208}{031}{Ha, you're gonna die soon! I'd shoot you right now, to put you out of misery!}
+{209}{999}{I need to think about your problem. Wait for a while.}
 
 
-{213}{}{[Кровожадная повариха испускает облегченный выдох] Я так и думала! Молчальник любит Кхалу, всегда любил! Он почувствовал, как она страдает за него, и прислал чужака, вложив в его рот свои слова! Вот, возьми эти священные письмена - они дают бодрость Кхале перед тяжелой работой [Достает из-под фартука какой-то журнал и торжественно вручает вам] Ты достоин владеть им, раз на тебя снизошла мудрость Молчальника... А Кхала пока подумает, можно ли тебя все-таки съесть...}
-{214}{999}{Тогда оставлю тебя с этими приятными мыслями наедине.}
+{213}{}{[bloodthirsty cook gives off a relieved exhale] That's just what I thought! The Silent One loves Khala, he always did! He felt her suffering and sent her the outsider, with this words put into his mouth! Here, take this holy scribings - they give Khala energy before hard work... [she takes out of apron some magazine and ceremonially hands it to you] You are worthy of owning it, as the Silent One's wisdom condescended upon you... And Khala will take her time to think, how she could eat you later...}
+{214}{999}{Then I'll leave you alone with this beautiful thoughts.}
 
 
-{210}{}{[На лице Кхалы страх за то, что вы не вернетесь, сменяется опасением лишиться руки. Но, видимо, здоровье ей все же дороже, чем законы племени] Ёорошо... Чужак может уходить искать знахаря.  Кхала скажет воинам, чтобы они его пропустили. Но если он обманет, Кхала найдет его и съест подлое сердце чужака! А потом и все остальное...}
-{211}{999}{Не беспокойся, я вернусь. Даже соскучится не успеешь.}
-{212}{999}{Ёотя ,если подумать, есть и другие варианты... Подожди, я скоро вернусь.}
+{210}{}{[on Khala's face, you see that worry for you not returning slowly changes with fear of losing arm. In the end it looks like she values her well-being above the tribe customs] Okay... Outsider can walk away to look for the healer. Khala will tell the warriors to let him pass. But if outsider is lying - Khala will find him and eat his dirty heart! And after that, the rest too...}
+{211}{999}{Don't worry, I'll return. You won't even miss me.}
+{212}{999}{Maybe there are other options... Wait, I'll be back soon.}
 
 
-{220}{}{[Известная знахарка явно не склонна доверять вашим устаревшим методам лечения, но боль в ране убеждает ее рискнуть] Ёорошо...  Но Кхала будет держать нож у горла чужака, пока тот будет ее трогать! Если она решит, что он хочет ей навредить...}
-{221}{024}{Понятно-понятно. Все, как завещал ваш Несытый. Тогда приступим - на твое счастье, у меня все с собой.}
-{222}{999}{Знаешь, вот к этому я пока не готов. Вернусь, как раздобуду все необходимое или придумаю альтернативный метод решения проблемы.}
+{220}{}{[the tribe healer doesn't favour your old-fashioned ways of healing, but the pain from wounds makes her take the risk] Okay...  But Khala will hold her knife by the outsider's throat while he touches her! If Khala suspects that he means harm...}
+{221}{024}{Yeah-yeah, I got it. Everything according to your Unfed's teachings. Let's begin - your luck that I have everything I need with me...}
+{222}{999}{You know, I'm not quite ready to that. I'll be back when I find out some alternative method to solve this problem.}
 
 
-{230}{}{[Это явно не тот случай, что способен бросить вызов вашим талантам. Аборигенка на удивление стойко переносит все процедуры.  Вы очищаете и промываете раны... и извлекаете из одной клык, принадлежащий собаке или волку! Кхала при этом вздрагивает, едва не порезав вам шею. Вы откладываете находку, вкалываете ей противостолбнячную сыворотку и перебинтовываете руку. Делов-то!]}
-{231}{025}{Вроде закончили... Теперь, главное, не снимай и не чеши повязку.}
+{230}{}{[This is definitely not the case that could challenge your talents. The savage cook is remarkably stoical in enduring all the procedures. You clean the wounds - and suddenly take a wolf's fang out of one. Khala abruptly flinches, almost cutting your throat. You put your discovery on the ground and apply a bandage on Khala's arm. Piece of cake.]}
+{231}{025}{Looks like we're done... Now, remember not to take off the bandage. And don't scratch it.}
 
 
-{240}{}{[Она вертит забинтованным предплечьем перед глазами, оценивая качество работы] Как чужак сумел справиться? Он даже не сказал ни одного наговора... Но рука уже не так болит! Чужаку помог  Несытый, поэтому слов и не было! [Достает из-под фартука какой-то журнал и торжественно вручает вам]  Вот, возьми эти священные письмена - они дают бодрость Кхале перед тяжелой работой Ты достоин владеть им, раз на тебя снизошла мудрость Молчальника... А Кхала пока подумает, можно ли тебя все-таки съесть...}
-{241}{027}{Так... И чей это клык, интересно знать?}
-{242}{999}{Тогда оставлю тебя с этими приятными мыслями наедине.}
+{240}{}{[she rotates her forearm, evaluating quality of work] How the outsider managed to do it? He didn't even say one prayer... But hand is not in pain anymore! Outsider must have been helped by the Unfed, that's why no words were said! [she takes out of apron some magazine and ceremonially hands it to you] Here, take this holy scribings - they give Khala energy before hard work. You are worthy of owning it, as the Silent One's wisdom condescended upon you... And Khala will take her time to think, how she could eat you later...}
+{241}{027}{So... Whose fang is it, I wonder?}
+{242}{999}{Then I'll leave you alone with this beautiful thoughts.}
 
 
-{250}{}{[Кхала дергается и торопливо оглядывается по сторонам] Волк? Какой еще волк? Кхала никого не видела! Так Птуне и передай! Почему чужак еще здесь? }
-{251}{026}{Потому, что чужак вытащил клык из руки Кхалы! }
-{252}{026}{А почему ты так нервничаешь? И, кстати, я не говорил, что это волк Птуны... Но главное - он же всего лишь комок шерсти! Ты же одна из самых важных людей племени, даже Птуна это признает! Ну вышло у вас с волком маленькое недоразумение, так и что с того? Я ведь прав? Облегчи душу, поговори со мной!}
-{253}{033}{Ёа! А кто сказал, что я ищу волка Птуны? Прокололась, стерва? Быстро сказала, куда волчару упрятала!}
-{254}{999}{Уже ухожу.}
+{250}{}{[Khala twitches and warily looks around] Wolf? What wolf? Khala didn't see nothing, tell Ptuna this! Why does outsider still here?}
+{251}{026}{Because outsider took this fang out of Khala's wound.}
+{252}{026}{Why are you so nervous? And, by the way, I never said that this was Ptuna's wolf... But the thing is that it's just a furball, while you are one of the most important people of this tribe! Even Ptuna accepts it! So what if you had some misunderstanding with his wolf, am I right? Talk to me, lighten your load!}
+{253}{033}{Ha! Who said something about Ptuna? You blew it, wench! Talk immediately! Where's the wolf?}
+{254}{999}{I'm already leaving.}
 
 
-{260}{}{[Кхала подается вперед, будто собираясь схватить вас, но неожиданно ее словно прорывает] Проклятый волк! Кхала долго терпела! Он воровал мясо, постоянно воровал! Но в тот раз она поймала его и решила наказать. Зверь укусил Кхалу - Кхала свернула зверю шею. И съела его! Ёоть он был слишком жесткий, Кхала потом два дня выковыривала его из зубов... }
-{261}{999}{Я что-то подобное и предполагал. Ладно, был рад выслушать твою версию, но мне пора идти.}
+{260}{}{[Khala moves forward, as if going to grab you, but suddenly bursts out] Stupid wolf! Khala held it for so long! He has been stealing meat, all the time! But she caught him in the act and decided to teach him a lesson. The beast bit Khala - so Khala snapped the beast's neck. And ate him! He was so tough, Khala has been picking up him from her teeth for two days... }
+{261}{999}{I figured this much. Okay, it was nice to hear your story, but I have to go.}
 
 
-{270}{}{[Здоровой рукой продирается через заросли на голове в поисках какого-то насекомого, отчего косточки в волосах начинают дружно постукивать] Пусть чужак не медлит! Кхала устала ловить маленьких тварей одной рукой!}
-{271}{029}{[Жестом подозвать доктора]Это доктор Пэт! Он великий шаман своего племени. Он поможет тебе.}
-{272}{019}{Я хочу еще раз осмотреть раны.}
-{273}{999}{На самом деле, тебе придется подождать... Не нервничай так! Ждать недолго!}
+{270}{}{[With her healthy hand, she plows through the bushes on her head in search of some insect. Little bones in her hairlocks lightly tap on each other] Let the outsider not hesitate! Khala is tired of catching little creatures with one arm!}
+{271}{029}{[make a gesture to dr. Pat] This is dr.Pat, he is a great shaman of his tribe! He will help you.}
+{272}{019}{I want to examine your wounds again.}
+{273}{999}{Actually, you'll have to wait... Don't be nervous! Not for long!}
 
 
-{280}{}{[Приступить к процедуре удается не сразу. Знахарка настаивает, что будет держать свой тесак около горла доктора в качестве страховки, а тот на это почему-то не соглашается. Вы находите компромиссный вариант - если Пэт ошибется, лезвие перережет вашу глотку. Пока доктор возится с ранами, вы испытываете не самые приятные ощущения. Но вот Пэт вытирает руки и кивает вам. Все закончено.]}
-{281}{030}{Наконец-то...}
+{280}{}{[You don't start the procedure right away. Khala insists that she should hold her butcher knife by the throat of dr. Pat as an insurance; for some reason, dr. Pat doesn't agree to that. So, as a trade-off, you decide that if Pat makes a mistake, the blade goes through your neck. While doctor does his job with the wounds, you are having not the most pleasant experience. But then Pat wipes his hands and nods to you. All done.]}
+{281}{030}{At last...}
 
 
-{290}{}{[Она вертит забинтованным предплечьем перед глазами, оценивая качество работы] Как чужак сумел справиться? Он даже не сказал ни одного наговора... Но рука уже не так болит! Чужаку помог  Несытый, поэтому слов и не было! [Достает из-под фартука какой-то журнал и торжественно вручает доктору Пэту. Но тот категорически отказывается что-то брать из ее рук. Видимо, столовая аборигенов произвела на него впечатление. Журнал в итоге достается вам.]  Вот, возьми эти священные письмена - они дают бодрость Кхале перед тяжелой работой. Ты достоин владеть им, раз ты привел посланника Молчальника... А Кхала пока подумает, можно ли тебя все-таки съесть...}
-{291}{999}{Тогда оставлю тебя с этими приятными мыслями наедине.}
+{290}{}{[she rotates her forearm, evaluating quality of work] How the outsider managed to do it? He didn't even say one prayer... But hand is not in pain anymore! Outsider must have been helped by the Unfed, that's why no words were said! [she takes out of apron some magazine and ceremonially hands it to dr. Pat, but he is categorically against taking anything from her. Looks like the dinery of this village made its impression. The magazine goes to you.]  Here, take this holy scribings - they give Khala energy before hard work. You are worthy of owning it, as you brought here the messenger of Silent One... And Khala will take her time to think, how she could eat you later...}
+{291}{999}{Then I'll leave you alone with this beautiful thoughts.}
 
 
-{300}{}{[Вы ожидаете взрыва ярости, но Кхала лишь довольно оскаливается. Вязкая слюна стекает по ее подбородку, в глазах застыло голодное нетерпение] Как же Кхале будет приятно съесть тебя... Старейшина запрещает торопиться с чужаками, но ты сам хочешь попасть к нам в зубы! Как же долго Кхала этого ждала... Ммм... [Торопливо утирает слюни и идет к вам]}
+{300}{}{[you expect her to explode in fury, but Khala only satisfyingly bares her teeth. Sticky saliva drips off her chin, her sight shows only impatience and hunger] Khala will be so delighted to eat you... Elder forbids us to be hasty with the strangers, but you are just itching to be eaten! Khala waited this for so long... [she wipes her drool and steps to you]}
 {301}{998}{Choke on my bullets, you fucking maneater!}
 {302}{998}{It's me who will be happy, while ripping your rotten heart out!}
 
 
-{313}{}{[she widely smiles, demonstrating two rows of sharp fangs] Khala feels good! She's even more hungry now. The outsider helped Khala. Whe she decides to eat the outsider, he will die fast and easy!}
+{313}{}{[she gives you a wide smile, demonstrating two rows of sharp fangs] Khala feels good! She's even more hungry now. The outsider helped Khala. When Khala decides to eat the outsider, he will die fast and easy!}
 {310}{026}{Thank you for that... By the way, did you see a wolf around here?}
 {311}{999}{Well, great. Don't even know how I deserved it. Okay, gotta go.}
 {312}{999}{I'd better move, while our conversation haven't gotten too far.}
 
 
-{320}{}{[Нож стремительно проносится у вас перед лицом, едва не срезав нос] Чужак слишком много говорит! Если он скажет еще слово, Кхала вырвет его грязный язык! Она уже слышала про беду Птуны и хочет ей помочь. Чужак уйдет отсюда живым, если пообещает Кхале передать это Птуне!}
-{321}{031}{Yeah, sure! That's it, I'm sick of you, fucking cannibals! It's time to mop out the area!}
+{320}{}{[knife swiftly flashes before your eyes, almost cutting off the tip of your nose] The outsider talks too much! If he says another word, Khala will tear out his dirty tongue! She already knows about Ptuna's trouble and wants to help. The outsider walks out of here alive if he promises Khala to tell this to Ptuna!}
+{321}{031}{Yeah, fat chance! That's it, I'm sick of you, fucking cannibals! It's time to mop out the area!}
 {322}{999}{[nod and carefully step away]}
