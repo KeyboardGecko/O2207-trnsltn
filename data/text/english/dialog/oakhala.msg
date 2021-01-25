@@ -126,51 +126,51 @@ f##############################
 {214}{999}{Then I'll leave you alone with this beautiful thoughts.}
 
 
-{210}{}{[on Khala's face, you see that worry for you not returning slowly changes with fear of losing arm. In the end it seems like she values her well-being above the tribe's law] Okay... Outsider can walk away to look for the healer. Khala will tell the warriors to let him pass. But if outsider is lying - Khala will find him and eat his dirty heart! And after that, the rest too...}
+{210}{}{[on Khala's face, you see that worry for you not returning slowly changes with fear of losing arm. In the end it looks like she values her well-being above the tribe customs] Okay... Outsider can walk away to look for the healer. Khala will tell the warriors to let him pass. But if outsider is lying - Khala will find him and eat his dirty heart! And after that, the rest too...}
 {211}{999}{Don't worry, I'll return. You won't even miss me.}
 {212}{999}{Maybe there are other options... Wait, I'll be back soon.}
 
 
-{220}{}{[Известная знахарка явно не склонна доверять вашим устаревшим методам лечения, но боль в ране убеждает ее рискнуть] Ёорошо...  Но Кхала будет держать нож у горла чужака, пока тот будет ее трогать! Если она решит, что он хочет ей навредить...}
-{221}{024}{Yeah-yeah, I see. Everything according to your Unfed's teachings. Let's begin - your luck that I have everything needed with me...}
-{222}{999}{You know, I'm not quite ready to that. I'll be back when Ш find out some alternative method to solve this problem.}
+{220}{}{[the tribe healer doesn't favour your old-fashioned ways of healing, but the pain from wounds makes her take the risk] Okay...  But Khala will hold her knife by the outsider's throat while he touches her! If Khala suspects that he means harm...}
+{221}{024}{Yeah-yeah, I got it. Everything according to your Unfed's teachings. Let's begin - your luck that I have everything I need with me...}
+{222}{999}{You know, I'm not quite ready to that. I'll be back when I find out some alternative method to solve this problem.}
 
 
-{230}{}{[This is definitely not the case that could challenge your talents. The savage cook is remarkably stoical in enduring all the procedures. You clear out the wounds... and suddenly, take a wolf's fang out of one. Khala abruptly flinches, almost cutting your throat. You put your discovery on the ground and apply a bandage on Khala's arm. Piece of cake.]}
+{230}{}{[This is definitely not the case that could challenge your talents. The savage cook is remarkably stoical in enduring all the procedures. You clean the wounds - and suddenly take a wolf's fang out of one. Khala abruptly flinches, almost cutting your throat. You put your discovery on the ground and apply a bandage on Khala's arm. Piece of cake.]}
 {231}{025}{Looks like we're done... Now, remember not to take off the bandage. And don't scratch it.}
 
 
-{240}{}{[Она вертит забинтованным предплечьем перед глазами, оценивая качество работы] Как чужак сумел справиться? Он даже не сказал ни одного наговора... Но рука уже не так болит! Чужаку помог  Несытый, поэтому слов и не было! [Достает из-под фартука какой-то журнал и торжественно вручает вам]  Вот, возьми эти священные письмена - они дают бодрость Кхале перед тяжелой работой Ты достоин владеть им, раз на тебя снизошла мудрость Молчальника... А Кхала пока подумает, можно ли тебя все-таки съесть...}
-{241}{027}{Так... И чей это клык, интересно знать?}
-{242}{999}{Тогда оставлю тебя с этими приятными мыслями наедине.}
+{240}{}{[she rotates her forearm, evaluating quality of work] How the outsider managed to do it? He didn't even say one prayer... But hand is not in pain anymore! Outsider must have been helped by the Unfed, that's why no words were said! [she takes out of apron some magazine and ceremonially hands it to you] Here, take this holy scribings - they give Khala energy before hard work. You are worthy of owning it, as the Silent One's wisdom condescended upon you... And Khala will take her time to think, how she could eat you later...}
+{241}{027}{So... Whose fang is it, I wonder?}
+{242}{999}{Then I'll leave you alone with this beautiful thoughts.}
 
 
-{250}{}{[Кхала дергается и торопливо оглядывается по сторонам] Волк? Какой еще волк? Кхала никого не видела! Так Птуне и передай! Почему чужак еще здесь? }
-{251}{026}{Потому, что чужак вытащил клык из руки Кхалы! }
-{252}{026}{А почему ты так нервничаешь? И, кстати, я не говорил, что это волк Птуны... Но главное - он же всего лишь комок шерсти! Ты же одна из самых важных людей племени, даже Птуна это признает! Ну вышло у вас с волком маленькое недоразумение, так и что с того? Я ведь прав? Облегчи душу, поговори со мной!}
-{253}{033}{Ёа! А кто сказал, что я ищу волка Птуны? Прокололась, стерва? Быстро сказала, куда волчару упрятала!}
-{254}{999}{Уже ухожу.}
+{250}{}{[Khala twitches and warily looks around] Wolf? What wolf? Khala didn't see nothing, tell Ptuna this! Why does outsider still here?}
+{251}{026}{Because outsider took this fang out of Khala's wound.}
+{252}{026}{Why are you so nervous? And, by the way, I never said that this was Ptuna's wolf... But the thing is that it's just a furball, while you are one of the most important people of this tribe! Even Ptuna accepts it! So what if you had some misunderstanding with his wolf, am I right? Talk to me, lighten your load!}
+{253}{033}{Ha! Who said something about Ptuna? You blew it, wench! Talk immediately! Where's the wolf?}
+{254}{999}{I'm already leaving.}
 
 
-{260}{}{[Кхала подается вперед, будто собираясь схватить вас, но неожиданно ее словно прорывает] Проклятый волк! Кхала долго терпела! Он воровал мясо, постоянно воровал! Но в тот раз она поймала его и решила наказать. Зверь укусил Кхалу - Кхала свернула зверю шею. И съела его! Ёоть он был слишком жесткий, Кхала потом два дня выковыривала его из зубов... }
-{261}{999}{Я что-то подобное и предполагал. Ладно, был рад выслушать твою версию, но мне пора идти.}
+{260}{}{[Khala moves forward, as if going to grab you, but suddenly bursts out] Stupid wolf! Khala held it for so long! He has been stealing meat, all the time! But she caught him in the act and decided to teach him a lesson. The beast bit Khala - so Khala snapped the beast's neck. And ate him! He was so tough, Khala has been picking up him from her teeth for two days... }
+{261}{999}{I figured this much. Okay, it was nice to hear your story, but I have to go.}
 
 
-{270}{}{[Здоровой рукой продирается через заросли на голове в поисках какого-то насекомого, отчего косточки в волосах начинают дружно постукивать] Пусть чужак не медлит! Кхала устала ловить маленьких тварей одной рукой!}
-{271}{029}{[Жестом подозвать доктора]Это доктор Пэт! Он великий шаман своего племени. Он поможет тебе.}
-{272}{019}{Я хочу еще раз осмотреть раны.}
-{273}{999}{На самом деле, тебе придется подождать... Не нервничай так! Ждать недолго!}
+{270}{}{[With her healthy hand, she plows through the bushes on her head in search of some insect. Little bones in her hairlocks lightly tap on each other] Let the outsider not hesitate! Khala is tired of catching little creatures with one arm!}
+{271}{029}{[make a gesture to dr. Pat] This is dr.Pat, he is a great shaman of his tribe! He will help you.}
+{272}{019}{I want to examine your wounds again.}
+{273}{999}{Actually, you'll have to wait... Don't be nervous! Not for long!}
 
 
-{280}{}{[Приступить к процедуре удается не сразу. Знахарка настаивает, что будет держать свой тесак около горла доктора в качестве страховки, а тот на это почему-то не соглашается. Вы находите компромиссный вариант - если Пэт ошибется, лезвие перережет вашу глотку. Пока доктор возится с ранами, вы испытываете не самые приятные ощущения. Но вот Пэт вытирает руки и кивает вам. Все закончено.]}
-{281}{030}{Наконец-то...}
+{280}{}{[You don't start the procedure right away. Khala insists that she should hold her butcher knife by the throat of dr. Pat as an insurance; for some reason, dr. Pat doesn't agree to that. So, as a trade-off, you decide that if Pat makes a mistake, the blade goes through your neck. While doctor does his job with the wounds, you are having not the most pleasant experience. But then Pat wipes his hands and nods to you. All done.]}
+{281}{030}{At last...}
 
 
-{290}{}{[Она вертит забинтованным предплечьем перед глазами, оценивая качество работы] Как чужак сумел справиться? Он даже не сказал ни одного наговора... Но рука уже не так болит! Чужаку помог  Несытый, поэтому слов и не было! [Достает из-под фартука какой-то журнал и торжественно вручает доктору Пэту. Но тот категорически отказывается что-то брать из ее рук. Видимо, столовая аборигенов произвела на него впечатление. Журнал в итоге достается вам.]  Вот, возьми эти священные письмена - они дают бодрость Кхале перед тяжелой работой. Ты достоин владеть им, раз ты привел посланника Молчальника... А Кхала пока подумает, можно ли тебя все-таки съесть...}
+{290}{}{[she rotates her forearm, evaluating quality of work] How the outsider managed to do it? He didn't even say one prayer... But hand is not in pain anymore! Outsider must have been helped by the Unfed, that's why no words were said! [she takes out of apron some magazine and ceremonially hands it to dr. Pat, but he is categorically against taking anything from her. Looks like the dinery of this village made its impression. The magazine goes to you.]  Here, take this holy scribings - they give Khala energy before hard work. You are worthy of owning it, as you brought here the messenger of Silent One... And Khala will take her time to think, how she could eat you later...}
 {291}{999}{Then I'll leave you alone with this beautiful thoughts.}
 
 
-{300}{}{[you expect her to explode in fury, but Khala only satisfyingly bares her teeth. Sticky saliva drips off her chin, in her eyes you see impatience and hunger] Khala will be so delighted to eat you... Elder forbids us to be hasty with the strangers, but you are just itching to be eaten! Khala waited this for so long... [she wipes her drool and steps to you]}
+{300}{}{[you expect her to explode in fury, but Khala only satisfyingly bares her teeth. Sticky saliva drips off her chin, her sight shows only impatience and hunger] Khala will be so delighted to eat you... Elder forbids us to be hasty with the strangers, but you are just itching to be eaten! Khala waited this for so long... [she wipes her drool and steps to you]}
 {301}{998}{Choke on my bullets, you fucking maneater!}
 {302}{998}{It's me who will be happy, while ripping your rotten heart out!}
 
@@ -181,6 +181,6 @@ f##############################
 {312}{999}{I'd better move, while our conversation haven't gotten too far.}
 
 
-{320}{}{[knife swiftly flashes before your eyes, almost cutting off the tip of your nose] The outsider talks too much! If he says another word, Khala will tear out his dirty tongue! She already knows about Ptuna's trouble and wants to help. The outsider walks out of here alive, if he promises Khala to tell this to Ptuna!}
-{321}{031}{Yeah, sure! That's it, I'm sick of you, fucking cannibals! It's time to mop out the area!}
+{320}{}{[knife swiftly flashes before your eyes, almost cutting off the tip of your nose] The outsider talks too much! If he says another word, Khala will tear out his dirty tongue! She already knows about Ptuna's trouble and wants to help. The outsider walks out of here alive if he promises Khala to tell this to Ptuna!}
+{321}{031}{Yeah, fat chance! That's it, I'm sick of you, fucking cannibals! It's time to mop out the area!}
 {322}{999}{[nod and carefully step away]}
