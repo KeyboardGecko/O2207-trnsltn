@@ -116,7 +116,7 @@
 {191}{018}{Well... Okay. Why not? I'm not making any promises, but I'll try. I have some questions about this "problem".}
 
 
-{200}{}{I don't think that it's the main thing to focus on. Just try to hear both of them out, try to convince them that you are not allied with the other one- [he suddenly bends over, coughing. After he stands up, wiping the sweat from his forehead, his face is still red]. You have to excuse me... Lately, it's happening more often than usual. So, what do you say?}
+{200}{}{I don't think that it's the main thing to focus on. Just try to hear both of them out, to convince them that you are not allied with the other one- [he suddenly bends over, coughing. After he stands up, wiping the sweat from his forehead, his face is still red]. You have to excuse me... Lately, it's happening more often than usual. So, what do you say?}
 {201}{018}{Uh... I can try. But I'd like to hear some details about their quarrel...}
 {202}{019}{If there's a reward in it, I will clean the dirty laundry of your family for you.}
 
@@ -215,7 +215,7 @@
 {380}{}{Everyone is equal to me here, I can't say someone stands out much. Maybe you'll ask more specific question? Who do you want to know about?}
 {381}{041}{Buck}
 {382}{042}{Daniel}
-{383}{044}{Dan}
+{383}{044}{Dunn}
 {384}{047}{Arson}
 {385}{048}{Maurissa}
 {386}{049}{Juan}
@@ -254,7 +254,7 @@
 {413}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{420}{}{Daniel... my joy, my sadness. He is so young and juvenile. He can get back at you in a really nasty tone, or to say something stupid - not because he really thinks so, but because he finds it "cool-looking". I know my ways towards every member of our community, excluding my own son. I don't even think I'm familiar with him well enough...}
+{420}{}{Daniel... My joy, my sadness. He is so young and juvenile. He can get back at you in a really nasty tone, or to say something stupid - not because he really thinks so, but because he finds it "cool-looking". I know my ways towards every member of our community, excluding my own son. I don't even think I'm familiar with him well enough...}
 {421}{043}{Listen, Mark, do you even spend time together? Did you talk to him about the future?}
 {422}{038}{I see - you don't like to talk about this. I'll ask about other ones in NWO now, okay?}
 {423}{031}{I see - you don't like to talk about this. I'd like to get back to questions about the town.}
@@ -267,7 +267,7 @@
 {433}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{440}{}{Dan? Rude, harsh and sneaky. Buck used to notice him doing little mean things a couple of times. A petty crook, in my view. }
+{440}{}{Dunn? Rude, harsh and sneaky. Buck used to notice him doing little mean things a couple of times. A petty crook, in my view. }
 {441}{045}{Why won't you throw him out then?}
 {442}{038}{I don't think he's of interest to me. Let's talk about someone else?}
 {443}{031}{Yeah... Let's get back to questions about town.}
