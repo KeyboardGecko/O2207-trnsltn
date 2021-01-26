@@ -181,19 +181,19 @@
 {9100}{}{Doctor's Bag}
 {9101}{}{A roomy bag that contains instruments and chems used by doctors in the application of their trade.}
 {9200}{}{Light Support Weapon}
-{9201}{}{A military support machine gun in caliber .223, was in service with the heavy infantry of the US Armed Forces from 1978 to 1989. Min ST: 7}
+{9201}{}{A military support machine gun that was in service with the heavy infantry of the US Armed Forces from 1978 to 1989. Min ST: 7}
 {9300}{}{Barrack Machinegun}
 {9301}{}{An experimental super-heavy machine gun, developed by the company "Britanic Engineering" for the Advanced Research Projects Agency "Defender" project. The recoil has incredible power and can easily tear out an untrained arm! Min ST: 10}
 {9400}{}{Turret Machinegun}
 {9401}{}{How did you manage to wrest the machine gun from the chassis of the turret? Min ST: 9}
 {9500}{}{LVS Machinegun}
-{9501}{}{A heavy machine gun in .50 caliber, developed by "Civil Defense" for the US Army for paramilitary police units. Mounted on lightly armored vehicles, it prooved itself excellent against protesters! Min ST: 8}
+{9501}{}{A heavy machine gun, developed by "Civil Defense" for the US Army for paramilitary police units. Mounted on lightly armored vehicles, it prooved itself excellent against protesters! Min ST: 8}
 {9600}{}{SLR-3 Laser Rifle}
 {9601}{}{A modification of the "Grand Shvain Laser Rifle" developed by Sebastian Shvain in 2198. Awkward and heavy, but damn it's a laser! Min ST: 7}
 {9700}{}{SLR-4 Laser Rifle}
 {9701}{}{This model replaced the "SLR-3" rifle in 2202. Differences from its predecessor are a slightly higher weight, but a greater firing range and laser pulse stability. Min ST: 8}
 {9800}{}{Plasma Rifle}
-{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Just don't forget to feed the it a lot of energy cells. Without your participation this beast of massive destruction would never have seen the light of day! Min ST: 9}
+{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Just don't forget to feed it with a lot of energy cells. Without your participation this beast of massive destruction would never have seen the light of day! Min ST: 9}
 {9900}{}{FT2A Flamethrower}
 {9901}{}{A military flamethrower that spits searing flames of napalm. Burn, baby burn! Min ST: 8}
 {10000}{}{Hellbringer}
@@ -259,9 +259,9 @@
 {13000}{}{Slugger}
 {13001}{}{An award-winning German-made pistol, characterized by it's high accuracy, stopping power, reliability and an elegant intrinsic handle design. Min ST: 4}
 {13100}{}{Detective Revolver}
-{13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. He failed many at a critical moment, but also saved many! Min ST: 4}
+{13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many! Min ST: 4}
 {13200}{}{.45 Revolver}
-{13201}{}{A basic average revolver in .45 caliber. The name comes form the mechanism of feeding the loaded cartridges in a revolving rotating drum. Min ST: 5}
+{13201}{}{A basic average revolver, named after the fact that the mechanism of feeding the loaded cartridges is a revolving aka rotating drum. Min ST: 5}
 {13300}{}{Magnum Revolver}
 {13301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. Do I feel lucky? Well, do ya punk?. Min ST: 5}
 {13400}{}{Flare Gun}
@@ -282,8 +282,8 @@
 {14101}{}{A pneumatic launching device for hurling poisonous darts at your adversaries. Min ST: 3}
 {14200}{}{Python Revolver}
 {14201}{}{This one blows heads just clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
-{14300}{}{9mm Pistol (Scoped)}
-{14301}{}{A basic average pistol in 9mm with an attached scope, that allows for even easier picking off your enemies at a distance. Min ST: 4}
+{14300}{}{.223 Pistol (Scoped)}
+{14301}{}{A special and custom made pistol in .223 with an attached scope, that allows with ease to pick off your enemies at a distance. Min ST: 4}
 {14400}{}{Jackal Revolver}
 {14401}{}{The signature revolver of the Jackal. A nice cool gun to pop the heads of your enemies like melons. Min ST: 6}
 {14500}{}{SL-10 Laser Pistol}
@@ -327,39 +327,39 @@
 {16400}{}{KLH74 Assault Rifle}
 {16401}{}{A legendary rifle trophy from the old wars, manufactured in the United Russian Empire. Min ST: 6}
 {16500}{}{Assault Rifle}
-{16501}{}{A basic average assault rifle in caliber .223, nothing special about it. Min ST: 6}
+{16501}{}{A basic average assault rifle, nothing special about it. Min ST: 6}
 {16600}{}{Hunting Rifle}
-{16601}{}{A hunting rifle in .223 for large animals, or bigger two legged game. Min ST: 5}
+{16601}{}{A hunting rifle for large animals, or bigger two legged game. Min ST: 5}
 {16700}{}{Hunting Rifle (Scoped)}
-{16701}{}{A hunting rifle in .223 with an attached scope that makes it easier to hunt from a distance, no matter what kind of game you're aiming for. Min ST: 5}
+{16701}{}{A hunting rifle with an attached scope that makes it easier to hunt from a distance, no matter what kind of game you're aiming for. Min ST: 5}
 {16800}{}{Peronal Assault Rifle}
 {16801}{}{A personalized assault rifle. Min ST: 8}
 {16900}{}{Bulldog Assault Rifle}
-{16901}{}{A modern and decent assault rifle in .308, named after the fact that it tears through enemies like a rabid dog through freshly killed prey. Min ST: 7}
+{16901}{}{A modern and decent assault rifle, named after the fact that it tears through enemies like a rabid dog through freshly killed prey. Min ST: 7}
 {17000}{}{Sniper Rifle}
-{17001}{}{A nice balanced rifle in caliber .308, with an optical sight, good range and perfect accuracy. What more does a sniper need? Min ST: 6}
+{17001}{}{A nice balanced rifle with an optical sight, good range and perfect accuracy. What more does a sniper need? Min ST: 6}
 {17100}{}{R-6 Assault Rifle}
-{17101}{}{An excellent assault rifle in caliber .308 that was in use by the pre-war special forces. Very reliable and precise. Min ST: 7}
+{17101}{}{An excellent assault rifle that was in use by the pre-war special forces. Very reliable and precise. Min ST: 7}
 {17200}{}{Varmint Rifle}
-{17201}{}{Despite the name and size of this rifle in caliber .38, this little baby can cause quite a few problems for your opponents. Min ST: 4}
+{17201}{}{Despite the name and size of this rifle, this little baby can cause quite a few problems for your opponents. Min ST: 4}
 {17300}{}{Lilith Rifle}
-{17301}{}{A very deadly sniper rifle in caliber .50, that many elite sniper used. Has a very long range and stopping power. Min ST: 9}
+{17301}{}{A very deadly sniper rifle that many elite sniper used. Has a very long range and stopping power. Min ST: 9}
 {17400}{}{Phobos Shotgun}
 {17401}{}{The automatic propellant gas rapid reloading system makes this shotgun a most dreadful experience for your enemies. Min ST: 7}
 {17500}{}{Double-barreled Shotgun}
-{17501}{}{A double-barreled hunting shotgun in 12 gauge, ideal for unarmored targets. Min ST: 5}
+{17501}{}{A double-barreled hunting shotgun, ideal for unarmored targets. Min ST: 5}
 {17600}{}{Remington Shotgun}
-{17601}{}{A 12 gauge pump-action shotgun that was widely in use as a police weapon. It's in good condition. Min ST: 5}
+{17601}{}{A pump-action shotgun that was widely in use as a police weapon. It's in good condition. Min ST: 5}
 {17700}{}{Pump-Action Shotgun}
-{17701}{}{A small and comfortable civilian pump-action shotgun in 12 gauge. Min ST: 4}
+{17701}{}{A small and comfortable civilian pump-action shotgun. Min ST: 4}
 {17800}{}{Sawn-off Shotgun}
 {17801}{}{A sawn-off shotgun is the most common weapon among small-time bandits, robbers and other crooks. Min ST: 4}
 {17900}{}{12 ga. Shotgun}
-{17901}{}{A very basic civilian pump-action shotgun in 12 gauge that was widely in use. Min ST: 5}
+{17901}{}{A very basic civilian pump-action shotgun that was widely in use. Min ST: 5}
 {18000}{}{Wilderer Shotgun}
 {18001}{}{A big nasty revolving long range shotgun for hunting large game. Min ST: 6}
 {18100}{}{Hardener Shotgun}
-{18101}{}{This is more like a shotgun cannon than a normal revolving shotgun. It is definately one of the most powerful and with a very long range to boot. The downside is it needs special 12 gauge Long ammunition. Min ST: 9}
+{18101}{}{This is more like a shotgun cannon than a normal revolving shotgun. It is definately one of the most powerful and with a very long range to boot. The downside is it needs special 12 gauge Long cartriges. Min ST: 9}
 {18200}{}{EMP Launcher}
 {18201}{}{A grenade launcher for special 40mm EMP grenades, designed against robots and electronics. Min ST: 8}
 {18300}{}{40mm Launcher}
