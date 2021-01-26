@@ -85,7 +85,7 @@
 # Format: 3 (max elevations), by city
 #
 # 00: TestMap
-{200}{}{Somewhere in the wasteland.}
+{200}{}{Somewhere in the Wastes}
 {201}{}{}
 {202}{}{}
 # 01: Tartar Parking 03, TARTAR03.MAP
@@ -167,7 +167,7 @@
 ########################
 #
 # 18: SJ Enter
-{254}{}{Cove}
+{254}{}{Entrance}
 {255}{}{}
 {256}{}{}
 # 19: SJ Main
@@ -393,7 +393,7 @@
 {384}{}{}
 {385}{}{}
 # 62: Olympus Hi Tech
-{386}{}{High-Tech Laboratories}
+{386}{}{High-Tech Labs}
 {387}{}{}
 {388}{}{}
 # 63: Olympus Server
@@ -597,7 +597,7 @@
 {531}{}{}
 {532}{}{}
 # 111: Spec LostVillage
-{533}{}{Center}
+{533}{}{Settlement}
 {534}{}{}
 {535}{}{}
 # 112: Spec SixString
@@ -645,18 +645,18 @@
 {1507}{}{Oasis}
 {1508}{}{Mangy Dog}
 {1509}{}{Army Headquarters}
-{1510}{}{Tin Industries}
+{1510}{}{Cannery}
 {1511}{}{Renaissance}
 {1512}{}{Olympus}
 {1513}{}{Meadows}
 {1514}{}{Ursa Lair}
 {1515}{}{Chimera Bunker}
 {1516}{}{Dangerous Clearing}
-{1517}{}{Random Area}
-{1518}{}{Random}
-{1519}{}{Random}
-{1520}{}{Random}
-{1521}{}{Random}
+{1517}{}{Random Encounter}
+{1518}{}{Random Encounter}
+{1519}{}{Random Encounter}
+{1520}{}{Random Encounter}
+{1521}{}{Random Encounter}
 {1522}{}{Tartarus}
 {1523}{}{Pearson Town}
 {1524}{}{Biolab #2}
