@@ -40,7 +40,7 @@
 {2001}{}{With a receding hairline and shifty eyes, he looks like a natural scientist.}
 {2100}{}{Guardian}
 {2101}{}{An guard in an armored suit, covered in wires, tubes and whirring motors.}
-{2200}{}{Crazy Ghoul}
+{2200}{}{Feral Ghoul}
 {2201}{}{A horribly nasty looking creature, it's skin hangs on like it's flapping on a rack.}
 {2300}{}{Pale Ghoul}
 {2301}{}{A hideous creature, it's muscles are clearly showing through the pale skin.}
@@ -423,7 +423,7 @@
 {20801}{}{}
 {20900}{}{Lavash}
 {20901}{}{}
-{21000}{}{Ferral Ghoul}
+{21000}{}{Feral Ghoul}
 {21001}{}{}
 {21100}{}{Pale Ghoul}
 {21101}{}{}
