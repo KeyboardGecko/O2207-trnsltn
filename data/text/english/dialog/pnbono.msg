@@ -11,162 +11,162 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Дряхлый мертвяк.}
-{2}{}{Это очень древний, разваливающийся мертвяк. Он смотрит на Вас невидящим взглядом сквозь свои редкие брови.}
+{1}{}{You see: an old ghoul.}
+{2}{}{This falling-apart ghoul looks ancient. He watches at you with unseeing gaze through his scant eyebrows.}
 #
 # после знакомства
-{3}{}{Вы видите: Боно.}
-{4}{}{Негласный крестный отец местных несчастных отщепенцев.}
+{3}{}{You see: Bono.}
+{4}{}{Unspoken godfather to the family of unfortunate local exiles.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[его брови медленно ползут вверх, открывая белесые глаза] Новенький, да? *вздох* Что же вам всем в Тартаре-то не сидится? Куда мне еще один рот прокормить, а?}
-{11}{002}{Что? Новенький? Что это за место?}
-{12}{999}{Что? Нет, у меня нет времени на все это.}
+{10}{}{[his eyebrows slowly move upward, revealing whitish eyes] A new one, aren't you? [sighs] Why won't you all stay put in Tartarus? How do I feed another mouth?}
+{11}{002}{What? A new one? What is this place?}
+{12}{999}{What? No, I don't have time for this.}
 
 
-{20}{}{Новенький - это ты, новенький. Как и половина здешних, несчастные искатели счастья. Всем всегда не сидится ровно на заднице...}
-{21}{003}{Та-а-ак, давай-ка разберемся. Значит это тоже часть Тартара? Ну, то есть, это - Тартар?}
-{22}{004}{Ничего не понимаю. Старик, о чем ты говоришь? Ты ведь старик, да?.. Ты как-то неважно выглядишь.}
-{23}{999}{Не знаю и знать не хочу. Мне пора.}
+{20}{}{New one - that's you, new one. Like the half of unfortunate seekers of better life here, you just couldn't sit tight in one place...}
+{21}{003}{Okay, let's sort this out. Is it a part of Tartarus? I mean, is this even a Tartarus?}
+{22}{004}{I don't understand, old man. What are you talking about? You *are* an old man, right? You don't look too good...}
+{23}{999}{That's it, I'm out of here.}
 
 
-{30}{}{Послушай, сынок... нет никакого Тартара. Нет... скажем, КРОМЕ Тартара есть еще ОСТАЛЬНОЙ мир, понимаешь? Так вот сейчас ты в части этого ОСТАЛЬНОГО МИРА. Мы называем это место ПЕЩЕРЫ НЕЖИТИ. Да, это я придумал. И, да - меня зовут Боно, новенький.}
-{31}{005}{Нежить? Это ведь ты - нежить? И вы тут живете? И все эти люди в одеждах Тартара. И... и... оо-ох...}
+{30}{}{Listen, son... That's no Tartarus. I mean... There's THE REST of the world, except, Tartarus, you see? So now you are there, in THE REST of the world. We call this place "the caves of undead". I myself came up with the name. And I'm Bono, if you are wondering.}
+{31}{005}{Undead? So you all are undead? And you live here? All this people, wearing Tartarus' clothes?.. Oh man...}
 
 
-{40}{}{Ну-у, скажем так - я СЛЕДУЮЩАЯ СТАДИЯ старика. Даже можно сказать, я следующая стадия МЕРТВЯКА. И, кстати, к сожалению, не последняя стадия... Меня зовут Боно, а это место мы называем Пещеры Нежити. Здесь живут такие, как ты. И как я.}
-{41}{005}{Нежить... Это не Тартар, хотя тоже без неба. Мертвяки. Кто, КТО все эти люди? Оо-ох...}
+{40}{}{Well, let's say I'm the next step of being an old man. You could even say I'm the next step of being a *dead* man. And not the last step, unfortunately... The name's Bono. This place is called "the caves of undead". Here live the likes of you. And me.}
+{41}{005}{Undead... This is no Tartarus, although you have no sky here as well. Who are all these people?.. Oh man...}
 
 
-{50}{}{Не торопись, новенький, понимание нельзя торопить, иначе оно извернется и исказится, и помутнится, и запутается... Начнем с простого - как твое имя, новенький?}
-{51}{006}{Меня зовут }
-{52}{006}{, я пришел из Тартара, и... мне нужно знать...}
-{53}{999}{Нет, сначала мне нужно это обдумать.}
+{50}{}{Don't be hasty, new one. The understanding cannot be rushed, or it will become distorted, hazy and tangled... Let's start with the basics: what's your name?}
+{51}{006}{My name is }
+{52}{006}{, I came from Tartarus... And I need answers.}
+{53}{999}{No, I need to think everything over first.}
 
 
-{60}{}{Конечно, как и у всех до тебя [улыбается беззубым ртом]. Если ты немного пришел в себя - мы можем попробовать прояснить твои вопросы.}
-{61}{010}{Да, я хотел бы знать кое-что.}
-{62}{999}{Не сейчас, мне нужно немного времени все это переварить.}
+{60}{}{Of course. Like literally everyone else before you [he smiles with toothless grin]. If you already pulled yourself together, we can look into the answers you need.}
+{61}{010}{Yes, I'd like to.}
+{62}{999}{Not now, I need some time to think everything over first.}
 
 
-{100}{}{Хмм?... Кхм-кхм? А-ах, это ты, }
-{101}{}{. Конечно-конечно, что ты хотел?}
-{102}{}{Мда-а? Что-то еще?}
-{103}{011}{Расскажи мне про Тартар!}
-{104}{020}{Как вы тут... живете?}
-{105}{030}{Ты что-нибудь знаешь о Богах?}
-{106}{040}{Мой отец очень болен, мне нужно вернуться в Тартар.}
-{107}{050}{Ты обещал мне помочь, помнишь - помощь на помощь?}
-{108}{060}{Ты как-то растеряно выглядишь, потерял что-то?}
-{199}{065}{По-поводу твоей речи...}
-{198}{069}{Тут Джо ищет свою жену Надин.}
-{197}{075}{Я помог Присли с кое-какими удобрениями, и подумал, может вам нужно больше?}
-{196}{076}{Я принес еще удобрений.}
-{109}{999}{Ничего, потом еще поговорим.}
+{100}{}{Hmm?... Hmm-hmm? Oh, it's you, }
+{101}{}{. What do you need?}
+{102}{}{Yeah? Something else?}
+{103}{011}{Tell me about Tartarus!}
+{104}{020}{How do you all live here?}
+{105}{030}{Do you know anything about Gods?}
+{106}{040}{My father is very sick, I need to get back to Tartarus.}
+{107}{050}{You promised to help me, remember? Return the favor and all that.}
+{108}{060}{You look somehow distracted. Lost something?}
+{199}{065}{About that speech you need to give...}
+{198}{069}{There's this guy Joe, he looks for his wife, Nadine.}
+{197}{075}{I brought Priestley some fertilizer. So I've been thinking - maybe you need more of that?}
+{196}{076}{I brought more of fertilizer.}
+{109}{999}{Nothing, we'll talk later.}
 
 
-{110}{}{Тартар... Да-а... Тартар - это отличное место для... для жизни. Хм, правда интересно, ты, пришедший из Тартара, просишь меня, никогда там не жившего, рассказать, что такое Тартар! Скажи-ка лучше ты мне, зачем ты сбежал оттуда?}
-{111}{012}{Сбежал? Да это была просто случайность! Я никогда даже и не помышлял о том, чтобы сбежать от служения...}
-{112}{013}{Сбежал... Служение, служение, ничего кроме служения Сынам Богов. И самим Богам. Но я не сбегал из Тартара, это была лишь... странная случайность.}
-{113}{013}{Сбежал... Служение, служение, ничего кроме служения Сынам Богов. И самим Богам. Но я не сбегал из Тартара, это была лишь... странная случайность. Обычно Сыны Богов не делают таких быстрых обвинений.}
-{114}{014}{Ээ-э, да, сбежал! Я всегда знал, что жизнь человека не может состоять в одном лишь служении Богам, должно быть что-то... более важное, мне кажется.}
+{110}{}{Tartarus... Yeah... Tartarus is a great place to, uh, live. It's interesting, really - you, who came from Tartarus, are asking me, who never been there, to tell you about it. Better answer, why did you run away from there?}
+{111}{012}{Run away? This was an accident! I never even thought about running away from serving...}
+{112}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident.}
+{113}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident. Usually, the Sons of Gods don't make such fast accusations.}
+{114}{014}{Uh, yeah, sure I ran away! I always knew that life is not only abouut serving Gods, there must be something more to it, some... Higher purpose, I suppose.}
 
 
-{120}{}{Вот значит как, да? Хмм... интересно-интересно... и так необычно... [его глаза открыты, но вы понимаете, что мертвяк провалился в глубины подсознания, но через пару секунд он оживает] совсем непохоже на прочих. Наверняка у тебя есть какая-то миссия, а? А может и нет.}
-{121}{015}{Почему непохоже на прочих? На каких - прочих?}
-{122}{015}{Ну конечно же... Другие тоже из Тартара, они сбежали от тяжелого труда, так?}
-{123}{015}{Другие люди из Тартар, они ведь искали здесь лучшей жизни, так? Каждый стремиться к поискам чего-то более совершенного и удобного.}
+{120}{}{So that's how it is, huh? Interesting, yeah... So interesting... And very unusual... [his eyes are wide open, but you see that ghoul fell into the depths of his subconsciousness. Then he comes to senses] It's not like with others here. You definitely have some kind of a mission. Or maybe not.}
+{121}{015}{Why is it not like with others? Which others?}
+{122}{015}{Well, of course... Others here, from Tartarus, they too ran away from serving, aren't they?}
+{123}{015}{Others from Tartarus, they searched for a better life here, right? Everyone seeks what's best for them.}
 
 
-{130}{}{Странная случайность, а? Каждый раз, когда я слышу слово СЛУЧАЙНОСТЬ - я задумываюсь, что служит причиной случайностей. Или есть вещи, для которых не нужны причины?.. Кто мы, чтобы судить о причинности вещей... или о причинах сбежать из Тартара. Или о причинах туда вернуться... Ты ведь видел всех этих людей здесь, твоих собратьев по месту жизни, собратьев по Тартару? }
-{131}{015}{Нет, о ком ты говоришь? Старик, ты в своем уме?}
-{132}{015}{Да, я видел их тут. Они не кажутся счастливыми. Что с ними случилось?}
+{130}{}{Strange accident, you say? Every time I hear "accident", I can't help thinking about the causes. Is there anything that doesn't have cause?.. Who are we to judge about causes... Even about the reasons to leave Tartarus. Or to go back there. Did you see other people here, your fellow Tartarus dwellers? }
+{131}{015}{No. Who do you mean? Old man, are you sane?}
+{132}{015}{Yes, I did.  They don't seem very happy. What happened to them?}
 
 
-{140}{}{Как и все прочие, мальчик мой [он медленно растягивает потрескавшиеся губы в морщинистой улыбке] Вы все... нет, МЫ ВСЕ ищем для себя чего-то лучшего, чего-то... поудобнее, место помягче, костер потеплее, яблоко посочнее... Но в поисках этого, мы вынуждены отказаться от того, что имеем. Все эти люди, как и ты, отказались от Тартара, который имели, и теперь они все здесь. И ты здесь.}
-{141}{015}{Все эти люди? О ком ты?}
-{142}{015}{Ну конечно же... Другие тоже из Тартара, они сбежали от тяжелого труда, так?}
+{140}{}{Just like everyone else, my boy. [he slowly wides his lips in a wrinkled smile] All of you... No, all of US are always looking something better... More convenient place, more warmer fireplace, more tasty apple... But in search for that, we are forced to abandon what we already have. All this people abandoned Tartarus, just like you. And now they are all here. And you are too.}
+{141}{015}{All these people? Who do you mean?}
+{142}{015}{Of course! Others, from Tartarus, they ran off their serving too, right?}
 
 
-{150}{}{Другие, да... Все эти мужчины и женщины, спроси кого хочешь - у каждого свои оправдания искать лучшей жизни, но они не знали...  на что пытались поменять свою неволю. В Тартаре у вас была пища, вода, тепло, крыша над головой... Ха, смешно сказать - вас даже защищали от чудовищ! А что здесь? Здесь вы меняете все это на свободу... на свободу лечь где захочется и ждать голодной, холодной, или клыкастой смерти.}
-{151}{016}{Мы... Они не знали. У них был выбор, и они его сделали! }
-{152}{017}{Да, глупо было отказываться от безопасного и теплого места. Здесь это становится очевидно}
-{153}{017}{Ну-у, они же не знали, что здесь все так плохо.}
-{154}{018}{Это их выбор, какое мне до этого дело?}
+{150}{}{The others... All these men and women, ask any - everyone has their reasons to search for better life. But they didn't know what they would get in return. In Tartarus you had food, water, warmth, roof over your head... Hah, it's funny to say, but even protection from monsters of outside world! And here? You trade everything you had for a freedom... A freedom to lay down wherever you want and wait for death from starvation, cold or fangs.}
+{151}{016}{We... They didn't know. They had a choice and they made it. }
+{152}{017}{Yes, it was stupid - to abandon such safe and warm place. Here it looks obvious.}
+{153}{017}{But they didn't know it would be so bad here.}
+{154}{018}{It's their choice, why should I care?}
 
 
-{160}{}{А кто же их... винит? [улыбается] Ты тоже сделал свой выбор, и вот ты здесь, еще один голодный рот, который нужно кормить, греть, защищать... кормить...}
-{161}{010}{Ясно, ясно, я уже понял главную идею. Можно еще спросить?}
-{162}{010}{Пусть даже и так, я вполне сам о себе позабочусь. Я хотел бы еще кое о чем узнать.}
+{160}{}{Who can blame them, really? [smiles] You made your choice too, and now you're here. Another mouth to feed, keep warm, protect... feed...}
+{161}{010}{Okay, I got your point. Can I ask something?}
+{162}{010}{Even if so, I can take care of myself. I'd like to ask other question.}
 
 
-{170}{}{В том-то и беда, что никогда не знаешь, станет неизвестность лучшим вариантом, или придется возвращаться. Только вот возвращаться-то уже некуда... Нну-у, есть, конечно, куда, только тебя там уже никто не ждет.}
-{171}{010}{Но Тартар никуда ведь не делся! Хотя, мне наверно было бы неразумно пытаться вернуться. Они считают меня убийцей... Можно еще узнать?}
-{172}{010}{Захочу - и вернусь, тут все дело только в желании. Наверно. У меня еще есть вопросы.}
-{173}{010}{Оо-х, как-то это все... философски. Я еще хотел бы кое о чем спросить.}
+{170}{}{The thing is, you'll never know if it's the best choice you make, or you have to go back eventually. Except there's nowhere to go back... I mean, there is, but nothing waits for you there anymore.}
+{171}{010}{But Tartarus is there! Although, it's not very wise for me to return. They think I'm a murderer... Can I ask something else?}
+{172}{010}{I might go back, if I wish to do so. Maybe. I have other questions.}
+{173}{010}{All of this is so... Philosophical. I'd like to ask something else.}
 
 
-{180}{}{Всего лишь люди, да? Чужие люди, чужие проблемы - кому какое дело? [его взгляд вдруг теряет фокус и Вы чувствуете себя просто прозрачным] Знаешь... Мне кажется, именно такой подход к чужим проблемам и загнал нас в эту дыру. Всех нас, понимаешь?}
-{181}{019}{Я... Кажется, понимаю, к чему ты клонишь. Взаимопомощь, все в одной лодке, и все такое.}
-{182}{010}{Эмм, ну да-а, наверно. Можно еще спросить?}
-{183}{010}{Да все равно. Можно еще вопрос?}
+{180}{}{They are only humans, right? Who even cares about the others... [his sight loses focus and you feel transparent] You know... I think this way of treating problems is the reason we are in this hole now. I mean, all of us.}
+{181}{019}{I... I think I understand. Mutual aid, working together and such.}
+{182}{010}{Uh, yeah, maybe. Can I ask something else?}
+{183}{010}{Don't care. I'd like to ask other question.}
 
 
-{190}{}{А ты - на удивление сообразительный молодой человек, ха! Мне кажется, такие как ты, решают исход войны. Или начинают ее [подмигивает]}
-{191}{010}{Эмм... Ну, спасибо, наверно... Я хотел бы еще спросить.}
+{190}{}{You are smart young man, aren't you? People like you define the outcome of wars. Or start one [winks].}
+{191}{010}{Uh, thanks, I guess. I'd like to ask other question.}
 
 
-{200}{}{Живем? Назвать ЭТО жизнью? Ну да, вполне... Нам повезло с этой станцией, она защищает от жары днем, от холода ночью, и от разных тварей день и ночь. Жалко, станция не защищает нас от голода, ха-ха-ХА-ХА... Каждый здесь делает свою работу, свою часть большого дела. Даже старики и больные - они собирают землю для грядок, греют друг друга ночами, присматривают за входом... Да мало ли, на что может сгодиться старик, а?}
-{201}{021}{Но откуда здесь столько людей?}
-{202}{024}{Где же вы берете еду?}
+{200}{}{You call this living? It's a tough one for sure... We got lucky with this station - it protects us not only from daily heat and cold at night, but also from carnivorous creatures. A pity this station doesn't protect us from hunger, hahahah... Everyone here is contributing to the common good. Even elders and children help - pick up the soil for patches, warm each other at nights, watch for the entrance... There are so many things an old person can do, you know?}
+{201}{021}{Why are there so many people here?}
+{202}{024}{Where do you get your food?}
 
 
-{210}{}{А ты здесь откуда взялся? Вот тебе и ответ... Многие здесь - сбежавшие из твоего Тартара, от ваших любимых Богов. Некоторые, правда, пришли из-за границ Радиуса. Я, например. Здесь много разного народа. Есть и те, которые пытались войти в Олимп... Те, кто выжил, конечно.}
-{211}{}{Люди... Ну, они просто берутся из разных уголков Радиуса, из Пустошей, из Развалин... Да много откуда, но все дороги в конечном итоге ведут сюда.}
-{214}{023}{Зачем они пытались войти в Олимп?}
-{212}{023}{Войти в Олимп? К Богам!?}
-{213}{024}{А где же вы берете еду?}
+{210}{}{Where do *you* came from? That's the answer... A lot of people here are runaways from Tartarus, from your favourite Gods. Some others came from Radius. Me, for example. There are even some who tried to enter the Olympus itself... And who stayed alive, of course.}
+{211}{}{People... Well, they just come. From different places of Radius - wastelands, ruins... Anywhere. Any road eventually leads them here.}
+{214}{023}{Why did someone try to enter the Olympus?}
+{212}{023}{Enter the Olympus? To the Gods!?}
+{213}{024}{And where do you get your food?}
 
 
-{220}{}{Олимп - последняя надежда. Так говорят, новенький. Говорят, там живут Боги, но даже, если это и так, то охраняют их самые настоящие дьяволы! Уж поверь, я знаю, о чем говорю, а ты лучше даже не думай об этом.}
-{221}{023}{Дьяволы? То есть - ужасные твари? Твари охраняют Богов? Ты что-то путаешь, старик.}
-{222}{023}{Дьяволы говоришь? Да уж, пожалуй, я буду держаться от них подальше.}
+{220}{}{Olympus, the last hope. Or so they say, new one. The rumor is this is the place where Gods live. Even if so, they are being guarded by the real Devils! Believe me, I know what I'm saying.}
+{221}{023}{Devils? You mean, some terrible creatures are guarding the Gods? You must be mistaken, old man.}
+{222}{023}{Devils, you say? I should keep out of them, I suppose.}
 
 
-{230}{}{Один только путь есть для нас - Тартар. Никто не знает, что в Олимпе, но мы точно знаем, что в Тартаре Богов нет, и там спокойнее и безопаснее, чем здесь. Однажды мы туда попадем, я уверен...}
-{231}{024}{Ну-у, еды там точно достаточно... А откуда вы берете еду?}
+{230}{}{There is only one way for us: Tartarus. No one knows exactly what awaits us in the Olympus, but we know for sure that there's no Gods in Tartarus - and it's more safe and calm than here. We are getting there one day, I'm sure of it...}
+{231}{024}{Well, there is plenty of food, that's true... And where do you get yours?}
 
 
-{240}{}{Наши Искатели каждый день ходят в Путь на поиски припасов, еды, или чего угодно, что помогло бы нам прожить еще недельку... Иногда удается добыть кротокрыса - вот тогда все пируют! Но обычно находятся разные корешки да жухлые стебли, но если их высушить, растолочь в муку и запечь - получаются вполне себе вкусные лепешки! А если они получаются не очень вкусными - нужно лишь поголодать еще денек - и лепешки становятся амброзией, а? Ха-ха-хха-кха-кх-кх...}
-{241}{026}{А вы не пытались выращивать... Ну-у, скажем, кукурузу?}
-{242}{025}{Охота и собирательство, да? Хорошо, что не каннибализм, а? [подмигнуть]}
-{243}{021}{А откуда здесь люди? Детей совсем не видно.}
-{244}{010}{Ясно... Я хотел бы еще спросить.}
+{240}{}{Our seekers go to the road every day, searching for food, supplies or something that could help us to live for another week. Sometimes they are lucky to put down a molerat - then it's a feast! But usually they bring some weak crops and roots, which are pretty good if turned into a flour and then baked into flat bread. And if they are not good enough, you can just wait for another day - then they taste like heavens, hahahahkhchh...}
+{241}{026}{Have you ever tried to grow something? Corn, for example?}
+{242}{025}{Hunting and gathering, I see. Good thing it's not cannibalism, right? [wink]}
+{243}{021}{Where all these people come from? I don't see any children.}
+{244}{010}{I see... I'd like to ask more.}
 
 
-{250}{}{[Боно смотрит на вас, совершенно никак не реагируя. Ни малейшей эмоции]}
-{251}{010}{Эмм, я хотел бы еще спросить кое о чем.}
+{250}{}{[Bono looks at you with no response. Literally, zero reaction.]}
+{251}{010}{Uh, I'd like to ask about other things.}
 
 
-{260}{}{Старина Присли пытался как-то развести здесь грядки, но на этой пустой земле абсолютно ничего не хочет расти. Я пробовал как-то придумать какое-нибудь удобрение, но так ничего и не вышло. Точнее, ничего так и не взошло. Бедолага, он очень расстроился тогда...}
-{261}{010}{Хмм... Удобрение для почвы, да? Ну, может, что и подвернется. Я хотел бы еще спросить.}
-{262}{010}{Мдаа, не повезло, так не повезло. Можно еще вопрос?}
+{260}{}{Old fellow Priestley tried to make some crops here once, but nothing wants to grow on this barren land. I nade an effort to come up with something akin to a fertilizer, but with no results. Nothing grew up. Poor guy, he was so disappointed by that...}
+{261}{010}{Hmm... A fertilizer? Maybe something will come up. I'd like to ask about something else.}
+{262}{010}{Yeah, no luck means no luck. Can I ask other questions?}
 
 
-{300}{}{Боги? Какие Боги? Аа-ах, Боги из Олимпа. Олимп... Я не знаю, и не знаю никого, кто бы знал, что такое Олимп, а уж тем более о существах, его населяющих. Мы лишь знаем, что Олимп... живет. Это организм, он дышит, и вместе с ним дышит Радиус.}
-{301}{031}{Что? Это же здание, дом, обитель. Как ЭТО может дышать?}
-{302}{032}{Никто не знает? Жаль... Но может где-то кто-то есть, кто знает хоть что-нибудь?}
-{303}{033}{Радиус дышит? Что это значит?}
+{300}{}{Gods? Which Gods? Oh, you mean the Olympus Gods. Olympus... I didn't meet anyone who would know exactly what it is, myself included. Not even talking about who - or what - lives inside. What is known is that the Olympus is... Alive. It's an organism, it's breathing together with the whole Radius.}
+{301}{031}{What? It's just a building! How can it breathe?}
+{302}{032}{No one knows then? A pity... But maybe there's someone who could tell more?}
+{303}{033}{Radius is breathing? What does it mean?}
 
 
-{310}{}{Так просто этого не понять. Вот ты смотришь на дерево, и понимаешь, что оно живое, хотя ни одного листа на нем нет. Ты просто знаешь, что оно живое, иначе его корни не удержали бы его в земле. Так же и Олимп - он не может быть неживым, иначе он давно стал бы частью Развалин.}
-{311}{032}{У меня от твоих метафор голова кружится... Ты знаешь, где я мог бы найти того, кто знает больше про Олимп?}
-{312}{032}{Живой неживой Олимп, что?  А где можно узнать больше про Олимп?}
+{310}{}{I have no easy way of explaining it. Let's put it like that - when you see a tree you know it's alive, despite that it doesn't have a single leaf on it. You just know, because in another case its roots would't hold it in the soil. The Olympus is the same - it cannot be not alive, or it would become a part of ruins long ago.}
+{311}{032}{Your metaphors are making me woozy... Do you know where I can find someone, who could tell more about the Olympus?}
+{312}{032}{Alive or not alive, what? Where I can learn more about the Olympus?}
 
 
-{320}{}{Ты сам знаешь где - в Тартаре! [хрипло хохочет] Хочешь - нет, а твоя дорога лежит туда же, куда и наша, новенький. Все равно тебе не выжить одному в Радиусе, это уж точно.}
-{321}{033}{Радиус? Можешь рассказать об этом?}
+{320}{}{You know where - in Tartarus! [he hoarsely laughs] Whether you want it or not, but your path leads to the same place as ours, new one. You won't survive in Radius alone, that's for sure.}
+{321}{033}{Radius? Can you tell me more?}
 
 
 {330}{}{Радиус - это не место, не клочок земли, где мы все застряли. Радиус - это весь наш мир. Когда ты выходишь в Пустоши, встаешь на цыпочки, и смотришь вокруг себя, все это - Радиус. Когда ты открываешь сундук в заброшенном доме и молишься, чтобы на нем не оказалось капкана - это тоже Радиус. И даже когда ты смотришь в мои блеклые глаза - это тоже Радиус.}
