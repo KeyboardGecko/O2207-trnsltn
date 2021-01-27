@@ -265,7 +265,7 @@
 {1456}{}{Scorpions}
 {1457}{}{Rats}
 {1458}{}{Beasts}
-{1459}{}{Ferrals}
+{1459}{}{Ferals}
 {1460}{}{Robots}
 {1461}{}{Coyotes}
 {1462}{}{Shields}
@@ -287,7 +287,7 @@
 {1475}{}{The number of mutated Scorpions that you have put to death during your adventure.}
 {1476}{}{The number of Rats you have clobbered to death, either for food or for sports.}
 {1477}{}{The number of human-sized mutated Black Panthers you have successful tracked down and hunted.}
-{1478}{}{The number of Ferrals you killed, Ghouls that have gone insane from hunger and radiation.}
+{1478}{}{The number of Ferals you killed, Ghouls that have gone insane from hunger and radiation.}
 {1479}{}{This is the number of Robots and Computer that you have destroyed, dismantled or formated.}
 {1480}{}{The total number of Wild Dogs and Coyotes that you have sent to the great kennel in the sky.}
 {1481}{}{This line shows the number of how many of Anderson's protection shields you've been able to defeat.}
