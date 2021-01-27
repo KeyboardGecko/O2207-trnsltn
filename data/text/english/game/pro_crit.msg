@@ -148,17 +148,17 @@
 {7401}{}{}
 {7500}{}{Stan}
 {7501}{}{}
-{7600}{}{Small Dog}
+{7600}{}{Small Jackal}
 {7601}{}{}
 {7700}{}{Raider}
 {7701}{}{}
 {7800}{}{Raider}
 {7801}{}{}
-{7900}{}{Big Dog}
+{7900}{}{Big Jackal}
 {7901}{}{}
-{8000}{}{Guard Dog}
+{8000}{}{Jackal Guard}
 {8001}{}{}
-{8100}{}{Guard Dog}
+{8100}{}{Jackal Guard}
 {8101}{}{}
 {8200}{}{Arms Dealer}
 {8201}{}{}
@@ -292,7 +292,7 @@
 {14601}{}{}
 {14700}{}{Bull}
 {14701}{}{}
-{14800}{}{Хиляк}
+{14800}{}{Weakling}
 {14801}{}{}
 {14900}{}{Wimp}
 {14901}{}{}
@@ -362,7 +362,7 @@
 {18101}{}{}
 {18200}{}{Captain N34}
 {18201}{}{}
-{18300}{}{Anderson's Protector}
+{18300}{}{Anderson's Shield}
 {18301}{}{}
 {18400}{}{Anderson}
 {18401}{}{}
@@ -383,7 +383,7 @@
 {18802}{}{This is a man in an armored suit with an ominously flashing gas mask.}
 {18900}{}{Scout}
 {18901}{}{}
-{19000}{}{Botanist}
+{19000}{}{Biologist}
 {19001}{}{}
 {19100}{}{Engineer}
 {19101}{}{}
@@ -400,14 +400,14 @@
 {19700}{}{Chimera}
 {19701}{}{}
 {19800}{}{Weak Chimera}
-{19801}{}{This one looks weak.}
+{19801}{}{This one looks very weak.}
 {19900}{}{Tame Chimera}
 {19901}{}{}
 {20000}{}{Mother Chimera}
 {20001}{}{}
-{20100}{}{Wild Coyote}
+{20100}{}{Wild Dog}
 {20101}{}{}
-{20200}{}{Desert Wolf}
+{20200}{}{Coyote}
 {20201}{}{}
 {20300}{}{Mole Rat}
 {20301}{}{}
@@ -415,9 +415,9 @@
 {20401}{}{}
 {20500}{}{Rat}
 {20501}{}{}
-{20600}{}{Ant}
+{20600}{}{Giant Ant}
 {20601}{}{}
-{20700}{}{Gold Lion}
+{20700}{}{Golden Ant}
 {20701}{}{}
 {20800}{}{Scorpion}
 {20801}{}{}
@@ -427,9 +427,9 @@
 {21001}{}{}
 {21100}{}{Pale Ghoul}
 {21101}{}{}
-{21200}{}{Beast}
+{21200}{}{Were Cat}
 {21201}{}{}
-{21300}{}{Jaguar}
+{21300}{}{Were Panther}
 {21301}{}{}
 {21400}{}{Enlightened One}
 {21401}{}{}
@@ -491,7 +491,7 @@
 {24201}{}{}
 {24300}{}{Caravan Guard}
 {24301}{}{}
-{24400}{}{Mutant Lion}
+{24400}{}{Mutated Ant}
 {24401}{}{}
 {24500}{}{Ghoul}
 {24501}{}{}
@@ -501,7 +501,7 @@
 {24701}{}{}
 {24800}{}{Lenny}
 {24801}{}{}
-{24900}{}{Battleship}
+{24900}{}{Armored Soldier}
 {24901}{}{}
 {25000}{}{Gromus}
 {25001}{}{}
@@ -513,7 +513,7 @@
 {25301}{}{Looks like this turret can cut through flesh like butter.}
 {25400}{}{Plasma Turret}
 {25401}{}{It's hard to imagine what this weapon can do to a living being.}
-{25500}{}{Philip}
+{25500}{}{Phillip}
 {25501}{}{The caretaker of the lavash.}
 {25600}{}{Left Shield}
 {25601}{}{Anderson's left defensive shield.}

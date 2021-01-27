@@ -71,7 +71,7 @@
 {606}{}{The shepherd asks to deal with Brick, who constantly fucks his whores for free.}
 {607}{}{Naomi asks for help to escape.}
 {608}{}{Lenny doesn't understand why his friend Carl isn't coming back from the dead.}
-{609}{}{Boar asks you to negotiate with the Sunset Dogs about a peace agreement.}
+{609}{}{Boar asks you to negotiate with the Sunset Jackals about a peace agreement.}
 {610}{}{The shepherd can not cope with all the stoned visitors and asks for help.}
 #
 # OAZIS Quests

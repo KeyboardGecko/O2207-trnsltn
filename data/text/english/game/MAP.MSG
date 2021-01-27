@@ -637,7 +637,7 @@
 #
 {1500}{}{Tartarus}
 {1501}{}{Metro Station}
-{1502}{}{Sunset Dogs}
+{1502}{}{Sunset Jackals}
 {1503}{}{Chris's Stash}
 {1504}{}{New World Order}
 {1505}{}{Laivos}

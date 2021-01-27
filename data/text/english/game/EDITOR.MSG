@@ -281,7 +281,7 @@
 {1115}{}{You diligently convinced the people of Tartarus that they were being fooled, and that there were no gods. Many threw down their work and more unrest arose. There is less food and water but more cruelty from the "Gods".}
 {1116}{}{You managed to incite a retaliatory squadron of Olympus to the Caves of the Undead! Rejoice, nobody left alive there.}
 {1117}{}{You did a nice job of making the soil in the Undeath Caves a little more fertile, and the harvest a little richer. Rejoice, now they live a little easier.}
-{1118}{}{Betrayals, secret murders, deception, denunciations ... Who cares? Winners are not judged! You are now the leader of the Sunset Dogs!}
+{1118}{}{Betrayals, secret murders, deception, denunciations ... Who cares? Winners are not judged! You are now the leader of the Sunset Jackals!}
 {1119}{}{Intrigues of intrigue and long-standing family feuds - you unraveled everything, and even took the post of Supervisor in the New World Order Cannery! Well, now you are definitely provided with canned food.}
 {1120}{}{It is not easy to be the head of four crazy families in Laivos, but in a crazy world there are crazy rules. Oh, and why are the vault residents calling you "Overseer"?}
 {1121}{}{Controlling drugs and narcotics is not everyone's dream in the Wastes. You made that dream come true and now control the entire Rainbow Raiders community under your iron fist!}

@@ -17,7 +17,7 @@
 #
 # after meeting
 {3}{}{You see: a pretty, albeit very dirty girl.}
-{2}{}{She looks damn attractive in these clothes.}
+{4}{}{She looks damn attractive in these clothes.}
 #
 {5}{}{Let's talk another time.}
 {6}{}{Are you again? Pfft...}
