@@ -645,7 +645,7 @@
 {1507}{}{Oasis}
 {1508}{}{Mangy Dog}
 {1509}{}{Army Headquarters}
-{1510}{}{Cannery}
+{1510}{}{Tin Industries}
 {1511}{}{Renaissance}
 {1512}{}{Olympus}
 {1513}{}{Meadows}
