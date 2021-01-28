@@ -183,17 +183,17 @@
 
 
 {400}{}{Uh, you won't get there so easily, just saying "I wanna go to Tartarus", no... We are trying to find an approach for a very long time, but the guards ask so much that we could never afford... Seems like they have an order not to let anyone outside in.}
-{401}{041}{Wait, what guards? The ones that protect you from an outside creatures?}
+{401}{041}{Wait, what guards? The ones that protect you from strange creatures?}
 {402}{042}{Find an approach? What exactly did you try to do?}
 {403}{043}{Not to let anyone in? Why's that?}
 
 
-{410}{}{From WHO? [he raises his heavy eyebrows] Oh, you mean the Purgatory... No, I'm talking about the other side. There are well-armed guards there too... The ones never let anyone out, the other ones never let anyone out. Mark my word, it has some higher goal behind. The guards are guarding Tartarus from... From, uh... The likes of us, I suppose... But - why? No one knows.}
+{410}{}{From WHO? [he raises his heavy eyebrows] Oh, you mean in the Purgatory... No, I'm talking about the other side. There are well-armed guards there too... The ones never let anyone out, the other ones never let anyone out. Mark my word, it has some higher goal behind. The guards are guarding Tartarus from... From, uh... The likes of us, I suppose... But - why? No one knows.}
 {411}{044}{Okay but I still need to get there somehow.}
 {412}{044}{There MUST be entrance. If I could get out - I will get in.}
 
 
-{420}{}{We tried many things, actually - offered them hides of ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! -tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?..}
+{420}{}{We tried many things, actually - offered them hides of ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! - tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?..}
 {421}{044}{I see. You don't know what the guards want. But I still need the way to get inside.}
 {422}{044}{There must be another way, without offerings or batteries...}
 
@@ -267,13 +267,13 @@
 {660}{}{Wonderful, I've just scribbled a couple of notes... Okay, let's go.}
 {661}{StartBonoSpeach}{[follow Bono]}
 
-{670}{}{Yeah... I think it went pretty good. Now everyone remember that we are one big family and we'll survive only by taking care of each other. I hope it will boost the morale. Thank you for bringing everyone.}
+{670}{}{Yeah... I think it went pretty good. Now everyone remembers that we are one big family and we'll survive only by taking care of each other. I hope it will boost the morale. Thank you for bringing everyone.}
 {671}{068}{Uh... Well, you're welcome. I expected some reward though.}
 {672}{999}{No problem, it was nothing.}
 {673}{999}{Of course, don't sweat it, old man!}
 
 {680}{}{A reward? You want something from ME? From US? All I can give you is advice... Advice to watch carefully where are you now, }
-{681}{}{. I have nothing more to give you.}
+{681}{}{. I have nothing more.}
 {682}{999}{I understand. See you later.}
 {683}{999}{I got it. Good bye, Bono.}	
 
