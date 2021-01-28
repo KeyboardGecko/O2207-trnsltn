@@ -1024,27 +1024,27 @@
 {51201}{}{}
 {51300}{}{D.E.U.S. Weapon}
 {51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
-{51400}{}{Horns}
+{51400}{}{Horn}
 {51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
-{51500}{}{Claws}
+{51500}{}{Claw}
 {51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
-{51600}{}{Teeth}
+{51600}{}{Fang}
 {51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
-{51700}{}{Sharp Fangs}
+{51700}{}{Sharp Fang}
 {51701}{}{This jackal was clearly not eager to share this tooth with you. Appreciate it as its former owner did.}
-{51800}{}{Fangs}
+{51800}{}{Fang}
 {51801}{}{The sharp fang of a creepy mole rat.}
-{51900}{}{Fangs}
+{51900}{}{Fang}
 {51901}{}{Ursa don't like to part with their teeth very much, so whoever got it is a brave man or not a man at all.}
-{52000}{}{Claws}
+{52000}{}{Claw}
 {52001}{}{Ursa claws are not uncommon, but they are still worth something. Sharp and dangerous! You can rip open a couple of throats.}
-{52100}{}{Fangs}
+{52100}{}{Fang}
 {52101}{}{Rats are not uncommon in these parts, so you can collect a few dozen of these fangs if you want.}
 {52200}{}{Stinger}
 {52201}{}{From the stinger of a scorpion, you can get a sample of its venom, which is very useful in making an antidote. Or use it as a weapon.}
-{52300}{}{Fangs}
+{52300}{}{Fang}
 {52301}{}{The owner of such a trophy can be proud of himself. The sale is very profitable, and it's also very useful as a melee weapon.}
-{52400}{}{Claws}
+{52400}{}{Claw}
 {52401}{}{The Beast's Claw is an excellent melee weapon.}
 {52500}{}{Shelves}
 {52501}{}{Wooden shelves with some junk on them.}
