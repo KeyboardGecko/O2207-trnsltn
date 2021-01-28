@@ -1,7 +1,7 @@
 ##############################
-#Location: LAIVOS
+#Location: Livos
 #Name: Edward Von Vincent Schwein 
-#Short description: Hoarder sitting in the room tracking Laivos (at the entrance)
+#Short description: Hoarder sitting in the room tracking Livos (at the entrance)
 #Date of creation: 17.08.2014
 ##############################
 #For the game "Olympus 2207"
@@ -45,7 +45,7 @@
 
 {40}{}{[The old man smiles smugly] Yes, you are lucky, unworthy. My name is Edward Von Vincent Schwein. You can call me Edward. It is an honor for you to call me only by name.}
 {41}{010}{Thank you, Edward. May I ask you a question?}
-{42}{006}{Pff, honor for me, right. I will somehow do without your favors.}
+{42}{006}{Pfft, honor for me, right. I will somehow do without your favors.}
 {43}{007}{You're an "arrogant piece of shit". That's the only way I'll call you}
 
 
@@ -55,7 +55,7 @@
 {53}{007}{I will call you as I want. Got it, old dick?}
 
 
-{60}{}{[The old man's eyes are filled with rage.] So I, Edward Schwein, have to be humiliated by some shit from the outside world? Get out of here, you bald jackal! One more word, and the turret will tear you apart!}
+{60}{}{[The old man's eyes are filled with rage.] So I, Edward Schwein, have to be humiliated by some shit from the outside world? Get out of here, you bald jackal! One more word and the turret will tear you apart!}
 {61}{011}{Sorry, Edward Schwein, I made a mistake! I myself do not understand what I'm saying!}
 {62}{999}{Fine, I am already leaving. Will come back later, when you cool down.}
 {63}{998}{Come on, turn on your turret!}
@@ -94,7 +94,7 @@
 {105}{027}{Edward, what are you doing here?}
 {106}{026}{Tell me about your Schwein family.}
 {107}{054}{About the Constitution...}
-{108}{059}{I met Seth and Matt at NWO. They want to know who Laivos will make an alliance with.}
+{108}{059}{I met Seth and Matt at NWO. They want to know who Livos will make an alliance with.}
 {109}{999}{I need to go. Talk later.}
 
 
@@ -161,9 +161,9 @@
 
 
 
-{2301}{}{What is this, commander, a test? Okay, I'll play ball. This place is called Laivos. The only place in the whole Radius where families of noble aristocratic blood were preserved. Only we reign in law and order, only we have a Constitution. No dictatorship - we decide everything at general meetings. Our great leaders will soon control the entire Radius, as it befits them by birthright. We own the only source of clean water that can be provided for everyone. Should we have any enemies, we simply cut them off our supply of water, then they'll just die out. Thus, we have a great mission to create a new society and to decide the fate of people.}
-{2302}{}{This is Laivos, the best place in Radius, the only supplier of clean water. Now get lost.}
-{2303}{}{[Edward straightened and continued with pride in his voice.] This place is called Laivos. The only place in the whole Radius where families of noble aristocratic blood were preserved. Only we reign in law and order, only we have a Constitution. No dictatorship - we decide everything at general meetings. Our great leaders will soon control the entire Radius, as befits them by birthright. We own the only source of clean water that can be provided for everyone. Should we have any enemies, we simply cut them off our supply of water, then they'll just die out. Thus, we have a great mission to create a new society and to decide the fate of people.}
+{2301}{}{What is this, commander, a test? Okay, I'll play ball. This place is called Livos. The only place in the whole Radius where families of noble aristocratic blood were preserved. Only we reign in law and order, only we have a Constitution. No dictatorship - we decide everything at general meetings. Our great leaders will soon control the entire Radius, as it befits them by birthright. We own the only source of clean water that can be provided for everyone. Should we have any enemies, we simply cut them off our supply of water, then they'll just die out. Thus, we have a great mission to create a new society and to decide the fate of people.}
+{2302}{}{This is Livos, the best place in Radius, the only supplier of clean water. Now get lost.}
+{2303}{}{[Edward straightened and continued with pride in his voice.] This place is called Livos. The only place in the whole Radius where families of noble aristocratic blood were preserved. Only we reign in law and order, only we have a Constitution. No dictatorship - we decide everything at general meetings. Our great leaders will soon control the entire Radius, as befits them by birthright. We own the only source of clean water that can be provided for everyone. Should we have any enemies, we simply cut them off our supply of water, then they'll just die out. Thus, we have a great mission to create a new society and to decide the fate of people.}
 {231}{038}{I want to talk about supplying water to the NWO.}
 {232}{049}{Constitution? Tell me more about it.}
 {233}{037}{Can I get inside and talk to other residents?}
@@ -172,9 +172,9 @@
 
 
 
-{2401}{}{You are such a prankster, commander. Don't you recognize your Laivos?}
-{2402}{}{This is the entrance to the Laivos vault. That's enough, outsiders like you are not supposed to know more. Now get out of here, tramp.}
-{2403}{}{This is the entrance to the Laivos vault. It serves as home and shelter to the best representatives of the human race. We rarely go outside - this world is not yet worthy of our ideas. Our refuge is the heart and soul of a civilized society.}
+{2401}{}{You are such a prankster, commander. Don't you recognize your Livos?}
+{2402}{}{This is the entrance to the Livos vault. That's enough, outsiders like you are not supposed to know more. Now get out of here, tramp.}
+{2403}{}{This is the entrance to the Livos vault. It serves as home and shelter to the best representatives of the human race. We rarely go outside - this world is not yet worthy of our ideas. Our refuge is the heart and soul of a civilized society.}
 {241}{023}{I want to hear more about this place.}
 {242}{037}{Can I get inside?}
 {243}{010}{I'll ask more.}
@@ -189,7 +189,7 @@
 
 
 {2601}{}{[Edward hissed through his teeth] This is not your business, tramp. This is what you must remember: I am Edward Schwein, and I do not want to see you here.}
-{2602}{}{[Edward begins to speak with a fanatical glitter in his eyes] The name of the Schweins is the most famous and significant in Laivos, and therefore - in the whole Radius! Only thanks to Schweins, Laivos continues to live. The Schwein family has developed all the new laser and plasma weapons. I am the Schwein-senior, and only I have been entrusted with the most important job - to guard the entrance to Laivos from all kinds of vagrants. }
+{2602}{}{[Edward begins to speak with a fanatical glitter in his eyes] The name of the Schweins is the most famous and significant in Livos, and therefore - in the whole Radius! Only thanks to Schweins, Livos continues to live. The Schwein family has developed all the new laser and plasma weapons. I am the Schwein-senior, and only I have been entrusted with the most important job - to guard the entrance to Livos from all kinds of vagrants. }
 {261}{037}{Can I get inside?}
 {262}{057}{Tell us about other representatives of the Schwein name.}
 {263}{006}{Somehow you do not like a great family. More like pushers and misers.}
@@ -200,7 +200,7 @@
 
 
 {2701}{}{[Edward squints contemptuously] I can make that turret to turn you into a minced meat if you will not get out of here.}
-{2702}{}{[Edward proudly raises his head] I am the most important member in Laivos, I am responsible for its safety. Only I can allow the passage to Laivos. If some tramp wants to go through the door to the vault, I turn on the turret. Though, I, as the oldest and most experienced member of the Schweins family, can afford to have a slight weakness: I really like to collect various rarities. So if you have something unusual, I would look at it.}
+{2702}{}{[Edward proudly raises his head] I am the most important member in Livos, I am responsible for its safety. Only I can allow the passage to Livos. If some tramp wants to go through the door to the vault, I turn on the turret. Though, I, as the oldest and most experienced member of the Schweins family, can afford to have a slight weakness: I really like to collect various rarities. So if you have something unusual, I would look at it.}
 {271}{028}{Here [show your stuff to Edward].}
 {272}{029}{Here [show your stuff to Edward].}
 {273}{037}{Can you let me go through?}
@@ -218,8 +218,8 @@
 
 {290}{}{[Edward is looking at your things through the glass] This is rubbish... This is also rubbish... Oh! Wow! Here is some find! What a wonderful thing! The hand of a construction robot! Listen, I really want to have one in my collection.}
 {291}{030}{I don't really need it, so I can sell it to you. How much will you pay for it?}
-{292}{034}{I can give it to you - in exchange for a free passage to Laivos.}
-{293}{032}{As a member of Laivos, I can sell you this hand at a discounted price.}
+{292}{034}{I can give it to you - in exchange for a free passage to Livos.}
+{293}{032}{As a member of Livos, I can sell you this hand at a discounted price.}
 {294}{010}{No, I'll keep it for myself. Maybe it will come in handy later. Let's talk about something else.}
 {295}{999}{I'm going to think about whether I need it or not.}
 
@@ -227,7 +227,7 @@
 
 {300}{}{[Edward crunches, eagerly going over the batteries under the table] N-no, I can not afford to buy such things... Maybe we can find another way, without costs?}
 {301}{031}{I need batteries. I won't agree for anything else.}
-{302}{034}{For this hand, will you let me go to Laivos?}
+{302}{034}{For this hand, will you let me go to Livos?}
 {303}{010}{If you are not ready to pay, you will not get it. Let's talk about other things.}
 {304}{999}{Batteries only. I'll come back later when you pick it up.}
 
@@ -242,8 +242,8 @@
 
 
 
-{3201}{}{[Edward, with visible strong shakes, slowly counts out a certain amount] I only have 60 batteries, I can not afford anymore... And this is only because you are a member of Laivos.}
-{3202}{}{[Edward, with visible strong shakes, slowly counts out a certain amount] I only have 45 batteries, I can not afford anymore... And this is only because you are a member of Laivos.}
+{3201}{}{[Edward, with visible strong shakes, slowly counts out a certain amount] I only have 60 batteries, I can not afford anymore... And this is only because you are a member of Livos.}
+{3202}{}{[Edward, with visible strong shakes, slowly counts out a certain amount] I only have 45 batteries, I can not afford anymore... And this is only because you are a member of Livos.}
 {321}{033}{Fine, I agree.}
 {322}{033}{Fine, I agree.}
 {323}{010}{No I do not agree. I still want to ask.}
@@ -256,8 +256,8 @@
 {331}{999}{[You leave Edward alone with this touching occupation]}
 
 
-{340}{}{[Edward hesitates] I don't know, this thing is wonderful, but I can't let you in if you are not a member of Laivos...}
-{341}{035}{This is a great thing! You will not find it anywhere else. Make me a member of Laivos - and that's it, the hand is yours!}
+{340}{}{[Edward hesitates] I don't know, this thing is wonderful, but I can't let you in if you are not a member of Livos...}
+{341}{035}{This is a great thing! You will not find it anywhere else. Make me a member of Livos - and that's it, the hand is yours!}
 {342}{010}{Too bad. Let's move on to other questions.}
 
 
@@ -271,7 +271,7 @@
 
 
 {3701}{}{Of course, you can go inside at any time, you're one of us.}
-{3702}{}{No, access to Laivos is allowed only to its members who are hereditary nobles and aristocrats. Vagrants are strictly forbidden. If you try to get through, I'll turn the turret on.}
+{3702}{}{No, access to Livos is allowed only to its members who are hereditary nobles and aristocrats. Vagrants are strictly forbidden. If you try to get through, I'll turn the turret on.}
 {371}{038}{I was asked by the NWO to find out what happened to the water supply. There was a taste is water, people are worried.}
 {372}{039}{I'm not a tramp! I am a famous nobleman in where I came from! I can become a member of your family for our common benefit.}
 {373}{045}{Wonderful! I've been looking for you for so long! This is a refuge with my distant relatives, true aristocrats!}
@@ -288,9 +288,9 @@
 
 
 
-{390}{}{[Edward looks at you with suspicion.] Really? You look more like an ordinary vagabond, rather than a rich and famous person. It is full of beggar rabble, novadays everyone wants to become a member of Laivos. What evidence do you have?}
+{390}{}{[Edward looks at you with suspicion.] Really? You look more like an ordinary vagabond, rather than a rich and famous person. It is full of beggar rabble, novadays everyone wants to become a member of Livos. What evidence do you have?}
 {391}{040}{My honest word of a nobleman - this is all I have!}
-{392}{042}{I can easily prove that I am rich by donating a small amount for the development of Laivos.}
+{392}{042}{I can easily prove that I am rich by donating a small amount for the development of Livos.}
 {393}{041}{I have no evidence.}
 {394}{010}{Let's leave this topic, I want to know about something else.}
 {395}{999}{I'll think about the evidence when I find it - I'll come.}
@@ -299,7 +299,7 @@
 
 
 {400}{}{[Edward burst out laughing] Shove your honest word of a nobleman up yours! The beggars are often use such tricks to get to us, but it won't do!}
-{401}{042}{I can prove that I am not a beggar by donating a small amount of Laivos.}
+{401}{042}{I can prove that I am not a beggar by donating a small amount of Livos.}
 {402}{041}{I have no other evidence.}
 {403}{010}{Well, then I will ask you about something else.}
 {404}{999}{I will find evidence, then I will come back.}
@@ -313,14 +313,14 @@
 
 
 
-{420}{}{[Edward stared at you greedily] A small amount, you say? This is a solid proof of noble origin... Can you donate, say, 1,500 batteries for the development of Laivos?}
+{420}{}{[Edward stared at you greedily] A small amount, you say? This is a solid proof of noble origin... Can you donate, say, 1,500 batteries for the development of Livos?}
 {421}{043}{Yes, easily. For me it is a trifle.}
 {422}{041}{I do not have such funds.}
 
 
 
 
-{430}{}{[Edward hatches, his hands shake.] What? Is it a minor thing for you? Of course, come here with the batteries, and I will, of course, spend them on prosperity of Laivos! Just don't tell anyone about this, I want to remain anonymous. }
+{430}{}{[Edward hatches, his hands shake.] What? Is it a minor thing for you? Of course, come here with the batteries, and I will, of course, spend them on prosperity of Livos! Just don't tell anyone about this, I want to remain anonymous. }
 {431}{044}{Here, take them, I don't mind.}
 {432}{999}{You know, I changed my mind. Bye.}
 
@@ -338,7 +338,7 @@
 
 
 
-{460}{}{Yes, there are some old records about a certain relative of Sebastian, who didn't make it to the vault... I could never think that we would ever meet his descendant! Well, welcome to Laivos! You can safely go inside.}
+{460}{}{Yes, there are some old records about a certain relative of Sebastian, who didn't make it to the vault... I could never think that we would ever meet his descendant! Well, welcome to Livos! You can safely go inside.}
 {461}{999}{Thank you, I will go to meet the rest of our family.}
 
 
@@ -351,19 +351,19 @@
 
 
 
-{480}{}{Yes, radiation influenced you a lot. But I'm still glad that we met a descendant of Sebastian! Well, welcome to Laivos! You can safely go inside.}
+{480}{}{Yes, radiation influenced you a lot. But I'm still glad that we met a descendant of Sebastian! Well, welcome to Livos! You can safely go inside.}
 {481}{999}{Thank you, I will go to meet the rest of our family.}
 
 
 
 
 {490}{}{[Edward pointedly raised his finger] The Constitution is the basis of our rights. Each member has 15 rights, which are recorded in this constitution.}
-{491}{050}{Can I see these rights of the residents of Laivos?}
+{491}{050}{Can I see these rights of the residents of Livos?}
 
 
 
 
-{500}{}{No, the Constitution is only for the residents of Laivos. And I do not want to talk about it, because, according to paragraph 8 of the Constitution, every inhabitant of the New World has the right not to talk to other inhabitants of the New World, even if the latter strongly insist.}
+{500}{}{No, the Constitution is only for the residents of Livos. And I do not want to talk about it, because, according to paragraph 8 of the Constitution, every inhabitant of the New World has the right not to talk to other inhabitants of the New World, even if the latter strongly insist.}
 {501}{010}{It's a pity. I also wanted to ask.}
 {502}{051}{You know, I am very well versed in this kind of documents. I could tell you how to use the points of the Constitution for your own benefit.}
 {503}{052}{Come on, you have none! You probably accidentally sold the constitution to some kind of savage two meters tall, and now you can't get it back!}
@@ -420,14 +420,14 @@
 
 
 
-{580}{}{Yes, for sure, you did a great service to the Laivos and the Shwein family! You deserve to be with us. Welcome! You can go inside at any time.}
+{580}{}{Yes, for sure, you did a great service to the Livos and the Shwein family! You deserve to be with us. Welcome! You can go inside at any time.}
 {581}{999}{Thank you, Edward! I'll go meet the rest.}
 
 
 
 
 {590}{}{What? Who the hell are Seth and Matt? What union?}
-{591}{060}{They say that Radius wants to capture Laivos. They want to be your allies in this war.}
+{591}{060}{They say that Radius wants to capture Livos. They want to be your allies in this war.}
 
 
 
