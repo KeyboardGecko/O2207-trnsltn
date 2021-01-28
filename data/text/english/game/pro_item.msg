@@ -332,7 +332,7 @@
 {16601}{}{A hunting rifle for large animals, or bigger two legged game. Min ST: 5}
 {16700}{}{Hunting Rifle (Scoped)}
 {16701}{}{A hunting rifle with an attached scope that makes it easier to hunt from a distance, no matter what kind of game you're aiming for. Min ST: 5}
-{16800}{}{Peronal Assault Rifle}
+{16800}{}{Personal Assault Rifle}
 {16801}{}{A personalized assault rifle. Min ST: 8}
 {16900}{}{Bulldog Assault Rifle}
 {16901}{}{A modern and decent assault rifle, named after the fact that it tears through enemies like a rabid dog through freshly killed prey. Min ST: 7}
