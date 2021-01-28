@@ -36,8 +36,8 @@
 {1801}{}{A high-tech metal door.}
 {1900}{}{Door}
 {1901}{}{A high-tech metal door.}
-{2000}{}{Generator}
-{2001}{}{An old battered generator.}
+{2000}{}{Battery}
+{2001}{}{An big and old empty battery.}
 {2100}{}{Tire}
 {2101}{}{A useless old tire.}
 {2200}{}{Huge Statue}
