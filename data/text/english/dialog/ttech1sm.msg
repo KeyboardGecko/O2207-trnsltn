@@ -49,7 +49,7 @@
 # Положительные сообщения
 {1000}{}{Heeey, buddy!}
 {1001}{}{Hello! How are you doing?}
-{1002}{}{Well hello there!}
+{1002}{}{Well, hello there!}
 {1003}{}{Hey brother! How are you doing?}
 {1004}{}{I would gladly stop and chat... But let's do it some other time.}
 {1005}{}{So good to see you!}
