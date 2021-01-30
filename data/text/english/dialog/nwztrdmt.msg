@@ -33,9 +33,9 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{Looking for a bit of meat for you and your friends? I have the best one in the whole Radius! Most fresh and fragrant!}
+{10}{}{Looking for some of meat for you and your friends? I have the best one in the whole Radius! Most fresh and fragrant!}
 {11}{}{Stew? Jerky? Canned? Hell, even with blood, still warm - any kind of meat for your batteries! }
-{12}{}{Just look at yourself - all skin and bone! You urgently need a nice big chunk of the tenderest lavash meat! Don't be shy, check out my product!}
+{12}{}{Just look at yourself - all skin and bone! You need a nice big chunk of the tenderest lavash meat! Don't be shy, check out my product!}
 {13}{}{Okay, show me what you have.}
 {14}{}{No thanks, I'm not hungry.}
 {15}{}{Why the hell are your ammo so expensive?}
