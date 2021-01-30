@@ -11,7 +11,7 @@ f##############################
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
 # äî çíàêîìñòâà
-{1}{}{You see: à savage woman, wearing blood-stained apron.}
+{1}{}{You see à savage woman, wearing a blood-stained apron.}
 {2}{}{She looks at you like a food critic looks at sophisticated dish.}
 #
 # ïîñëå çíàêîìñòâà
@@ -20,7 +20,7 @@ f##############################
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[Under thin greasy locks of hair, falling on forehead and interwoven with little bones, you see hateful and curious sight of two a bit googly eyes. The only pieces of clothes she has on her are loincloth and torn apron, which has some kind of unusual patterns, deeply hidden under layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
+{10}{}{[Under thin greasy locks of hair that fall on her forehead and are interwoven with little bones, you see two hateful and curious, if a bit googly, eyes. The only pieces of clothes she wears are loincloths and a torn apron, which has some kind of unusual patterns, deeply hidden under layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
 {11}{013}{Unfed who? What are you even talking about?}
 {12}{011}{I really hope you're joking. It would be better for everybody.}
 {13}{014}{What an interesting choice. And you are the local cook, I suppose?}

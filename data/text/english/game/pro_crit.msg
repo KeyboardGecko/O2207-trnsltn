@@ -15,7 +15,7 @@
 {800}{}{Girl}
 {801}{}{A Teenage Girl.}
 {900}{}{Girl}
-{901}{}{An ordinary black girl in T-Shirt and pants}
+{901}{}{An ordinary black girl in T-Shirt and pants.}
 {1000}{}{Tech Servant}
 {1001}{}{This person is responsible for the operation of the machinery in Tartarus.}
 {1100}{}{Tech Servant}
@@ -40,7 +40,7 @@
 {2001}{}{With a receding hairline and shifty eyes, he looks like a natural scientist.}
 {2100}{}{Guardian}
 {2101}{}{An guard in an armored suit, covered in wires, tubes and whirring motors.}
-{2200}{}{Crazy Ghoul}
+{2200}{}{Feral Ghoul}
 {2201}{}{A horribly nasty looking creature, it's skin hangs on like it's flapping on a rack.}
 {2300}{}{Pale Ghoul}
 {2301}{}{A hideous creature, it's muscles are clearly showing through the pale skin.}
@@ -423,7 +423,7 @@
 {20801}{}{}
 {20900}{}{Lavash}
 {20901}{}{}
-{21000}{}{Crazy Ghoul}
+{21000}{}{Feral Ghoul}
 {21001}{}{}
 {21100}{}{Pale Ghoul}
 {21101}{}{}
@@ -459,19 +459,19 @@
 {22601}{}{}
 {22700}{}{Fugitive}
 {22701}{}{}
-{22800}{}{Skinny Bandit}
+{22800}{}{Skinny Raider}
 {22801}{}{}
-{22900}{}{Puny Bandit}
+{22900}{}{Puny Raider}
 {22901}{}{}
-{23000}{}{Weak Bandit}
+{23000}{}{Weak Raider}
 {23001}{}{}
 {23100}{}{Loser}
 {23101}{}{}
-{23200}{}{Nimble Bandit}
+{23200}{}{Nimble Raider}
 {23201}{}{}
-{23300}{}{Strong Bandit}
+{23300}{}{Strong Raider}
 {23301}{}{}
-{23400}{}{Thief}
+{23400}{}{Raider}
 {23401}{}{}
 {23500}{}{Raider}
 {23501}{}{}
@@ -481,7 +481,7 @@
 {23701}{}{}
 {23800}{}{Dangerous Raider}
 {23801}{}{}
-{23900}{}{Bandit}
+{23900}{}{Raider}
 {23901}{}{}
 {24000}{}{NWO Merchant}
 {24001}{}{}
