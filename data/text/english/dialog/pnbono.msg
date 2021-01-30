@@ -11,332 +11,323 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Дряхлый мертвяк.}
-{2}{}{Это очень древний, разваливающийся мертвяк. Он смотрит на Вас невидящим взглядом сквозь свои редкие брови.}
+{1}{}{You see: an old ghoul.}
+{2}{}{This falling-apart ghoul looks ancient. He watches at you with unseeing gaze through his scant eyebrows.}
 #
 # после знакомства
-{3}{}{Вы видите: Боно.}
-{4}{}{Негласный крестный отец местных несчастных отщепенцев.}
+{3}{}{You see: Bono.}
+{4}{}{Unspoken godfather to the family of unfortunate local exiles.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[его брови медленно ползут вверх, открывая белесые глаза] Новенький, да? *вздох* Что же вам всем в Тартаре-то не сидится? Куда мне еще один рот прокормить, а?}
-{11}{002}{Что? Новенький? Что это за место?}
-{12}{999}{Что? Нет, у меня нет времени на все это.}
+{10}{}{[his eyebrows slowly move upward, revealing whitish eyes] A new one, aren't you? [sighs] Why won't you all stay put in Tartarus? How do I feed another mouth?}
+{11}{002}{What? A new one? What is this place?}
+{12}{999}{What? No, I don't have time for this.}
 
 
-{20}{}{Новенький - это ты, новенький. Как и половина здешних, несчастные искатели счастья. Всем всегда не сидится ровно на заднице...}
-{21}{003}{Та-а-ак, давай-ка разберемся. Значит это тоже часть Тартара? Ну, то есть, это - Тартар?}
-{22}{004}{Ничего не понимаю. Старик, о чем ты говоришь? Ты ведь старик, да?.. Ты как-то неважно выглядишь.}
-{23}{999}{Не знаю и знать не хочу. Мне пора.}
+{20}{}{New one - that's you, new one. Like the half of unfortunate seekers of better life here, you just couldn't sit tight in one place...}
+{21}{003}{Okay, let's sort this out. Is it a part of Tartarus? I mean, is this even a Tartarus?}
+{22}{004}{I don't understand, old man. What are you talking about? You *are* an old man, right? You don't look too good...}
+{23}{999}{That's it, I'm out of here.}
 
 
-{30}{}{Послушай, сынок... нет никакого Тартара. Нет... скажем, КРОМЕ Тартара есть еще ОСТАЛЬНОЙ мир, понимаешь? Так вот сейчас ты в части этого ОСТАЛЬНОГО МИРА. Мы называем это место ПЕЩЕРЫ НЕЖИТИ. Да, это я придумал. И, да - меня зовут Боно, новенький.}
-{31}{005}{Нежить? Это ведь ты - нежить? И вы тут живете? И все эти люди в одеждах Тартара. И... и... оо-ох...}
+{30}{}{Listen, son... That's no Tartarus. I mean... There's THE REST of the world, except, Tartarus, you see? So now you are there, in THE REST of the world. We call this place "the caves of undead". I myself came up with the name. And I'm Bono, if you are wondering.}
+{31}{005}{Undead? So you all are undead? And you live here? All this people, wearing Tartarus' clothes?.. Oh man...}
 
 
-{40}{}{Ну-у, скажем так - я СЛЕДУЮЩАЯ СТАДИЯ старика. Даже можно сказать, я следующая стадия МЕРТВЯКА. И, кстати, к сожалению, не последняя стадия... Меня зовут Боно, а это место мы называем Пещеры Нежити. Здесь живут такие, как ты. И как я.}
-{41}{005}{Нежить... Это не Тартар, хотя тоже без неба. Мертвяки. Кто, КТО все эти люди? Оо-ох...}
+{40}{}{Well, let's say I'm the next step of being an old man. You could even say I'm the next step of being a *dead* man. And not the last step, unfortunately... The name's Bono. This place is called "the caves of undead". Here live the likes of you. And me.}
+{41}{005}{Undead... This is no Tartarus, although you have no sky here as well. Who are all these people?.. Oh man...}
 
 
-{50}{}{Не торопись, новенький, понимание нельзя торопить, иначе оно извернется и исказится, и помутнится, и запутается... Начнем с простого - как твое имя, новенький?}
-{51}{006}{Меня зовут }
-{52}{006}{, я пришел из Тартара, и... мне нужно знать...}
-{53}{999}{Нет, сначала мне нужно это обдумать.}
+{50}{}{Don't be hasty, new one. The understanding cannot be rushed, or it will become distorted, hazy and tangled... Let's start with the basics: what's your name?}
+{51}{006}{My name is }
+{52}{006}{, I came from Tartarus... And I need answers.}
+{53}{999}{No, I need to think everything over first.}
 
 
-{60}{}{Конечно, как и у всех до тебя [улыбается беззубым ртом]. Если ты немного пришел в себя - мы можем попробовать прояснить твои вопросы.}
-{61}{010}{Да, я хотел бы знать кое-что.}
-{62}{999}{Не сейчас, мне нужно немного времени все это переварить.}
+{60}{}{Of course. Like literally everyone else before you [he smiles with toothless grin]. If you already pulled yourself together, we can look into the answers you need.}
+{61}{010}{Yes, I'd like to.}
+{62}{999}{Not now, I need some time to think everything over first.}
 
 
-{100}{}{Хмм?... Кхм-кхм? А-ах, это ты, }
-{101}{}{. Конечно-конечно, что ты хотел?}
-{102}{}{Мда-а? Что-то еще?}
-{103}{011}{Расскажи мне про Тартар!}
-{104}{020}{Как вы тут... живете?}
-{105}{030}{Ты что-нибудь знаешь о Богах?}
-{106}{040}{Мой отец очень болен, мне нужно вернуться в Тартар.}
-{107}{050}{Ты обещал мне помочь, помнишь - помощь на помощь?}
-{108}{060}{Ты как-то растеряно выглядишь, потерял что-то?}
-{199}{065}{По-поводу твоей речи...}
-{198}{069}{Тут Джо ищет свою жену Надин.}
-{197}{075}{Я помог Присли с кое-какими удобрениями, и подумал, может вам нужно больше?}
-{196}{076}{Я принес еще удобрений.}
-{109}{999}{Ничего, потом еще поговорим.}
+{100}{}{Hmm?... Hmm-hmm? Oh, it's you, }
+{101}{}{. What do you need?}
+{102}{}{Yeah? Something else?}
+{103}{011}{Tell me about Tartarus!}
+{104}{020}{How do you all live here?}
+{105}{030}{Do you know anything about Gods?}
+{106}{040}{My father is very sick, I need to get back to Tartarus.}
+{107}{050}{You promised to help me, remember? Return the favor and all that.}
+{108}{060}{You look somehow distracted. Lost something?}
+{199}{065}{About that speech you need to give...}
+{198}{069}{There's this guy Joe, he looks for his wife, Nadine.}
+{197}{075}{I brought Priestley some fertilizer. So I've been thinking - maybe you need more of that?}
+{196}{076}{I brought more of fertilizer.}
+{109}{999}{Nothing, we'll talk later.}
 
 
-{110}{}{Тартар... Да-а... Тартар - это отличное место для... для жизни. Хм, правда интересно, ты, пришедший из Тартара, просишь меня, никогда там не жившего, рассказать, что такое Тартар! Скажи-ка лучше ты мне, зачем ты сбежал оттуда?}
-{111}{012}{Сбежал? Да это была просто случайность! Я никогда даже и не помышлял о том, чтобы сбежать от служения...}
-{112}{013}{Сбежал... Служение, служение, ничего кроме служения Сынам Богов. И самим Богам. Но я не сбегал из Тартара, это была лишь... странная случайность.}
-{113}{013}{Сбежал... Служение, служение, ничего кроме служения Сынам Богов. И самим Богам. Но я не сбегал из Тартара, это была лишь... странная случайность. Обычно Сыны Богов не делают таких быстрых обвинений.}
-{114}{014}{Ээ-э, да, сбежал! Я всегда знал, что жизнь человека не может состоять в одном лишь служении Богам, должно быть что-то... более важное, мне кажется.}
+{110}{}{Tartarus... Yeah... Tartarus is a great place to, uh, live. It's interesting, really - you, who came from Tartarus, are asking me, who never been there, to tell you about it. Better answer, why did you run away from there?}
+{111}{012}{Run away? This was an accident! I never even thought about running away from serving...}
+{112}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident.}
+{113}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident. Usually, the Sons of Gods don't make such fast accusations.}
+{114}{014}{Uh, yeah, sure I ran away! I always knew that life is not only abouut serving Gods, there must be something more to it, some... Higher purpose, I suppose.}
 
 
-{120}{}{Вот значит как, да? Хмм... интересно-интересно... и так необычно... [его глаза открыты, но вы понимаете, что мертвяк провалился в глубины подсознания, но через пару секунд он оживает] совсем непохоже на прочих. Наверняка у тебя есть какая-то миссия, а? А может и нет.}
-{121}{015}{Почему непохоже на прочих? На каких - прочих?}
-{122}{015}{Ну конечно же... Другие тоже из Тартара, они сбежали от тяжелого труда, так?}
-{123}{015}{Другие люди из Тартар, они ведь искали здесь лучшей жизни, так? Каждый стремиться к поискам чего-то более совершенного и удобного.}
+{120}{}{So that's how it is, huh? Interesting, yeah... So interesting... And very unusual... [his eyes are wide open, but you see that ghoul fell into the depths of his subconsciousness. Then he comes to senses] It's not like with others here. You definitely have some kind of a mission. Or maybe not.}
+{121}{015}{Why is it not like with others? Which others?}
+{122}{015}{Well, of course... Others here, from Tartarus, they too ran away from serving, aren't they?}
+{123}{015}{Others from Tartarus, they searched for a better life here, right? Everyone seeks what's best for them.}
 
 
-{130}{}{Странная случайность, а? Каждый раз, когда я слышу слово СЛУЧАЙНОСТЬ - я задумываюсь, что служит причиной случайностей. Или есть вещи, для которых не нужны причины?.. Кто мы, чтобы судить о причинности вещей... или о причинах сбежать из Тартара. Или о причинах туда вернуться... Ты ведь видел всех этих людей здесь, твоих собратьев по месту жизни, собратьев по Тартару? }
-{131}{015}{Нет, о ком ты говоришь? Старик, ты в своем уме?}
-{132}{015}{Да, я видел их тут. Они не кажутся счастливыми. Что с ними случилось?}
+{130}{}{Strange accident, you say? Every time I hear "accident", I can't help thinking about the causes. Is there anything that doesn't have cause?.. Who are we to judge about causes... Even about the reasons to leave Tartarus. Or to go back there. Did you see other people here, your fellow Tartarus dwellers? }
+{131}{015}{No. Who do you mean? Old man, are you sane?}
+{132}{015}{Yes, I did.  They don't seem very happy. What happened to them?}
 
 
-{140}{}{Как и все прочие, мальчик мой [он медленно растягивает потрескавшиеся губы в морщинистой улыбке] Вы все... нет, МЫ ВСЕ ищем для себя чего-то лучшего, чего-то... поудобнее, место помягче, костер потеплее, яблоко посочнее... Но в поисках этого, мы вынуждены отказаться от того, что имеем. Все эти люди, как и ты, отказались от Тартара, который имели, и теперь они все здесь. И ты здесь.}
-{141}{015}{Все эти люди? О ком ты?}
-{142}{015}{Ну конечно же... Другие тоже из Тартара, они сбежали от тяжелого труда, так?}
+{140}{}{Just like everyone else, my boy. [he slowly wides his lips in a wrinkled smile] All of you... No, all of US are always looking something better... More convenient place, more warmer fireplace, more tasty apple... But in search for that, we are forced to abandon what we already have. All this people abandoned Tartarus, just like you. And now they are all here. And you are too.}
+{141}{015}{All these people? Who do you mean?}
+{142}{015}{Of course! Others, from Tartarus, they ran off their serving too, right?}
 
 
-{150}{}{Другие, да... Все эти мужчины и женщины, спроси кого хочешь - у каждого свои оправдания искать лучшей жизни, но они не знали...  на что пытались поменять свою неволю. В Тартаре у вас была пища, вода, тепло, крыша над головой... Ха, смешно сказать - вас даже защищали от чудовищ! А что здесь? Здесь вы меняете все это на свободу... на свободу лечь где захочется и ждать голодной, холодной, или клыкастой смерти.}
-{151}{016}{Мы... Они не знали. У них был выбор, и они его сделали! }
-{152}{017}{Да, глупо было отказываться от безопасного и теплого места. Здесь это становится очевидно}
-{153}{017}{Ну-у, они же не знали, что здесь все так плохо.}
-{154}{018}{Это их выбор, какое мне до этого дело?}
+{150}{}{The others... All these men and women, ask any - everyone has their reasons to search for better life. But they didn't know what they would get in return. In Tartarus you had food, water, warmth, roof over your head... Hah, it's funny to say, but even protection from monsters of outside world! And here? You trade everything you had for a freedom... A freedom to lay down wherever you want and wait for death from starvation, cold or fangs.}
+{151}{016}{We... They didn't know. They had a choice and they made it. }
+{152}{017}{Yes, it was stupid - to abandon such safe and warm place. Here it looks obvious.}
+{153}{017}{But they didn't know it would be so bad here.}
+{154}{018}{It's their choice, why should I care?}
 
 
-{160}{}{А кто же их... винит? [улыбается] Ты тоже сделал свой выбор, и вот ты здесь, еще один голодный рот, который нужно кормить, греть, защищать... кормить...}
-{161}{010}{Ясно, ясно, я уже понял главную идею. Можно еще спросить?}
-{162}{010}{Пусть даже и так, я вполне сам о себе позабочусь. Я хотел бы еще кое о чем узнать.}
+{160}{}{Who can blame them, really? [smiles] You made your choice too, and now you're here. Another mouth to feed, keep warm, protect... feed...}
+{161}{010}{Okay, I got your point. Can I ask something?}
+{162}{010}{Even if so, I can take care of myself. I'd like to ask other question.}
 
 
-{170}{}{В том-то и беда, что никогда не знаешь, станет неизвестность лучшим вариантом, или придется возвращаться. Только вот возвращаться-то уже некуда... Нну-у, есть, конечно, куда, только тебя там уже никто не ждет.}
-{171}{010}{Но Тартар никуда ведь не делся! Хотя, мне наверно было бы неразумно пытаться вернуться. Они считают меня убийцей... Можно еще узнать?}
-{172}{010}{Захочу - и вернусь, тут все дело только в желании. Наверно. У меня еще есть вопросы.}
-{173}{010}{Оо-х, как-то это все... философски. Я еще хотел бы кое о чем спросить.}
+{170}{}{The thing is, you'll never know if it's the best choice you make, or you have to go back eventually. Except there's nowhere to go back... I mean, there is, but nothing waits for you there anymore.}
+{171}{010}{But Tartarus is there! Although, it's not very wise for me to return. They think I'm a murderer... Can I ask something else?}
+{172}{010}{I might go back, if I wish to do so. Maybe. I have other questions.}
+{173}{010}{All of this is so... Philosophical. I'd like to ask something else.}
 
 
-{180}{}{Всего лишь люди, да? Чужие люди, чужие проблемы - кому какое дело? [его взгляд вдруг теряет фокус и Вы чувствуете себя просто прозрачным] Знаешь... Мне кажется, именно такой подход к чужим проблемам и загнал нас в эту дыру. Всех нас, понимаешь?}
-{181}{019}{Я... Кажется, понимаю, к чему ты клонишь. Взаимопомощь, все в одной лодке, и все такое.}
-{182}{010}{Эмм, ну да-а, наверно. Можно еще спросить?}
-{183}{010}{Да все равно. Можно еще вопрос?}
+{180}{}{They are only humans, right? Who even cares about the others... [his sight loses focus and you feel transparent] You know... I think this way of treating problems is the reason we are in this hole now. I mean, all of us.}
+{181}{019}{I... I think I understand. Mutual aid, working together and such.}
+{182}{010}{Uh, yeah, maybe. Can I ask something else?}
+{183}{010}{Don't care. I'd like to ask other question.}
 
 
-{190}{}{А ты - на удивление сообразительный молодой человек, ха! Мне кажется, такие как ты, решают исход войны. Или начинают ее [подмигивает]}
-{191}{010}{Эмм... Ну, спасибо, наверно... Я хотел бы еще спросить.}
+{190}{}{You are smart young man, aren't you? People like you define the outcome of wars. Or start one [winks].}
+{191}{010}{Uh, thanks, I guess. I'd like to ask other question.}
 
 
-{200}{}{Живем? Назвать ЭТО жизнью? Ну да, вполне... Нам повезло с этой станцией, она защищает от жары днем, от холода ночью, и от разных тварей день и ночь. Жалко, станция не защищает нас от голода, ха-ха-ХА-ХА... Каждый здесь делает свою работу, свою часть большого дела. Даже старики и больные - они собирают землю для грядок, греют друг друга ночами, присматривают за входом... Да мало ли, на что может сгодиться старик, а?}
-{201}{021}{Но откуда здесь столько людей?}
-{202}{024}{Где же вы берете еду?}
+{200}{}{You call this living? It's a tough one for sure... We got lucky with this station - it protects us not only from daily heat and cold at night, but also from carnivorous creatures. A pity this station doesn't protect us from hunger, hahahah... Everyone here is contributing to the common good. Even elders and children help - pick up the soil for patches, warm each other at nights, watch for the entrance... There are so many things an old person can do, you know?}
+{201}{021}{Why are there so many people here?}
+{202}{024}{Where do you get your food?}
 
 
-{210}{}{А ты здесь откуда взялся? Вот тебе и ответ... Многие здесь - сбежавшие из твоего Тартара, от ваших любимых Богов. Некоторые, правда, пришли из-за границ Радиуса. Я, например. Здесь много разного народа. Есть и те, которые пытались войти в Олимп... Те, кто выжил, конечно.}
-{211}{}{Люди... Ну, они просто берутся из разных уголков Радиуса, из Пустошей, из Развалин... Да много откуда, но все дороги в конечном итоге ведут сюда.}
-{214}{023}{Зачем они пытались войти в Олимп?}
-{212}{023}{Войти в Олимп? К Богам!?}
-{213}{024}{А где же вы берете еду?}
+{210}{}{Where do *you* came from? That's the answer... A lot of people here are runaways from Tartarus, from your favourite Gods. Some others came from Radius. Me, for example. There are even some who tried to enter the Olympus itself... And who stayed alive, of course.}
+{211}{}{People... Well, they just come. From different places of Radius - wastelands, ruins... Anywhere. Any road eventually leads them here.}
+{214}{023}{Why did someone try to enter the Olympus?}
+{212}{023}{Enter the Olympus? To the Gods!?}
+{213}{024}{And where do you get your food?}
 
 
-{220}{}{Олимп - последняя надежда. Так говорят, новенький. Говорят, там живут Боги, но даже, если это и так, то охраняют их самые настоящие дьяволы! Уж поверь, я знаю, о чем говорю, а ты лучше даже не думай об этом.}
-{221}{023}{Дьяволы? То есть - ужасные твари? Твари охраняют Богов? Ты что-то путаешь, старик.}
-{222}{023}{Дьяволы говоришь? Да уж, пожалуй, я буду держаться от них подальше.}
+{220}{}{Olympus, the last hope. Or so they say, new one. The rumor is this is the place where Gods live. Even if so, they are being guarded by the real Devils! Believe me, I know what I'm saying.}
+{221}{023}{Devils? You mean, some terrible creatures are guarding the Gods? You must be mistaken, old man.}
+{222}{023}{Devils, you say? I should keep out of them, I suppose.}
 
 
-{230}{}{Один только путь есть для нас - Тартар. Никто не знает, что в Олимпе, но мы точно знаем, что в Тартаре Богов нет, и там спокойнее и безопаснее, чем здесь. Однажды мы туда попадем, я уверен...}
-{231}{024}{Ну-у, еды там точно достаточно... А откуда вы берете еду?}
+{230}{}{There is only one way for us: Tartarus. No one knows exactly what awaits us in the Olympus, but we know for sure that there's no Gods in Tartarus - and it's more safe and calm than here. We are getting there one day, I'm sure of it...}
+{231}{024}{Well, there is plenty of food, that's true... And where do you get yours?}
 
 
-{240}{}{Наши Искатели каждый день ходят в Путь на поиски припасов, еды, или чего угодно, что помогло бы нам прожить еще недельку... Иногда удается добыть кротокрыса - вот тогда все пируют! Но обычно находятся разные корешки да жухлые стебли, но если их высушить, растолочь в муку и запечь - получаются вполне себе вкусные лепешки! А если они получаются не очень вкусными - нужно лишь поголодать еще денек - и лепешки становятся амброзией, а? Ха-ха-хха-кха-кх-кх...}
-{241}{026}{А вы не пытались выращивать... Ну-у, скажем, кукурузу?}
-{242}{025}{Охота и собирательство, да? Хорошо, что не каннибализм, а? [подмигнуть]}
-{243}{021}{А откуда здесь люди? Детей совсем не видно.}
-{244}{010}{Ясно... Я хотел бы еще спросить.}
+{240}{}{Our seekers go to the road every day, searching for food, supplies or something that could help us to live for another week. Sometimes they are lucky to put down a molerat - then it's a feast! But usually they bring some weak crops and roots, which are pretty good if turned into a flour and then baked into flat bread. And if they are not good enough, you can just wait for another day - then they taste like heavens, hahahahkhchh...}
+{241}{026}{Have you ever tried to grow something? Corn, for example?}
+{242}{025}{Hunting and gathering, I see. Good thing it's not cannibalism, right? [wink]}
+{243}{021}{Where all these people come from? I don't see any children.}
+{244}{010}{I see... I'd like to ask more.}
 
 
-{250}{}{[Боно смотрит на вас, совершенно никак не реагируя. Ни малейшей эмоции]}
-{251}{010}{Эмм, я хотел бы еще спросить кое о чем.}
+{250}{}{[Bono looks at you with no response. Literally, zero reaction.]}
+{251}{010}{Uh, I'd like to ask about other things.}
 
 
-{260}{}{Старина Присли пытался как-то развести здесь грядки, но на этой пустой земле абсолютно ничего не хочет расти. Я пробовал как-то придумать какое-нибудь удобрение, но так ничего и не вышло. Точнее, ничего так и не взошло. Бедолага, он очень расстроился тогда...}
-{261}{010}{Хмм... Удобрение для почвы, да? Ну, может, что и подвернется. Я хотел бы еще спросить.}
-{262}{010}{Мдаа, не повезло, так не повезло. Можно еще вопрос?}
+{260}{}{Old fellow Priestley sure had. He tried to make some crops, but nothing grows on this barren land. I made an effort to come up with something akin to a fertilizer, but with no results. Nothing grew up. Poor guy, he was so disappointed by that...}
+{261}{010}{Hmm... A fertilizer? Maybe something will come out of this. I'd like to ask about something else.}
+{262}{010}{Yeah, no luck means no luck. Can I ask other questions?}
 
 
-{300}{}{Боги? Какие Боги? Аа-ах, Боги из Олимпа. Олимп... Я не знаю, и не знаю никого, кто бы знал, что такое Олимп, а уж тем более о существах, его населяющих. Мы лишь знаем, что Олимп... живет. Это организм, он дышит, и вместе с ним дышит Радиус.}
-{301}{031}{Что? Это же здание, дом, обитель. Как ЭТО может дышать?}
-{302}{032}{Никто не знает? Жаль... Но может где-то кто-то есть, кто знает хоть что-нибудь?}
-{303}{033}{Радиус дышит? Что это значит?}
+{300}{}{Gods? Which Gods? Oh, you mean the Olympus Gods. Olympus... I didn't meet anyone who would know exactly what it is, myself included. Not even talking about who - or what - lives inside. What is known is that the Olympus is... Alive. It's an organism, it's breathing together with the whole Radius.}
+{301}{031}{What? It's just a building! How can it breathe?}
+{302}{032}{No one knows then? A pity... But maybe there's someone who could tell more?}
+{303}{033}{Radius is breathing? What does it mean?}
 
 
-{310}{}{Так просто этого не понять. Вот ты смотришь на дерево, и понимаешь, что оно живое, хотя ни одного листа на нем нет. Ты просто знаешь, что оно живое, иначе его корни не удержали бы его в земле. Так же и Олимп - он не может быть неживым, иначе он давно стал бы частью Развалин.}
-{311}{032}{У меня от твоих метафор голова кружится... Ты знаешь, где я мог бы найти того, кто знает больше про Олимп?}
-{312}{032}{Живой неживой Олимп, что?  А где можно узнать больше про Олимп?}
+{310}{}{I have no easy way of explaining it. Let's put it like that - when you see a tree you know it's alive, despite that it doesn't have a single leaf on it. You just know, because in another case its roots would't hold it in the soil. The Olympus is the same - it cannot be not alive, or it would become a part of ruins long ago.}
+{311}{032}{Your metaphors are making me woozy... Do you know where I can find someone, who could tell more about the Olympus?}
+{312}{032}{Alive or not alive, what? Where I can learn more about the Olympus?}
 
 
-{320}{}{Ты сам знаешь где - в Тартаре! [хрипло хохочет] Хочешь - нет, а твоя дорога лежит туда же, куда и наша, новенький. Все равно тебе не выжить одному в Радиусе, это уж точно.}
-{321}{033}{Радиус? Можешь рассказать об этом?}
+{320}{}{You know where - in Tartarus! [he hoarsely laughs] Whether you want it or not, but your path leads to the same place as ours, new one. You won't survive in Radius alone, that's for sure.}
+{321}{033}{Radius? Can you tell me more?}
 
 
-{330}{}{Радиус - это не место, не клочок земли, где мы все застряли. Радиус - это весь наш мир. Когда ты выходишь в Пустоши, встаешь на цыпочки, и смотришь вокруг себя, все это - Радиус. Когда ты открываешь сундук в заброшенном доме и молишься, чтобы на нем не оказалось капкана - это тоже Радиус. И даже когда ты смотришь в мои блеклые глаза - это тоже Радиус.}
-{331}{034}{Значит Радиус - это все, что вокруг меня? Где бы я ни был?}
-{332}{035}{То есть Радиус - это наша жизнь?}
+{330}{}{Radius is not only the place, the piece of land where we stuck. Radius is our whole world. When you go out into the wasteland, standing still into the night, looking around - it's Radius. When you open some chest in a haunted house, praying it doesn't have any trap on it - it's Radius. Even when you look deep into my white eyes, it's Radius. }
+{331}{034}{So Radius is everything that surrounds me, wherever I go?}
+{332}{035}{You mean, Radius is our whole life?}
 
 
-{340}{}{Да, и чтобы выжить тут, ты должен впустить Радиус в себя, позволить ему завладеть тобой. Проклятая земля - проклятые нравы.}
-{341}{010}{Я все понял, хватит с меня твоих объяснений. Мне нужно еще кое что...}
+{340}{}{Yes. And to stay alive in it, you should let Radius into you, let it take you over. Cursed lands require cursed deeds.}
+{341}{010}{I got it, enough with your explanations. I want to ask something else...}
 
 
-{350}{}{Жизнь, и смерть, и то, что случается потом. Радиус - это все, за вычетом Олимпа. Если ты не понимаешь сейчас - поймешь потом, новенький.}
-{351}{010}{Нет-нет, спасибо, хватит с меня твоих объяснений. Мне бы еще кое что узнать...}
+{350}{}{Life and death, and everything after. Radius is everything except the Olympus. If you don't understand it now, you will later, new one.}
+{351}{010}{Nah, enough with your explanations. I want to ask something else...}
 
 
-{400}{}{Э-э-э, туда не попасть просто вот так, сказав мол, я хочу в Тартар, не-е-е-ет... Мы давно ищем к ним подход, но охранники просят столько, что ни в жизнь не достать... Сдается мне, у них приказ, не впускать никого извне.}
-{401}{041}{Подожди-ка, какие охранники? Те, что защищают нас от ужасных тварей?}
-{402}{042}{Ищите подход? А что вы конкретно пытались сделать?}
-{403}{043}{Никого не впускать? Почему это?}
+{400}{}{Uh, you won't get there so easily, just saying "I wanna go to Tartarus", no... We are trying to find an approach for a very long time, but the guards ask so much that we could never afford... Seems like they have an order not to let anyone outside in.}
+{401}{041}{Wait, what guards? The ones that protect you from strange creatures?}
+{402}{042}{Find an approach? What exactly did you try to do?}
+{403}{043}{Not to let anyone in? Why's that?}
 
 
-{410}{}{От КОГО? [приподнимает кустистые брови] А-ах, ты наверное, про Чистилище... Нет-нет, с другой стороны тоже есть охрана, хорошо вооруженная охрана... Одни никого не выпускают из Тартара, другие никого не впускают. Помяни мое слово - у всего этого есть какая-то большая цель... Охранники охраняют Тартар, от... от таких, как мы, наверное.... Но вот - зачем? - никто не знает.}
-{411}{044}{Хорошо, но мне все равно как-то нужно туда пробраться..}
-{412}{044}{Туда ДОЛЖЕН быть вход. Раз я смог выйти оттуда - смогу и войти!}
+{410}{}{From WHO? [he raises his heavy eyebrows] Oh, you mean in the Purgatory... No, I'm talking about the other side. There are well-armed guards there too... The ones never let anyone out, the other ones never let anyone out. Mark my word, it has some higher goal behind. The guards are guarding Tartarus from... From, uh... The likes of us, I suppose... But - why? No one knows.}
+{411}{044}{Okay but I still need to get there somehow.}
+{412}{044}{There MUST be entrance. If I could get out - I will get in.}
 
 
-{420}{}{Да что мы только не пытались - и шкуру урса охранникам приносили, и бутылку виски с коробкой сахара, и даже... только -тсссс! - предлагали им наших женщин... Нет, им все мало! И... и... эээ... мда-а... Так, о чем это я?..}
-{421}{044}{Понятно, вы не знаете, что нужно охранникам... Но я должен найти способ туда попасть...}
-{422}{044}{Должен быть другой способ, без всяких там восхищений и батареек...}
+{420}{}{We tried many things, actually - offered them hides of ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! - tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?..}
+{421}{044}{I see. You don't know what the guards want. But I still need the way to get inside.}
+{422}{044}{There must be another way, without offerings or batteries...}
 
 
-{430}{}{Сложно сказать... Они же охранники - значит, охраняют Тартар от... От нас наверно... Или от того, что мы можем с собой принести, может заразу какую, или они думают, что все там сразу станут бесполезными мертвяками, как я! Ха-ха-кха-к-кха-аааа... Оо-ох... А может, они и сами не знают, что и от кого охраняют. Ты же говоришь, Боги всем заправляют, вот, значит, у богов и нужно спрашивать.}
-{431}{044}{Мне сейчас не до Богов, нужно придумать, как вернуться в Тартар...}
-{432}{044}{Боги подождут, сначала нужно придумать способ пробраться в Тартар.}
+{430}{}{Hard to say. They are guards, after all, so they are guarding it. From... From us, I guess... Or from something we could carry with us, some disease maybe... Maybe they are afraid that it will turn all of them into a worthless ghouls. Like me! Hahahahaahahh-chkhh... Oh... Or maybe they don't know themselves, what they are guarding. You say the Gods are ones who in charge? Then it's them, who should be asked.}
+{431}{044}{I have no time for Gods now, I need a way to get back into Tartarus.}
+{432}{044}{Gods can wait. First, I need a way to get into the Tartarus.}
 
 
-{440}{}{Пробраться в Тартар... Как же... Подожди-ка [его лицо вытягивается] ты, помнится, говорил, что они в тебя стреляли, так? Значит, тебя ищут, и не пустят туда в любом случае, так? Но-о, похоже, я смогу тебе помочь вернуться туда, в Тартар. Живым. Но, услуга за услугу, помощь на помощь, а? Что скажешь, новенький?}
-{441}{045}{Ты просто старый, дряхлый вымогатель, вот что скажу. Но я согласен. Что нужно делать?}
-{442}{045}{Помощь на помощь - по мне звучит честно. Чем нужно помочь?}
-{443}{999}{Нужно что-то делать? И, наверняка, что-то опасное, да? Мне нужно поразмыслить над этим.}
+{440}{}{Get into Tartarus... Yeah, sure... Wait a second [his faces stretches out] You told me that they tried to shoot you, right? So they must be looking for you, and you won't get there anyway, right? But I think there *is* a way to help you get back into Tartarus. Alive. But you'll have to return the favor. What do you say, new one?}
+{441}{045}{You are just old, decrepit extortionist, that's what I say. But I'm in. What do you need me to do?}
+{442}{045}{Favor in exchange for favor... Sounds fair. How do I help?}
+{443}{999}{Will I have to do something? I suppose, it's something dangerous? I need to think it over.}
 
 
-{450}{}{Тут всегда дел невпроворот, мы выживаем, как можем, но сейчас довольно тяжелые времена... Искатели уже совсем вымотались, им приходится ходить все дальше и дальше за провизией, и сил у них совсем не остается... Поговори с Робином, он обычно стоит у выхода на поверхность. И, помнится, Громус, наш врач, жаловался на недостаток сырья для лекарственных смесей. Ты бы зашел в бар да поговорил с ним сам, он лучше расскажет, что там ему опять не хватает. Поможешь хоть чем-нибудь - и я помогу тебе вернуться в Тартар.}
-{451}{010}{Вот так задачка... Ну хорошо, посмотрим, что там нужно будет делать.}
-{452}{999}{Ясно... Мда-а, ну что, пойду помогать. Ты только слово свое сдержи.}
-{453}{999}{Эмм... Нет, я уж как-нибудь сам в Тартар пройду.}
+{450}{}{We always have our hands full here, getting by as hard we can, but it's a tough times... Our seekers are already tired, because they have to go further and further in search of supples and they are exhausted afterwards... Talk to Robin, he usually stands near the entrance. Also, Gromus, our doctor, complained about the lack of materials for medical mixtures. You could stop by his bar and have a talk with him. He will tell better, what he needs. If you will be of any help to us, then you'll get my help in returning to Tartarus.}
+{451}{010}{What a puzzle... Okay, let's see what I can do.}
+{452}{999}{I see... Okay then, off to help. You keep your word.}
+{453}{999}{Uh... No, I'll find a way to Tartarus myself.}
 
 
-{500}{}{Что-что? Помощь?... Ах да-да, конечно же помню. Как твои успехи?}
-{501}{051}{Я пока еще работаю над этим.}
-{502}{052}{Я помог Робину, как и обещал. Твой черед помогать, Боно.}
-{503}{053}{Громус обзавелся несколькими очень... полезными хвостами скорпионов. Твой черед помогать.}
-{504}{054}{Я помог и тому, и другому. Все очень рады и передавали тебе привет! Теперь расскажи, как пройти в Тартар?}
-{505}{055}{Да, я помог и Робину, и Громусу. Было нелегко, но я справился. Теперь твоя очередь помогать мне, Боно.}
+{500}{}{What? Help?... Oh yeah, yeah, I remember. How are you getting along?}
+{501}{051}{Still working on it.}
+{502}{052}{I helped Robin, just as I promised. Your turn to help, Bono.}
+{503}{053}{Gromus is now in posession of some very... Useful tails of scorpions. Your turn to help, Bono.}
+{504}{054}{I helped both. They are very happy now, said hi. Now tell me, how do I get into Tartarus?}
+{505}{055}{Yes, I helped both Robin and Gromus. It wasn't easy, but I managed. Now it's your turn to help, Bono. }
 
 
-{510}{}{Хорошо, хорошо... Нам любая помощь не будет лишней...}
-{511}{010}{Да-да, конечно. Я тут еще узнать хотел...}
-{512}{999}{Эмм, ну я пойду.}
+{510}{}{Alright, alright... Any help is appreciated.}
+{511}{010}{Yeah, of course. I had something else in mind...}
+{512}{999}{I, uh, gotta go.}
 
+{520}{}{Good, at last the seekers can have a little rest. Thanks. You know, you are not like others, from Tartarus, who hang around here... }
+{521}{057}{Ahem... So, how do I get into the Tartarus?}
+{522}{057}{Hey, old man, what about Tartarus? }
 
-{520}{}{Отлично, искатели смогут немного передохнуть, сил набраться... Спасибо. А ты не похож на твоих... тех, из Тартара, что шатаются тут, как неприкаянные... }
-{521}{057}{Кхм... Так как же мне попасть в Тартар?}
-{522}{057}{Эй-эй, старик, как мне в Тартар попасть?}
+{530}{}{Agh-hh... Ghuuugh... Thanks a lot, new one. Our only healer couldn't handle dealing with this... RADIVATION. Now he has the means to create his anti-radiation bitter drinks... And other bitter drinks...}
+{531}{057}{Ahem... So, how do I get into the Tartarus?}
+{532}{057}{Hey, old man, what about Tartarus?}
 
+{540}{}{[he slyly squints his left eye] Helped, huh?.. I see you are the man of your word, so I won't go around asking how *exactly* you helped. Instead, I'll tell you how to get into Tartarus right away, write it down: go to the platform, then follow the tracks until the end. After that you'll see the passage to the side, so - you go there. Walk through until you bump into the guards. Come straight to them and say "get the hell out of my way, or else!" - and they'll let you in right away. And they'll give you food. And some medicine, I don't quite remember its name... Something like "fuk-yu-up" or "kill-yu-ded"... My memory is not serving me well lately.}
+{541}{999}{No need for being sarcastic. I'll come by later.}
+{542}{010}{Come on, I was just joking! I'll ask other question.}
 
-{530}{}{Кх-хх... Ххо-о-ох... Вот спасибо, новенький. Всего один врачеватель, не справляется с лечением... этой... РАДИВАЦИИ. Теперь он спокойно сможет делать свои целебные противорадивационные настойки... И разные другие настойки...}
-{531}{057}{Кхм... Так как же мне попасть в Тартар?}
-{532}{057}{Эй-эй, старик, как мне в Тартар попасть?}
+{550}{}{[he glares at you] Helped, huh? You are fast... Anyway, the things they need are always trifle... Okay then, listen: you are, like, fugitive, right? So you can't show your face. But the guards in Tartarus have uniforms which makes their faces covered. So you just need to obtain such uniform, and you can freely walk into Tartarus, either through the station or through the Purgatory - assuming you are not afraid of Ferals...}
+{551}{056}{Obtain such uniform, you say? Okay, where do I get it?}
 
+{560}{}{I know for sure that the Sunset Jackals are in posession of many different uniform suits. Let me point it on your map [he takes your organizer and puts coordinates into it] Hah, I remember some of our seekers had a couple of such things with them... So, the Jackals. They are scary people. Murderers, rapists - practically animals, not everyone handles talking to them. But if you have a spine, you'll be fine. Look for Carl, the mechanic. He is alright. Should help you with the suit.}
+{561}{999}{Sunset Jackals then... Frankly, I thought of more... Useful help. But thanks anyway.}
+{562}{999}{Oh, so I need to visit some bandits and steal away a suit of armor? Thanks a lot, old man, for your "help"... I'll manage somehow.}
 
-{540}{}{[хитро прищуривает левый глаз] Помог значит, мда?.. Ну-у, я вижу, ты человек честный, не пойду спрашивать у них, КАК ИМЕННО ты им помог, а сразу же расскажу, как попасть в Тартар. Значит, записывай... Отсюда спускаешься на платформу, потом по рельсам идешь до... до конца. Дальше - увидишь проход в сторону - так вот, идешь по нему, пока не упрешься в охранников... Подходишь к ним, и говоришь - Уйди с дороги, не то поломаю! - и они сразу же пускают тебя в Тартар. Мда-а, еще и еды с собой дадут. И очень полезные таблетки дадут... как же они называются... то ли ПРО-ПИЗ-ДЮЛЬ, то ли НЕ-ПИЗ-ДИН... Память что-то подводит меня в последнее время...}
-{541}{999}{Хорошо-хорошо, не надо сарказма. Я попозже подойду.}
-{542}{010}{Да брось, это же я пошутил! Хотел еще кое-что узнать.}
+{570}{}{Tartarus? What Tar- Oh yeah, sure. I remember, new one. Okay then, listen: you are, like, fugitive, right? So you can't show your face. But the guards in Tartarus have uniforms which makes their faces covered. So you just need to obtain such uniform, and you can freely walk into Tartarus, either through the station or through the Purgatory - assuming you are not afraid of Ferals...}
+{571}{056}{Obtain such uniform, you say? Okay, where do I get it?}
 
+{600}{}{Huh?.. No, no-no, not at all... It's just... We have so many problems and things to do here... Mostly problems... I think our dwellers need something to lift up their spirits, except my legs are not good enough to run around... People need hope to survive. Maybe you could walk around the station and tell people that I'm going to give speech? They should come and listen... Tell it at least 10 people and come back. I'll get the speech ready, okay?}
+{601}{QA}{Why not? 10 people, be right back.}
+{602}{999}{Uh, no, find yourself another errand boy.}
+{603}{999}{I have some business to do, I'll think about it.}
 
-{550}{}{[пристально смотрит на Вас] Помог, да? Быстро же ты справился... Ну да им всегда какие-то пустяки нужны... Ну хорошо, смотри: ты же вроде как в розыске, так? Значит, лицо тебе показывать нельзя, а у охранников-то в Тартаре форма специальная, лицо закрывающая. Так тебе нужно просто форму охранника надеть - и смело в Тартар, хоть через метро, хоть через Чистилище, если конечно, Безумных не боишься...}
-{551}{056}{Форму, говоришь, достать? Ну хорошо, а где мне ее взять?}
 
+{650}{}{So, did you talk to people? Are they coming?}
+{651}{999}{Actually, I'm working on it...}
+{652}{066}{Yes, around the dozen of people should come.}
+{653}{}{It took too long, }
+{654}{}{, now I can't... Spare any time.}
+{655}{999}{I see, so all this running's been for nothing.}
+{656}{999}{I didn't know you needed it *fast*. Oh well.}
 
-{560}{}{Точно знаю, что разных защитных костюмов много у Псов Заката, давай-ка я тебе на карте отмечу [берет Ваш органайзер и ловко вводит новые координаты в карту] Ээ-эх, помнится и у Выживальцев была парочка таких приборов... Так вот, Псы... Страшные это люди, грабители, убийцы - просто звери, и не каждый с ними сладит. Даже, почти никто не сладит. Но если у тебя есть хребет - ты с ними договоришься. Попробуй найти там Карла, механика, он добрый малый, должен помочь тебе с костюмчиком.}
-{561}{999}{Значит, ПСЫ ЗАКАТА... Честно говоря, я думал о более... полезной помощи, но все равно спасибо.}
-{562}{999}{Угу, отправиться к бандитам и выкрасть у них бронекостюм, да? Ну спасибо, старик, помог... Лаа-адно, как-нибудь прорвемся.}
 
+{660}{}{Wonderful, I've just scribbled a couple of notes... Okay, let's go.}
+{661}{StartBonoSpeach}{[follow Bono]}
 
-{570}{}{Тартар?.. Каккой Тар... Ах да-да, конечно. Я помню-помню, новенький... Ну хорошо, смотри: ты же вроде как в розыске, так? Значит, лицо тебе показывать нельзя, а у охранников-то в Тартаре форма специальная, лицо закрывающая. Так тебе нужно просто форму охранника надеть - и смело в Тартар, хоть через метро, хоть через Чистилище, если конечно, Безумных не боишься...}
-{571}{056}{Форму, говоришь, достать? Ну хорошо, а где мне ее взять?}
+{670}{}{Yeah... I think it went pretty good. Now everyone remembers that we are one big family and we'll survive only by taking care of each other. I hope it will boost the morale. Thank you for bringing everyone.}
+{671}{068}{Uh... Well, you're welcome. I expected some reward though.}
+{672}{999}{No problem, it was nothing.}
+{673}{999}{Of course, don't sweat it, old man!}
 
+{680}{}{A reward? You want something from ME? From US? All I can give you is advice... Advice to watch carefully where are you now, }
+{681}{}{. I have nothing more.}
+{682}{999}{I understand. See you later.}
+{683}{999}{I got it. Good bye, Bono.}	
 
-{600}{}{А?.. Нет-нет, совсем нет... тут просто... столько проблем, проблем и задач... но проблем, конечно же, больше... Нужно бы как-то подбодрить жильцов, да только ноги мне не дают вверх-вниз по лестницам бегать, да каждого утешать... Людям нужна надежда, иначе тут не выжить... А может, ты бы пробежался по станции, да рассказал людям, что я выступить хочу. Они должны меня послушать... Хотя б человек 10 предупреди -  и возвращайся сюда, а я пока речь подготовлю, а?}
-{601}{QA}{Ну а почему бы и нет? 10 человек, говоришь? Я быстро.}
-{602}{999}{Эмм, нет, найди себе другого мальчика на побегушках.}
-{603}{999}{Ну-у, у меня тут еще дела, а потом... я подумаю.}
 
-
-{650}{}{Да-да, ты оповестил достаточно человек? Они придут?}
-{651}{999}{На самом деле, я еще работаю над этим...}
-{652}{066}{Да, около дюжины обещали точно прийти.}
-{653}{}{Ты слишком долго всех обходил, }
-{654}{}{, мне некогда теперь... тратить время.}
-{655}{999}{Ясно, зря бегал, значит.}
-{656}{999}{Я же не знал, что нужно вот прямо быстро-быстро... ну ладно.}
-
-
-{660}{}{Замечательно, я как раз успел записать пару умных мыслей... Ну что ж... пошли.}
-{661}{StartBonoSpeach}{[проследовать за Боно]}
-
-
-{670}{}{Да-а... Ну, думается мне, все прошло вполне неплохо. Теперь все вспомнят, что мы - одна семья, и выжить сможем только как семья, помогая друг другу. Надеюсь, это хоть чуть-чуть поможет. Спасибо, что всех собрал.}
-{671}{068}{А-а... Ну, не за что. Правда, я рассчитывал на какую-нибудь награду.}
-{672}{999}{Да без проблем, это мне ничего не стоило.}
-{673}{999}{Конечно, не парься, старик.}
-
-
-{680}{}{Награда? Ты хочешь ЧТО-ТО просить у МЕНЯ? У НАС? Самое ценно, что я могу тебе дать, так это совет... совет, трезво смотреть на то, где ты сейчас находишься, }
-{681}{}{. Мне нечего дать тебе.}
-{682}{999}{Ну хорошо, до скорого.}
-{683}{999}{Я понял. До свиданья, Боно.}	
-
-
-{690}{}{Опять ищет? Даже не знаю, как помочь бедняге... Похоронил он Надин лет 5 назад. Она болела постоянна, мы все помогали ей, чем могли, но смерть к ней пришла. Джо тогда очень сильно переживал. Помню, он заперся в старом вагоне и несколько дней вырезал табличку ей для могилки. очень красивая была табличка, вот только я запамятовал, что на ней было... Ты поднимись наружу, найди могилку ее около фонтана, да посмотри, что там за табличка. Может, если ты Джо про табличку напомнишь, к нему и память вернется.}
-{691}{999}{Ох-хо. Хорошо, попробую.}
+{690}{}{He is looking for her again? I don't even know how to help the poor guy... He buried Nadine around 5 years ago. SHe was always sick, we tried to help as we could - but the death took her. Joe was very worried so much. I remembered how he locked himself inside of that old wagon for days, carving the memorial plaque for her grave. That plaque was so beautiful... I don't quite remember how it looked. Maybe you should go outside, find her grave near the fountain and look at it. Maybe if you remind Joe about the plaque, he'll get his memory back.}
+{691}{999}{Oh man. Okay, I'll try.}
 
 #
 #Сообщения жителей при убеждении пойти послушать Боно																																																														
 #
-{700}{}{[смотрит на Вас в ожидании]}
-{701}{}{Да? Что еще?}
-{702}{}{Ты что-то хотел сказать?}
-{703}{}{Ну что еще нужно?}
-{704}{}{Боно собирается сказать пару слов всем, что-то очень важное.}
-{705}{}{Боно собирается выступить, приходи послушать.}
-{706}{}{Скоро Боно выступит с речью, просил всех прийти послушать его.}
-{707}{}{Подходи в комнату Боно, он хочет сказать всем пару слов.}
-{708}{}{Хорошо, я подойду.}
-{709}{}{Не знаю, смогу ли. Столько дел.. Но я скажу своим друзьям.}
-{710}{}{Боно? Хорошо, я приду его послушать.}
-{711}{}{Да-а, к этому мертвяку стоит прислушаться. Конечно же, я приду.}
-{712}{}{Нет, ничего. Пока.}
-{713}{}{Да я просто мимо шел, все в порядке.}
-{714}{}{Отлично, будем ждать.}
-{715}{}{Замечательно, тогда - до встречи!}
-{716}{}{Ок, договорились.}
-{720}{}{Вы оповестили достаточно жителей, можно вернуться к Боно и рассказать, что все готово.}	
+{700}{}{[looks at you in anticipation]}
+{701}{}{Yes? Something else?}
+{702}{}{Did you want to say something?}
+{703}{}{What else do you need?}
+{704}{}{Bono is going to give some speech. Something important.}
+{705}{}{You should come to listen to Bono speaking.}
+{706}{}{Bono is going to speak soon, he asked to come by and listen.}
+{707}{}{Go to Bono's place, he wants to share a couple of words.}
+{708}{}{Okay, I'll come around.}
+{709}{}{I don't know, so many things to do... But I'll tell my friends.}
+{710}{}{Bono? Okay, I'll come to listen.}
+{711}{}{Yeah, this ghoul is worth listening to. Of course I'll come.}
+{712}{}{No, nothing. Bye.}
+{713}{}{I'm just wandering around. Everything's alright.}
+{714}{}{Good, we'll be waiting.}
+{715}{}{Very good! See you around!}
+{716}{}{Okay, deal.}
+{720}{}{You convinced enough dwellers to come, it's time to tell Bono that everything's ready.}	
 ###
 ### Удобрения
 ###
-{750}{}{Мда-а, я действительно уже слышал об этом... Прямо удивительно, как ТАМ у него хоть что-то выросло! Да, мы могли бы договориться покупать у тебя такое удобрение... Скажем, 20 батареек за мешок, а? Большую цену предложить не могу, но нам нужно мешков 10, не меньше!}
-{751}{}{Отлично, по рукам! Скоро принесу первую партию.}
-{752}{}{Даже не знаю, нужно подумать...}
-{760}{}{Очень хорошо, положи все вот сюда. Да-да, вот так. Питер их заберет. Спасибо, вот твоя плата [передает вам }
-{761}{}{ батареек]. Жду следующую поставку, хе-хе.}
-{762}{}{ батареек]. На этом наверно и закончим. Этого должно хватить, чтобы вырастить урожая на всех. Спасибо тебе большое, ты нас просто спас.}
-{763}{}{[забрать свою награду] Да конечно, ждать не долго. Я скоро.}
-{764}{}{[забрать свою награду] Что ж, рад был помочь. Еще увидимся.}	
+{750}{}{Yes, I've heard... It's unbelievable how *anything* could grow there! I think we could make an arragment... We could buy the fertilizer from you. Say, 20 batteries for a sack. What do you think? I can't offer more, but we need at least 10 sacks!}
+{751}{}{It's a deal! Wait, I'll bring the first batch.}
+{752}{}{I don't know. I need to think...}
+{760}{}{Very good. Put it here. Yes, like that. Peter will come by to take it. Thank you, here's your payment. [he gives you }
+{761}{}{ batteries]. I'm waiting for another delivery, heh-heh.}
+{762}{}{ batteries]. Let's call it a day. This must be enough to grow food for everyone. Thanks a lot, you saved us all.}
+{763}{}{[take your reward] Sure, it won't be long. See you soon.}
+{764}{}{[take your reward] Glad to be of help. Bye.}	
 ###
 #
 #РЕЧЬ БОНО																																																														
 #
 {800}{}{ }
-{801}{}{Приветствую вас, друзья мои!}
-{802}{}{Всем вам известно, что впереди нас ожидают трудные времена,}
-{803}{}{Но вместе мы справимся со всеми трудностями!}
-{804}{}{Вы прекрасно знаете, что я - человек слова!}
-{805}{}{И я вам обещаю, рано или поздно, но мы добьемся права жить в Тартаре!}
-{806}{}{Охранники почти уже согласились впустить нас под свой кров!}
-{807}{}{И ждать нам осталось совсем немного, скоро мы все будем в безопасности!}
-{808}{}{И я вас уверяю, что в самом скором будущем все наладится.}
-{809}{}{Будьте терпеливы к себе и к ближним, вместе мы переживем эти трудные времена!}
-{810}{}{Спасибо, друзья, за ваше внимание.}
+{801}{}{Greetings, my friends!}
+{802}{}{You all know that now we are facing a hard times,}
+{803}{}{But together we are capable of overcoming any difficulties!}
+{804}{}{You know for sure that I am the man of my word!}
+{805}{}{And I promise you, sooner or later we will get our right to live in Tartarus!}
+{806}{}{The guards almost agreed to let us in!}
+{807}{}{So it won't be long until all of us will be safe!}
+{808}{}{I assure you that in the nearest future everything will be alright again.}
+{809}{}{Be patient to yourself and to the ones around you, together we'll work through this hardships!}
+{810}{}{Thank you for your attention, my friends.}
 {811}{}{ }
 {812}{}{ }																																																											
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)																																																														
@@ -380,11 +371,11 @@
 #																																																															
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)																																																															
 #																																																															
-{1030}{}{Питер мне все рассказал про Хьюго, нам нужно уходить...}																																																															
-{1031}{}{Срочно нужно куда-то уходить.}																																																															
-{1032}{}{Хищники из Олимпа могут прийти в любой момент.}																																																															
-{1033}{}{Здесь мы обречены, Дефендеры нас всех убьют.}																																																															
-{1034}{}{Нужно придумать, куда мы могли бы уйти отсюда.}																																																															
+{1030}{}{Peter has told me everything about Hugo, we need to leave...}																																																															
+{1031}{}{We need to leave this place fast.}																																																															
+{1032}{}{Vultures from Olympus can be here at any moment.}																																																															
+{1033}{}{We are doomed here, Defenders will kill us all.}																																																															
+{1034}{}{We need to decide where to go from here.}																																																															
 {1035}{}{}																																																															
 {1036}{}{}																																																															
 {1037}{}{}																																																															

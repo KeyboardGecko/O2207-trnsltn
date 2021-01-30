@@ -21,29 +21,29 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: торгаш.}
-{2}{}{Вы видите: торговец броней.}
-{3}{}{Вы видите: торговец.}
-{4}{}{Вы видите: торгаш-бронник.}
-{5}{}{Вы видите: торговец.}
-{6}{}{Обычного вида барыга-бронник.}
-{7}{}{Просто торговец броней.}
-{8}{}{Один из Псов, торговец броней.}
-{9}{}{Один из Псов, продающий местную броню.}
+{1}{}{You see: trader.}
+{2}{}{You see: armor dealer.}
+{3}{}{You see: merchant.}
+{4}{}{You see: an armor merchant.}
+{5}{}{You see: seller.}
+{6}{}{Just common-looking armor trader.}
+{7}{}{An armor dealer.}
+{8}{}{One of Jackals. He sells armor.}
+{9}{}{One of Jackals. He deals with local armor.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Чем лучше броня - тем больше шансов дожить до завтра! Покупай только самую дорогую защиту!}
-{11}{}{Слушай, какой бы мощной пушки у тебя не было - она не спасет тебя от пистолетной ржавой пули! Броня - вот что спасает жизнь!}
-{12}{}{Мои экземпляры брони не только реально спасают от повреждений, но и делают тебя по-реальному крутым!}
-{13}{}{Давай-ка взглянем на твой товар.}
-{14}{}{Нет, я уже ухожу.}
-{15}{}{А чего это у тебя патроны такие дорогущие?}
-{16}{}{А ты как думал? Это же настоящие, заводские! Этих птичек остается все меньше в Радиусе, приходится за ними серьезно помотаться по пустошам да старым складам, но оно того стоит! не нравится цена - покупай кустарные у барахольщика, только вот толку от них - ноль!}
-{17}{}{Понятно... Ну, давай еще разок глянем на твои стволы.}
-{18}{}{Ясно. Ну, я пошел.}
-{19}{}{А когда у тебя новые стволы появятся?}
-{20}{}{Когда твои кривые ручонки до них дорастут. Серьезные стволы - для серьезных мужиков! Тебе пока и этого хватит.}
+{10}{}{The better your armor - the higher your chances to see another day! Therefore, buy the most expensive one!}
+{11}{}{Listen, it doesn't matter which big friggin' gun you have - it won't keep you away from a single rusty pistol bullet! The armor - that's what saves lives!}
+{12}{}{My suits of armor not only protect you from damages, but also make you look really cool.}
+{13}{}{Let's see what you have.}
+{14}{}{No, I'm leaving.}
+{15}{}{Why the hell are your ammo so expensive?}
+{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. They are no good anyway.}
+{17}{}{I see... Well, let's look at your goods one more time.}
+{18}{}{Understood. I've got to go now.}
+{19}{}{When will you sell me more serious guns?}
+{20}{}{When your little hands grow up enough to handle them. Serious guns are for serious men! And you are fine with the current ones.}
 {21}{}{}
 {22}{}{}
 {23}{}{}
@@ -53,42 +53,42 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Не мешайся, я занят.}
-{1001}{}{Не видишь, мне некогда...}
-{1002}{}{Не сейчас.}
-{1003}{}{А, браток?}
-{1004}{}{Просто свали...}
-{1005}{}{Не приставай, дай отдохнуть...}
-{1006}{}{Ну что тебе еще надо?..}
-{1007}{}{[скалится в улыбке]}
-{1008}{}{Да не мешайся ты.}
-{1009}{}{Да-да, ты неплох.}
+{1000}{}{Don't interrupt me, I'm busy.}
+{1001}{}{Can't you see I'm busy?}
+{1002}{}{Not now.}
+{1003}{}{Huh?}
+{1004}{}{Just go away.}
+{1005}{}{Don't bother me, I need to rest...}
+{1006}{}{What else do you need?}
+{1007}{}{[grins]}
+{1008}{}{Leave me be, I have a work to do.}
+{1009}{}{Yeah-yeah, you're good and all.}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда...}
-{1012}{}{Не сейчас!}
-{1013}{}{Просто свали.}
-{1014}{}{Так, развернулся - и потопал!}
-{1015}{}{Не приставай, дай отдохнуть...}
-{1016}{}{Ну что тебе еще надо?..}
-{1017}{}{...привалила всяка шушера...}
-{1018}{}{Да не мешайся ты..}
-{1019}{}{Отвали!}
+{1010}{}{Don't interrupt me, I'm busy.}
+{1011}{}{Can't you see I'm busy?}
+{1012}{}{Not now!}
+{1013}{}{Just go away.}
+{1014}{}{Just turn around and walk away!}
+{1015}{}{Don't bother me, I need to rest...}
+{1016}{}{What else do you need?}
+{1017}{}{...All sorts of scum walking around...}
+{1018}{}{Leave me be, I have a work to do!}
+{1019}{}{Get lost!}
 # Отрицательные сообщения
-{1020}{}{Отвали, говна кусок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшол нах!!!}
-{1024}{}{Я тебе глаз на жопу натяну!}
-{1025}{}{Те пиздюль прописать!?}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого, блядь, те от меня надо?!}
-{1028}{}{Дерьма кусок!}
-{1029}{}{Ты - ублюдок, свали нахрен!}
+{1020}{}{Get lost, you piece of shit!}
+{1021}{}{Get the fuck out!}
+{1022}{}{Better keep away from me, you freak!}
+{1023}{}{Get out!!!}
+{1024}{}{I'm gonna fuck you up!}
+{1025}{}{Want me to punch you in the face?!}
+{1026}{}{Get out of my sight!}
+{1027}{}{What the fuck do you want?!}
+{1028}{}{Piece of shit!}
+{1029}{}{You motherfucker, get lost!}
 #Если пошел поссать
-{1030}{}{Не сейчас, я занят...}
-{1031}{}{Да подожди ты одну минутку!}
-{1032}{}{Бляха! Да щас я вернусь!}
+{1030}{}{Not now, I'm busy.}
+{1031}{}{Just wait one minute!}
+{1032}{}{Fuck! I'll be right back!}
 {1033}{}{}
 {1034}{}{}
 {1035}{}{}
@@ -97,13 +97,13 @@
 {1038}{}{}
 {1039}{}{}
 # Отрицательные сообщения
-{1040}{}{Пакши в урну, чмо!}
-{1041}{}{Ээй! Грабли в карманы!}
-{1042}{}{Ты тут потолкаться удумал!?}
-{1043}{}{Еще раз так сделаешь - закопаю!}
-{1044}{}{Ну-ка нахрен пиздуй!}
-{1045}{}{Мешаю что ли? Да мне похуй!}
-{1046}{}{Ты меня лучше не беси...}
-{1047}{}{Я те руки в жопу запихаю!}
-{1048}{}{Потолкаемся? Ну давай, иди сюда!}
-{1049}{}{[озлобленно смотрит на Вас]}
+{1040}{}{Keep your hands to yourself, shmuck!}
+{1041}{}{Hey! Keep your hands away from my pockets!}
+{1042}{}{You are pushing *me* around!?}
+{1043}{}{Do this one more time and I will bury you!}
+{1044}{}{Oh, get the fuck out!}
+{1045}{}{Do I bother you? Because I don't give a shit!}
+{1046}{}{Better don't piss me off.}
+{1047}{}{I'm going to shove these hands of yours so deep into your ass!}
+{1048}{}{Wanna push around? Come here!}
+{1049}{}{[angrily looks at you]}

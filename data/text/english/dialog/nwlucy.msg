@@ -217,7 +217,7 @@
 {300}{}{No, you are wrong here. Look around: what do you see?}
 {301}{}{All this buildings is not quite what I mean. What else do you see?}
 {302}{}{Everyone's going somewhere, to home, to work. What else?}
-{303}{}{Everyone has a lot of this stuff. What else do you observe?}
+{303}{}{Each has a lot of this stuff, yes. What else do you observe?}
 {304}{030}{Buildings, houses... They serve us shelter.}
 {305}{030}{People, ghouls... Each carries his purpose.}
 {306}{030}{Guns, blades, ammo... Everyone has something on him.}

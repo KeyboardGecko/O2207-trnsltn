@@ -24,18 +24,18 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Кэрол.}
-{2}{}{Кэрол - девушка-ремонтник, само воплощение феминизма!}
+{1}{}{You see: Carol.}
+{2}{}{Carol - a repairwoman, the walking definition of feminism!}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Кэрол.}
-{4}{}{Кэрол - девушка-ремонтник, само воплощение феминизма!}
+{3}{}{You see: Carol.}
+{4}{}{Carol - a repairwoman, the walking definition of feminism!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ты кто такой?}
-{11}{}{Я - герой!}
+{10}{}{Who are you?}
+{11}{}{I'm a hero!}
 {12}{}{}
 {13}{}{}
 {14}{}{}
@@ -47,38 +47,38 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Та-ак, никак мужчинке не обойтись без женской помощи, а?}
-{101}{}{Что тебе еще?}
-{102}{}{Привет, Кэрол! Да я вообще-то просто мимо проходил, вот, решил поздороваться... Ну, пока!}
-{103}{}{На самом деле - да...}
-{104}{}{Не-не, ничего.}
-{105}{}{Да забей, пока!}
+{100}{}{Well-well, looks like a boy needs a heping hand from a girl?}
+{101}{}{What do you want?}
+{102}{}{Hey, Carol! I was just coming by, wanted to say hi... Well, see you!}
+{103}{}{Actually, yes...}
+{104}{}{No, nothing.}
+{105}{}{Forget it, bye!}
 {106}{}{}
-{110}{}{Выкладывай.}
-{111}{}{Хотел спросить, у тебя усы еще не выросли?}
-{112}{}{Нет, ничего. Я потом как-нибудь зайду.}
-{113}{}{Мне нужно трансформатор починить на втором уровне, а как - не знаю.}
-{120}{}{Да я тебя!.. Пшел вон, шутник долбаный!}
-{121}{}{Все-все, уже пошел.}
-{122}{}{Э-эй, только без рук! Уже ухожу.}
-{1301}{}{И что? Берешь - и чинишь! Изучил провода, подоткнул один к другому - и готово! Какие ж вы, мужики, бестолковые.}
-{1302}{}{Ты что, еще не понял? Вали чини его сам!}
-{131}{}{Легко сказать "подоткнул - и готово"... Ладно, пойду еще попробую.}
-{132}{}{Слушай, крошка, а может, ты покажешь новичку, как это делается?}
-{133}{}{Да ты гонишь! Спорю, ты сама не смогла бы починить!}
-{134}{}{Какая дикая штучка! Хорошо, пойду "чинить его сам"!}
-{140}{}{Какая я тебе КРОШКА!? Отвали! Сгинь с глаз долой!}
-{141}{}{У-ух, промахнулся...}
-{142}{}{Ладно-ладно, только без рук! Уже ухожу...}
-{1501}{}{Ха! Да я его с закрытыми глазами! Жди тут!}
-{151}{}{Забей, я верю. Я сам его починю.}
-{152}{}{Ну-ну, жду.}
-{1502}{}{Ты не ту на понт берешь, слабак. Я за тебя твою работу делать не собираюсь!}
-{153}{}{А я и не сомневался. Ладно, сам разберусь.}
-{154}{}{Ясно, другого и не ожидал. Пока!}
-{160}{}{Ну вот, и 10 минут не прошло! Все исправлено!}
-{161}{}{Эээ... Ну да, там и делать-то нечего было! Ну, спасибо.}
-{162}{}{Спасибо! Вот ты - настоящий товарищ! Не то, что некоторые.}
+{110}{}{Spill it out.}
+{111}{}{I wanted to ask... Did you grow yourself a moustache yet?}
+{112}{}{No, nothing. I'll come by later.}
+{113}{}{I need to repair a fuse box on level 2 - and I don't know how.}
+{120}{}{I'll get you!.. Get out of here, you joker!}
+{121}{}{Okay-okay, I'm going.}
+{122}{}{Hey, don't touch it! I'm already leaving.}
+{1301}{}{What? Just do it! Look at wires, connect one to other - and that's it! You men are so useless.}
+{1302}{}{Still don't get it? Handle it yourself!}
+{131}{}{Easy for you to say, "push a little - and it's done"... Okay, will go try one more time.}
+{132}{}{Listen babe, maybe you could demonstrate to a greenhorn like me how it's done?}
+{133}{}{Are you serious? I bet you couldn't even do it yourself.}
+{134}{}{You are a wild one, aren't you! Okay, I'll "handle it myself".}
+{140}{}{Did you just call me "babe"!? Get lost! I don't want to see you!}
+{141}{}{Uh, looks like I messed up...}
+{142}{}{Okay, don't touch it! I'm leaving...}
+{1501}{}{Me? Hah! With my eyes closed! Wait here!}
+{151}{}{Forget it, I believe you. I'll fix it myself.}
+{152}{}{Yeah-yeah, we'll see. I'm waiting.}
+{1502}{}{You picked the wrong girl to mess with, you loser. I'm not going to do your work for you!}
+{153}{}{I never doubted it. Well, I'll do it myself.}
+{154}{}{I see, never expected you to. Bye then!}
+{160}{}{That's it, in less than ten minutes - all fixed!}
+{161}{}{Uh... Yeah, there was little to do anyway. Thanks, I guess.}
+{162}{}{Thanks! You are the best, a real friend! Unlike some others...}
 
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
@@ -122,13 +122,13 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Парам-пам-пам!}
-{1031}{}{Мужики, мужики... Ничего сами не могут...}
-{1032}{}{Та-ак, эту фиговину в эту штуковину...}
-{1033}{}{Что за?... Кто стащил мой ключ?}
-{1034}{}{Ладно, и так разберемся...}
-{1035}{}{Ничего-ничего, щаз все заработает...}
-{1036}{}{Ну вот чего здесь сложного?..}
-{1037}{}{А все кто виноват? Правильно, мужланы!..}
-{1038}{}{...а нечего было меня подкалывать...}
-{1039}{}{[что-то мурлычет под нос]}
+{1030}{}{La-dee-dah!}
+{1031}{}{Men. Can't do shit by themselves.}
+{1032}{}{So, this thingie goes into that thingie.}
+{1033}{}{What the?... Who took my wrench?}
+{1034}{}{Screw that, I'll do fine without it.}
+{1035}{}{Okay, it's gonna work in a minute.}
+{1036}{}{There! Was that so difficult?}
+{1037}{}{And who's fault is that? Right! Bozos!}
+{1038}{}{...all because of a little nudge.}
+{1039}{}{[mumbles something under her nose]}
