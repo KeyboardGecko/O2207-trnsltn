@@ -21,38 +21,38 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: торгаш.}
-{2}{}{Вы видите: торговец барахлом.}
-{3}{}{Вы видите: торговец.}
-{4}{}{Вы видите: торгаш из НМП.}
-{5}{}{Вы видите: торговец.}
-{6}{}{Сам торговец ничем не примечателен, но вот охранники за его спиной...}
-{7}{}{Просто торговец всякой всячиной.}
-{8}{}{Это один из торговых караванщиков из НМП.}
-{9}{}{Он смотрит на Вас так, что Вы понимаете, что просто ОБЯЗАНЫ у него что-нибудь купить.}
+{1}{}{You see: trader.}
+{2}{}{You see: a junk dealer.}
+{3}{}{You see: merchant.}
+{4}{}{You see: merchant from NWO.}
+{5}{}{You see: trader.}
+{6}{}{This merchant is pretty unremarkable. Unlike the guards who stand behind him.}
+{7}{}{Just a trader who sells all kinds of junk.}
+{8}{}{He is one of the caravan merchants from NWO.}
+{9}{}{He looks at you with such stare that you feel obliged to buy something from him.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{У меня, конечно, нету всяких редких штучек, но уверяю Вас, стоит взглянуть на мой товар!}
-{11}{}{Не забудьте оценить наши самодельные патроны от лучших мастеров со всего Радиуса!}
-{12}{}{О-о-о! Я сразу увидел в Вас высокого ценителя полезных мелочей, коих, смею вас уверить, у меня полно!}
-{13}{}{Ну давай, выкладывай, что там у тебя.}
-{14}{}{Давай-ка взглянем на твой товар.}
-{15}{}{Да, мне как раз нужно кое-что прикупить. Выкладывай товар.}
-{16}{}{Нет, спасибо, мне ничего не нужно.}
-{17}{}{Нет, мне действительно пора идти.}
-{18}{}{Может быть в другой раз. До встречи.}
+{10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
+{11}{}{Don't forget to check out our custom-made ammo, made by craftsmen from all corners of Radius!}
+{12}{}{Oooh! I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
+{13}{}{Okay, let's see what you have.}
+{14}{}{Let's look at your stock.}
+{15}{}{Yes, I might need to buy something. Show me your goods.}
+{16}{}{No, thank you. I don't need anything.}
+{17}{}{No, I really need to go.}
+{18}{}{Maybe some other time. See you around.}
 {19}{}{}
-{20}{}{Э-эй! Ближе лучше не подходи!}
-{21}{}{Ты ведь не думаешь пошарить у меня по карманам?}
-{22}{}{Лучше держись на расстоянии, не зли моих ребят!}
-{23}{}{Отойди-ка лучше от меня, для твоей же безопасности.}
-{24}{}{Не нужно так близко подходить, у моих друзей может палец на курке дернуться.}
-{25}{}{Не трогай меня, ты сильно рискуешь, парень!}
-{26}{}{Держи-ка свои ручонки при себе, удалец!}
-{27}{}{Руки прочь от меня, шустряга!}
-{28}{}{В следующий раз тебе руки поотрывают!}
-{29}{}{Последнее предупреждение - убрал руки в карманы!}
+{20}{}{H-hey! Don't come any closer!}
+{21}{}{You aren't thinking of rifling through my pockets, are you?}
+{22}{}{Better keep your distance, don't provoke my guards.}
+{23}{}{Step away, for your own safety.}
+{24}{}{No need to come so close, my friends here have itchy trigger fingers.}
+{25}{}{Touching me you risk an awful lot, pal!}
+{26}{}{Keep your hands to yourself, boy!}
+{27}{}{Hands off, quick!}
+{28}{}{Next time you'll have your hands ripped off.}
+{29}{}{Last warning - keep your hands where I can see them.}
 {30}{}{}
 {31}{}{}
 {32}{}{}
@@ -62,42 +62,42 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Не мешайся, я занят.}
-{1001}{}{Не видишь, мне некогда.}
-{1002}{}{Не сейчас.}
-{1003}{}{А, браток?}
-{1004}{}{Просто свали...}
-{1005}{}{Не приставай, дай отдохнуть.}
-{1006}{}{Ну что тебе еще надо?..}
-{1007}{}{[скалится в улыбке]}
-{1008}{}{Да не мешайся ты.}
-{1009}{}{Да-да, ты неплох.}
+{1000}{}{Don't interrupt me, I'm busy.}
+{1001}{}{Can't you see I'm busy?}
+{1002}{}{Not now.}
+{1003}{}{Huh?}
+{1004}{}{Just go away.}
+{1005}{}{Don't bother me, I need to rest...}
+{1006}{}{What else do you need?}
+{1007}{}{[grins]}
+{1008}{}{Leave me be, I have a work to do.}
+{1009}{}{Yeah-yeah, you're good and all.}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Не сейчас!}
-{1013}{}{Просто свали.}
-{1014}{}{Так, развернулся - и потопал!}
-{1015}{}{Не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо?..}
-{1017}{}{...привалила всяка шушера...}
-{1018}{}{Да не мешайся ты..}
-{1019}{}{Отвали!}
+{1010}{}{Don't interrupt me, I'm busy.}
+{1011}{}{Can't you see I'm busy?}
+{1012}{}{Not now!}
+{1013}{}{Just go away.}
+{1014}{}{Just turn around and walk away!}
+{1015}{}{Don't bother me, I need to rest...}
+{1016}{}{What else do you need?}
+{1017}{}{...All sorts of scum walking around...}
+{1018}{}{Leave me be, I have a work to do!}
+{1019}{}{Get lost!}
 # Отрицательные сообщения
-{1020}{}{Отвали, говна кусок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Я тебе глаз на задницу натяну!}
-{1025}{}{Тебе в морду прописать?!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого черта, тебе от меня надо?!}
-{1028}{}{Дерьма кусок!}
-{1029}{}{Ты - ублюдок, свали нахрен!}
+{1020}{}{Get lost, you piece of shit!}
+{1021}{}{Get the fuck out!}
+{1022}{}{Better keep away from me, you freak!}
+{1023}{}{Get out!!!}
+{1024}{}{I'm gonna fuck you up!}
+{1025}{}{Want me to punch you in the face?!}
+{1026}{}{Get out of my sight!}
+{1027}{}{What the fuck do you want?!}
+{1028}{}{Piece of shit!}
+{1029}{}{You motherfucker, get lost!}
 #Если пошел поссать
-{1030}{}{Не сейчас, я занят.}
-{1031}{}{Да подожди ты одну минутку!}
-{1032}{}{Да сейчас я вернусь!}
+{1030}{}{Not now, I'm busy.}
+{1031}{}{Just wait one minute!}
+{1032}{}{Fuck! I'll be right back!}
 {1033}{}{}
 {1034}{}{}
 {1035}{}{}
@@ -106,13 +106,13 @@
 {1038}{}{}
 {1039}{}{}
 # Отрицательные сообщения
-{1040}{}{Руки убрал, чмо!}
-{1041}{}{Ээй! Грабли в карманы!}
-{1042}{}{Ты тут потолкаться удумал!?}
-{1043}{}{Еще раз так сделаешь - закопаю!}
-{1044}{}{Ну-ка нахрен пошел!}
-{1045}{}{Мешаю что ли? Да мне похрен!}
-{1046}{}{Ты меня лучше не беси.}
-{1047}{}{Я тебе твои руки в задницу запихаю!}
-{1048}{}{Потолкаемся? Ну давай, иди сюда!}
-{1049}{}{[озлобленно смотрит на Вас]}
+{1040}{}{Keep your hands to yourself, shmuck!}
+{1041}{}{Hey! Keep your hands away from my pockets!}
+{1042}{}{You are pushing *me* around!?}
+{1043}{}{Do this one more time and I will bury you!}
+{1044}{}{Oh, get the fuck out!}
+{1045}{}{Do I bother you? Because I don't give a shit!}
+{1046}{}{Better don't piss me off.}
+{1047}{}{I'm going to shove these hands of yours so deep into your ass!}
+{1048}{}{Wanna push around? Come here!}
+{1049}{}{[angrily looks at you]}
