@@ -251,7 +251,7 @@
 {12600}{}{Battle Armor MKII}
 {12601}{}{An even improved version of the standard battle armor, even stronger, even more impressive! And you will surely appreciate the comfort of the new leather inserts between the hip plates!}
 {12700}{}{AS-2000}
-{12701}{}{A mechanized exo-suit, driven by a nuclear battery, with hydraulic and servo motors. This model is saved poorly against radiation, but the thick layer of armor is an excellent protection against firearms and energy weapons!}
+{12701}{}{A mechanized exo-suit, driven by a nuclear battery, with hydraulic and servo motors. This model saves poorly against radiation, but the thick layer of armor is an excellent protection against firearms and energy weapons!}
 {12800}{}{AS-2000 MKII}
 {12801}{}{The AS-2000 has been replaced by a modern upgraded and modified MKII, that features an added programmable stabilization system and an inverse kinematics system.}
 {12900}{}{MCA Defender}
@@ -799,7 +799,7 @@
 {40000}{}{Mr. Potato Agility}
 {40001}{}{Skillful as a potato bat, Potato Batman will increase your agility!}
 {40100}{}{Mr. Potato Luck}
-{40101}{}{Fortuna loves potatoes. Keep the collectible Potato Rabbit's Foot with you for good luck!}
+{40101}{}{Fortuna loves potatoes. Keep the collectible Potato Rabbit with you for good luck!}
 {40200}{}{Orange Chucky}
 {40201}{}{The sparkling character of this comic book will quickly teach you the basics of self-defense and hand-to-hand combat.}
 {40300}{}{A Player Orange}
