@@ -1,3 +1,3 @@
-1:Через некоторое время Руководитель Нового Мирового Порядка приказал взять жителям в руки оружие и штурмовать другие локации.
-2:Не имея подготовки и опыта военных действий, многие погибли в первых же боях. Оставшиеся в живых разбежались по Радиусу, спасаясь от тирании нового Руководителя.
-3:Вскоре от Нового Мирового Порядка осталось только опустевшее заброшенное здание консервного завода, разграбленного рейдерами.
+1:The Leader of the New World Order soon ordered the residents to take up arms and raid other settlements.
+2:Lacking the training and experience of military operations, many died in the very first battles. The survivors scattered across the Wasteland to escape the tyranny of the new Leader.
+3:In the end, all that remains of the New World Order was the looted and abandoned building of the cannery.
