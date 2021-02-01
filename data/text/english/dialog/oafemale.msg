@@ -24,7 +24,7 @@
 #
 {1}{}{You see: wildling.}
 {2}{}{You see: a savage.}
-{3}{}{You see: a local woman.}
+{3}{}{You see: a local woman.} 
 {4}{}{You see: a huntress.}
 {5}{}{You see: a local.}
 {6}{}{The muscles pop out of a thin skin.}

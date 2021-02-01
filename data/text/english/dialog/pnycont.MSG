@@ -3,7 +3,7 @@
 #
 # Created by Artem "Rainman" Samoylov
 # 04/10/2012
-#
+# 
 #Общие положения
 #
 {1}{}{The hinges are too rusty. You are not strong enough to open this.}

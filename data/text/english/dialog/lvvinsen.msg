@@ -2,7 +2,7 @@
 #Location: Livos
 #Name: Edward Von Vincent Schwein 
 #Short description: Hoarder sitting in the room tracking Livos (at the entrance)
-#Date of creation: 17.08.2014
+#Date of creation: 17.08.2014 
 ##############################
 #For the game "Olympus 2207"
 #Artem "Rainman" Samoilov

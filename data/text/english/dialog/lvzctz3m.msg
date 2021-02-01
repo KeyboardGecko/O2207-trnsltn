@@ -21,12 +21,12 @@
 #
 #CRITTER DESCRIPTION
 #
-{1}{}{You see: a guy.}
-{2}{}{You see: a local guy.}
-{3}{}{You see: a young man.}
-{4}{}{You see: a resident of the shelter.}
-{5}{}{You see: a resident of Livos.}
-{6}{}{A young man. The lines of blue veins are clearly seen through the pale skin.}
+{1}{}{You see: guy.}
+{2}{}{You see: local guy.}
+{3}{}{You see: young man.}
+{4}{}{You see: resident of vault.}
+{5}{}{You see: dweller of Livos.}
+{6}{}{A young man. The web of blue veins is clearly seen through the pale skin.}
 {7}{}{He dresses quite well.}
 {8}{}{He does not seem to bother himself with too much work.}
 {9}{}{He looks at you as if you owed him something very valuable.}
@@ -46,7 +46,7 @@
 # Positive messages
 {1000}{}{Greetings brother!}
 {1001}{}{Good day, friend!}
-{1002}{}{Hello! Can we get together near the wine machine some time later?}
+{1002}{}{Hello! Let's hang out by the wine machine some time later!}
 {1003}{}{Yes, yes, I'm glad to see you too.}
 {1004}{}{Wonderful day today, isn't it?}
 {1005}{}{I'm so glad to see you!}
@@ -55,7 +55,7 @@
 {1008}{}{You are our pride!}
 {1009}{}{Without second thoughts, my dear!}
 # Neutral messages
-{1010}{}{What else?}
+{1010}{}{What now?}
 {1011}{}{N-no, just leave.}
 {1012}{}{Find yourself something to do.}
 {1013}{}{You are invading my personal space.}
@@ -64,7 +64,7 @@
 {1016}{}{Go stick to the Hortons. They are friendly.}
 {1017}{}{Better go irritate Schweins.}
 {1018}{}{Listen, new one... On the other hand, I'm too lazy to talk to you.}
-{1019}{}{Phew! The smell of you!}
+{1019}{}{Ew! The smell of you!}
 # Negative messages
 {1020}{}{Arrrgh! Go away!}
 {1021}{}{I hate you, scum!}

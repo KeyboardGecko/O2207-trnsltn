@@ -24,41 +24,41 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: пират-кочевник.}
-{2}{}{Весь в шрамах и синяках, он выглядит совсем недружелюбно.}
+{1}{}{You see: a pirate nomad.}
+{2}{}{Covered with scars and bruises, he doesn't look too friendly.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: ???.}
+{3}{}{You see: ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Эй, народ! К нам тут мясо пожаловало!}
-{11}{}{ХАНА ТЕБЕ, МЯСО!}
-{12}{}{Не повезло тебе, туша, сюда забрести!}
-{13}{}{Народ, тут один из БАШНИ!}
-{14}{}{Я тебе, вояка, задницу на клочки порву!}
-{15}{}{Эй, солдатик! Мы тебя щас живьем зароем!}
-{16}{}{Ты че это!? Руки заломай!}
-{17}{}{Я те говорю - НЕ ТРОЖЬ МЕНЯ!}
-{18}{}{Ну ты сам нарвался, гнида!}
-{19}{}{Ты этого хотел, ЭТОГО!?}
-{20}{}{Здорово! Давай к нам, вместе грабить веселее!}
-{21}{}{ХА, вот это кандидат! Слышал о тебе, уважаю!}
-{22}{}{Да у тебя ж на морде написано - прирожденный пират!}
+{10}{}{Hey fellas! We have a fresh meat here!}
+{11}{}{YOU'RE DEAD MEAT!}
+{12}{}{You are so unlucky to wander in here, you blood bag!}
+{13}{}{Hey people, we've got someone from TOWER!}
+{14}{}{I'm gonna rip your ass off, soldier boy!}
+{15}{}{Hey soldier boy! We're gonna bury you alive!}
+{16}{}{The hell are you doing? Break his hands!}
+{17}{}{I'm telling ya - DO NOT TOUCH ME!}
+{18}{}{Now you're asking for this, punk!}
+{19}{}{Did you want that? Huh!?}
+{20}{}{Very good! Come join us, it's gonna be fun to rob people together!}
+{21}{}{Hah, what a candidate! I've heard about you, have my respect!}
+{22}{}{You have "natural-born pirate" written all over your face!}
 {23}{}{}
 {24}{}{}
 {25}{}{}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{О! А я тебя знаю!}
-{101}{}{Что-нибудь еще интересно?}
-{102}{}{Конечно знаешь!}
-{103}{}{Да-да, это я!}
-{104}{}{Да ничего мне не интересно.}
-{105}{}{Мне все интересно.}
+{100}{}{Oh! I know you!}
+{101}{}{Interested in something else?}
+{102}{}{Of course you do!}
+{103}{}{Yes, it's me!}
+{104}{}{No, I'm not.}
+{105}{}{Sure. I'm interested in everything.}
 {106}{}{}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)

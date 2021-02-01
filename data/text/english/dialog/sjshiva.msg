@@ -5,7 +5,7 @@
 #Date of creation: 27.09.2014
 ##############################
 #For the game "Olympus 2207"
-#Artem "Rainman" Samoilov	
+#Artem "Rainman" Samoilov	 
 ##############################	
 #	
 #CRITTER DESCRIPTION	

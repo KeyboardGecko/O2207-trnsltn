@@ -30,7 +30,7 @@
 {6}{}{A girl running around Tartarus.}
 {7}{}{Nothing unusual, just a little girl.}
 {8}{}{This girls are always get on your way!}
-{9}{}{She is so sassy-looking at you that it makes you feel uncomfortable...}
+{9}{}{She looks at you so sassy that it makes you feel uncomfortable...}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #
@@ -56,7 +56,7 @@
 {1006}{}{This meanie is pulling my hair again!}
 {1007}{}{Look what thingie I have here!}
 {1008}{}{MOOOOOOM! HE IS HASSLING ME AGAIN!!!}
-{1009}{}{I'll tell my dad about you! He'll show you!!!}
+{1009}{}{I'll tell my dad! He'll show you!!!}
 #
 {1010}{}{::Zzzz...::}
 {1011}{}{::Hmmmm...::}

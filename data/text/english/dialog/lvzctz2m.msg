@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: парень.}
-{2}{}{Вы видите: местный житель.}
-{3}{}{Вы видите: молодой человек.}
-{4}{}{Вы видите: житель убежища.}
-{5}{}{Вы видите: житель Лайвос.}
-{6}{}{Молодой человек, сквозь бледную кожу отчетливо проступают паутинки синих вен.}
-{7}{}{Он вполне себе прилично одет.}
-{8}{}{Не похоже, чтобы он слишком уж много работал.}
-{9}{}{Он смотрит на Вас как... как будто Вы ему задолжали что-то очень ценное.}
+{1}{}{You see: guy.}
+{2}{}{You see: local guy.}
+{3}{}{You see: young man.}
+{4}{}{You see: resident of vault.}
+{5}{}{You see: dweller of Livos.}
+{6}{}{A young man. The web of blue veins is clearly seen through the pale skin.}
+{7}{}{He dresses quite well.}
+{8}{}{He does not seem to bother himself with too much work.}
+{9}{}{He looks at you as if you owed him something very valuable.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,46 +46,46 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Приветствую тебя, брат!}
-{1001}{}{Доброго дня, друг!}
-{1002}{}{Привет! Может сходим как-нибудь вместе в винной машине, а?}
-{1003}{}{Да-да, я тоже рад тебя видеть.}
-{1004}{}{Чудесный сегодня денек, не правда ли?}
-{1005}{}{Рад тебя видеть!}
-{1006}{}{Не выразить словами, как я рад тебе, друг!}
-{1007}{}{Обращайся в любое время!}
-{1008}{}{Ах, ты наша гордость!}
-{1009}{}{Всенепременнейше, дорогуша!}
+{1000}{}{Greetings brother!}
+{1001}{}{Good day, friend!}
+{1002}{}{Hello! Let's hang out by the wine machine some time later!}
+{1003}{}{Yes, yes, I'm glad to see you too.}
+{1004}{}{Wonderful day today, isn't it?}
+{1005}{}{I'm so glad to see you!}
+{1006}{}{I cannot express with words how glad I am to see you, my friend!}
+{1007}{}{Ask me anytime!}
+{1008}{}{You are our pride!}
+{1009}{}{Without second thoughts, my dear!}
 # Нейтральные сообщения
-{1010}{}{Ну что еще?}
-{1011}{}{Н-н-нет, просто уйди.}
-{1012}{}{Найди себе какое-нибудь занятие.}
-{1013}{}{Ты тут вторгаешься в мое пространство...}
-{1014}{}{Как бы так сказать... Брысь от меня.}
-{1015}{}{Ты мешаешь мне любоваться нашими чертогами.}
-{1016}{}{Приставай лучше... к Хортонам. Они дружелюбные.}
-{1017}{}{Иди лучше Швайнов подоставай.}
-{1018}{}{Слушай, новенький... Впрочем, мне лень с тобой разговаривать.}
-{1019}{}{Фу-у-у! Ну и запашок у тебя!}
+{1010}{}{What now?}
+{1011}{}{N-no, just leave.}
+{1012}{}{Find yourself something to do.}
+{1013}{}{You are invading my personal space.}
+{1014}{}{How do I say it... Scat away from me.}
+{1015}{}{You are preventing me from admiring our chambers.}
+{1016}{}{Go bug Hortons, for example. They are friendly.}
+{1017}{}{Better go irritate Schweins.}
+{1018}{}{Listen, new one... On the other hand, I'm too lazy to talk to you.}
+{1019}{}{Ew! The smell of you!}
 # Отрицательные сообщения
-{1020}{}{Аррргх! Пшол вон!}
-{1021}{}{Я тебя ненавижу, мразь!}
-{1022}{}{Да как ты смеешь!?..}
-{1023}{}{Сгинь, мерзость преисподней!}
-{1024}{}{Ах ты поганая отрыжка мерзких тварей!}
-{1025}{}{Я бы вырвал твою селезенку и съел бы ее с бокальчиком кьянти!}
-{1026}{}{Нужно срочно очистить мир от твоего присутствия, сволочь!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Меня тошнит от одной мысли о тебе!}
-{1029}{}{Ты... Ты... Фу сука!}
+{1020}{}{Arrrgh! Go away!}
+{1021}{}{I hate you, scum!}
+{1022}{}{How dare you!?..}
+{1023}{}{Get away, abomination of hell!}
+{1024}{}{Oh you fucking burp of nasty beast!}
+{1025}{}{I'm gonna tear out your spleen and eat it with a glass of Chianti!}
+{1026}{}{We urgently need to clear the world of your presence, you bastard!}
+{1027}{}{What the hell do you want from me?!}
+{1028}{}{Just thinking about you makes me sick!}
+{1029}{}{You... You... Bitch!}
 #Спящие сообщения
-{1030}{}{Ну же, чертов генератор, хватит гудеть!}
-{1031}{}{Да что б тебя... что же там шумит?...}
-{1032}{}{Давай жестянка, выдай мне что-нибудь повкуснее!}
-{1033}{}{Опять овсянка!? Да ты издеваешься! Где мясо??}
-{1034}{}{Я не могу это есть! Лучше уж консервы из НМП...}
-{1035}{}{И это ты называешь вином? Нет, серьезно?}
-{1036}{}{Пахнет как крысиная моча... Свари же наконец нормальное вино!}
+{1030}{}{Come on, damn generator, stop humming!}
+{1031}{}{Oh damn you... What's making that noise?}
+{1032}{}{Come on you tin can, give me something tasty!}
+{1033}{}{Oatmeal!? Again? Are you kidding me? Where is MEAT??}
+{1034}{}{I won't eat this! Better to go with canned food from nwo...}
+{1035}{}{You call this wine? No, seriously?}
+{1036}{}{Smells like rat piss... Brew me some goddamn good wine!}
 {1037}{}{}
 {1038}{}{}
 {1039}{}{}

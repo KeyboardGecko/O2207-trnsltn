@@ -24,18 +24,18 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Кирк.}
-{2}{}{Ваш младший брат, Кирк. Какой-то он унылый сегодня.}
+{1}{}{You see: Kirk.}
+{2}{}{Kirk, your younger brother. He looks rather moody today.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Кирк.}
-{4}{}{Ваш младший брат, Кирк. Какой-то он унылый сегодня.}
+{3}{}{You see: Kirk.}
+{4}{}{Kirk, your younger brother. He looks rather moody today.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ты кто такой?}
-{11}{}{Я - герой!}
+{10}{}{Who are you?}
+{11}{}{I'm a hero!}
 {12}{}{}
 {13}{}{}
 {14}{}{}
@@ -47,17 +47,17 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Ну, что нужно?}
-{101}{}{Эй, а ты почему не работаешь?}
-{102}{}{Да я так, просто... Пока.}
-{103}{}{У меня проблема: охраннику нужно бутылку самогона принести, а самой бутылки у меня и нету!}
-{110}{}{Ну ты умник, блин! А чем я занимаюсь, по-твоему?? Видишь, отцу помогаю! Мне же комбинезон еще рано... [Кирк явно раздосадован тем, что он младше Вас]}
-{111}{}{Ах да, точно-точно. Ничего, скоро и ты подрастешь! [дружески ткнуть брата кулаком в плечо]}
-{112}{}{Да не огрызайся ты, я ведь просто спросил. А вот еще хотел спросить...}
-{120}{}{[Кирк смотрит на Вас как бык на красную тряпку]}
-{121}{}{Ну, ты остынь пока, а я пойду.}
-{130}{}{[отвечает с явной неохотой] На парковку сходи: там, вроде, рядом со столом валялась одна... не знаю, может она еще там...}
-{131}{}{Хмм... Ладно, проверю. Бывай!}
+{100}{}{What, what do you want?}
+{101}{}{Hey, why aren't you working?}
+{102}{}{I'm just, uh... Bye.}
+{103}{}{I have a problem - the guard asks for a bottle of booze, which I don't have!}
+{110}{}{So smart, aren't you! What do you think I'm doing? I'm helping father, see? Too bad it's too early for me to wear the jumpsuit... [Kirk is definitely pissed of by the fact he's the younger one.]}
+{111}{}{Oh yeah, of course! Don't worry, you'll grow up soon! [friendly bump him into the shoulder]}
+{112}{}{Don't snap at me, I'm just asking. Also, I wanted to ask something else...}
+{120}{}{[Kirk looks at you like a bull on a piece of red cloth]}
+{121}{}{Well, You let some steam off, and I'll go.}
+{130}{}{[he reluctantly answers] Go to the parking lot - I recall there was one bottle lying somewhere near the table... Maybe still is.}
+{131}{}{Okay, I'll check. See ya!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

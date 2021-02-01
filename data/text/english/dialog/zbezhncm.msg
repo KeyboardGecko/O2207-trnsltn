@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: мужчина.}
-{2}{}{Вы видите: беженец.}
-{3}{}{Вы видите: оборванец.}
-{4}{}{Вы видите: не местный.}
-{5}{}{Вы видите: беженец.}
-{6}{}{Непонятно откуда взявшийся оборванец.}
-{7}{}{Похоже, он долго скитался по Радиусу. А может и за его пределами.}
-{8}{}{Одежда на нем совершенно изодрана, под ней видны засохшие раны.}
-{9}{}{Одного взгляда достаточно, чтобы понять, что ему довелось пережить очень многое.}
+{1}{}{You see: man.}
+{2}{}{You see: refugee.}
+{3}{}{You see: ragamuffin.}
+{4}{}{You see: vagrant.}
+{5}{}{You see: refugee.}
+{6}{}{It is unclear where this ragged man came from.}
+{7}{}{Looks like he wandered the Radius for a long time. Maybe even beyond the Radius.}
+{8}{}{His clothes are torn apart, old scars are seen under it.}
+{9}{}{One look at him is enough to understand that he went through a lot.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,24 +46,24 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Сообщения беженца
-{1000}{}{Ничем не могу тебе помочь.}
-{1001}{}{Посмотри на меня! Я полутруп!}
-{1002}{}{Что? А? А что я?}
-{1003}{}{Нет-нет-нет, никаких богов!}
-{1004}{}{Ёа-ха, ты не был там, где был я!}
-{1005}{}{Да как ты смеешь судить меня!?}
-{1006}{}{О-о-о, тебе лишь предстоит познать все ужасы этой проклятой долины!}
-{1007}{}{Что еще!? А-а, просто человек...}
-{1008}{}{Ты видел Ренессанс? Мой личный рай в этом аду...}
-{1009}{}{Олимп. Все дороги ведут в Олимп!}
+{1000}{}{I can't help you.}
+{1001}{}{Look at me! I'm half-dead!}
+{1002}{}{What? Huh? What about me?}
+{1003}{}{No-no-no, no Gods anymore!}
+{1004}{}{Haha, you've never been where I was!}
+{1005}{}{How dare you to judge me!?}
+{1006}{}{Oh, you have yet to discover the horrors of this cursed valley!}
+{1007}{}{What now!? Oh, just a human...}
+{1008}{}{Did you see Renaissance? My personal heaven in this hell...}
+{1009}{}{Olympus. All roads lead to Olympus!}
 # Канюченья беженца
-{1010}{}{Подай батареечку, а?}
-{1011}{}{Ну дай хоть что-нибудь, а?}
-{1012}{}{Будь добрым человеком, подай страннику?}
-{1013}{}{Как мужик-мужику, подай хоть что-нибудь!}
-{1014}{}{Брат, брат! Мы же все братья, должны помогать друг-другу!}
-{1015}{}{Я так давно ничего не ел, ну хоть кусочек геккона?}
-{1016}{}{У тебя лишняя одежда? Конечно, есть! Подай мне, прояви сострадание!}
-{1017}{}{Я проделал долгий путь к Олимпу, но у меня ничего не осталось, подай батареечку, а?}
-{1018}{}{Я могу тебя... расслабить, если захочешь. Только подай что-нибудь на еду?}
-{1019}{}{Мне нужно твое барахло, нужно! Отдай мне!}
+{1010}{}{Spare at least a battery!}
+{1011}{}{Give me something! Anything!}
+{1012}{}{Be a kind man, spare something to a stranger!}
+{1013}{}{As a man to a man - give me something! Anything}
+{1014}{}{Oh, brother! We are all brothers, aren't we? We should help each other!}
+{1015}{}{I haven't eaten for days. Even a little piece of gecko will do!}
+{1016}{}{DO you have clothes to spare? Of course you do! Hand it over, show some compassion!}
+{1017}{}{I've traveled a long way to the Olympus, but now I have nothing left. Care to spare a battery?}
+{1018}{}{I can make you feel... Good, if you want. Only give me something to eat.}
+{1019}{}{I need your stuff, I need it! Give it to me!}

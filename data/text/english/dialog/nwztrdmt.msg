@@ -61,7 +61,7 @@
 {1005}{}{Don't bother me, I need to rest...}
 {1006}{}{What else do you need?}
 {1007}{}{[grins]}
-{1008}{}{Leave me be, I have a work to do.}
+{1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
 # Нейтральные сообщения
 {1010}{}{Don't interrupt me, I'm busy.}

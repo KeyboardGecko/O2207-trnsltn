@@ -4,7 +4,7 @@
 #
 # Map Names for (Automap) Descriptions
 #	Note: This order must *NOT* change!
-#
+# 
 #	Note: The maximum description width is approximately:
 #	  "Brotherhood of Steel (Lower Levels)" -- about 34 characters,
 #	  but it's proportional, so you need to double-check it by

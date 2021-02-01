@@ -1,6 +1,6 @@
 #
 #   Messages from skill.c
-#
+# 
 #
 #   SKILL NAMES
 #
@@ -27,8 +27,8 @@
 #
 {200}{}{The use, care and general knowledge of small firearms - pistols, SMGs and rifles.}
 {201}{}{The operation and maintenance of really big guns - miniguns, rocket launchers, flamethrowers and such.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
+{202}{}{The care and feeding of energy-based weapons. How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts. Combat with your hands and feet.}
 {204}{}{Using non-ranged weapons in hand-to-hand, or melee combat - knives, sledgehammers, spears, clubs and so on.}
 {205}{}{The skill of muscle-propelled ranged weapons, such as throwing knives, spears and grenades.}
 {206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}

@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: девушка.}
-{2}{}{Вы видите: местная девушка.}
-{3}{}{Вы видите: юная особа.}
-{4}{}{Вы видите: жительница убежища.}
-{5}{}{Вы видите: жительница Лайвос.}
-{6}{}{Молодая особа, с осунувшимся бледным лицом.}
-{7}{}{Хоть ее одежда и сильно потрепана, Вы уверены, что ей НИКОГДА не приходилось охотиться на крыс или ночевать в пещерах.}
-{8}{}{Мешки под ее глазами неумело замаскированы какими-то белилами. Или это известь?..}
-{9}{}{Поймав Ваш взгляд, девушка подернула левым глазом. Судя по всему, это просто нервный тик.}
+{1}{}{You see: girl.}
+{2}{}{You see: local girl.}
+{3}{}{You see: a young girl.}
+{4}{}{You see: dweller of the vault.}
+{5}{}{You see: inhabitant of Livos.}
+{6}{}{A young girl with a pale, scrawny face.}
+{7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
+{8}{}{Bags under her eyes are clumsily masked by some white powder. Or is it lime?..}
+{9}{}{Catching your gaze, the girl blinks with her left eye. Apparently, this is some kind of a tick.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,43 +46,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Приветик, красавчик!}
-{1001}{}{Доброго дня!}
-{1002}{}{Привет! Может сходим как-нибудь вместе в винной машине, а?}
-{1003}{}{Да-да, я тоже рада тебя видеть.}
-{1004}{}{Чудесный сегодня денек для секса, не правда ли? [подмигивает]}
-{1005}{}{Я та-ак рада видеть тебя!}
-{1006}{}{Хэ-эй, доблестный воин!}
-{1007}{}{Лапочка, для тебя - любая прихоть!}
-{1008}{}{Ах, тебе так идут эти штаны!}
-{1009}{}{Ну конечно же! Вот только закончу тут кое-что.}
+{1000}{}{Hello, handsome!}
+{1001}{}{Good day to you!}
+{1002}{}{Hello! Let's hang out by the wine machine some time later!}
+{1003}{}{Yes, I'm glad to see you too.}
+{1004}{}{It's a wonderful day to have sex isn't it? [winks]}
+{1005}{}{I am *so* glad to see you!}
+{1006}{}{Hey there, mighty warrior!}
+{1007}{}{Anything for you, sweetie!}
+{1008}{}{You look so good in these pants!}
+{1009}{}{Of course! Let me finish here with something.}
 # Нейтральные сообщения
-{1010}{}{Ну что тебе?}
-{1011}{}{Н-н-нет, знаешь, сегодня не хочется.}
-{1012}{}{Найди себе какое-нибудь занятие.}
-{1013}{}{Ты тут вторгаешься в мое пространство...}
-{1014}{}{Да ну, не охота.}
-{1015}{}{Ничего такого, просто ты не в моем вкусе, ковбой.}
-{1016}{}{Ты тут... Ну-у, просто не в тему, понимаешь?}
-{1017}{}{Да не смотри ты на меня так! Понабежало всяких извращенцев...}
-{1018}{}{Слушай, новенький... Впрочем, мне лень с тобой разговаривать.}
-{1019}{}{Уйди, противный.}
+{1010}{}{What do you want?}
+{1011}{}{N-no, you know, today is not the day.}
+{1012}{}{Find yourself something to do.}
+{1013}{}{You are invading my personal space.}
+{1014}{}{Nah, don't wanna.}
+{1015}{}{Nothing personal - you are just not my type, cowboy.}
+{1016}{}{You are, uh... don't belong here, you know?}
+{1017}{}{Don't look at me like that! So many perverts around there days...}
+{1018}{}{Listen, new one... On the other hand, I'm too lazy to talk to you.}
+{1019}{}{Shoo, you creep.}
 # Отрицательные сообщения
-{1020}{}{Аррргх! Я расцарапаю тебе лицо вот этой вилкой!}
-{1021}{}{Я тебя ненавижу, мразь!}
-{1022}{}{Да как ты смеешь!?..}
-{1023}{}{Одним своим присутствием ты поганишь мою жизнь!}
-{1024}{}{Ах ты поганая отрыжка мерзких тварей!}
-{1025}{}{Я бы привязала тебя и медленно разрезала бы ножом на мелкие кусочки!}
-{1026}{}{Сделай услугу миру - отрежь себе яйца!}
-{1027}{}{Беее! Фу! Мерзость поганая! Меня тошнит от тебя!}
-{1028}{}{Козел! Все козлы, но ты... Ты - архикозел!}
-{1029}{}{Мразь! Тварь! Лицемер! Подонок!}
+{1020}{}{Arrrgh! I'm gonna scratch your face out with this fork!}
+{1021}{}{I hate you, scum!}
+{1022}{}{How dare you!?..}
+{1023}{}{You are insulting me just with your presence!}
+{1024}{}{Oh you fucking burp of nasty beast!}
+{1025}{}{I would tie you down and cut you up into a little pieces!}
+{1026}{}{Do a favor to the world by cutting your balls off!}
+{1027}{}{Eeew! Yuck! I feel sick, you filthy abomination!}
+{1028}{}{Asshole! All men are assholes, but you... You are the king of assholes!}
+{1029}{}{Scum! Filth! Jerk! Dirtbag!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}

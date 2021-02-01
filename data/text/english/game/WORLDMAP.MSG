@@ -1,7 +1,7 @@
 #
 # 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
 #
-# Text labels and messages used by town and world map
+# Text labels and messages used by town and world map 
 #  
 # 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
 #

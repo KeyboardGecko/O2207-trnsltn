@@ -13,7 +13,7 @@
 
 # Описание 2
 {3}{}{You see: non-working generator.}
-{4}{}{This generator was turned off by you, did you forget that?}
+{4}{}{This generator was turned off by you, did you forget that?} 
 
 # Действия
 {5}{}{You should stop putting your fingers into live wires.}

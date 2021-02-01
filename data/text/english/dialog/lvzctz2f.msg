@@ -4,7 +4,7 @@
 #File structure:
 #lines 1-9 - description of the character;
 #lines 10-29 - acquaintance with a pesonage;
-#lines 30-99 - I don't know yet, but I think it will be useful...
+#lines 30-99 - I don't know yet, but I think it will be useful... 
 #Next, on the branches of the dialogue.
 #Each branch is a multiple of 100, i.e. 100 is one topic of dialogue, 200 is another.
 #Character replicas go after 10, i.e. 100, 110, 120, etc. With that
@@ -21,14 +21,14 @@
 #
 #CRITTER DESCRIPTION
 #
-{1}{}{You see: a girl.}
-{2}{}{You see: a local girl.}
-{3}{}{You see: a young lady.}
-{4}{}{You see: a resident of the vault.}
-{5}{}{You see: a resident of Livos.}
+{1}{}{You see: girl.}
+{2}{}{You see: local girl.}
+{3}{}{You see: young lady.}
+{4}{}{You see: resident of vault.}
+{5}{}{You see: dweller of Livos.}
 {6}{}{A young lady with a haggled, pale face.}
 {7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
-{8}{}{Bags under her eyes are clumsily masked by some powder. Or is it lime?..}
+{8}{}{Bags under her eyes are clumsily masked by some white powder. Or is it lime?..}
 {9}{}{Catching your gaze, the girl blinks with her left eye. Apparently, this is some kind of a tick.}
 #
 #HERE BEGINS A DIALOGUE

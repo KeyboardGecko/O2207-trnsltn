@@ -33,7 +33,7 @@
 {2}{}{You see: a half-naked girl.}
 {3}{}{You see: an artist of pole and boobs.}
 {4}{}{You see: a stripper.}
-{5}{}{You see: a dancer.}
+{5}{}{You see: dancer.}
 {6}{}{Looks like her ass in set on a vibration mode.}
 {7}{}{When she smiles, her checkered teeth are shown.}
 {8}{}{She smells sweat, bad tobacco, cheap booze and... something else.}

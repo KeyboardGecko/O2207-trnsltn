@@ -2,7 +2,7 @@
 ¦{1}{}{Hero Archetype is "Tank".}
 {2}{}{Hero Archetype is "Fox".}
 {3}{}{Hero Archetype is "Forrest".}
-{4}{}{Hero Archetype is "Standard".}
+{4}{}{Hero Archetype is "Standard".} 
 {5}{}{}
 {6}{}{}
 {7}{}{}
@@ -28,7 +28,7 @@
 {24}{}{Connect Blue to Red}
 {25}{}{Connect Blue to Green}
 {26}{}{You felt an electric shock.}
-{27}{}{Oops! You got a discarge in your fingers.}
+{27}{}{Oops! You got a discharge in your fingers.}
 {28}{}{You got an electric shock. The finger is still aching.}
 {29}{}{You received a massive electric shock.}
 #
@@ -37,8 +37,8 @@
 {30}{}{Bravo, you did it!}
 {31}{}{This is a solid steel door. It cannot be opened with a crowbar or an explosion.}
 {32}{}{You removed the trap from the door.}
-{33}{}{Want to try to manually match the wire combination? If you unsuccessfully try it will shock you, and the security system will change the electrical circuit! Otherwise you will need at least a skill of }
-{34}{}{You've been poking around the wires for a long time, but you still haven't been able to hack the security system. Want to try to manually pick a wire combination? If you fail, you can get an electric shock and the security system will change the electrical circuit!}
+{33}{}{Want to try to manually pick up the wire combination? If you are unsuccessfull, it will shock you, and the security system will change the layout of electrical circuit! Otherwise you will need at least a skill of }
+{34}{}{You've been poking around the wires for a long time, but you still haven't been able to hack the security system. Want to try to manually pick a wire combination? If you fail, you can get an electric shock and the security system will change the layout of electrical circuit!}
 {35}{}{Your trap has been disarmed and went into the belongings of }
 {36}{}{The door is critically damaged and about to fall apart.}
 {37}{}{The door is badly damaged and barely holds on its hinges.}

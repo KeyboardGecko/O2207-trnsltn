@@ -5,7 +5,7 @@
 #Структура файла:
 #строки 1-9 - описание персонажа;
 #строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
+#строки 30-99 - пока не знаю, но думаю, что пригодятся... 
 #Далее, по веткам диалога.
 #Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
 #Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
@@ -58,12 +58,12 @@
 {1008}{}{Come again, big boy!}
 {1009}{}{Of course! Come back anytime!}
 # Нейтральные сообщения
-{1010}{}{Don't talk to me, I'm busy.}
+{1010}{}{Don't bother me, I'm busy.}
 {1011}{}{Can't you see? I'm busy.}
 {1012}{}{No, I can't talk to you right now.}
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{You know, I actually don't mind - but I'm busy now.}
-{1015}{}{Listen, don't touch me, let me rest a little.}
+{1015}{}{Listen, don't bother me, let me rest a little.}
 {1016}{}{What else do you want?}
 {1017}{}{Some other time, 'kay?}
 {1018}{}{Sheeesh... What?}

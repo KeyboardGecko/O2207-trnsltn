@@ -1,5 +1,5 @@
 #
-# Messages from scripts
+# Messages from scripts 
 #
 # strings
 #

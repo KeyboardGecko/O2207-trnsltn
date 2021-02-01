@@ -24,7 +24,7 @@
 #
 # до знакомства
 #
-{1}{}{You see: Stella.}
+{1}{}{You see: Stella.} 
 {2}{}{Stella, Catty's mom. She looks very sick.}
 #
 # после знакомства

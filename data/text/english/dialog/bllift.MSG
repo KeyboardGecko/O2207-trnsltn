@@ -17,7 +17,7 @@
 {5}{}{The elevator gets you to the upper level.}
 
 # Действия
-{6}{}{}
+{6}{}{} 
 {7}{}{}
 {8}{}{}
 {9}{}{}

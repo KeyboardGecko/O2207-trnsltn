@@ -1,5 +1,5 @@
 #
-# Messages used in gdialog.c for custom NPC combat control.
+# Messages used in gdialog.c for custom NPC combat control. 
 #
 {0}{}{Burst}
 {1}{}{Run Away}
