@@ -273,7 +273,7 @@
 {1107}{}{You have a chem addiction. If you do not take Combatid on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become addicted to Rad-Out. While not life threatening, you must take it regularly.}
 {1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
-{1110}{}{You have a chem addiction. You must take Jet on a regular basis.}
+{1110}{}{You have a chem addiction. You must take Drop on a regular basis.}
 {1111}{}{Tragically, you are hooked on the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{You decided to direct all the resources of the skyscraper to the needs of the inhabitants of the Wasteland, even though this makes Olympus defenseless against robbers and marauders.}
