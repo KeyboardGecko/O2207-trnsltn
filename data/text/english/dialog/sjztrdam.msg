@@ -4,7 +4,7 @@
 #—труктура файла:
 #строки 1-9 - описание персонажа;
 #строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригод€тс€...
+#строки 30-99 - пока не знаю, но думаю, что пригод€тс€... 
 #ƒалее, по веткам диалога.
 # ажда€ ветка кратна 100, т.е. 100 - одна тема диалога, 200 - друга€.
 #–еплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. ѕри чем 
@@ -39,7 +39,7 @@
 {13}{}{Let's see what you have.}
 {14}{}{No, I'm leaving.}
 {15}{}{Why the hell are your ammo so expensive?}
-{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. They are no good anyway.}
+{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. Except they are no good anyway.}
 {17}{}{I see... Well, let's look at your goods one more time.}
 {18}{}{Understood. I've got to go now.}
 {19}{}{When will you sell me more serious guns?}
@@ -61,7 +61,7 @@
 {1005}{}{Don't bother me, I need to rest...}
 {1006}{}{What else do you need?}
 {1007}{}{[grins]}
-{1008}{}{Leave me be, I have a work to do.}
+{1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
 # Ќейтральные сообщени€
 {1010}{}{Don't interrupt me, I'm busy.}

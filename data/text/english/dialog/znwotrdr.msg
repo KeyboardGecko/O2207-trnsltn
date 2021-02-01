@@ -27,7 +27,7 @@
 {4}{}{You see: merchant from NWO.}
 {5}{}{You see: trader.}
 {6}{}{This merchant is pretty unremarkable. Unlike the guards who stand behind him.}
-{7}{}{Just a trader who sells all kinds of junk.}
+{7}{}{Just a trader who sells all kinds of stuff.}
 {8}{}{He is one of the caravan merchants from NWO.}
 {9}{}{He looks at you with such stare that you feel obliged to buy something from him.}
 #
@@ -70,7 +70,7 @@
 {1005}{}{Don't bother me, I need to rest...}
 {1006}{}{What else do you need?}
 {1007}{}{[grins]}
-{1008}{}{Leave me be, I have a work to do.}
+{1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
 # Нейтральные сообщения
 {1010}{}{Don't interrupt me, I'm busy.}

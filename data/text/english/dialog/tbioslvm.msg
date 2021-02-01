@@ -22,15 +22,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: житель Тартара.}
-{2}{}{Вы видите: слуга жизни.}
-{3}{}{Вы видите: один из слуг жизни.}
-{4}{}{Вы видите: мужчина-слуга.}
-{5}{}{Вы видите: местный житель.}
-{6}{}{Этот мужчина следит за тем, чтобы в Тартаре было что покушать.}
-{7}{}{Этот слуга занят уборкой и уходом за грядками.}
-{8}{}{Он отвечает за наличие пищи в Тартаре.}
-{9}{}{Он чем-то занят. Или просто делает вид.}
+{1}{}{You see: a resident of Tartarus.}
+{2}{}{You see: a Life Servant.}
+{3}{}{You see: one of Life Servants.}
+{4}{}{You see: a male servant.}
+{5}{}{You see: a local.}
+{6}{}{This man is responsible for Tartarus always having enough food.}
+{7}{}{This servant is busy with fertilizing and taking care of crops.}
+{8}{}{His duty is to provide enough food to Tartarus dwellers.}
+{9}{}{He is busy with something. Or trying to look like it.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -47,43 +47,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Xэ-эй, дружище!}
-{1001}{}{Приветствую! Как делища?}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Привет, братан! Да знаю, что от меня воняет, но может все таки обнимемся?}
-{1004}{}{Я бы с радостью поболтал, но... Давай в другой раз.}
-{1005}{}{Рад тебя видеть! Хочешь, навоз вместе покидаем, а?}
-{1006}{}{А что, может, поболтаем? Ну, как хочешь.}
-{1007}{}{Слушай, я тут припрятал для тебя кое-что. Ну лады, потом поговорим.}
-{1008}{}{Ты почаще хоть меня тут навещай, Ок?}
-{1009}{}{Да не вопрос! Обращайся в любое время!}
+{1000}{}{Hey, buddy!}
+{1001}{}{Hello! How are you?}
+{1002}{}{Well, hello there!}
+{1003}{}{Hey brother! Yes, I know that I smell not that great, but maybe we still can hug?}
+{1004}{}{I would gladly stop and chat... But let's do it some other time.}
+{1005}{}{So glad to see you! Wanna throw some manure around together?}
+{1006}{}{Maybe wanna chat? Suit yourself.}
+{1007}{}{I have something for you. Okay, let's talk later.}
+{1008}{}{Come again, big boy!}
+{1009}{}{Of course! Come back anytime!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Ээй! Я же работаю! Вон, руки по локоть в дерьме!}
-{1013}{}{Эй, слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Эй, чем приставать с расспросами, полил бы лучше грядки!}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо.}
-{1017}{}{...не забыть расчесать лавашей...}
-{1018}{}{...грядки-грядки, сведете меня в могилу.}
-{1019}{}{Ой, слушай, давай немного погодя поговорим, а?}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Can't you see? I'm busy.}
+{1012}{}{Hey! I'm working here! See, I'm deep in shit!}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{Instead of bothering me with questions, you'd better water some crops!}
+{1015}{}{Listen, don't bother me, let me rest a little.}
+{1016}{}{What else do you want?}
+{1017}{}{...Remember to comb the lavash...}
+{1018}{}{...Crops, crops, you are gonna be my grave.}
+{1019}{}{Oh. Listen, let's talk a litte later, m?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}

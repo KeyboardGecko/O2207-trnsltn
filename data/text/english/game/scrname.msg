@@ -1,6 +1,6 @@
 #############################################################
 #      Description des scriptes                             #
-#                                                           #
+#                                                           # 
 #      Created by Artem "Rainman" Samoylov                  #
 #      for game "Olympus 2207"                              #
 #      11/07/2011                                           #

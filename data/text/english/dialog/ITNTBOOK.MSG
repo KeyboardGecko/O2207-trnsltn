@@ -1,7 +1,7 @@
 #############################################################
 #Text file for writing to your personal notebook 
 #Line number in scripts. lst << 61 >>
-#############################################################
+############################################################# 
 #File structure:
 #line 1-9 - description of the character;
 ## lines 10-29 - getting to know the character;
@@ -35,33 +35,33 @@
 {100}{}{List of my Adventures!}
 {101}{}{Find and return Dad's key}
 {102}{}{Help my brother deal with the Bully}
-{103}{}{Get a "Rad-Out" for Katie's mom}
-{104}{}{Find the cause for sick Lavash}
+{103}{}{Get a "RadOut" for Katie's mom}
+{104}{}{Find the cause of Lavash illness}
 {105}{}{Assemble the valve filter and repair the water pump}
-{106}{}{Repair the transformer}
-{107}{}{Collect 24 cobs for Katie}
+{106}{}{Repair the fuse box}
+{107}{}{Collect 24 corn cobs for Katie}
 {108}{}{Bring the guard a bottle of moonshine}
-{109}{}{Drag barrels of water to the Lavash keepers}
+{109}{}{Bring barrels of water to the Lavash keepers}
 {110}{}{Bring medicine to the Purgatory guard}
 {111}{}{Find out what happened to Dad}
-{112}{}{A new entry in your personal diary.}
+{112}{}{A new entry has been added to your personal diary.}
 #######################
 {200}{}{ (done)}
 #######################
-{201}{}{There's a note in the organizer about "Renaissance". On occasion, you should try to learn more.}
-{202}{}{I have all the parts of the Renaissance map! The coordinates are in the organizer, I will definitely go there.}
-{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck, and Kinder about Sam.}
-{204}{}{I'm the new head of the NWO... So, what Orders do I give out now?}
-{205}{}{It looks like you can get into Olympus under the guise of this Douglas. I need the same form and his tag...}
-{206}{}{List of items for Olympus: "Admiration", Ultra-Repair-Kit, Prototype Plasmarifles, and the NWO Encyclopedia.}
+{201}{}{There's a note in the organizer about something called "Renaissance". On occasion, you should try to learn more.}
+{202}{}{I have all the parts of the Renaissance map! The coordinates are in the organizer, I should definitely go there.}
+{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck and Hinder about Sam.}
+{204}{}{I'm the new head of the NWO... So, what orders do I give out now?}
+{205}{}{It looks like you can get into Olympus under the guise of this Douglas guy. I need the same uniform and his tag...}
+{206}{}{List of items for Olympus: "Admiration", Ultra-Repair-Kit, Plasma rifle prototype and the NWO Encyclopedia.}
 {207}{}{Just in case, I'll write down the code from the panel at Zochkis level: 2358.}
 {208}{}{}
 {209}{}{}
 #######################
 {210}{}{The monsters here seem to have weaknesses. I'll write them down here.}
-{211}{}{Bullets and Knifes don't work well with Chimera's! But they seem to be afraid of fire.}
-{212}{}{The rough hides of Ursa's are not susceptible to fire, but are easily penetrated with bullets!}
-{213}{}{Ants and Scorpions easily shrug of flames and bullets, but they have clearly not adapted against explosives.}
-{214}{}{Jackals can be killed with an explosion or bullets, but fire is useless against them.}
-{215}{}{Bullets just bounce off the skins of the Beasts! You only has a change against them with explosives or energy weapons!}
+{211}{}{Bullets and Knifes don't work well with Chimeras! But they seem to be afraid of fire.}
+{212}{}{The rough hides of Ursa are not susceptible to fire, but are easily penetrated with bullets!}
+{213}{}{Ants and Scorpions easily shrug off flames and bullets, but they have clearly not adapted against explosives.}
+{214}{}{Jackals can be killed with an explosions or bullets, but fire is useless against them.}
+{215}{}{Bullets just bounce off the skins of the Cave Beasts! You only has a chance against them with explosives or energy weapons!}
 {216}{}{}

@@ -1,4 +1,4 @@
-#
+# 
 # Inventory messages from inventry.c
 #
 {0}{}{ST}

@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: женщина.}
-{2}{}{Вы видите: беженка.}
-{3}{}{Вы видите: оборванка.}
-{4}{}{Вы видите: не местная.}
-{5}{}{Вы видите: беженка.}
-{6}{}{Ёудая изможденная женщина, вся в каких-то обносках.}
-{7}{}{Старая потрепанная одежда еле прикрывает невероятно худое тело.}
-{8}{}{Судя по свежим шрама на ее бледно-синей коже, она сильно натерпелась за последнее время.}
-{9}{}{Одного взгляда достаточно, чтобы понять, что ей довелось пережить очень многое.}
+{1}{}{You see: a woman.}
+{2}{}{You see: refugee.}
+{3}{}{You see: ragamuffin.}
+{4}{}{You see: vagrant.}
+{5}{}{You see: refugee.}
+{6}{}{A skinny exhausted woman, wearing some kind of rags.}
+{7}{}{Old torn clothes barely covers her unnaturally thin body.}
+{8}{}{Judging by a fresh scars on her pale-blue skin, he suffered through a lot lately.}
+{9}{}{One look at her is enough to understand that she went through a lot.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,24 +46,24 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Сообщения беженки
-{1000}{}{А?? Что тебе от меня нужно??}
-{1001}{}{Посмотри на меня! Я уже не похожа на женщину!}
-{1002}{}{Что? А? А что я?}
-{1003}{}{Боги! Боги на нас разгневались! Это судный день, спасение в Олимпе!}
-{1004}{}{Да что ты можешь об этом знать, гладкокожий!?}
-{1005}{}{Не прикасайся ко мне, чудовище! Ты один из них!}
-{1006}{}{Я видела Смерть... Он сказал, что любит яблоки...}
-{1007}{}{У-ух, всего лишь человек...}
-{1008}{}{Карта. Карта ведет в Ренессанс. Я найду ее, точно найду!}
-{1009}{}{Олимп, только в Олимпе наше спасение!}
+{1000}{}{Huh?? What do you want from me??}
+{1001}{}{Look at me! I don't resemble a woman anymore!}
+{1002}{}{What? Huh? What about me?}
+{1003}{}{Gods! Gods are angered by us! The judgement day has come, the Olympus is our only salvation!}
+{1004}{}{WHat can you possibly know about it, smoothskin!?}
+{1005}{}{Don't touch me, you monster! You are one of them!}
+{1006}{}{I've seen Death... He said he likes apples...}
+{1007}{}{Uh, just a man...}
+{1008}{}{The map. The map leads to the Renaissance. I will find it, I'm sure!}
+{1009}{}{Olympus, only in it lies our salvation!}
 # Канюченья беженки
-{1010}{}{Ну хоть кусочек мыла!}
-{1011}{}{Подай хоть что-нибудь!}
-{1012}{}{Ты же мужчина, подай женщине что-нибудь.}
-{1013}{}{Я знаю, ты можешь мне помочь с едой!}
-{1014}{}{Не будь лавашьим дерьмом, подай беженке...}
-{1015}{}{У тебя есть что-нибудь ненужное?}
-{1016}{}{Я так давно ничего не ела... Поделись чем-нибудь?}
-{1017}{}{Будь добрым человеком, ковбой, подай путнице.}
-{1018}{}{Ну хоть что-нибудь, какую-нибудь мелочь?}
-{1019}{}{Мне даже нечем прикрыться, подай хоть тряпочку!}
+{1010}{}{Spare me something, even a piece of soap!}
+{1011}{}{Give me something! Anything!}
+{1012}{}{You are the man, aren't you? Spare the woman something!}
+{1013}{}{I know, you can help me out with food!}
+{1014}{}{Don't be a lavash shit, help out the refugee...}
+{1015}{}{Do you have something you don't need anymore?}
+{1016}{}{I haven't eaten for days... Spare me something!}
+{1017}{}{Be a kind man, cowboy, spare something to a wanderer.}
+{1018}{}{Something, anything! Anything!}
+{1019}{}{I even don't have anything to cover myself with, give me some piece of cloth!}

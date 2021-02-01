@@ -4,7 +4,7 @@
 #Краткое описание: Руководитель NWO
 #Дата создания: 31.07.2014
 ##############################
-#Для игры "Олимп 2207"
+#Для игры "Олимп 2207" 
 #Артем "Rainman" Самойлов
 ##############################
 #
@@ -225,7 +225,7 @@
 
 
 {390}{}{Everyone is equal to me here, I can't say someone stands out much. Maybe you'll ask more specific question? Who do you want to know about?}
-{391}{050}{Siren}
+{391}{050}{Cyren}
 {392}{053}{Hinder}
 {393}{054}{Philipp}
 {394}{055}{Seth}
@@ -362,7 +362,7 @@
 {586}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{590}{}{Blanca? She's young and not very smart. Quite fond of our scout, Siren. Nothing more to say about her...}
+{590}{}{Blanca? She's young and not very smart. Quite fond of our scout, Cyren. Nothing more to say about her...}
 {591}{038}{Okay, then I have some questions about other inhabitants.}
 {592}{031}{I see... Let's get back to questions about the town then.}
 {593}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -532,7 +532,7 @@
 {901}{091}{Should I talk to every resident here? Really?}
 
 
-{910}{}{No, not to everyone. Only to the ones that folk listens to. Talk to Juan, Siren, Flint, Owen, Buck and Hinder.}
+{910}{}{No, not to everyone. Only to the ones that folk listens to. Talk to Juan, Cyren, Flint, Owen, Buck and Hinder.}
 {911}{999}{Well... Okay. I'll try to do something with it. Will be back when Sam's reputation is equal to one of the saints, or something.}
 
 {920}{}{One more thing, if you are worried about the reward - there will be, once you're done with this. }

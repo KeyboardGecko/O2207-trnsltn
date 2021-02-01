@@ -1,7 +1,7 @@
 #
 #	 Messages from stat.c
 #
-#
+# 
 #	 STAT NAMES
 #
 {100}{}{Strength}

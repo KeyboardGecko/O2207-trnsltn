@@ -1,5 +1,5 @@
 # This file describes the messages,
-# used in item scripts
+# used in item scripts 
 #
 # Created by Artem "Rainman" Samoylov
 # 16/11/2010

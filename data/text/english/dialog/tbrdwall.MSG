@@ -19,7 +19,7 @@
 {7}{}{Uh, no, that does not do anything.}
 {8}{}{How do you think it should work!?}
 {9}{}{Maybe it needs a little kick? Perhaps, some blowing onto?}
-{10}{}{Looks like you lack strength to break it.}
+{10}{}{Looks like you lack strength to break it.} 
 {11}{}{You have not enough strength to bring down the wall with this.}
 {12}{}{Could it be... the corpse! It is the son of gods' corpse!}
 {13}{}{}

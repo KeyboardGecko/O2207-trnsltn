@@ -1,6 +1,6 @@
 #
 #   Messages from perk.c
-#
+# 
 #
 #   PERK NAMES
 #

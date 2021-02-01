@@ -1,21 +1,21 @@
 {100}{}{.223 FMJ}
 {101}{}{A case of standard .223 caliber rifle ammunition.}
 {200}{}{.223 Custom}
-{201}{}{Self-made .223 caliber rifle bullets.}
+{201}{}{Hand-made .223 caliber rifle bullets.}
 {300}{}{.223 AP}
 {301}{}{A case of armor-piercing .223 caliber rifle ammunition.}
 {400}{}{.308 FMJ}
 {401}{}{A case of standard .308 caliber rifle ammunition.}
 {500}{}{.308 Custom}
-{501}{}{Self-made .308 caliber rifle bullets.}
+{501}{}{Hand-made .308 caliber rifle bullets.}
 {600}{}{.38 ACP}
 {601}{}{A case of standard .38 caliber pistol ammunition.}
 {700}{}{.38 Custom}
-{701}{}{Self-made .38 caliber pistol bullets.}
+{701}{}{Hand-made .38 caliber pistol bullets.}
 {800}{}{.45 ACP}
 {801}{}{A case of standard .45 caliber pistol ammunition.}
 {900}{}{.45 Custom}
-{901}{}{Self-made .45 caliber pistol bullets.}
+{901}{}{Hand-made .45 caliber pistol bullets.}
 {1000}{}{.50 BMG}
 {1001}{}{A case of standard .50 caliber heavy machine gun ammunition.}
 {1100}{}{12 ga. Buckshot}
@@ -25,7 +25,7 @@
 {1300}{}{12 ga. Slug}
 {1301}{}{A case of standard 12 gauge shotgun slug cartriges.}
 {1400}{}{12 ga. Custom}
-{1401}{}{Self-made 12 gauge buckshot shells.}
+{1401}{}{Hand-made 12 gauge buckshot shells.}
 {1500}{}{25mm HE}
 {1501}{}{A standard 25mm high explosive grenade.}
 {1600}{}{25mm EMP}
@@ -37,7 +37,7 @@
 {1900}{}{9mm JHP}
 {1901}{}{A case of standard military 9mm pistol ammunition.}
 {2000}{}{9mm Custom}
-{2001}{}{Self-made 9mm pistol bullets.}
+{2001}{}{Hand-made 9mm pistol bullets.}
 {2100}{}{9mm HPS}
 {2101}{}{A case of special anti-personel 9mm pistol ammunition.}
 {2200}{}{9mm AP}
@@ -123,7 +123,7 @@
 {6200}{}{Combat Throwing Knife}
 {6201}{}{A very sharp and balanced knife that is excellent for throwing. You heard that squads of Navy SEALS used them for silent takedowns. Min ST: 4}
 {6300}{}{Throwing Knife}
-{6301}{}{A self-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory made though. Min ST: 3}
+{6301}{}{A Hand-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory made though. Min ST: 3}
 {6400}{}{Combat Knife}
 {6401}{}{A heavy knife with a wide blade to allow for much bloodloss. In the right hands this piece of cold steel can a lot of people! Min ST: 4}
 {6500}{}{Cutting Knife}
@@ -199,7 +199,7 @@
 {10000}{}{Hellbringer}
 {10001}{}{The poetic name of this incendiary monster speaks for itself. With this gun, the smell of burnt meat will stick firmly in your nostrils! Min ST: 9}
 {10100}{}{Festering Flamer}
-{10101}{}{A self-made and rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into the nozzle! Min ST: 9}
+{10101}{}{A Hand-made and rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into the nozzle! Min ST: 9}
 {10200}{}{Gunpoint Magazine}
 {10201}{}{A gun magazine devoted to the practical use of firearms, and the occasional biased review.}
 {10300}{}{Taser}
@@ -275,7 +275,7 @@
 {13800}{}{9mm Pistol}
 {13801}{}{A basic average pistol in 9mm, nothing special about it. Min ST: 4}
 {13900}{}{9mm Revolver}
-{13901}{}{A very basic and self-made 9mm revolver, not very reliable. Min ST: 2}
+{13901}{}{A very basic and Hand-made 9mm revolver, not very reliable. Min ST: 2}
 {14000}{}{Stun Pistol}
 {14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could safe your life. Min ST: 3}
 {14100}{}{Sting}
@@ -390,7 +390,7 @@
 {19501}{}{A rocket launcher for special EMP rockets, designed against robots and electronics. Min ST: 7}
 {19600}{}{Crusader Rocket Launcher}
 {19601}{}{The NCASTR "Crusader" missile launcher fires surface-to-surface rockets, sufficient power and accuracy ensures a high level of target destruction. Min ST: 8}
-{19700}{}{Self-Made Rocket Launcher}
+{19700}{}{Hand-made Rocket Launcher}
 {19701}{}{A short range single shot rocket launcher, basically just a pipe with a trigger mechanism. Be very careful fireing that thing! Min ST: 7}
 {19800}{}{Placeholder Rokcet Launcher}
 {19801}{}{Min ST: 7}
@@ -434,7 +434,7 @@
 {21701}{}{Sharp teeth can easily cut through unprotected flesh, and it flies perfectly! Min ST: 6}
 {21800}{}{Billiard Ball}
 {21801}{}{Old, cracked, but weighty and with good flight characteristics. The ball may not kill anyone, but it will lead to some heavy bruises for sure! Min ST: 2}
-{21900}{}{Self-made Grenade}
+{21900}{}{Hand-made Grenade}
 {21901}{}{A homemade grenade, dangerous for both, the enemy and the thrower. Min ST: 5}
 {22000}{}{Bandages}
 {22001}{}{Inefficient, yet cheap and affordable. Bandages will not reconstitute your severed arm, but they will help you heal a cut.}
@@ -667,7 +667,7 @@
 {33400}{}{X1 Access Card}
 {33401}{}{An electronic access card marked X1.}
 {33500}{}{*Rad-Away*}
-{33501}{}{A blister with a strange, slightly bubbling murky liquid. It is not clear whether this remedy is made in a factory, or self-made, but it is rumored to be an excellent cure for radiation.}
+{33501}{}{A blister with a strange, slightly bubbling murky liquid. It is not clear whether this remedy is made in a factory, or Hand-made, but it is rumored to be an excellent cure for radiation.}
 {33600}{}{Firewood}
 {33601}{}{A huge armful of excellent wooden fuel for a nice cozy fire!}
 {33700}{}{Scorpion Tail}

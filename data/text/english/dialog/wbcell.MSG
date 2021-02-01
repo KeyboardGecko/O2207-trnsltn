@@ -8,23 +8,23 @@
 # Это - камера хранения БАРАКА
 #
 # Описание 1
-{1}{}{Защищенная камера хранения.}
-{2}{}{Похоже, можно получить неслабый удар током, если туда сунуться.}
+{1}{}{Protected storage locker.}
+{2}{}{Looks like you can get electrocuted pretty hard when trying to break in.}
 
 # Описание 2
-{3}{}{Обесточенная камера хранения.}
-{4}{}{Эта камера-ловушка больше не опасна.}
+{3}{}{Depowered storage locker.}
+{4}{}{This storage locker is not dangerous to you anymore.}
 
 # Действия
-{5}{}{Вы не можете ее открыть, тут все под напряжением!}
-{6}{}{Просто так эту штуковину не открыть.}
-{7}{}{Вы тщательно изучили устройство хранилища... но так ничего и не поняли.}
-{8}{}{Видно, что система электро-защиты питается от генератора.}
-{9}{}{Похоже, человек с руками механика без труда отключит эту электро-защиту.}
-{10}{}{Вы должны быть аккуратнее с проводами!}
-{11}{}{Вы получили сильный удар током, но цепь закоротило и защита отключилась!}
-{12}{}{У Вас отлично получилось снять защиту с камеры хранения!}
-{13}{}{Мощным взрывом разнесло на части всю электро-защиту этой камеры.}
+{5}{}{You can't open it just like that, it's electrified!}
+{6}{}{You can't just open up this thing.}
+{7}{}{You thoroughly study the structure... But still don't get it.}
+{8}{}{It seems like the protection system is powered by generator.}
+{9}{}{Looks like someone with a simple skills of mechanic can easily disable this electrical protection.}
+{10}{}{You need to be more careful with the wires!}
+{11}{}{You got electrocuted, but looks like the circuits are shorted out and protection is disabled.}
+{12}{}{You swiftly managed to turn off the protection from storage locker.}
+{13}{}{The electrical protection of this locker was destroyed by a huge blast.}
 {14}{}{}
 {15}{}{}
 {16}{}{}

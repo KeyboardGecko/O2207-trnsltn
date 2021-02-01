@@ -1,5 +1,5 @@
 #
-#   Messages from skilldex.c
+#   Messages from skilldex.c 
 #
 {100}{}{SKILLDEX}
 {101}{}{CANCEL}

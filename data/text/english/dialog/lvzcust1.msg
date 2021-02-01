@@ -4,7 +4,7 @@
 #Структура файла:
 #строки 1-9 - описание персонажа;
 #строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
+#строки 30-99 - пока не знаю, но думаю, что пригодятся... 
 #Далее, по веткам диалога.
 #Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
 #Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
@@ -34,8 +34,8 @@
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 {10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, made by craftsmen from all corners of Radius!}
-{12}{}{Oooh! I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by craftsmen from all corners of Radius!}
+{12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
 {15}{}{Yes, I might need to buy something. Show me your goods.}
@@ -70,7 +70,7 @@
 {1005}{}{Don't bother me, I need to rest...}
 {1006}{}{What else do you need?}
 {1007}{}{[grins]}
-{1008}{}{Leave me be, I have a work to do.}
+{1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
 # Нейтральные сообщения
 {1010}{}{Don't interrupt me, I'm busy.}

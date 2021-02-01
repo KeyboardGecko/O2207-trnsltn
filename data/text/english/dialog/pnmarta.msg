@@ -10,7 +10,7 @@
 #
 #Žˆ‘€ˆ… Šˆ’’…€
 #
-# ¤® §­ ª®¬áâ¢ 
+# ¤® §­ ª®¬áâ¢  
 {1}{}{You see: a skinny woman.}
 {2}{}{She looks very nervous.}
 #

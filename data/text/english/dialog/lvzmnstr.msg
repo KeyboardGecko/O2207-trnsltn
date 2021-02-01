@@ -5,7 +5,7 @@
 #Структура файла:
 #строки 1-9 - описание персонажа;
 #строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
+#строки 30-99 - пока не знаю, но думаю, что пригодятся... 
 #Далее, по веткам диалога.
 #Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
 #Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
@@ -46,7 +46,7 @@
 {18}{}{A rope. I definitely need one here.}
 {19}{}{Umm... I need to put down there something flexible and reliable, so I could climb out when I need to.}
 {20}{}{Uhh.. This hole is an entrance to the cave. If I jump into it - how do I get back?}
-{21}{}{Uhhh... Err... [you have some kind of thought in your head! And now you missed it.]}
+{21}{}{Uhhh... Err... [you have some kind of thought in your head! And now you lost it.]}
 {22}{}{You swiftly fixate the rope with a knot and climb down using it.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)

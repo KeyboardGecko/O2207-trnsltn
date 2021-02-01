@@ -1,6 +1,6 @@
 #
 # Miscellaneous game engine messages.
-#
+# 
 # Defined in game.h
 #
 {0}{}{Are you sure you want to quit?}

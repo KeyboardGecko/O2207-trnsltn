@@ -9,7 +9,7 @@
 #
 # Описание 1
 {1}{}{You see: a strange gravestone with a niche in it.}
-{2}{}{You see: an unusual gravestone.}
+{2}{}{You see: an unusual gravestone.} 
 
 # Подробное описание
 {3}{}{You can't see any inscribings or niche. This looks more like a pedestal.}

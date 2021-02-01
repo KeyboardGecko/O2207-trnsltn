@@ -3,7 +3,7 @@
 #Name: Sunny
 #Short Description: Girl who lost her father in Pearson Town
 #Date of creation: 17.08.2015
-##############################
+############################## 
 #For the game "Olympus 2207"
 #Artem "Rainman" Samoilov
 ##############################

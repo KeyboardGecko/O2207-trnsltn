@@ -23,7 +23,7 @@
 #ˆ‘€ˆ… Šˆ’’…€
 #
 {1}{}{You see: wildling.}
-{2}{}{You see: a savage.}
+{2}{}{You see: a savage.} 
 {3}{}{You see: a strong savage.}
 {4}{}{You see: warrior.}
 {5}{}{You see: a wild one.}

@@ -29,7 +29,7 @@
 {1500}{}{Bull Head}
 {1501}{}{Looks like this head of a lavash is really happy to be canned.}
 {1600}{}{Tires}
-{1601}{}{Tough old tires covered in sand.}
+{1601}{}{Hardened old tires covered in sand.}
 {1700}{}{Pit}
 {1701}{}{A shallow indention in the ground.}
 {1800}{}{Door}

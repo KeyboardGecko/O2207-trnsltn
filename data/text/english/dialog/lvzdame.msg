@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: дама.}
-{2}{}{Вы видите: местная дэйди.}
-{3}{}{Вы видите: пожилая особа.}
-{4}{}{Вы видите: жительница убежища.}
-{5}{}{Вы видите: жительница Лайвос.}
-{6}{}{Почтенного возраста дама с бледной серой кожей.}
-{7}{}{Она всем своим видом показывает, что все остальные люди по сравнению с ней - просто дождевые черви.}
-{8}{}{Надменный вид этой дамы заставляет Вас задуматься о целесообразности вашего пребывания тут.}
-{9}{}{Через рваные дыры в некогда чудесном шелковом платье виднеются морщинистые складки дряблой кожи.}
+{1}{}{You see: lady.}
+{2}{}{You see: local lady.}
+{3}{}{You see: old dame.}
+{4}{}{You see: dweller of the vault.}
+{5}{}{You see: inhabitant of Livos.}
+{6}{}{A woman of venerable age with a pale grey skin.}
+{7}{}{Her look indicates that everyone else in comparison to her are just worms.}
+{8}{}{Contemptuous look of this lady makes you wonder about appropriateness of you being here.}
+{9}{}{Through the holes in fabric of once beautiful silk dress one can see wrinkles of saggy skin.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,43 +46,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Здравствуй, дорогуша!}
-{1001}{}{Доброго дня!}
-{1002}{}{Ох, молодой человек, так приятно видеть вас тут!}
-{1003}{}{Да-да, я тоже рада тебя видеть.}
-{1004}{}{Отличная сегодня погодка, не находите, юноша?}
-{1005}{}{Ох-ох-ох, какой милый юноша!}
-{1006}{}{В былые годы я бы не дала тебе спуску, ковбой! [подмигивает]}
-{1007}{}{Лапочка, для тебя - любая прихоть!}
-{1008}{}{Ах, какое тело! Какой красавчик!}
-{1009}{}{Может встретимся вечерком за бутылочкой шампусика?}
+{1000}{}{Hello, dear!}
+{1001}{}{Good day!}
+{1002}{}{Oh, young man, it's such a pleasure to see you here!}
+{1003}{}{Yes, I'm glad to see you too.}
+{1004}{}{A wonderful weather today, don't you think so, young man?}
+{1005}{}{Oh, such a sweet young man!}
+{1006}{}{In my younger years I would give you a ride, cowboy! [winks]}
+{1007}{}{Sweetie, anything for you!}
+{1008}{}{What a body! What a beautiful man!}
+{1009}{}{Maybe meet me later with a bottle of champagne?}
 # Нейтральные сообщения
-{1010}{}{Молодой человек, не мешайтесь пожалуйста.}
-{1011}{}{А Вы, позвольте узнать, чьего рода будете?}
-{1012}{}{Найди себе какое-нибудь занятие, юноша.}
-{1013}{}{Вы отвлекаете меня своим присутствием.}
-{1014}{}{Н-н-нет, не сего дня.}
-{1015}{}{Уважаемый, извольте болтаться в другом месте.}
-{1016}{}{Я не вижу на Вас фамильного родимого пятна, молодой человек.}
-{1017}{}{Ах-ха-ха, даже не помышляйте об этом!}
-{1018}{}{Просто отойдите от меня на почтенное расстояние.}
-{1019}{}{Я занята. Да. Спасибо.}
+{1010}{}{Young man, do not bother me, be so kind.}
+{1011}{}{Let me kindly ask, what family are you belong to?}
+{1012}{}{Find yourself something to do, young man.}
+{1013}{}{You are distracting me with your presence.}
+{1014}{}{N-no, not on this day.}
+{1015}{}{My dear, be kind to hang out somewhere else.}
+{1016}{}{I can't see a family birth mark on you, young man.}
+{1017}{}{Ahahah, don't even think about it!}
+{1018}{}{Just step away from me to a venerable distance.}
+{1019}{}{I'm busy. Yes. Thank you.}
 # Отрицательные сообщения
-{1020}{}{Аррргх! Я расцарапаю тебе лицо вот этой вилкой!}
-{1021}{}{Я тебя ненавижу, мразь!}
-{1022}{}{Да как ты смеешь!?..}
-{1023}{}{Одним своим присутствием ты поганишь мою жизнь!}
-{1024}{}{Ах ты поганая отрыжка мерзких тварей!}
-{1025}{}{Я бы привязала тебя и медленно разрезала бы ножом на мелкие кусочки!}
-{1026}{}{Сделай услугу миру - отрежь себе яйца!}
-{1027}{}{Беее! Фу! Мерзость поганая! Меня тошнит от тебя!}
-{1028}{}{Козел! Все козлы, но ты... Ты - архикозел!}
-{1029}{}{Мразь! Тварь! Лицемер! Подонок!}
+{1020}{}{Arrrgh! I'm gonna scratch your face out with this fork!}
+{1021}{}{I hate you, scum!}
+{1022}{}{How dare you!?..}
+{1023}{}{You are insulting me just with your presence!}
+{1024}{}{Oh you fucking burp of nasty beast!}
+{1025}{}{I would tie you down and cut you up into a little pieces!}
+{1026}{}{Do a favor to the world by cutting your balls off!}
+{1027}{}{Eeew! Yuck! I feel sick, you filthy abomination!}
+{1028}{}{Asshole! All men are assholes, but you... You are the king of assholes!}
+{1029}{}{Scum! Filth! Jerk! Dirtbag!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
@@ -90,24 +90,24 @@
 {1038}{}{}
 {1039}{}{}
 #официальные сообщения с подиума
-{1040}{}{Считаю, что Хортанам давно пора помириться с МакКинзи! Здесь и сейчас!}
-{1041}{}{Конституция Пятнадцати Прав безнадежно устарела! Ее нужно срочно обновить!}
-{1042}{}{Женщины, как будущие матери новых жителей мира, должны руководить мужчинами!}
-{1043}{}{Нам пора бы уже выбираться на поверхность и заселять землю новой расой!}
-{1044}{}{Мужчины! Будьте уже, наконец, мужчинами и почините водоочиститель!}
-{1045}{}{Может, изберем уже главного? Я бы прекрасно подошла на эту должность.}
-{1046}{}{Предлагаю отменить результаты вчерашней игры в покер! Крыса подглядывала в мои карты!}
-{1047}{}{Предлагаю обнулить Винный Долг. С самого начала это была глупая идея.}
-{1048}{}{Давайте перенесем утренние дебаты на одиннадцать утра. Хоть не так рано вставать...}
-{1049}{}{А кто в последний раз видел нашу чудесную Конституцию? Я записала на ней пару заметок, и забыла, что записала...}
+{1040}{}{I firmly believe that Hortons should make peace with McKinseys! Effective immediately!}
+{1041}{}{The Constitution of Fifteen Rights is hopelessly outdated! It should be rewritten as soon as possible!}
+{1042}{}{Women, as the future mothers of New World inhabitants, should rule over the men!}
+{1043}{}{It's time for us to return to the surface and start populating the Earth with a new race!}
+{1044}{}{Men! Behave like men for once and fix this damn water filter!}
+{1045}{}{Maybe it's time to elect the leader? I fit for the role perfectly.}
+{1046}{}{I suggest to cancel the results of yesterday's poker game! The rat has been peeking into my cards!}
+{1047}{}{I suggest to revoke the Wine Debt. It was a stupid idea to begin with.}
+{1048}{}{Let's push the morning debates to eleven'o'clock. At least we won't have to get up early...}
+{1049}{}{Who have seen our wonderful Constitution? I made a few notes on it and forgot what I wrote...}
 #тихие проклятья про себя
-{1050}{}{Чертовы швайны, считают себя самыми умными.}
-{1051}{}{Эта потаскушка Миньон точно скоро допрыгается.}
-{1052}{}{Эмили не стоило так сильно выступать.}
-{1053}{}{Соуп, дряхлая рохля, позорище Нового Мира.}
-{1054}{}{Какой придурок придумал этот Винный Долг?..}
-{1055}{}{Питер совсем сбрендил со своим отелем.}
-{1056}{}{В следующий раз подсыплю Абилин в вино слабительного. И снотворного.}
-{1057}{}{Фокс, эта мелкая, грязная, пустоголовая шлюшка МакКинзи...}
-{1058}{}{Они поплатятся! Все-е поплатятся за прошлую игру...}
-{1059}{}{Напишу свою Конституцию... Да-да, и не забыть упомянуть блэк-джэк...}
+{1050}{}{Damn Shweins! They think they are the smartest.}
+{1051}{}{This slut Minion is eventually gonna get what's coming to her.}
+{1052}{}{Emily, you didn't have to perform so hard.}
+{1053}{}{Soap is decrepit wuss. He's the shame of a whole New World.}
+{1054}{}{Which crazy person first came up with a Wine Debt?}
+{1055}{}{Peter has completely lost his marbles with his hotel.}
+{1056}{}{Next time I'm going to spike Abelyne's wine with a laxative. And with sleeping pills.}
+{1057}{}{This little dirty empty-headed McKinsey's bitch Fox...}
+{1058}{}{They all gonna pay! They all gonna pay for the last game of poker!}
+{1059}{}{I'll come up with my own Constitution. No, I won't forget about the blackjack part.}

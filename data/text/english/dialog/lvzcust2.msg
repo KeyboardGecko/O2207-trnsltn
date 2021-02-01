@@ -14,7 +14,7 @@
 #это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
 #############################################################
 #Такая организационная система не позволяет создавать слишком сложные диалоги,
-#что для меня лично очень хорошо!!!
+#что для меня лично очень хорошо!!! 
 ############################################################
 #специально для "Олимп 2207", by Rainman, 06/11/2010
 #############################################################
@@ -34,8 +34,8 @@
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 {10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, made by craftsmen from all corners of Radius!}
-{12}{}{Oooh! I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by craftsmen from all corners of Radius!}
+{12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
 {15}{}{Yes, I might need to buy something. Show me your goods.}
@@ -69,7 +69,7 @@
 {1005}{}{Don't bother me, I need to rest...}
 {1006}{}{What else do you need?}
 {1007}{}{[grins]}
-{1008}{}{Leave me be, I have a work to do.}
+{1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
 # Нейтральные сообщения
 {1010}{}{Don't interrupt me, I'm busy.}

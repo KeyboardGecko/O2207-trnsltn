@@ -1,108 +1,101 @@
 ##############################
-#Локация: "Олимп"
-#Имя: Тэйлор
-#Краткое описание: Подающий надежды ученый, разрабатывающий модификации турелей и брони
-#Дата создания: 24.08.2015
+#Location: "Olympus"
+#Name: Taylor
+#Short Description: A budding scientist developing turret and armor modifications
+#Date of creation: 24.08.2015
 ##############################
-#Для игры "Олимп 2207"
-#Артем "Rainman" Самойлов
+#For the game "Olympus 2207"
+#Artem "Rainman" Samoilov
 ##############################
 #
-#ОПИСАНИЕ КРИТТЕРА
+#CRITTER DESCRIPTION
 #
-# до знакомства
-{1}{}{Вы видите: крепкий механик с "горящими" глазами.}
-{2}{}{Его форма испещрена огромным количеством карманов и крепежей для инструментов. Из некоторых торчат чертежи и микросхемы. В руке он сжимает паяльник.}
+# before meeting
+{1}{}{You see: a sturdy mechanic with burning eyes.}
+{2}{}{His clothes are dotted with infinite number of pockets and fasteners for tools, some of them has drawings and microchips sticking out. In his hand he holds the soldering iron.}
 #
-# после знакомства
-{3}{}{Вы видите: Тэйлор.}
-{4}{}{Его форма испещрена огромным количеством карманов и крепежей для инструментов. Из некоторых торчат чертежи и микросхемы. В руке он сжимает паяльник.}
-{5}{}{Приходи через пару дней, я пока анализирую результаты.}
-{6}{}{Пока рано делать выводы, нужны дальнейшие исследования.}
-{7}{}{Результаты полевых испытаний хуже, чем я ожидал...}
-{8}{}{Элемент питания неэффективен. Похоже, я где-то просчитался.}
+# after meeting
+{3}{}{You see: Taylor.}
+{4}{}{His clothes are are dotted with infinite number of pockets and fasteners for tools, some of them has drawings and microchips sticking out. In his hand he holds the soldering iron.}
+{5}{}{Come back in a couple of days, when I'll finish analyzing the results.}
+{6}{}{It is too early to draw conclusions, further research is needed.}
+{7}{}{The field test results are worse than I expected...}
+{8}{}{The battery is ineffective. Looks like I had calculations wrong somewhere.}
 #
-#ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
+#HERE BEGINS A DIALOGUE
 #
 #Node001
-{10}{}{[когда Вы проходили мимо вас окликнул техник в опрятной форме, покрытой доброй сотней карманов и кармашков с различными железяками, чертежами и инструментами. На левой груди красуется нашивка "Тэйлор".] Хей, боец, привет! Ты случайно не по моей заявке пришел?}
-{11}{002}{Да, именно по ней.}
-{12}{003}{Вообще нет, но я готов помочь во внеурочное время за вознаграждение.}
-{13}{999}{Нет, не по ней. И, признаться, я спешу, чтобы сейчас помогать. }
+{10}{}{[this technician is wearing a neat uniform, fully covered with a good hundred pockets and holders, with various pieces of mechanisms, drawings and tools sticking out. The patch on his chest says "Taylor".] Hello there, newbie! Did you happen to come by my request?}
+{11}{002}{Yes, exactly that.}
+{12}{003}{Not at all, but I am willing to help in after-hours for some reward.}
+{13}{999}{No. Frankly speaking, I am in no mood for helping. }
 
 #Node002
-{20}{}{Отлично, а я уж думал, что капитан забил на мой запрос. "Это слишком рискованно и не стоит затраченных усилий". Тьфу, блин, много он понимает в вопросах меча и щита...}
-{21}{004}{"Меча и щита"?}
-{22}{005}{Начало "обнадеживает". Что нужно делать?}
+{20}{}{Great, I thought the captain had it declined. "It's too risky and not worth the effort." Ugh, damn it, he understands nothing in matters of sword and shield...}
+{21}{004}{"Sword and Shield"?}
+{22}{005}{So much for a good beginning. What do you need?}
 
 #Node003
-{30}{}{Ну... что тоже не плохо. Один черт от капитана не дождешься помощи. "Это слишком рискованно и не стоит затраченных усилий". Тьфу, блин, много он понимает в вопросах меча и щита...}
-{31}{004}{"Меча и щита"?}
-{32}{005}{Начало "обнадеживает". Что нужно делать?}
+{30}{}{Well... It's not bad either. The captain provides no help here. "It's too risky and not worth the effort." Ugh, damn it, he understands nothing in matters of sword and shield...}
+{31}{004}{"Sword and Shield"?}
+{32}{005}{So much for a good beginning. What do you need?}
 
 #Node004
-{40}{}{Ну да, я тут курирую вопросы модернизации охранных турелей и железяк, которые ты напялил. Капитан их зовет броней, но на самом деле это платьишки в сравнении с броней, которую мы сможем использовать. }
-{41}{005}{Можете использовать? Ну раз не используете - есть подвох?}
-{42}{005}{Это как я понимаю связано с заявкой. Что делать-то?}
+{40}{}{Well yeah, I'm here to supervise the modernization of security turrets and that chunks of metal you wear. The captain calls it armor, but these are dresses in comparison to what we can actually make.}
+{41}{005}{Can make? There is a catch, isn't it?}
+{42}{005}{This, as I understand it, is related to my application. What do you need me to do?}
 
 #Node005
-{50}{}{Ну, тут-то как раз и кроются подводные камни.}
-{51}{006}{Что такое подводные камни?}
+{50}{}{Well, this is where we have some pitfalls.}
+{51}{006}{What the hell is a pitfall?}
 
 #Node006
-{60}{}{Подвох. }
-{61}{007}{А-а-а...}
+{60}{}{A catch. }
+{61}{007}{Oh...}
 
 #Node007
-{70}{}{Давай-ка я лучше тебе кое-что покажу... }
-{71}{008}{[продолжение]}
+{70}{}{Let me show you something...}
+{71}{008}{[continue]}
 
 #Node008
-{80}{}{[Тэйлор подвел вас к столу с бесформенной кучей, закрытой покрывалом из мешковины. Он откинул брезент, и вашему взгляду открылась боевая броня в очень плохом состоянии. Повреждения от пуль и взрывов, несколько "механических" пробоин, обугленный шлем от взрыва и ряд вмятин от шрапнели] Красота, да? Новая продвинутая броня Луменьеров. Судя по тому, что я знаю - это модернизация версии AS-2000. Если починить - будет намного эффективнее нашей брони Дефендеров!}
-{81}{009}{Пока что это выглядит как груда металлолома.}
-{84}{008}{Ага, да, выглядит многообещающе.}
+{80}{}{[he leads you to the table with a massive shapeless pile on it, covered with a burlap sack. He throws the cower back and you gaze on the full suit of combat armor in a very, very bad condition. It has bullet holes, trace of explosion damage, several mechanically-made holes, a charred helmet, covered with soot and a number of dents from shrapnel] Beauty, isn't it? New advanced Lumenier armor. Judging by what I know, this is an upgrade of the AS-2000 version. If you fix it properly, it will be much more efficient than our Defender armor!}
+{81}{009}{For now it looks like a pile of scrap metal.}
+{84}{008}{Well, yeah, it looks promising.}
 
 #Node008
-{82}{}{[он рассмеялся] Да ладно заливать мне, это просто гора металлолома. Сейчас. Но я знаю как завершить ее подготовку к полевым испытаниям. И тут-то мне нужен ты.}
-{83}{011}{Ну, давай, рассказывай.}
+{82}{}{[he laughs] Come on, it's just a pile of scrap metal. For now. But I know how to make it ready for the field testing. And this is where I need you.}
+{83}{011}{Tell me more.}
 
 #Node009
-{90}{}{Твоя правда. Но я знаю как завершить ее подготовку к полевым испытаниям. И тут-то мне нужен ты.}
-{91}{011}{Ну, давай, рассказывай.}
+{90}{}{Your are completely right. But I know how to make it ready for the field testing. And this is where I need you.}
+{91}{011}{Tell me more.}
 
 #Node010
-{100}{}{Эй, это опять ты. Не желаешь все-таки помочь тому, кто занят тем, что ежедневно повышает твои шансы выжить?}
-{101}{999}{Нет, я просто мимо проходил.}
-{102}{007}{Давай, рассказывай, что там у тебя.}
-{103}{}{Эй, рад тебя видеть! Ну как успехи с поиском сервораспределителя?}
-{104}{999}{Как раз собирался пойти на его поиски.}
-{105}{013}{Вот это ты искал? [показать деталь]}
-
-
-
-
-
-
-
+{100}{}{Hey, it's you again. Don't you still want to help someone who's doing the job of increasing your chances of survival?}
+{101}{999}{No, I was just passing by.}
+{102}{007}{Come on, tell me about what you got here.}
+{103}{}{Hey, nice to see you! Well, how are you search of servo-distributor?}
+{104}{999}{Was just about to go look for it.}
+{105}{013}{Is this what you are looking for? [show the piece]}
 
 
 #Node011
-{110}{}{По моим заявкам собрали почти все необходимое. Часть деталей, к сожалению, придется использовать от брони дефендеров, но с этим я уже смирился, да и доспех больше чем на восемьдесят процентов из оригинальных запчастей, что уже прорыв. Загвоздка в том, что во время последнего рейда мы потеряли слишком много бойцов. Капитан более не санкционирует походы в зону патрулей луменьеров. А мне не хватает только одного элемента - их нового сервораспределителя. [Тэйлор взял со стола поврежденную запчасть] Вот нужна такая деталь. Целая, без повреждений. Такую штуку заменить нечем. Нужна именно такая. Достанешь - с меня будет очень щедрый подарок.}
-{111}{012}{Окей, я попробую, но не обещаю. Дельце выглядит непростым.}
-{112}{012}{Окей, я займусь этим.}
+{110}{}{According to my applications, I collected almost everything needed. Some of the parts, unfortunately, had to be taken from the Defender suit, but I already came to terms with this. And the armor is made more than eighty percent of the original parts, which is already a major breakthrough. The catch is that during the last raid we lost too many people. The captain no longer authorizes operations in the Lumenier patrol zone. And I lack only one part - their new servo-distributor. [Taylor takes the damaged part off the table] Just like this one, but whole, not damaged. There's nothing that can replace such a thing. I need exactly that. If you can get it, you're in for a very generous gift.}
+{111}{012}{Okay, I will do my best, but no promises. A job looks complicated.}
+{112}{012}{Okay, I will do this.}
 
 #Node012
-{120}{}{Отлично! Единственный способ получить сервораспределитель - это выдрать его из модернизированной брони луменьера. Я, конечно, понимаю, что риск велик, и советую тебе быть крайне осторожным! Такой бронекостюм очень хорош, поэтому не удивлюсь, если его носят только лучшие бойцы луменьеров.}
-{121}{999}{Ладно, как будет запчасть - я зайду.}
+{120}{}{Good! The only way to get a servo-distributor is to take it off the upgraded Lumenier armor. Of course, I understand that the risk is pretty great, and I advise you to be extremely careful! This suit is very good, so do not be surprised if it is worn only by the best of Lumenier fighters.}
+{121}{999}{Well then, I will be back with a spare part.}
 
 #Node013
-{130}{}{Отлично! Вот это дело! Скоро наши бойцы станут еще более живучими и все благодаря тебе! Пожалуй, мне стоит об этом упомянуть в рапорте по результатам работ. Правда, для начала нужно собрать тестовый образец и провести полевые испытания. И настало время для награды, так? Подожди часок, ок?}
-{131}{014}{[ждать]}
+{130}{}{Perfect! That's the way to do it! Soon our fighters will become even more tenacious, all thanks to you! Perhaps I should mention this in the report. However, first I need to assemble a prototype model and conduct field tests. Anyway, it's time for a reward, right? Wait for a little.}
+{131}{014}{[wait]}
 
 #Node014
-{140}{}{[Тэйлор вернулся чуть больше чем через час, но улыбался он от уха до уха] Черт, это восхитительно! Пожалуй, я, наконец, перестану ломать голову над броней и переключусь снова на турели. А что касается твоей награды... пойдем.}
-{141}{015}{[следовать за Тэйлором]}
+{140}{}{[Taylor returned a little more than an hour later, he is smiling from ear to ear] Damn, this is amazing! Perhaps I can finally stop puzzling over armors and switch back to the turrets. As for your reward... Let's go.}
+{141}{015}{[follow Taylor]}
 
 #Node015
-{150}{}{[Тэйлор торжественно подводит Вас к столу, где ранее лежали куски брони. Теперь она полностью собрана. Выглядит она и впрямь потрясно] Забирай, друг мой! Я установил компьютер анализа эффективности боевых действий. Походи в ней пару недель и возвращайся. Ну или раньше, если ты частенько попадаешь в заварушки. Я сниму показатели эффективности. Только будь благоразумен - НЕ НАДЕВАЙ КОСТЮМ ВНУТРИ БАШНИ! Ты и сам знаешь, наши солдаты сначала стреляют, а потом все остальное делают. Наслаждайся [инженер похлопал вас по плечу]. А мне пора отдохнуть. }
-{151}{999}{Спасибо. Попробую новую игрушку.}
+{150}{}{[Taylor triumphantly leads you to the table where pieces of armor were previously laid out. Now the suit is fully assembled - and it looks really awesome] Take it, my friend! I installed a combat effectiveness analysis module into it. Wear this for a couple of weeks and come back. Or earlier, if you often find yourself in a mess. I will measure the performance. Just be smart and remember: DO NOT WEAR THIS SUIT INSIDE THE OLYMPUS TOWER! You know that our soldier boys shoot first and ask questions later. [the engineer pats you on the shoulder] Enjoy. I need to rest. }
+{151}{999}{Thank you. I'll go try a new toy.}

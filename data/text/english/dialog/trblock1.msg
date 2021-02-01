@@ -1,1 +1,1 @@
-{100}{}{Черт! Охранники заблокировали проход.}
+{100}{}{Damn it! The guards blocked the passage.}
