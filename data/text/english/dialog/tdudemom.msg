@@ -52,7 +52,7 @@
 {133}{}{I just wanted to see if you were okay!}
 {134}{}{Mo-om, I am bored and don't know what else to do!}
 {140}{}{Oh... yes, I have! Your little brother Kirk played with it a while ago.}
-{141}{}{A-a-ha! The detective-man is on the trail! Thank you, Mom!}
+{141}{}{A-a-ha! The detective is on the trail! Thank you, Mom!}
 {142}{}{Brother again? I'll go and find him.}
 {150}{}{Sonny, you look tired. Do you want to go to bed?}
 {151}{}{Uhh... Yes, I'd like to sleep. I've done so much today.}
@@ -74,18 +74,18 @@
 {181}{}{Great! Tell me more!}
 {182}{}{Yeah, that's great. I feel very sleepy now... [go to bed]}
 {190}{}{Do you think it's good for your sleep, listening about such terrible things in your bedtime? Oh, well, you're a grown boy now, aren't you? There are two caves on either side of us, the Purgatory and the Caves of the Undead. It is said that some servants once escaped to the caves - and terrible things happened to them.}
-{191}{}{What?.. What happened to them?}
+{191}{}{What... What happened to them?}
 {200}{}{No one knows, but they turned into terrible creatures that live in Purgatory, because even the broken earth would not bear them! I think it would be better if these lost ones were thrown into the Mouth of Hades, so they would at least be of help to us in some form... The entrance to the creatures' lair is just outside our room. Don't you ever dare to go there!!!}
 {201}{}{Of course I won't! Tell me more!}
 {202}{}{Of course I won't... [go to bed]}
-{210}{}{I don't know, baby. The Gods must have decided so. Someone has to take care of us, protect us, defend us. Do you think it's easy to be the chosen by the Gods and bear such responsibility?}
+{210}{}{I don't know, baby. The Gods must have decided so. Someone has to take care of us, protect us, defend us. Do you think it's easy to be chosen by the Gods and bear such responsibility?}
 {211}{}{I think so! I want to be one of the children of the Gods!}
 {212}{}{I wouldn't want to be the Son of the Gods...}
 {2201}{}{I don't think it's easy to be one of them. You will have to maintain order, battle hideous monsters... I know I couldn't... And you know how brave I am! [smiles]}
 {2202}{}{You know, I like being an ordinary servant of life. You just do what you're told. And hope for the better. Isn't that great? [smiles]}
 {221}{}{Yes, I understand... But tell me more!}
 {222}{}{Well, yes, I guess. And also I'm very tired now... [go to bed]}
-{2301}{}{Run to see your dad, seems like he had lost something again! [chuckles]}
+{2301}{}{Run to see your dad, seems like he just lost something again! [chuckles]}
 {2302}{}{Okay, then talk to your brother. He's been kind of upset lately and he doesn't want to tell me anything.}
 {2303}{}{I dunno... Have you seen your friend Katie lately? I've heard her mom, Stella, has fallen very ill... Run to see them, maybe they need some help with something?}
 {231}{}{Great, I'll see Dad!}
@@ -116,7 +116,7 @@
 {1016}{}{Not now, honey.}
 {1017}{}{Later, sweetie!}
 {1018}{}{No, later. okay?}
-{1019}{}{[seems like she pays no attention to you]}
+{1019}{}{::she doesn't pay any attention to you::}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß (Îòğèöàòåëüíàÿ ğåàêöèÿ)
 #
@@ -124,12 +124,12 @@
 {1021}{}{Don't even bother until you apologize!}
 {1022}{}{Mommy don't want to talk to bad kids!}
 {1023}{}{You were very naughty!}
-{1024}{}{Bad kid! Mommy is so angry!}
+{1024}{}{Bad kid! Mommy is *SO* angry!}
 {1025}{}{Don't even dare to approach me until you apologize!}
 {1026}{}{Mommy would not talk to bad boys!}
 {1027}{}{Bad kid!}
 {1028}{}{Mommy needs some time to forgive you...}
-{1029}{}{[seems like she's about to explode]}
+{1029}{}{::seems like she's about to explode::}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß (Ñîííûå çâóêè)
 #
