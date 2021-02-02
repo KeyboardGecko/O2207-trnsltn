@@ -28,7 +28,7 @@
 {5}{}{You see: refugee.}
 {6}{}{A skinny exhausted woman, wearing some kind of rags.}
 {7}{}{Old torn clothes barely covers her unnaturally thin body.}
-{8}{}{Judging by a fresh scars on her pale-blue skin, he suffered through a lot lately.}
+{8}{}{Judging by fresh scars on her pale-blue skin, he suffered through a lot lately.}
 {9}{}{One look at her is enough to understand that she went through a lot.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
