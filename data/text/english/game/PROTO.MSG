@@ -128,9 +128,9 @@
 #
 # Look text
 #
-{490}{}{You see: %s.}
-{491}{}{You see a dead: %s.}
-{492}{}{You see the remains of: %s.}
+{490}{}{You see %s.}
+{491}{}{You see a dead %s.}
+{492}{}{You see the remains of %s.}
 {493}{}{You see nothing out of the ordinary.}
 #
 # Examine text
@@ -146,13 +146,13 @@
 {510}{}{AC Mod: %d}
 {511}{}{DR Mod: %d}
 {512}{}{Dmg Mod: %d/%d}
-{518}{}{You look: %s }
+{518}{}{You look %s }
 {519}{}{%s %s }
-{520}{}{You look: %s.}
+{520}{}{You look %s.}
 {521}{}{%s %s.}
-{522}{}{He looks: %s }
-{523}{}{She looks: %s }
-{524}{}{It looks: %s }
+{522}{}{He looks %s }
+{523}{}{She looks %s }
+{524}{}{It looks %s }
 # (note: hps are short for hit-points)
 {525}{}{%s has %d/%d hps.}
 # (note: this is for guns that have ammo)
