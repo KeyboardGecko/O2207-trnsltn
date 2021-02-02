@@ -22,13 +22,13 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: warden.}
-{2}{}{You see: watcher.}
-{3}{}{You see: Son of Gods.}
-{4}{}{You see: guard.}
-{5}{}{You see: guardian.}
-{6}{}{Warden keeping order.}
-{7}{}{Watcher of Tartarus.}
+{1}{}{You see the Warden.}
+{2}{}{You see the Watcher.}
+{3}{}{You see a Son of the Gods.}
+{4}{}{You see a Guard.}
+{5}{}{You see the Guardian.}
+{6}{}{The Warden keeping the order.}
+{7}{}{The Watcher of Tartarus.}
 {8}{}{This man is responsible for keeping order in Tartarus.}
 {9}{}{He is always walking back and forth with a bored look.}
 #
