@@ -11,194 +11,192 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: амбал с мрачной миной.}
-{2}{}{Ему с такой физиономией самое место среди тех, кто хоронит людей.}
+{1}{}{You see: a big guy with a grim face.}
+{2}{}{With the face expression like this he must be very much used to bury people.}
 #
 # после знакомства
-{3}{}{Вы видите: Урсул.}
-{4}{}{Опять ковыряется в своем снаряжении.}
+{3}{}{You see: Ursul.}
+{4}{}{He digs through his inventory again.}
 #
-{5}{}{Прикончим этих медвежат - и на базу.}
-{6}{}{Смотри по сторонам! Урс - опасная добыча.}
-{7}{}{Меньше болтай - больше стреляй.}
-{8}{}{Нет, без добычи мы не вернемся.}
+{5}{}{Let's finish the cubs and return back.}
+{6}{}{Look around you! Ursa is a dangerous prey.}
+{7}{}{Talk less. Shoot more.}
+{8}{}{No, we are not coming back without the prey.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[здоровяк точит нож, периодически проверяя его остроту пальцем. Одет неплохо (по здешним меркам) и хорошо сложен, одной ногой сопирается на размозженый череп огромного зверя]}
-{11}{002}{Привет.}
-{12}{002}{[кашлянуть в кулак]}
-{13}{002}{Эй, здоровяк!}
+{10}{}{[a huge man stands idle, sharping his knife and periodically checking it out with a finger. He's very well-built and dressed quite good either, especially by the local standarts. He has his foot placed on the skull of enormous beast.]}
+{11}{002}{Hello.}
+{12}{002}{[cough silently]}
+{13}{002}{Hey, big guy!}
 
 
-{20}{}{[он оторвался от своего дела и посмотрел на вас. На шее у него болтается ожерелье из разных камушков, гильз и побрякушек. На перекидном патрантаже нашит шеврон "Ангелы Анахейма"] Как звать?}
-{21}{003}{Это имеет значение?}
-{22}{003}{Заноза в жопе.}
-{23}{003}{Меня зовут }
-{24}{003}{. Разве это важно?}
+{20}{}{[He stops what he was doing and looks at you. You notice that he's wearing a necklace made of little stones, empty shells and pieces of glass. On his bandolier you see a patch which reads "Angel of Anaheim"] The name?}
+{21}{003}{Does it matter?}
+{22}{003}{A pain in the ass.}
+{23}{003}{Name's }
+{24}{003}{. How does it matter?}
 
 
-{30}{}{[кажется, он пропустил это мимо своих ушей] Теперь ты никто и звать тебя никак. По крайней мере - ровно до тех пор, пока местные авторитеты не начнут с тобой считаться. Ты новичок. А новички тут долго не живут. }
-{31}{006}{Ну спасибо за "теплый" прием. }
-{32}{005}{Как поучительно. Но мне вообще-то плевать на нравоучение такого старпера как ты.}
-{33}{004}{И что? }
+{30}{}{[Looks like he didn't hear that] Now you are no one. No name. At least, until the local authorities start to show you some respect. You are a newbie. And newbies don't last long here.}
+{31}{006}{Gee, thanks for a warm welcome. }
+{32}{005}{How enlightening. I actually don't care about what the old geezer like you says.}
+{33}{004}{So? }
 
 
-{40}{}{Ничего. Просто чтобы ты понимал что тебя тут ждет. Я Урсул. Хотя я тут не заведую делами новичков, но я частенько их вовлекаю в полезную работу. Так что, возможно, нам будет о чем поговорить.}
-{41}{007}{Ну коль сказал А - говори Б. }
-{42}{999}{Возможно, но не сейчас. Мне пора бежать.}
-{43}{999}{Вряд ли. [конец разговора]}
+{40}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't deal in newbie stuff, I often pull them into doing something useful. So maybe we'll have something to talk about.}
+{41}{007}{Please do continue. I'm intrigued. }
+{42}{999}{Curious, but now I'm busy. I have to go.}
+{43}{999}{I don't think I'm interested. [end of dialogue]}
 
 
-{50}{}{Будь на моем месте любой другой из Псов - тебя бы уже ректально ублажала чья-нибудь бита с гвоздями. [он замолк на несколько мгновений, изучая Вас] Меня зовут Урсул. Могу тебя обеспечить работой, из которой можно вынести как полезные навыки, так и тебя могут оттуда вынести тапками вперед. Если поубавишь петушиного задора, поприбавишь мозгов - заходи. [он вернулся к заточке ножа]}
-{51}{999}{[конец диалога]}
+{50}{}{If there was some other Jackal instead of me here, you would have been already rectally pleased with a nailed bat, or something. [he stops talking, studying you for a moment] I'm Ursul. I can provide you with a job which would kick some experience into you. There's a chance that instead you'll kick be bucket though. When you'll drop your cockfighting attitude and get a little smarter, we can talk details. [he goes back to sharpening the knife]}
+{51}{999}{[end of dialogue]}
 
 
-{60}{}{Это чтобы ты понимал что тебя тут ждет. Я Урсул. Хотя я тут не заведую делами новичков, но иногда у меня есть для них работенка. Так что, возможно, нам будет о чем поговорить.}
-{61}{007}{Ну коль сказал А - говори Б. }
-{62}{999}{Возможно, но не сейчас. Мне пора бежать.}
-{63}{999}{Вряд ли. [конец разговора]}
+{60}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't deal in newbie stuff, I often pull them into doing something useful. So maybe we'll have something to talk about.}
+{61}{007}{Please do continue. I'm intrigued. }
+{62}{999}{Curious, but now I'm busy. I have to go.}
+{63}{999}{I don't think I'm interested. [end of dialogue]}
 
 
-{70}{}{[он не отрываясь от заточки ножа засмеялся] Ты любишь животных?}
-{71}{009}{Что?}
-{72}{008}{Нет.}
-{73}{008}{Да.}
+{70}{}{[He laughs, not stopping the sharpening process] Do you like animals?}
+{71}{009}{What?}
+{72}{008}{No.}
+{73}{008}{Yes.}
 
 
-{80}{}{Впрочем, не важно. [он еще раз усмехнулся] Нужно помочь мне на охоте. Я тебе рекомендую запастись лекарствами, патронами и оружием помощнее. }
-{81}{999}{Я готов, пошли.}
-{82}{011}{Я передумал - не люблю я охоту...}
-{83}{999}{Мне нужно немного времени на подготовку.}
-{84}{013}{Расскажи побольше об охоте.}
+{80}{}{Although, it doesn't really matter. [he smiles again] You'll help me on the hunt. If you're in, I'd recommend to prepare some meds, ammo and get the biggest gun you can. }
+{81}{999}{I'm ready, let's go.}
+{82}{011}{I changed my mind - I don't really like hunting...}
+{83}{999}{I need some time to prepare.}
+{84}{013}{Tell me more about the hunt.}
 
 
-{90}{}{Медвежат любишь? [кивает на тушу рядом]}
-{91}{008}{Чего??}
+{90}{}{Do you like bear cubs? [he nods at a huge carcass near him]}
+{91}{008}{What??}
 
 
-{100}{}{[Урсул кивнул Вам в знак приветствия]}
-{101}{}{Давай, задавай свои вопросы.}
-{102}{}{Хорошая охота была, не так ли?}
-{103}{012}{По поводу помощи тебе, о которой ты говорил...}
-{104}{014}{Ты, кстати, обещал награду за успешный поход.}
-{105}{030}{Ты же наверняка много путешествовал. Может подскажешь где что находится в Радиусе?}
-{106}{034}{А может еще разок на охоту сходим?}
-{107}{999}{Пока, Урсул.}
+{100}{}{[Ursul nods to you.]}
+{101}{}{Ask your questions.}
+{102}{}{It was a good hunt, wasn't it?}
+{103}{012}{About the help you needed...}
+{104}{014}{You promised that there will be a reward.}
+{105}{030}{You should have traveled a lot. Can you point me to some notable locations in Radius?}
+{106}{034}{Maybe we could go hunting again?}
+{107}{999}{Bye, Ursul.}
 
 
 
 
-{110}{}{Тогда не трать мое время.}
-{111}{999}{[закончить диалог]}
-{112}{010}{У меня есть пара вопросов...}
+{110}{}{Stop wasting my time then.}
+{111}{999}{[end of dialogue]}
+{112}{010}{I have some questions...}
 
 
-{120}{}{Да, мне нужно помочь с охотой. И что ты надумал? Готов?}
-{121}{013}{Расскажи побольше об охоте.}
+{120}{}{Yes. I need help on the hunt. Interested?}
+{121}{013}{Tell me more about the hunt.}
 
 
-{130}{}{Я приглядел место, которое в последнее время облюбовали урсы. Задача простая - пойти туда и прикончить их. Потом мы перетащим их тушки в лагерь. Остальное - уже не наша забота. Важно запастись патронами и лекарствами. Если готов - можно выдвигаться. За удачную охоту отсыплю тебе батареек. }
-{131}{999}{Я готов, пошли.}
-{132}{011}{Я передумал - не люблю я охоту...}
-{133}{999}{Мне нужно немного времени на подготовку.}
+{130}{}{I found a place not far away from here, which has been chosen as a lair by the huge pack of Ursa. The goal is simple - travel there and kill them all. After that we'll carry their corpses to the camp. The rest is not our business. If you're in, I'd recommend to prepare some meds, ammo and get the biggest gun you can. If you are ready, we can leave right away. If the hunt is good, you'll get some batteries as a reward. }
+{131}{999}{I'm ready, let's go.}
+{132}{011}{I changed my mind - I don't really like hunting...}
+{133}{999}{I need some time to prepare.}
 
+{140}{}{Sure. Here. [he pulls out a handful of batteries from his pocket and gives it to you] }
+{141}{015}{[count the batteries] 67? Not much, considering the risks taken.}
+{142}{016}{[put the batteries into your pocket]}
 
-{140}{}{Точно. Вот, держи. [он достал из кармана охапку батареек и высыпал их вам на ладони] }
-{141}{015}{[пересчитать батарейки] 67? Маловато будет за то, что я так подставлялся.}
-{142}{016}{[убрать в карман не пересчитывая]}
 
+{150}{}{You got exactly what you deserved. }
+{151}{016}{[grumble]}
+{152}{016}{[be silent]}
 
-{150}{}{Ты получил столько, сколько ты заслужил. }
-{151}{016}{[поворчать]}
-{152}{016}{[промолчать]}
 
+{160}{}{You are not from Radius. Am I right?}
+{161}{017}{What?}
+{162}{017}{How's that?}
+{163}{017}{What do you mean?}
+{164}{018}{Maybe.}
 
-{160}{}{Ты ведь не из Радиуса, так?}
-{161}{017}{Что?}
-{162}{017}{В каком смысле?}
-{163}{017}{Ты о чем?}
-{164}{018}{Может быть.}
 
+{170}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in the way that brings maximum pain an suffering to the target. [he looks at you, waiting for answer]}
+{171}{019}{I'm from the Olympus.}
+{172}{021}{Why do you care?}
+{173}{022}{What if I don't tell you?}
 
-{170}{}{Я не слепой. Ты дерешься не так, как если бы прожил всю жизнь в Радиусе. Такое чувство, что ты взял в руки оружие максимум месяц назад. Вроде бы убиваешь, но нет ловкости и отработанных движений. А в Радиусе даже ребенок знает как разобрать и собрать ружье. А потом как из него выстрелить так, чтобы причинить как можно больше мук и страданий. [он смотрит на Вас, ожидая ответ]}
-{171}{019}{Я из Олимпа.}
-{172}{021}{А тебе-то какая разница?}
-{173}{022}{А если я не скажу?}
 
+{180}{}{Did you come from the Olympus?}
+{181}{024}{[keep silent]}
+{182}{020}{Yes.}
+{183}{023}{How did you know?}
 
-{180}{}{Ты из Олимпа?}
-{181}{024}{[промолчать]}
-{182}{020}{Да.}
-{183}{023}{Как ты догадался?}
 
+{190}{}{From what I know, fighters from the Olympus can give hell to anyone in Radius. You are definitely not one of them.}
+{191}{020}{Because I'm no soldier. I'm a worker.}
 
-{190}{}{Из того, что знаю я - бойцы в Олимпе могут дать прикурить любому в Радиусе. Ты - явно не один из них.}
-{191}{020}{Потому что я не охранник Олимпа. Я работник.}
 
+{200}{}{[he nods]. Once me and my partner stumbled onto someone from the Olympus. Already dead, wearing strange uniform - something with NCASTR logo. My man Fred took it. That's all experience I have about meeting people from the Olympus.}
+{201}{025}{NCASTR, you say? Where can I find Fred?}
 
-{200}{}{[он кивнул]. Я помню вместе со своим напарником сталкивался с одним человеком из Олимпа, уже трупом. На нем была странная форма. С символикой NCASTR. Мой кореш, Фред, забрал шмотки с трупа. На этом мои личные встречи с обитателями Олимпа заканчиваются.}
-{201}{025}{Форма NCASTR? А где сейчас Фред?}
 
+{210}{}{My knowledge helps me to survive.}
+{211}{022}{What if I don't tell you?}
 
-{210}{}{Мои знания помогают мне выжить.}
-{211}{022}{А если я не скажу?}
 
+{220}{}{You'll get the same attitude back.}
+{221}{019}{Olympus. I'm from the Olympus.}
 
-{220}{}{Значит когда-нибудь и я тебе "чего-нибудь" не скажу.}
-{221}{019}{Олимп. Я из Олимпа.}
+{230}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in the way that brings maximum pain an suffering to the target. [he looks at you, waiting for answer]}
+{231}{020}{[continue]}
 
 
-{230}{}{Я не слепой. Ты дерешься не так, как если бы прожил всю жизнь в Радиусе. Такое чувство, что ты взял в руки оружие максимум месяц назад. Вроде бы убиваешь, но нет ловкости и отработанных движений. А в Радиусе даже ребенок знает как разобрать и собрать ружье. А потом как из него выстрелить так, чтобы ты умер в ужасных муках. }
-{231}{020}{[продолжение]}
+{240}{}{I'll take that as a yes.}
+{241}{020}{[continue]}
 
 
-{240}{}{Значит да.}
-{241}{020}{[продолжение]}
+{250}{}{Far away. Why do you care?}
+{251}{026}{I need that uniform.}
 
 
-{250}{}{Далеко отсюда. Тебе-то какое дело?}
-{251}{026}{Мне нужна эта форма из Олимпа.}
+{260}{}{Won't even ask why someone would need the clothes taken off from a corpse. [he pauses for a while, then continues] I'll tell you where to find Fred. But you promise me in return, that you'll make no mention of him to anyone. Not that someone here cares, but still.}
+{261}{027}{Okay.}
 
 
-{260}{}{Даже не хочу спрашивать зачем тебе старые шмотки трупа. [он опять замолчал] Я скажу где сейчас Фред. Но ты пообещаешь мне, что не будешь болтать о нем никому. Он здесь, конечно, никому нафиг не сдался, но мало ли кто-то будет проходить мимо и зайдет на огонек?}
-{261}{027}{Окей.}
+{270}{}{[Ursul stares at you for a couple of moments, then starts to explain how to get to Fred's hideout.] }
+{271}{028}{Great. Thanks.}
+{272}{029}{How the hell Fred managed to wind up so fucking far?}
 
 
-{270}{}{[Урсул посмотрел Вам прямо в глаза несколько мгновений, после чего начал объяснять как добраться до убежища Фреда] }
-{271}{028}{Отлично, спасибо.}
-{272}{029}{И как Фреда занесло в такую жопу?}
+{280}{}{Something else?}
+{281}{010}{Yes, I have a couple of questions.}
+{282}{999}{No, thanks again for the directions.}
 
 
-{280}{}{Еще что-нибудь?}
-{281}{010}{Да, есть пара вопросов.}
-{282}{999}{Нет, спасибо еще раз за наводку.}
+{290}{}{On one of our hunts we wandered off really far - had some troubles catching up to the prey. And came across a mansion. An empty one. There was a skeleton inside, maybe from before the war, but the house itself was untouched. Looks like we were the first ones to find this place in years. We never told about it to anyone. And then Fred laid his eyes on one of our trophy girls. Snuck her out. I advised him to take shelter into that house. As paranoid as he is, he should still be there. Not sure for how long though. }
+{291}{010}{Great, thanks. I have some questions.}
+{292}{999}{Great, thanks. I've got to go.}
 
 
-{290}{}{Мы с ним на очередной охоте забрели довольно далеко - никак не могли нагнать добычу. И нашли дом. Пустой. Был скелет, наверное еще со времен войны сохранился. Сам дом - нетронут. Похоже, мы были первые, кто за все эти годы наткнулся на это укромное место. Про него мы никому не рассказывали. А потом Фред положил глаз на одну из трофейных девочек. Выкрал ее. Я посоветовал ему укрыться в том доме. Зная, какой он параноик - он наверняка еще там. Хотя вряд ли пробудет там долго. }
-{291}{010}{Окей, спасибо. У меня еще пара вопросов.}
-{292}{999}{Окей, спасибо. Мне пора идти.}
+{300}{}{I better know the surrounding wastelands than Radius. I'm a hunter, I hunt on my territory. Was never amused by human settlements. Although, there is one place that every Jackal knows about: Rainbow. Know where it is?}
+{301}{031}{Yes.}
+{302}{032}{No.}
 
 
-{300}{}{Я скорее знаю окрестные пустоши, чем Радиус. Я охотник, который охотится на своей территории. Меня никогда не прельщали людские поселения. Однако, одно место знают все Псы. Радуга. Знаешь где это?}
-{301}{031}{Да.}
-{302}{032}{Нет.}
+{310}{}{Then I won't tell you nothing new.}
+{311}{010}{Okay. I have some more questions.}
+{312}{999}{Okay. I've got to go now.}
 
 
-{310}{}{Тогда ничего нового тебе рассказать не смогу.}
-{311}{010}{Окей. У меня еще пара вопросов.}
-{312}{999}{Окей. Ладно, мне пора идти.}
+{320}{}{Let me show you how to get there...}
+{321}{033}{[continue]}
 
 
-{320}{}{Давай расскажу как туда добраться...}
-{321}{033}{[продолжение]}
+{330}{}{[Ursul explains in details how to get to the Rainbow] The best place if you started to miss tight woman's ass, or just look for having a fun time. }
+{331}{010}{Okay. I have some more questions.}
+{332}{999}{Okay. I've got to go now.}
 
 
-{330}{}{[Урсул подробно объянил Вам путь до Радуги] Лучшее место, если ты соскучился по упргой женской заднице и веселому времяпровождению. }
-{331}{010}{Окей. У меня еще пара вопросов.}
-{332}{999}{Окей. Ладно, мне пора идти.}
-
-
-{340}{}{Пока что нет заказов ни на мясо, ни на шерсть. Ни на что либо еще. У нас не очень хорошо с хранением, поэтому я охочусь тогда, когда запасы подходят к концу.}
-{341}{010}{Окей. У меня еще пара вопросов.}
-{342}{999}{Окей. Ладно, мне пора идти.}
+{340}{}{At the time there are no orders, neither on meat, nor on fur. Nor for anything else. We are not good with long-term storage here, that's why I hunt only when our supplies begin to run dry.}
+{341}{010}{Okay. I have some more questions.}
+{342}{999}{Okay. I've got to go now.}

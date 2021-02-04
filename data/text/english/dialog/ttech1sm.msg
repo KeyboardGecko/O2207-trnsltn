@@ -29,7 +29,7 @@
 {5}{}{You see: a local.}
 {6}{}{A common man, no more, no less.}
 {7}{}{Two arms, two legs, a penis... It's a man!}
-{8}{}{Just some worker in jumpsuit.}
+{8}{}{Just some worker in a jumpsuit.}
 {9}{}{He is busy with something. Or trying to look like it.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ

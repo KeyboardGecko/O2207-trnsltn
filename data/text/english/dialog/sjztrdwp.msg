@@ -24,10 +24,10 @@
 {1}{}{You see: trader.}
 {2}{}{You see: a weapons dealer.}
 {3}{}{You see: merchant.}
-{4}{}{Вы видите: arms-dealing merchant.}
-{5}{}{Вы видите: trader.}
+{4}{}{You see: arms-dealing merchant.}
+{5}{}{You see: trader.}
 {6}{}{A common-looking weapon-selling merchant.}
-{7}{}{Просто торговец оружием.}
+{7}{}{Just an arms dealer.}
 {8}{}{One of Jackals, a weapon trader.}
 {9}{}{One of Jackals. He sells local weaponry.}
 #
