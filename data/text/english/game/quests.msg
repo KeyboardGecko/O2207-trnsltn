@@ -17,7 +17,7 @@
 {202}{}{Gather 10 local residents for Bono's performance.}
 {203}{}{Priestley asks me to bring him a bag of fertilizer for the gardens.}
 {204}{}{Peter asks you to clean the clogged toilet. You need a special tool.}
-{205}{}{You need to find a way to calm baby Lily and put her to sleep.}
+{205}{}{You need to find a way to calm baby Lilly and put her to sleep.}
 {206}{}{Help Joe find his lost wife.}
 {207}{}{Hugo needs a Combatid and 5 Heal-Ups to storm Tartarus.}
 #
@@ -26,11 +26,11 @@
 {300}{}{Carl's machine broke down, he needs spare parts from Chris Murena's warehouse.}
 {301}{}{Search and get hold of an Ultra Repair Kit.}
 {302}{}{Find a rare whetstone for Harry.}
-{303}{}{Go and hunt with Urs, try not to die.}
+{303}{}{Go on hunt with Ursul. Try not to die.}
 {304}{}{Casper initiated a siege against Vince. You need to help Vince.}
 {305}{}{Barker crafts necklaces out of chimera teeth, he needs 3 more.}
 {306}{}{Oswald Brown wouldn't mind to get hold of a rare vintage "Slugger" pistol.}
-{307}{}{Billy Stone wants you to stand guard outside the room while he's with Sheeva.}
+{307}{}{Billy Stone wants you to stand guard outside the room while he's with Shiva.}
 {308}{}{Chris Morena asks to get rid of Kyle and find a replacement for him.}
 #
 # NEW WORLD ORDER Quests
@@ -71,7 +71,7 @@
 {606}{}{The Shepherd asks to deal with Brick, who constantly fucks his whores for free.}
 {607}{}{Naomi asks for help to escape.}
 {608}{}{Lenny doesn't understand why his friend Carl isn't coming back from the dead.}
-{609}{}{Boar asks you to negotiate with the Sunset Jackals about a peace agreement.}
+{609}{}{Hog asks you to negotiate with the Sunset Jackals about a peace agreement.}
 {610}{}{The Shepherd can't handle all the stoned visitors and asks for help.}
 #
 # OAZIS Quests
@@ -82,7 +82,7 @@
 #
 # FREDS HOUSE Quests
 #
-{800}{}{Fred has laid mines all around the house, but forgot where they are. Find and clear at least 5 of them.}
+{800}{}{Fred has laid mines around the house, but forgot where they are. Find and clear at least 5 of them.}
 {801}{}{Fight off the attacking beasts.}
 #
 # OLYMPUS TOWER Quests
