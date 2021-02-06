@@ -11,62 +11,62 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: мужик в облачении мясника.}
-{2}{}{Несмотря на одежку повара, он скорее напоминает пирата из детских книжек.}
+{1}{}{You see a man dressed like butcher.}
+{2}{}{Despite trying to look like local cook, he is more resembling of a pirate from children's books.}
 #
 # после знакомства
-{3}{}{Вы видите: Гарри.}
-{4}{}{Он чешет свою жопу крюком.}
+{3}{}{You see Harry.}
+{4}{}{He scratches his butt with a hook.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[перед вами крупный волосатый мужик с угрюмым лицом. У него вместо руки крюк. Его одежда не отличается особой чистотой, однако в нем легко читается образ шеф-повара. К его фартуку, заляпанному кровью, не хватает только белого колпака]}
-{11}{002}{Привет.}
-{12}{999}{[не начинать разговор]}
+{10}{}{[You see big hairy man with glum expression on his face. He has a hook instead of his hand. His clothes are pretty stained and dirty, but you can easily identify him as a cook by his apron. To complete picture he lacks only a chef's hat.]}
+{11}{002}{Hey.}
+{12}{999}{[don't start the conversation]}
 
 
-{24}{}{Ты кто такой?}
-{20}{003}{Я }
+{24}{}{Who're you?}
+{20}{003}{I'm }
 {21}{003}{. }
-{22}{003}{Билли.}
-{23}{005}{А какая разница? }
+{22}{003}{Billy.}
+{23}{005}{Why does it matter? }
 
 
-{30}{}{Я Гарри. [он почесал подбородок крюком] Разделываю мясо, готовлю. Что ты хотел?}
-{31}{004}{Какой у тебя крутой крюк.}
-{32}{Barter}{Я бы не отказался прикупить еды...}
+{30}{}{I'm Harry. [he scratches his chin with a hook] I mince meat and make food. What do you want?}
+{31}{004}{You have a nice hook there.}
+{32}{Barter}{I wouldn't mind buying some food from you... [barter]}
 
 
-{40}{}{Ага.}
-{41}{010}{Эм... ладно, у меня есть несколько вопросов.}
-{42}{999}{Эм... ладно, я зайду попозже...}
+{40}{}{Yeah.}
+{41}{010}{Uh... Okay, I want to ask something.}
+{42}{999}{Uh... Okay, I'll come back later.}
 
 
-{50}{}{Никакой. Мне действительно насрать. Я все равно в уме буду именовать тебя говном. Что хотел?}
-{51}{010}{Говно? Отлично. Есть пара вопросов, капитан крюк.}
-{52}{999}{Говно? Думаю, это не самое худшее, что я слышал. Ладно, мне пора идти. Было неприятно познакомится.}
+{50}{}{It doesn't. I really don't give a shit. Gonna call you "the feces" in my mind anyway. What do you want?}
+{51}{010}{The feces? Perfect. I have a couple of questions, captain Hook.}
+{52}{999}{The feces? Not the worst thing I've heard. Okay, I've got to go. Was nice meeting you.}
 
 
-{100}{}{Здорово. Что хочешь?}
-{101}{}{Ну спрашивай.}
-{102}{011}{Слушай, у тебя работы нет? Сразу говорю - готовить я не умею.}
-{103}{015}{По поводу твоего камня...}
-{104}{019}{А что с твоей рукой?}
-{106}{Barter}{Я бы не отказался прикупить еды...}
-{107}{999}{Ладно, пока. Мне пора идти.}
+{100}{}{Howdy. What do you want?}
+{101}{}{Ask away.}
+{102}{011}{Listen, do you have some work for me? Must clarify - I'm not good at cooking.}
+{103}{015}{About the whetstone...}
+{104}{019}{What happened to your hand?}
+{106}{Barter}{I wouldn't mind buying some food from you... [barter]}
+{107}{999}{Okay, I've got to go. See you.}
 
 
 
 
-{110}{}{Ты серьезно? Спрашиваешь у повара работу не на кухне? Это дебильно, ты так не считаешь?}
-{111}{012}{Ну, может тебе грохнуть кого надо?}
-{112}{012}{Ну, может тебе посылку отправить надо.}
-{113}{012}{Ну, мало ли.}
+{110}{}{Are you serious? Asking the cook for a job not on a kitchen? Kinda stupid, don't you think?}
+{111}{012}{Well, maybe you need someone to be put down.}
+{112}{012}{Well, maybe you need something delivered.}
+{113}{012}{Well, you know, just asking.}
 
 
-{120}{}{Знаешь, думаю, работенка есть. Правда, нетривиальная. У меня тут... особое отношение к заточке кухонных инструментов. [он опять почесался крюком] Мне нужно достать хороший точильный камень. Не кусок говна, как эти [Гарри махнул рукой на стол, где кучкой лежало несколько камней]. Чтобы ты понимал - вот [он показал в ладони осколок камня]. Мне нужен такой, но целый. }
-{121}{013}{А где искать-то хоть?}
-{122}{014}{Сколько платишь?}
+{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special relationship with a process of sharpening my kitchen tools. [he scratches himself with the hook again] I need a whetstone. A good one, not some piece of shit like that ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand]. I need the one like this, but new. }
+{121}{013}{Where do I look for it?}
+{122}{014}{How much do you pay?}
 {123}{010}{Окей, тогда если подвернется - я загляну к тебе. А сейчас у меня есть пара вопросов.}
 {124}{999}{Окей, тогда если подвернется - я загляну к тебе. Бывай.}
 

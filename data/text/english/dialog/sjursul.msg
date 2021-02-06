@@ -11,11 +11,11 @@
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
 # äî çíàêîìñòâà
-{1}{}{You see: a big guy with a grim face.}
+{1}{}{You see a big guy with grim face.}
 {2}{}{With the face expression like this he must be very much used to bury people.}
 #
 # ïîñëå çíàêîìñòâà
-{3}{}{You see: Ursul.}
+{3}{}{You see Ursul.}
 {4}{}{He digs through his inventory again.}
 #
 {5}{}{Let's finish the cubs and return back.}
@@ -25,7 +25,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[a huge man stands idle, sharping his knife and periodically checking it out with a finger. He's very well-built and dressed quite good either, especially by the local standarts. He has his foot placed on the skull of enormous beast.]}
+{10}{}{[A huge man is sharpening his knife, periodically checking it with a finger. He's very well-built - and dressed quite good either, especially by the local standarts. His foot rests on the skull of enormous beast.]}
 {11}{002}{Hello.}
 {12}{002}{[cough silently]}
 {13}{002}{Hey, big guy!}
@@ -35,13 +35,13 @@
 {21}{003}{Does it matter?}
 {22}{003}{A pain in the ass.}
 {23}{003}{Name's }
-{24}{003}{. How does it matter?}
+{24}{003}{. Why does it matter?}
 
 
-{30}{}{[Looks like he didn't hear that] Now you are no one. No name. At least, until the local authorities start to show you some respect. You are a newbie. And newbies don't last long here.}
+{30}{}{[Looks like he didn't hear that] Now you are no one. No name. At least until the local authorities start to show you some respect. You are a newbie. And newbies don't last long here.}
 {31}{006}{Gee, thanks for a warm welcome. }
 {32}{005}{How enlightening. I actually don't care about what the old geezer like you says.}
-{33}{004}{So? }
+{33}{004}{So what? }
 
 
 {40}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't deal in newbie stuff, I often pull them into doing something useful. So maybe we'll have something to talk about.}
