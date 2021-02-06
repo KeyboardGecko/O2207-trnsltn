@@ -165,7 +165,7 @@
 
 {270}{}{[Ursul stares at you for a couple of moments, then starts to explain how to get to Fred's hideout.] }
 {271}{028}{Great. Thanks.}
-{272}{029}{How the hell Fred managed to wind up so fucking far?}
+{272}{029}{How the hell did Fred manage to wind up so fucking far?}
 
 
 {280}{}{Something else?}
@@ -173,12 +173,12 @@
 {282}{999}{No, thanks again for the directions.}
 
 
-{290}{}{On one of our hunts we wandered off really far - had some troubles catching up to the prey. And came across a mansion. An empty one. There was a skeleton inside, maybe from before the war, but the house itself was untouched. Looks like we were the first ones to find this place in years. We never told about it to anyone. And then Fred laid his eyes on one of our trophy girls. Snuck her out. I advised him to take shelter into that house. As paranoid as he is, he should still be there. Not sure for how long though. }
+{290}{}{On one of our hunts we wandered off - had some troubles catching up to the prey. Came across a mansion. An empty one. There was a skeleton inside, maybe from before the war, but the house itself was untouched. Looks like we were the first ones to find this place in years. We never told about it to anyone. And then Fred laid his eyes on one of our trophy girls. Snuck her out. I advised him to take shelter into that house. As paranoid as he is, he should still be there. Not sure for how long though. }
 {291}{010}{Great, thanks. I have some questions.}
 {292}{999}{Great, thanks. I've got to go.}
 
 
-{300}{}{I better know the surrounding wastelands than Radius. I'm a hunter, I hunt on my territory. Was never amused by human settlements. Although, there is one place that every Jackal knows about: Rainbow. Know where it is?}
+{300}{}{I better know the surrounding wastelands than Radius. I'm a hunter, I hunt on my territory. Was never very amused by human settlements. Although, there is one place that every Jackal knows about: Rainbow. Know where it is?}
 {301}{031}{Yes.}
 {302}{032}{No.}
 
@@ -197,6 +197,6 @@
 {332}{999}{Okay. I've got to go now.}
 
 
-{340}{}{At the time there are no orders, neither on meat, nor on fur. Nor for anything else. We are not good with long-term storage here, that's why I hunt only when our supplies begin to run dry.}
+{340}{}{At the time there are no orders neither for meat, nor for fur. Nor for anything else. We are not good with long-term storage here, that's why I hunt only when our supplies begin to run dry.}
 {341}{010}{Okay. I have some more questions.}
 {342}{999}{Okay. I've got to go now.}
