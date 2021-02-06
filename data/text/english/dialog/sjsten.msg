@@ -11,107 +11,107 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: здоровенный мужик.}
-{2}{}{Его кулак вполне сопоставим с тремя вашими.}
+{1}{}{You see a huge guy.}
+{2}{}{The size of his fist equals to three of yours.}
 #
 # после знакомства
-{3}{}{Вы видите: Стен.}
-{4}{}{Если вы его уделаете голыми руками - вы можете собой гордиться. }
+{3}{}{You see Stan.}
+{4}{}{If you'd manage to beat him with bare hands, you could be proud of yourself. }
 #
-{5}{}{Ваш удар оказался неожиданным для Стена. Вы заставили его пошатнутся, однако он в ярости}
-{6}{}{Ваш удар оказался неожиданным для Стена, однако он даже не скривился. Похоже у этого бугая причиндалы такие же нечувствительные как и мозг.}
-{7}{}{*рычит на Вас*}
-{8}{}{Отвали, а?..}
-{9}{}{Хватит уже, ну! Свали...}
+{5}{}{Your punch was unexpected to Stan. He even fazed for a little - but now he is angered.}
+{6}{}{Your punch was unexpected to Stan, but he didn't even flinch. Looks like the testicles of this ogre are as non-sensitive as his brains.}
+{7}{}{*growls at you*}
+{8}{}{Get off, okay?}
+{9}{}{Come on, enough! Get lost.}
 #
-{16}{}{Время умирать, чмыреныш. [хищно скалится]}
+{16}{}{Time to die, shmuck. [gives you a predatory grin]}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[перед Вами здоровенный мужик. При этом не скажешь, что он намного выше Вас. Просто очень плотно сложен и кулак раза в три больше Вашего. Он напомнил сказку про огров, которую Вам в далеком детстве рассказывала мама, сопровождая страшными рисунками. Лицо у него выглядит довольно неказисто, словно орангутанг решает уравнение. На его кожанке висит древний довоенный бейдж сотрудника супермаркета. На нем выжжено "Стен".]}
-{11}{002}{Э-э-э... привет?}
-{12}{003}{Эй, мужик!}
-{13}{004}{[вы решаете прикинуться "местным"] Здаров, мужик.}
-{14}{005}{[понаблюдать за ним в стороне]}
-{15}{999}{[удалиться не начиная разговор]}
+{10}{}{[you see a giant man. Not much taller than you, but he's very well-built. Also, his fist is as big as three of yours. Looking at him you suddenly remember the tale about a green ogre, which your mother used to tell you before bedtime. His face looks pretty simple - like the one of orangutan solving the equation. You notice a pre-war badge of supermarket employee on his leather jacket. It says "Stan".]}
+{11}{002}{Uh... Hello?}
+{12}{003}{Hey you!}
+{13}{004}{[pose as one of the locals] Hey man.}
+{14}{005}{[observe him from a distance]}
+{15}{999}{[go away, don't start the conversation]}
 
 
-{20}{}{[он презрительно на Вас смотрит] Че те надо, сопля?}
-{21}{010}{Пару вопросов...}
-{22}{999}{Эм... уже ничего...}
+{20}{}{[he gives you a contemptuous look] What do you want, snot?}
+{21}{010}{A couple of questions...}
+{22}{999}{Uh... Nothing...}
 
 
-{30}{}{[громила уставился на Вас. Несколько мгновений он изучал Вас] Че надо?}
-{31}{010}{Да так, есть пара вопросов.}
-{32}{999}{Да так, уже ничего. Покеда.}
+{30}{}{[Thug stares at you with studying look for a couple of moments.] What do you want?}
+{31}{010}{To ask some questions.}
+{32}{999}{Actually, nothing. See ya.}
 
 
-{40}{}{Че те надо? Я тебя не знаю.}
-{41}{010}{Да так, есть пара вопросов.}
-{42}{999}{Да так, уже ничего. Покеда.}
+{40}{}{What do you want? I don't know you.}
+{41}{010}{To ask some questions.}
+{42}{999}{Actually, nothing. See ya.}
 
 
-{50}{}{[в принципе он выглядит не таким уж и страшным. Если его лишний раз не злить, то, вероятно, с ним можно даже нормально общаться. Хотя это наблюдение не добавляет ему мозга]}
-{51}{002}{Э-э-э... привет?}
-{52}{003}{Привет.}
-{53}{004}{[вы решаете прикинуться "местным"] Здаров, мужик.}
-{54}{005}{[понаблюдать за ним в стороне]}
-{55}{999}{[удалиться не начиная разговор]}
+{50}{}{[He actually doesn't look very scary. If not to piss him off, he probably can even be reasoned with. Although, this observation of yours doesn't make him appear smarter.]}
+{51}{002}{Uh... Hello?}
+{52}{003}{Hello.}
+{53}{004}{[pose as one of the locals] Hey man.}
+{54}{005}{[observe him from a distance]}
+{55}{999}{[go away, don't start the conversation]}
 
 
-{100}{}{Че надо?}
-{101}{}{И ну?}
-{102}{011}{Я тут слышал что ты на моего кореша грабли точишь. Смотри, как бы я тебе их не пообломал...}
-{103}{012}{Я тут слыхал что ты собираешься отметелить Винса. Так?}
-{104}{015}{Не расскажешь о себе?}
-{105}{016}{А кто тут рулит?}
-{106}{017}{У тебя мелочи не будет?}
-{107}{018}{Как дела?}
-{108}{019}{А что у тебя с лицом?}
-{109}{999}{Впрочем, в другой раз. Пока.}
+{100}{}{What do you want?}
+{101}{}{So?}
+{102}{011}{I might have heard that you put your evil eye on my mate. Careful, I might poke it out of your eye socket...}
+{103}{012}{I might have heard that you are going to beat up Vince. Is it true?}
+{104}{015}{Care to tell about yourself?}
+{105}{016}{Who's in charge here?}
+{106}{017}{Have some change to spare?}
+{107}{018}{How are you doing?}
+{108}{019}{What's with your face?}
+{109}{999}{Although, maybe we'll talk another time. Later.}
 
 
-{110}{}{Слышь, щегол, следи за базаром. Хочешь впрягаться - иди базарь с Каспером. А будешь дальше в залупу лезть - я тебя на твоих же кишках подвешу на первой попавшейся балке. Усек?}
-{111}{998}{[ударить его в голову]}
-{112}{998}{[ударить его в пах]}
-{113}{999}{[закончить разговор и удалиться]}
+{110}{}{You'd better watch your tongue, lad. Wanna have a talk - go find Casper. And if you'll continue barking at me, I'm gonna hang you by your intestines on the nearest pole. Got it?}
+{111}{998}{[punch him in the face]}
+{112}{998}{[punch him into the groin]}
+{113}{999}{[finish the conversation and go away]}
 
 
-{120}{}{Допустим.}
-{121}{013}{Ну так есть темка такая, слышал краем уха. Говорят, на бой против Винса все поставят на тебя. Слишком очевидная победа. Так Каспер, сука, хочет наварится, базарю тебе. Хочет какую-то подставу тебе подстроить. Чтобы ты слег, а он собрал все сливки. Эта сука хитрожопая...}
-{122}{014}{Есть тема. Наваришься хорошо. Нужно отхерачить Каспера. Устроим свои ставки. А?}
+{120}{}{Maybe. So?}
+{121}{013}{There's some rumor going, as far as I know: everyone's gonna bet on you in your fight with Vince, because the outcome is too obvious. So, that punk-ass bitch Casper wants to make profits of that, I tell you. He wants to set you up, so you'd drop down and he took all the cream. That cunning motherfucker...}
+{122}{014}{There's an idea. A profitable one for you. You need to beat up Casper. We'll make our own bets. Deal?}
 
 
-{130}{}{Че бля? Че?! Где эта сука?! Я его сейчас закопаю! [Стен решительно ушагал в поисках Каспера]}
-{131}{999}{[конец диалога]}
+{130}{}{Fucking what?! Where's that stupid bitch, I'm gonna fuck him up so hard!! [Stan walks away in search of Casper]}
+{131}{999}{[end of dialogue]}
 
 
-{140}{}{Слышь, крысеныш, иди сам его отхерачь. Я потом погляжу как из тебя Крикун все говно выбьет.}
-{141}{010}{О-о-окей... тогда у меня еще вопрос.}
-{142}{999}{Ну и ладно. Сам разберусь.}
+{140}{}{You bitching rat, go try it yourself. I'm gonna stand and watch how Loudmouth will kick the shit out of you.}
+{141}{010}{Oh-kay... Another question then.}
+{142}{999}{Fine. I'll deal with it myself.}
 
 
-{150}{}{Может быть мне еще рассказать о своей юношеской любви? Иди докапывайся со своими тупыми вопросами к кому-нибудь еще. }
-{151}{010}{О-о-окей... тогда у меня еще вопрос.}
-{152}{999}{Ну и ладно. Пойду подокапываюсь...}
+{150}{}{Want me to tell you tales about my adulthood, first love and stuff? Go bother someone else with your fucking stupidity. }
+{151}{010}{Oh-kay... Another question then.}
+{152}{999}{Fine, I'll go...}
 
 
-{160}{}{Ты че, епт? Иди проспись! Сидит в своем лагере и не знает босса? Мля, что за наркоту ты принял?}
-{161}{010}{О-о-окей... тогда у меня еще вопрос.}
-{162}{999}{Э-э-э... надо пойти принять еще.}
+{160}{}{The fuck? Go sleep it off! Sitting in the camp and not remembering who the boss is. What kind of drug are you on?}
+{161}{010}{Oh-kay... Another question then.}
+{162}{999}{Uh, I'll go take some more of it.}
 
 
-{170}{}{[Стен молча показал вам средний палец]}
-{171}{010}{О-о-окей... тогда у меня еще вопрос.}
-{172}{999}{Красноречиво. Ладно, пойду попрошу у кого-нибудь еще.}
+{170}{}{[Stan gives you the finger.]}
+{171}{010}{Oh-kay... Another question then.}
+{172}{999}{How poignant. Okay, I'll go ask someone else.}
 
 
-{180}{}{Нормально. Вчера в рейде убил восьмерых. Один был похож на тебя. Я его черепушку превротил жижу с ломаными костями на асфальте. [Стен улыбнулся]}
-{181}{010}{О-о-окей... тогда у меня еще вопрос.}
-{182}{999}{Чудесно. Я, пожалуй, пойду.}
+{180}{}{It's cool. Yesterday killed eight people in the raid. One of them looked exactly like you. I punched him into the skull until it became a bone-filled puddle of goo on the asphalt. [Stan smiles fondly]}
+{181}{010}{Oh-kay... Another question then.}
+{182}{999}{Wonderful. I'd better go.}
 
 
-{190}{}{Что?}
-{191}{998}{Да рожа у тебя как у обезьяны. И взгляд как у дауна.}
-{192}{010}{Да нет, ничего. Я вот че спросить хотел...}
-{193}{999}{Да не, ничего-ничего. Расслабься. Я, пожалуй, пойду.}
+{190}{}{What?}
+{191}{998}{I just wanted to say that you've got the face of a monkey. And look like retard.}
+{192}{010}{No, nothing. I wanted to ask...}
+{193}{999}{No-no, nothing. Relax. I'd better go.}

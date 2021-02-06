@@ -192,7 +192,7 @@
 {321}{033}{[continue]}
 
 
-{330}{}{[Ursul explains in details how to get to the Rainbow] The best place if you started to miss tight woman's ass, or just look for having a fun time. }
+{330}{}{[Ursul explains in details how to get to the Rainbow] The best place if you started to miss tight woman's ass, or just looking to have a fun time. }
 {331}{010}{Okay. I have some more questions.}
 {332}{999}{Okay. I've got to go now.}
 
