@@ -56,59 +56,57 @@
 {107}{999}{Okay, I've got to go. See you.}
 
 
-
-
-{110}{}{Are you serious? Asking the cook for a job not on a kitchen? Kinda stupid, don't you think?}
+{110}{}{Are you serious? Asking the cook for a job not on a kitchen? Don't you think it's kinda stupid?}
 {111}{012}{Well, maybe you need someone to be put down.}
 {112}{012}{Well, maybe you need something delivered.}
 {113}{012}{Well, you know, just asking.}
 
 
-{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special relationship with a process of sharpening my kitchen tools. [he scratches himself with the hook again] I need a whetstone. A good one, not some piece of shit like that ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand]. I need the one like this, but new. }
+{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special approach to sharpening my kitchen tools. [he scratches himself with the hook again] I need a whetstone. A good one, not some piece of shit like that ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand]. I need the one like this, but new. }
 {121}{013}{Where do I look for it?}
 {122}{014}{How much do you pay?}
-{123}{010}{Окей, тогда если подвернется - я загляну к тебе. А сейчас у меня есть пара вопросов.}
-{124}{999}{Окей, тогда если подвернется - я загляну к тебе. Бывай.}
+{123}{010}{Okay, if I'll come by one, I'll be back. For now I have some questions.}
+{124}{999}{Okay, if I'll come by one, I'll be back. Later.}
 
 
-{130}{}{[задумчиво водит крюком по подбородку] Ну-у... Это же камень, так? А камни бывают во всяких пещерах. Пещеры же состоят из камней, как думаешь?}
-{131}{014}{Ясно. Сколько платишь?}
-{132}{010}{Окей, тогда если подвернется - я загляну к тебе. А сейчас у меня есть пара вопросов.}
-{133}{999}{Окей, тогда если подвернется - я загляну к тебе. Бывай.}
+{130}{}{[He puts hook on his chin with thoughtfull look] Well... It's a stone. The stones can be found in caves. The caves are made out of stones, don't they?}
+{131}{014}{I see. How much do you pay?}
+{132}{010}{Okay, if I'll come by one, I'll be back. For now I have some questions.}
+{133}{999}{Okay, if I'll come by one, I'll be back. Later.}
 
 
-{140}{}{Если камень будет такого качества, как я показал - две сотни. Не больше. Если хочешь поторговаться - иди к торгашам. Не нравятся условия - не я к тебе пришел просить найти мне камень.}
-{141}{013}{Ну, я вообще-то даже спорить не собирался... а где искать то твой камень?}
-{142}{010}{Ну, я вообще-то даже спорить не собирался... ладно, найду - загляну к тебе. А пока у меня есть пара вопросов.}
-{143}{999}{Ну, я вообще-то даже спорить не собирался... ладно, найду - загляну к тебе. Бывай.}
+{140}{}{If the stone is right and the quality is good - two hundred. Wanna haggle? Go to traders. If you don't like my price, remember that it's not me who came asking for work.}
+{141}{013}{I didn't even try to bargain... And where should I look for such stone?}
+{142}{010}{I didn't even try to bargain... Okay, if I'll come by one, I'll be back. For now I have some questions.}
+{143}{999}{I didn't even try to bargain... Okay, if I'll come by one, I'll be back. Later.}
 
 
-{153}{}{Ну?}
-{150}{016}{Достал я твой камень. }
-{151}{017}{Да хотел спросить - может у тебя появились мысли, где достать камень?}
-{152}{018}{Он что, блин, один в этом сраном Радиусе?}
+{153}{}{Well?}
+{150}{016}{I found a whetstone for you. }
+{151}{017}{Yeah, I wanted to ask if you had any thoughs where to look for the stone.}
+{152}{018}{Is there the only one stone left in the whole fucking Radius?}
 
 
-{160}{}{Дай-ка взглянуть... [внимательно рассматривает находку, затем откладывает ее в сторону] Да, похоже это именно то, что мне нужно. Одно но. У меня сейчас не очень хорошо идут дела, поэтому батареек я не смогу тебе отсыпать. Но, у меня есть кое-что даже получше. Один из моих тесаков. Держи. [он снимает с пояса резак и протягивает вам]}
-{161}{010}{[взять награду] У меня еще пара вопросов есть.}
-{162}{999}{[взять награду] Ладно, бывай. Будет работенка - дай знать.}
+{160}{}{Let me see... [he carefully examines the stone you found, then puts it away] Yeah, looks like it's just what I need. I have one problem though. The business is not going great lately, so I'm low on batteries. But I have something better for you - one of my best butcher knives. Here. [he takes off a huge knife from his belt and gives it to you]}
+{161}{010}{[take the reward] I have some other questions.}
+{162}{999}{[take the reward] Great, thanks. If there's something else I can do - just tell me.}
 
 
-{170}{}{Нет. Это все?}
-{171}{010}{У меня еще пара общих вопросов...}
-{172}{999}{Нет, пожалуй, я продолжу поиски.}
+{170}{}{No. Is that it?}
+{171}{010}{I have some other questions to ask...}
+{172}{999}{...I'd better go continue searching.}
 
 
-{180}{}{Вряд ли. Но я бы хрен заплатил, если бы его было легко найти. }
-{181}{010}{У меня еще пара общих вопросов...}
-{182}{999}{Пожалуй, я продолжу поиски.}
+{180}{}{Possibly not. But I would pay you jack shit if it was easy to find. }
+{181}{010}{I have some other questions to ask...}
+{182}{999}{I'll better go continue searching.}
 
 
-{190}{}{А тебе-то какое дело? Хочешь себе такой же крюк? Могу отрубить тебе руку. Крюк сам будешь искать себе.}
-{191}{020}{Я думаю, что я обойдусь как-нибудь сам. }
-{192}{020}{Ага. Смешно, ой не могу. [сказать с кирпичным выражением лица]}
+{190}{}{Why do you care? Want yourself one like that? I can chop off your hand. The hook you'll have to find yourself.}
+{191}{020}{I think I'm fine, thank you. }
+{192}{020}{Hah. You are so funny. [say it with a blank face]}
 
 
-{200}{}{Короче, это не твоего ума дело. }
-{201}{010}{У меня еще пара общих вопросов...}
-{202}{999}{Пожалуй, я пойду.}
+{200}{}{What I meant is this is not of your business. }
+{201}{010}{I have some other questions to ask...}
+{202}{999}{I'd better go.}
