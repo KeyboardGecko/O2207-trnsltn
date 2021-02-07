@@ -11,129 +11,129 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: забитый охранник.}
-{2}{}{Довольно молодой побитый парнишка, для охранника у него какой-то потерянный вид.}
+{1}{}{You see a beaten-up guard.}
+{2}{}{A pretty battered young man. He looks too distracted for a guard.}
 #
 # после знакомства
-{3}{}{Вы видите: Винс.}
-{4}{}{По его лицу видно, что стоять на шлагбауме - не предел его желаний.}
+{3}{}{You see Vince.}
+{4}{}{You can see on his face that guarding the entrance is not something he always desired.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Эй ты! Да-да, ты! Че ты тут ошиваешься? А?}
-{11}{002}{Я... Мне... Нужно попасть к Псам Заката.}
-{12}{003}{Я свой, пропусти.}
-{13}{002}{Мне нужно на вашу базу.}
-{14}{999}{Я? Нет-нет, я ничего, просто случайно тут.}
+{10}{}{Hey you! Yeah, you! What are you sniffing around here? Huh?}
+{11}{002}{I, uh... Me- I need to get to the Sunset Jackals.}
+{12}{003}{I'm one of us, let me in.}
+{13}{002}{I need to enter your base.}
+{14}{999}{Me? No, I just wandered in here by accident.}
 
 {20}{}{Node002}
-{21}{}{Да ты что?! *хохочет* Серьезно что ли!? Вот те на! А я-то думаю, че это я тут жарюсь на солнышке?? А Это оказывается, чтобы всякую шваль к нам на базу пропускать! [вытирает слезы] Вали отсюда, лады? Много тут вас таких, желающих.}
-{22}{004}{Но мне правда нужно...}
-{23}{005}{Хэй, полегче! Я понимаю, но может я смогу войти за небольшую плату?}
-{24}{999}{Окей-окей, я понял.}
+{21}{}{You don't say?! [he laughs] Seriously!? Wow! And I've been thinking, why the hell I spend all my time here, cooking my balls under the sun? Turns out that's to let the scum like you to walk freely into our camp! [he wipes his tears] Get the fuck out, okay? So many of you here...}
+{22}{004}{But I really need to...}
+{23}{005}{Hey, easy! I get it. But maybe I could get a passage for a price?}
+{24}{999}{Okay, understood.}
 
 
-{30}{}{Хмм, что-то я тебя не помню... Хотя, к черту, я ведь и сам тут второй день только... Меня зовут Винс, если че... Ну, окей, можешь проходить.}
-{31}{999}{Спасибо.}
-{32}{999}{Вот и чудненько!}
-{33}{}{Ты меня за лоха держишь, говнюк!? Я те че, реального Пса от всякой швали отличить не смогу? Пшел отсюда, чтоб я тя не видел тут!}
-{34}{999}{Ладно-ладно, я понял! Уже ухожу...}
-{35}{005}{Да я ж тебя просто проверял, ты че в натуре? Слушай, а может, это, за небольшую плату пропустишь?}
-{36}{999}{[уйти]}
+{30}{}{Hmm, I don't remember you... Although, screw that, I'm here for a couple of days myself. Name's Vince, by the way. Okay, you can go in.}
+{31}{999}{Thanks.}
+{32}{999}{Wonderful!}
+{33}{}{Do I look like a pussy to you, shithead!? Do you think I can't tell the real Jackal from some wasteland trash? Fuck you and get outta my sight!}
+{34}{999}{Okay, okay, I get it! I'm leaving...}
+{35}{005}{Don't make a fuss, I was just testing. Listen, maybe you could let me in for a price?}
+{36}{999}{[leave]}
 
 
-{40}{}{Бля, ты че тут сопли распускаешь? *гнусавит* ::Мне пра-а-авда ну-у-ужно-о-о:: Хрррр-тьфу! Понял?}
-{41}{005}{Ну, это... Может, договоримся? За небольшую плату?..}
-{42}{999}{Да понятно...}
+{40}{}{Fuck, are you getting soft on me? [mockingly mimics] ::I reeealie need tooo:: [he spits on the ground] Eat shit!}
+{41}{005}{Well, uh... Maybe we could make a deal? A passage for a price.}
+{42}{999}{Okay, got that...}
 
 
-{50}{}{Заплатить предлагаешь? Ха, да откуда у такого полудохлого нищеброда бабки возьмутся? Ну Ок, предлагаю выбор: или }
-{51}{}{ батареек, или поможешь мне разобраться с одним дельцем...}
-{52}{006}{Вот твои батарейки. Подавись и открывай.}
-{53}{999}{У меня с собой столько нет... Я потом загляну.}
-{54}{007}{Ну так батарейки мне и самому пригодятся! Наверно... Что там за дельце такое?}
+{50}{}{Want to pay your way in, huh? Hahah, do the filthy half-dead rag like you even have the money? Okay, here's the deal: you give me }
+{51}{}{ batteries and I let you pass - or you can instead help me with one delicate matter.}
+{52}{006}{Here are your batteries, you can choke on that. Now open.}
+{53}{999}{I don't have so many... I'll come back later.}
+{54}{007}{I could use the batteries myself. So... What kind of delicate matter?}
 
 
-{60}{}{[удивленно и слегка расстроенно берет Ваши батарейки] А-а, ты смотри-ка... Ну-у, ок, можешь проходить. Ты только там поаккуратнее себя веди, а то Крикун и мне ноги за шею замотает. Если что - меня звать Винсом, загляни потом, как время будет...}
-{61}{999}{Понятно, открывай уже.}
-{62}{010}{Винс, да? Я тут спросить хотел...}
-{63}{999}{Ясно. Конечно.}
+{60}{}{[Looking surprised and a little upset, he takes your batteries] Oh, would you look at that... Well, okay, uh, you can go in. Just be careful, if you fuck something up, Loudmouth will tie my legs around my neck. I'm Vince, by the way. Come by anytime, if you want to talk.}
+{61}{999}{Yes, I get it, open it up already.}
+{62}{010}{Vince, is it? I wanted to ask...}
+{63}{999}{I see. Sure.}
 
 
-{70}{}{Ну так я так и понял сразу, что у тя бабла нет совсем! Глаз - алмаз, а? Ок, бродяга, меня Винсом звать, а тя как величать?}
-{71}{040}{Меня }
-{72}{040}{ зовут. Так что там у тебя стряслось?}
-{73}{040}{Винс, ок. Че за дело-то?}
-{74}{999}{Мне что-то скучно стало. Пойду я отсюда.}
+{70}{}{Just as I suspected, low on cash! I have a pretty good eye, you know. Okay drifter, I'm Vince, what's your name?}
+{71}{040}{I'm }
+{72}{040}{ . What's that deal you wanted to talk about?}
+{73}{040}{Vince, right. What's that matter you mentioned?}
+{74}{999}{I'm bored. I'd better go.}
 
 
-{100}{}{Оп-па, знакомый фейс! Че, братиш, пришел лясы поточить?}
-{101}{}{Ну валяй, спрашивай.}
-{102}{020}{Ты что-то хреново выглядишь...}
-{103}{030}{Может расскажешь, что тут да как?}
-{104}{040}{А ты чего постоянно оглядываешься?}
-{105}{045}{Помнишь, ты просил со Стеном разобраться?}
-{106}{999}{Да я просто пойду уже.}
+{100}{}{Oh, hey, a familiar face! Coming by for a little chat, mate?}
+{101}{}{Sure, ask away.}
+{102}{020}{You don't look so good, you know.}
+{103}{030}{Can you tell me about how things are going here?}
+{104}{040}{Why are you always looking around?}
+{105}{045}{Remember how you asked me to deal with Stan?}
+{106}{999}{I'll better go now.}
 
 
-{200}{}{А-а-а... Ну, знаешь... Я тут сам-то всего пару дней, ну тут - с Псами, а у них порядки очень простые, чуть что - сразу в глаз! Просто ведь спросил, че это мне на шлаге стоять? - и сразу в глаз! А потом по ребрам - НА! Хорошо хоть не убили, а то я уже всякого тут понаслушался.}
-{201}{021}{Значит ты тут недавно? А откуда ты?}
-{202}{022}{Не ной, крепче надо быть! А откуда сам-то?}
-{203}{010}{Ну все понятно. Я еще хотел узнать...}
-{204}{}{Че-то не охота мне тут перед тобой объясняться. Ты и сам вон, не первой свежести.}
-{205}{010}{Ну да, да. Я еще хотел спросить...}
+{200}{}{Oh. Well, you know... I'm actually here for a couple of days myself, I mean - here, with the Jackals. They have a simple way of doing things: if something happens - they start a fight. So I just asked, why should I stand guarding the entrance, and got punched in the face! And then they continued to beat the shit out of me. Good that I'm still alive, I've heard that many ended up worse.}
+{201}{021}{So, you are here recently? Where did you come from?}
+{202}{022}{Don't be a wuss, toughen up! By the way, where are you from?}
+{203}{010}{I see. I wanted to ask another question...}
+{204}{}{I don't really feel like opening up, especially to you. Did you even see yourself? You are more battered than I am.}
+{205}{010}{Well, yeah. I wanted to ask another question...}
 
 
-{210}{}{Какой-то тухлый базар выходит, может ты просто свалишь, а?}
-{211}{010}{Ок, только еще кое-что спрошу.}
-{212}{999}{Ладно, быввай.}
+{210}{}{You talk shit. Maybe you'll just get the hell out?}
+{211}{010}{Okay, but first I wanted to ask another question...}
+{212}{999}{Okay, see you around.}
 
 
-{220}{}{Ты тут поаккуратнее с выраженьями-то, а! Ну да, ты прав, прав, слабаки тут долго не живут... Сколько себя помню, мы с родаками шатались по Руинам, по пустошам, одну ночь в подвале, другую - в пещере, и это вроде как было нормально, но знаешь... Как-то издалека мы видели, как банда Псов на шакалов охотились, с винтовками, пистолетами, такие бесстрашные, сильные. Я тогда и сказал, что чем сдохнуть в какой-нить пещере - лучше тоже стану одним из Псов, смогу за себя постоять. Но родоков отправил подальше от этой базы, больно уж дикие тут понятия.}
-{221}{010}{Ого! Ну ясно, да... У меня еще вопросик.}
+{220}{}{Hey, watch it! Although you're right, the weaklings don't last long, especially here... As far as I can remember, me and my parents had been traveling around the Ruins, through the wasteland, spending nights in caves or in basements of destroyed buildings - and we were used to such life. But one time... One time I watched a group of Jackals hunting down the pack of actual jackals. With guns and rifles, they were so fearless, so strong. That was the moment when I decided - I'd better become one of them and stand for myself than die in some cave. Still, I sent my parents away from the base. The life here is too savage for them.}
+{221}{010}{What a story! I see now. I have another questions.}
 
 
-{300}{}{Так а че рассказывать-то? Я и сам тут пару дней всего... Есть тут Крикун, он типа главный, сидит в штабе и решает, кто прав, а кто виноват. Есть еще Мистер Би, правда он себя зовет как-то, то ли Оскар Браун, то ли Освальд Брикен, ну короче он тут новенькими заведует. А остальных я и не знаю никого. Ты, главное, просто так близко тут ни с кем не трись, а то народ тут нервный, могут и голову оторвать ненароком.}
-{301}{010}{Угу, угу... Можно еще спросить?}
-{302}{999}{Ну ясно, ок. Пойду сам поближе узнаю, что тут да как.}
+{300}{}{What do you want me to tell you? I'm here for a couple of days myself... There's Loudmouth, he's in charge. Sits in his headquerters all day, deciding who's right and who's not. There's mr. B - his actual name is Oscar Brown. Or maybe Oswald Bricken, I don't care. He's in charge for newbs. And mostly that's it, I don't know anyone else. Just remember not to hang around someone for too long, because the folks here are very high-strung and can rip off your head for literally nothing.}
+{301}{010}{I see, I see... Can I ask something else?}
+{302}{999}{I get it, okay. I'll go learn about the situation here.}
 
 
-{400}{}{Бля, до меня тут слушок дошел, что мелкозадый говножуй Каспер подговорил Стена мне жопу надрать... Бля, он всех постоянно подставляет, друг на друга натравляет, а потом устраивает блядь шоу-мордобой, да еще и ставки собирает... Короче, я со Стеном махаться совсем не хочу, хотя уверен, что Каспер ему что-нибудь про меня наплел, но и стоять тут и ждать, пока ко мне сзади подкрадется мускулистый пиздец - мне тоже не улыбается...}
-{401}{041}{И что? Ты хочешь, чтобы я сам с этим Стеном разбирался???}
-{402}{999}{Да ну к черту такие заморочки, я пошел.}
+{400}{}{Ah fuck, well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other, and then makes a fucking kick-ass competition out of it. But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into fight with Stan. I'm sure Casper already told him something stupid, and I don't really want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
+{401}{041}{And? You want ME to deal with Stan??}
+{402}{999}{Oh screw that, I'm outta here.}
 
 
-{410}{}{Я не знаю! Слышь, я просто не хочу, чтобы мне надрали задницу! Сделай что-нибудь, что хочешь - и будет тебе всегда тут день открытых дверей! Ок?}
-{411}{QA}{Ок, я попробую с этим разобраться.}
-{412}{047}{А что такого в том, чтобы самому подраться? }
-{413}{999}{Не знаю, мне нужно подумать.}
+{410}{}{I don't know! I just don't want to have my face beaten up again, you hear me? Do something about it, anything - and there will always be open house here for you. Deal?}
+{411}{QA}{Okay, I'll try to make something out.}
+{412}{047}{Why won't you actually take the fight? }
+{413}{999}{I don't know, I need to think about it.}
 
 
-{415}{}{Отлично, братиша! Ты только это, слишком не затягивай с этим делом, ок?}
-{416}{999}{Не ссы, разберемся.}
+{415}{}{Great, mate! Only, uh, don't take too long, okay?}
+{416}{999}{Don't sweat, we'll figure something out.}
 
 
-{450}{}{Ну конечно епт! Я только этой МЫ-СЭЛЬ-Ю и живу! [нервно лыбится] Так че там с ним?}
-{451}{999}{Работаю над этим, скоро все будет Ок.}
-{452}{046}{Все нормально, Стен тебя не тронет.}
-{453}{}{Бля-я... Издеваешься, да? [показывает на кровоподтеки по всему телу] Знатно он меня отходил... Да я тебе даже дерьмо охранять не доверил бы...}
-{454}{999}{Ну-у, да-а... Затянулось немного с этим... Хорошо, что жив остался... Ладно, бывай...}
+{450}{}{Of course, mate! That's literally the only thingie I can thinkie about [he nervously smiles]. So what about it?}
+{451}{999}{I'm looking into it. Soon everything will be alright.}
+{452}{046}{It's cool now. Stan will leave you alone.}
+{453}{}{F-fuckk... Are you kidding? [he shows you bruises all around his body] He beat me up real good... I won't even trust you with guarding the lavash shit now...}
+{454}{999}{Oh, right... It kinda took longer than expected... Good that you are alive though. Okay then, see ya.}
 
 
-{460}{}{Даже знать не хочу, как ты это сделал, и кому ты это сделал [ржет во всю глотку]. Ок, теперь ты официально - Проверенный, таким наш шлагбаум всегда открыт.}
-{461}{999}{Отлично. Рад был помочь.}
-{462}{999}{Круто. Так и я смог бы стать одним из Псов, а? [подмигнуть и уйти]}
+{460}{}{I don't even want to know to whom and what you did [he hoarsely laughs]. Okay, you are now oficially proven. For such guys, the door is always open.}
+{461}{999}{Nice. Glad to be of help.}
+{462}{999}{Cool. I could even apply for the Jackals, am I right? [wink and leave]}
 
 
-{470}{}{Ты че, прикалываешься? Ты эту громадину видел? Он, как мне кажется, может в одну каску целого лаваша за присест сожрать. Он один раз вмажет - я по пояс в землю войду.}
-{471}{048}{Ну, ты можешь сделать ставку против себя и быстро слить бой. Или наоборот - поставить против Стена и устроить подляну. Думаю, выиграешь даже больше.}
-{472}{049}{Ну ты учитывай, что если ты за себя не постоишь - будешь иметь репутация слабака и чмошника. Тогда тебе даже ворота не доверят. Максимум - выгребные ямы чистить.}
+{470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole lavash single-handedly. If he lands one punch, I'll be in the ground by the waist.}
+{471}{048}{But you can bet agaisnt yourself and take a dive. Or bet against Stan and find a way to set him up. You'll win more than you lose anyway.}
+{472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best case scenario - to clean the toilets. }
 
 
-{480}{}{[Винс задумался. Затем кивнул] Думаю, ты прав. Я разберусь сам. А ты можешь ходить тут сколько хочешь. Ворота открыты для тебя тут всегда.}
-{481}{999}{Отлично. }
+{480}{}{[Vince thinks. Then nods] I think you're right. I'll handle it myself. And you can pass here anytime. The gate is always open.}
+{481}{999}{Great. }
 
 
-{490}{}{Вот поэтому, дубина, я прошу чтобы ты сделал все за меня. Постоять за себя? Отличная шутка. }
-{491}{QA}{Ок, я попробую с этим разобраться.}
-{492}{999}{Не знаю, мне нужно подумать.}
+{490}{}{That's why I'm asking you to deal with this instead of me, you blockhead. Take the fight? Good joke, haha. }
+{491}{QA}{Okay, I'll try to make something out.}
+{492}{999}{I don't know, I need to think about it.}
