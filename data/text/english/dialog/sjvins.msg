@@ -62,7 +62,7 @@
 
 {70}{}{Just as I suspected, low on cash! I have a pretty good eye, you know. Okay drifter, I'm Vince, what's your name?}
 {71}{040}{I'm }
-{72}{040}{ . What's that deal you wanted to talk about?}
+{72}{040}{ . What's that deal you talked about?}
 {73}{040}{Vince, right. What's that matter you mentioned?}
 {74}{999}{I'm bored. I'd better go.}
 
@@ -98,7 +98,7 @@
 {302}{999}{I get it, okay. I'll go learn about the situation here.}
 
 
-{400}{}{Ah fuck, well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other, and then makes a fucking kick-ass competition out of it. But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into fight with Stan. I'm sure Casper already told him something stupid, and I don't really want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
+{400}{}{Ah fuck, well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking kick-ass competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
 {401}{041}{And? You want ME to deal with Stan??}
 {402}{999}{Oh screw that, I'm outta here.}
 
@@ -126,7 +126,7 @@
 
 
 {470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole lavash single-handedly. If he lands one punch, I'll be in the ground by the waist.}
-{471}{048}{But you can bet agaisnt yourself and take a dive. Or bet against Stan and find a way to set him up. You'll win more than you lose anyway.}
+{471}{048}{But you can bet against yourself and take a dive. Or bet against Stan and find a way to set him up. You'll win more than you lose anyway.}
 {472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best case scenario - to clean the toilets. }
 
 
