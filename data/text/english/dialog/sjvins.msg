@@ -98,7 +98,7 @@
 {302}{999}{I get it, okay. I'll go learn about the situation here.}
 
 
-{400}{}{Ah fuck, well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking kick-ass competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
+{400}{}{Ah, fuck, well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking kick-ass competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
 {401}{041}{And? You want ME to deal with Stan??}
 {402}{999}{Oh screw that, I'm outta here.}
 
@@ -120,7 +120,7 @@
 {454}{999}{Oh, right... It kinda took longer than expected... Good that you are alive though. Okay then, see ya.}
 
 
-{460}{}{I don't even want to know to whom and what you did [he hoarsely laughs]. Okay, you are now oficially proven. For such guys, the door is always open.}
+{460}{}{I don't even want to know to whom and what you did [he hoarsely laughs]. Okay, you are now officially proven. For such guys, the door is always open.}
 {461}{999}{Nice. Glad to be of help.}
 {462}{999}{Cool. I could even apply for the Jackals, am I right? [wink and leave]}
 
