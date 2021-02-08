@@ -11,110 +11,110 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: мило улыбающийся мужик.}
-{2}{}{Он внимательно проверяет батарейки перед сделкой. Кусает, слюнявит пальцы и замыкает контакты.}
+{1}{}{You see a man with a cute smile.}
+{2}{}{He checks up his batteries - bites them, licks his fingers and touches the contacts.}
 #
 # после знакомства
-{3}{}{Вы видите: Кайл.}
-{4}{}{Он смотрит на Вас с нежной улыбкой гиены.}
+{3}{}{You see Kyle.}
+{4}{}{He looks at you with a warm smile of hyena.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[перед Вами неопрятный, простой мужик с пустошей. Он может одинаково хорошо вписаться в любое поселение Радиуса] Оп-па, паря, тебе случаем не нужен отличный набор войсковых сухпайков? В прекрасном состоянии, всего 300 батареек. А? Целых двадцать комплектов! Уникальное предложение, делаю только потому, что ты мне брата напомнил.}
-{11}{002}{Нет. }
-{12}{003}{Чего?}
-{13}{004}{Сколько-сколько?}
-{14}{005}{Ага. Всегда мечтал сломать зубы таким экстравагантным способом.}
+{10}{}{[you see a raunchy, simple man from wasteland. He can equally fit in any settlement in Radius] Hey mate, aren't you in need of excellent package of military dry rations! In great condition, only for 300 batteries, the whole 20 packs in a package! Special one-in-a-lifetime offer, only because you reminded me of my brother. Whaddaya say?}
+{11}{002}{No. }
+{12}{003}{What?}
+{13}{004}{HOW MUCH?}
+{14}{005}{Sure. Always dreamed of breaking my teeth in such extravagant way.}
 
 
-{20}{}{[он скривил лицо, но лишь на мгновение] Такие предложения на дороге не валяются. Я Кайл, заведую тут складом. Что-нибудь купить хочешь?}
-{21}{010}{Нет, не хочу. Есть пара вопросов.}
-{22}{010}{Пока нет. Есть пара вопросов.}
-{23}{Barter}{Ладно, давай, показывай.}
+{20}{}{[he wrinkles his face, but only for a moment] This kind of deal you won't find anywhere. I'm Kyle. I'm in charge of this warehouse. Wanna buy something?}
+{21}{010}{No, I don't. I have some questions.}
+{22}{010}{Not now. I have some questions.}
+{23}{Barter}{Okay, show me what you have.}
 
 
-{30}{}{Пайки армейские говорю. Двадцать комплектов всего за тридцать батареек. Спасут тебя от голода в долгой дороге. Главное - не вскрывать сразу... Быстро портятся, знаешь ли, от воздействия воздуха.}
-{31}{002}{Нет. Думаю, перебьюсь.}
+{30}{}{Military dry rations, I said. Twenty packs, fifteen batteries each. Will keep the hunger away in a long road. Just remember not to open every pack right away... They can get spoiled pretty fast, when exposed to air.}
+{31}{002}{No. I think I'm good.}
 
 
-{40}{}{Три сотни.}
-{41}{002}{[заржать]}
-{42}{002}{Нет уж, спасибо.}
+{40}{}{Three hundred.}
+{41}{002}{[laugh]}
+{42}{002}{No, thank you.}
 
 
-{50}{}{Они потрясного качества! Базарю тебе! В любом случае, у меня много чего есть полезного. Хочешь взглянуть?}
-{51}{010}{Нет, не хочу. Есть пара вопросов.}
-{52}{010}{Пока нет. Есть пара вопросов.}
-{53}{Barter}{Ладно, давай, показывай.}
+{50}{}{The quality is top notch, I tell you! Anyway, I have lots of other useful stuff here, wanna look?}
+{51}{010}{No, I don't. I have some questions.}
+{52}{010}{Not now. I have some questions.}
+{53}{Barter}{Okay, show me what you have.}
 
 
-{1001}{}{Ага, вернулся, чтобы закупиться?}
-{1002}{}{Давай быстрее. На болтовне без торговли я не заработаю.}
-{101}{Barter}{Давай взглянем, что у тебя есть.}
-{102}{011}{Слушай, я тут отрыл кое-какую деталь от пистолета. Возможно, у тебя будет недостающая часть? Взгляни.}
-{103}{018}{Хочу спросить о...}
-{104}{019}{Ты знаешь, что Крис хочет тебя убрать?}
-{105}{999}{Впрочем, давай в другой раз.}
-
-
-
-{110}{}{[торгаш внимательно изучает деталь] Да-а, я уже давненько храню барабан от какого-то здоровенного револьвера! Думаю, он как раз подойдет. Две сотни и без разговоров. Штучка редкая и уникальная.}
-{111}{012}{Окей, по рукам.}
-{112}{010}{Мне нужно подумать. Давай пока поговорим о другом.}
-{113}{013}{Слушай, твоя часть только одна из нескольких. Никаких гарантий, что я найду все запчасти. Давай цену сделаем более разумной. Сто пятьдесят. Избавишься от старого хлама и получишь батареек с лихвой.}
-{114}{999}{У меня сейчас столько нет. Вернусь, как разживусь достаточной суммой.}
-
-
-{120}{}{Вот и славно. Вот  твоя запчасть, получай. Еще что-нибудь?}
-{121}{010}{Да, есть пара вопросов.}
-{122}{999}{Нет, спасибо. Пожалуй, я пойду.}
-
-
-{130}{}{Сто восемьдесят. И ни батарейкой меньше.}
-{131}{014}{Сто семьдесят.}
-{132}{013}{Сто шестьдесят.}
-{133}{015}{Сто семьдесят. А ты даешь к запчасти в нагруз вот этот [указываете на лежащий рядом] старый пневматический пистолет.}
-{134}{012}{По рукам.}
-
-
-{140}{}{Лады, уболтал. Держи деталь. Еще что?}
-{141}{010}{Да, есть пара вопросов.}
-{142}{999}{Нет, спасибо. Пожалуй, я пойду.}
-
-
-{150}{}{[бурчит что-то себе под нос] Ты просто старый дядя Йося. Сто семьдесят пять и в нагруз этот пистолет.}
-{151}{017}{Сто семьдесят и в нагруз пистолет. }
-{152}{016}{По рукам.}
-
-
-{160}{}{[забирает у вас батарейки и выдает вам пистолет и барабан для револьвера] Еще что-нибудь?}
-{161}{010}{Да, есть пара вопросов.}
-{162}{999}{Нет, спасибо. Пожалуй, я пойду.}
-
-
-{170}{}{Ты так из меня все жилы вытянешь!}
-{171}{016}{А как по мне - неслыханной щедрости предложение.}
-
-
-{180}{}{Знаешь, мне срать что ты там хочешь спросить. Срать с высокой башни. Вообще пофиг. Либо покупай, либо отваливай. }
-{181}{Barter}{Ладно, давай, показывай.}
-{182}{999}{Да пошел ты с такими манерами. Пойду закуплюсь в другом месте.}
-{183}{999}{[Уйти]}
+{1001}{}{So, you came back to do a little bit of shopping?}
+{1002}{}{Make it quick. I won't make any profits only from talking.}
+{101}{Barter}{Let's see what you have.}
+{102}{011}{Listen, I've recently stumbled onto this pistol part. Here, take a look. Maybe you have other one?}
+{103}{018}{I want to ask about...}
+{104}{019}{Do you know that Chris wants you dead?}
+{105}{999}{Although, let's talk another time.}
 
 
 
-{190}{}{[усмехается] Я знаю слишком много о Крисе. Конечно, он хочет, чтобы правда не вылезла наружу.}
-{191}{020}{Почему он так враждебно настроен?}
-{192}{998}{Да. И Крис нанял меня. Прощай.}
+{110}{}{[trader carefully examines the part] Yeah, I actually have something like this: a drum for some huge revolver! Have been keeping it for quite some time already. The thing is rare, but these should fit together nicely. So - two hundred, no bargain.}
+{111}{012}{Okay, deal.}
+{112}{010}{I need to think about it. Let's talk something else.}
+{113}{013}{Listen, your part is only one of several. There are no guarantees, that I'll manage to find each. Let's make the price more reasonable. One hundred and fifty. You'll get rid of an old junk and make a good profit out of it.}
+{114}{999}{I don't have so many right now. I'll be back.}
+
+
+{120}{}{Great. Here's your part, take it. Anything else?}
+{121}{010}{Yes, I have some questions.}
+{122}{999}{No, thanks. I'll go.}
+
+
+{130}{}{One hundred and eighty. Not a battery more.}
+{131}{014}{One hundred and seventy.}
+{132}{013}{One hundred and sixty.}
+{133}{015}{One hundred and seventy. And you include this one as a spare part [point into an old pneumatic pistol].}
+{134}{012}{Deal.}
+
+
+{140}{}{Okay, I'm convinced. Here's your part. Something else?}
+{141}{010}{Yes, I have some questions.}
+{142}{999}{No, thanks. I'll go.}
+
+
+{150}{}{[quietly mumbles] You are just like that old skinflint uncle Joseph... One hundred and seventy five, and a gun as a spare part.}
+{151}{017}{One hundred and seventy. And a gun as a spare part. }
+{152}{016}{Deal.}
+
+
+{160}{}{[he takes your batteries and gives you drum and gun] Anything else?}
+{161}{010}{Yes, I have some questions.}
+{162}{999}{No, thanks. I'll go.}
+
+
+{170}{}{You are bleeding me dry!}
+{171}{016}{It's an act of outstanding generosity!}
+
+
+{180}{}{You know, I don't give a shit what you want. Shi-et. Don't care. Either buy, or get the hell away. }
+{181}{Barter}{Okay, show me the goods.}
+{182}{999}{You can go eat it with manners like that. I'll go buy in some other place.}
+{183}{999}{[leave]}
+
+
+
+{190}{}{[he makes a laugh] I know too much about Chris. Of course he wants to keep his secrets.}
+{191}{020}{Why is he so hostile towards you?}
+{192}{998}{Yes. And he hired me. Goodbye.}
 
 
 
 
-{200}{}{Крис - чокнутый клептоман, постоянно таскал оружие со склада. Он Крикуну наплел, что нашел чей-то схрон, а это был его собственный тайник! Когда я принимал оружие из этого схрона на склад, я узнал одну винтовку. Ее мне один наркоман за день до этого продал. На ней были выгравированы буквы КСИ. По ним-то я и узнал этот ствол.}
-{203}{021}{Что? Какой еще схрон? Что ты мне тут на уши вешаешь?}
-{201}{998}{Я все равно тебе не верю. Отправляйся в ад!}
-{202}{999}{Хм, я подумаю над этим...}
+{200}{}{Chris is crazed cleptomaniac. He told Loudmouth some tales about finding stash with the guns, while this was, in fact, our own stash! When I did inventory on the new stuff, I recognized one rifle that some junkie sold to me a day before. It had a letters "SFE" engraved on it.}
+{203}{021}{What? What stash? What are you talking about? Are you high?}
+{201}{998}{I don't believe you. Time to die!}
+{202}{999}{Hmm, I'll think about it...}
 
-{210}{}{Ха, не веришь? Мне, честнейшему торговцу!? Ну сходи сам посмотри [показывает Вам на клочке бумаги дорогу к пещере], один хрен там уже давно ничего не осталось.}
-{211}{998}{Угу, проверю... Но ты все равно должен сдохнуть! [схватиться за оружие]}
-{212}{999}{А знаешь, я схожу и проверю. Бывай.}
+{210}{}{Hah, you don't believe me? Me, honest trader?! Go check it yourself, there's nothing left there by now anyway [he gives you a piece of paper with a route to some cave].}
+{211}{998}{Yeah, I'll check... But you should still die! [take out your weapon]}
+{212}{999}{You know, I'll do exactly that. See you later.}
