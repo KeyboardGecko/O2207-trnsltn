@@ -20,7 +20,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[You see big hairy man with glum expression on his face. He has a hook instead of his hand. His clothes are pretty stained and dirty, but you can easily identify him as a cook by his apron. To complete picture he lacks only a chef's hat.]}
+{10}{}{[You see a big hairy man with glum expression on his face. He has a hook instead of his hand. His clothes are pretty stained and dirty, but you can easily identify him as a cook by his apron. To complete picture he lacks only a chef's hat.]}
 {11}{002}{Hey.}
 {12}{999}{[don't start the conversation]}
 

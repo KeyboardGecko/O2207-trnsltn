@@ -310,13 +310,13 @@
 {16100}{}{Shrub}
 {16101}{}{A common desert shrub.}
 {16200}{}{Boat}
-{16201}{}{An old, hal-broken and rusty boat.}
+{16201}{}{An old, half-broken and rusty boat.}
 {16300}{}{Pickup Truck}
 {16301}{}{It was once an excellent vehicle.}
 {16400}{}{Motorcycle}
-{16401}{}{You dream of riding on this, but unfortunately it is broken.}
+{16401}{}{You dream of riding this - but, unfortunately, this one is broken.}
 {16500}{}{Motorcycle}
-{16501}{}{You dream of riding on this, but unfortunately it is broken.}
+{16501}{}{You dream of riding this - but, unfortunately, this one is broken.}
 {16600}{}{Bush}
 {16601}{}{Some desert plant.}
 {16700}{}{Bush}
@@ -324,7 +324,7 @@
 {16800}{}{Bush}
 {16801}{}{Some desert plant.}
 {16900}{}{Motorcycle}
-{16901}{}{You dream of riding on this, but unfortunately it is broken.}
+{16901}{}{You dream of riding this - but, unfortunately, this one is broken.}
 {17000}{}{Flag}
 {17001}{}{The old flag of the USA.}
 {17100}{}{Jukebox}
