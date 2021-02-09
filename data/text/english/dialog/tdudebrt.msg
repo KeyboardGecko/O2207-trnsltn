@@ -24,13 +24,13 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Братишка.}
-{2}{}{Это Кирк, Ваш несносный брательник.}
+{1}{}{You see your little brother.}
+{2}{}{Kirk, your obnoxious brother.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Братишка.}
-{4}{}{Это Кирк, Ваш несносный братец.}
+{1}{}{You see Kirk.}
+{2}{}{Kirk, your obnoxious brother.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
@@ -47,47 +47,47 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Привет! Чего тебе?}
-{101}{}{А тебе чего? Ну вот и все!}
-{102}{}{Привет! Да так, не знаю, чем бы заняться.}
-{103}{}{А ты чего такой нервный?}
-{104}{}{Слушай, ты папин ключ не видел?}
-{105}{}{Знаю, у тебя были проблемы с тем дебилом. С Булли!}
-{1101}{}{Да я сам не знаю. Хочешь, вместе камни попинаем?}
-{1102}{}{Ну-у. Я, конечно, к тебе не лезу, да и вообще мне пофигу, но я тут недавно видел Кэтти, так она... ревела! Ты ж ее жених, может, у нее чего серьезное случилось.}
-{111}{}{Да ну тебя, неинтересно.}
-{112}{}{И никакой я не жених! Но ты прав, пойду ее поищу.}
-{120}{}{Не знаю, что делать. Помнишь нашего дебила и переростка - Булли? Ну тот, в косухе без рукавов, что в юго-восточной комнате шатается? Так вот, я случайно в него камнем попал, так он обещал меня побить. Бли-и-и-н, мне хана!}
-{121}{}{Да, брательник, тебе хана. Расскажешь потом, как все прошло!}
-{122}{}{Блинский блин, он же такой здоровый. Пойду подумаю, что сделать можно.}
-{123}{}{Не ссы, я с ним разберусь!}
-{124}{}{Так в чем проблема? Давай вместе ему наваляем! Нас же двое, а он - один! Пошли!}
-{130}{}{Держи меня в курсе, ок? И... Это... Спасибо.}
-{131}{}{[махнуть рукой, уйти]}
-{132}{}{Ну ты ж мой брат! Бывай!}
-{140}{}{Спрашиваешь! Конечно помню. И что думаешь делать?}
-{141}{}{Так вот, пока еще думаю.}
-{142}{}{Проблема решена! Можешь больше не париться!}
-{143}{}{Я тут вот что придумал: давай вместе ему наваляем! Нас же двое, а он - один! Пошли!}
-{150}{}{Во-от спаси-ибо! Я - твой должник!}
-{151}{}{Конечно! Однажды я тебе об этом напомню!}
-{152}{}{Да ладно, забей.}
-{1601}{}{А? Что? Блин, да какой нафиг ключ!? Не видел я ничего, спроси лучше у Кэтти, подружки свой, а ко мне не приставай.}
-{1602}{}{Ключ? такой маленький с деревянной ручкой? Конечно видел! Недели две назад, у папы. ::смеется:: не знаю, куда он его дел. Может, у своей подружки, у Кэтти спросишь?}
-{161}{}{Да ладно тебе! Чего так завелся? Скажи лучше, где сейчас Кэтти?}
-{162}{}{Ну ты умник, блин... А где сейчас Кэтти?}
-{170}{}{Так у себя, наверное, в северо-восточной комнате. Тебе ли не знать!?}
-{171}{}{Ладно, пойду навещу ее.}
-{172}{}{Ладно, спрошу у нее. А с тобой-то что не так?}
-{1801}{}{Эээ... Не-ет, я с ним драться не буду! Да и тебе, если че, не советую!}
-{181}{}{Аай, зассыха!}
-{182}{}{Ну-у, может, ты и прав.}
-{1802}{}{Эээ... Ну, давай попробуем. Только, ты вперед!}
-{183}{}{Знаешь, давай-ка попозже! Смотри, не передумай!}
-{184}{}{Айда!}
-{190}{}{Ну идем уже к дебилу! А то мне с каждой секундой все страшнее становится.}
-{191}{}{Идем-идем, расслабься.}
-{192}{}{Ты же девчонка! Хотя, мне и самому не по себе. Пошли!}
+{100}{}{Hi! What do you want?}
+{101}{}{What do I want? Well, I'm out!}
+{102}{}{Hi! I don't know what to do.}
+{103}{}{Why are you so nervous?}
+{104}{}{Hey, have you seen Dad's Wrench?}
+{105}{}{I know you got in trouble with that big moron, that Bully!}
+{1101}{}{Dunno either. Wanna kick some rocks around?}
+{1102}{}{Wee-ell, I don't mean to pry or give a damn, but I saw your icky-sweety girlfriend Katie bawling around here the other day. Guess something really upset her.}
+{111}{}{Oh, come on, that's not fun.}
+{112}{}{I'm not her boyfriend! But you're right, I'll go look for her.}
+{120}{}{Dunno what to do. Remember the big hunky moron Bully? You know, the one in the leather jacket that's hanging around the southeast room? So, I accidentally hit him with a rock, and he promised to beat me. Geez... I don't care!}
+{121}{}{Yeah, you're in trouble. You can tell me later how it went!}
+{122}{}{That son of a bitch! I'll knock out that big lump for you!}
+{123}{}{Don't fuss, I'll deal with him!}
+{124}{}{So what's the problem? Let's give him a hard time together! There are two of us, and he is alone! Let's go!}
+{130}{}{Keep me posted, OK? And... ehm... thanks.}
+{131}{}{[wave and leave]}
+{132}{}{Well, you are my brother!It happens!}
+{140}{}{So you know. And? What are you going to do about it?}
+{141}{}{Well, I'm still thinking about it.}
+{142}{}{Problem solved! You don't have to worry about it anymore!}
+{143}{}{Here's what I've come up with: Let's give him a hard time together! There are two of us, and he is alone! Let's go!}
+{150}{}{You're a life saver! I ower you one!}
+{151}{}{Sure! And I'll remind you of it one day!}
+{152}{}{Ah come on, forget about it.}
+{1601}{}{Huh? No? What effing wrench? I didn't see anything, so better ask your girlfriend Katie and stop bothering me.}
+{1602}{}{A wrench? About this size with a wooden grip? Of course I did! Two weeks ago in Dad's hand [laughs] I don't know where he put it, why don't you ask your sweetie Katie?}
+{161}{}{Come on! Why are you getting so worked up? Where is Katie now?}
+{162}{}{You're a fucking smartass... Where is Katie now?}
+{170}{}{Probably at home in the northeastern quarter. Don't you know?}
+{171}{}{Okay, I'll go see her.}
+{172}{}{Okay, I'll ask her. What's wrong with you?}
+{1801}{}{Uhh... no, I won't fight him! Don't think you should, either!}
+{181}{}{What a scared little chicken!}
+{182}{}{Well, maybe you're right.}
+{1802}{}{Uhh... Okay, let's try it. But... you go ahead!}
+{183}{}{Know what? I'll be back. But don't you change your mind!}
+{184}{}{Let's go!}
+{190}{}{Well, let's go and get him then. The longer we wait the more scared you become.}
+{191}{}{Okay, come on, relax.}
+{192}{}{You're a girl! I don't feel comfortable myself, though. Let's go!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
@@ -130,7 +130,7 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Супер! Мы его уделали!}
+{1030}{}{Niiiice! We got him!}
 {1031}{}{}
 {1032}{}{}
 {1033}{}{}
