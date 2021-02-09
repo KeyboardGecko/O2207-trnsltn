@@ -596,7 +596,7 @@
 {30900}{}{Toilet}
 {30901}{}{Whoever used it last didn't flush it away!}
 {31000}{}{Junk}
-{31001}{}{Pieces of wood, boxes and pther debris.}
+{31001}{}{Pieces of wood, boxes and other debris.}
 {31100}{}{Junk}
 {31101}{}{Even if you look at it more closely, you will not find anything of value.}
 {31200}{}{Junk}
