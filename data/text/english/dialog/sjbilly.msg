@@ -16,83 +16,83 @@
 #
 # после знакомства
 {3}{}{You see Billy.}
-{4}{}{A fearsome chief of Jackals workshop.}
+{4}{}{A fearsome chief of the Jackals workshops.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[В его роскошной рыжей бороде застряли металлическая стружка и опилки, но, со своими кустарно набитыми шестеренками и черепами на мускулистых руках и рассекающим лоб багровым шрамом, он не особо смахивает на работягу. Когда он оборачивается, чтобы выбить зубы случайно налетевшему на него рейдеру, вы замечаете вышитое  проволокой на куртке "Билли"] Ты еще откуда здесь нарисовался? [Смеряет вас презрительным взглядом] Со всего Радиуса дерьмо к нам стекается... Какого хрена без дела тут шатаешься?}
-{11}{011}{I'm just looking around. You guys here definitely have a way with organizing things. Your doing?}
-{12}{014}{Ты поосторожнее с выражениями, а то как бы самому дерьмо жрать не пришлось.}
-{13}{015}{Ищу возможность сшибить монету. Для вольного наемника найдется работенка? }
-{14}{999}{Уже ухожу, спокойно!}
+{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. With his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly look like a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are *you*? [he glares] There's shit from all over the Radius... Why the fuck are you hanging around here?}
+{11}{011}{I'm just looking around. You guys definitely have a way with organizing things. Your doing?}
+{12}{014}{You'd better watch your mouth - or there is a possibility that you are going to eat shit.}
+{13}{015}{I'm looking for a quick buck. Have something for a hired gun? }
+{14}{999}{Easy! I'm leaving.}
 
 
-{1001}{}{[С видимым отвращением копается в неком шестеренчатом механизме] Не, пусть Карл с этой хреновиной раскидывается... [Небрежно кидает свою работу на землю и наконец обращает внимание на вас] Снова ты? Чего-то больно часто ты тут отираешься, мне это не нравится...}
-{101}{011}{А сам-то ты, кстати, чем тут занят?}
-{102}{014}{А мне не нравится твой рыжий веник. Хочу подпалить его и глянуть, как ты будешь бегать кругами. И что с того?}
-{103}{015}{Хотел узнать, нет ли у тебя какого дела для меня.}
-{104}{999}{Тогда я ухожу.}
-{1002}{}{[Поправляет широкий ремень на массивном брюхе и кивает вам] Что, не надумал еще к Псам присоединиться? Я бы для тебя нашел место... А, может,  сходим и эту Шиву на двоих распишем? }
-{105}{011}{Занятное предложение... Но ты же, вроде, пока здесь не все держишь? Или что изменилось?}
-{106}{999}{Пожалуй, нет. У меня и так дел по горло. Еще увидимся, Билли.}
-{1003}{}{[Перед Билли криво нарисованная карта некоего района Радиуса. Нахмурив кустистые брови, он сосредоточенно водит по ней пальцем с вырванным когда-то ногтем.] Здесь у них посты... А вот тут можно и проскочить... [Машет вам рукой] Эй, подваливай поближе! Ты же по Радиусу шатался много, может, подскажешь чего?}
-{107}{018}{Это смотря что ты узнать хочешь...}
-{108}{020}{Ну не так уж и много, на самом деле... Как у вас обстановка, кстати? Что-то все больно суетятся.}
-{109}{999}{Э... Я чуть позже вернусь - только закончу одно дельце, ок?}
+{1001}{}{[Clearly disgusted, he rams through some geared mechanism] Hrrrm... No, let Carl handle this shit. [Drops it on the ground. His eyes meet you] You again? You come in here a lot. I don't like it...}
+{101}{011}{By the way, what it is that you do here, exactly?}
+{102}{014}{And I don't like this ginger broom on your face. I wouldn't mind setting it on fire to watch you run around. So?}
+{103}{015}{I wanted to ask if there's something you want me to do.}
+{104}{999}{Then I'm leaving.}
+{1002}{}{[he adjusts wide belt on his massive belly and nods to you] Have you considered joining the Jackals yet? I have a position here reserved just for you... Maybe we'll go to Shiva together, make a party for three? }
+{105}{011}{What an interesting proposition... But, as I recall, you are still not completely in charge here, right? Or something has changed?}
+{106}{999}{No, thanks. I have a lot on my plate already. See you around, Billy.}
+{1003}{}{[Billy is inspecting a map before him. It crudely depicts some area of Radius. Frowning his bushy eyebrows, he is deeply focused on moving his thick finger around it.] Here are the guards... And here we may be able to pull through... [he waves at you] Hey, come here! You've traveled a lot around Raduis, right? Maybe you could be of help.}
+{107}{018}{It depends of what do you want to know...}
+{108}{020}{Not a whole lot, actually... What's going on here, by the way? Everybody's on their toes.}
+{109}{999}{Uh... I'll be back later - need to finish one thing, okay?}
 
 
-{110}{}{[Раздраженно дергает себя за бороду] Я тут пока мастерскими заведую. Но это только пока. Тоже мне дело  - ковыряться в барахле всяком... Настоящий мужик должен жить войной! Так что даже не вздумай мне мозги парить насчет ремонта и прочей херни. Если что - Карл тебе в помощь, он у нас мастак. А мне и так хватает головняков со свежим мясом вроде тебя.}
-{111}{012}{Ну, наверное, ваш вожак знает, кого и куда поставить рулить процессом?}
-{112}{013}{Если ты тут вновь прибывших встречаешь - не расскажешь, что тут у вас и как?}
-{113}{015}{Со мной проблем не будет. Можешь проверить меня в деле.}
-{114}{999}{Тогда не буду тебе мешать. Еще увидимся.}
+{110}{}{[he irritably pulls his beard] I'm in charge for workshops here. For now. What a low thing to do, dig around trash heaps... A real man lives only by battle! So don't even think of pestering me about repairing stuff and shit. Ask Carl about that, he's into it. I already have enough problems here, dealing with fresh meat like you.}
+{111}{012}{Well, I guess your boss knows better who to put in charge and where?}
+{112}{013}{If you are meeting the newcomers here, can you tell me how are the things around?}
+{113}{015}{I won't be a problem. You can put me to the test.}
+{114}{999}{Then I won't be distracting you. See ya.}
 
 
-{120}{}{[Видно, что вы задели его за живое] Да как же! Вот Шакал, отец его, был реально серьезным парнем. Еслиб не отъехал - Олимп уже наш был бы... А Крикун только и может, что жути нагонять на всех и... [Обрывает себя на полуслове] В общем, это не твое дело. Потом сам разницу увидишь, когда правильный человек Псов возглавит...}
-{121}{013}{Кстати, о Псах - не расскажешь, что тут у вас и как?}
-{122}{015}{Ок, понятно. Тогда не скажешь - работы какой для меня не найдется?}
-{123}{999}{Ясно. Ну, мне пора.}
+{120}{}{[It seems that your words triggered him] Like hell he is! The Jackal, his father - that's who was the real deal. I he hadn't kicked the bucket, we would have already took over the Olympus itself... All the Loudmouth does is screams around, spooking everyone nearby... [he interrupts himself] What I mean it's not you business. You'll see the change. When power here will change...}
+{121}{013}{By the way, about Jackals - can you tell me how are the things around?}
+{122}{015}{Okay, I see. Another question then - do you have something for me to do?}
+{123}{999}{Got it. Okay, I need to go.}
 
 
-{130}{}{А ты сам-то не видишь? Мы  самая бешенная стая Радиуса! Пусть у олимповских гнид бронь и оружие получше, а у радужных педиков больше батареек в кармане - мы их всех в крови утопим! Главное в бою - жажда смерти и готовность выгрызть врагу все рыло зубами! А этого-то у них и не хватает.}
-{131}{014}{Ой-ой, охренеть - пафосу-то сколько нагнал! Да я голыми руками на раз-два любого тут размотаю! А туда же - на Олимп они идти собрались...}
-{132}{012}{Э... Впечатляюще. Вожак ваш, наверное, так же считает?}
-{133}{015}{Вот именно с такими людьми я и предпочитаю вести дела. Работы, кстати, нет никакой?}
-{134}{999}{Благодарю за информацию. Надеюсь, когда-нибудь увижу вас в деле... Ну, счастливо оставаться.}
+{130}{}{Can't you see? We are the meanest and toughest pack in the whole Radius! Even if the Olympus shits suited in better armor and Rainbow fags carry more batteries in their pockets, we are going to drown them in their blood anyway eventually! All that matters in battle is if you are ready either to die, or to grind the enemy's throat out with your teeth! And that's something they lack.}
+{131}{014}{Oh wow, holy shit, so pretentious! Even I can kick anyone's ass here in a snap of fingers. And you say - Olympus...}
+{132}{012}{Uh... Impressive. I guess your boss thinks in the same way?}
+{133}{015}{That's why you are the kind of people I like to deal with. By the way, is there something you want me to do?}
+{134}{999}{Thanks for the information. I hope to see you in action someday... Well, see you around.}
 
 
-{140}{}{[Билли неожиданно ловко для такой туши наматывает кусок цепи на кулак и выхватывает второй рукой оружие] Не, хорошее у нас, все-таки, логово. Всегда найдется дебил залетный, с которым можно поразвлечься... }
-{141}{998}{Эй, да я же пошутил! Как же с вами сложно диалог налаживать... Ну ладно, продолжим общение на понятном вам языке.}
-{142}{998}{Давай, сука! Подходи! Глянем, какого цвета твой ливер!}
+{140}{}{[Unusually fast for his size, Billy wraps the chain around his fist, pulling out the gun with other hand] I like our place so much. There's always some random asshole to bash his head in... }
+{141}{998}{Hey, I was just kidding! So difficult to make an actual conversation with you... Okay, let's talk in the way you understand.}
+{142}{998}{Come on, bitch! Come! Let's see the color of your liver!}
 
 
-{1501}{}{[Смотрит на вас, как на раздавленного таракана. Ну или на кучу лавашьего дерьма] Что? Да я тебе даже затвор мне передернуть не доверю! Делец, хер тебе за щеку... Опыта сначала наберись, а потом пасть раскрывай.}
-{151}{014}{Что? Ты за собой лучше следи, сучара. А то как бы не пришлось кровью харкать за лишние слова...}
-{152}{999}{Вот как? Ладно, позже еще поговорим.}
-{1502}{}{[Смотрит на вас, мучительно нахмурив брови. Вы почти слышите скрип шестеренок в его голове] Ну... Есть кое-что для залетного бойца вроде тебя... В общем, слушай сюда. У Крикуна есть телка - Шива. Клевая, не смотри, что ее в свое время половина стаи выдрала во все щели. Но потом этот урод завалил пару-тройку парней, так что от нее все отстали. Падла жадная - всеж знают, что у него стояка уже лет двадцать не было, только бояться об этом говорить... И зачем такой сочной девке пропадать? Вот я и решил к ней наведаться. А ты нужен мне, чтоб на стреме постоять. Справишься - подгоню тебе ствол годный. Это лучше батареек. У нас без хорошего оружия ловить нечего... }
-{153}{016}{Всего-то? Да без проблем, я согласен.}
-{154}{999}{Э нет, не хочу этому психу дорогу переходить. Я пас. И вообще -мне пора.}
+{1501}{}{[He looks at you like if you are a squashed cockroach. Or the pile of lavash shit] What? I won't trust you even with wanking off! A mercenary, my ass... Get some experience first, then yap!}
+{151}{014}{Watch it, you son of a bitch. Or you're gonna be pissing with blood.}
+{152}{999}{Oh, okay. We'll talk later.}
+{1502}{}{[He glares at you, excruciatingly frowning his big furry brows. You can almost hear gears turning inside his head.] Well, uh... I might have something for a rando like you... That's it, listen closely: Loudmouth has this girl named Shiva. She is cool. Don't look at the fact that nearly every Jackal here made his way into her holes in the past. But then this motherfucker blasted off the heads of some our guys, so now everybody is afraid to even come near her. Greedy son of a bitch, it's widely known that his banana is non-functioning since ancient times, everyone's just scared shitless to say it loud... Anyway, I've been thinking - why such a good girl should go to waste? So, I decided to pay her a visit. And I need you to keep an eye out for me. If all's good - I'm gonna give you a pretty neat gun. This is much better than batteries. You are nothing here without a good weapon. }
+{153}{016}{That's it? Sure, I'm in.}
+{154}{999}{Uh, no, I don't want to get into beef with that psycho. I'll pass. And I've got to go.}
 
 
-{160}{}{Отлично. Двигай за мной...}
-{161}{999}{[пойти]}
+{160}{}{Good. Now follow me...}
+{161}{999}{[follow him]}
 
 
-{170}{}{[С довольным видом потирает ширинку] Эх, такой задницы роскошной во всем Радиусе на отыскать... Ну что, боец, сам-то не хочешь заглянуть к девке? Только я вас сторожить не буду. [Ржет] В общем, как и договаривались - держи. [Передает вам пропитанную оружейным маслом сумку из кожи лаваша, в которой звенят части ПП]. Соберешь сам, там и дебил справится. Карл на него сварганил еще магазин увеличенный - если хреново стреляешь, то тебе самое оно будет. Хоть в кого-то попадешь.}
-{171}{999}{Вот это сделка! Благодарю, Билли. Мне уже не терпится испытать его в деле.}
-{172}{999}{Все, как и договаривались. Удачи тебе. А мне пора.}
+{170}{}{[He zips his pants with a smug look] This damn ass is the best you can find in the whole Radius... Don't you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he gives you a weapon pouch made of lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl made mag extension for it, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
+{171}{999}{That's the deal! Thanks, Billy. I'm already itching to test it in action.}
+{172}{999}{Just as we agreed, yes. Good luck. And I've got to go.}
 
 
-{180}{}{[Бьет кулаком в центр карты] Мы идем на Олимп! Как только я разберусь с мудаками, которые никак не поймут, кто теперь здесь за главного, я разграблю это хренову башню и спалю ее до основания! Она станет памятником ярости Псов Заката! Слишком долго мы этого ждали!}
-{181}{999}{Ты серьезно? Хм...  Рад бы помочь, но в Олимпе мне бывать не приходилось. Ну, удачи тебе.}
-{182}{014}{Никуда ты не пойдешь, пес. И, надеюсь, твоя отрубленная башка на колу убедит остальных забыть про Олимп раз и навсегда.}
-{183}{019}{Ха! Отличная идея! Считай, я с вами. Как соберетесь - сообщите мне. Попробую провести вас окольными тропами. }
+{180}{}{[He bashes his fist into map's center] We are going to a war with Olympus! As soon as I deal with the assholes, who still don't get who's in charge here now, I will pillage this fucking tower and burn it to the ground! It should become a memorial for the fury of Sunset Jackals! We deserved this - and we waited too long!}
+{181}{999}{Are you serious? Ahem... I would gladly help, but I've never been to the Olympus. Well, good luck to you.}
+{182}{014}{You are not going anywhere, you mutt. And I hope your decapitated head on a spike will be enough to make the rest to forget about assaulting Olympus once and for all.}
+{183}{019}{Hah! Great idea, count me in. Tell me when you are ready, I'll try to get you there through the roundabouts. }
 
 
-{190}{}{[Припечатывает ваше плечо своей огромной лапой] Вот это разговор! Я пришлю за тобой человека, как только улажу все терки среди Псов. Если все сделаешь правильно - выберешь из добычи все, что захочешь, сразу после меня. }
-{191}{999}{Договорились! Жду отмашки. А пока мне тоже надо уладить пару дел...}
+{190}{}{[He slams his huge palm into your shoulder] Now we're talking! I'll send a man for you when I'm done restoring order here. If you'll do everything good - I'll let you pick anything you want from the loot. First in a row, right after me. }
+{191}{999}{Deal. I'll be waiting for your signal. And for now I have some things to do...}
 
 
-{200}{}{[Злорадно щерится] Ну так все эта мразь, которая жопу Крикуну лизала, задергалась, как только он загнулся. И правильно делают - я с них со всех кожу к херам посдираю! Пора Псам идти за настоящим вожаком!}
-{201}{014}{Это ты , что ли? Да лаваш с отбитой башкой на роль лидера лучше тебя подходит!}
-{202}{999}{Что ж, посмотрим, чем это все закончится... Бывай, Билли.}
+{200}{}{[Fiendishly squints] That's because every piece of scum here, who was licking Loudmouth's ass, began to twitch when he bit the dust. And they should - I'm gonna skin their asses alive if they flinch! It's time for Jackals to follow the real pack leader!!}
+{201}{014}{You mean *you*? Even lavash with a wounded head fits the leader's role better!}
+{202}{999}{Let's see how it turns out... See you around, Billy.}
