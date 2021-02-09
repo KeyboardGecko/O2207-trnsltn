@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see: Kirk.}
+{1}{}{You see Kirk.}
 {2}{}{Kirk, your younger brother. He looks rather moody today.}
 #
 # после знакомства
 #
-{3}{}{You see: Kirk.}
+{3}{}{You see Kirk.}
 {4}{}{Kirk, your younger brother. He looks rather moody today.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
