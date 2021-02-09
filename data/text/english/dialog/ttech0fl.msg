@@ -54,7 +54,7 @@
 {1004}{}{I would gladly stop and chat... But let's do it some other time.}
 {1005}{}{So good to see you!}
 {1006}{}{Wanna chat? Suit yourself.}
-{1007}{}{Listen, I've stashed something for you. Okay, let's talk later.}
+{1007}{}{Listen, I've stashed something for you. Let's talk later, okay?}
 {1008}{}{Visit me more often, okay?}
 {1009}{}{No sweat! Come back anytime!}
 # Нейтральные сообщения
