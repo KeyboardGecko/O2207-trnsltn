@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. With his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly look like a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are *you*? [he glares] There's shit from all over the Radius... Why the fuck are you hanging around here?}
+{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. With his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly look like a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are *you*? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
 {11}{011}{I'm just looking around. You guys definitely have a way with organizing things. Your doing?}
 {12}{014}{You'd better watch your mouth - or there is a possibility that you are going to eat shit.}
 {13}{015}{I'm looking for a quick buck. Have something for a hired gun? }
@@ -41,7 +41,7 @@
 {109}{999}{Uh... I'll be back later - need to finish one thing, okay?}
 
 
-{110}{}{[he irritably pulls his beard] I'm in charge for workshops here. For now. What a low thing to do, dig around trash heaps... A real man lives only by battle! So don't even think of pestering me about repairing stuff and shit. Ask Carl about that, he's into it. I already have enough problems here, dealing with fresh meat like you.}
+{110}{}{[he irritably pulls his beard] I'm in charge for workshops here. For now. What a low thing to do, dig around trash heaps... A real man lives only by battle! So don't even think of pestering me about repairing stuff and shit. Ask Carl, he's into it. I already have enough problems here, dealing with fresh meat like you.}
 {111}{012}{Well, I guess your boss knows better who to put in charge and where?}
 {112}{013}{If you are meeting the newcomers here, can you tell me how are the things around?}
 {113}{015}{I won't be a problem. You can put me to the test.}
@@ -54,7 +54,7 @@
 {123}{999}{Got it. Okay, I need to go.}
 
 
-{130}{}{Can't you see? We are the meanest and toughest pack in the whole Radius! Even if the Olympus shits suited in better armor and Rainbow fags carry more batteries in their pockets, we are going to drown them in their blood anyway eventually! All that matters in battle is if you are ready either to die, or to grind the enemy's throat out with your teeth! And that's something they lack.}
+{130}{}{Can't you see? We are the meanest and toughest pack in the whole Radius! Even if the Olympus shits suited in better armor and Rainbow fags carry more batteries in their pockets, we are still going to drown them in their blood eventually! All that matters in battle is if you are ready either to die, or to grind the enemy's throat out with your teeth! And that's something they lack.}
 {131}{014}{Oh wow, holy shit, so pretentious! Even I can kick anyone's ass here in a snap of fingers. And you say - Olympus...}
 {132}{012}{Uh... Impressive. I guess your boss thinks in the same way?}
 {133}{015}{That's why you are the kind of people I like to deal with. By the way, is there something you want me to do?}
@@ -69,7 +69,7 @@
 {1501}{}{[He looks at you like if you are a squashed cockroach. Or the pile of lavash shit] What? I won't trust you even with wanking off! A mercenary, my ass... Get some experience first, then yap!}
 {151}{014}{Watch it, you son of a bitch. Or you're gonna be pissing with blood.}
 {152}{999}{Oh, okay. We'll talk later.}
-{1502}{}{[He glares at you, excruciatingly frowning his big furry brows. You can almost hear gears turning inside his head.] Well, uh... I might have something for a rando like you... That's it, listen closely: Loudmouth has this girl named Shiva. She is cool. Don't look at the fact that nearly every Jackal here made his way into her holes in the past. But then this motherfucker blasted off the heads of some our guys, so now everybody is afraid to even come near her. Greedy son of a bitch, it's widely known that his banana is non-functioning since ancient times, everyone's just scared shitless to say it loud... Anyway, I've been thinking - why such a good girl should go to waste? So, I decided to pay her a visit. And I need you to keep an eye out for me. If all's good - I'm gonna give you a pretty neat gun. This is much better than batteries. You are nothing here without a good weapon. }
+{1502}{}{[He glares at you, excruciatingly frowning his big furry brows. You can almost hear gears turning inside his head.] Well, uh... I might have something for a rando like you... That's it, listen closely: Loudmouth has this girl named Shiva. She is cool. Don't look at the fact that nearly every Jackal here made his way into her holes in the past. But then this motherfucker blasted off the heads of some our guys, so now everybody is afraid to even come near her. Greedy son of a bitch, it's widely known that his banana is non-functioning since ancient times, everyone's just scared shiteless to say it loud... Anyway, I've been thinking - why such a good girl should go to waste? So, I decided to pay her a visit. And I need you to keep an eye out for me. If all's good - I'm gonna give you a pretty neat gun. This is much better than batteries. You are nothing here without a good weapon. }
 {153}{016}{That's it? Sure, I'm in.}
 {154}{999}{Uh, no, I don't want to get into beef with that psycho. I'll pass. And I've got to go.}
 
@@ -78,7 +78,7 @@
 {161}{999}{[follow him]}
 
 
-{170}{}{[He zips his pants with a smug look] This damn ass is the best you can find in the whole Radius... Don't you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he gives you a weapon pouch made of lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl made mag extension for it, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
+{170}{}{[He zips his pants with a smug look] This damn ass is the best you can find in the whole Radius... Don't you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he gives you a weapon pouch made of lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl made mag extension, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
 {171}{999}{That's the deal! Thanks, Billy. I'm already itching to test it in action.}
 {172}{999}{Just as we agreed, yes. Good luck. And I've got to go.}
 
@@ -93,6 +93,6 @@
 {191}{999}{Deal. I'll be waiting for your signal. And for now I have some things to do...}
 
 
-{200}{}{[Fiendishly squints] That's because every piece of scum here, who was licking Loudmouth's ass, began to twitch when he bit the dust. And they should - I'm gonna skin their asses alive if they flinch! It's time for Jackals to follow the real pack leader!!}
+{200}{}{[Fiendishly squints] That's because every piece of scum here, who was kissing Loudmouth's ass, began to twitch when he got wrecked. And they should - I'm gonna skin their asses alive if they flinch! It's time for Jackals to follow the real pack leader!!}
 {201}{014}{You mean *you*? Even lavash with a wounded head fits the leader's role better!}
 {202}{999}{Let's see how it turns out... See you around, Billy.}
