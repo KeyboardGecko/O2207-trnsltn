@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Seems like he doesn't give you much attention, continuing with his work] What, young lad? Broke something?}
+{10}{}{[Seems like he doesn't give you much attention, continuing with his work] What is it, young lad? Broke something?}
 {11}{002}{Actually, I'm new here...}
 {12}{004}{I'm looking for someone responsible for fixing things.}
 {13}{999}{No, I was just coming by.}
@@ -72,7 +72,7 @@
 {83}{}{If I can't talk you into it, maybe batteries will?}
 
 {100}{}{[He doesn't turn around] You again, young lad? Well? What did you break this time?}
-{101}{}{Yeah, sure. Ask.}
+{101}{}{Yeah, sure. Shoot.}
 {102}{011}{I need a suit of green armor, like one of the guards in Olympus wear.}
 {103}{020}{You asked me to help with the parts...}
 {104}{Renessance}{You have seen a lot in your life. Do you know something about the Renaissance?}
@@ -124,7 +124,7 @@
 {232}{999}{Oh well, thank you for that.}
 
 
-{400}{}{Why not? We are now talking in the workshop. I'm in charge of fixing things here and Billy Stone is in charge for talking, you know what I'm saying? As he says, as it should be. And his boss is the guy named Loudmouth, our leader and chief. He is kinda nervous one, but you would be too with the customs around here, tee-hee.}
+{400}{}{Why not? We are now standing in the workshop. I'm in charge of fixing things here and Billy Stone is in charge for talking, you know what I'm saying? As he says, as it should be. And his boss is the guy named Loudmouth, our leader and chief. He is kinda nervous one, but you would be too with the customs around here, tee-hee.}
 {401}{041}{Who the hell is Billy Stone?}
 {402}{010}{I see. I want to ask something else.}
 {403}{}{Do not bother me, youngling. It seems you are not stupid, so you'll get how are the things here eventually.}
@@ -151,13 +151,13 @@
 
 
 {610}{}{You see, this task is, uh... Specific! I think it'll cost you something around }
-{611}{}{batteries, no less! So, deal?}
+{611}{}{ batteries, no less! So, deal?}
 {612}{062}{Agreed. Here.}
 {613}{999}{Too expensive for me. When I get this much, I'll come back to you.}
 {614}{999}{HOW MUCH!? Hell no! You can buy a whole armor suit for that price! I'll better handle it myself.}
 
 
-{620}{}{[Takes away your batteries and components for a fake armor] Look, it's simple: this thingie into that thingie, a rivet there, tape here, a little more, now put some paint around... add a little dust for aged effect - and would you look at that, won't tell it from real one at the first sight! Here you go, klutz [gives you fake armor]}
+{620}{}{[Takes away your batteries and components for a fake armor] Look, it's simple: this thingie into that thingie, a rivet there, tape here, a little more, now put some paint around... add a little dust for aged effect - and would you look at that, won't tell it from real one at first sight! Here you go, klutz [gives you fake armor]}
 {621}{999}{Easy to say when you know how it's done... But thanks anyway. I have to go now. See you later, Carl.}
 {622}{999}{One pays, the other does the job. Hard to say who is a klutz here. Okay, I've got to go.}
 {623}{999}{So neat! Thanks, Carl! Take care!}

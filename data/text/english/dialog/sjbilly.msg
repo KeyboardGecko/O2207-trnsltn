@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. With his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly look like a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are *you*? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
+{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. Having his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly comes across as a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are *you*? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
 {11}{011}{I'm just looking around. You guys definitely have a way with organizing things. Your doing?}
 {12}{014}{You'd better watch your mouth - or there is a possibility that you are going to eat shit.}
 {13}{015}{I'm looking for a quick buck. Have something for a hired gun? }
@@ -41,7 +41,7 @@
 {109}{999}{Uh... I'll be back later - need to finish one thing, okay?}
 
 
-{110}{}{[he irritably pulls his beard] I'm in charge for workshops here. For now. What a low thing to do, dig around trash heaps... A real man lives only by battle! So don't even think of pestering me about repairing stuff and shit. Ask Carl, he's into it. I already have enough problems here, dealing with fresh meat like you.}
+{110}{}{[he irritably pulls his beard] I'm in charge for workshops. For now. What a low thing to do, dig around trash heaps... A real man lives only by battle! So don't even think of pestering me about repairing stuff and shit. Ask Carl, he's into it. I already have enough problems here, dealing with fresh meat like you.}
 {111}{012}{Well, I guess your boss knows better who to put in charge and where?}
 {112}{013}{If you are meeting the newcomers here, can you tell me how are the things around?}
 {113}{015}{I won't be a problem. You can put me to the test.}

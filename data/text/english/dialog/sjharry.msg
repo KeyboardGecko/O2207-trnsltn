@@ -32,7 +32,7 @@
 {23}{005}{Why does it matter? }
 
 
-{30}{}{I'm Harry. [he scratches his chin with a hook] I mince meat and make food. What do you want?}
+{30}{}{I'm Harry [he scratches his chin with a hook]. I mince meat and make food. What do you want?}
 {31}{004}{You have a nice hook there.}
 {32}{Barter}{I wouldn't mind buying some food from you... [barter]}
 
@@ -51,7 +51,7 @@
 {101}{}{Ask away.}
 {102}{011}{Listen, do you have some work for me? Must clarify - I'm not good at cooking.}
 {103}{015}{About the whetstone...}
-{104}{019}{What happened to your hand?}
+{104}{019}{What's the deal with the hook?}
 {106}{Barter}{I wouldn't mind buying some food from you... [barter]}
 {107}{999}{Okay, I've got to go. See you.}
 
@@ -62,7 +62,7 @@
 {113}{012}{Well, you know, just asking.}
 
 
-{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special approach to sharpening my kitchen tools [he scratches himself with the hook again]. I need a whetstone. A good one, not some piece of shit like that ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand]. I need the one like this, but new. }
+{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special approach to sharpening my kitchen tools [he scratches himself with the hook again]. I need a whetstone. A good one, not some piece of shit like that ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand]. I need one like this, but new. }
 {121}{013}{Where do I look for it?}
 {122}{014}{How much do you pay?}
 {123}{010}{Okay, if I'll come by one, I'll be back. For now I have some questions.}
@@ -107,6 +107,6 @@
 {192}{020}{Hah. You are so funny. [say it with a blank face]}
 
 
-{200}{}{What I'm trying to say is this: it's none of your business. }
+{200}{}{What I'm trying to say is this - it's none of your business. }
 {201}{010}{I have some other questions to ask...}
 {202}{999}{I'd better go.}
