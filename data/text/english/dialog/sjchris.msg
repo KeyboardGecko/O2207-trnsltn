@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a typical robber. }
+{1}{}{You see a typical robber.}
 {2}{}{He nervously holds onto the grip of his pistol.}
 #
 # после знакомства
