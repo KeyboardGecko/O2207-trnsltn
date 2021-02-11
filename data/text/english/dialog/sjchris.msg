@@ -121,7 +121,7 @@
 
 
 
-{180}{}{Billy Stone, a stupid thug. Loudmouth put him responsible for workshops, but everyone's aware that this brainless idiot knows as little shit about repairing things as about being in charge. You could grind stones into sand with his head. }
+{180}{}{Billy Stone, a stupid thug. Loudmouth put him responsible for workshops, but everyone's aware that this brainless idiot knows as little shit about repairing as about being in charge. You could grind stones into sand with his head. }
 {181}{031}{What can you tell me about Oswald?}
 {182}{014}{Tell me more about Loudmouth.}
 {183}{010}{I wanted to ask something else.}
@@ -135,7 +135,7 @@
 {201}{010}{Okay. Another question then.}
 
 
-{210}{}{I fucking hate him! [He stops and starts staring at you, mumblig something] Hm, a new man, no suspicions... [louder] This moron Kyle wants to take my place, he spreads stupid rumors about me and such. I would shoot him myself, but Loudmouth is against it. And he knows. So if Kyle dies, that's my doing. I don't need that. If you wanna make a quick profits, you could assist me.}
+{210}{}{I fucking hate him! [He stops and starts staring at you, mumblig something] Hm, a new man, no suspicions... [louder] This moron wants to take my place, he spreads stupid rumors about me and such. I would shoot him myself, but Loudmouth is against it. And he knows. So if Kyle dies, that's my doing. I don't need that. If you wanna make a quick profits, you could assist me.}
 {211}{022}{What do you want me to do?}
 
 
@@ -148,7 +148,7 @@
 {231}{999}{Sure. I will definitely come to you then.}
 
 
-{240}{}{Great! I'm waiting for the news. And know this: everything he says about me is a dirty fucking lie, it's bullshit!}
+{240}{}{Great! I'm waiting for the news. And know this - everything he says about me is a dirty fucking lie!}
 {241}{999}{I'll go find Kyle and deal with him.}
 
 
@@ -181,7 +181,7 @@
 {301}{999}{Okay, I'll go deal with it.}
 
 
-{310}{}{This snob Oswald Brown handles the freshmen and runs the barracks. Never met a man more cheeky and arrogant. Thinks of himself as a great leader, let him do it. That's until some tit sucker with baby gun makes a hole in his belly.}
+{310}{}{This snob Oswald Brown handles the freshmen and runs the barracks. Never met a man more cheeky and arrogant. Thinks of himself as a great leader. Let him. That's until some titsucker with baby gun makes a hole in his belly.}
 {311}{018}{What can you tell me about Billy?}
 {312}{014}{Tell me about Loudmouth.}
 
