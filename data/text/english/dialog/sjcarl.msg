@@ -73,7 +73,7 @@
 
 {100}{}{[He doesn't turn around] You again, young lad? Well? What did you break this time?}
 {101}{}{Yeah, sure. Shoot.}
-{102}{011}{I need a suit of green armor, like one of the guards in Olympus wear.}
+{102}{011}{I need a suit of green armor, like one the Olympus guards wear.}
 {103}{020}{You asked me to help with the parts...}
 {104}{Renessance}{You have seen a lot in your life. Do you know something about the Renaissance?}
 {105}{040}{Can you briefly explain what's what here?}
