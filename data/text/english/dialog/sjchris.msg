@@ -135,7 +135,7 @@
 {201}{010}{Okay. Another question then.}
 
 
-{210}{}{I fucking hate him! [He stops and starts staring at you, mumblig something] Hm, a new man, no suspicions... [louder] This moron wants to take my place, he spreads stupid rumors about me and such. I would shoot him myself, but Loudmouth is against it. And he knows. So if Kyle dies, that's my doing. I don't need that. If you wanna make a quick profits, you could assist me.}
+{210}{}{I fucking hate him! [He stops and stares at you, mumbling something] Hm, a new man, no suspicions... [louder] This moron wants to take my place, he spreads stupid rumors about me and such. I would shoot him myself, but Loudmouth is against it. And he knows. So if Kyle dies, that's my doing. I don't need that. If you wanna make a quick profits, you could assist me.}
 {211}{022}{What do you want me to do?}
 
 
