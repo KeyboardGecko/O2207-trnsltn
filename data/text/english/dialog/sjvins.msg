@@ -69,7 +69,7 @@
 
 {100}{}{Oh, hey, a familiar face! Coming by for a little chat, mate?}
 {101}{}{Sure, ask away.}
-{102}{020}{You don't look so good, you know.}
+{102}{020}{You don't look so good, I'd say.}
 {103}{030}{Can you tell me about how things are going here?}
 {104}{040}{Why are you always looking around?}
 {105}{045}{Remember how you asked me to deal with Stan?}
