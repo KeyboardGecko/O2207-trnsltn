@@ -69,7 +69,7 @@
 {124}{999}{Okay, if I'll come by one, I'll be back. Later.}
 
 
-{130}{}{[He puts hook on his chin with thoughtfull look] Well... It's a stone. The stones can be found in caves. The caves are made out of stones, don't they?}
+{130}{}{[He puts hook on his chin with a thoughtful look] Well... It's a stone. The stones can be found in caves. The caves are made out of stones, don't they?}
 {131}{014}{I see. How much do you pay?}
 {132}{010}{Okay, if I'll come by one, I'll be back. For now I have some questions.}
 {133}{999}{Okay, if I'll come by one, I'll be back. Later.}

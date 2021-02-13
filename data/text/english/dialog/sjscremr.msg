@@ -218,7 +218,7 @@
 {371}{038}{Okay, no problem. I hope you'll make a good decision.}
 
 
-{380}{}{[You stay in a company of two thuggish Jackals, who are having intellectual dialogue about the better ways to flay a man alive. Unfortunately, when the most interesting part starts, Lougmouth comes back with his other men] Here's the deal - tell Hog that we'll make the deal. We won't touch them for now. And we will even sell the next batch of "merchandize" with a discount... A little excessive, as for me. [He glances at one of his guards] But if there ANY reason, even a little one - I fucking let loose all my Jackals and drown the whole Rainbow in blood! Got it?!}
+{380}{}{[You stay in a company of two thuggish Jackals, who are busy with a very intellectual dialogue about better ways to flay a man alive. Unfortunately, when the most interesting part starts, Loudmouth comes back with his other men] Here's the deal - tell Hog that we'll make the deal. We won't touch them for now. And we will even sell the next batch of "merchandize" with a discount... A little excessive, as for me. [He glances at one of his guards] But if there ANY reason, even a little one - I fucking let loose all my Jackals and drown the whole Rainbow in blood! Got it?!}
 {381}{999}{Great. I'll tell that to Hog. Was nice having business with you, but I've got to go.}
 
 

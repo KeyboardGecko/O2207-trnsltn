@@ -97,7 +97,7 @@
 {1038}{}{}
 {1039}{}{}
 # Отрицательные сообщения
-{1040}{}{Keep your hands to yourself, shmuck!}
+{1040}{}{Keep your hands to yourself, schmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
 {1042}{}{You are pushing *me* around!?}
 {1043}{}{Do this one more time and I will bury you!}
