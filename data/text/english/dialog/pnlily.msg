@@ -36,8 +36,8 @@
 #
 {10}{}{[Little girl moans and squirms. Looks like she's in a lot of pain.]}
 {11}{}{Hush, hush, baby, calm down. Everything's going to be alright. Hush, hush...}
-{12}{}{Lilly? Lilly-y? Do you hear me? You have such a beautiful name, Lilly... Lilly-ly-ly-ly-lyy. Oh, it turns out into a great lullaby! Lilly-lilly-lilly-leee, lee-lilly-lee-lilly-leee...}
-{13}{}{[The girl doesn't react on your attempts to calm her, she continues to moan.]}
+{12}{}{Lilly? Lilly-y? Do you hear me? You have such a beautiful name, Lilly... Lilly-ly-ly-ly-lyy. Oh, it turns into a great lullaby! Lilly-lilly-lilly-leee, lee-lilly-lee-lilly-leee...}
+{13}{}{[The girl doesn't react to your attempts to calm her, she continues to moan.]}
 {14}{}{[leave Lilly alone]}
 {15}{}{[looks like the melody starts to work on a girl. She calms down and, after a few minutes, falls asleep.]}
 {16}{}{[quietly leave]}
