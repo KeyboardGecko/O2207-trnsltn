@@ -237,7 +237,7 @@
 {11900}{}{Metal Armor}
 {11901}{}{Strong and heavy armor made of sheet metal. Constricts movement somewhat but offers great protection.}
 {12000}{}{Military Armor}
-{12001}{}{The most common armor used by army grunts in the war, stil reliable.}
+{12001}{}{The most common armor used by army infantry in the war. Still reliable.}
 {12100}{}{Combat Armor}
 {12101}{}{Infantry combat armor, leather, Kevlar, metal layers. Perfectly shields against many types of projectiles.}
 {12200}{}{Scout Armor}
@@ -261,9 +261,9 @@
 {13100}{}{Detective Revolver}
 {13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many! Min ST: 4}
 {13200}{}{.45 Revolver}
-{13201}{}{A basic average revolver, named after the fact that the mechanism of feeding the loaded cartridges is a revolving aka rotating drum. Min ST: 5}
+{13201}{}{A basic average revolver, named after the fact that the mechanism feeding the loaded cartridges is revolving like rotating drum. Min ST: 5}
 {13300}{}{Magnum Revolver}
-{13301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. Do I feel lucky? Well, do ya punk?. Min ST: 5}
+{13301}{}{Being that this is the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: "Do I feel lucky?" Well, do ya, punk? Min ST: 5}
 {13400}{}{Flare Gun}
 {13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor. Min ST: 5}
 {13500}{}{Thunderer}
@@ -277,15 +277,15 @@
 {13900}{}{9mm Revolver}
 {13901}{}{A very basic and Hand-made 9mm revolver, not very reliable. Min ST: 2}
 {14000}{}{Stun Pistol}
-{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could safe your life. Min ST: 3}
+{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could save your life. Min ST: 3}
 {14100}{}{Sting}
 {14101}{}{A pneumatic launching device for hurling poisonous darts at your adversaries. Min ST: 3}
 {14200}{}{Python Revolver}
-{14201}{}{This one blows heads just clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
+{14201}{}{This one blows heads clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
 {14300}{}{.223 Pistol (Scoped)}
-{14301}{}{A special and custom made pistol in .223 with an attached scope, that allows with ease to pick off your enemies at a distance. Min ST: 4}
-{14400}{}{Jackal Revolver}
-{14401}{}{The signature revolver of the Jackal. A nice cool gun to pop the heads of your enemies like melons. Min ST: 6}
+{14301}{}{A special custom-made pistol in .223 with an attached scope, which allows to pick off your enemies at a distance with ease. Min ST: 4}
+{14400}{}{Jackal's Revolver}
+{14401}{}{The signature revolver of the Jackal. A nice gun to pop the heads of your enemies like melons. Min ST: 6}
 {14500}{}{SL-10 Laser Pistol}
 {14501}{}{Compact and advanced version of the SL-9 laser pistol. Light, fast and deadly! Powered by small batteries. Min ST: 5}
 {14600}{}{Pneumatic Pistol}
@@ -373,7 +373,7 @@
 {18700}{}{Raven Rifle}
 {18701}{}{A descent rifle that shoots small BB Pellets. Even a wild coyote would not like to get hit by a bullet from this one. Min ST: 3}
 {18800}{}{Repaired Rifle}
-{18801}{}{A repaired and worn rifle, but stil deadly. Min ST: 5}
+{18801}{}{A repaired and worn rifle, but still deadly. Min ST: 5}
 {18900}{}{Placeholder Rifle}
 {18901}{}{}
 {19000}{}{Hurricane Minigun}
@@ -381,7 +381,7 @@
 {19100}{}{Heavy Rain Minigun}
 {19101}{}{Like it's predecessor, the "Heavy Rain" minigun tears through enemies like wet paper. It even powerful enough to destroy barricades and armored vehicles. Min ST: 9}
 {19200}{}{Turret Minigun}
-{19201}{}{This gun made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by with it's nearly limitless 90,000 reounds per minute hail of bullets. Min ST: 10}
+{19201}{}{This gun made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by with it's nearly limitless 90,000 rounds per minute hail of bullets. Min ST: 10}
 {19300}{}{HMG-1A4 Flamelance}
 {19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically it's more a plasma minigun, but nobody seems to care when they, and everything around them, melt away at a searing 3000 degrees Celsius. Min ST: 8}
 {19400}{}{Placeholder Minigun}
@@ -469,23 +469,23 @@
 {23500}{}{Cognac}
 {23501}{}{A smooth and noble drink. If you smell if it, you certainly will be respected among your peers.}
 {23600}{}{Booze}
-{23601}{}{You aren't sure if this strong self-brewed hootch is really meant to drink or as a desinfectant.}
+{23601}{}{You aren't sure if this strong home-brewed hootch is meant to be used as drink, or as a desinfectant.}
 {23700}{}{Spot-Up}
 {23701}{}{"What's up? Spot-Up!" There are legends about this soda, including some quite scary ones, but after one sip you will forget all your fears and doubts!}
 {23800}{}{Apple}
-{23801}{}{An old dry apple. It looks like it has mold on its side.}
+{23801}{}{An old dry apple. Looks like it has some mold on its side.}
 {23900}{}{Pear}
 {23901}{}{A surprisingly delicious piece of dried pear.}
 {24000}{}{Shotgun Repair Kit}
-{24001}{}{A kit for the maintenance and assembly of shotguns.}
+{24001}{}{A kit of spare parts for the maintenance and assembly of shotguns.}
 {24100}{}{Rifle Repair Kit}
-{24101}{}{A kit for the maintenance and assembly of rifles and submachine guns.}
+{24101}{}{A kit of spare parts for the maintenance and assembly of rifles and submachine guns.}
 {24200}{}{Shovel}
-{24201}{}{This item is convenient in both, digging something up and bury someone.}
+{24201}{}{This item is equally convenient for both digging something up and burying someone down.}
 {24300}{}{Rope}
 {24301}{}{A coil of good, strong rope. Decide for yourself how to use it.}
 {24400}{}{Screwdriver}
-{24401}{}{A typical screwdriver. Both a useful tool, and and irreplacable in self-defense.}
+{24401}{}{A typical screwdriver. Useful tool both in repairing and in self-defense.}
 {24500}{}{Silk Gloves}
 {24501}{}{If you want to rob someone this item of clothing will be very useful.}
 {24600}{}{Energy Drink}
@@ -827,7 +827,7 @@
 {41400}{}{Glass Bottle}
 {41401}{}{An empty glass bottle. What would you like to fill it with?}
 {41500}{}{Wooden Comb}
-{41501}{}{A utensil for grooming if you got any hair stil left on your head.}
+{41501}{}{A tool for grooming - if you still have hair left on your head.}
 {41600}{}{Children's Drawing}
 {41601}{}{A crude child's drawing. Questionable art.}
 {41700}{}{Children's Drawing}
@@ -843,13 +843,13 @@
 {42200}{}{Matches}
 {42201}{}{Matches are not a toy for children! Hey, they still light up!}
 {42300}{}{Yarn Spool}
-{42301}{}{If your calling is the sewing-machine, then this spool of robust thread will undoubtly make your very happy.}
+{42301}{}{If your are into sewing, this spool of robust thread will definitely make your very happy.}
 {42400}{}{Crayons}
 {42401}{}{Quite a rare, but useless item. You could leave some rock paintings somewhere.}
 {42500}{}{Metal Plate}
 {42501}{}{Obviously, you can eat soup from this. Or porridge.}
 {42600}{}{Rusty Plate}
-{42601}{}{Looking at several layers of rust, it's hard to imagine what you CAN eat from it.}
+{42601}{}{Looking at several layers of rust, it's hard to imagine HOW you can eat from it.}
 {42700}{}{Iron Plates}
 {42701}{}{A few iron plates, almost untouched by rust.}
 {42800}{}{72% Soap}

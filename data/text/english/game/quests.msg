@@ -27,11 +27,11 @@
 {301}{}{Search and get hold of an Ultra Repair Kit.}
 {302}{}{Find a rare whetstone for Harry.}
 {303}{}{Go on hunt with Ursul. Try not to die.}
-{304}{}{Casper initiated a siege against Vince. You need to help Vince.}
-{305}{}{Barker crafts necklaces out of chimera teeth, he needs 3 more.}
+{304}{}{Casper holds a grudge against Vince. You need to help Vince.}
+{305}{}{Loudmouth wants to have necklace made of chimera teeth. He needs 3 more fangs.}
 {306}{}{Oswald Brown wouldn't mind to get hold of a rare vintage "Slugger" pistol.}
 {307}{}{Billy Stone wants you to stand guard outside the room while he's with Shiva.}
-{308}{}{Chris Morena asks to get rid of Kyle and find a replacement for him.}
+{308}{}{Chris Murena asks to get rid of Kyle and find a replacement for him.}
 #
 # NEW WORLD ORDER Quests
 #
@@ -50,7 +50,7 @@
 #
 # LIVOS Quests
 #
-{500}{}{Edward Shwein won't let you in at Livos until you can prove that you are one of the family members.}
+{500}{}{Edward SdhWwein won't let you in at Livos until you can prove that you are one of the family members.}
 {501}{}{The water filter is broken. Ashton Horton wants you to fix it.}
 {502}{}{The Danton family asks you to kill all the creatures in the cave under the filtration room.}
 {503}{}{Christopher Shwein is in love with Minnie Horton and asks you to help him hook up with her.}
@@ -82,8 +82,8 @@
 #
 # FREDS HOUSE Quests
 #
-{800}{}{Fred has laid mines around the house, but forgot where they are. Find and clear at least 5 of them.}
-{801}{}{Fight off the attacking beasts.}
+{800}{}{Fred has laid mines around the house and forgot where they are. Find and clear at least 5 of them.}
+{801}{}{Fight off the attacking chimeras.}
 #
 # OLYMPUS TOWER Quests
 #
@@ -96,8 +96,8 @@
 {906}{}{KILL ANDERSON!}
 {907}{}{Use the resources of the Olympus Tower as you see fit.}
 {908}{}{Sergeant Jack laid his eyes on Kelly from the Biology Labs. Convince Kelly to meet with Jack.}
-{909}{}{Moreau can not calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
-{910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what'S up with that.}
+{909}{}{Moreau can't calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
+{910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what's up with that.}
 {911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Grey for his services. Moreau might help.}
-{912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab Nr.2.}
+{912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab №2.}
 {913}{}{Taylor can repair an advanced Powersuit of the Lumeniers if you bring him a servo from a similar suit.}

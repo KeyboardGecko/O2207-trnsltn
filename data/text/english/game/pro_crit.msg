@@ -7,7 +7,7 @@
 {400}{}{Girl}
 {401}{}{A little harmless girl with a ponytail.}
 {500}{}{Teenager}
-{501}{}{An ordinary boy of arund 15 years old.}
+{501}{}{An ordinary boy of around 15 years old.}
 {600}{}{Teenager}
 {601}{}{An ordinary teenager with a daring look and a defiant haircut.}
 {700}{}{Teenager}
@@ -124,11 +124,11 @@
 {6201}{}{}
 {6300}{}{Escaped Servant}
 {6301}{}{}
-{6400}{}{Barker}
+{6400}{}{Loudmouth}
 {6401}{}{}
 {6500}{}{Billy Stone}
 {6501}{}{}
-{6600}{}{Chris Morena}
+{6600}{}{Chris Murena}
 {6601}{}{}
 {6700}{}{Oswald Brown}
 {6701}{}{}
@@ -142,7 +142,7 @@
 {7101}{}{}
 {7200}{}{Casper}
 {7201}{}{}
-{7300}{}{Urs}
+{7300}{}{Ursul}
 {7301}{}{}
 {7400}{}{Kyle}
 {7401}{}{}
@@ -180,13 +180,13 @@
 {9001}{}{}
 {9100}{}{Arsen}
 {9101}{}{}
-{9200}{}{Marisa}
+{9200}{}{Maurissa}
 {9201}{}{}
 {9300}{}{Juan}
 {9301}{}{}
-{9400}{}{Seren}
+{9400}{}{Cyren}
 {9401}{}{}
-{9500}{}{Bianca}
+{9500}{}{Blanca}
 {9501}{}{}
 {9600}{}{Flint}
 {9601}{}{}
@@ -232,13 +232,13 @@
 {11601}{}{}
 {11700}{}{Thick Lavash}
 {11701}{}{}
-{11800}{}{Vincent von Shvain}
+{11800}{}{Vincent von Schwein}
 {11801}{}{}
-{11900}{}{Chrostopher Shvain}
+{11900}{}{Christopher Schwein}
 {11901}{}{}
-{12000}{}{Ludwig Shvain}
+{12000}{}{Ludwig Schwein}
 {12001}{}{}
-{12100}{}{Veronica Shvain}
+{12100}{}{Veronica Schwein}
 {12101}{}{}
 {12200}{}{Boston McKinsey}
 {12201}{}{}
@@ -268,7 +268,7 @@
 {13401}{}{}
 {13500}{}{Machinegun Turret}
 {13501}{}{}
-{13600}{}{Boar}
+{13600}{}{Hog}
 {13601}{}{}
 {13700}{}{Shepherd}
 {13701}{}{}
