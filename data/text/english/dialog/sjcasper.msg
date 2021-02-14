@@ -100,7 +100,7 @@
 {113}{010}{Nice. I have some questions.}
 
 
-{120}{}{Jam is on the dicks you ate this morning. Either pay, or get the fuck away.}
+{120}{}{Jam was on the dicks you ate this morning. Either pay, or get the fuck away.}
 {121}{998}{I'm so sick of you. Let's see now who gets the fuck away...}
 {122}{999}{[wave your hand and leave]}
 {123}{010}{Nice. I have some questions.}
@@ -219,7 +219,7 @@
 {322}{999}{[end the dialogue]}
 
 
-{330}{}{The fight ended just before you came. The next one will be on this week. You should come here more often.}
+{330}{}{The fight ended just before you came. The next one will be this week. You should come here more often.}
 {331}{010}{[swear]}
 {332}{999}{[swear and leave]}
 

@@ -11,71 +11,71 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: худощавая девушка в поношенной одежде.}
-{2}{}{В отличие от своего спутника, она выглядит скорее усталой, а не испуганной.}
+{1}{}{You see a thin girl in worn-out clothes.}
+{2}{}{Unlike her companion, she looks more tired than scared.}
 #
 # после знакомства
-{3}{}{Вы видите: Кристи.}
-{4}{}{Девушка, когда-то спасенная Фредом от Псов.}
+{3}{}{You see Christy.}
+{4}{}{The girl, once saved from Jackals by Fred.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Ваш взгляд невольно перемещается с симпатичного скуластого личика на роскошную, даже не смотря на покрывающую ее пыль, копну рыжих волос. Короткая куртка с обрезанными рукавами и серая майка оставляют впалый живот открытым, а рваные джинсы выгодно подчеркивают стройные ноги] Привет... Ну и нагнал ты страху на старину Фреда! А я почему-то сразу поняла, что ты не по наши души.}
-{11}{011}{Хех, передо мной и не такие ссаться начинали! Но ты права - мне нужны только ответы на пару вопросов.}
-{12}{011}{Не думал, что мое появление произведет такой эффект. А ты не ответишь мне на один вопрос?}
-{13}{016}{Ты тут в порядке? Помощь не нужна?}
-{14}{999}{Тебе точно не из-за чего переживать. Поговорим чуть позже, ок?}
+{10}{}{[You can't help but move your eyes from her beautiful cheeky face to big red, although a little dusty, hair. Short jacket with cut-off sleeves and grey shirt leave her hollowed belly open. Ripped jeans emphasize her slender legs.] Hey... You scared the shit out of Fred! But I somehow knew from the start that you didn't come here for our heads.}
+{11}{011}{I've seen a lot of people pissing their pants when seeing me. But you are right, I need only answers for some questions.}
+{12}{011}{I didn't think my arrival will make such a fuss. Can you answer my questions for a bit?}
+{13}{016}{Are you alright here? Need any help?}
+{14}{999}{You have nothing to worry about. Talk later, okay?}
 
 
-{1001}{}{[Кивает вам] Что, понравилось у нас? Аж уходить не хочется?}
-{1003}{}{[настороженно смотрит на Вас] Ну как там? Ты прикокошил всех этих тварей?}
-{101}{011}{Типа того. Не расскажешь мне кое-что?}
-{102}{016}{Ты тут в порядке? Помощь не нужна?}
-{103}{015}{Все, решил я вопрос с вашими бестиями.}
-{107}{999}{Пока осматриваюсь. Поговорим позже, ок?}
-{1002}{}{[На ее покрытом веснушками личике появляется радостная улыбка] Хей, герой! Не хочешь тушеной крысятинки?}
-{104}{011}{Нет, но спасибо. Лучше ответь мне на один вопрос.}
-{105}{016}{Ты тут в порядке? Помощь не нужна?}
-{106}{999}{Может, позже. Мне еще надо кое-что сделать.}
+{1001}{}{[Nods to you] Did you like it here? So good you don't want to leave, right?}
+{1003}{}{[She looks at you with caution] So, how is it? Did you deal with these creatures?}
+{101}{011}{Kind of. Care to tell me something?}
+{102}{016}{Are you alright here? Need any help?}
+{103}{015}{It's done. The matter with the beasts is resolved.}
+{107}{999}{I'm looking around for now. Talk later, okay?}
+{1002}{}{[You see a smile appearing on her freckled face, when she sees you] Hey, hero! Want some cooked rat?}
+{104}{011}{No, thank you. Better answer some questions for me.}
+{105}{016}{Are you alright here? Need any help?}
+{106}{999}{Later, maybe. I have something to be done.}
 
 
-{110}{}{[Поддергивает сползающие джинсы] Охотно. Рада буду поговорить с человеком, который каждые две минуты не хватается за ствол и с бледной рожей не скачет к окну с криками "Они нашли нас, Кристи!".}
-{111}{012}{Как ты познакомилась с Фредом?}
-{112}{013}{Откуда, ты Кристи?}
-{113}{999}{Знаешь, лучше поговорим позже.}
+{110}{}{[She pulls up her loose jeans] Gladly. It's nice, for a change, to talk to someone who doesn't grab his gun every two minutes and jump to the window, screaming "They found us, Christy!".}
+{111}{012}{How did you meet Fred?}
+{112}{013}{Where are you from, Christy?}
+{113}{999}{You know, let's talk later.}
 
 
-{120}{}{[Она мрачнеет и обхватывает себя за плечи, словно от порыва холодного ветра] Фред и его тогдашние ублюдочные дружки напали на наше поселение. А у нас и  было-то от силы пара ребят, действительно способных постоять за себя... Начались всякие веселые штуки вроде отрезанных голов и выпущенных кишок. А меня с подругами отвели в сторонку, любезно объясняя, в каких позах нас будут сношать... Потом что-то взорвалось, началась паника и тут появляется Фред и тащит меня за собой. Вот, собственно, и все. }
-{121}{014}{И вы что, теперь вместе до гроба?}
-{122}{011}{Ух ты. Кстати, у меня есть еще один вопрос.}
-{123}{999}{Повезло тебе, прямо скажем. Ну, не буду больше тебя отвлекать.}
+{120}{}{[Her face became clouded and she hugs her shoulders as if feeling a cold wind] Fred and his then-bastard-friends attacked our settlement. We had not many men able to fight... That's when funny things like cutting heads and pulling out intestines started to take place. I was carried over to the pen, together with other girls, listening about what explicit things expect us now. Then suddenly something exploded, everyone started to panic - and next thing I see is Fred getting me out and pulling me away with him. And that mostly it. }
+{121}{014}{So you're now, like, together forever?}
+{122}{011}{Wow. I have another question.}
+{123}{999}{You are very lucky, I should say. Well, I won't be distracting you anymore.}
 
 
-{130}{}{[Беспечно улыбается и пожимает плечами] А не знаю. Все, что я помню, это безлюдная пустошь за переделами Радиуса. Все развлечения - делать ставки, сдохнешь ты со скуки или от голода. Каждый день одна и та же выжженная земля перед глазами... Ну а потом мы решили осесть в одном поселении, где я скоро поняла, что жизнь в пустошах была не так уж и плоха.}
-{131}{012}{Да? И что произошло?}
-{132}{999}{Благодарю, что уделила время. Еще увидимся, Кристи.}
+{130}{}{[She carelessly shrugs] I don't even know. All I remember is lifeless wasteland beyond Radius. All entertainment you have is to make bets if you die from hunger or boredom. Every day you see the same endless barren land before your eyes... Then we decided to settle down in one place. That's where I understood that living in the wastes was not the worst thing that can happen to you.}
+{131}{012}{Yeah? What happened?}
+{132}{999}{Thank you for telling me this, Christy. See you around.}
 
 
-{140}{}{[Усмехается, потирая вздернутый носик] Еще чего. Я, конечно, благодарна ему за то, что он спас меня, но... Так-то он парень неплохой, только больно уж пугливый. У него от этих страхов вообще скоро прибор работать перестанет. Но все же вместе выжить проще, так что я с ним... Пока смогу его терпеть. }
-{141}{999}{Желаю тебе с этим удачи. А я пока осмотрюсь здесь...}
+{140}{}{[She chuckles, rubbing her turned-up nose] You wish! Of course, I'm grateful to him for saving me, but... And he is not bad guy, actually, apart from being very jumpy... He's gonna have big problems with his thing from all this nervousness. Still, it's easier to survive together, so I'm stuck with him... While I can tolerate him, at least. }
+{141}{999}{Good luck with that. I'll go look around.}
 
 
-{150}{}{[Выбегает наружу и вы слышите одобрительные возгласы. По возвращению Кристи обнимает вас и показывает оторванный палец бестии] Это я на память возьму, засушу потом. Ух, мне бы такие ноготки... Спасибо тебе, ты нас очень выручил. Жаль, что не все в Радиусе такие серьезные парни [Фред на эти слова морщится, будто от боли и с угрюмой рожей начинает яростно полировать свой пистолет о подкладку куртки]}
-{151}{999}{Да без проблем, детка! Если тебе еще в чем помощь нужна - только скажи!}
-{152}{999}{Это было непросто, но я рад, что все прошло удачно.}
+{150}{}{[Seeing you enter the room, she runs off outside. You hear her cheering. When she return, she shows you chimera's ripped finger] My souvenir. I wish I had claws like this... Thank you, you really helped us out. Too bad not everyone in Radius are such courageous guys like you [hearing this Fred winces, like if he was in pain, and begins to furiously polish his gun with the lining of his jacket.]}
+{151}{999}{No problem, babe! If you'll need something else - just ask!}
+{152}{999}{This wasn't easy, but I'm glad everything worked out.}
 
 
-{1601}{}{Да как сказать... Сидеть и ждать, порвут тебя бестии или еще какие твари, удовольствие маленькое. Но в целом - да, я в порядке.}
-{161}{011}{Тогда ответь мне на один вопрос...}
-{162}{999}{Отлично, об остальном поговорим позже.}
-{1602}{}{Ты и так много для меня сделал. Благодаря тебе я сегодня смогу спокойно заснуть.}
-{163}{011}{Рад был помочь. Не ответишь мне на пару вопросов?}
-{164}{999}{Вот и хорошо. Об остальном поговорим позже.}
+{1601}{}{What can I say... To sit and wait for chimeras to show up and rip you apart is kind of questionable pleasure. But mostly - yeah, I'm alright.}
+{161}{011}{Then answer some questions for me.}
+{162}{999}{Good. Let's talk later then.}
+{1602}{}{You already did a lot for me. Thanks to you I'll be able to sleep tonight.}
+{163}{011}{Glad to be of help. Mind answering me a couple of questions?}
+{164}{999}{Good. Let's talk later then.}
 
 
-{170}{}{[Вы собираетесь уйти, но Кристи подходит к вам и хватает за руку] Погоди-ка, крутой парень. Не торопись. Ты хоть понял, что вы с этим гением сотворили? Мины защищали нас от бестий, которые постоянно воют ночами по округе. А теперь-то что? Ты мог бы, по крайней мере, помочь нам продержаться эту ночь? [Фред хочет что-то вставить с обрадованным видом, но она обрывает его] Даже слушать не хочу! Может, мы и уйдем, но только не сейчас, когда нас разорвут на первой же миле! Хорошо, что хоть кто-то из нас двоих умеет думать...}
-{171}{999}{Эй, милая, это все не мои проблемы. Где ты раньше была, а? Все, свали с дороги, мне пора.}
-{172}{999}{Ок. Выручу вас, так уж и быть. Давно я не охотился на этих тварей...}
-{173}{999}{Я бы рад остаться, но мне надо спешить. Уж извините.}
-{174}{999}{Черт, почему твой дружок мне сразу этого не сказал? Конечно же, я помогу вам!}
-{175}{}{Ты издеваешься, да? Мы остались без защиты, бестии радостно полакомятся нашими тельцами этой прекрасной лунной ночкой! На Фреда-то уж точно рассчитывать не приходится... [Кристи упирается отрешенным взглядом в пол]}
+{170}{}{[You are trying to walk out, but Christy stands in your way and takes your hand] Wait a minute, tough guy, slow down. Do you even understand what you and this genius did just now? The mines were the only protection from chimeras, and, you know, there are lots of them, judging by the howling - especially after the sunset! Could you, at least help us hold for this night? [Fred wants to say something with a delighted look, but she doesn't let him] Don't even want to hear it! Maybe we will leave this place, but not now, when these creatures can tear us to pieces on the first steps!! It's good that some of us are able to actually think with the head!}
+{171}{999}{Look, honey, it's not my problem. Where have you been before? Okay now, I've got to go.}
+{172}{999}{Sure, I'll help. It's been a while since I hunted these beasts...}
+{173}{999}{I would be glad to stay, but I really need to go. Sorry.}
+{174}{999}{Damn! Why this buddy of yours did't say so earlier? Of course I will help you.}
+{175}{}{You are kidding, right? We are left without any protection and chimeras are going to happily feast on our corpses this beautiful moonlit night! I definitely can't count on Fred in this... [Christy looks down with sadness]}
