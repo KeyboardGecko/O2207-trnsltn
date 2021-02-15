@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a guy looking like he was often beaten up in his childhood.}
+{1}{}{You see a guy who looks like he was often beaten up in his childhood.}
 {2}{}{He reminds you of rat. Big, disgusting rat.}
 #
 # после знакомства
@@ -31,7 +31,7 @@
 {13}{004}{Who the hell are you?}
 
 
-{20}{}{Either you have no brains at all, you imbecile, or just eager to die. I'm not someone you could talk like that. I'll look past your fuckin' stupidity for this time. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{20}{}{Either you have no brains at all, you imbecile, or just eager to die. I'm not someone you could talk like that to. I'll look past your fuckin' stupidity for this time. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
 {21}{005}{So you can take bets then?}
 {22}{006}{A bookmaker? You? Don't make me laugh.}
 {23}{998}{It's time to teach you some manners... [attack]}
@@ -40,7 +40,7 @@
 {30}{}{You shite, it's you who'll get your mouth caved in, if you talk like that. I'll look past your fuckin' stupidity for this time. You can adress me as "Mister". I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
 {31}{005}{So you can take bets then?}
 {32}{006}{A bookmaker? You? Don't make me laugh.}
-{33}{007}{"Mister"? "I'll look past it for the first time"? Are you fucking want to die?}
+{33}{007}{"Mister"? "I'll look past your stupidity"? Do you fucking want to die?}
 {34}{998}{It's time to teach you some manners... [attack]}
 
 
@@ -87,7 +87,7 @@
 {103}{005}{You were mentioning bets...}
 {104}{033}{What's with the bets? When's next fight?}
 {105}{034}{How much you made on my fight, fuckface?}
-{106}{032}{The weather is shitty to day, don't you think?}
+{106}{032}{The weather is shitty today, don't you think?}
 {107}{036}{I kicked the shit out of Stan.}
 {108}{999}{I gotta go.}
 {109}{038}{About the fight with that ape - I'm ready.}

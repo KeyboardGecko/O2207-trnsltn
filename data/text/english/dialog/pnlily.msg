@@ -41,7 +41,7 @@
 {14}{}{[leave Lilly alone]}
 {15}{}{[looks like the melody starts to work on a girl. She calms down and, after a few minutes, falls asleep.]}
 {16}{}{[quietly leave]}
-{17}{}{You feed the baby with a few drops of alcohol. In a couple of minutes she is calmly asleep.}
+{17}{}{You feed the baby with a few drops of alcohol. In a couple of minutes she calmly asleeps.}
 {18}{}{You sharply and precisely punch the baby in the top of her head. She goes off instantly. Now that's a skill!}
 {19}{}{You are not quite sure your experience is enough to "turn off" the baby with this stick.}
 {20}{}{The girl suffers badly, she moans and moves around.}
