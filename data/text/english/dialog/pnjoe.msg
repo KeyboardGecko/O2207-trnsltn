@@ -69,7 +69,7 @@
 {402}{999}{I'm searching. Will come back to you soon.}
 
 #Node041
-{410}{}{What the hell are ye babbling about?! I was just recently... The plank... With a dove? Oh Virgin Mary, my Nadine... [his sight becomes more clear for a moment] I remember now, yes... I really buried her... [Joe goes silent, pondering. Then he looks at you again.] Hey, ye are }
+{410}{}{What the hell are ye babblin' about?! I was just recently... The plank... With a dove? Oh Virgin Mary, my Nadine... [his sight becomes more clear for a moment] I remember now, yes... I really buried her... [Joe goes silent, pondering. Then he looks at you again.] Hey, ye are }
 {411}{}{, right? Did ye see me wife, Nadine? She was 'round here recently...}
 {412}{999}{Yeah, Joe, of course. Was around here recently. I'll go look for her.}
 {413}{999}{Crazy old man... See you around.}
