@@ -11,97 +11,97 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Злобный мертвяк.}
-{2}{}{Он смотрит на вас тяжелым взглядом из-под низко опущенных бровей.}
+{1}{}{You see angry ghoul.}
+{2}{}{He gives you a heavy look from under his big brows.}
 #
 # после знакомства
-{3}{}{Вы видите: Хьюго.}
-{4}{}{В каждом его движении читается решительность и бескомпромиссность.}
+{3}{}{You see Hugo.}
+{4}{}{Every movement he makes is filled with determination and resolve.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{Новичок! Очередной новичок из Тартара, так? Хэй, новенький, каково тебе тут, снаружи, а?}
-{11}{999}{Моя тута плохо. Идти там.}
-{12}{002}{Мне кажется, тут опаснее. И меньше еды. И холодно по ночам.}
-{13}{999}{Я-я, дверью ошибся. До свидания.}
+{10}{}{A newbie! Another runaway from Tartarus, am I right? Hey, newbie, how do you like it outside?}
+{11}{999}{Me here bad. Go there.}
+{12}{002}{I think it's more dangerous here. The food is more scarce. Cold at nights.}
+{13}{999}{I, uh- wrong door. See you.}
 
 #Node002
-{20}{}{Правильно, черт возьми! Вы, тупицы, не знаете от чего сбегаете! Хорошо - в Тартаре, плохо - в Радиусе. Точка! Поэтому нам нужно попасть в Тартар, так? Так!}
-{21}{003}{Да-а, только - как?}
+{20}{}{That's right, damn it! You, dummies, don't know what you are running from! Tartarus - good place, Radius - bad place, no options. That's why we need to get into Tartarus, right? Right!}
+{21}{003}{Uh, I guess. But how?}
 
 #Node003
-{30}{}{А вот тут и начинается самое интересное [ухмыляется гнилыми зубами]. Меня зовут Хьюго, и я тут представляю сильную сторону. Как твое имя, малыш?}
-{31}{004}{. А есть еще и другие стороны?}
-{32}{005}{ меня зовут, и я люблю сильные стороны.}
+{30}{}{That's where the interesting part starts [he scoffs with a smile full of rotten teeth]. I'm Hugo and I represent the side of power around here. What's your name, young man?}
+{31}{004}{. Are there any other sides?}
+{32}{005}{ is my name, and I'm really into the side of power.}
 
 #Node004
-{40}{}{[морщится] Есть... Есть древняя развалина - Боно. Он, вроде как, пытается решить нашу проблемку мирным путем, но хрен у него что получится.}
-{41}{010}{А можно узнать поподробнее?}
-{42}{999}{Понятно. Я обязательно зайду позже узнать подробности.}
+{40}{}{[he wrinkles] There are, sure... There's this ancient wreck, Bono. He is, like, trying to deal with our problem the peaceful way, but by now he was able to do jack about it.}
+{41}{010}{Can you tell me more?}
+{42}{999}{I see. I will definitely come back later for details.}
 
 #Node005
-{50}{}{В таком случае - добро пожаловать, }
-{51}{}{! Я бы тебя обнял, да только брезгую ::хохочет:: Скоро нам предстоят великие дела, а?}
-{52}{010}{А можно узнать поподробнее?}
-{53}{999}{Понятно. Я обязательно зайду позже узнать подробности.}
+{50}{}{In this case - welcome, }
+{51}{}{! I would hug you, but I'm not really into hugs [laughs] We are destined to do great things, aren't we?}
+{52}{010}{Can you tell me more?}
+{53}{999}{I see. I will definitely come back later for details.}
 
 #Node010
-{100}{}{Выкладывай, с чем пришел? Дела не ждут.}
-{101}{}{Давай, только быстро.}
-{102}{011}{О каких "делах" ты постоянно говоришь?}
-{103}{020}{Чем я могу вам помочь?}
-{104}{030}{Ты просил вам помочь.}
-{105}{040}{Кому здесь можно доверять?}
-{106}{999}{Ничего, мне пора.}
+{100}{}{Spill it out. I have things to take care of.}
+{101}{}{Come on, make it quick.}
+{102}{011}{What "great things" are you talking about all the time?}
+{103}{020}{How can I help you?}
+{104}{030}{You asked to help you...}
+{105}{040}{Who can I trust around here?}
+{106}{999}{It's nothing, I'll better go.}
 
 #Node011
-{110}{}{Я говорю о человеческой жизни, сынок. О жизни в тепле и достатке, где не придется жрать дохлых крыс и скрипеть зубами от холода. Я тебе говорю о жизни в Тартаре, но не как рабы, а как свободные люди!}
-{111}{013}{То есть... Ты предлагаешь ЗАХВАТИТЬ Тартар?}
-{112}{012}{Не до конца понимаю твою мысль.}
-{113}{999}{Звучит как-то сомнительно. Лучше я пойду отсюда.}
+{110}{}{I'm talking about better life, son. Life in warmth and safety, where you won't have to eat dead rats to survive and screech you teeth from cold at night. I'm talking about the life in Tartarus, not as slaves, but as free people!}
+{111}{013}{You mean... You plan to TAKE OVER the Tartarus?}
+{112}{012}{I don't quite get where this is going.}
+{113}{999}{Sounds dubious... I'll better go.}
 
 #Node012
-{120}{}{Подумай ты своей головой - в Тартаре всего пара вооруженных охранников, а пока остальные успеют сообразить что произошло - мы уже замуруем все подходы. Никто не войдет к нам, мы уж позаботимся об этом!}
-{121}{010}{Даже не знаю, звучит довольно опасно... Я подумаю об этом. Можно еще вопрос.}
-{122}{999}{Ого, это надо обдумать. [выйти]}
+{120}{}{Think for yourself - Tartarus is guarded only by a couple of armed guards. While the others will realize what happened, we already brick up other entrances! No one enters us, we'll take care of this for sure!}
+{121}{010}{I don't know, sounds pretty dangerous... I'll think about it. Can I ask another question?}
+{122}{999}{Wow. I need to think about it. [leave]}
 
 #Node013
-{130}{}{Захватить - слишком грубое слово, я предпочитаю фразу - забрать. Мы заберем себе то, что нам нужнее. Эти военные придурки из Тартара пусть живут в своей башне, а нам Тартар нужнее.}
-{131}{010}{Даже не знаю, звучит довольно опасно. Я подумаю об этом. Можно еще вопрос.}
-{132}{999}{Ого, это надо обдумать. [выйти]}
+{130}{}{"Take over" is a harsh word. I prefer to use the phrase "take away". We will take away what is more needed for us. Let this militarists idiots in armored suits live in their tower, we claim only the Tartarus.}
+{131}{010}{I don't know, sounds pretty dangerous... I'll think about it. Can I ask another question?}
+{132}{999}{Wow. I need to think about it. [leave]}
 
 #Node020
-{200}{}{Помочь? ТЫ!? Ты поможешь, если не будешь путаться под ногами, или закроешь нас своим телом от пуль! Ну хорошо-хорошо, ты действительно можешь помочь в нашем деле. Нужно достать кое-какие медикаменты, чтобы моим бойцам было сподручнее забирать наш теплый уголок.}
-{201}{021}{Какие именно нужны медикаменты?}
-{202}{999}{Не-ет, я хотел воевать. Я сам тогда разберусь.}
+{200}{}{Help? YOU!? You can get of our way or protect us from bullets with your body! Well, okay, okay, we actually could use your help. We need some medical supplies for our soldiers, so they would feel more comfortable while taking away our beloved place.}
+{201}{021}{Which medical supplies?}
+{202}{999}{Nah, I thought I would be fighting. Will handle it myself then.}
 
 #Node021
-{210}{}{5 упаковок Хилл-Ап и 1 комбатид, лично для меня. Я собираюсь поразвлечься на славу, и не хочу рисковать зазря своей шкурой, а комбатид сделает все за меня. Ну так как, берешься достать нам инъекции?}
-{211}{QA}{Не знаю что это, но я это достану. Как только они будут у меня - сразу пойду к тебе.}
-{212}{999}{Хилл-Ап, Комбатид. Я таких слов-то не знаю, а уж тем более, где их достать. Нет, это слишком сложно, разбирайтесь сами.}
+{210}{}{5 packs of Heal-Up and 1 Combatid, personally for me. I'm going to have a real fun, so I don't want to take risk just like that. Combatid will do everything for me. So, will you deliver?}
+{211}{QA}{I don't know what it is, but I'm going to get it. I'll return to you when I do.}
+{212}{999}{Heal-Up, Combatid... I don't even know such words, not talking about where to get something like this. No, it's too difficult. Handle it yourselves.}
 
 #Node030
-{300}{}{[передразнивает] "просил помочь" ::хррртьфу:: ты сам вызвался чуть облегчить нам победу. Принес что должен был?}
-{301}{999}{Нет, но скоро весь набор будет у меня.}
-{302}{031}{Да, вот все [передать Хьюго инъекции]}
-{303}{032}{Я так долго искал, что забыл, сколько чего нужно было принести.}
+{300}{}{"Asked to help you", my ass [he spits on the ground]. It was you, who volunteered. Did you get what you needed to?}
+{301}{999}{No, but soon I'll bring everything.}
+{302}{031}{Yes. Here [give Hugo injectors]}
+{303}{032}{I've been searching for so long that I forgot what exactly should I bring... And how many.}
 
 #Node031
-{310}{}{Давай-давай. Да не урони ты! Вот ведь руки кривые. Эй, ребята, пришла гум. помощь! По одной инъекции на каждого, разбирайте... Ну как, все готовы забрать себе счастливое будущее? Выступаем немедленно! Скажите кто-нибудь Робину, чтобы догонял нас, я не могу больше ждать. Вперед!!!}
-{311}{999}{[взглядом проводить банду Хьюго]}
+{310}{}{Yeah, give it to me. Don't drop it! Oh, your crooked hands... Hey guys, a little help here!! One injection per person, take it away... Well? Are you ready to take back our happy future?! We are deploying immediately!! SOmebody, tell Robin to catch up, I can't wait any longer. Let's go!!}
+{311}{999}{[observe how Hugo and his fighters go away]}
 
 #Node032
-{320}{}{Память - как у бабы. У меня 5 бойцов, каждому нужен Хилл-Ап, то есть всего 5. И мне - комбатид, потому что я тут самый ценный, понятно?}
-{321}{999}{Ясно. Да, скоро все принесу.}
+{320}{}{Memory of a goldfish... I have five fighters, each needs one Heal-Up, so five total. I personally need Combatid, because I'm the most valuable here. Understood?}
+{321}{999}{Understood. Will get back soon.}
 
 #Node040
-{400}{}{Доверять? Даже не знаю. Мой тебе совет, малыш - никому не доверяй. Узнал секрет - держи при себе, целее будешь. Радиус не любит болтунов, он их пережевывает и выплевывает, потому что как только ты выдал информацию - в тебе больше нет нужды. Слушай и молчи - и проживешь подольше.}
-{401}{}{Доверять? Мне ты можешь доверять, за других не скажу. Все здесь какие-то... хитрожопые.}
-{402}{041}{Ясно. Даже детям нельзя доверять.?}
-{403}{010}{Угу. Можно еще вопрос?}
+{400}{}{Trust? I don't even know. A piece of advice, kid - don't trust no one. If you learn a secret - keep it to yourself, be healthy. Radius doesn't like blabbers, it chews them down and spits them out, because if you gave out the information - it has no need for you anymore. Listen and keep silence. You'll live long enough.}
+{401}{}{Trust? You can trust me. I won't answer for the others. Everyone here is so... Smart-ass.}
+{402}{041}{I see. Even the kids?}
+{403}{010}{I see. Another question.}
 
 #Node041
-{410}{}{Ха, здесь нет детей! Кроме этой мелкой сопли, отпрыска Марты. Кажись девчонку зовут Лили. Ее недавно ужалил скорпион, так тут все просто с ума посходили. Чертова девчонка только тормозит нас. Пока с ней все цацкаются давно бы уже собрались вместе и забрали Тартар себе.}
-{411}{999}{Лили, да? Ну спасибо, пойду навещу ее.}
-{412}{010}{И мы были детьми. Можно еще спросить?}
+{410}{}{Hah, there are no kids here! Except that little snot, Martha's offspring. I think her name is Lilly. She was recently bit by a scorpion, everyone went crazy about it. Damn girl is only slowing us down. Instead of dealing with her, everyone could get together and storm the Tartarus already.}
+{411}{999}{Lilly, you say? Thanks, I'll go find her.}
+{412}{010}{We were the kids once. Can I ask another question?}
