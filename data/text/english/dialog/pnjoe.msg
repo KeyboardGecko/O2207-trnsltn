@@ -11,65 +11,65 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: нервный старик.}
-{2}{}{Странноватый старый фермер.}
+{1}{}{You see a nervous old man.}
+{2}{}{Strangely-looking old farmer.}
 #
 # после знакомства
-{3}{}{Вы видите: Джо.}
-{4}{}{Слегка сумасшедший старый Джо.}
+{3}{}{You see Joe.}
+{4}{}{A little crazy old fellow Joe.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{Кто ты такой, а? А-ну отвечай!}
-{11}{002}{Я-я - }
-{12}{002}{, а ты кто? И что ты тут делаешь, старик?}
-{13}{002}{Имя - }
-{14}{002}{, я тут новенький. Ты кто такой?}
-{15}{999}{Да я просто отлить хотел... Найду другое место.}
+{10}{}{Who are ye, huh? Answer me!}
+{11}{002}{Uh, I'm - }
+{12}{002}{, and who are you? And what are you doing here, old man?}
+{13}{002}{The name is - }
+{14}{002}{, I'm here recently. Who are you?}
+{15}{999}{I just wanted to take a leak... I'll find another place.}
 
 #Node002
-{20}{}{А-а? [прикладывает руку к уху] Что-что? Я кто? Да я же Джо, меня тут последняя крыса знает. Я тут ищу свою жену - Надин. Хорошенькая такая, смугленькая. Не видел ее? Что-то давненько ее не было видно.}
-{21}{010}{Эмм, нет, не видел. На самом деле я хотел спросить кое что.}
-{22}{010}{А? Жена? Нет, не видал. У меня тут вопросик есть.}
-{23}{030}{Хмм... Не видел, но мог бы ее поискать.}
-{24}{999}{Надин? Да ну тебя, старый.}
+{20}{}{Whut? [he puts palm to his ear] Whut-whut? Who am I? I'm Joe, even the last rat knows me 'round here. I'm lookin' fer my wife, Nadine. A reel beauty, tan and stuff. Did you two meet? I haven't seen 'er in a long time...}
+{21}{010}{Uh, no, I didn't see her. I actually wanted to ask something.}
+{22}{010}{What? Wife? No. I have a question though.}
+{23}{030}{Hmm... No, but I could look for her.}
+{24}{999}{Nadine? Nah, old man.}
 
 #Node010
-{100}{}{А? Снова ты? Что надо-то?}
-{101}{}{Да валяй, спрашивай.}
-{102}{020}{Чем ты тут занимаешься?}
-{103}{030}{Ты вроде жену потерял? Может я могу помочь?}
-{104}{040}{Ты просил помочь жену найти...}
-{105}{999}{Вообще-то мне пора идти.}
+{100}{}{Huh? Ye again? Whatcha need?}
+{101}{}{Go on, ask.}
+{102}{020}{What is it you do here?}
+{103}{030}{You said you had lost your wife? Maybe I can help?}
+{104}{040}{You asked to help you find your wife...}
+{105}{999}{Actually, I've got to go.}
 
 #Node020
-{200}{}{А тебе-то что, а? [смотрит на Вас прищуренным глазом] Хожу, брожу, никого не бережу и есть не прошу. Грядки я тут собираюсь вскопать, только подожду, пока Присли сдохнет, хе-хе-хе.}
-{201}{021}{Присли?}
-{202}{010}{А-а, ну ясно. Можно еще спросить?}
-{203}{999}{Странный ты, Джо. Мне пора идти.}
+{200}{}{What's innit fer ya? [he squints] I'm just walkin'n'talkin'. Plannin' on tendin' them crops, waitin' only fer that lad Priestley to kick the bucket, heh-heh-heh.}
+{201}{021}{Priestley?}
+{202}{010}{Oh, I see now. Can I ask something else?}
+{203}{999}{You are definitely a weird one, Joe. I need to go.}
 
 #Node021
-{210}{}{Да-да, тот мертвяк. Погоди-ка, так он ведь уже сдох! Тьфу, черт, вокруг не везет старику: [задумчиво чешет затылок]}
-{211}{999}{Эмм, да-а? Ну мне, пожалуй, пора идти.}
+{210}{}{Yeah, that dead fella. Wait a minute, he did actually die! Oh damn, no luck fer the old man... [scratches the back of his head]}
+{211}{999}{Uh, really? Okay, I need to go now.}
 
 #Node030
-{300}{}{Ты? Ты свою рожу в зеркале видел? Ты же - БЕЛЫЙ! Это же вы, БЕЛЫЕ, ее и украли, мою Надин! Нет-нет-нет, вам, белым, доверять нельзя, иди, помогай кому другому [демонстративно отворачивается]}
-{301}{999}{Да ну тебя [уйти]}
-{302}{998}{Эй, ты чего это, нарываешься? [отвесить Джо оплеуху]}
-{303}{}{Помочь?.. ::жамкает челюстями:: Да-а, ты мог бы помочь. Вы, черные, должны друг друга чуять, а? [задорно подмигивает] Ну что сказать, Надин ее зовут. Невысокая, крепенькая, очень симпатичная негритяночка. Да ее тут все знают, но не говорят, куда она подевалась. Может, разлюбила она меня? О-ох, не знаю, не знаю.}
-{304}{QA}{Надин, значит? Ок, поищу ее.}
-{305}{999}{Ммм, нет, знаешь, не охота мне за чужими женами бегать. У меня своих дел полно. Пока!}
+{300}{}{You? Did you see yer ass in the mirror? Ye are WHITE! Ye white boys are the ones who stole my Nadine from me! No, no-no-no, no trust fer ya, go be buggin'  someone else [he demonstratively turns around]}
+{301}{999}{Screw that [leave]}
+{302}{998}{Hey, you're asking for it [slap Joe in the face]}
+{303}{}{Help?.. [chews with his gums] Yeah, ye could help. We, the blacks, should look out for each other, ain't we? [he winks] What can I say, the name's Nadine. Not a tall one, pretty sturdy and cute black woman. Everybody knows her here! But no one tells me where she is... Maybe she doesn't love me anymore. Oh, I don't know, I don't know...}
+{304}{QA}{Nadine, you say? I'll go look for her.}
+{305}{999}{Er, you know, I don't want to run around chasing some wives. I have a lot of my own. See you!}
 
 #NodeQA
 
 #Node040
-{400}{}{Ну-у, нашел что-нибудь? Долго больно тебя не было!}
-{401}{041}{Да, нашел... Джо, она давно мертва, ты сам ее хоронил. Еще табличку на крест сделал красивую такую, резную, с голубкой.}
-{402}{999}{Поиски идут, скоро я ее найду.}
+{400}{}{Well, did ye find something? Ye weren't here for a long time!}
+{401}{041}{Yes Joe, I found her. She is dead. You buried her yourself. Even made a little memorial plank. With a dove.}
+{402}{999}{I'm searching. Will come back to you soon.}
 
 #Node041
-{410}{}{Да что за вздор ты несешь! Я же ее только недавно... Табличка с голубкой?.. О дева Мария, моя Надин... [похоже, взгляд Джо немного прояснился] Теперь я припоминаю, да-а... Действительно, похоронил... [Джо погружается в себя на пару минут. Потом он поднимает на Вас взгляд] Хэй, ты же }
-{411}{}{, так? Ты не видел мою жену, Надин? Недавно вроде здесь была...}
-{412}{999}{Да, Джо, конечно. Недавно она была где-то здесь. Пойду, поищу ее.}
-{413}{999}{Сумасшедший старик. Бывай.}
+{410}{}{What the hell are ye babbling about?! I was just recently... The plank... With a dove? Oh Virgin Mary, my Nadine... [his sight becomes more clear for a moment] I remember now, yes... I really buried her... [Joe goes silent, pondering. Then he looks at you again.] Hey, ye are }
+{411}{}{, right? Did ye see me wife, Nadine? She was 'round here recently...}
+{412}{999}{Yeah, Joe, of course. Was around here recently. I'll go look for her.}
+{413}{999}{Crazy old man... See you around.}
