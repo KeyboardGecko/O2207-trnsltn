@@ -11,114 +11,114 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: несчастный мертвяк.}
-{2}{}{Он выглядит очень, ОЧЕНЬ несчастным.}
+{1}{}{You see a sad ghoul.}
+{2}{}{He looks VERY sad.}
 #
 # после знакомства
-{3}{}{Вы видите: Присли.}
-{4}{}{Как обычно Присли бубнит что-то себе под нос.}
+{3}{}{You see Priestley.}
+{4}{}{As usual, Priestley mumbles something under his nose.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{А? Еще один, да? Ничего, и тебе недолго мучиться. Если только тебе не "повезет" стать таким, как я...}
-{11}{002}{Что? О чем ты говоришь, чудище?}
-{12}{003}{Кто ты? И почему я стану таким же, как ты? Мне бы этого не хотелось...}
-{13}{999}{Моя идти там. Не тут.}
-{14}{999}{Да, я, пожалуй, уже пойду.}
+{10}{}{Huh? Another one? It's okay, you won't suffer for long. Only you're lucky enough to turn into something like me...}
+{11}{002}{What? What are you talking about, you monster?}
+{12}{003}{Who are you? And why should I turn into something like you? I wouldn't like that...}
+{13}{999}{Me go there. Not here.}
+{14}{999}{I think it's time for me to leave.}
 
 
-{20}{}{Чудовище!? Чудовище... Ну да, так оно и есть. Я уже много лет как... чудовище. Меня зовут Присли, а когда-то я и был Присли. Если ты понимаешь, ведь сейчас я - вот это.}
-{21}{010}{Понятно. А меня зовут }
-{22}{010}{, расскажи мне...}
-{23}{999}{Я слышу только бла-бла-бла. Не интересует.}
+{20}{}{Monster!? Monster... Yeah, I guess that's how it is. I've been a "monster" for many years now. The name's Priestley - and I *was* Priestley once, If you know what I mean. Because now I'm "that".}
+{21}{010}{I see. I'm }
+{22}{010}{, can you tell me something?..}
+{23}{999}{All I hear is blah-blah-blah. Not interested.}
 
 
-{30}{}{Я - Присли. Точнее - я когда-то им был, до того, как стать... вот этим. Насколько я понимаю - любой может превратиться в мертвяка.}
-{31}{010}{Понятно. А меня зовут }
-{32}{010}{, я хотел бы узнать поподробнее обо всем этом.}
-{33}{999}{По-моему, все это - чушь и сказки. Я пошел.}
+{30}{}{I'm Priestley. More precisely, I WAS Priestley, before I turned into...this. As far as I know, anyone can turn into the ghoul.}
+{31}{010}{I see. I'm }
+{32}{010}{, I'd like to know more about it.}
+{33}{999}{Looks like it's all bullshit and fairy tales. I'm out of here.}
 
 
-{100}{}{[поднимает на Вас свои грустные мутные глаза мертвяка] Ах, снова ты? ::вздох:: Ну как, живешь потихоньку?}
-{101}{}{Ну конечно, спрашивай что хочешь.}
-{102}{020}{Расскажи о себе, как ты здесь оказался?}
-{103}{030}{Что это за место?}
-{104}{040}{Здесь какие-то грядки... Зачем это?}
-{105}{050}{Ты просил помочь тебе с удобрениями...}
-{107}{060}{Как твой огород? Растет что-нибудь?}
-{108}{070}{Ты мне должен 15 штук. Достал?}
-{109}{999}{На самом деле мне уже пора.}
-
-
-
-{200}{}{Ну-у, если ты правда хочешь знать... ::вздох:: Я был когда-то миссионером, нес слово великого Бога ::тьфу:: Кифякуса по всему Радиусу, рассказывал смердам о тридцати прекрасных девственницах, что ждут каждого смиренного после смерти! [похоже он увлекся] Но видишь, как жестоко Кифякус ::тьфу:: обошелся со мной. Я был красавцем, моя благословенная ямочка на подбородке раздвигала коленки любой девы... [закатывает глаза, погружаясь в воспоминания] Но я начал увядать.}
-{201}{021}{В каком смысле? Ты заболел?}
-{202}{}{Я когда-то был красавцем, но Боги ::тьфу:: прокляли меня, и я превратился вот в это. Что тут еще сказать?.. Слава богу ::тьфу:: что Робин притащил меня сюда, а то шакалы сожрали бы меня полуживого.}
-{203}{010}{Значит, боги прокляли? Ясно. Я хотел бы еще спросить.}
-
-
-{210}{}{Да, наверно заболел. Кифякус, чтоб ты горел в своем аду!, наслал на меня немоготу, и я прилег в тени скалы подремать. Очнулся я уже здесь, вот в таком виде. Кожа опадала лохмотьями, нос отвалился, челюсть еле держится... Ты видишь, в кого я превратился!? Будьте прокляты все боги, существующие и нет!}
-{211}{010}{Мда-а, не повезло. Я бы еще хотел спросить.}
-{212}{999}{Вижу, тебя лучше оставить на время.}
-
-
-{300}{}{Это - дом, или, скорее - берлога. Тут живут все изгои, отверженные, те - кто не смог прижиться в Радиусе. Как видишь, много здесь и таких - как ты. Наивные дураки, сидели бы в своем Тартаре, да набивали животы.}
-{301}{031}{С этим понятно, но ЧТО это за место? Тут какие-то огромные машины...}
-{302}{010}{Наверно, ты прав. Я еще хотел бы узнать кое-что.}
-{303}{999}{Этот разговор меня утомил.}
-
-
-{310}{}{Вроде бы это называлось "сабвэй", еще до Войны. Говорят, люди копали огромные многомильные туннели под землей, чтобы перевозить других людей на длинных железных машинах... По-моему, так это звучит глупо, ведь гораздо проще ездить по земле. В общем, никто не знает, для чего нужно было это место, но сейчас оно оберегает нас хотя бы от диких шакалов.}
-{311}{032}{Как интересно! Я хочу узнать больше!}
-{312}{010}{Занимательно. Я еще хочу спросить.}
-
-
-{320}{}{Извини, ничего больше не знаю. Может быть Боно больше знает об этом месте. Помнится, это он рассказывал нам про "сабвэй", но... Знаешь, он уже давно потихоньку теряет разум. Как и все мы.}
-{321}{010}{Угу. Я подумаю над этим. Еще вопрос?}
-
-
-{400}{}{Ах это... Да, я пытаюсь выращивать кукурузу, но ничего не выходит! Как-то из Тартара пришла девушка с полными карманами зерен, она-то мне и рассказала, что можно выращивать еду прямо под ногами.}
-{401}{041}{Так что же идет не так?}
-{402}{999}{О-о, я знаю, что это такое. Нет, это меня не интересует.}
-
-
-{410}{}{Даже не знаю... Я потратил кучу времени, разбирая тут пол, разрыхляя землю, делая боровки... Я ведь их даже поливаю! Но растут только стебли, они не плодоносят [хватается руками за голову] Говорят, землю нужно удобрять, но лавашье дерьмо, похоже, только все портит!}
-{411}{042}{Так может быть нужно удобрять чем-то другим? Э-эх, Кэтти могла бы подсказать, как быть.}
-
-
-{420}{}{Да, вроде бы есть один рецепт отличного удобрения, но я никак не могу его замешать. Нет ни компонентов, ни умения... Вот если бы ты смог мне принести мешочек такого удобрения... Я не богат, но я бы нашел, как с тобой расплатиться.}
-{421}{QA}{Ну а что, почему бы и нет? Рассказывай подробно, что и как надо намешать?}
-{422}{999}{Эмм, нет, извини. Удобрения - не мой профиль. Мне пора идти.}
-
-
-{430}{}{Отлично! Я очень на тебя рассчитываю! Слушай внимательно: нужно собрать в пакет сухие листья, где-то охапку ладони  в две. К ним добавить размятое в пюре яблоко, и обсыпать это все горстью золы. После этого нужно в пакет влить бутылку виски и сразу же плотно его завязать да встряхнуть как следует, чтобы брожение пошло. Вот вроде бы и все. Рецепт нехитрый, но у меня совсем нет сил этим заниматься. Да и виски - не такой уж дешевый напиток. Вроде бы слушок был, что у каких-то жителей элитного убежища виски - хоть залейся, только вот правда это или нет - увы не знаю...}
-{431}{999}{Ага, понятно. Думаю, я легко с этим справлюсь, не волнуйся.}
-{432}{999}{Пфф, ну-у, яблоки я уже умею находить, отыщу и остальное. Скоро будут тебе удобрения.}
-
-
-{500}{}{Да-да, мои кукурузинки с нетерпением ждут!}
-{501}{999}{Извини, оно еще не готово.}
-{502}{051}{Ну так порадуй их! Вот пакет с твоей смесью [отдать Присли вонючий мешок]}
-
-
-{510}{}{[Присли с готовностью и трепетом берет из Ваших рук мешок] Ну-у, наконец-то великий Кифякус вновь благосклонен ко мне. Может, зря я его поносил, а? Спасибо друг мой, да прибудут к тебе после смерти 30 прекрасных девственниц! Если у меня будет урожай - я обязательно с тобой поделюсь!}
-{511}{999}{Да ладно, это было совсем не сложно. Удачи тебе в твоем огородстве!}
-{512}{052}{Эй, мы так не договаривались! Плати 15 батареек!}
-
-
-{520}{}{[глаза Присли медленно вылезают из орбит] Ч-ч-что? Н-н-но у м-м-еня нет т-т-таких с-с-средств...}
-{521}{Recket}{Долг платежом красен. Я вернусь через пару дней, и хочу забрать свои батарейки. Ищи где хочешь. Свободен.}
-{522}{999}{Да я же просто пошутил! Слов благодарности мне достаточно. Удачи, Присли.}
+{100}{}{[He looks at you with his sad, cloudy ghoul's eyes] Oh, you again? [sighs] How are you? Living by?}
+{101}{}{Of course. Ask anything you want.}
+{102}{020}{Tell me about yourself. How did you end up here?}
+{103}{030}{What is this place?}
+{104}{040}{I see here some crops... What is it?}
+{105}{050}{You asked me to help you with a fertilizer...}
+{107}{060}{How's your garden? Grown anything?}
+{108}{070}{You owe me 15 batteries. Did you get it?}
+{109}{999}{Actually, I've got to go.}
 
 
 
+{200}{}{Well, if you really want to know... [he sighs] I was once a missionary of a great god named [he furiously spits] Chiefacus. I carried his word all around the Radius, telling every peasant about the heavens and thrirty beautiful virgins, awaiting them after death!.. [looks like he got carried away] And now you see how harsly Chiefacus [he furiously spits] dealt with me. I was so handsome, my beautiful holy chin dimple could get me between the legs of any woman... [he rolls eyes, pondering into memories] But then I withered.}
+{201}{021}{What do you mean? Did you get sick?}
+{202}{}{I was a handsome man once, but the Gods [he furiously spits] cursed me, and I turned into *this*. What else can be said?.. Thank God [he furiously spits] that Robin brought me here, or I would have been eaten by jackals in the desert.}
+{203}{010}{So the Gods cursed you? I see. I have another questions.}
 
-{600}{}{Да-а, удобрение помогает! Кукуруза начала плодоносить! Вот тебе немного початков за твою помощь [передает Вам початки кукурузы] Бери-бери, отказа я не приму!}
-{601}{999}{Хэх, ну спасибо. Рад был услужить.}
-{602}{}{Да-а, дела идут заметно лучше. Через несколько дней можно уже будет собирать урожай!}
-{603}{999}{Я рад, что смог помочь. Удачи.}
+
+{210}{}{Yes, probably I did. Chiefacus, may he burn in his hell, put some illness on me, as I went to nap in the shadow of mountain cliffs. I woke up already like this. Skin sagging and rotting, fell-off nose, the jaw barely holding up... Do you see what I've become!? Curse you, Gods, existing or not!!}
+{211}{010}{Yeah, tough luck. I have another questions.}
+{212}{999}{I see it's better to leave you alone for a while.}
 
 
-{700}{}{Н-н-но у мм-меня н-н-ет таки с-с-средств... Я ч-ч-честно п-п-п-ытаюсь их н-н-н-найти, н-н-нооо... О-о-ох...}
-{701}{999}{Ищи лучше, или у тебя будут неприятности!}
-{702}{RecketOff}{Ладно, прощаю тебе долг. Но больше никому ничего не обещай, если не можешь выполнить.}
+{300}{}{This is our home, or the hole we live in, I'd say. Here's where outcasts are settled in - I mean everyone who couldn't fit into the Radius. As you see, there are lot of the ones like you. Naive fools, why didn't they sit tight in their Tartarus, getting their stomachs full...}
+{301}{031}{I got that, but what IS this place actually? I see some huge machines...}
+{302}{010}{Probably, you're right. I have another question.}
+{303}{999}{I'm tired of talking. See you.}
+
+
+{310}{}{I think it was called "the subway" before the War. It is said that people were digging a long tunnels underground to drive other people around on a big iron carriages... It sounds very stupid, if you ask me. It is much easier to move by the surface. What I mean is that novadays no one knows why the hell this place was created, but at least it gives us some protection against wild beasts.}
+{311}{032}{Fascinating! I want to know more!}
+{312}{010}{Interesting. I have other questions.}
+
+
+{320}{}{Sorry, but that's all I know. Maybe Bono could tell you more. It is him who told us about "the subway". Although... You know, he slowly loses it. As we all are.}
+{321}{010}{Hm. I'll think about it. Another question.}
+
+
+{400}{}{Oh, *that*... Yes, I'm trying to grow some corn, but it's not working out. There was a girl from Tartarus with full pockets of seeds. She told me you could grow your food right beneath your feet.}
+{401}{041}{So? What could be wrong?}
+{402}{999}{Oh, I know, what it is. No, I'm not interested.}
+
+
+{410}{}{I don't even know... I wasted a lot of time - disassembling the floor tiles, preparing soil, making patches... I even watered the crops! But I could grew only stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that lavash waste only makes it worse!}
+{411}{042}{Maybe you need something else to fertilize it then? Man, I could really use Catty's advice on that.}
+
+
+{420}{}{Yeah, there is even a recipe for creating a real fertilizer. I just can't make it - have no components. And, uh, no skill... Maybe if you could bring me a little bag of it? I don't have much, but I would find what to pay you.}
+{421}{QA}{Sure, why not? Tell me details, what should I do?}
+{422}{999}{Uh, no, sorry. The fertilizer is not my speciality. I need to go.}
+
+
+{430}{}{Great! I'm counting on you so much! Listen carefully: you need to take a full bag of leaves, around two stacks. Add mashed apple and sprinkle with some ash. After that, you should pour a bottle of whiskey into the mixture, lock the bag tight and shake it, to start fermentation process. And that's it. Not very hard, right? Except I have no time to deal with the matter. And the whiskey is not cheap, you know. There was a rumor that dwellers of some elite vault in the Radius has so much of it it pours out, but is it true? I don't know, sadly...}
+{431}{999}{Understood. Well, I think I can easily handle it, don't worry.}
+{432}{999}{Hah. Well, I can find some apples. If i can find some apples, I can find other stuff too. Wait for your fertilizer, I'll be right back.}
+
+
+{500}{}{Yes? My corns are waiting!}
+{501}{999}{Sorry, it's not done yet.}
+{502}{051}{Go make them happy then! Here's the bag of fertilizer you need. [give Priestley the stinky bag]}
+
+
+{510}{}{[Priestley readily takes the fertilizer from your hands] At last the holy Chiefacus favors me again! Maybe I should't have been so harsh to him? Thanks, my friend, may the thirty virgins be with you after you die! If I get any harvest - I'll definitely share!}
+{511}{999}{Come on, this wasn't so hard at all. Good luck to you in your gardening.}
+{512}{052}{That was not the deal! Pay 15 batteries!}
+
+
+{520}{}{[Priestley's eyes slowly pop out] W-w-wh-what? B-b-bu-but I d-do-don't h-have s-s-uch m-money...}
+{521}{Recket}{Time to pay your debts. I'll come back in a couple of days. I want my batteries. I don't care where you get it. Go.}
+{522}{999}{I was just kidding. Your gratitude is enough. Good luck, Priestley.}
+
+
+
+
+{600}{}{Yes! The fertilizer really helped! The corn started to yield harvest. Here, have some cobs [gives you some corn cobs] Take it, I won't take no for an answer!}
+{601}{999}{Hah, well, thanks. Glad to be of help.}
+{602}{}{Yes, I think all goes better than before. In a few days I'll take harvest!}
+{603}{999}{Glad I could help. Good luck.}
+
+
+{700}{}{B-bu-but I d-don't h-have s-s-uch m-money... I-I-I am ho-h-honestly try to find them, b-b-bu-but... Oh, m-man...}
+{701}{999}{Try better, or else!}
+{702}{RecketOff}{Okay, I forgive you your debt. Don't take any promises if you can't live up to them.}
