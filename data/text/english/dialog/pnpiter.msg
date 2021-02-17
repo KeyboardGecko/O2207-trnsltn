@@ -11,119 +11,119 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: чернокожий здоровяк.}
-{2}{}{Этот Слуга Технологий выглядит на удивление здоровым.}
+{1}{}{You see a huge black guy.}
+{2}{}{This technology servant looks surprisingly big.}
 #
 # после знакомства
-{3}{}{Вы видите: Питер.}
-{4}{}{Питер - зав. хозяйством на станции и помощник Боно.}
+{3}{}{You see Peter.}
+{4}{}{Peter is responsible for keeping things working on the station and helping Bono.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #NodeStop1
-{50}{}{Стой где стоишь! В туалет путь закрыт, там опасно!}
-{51}{999}{Умм?.. Эмм... Угу.}
-{52}{Stop2}{Почему? Что там такое?}
-{53}{999}{Ок, зайду попозже.}
+{50}{}{Stay where you are! The toilet is out of order!}
+{51}{999}{Huh?.. Um... Uh-huh.}
+{52}{Stop2}{Why? What's in there?}
+{53}{999}{Okay, I'll come by later.}
 
 #NodeStop2
-{55}{}{Во-первых, последний рабочий унитаз засорился, и делать там все равно нечего. Во-вторых, тот новичок, что пошел прочищать унитаз, похоже, потерял сознание, и теперь им пируют крысы, а крысы здесь, скажу тебе - очень голодные и опасные. Одним словом - туалет закрыт.}
-{56}{002}{Ага, спасибо за предупреждение. Кстати, меня зовут }
-{57}{002}{, и я тут...}
-{58}{QA}{Так может я могу помочь, а?}
-{59}{999}{Ого, понятно! Ну спасибо что предупредил.}
+{55}{}{Firstly, the last working toilet is clogged, so there's nothing to do anyway. Secondly, seems that the last new guy, who went to plunge the toilet, lost his consciounsness in the process, and now rats are feasting on him. And the rats here are VERY dangerous and hungry. So the bottom line is - the toilet is out of order.}
+{56}{002}{Thanks for the warning. I'm }
+{57}{002}{, by the way, and I am...}
+{58}{QA}{Maybe I could help then?}
+{59}{999}{Oh, I see! Thanks for the warning.}
 
 #Node001
-{10}{}{[невозмутимо смотрит Вам в глаза] Что тебе?}
-{11}{999}{Умм?.. Эмм... Угу.}
-{12}{002}{Эээ... День добрый, меня зовут }
-{13}{002}{, и я тут...}
-{14}{999}{Ничего. Совсем ничего.}
+{10}{}{[Looks at you unfazed] What do you need?}
+{11}{999}{Huh?.. Um... Uh-huh.}
+{12}{002}{Uh, hey. I'm }
+{13}{002}{, and I am...}
+{14}{999}{Nothing. Nothing at all.}
 
 #Node002
-{20}{}{...новенький. Это понятно, все тут новенькие, просто одни пришли только вчера, а другие - много лет назад. Вот и вся разница. Меня зовут Питером, я тут помогаю Боно по хозяйству. Должен ведь хоть кто-то следить за тем, чтобы здесь стены не рухнули. Так вот - это я. Я этим занимаюсь.}
-{21}{010}{Ага, хотелось бы поподробней узнать.}
-{22}{999}{Ок, еще увидимся, Питер.}
+{20}{}{...New. That's understandable. Everyone here is. Except some came yesterday, while others - many years ago. That's all the difference there is. I'm Peter. I'm helping Bono to run things here. Someone should keep the walls holding the roof, and that's me. I'm doing it.}
+{21}{010}{Okay. I'd like to know something.}
+{22}{999}{Okay. See you around, Peter.}
 
 #NodeWarn
-{31}{}{Эй, я тут слышал, что ты якшаешься с Хьюго, а? Делай что хочешь, но не помогай этому психопату, он всех нас подставит под удар! Что бы он у тебя не попросил - не помогай ему!}
-{32}{999}{Я учту это.}
-{33}{999}{Эй, я свободный человек! Что хочу - то и делаю. Бывай.}
+{31}{}{I heard that you are hob-nobbing with Hugo, is that right? Do what you want, but don't help this psycho with his plans, he'll put everyone here in danger. If he asks for anything - don't do it!}
+{32}{999}{I'll consider that.}
+{33}{999}{Hey, I'm a free man! I do what I want. See you.}
 
 #Node010
-{100}{}{Снова ты, }
-{101}{}{? Какие новости? Или что-то где-то случилось?}
-{102}{}{? Слышал, ты помог нашим искателям, а? Спасибо, спасибо. Даже им иногда нужна помощь. Ты что-то хотел узнать?}
-{103}{}{Говорят, ты помогал малышке Лили, а? очень любезно с твоей стороны. Думаю, ты здесь всегда будешь желанным гостем. Так что, ты что-то хотел спросить?}
-{104}{}{[Питер выжидательно смотрит на Вас]}
-{105}{011}{Я хотел узнать немного подробнее о твоей должности.}
-{106}{020}{Расскажи в паре слов, что здесь происходит?}
-{107}{030}{А что там, в туалете происходит?}
-{60}{030}{Проблема с туалетом так и осталась?}
-{61}{030}{Насчет проблемы с туалетом...}
-{108}{040}{Просто хотел сказать, что Хьюго только что отправился со своей бригадой на захват Тартара. Я подумал, может мы...}
-{109}{999}{Ничего, мне пора идти.}
+{100}{}{You again, }
+{101}{}{? What's the news? Or something happened?}
+{102}{}{? I heard you helped our Seekers, right? Thank you, thank you. Even they need help sometimes. You wanted to ask something?}
+{103}{}{They say you helped Lily, right? That's very nice. We are always glad to see you here. So, you wanted to ask something?}
+{104}{}{[Peter looks at you, waiting.]}
+{105}{011}{I wanted to learn more about your position.}
+{106}{020}{Tell me in short, what's going on around here?}
+{107}{030}{What's there, in the toilet?}
+{60}{030}{Is the problem with the toilet still around?}
+{61}{030}{About the toilet problem...}
+{108}{040}{I just wanted to say that Hugo just left to storm the Tartarus with his troops. I was thinking, maybe we should...}
+{109}{999}{Nothing. I have to go.}
 
 #Node011
-{110}{}{Ну а что тут сказать, чему учился - там и пригодился. Видишь, я же, как и ты, слугой технологий был в Тартаре, Смитти еще меня учил. Сколько же лет прошло? Лет 6, не меньше. Ну и сбежал я оттуда, сил больше не было Вестника выносить, чуть не убил его, еле сдержался. Мотался с пару дней вокруг башни - да так и попал сюда. Что теперь-то ныть - понятно, что в тартаре легче живется, чем тут, вот я и помогаю Боно как-то договориться с охранниками, чтобы они хоть нескольких пустили в Тартар.}
-{111}{012}{Пустить кого-то в Тартар? Звучит сомнительно, там же всех чужаков считают ужасными тварями.}
-{112}{}{А что тут сказать? Починяю то, что сломалось, да слежу за тем, что еще не сломалось. Просто помогаю Боно по хозяйству, ничего особенного.}
-{113}{010}{Коротко и ясно. Можно еще спросить?}
-{114}{999}{Угу, понятно. Ой, мне пора идти.}
+{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
+{111}{012}{Let some of you into Tartarus? Sounds questionable. They consider all outsiders a terrible creatures.}
+{112}{}{What can I say? Fixing the broken stuff, looking after what's working. Just helping Bono to keep things running, nothing exceptional.}
+{113}{010}{Plain and simple. Can I ask something else?}
+{114}{999}{Yeah, I see. Oh! I've got to go.}
 
 #Node012
-{120}{}{Да брось ты! Оглянись - тут же добрая половина и Тартара! Конечно же, мертвяков и искателей не пустят, но, мы с Боно уверены, можно договориться с охранниками в проходе. Может батареек им предложить, или наркотик какой - не знаю, тут у Боно какие-то мысли были.}
-{121}{010}{Что ж, может это и сработает. Я хочу еще спросить.}
-{122}{999}{Сомневаюсь, но - удачи вам в этом.}
+{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course, they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to make some deal with the guards. Maybe offer them batteries or some drugs, I don't know. Bono had some ideas.}
+{121}{010}{Well, it might work. I want to ask something else.}
+{122}{999}{I really doubt it - but good luck to you anyway.}
 
 #Node020
-{200}{}{Да выживаем мы здесь - вот что происходит. Люди бегут из Тартара, из Радиуса - и попадают сюда. Понятно, что в одиночку в Радиусе не протянешь, а тут все - товарищи по несчастью, вот и жмутся друг к другу. Мы с Боно пытаемся договориться с охранниками, чтобы женщин и детей пустили жить в Тартар. Робин со своими искателями еду добывают, Хьюго готовит армию для захвата Тартара. Не связывайся с этим безумцем, держись ты от него подальше.}
-{201}{021}{Хьюго?}
-{202}{010}{Ну да, в общих чертах понятно.}
-{203}{}{Да ты просто поживи тут пару деньков - сам все поймешь.}
-{204}{999}{Хорошо, сам разберусь.}
+{200}{}{We are surviving here, that's what happens. People run away from Tartarus, from Radius - and end up here. It is obvious you won't last long in wastelands alone, while here everyone is in the same situation. So they pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over the Tartarus by force. Keep away from him, he's crazy.}
+{201}{021}{Hugo?}
+{202}{010}{Okay, I mostly got it.}
+{203}{}{Just stay around for a couple of days, you'll get it eventually.}
+{204}{999}{Okay, I'll see for myself.}
 
 #Node021
-{210}{}{Мертвяк на нижней платформе. Он и его бригада тут одни с ружьями ходят, не ошибешься. Хьюго просто большой ребенок, который хочет поиграть в пиф-паф и всем доказать, что он сильный. Бывший Пес, что тут говорить.}
-{211}{022}{У него достаточно людей и оружия?}
-{212}{010}{Спасибо за предупреждение, буду держаться подальше.}
+{210}{}{The ghoul on the lower platform. He and his men are the only ones who walks around with guns here. Hugo himself is just a big baby who wants to play pew-pew and to show everyone he's strong. He's ex-Jackal, after all.}
+{211}{022}{Does he have enough guns and men?}
+{212}{010}{Thanks for the warning. I'll keep that in mind.}
 
 #Node022
-{220}{}{Конечно же нет! Они перемрут еще на подходе к Тартару, а если потом придут Дефендеры... Даже думать об этом не хочу.}
-{221}{010}{Хмм... Мда-а. Я хочу еще спросить.}
-{222}{999}{Хм, пожалуй, мне нужно узнать об этом подробнее. Счастливо!}
+{220}{}{Of course they don't! They are going down even not making it to the door guards. And if defenders will come... I don't even want to think about it.}
+{221}{010}{Hmm... Yeah. I want to ask something else.}
+{222}{999}{I think I might want to learn more about him. See you!}
 
 #Node030
-{300}{}{Да, там все так же много крыс. Думаю, они еще несколько дней будут пировать тем бедолагой... А унитаз-то все еще не прочищен.}
-{301}{}{Вижу, ты жив-здоров? Как продвигается прочистка?}
-{302}{QA}{Думаю, я мог бы разобраться с этим.}
-{303}{032}{Никак не могу найти вантуз! Не подскажешь, где он может быть?}
-{307}{032}{Крысы убиты, но я никак не могу найти вантуз!}
-{304}{033}{Все готово! Крысы убиты, толчок прочищен. Мда-а, это была грязная работенка.}
-{305}{999}{Никаких проблем, скоро можно будет спокойно там уединяться.}
-{306}{010}{Эмм, на самом деле я хотел поговорить о другом.}
+{300}{}{Yes, there's still a lot of rats. I think they will feast on that poor guy for a few next days... And the toilet stays clogged.}
+{301}{}{I see you are in one piece? How's the unclogging going?}
+{302}{QA}{I think I could try to handle it.}
+{303}{032}{I can't find plunger! Do you know where it might be?}
+{307}{032}{The rats are dead, but I still can't find plunger!}
+{304}{033}{All done! The rats are dead, the toilet is unclogged. I should say it was a dirty job.}
+{305}{999}{No problem, soon it will be available for using.}
+{306}{010}{Uh, I actually wanted to talk about something else.}
 
 #NodeQA
-{310}{}{Ну хорошо, я буду тебе очень признателен, как и все жители станции. Значит, ты понял, что проблемы тут две: нужно убить крыс и прочистить унитаз. Крыс можешь хоть зубами загрызть, а вот для унитаза нужен вантуз, тут уж по-другому никак. Да что я тебе объясняю - ты же небось в Тартаре постоянно этим занимался, а?}
-{311}{999}{Нет, но видел, как другие это делают. Я справлюсь, будь уверен.}
-{312}{999}{Без проблем. Не думаю, что это займет много времени. Скоро вернусь с результатом.}
+{310}{}{Okay then, I would be very grateful to you, just as all other inhabitants of the station. So, you see that there are two problems here: to kill the rats and to plunge the toilet. You can deal with rats in any way you want, but for toilet you'll need the plunger, can't get around that. Why am I even telling you this? You had enough of it in Tartarus, right?}
+{311}{999}{Not me, but I've seen others do it. I'll manage, be sure about that.}
+{312}{999}{No problem. Don't think it'll take a lot of time. Be back soon.}
 
 #Node032
-{320}{}{Даже не знаю... Может быть, в Тартаре у кого есть? Да-да, глупая мысль, но больше ничего в голову не приходит.}
-{321}{999}{Ну хорошо, буду искать дальше.}
+{320}{}{I don't even know... Maybe someone in Tartarus has one? Yeah, sounds like a stupid idea - but I fail to think of something else.}
+{321}{999}{Okay, I'll keep looking.}
 
 #Node033
-{330}{}{Ого! Вот что я называю отличной работой! Вот, держи награду (протягивает Вам мешочек с чем-то тяжелым). Бери-бери, это патроны - самые распространенные в Радиусе. Уверен, они тебе пригодятся. А нет - так можно их вместо батареек за деньги использовать.}
-{331}{999}{[взять награду] Спасибо. Если еще будет какая работа - обращайся!}
+{330}{}{Whoa! That's what I call a job well done! Here, take your reward [gives you a little bag with something heavy inside] Take it! This bullets are one of the most common in Radius. They will sure come in handy. And if not - you can trade them for something valuable, just like batteries.}
+{331}{999}{[Take the reward] Thanks. If you need something else, just ask.}
 
 #Node040
-{400}{}{ЧТООО!? КРЕТИН! ИДИОТ! ОН ВСЕХ НАС ПОГУБИТ! НУЖНО СРОЧНО УХОДИТЬ ОТСЮДА! [Питер срывается с места и бежит к Боно]}
-{401}{999}{[выход]}
+{400}{}{WHAT!? IDIOT!! CRETIN!!! HE'LL KILL US ALL!! WE NEED TO LEAVE THIS PLACE, FAST!! [he runs off to Bono]}
+{401}{999}{[end]}
 
 #Плавающие фразы
-{500}{}{Нет времени на разговоры!}
-{501}{}{Нам нужно срочно эвакуироваться!}
-{502}{}{Наверняка карательный отряд уже выслали!}
-{503}{}{Глупец Хьюго всех нас погубит!}
-{504}{}{Боже, нас всех просто сотрут с лица земли!}
-{505}{}{Нужно спасаться как можно скорее!}
+{500}{}{No time to talk!}
+{501}{}{We need to evacuate everyone, now!}
+{502}{}{The cleaning squad is probably on the way!}
+{503}{}{Stupid Hugo will kill us all!}
+{504}{}{Oh god, we are all going to die!!}
+{505}{}{We need to save ourselves as fast as we can!!}
