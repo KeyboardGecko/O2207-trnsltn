@@ -11,82 +11,82 @@
 #ОПИСАНИЕ КРИТТЕРА	
 #	
 # до знакомства	
-{1}{}{Вы видите: дряхлый мертвяк.}	
-{2}{}{Этот просто похож на полуразложившийся труп.}	
+{1}{}{You see a decomposed ghoul.}	
+{2}{}{This ghoul is in really bad shape.}	
 #	
 # после знакомства	
-{3}{}{Вы видите: Громус.}	
-{4}{}{Эта шатающаяся масса кожи и костей - местный лекарь Громус.}	
+{3}{}{You see Gromus.}	
+{4}{}{This walking mass of flesh and bone is a local healer Gromus.}	
 #	
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ	
 #	
-{10}{}{[этот бледно-зеленый труп, покрытый синими паутинками вен, очень пристально смотрит на Вас мутными глазами непонятного цвета] Шево ишфолите, молотой фелофек? ::причмокивает::}	
-{11}{002}{Э-э-э, сдается мне, вам нужен доктор. Или гробовщик...}	
-{12}{003}{Эмм... ты как, в порядке? У тебя челюсть какая-то странная.}	
-{13}{999}{А? Нет-нет, я просто мимо шел.}	
-{20}{}{[его челюсть безвольно болтается, будто бы в ней просто нет костей] Роповщик? Ммм, та, я фроте пы уфэ умирал. Оох, но это было так тафно, што уфэ и не фшпомнить. Мта-а-а. ::причмокивает:: Но тут я шам шебе токтор. И фшем ошталным тоше, мта-та. Ешли у фас што-то полит - шражу ше бегите ко мне! Руку я конешно ше не пришью, но лешебным отфаром напою жапрошто! Ешли што - шфать меня Ромуш. Нет, Г-г-г..ромуш. Фше потумыфаю шменить имя на Ромуш. ::причмокивает::}
-{21}{004}{О-ох, значит - Громус, так? Хорошо, меня зовут }	
-{22}{004}{, вот и познакомились!}	
-{23}{999}{Эмм, да, рад ЖНАКОМШТФУ. Ну, мне пора, потом обязательно загляну.}	
-{30}{}{[его челюсть безвольно болтается, будто бы в ней просто нет костей] Шелюшть?.. А не-ет, шелюшть фпорятке, она мне шофшем не мешает. Мта-а-а. ::причмокивает:: Но тут я шам шебе токтор. И фшем ошталным тоше, мта-та. Ешли у фас што-то полит - шражу ше бегите ко мне! Руку я конешно ше не пришью, но лешебным отфаром напою жапрошто! Ешли што - шфать меня Ромуш. Нет, Г-г-г..ромуш. Фше потумыфаю шменить имя на Ромуш. ::причмокивает:: Мта...}	
-{31}{004}{О-ох, значит - Громус, так? Хорошо, меня зовут }	
-{32}{004}{, вот и познакомились!}	
-{33}{999}{Эмм, да, рад ЖНАКОМШТФУ. Ну, мне пора, потом обязательно загляну.}	
-{40}{}{Та-та, я тоше конечно ше ошень рат. Та-а... Еше отин больной - это фешьма неплохо. Мта-а-а.}	
-{41}{005}{Но я же не больной? Так, пара синяков только.}	
-{42}{999}{Да как знаешь. Пока.}	
-{50}{}{Фейшас не польной, жафтра - уше еле ходишь. Тут это нормально, мошешь не шомнефаться, фше нофенькие ошень быштро приходят ко мне. Та-та, шам уфитишь.}	
-{51}{010}{Как бы то ни было, можно кое-что спросить?}	
-{52}{999}{Эмм-да-а? Ну, поживем - увидим!}	
-{100}{}{Та-та? ::причмокивает:: Аах, это шнофа ты. Ну... Што шкажешь?}	
-{101}{}{Эмм?.. ::причмокивает::}	
-{102}{Barter}{Хочу взглянуть на твой товар.}	
-{103}{011}{Ты ведь вроде врача, да? А почему ты сам так плохо выглядишь?}	
-{104}{020}{Откуда ты достаешь нужные. вещи для лечебных препаратов?}	
-{105}{030}{Я все думаю, как бы мне успокоить Лили... Ты ведь знаешь скорпионов, так? Может, подскажешь выход?}	
-{106}{040}{Я вроде как ранен, можешь меня подлечить?}	
-{107}{050}{Я-а... уммм... ::сглотнуть:: плохо себя чувствую. И моча светится.}	
-{108}{Hunting}{Я готов к охоте на "шкорпионоф", в путь.}	
-{109}{999}{Все в порядке, спасибо, до свиданья.}	
-{111}{}{Ну-у, молотой шелофек, фитите ли, я не фелофек, я - мертфяк, и щуфштфую шепя фполне утопно. Мта-а. ::причмокивает:: Та и мне уфе шрок пришел так фыклятеть, мне феть уше. Эмм... лет пятьдешять как переродился. О-о-о, та-а, много фоты утекло. Мошет быть, я таше штарше Боно, хе-хе. Шкоро уже и мы ш ним отпрафимся ф Шистилище. Мне уше ништо не помошет, мой шрок иштекает, молотой шелофек.}	
-{112}{}{Какой нефешлифый молотой шелофек! Прифакайте, пошилые мертфяки фше так фыглядят.}	
-{113}{010}{Понятно, угу. Можно еще спросить кое что?}	
-{114}{999}{А-а-а, я-а-асно, да-а. Мертвяки. Э-э-э, я может потом еще загляну.}
-{115}{013}{Мертвяки... Вы что, мертвые? Что это значит?}
-{120}{012}{Тут одна девочка болеет.}
-{121}{}{Это Лили штоли?.. Ну конешна ше она, тут нет труких тефошек, хе-хе. Та-та, петняшку ушалил шкорпион, и я тал ей протифоятие, но ей притется немношко потерпеть, протифоятие фешьма... полежненное. Мошно попропофать ушпокоить ее колыпельной, но тля этова фам нушно оплатать приятным и фкрачифым колосом, как у меня, хе-хе... ::довольно причмокивает:: Трукой фариант, а феть фшегда ешть трукой фариант, та? - тать ей немошко алкоголя, это ее ушипит. Ешли фам не шалко, конешна, мта-а.}
-{130}{}{Мертфые? Не вше так профто... Я тумаю, шушештфуют люди, как я, которые пошле шмерти не штанофятшя мертфыми, но делаютшя мертфяками. Шмутно помню, кашетша я пыл ошень голодный и лег пошпать, а прошнулшя уше мертфяком. Коша шелушитшя и поштоянно хошетшя кушать, но мертфяки не умирают от голода, они лишаютша ума - штанофятша Бешумными. Бешумных шлофно упить, поэтому в момент префрашения мы их шкитыфаем в потфал ш другой штороны Тартара. Фы это нашыфаете "Шиштилишем" (улыбается)}
-{131}{010}{Вот оно что. Да-а, в Тартаре все было куда проще... Я еще хочу спросить.}
-{122}{999}{Хмм, спасибо за совет.}
-{201}{}{А-хха-а! Ф точку, мой мальшик, ф точку! Ошнофной инкритиент - шало шкорпионоф! Опышно люпезные ишкатели мне приношят парошку-трукую воштоф, но ф пошлетнее фремя им не до тово, швоих проплем ватает. А шнаете што? Мы могли бы вмеште ходить упифать пару шкорпионоф, фы бы мне ошень помогли...}	
-{202}{999}{Эм... Скорпионы? Это такие жутко ядовитые и опасные твари, так? Нет, спасибо, обойдемся без этого.}	
-{203}{QA}{Скорпионы. Да, думаю, мы могли бы справиться. Хорошо, я согласен.}	
-{204}{QA}{Хмм, скорпионы-скорпионы. Никак не вспомню, что это такое. Ну хорошо, я помогу тебе.}	
-{210}{}{Фот и шлафненько, шлафненько. Мошем фытфигаться как только будете готофы.}	
-{211}{Hunting}{Можем идти хоть сейчас, я готов. Вперед!}	
-{212}{999}{Да-а, мне нужно еще кое-что сделать. Как буду готов - сразу же прийду.}
-{220}{}{Ну што ше, это пыло фешма опашно, мта-а. ::причмокивает:: Тафайте ше, тафайте эти вошты мне [бесцеремонно забирает у Вас все скорпионьи хвосты] О та-а-а, этофа толшно ватить. Нну-у, шпашипа жа помошь, фот можете фжать это шретстфо [протягивает Вам бутыль с сомнительной мутной жижей внутри] Фытяшка иж шкорпионшикоф! Ошень неплохо помогает от луфефой полежни, мта-а...}	
-{221}{}{О-о, спасибо, док. Был рад помочь.}	
-{222}{}{Ну что ж, лучше, чем ничего. Бывай, док.}	
-{300}{}{Ли-ли... [впадает в задумчивость] Та-а, мы ш ней любим погофорить по нощам перет шном. Тумаю, это могло пы ее ушпокоить, но Марта меня не перефарифает, фшторная глупая шеньщина! Попропуйте ее прошто жагофорить, или рашкажать какую-нипуть ишторию.}	
-{301}{999}{Рассказать историю? Но я не знаю никаких историй. Ну хорошо, спасибо за совет.}	
-{302}{999}{Мда-а, можно было и не спрашивать. Рассказать ребенку сказку - что может быть логичнее? Ну ладно, попробуем.}	
-{400}{}{[Вы приходите в себя спустя пару минут после резкого удара в область ключицы, но на удивление Вы прекрасно себя чувствуете!] Ну фот, я ше фсегда гофорю - тошкоутары лещат фше ушипы!}	
-{401}{999}{Ого, спасибо. А эта ноющая боль в плече - она ведь скоро пройдет, да? Очень надеюсь.}	
-{402}{999}{Док, можно бы и полегче! Но все равно спасибо.}	
-{403}{}{[бегло осмотрев Вас, он качает головой, при этом его челюсть лихорадочно болтается из стороны в сторону] Ошень шаль, но фы шликом шерьешно поштратали. Шофетую фам найти фрача ш инштрументами. Или отышкать баночку Хилл-Ап, они и мертфова поштафят на ноги!}	
-{404}{999}{Ясно-понятно. Пойду я тогда.}	
-{500}{}{Ну так, так и ешть - лушефая полежнь. Такими темпами фы уше имеете фше шаншы пополнить штройные ряты мертфякоф, хе-хе-кхе. Так как, лешиться путем? Это фам фштанет в }	
-{501}{}{ патареек и жаймет где-то до }	
-{502}{}{ чашов. Што шкажете?}	
-{503}{051}{Что? Так много? Нет, у меня столько нет.}	
-{504}{052}{Да-да, я согласен, лечи уже.}	
-{505}{999}{А не много ли просишь? Не-ет, я лучше святящимся похожу, но хоть при батарейках. Чао!}	
-{510}{}{Та-а, ошень шаль фитеть умирание штоль молотова орканишма. Ну што ж, как найтете батареек - я фас шту фот прямо фот тут.}	
-{511}{999}{Ясно-ясно, я все понял. До встречи, док.}	
-{520}{}{[спустя какое-то время Вы приходите в себя. Голова еще кружится, но в целом Вы хорошо себя чувствуете] Ну как фы шуфштвуете? Я немного поэкшпериметирофал с наштойкой, но фижу - фы ф полном порятке. Ешли шнофа путите шветить мочей - опращайтешь, я фшекта рат помошь!}	
-{521}{999}{Спасибо док, я все же постараюсь больше не светиться. Всего хорошего.}	
-{522}{999}{Ок, док. Ты только больше не экспериментируй там со своими зельями, а то вдруг у меня, ну не знаю, шестой палец на ноге вырастет? Если вырастет - точно к тебе приду и засуну его тебе куда-нибудь поудобнее [подмигнуть]}	
+{10}{}{[This pale-green corpse, covered by the webs of blue veins, is carefully looking at you with his cloudy eyes of vague color] Whathcha wanth, young man?? [he slurps]}	
+{11}{002}{I'd say you need a doctor. Or a caretaker...}	
+{12}{003}{Uh... Are you aright? You jaw looks a little strange.}	
+{13}{999}{Wh- what? No, I was just walking by.}	
+{20}{}{[His jaw hangs in a funny way, like having less bones in it] Caretakher? Mmm, aigh think I'fe awready died once. Oh-h, wath thuch a long thime ago, I don't efen remember. Yeeeah. [he slurps] But here I'm the docthor for mythelf. And for eferybody elth thoo. If fumthin' hurth - you run thu me. I will noth glue a hand back, buth can gife you a bither pothion thu make you feel good! I'm Gromuth, by the way. S, s, s... Gromus. I am thinking of changing name thu Ghomuth. [he slurps]}
+{21}{004}{Oh man, Gromus, right? Okay, I'm }	
+{22}{004}{, nice to meet you!}	
+{23}{999}{Yeah, NICE THU MEETH YA. Well, I've got to go, see you later.}	
+{30}{}{[His jaw hangs in a funny way, like having less bones in it] My jaf?.. Oh, noo, my jaf ith fine, if doesn'th bother me in any way. Yeeeah. [he slurps] But here I'm the docthor for mythelf. And for eferybody elth thoo. If fumthin' hurth - you run thu me. I will noth glue a hand back, buth can gife you a bither pothion thu make you feel good! I'm Gromuth, by the way. S, s, s... Gromus. I am thinking of changing my name thu Ghomuth. [he slurps]}	
+{31}{004}{Oh man, Gromus, right? Okay, I'm }	
+{32}{004}{, nice to meet you!}	
+{33}{999}{Yeah, NICE THU MEETH YA. Well, I've got to go, see you later.}	
+{40}{}{Yeah, yeah, I'm fery glad thoo. Yeeah... another pathienth - thath ith, of courthe, very good. Yeeeeeah.}	
+{41}{005}{I'm not a patient, alright? It's only a couple of scratches.}`	
+{42}{999}{Yeah, sure. Bye.}	
+{50}{}{Noth a pathienth thuday, and thumorrow you are barely walking. Here itha common thing, don'tchu doubth it. Efery newcomer efenchually cometh thu me. Yeah, you will thee.}	
+{51}{010}{Anyway, can I ask something?}	
+{52}{999}{Yeah! We'll see!}	
+{100}{}{Yeah? [he slurps] Oh, Ith you again. Well... Whaddaya thay?}	
+{101}{}{Uhh?.. [he slurps]}	
+{102}{Barter}{I want to see what you are selling.}	
+{103}{011}{You are for the doctor here, right? Why do you look so bad then?}	
+{104}{020}{Where do you get this stuff you need for your potions?}	
+{105}{030}{I'm having problems with calming down Lily... You know the scorpion stuff, don't you? Can you give some advice what to do with its bite?}	
+{106}{040}{I'm kinda hurt, can you heal me?}	
+{107}{050}{I, uh... [gulp] don't feel so good. And my pee is glowing.}	
+{108}{Hunting}{I'm ready to hunt some "fkorpionth", let's go.}	
+{109}{999}{I'm good, thanks. See you.}	
+{111}{}{Well, young man, you thee, I'm noth a human, I'm a ghouwl. Ang I feel mythelf wery good for one. Yeeeah. [he slurps] By the way, I'm in exacth age of looking like thith. It was, uh... Fifthy years sinthe weborn. Ooh, itha loth of thime. Maybe I'm efen older than Bono, heh-heh. Soon, the thime will come for us thu go inthu Purgathory. Nothing can hewlp me, young man.}	
+{112}{}{What mannerleth young man! Get used thu it, old ghoulth can look even worthe.}	
+{113}{010}{Understood. Can I ask something else?}	
+{114}{999}{Oh... Yeah. I see. Ghouls, yeah. Uh, I'll come by later.}
+{115}{013}{Ghouls... Are you dead? What do you mean by that?}
+{120}{012}{There's one sick girl here...}
+{121}{}{You mean Lily??.. Of courthe you mean her, there ith no other girlth on this ftation, heh-heh. Yeah, poor girl has been bithen by a fkorpion, I gave her anthidote, buf she needth thu waith for a while longer, the anthidote hatha wery spethific impacth. You could try cawlming her down with a lullaby, buth you should have a great voithe for this thu work - like mine, fow example. Heh-heh. [he happily slurps] Another opthion - and there ith alwayth another opthion, righth? - is thu give her a lithle bit oh alcohol. If would calm her down. If you are noth againsth the idea of waesthin' some alcohol on her, of courthe. Yeeah.}
+{130}{}{Dead? Noth eferything ith so thimple, young man... I think there are thome people, like me, who don't die afther they, you know, die. They become ghouwls. I vividly remember how I wenth thu thleep very hungry, and woke up already as a ghouwl. The thkin ith going off all the thime, you are alwayth crafing for food, but the ghouwls don'th die from hunger - they become Feralth, they loothe their mind. Feralth are hard to kill, thow we drop them inthu a place at the other thide of Tartharus. You call this plaithe Purgathory. [he smiles]}
+{131}{010}{So, that's how it is... It was much simpler in Tartarus. I want to ask more.}
+{122}{999}{Hmph. Thanks for advice.}
+{201}{}{Ahhahah! Thpot on, my boy, thpot on! The main ingredienth ith the fkorpion sthing! Usually our kind Seekerth bring me a couple of their theilth, buth lathely they have other problemth thu take care abouth. You know whath? We couwld go hunth some fkorpionth thugether... You would be very helpful.}	
+{202}{999}{Uh... Scorpions? That stingy poisonous little creatures? No thanks, we'll do without it.}	
+{203}{QA}{Scorpions... Yeah, I think we could handle it. Okay, I agree.}	
+{204}{QA}{Hmm, scorpions, scorpions... I don't seem to remember what it is. Okay, I'll help you.}	
+{210}{}{Thath ith wery good. We can go righth now, if you are ready..}	
+{211}{Hunting}{I'm ready. Let's go!}	
+{212}{999}{I need to finish something. I'll come back when I'm ready.}
+{220}{}{Well, if was pretthy dangerouth, yeah [he slurps] Okay, gimme, gimme this theilth. [he unceremoniously takes away all scorpion tails from you] Oh yeeeeeah, that shouwld be enough. Well, thankth for the help, you can thake this pothion [he hands you the bottle with a questionable murky goo inside] Ith an exthract from the theilth of the fkorpionth. Cometh in handy in case of radiathion poithoning, yeah...}	
+{221}{}{Thanks doc, was glad to be of help.}	
+{222}{}{Well, better than nothing. See you, doc.}	
+{300}{}{Li-ly... [he ponders] Yeeeah, we love to chat ath night before fleep. I think ith could help to calm hewr down, buth Martha don'th exacthly likes me. Petulant stupid woman! Thry just thu talk with the girl, thell some sthowry.}	
+{301}{999}{Tell some story? But I don't know any! Anyway, thanks for the advice.}	
+{302}{999}{Yeah, I could not bother asking. To tell a bedtime story to a kid - what can be more obvious? Oh well, let's try it.}	
+{400}{}{[You regain consciousness in a couple of minutes after a sharp blow in your collarbone. For some reason, you feel great!] Here, ath aigh alwayth thay - good punch health eferything!}	
+{401}{999}{Wow, thanks. I really hope this aching pain in my shoulder will go away eventually.}	
+{402}{999}{You could have gone easier on me, doc! But thanks anyway.}	
+{403}{}{[Rapidly examining you, he shakes his head. His jaw wiggles from side to side when he does that] Thoo bad, buth you had sufferedh a fery sefere damageth. I suggesth you find yourself a docthor with some toolth. Or thearch for a Heal-Up, ith can get efen a dead one back on his feeth!}	
+{404}{999}{I see, I see. I'd better go then.}	
+{500}{}{Justh as aigh thought - radiathion poithoning. With such paithe you hafe efery chance of joining the ranks of ghouwls, heh-heh [cough]. So, healing then? Ith will costh you }	
+{501}{}{ patterieth and will thake abouth }	
+{502}{}{ hourth. Whath do you thay?}	
+{503}{051}{What? How many? No, I don't have it.}	
+{504}{052}{Yeah, yeah, come on, heal me already.}	
+{505}{999}{Don't you think it's a little too much? Nah, I better walk around glowing, but keep my batteries. Ciao!}	
+{510}{}{Yeeeeah, ith thou thad to thee the young organithm dying. Well, if you find patterieth - I'm waithing right here.}	
+{511}{999}{Okay, okay, I got it. Bye, doc.}	
+{520}{}{[You regain consciousness after a while. You feel a little dizzy, but mostly good.] So, how are you feeling? I thook some liberthies with the pothion compothition, buth ath far ath I can thee - you are toing pretthy well. If your pee will glow again - come thu me, I'm always glad thu help!}	
+{521}{999}{Thanks doc. I'll try to glow a little less. See you around.}	
+{522}{999}{Okay doc. You should really stop experimenting with you bitter drinks. What if an extra toe would grow on me because of them? If it will, I'll come to you and stick it, well, you know where. [wink]}	
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)	
 #	
 {1000}{}{}	
@@ -128,13 +128,13 @@
 #	
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)	
 #	
-{1030}{}{Таше не жнаю. Нам нушно хотя пы парошку воштоф.}	
-{1031}{}{Нам рано фосфрашаться, нушно больше воштоф.}	
-{1032}{}{Нет-нет, мне нушно польше воштоф!}	
-{1033}{}{Еще парошку шкорпионоф - и мошно томой.}	
-{1034}{}{Ну што опять? Шледи жа воштатыми тфарями!}	
-{1035}{}{Та-та, фроте мы шопрали доштатошно воштоф, мошно отпрафлятша томой.}	
-{1036}{}{Да, пойдем отсюда поскорей.}	
-{1037}{}{Эй, я еще не всех ядовитых тварей перебил! Нужно завалить их всех!}	
-{1038}{}{Нет, подожди еще немного, нужно получше тут осмотреться.}	
+{1030}{}{I don'th know. We need ath leaft a couple of their theilth.}	
+{1031}{}{Thoo eawrly thu return, we need more theilth.}	
+{1032}{}{No, I need mowre theilth!}	
+{1033}{}{A coupwle fkorpionth more - and we can go back.}	
+{1034}{}{What now? Look outh for theiled creathureth!}	
+{1035}{}{Yeeeeah, lookth like we hafe enough theilth. We can rethurn.}	
+{1036}{}{Yeah, lets, get out of here.}	
+{1037}{}{Wait, I still didn't have enough! We need to kill them all!!}	
+{1038}{}{No, wait, I need to look around a little more.}	
 {1039}{}{}
