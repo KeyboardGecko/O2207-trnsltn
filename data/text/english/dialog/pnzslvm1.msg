@@ -21,83 +21,83 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: мужчина.}
-{2}{}{Вы видите: беглый слуга.}
-{3}{}{Вы видите: мужик.}
-{4}{}{Вы видите: еретик.}
-{5}{}{Вы видите: слуга из Тартара.}
-{6}{}{Он выглядит очень уставшим.}
-{7}{}{И как это он тут очутился?}
-{8}{}{У него немного обеспокоенный вид.}
-{9}{}{Его взгляд не выражает ничего, кроме уныния и разочарования.}
+{1}{}{You see a man.}
+{2}{}{You see a runaway Servant.}
+{3}{}{You see a guy.}
+{4}{}{You see an exile.}
+{5}{}{You see the Servant from Tartarus.}
+{6}{}{He looks very tired.}
+{7}{}{How he ended up here?}
+{8}{}{He has a little bothered look.}
+{9}{}{His look doesn't express anything except sadness and disappointment.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Не, не интересует.}
-{11}{}{Да нет, мне все равно.}
-{12}{}{Ммм... Нет времени на это.}
-{13}{}{Мне, вообще-то, пора.}
-{14}{}{Понятно... А дальше?}
-{15}{}{Ну, а что дальше?}
-{16}{}{Что было потом?}
-{17}{}{И что потом произошло?}
-{18}{}{[выход]}
-{19}{}{[закончить]}
-{20}{}{Да, интересно послушать.}
-{21}{}{Ну рассказывай.}
-{22}{}{Да, хочу сравнить со своей историей.}
+{10}{}{No, not interested.}
+{11}{}{I don't really care.}
+{12}{}{Hm... No time for that.}
+{13}{}{I actually have to go.}
+{14}{}{I see... What happened after?}
+{15}{}{Well, what happened after?}
+{16}{}{What happened after that?}
+{17}{}{And what happened next?}
+{18}{}{[end]}
+{19}{}{[finish]}
+{20}{}{Yes, I'd like to hear it.}
+{21}{}{Go on, tell me.}
+{22}{}{Yes, I want to compare it to my story.}
 #
 #ДИАЛОГ
 #
-{100}{}{Хочешь узнать, как я сюда попал?}
-{101}{}{Нуу... Дело было ночью, Вестник меня совсем загонял, а я краем уха слышал, что нас дурят, и мир снаружи существует, ну я и рванул в Чистилище мимо охранников. Они даже не шелохнулись! А в Чистилище темень - хоть глаз выколи, только хрюканье какое-то из углов. Блин, еле ноги унес.}
-{102}{}{А что дальше... Вылез наружу, поочухался, пошел было уже к башне, но меня вон тот полутруп окрикнул, и сказал, что у башне лучше не соваться. Ну и пришли вот сюда. Давненько это уже было. }
-{200}{}{Интересно, как я из Тартара сбежал?}
-{201}{}{У меня друг там был, а он давно заметил, что ночью Сыны Богов почти не шевелятся, тут я и смекнул: под маской же не видно, спит он или нет! Так мимо и прошли с приятелем в Чистилище, просто из любопытства.}
-{202}{}{А ты угадай! Там эти твари как завыыыыли! Мы шарахнулись назад, да в темноте куда-то не туда свернули, ну и оказались на поверхности. Тут-то нас один из тех упырей и встретил, да сюда привел. Вот теперь думаем, как дальше жить. [погружается в раздумья]}
-{300}{}{Рассказать, как я тут очутился?}
-{301}{}{Дверь на фермах видел? Ну конечно видел. У меня этот Тартар уже давно в глотке сидит, вот я и украл у Смитти четыре бутылки самогона.}
-{302}{}{Так ты дослушай! Отдал самогон охранникам, они как бы отвернулись, а дверь как бы сама открылась. Там, правда, с другой стороны, тоже Сыны оказались, но они мне сказали чтобы я им на глаза не попадался и теперь пути назад нет... Пути назад нет.}
+{100}{}{Want to know how I got here?}
+{101}{}{It was usual night, I was tired of running around on Herald's orders. And I already heard rumors about the outside world before, so I just started to run past guards into the Purgatory. They didn't even move! And in the Purgatory was so dark, couldn't see a thing. Only was hearing some slurping sounds around the corner. I barely made it out of there.}
+{102}{}{What happened... I got outside, pulled myself together, and was already going to walk to the Tower - but heard that ghoul calling me, telling that it's too dangerous. So we wandered around a little, and eventually came here. It was a very long time ago, if you think of it... }
+{200}{}{Want to listen about how I ran away from Tartarus?}
+{201}{}{I had a friend there. He once noticed that the Sons of Gods almost never talk or move at night. Then it hit me - you can't see under the masks, if they sleep or not! So, me and my friend walked into the purgatory past them. Just out of curiosity. }
+{202}{}{Try to guess! There were this creatures, howling, so scary! So we tried to run back, but took all the wrong turns - and ended up outside. And that's where one of this local ghouls met us. We ended up coming here. Now we are deciding what do do next... [he starts to ponder]}
+{300}{}{Want me to tell you how I ended up here?}
+{301}{}{Did you see that big door in the Farms? Of course you did. I was pretty much fed up with living in Tartarus, so I stole four bottles of moonshine from Smitty... }
+{302}{}{Don't interrupt! So, I gave the moonshine to the guards, they made it look like they turned around, and the door like opened by itself. Though there were two other Son of Gods on the other side, but they just told me to get out of sight and that there's no going back for me... So there's no going back.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Xэ-эй, дружище!}
-{1001}{}{Приветствую! Как делища?}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Привет, братан! Как житуха?}
-{1004}{}{Я бы с радостью поболтал, но... Давай в другой раз.}
-{1005}{}{Рад тебя видеть!}
-{1006}{}{Приятно видеть тебя!}
-{1007}{}{Конечно, чем смогу - помогу!}
-{1008}{}{Здорово, что ты здесь!}
-{1009}{}{Я очень рад, что ты с нами!}
+1000}{}{Hey, buddy!}
+{1001}{}{Hello! How are you?}
+{1002}{}{Well, hello there!}
+{1003}{}{Hey brother! How are you doing?}
+{1004}{}{I would gladly stop and chat... But let's do it some other time.}
+{1005}{}{So glad to see you!}
+{1006}{}{So nice to see you here!}
+{1007}{}{Of course, I'll help with what I can!}
+{1008}{}{So good you're here!}
+{1009}{}{I'm so glad that you are with us!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Не сейчас, хорошо?}
-{1013}{}{Слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Мне, правда, некогда тут с тобой болтать.}
-{1015}{}{Не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо?}
-{1017}{}{...эта работа никогда не кончится...}
-{1018}{}{Лучше бы помог, чем приставать.}
-{1019}{}{Нет. Мне некогда!}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Can't you see I'm busy?}
+{1012}{}{Not now, okay?}
+{1013}{}{Maybe some other time? Good.}
+{1014}{}{I have no time to talk to you right now.}
+{1015}{}{Don't bother me, I want to rest.}
+{1016}{}{What else do you want?}
+{1017}{}{...This work never ends...}
+{1018}{}{You'd better helped, instead of bothering me.}
+{1019}{}{No. No time!}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}

@@ -21,83 +21,83 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: женщина.}
-{2}{}{Вы видите: беглянка.}
-{3}{}{Вы видите: женщина.}
-{4}{}{Вы видите: еретичка.}
-{5}{}{Вы видите: слуга из Тартара.}
-{6}{}{Она выглядит изможденной.}
-{7}{}{Ее лицо выражает полную отрешенность.}
-{8}{}{Вам кажется, что она еле дышит.}
-{9}{}{Ее комбинезон уже сильно износился.}
+{1}{}{You see a woman.}
+{2}{}{You see a runaway.}
+{3}{}{You see a woman.}
+{4}{}{You see an exile.}
+{5}{}{You see the Servant from Tartarus.}
+{6}{}{She looks exhausted.}
+{7}{}{Her face expresses a complete detachment.}
+{8}{}{Looks like she is barely breathing.}
+{9}{}{Her jumpsuit is very worn.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Не, не интересует.}
-{11}{}{Да нет, мне все равно.}
-{12}{}{Ммм... Нет времени на это.}
-{13}{}{Мне, вообще-то, пора.}
-{14}{}{Понятно... А дальше?}
-{15}{}{Ну, а что дальше?}
-{16}{}{Что было потом?}
-{17}{}{И что потом произошло?}
-{18}{}{[выход]}
-{19}{}{[закончить]}
-{20}{}{Да, интересно послушать.}
-{21}{}{Ну рассказывай.}
-{22}{}{Да, хочу сравнить со своей историей.}
+{10}{}{No, not interested.}
+{11}{}{I don't really care.}
+{12}{}{Hm... No time for that.}
+{13}{}{I actually have to go.}
+{14}{}{I see... What happened after?}
+{15}{}{Well, what happened after?}
+{16}{}{What happened after that?}
+{17}{}{And what happened next?}
+{18}{}{[end]}
+{19}{}{[finish]}
+{20}{}{Yes, I'd like to hear it.}
+{21}{}{Go on, tell me.}
+{22}{}{Yes, I want to compare it to my story.}
 #
 #ДИАЛОГ
 #
-{100}{}{Хочешь узнать, как я сюда попала?}
-{101}{}{Да вообще-то просто все... Нуу, не очень хочется рассказывать. А, ладно... Был у нас один смотритель, Бук, помнишь, может. Так он в меня влюбился по уши, прохода не давал, а когда я ему отказала, начал угрожать, преследовать, совсем меня измотал, скотина похотливая.}
-{102}{}{Так ну что... Решила, уж лучше снаружи сдохнуть, чем этот ублюдок будет меня постоянно трахать. Договорилась с охранниками на ферме, они мне дверь открыли. Тоже, конечно, пришлось ноги раздвинуть, но... Не знаю. Может, все было не так уж и плохо. [погружается в размышления]}
-{200}{}{Интересно, как я сбежала из Тартара?}
-{201}{}{Один из охранников на ферме навешал мне лапши про любовь-морковь, башню и беззаботную жизнь... говорит: "Ты ночью через метро пройдешь, поднимешься по лестнице на поверхность, и на рассвете мы встретимся и заживем счастливо в "Олимпе"...}
-{202}{}{Все мужики козлы, вот что! Первым же утром, как только я вышла наружу из метро, меня какой-то драный Шакал чуть с потрохами не сожрал! Слава Богу искатели вовремя подоспели! Я еще целую неделю туда выходила, хоть бы кто на горизонте появился. Здесь говорят, что они так от лишних избавляются, чтобы других зря не пугать.}
-{300}{}{Рассказать, как я очутилась тут?}
-{301}{}{Забавная история вышла... Мы с подружками решили в Чистилище пробраться и посмотреть, как твари выглядят. Да-да, дуры-дуры... Пока одна Сынов отвлекала, мы с другой и прошмыгнули. Тварей, конечно, не видели, но Сыны по нам от чего-то стрелять начали.}
-{302}{}{Что потом... Пулей вылетели наружу, а там один из вон тех полутрупов шатался. Говорит: "Пойдемте, отведу в безопасное место". Ну а здесь уже нам дали задания, и сказали: "Идите работайте!" Тоже мне, безопасность! В Тартаре гораздо безопаснее было. Да и роднее. И мама там моя... осталась.}
+{100}{}{Want to know how I got here?}
+{101}{}{It's pretty easy, actually... Still, I don't feel like talking about it. Oh, well... There was one warden, named Booke, you might remember him. So he went head over heels with me, didn't even let me to take another step.  When I said no to him, he started threatening, following me. He drove me to exhaustion, that horny asshole.}
+{102}{}{So... I decided that it's better to die outside, than let that bastard fuck me all te time. I made a deal with the guards on the Farm, they opened the door for me. It had a price too, of course, but... I don't know, maybe everything wasn't so bad back there. [She starts pondering]}
+{200}{}{Want to listen about how I ran away from Tartarus?}
+{201}{}{One of the guards on the Farm was giving me this whole bullshit about love, Tower and carefree life... So, one time he tells me - "You go through the tunnels this night, climb the ladder to the surface, and I'll meet you there at the sunrise. Then we'll go to the Olympus to live free..."}
+{202}{}{All men are the same, that's what!! The first morning I got out to the surface from the tunnels, I almost got eaten by some wild jackal! It was my luck that the Seekers were nearby! I went there for a whole week after that, hoping that he would come. Some say that's the way they get rid of "excessive people". To avoid being overcrowded.}
+{300}{}{Want me to tell you how I ended up here?}
+{301}{}{It's a funny story, really... Me and my friends decided to go take a walk into the Purgatory, to look at the Ferals. Yes, I know! Pretty stupid. While one of us distracted the Sons, me and the other one snuck past them. And we didn't notice any Ferals, but, for some reason, the Sons started firing at us.}
+{302}{}{What after... We stormed out to the outside. And then we met one of this talking ghouls. He told us that he knows a safe place. And, after arriving here, we were provided with daily tasks and started to work for the community. Safe place, you bet! The Tartarus is much more safe. And closer to the heart. My mother... Is still there.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Привет, красавчик!}
-{1001}{}{Здравствуй! Как дела?}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Приветик! Как жизнь?}
-{1004}{}{Я бы с радостью поболтала, но... Давай в другой раз.}
-{1005}{}{Рада тебя видеть! Не хочешь согреть меня как-нибудь ночью?}
-{1006}{}{Здорово, что ты здесь.}
-{1007}{}{Приятно тебя видеть.}
-{1008}{}{Приветик!}
-{1009}{}{Ну конечно! Обращайся в любое время!}
+{1000}{}{Hey beautiful!}
+{1001}{}{Hello! How are you?}
+{1002}{}{Well, hello there!}
+{1003}{}{Hi! How are you?}
+{1004}{}{I would gladly stop and chat... But let's do it some other time.}
+{1005}{}{So glad to see you! Want to keep me warm some other night?}
+{1006}{}{So good you're here.}
+{1007}{}{Glad to see you.}
+{1008}{}{Howdy!}
+{1009}{}{Of course! Come back anytime!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занята.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Нет, сейчас не до тебя.}
-{1013}{}{Эй, слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Знаешь, я бы и не против, но сейчас мне некогда.}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо.}
-{1017}{}{В другой раз, хорошо? Мне тут нужно поработать.}
-{1018}{}{Оох... Ну что опять? Ты видишь, я занята!}
-{1019}{}{Ой, слушай, давай немного попозже поговорим, а?}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Can't you see I'm busy?}
+{1012}{}{Not now, okay?}
+{1013}{}{Maybe some other time? Good.}
+{1014}{}{I have no time to talk to you right now.}
+{1015}{}{Don't bother me, I want to rest.}
+{1016}{}{What else do you want?}
+{1017}{}{Some other time, okay? I need to work.}
+{1018}{}{Ohh... What? Don't you see I'm busy?}
+{1019}{}{Listen, let's talk later, okay?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена тебе от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
