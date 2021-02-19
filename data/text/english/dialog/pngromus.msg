@@ -20,7 +20,7 @@
 #	
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√	
 #	
-{10}{}{[This pale-green corpse, covered by the webs of blue veins, is carefully looking at you with his cloudy eyes of vague color] Whathcha wanth, young man?? [he slurps]}	
+{10}{}{[This pale green corpse, covered by the webs of blue veins, is carefully looking at you with his cloudy eyes of vague color] Whathcha wanth, young man?? [he slurps]}	
 {11}{002}{I'd say you need a doctor. Or a caretaker...}	
 {12}{003}{Uh... Are you aright? You jaw looks a little strange.}	
 {13}{999}{Wh- what? No, I was just walking by.}	
@@ -32,7 +32,7 @@
 {31}{004}{Oh man, Gromus, right? Okay, I'm }	
 {32}{004}{, nice to meet you!}	
 {33}{999}{Yeah, NICE THU MEETH YA. Well, I've got to go, see you later.}	
-{40}{}{Yeah, yeah, I'm fery glad thoo. Yeeah... another pathienth - thath ith, of courthe, very good. Yeeeeeah.}	
+{40}{}{Yeah, yeah, I'm fery glad thoo. Yeeah... another pathienth - thath ith, of courthe, fery good. Yeeeeeah.}	
 {41}{005}{I'm not a patient, alright? It's only a couple of scratches.}`	
 {42}{999}{Yeah, sure. Bye.}	
 {50}{}{Noth a pathienth thuday, and thumorrow you are barely walking. Here itha common thing, don'tchu doubth it. Efery newcomer efenchually cometh thu me. Yeah, you will thee.}	
@@ -55,17 +55,17 @@
 {115}{013}{Ghouls... Are you dead? What do you mean by that?}
 {120}{012}{There's one sick girl here...}
 {121}{}{You mean Lily??.. Of courthe you mean her, there ith no other girlth on this ftation, heh-heh. Yeah, poor girl has been bithen by a fkorpion, I gave her anthidote, buf she needth thu waith for a while longer, the anthidote hatha wery spethific impacth. You could try cawlming her down with a lullaby, buth you should have a great voithe for this thu work - like mine, fow example. Heh-heh. [he happily slurps] Another opthion - and there ith alwayth another opthion, righth? - is thu give her a lithle bit oh alcohol. If would calm her down. If you are noth againsth the idea of waesthin' some alcohol on her, of courthe. Yeeah.}
-{130}{}{Dead? Noth eferything ith so thimple, young man... I think there are thome people, like me, who don't die afther they, you know, die. They become ghouwls. I vividly remember how I wenth thu thleep very hungry, and woke up already as a ghouwl. The thkin ith going off all the thime, you are alwayth crafing for food, but the ghouwls don'th die from hunger - they become Feralth, they loothe their mind. Feralth are hard to kill, thow we drop them inthu a place at the other thide of Tartharus. You call this plaithe Purgathory. [he smiles]}
+{130}{}{Dead? Noth eferything ith so thimple, young man... I think there are thome people, like me, who don't die afther they, you know, die. They become ghouwls. I vividly remember how I wenth thu thleep fery hungry, and woke up already as a ghouwl. The thkin ith going off all the thime, you are alwayth crafing for food, but the ghouwls don'th die from hunger - they become Feralth, they loothe their mind. Feralth are hard to kill, thow we drop them inthu a place at the other thide of Tartharus. You call this plaithe Purgathory. [he smiles]}
 {131}{010}{So, that's how it is... It was much simpler in Tartarus. I want to ask more.}
 {122}{999}{Hmph. Thanks for advice.}
-{201}{}{Ahhahah! Thpot on, my boy, thpot on! The main ingredienth ith the fkorpion sthing! Usually our kind Seekerth bring me a couple of their theilth, buth lathely they have other problemth thu take care abouth. You know whath? We couwld go hunth some fkorpionth thugether... You would be very helpful.}	
+{201}{}{Ahhahah! Thpot on, my boy, thpot on! The main ingredienth ith the fkorpion sthing! Usually our kind Seekerth bring me a couple of their teilth, buth lathely they have other problemth thu take care abouth. You know whath? We couwld go hunth some fkorpionth thugether... You would be fery helpful.}	
 {202}{999}{Uh... Scorpions? That stingy poisonous little creatures? No thanks, we'll do without it.}	
 {203}{QA}{Scorpions... Yeah, I think we could handle it. Okay, I agree.}	
 {204}{QA}{Hmm, scorpions, scorpions... I don't seem to remember what it is. Okay, I'll help you.}	
 {210}{}{Thath ith wery good. We can go righth now, if you are ready..}	
 {211}{Hunting}{I'm ready. Let's go!}	
 {212}{999}{I need to finish something. I'll come back when I'm ready.}
-{220}{}{Well, if was pretthy dangerouth, yeah [he slurps] Okay, gimme, gimme this theilth. [he unceremoniously takes away all scorpion tails from you] Oh yeeeeeah, that shouwld be enough. Well, thankth for the help, you can thake this pothion [he hands you the bottle with a questionable murky goo inside] Ith an exthract from the theilth of the fkorpionth. Cometh in handy in case of radiathion poithoning, yeah...}	
+{220}{}{Well, if was pretthy dangerouth, yeah [he slurps] Okay, gimme, gimme the teilth. [he unceremoniously takes away all scorpion tails from you] Oh yeeeeeah, that shouwld be enough. Well, thankth for the help, you can thake this pothion [he hands you the bottle with a questionable murky goo inside] Ith an exthract from the teilth of the fkorpionth. Cometh in handy in case of radiathion poithoning, yeah...}	
 {221}{}{Thanks doc, was glad to be of help.}	
 {222}{}{Well, better than nothing. See you, doc.}	
 {300}{}{Li-ly... [he ponders] Yeeeah, we love to chat ath night before fleep. I think ith could help to calm hewr down, buth Martha don'th exacthly likes me. Petulant stupid woman! Thry just thu talk with the girl, thell some sthowry.}	
@@ -128,13 +128,13 @@
 #	
 #œÀ¿¬¿ﬁŸ»≈ —ŒŒ¡Ÿ≈Õ»ﬂ (ƒÓÔÓÎÌËÚÂÎ¸ÌÓ)	
 #	
-{1030}{}{I don'th know. We need ath leaft a couple of their theilth.}	
-{1031}{}{Thoo eawrly thu return, we need more theilth.}	
-{1032}{}{No, I need mowre theilth!}	
+{1030}{}{I don'th know. We need ath leaft a couple of their teilth.}	
+{1031}{}{Thoo eawrly thu return, we need more teilth.}	
+{1032}{}{No, I need mowre teilth!}	
 {1033}{}{A coupwle fkorpionth more - and we can go back.}	
 {1034}{}{What now? Look outh for theiled creathureth!}	
-{1035}{}{Yeeeeah, lookth like we hafe enough theilth. We can rethurn.}	
-{1036}{}{Yeah, lets, get out of here.}	
+{1035}{}{Yeeeeah, lookth like we hafe enough teilth. We can rethurn.}	
+{1036}{}{Yeah, let's, get out of here.}	
 {1037}{}{Wait, I still didn't have enough! We need to kill them all!!}	
 {1038}{}{No, wait, I need to look around a little more.}	
 {1039}{}{}

@@ -61,7 +61,7 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-1000}{}{Hey, buddy!}
+{1000}{}{Hey, buddy!}
 {1001}{}{Hello! How are you?}
 {1002}{}{Well, hello there!}
 {1003}{}{Hey brother! How are you doing?}
