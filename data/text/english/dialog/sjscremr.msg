@@ -37,7 +37,7 @@
 {103}{035}{Easy! Show some respect to the Rainbow's ambassador!}
 {104}{035}{I have an important message from the Hog. I wanted to talk about...}
 {105}{040}{Do you know what happened to the Rainbow?}
-{106}{014}{Here's your prize [give him chimera's teeth].}
+{106}{014}{Here's your prize [give him Chimera's teeth].}
 {107}{999}{I'm already leaving.}
 {1002}{}{[Loudmouth welcomes you with a wide smile of his rotting teeth] Here comes our animal lover. Whaddaya want, hotshot?}
 {108}{012}{I wanted to ask you about this place.}
@@ -57,7 +57,7 @@
 {1202}{}{Let's do this quick, I have a lot of work to do... I need to get my collection of fingers organized. [He rifles through a crumpled box with a steel dog faces on the side] Here, check this one out, I borrowed it from the Hog. [he angrily squints] If I knew it would turn out like this - I would take the whole head of this filthy shit! I'm gonna fucking MURDER him!}
 {121}{016}{I just wanted to know more about you, guys.}
 {122}{018}{Interesting, Now, who the hell is Hog?}
-{123}{015}{Why are you so twitchy? Did your dad gave you too little love when you were kid? Oh, or is it the opposite? Did he do it regularly?}
+{123}{015}{Why are you so twitchy? Didn't your dad loved you enough when you were kid? Or maybe it's the opposite... Did he do it regularly?}
 {124}{999}{I won't bother you then. I'll come by later.}
 {1203}{}{Do I look like a fucking guide to you? Huh? Are you the fucking interviewer? [He gets angrier with every word, his voice sounding like raspy roaring] I thought when the Hog is dead, I'm gonna fucking breath a little. But you, freaks, are still trying to piss me off, aren't you? Huh? TALK, YOU FUCKING SHIT!}
 {125}{015}{Looks like you think you are immortal. Want me to arrange you a meeting with the Hog?}
@@ -77,7 +77,7 @@
 
 {140}{}{[He slaps your shoulder] Nice job! Perhaps I'm not only going to leave you your fingers intact, but will also give you a honest reward. [He puts down the rifle with powerful optics from his back, and reloads it a couple of times, checking smoothness of mechanism] Such a good toy... Exactly for you. Now you'll be able to shoot any beast between the eyes from a mile away.}
 {141}{012}{A pleasure doing business with you. I still have a couple of questions though.}
-{142}{015}{Is that it? Do you even realize what does it take to kill a chimera? I bet you took other teeth from an old and dead ones...}
+{142}{015}{Is that it? Do you even realize what does it take to kill a Chimera? I bet you took other teeth from an old and dead ones...}
 {143}{999}{Thanks, Loudmouth. Big gun means big future! See you around.}
 
 
@@ -107,7 +107,7 @@
 {192}{999}{Suit yourself, I was just asking. See you then.}
 
 
-{200}{}{[looks at you sceptically] Yeah, sure, you walking dog food... Okay, what do I lose? Here's the situation - lately there's the rumor going that I piss my pants every time the word "chimera" is said. And that there's some asshole with rifle in rotten NWO, who, unlike me, can shoot this creatures dead easy-peasy. I have no time to spare shutting up every fucking pie hole, so I decided to deal with all of them simultaneously - see this necklace? That's chimera's teeth. But I'm too busy now to walk around wastelands getting the shit. This is where you come into picture. Kill off a couple of chimeras and bring me their fangs, the longest ones! I need three in total. The Jackals are having their hands full, so my bet is that someone like you would carry the task. You won't regret it - I have some very good rifles, someone who knows their stuff about guns would really appreciate them.}
+{200}{}{[looks at you sceptically] Yeah, sure, you walking dog food... Okay, what do I lose? Here's the situation - lately there's the rumor going that I piss my pants every time the word "Chimera" is said. And that there's some asshole with rifle in rotten NWO, who, unlike me, can shoot this creatures dead easy-peasy. I have no time to spare shutting up every fucking pie hole, so I decided to deal with all of them simultaneously - see this necklace? That's Chimera's teeth. But I'm too busy now to walk around wastelands getting the shit. This is where you come into picture. Kill off a couple of Chimeras and bring me their fangs, the longest ones! I need three in total. The Jackals are having their hands full, so my bet is that someone like you would carry the task. You won't regret it - I have some very good rifles, someone who knows their stuff about guns would really appreciate them.}
 {201}{999}{Deal. I'll come back soon, get the guns ready.}
 {202}{012}{No, it's too risky. I'll pass. Better answer some questions.}
 {203}{999}{I need to think about it. Be back soon.}

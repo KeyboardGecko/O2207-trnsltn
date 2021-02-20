@@ -49,15 +49,15 @@
 {105}{040}{Do you know how one can get into Tartarus?}
 {125}{020}{Maybe you'll tell what's around here?}	
 {106}{050}{Bono mentioned you need help.}	
-{107}{050}{Your Seekers are not looking good... Did you get back from a trip recently?}	
-{108}{060}{About your request.}	
+{107}{050}{Your Seekers do not look good... Did you get back from a trip to wasteland recently?}	
+{108}{060}{About your request...}	
 {109}{999}{It's nothing. I need to go now.}	
 {111}{}{Aren't you a curious one? [he raises an eyebrow] Hahahah, don't be afraid! It's good! The information is the thing that keeps you alive in Radius. Come on, ask!}	
 {112}{}{Come on, learn then. [he grins]}	
 {113}{Renessance}{Did you hear something about the Renaissanse?}	
 {114}{012}{I'm looking for the cure from radiation for my father.}	
 {115}{013}{Do you think there's possible to get into the Olympus?}	
-{116}{014}{Why there's no children here?}	
+{116}{014}{Why I don't see any children here?}	
 {117}{010}{I'd like to talk to you about something else.}	
 {118}{999}{No, I need nothing for now. See you.}	
 {120}{}{Radiation? If you need something more serious than the anti-radiational booze of Gromus, you'd probably go for... How was this stuff called... Oh! Antiradine! They say it's hella powerful. But where to get it - I don't know, sorry. Maybe you should check up north.}	
@@ -73,7 +73,7 @@
 {204}{010}{It can wait. I wanted to ask...}
 {205}{999}{Actually, I've got to go.}
 
-{130}{}{Into the Olympus, you say? Hmm... Well, if you manage to take out every armed and armored guard, together with all their pet chimeras - yeah, you'll probably make it to the front door. Which doesn't open even for a Devil! [he laughs]}	
+{130}{}{Into the Olympus, you say? Hmm... Well, if you manage to take out every armed and armored guard, together with all their pet Chimeras - yeah, you'll probably make it to the front door. Which doesn't open even for a Devil! [he laughs]}	
 {131}{011}{Somehow, that's exactly what I thought. Can I ask something else?}	
 {140}{}{Hah! Hahahahah! What a joker you are! Just put yourself on a place of any woman here, and try to imagine, how it is to raise child in this conditions. Or go ask Martha, if you can't imagine. She will probably tell you a lot of stuff... About the dad of little Lily. How should I put it... That girl is daughter to all of us, everyone is equally responsible for her. And that's why there's no children here. Done on this topic!}	
 {141}{011}{Oh, okay then. I'd like to ask something else.}	
@@ -85,7 +85,7 @@
 {302}{}{Uhh, this is what I say - the less you know, the better you sleep! Or how it was?.. It's enough for you to know, that if I don't like you or hurt someone here, I won't be having long talks with you. I mean, I won't do talking at all, if you know what I mean!}	
 {303}{010}{Okay, I got that. Can I ask more?}	
 {304}{999}{Okay, okay, I'll better go.}	
-{310}{}{What after? I just wandered Radius, went to a Tower, was thinking, maybe there's someone alive there. And I was always good in running, so I managed to run away from chimeras - and they chased me down to this place. And that's how I ended up here. Easy, huh? Practically everyone here - your fellows from Tartarus included - came here this way. I can't even imagine, how many of them were not fast enough...}	
+{310}{}{What after? I just wandered Radius, went to a Tower, was thinking, maybe there's someone alive there. And I was always good in running, so I managed to run away from Chimeras - and they chased me down to this place. And that's how I ended up here. Easy, huh? Practically everyone here - your fellows from Tartarus included - came here this way. I can't even imagine, how many of them were not fast enough...}	
 {311}{010}{Yeah, a whole lot, I suppose. It's good I didn't try to go to Olympus. Can I ask something else?}	
 {400}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on lower platform. He will tell you stories about the power, courage and other stuff, but you'll get the point. Although, you can also talk to Bono. He has a plan too, a peaceful one - but as for me, a peaceful solution in Radius is a total bullshit!}	
 {401}{999}{I get it. Bono and Hugo. I'll go talk to them.}	
@@ -106,7 +106,7 @@
 {516}{999}{I see, thanks for the warning. I'll keep an eye out.}	
 {600}{}{Show me what you got.}	
 {601}{061}{I'm still looking, actually. Can't wind wood for fire. Are you sure you've seen it?}	
-{602}{062}{Here [drop the wood and dry apples on the floor]}	
+{602}{062}{Here [drop the wood and dry apples to the floor]}	
 {603}{999}{I just wanted to say that soon I'll bring everything you need.}
 {604}{999}{I got some wood, will find some apples and return.}	
 {610}{}{Uh, let me check on my memory. Yeah, I'm sure! In a ruin to north-west from entrance to the station.}	
