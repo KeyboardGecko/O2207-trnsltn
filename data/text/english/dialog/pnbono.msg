@@ -11,11 +11,11 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see: an old ghoul.}
+{1}{}{You see an old ghoul.}
 {2}{}{This falling-apart ghoul looks ancient. He watches at you with unseeing gaze through his scant eyebrows.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
-{3}{}{You see: Bono.}
+{3}{}{You see Bono.}
 {4}{}{Unspoken godfather to the family of unfortunate local exiles.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
@@ -59,7 +59,7 @@
 {106}{040}{My father is very sick, I need to get back to Tartarus.}
 {107}{050}{You promised to help me, remember? Return the favor and all that.}
 {108}{060}{You look somehow distracted. Lost something?}
-{199}{065}{About that speech you need to give...}
+{199}{065}{About that speech you want to give...}
 {198}{069}{There's this guy Joe, he looks for his wife, Nadine.}
 {197}{075}{I brought Priestley some fertilizer. So I've been thinking - maybe you need more of that?}
 {196}{076}{I brought more of fertilizer.}
@@ -267,7 +267,7 @@
 {660}{}{Wonderful, I've just scribbled a couple of notes... Okay, let's go.}
 {661}{StartBonoSpeach}{[follow Bono]}
 
-{670}{}{Yeah... I think it went pretty good. Now everyone remembers that we are one big family and we'll survive only by taking care of each other. I hope it will boost the morale. Thank you for bringing everyone.}
+{670}{}{Yeah... I think it went pretty good. Now everyone will remember that we are one big family and we'll survive only by taking care of each other. I hope it will boost the morale. Thank you for bringing everyone.}
 {671}{068}{Uh... Well, you're welcome. I expected some reward though.}
 {672}{999}{No problem, it was nothing.}
 {673}{999}{Of course, don't sweat it, old man!}
@@ -290,7 +290,7 @@
 {703}{}{What else do you need?}
 {704}{}{Bono is going to give some speech. Something important.}
 {705}{}{You should come to listen to Bono speaking.}
-{706}{}{Bono is going to speak soon, he asked to come by and listen.}
+{706}{}{Bono is going to give speech soon, he asked to come by and listen.}
 {707}{}{Go to Bono's place, he wants to share a couple of words.}
 {708}{}{Okay, I'll come around.}
 {709}{}{I don't know, so many things to do... But I'll tell my friends.}

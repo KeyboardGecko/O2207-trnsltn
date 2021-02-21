@@ -467,7 +467,7 @@
 {862}{}{Something clicked!}
 {863}{}{Looks like your Perception is too low to detect mines. But clearing them with your feet is also a great way.}
 {864}{}{One is done, but there are still few to find around the house.}
-{865}{}{Quite a lot of people gathered. You need to tell Bono about it.}
+{865}{}{Quite a lot of people are going to come. You need to tell Bono about it.}
 {866}{}{Almost breaking the needle on the thick hide of the monster, you still manage to drive the injection into the unprotected belly of the Chimera!}
 {867}{}{You were irradiated for }
 {868}{}{ Rads!} # then maybe sievert or rem

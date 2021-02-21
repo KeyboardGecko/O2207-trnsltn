@@ -51,7 +51,7 @@
 
 
 
-{200}{}{Well, if you really want to know... [he sighs] I was once a missionary of a great god named [he furiously spits] Chiefacus. I carried his word all around the Radius, telling every peasant about the heavens and thrirty beautiful virgins, awaiting them after death... And now you see how harsly Chiefacus [he furiously spits] dealt with me. I was so handsome, my beautiful holy chin dimple could get me between the legs of any woman... [he rolls eyes, pondering into memories] But then I withered.}
+{200}{}{Well, if you really want to know... [he sighs] I was once a missionary of a great god named [he furiously spits] Chiefacus. I carried his word all around the Radius, telling every peasant about the heavens and thirty beautiful virgins, awaiting them after death... And now you see how harsly Chiefacus [he furiously spits] dealt with me. I was so handsome, my beautiful holy chin dimple could get me between the legs of any woman... [he rolls eyes, pondering into memories] But then I withered.}
 {201}{021}{What do you mean? Did you get sick?}
 {202}{}{I was a handsome man once, but the Gods [he furiously spits] cursed me, and I turned into *this*. What else can be said?.. Thank God [he furiously spits] that Robin brought me here, or I would have been eaten by jackals in the desert.}
 {203}{010}{So the Gods cursed you? I see. I have another questions.}
