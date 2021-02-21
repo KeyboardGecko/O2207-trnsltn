@@ -35,8 +35,8 @@
 
 #Node003
 {30}{}{I'm glad you asked, }
-{31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are sumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
-{32}{QA}{Calm the little girl? Of course I can do that [go to Lily]}
+{31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are rumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
+{32}{QA}{Calm the clild? Of course I can do that [go to Lily]}
 {33}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
 
 #Node010
@@ -44,13 +44,13 @@
 {101}{}{Sure, ask away.}
 {102}{011}{Tell me about this place.}
 {103}{020}{You look pretty nervous, Martha. Something happened?}
-{104}{030}{About calming the baby...}
+{104}{030}{About calming the girl...}
 {105}{999}{Actually I have to go.}
 {106}{040}{Joe looks for his wife Nadine. Did you see her?}
 
 #Node011
-{110}{}{I don't know much. It's an old subway station, as far as I can tell. I've spent a long time being held captive by the Dogs of Dawn, raped and tortured... but I got away. Then Robin and the prospectors found me and brought me here. After that my Lily was born. So we are striving through every day to see the next one - and that's how it is for us, mostly.}
-{111}{012}{Yeah, sad story. But who are the Dogs of Dawn?}
+{110}{}{I don't know much. It's an old subway station, as far as I can tell. I've spent a long time being held captive by the Sunset Jackals, raped and tortured... but I got away. Then Robin and the prospectors found me and brought me here. After that my Lily was born. So we are striving through every day to see the next one - and that's how it is for us, mostly.}
+{111}{012}{Yeah, sad story. But who are the Sunset Jackals?}
 {112}{010}{This must be hard. Can I ask another question?}
 {113}{}{We are just trying to get by to see another day - that's what we do.}
 {114}{010}{I see. Can I ask another question?}
@@ -62,8 +62,8 @@
 {122}{010}{Cruel world - cruel people. I'd like to ask something else.}
 
 #Node020
-{200}{}{My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are sumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
-{201}{QA}{Calm the little girl? Of course I can do that [go to Lily]}
+{200}{}{My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are rumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
+{201}{QA}{Calm the child? Of course I can do that [go to Lily]}
 {202}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
 
 #NodeQA

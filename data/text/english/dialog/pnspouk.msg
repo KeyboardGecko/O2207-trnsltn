@@ -53,13 +53,13 @@
 {101}{}{I just wanted to ask, maybe we could make a deal, so some of people from the station could go inside? I'll pay.}
 {102}{}{About our deal.}
 {103}{}{Easy, I'm leaving.}
-{110}{011}{Hm... Interesting proposition. A bottle of whiskey and a bottle of cognac - and I let one women and one child to enter. Not negotiating. I'm waiting.}
+{110}{011}{Hm... Interesting proposition. A bottle of whiskey and a bottle of cognac - and I let one women and one child to enter. No negotiating. I'm waiting.}
 {111}{}{Well, okay then, it's a deal.}
 {120}{012}{Yeah? I'm still waiting for my booze!}
 {121}{}{Here, cognac and whiskey [give bottles]}
 {122}{}{I just wanted to check that our deal still stands.}
 {123}{}{I wanted to tell you that I'll get it soon.}
-{130}{013}{You are testing my patience, dead meat!  A bottle of whiskey and a bottle of cognac for passage of one women and one child. And now get out of my sight!}
+{130}{013}{You are testing my patience, dead meat! A bottle of whiskey and a bottle of cognac for passage of one women and one child. And now get out of my sight!}
 {131}{}{Yeah-yeah, soon I'll get it.}
 {140}{014}{Good. [takes bottles] Now listen to me, dead meat: never show your face here again. I'm pretty tired of seeing you around, so you've just paid me for getting out of this place alive. Deal stands for two minutes. Come again, and I'll open fire without warning. Understood? Now get out!}
 {141}{}{[grit your teeth and walk away]}
@@ -82,9 +82,9 @@
 {215}{}{Herald? Did you get lost or something? The name?}
 
 {216}{}{Damn, I'll never remember all your names. Come on, go in.}
-{217}{}{Yes, there was one with such name. Or was he?.. Oh man, just get in.}
+{217}{}{Yes, there was one with such name. Or wasn't? Oh man, just get in.}
 {218}{}{Hmm... Nah, I've always been bad at names. Maybe I need to write you all down? Go in, come on. [starts thinking]}
-{219}{}{John, Steve, Jack... You are the same man, aren't you? Just kidding, a stadart procedure. Come on, go in.}
+{219}{}{John, Steve, Jack... You are the same man, aren't you? Just kidding, it's a stadart procedure. Come on, go in.}
 
 {300}{}{Do not approach!}
 {301}{}{All questions - to the corporal!}

@@ -233,8 +233,8 @@
 {201}{}{Not going to happen, you need to train more.}
 {202}{}{Your hands are shaking! Calm down and try again!}
 {203}{}{You were almost noticed! Be careful next time.}
-{204}{}{Your chances of successfully stealing are about }
-{205}{}{%. Worth a try??}
+{204}{}{Your chance of successfully stealing is around }
+{205}{}{%. Worth a try?}
 {206}{}{WE HAVE A DAMN THIEF HERE! GET HIM!!!}
 {207}{}{THINK YOU CAN STEAL FROM ME?}
 {208}{}{DANG! I'M BEING ROBBED!!!}
@@ -278,7 +278,7 @@
 {303}{}{So many years have passed, but almost nothing has changed in Tartarus.}
 {304}{}{After another 4 years, still nothing has changed.}
 {305}{}{The Farms of Tartarus... The humid air is saturated with the smell of rotten corn and the shit of the Lavash.}
-{306}{}{It seems to you that with each new visit to the Farm, the air here becomes even more disgusting than before...}
+{306}{}{It seems that with each new visit to the Farm the air here becomes even more disgusting than before...}
 {307}{}{The Maintenance Level. Continuous noise of water pumping and purification units will never let you fall asleep here.}
 {308}{}{The stench from the Mouth of Hades immediately hits you in the nose and almost knocks you to the ground.}
 {309}{}{This is the Purgatory. In the pitch darkness, you can smell fear and death.}
@@ -286,7 +286,7 @@
 {3010}{}{I need to check this box, see if there's anything interesting there.}
 {311}{}{An old parking lot with piles of twisted metal. As a child, you loved to play here so much.}
 {312}{}{The old metro line ends with a blockage, but you can see a turn to the right.}
-{313}{}{An old Olympus Station. The dim light illuminates the frail bodies of the local inhabitants.}
+{313}{}{An old Olympus Station. Dim lights illuminate the frail bodies of the local inhabitants.}
 {314}{}{Apparently, here's where used to be the waiting rooms and administration cabinet of the Olympus Station.}
 {315}{}{Among the remains of houses you can see a passage into the underground.}
 {316}{}{As everywhere else, devastation and destuction reign supreme.}

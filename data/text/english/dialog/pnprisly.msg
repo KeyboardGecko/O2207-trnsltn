@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{Huh? Another one? It's okay, you won't suffer for long. Only you're lucky enough to turn into something like me...}
+{10}{}{Huh? Another one? It's okay, you won't suffer for long. Only if you're lucky enough to turn into something like me...}
 {11}{002}{What? What are you talking about, you monster?}
 {12}{003}{Who are you? And why should I turn into something like you? I wouldn't like that...}
 {13}{999}{Me go there. Not here.}
@@ -33,7 +33,7 @@
 {23}{999}{All I hear is blah-blah-blah. Not interested.}
 
 
-{30}{}{I'm Priestley. More precisely, I WAS Priestley, before I turned into...this. As far as I know, anyone can turn into the ghoul.}
+{30}{}{I'm Priestley. More precisely, I WAS Priestley, before I turned into... This. As far as I know, anyone can turn into a ghoul.}
 {31}{010}{I see. I'm }
 {32}{010}{, I'd like to know more about it.}
 {33}{999}{Looks like it's all bullshit and fairy tales. I'm out of here.}
@@ -51,7 +51,7 @@
 
 
 
-{200}{}{Well, if you really want to know... [he sighs] I was once a missionary of a great god named [he furiously spits] Chiefacus. I carried his word all around the Radius, telling every peasant about the heavens and thrirty beautiful virgins, awaiting them after death!.. [looks like he got carried away] And now you see how harsly Chiefacus [he furiously spits] dealt with me. I was so handsome, my beautiful holy chin dimple could get me between the legs of any woman... [he rolls eyes, pondering into memories] But then I withered.}
+{200}{}{Well, if you really want to know... [he sighs] I was once a missionary of a great god named [he furiously spits] Chiefacus. I carried his word all around the Radius, telling every peasant about the heavens and thrirty beautiful virgins, awaiting them after death... And now you see how harsly Chiefacus [he furiously spits] dealt with me. I was so handsome, my beautiful holy chin dimple could get me between the legs of any woman... [he rolls eyes, pondering into memories] But then I withered.}
 {201}{021}{What do you mean? Did you get sick?}
 {202}{}{I was a handsome man once, but the Gods [he furiously spits] cursed me, and I turned into *this*. What else can be said?.. Thank God [he furiously spits] that Robin brought me here, or I would have been eaten by jackals in the desert.}
 {203}{010}{So the Gods cursed you? I see. I have another questions.}
@@ -83,10 +83,10 @@
 
 
 {410}{}{I don't even know... I wasted a lot of time - disassembling the floor tiles, preparing soil, making patches... I even watered the crops! But I could grew only stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that lavash waste only makes it worse!}
-{411}{042}{Maybe you need something else to fertilize it then? Man, I could really use Catty's advice on that.}
+{411}{042}{Maybe you need something else then? Man, I could really use Catty's advice on that.}
 
 
-{420}{}{Yeah, there is even a recipe for creating a real fertilizer. I just can't make it - have no components. And, uh, no skill... Maybe if you could bring me a little bag of it? I don't have much, but I would find what to pay you.}
+{420}{}{Yeah, there is even a recipe for creating a real fertilizer. I just can't make it - have no components. And, uh, no skill... Maybe if you could bring me a little bag of it? I don't have much, but I would find what to pay you with.}
 {421}{QA}{Sure, why not? Tell me details, what should I do?}
 {422}{999}{Uh, no, sorry. The fertilizer is not my speciality. I need to go.}
 
@@ -98,7 +98,7 @@
 
 {500}{}{Yes? My corns are waiting!}
 {501}{999}{Sorry, it's not done yet.}
-{502}{051}{Go make them happy then! Here's the bag of fertilizer you need. [give Priestley the stinky bag]}
+{502}{051}{Go make them happy then! Here's the bag of fertilizer you need. [give Priestley a stinky bag]}
 
 
 {510}{}{[Priestley readily takes the fertilizer from your hands] At last the holy Chiefacus favors me again! Maybe I should't have been so harsh to him? Thanks, my friend, may the thirty virgins be with you after you die! If I get any harvest - I'll definitely share!}

@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see angry ghoul.}
+{1}{}{You see an angry ghoul.}
 {2}{}{He gives you a heavy look from under his big brows.}
 #
 # после знакомства
@@ -42,7 +42,7 @@
 
 #Node005
 {50}{}{In this case - welcome, }
-{51}{}{! I would hug you, but I'm not really into hugs [laughs] We are destined to do great things, aren't we?}
+{51}{}{! I would hug you, but I'm not really into hugging [laughs] We are destined to do great things together, aren't we?}
 {52}{010}{Can you tell me more?}
 {53}{999}{I see. I will definitely come back later for details.}
 
@@ -56,28 +56,28 @@
 {106}{999}{It's nothing, I'll better go.}
 
 #Node011
-{110}{}{I'm talking about better life, son. Life in warmth and safety, where you won't have to eat dead rats to survive and screech you teeth from cold at night. I'm talking about the life in Tartarus, not as slaves, but as free people!}
+{110}{}{I'm talking about better life, son. Life in warmth and safety, where you won't have to eat dead rats to survive and grind you teeth from cold at night. I'm talking about the life in Tartarus, not as slaves, but as free people!}
 {111}{013}{You mean... You plan to TAKE OVER the Tartarus?}
 {112}{012}{I don't quite get where this is going.}
 {113}{999}{Sounds dubious... I'll better go.}
 
 #Node012
-{120}{}{Think for yourself - Tartarus is guarded only by a couple of armed guards. While the others will realize what happened, we already brick up other entrances! No one enters us, we'll take care of this for sure!}
+{120}{}{Think for yourself - Tartarus is guarded only by a couple of armed guards. While the others would realize what happened, we'd already brick up other entrances! No one dares to enter us, we'll take care of this for sure!}
 {121}{010}{I don't know, sounds pretty dangerous... I'll think about it. Can I ask another question?}
 {122}{999}{Wow. I need to think about it. [leave]}
 
 #Node013
-{130}{}{"Take over" is a harsh word. I prefer to use the phrase "take away". We will take away what is more needed for us. Let this militarists idiots in armored suits live in their tower, we claim only the Tartarus.}
+{130}{}{"Take over" is a harsh words. I prefer to use the phrase "take away". We will take away what is more needed for us. Let this militarists idiots in armored suits live in their tower, we claim only the Tartarus.}
 {131}{010}{I don't know, sounds pretty dangerous... I'll think about it. Can I ask another question?}
 {132}{999}{Wow. I need to think about it. [leave]}
 
 #Node020
-{200}{}{Help? YOU!? You can get of our way or protect us from bullets with your body! Well, okay, okay, we actually could use your help. We need some medical supplies for our soldiers, so they would feel more comfortable while taking away our beloved place.}
+{200}{}{Help? YOU!? You can get from our way or protect us from bullets with your body! Well, okay, okay, we actually could use your help. We need some medical supplies for our soldiers, so they would feel more comfortable while taking away our beloved place.}
 {201}{021}{Which medical supplies?}
 {202}{999}{Nah, I thought I would be fighting. Will handle it myself then.}
 
 #Node021
-{210}{}{5 packs of Heal-Up and 1 Combatid, personally for me. I'm going to have a real fun, so I don't want to take risk just like that. Combatid will do everything for me. So, will you deliver?}
+{210}{}{5 packs of Heal-Up and 1 Combatid, personally for me. I'm going to have a real fun, so I don't want to take risk for nothing. Combatid will do everything for me. So, will you deliver?}
 {211}{QA}{I don't know what it is, but I'm going to get it. I'll return to you when I do.}
 {212}{999}{Heal-Up, Combatid... I don't even know such words, not talking about where to get something like this. No, it's too difficult. Handle it yourselves.}
 
@@ -88,7 +88,7 @@
 {303}{032}{I've been searching for so long that I forgot what exactly should I bring... And how many.}
 
 #Node031
-{310}{}{Yeah, give it to me. Don't drop it! Oh, your crooked hands... Hey guys, a little help here!! One injection per person, take it away... Well? Are you ready to take back our happy future?! We are deploying immediately!! SOmebody, tell Robin to catch up, I can't wait any longer. Let's go!!}
+{310}{}{Yeah, give it to me. Don't drop it! Oh, your crooked hands... Hey guys, a little help here!! One injection per person, take it away... Well? Are you ready to take back our happy future?! We are deploying immediately!! Somebody, tell Robin to catch up, I can't wait any longer. Let's go!!}
 {311}{999}{[observe how Hugo and his fighters go away]}
 
 #Node032
@@ -96,12 +96,12 @@
 {321}{999}{Understood. Will get back soon.}
 
 #Node040
-{400}{}{Trust? I don't even know. A piece of advice, kid - don't trust no one. If you learn a secret - keep it to yourself, be healthy. Radius doesn't like blabbers, it chews them down and spits them out, because if you gave out the information - it has no need for you anymore. Listen and keep silence. You'll live long enough.}
+{400}{}{Trust? I don't even know. A piece of advice, kid - trust no one. If you learn a secret - keep it to yourself, be healthy. Radius doesn't like blabbers, it chews them down and spits them out, because when you gave out the information, it has no need for you anymore. Listen and keep silence. You'll live long enough.}
 {401}{}{Trust? You can trust me. I won't answer for the others. Everyone here is so... Smart-ass.}
 {402}{041}{I see. Even the kids?}
 {403}{010}{I see. Another question.}
 
 #Node041
-{410}{}{Hah, there are no kids here! Except that little snot, Martha's offspring. I think her name is Lilly. She was recently bit by a scorpion, everyone went crazy about it. Damn girl is only slowing us down. Instead of dealing with her, everyone could get together and storm the Tartarus already.}
-{411}{999}{Lilly, you say? Thanks, I'll go find her.}
+{410}{}{Hah, there are no kids here! Except that little snot, Martha's offspring. I think her name is Lily. She was recently bit by a scorpion, everyone went crazy about it. Damn girl is only slowing us down. Instead of dealing with her, everyone could get together and storm the Tartarus already.}
+{411}{999}{Lily, you say? Thanks, I'll go find her.}
 {412}{010}{We were the kids once. Can I ask another question?}
