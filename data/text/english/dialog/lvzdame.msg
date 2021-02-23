@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: lady.}
-{2}{}{You see: local lady.}
-{3}{}{You see: old dame.}
-{4}{}{You see: dweller of the vault.}
-{5}{}{You see: inhabitant of Livos.}
+{1}{}{You see a lady.}
+{2}{}{You see a local lady.}
+{3}{}{You see an old dame.}
+{4}{}{You see a dweller of the vault.}
+{5}{}{You see an inhabitant of Livos.}
 {6}{}{A woman of venerable age with a pale grey skin.}
 {7}{}{Her look indicates that everyone else in comparison to her are just worms.}
 {8}{}{Contemptuous look of this lady makes you wonder about appropriateness of you being here.}
@@ -101,10 +101,10 @@
 {1048}{}{Let's push the morning debates to eleven'o'clock. At least we won't have to get up early...}
 {1049}{}{Who have seen our wonderful Constitution? I made a few notes on it and forgot what I wrote...}
 #тихие проклятья про себя
-{1050}{}{Damn Shweins! They think they are the smartest.}
+{1050}{}{Damn Schweins! They think they are the smartest.}
 {1051}{}{This slut Minion is eventually gonna get what's coming to her.}
 {1052}{}{Emily, you didn't have to perform so hard.}
-{1053}{}{Soap is decrepit wuss. He's the shame of a whole New World.}
+{1053}{}{Soup is a decrepit wuss. He's the shame of a whole New World.}
 {1054}{}{Which crazy person first came up with a Wine Debt?}
 {1055}{}{Peter has completely lost his marbles with his hotel.}
 {1056}{}{Next time I'm going to spike Abelyne's wine with a laxative. And with sleeping pills.}

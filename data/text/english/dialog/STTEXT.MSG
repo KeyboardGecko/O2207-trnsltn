@@ -363,7 +363,7 @@
 {387}{}{Nothing but empty ruins.}
 {388}{}{Just the bank of a dead river.}
 {389}{}{Just the bank of a dead river.}
-{390}{}{The second floor is conveniently filled with several rooms. Looks like there is even someone alive in one of them.}
+{390}{}{The second floor laid out with several rooms. Looks like there is even someone alive in one of them.}
 {391}{}{Rocks and stones. And more rocks... and stones too.}
 {392}{}{Rocks and stones. And more rocks... and stones too.}
 {393}{}{Rocks and stones. And more rocks... and stones too.}

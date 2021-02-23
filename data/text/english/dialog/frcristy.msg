@@ -22,7 +22,7 @@
 #
 {10}{}{[You can't help but move your eyes from her beautiful cheeky face to big red, although a little dusty, hair. Short jacket with cut-off sleeves and grey shirt leave her hollowed belly open. Ripped jeans emphasize her slender legs.] Hey... You scared the shit out of Fred! But I somehow knew from the start that you didn't come here for our heads.}
 {11}{011}{I've seen a lot of people pissing their pants when seeing me. But you are right, I need only answers for some questions.}
-{12}{011}{I didn't think my arrival will make such a fuss. Can you answer my questions for a bit?}
+{12}{011}{I didn't think my arrival would make such a fuss. Can you answer my questions for a bit?}
 {13}{016}{Are you alright here? Need any help?}
 {14}{999}{You have nothing to worry about. Talk later, okay?}
 
