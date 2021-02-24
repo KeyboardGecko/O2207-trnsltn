@@ -11,105 +11,83 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Спокойная, слегка улыбающаяся женщина.}
-{2}{}{Она излучает уверенность.}
+{1}{}{You see a calm woman. She smiles a bit.}
+{2}{}{She oozes with confidence.}
 #
 # после знакомства
-{3}{}{Вы видите: Вероника.}
-{4}{}{Как всегда спокойна, опрятна и уверена в себе.}
+{3}{}{You see Veronice.}
+{4}{}{As usual, she is calm, clean and confident.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы видите статную женщину средних лет в богатой одежде. Она высоко держит голову и смотрит на Вас с надменным взглядом] Молодой человек, Вы что-то хотели?}
-{11}{002}{Я здесь недавно, знакомлюсь с соседями.}
-{12}{006}{Я хочу просто поболтать о чем-нибудь.}
-{13}{007}{Привет! Ну что, как жизнь?}
+{10}{}{[You see a confident middle-aged woman in a rich clothing. She holds her head high, giving you arrogant look.] Did you want something, young man?}
+{11}{002}{I'm new here. Getting to know my neighbours.}
+{12}{006}{I just want to talk about something.}
+{13}{007}{Hey! So, how is it going?}
 
 
+{20}{}{Yes, I heard about a newcomer in Livos. I see the bar dropped pretty low for becoming a new inhabitants.}
+{21}{003}{Yeah, to become one of you is pretty easy.}
+{22}{004}{I am very useful resident of Livos, and I had to put many efforts to prove it.}
+{23}{005}{Maybe you'll behave a little nicer, woman?}
 
 
-{20}{}{Да, я слышала о новом человеке в Лайвос. Вижу, совсем планка опустилась для новых жителей.}
-{21}{003}{Да, стать одним из вас очень легко.}
-{22}{004}{Я очень полезный житель Лайвос. Мне пришлось доказывать это с большим трудом.}
-{23}{005}{Может, будешь вежливей, женщина?}
+{30}{}{[The woman squints] I see, Livos dwellers have completely lost their self-respect and allow anyone in. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
+{31}{010}{Glad to meet you. Can I ask some questions?}
+{32}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-
-{30}{}{[Женщина презрительно сощурилась] Да, жители Лайвос совсем перестали себя уважать и берут кого попало. Как бы то ни было, ты теперь один из нас. Так что добро пожаловать. Я Вероника Швайн.}
-{31}{010}{Рад знакомству. Могу я задать несколько вопросов?}
-{32}{999}{Вероника, я вспомнил об одном важном деле. Потом поговорим.}
-
+{40}{}{[She gives you evaluating look] I don't understand what useful they found in you. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
+{41}{010}{Glad to meet you. Can I ask some questions?}
+{42}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-
-{40}{}{[Женщина оценивающе смотрит на Вас свысока] Не знаю, что же полезного они в тебе нашли.  Как бы то ни было, ты теперь один из нас. Так что добро пожаловать. Я Вероника Швайн.}
-{41}{010}{Рад знакомству. Могу я задать несколько вопросов?}
-{42}{999}{Вероника, я вспомнил об одном важном деле. Потом поговорим.}
-
+{50}{}{[The woman squints] I see, Livos dwellers have completely lost their self-respect and allow anyone in. Young man, it's a great honor for you to become one of the dwellers. And you need to learn to behave with dignity, as befits to the ancient and respected family name of Schweins. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
+{51}{010}{Glad to meet you. Can I ask some questions?}
+{52}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-{50}{}{[Женщина презрительно сощурилась] Да, жители Лайвос совсем перестали себя уважать и берут кого попало. Молодой человек, тебе оказана высокая честь - быть одним из жителей Лайвос. И тебе следует поучиться держать себя достойно, как подобает древнему и известному роду Швайнов. Как бы то ни было, ты теперь один из нас. Так что добро пожаловать. Я Вероника Швайн.}
-{51}{010}{Рад знакомству. Могу я задать несколько вопросов?}
-{52}{999}{Вероника, я вспомнил об одном важном деле. Потом поговорим.}
+{60}{}{[The woman indifferently turns away] I have no time nor intention to "talk" without reason. If you have no business with me, let's not waste each other's time. I am Veronica Schwein, the most well-known political figure in Livos. I don't do empty "talk".}
+{61}{010}{Glad to meet you. Can I ask some questions?}
+{62}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-
-{60}{}{[Женщина равнодушно отвернулась в сторону] У меня нет времени и желания "болтать" без цели. Если нет ко мне конкретного дела, то не будем тратить время друг друга. Я Вероника Швайн, самый известный политический деятель Лайвос. Я не трачу время на "болтовню".}
-{61}{010}{Рад знакомству. Могу я задать несколько вопросов?}
-{62}{999}{Вероника, я вспомнил об одном важном деле. Потом поговорим.}
-
+{70}{}{[The woman opens her mouth amazed, but quickly returns to her indifferent and arrogant look] You, young man, are ill-mannered and rude. I am Veronica Schwein, and I ask you to show me some respect, because I represent the ancient and great family of Schweins. You'll have to learn to be discreet and polite to fit in Livos.}
+{71}{010}{Understood. Can I ask some questions?}
+{72}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-
-{70}{}{[Женщина на секунду удивленно открыла рот, но потом снова приняла равнодушный и надменный вид]  Да, молодой человек, ты совершенно не воспитан и груб. Я Вероника Швайн, и я прошу с уважением относиться ко мне, так как я являюсь представителем древнего и великого рода Швайнов. Тебе нужно научиться сдержанности и вежливости, чтобы быть своим в Лайвос.}
-{71}{010}{Я понял. Могу я задать несколько вопросов?}
-{72}{999}{Вероника, я вспомнил об одном важном деле. Потом поговорим.}
-
-
-
-{1001}{}{Здравствуй, командир. Пришел о делах поговорить?}
-{1002}{}{Я внимательно слушаю.}
-{1003}{}{Здравствуй. Пришел поговорить о делах?}
-{101}{011}{Вероника, чем ты занимаешься в Лайвос?}
-{102}{014}{Расскажи о других семьях.}
-{103}{012}{Чем можно здесь заняться?}
-{104}{013}{Я хочу услышать про семью Швайнов.}
-{105}{999}{Ладно, Вероника, мне пора. Пока.}
+{1001}{}{Hello, commander. Did you come to talk business?}
+{1002}{}{I'm listening.}
+{1003}{}{Hello. Did you come to talk business?}
+{101}{011}{Veronica, what is it you do here, in Livos?}
+{102}{014}{Tell me about other families.}
+{103}{012}{How can I be useful around here?}
+{104}{013}{I'd like to know more about the Schwein family.}
+{105}{999}{Okay, Veronica, I need to go. Bye.}
 
 
+{110}{}{[Veronica proudly raises her head] I am the most influent politician in Livos. No meeting is concluded without my speech in it. I have the biggest amount of speeches and suggestions. And many of my ideas were accepted and became a reality.}
+{111}{013}{What are the other members of the Schwein family doing?}
+{112}{014}{What can you tell me about other families?}
 
 
-
-{110}{}{[Вероника гордо подняла голову] Я самый влиятельный политик в Лайвос. Ни одно собрание не происходит без моей речи. Я чаще всех выступаю и выдвигаю предложения на собраниях. И очень многие мои идеи приняты и воплощены в жизнь.}
-{111}{013}{Чем занимаются другие члены семьи Швайн?}
-{112}{014}{Что можешь рассказать о других семьях?}
+{120}{}{Everyone does their part in Livos... But I think that except one-time jobs of repairing the equipment, it would be difficult for you to find something to do. All profitable areas are divided and occupied, and you can't compete with me in politics. I suppose you could be valuable as a scout, provider of some rare tech, and also in creating diplomatic connections with other Radius settlements.}
+{121}{010}{I see. Another question.}
 
 
+{130}{}{[She bursts with pride] The Schwein family is the greatest and the most powerful in Livos! We control tme most important aspects of vault's life. My son, Christopher, is busy with external trade. Ludwig, my husband, is an outstanding scientist and inventor, one of a kind, I must say. His brother Edward is in charge for vault's protection. And I, modestly speaking, am the most experienced and perceptive politician and spokesman in Livos.}
+{131}{015}{How did you become Ludwig's wife?}
+{132}{010}{Great. I have another question.}
 
 
-{120}{}{В Лайвос каждый занят своим делом. Думаю, кроме разового ремонта оборудования, здесь сложно будет найти тебе занятие. Все прибыльные сферы поделены, в политике тебе со мной не совладать. Думаю, ты будешь ценен как внешний разведчик и добытчик редких видов оборудования, а также для создания политических и дипломатических связей с другими поселениями Радиуса.}
-{121}{010}{Понятно. Еще вопрос.}
+{140}{}{[Veronica chuckles] The other families are pale imitation of the Schweins. They are nothing. They do easiest and unnecessary jobs, which could be handled by anyone. McKinseys are putting water into barrels, Hortons are busy with petty fixings, and Duntons are trying to give me a challenge in politics. In short, they all are a bunch of losers, playing the game that's too big for them.}
+{141}{010}{I see. Another question.}
 
 
+{150}{}{[She gives out a smile of a winner] Oh, that was such a story. Ludwig kept himself locked in his working quarters for ages. So Edward put out a rumor that Ludwig will come out to choose the best woman of all who attended. Notice that I said not the most beautiful, not the most smart, but "the best". That's why I became his wife. I was the best - best prepared, best planned everything, best dealt with competitors. So, I achieved my dream and became the member of a great family of Schweins!}
+{151}{016}{Dealt with the competitors?}
 
 
-{130}{}{[Ее аж распирает от гордости] Семья Швайн - самая великая и могущественная в Лайвос! Мы контролируем все самые важные аспекты жизни Лайвос. Мой сын, Кристофер, занимается внешней торговлей. Мой муж Людвиг - выдающийся ученый и изобретатель, единственный, между прочим. А его брат Эдуард отвечает за безопасность всего убежища Лайвос. Без лишней скромности, я  являюсь самым опытным и проницательным политиком и оратором в Лайвос. }
-{131}{015}{Как ты стала женой Людвига?}
-{132}{010}{Круто. Я еще спрошу.}
-
-
-
-{140}{}{[Вероника попыталась изобразить усмешку] Другие семьи - это жалкая тень семьи Швайн. Они ровным счетом ничего из себя не представляют. Занимаются самой легкой и необязательной работой, с которой любой из Швайнов смог бы справиться легко. МакКинзи разливают воду в бочки, Хортоны заняты мелким ремонтом, Дантоны пытаются составить мне слабенькую конкуренцию в политических делах. Одним словом, кучка бездельников, играющих во взрослые игры.}
-{141}{010}{Все понятно. Другой вопрос.}
-
-
-
-
-{150}{}{[Ее лицо озарила улыбка победителя] О, это была целая история. Людвиг не покидал своей мастерской годами. И Эдуард пустил слух, что Людвиг выйдет из убежища и выберет лучшую девушку из присутствующих. Заметь, не самую красивую, не самую умную, а самую лучшую. Поэтому я стала его женой. Я была лучшая; лучше всех подготовилась, лучше всех спланировала, лучше всех расправилась с конкурентками. И моя заветная мечта осуществилась - я стала носить великую фамилию Швайн!}
-{151}{016}{Ты расправилась с конкурентками?}
-
-
-
-
-{160}{}{О да! У кого-то живот прихватило именно в тот день, у кого-то повозка по пути в Лайвос сломалась, кому-то дикие собаки дорогу перекрыли. И те, кто все-таки добрались до Лайвос, были в ужасном состоянии. И на входе их встретила парочка ребят, которые за дюжину батареек сделают все, что захочешь. Моим конкуренткам очень повезло, что ни одна из них не погибла. Но никто из них уже не представлял для меня конкуренции.}
-{161}{010}{Хороший план, ничего не скажешь. Тогда еще спрошу.}
+{160}{}{Yes! Someone had a bit of the stomach ache in that exact day, others had their carriage broken on the way to Livos, some run into the pack of wild jackals on the way. So, the ones who made it to the vault were in a pretty bad shape. And by the entrance they were met by a couple of tough guys who can do anything for a handful of batteries. My competitors were very lucky to stay alive - but not so lucky to be of actual competition to me anymore.}
+{161}{010}{Good plan, I'll give you that. I want to ask something else.}
