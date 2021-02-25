@@ -86,7 +86,7 @@
 {123}{999}{You are kind of twitchy. I'll better go.}
 
 
-{130}{}{I'm the Loudmouth's right hand. I'm in charge for this warehouse, which contains weapons, which means that *everything* here depends on me. Because gun is the most valuable thing in the world. Loudmouth has two other assistans, Oswald and Billy. They think they are important.}
+{130}{}{I'm the Loudmouth's right hand. I'm in charge for this warehouse, which contains weapons, which means that *everything* here depends on me. Because gun is the most valuable thing in the world. Loudmouth has two other assistants, Oswald and Billy. They think they are important.}
 {131}{018}{Tell me about Billy.}
 {132}{031}{Who is Oswald?}
 {133}{014}{I want to hear more about Loudmouth.}
@@ -101,7 +101,7 @@
 {143}{010}{I want to ask about something else.}
 
 
-{150}{}{As dangerous as hungry Ursa in his mating season. He can shoot you dead just for a little grin. That's why everyone here wait for him to just die already.}
+{150}{}{As dangerous as hungry Ursa in its mating season. He can shoot you dead just for a little grin. That's why everyone here wait for him to die already.}
 {151}{017}{What would happen if he died?}
 {152}{016}{He won't be glad to learn about your opinion about him.}
 {153}{010}{Let's change the subject.}

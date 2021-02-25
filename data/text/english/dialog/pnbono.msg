@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see an old ghoul.}
-{2}{}{This falling-apart ghoul looks ancient. He watches at you with unseeing gaze through his scant eyebrows.}
+{2}{}{This falling-apart ghoul looks ancient. He watches you with unseeing gaze through his scant eyebrows.}
 #
 # после знакомства
 {3}{}{You see Bono.}

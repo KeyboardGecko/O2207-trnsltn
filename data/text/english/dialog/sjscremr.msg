@@ -56,7 +56,7 @@
 {1201}{}{Do I look like a fucking guide to you? Huh? Are you the fucking interviewer? [He gets angrier with every word, his voice sounding like raspy roaring] Are you sniffing something here for this cocksucker Hog? TALK, YOU FUCKING SHIT! }
 {1202}{}{Let's do this quick, I have a lot of work to do... I need to get my collection of fingers organized. [He rifles through a crumpled box with a steel dog faces on the side] Here, check this one out, I borrowed it from the Hog. [he angrily squints] If I knew it would turn out like this - I would take the whole head of this filthy shit! I'm gonna fucking MURDER him!}
 {121}{016}{I just wanted to know more about you, guys.}
-{122}{018}{Interesting, Now, who the hell is Hog?}
+{122}{018}{Interesting. Now, who the hell is Hog?}
 {123}{015}{Why are you so twitchy? Didn't your dad loved you enough when you were kid? Or maybe it's the opposite... Did he do it regularly?}
 {124}{999}{I won't bother you then. I'll come by later.}
 {1203}{}{Do I look like a fucking guide to you? Huh? Are you the fucking interviewer? [He gets angrier with every word, his voice sounding like raspy roaring] I thought when the Hog is dead, I'm gonna fucking breath a little. But you, freaks, are still trying to piss me off, aren't you? Huh? TALK, YOU FUCKING SHIT!}
