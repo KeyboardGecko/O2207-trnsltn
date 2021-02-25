@@ -11,185 +11,115 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Сексуальная молодая девица.}
-{2}{}{Она облизала губы. У вас пересохло во рту. Возможно, стоит закрыть рот?}
+{1}{}{You see a sexy young woman.}
+{2}{}{She licked her lips. You mouth feels dry. Maybe you should close it?}
 #
 # после знакомства
-{3}{}{Вы видите: Миньон.}
-{4}{}{Она как всегда прекрасна.}
+{3}{}{You see Mignon.}
+{4}{}{She is beautiful, as always.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы видите очень миленькую блондиночку] Привет, незнакомец. Я видела, как ты ходишь и изучаешь все вокруг. Я Миньон Хортон. Хочешь поболтать немного?}
-{11}{002}{Да, я как раз знакомлюсь с соседями.}
-{12}{999}{Не в этот раз, я сейчас очень тороплюсь.}
-
-
-
-
-{20}{}{Очень хорошо! А то я и так от безделья слоняюсь туда-сюда. Я всегда не прочь поболтать с кем-нибудь.}
-{21}{010}{Я хотел бы спросить у тебя.}
-{22}{999}{Знаешь, у меня сейчас нет времени на болтовню. Потом поговорим.}
-
-
-{1001}{}{Привет, шеф! Пришел снова поболтать?}
-{1002}{}{Привет! Пришел снова поболтать?}
-{1003}{}{Давай, я попробую ответить.}
-{101}{011}{Я ищу учебник Людвига по волнологии. Ты знаешь, где он может быть?}
-{102}{013}{Здесь есть какая-нибудь работа?}
-{103}{014}{Можешь рассказать что-нибудь об этом месте и ее жителях?}
-{104}{023}{Чем ты занимаешься?}
-{105}{024}{Я хочу поговорить на счет твоего парня.}
-{106}{999}{У меня сейчас дела. Давай позже поговорим.}
-
-
-
-
-
-
-
-{110}{}{[Миньон задумалась] Хм... Я точно не брала учебник по этой волно-как-его-там. Я эти скучные книжки не читаю. У меня начинает голова болеть от этих ученых слов и всяких умных рисунков.}
-{111}{012}{А ты видела у кого-нибудь эту книгу?}
-
-
-
-
-{120}{}{Я видела какую-то книгу у мамы. Она ее быстро спрятала, поэтому я не знаю, что это была за книга. Но мама не любит читать, так что это может быть та самая, которую ты ищешь. Мою маму зовут Клаудия, спроси у нее.}
-{121}{010}{Хорошо, потом у нее спрошу. Ответь на еще один вопрос.}
-{122}{999}{Пойду с ней поговорю. Позже увидимся.}
-
-
-
-
-{130}{}{[Она непонимающе смотрит на Вас, часто моргая] Ты ищешь работу? Не знаю... У меня точно ничего такого нет. Может, у дяди Эштона будет что-нибудь для тебя. Да и зачем это тебе? Здесь же и так все есть. Я не понимаю, зачем кому-то самому себе искать работу. Это же глупо, когда можно хорошо провести время за бокалом вина или за карточным столом.}
-{131}{010}{Узнаю у Эштона про работу потом. А сейчас еще спрошу.}
-{132}{999}{Мне очень нужна работа. Пойду поговорю с Эштоном.}
-
-
-
-
-{140}{}{О, я много чего могу рассказать! Мы с моей тайной подружкой Фокс обо всех все знаем! Ой, я кажется проболталась... Но ты же никому не расскажешь, верно? Так вот, недавно Кристофер Швайн ругался с Далласом МакКинзи из-за меня. Чуть до драки не дошло, но Даллас вовремя ушел. Они вдвоем за мной ухаживают, это так приятно! Кристофер такой сильный и уверенный, а Даллас спокойный и романтичный. Мне с ними так хорошо! А еще...}
-{141}{015}{[Слушать дальше]}
-{142}{010}{Я хотел о другом узнать.}
-
-
-
-
-{150}{}{... старик Людвиг что-то везде ищет, бурчит как всегда на всех. Наверное, он что-то ценное потерял, какой-нибудь чертеж или схему. Он очень рассеянный. Он может забыть пообедать или лечь спать. И всю ночь сидит в своей лаборатории, пока его жена Вероника не напомнит, что пора спать! Он совсем помешался на своих железяках. Ни с кем не разговаривает, кроме жены и сына. Кстати...}
-{151}{016}{[Слушать дальше]}
-{152}{010}{Это все, что я хотел узнать. Я хотел узнать про другие вещи.}
-
-
-
-
-{160}{}{... есть мнение, что Кристофер вовсе не сын Людвига, а Бостона МакКинзи. Людвиг, наверное, ни разу к жене и не притронулся. По крайней мере, их не видели. А Бостон со всеми подряд заигрывает, чертов бабник. У него тоже крыша поехала. Он бросается на людей, даже однажды толкнул на собрании моего отца Питера Хортона, и он умер. Бостона боятся из-за его взрывного характера, но по-настоящему не воспринимают его всерьез. Клоун, что с него взять. Только вот...}
-{161}{017}{[Слушать дальше]}
-{162}{010}{Пока хватит новостей. Я хочу спросить о другом.}
-
-
-
-{170}{}{... моя мама Клаудия совсем слетела с катушек. Ей кажется, что Бостон МакКинзи хочет истребить всю нашу семью. Но я в это не верю, у Бостона мозгов бы не хватило для этого. Моя подружка Фокс - это дочь Бостона. Так вот она уверяет, что ее папа не хотел причинять вред Питеру. И я ей верю. Поэтому мама запрещает мне с ней говорить. Нам приходится от всех прятаться. А когда мы прячемся, то очень много интересного можем услышать. Например... }
-{171}{018}{[Слушать дальше]}
-{172}{010}{Давай о другом поговорим.}
-
-
-
-
-{180}{}{.. мы слышали, что хотят изменить статью 9 Конституции "Каждый житель Нового Мира имеет право не сношаться с другими жителями Нового Мира, даже если последние сильно настаивают". И сделать так, что сношаться нужно будет по постановлению собрания. Но мне кажется, что эту поправку не примут. Я попрошу папу, и он запросто на собрании вступится за меня. Меня пока не хотят слушать и не допускают к выступлениям. Так бы мы сами с Фокс отстояли свои права! Она тоже очень хочет выступать. Но...}
-{181}{019}{[Слушать дальше]}
-{182}{010}{Не надо больше новостей. Я про другое спрошу.}
-
-
-
-
-{190}{}{... Эмили Дантон запрещает детям выступать. Мы только можем слушать и смотреть на выступающих. Ведь по пункту 7 Конституции "Каждый житель Нового Мира имеет право смотреть на других жителей Нового Мира". Так что мы имеем полное право смотреть на кого угодно и когда угодно! Сколько бы они нас ни притесняли, этого права им у нас не отнять! Хотя...}
-{191}{020}{[Слушать дальше]}
-{192}{010}{Я все понял. Давай перейдем к другим вопросам.}
-
-
-
-{200}{}{... многие сами нарушают порядки. Например, Эдуард Швайн пользуется тем, что сидит в комнате слежения, и втайне торгует спиртным! Этот никчемный старикашка мнит себя самым главным во всем  убежище. Но мы-то знаем, что ему доверили самую простую работу. Он сидит в своей комнатке и никого не пускает внутрь. Да с этой работой любой идиот справится! Здесь настоящей работой занят только мой отец. Он занимается ремонтом оборудования. И никому не позволяет притрагиваться к сложным механизмам, а то сломают своими кривыми руками. Вообще...}
-{201}{021}{[Слушать дальше]}
-{202}{010}{Очень интересно, но я хочу о другом спросить.}
-
-
-
-
-{210}{}{... мой дядя Эштон является главным владельцем всего этого убежища. Наши предки владели сетью отелей до войны. И именно они сделали Лайвос таким, какой он есть. Это же настоящий рай! Посмотри: здесь все, как в лучших отелях! Наверное, именно так они и выглядели раньше. Несколько этажей под землей, удобные кровати, автоматы для производства всего-всего, что нужно для жизни. В таком отеле любой человек захотел бы отдыхать! И мы по праву наследования являемся владельцами этого райского уголка. Даже...}
-{211}{022}{[Слушать дальше]}
-{212}{010}{Мне, наверное, хватит информации. Я хочу кое-что другое узнать.}
-
-
-
-
-{220}{}{... эта заносчивая стерва Эмили Дантон пользуется всеми удобствами нашего убежища. Хотя она считает всех людей низшими существами, а себя самой главной. Она совсем редко с кем-нибудь разговаривает по пустякам. Только дает советы и указания. А разговаривает-то как! Заумными словечками какими-то. Иногда вообще ничего не понятно. Но и у нее есть слабости. Она очень азартный игрок в карты. Они часто с Абилин МакКинзи играют вместе. Наверное, Абилин - единственная подруга Эмили. И то, как мне кажется, потому что Абилин - безмозглая курица, которая ничего не понимает и ни в чем не участвует. Короче, ты понял, что это за место. Может, у тебя остались вопросы?}
-{221}{010}{Да. Вот что я хотел спросить...}
-{222}{999}{Нет, я узнал достаточно. Пойду переваривать информацию.}
-
-
-
-
-{230}{}{[Вопрос явно поставил ее в тупик] Эээ... Ну как чем... Живу, как и все. Хожу везде, разговариваю со всеми. Заигрываю с парнями. Люблю с мамой вина выпить. Иными словами, живу интересной и полноценной жизнью.}
-{231}{010}{Понятно. Тогда еще вопрос.}
-
-
-{2401}{}{Я сейчас гуляю с Кристофером. Это самый лучший парень во всем Радиусе! Я так счастлива!}
-{2402}{}{Я сейчас гуляю с Далласом. Это самый лучший парень во всем Радиусе! Я так счастлива!}
-{2403}{}{Я сейчас гуляю с Далласом и Кристофером. О ком ты хочешь поговорить?}
-{241}{025}{С кем ты хочешь быть больше?}
-{242}{026}{Я думаю, что Кристофер Швайн тебе больше подходит.}
-{243}{030}{Мне кажется, что с Далласом МакКинзи тебе будет лучше.}
-{244}{010}{Хотя нет, я хотел о другом спросить.}
-
-
-
-
-
-{250}{}{Ну, не знаю. Мне с ними и так хорошо. Кристофер такой сильный и уверенный. Правда, вспыльчивый. А Даллас такой спокойный и рассудительный. С ним так хорошо можно поговорить! Я пока сама не знаю, кто лучше. Да и не хочу думать про это. Мне нравится так, как есть.}
-{251}{024}{я еще хочу о них поговорить.}
-{252}{010}{Я хотел совсем о другом узнать.}
-
-
-
-
-{260}{}{Да? С чего ты взял?}
-{261}{027}{Мне кажется, вы будете отличной парой.}
-{262}{028}{Кристофер Швайн - самый лучший, и ты это знаешь. Только он способен добиться всего, что захочет. А Даллас никогда ничего не добьется. Он всегда будет в тени сильного и уверенного Кристофера.}
-
-
-
-
-{270}{}{Ну не знаю... Я все еще сомневаюсь.}
-{271}{010}{Ладно, поговорим на другую тему.}
-{272}{024}{Я еще хотел о твоем парне узнать.}
-
-
-
-
-{280}{}{Ну да, Кристофер сможет добиться очень многого... Но мне так нравится общаться с Далласом...}
-{281}{029}{Но ты сможешь общаться с Далласом и после того, как выйдешь замуж за Кристофера! Даллас не сможет тебе отказать в общении, он будет доволен тем, что есть.}
-
-
-
-
-{290}{}{Знаешь, ты прав! Действительно, я лучше буду с Кристофером! Даллас вряд ли что-нибудь сделает, чтоб нам помешать.}
-{291}{010}{Да, вы будете отличной парой. Давай на другую тему поговорим.}
-
-
-
-
-{300}{}{Да? С чего ты взял?}
-{301}{027}{Мне кажется, вы будете отличной парой.}
-{302}{031}{Кристофер полный псих! Он бросается на людей. Я с ним говорил в Торговой Палате, так он и на меня накричал, и тебе угрожал! Я пришел посмотреть, все ли с тобой в порядке.}
-
-
-
-
-{310}{}{[Миньон начала всхлипывать] Он приходил недавно... Он так кричал на меня! Обвинял меня в недостойном поведении... Я ему говорила, что это не правда, а он не верил! Он даже ударил меня... [У нее потекли слезы] Он такой мужлан! Я его ненавижу! Может, я его прощу через несколько дней...}
-{311}{032}{Он таким всегда будет. И будет тебя бить постоянно. Так что выходи лучше замуж за Далласа, и Кристофер отстанет.}
-
-
-
-
-{320}{}{Знаешь, ты прав... С Далласом мне так хорошо, спокойно и приятно, не то, что с этим психом Кристофером... Наверное, я лучше выберу Далласа.}
-{321}{010}{Да, вы будете отличной парой. Давай на другую тему поговорим.}
+{10}{}{[You see a very cute blondie] Hey, stranger. I've seen you walking around, studying everything here. My name is Mignon Horton. Want to chat a little?}
+{11}{002}{Yes, I was getting acquantained with my neighbours.}
+{12}{999}{Not this time. I'm in a hurry.}
+
+{20}{}{That's very nice! I'm getting tired of just loitering. I could use a good chat with someone.}
+{21}{010}{I have some questions for you.}
+{22}{999}{You know, I don't have time right now. Talk later.}
+
+{1001}{}{Hey boss! Came to have a chat again?}
+{1002}{}{Hey! Did you come to chat again?}
+{1003}{}{Sure, I'll try to answer.}
+{101}{011}{I'm looking for the Ludwig's book of wave science. Do you know where it might be?}
+{102}{013}{Is there anything to do here?}
+{103}{014}{Can you tell me about this place and its inhabitants?}
+{104}{023}{What do you do here?}
+{105}{024}{I'd like to talk about your boyfriend.}
+{106}{999}{I have something to take care of. Let's talk later.}
+
+{110}{}{[Mignon thinks] Er... I, for sure, didn't take it, this book-of-wave-something. I don't read boring books, my head always starts to ache from all this smart words and difficult drawings.}
+{111}{012}{Have you seen the book at all?}
+
+{120}{}{I've seen *some* book. At Mom's. She hid it very quickly, so I don't know is it the right one. But she doesn't like to read either, so it can be the one you looking for. My mom's name is Claudia, try asking her.}
+{121}{010}{Okay, I'll go talk to her later. Another question.}
+{122}{999}{I'll go do that. See you.}
+
+{130}{}{[She look surprised, frequently blinking] You mean, like, a job? I don't know... I definitely don't have anything for you. Maybe uncle Ashton has. But why would you want a job? We have everything we need here. I don't understand why would someone look for work, it seems pretty stupid. You could better spend the time over a bottle of wine or playing cards.}
+{131}{010}{I'll talk to Ashton about the job later. Another question.}
+{132}{999}{I really need it. I'll go talk to Ashton.}
+
+{140}{}{Oh, I know so many things! Me and my best friend Fox know everything about everyone! Oh, I think I've spilled it... But you can keep a secret, can't you? So! Recently, Christopher Schwein had a quarrel with Dallas McKinsey because of me. They almost started beating each other, but Dallas left just in time. They both give me the signs of affection, and it is so nice! Christopher is so strong and confident and Dallas is so calm and romantic. They make me feel very good! And...}
+{141}{015}{[continue to listen]}
+{142}{010}{I wanted to ask something else.}
+
+{150}{}{...Old man Ludwig is always looking for something recently, growling at everyone, as usual. He probably lost something valuable, maybe some schematics or document. He is very absent-minded. He can forget to have lunch or to go to sleep. And then he sits all night in his lab, until his wife Veronica doesn't remind him to go to bed! He's completely obsessed with his scrap. Doesn't talk to anyone except his wife and son. By the way...}
+{151}{016}{[continue to listen]}
+{152}{010}{That's all I wanted to know. I'd like to ask about other things.}
+
+{160}{}{...There's a rumor that Christopher is not Ludwig's son at all, but Boston McKinsey's. Ludwig probably never even touched his wife. At least they were never noticed. But Boston is flirting with everyone, damn womanizer. He is kinda crazy too. He jumps at people, he even pushed my father Peter Horton once, on a meeting. After that my father died. Boston is scary, because of his short temper, but no one actually takes him seriously. He's just a clown. And also...}
+{161}{017}{[continue to listen]}
+{162}{010}{Enough news for now. I'd like to ask about other things.}
+
+{170}{}{...My mother, Claudia, completely lost it. She thinks that Boston McKinsey wants to murder everyone from our family. But I don't believe that, because Boston is not very smart. My best friend Fox is Boston's daughter. So, she is sure, that her father didn't want to harm Peter. And I believe her. That's why mom forbids me to talk to her. So we are hiding. And when we hide, we hear about many interesting things. For example... }
+{171}{018}{[continue to listen]}
+{172}{010}{Let's talk about something else.}
+
+{180}{}{..We've heard that they want to change paragraph 9 of Constitution, which says "Every inhabitant of New World has the right not to fornicate with any other inhabitant of New World, even if the latter strongly insists". And they want to make it necessary to fornicate, by a special resolution. But I still think they will pass on this change. I'll ask my dad and he will definitely stand up for me on this meetings. They don't want to listen to me yet and won't let me participate in meetings. Otherwise, me and Fox would defended our rights ourselves! She also wants to participate. But...}
+{181}{019}{[continue to listen]}
+{182}{010}{No need for other news. I want to ask something else.}
+
+{190}{}{...Emily Dunton doesn't allow children to participate in meetings. We can only listen and look. According to paragraph 7 of Constitution, "Every New World inhabitant has the right to look at any other inhabitant of the New World". So it's our defined right, to look at anyone we want, at any time we want! No matter how much they bully us, they can't take this right away! Although...}
+{191}{020}{[continue to listen]}
+{192}{010}{I got it. Let's talk about other things.}
+
+{200}{}{...Many of them break this customs themselves. For example, Edward Schwein is taking advantage of being alone in his surveillance room, so he secretly sells alcohol! This worthless old man takes himself for the ruler of this vault. But everyone knows that he is tasked with the most simple job of all - he just sits in that room and doesn't let others to enter. Any idiot could handle it! The only one who does real job around here is my dad. He is busy with repairing the equipment. And he doesn't allow anyone to touch the complex mechanisms, because they would break everything with their crooked hands. Frankly speaking...}
+{201}{021}{[continue to listen]}
+{202}{010}{That's very interesting, but I want to talk about something else.}
+
+{210}{}{...My uncle Ashton is the one who owns the whole vault. Our ancsestors used to maintain big hotel network before the war. And that's them who created Livos as it is. I mean, this is a real paradise! Look around - everything here is just like it was in the best hotels! At least, I think it was like this in the best hotels. Some floors under the ground, convenient beds, machines, producing everything you need for comfort living. Anyone would want to live in such hotel! And, by the right of succession, we are proprietary owners of this heavenly place. Except...}
+{211}{022}{[continue to listen]}
+{212}{010}{Enough information for me. I want to ask something else.}
+
+{220}{}{...This arrogant bitch Emily Dunton is brazenly using every convenience of our vault, despite her thinking that other people are inferior creatures, and she is the one in charge. She rarely even talks to anyone about anything, if not counting ordering everyone around. Did you hear her talking? She uses such difficult words! I don't even understand her at all sometimes. Bet she also has her weaknesses. She is a gambling addict. She and Abilyn McKinsey are often playing together. I think Abilyn is the only friend Emily has. And the reason for this, I suppose, is that Abilyn is a really simple-minded chick, who understands nothing and doesn't participates in anything. In short, you should see by now, what kind of place is this. Maybe you have other questions?}
+{221}{010}{Yes. I wanted to ask...}
+{222}{999}{No, I learned enough. I'll go think about it.}
+
+{230}{}{[She seems visibly stuck] Uhhh... I mean, what do you mean?... I'm just living by, as everyone else. Walking around, talking to people. Flirting with guys. Like to drink some wine with mom. In other words, I live full and bright life.}
+{231}{010}{I see. Another question then.}
+
+{2401}{}{I'm dating Christopher. He is the best in the whole Radius! I'm so happy!}
+{2402}{}{I'm dating Dallas. He is the best in the whole Radius! I'm so happy!}
+{2403}{}{I'm dating Dallas and Christopher. Who do you want to talk about?}
+{241}{025}{Which one do you like more?}
+{242}{026}{I think that Christopher Schwein suits you better.}
+{243}{030}{I think you'd be better with Dallas McKinsey.}
+{244}{010}{I actually wanted to ask something else.}
+
+{250}{}{I don't know. I feel so good with any of them. Christopher is so strong and confident. Although, a little short-tempered. And Dallas is so calm and sensible. We are having such good talks! I didn't figured out myself which one I like better. And I don't want to. I'd leave it as it is.}
+{251}{024}{I want to talk more about them.}
+{252}{010}{I actually wanted to ask something else.}
+
+{260}{}{Yeah? Why do you think that?}
+{261}{027}{I think you'll make a great couple.}
+{262}{028}{Christopher Schwein is the best, and you know it. He can achieve anything he wants. Unlike Dallas. Dallas is always going to stay in the shadow of a strong and confident Christopher.}
+
+{270}{}{I-I don't know... I still doubt it.}
+{271}{010}{Okay, let's change the subject.}
+{272}{024}{I'd like to ask more about your boyfriend.}
+
+{280}{}{I mean, yeah, Christopher can achieve so much... But I like having talks with Dallas...}
+{281}{029}{You will keep your talks with Dallas even after marrying Christopher! Dallas won't say no to you. He will be glad just to talk to you anyway.}
+
+{290}{}{You know, you are right! I definitely should be with Christopher! Dallas, probably, would do nothing to stop it.}
+{291}{010}{Yes, you are going to be a great couple. Let's talk other things.}
+
+{300}{}{Yeah? Why do you think that?}
+{301}{027}{I think you'll make a great couple.}
+{302}{031}{Christopher is nuts! He throws himself at people for no reason. I had a talk with him in the trade quarters - and he shouted at me, telling that he will threaten you! I came to check if you are alright.}
+
+{310}{}{[Mignon starts whining] He came by recently... He was so angry! He was screaming, blaming me for misbehaving... I told him it wasn't true, but he didn't believe me! He even hit me... [she burst with tears] He is so bad! I hate him! I don't know if I would forgive him... Maybe in a few days...}
+{311}{032}{He will always be like this. He will beat you all the time. So you'd better marry Dallas, and Christopher will leave you alone.}
+
+{320}{}{You know, you are right... I feel so good and safe with Dallas, unlike this lunatic Christopher... I'd better choose Dallas.}
+{321}{010}{I think you'll make a great couple. Let's change the subject.}
