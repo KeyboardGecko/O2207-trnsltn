@@ -1,7 +1,7 @@
 ##############################
-#Локация: ЛАЙВОС
-#Имя: Клаудия Хортон 
-#Краткое описание: Шизофреничная вдова Питера Хортона
+#Локация: Livos
+#Имя: Claudia Horton 
+#Краткое описание: Шизофреничная вдова Питера Hortonа
 #Дата создания: 24.08.2014
 ##############################
 #Для игры "Олимп 2207"
@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a woman with a glass in her hand and nervous look.}
+{1}{}{You see a nervously looking woman with a glass of wine in her hand.}
 {2}{}{She drinks, but her glass stays full.}
 #
 # после знакомства
@@ -51,75 +51,75 @@
 {63}{999}{I don't want to kill no one! I'd better hurry up and get away from here..}
 
 {70}{}{[You notice a glimmer of hope in her eyes] Really? Just getting acquaintained? Well, I'm Claudia Horton, the widow of Peter Horton. How can I help you?}
-{71}{010}{Я хочу задать пару вопросов.}
-{72}{998}{Я искал именно тебя, чтобы отправить к покойному мужу. Прощай.}
-{73}{999}{Сейчас ничем, давай потом поговорим.}
+{71}{010}{I want to ask a few questions.}
+{72}{998}{I was looking for you to send you to your dead husband. Goodbye.}
+{73}{999}{Nothing for now, we'll talk later.}
 
-{1001}{}{Шеф, за тобой никто не следит? Там какая-то тень промелькнула.}
-{1002}{}{Спрашивай, но учти: за нами могут следить и подслушивать.}
-{1003}{}{Привет. Аккуратно, там кто-то за углом следит за нами.}
-{101}{011}{Я ищу учебник Людвига по волнологии. Ты его не видела?}
-{102}{017}{Я хочу поговорить о Бостоне МакКинзи.}
-{103}{022}{Какие у тебя проблемы с Бостоном МакКинзи?}
-{104}{025}{Расскажи о жителях Лайвос.}
-{105}{026}{Что ты можешь рассказать о семьях Лайвос?}
-{106}{999}{Сейчас у меня нет времени на разговоры. Потом поговорим.}
+{1001}{}{Boss, you are not being followed, are you? There was some shadow over there.}
+{1002}{}{Ask, but remember - we could be watched and listened to.}
+{1003}{}{Hey. Careful, there's someone eavesdropping around the corner.}
+{101}{011}{I'm looking for Ludwig's book of wave science. Was it you who took it?}
+{102}{017}{I want to talk about Boston McKinsey.}
+{103}{022}{What's the problem with you and Boston McKinsey?}
+{104}{025}{Tell me about inhabitants of Livos.}
+{105}{026}{What can you say about families in Livos?}
+{106}{999}{I don't have the time to talk right now. Let's do it later.}
 
-{110}{}{[Клаудия заметно занервничала, начала прятать взгляд] Нет-нет, я ничего ни у кого не брала...}
-{111}{012}{Я знаю, что учебник у тебя. Есть свидетели, как ты его прятала.}
-{112}{010}{Хм, ладно. Задам другой вопрос [Вы чувствуете, что она что-то скрывает]}
+{110}{}{[Claudia becomes visibly nervous, hiding her sight] No, no, I didn't take anything from anyone...}
+{111}{012}{I know you have the book. Someone witnessed you stashing it.}
+{112}{010}{Huh. Okay. Another question then. [She is definitely not telling you something]}
 
-{120}{}{Что ж, ладно. Признаюсь, я взяла учебник у Людвига. Но я его хорошо спрятала, и ты его не найдешь! Я буду отрицать свою причастность, если ты вздумаешь об этом кому-то рассказывать!}
-{121}{013}{Зачем он тебе нужен? Людвиг не может продолжать работать без него.}
+{120}{}{Alright then. I admit, I took the book from Ludwig. But I hid it very well and you will never find it! And I'll deny everything if you tell someone!}
+{121}{013}{Why do you even need it for? Ludwig can't continue his work without it.}
 
-{130}{}{[Клаудия оглянулась по сторонам и прошептала] Я сооружу луч смерти и уничтожу всех МакКинзи!}
-{131}{014}{Клаудия, ты же ничего не понимаешь в волнологии. У тебя уйдут годы на изобретение луча смерти. А Людвиг как раз хочет такой луч соорудить! Я могу отнести ему учебник и скажу, чтобы первый экземпляр луча смерти он отдал тебе.}
-{132}{015}{Может, я у тебя его выкуплю?}
+{130}{}{[Claudia looks around and whispers] I am going to make a death ray and destroy all McKinseys!}
+{131}{014}{Claudia, you don't understand a thing in wave science. It'll take you years to develop a functional death ray. Ludwig, on the other hand, is going to make one already! I could take the book back to him - and then ask him to give first assembled weapon to you. What do you think?}
+{132}{015}{Maybe I could buy it from you?}
 
-{140}{}{Хм, а ты прав. Я пыталась разобраться, но у меня ничего не вышло. Отдай учебник Людвигу, и пусть он передаст мне луч смерти сразу же, как закончит!}
-{141}{010}{Хорошо, я ему обязательно передам. Давай я еще спрошу.}
-{142}{999}{Как только он изобретет луч смерти, ты его сразу получишь. Пойду отнесу учебник Людвигу.}
+{140}{}{Hmm, maybe you're right... I tried to figure out what to do, but unsuccessfully. Return the book to Ludwig, let him give me the death ray as soon as he finishes!}
+{141}{010}{Okay. I want to ask something else.}
+{142}{999}{As soon as he makes a death ray, you'll get it. I'll go give him the book.}
 
-{150}{}{[Клаудия задумалась] Меня батарейки не особо интересуют. Но если ты достанешь для меня кое-что, то я могла бы вернуть учебник. Я очень люблю газировку Спотс-Ап. И мне постоянно хочется еще и еще, даже по ночам снится. Принеси мне 20 бутылок газировки, и я отдам учебник. Все равно я там ничего понять не могу.}
-{151}{016}{У меня есть с собой 20 бутылок газировки Спотс-Ап. Меняю на учебник.}
-{152}{010}{У меня пока нет столько газировки. Я хочу про другое вопрос задать.}
+{150}{}{[Claudia thinks] I'm not interested in batteries. But if you could get something other for me, I would gladly return the book. I like the Spot-Up soda very much, I always want more - even dream of it at nights. Bring me 20 bottles and the book is yours. I can't understand anything in it anyway.}
+{151}{016}{I have 20 bottles of Spot-Up with me. Ready to trade them for a science book.}
+{152}{010}{I don't have so many bottles right now. I want to ask something else.}
 
-{160}{}{[Клаудия всучила Вам учебник, схватила газировку, сразу же открыла одну бутылку и начала жадно пить] }
-{161}{999}{Ладно, пойду отнесу учебник Людвигу.}
+{160}{}{[Claudia hands you the book, grabs the soda, opens one bottle right away and starts gulping the drink.] }
+{161}{999}{...Okay, I'll go return the book then.}
 
-{170}{}{Что ты хочешь узнать об этом маньяке, который преследует семью Хортонов и убил моего мужа Питера?}
-{171}{018}{Я знаю, что Бостон сделал с Питером. Я разозлился и избил его до полусмерти. Теперь Питер отомщен, и Бостон не будет преследовать семью Хортонов.}
-{172}{019}{Я говорил с Бостоном, он очень сожалеет о том, что случилось с Питером. Он очень хочет, чтоб ты его простила.}
-{173}{021}{Я поговорил с Эмили Дантон. Она хочет провести собрание в честь твоего покойного мужа Питера. После этого Бостон отстанет от вашей семьи.}
-{174}{010}{Ты права, нечего о нем говорить. Я хочу о другом спросить.}
+{170}{}{What do you want to know about this maniac, who is haunting our family and killed my husband Peter?}
+{171}{018}{I know what Boston did to Peter. I got angry and beat Boston senseless. Now peter is avenged and Boston won't be haunting Hortons anymore.}
+{172}{019}{I talked to Boston, he is very sorry about what happened to Peter. He wants you to forgive him.}
+{173}{021}{I talked to Emily Dunton. She wants to organize a commemorate evening dedicated to your husband. After that, Boston will leave your family alone.}
+{174}{010}{You are right, nothing to talk about. I want to ask something else.}
 
-{180}{}{Наконец-то справедливость восторжествовала! Значит, это был ты, благородный борец за правое дело! Бостон получил по заслугам. Я видела, как ты его разукрасил. Теперь я буду спокойна за свою жизнь. Я рада, что Питер отомщен.}
-{181}{010}{Будь спокойна. Ты в безопасности. А теперь перейдем к другим вопросам. }
+{180}{}{At last, the justice was served! So it was you, a noble fighter for rightful cause! Boston got what he deserved, I've seen the results of your doing. Now I won't be afraid for my life anymore. I'm glad Peter has been avenged.}
+{181}{010}{Don't worry, you're safe. Now, to other questions. }
 
-{190}{}{Я его прощу, если он оставит нашу семью в покое. И не будет преследовать Хортонов дальше. }
-{191}{020}{Он обещал больше не причинять вам вреда. Прости его.}
-{192}{010}{Он вряд ли остановится. Я о другом хотел спросить.}
+{190}{}{I will forgive him when he leaves our family alone and stops harassing Hortons! }
+{191}{020}{He gave his word not to harm you and your family. Forgive him.}
+{192}{010}{Probably, he never will. I wanted to ask something else.}
 
-{200}{}{Хорошо, я прощу его. Он в последнее время следит за нами не так часто. Наверное, он действительно сожалеет о гибели Питера.}
-{201}{999}{Хорошо, я передам Бостону, что ты его простила.}
+{200}{}{Okay, I'll forgive him. Lately, he is not following us as often as before. Probably he really is sorry about Peter's death.}
+{201}{999}{Okay, I'll tell Boston that you forgave him.}
 
-{210}{}{Я так рада! Наконец-то все отдадут должное моему мужу! После этого Бостон перестанет преследовать Хортонов. Я буду счастлива участвовать в этом собрании!}
-{211}{999}{Хорошо. Уверен, Питер достоин собрания в его честь. Я пойду расскажу всем.}
+{210}{}{I'm so happy! At last my husband will get the honors he deserves! And Boston will stop harassing Hortons after that. I would be glad to participate!}
+{211}{999}{Good. I'm sure Peter is worthy of it. I'll go tell everyone.}
 
-{220}{}{Бостон МакКинзи хочет уничтожить всех Хортонов! Он хладнокровно убил на собрании моего мужа Питера! На глазах у всех! И легко сумел выйти сухим из воды.}
-{221}{023}{Может, это получилось случайно?}
-{222}{024}{Как он убил Питера?}
+{220}{}{Boston McKinsey wants to destroy Hortons! He killed my husband Peter in cold blood! On a meeting, in front of everyone! And he got away with it!}
+{221}{023}{Maybe it was an accident?}
+{222}{024}{How exactly did he kill Peter?}
 
-{230}{}{[Клаудия со злостью сжала кулаки] Бостон строит из себя клоуна, и все ему верят. А под маской скрывается хладнокровный убийца, который хочет вырезать всю нашу семью! Но мне никто не верит! Но я-то знаю правду. Я постоянно за ним слежу и мешаю его коварным планам.}
-{231}{024}{Как умер Питер?}
-{232}{010}{Я хочу задать еще вопрос.}
+{230}{}{[Claudia angrily clenches her fists] Boston makes a clown out of himself and everybody believes it. In reality, under this mask of stupidity hides a dangerous murderer, who wants to take out all our family! No one listens to me, but I know the truth! I stalk him all the time and foil his plans.}
+{231}{024}{How did Peter die?}
+{232}{010}{I want to ask other question.}
 
-{240}{}{Они спорили на собрании о внесении поправок в Конституцию. Бостон сделал вид, что потерял контроль, и сильно толкнул Питера. И сделал это так расчетливо, что Питер умер!}
-{241}{023}{Это похоже на несчастный случай.}
-{242}{010}{Давай я задам вопрос о других вещах.}
+{240}{}{They were arguing on a meeting about changes to the Constitution. Boston made it look like he had lost control and pushed Peter hard. And he did it so precisely that Peter died!}
+{241}{023}{Looks like an accident to me.}
+{242}{010}{Let me ask something else.}
 
-{250}{}{Жители Лайвос - это потомки великих людей. Именно нам предстоит возрождать цивилизацию и распространять законы Нового Мира. Эти законы - великое достижение нашего общества. Они отражены в Конституции 15-ти прав. Мы установим новые правила жизни. Например, согласно пункту 2 Конституции "Каждый житель Нового Мира имеет право дышать (а так же чихать или кашлять) воздухом Нового Мира, не спрашивая на то разрешения других жителей Нового Мира". Это перевернет сознание людей и будет двигать нас к светлому будущему!}
-{251}{010}{Да, это важный закон для будущего. Давай я еще спрошу.}
+{250}{}{Inhabitants of Livos are the descendants of great people. It is us who is destined to revive the civilisation, spreading the laws of a New World. This laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
+{251}{010}{Yes, this law looks important. Let me ask something else.}
 
-{260}{}{Самая главная семья Лайвос - это мы, Хортоны. Наши предки были владельцами недвижимости, и мой брат Эштон является законным наследником всего этого убежища. Мы позволяем другим здесь жить только из-за доброты душевной. Только Эштон может ремонтировать оборудование. Если бы не он, тут все бы развалилось. Лайвос пришел бы в упадок без Хортонов. Швайны, МакКинзи и Дантоны занимаются мелочами и ничего полезного не делают.}
-{261}{010}{Хортоны действительно важны для Лайвос. Перейдем к другому вопросу.}
+{260}{}{The most important family in Livos is us, Hortons. Our ancestors were landlords and real estate owners, and my brother Ashton is rightful successor of the rights to own this whole place. We only let other families to live here because we are very kind. Ashton is the only one who can repair the vital equipment. If not for him, everything would break down here. Livos would fall into decline without Hortons. Schweins, McKinseys and Duntons are busy with petty things and do nothing important.}
+{261}{010}{Hortons are really important for Livos well-being. Let's move to other questions.}
