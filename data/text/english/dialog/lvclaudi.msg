@@ -90,7 +90,7 @@
 {170}{}{What do you want to know about this maniac, who is haunting our family and killed my husband Peter?}
 {171}{018}{I know what Boston did to Peter. I got angry and beat Boston senseless. Now peter is avenged and Boston won't be haunting Hortons anymore.}
 {172}{019}{I talked to Boston, he is very sorry about what happened to Peter. He wants you to forgive him.}
-{173}{021}{I talked to Emily Dunton. She wants to organize a commemorate evening dedicated to your husband. After that, Boston will leave your family alone.}
+{173}{021}{I talked to Emily Dunton. She wants to organize a commemorative evening dedicated to your husband. After that, Boston will leave your family alone.}
 {174}{010}{You are right, nothing to talk about. I want to ask something else.}
 
 {180}{}{At last, the justice was served! So it was you, a noble fighter for rightful cause! Boston got what he deserved, I've seen the results of your doing. Now I won't be afraid for my life anymore. I'm glad Peter has been avenged.}
