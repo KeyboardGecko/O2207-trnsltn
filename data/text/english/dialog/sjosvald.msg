@@ -198,7 +198,7 @@
 
 {310}{}{Okay, butternut, there is actually something. I like good pistols. And I'm looking for one for my collection. Called Slugger. If you'll find one, let me know.}
 {311}{032}{One like this?}
-{312}{036}{I have something better. Take a look [show Jackal's revolver].}
+{312}{036}{I have something better. Take a look. [show Jackal's revolver]}
 {313}{999}{Okay. If I see one, I'll come by.}
 {314}{043}{The price?}
 {315}{010}{I will think about it. For now I still have some questions.}
@@ -296,7 +296,7 @@
 {482}{049}{You are pissing me off with your neglect attitude. I've seen much more of the world than you.}
 
 
-{490}{}{Franlky, I don't give a shit.}
+{490}{}{Really? I don't give a shit.}
 {491}{010}{Forget it. I still have some questions.}
 {492}{999}{Nevermind that. I'm going.}
 

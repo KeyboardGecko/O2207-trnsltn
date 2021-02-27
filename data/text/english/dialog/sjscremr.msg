@@ -37,7 +37,7 @@
 {103}{035}{Easy! Show some respect to the Rainbow's ambassador!}
 {104}{035}{I have an important message from the Hog. I wanted to talk about...}
 {105}{040}{Do you know what happened to the Rainbow?}
-{106}{014}{Here's your prize [give him Chimera's teeth].}
+{106}{014}{Here's your prize. [give him Chimera's teeth]}
 {107}{999}{I'm already leaving.}
 {1002}{}{[Loudmouth welcomes you with a wide smile of his rotting teeth] Here comes our animal lover. Whaddaya want, hotshot?}
 {108}{012}{I wanted to ask you about this place.}

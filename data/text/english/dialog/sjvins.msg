@@ -69,7 +69,7 @@
 
 {100}{}{Oh, hey, a familiar face! Coming by for a little chat, mate?}
 {101}{}{Sure, ask away.}
-{102}{020}{You don't look so good, I'd say.}
+{102}{020}{You don't look very good, I must say.}
 {103}{030}{Can you tell me about how things are going here?}
 {104}{040}{Why are you always looking around?}
 {105}{045}{Remember how you asked me to deal with Stan?}
@@ -113,7 +113,7 @@
 {416}{999}{Don't sweat, we'll figure something out.}
 
 
-{450}{}{Of course, mate! That's literally the only thingie I can thinkie about [he nervously smiles]. So what about it?}
+{450}{}{Of course, mate! That's literally the only thingie I can thinkie about [he nervously smiles]. So?}
 {451}{999}{I'm looking into it. Soon everything will be alright.}
 {452}{046}{It's cool now. Stan will leave you alone.}
 {453}{}{F-fuckk... Are you kidding? [he shows you bruises all around his body] He beat me up real good... I won't even trust you with guarding the lavash shit now...}

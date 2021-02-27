@@ -62,10 +62,10 @@
 {75}{}{If I can't talk you into it, maybe batteries will?}
 
 {76}{}{Oh, you are giving me such a difficult choice... Well, okay, for four hundred I'm in, fine.}
-{77}{}{Deal! Here's the money [count 400 batteries]}
+{77}{}{Deal! Here's the money [give him the batteries]}
 {78}{}{I don't have so many... I'll go sell something.}
 
-{79}{}{I gathered 400 batteries for you [count 400 batteries]. What about the warehouse?}
+{79}{}{I gathered 400 batteries for you [give him the batteries]. What about the warehouse?}
 {80}{}{[With speed, unbelievable for such an old man, he grabs the batteries from your hand] I agree! You can tell Chris that.}
 {81}{}{If I can't talk you into it, maybe batteries will?}
 {82}{}{If I can't talk you into it, maybe batteries will?}
@@ -111,7 +111,7 @@
 {203}{022}{I, uh... I've, erm... Poked around the machine, you know... And it suddenly CLANKED, and then went BRRRRRRR! And I suppose it's fixed now...}
 
 
-{210}{}{Of course it wasn't! I would get them myself otherwise! You still have a lot to learn, young lad [he gives you a judging look]. So, what are you waiting for? Yeah, like that, give them to me - and now we put this thingie into that thingie with this thingie out... Wait wor it... And now it works!}
+{210}{}{Of course it wasn't! I would get them myself otherwise! You still have a lot to learn, young lad [he gives you a judging look] So, what are you waiting for? Yeah, like that, give them to me - and now we put this thingie into that thingie with this thingie out... Wait wor it... And now it works!}
 {211}{023}{Yeah, great. So - what about the armor for me?}
 
 
@@ -141,7 +141,7 @@
 {503}{999}{Uh, I see. Okay, I need to go - have something to do...}
 
 
-{510}{}{Uh, all kinds of it [he scratches the back of his head]. I remember when I had to repair rocket launchers, I even assembled miniguns a couple of times from a total scrap... One blew up, actually... Poor Jimmy, such a strong boy he was...}
+{510}{}{Uh, all kinds of it [he scratches the back of his head] I remember when I had to repair rocket launchers, I even assembled miniguns a couple of times from a total scrap... One blew up, actually... Poor Jimmy, such a strong boy he was...}
 {511}{010}{Okay, I got that. I want to ask something else.}
 
 
@@ -174,6 +174,6 @@
 {721}{}{Damn, I ran around the whole Radius to gather this much! Here, now repair it.}
 {722}{}{Yeah-yeah, soon I'll get the necessary amount.}
 
-{730}{}{[mocks you]..."Now repair it", of course, princess... [Carl puts a screwdriver to the side of engine and starts to smash it with a hammer, until some piece of metal breaks off the mechanism with a funny clinking sound.] Phew, barely! This thing alone costs around one hundred batteries! [He continues to poke insides of engine. After some time he ceremonially returns it to you] Here you go, lad! Use with caution! And when you break it again...}
+{730}{}{"Now repair it", of course, princess... [Carl puts a screwdriver to the side of engine and starts to smash it with a hammer, until some piece of metal breaks off the mechanism with a funny clinking sound.] Phew, barely! This thing alone costs around one hundred batteries! [He continues to poke insides of engine. After some time he ceremonially returns it to you] Here you go, lad! Use with caution! And when you break it again...}
 {731}{}{Yeah, I remember - "300 batteries" [take engine]}
 {732}{}{No way in hell! I'll handle it myself next time... [take engine]}

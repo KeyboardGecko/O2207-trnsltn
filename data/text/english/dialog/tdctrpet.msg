@@ -56,7 +56,7 @@
 {161}{017}{Clearly, I understood everything. So - "an-ty-ra-din." I'll get it. Father, just hold on!}
 {162}{018}{I understand everything. Okay, thanks for the advice, doc. I will try not to be late.}
 {163}{018}{Um, well, let's see by the circumstances. I would not like to just die there because of some drugs. I will go.}
-{170}{}{All in the father [smiles exhausted]. Go, and let luck be with you.}
+{170}{}{All in the father [smiles exhausted] Go, and let luck be with you.}
 {171}{999}{[OUTPUT]}
 {180}{}{I said what I had to say. The rest is your business.}
 {181}{999}{[OUTPUT]}

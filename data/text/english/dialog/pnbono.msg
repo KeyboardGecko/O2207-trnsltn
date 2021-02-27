@@ -309,8 +309,8 @@
 {751}{}{It's a deal! Wait, I'll bring the first batch.}
 {752}{}{I don't know. I need to think...}
 {760}{}{Very good. Put it here. Yes, like that. Peter will come by to take it. Thank you, here's your payment. [he gives you }
-{761}{}{ batteries]. I'm waiting for another delivery, heh-heh.}
-{762}{}{ batteries]. Let's call it a day. This must be enough to grow food for everyone. Thanks a lot, you saved us all.}
+{761}{}{ batteries] I'm waiting for another delivery, heh-heh.}
+{762}{}{ batteries] Let's call it a day. This must be enough to grow food for everyone. Thanks a lot, you saved us all.}
 {763}{}{[take your reward] Sure, it won't be long. See you soon.}
 {764}{}{[take your reward] Glad to be of help. Bye.}	
 ###
