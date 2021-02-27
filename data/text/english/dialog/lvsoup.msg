@@ -1,5 +1,5 @@
 ##############################
-#Локация: ЛАЙВОС
+#Локация: Livos
 #Имя: Соуп Дантон 
 #Краткое описание: Задерганый муж-подкаблучник Эмили
 #Дата создания: 30.08.2014
@@ -82,7 +82,7 @@
 {141}{015}{Come on, Soup, talk to me. You'll feel better.}
 
 
-{150}{}{She turned out to be cols as ice! Slowly, but surely, she started to take over my power and influence. After that, she started to cause quarrels between the families, using their already strained relationships. Livos descended into chaos, and it is all Emily's fault! }
+{150}{}{She turned out to be cold as ice! Slowly, but surely, she took over my power and influence. After that, she started to cause quarrels between the families, using their already strained relationships. Livos descended into chaos, and it is all Emily's fault! }
 {151}{016}{Looks like you really hate her.}
 {152}{010}{Let's talk about something else.}
 

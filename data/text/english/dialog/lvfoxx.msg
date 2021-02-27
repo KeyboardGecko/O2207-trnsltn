@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a young cute girl with big eyes and beautiful smile] Oh, you scared me! I heard that there's someone new in the vault and I'm so glad to meet you, I'm so interested in what's happening in Radius, I couldn't wait to meet you, now I can talk to you about everything that happens outside, how are the people and what's going on there, because here is quite boring actually, no one wants to chat with me, except my friend Mignon and my brother Dallas, but he is mostly silent and sometimes asks not to distract from his business, and he is so cute whe speaks seriously, just a tresure of a man, I'm so glad I have a brother like him, he cares about me, sometimes calls me Foxie and it's so cute, because parents always call me Fox, and sometimes more serious, Fox McKinsey...}
+{10}{}{[You see a young cute girl with big eyes and beautiful smile] Oh, you scared me! I heard that there's someone new in the vault and I'm so glad to meet you, I'm so interested in what's happening in Radius, I couldn't wait to meet you, now I can talk to you about everything that happens outside, how are the people and what's going on there, because here is quite boring actually, no one wants to chat with me, except my friend Mignon and my brother Dallas, but he is mostly silent and sometimes asks not to distract him from his business, and he is so cute whe speaks seriously, just a tresure of a man, I'm so glad I have a brother like him, he cares about me, sometimes calls me Foxie and it's so cute, because parents always call me Fox, and sometimes more serious, Fox McKinsey...}
 {11}{010}{Wait! Stop it! I just want to ask a few questions.}
 {12}{002}{[Keep listening]}
 {13}{999}{My brain is exploding! I need to be alone for a minute. }
@@ -57,7 +57,7 @@
 {111}{010}{I want to ask something else.}
 {112}{999}{I'll go have a talk with Mignon.}
 
-{120}{}{I'm so into talking with people, so I'm always looking for someone to talk to, and when I get older, I'm going to give speeches on a meetings and going to talk, talk, talk, and everyone will be listening, because according to paragraph 11 of our Constitution of 15 rights, "Every inhabitant of new world has the right to loudly express his thoughts if he is at the official meeting of people of the New World", and I will deal with a lot of issues on this meetings and will make a lots of useful suggestions, one of which will be to add drawings into the Constitution of 15 rights, because I love them, I love to draw, I love drawings, so if you have some drawings, I will gladly look at them.}
+{120}{}{I'm so into talking with people, so I'm always looking for someone to talk to, and when I get older, I'm going to give speeches on a meetings and going to talk, talk, talk, and everyone will be listening, because according to paragraph 11 of our Constitution of 15 rights, "Every inhabitant of the New World has the right to loudly express his thoughts if he is at the official meeting of inhabitants of the New World", and I will deal with a lot of issues on this meetings and will make a lots of useful suggestions, one of which will be to add drawings into the Constitution of 15 rights, because I love them, I love to draw, I love drawings, so if you have some drawings, I will gladly look at them.}
 {121}{013}{I have some drawings I painted when I was a kid.}
 {122}{016}{Tell me about the Constitution.}
 {123}{010}{I don't have any drawings, I want to ask something else.}
@@ -85,7 +85,7 @@
 {182}{999}{I'll go ask Ashton about work.}
 
 {190}{}{Oh, I can talk about my family for hours, because we are the most important in Livos and other families couldn't live without us, and also, other settlements in Radius couldn't either, because my brother Dallas sells water to them, and without water, obviously, no one lives for long, so it turns out that McKinsey family is vital for the Radius, and the most important, so everybody respects us, and that makes me so proud of my name and my relatives, we are great family, great people doing great things, like my dad Boston, who gives speeches on a meetings, although one time he pushed Peter Horton and he badly fell and died, although my dad didn't mean to kill him, it was an accident, but Peter's wife Claudia now blames our family anyway, she is stalking us all the time, harassing dad, and it makes him really nervous!}
-{191}{010}{I want to know other things.}
+{191}{010}{I want to know about other things.}
 {192}{999}{That's everything I wanted to ask. Bye, Fox.}
 
 {200}{}{[As thought of asking Fox about rumors in Livos crosses your mind, you immediately try to forget it. It could be hazardous for your mental health.]}

@@ -126,8 +126,8 @@
 
 
 
-{180}{}{I don't care about any of them! They are only good while they don't interrupt me doing my work. I'm not interested in interacting with them, running around, being loud and useless... Christopher buys the parts and materials I need, the rest is none of my concern. }
-{181}{019}{You don't talk with anyone?}
+{180}{}{I don't care about any of them! They are only good while they don't distract me from doing my work. I'm not interested in interacting with them, running around, being loud and useless... Christopher buys the parts and materials I need, the rest is none of my concern. }
+{181}{019}{You don't talk to anyone?}
 {182}{021}{What can you tell me about your family?}
 
 
@@ -147,13 +147,13 @@
 {212}{010}{I want to ask about something else.}
 
 
-{220}{}{[Ludwig points to a table, littered with spare parts and schematics] I'm busy with the development of laser and plasma weapons. Currently I'm studying plasma energy, more exactly - principles of wave science.}
+{220}{}{[Ludwig points to a table, littered with spare parts and schematics] I specialize in laser and plasma weaponry. Currently I'm studying plasma energy, more exactly - principles of wave science.}
 {221}{024}{And? How is the study going?}
 {222}{035}{Emily Dunton gave me the task of cleaning the cave from monsters. Could you arm me with laser rifle for this mission?}
 {223}{033}{I'm actually very good with tech, so I could help you with optimisation process of plasma weaponry.}
 
 
-{230}{}{[Ludwig thinks] Hm... That's actually a good idea. I'd like to obtain the results of some field testings of this weapon, so I could upgrade the model. Here, return to me with the report when you are finished. }
+{230}{}{[Ludwig thinks] Hm... That's actually a good idea. I'd like to obtain the results of some field testings of this weapon, so I could upgrade the model. Here, return to me with the report when you finish. }
 {231}{010}{Great. I'll gather the data and return. The most difficult part of the report would be "problems and nuances after ten years of usage". Let's talk about something else.}
 
 
@@ -164,12 +164,12 @@
 {243}{010}{Let's talk about something else.}
 
 
-{250}{}{I don't know, anyone! I know for sure that it's not one of our family. We don't get on the way of each other's work. }
+{250}{}{I don't know, anyone! I know for sure that it's not one of our family. We don't get on the way of each other. }
 {251}{026}{I could help with searching. I'll talk with others and find out who could have it.}
 {252}{010}{Let's change the subject.}
 
 
-{260}{}{[His eyes glimmer with hope] You want to help me? Good, very good. I don't care how you do it, but if you would actually find it, I'll allow you to buy some of my weaponry. The best ones. And also, you'll have a special gift.}
+{260}{}{[His eyes glimmer with hope] You want to help me? Good, very good. I don't care how you do it, but if you will actually find it, I'll allow you to buy some of my weaponry. The best ones. And you'll have a special gift.}
 {261}{027}{I'll look for it. What's that gift?}
 
 
@@ -180,10 +180,10 @@
 
 {280}{}{[Ludwig grabs your hand] Did you find it?! Give it to me!!}
 {281}{029}{No, not yet. Remind me, where could I look?}
-{282}{030}{Yes, I have the book. Here.}
+{282}{030}{Yes, I have it. Here.}
 
 
-{290}{}{Why the hell are you interrupting then!! Some idiot from Livos stole it! Talk them into returning, find it in some drawer, you can even shoot someone if that helps. But find me the book!!}
+{290}{}{Why the hell are you interrupting me then!! Some idiot from Livos stole it! Talk them into returning, find it in some drawer, you can even shoot someone if that helps. But find me the book!!}
 {291}{999}{Okay, I'll go looking.}
 
 
@@ -195,7 +195,7 @@
 {311}{Barter}{Of course. And now show me what you have in stock.}
 {312}{999}{Thanks for the map. I'll come by later.}
 
-{320}{}{I don't have time to leave Livos and chat with some Vagabonds. I got out only once, to the trade center by the entrance. I chose myself someone to marry. Edward gathered some girls for me and I picked the best. That's how Veronica became my wife.}
+{320}{}{I don't have time to leave Livos and chat with some vagabonds. I got out only once, to the trading quarters by the entrance. I chose myself someone to marry. Edward gathered some girls for me and I picked the best. That's how Veronica became my wife.}
 {321}{010}{I see. Another question then.}
 
 

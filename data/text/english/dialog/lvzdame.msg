@@ -1,5 +1,5 @@
 #############################################################
-#Текстовый файл для криттера << Дама ЛАЙВОС >> 
+#Текстовый файл для криттера << Дама Livos >> 
 #############################################################
 #Структура файла:
 #строки 1-9 - описание персонажа;
@@ -92,7 +92,7 @@
 #официальные сообщения с подиума
 {1040}{}{I firmly believe that Hortons should make peace with McKinseys! Effective immediately!}
 {1041}{}{The Constitution of Fifteen Rights is hopelessly outdated! It should be rewritten as soon as possible!}
-{1042}{}{Women, as the future mothers of New World inhabitants, should rule over the men!}
+{1042}{}{Women, as the future mothers of the New World inhabitants, should rule over the men!}
 {1043}{}{It's time for us to return to the surface and start populating the Earth with a new race!}
 {1044}{}{Men! Behave like men for once and fix this damn water filter!}
 {1045}{}{Maybe it's time to elect the leader? I fit for the role perfectly.}
@@ -102,7 +102,7 @@
 {1049}{}{Who have seen our wonderful Constitution? I made a few notes on it and forgot what I wrote...}
 #тихие проклятья про себя
 {1050}{}{Damn Schweins! They think they are the smartest.}
-{1051}{}{This slut Minion is eventually gonna get what's coming to her.}
+{1051}{}{This slut Mignon is eventually gonna get what's coming to her.}
 {1052}{}{Emily, you didn't have to perform so hard.}
 {1053}{}{Soup is a decrepit wuss. He's the shame of a whole New World.}
 {1054}{}{Which crazy person first came up with a Wine Debt?}

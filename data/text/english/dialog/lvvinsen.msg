@@ -11,16 +11,16 @@
 #CRITTER DESCRIPTION
 #
 # before meeting
-{1}{}{You see: the old hoarder.}
+{1}{}{You see an old hoarder.}
 {2}{}{His face reminds you of raisins. You have never eaten raisins, but you have seen them in pictures.}
 #
 # after meeting
-{3}{}{You see: Edward Von Vincent Schwein.}
+{3}{}{You see Edward Von Vincent Schwein.}
 {4}{}{Today he looks even more like raisins than yesterday.}
 #
 #HERE BEGINS A DIALOGUE
 #
-{10}{}{[You see a decrepit old man at the controls. He mutters something under his breath, his small eyes constantly running around. It seems that he does not notice you]}
+{10}{}{[You see a decrepit old man at the controls. He mutters something under his breath, his little eyes constantly running around. It seems that he does not notice you]}
 {11}{002}{[Knock on the glass with your finger]}
 {12}{006}{Hey, old man, wake up!}
 {13}{008}{Hello. May I speak to you?}
@@ -89,7 +89,7 @@
 {1005}{}{Okay, but hurry up.}
 {101}{012}{Edward, our acquaintance did not go completely smoothly. Maybe a few batteries could help our conversation?}
 {102}{023}{What is this place?}
-{103}{024}{Where does this exit go?}
+{103}{024}{Where does this entrance lead to?}
 {104}{025}{What can I do here?}
 {105}{027}{Edward, what are you doing here?}
 {106}{026}{Tell me about your Schwein family.}
@@ -201,8 +201,8 @@
 
 {2701}{}{[Edward squints contemptuously] I can make that turret to turn you into a minced meat if you will not get out of here.}
 {2702}{}{[Edward proudly raises his head] I am the most important member in Livos, I am responsible for its safety. Only I can allow the passage to Livos. If some tramp wants to go through the door to the vault, I turn on the turret. Though, I, as the oldest and most experienced member of the Schweins family, can afford to have a slight weakness: I really like to collect various rarities. So if you have something unusual, I would look at it.}
-{271}{028}{Here [show your stuff to Edward].}
-{272}{029}{Here [show your stuff to Edward].}
+{271}{028}{Here [show your stuff to Edward]}
+{272}{029}{Here [show your stuff to Edward]}
 {273}{037}{Can you let me go through?}
 {274}{010}{I'll ask more.}
 {275}{061}{Which things do you have in your collection?}
@@ -344,8 +344,8 @@
 
 
 
-{470}{}{Yes, there are some old records about a certain relative of Sebastian, who didn't make it to the vault... But look at yourself! You're black as coal, and all the other Shweins are white!}
-{471}{048}{This long life in inhuman conditions left its mark! And the effect of radiation changed the color of my skin. But inside I am the same as you, the true descendant of the great Shweins!}
+{470}{}{Yes, there are some old records about a certain relative of Sebastian, who didn't make it to the vault... But look at yourself! You're black as coal, and all the other Schweins are white!}
+{471}{048}{This long life in inhuman conditions left its mark! And the effect of radiation changed the color of my skin. But inside I am the same as you, the true descendant of the great Schweins!}
 {472}{999}{Yes, it does not match... Well, see you later.}
 
 
@@ -420,7 +420,7 @@
 
 
 
-{580}{}{Yes, for sure, you did a great service to the Livos and the Shwein family! You deserve to be with us. Welcome! You can go inside at any time.}
+{580}{}{Yes, for sure, you did a great service to the Livos and the Schwein family! You deserve to be with us. Welcome! You can go inside at any time.}
 {581}{999}{Thank you, Edward! I'll go meet the rest.}
 
 
@@ -432,7 +432,7 @@
 
 
 
-{600}{}{We will conquer everything around without the help of these assholes! I'm not going to conclude an alliance! Tell them to go where the sun don't shine with their suggestions. The Shwein family definitely won't talk to them. Ask the heads of other families, maybe they could want something from these vagrants.}
+{600}{}{We will conquer everything around without the help of these assholes! I'm not going to conclude an alliance! Tell them to go where the sun don't shine with their suggestions. The Schwein family definitely won't talk to them. Ask the heads of other families, maybe they could want something from these vagrants.}
 {601}{010}{Well, I'll ask the others.}
 
 

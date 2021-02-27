@@ -1,5 +1,5 @@
 ##############################
-#Локация: ЛАЙВОС
+#Локация: Livos
 #Имя: Вероника Швайн 
 #Краткое описание: Жена Людвига
 #Дата создания: 19.08.2014
@@ -26,7 +26,7 @@
 {13}{007}{Hey! So, how is it going?}
 
 
-{20}{}{Yes, I heard about a newcomer in Livos. I see the bar dropped pretty low for becoming a new inhabitants.}
+{20}{}{Yes, I heard about a newcomer in Livos. I see the bar dropped pretty low for becoming a new inhabitant.}
 {21}{003}{Yeah, to become one of you is pretty easy.}
 {22}{004}{I am very useful resident of Livos, and I had to put many efforts to prove it.}
 {23}{005}{Maybe you'll behave a little nicer, woman?}
@@ -67,7 +67,7 @@
 {105}{999}{Okay, Veronica, I need to go. Bye.}
 
 
-{110}{}{[Veronica proudly raises her head] I am the most influent politician in Livos. No meeting is concluded without my speech in it. I have the biggest amount of speeches and suggestions. And many of my ideas were accepted and became a reality.}
+{110}{}{[Veronica proudly raises her head] I am the most influential politician in Livos. No meeting is concluded without my speech in it. I have the biggest amount of given speeches and suggestions. And many of my ideas were accepted and became a reality.}
 {111}{013}{What are the other members of the Schwein family doing?}
 {112}{014}{What can you tell me about other families?}
 
@@ -76,7 +76,7 @@
 {121}{010}{I see. Another question.}
 
 
-{130}{}{[She bursts with pride] The Schwein family is the greatest and the most powerful in Livos! We control tme most important aspects of vault's life. My son, Christopher, is busy with external trade. Ludwig, my husband, is an outstanding scientist and inventor, one of a kind, I must say. His brother Edward is in charge for vault's protection. And I, modestly speaking, am the most experienced and perceptive politician and spokesman in Livos.}
+{130}{}{[She bursts with pride] The Schwein family is the greatest and the most powerful in Livos! We control the most important aspects of vault's life. My son, Christopher, is busy with external trade. Ludwig, my husband, is an outstanding scientist and inventor, one of a kind, I must say. His brother Edward is in charge for vault's protection. And I, modestly speaking, am the most experienced and perceptive politician and spokesman in Livos.}
 {131}{015}{How did you become Ludwig's wife?}
 {132}{010}{Great. I have another question.}
 
@@ -85,9 +85,9 @@
 {141}{010}{I see. Another question.}
 
 
-{150}{}{[She gives out a smile of a winner] Oh, that was such a story. Ludwig kept himself locked in his working quarters for ages. So Edward put out a rumor that Ludwig will come out to choose the best woman of all who attended. Notice that I said not the most beautiful, not the most smart, but "the best". That's why I became his wife. I was the best - best prepared, best planned everything, best dealt with competitors. So, I achieved my dream and became the member of a great family of Schweins!}
+{150}{}{[She gives out a smile of a winner] Oh, that was such a story. Ludwig kept himself locked in his working quarters for ages. So Edward spread a rumor that Ludwig will come out to choose the best woman of all who attends. Notice that I said not the most beautiful, not the most smart, but "the best". That's why I became his wife. I was the best - best prepared, best planned everything, best dealt with competitors. So, I achieved my dream and became the member of a great family of Schweins!}
 {151}{016}{Dealt with the competitors?}
 
 
-{160}{}{Yes! Someone had a bit of the stomach ache in that exact day, others had their carriage broken on the way to Livos, some run into the pack of wild jackals on the way. So, the ones who made it to the vault were in a pretty bad shape. And by the entrance they were met by a couple of tough guys who can do anything for a handful of batteries. My competitors were very lucky to stay alive - but not so lucky to be of actual competition to me anymore.}
-{161}{010}{Good plan, I'll give you that. I want to ask something else.}
+{160}{}{Yes! Someone had a bit of the stomach ache in that exact day, others had their carriage broken on the way to Livos, some run into the pack of wild jackals. So, the ones who made it to the vault were in a pretty bad shape. And by the entrance they were met by a couple of tough guys who can do anything for a handful of batteries. My competitors were very lucky to stay alive - but not so lucky to be of actual competition to me anymore.}
+{161}{010}{Good plan, I give you that. I want to ask something else.}

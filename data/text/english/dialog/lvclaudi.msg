@@ -25,7 +25,7 @@
 {12}{004}{What do you mean?}
 {13}{003}{Who did you mean should have the courage?}
 
-{20}{}{[She buries her stare into you] It was bound to happen at some point, I knew it - but no one believed me. Today is the last day of Claudia Horton. At last, Boston McKinsey's eternal pursuit of me is over. Soon I will reunite with my husband.}
+{20}{}{[She buries her stare into you] It was bound to happen at some point, I knew it - but no one believed me. Today is the last day of Claudia Horton. Now Boston McKinsey's eternal pursuit of me is over. Soon I will reunite with my husband.}
 {21}{005}{I didn't understand any of that. }
 {22}{006}{Are you afraid of someone?}
 {23}{998}{Yes, I came to kill you.}
@@ -65,7 +65,7 @@
 {105}{026}{What can you say about families in Livos?}
 {106}{999}{I don't have the time to talk right now. Let's do it later.}
 
-{110}{}{[Claudia becomes visibly nervous, hiding her sight] No, no, I didn't take anything from anyone...}
+{110}{}{[Claudia becomes visibly nervous, hiding her eyes] No, no, I didn't take anything from anyone...}
 {111}{012}{I know you have the book. Someone witnessed you stashing it.}
 {112}{010}{Huh. Okay. Another question then. [She is definitely not telling you something]}
 
@@ -76,7 +76,7 @@
 {131}{014}{Claudia, you don't understand a thing in wave science. It'll take you years to develop a functional death ray. Ludwig, on the other hand, is going to make one already! I could take the book back to him - and then ask him to give first assembled weapon to you. What do you think?}
 {132}{015}{Maybe I could buy it from you?}
 
-{140}{}{Hmm, maybe you're right... I tried to figure out what to do, but unsuccessfully. Return the book to Ludwig, let him give me the death ray as soon as he finishes!}
+{140}{}{Hmm, maybe you're right... I tried to figure out what to do, but unsuccessfully. Return the book to Ludwig, tell him to give me the death ray as soon as he finishes!}
 {141}{010}{Okay. I want to ask something else.}
 {142}{999}{As soon as he makes a death ray, you'll get it. I'll go give him the book.}
 
@@ -103,14 +103,14 @@
 {200}{}{Okay, I'll forgive him. Lately, he is not following us as often as before. Probably he really is sorry about Peter's death.}
 {201}{999}{Okay, I'll tell Boston that you forgave him.}
 
-{210}{}{I'm so happy! At last my husband will get the honors he deserves! And Boston will stop harassing Hortons after that. I would be glad to participate!}
+{210}{}{I'm so happy! At last my husband will get the honors he deserves! And Boston will stop harassing Hortons. I would be glad to participate!}
 {211}{999}{Good. I'm sure Peter is worthy of it. I'll go tell everyone.}
 
 {220}{}{Boston McKinsey wants to destroy Hortons! He killed my husband Peter in cold blood! On a meeting, in front of everyone! And he got away with it!}
 {221}{023}{Maybe it was an accident?}
 {222}{024}{How exactly did he kill Peter?}
 
-{230}{}{[Claudia angrily clenches her fists] Boston makes a clown out of himself and everybody believes it. In reality, under this mask of stupidity hides a dangerous murderer, who wants to take out all our family! No one listens to me, but I know the truth! I stalk him all the time and foil his plans.}
+{230}{}{[Claudia angrily clenches her fists] Boston makes a clown out of himself and everybody believe it. In reality, under this mask of stupidity hides a dangerous murderer, who wants to take out all our family! No one listens to me, but I know the truth! I stalk him all the time and foil his plans.}
 {231}{024}{How did Peter die?}
 {232}{010}{I want to ask other question.}
 
@@ -118,8 +118,8 @@
 {241}{023}{Looks like an accident to me.}
 {242}{010}{Let me ask something else.}
 
-{250}{}{Inhabitants of Livos are the descendants of great people. It is us who is destined to revive the civilisation, spreading the laws of a New World. This laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
-{251}{010}{Yes, this law looks important. Let me ask something else.}
+{250}{}{Inhabitants of Livos are the descendants of great people. It is us, who destined to revive the civilisation, spreading the laws of a New World. This laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of the New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
+{251}{010}{Yes, this looks important. Let me ask something else.}
 
 {260}{}{The most important family in Livos is us, Hortons. Our ancestors were landlords and real estate owners, and my brother Ashton is rightful successor of the rights to own this whole place. We only let other families to live here because we are very kind. Ashton is the only one who can repair the vital equipment. If not for him, everything would break down here. Livos would fall into decline without Hortons. Schweins, McKinseys and Duntons are busy with petty things and do nothing important.}
-{261}{010}{Hortons are really important for Livos well-being. Let's move to other questions.}
+{261}{010}{I see, Hortons are really important for well-being of Livos. Let's move to other questions.}

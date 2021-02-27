@@ -1,7 +1,7 @@
 ##############################
-#Локация: ЛАЙВОС
+#Локация: Livos
 #Имя: Эмили Дантон 
-#Краткое описание: Стерва, пытающаяся управлять Лайвосом
+#Краткое описание: Стерва, пытающаяся управлять Livosом
 #Дата создания: 27.08.2014
 ##############################
 #Для игры "Олимп 2207"
@@ -20,7 +20,7 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[You see a tall, slender woman. Her movements are very slow-paced and she looks at the people around her with a definitive superiority. She doesn't even try to hide it.] Who is it that came to us? Another lowlife from Radius? What such useless thing like you would want from such important person like me?}
+{10}{}{[You see a tall, slender woman. Her movements are very slow-paced and she looks at the people around her with a definitive superiority. She doesn't even try to hide it] Who is it that came to us? Another lowlife from Radius? What such useless thing like you would want from such important person like me?}
 {11}{002}{Watch your mouth, lady.}
 {12}{003}{And what kind of important person you might be?}
 {13}{004}{Sorry to bother you. I would be grateful if you could spare some of your precious time to talk to me.}
@@ -41,7 +41,7 @@
 
 {40}{}{[The woman slightly nods] Looks like you are not as block-headed as the most of inhabitants here. You've felt the difference in our social statuses right away. I am Emily Dunton, the ruler of Livos. What was the reason that made you distract me from my current occupation?}
 {41}{008}{I'm new at Livos. And I want to know more about people who run it.}
-{42}{007}{}{As for me, you are just a bitch with an inflated ego.}
+{42}{007}{As for me, you are just a bitch with an inflated ego.}
 {43}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
 
@@ -181,7 +181,7 @@
 {273}{999}{Damn, I need to get out of this place... Bye.}
 {274}{019}{You are self-righteous dictator! You are making me sick!}
 
-{280}{}{I have a right to think as I please. According to paragraph 5 of our Constitution, "each inhabitant of the New World has the right to think of others, and of a New World itself, anything they see fit". That concludes that I am not worried even a bit with opinion of others about my persona. In my turn, I don't consider it necessary to hide my arrogance to all this pathetic and petty worms.}
+{280}{}{I have a right to think as I please. According to paragraph 5 of our Constitution, "Each inhabitant of the New World has the right to think of others, and of the New World itself, anything they see fit". That concludes that I am not worried even a bit with opinion of others about my persona. In my turn, I don't consider it necessary to hide my arrogance to all this pathetic and petty worms.}
 {281}{017}{I want to ask more about Livos.}
 {282}{010}{Let's change the subject.}
 {283}{019}{I hate such smug and bossy people like you. }
@@ -224,19 +224,19 @@
 {380}{}{[Emily clenches her teeth, squints and proudly raises her head] I'll do it. Emily Dunton always pays her depts. Goodbye.}
 {381}{999}{[observe]}
 
-{390}{}{It is my constitutional right. According to paragraph 6 of our Constitution, "each inhabitant of the New World has the right to take his own life, if it is not harming the other inhabitants of the New World".}
+{390}{}{It is my constitutional right. According to paragraph 6 of our Constitution, "Each inhabitant of the New World has the right to take his own life, if it is not harming the other inhabitants of the New World".}
 {391}{010}{What a handy paragraph. Let's talk about something else.}
 
 {400}{}{[She gives a subtle smile] If it can be called accident. Subtle playing with the highly volatile emotions of people makes wonders, without even involving the culprit into the process. Peter presented danger for me, so temper of Boston McKinsey was especially appropriate. My role in this incident went totally unnoticed. Why am I saying this to you? The thing is, even if you would tell someone, nobody would take your words for the truth. }
 {401}{019}{So this is your doing? You cold-hearted bitch!}
 {402}{010}{Oh man, wow. Let's talk about something else...}
-{403}{041}{I suggest to hold a commemoral evening dedicated to Peter Horton.}
+{403}{041}{I suggest to hold a commemorative evening dedicated to Peter Horton.}
 
 {410}{}{Why whould I want to do that? Claudia Horton spends all her energy on Boston McKinsey, who always remains in stress because of that. And none one of them takes any interest in matters of leading the vault.}
 {411}{010}{[You think for a really long time, but fail to find a good argument] I don't even know... Okay, let's talk about something else.}
 {412}{042}{If the situation will keep going like this, it could lead to a point where Horton family will fall apart. Claudia is very close to crossing the line.}
 
-{420}{}{[Emily hesitates] ...Actually, you might be right, her delusion is going too far. Her actions could lead to disbalance of social powers in Livos. I will hold the commemoral evening dedicated to Peter Horton, so Claudia would find some serenity.}
+{420}{}{[Emily hesitates] ...Actually, you might be right, her delusion is going too far. Her actions could lead to disbalance of social powers in Livos. I will hold the commemorative evening, so Claudia would find some serenity.}
 {421}{999}{Great. I'll go tell her the good news.}
 
 {430}{}{They are just worthless worms, just as everybody else. Especially Soup, who is my husband. I married him only because of his social status, and I never let this filth approach me. Even to think about physical intimacy with Soup makes me so sick I have an urge to vomit. }

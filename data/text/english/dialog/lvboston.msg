@@ -35,7 +35,7 @@
 {32}{006}{I want to talk business.}
 {33}{004}{Hugs - only after official introduction. Which was just now!!}
 
-{40}{}{[Boston explodes with loud laugh] HAAHAhahahahuehue!! Man, you are quite alright! It's gonna be a lot more fund around here! Because for now it's kinda stale, but we'll show them! Hahahahah!!}
+{40}{}{[Boston explodes with loud laugh] HAAHAhahahahuehue!! Man, you are quite alright! It's gonna be a lot more fun around here! Because for now it's kinda stale, but we'll show them! Hahahahah!!}
 {41}{010}{Of course we will! And now I want to ask something.}
 {42}{999}{Okay, Boston, I have no time for now, let's talk later.}
 
@@ -83,7 +83,7 @@
 {161}{017}{What can you tell me about other McKinseys?}
 {162}{010}{I want to ask about something else.}
 
-{170}{}{My son Dallas, is responsible for dealing water to other settlements. He is a little boring, but he knows his stuff. Although ne is so bad at having fun! Stands silently at the meetings, so I have to carry it for all McKinseys there! My wife Abilyn is always clucking with Emily Dunton, playing cards all day. [Boston makes a deep sigh] And there's my daughter Fox... Oh man, so many problems with her...}
+{170}{}{My son Dallas, is responsible for water dealings. He is a little boring, but he knows his stuff. Although he is so bad at having fun! Stands silently at the meetings, so I have to carry it for all McKinseys there! My wife Abilyn is always clucking with Emily Dunton, playing cards all day. [Boston makes a deep sigh] And there's my daughter Fox... Oh man, so many problems with her...}
 {171}{018}{What kind of problems?}
 {172}{010}{I see. Let's change the subject.}
 {173}{025}{What can you tell me about other families in Livos?}
@@ -116,7 +116,7 @@
 {232}{999}{Yeah. You figure this out and I'll go.}
 
 {2401}{}{Patron, you are not yourself lately, aren't you? Didn't you already study Livos? The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
-{2402}{}{Livos is the best place to live! Here gathered the best people of Radius! You already notice that! The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
+{2402}{}{Livos is the best! Here gathered the best people of Radius! You already noticed that! The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
 {241}{025}{And what are they all doing here?}
 
 {250}{}{[Boston looks disgusted] This boring pencil-pusher Ludwig Schwein digs through his cogs, his boring son Christopher deals with boring tradings at the entrance, boring old man Edward boringly sits his pants in the surveillance room. Ashton Horton, that pompous boring fool, turns screws. And boring Emily Dunton is busy only with interfering the others on meetings! [His smile becomes sad] Livos is a swamp, Livos is full of dumbs! Hahahaha!}

@@ -1,6 +1,6 @@
 ##############################
-#Локация: ЛАЙВОС
-#Имя: Миньон Хортон 
+#Локация: Livos
+#Имя: Миньон Horton 
 #Краткое описание: Бестолковая блондинка-болтушка
 #Дата создания: 21.08.2014
 ##############################
@@ -65,11 +65,11 @@
 {171}{018}{[continue to listen]}
 {172}{010}{Let's talk about something else.}
 
-{180}{}{..We've heard that they want to change paragraph 9 of Constitution, which says "Every inhabitant of New World has the right not to fornicate with any other inhabitant of New World, even if the latter strongly insists". And they want to make it necessary to fornicate, by a special resolution. But I still think they will pass on this change. I'll ask my dad and he will definitely stand up for me on this meetings. They don't want to listen to me yet and won't let me participate in meetings. Otherwise, me and Fox would defended our rights ourselves! She also wants to participate. But...}
+{180}{}{..We've heard that they want to change paragraph 9 of Constitution, which says "Every inhabitant of the New World has the right not to fornicate with any other inhabitant of the New World, even if the latter strongly insists". And they want to make it necessary to fornicate, by a special resolution. But I still think they will pass on this change. I'll ask my dad and he will definitely stand up for me on this meetings. They don't want to listen to me yet and won't let me participate in meetings. Otherwise, me and Fox would defended our rights ourselves! She also wants to participate. But...}
 {181}{019}{[continue to listen]}
 {182}{010}{No need for other news. I want to ask something else.}
 
-{190}{}{...Emily Dunton doesn't allow children to participate in meetings. We can only listen and look. According to paragraph 7 of Constitution, "Every New World inhabitant has the right to look at any other inhabitant of the New World". So it's our defined right, to look at anyone we want, at any time we want! No matter how much they bully us, they can't take this right away! Although...}
+{190}{}{...Emily Dunton doesn't allow children to participate in meetings. We can only listen and look. According to paragraph 7 of Constitution, "Every inhabitant of the New World has the right to look at any other inhabitant of the New World". So it's our defined right, to look at anyone we want, at any time we want! No matter how much they bully us, they can't take this right away! Although...}
 {191}{020}{[continue to listen]}
 {192}{010}{I got it. Let's talk about other things.}
 
@@ -77,11 +77,11 @@
 {201}{021}{[continue to listen]}
 {202}{010}{That's very interesting, but I want to talk about something else.}
 
-{210}{}{...My uncle Ashton is the one who owns the whole vault. Our ancsestors used to maintain big hotel network before the war. And that's them who created Livos as it is. I mean, this is a real paradise! Look around - everything here is just like it was in the best hotels! At least, I think it was like this in the best hotels. Some floors under the ground, convenient beds, machines, producing everything you need for comfort living. Anyone would want to live in such hotel! And, by the right of succession, we are proprietary owners of this heavenly place. Except...}
+{210}{}{...My uncle Ashton is the one who owns the whole vault. Our ancestors used to maintain big hotel network before the war. And that's them who created Livos as it is. I mean, this is a real paradise! Look around - everything here is just like it was in the best hotels! At least, I think it was like this in the best hotels. Floors under the ground, convenient beds, machines, producing everything you need for comfort living. Anyone would want to live in such hotel! And, by the right of succession, we are proprietary owners of this heavenly place. Except...}
 {211}{022}{[continue to listen]}
 {212}{010}{Enough information for me. I want to ask something else.}
 
-{220}{}{...This arrogant bitch Emily Dunton is brazenly using every convenience of our vault, despite her thinking that other people are inferior creatures, and she is the one in charge. She rarely even talks to anyone about anything, if not counting ordering everyone around. Did you hear her talking? She uses such difficult words! I don't even understand her at all sometimes. Bet she also has her weaknesses. She is a gambling addict. She and Abilyn McKinsey are often playing together. I think Abilyn is the only friend Emily has. And the reason for this, I suppose, is that Abilyn is a really simple-minded chick, who understands nothing and doesn't participates in anything. In short, you should see by now, what kind of place is this. Maybe you have other questions?}
+{220}{}{...This arrogant bitch Emily Dunton is brazenly using every convenience of our vault, despite her thinking that other people are inferior creatures, and she is the one in charge. She rarely even talks to anyone about anything, apart from ordering everyone around. Did you hear her talking? She uses such difficult words! I don't even understand her at all sometimes. But she also has weakness. She is a gambling addict. She and Abilyn McKinsey are often playing together. I think Abilyn is the only friend Emily has. And the reason for this, I suppose, is that Abilyn is a really simple-minded chick, who understands nothing and doesn't participate in anything. In short, you should see by now, what kind of place is this. Maybe you have other questions?}
 {221}{010}{Yes. I wanted to ask...}
 {222}{999}{No, I learned enough. I'll go think about it.}
 
