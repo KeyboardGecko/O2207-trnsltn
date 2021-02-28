@@ -1,7 +1,7 @@
 ##############################
-#Локация: ЛАЙВОС
-#Имя: Абилин МакКинзи
-#Краткое описание: Сестра-жена Бостона МакКинзи, мать-курица-наседка.
+#Локация: Livos
+#Имя: Абилин McKinsey
+#Краткое описание: Сестра-жена Boston McKinsey, мать-курица-наседка.
 #Дата создания: 26.08.2014
 ##############################
 #Для игры "Олимп 2207"
@@ -11,162 +11,105 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: неряшливая женщина.}
-{2}{}{Она странным образом выделяется на фоне всеобщей пафосности.}
+{1}{}{You see a sloppy woman.}
+{2}{}{Somehow she sticks out of the general pomposity of this place.}
 #
 # после знакомства
-{3}{}{Вы видите: Абилин МакКинзи.}
-{4}{}{Вроде бы, недовольство на ее лице стало еще выраженнее. А может и нет.}
+{3}{}{You see Abilyn McKinsey.}
+{4}{}{Looks like frustration on her face became even more noticeable. Or maybe not.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами полноватая женщина средних лет в неопрятной одежде. Видимо, эта женщина давно перестала за собой ухаживать] Кого еще сюда принесло? Ходят тут всякие... Что ты здесь разнюхиваешь?}
-{11}{002}{Я недавно в Лайвос. Знакомлюсь с соседями.}
-{12}{003}{Я здесь новенький. Хожу, осматриваю убежище.}
-{13}{004}{Не твое дело. Где хочу, там и хожу.}
-
-
-
-
-{20}{}{[Женщина недовольно скривилась] Приходят тут, отвлекают от дел... Хочешь познакомиться с соседями? Что ж, я Абилин МакКинзи. А теперь иди знакомься с кем-нибудь еще.}
-{21}{010}{Подожди, Абилин. Ты ответишь на несколько вопросов?}
-{22}{999}{Рад знакомству. Действительно, пойду знакомиться с другими.}
-
-
-
-{30}{}{[Женщина недовольно скривилась] Приходят тут, суют свой нос везде... Хочешь осмотреть убежище? Что ж, здесь смотреть не на что. Я Абилин МакКинзи, и здесь только мои вещи. Иди осматривайся где-нибудь еще.}
-{31}{010}{Подожди, Абилин. Ты ответишь на несколько вопросов?}
-{32}{999}{ Действительно, пойду другие места изучать.}
-
-
-
-
-{40}{}{[Женщина разозлилась] А нечего здесь ходить! По пункту 4 Конституции "Каждый житель Нового Мира имеет право бродить по своей территории Нового Мира, не спрашивая разрешения других жителей Нового Мира", а это моя территория, территория Абилин МакКинзи! И я не разрешала по ней бродить! Иди броди по своей!}
-{41}{010}{Хорошо, но для начала ответь на несколько вопросов.}
-{42}{999}{Пойду бродить по своей территории.}
-
-
-
-{1001}{}{Что может сделать для тебя тетушка Абилин, патрон?}
-{1002}{}{[Абилин с недовольным выражением лица пробормотала] Задавай свой вопрос, и нечего меня по пустякам отвлекать.}
-{1003}{}{А, снова ты. Что на этот раз здесь разнюхиваешь?}
-{101}{011}{Людвиг потерял свой учебник по волнологии. Ты его не видела?}
-{102}{012}{Чем ты здесь занимаешься?}
-{103}{022}{Что ты можешь рассказать о Лайвос?}
-{104}{025}{Есть какая-нибудь работа для меня?}
-{105}{999}{Сейчас мне ничего не нужно. Потом поговорим.}
-
-
-
-
-
-
-
-{110}{}{Нету у меня никакого учебника. А если бы и был, то не сказала. Людвиг совсем с ума сошел со своими техническими штучками. Он ни с кем не общается, даже со своей женой. Может быть, они даже не спали ни разу вместе. Я как-то видела моего мужа, Бостона, с женой Людвига, Вероникой. Так что Кристофер может быть и не сыном Людвига. Эта скотина, Бостон, всю мою жизнь испортил! Бабник хренов! Я потратила на него лучшие годы своей жизни, а от него никакого уважения!}
-{111}{010}{Понятно. Давай я задам другой вопрос.}
-{112}{999}{Ладно, поспрашиваю про учебник у других жителей. Пока.}
-
-
-
-
-{120}{}{[Абилин недовольно буркнула] А ничем не занимаюсь. [Потом повысила голос] И я имею на это полное право! Согласно пункту 10 Конституции "Каждый житель Нового Мира имеет право ничего не делать"! Я отлично знаю свои права, и имею право ими пользоваться! Вот ты, например, называешь себя "жителем Нового Мира" или нет? }
-{121}{013}{Да, я называю себя "жителем Нового Мира".}
-{122}{021}{Нет, я себя так не называю.}
-{123}{020}{Я понятия не имею, что это такое.}
-
-
-
-{130}{}{Да, согласно первому пункту Конституции "Каждый житель Нового Мира имеет право называть себя и/или других жителей Нового Мира жителями Нового Мира". А ты присутствовал на последнем официальном собрании жителей Нового Мира?}
-{131}{014}{Нет, меня не было на последнем собрании.}
-{132}{019}{Да, я там был.}
-{133}{016}{Даже не представляю, о чем ты сейчас говоришь.}
-
-
-
-
-{140}{}{Ага! Попался! Согласно пункту 12 Конституции "Каждый житель Нового Мира имеет право не присутствовать (отсутствовать) на официальных собраниях жителей Нового Мира, но при этом отсутствующий житель Нового Мира лишается всех прав вплоть до следующего собрания". Значит, ты лишаешься своего права называть себя "жителем Нового Мира", пока не посетишь следующее собрание!}
-{141}{015}{Хорошо, я не буду себя так называть. }
-{142}{017}{Я все равно буду себя так называть.}
-
-
-
-
-{150}{}{Вот, слушайся тетушку Абилин, и не будешь нарушать Конституцию. Вечно вас, молодежь, учить надо.}
-{151}{010}{Как скажешь. Я хочу еще спросить.}
-{152}{999}{Пойду подумаю над своим поведением.}
-
-
-
-
-{160}{}{Ага! Попался! Согласно пункту 15 Конституции "Каждый житель Нового Мира имеет право на незнание прав, описанных в данной Конституции, но в этом случае житель Нового Мира лишается всех вышеописанных прав, включая это". Значит, ты лишаешься своего права называть себя "жителем Нового Мира", пока не выучишь права!}
-{161}{015}{Хорошо, я выучу права. }
-{162}{017}{Я все равно буду себя так называть.}
-
-
-
-
-{170}{}{[Абилин выглядит сильно возмущенной] Но ты не имеешь на это права! Ты нарушаешь Конституцию! Это просто возмутительно! В вас, молодежи, совсем ничего святого не осталось!}
-{171}{015}{Я осознал свою ошибку, я больше так не буду.}
-{172}{018}{Мне все равно.}
-
-
-
-
-{180}{}{[Абилин просто кипит от негодования. Ее всю трясет от возмущения] Ах, тебе все равно? Тогда пошел прочь отсюда! Я не хочу больше тебя видеть!}
-{181}{999}{Окей, я пойду.}
-
-
-
-
-{190}{}{Хорошо, значит, ты ничего не нарушаешь. Слушайся тетушку Абилин, и не будешь нарушать Конституцию. Вечно вас, молодежь, учить надо.}
-{191}{010}{Как скажешь. Я хочу еще спросить.}
-{192}{999}{Пойду, нарушу пару пунктов Конституции. Пока.}
-
-
-
-
-{200}{}{Ага! Попался! Согласно пункту 15 Конституции "Каждый житель Нового Мира имеет право на незнание прав, описанных в данной Конституции, но в этом случае житель Нового Мира лишается всех вышеописанных прав, включая это". Значит, ты лишаешься своего права на незнание прав Конституции! Ты обязан их выучить!}
-{201}{015}{Хорошо, я выучу права. }
-{202}{017}{Я не буду ничего учить.}
-
-
-
-
-{210}{}{Хорошо, согласно пункту 14 Конституции "Каждый житель Нового Мира имеет право не иметь права на права, описанные в данной Конституции". Так что если не хочешь иметь право называть себя "жителем Нового Мира", то это твое дело.}
-{211}{019}{Да, я воспользуюсь своим правом не иметь права на права.}
-{212}{018}{Мне просто все равно, что написано в этой вашей Конституции.}
-
-
-
-
-{220}{}{Лайвос - это наш дом, а теперь и твой тоже. Убежище сделано очень давно, и мы все живем здесь практически не ссорясь. Зачем нам, МакКинзи, ссориться с другими семьями, если мы здесь самые основные? Мы по своей доброте разрешаем другим здесь жить, позволяем делать мелкую работу.}
-{221}{023}{Расскажи о своей семье.}
-{222}{024}{Что ты можешь рассказать о других семьях Лайвос?}
-{223}{010}{Я хочу еще спросить.}
-
-
-
-
-{230}{}{[Абилин приободрилась] МакКинзи - самая могущественная семья Лайвос! Мой муж Бостон выступает на собраниях, мой любимый сыночек Даллас торгует водой. Он такой замечательный сын! Если его кто подумает обидеть - придушу голыми руками! Он просто золотой парень! И даже моя дочка Фокс в него влюблена. Я-то не против ее любви, потому что я сама любила своего брата и вышла за него замуж. А вот он категорически против их отношений. Что ж Фокс делать, если самый достойный мужчина Лайвос - ее брат? Бостон, который является моим мужем и моим братом, этого не понимает.}
-{231}{024}{Расскажи о других семьях.}
-{232}{010}{Давай я задам другой вопрос.}
-
-
-
-
-{240}{}{[Абилин презрительно фыркнула] Да что о них рассказывать! Кучка жалких неудачников, ничего больше! Я только с Эмили Дантон общаюсь. Мы любим вместе поиграть в карты. Она очень азартный игрок, и всегда отдает долги. Для нее карточный долг - дело чести. Мне кажется, что если она проиграет свою жизнь в карты, то она просто покончит с собой без лишних слов.}
-{241}{023}{А про свою семью что расскажешь?}
-{242}{010}{Я хочу спросить про другое.}
-
-
-
-
-{250}{}{Нету у меня никакой работы для тебя. Спроси у мужа, Бостона. Может, он тебе что-нибудь поручит.}
-{251}{010}{Спрошу еще кое-что.}
-{252}{999}{Хорошо, пойду у него спрошу.}
-
-{255}{}{Видеть тебя не хочу!}
-{256}{}{Я не буду с тобой общаться!}
-{257}{}{Проваливай отсюда!}
-{258}{}{Я же тебе уже сказала - не буду тебе ничего говорить!}
-{259}{}{Я не хочу с тобой разговаривать!}
+{10}{}{[You see an overweight middle-aged woman in untidy clothes. Looks like she stopped looking after herself a long time ago] Look what the wind blew in... What are you sniffing around?}
+{11}{002}{I'm in Livos recently. Meeting my neighbours.}
+{12}{003}{I'm new here. Just looking around the vault.}
+{13}{004}{Non of your business. I walk wherever I want.}
+
+{20}{}{[The woman makes disgusted face] Everyone goes here, distracting me... Meeting neighbours? Well, I'm Abilyn McKinsey. And now go meet someone else.}
+{21}{010}{Wait a second, Abilyn. Can you answer a few questions?}
+{22}{999}{Glad to meet you. And I'll go do just that.}
+
+{30}{}{[The woman makes disgusted face] Everyone goes here, poking their noses around... Looking around? Well, nothing to look at here. I'm Abilyn McKinsey, it's only me and my stuff in here. Go look around somewhere else.}
+{31}{010}{Wait a second, Abilyn. Can you answer a few questions?}
+{32}{999}{You are right, I'll go into other places.}
+
+{40}{}{[The woman gets angry] You have no business here! According to paragraph 4 of our Constitution, "Every inhabitant oh the New World has the right to walk around his territory of the New World without asking permission of other inhabitants of the New World", so this is my territory, it belongs to Abilyn McKinsey! And I didn't give you permission to walk around here! Go walk around yours!}
+{41}{010}{Okay, but first - answer a few questions.}
+{42}{999}{I'll go wander around mine.}
+
+{1001}{}{What auntie Abilyn can do for you, patron?}
+{1002}{}{[She has a disgusted look] Ask your question and stop distracting me with your petty things.}
+{1003}{}{You again. What are you sniffing around this time?}
+{101}{011}{Ludwig lost his book of wave science. Did you see it?}
+{102}{012}{What do you do here?}
+{103}{022}{What can you tell me about Livos?}
+{104}{025}{Got any job for me?}
+{105}{999}{I need nothing right now. Talk later.}
+
+{110}{}{No, I didn't see any book. And even if i did, I wouldn't tell you. Ludwig completely lost his mind with all this hoity-toity tech stuff. He talks to no one, even to his wife, maybe they even didn't sleep together. One time I saw my husband, Boston, hitting on Ludwig's wife, Veronica. Oh, this animal Boston ruined my life, damn womanizer! I spent my best years on him, and he doesn't even respects me!}
+{111}{010}{I see. Let me ask something else.}
+{112}{999}{Okay, I'll go ask others about the book.}
+
+{120}{}{[Abilyn unhappy grumbles] Nothing. I do nothing. [she raises her voice] And I have the right to do so! According to paragraph 10 of our Constitution, "Every inhabitant of the New World has the right to do nothing at all"! I know my rights and is not afraid to use them! For example, do you call yourself an inhabitant of the New World, or not? }
+{121}{013}{Yes, of course I do.}
+{122}{021}{No, I don't.}
+{123}{020}{I have no idea what it is or what it means.}
+
+{130}{}{Yes, According to the first paragraph of our Constitution, "Every inhabitant of the New World has the right call himself and/or others inhabitants of the New World "inhabitants of the New World"". And did you attend the last official meeting of inhabitants of the New World?}
+{131}{014}{No, I didn't.}
+{132}{019}{Yes, I was there.}
+{133}{016}{I don't understand what you are talking about.}
+
+{140}{}{Gotcha! According to paragraph 12 of our Constitution, "Every inhabitant of the New World has the right not to attend (be absent from) an official meetings of inhabitants of the New World, but if this is the case, he loses all rights until attending the next meeting". So now you don't have the right to call yourself an inhabitant of the New World!}
+{141}{015}{Okay, I won't call myself that. }
+{142}{017}{I'm still going to call myself that.}
+
+{150}{}{There, listen to auntie Abylin and you will never violate the Constitution. You have a lot to learn, greenhorn.}
+{151}{010}{Whatever you say. I want to ask something else.}
+{152}{999}{I'll go think about my doings.}
+
+{160}{}{Gotcha! According to paragraph 15 of our Constitution, "Every inhabitant of the New World has the right to not know the rights, described in this Constitution, but if this is the case, he loses all rights, including this one, until learning the rights". So now you don't have the right to call yourself an inhabitant of the New World!}
+{161}{015}{Okay, I won't call myself that. I'm going to learn my rights. }
+{162}{017}{I'm still going to call myself that.}
+
+{170}{}{[Abilyn looks terribly angry] But you don't have the right!  You are violating the Constitution! This is outrageous! You, greenhorns, doesn't respect anything!}
+{171}{015}{I realized my mistake. I won't do it again.}
+{172}{018}{I don't really care.}
+
+{180}{}{[Abilyn is boiling with resentment and discontent. She is visibly shaking] You don't really care?! Then get out of here, I don't want to see you anymore!!!}
+{181}{999}{Okay.}
+
+{190}{}{Good, then you are not in violation of anything. There, listen to auntie Abylin and you will never violate the Constitution. You have a lot to learn, greenhorn.}
+{191}{010}{Whatever you say. I want to ask something else.}
+{192}{999}{I'll go, need to violate a coulple of rights from Constitution. Bye.}
+
+{200}{}{Gotcha! According to paragraph 15 of our Constitution, "Every inhabitant of the New World has the right to not know the rights, described in this Constitution, but if this is the case, he loses all rights, including this one, until learning the rights". So now you don't have the right to not know the rights of Constitution! You have to learn them!}
+{201}{015}{Okay, I will learn the rights. }
+{202}{017}{I'm not going to learn anything.}
+
+{210}{}{Okay, according to paragraph 14 of our Constitution, "Every inhabitant of the New World has the right to not have the rights, described in this Constitution". So if you don't want to have the right to call yourself an inhabitant of New World, then it's your right.}
+{211}{019}{Yes, I'm using my right to not have rights.}
+{212}{018}{I just don't really care what is written in this Constitution of yours.}
+
+{220}{}{Livos is our home, and now yours too. The vault was built a very long time ago, we all live here almost without any conflicts. Why would we, McKinseys, quarrel with other families? We are the most important here, after all! And we are very kind, so we let the other families to live with us here and do their little useless jobs.}
+{221}{023}{Tell me about your family.}
+{222}{024}{What can you say about other families in Livos?}
+{223}{010}{I want to ask something else.}
+
+{230}{}{[Abilyn cheers up] McKinseys are the most poweful family in Livos! My husband, Boston, gives speeches on a meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I know how it is - to love my own brother. But he is categorically against them having a relationships. What choice does Fox have, if the best man in the whole Livos is her brother? Boston doesn't understand that.}
+{231}{024}{Tell me about other families.}
+{232}{010}{Let me ask about something else.}
+
+{240}{}{[Abilyn contemptuously chuckles] What to say about them? A bunch of pathetic losers, that's who they are! I interact only with Emily Dunton, we play cards sometimes. She is very competitive, but she always pays her debts. Sometimes I think that if she loses her life in game of cards, she would go as far as killing herself.}
+{241}{023}{What can you tell me about your family?}
+{242}{010}{I want to ask something else.}
+
+{250}{}{No, I don't have any job for you. Ask my husband, Boston. Maybe he has something for you to do.}
+{251}{010}{I want to ask something else.}
+{252}{999}{Okay, I'll go talk to him.}
+
+{255}{}{I don't want to see you!}
+{256}{}{I'm not going to talk to you!}
+{257}{}{Get out of here!}
+{258}{}{I told you, I'm not going to talk to you!}
+{259}{}{I won't tell you anything!}
