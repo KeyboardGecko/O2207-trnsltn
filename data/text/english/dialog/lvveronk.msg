@@ -26,13 +26,13 @@
 {13}{007}{Hey! So, how is it going?}
 
 
-{20}{}{Yes, I heard about a newcomer in Livos. I see the bar dropped pretty low for becoming a new inhabitant.}
+{20}{}{Yes, I've heard about a newcomer in Livos. I see the bar dropped pretty low for becoming a new inhabitant.}
 {21}{003}{Yeah, to become one of you is pretty easy.}
 {22}{004}{I am very useful resident of Livos, and I had to put many efforts to prove it.}
 {23}{005}{Maybe you'll behave a little nicer, woman?}
 
 
-{30}{}{[The woman squints] I see, Livos dwellers have completely lost their self-respect and allow anyone in. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
+{30}{}{[The woman squints] I see. Livos dwellers have completely lost their self-respect and allow anyone in. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
 {31}{010}{Glad to meet you. Can I ask some questions?}
 {32}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
@@ -42,12 +42,12 @@
 {42}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-{50}{}{[The woman squints] I see, Livos dwellers have completely lost their self-respect and allow anyone in. Young man, it's a great honor for you to become one of the dwellers. And you need to learn to behave with dignity, as befits to the ancient and respected family name of Schweins. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
+{50}{}{[The woman squints] I see. Livos dwellers have completely lost their self-respect and allow anyone in. Young man, it's a great honor for you to become one of the dwellers. And you need to learn to behave with dignity, as befits to the ancient and respected family name of Schweins. Anyway, you're one of us now, so - welcome. I am Veronica Schwein.}
 {51}{010}{Glad to meet you. Can I ask some questions?}
 {52}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 
 
-{60}{}{[The woman indifferently turns away] I have no time nor intention to "talk" without reason. If you have no business with me, let's not waste each other's time. I am Veronica Schwein, the most well-known political figure in Livos. I don't do empty "talk".}
+{60}{}{[The woman indifferently turns away] I have no time nor intention to do a small talk. If you have no business with me, let's not waste each other's time. I am Veronica Schwein, the most well-known political figure in Livos. I don't chat.}
 {61}{010}{Glad to meet you. Can I ask some questions?}
 {62}{999}{Veronica, I've just remember about one business I need to do. Talk later.}
 

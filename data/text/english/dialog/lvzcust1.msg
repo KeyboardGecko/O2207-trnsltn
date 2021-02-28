@@ -1,5 +1,5 @@
 #############################################################
-#Текстовый файл для криттера << Рандомный Торговец НМП в ЛАЙВОС >> 
+#Текстовый файл для криттера << Рандомный Торговец НМП в Livos >> 
 #############################################################
 #Структура файла:
 #строки 1-9 - описание персонажа;
@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a junk dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: merchant from NWO.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a junk dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see a merchant from NWO.}
+{5}{}{You see a vendor.}
 {6}{}{He's intensively trying to make a deal with Christopher.}
 {7}{}{Just a trader who sells all kinds of junk.}
 {8}{}{He is one of the caravan merchants from NWO.}
@@ -33,8 +33,8 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, forged by craftsmen from all corners of Radius!}
+{10}{}{Of course, I don't have many rarities, but I assure you - you won't be disappointed!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by finest craftsmen from all corners of the Radius!}
 {12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
@@ -96,12 +96,12 @@
 {1029}{}{You motherfucker, get lost!}
 #
 {1030}{}{Okay, show me your stuff again.}
-{1031}{}{Where do this prices come from, Chris?}
+{1031}{}{Where do these prices come from, Chris?}
 {1032}{}{Listen, pal, you know me for a long time...}
-{1033}{}{No, this is not the way to make business.}
+{1033}{}{No, this is not how you make business.}
 {1034}{}{You do realize that you ask too much, don't you?}
-{1035}{}{It's so difficult to make good deals nowadays...}
-{1036}{}{Do you know how difficult it is, to grow a high-quality meat?}
-{1037}{}{Last batch of your guns was... Not the best quality.}
-{1038}{}{Yeah-yeah, there WAS one delivery of not the most fresh canned meat, I admit that.}
+{1035}{}{So difficult to make good deals nowadays...}
+{1036}{}{Do you know how difficult it is to grow a high-quality meat?}
+{1037}{}{Last batch of your guns was... Not of the best quality.}
+{1038}{}{Yeah-yeah, there WAS one delivery of not-so-fresh canned meat, I admit that.}
 {1039}{}{And now what? I can just go and buy weapons from Jackals!}

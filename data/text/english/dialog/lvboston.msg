@@ -61,7 +61,7 @@
 {110}{}{A book of waste science? Hahahaha! Books? Books are boring! Let this eggheads read their books, I wouldn't buy that for a battery! Who needs it?}
 {111}{012}{Would you know who might take it?}
 
-{120}{}{No idea! This bore Ashton Horton is always digging through some books. My daughter Fox is also reading some magazines. And there's Ludwig himself. He probably put the book somewhere and forgot it.}
+{120}{}{No idea! This bore Ashton Horton is always digging through some books. My daughter Fox is also reading some magazines. And there's Ludwig himself. He probably put it somewhere and forgot where.}
 {121}{010}{Let's talk about something else then.}
 {122}{999}{Okay, I'll go look in other places.}
 

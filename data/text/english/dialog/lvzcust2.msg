@@ -1,5 +1,5 @@
 #############################################################
-#Текстовый файл для криттера << Рандомный Торговец НМП в ЛАЙВОС >> 
+#Текстовый файл для криттера << Рандомный Торговец НМП в Livos >> 
 #############################################################
 #Структура файла:
 #строки 1-9 - описание персонажа;
@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a junk dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: merchant from NWO.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a junk dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see a merchant from NWO.}
+{5}{}{You see a vendor.}
 {6}{}{He looks very concerned with current price policy in Livos.}
 {7}{}{Just a trader who sells all kinds of junk.}
 {8}{}{He is one of the caravan merchants from NWO.}
@@ -33,8 +33,8 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, forged by craftsmen from all corners of Radius!}
+{10}{}{Of course, I don't have many rarities, but I assure you - you won't be disappointed!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by finest craftsmen from all corners of the Radius!}
 {12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
