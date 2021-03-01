@@ -52,7 +52,7 @@
 {64}{013}{Usually.}
 {65}{013}{You can push buttons if you feel like it.}
 {66}{014}{You can poke into everything you want and push everything you find.}
-{67}{014}{You can do anything, including kicking stuff around, or rummaging into it.}
+{67}{014}{You can do anything, including kicking stuff around and picking into it.}
 
 {70}{}{I won't let you go until you learn the rules! You will definitely go and break something! You should pass the test!}
 {71}{003}{Well, okay. Remind me, which rules are there?}
@@ -86,7 +86,7 @@
 {121}{010}{I would like to ask some questions first.}
 {122}{999}{Okay, I'm going with a clean conscience.}
 
-{130}{}{[Ashton raises his voice] Not exactly right! You should treat the property of Livos with a GOOD care! How am I supposed to make all of you to remember this simple thing... Okay, you can walk around freely, but don't poke your nose where you shouldn't.}
+{130}{}{[Ashton raises his voice] Not exactly right! You should treat the property of Livos with a GOOD CARE! How am I supposed to make all of you to remember this simple thing... Okay, you can walk around freely, but don't poke your nose where you shouldn't.}
 {131}{010}{I would like to ask some questions first.}
 {132}{999}{Okay, I'll go walk around.}
 
@@ -102,11 +102,11 @@
 {161}{010}{Okay. I have other questions.}
 {162}{999}{I'll go and do that then.}
 
-{170}{}{[Ashton complacently raises his chin] Yes, I'm the most important person in this place. Firstly, I do the repairs of the vital equipment. No one else. Without my skills, everything here would have fallen apart already. This lazy amoebas can't do anything, so I forbid them to even touch the mechanisms. They will only make things worse with their crooked hands. }
+{170}{}{[Ashton complacently raises his chin] Yes, I'm the most important person in this place. Firstly, I do the repairs of the vital equipment. No one else does. Without my skills, everything here would have fallen apart already. This lazy amoebas can't do anything, so I forbid them to even touch the mechanisms. They will only make things worse with their crooked hands. }
 {171}{018}{And secondly?}
 
 {180}{}{[His smile gets wider] And secondly, I am the one and only legitimate owner of this beautiful hotel. My ancestors, who were the proprietors of a huge hotel network, built it for me and my family. And the rest are only living here because we allow it. If Livos gets crowded, I'll throw someone outside. My word is the law here, everyone knows that I'm the rightful leader. Still, despite my high status, I don't act star-struck. I'm even proud that it doesn't get in my way of doing the hard labor of repairings.}
-{181}{020}{You are responsible for repairing everything in the vault, right?}
+{181}{020}{You are able of repairing anything in the vault, right?}
 {182}{010}{Okay, I want to ask something else.}
 
 {190}{}{I'm doing repair duties. And I don't let anyone else poke into this important business. Only the hands of gold, like mine, would touch this compicated tech.}
