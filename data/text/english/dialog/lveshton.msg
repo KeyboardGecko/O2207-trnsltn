@@ -62,7 +62,7 @@
 {80}{}{You are stupid moron! I'm gonna beat some sense into you!}
 {81}{998}{Come on then!}
 
-{90}{}{Yeah, bad manners you have here. You just didn't know that you are talking to Ashton Horton himself, the head of Hortons family and the most important man in Livos, did you? Do you know the first rule of Livos?}
+{90}{}{You have a bad temper. Probably, that's because you didn't know that you are talking to Ashton Horton himself, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
 {91}{003}{No.}
 {92}{004}{Yes.}
 {93}{005}{I have no time to talk about rules right now. I'll go.}
@@ -82,7 +82,7 @@
 {112}{004}{Yes.}
 {113}{005}{I have no time to talk about rules right now. I'll go.}
 
-{120}{}{[Ashton looks satisfied] Right! You are good! If only everyone would understand the rules as good as you. I have no more questions, you have passed. Now you can walk freely around the vault.}
+{120}{}{[Ashton looks satisfied] Right! You are good! If only everyone else would understand the rules as good as you. I have no more questions, you have passed. Now you can walk freely around the vault.}
 {121}{010}{I would like to ask some questions first.}
 {122}{999}{Okay, I'm going with a clean conscience.}
 

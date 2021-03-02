@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a tough young man.}
+{1}{}{You see a tough, young man.}
 {2}{}{He is busy with inspecting some kind of energy weapon.}
 #
 # после знакомства
