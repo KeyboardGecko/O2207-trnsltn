@@ -33,7 +33,7 @@
 {104}{015}{What is this place?}
 {105}{036}{There was a problem with the recent water delivery at NWO. I'm here to find out the reason.}
 {106}{029}{I'd like to talk about Mignon Horton.}
-{107}{035}{Can you give a discount? I'm one of us, after all. I'm Livos dweller.}
+{107}{035}{Can you give a discount? I'm one of us, after all. I'm a Livos dweller.}
 {108}{038}{Christopher! I want to talk about Mignon's behaviour!  }
 {109}{999}{We'll talk later, bye.}
 
@@ -155,7 +155,7 @@
 {341}{}{Of course. You are one of us. You can go whenever you want.}
 {342}{010}{Another question.}
 
-{350}{}{No discounts. If you are one of us, then your mony will return into Livos through me.}
+{350}{}{No discounts. If you are one of us, then your money will return into Livos through me.}
 {351}{010}{I see. Another question.}
 
 {360}{}{Hm... Boston McKinsey is responsible for the whole water supply. He is inside the vault. I heard there's some problem with the water wilter though. }

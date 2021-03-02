@@ -96,7 +96,7 @@
 {243}{030}{I think you'd be better with Dallas McKinsey.}
 {244}{010}{I actually wanted to ask something else.}
 
-{250}{}{I don't know. I feel so good with any of them. Christopher is so strong and confident. Although, a little short-tempered. And Dallas is so calm and sensible. We are having such good talks! I didn't figured out myself which one I like better. And I don't want to. I'd leave it as it is.}
+{250}{}{I don't know. I feel so good with both of them. Christopher is so strong and confident. Although, a little short-tempered. And Dallas is so calm and sensible. We are having a great conversations! I haven't figured out which one I like better. And I don't want to. I'd leave it all as it is.}
 {251}{024}{I want to talk more about them.}
 {252}{010}{I actually wanted to ask something else.}
 
