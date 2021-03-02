@@ -11,273 +11,176 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Молодой крепкий парень.}
-{2}{}{Он рассматривает образец оружия.}
+{1}{}{You see a tough young man.}
+{2}{}{He is busy with inspecting some kind of energy weapon.}
 #
 # после знакомства
-{3}{}{Вы видите: Кристофер.}
-{4}{}{Кажется, он Вас терпит только потому, что Вы - потенциальный покупатель.}
+{3}{}{You see Christopher.}
+{4}{}{Looks like he tolerates you only because you are a potential buyer.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы видите молодого человека в отличной физической форме и жестким ясным взглядом] Подходи, выбирай себе ствол! Самые лучшие пушки в Радиусе из Лайвос! Все знают качество товара от Кристофера Швайна!}
-{11}{Barter}{Давай посмотрим, что у тебя есть.}
-{12}{010}{Я хочу задать несколько вопросов.}
-
-
-
-
-
-
-{1001}{}{Привет, командир. Смотри, выбирай. Лучшие пушки!}
-{1002}{}{Давай, только кратко и быстро. Я деловой человек.}
-{1003}{}{Привет. Смотри, выбирай. Лучшие пушки Радиуса!}
-{101}{Barter}{Давай посмотрим на твой товар...}
-{102}{012}{Расскажи, какие товары у тебя есть?}
-{103}{011}{Чем ты здесь занимаешься?}
-{104}{015}{Что это за место?}
-{105}{036}{В НМП проблемы с последней поставкой воды. Я должен выяснить причину.}
-{106}{029}{Я хотел бы поговорить о Миньон Хортон.}
-{107}{035}{Ты сделаешь скидку мне? Я же один из вас, житель Лайвос.}
-{108}{038}{Кристофер! Я хотел бы поговорить о поведении Миньон!  }
-{109}{999}{Поговорим позже, пока.}
-
-
-
-
-
-
-
-{110}{}{Торгую. Продаю лучшие пушки. Интересует?}
-{111}{Barter}{Да, давай посмотрим.}
-{112}{012}{А какими пушками ты торгуешь?}
-{113}{999}{Нет, сейчас не надо ничего. Я позже зайду.}
-{114}{010}{Я хотел другое узнать.}
-
-
-
-{120}{}{Лазерное и энергетическое оружие. На любой вкус. Смотри, выбирай.}
-{121}{010}{Не сейчас. Хочу спросить.}
-{122}{Barter}{Покажи, что у тебя есть.}
-
-
-
-
-
-{130}{}{Не люблю лишних слов. Разбрасываться словами - привилегия женщин. Я общаюсь только по делу. }
-{131}{017}{И ты всегда так разговариваешь?}
-{132}{040}{Иногда словами можно многого добиться.}
-{133}{014}{Слова - пустой звук. Я тоже не люблю трепаться.}
-
-
-
-
-{140}{}{Правильно. Перейдем к делу. Что тебе надо?}
-{141}{Barter}{Хочу посмотреть на твой товар.}
-{142}{010}{Я хочу задать вопрос.}
-{143}{999}{Сейчас ничего. Потом поговорим.}
-
-
-
-{1501}{}{Командир, что за шутки? Это Лайвос.}
-{1502}{}{Это Лайвос. }
-{151}{016}{И все? Расскажи подробнее об этом месте.}
-{152}{018}{Расскажи о жителях Лайвос.}
-{153}{019}{Расскажи о себе больше.}
-{154}{033}{Что за этой большой дверью?}
-{155}{013}{А ты не очень разговорчив.}
-
-
-{160}{}{[В голосе Кристофера появились нотки раздражения] Подробнее? Что, черт возьми, тебе рассказать? Лайвос. Торгуем чистой питьевой водой со всем Радиусом. Продаем лучшие пушки. Все. Хватит донимать меня болтовней. Хочешь трепаться - найди другого.}
-{161}{018}{Кто здесь живет?}
-{162}{Barter}{Можешь показать свои пушки?}
-{163}{017}{Давай более подробно поговорим о Лайвос. }
-
-
-
-
-
-{170}{}{[Кристофер разозлился] Ты меня уже достал! Иди нахрен! Не хочешь покупать - проваливай! }
-{171}{Barter}{Я посмотрю, что можно купить.}
-{172}{998}{Сам иди нахрен, псих гребаный!}
-{173}{010}{Подожди, я еще хочу спросить.}
-{174}{999}{Спокойно, я уже ухожу.}
-
-
-
-
-{180}{}{[Кристофер раздраженно начал постукивать пальцами по столу] Черт... Ладно. Здесь живут четыре семьи. Хортоны, Дантоны, МакКинзи и мы, Швайны. Мы здесь самые влиятельные. На нас торговля, охрана Лайвос, разработка оружия. Мой дядя, Эдуард, следит за входом. Мой отец, Людвиг, инженер. Моя мать, Вероника, ведет политические собрания. Чем занимаюсь я, ты уже понял.}
-{181}{022}{Кто такие Хортоны?}
-{182}{020}{Расскажи о МакКинзи.}
-{183}{021}{Что можешь рассказать о Дантонах?}
-{184}{010}{Ясно. Спрошу о другом.}
-
-
-
-
-
-{190}{}{Ты издеваешься? Я. Торгую. Оружием.}
-{191}{017}{А что еще о себе расскажешь?}
-{192}{Barter}{Покажи, что там у тебя.}
-{193}{010}{Я о другом хотел узнать.}
-
-
-
-
-{200}{}{[Его явно достал весь этот разговор] МакКинзи занимаются поставками воды. Ответственный за это - Даллас. Толковый парень, дела с ним вести можно. Только лезет не в свое дело! Все остальные МакКинзи - кучка клоунов и болтунов.}
-{201}{022}{А Хортоны?}
-{202}{021}{Что делают Дантоны?}
-{203}{023}{Что еще за проблема с Далласом?}
-{204}{010}{Еще о другом спрошу.}
-
-
-
-{210}{}{[Кристофер скривился от презрения и раздражения] Дантоны... Эмили - это баба с яйцами, держит мужа, Соупа, под каблуком. Она думает, что всем здесь управляет. Постоянно пытается протолкнуть свои идиотские идеи на собраниях.}
-{211}{022}{Что про Хортонов?}
-{212}{020}{Расскажи о МакКинзи.}
-{213}{010}{Другой вопрос.}
-
-
-
-
-{220}{}{[Кристофер оживился] Клаудия и Эштон Хортоны - фантазеры и интриганы. У них есть дочь, Миньон. Замечательная девушка! Слегка легкомысленна и болтлива, но это в ней не раздражает, а даже красит ее. Вместе со своей красотой это делает ее идеальной девушкой! }
-{221}{021}{Расскажи о Дантонах.}
-{222}{020}{А что о МакКинзи можно узнать?}
-{223}{024}{Наверное, тебе очень нравиться Миньон.}
-{224}{010}{О другом хотел бы спросить.}
-
-
-
-
-{230}{}{[Кристофер помрачнел] Это из-за Миньон МакКинзи, моей девушки. Только она пока не совсем моя. Даллас к ней клеится и хочет ее у меня отбить! Если б не Даллас, мы бы уже давно поженились!}
-{231}{028}{Что ты можешь рассказать о Далласе?}
-{232}{027}{А с кем хочет быть Миньон?}
-{233}{024}{Ты хочешь на ней жениться?}
-
-
-
-
-{240}{}{[Кристофер воодушевился] Черт возьми, да я люблю ее! И я горжусь, что люблю лучшую девушку Лайвос! }
-{241}{025}{И что ты собираешься делать?}
-
-
-
-
-{250}{}{[Кристофер задумался] Не знаю. Я все перепробовал. Всем понятно, что я единственный достойный муж для нее. Но этот Даллас постоянно с ней общается. А она любит поболтать. Как ты заметил, я не люблю много слов. Разговор - не самая моя сильная сторона. Если так дальше пойдет, я могу и несчастный случай с Далласом устроить. Мне надо ее убедить или сделать ей какой-нибудь ценный подарок. Она очень любить разные ароматные вещи. А я в них ничего не понимаю.}
-{251}{026}{Я могу тебе помочь, поговорить с Миньон и Далласом. Я умею убеждать. И могу поискать для тебя что-нибудь ценное и ароматное.}
-{252}{999}{Разбирайтесь сами в своих любовных играх. У меня дела, пока.}
-
-
-
-
-{260}{}{[Кристофер повеселел] С тобой приятно иметь дело! Поговори с ними или принеси мне подарок для Миньон. Я тебе дам в награду одну из своих пушек! [добавляет шепотом] ...или даже ценный прототип.}
-{262}{}{[Кристофер повеселел] С тобой приятно иметь дело! Поговори с ними или принеси мне подарок для Миньон. Я тебе дам в награду одну из своих пушек! [добавляет шепотом] ...или даже ценный прототип. Но тебе сначала нужно получить доступ внутрь. Поговори со стариком Швайном на входе - за батарейки или раритет он и химеру сделает членом "Лайвос".}
-{261}{999}{Отлично. Принимаюсь за работу.}
-
-
-
-
-{270}{}{Она сама пока не может выбрать. Даллас ей лапшу на уши вешает и не дает нам быть вместе.}
-{271}{024}{А ты хочешь быть с ней?}
-{272}{028}{Почему она общается с Далласом?}
-
-
-
-
-{280}{}{Даллас красноречив. Он спокоен и умен. Слова сплетает в целые истории. Он может сделать самое черное дело через других и остаться вне подозрений. Он ведет свою игру, чтобы отбить у меня Миньон, которая должна принадлежать мне.}
-{281}{025}{И что ты собираешься делать?}
-
-
-
-
-{290}{}{Ты поговорил с Миньон и Далласом? Или, может, нашел ценный ароматный подарок?}
-{291}{030}{Я нашел флакон женских духов. Это большая редкость. Ей очень понравится!}
-{292}{031}{Да, я поговорил с ними. Миньон согласна стать твоей женой, Даллас не будет мешать.}
-{293}{010}{Пока нет, я еще работаю над этим. Я хотел спросить другое.}
-
-
-
-
-{300}{}{[Кристофер аккуратно взял флакон] Отлично! Это лучший подарок! Она оценит! Теперь она точно моя! Вот твоя награда: прототип плазменной винтовки или лазерный пистолет, выбирай.}
-{303}{}{[Кристофер аккуратно взял флакон] Отлично! Это лучший подарок! Она оценит! Теперь она точно моя! Вот твоя награда: прототип плазменной винтовки! Уникальная, убойная пушка!}
-{304}{}{[Кристофер аккуратно взял флакон] Отлично! Это лучший подарок! Она оценит! Теперь она точно моя! Вот твоя награда: лазерный пистолет! Легкий, точный, убийственный!}
-{301}{032}{[взять прототип плазменной винтовки]}
-{302}{032}{[взять лазерный пистолет]}
-
-
-
-
-{310}{}{[Кристофер радостно заулыбался] Отлично! Ты смог их уговорить! Ты заслужил свою награду: прототип плазменной винтовки или лазерный пистолет, выбирай.}
-{313}{}{[Кристофер радостно заулыбался] Отлично! Ты смог их уговорить! Ты заслужил свою награду: прототип плазменной винтовки! Уникальная, убойная пушка!}
-{314}{}{[Кристофер радостно заулыбался] Отлично! Ты смог их уговорить! Ты заслужил свою награду: лазерный пистолет! Легкий, точный, убийственный!}
-{311}{032}{[взять прототип плазменной винтовки]}
-{312}{032}{[взять лазерный пистолет]}
-
-
-
-
-{320}{}{[передает Вам награду] Держи!}
-{321}{999}{Спасибо, Кристофер. Пока.}
-
-
-
-
-{330}{}{За этой дверью помещения убежища Лайвос.}
-{331}{034}{Я могу туда пройти?}
-{332}{999}{Понятно. Спрошу еще.}
-
-
-
-
-{340}{}{Нет. Только жители Лайвос могут пройти.}
-{341}{}{Конечно. Ты же один из нас. Можешь проходить, когда захочешь.}
-{342}{010}{Еще вопрос.}
-
-
-
-
-{350}{}{Никаких скидок. Если ты один из нас, то твои деньги вернутся через меня в Лайвос.}
-{351}{010}{Понятно. Другой вопрос.}
-
-
-
-
-{360}{}{Хм... Поставкой воды занимается Даллас МакКинзи. Он внутри убежища. Я слышал, есть проблемы с водным фильтром. }
-{361}{034}{Я могу пройти поговорить с ним?}
-{362}{037}{Я могу починить фильтр. Я хорошо разбираюсь в таких механизмах.}
-
-
-
-
-{370}{}{Ты разбираешься в ремонте водных фильтров? Ты нам пригодишься. Лайвос нуждается в таких людях. Ты станешь одним из нас! Я предупрежу Эдуарда на входе, что у нас новый опытный человек, который разбирается в технике. Добро пожаловать в Лайвос. Ты можешь пройти.}
-{371}{999}{Спасибо. Я пойду чинить фильтр.}
-
-
-
-{3801}{}{Да? Что такое?}
-{3802}{}{Я уже сходил к ней, поговорил. Как ты и предупреждал, она все отрицала. Ничего, перевоспитаю. Но теперь она все поняла и больше так делать не будет. А то я ей все зубы повыбиваю.}
-{381}{041}{Она ведет себя недостойно! Она плохо о тебе отзывалась!}
-{382}{039}{Она пыталась ко мне приставать! Я, как твой друг, обязан тебя предупредить. Она сказала, что ты тупой и недалекий. И что она тобой крутит, как хочет. И даже если вы поженитесь, она за твоей спиной будет крутить романы с другими. "Этот лопух ничего не заподозрит, а если и узнает, я все буду отрицать, и он мне поверит", - вот ее слова!  }
-{383}{010}{Вообще-то я хотел еще спросить.}
-
-
-
-{390}{}{[Кристофер сжал кулаки] Вот сука! Вот тварь! Спасибо, друг, я пойду поговорю с ней. Я не знаю, что сейчас с ней сделаю! Сука...}
-{391}{999}{Сходи, поговори, друг! Потом увидимся.}
-{392}{}{Я не знаю, что сейчас с ней сделаю! Сука...}
-{393}{}{Сейчас я с ней поговорю...}
-{394}{}{Ничего, я ей ума-то прибавлю...}
-
-
-
-
-{400}{}{Словами можно добиться только выбитых зубов. Покупаешь или нет?}
-{401}{Barter}{Да, конечно.}
-{402}{010}{Нет, я спросить хотел.}
-{403}{017}{Слова очень много значат. Можно решить многие проблемы.}
-
-
-
-
-{410}{}{Да, она много болтает. Много пустых звуков. Женщины - они такие.}
-{411}{999}{Ладно, смотри сам, я пойду [Наверное, нужно придумать что-нибудь поубедительнее]}
+{10}{}{[You see a young man in good physical shape. He has a clear, hard eyes] Come closer, pick a gun! The best weapons in Radius are made in Livos! Everybody knows the quality of Schwein weapons!}
+{11}{Barter}{Let's see what you have.}
+{12}{010}{I want to ask some questions.}
+
+{1001}{}{Hey, commander. Take your time, look around. These guns are the best!}
+{1002}{}{Make it quick. I'm a busy man.}
+{1003}{}{Hey. Take your time, look around. These guns are the best in the whole Radius.}
+{101}{Barter}{Let's see what you have...}
+{102}{012}{Tell me, which goods do you have in stock?}
+{103}{011}{What do you do here?}
+{104}{015}{What is this place?}
+{105}{036}{There was a problem with the recent water delivery at NWO. I'm here to find out the reason.}
+{106}{029}{I'd like to talk about Mignon Horton.}
+{107}{035}{Can you give a discount? I'm one of us, after all. I'm Livos dweller.}
+{108}{038}{Christopher! I want to talk about Mignon's behaviour!  }
+{109}{999}{We'll talk later, bye.}
+
+{110}{}{I deal in the best guns. Interested?}
+{111}{Barter}{Yes, let's have a look.}
+{112}{012}{What kind of guns are you selling?}
+{113}{999}{No, I need nothing for now. I'll come by later.}
+{114}{010}{I want to ask something else.}
+
+{120}{}{Laser and energy weapons, suited for every taste. Take your time, look, choose.}
+{121}{010}{Not now. I want to ask.}
+{122}{Barter}{Show me what you have.}
+
+{130}{}{I don't like small talk. To chat is a privilege of women. I talk business. }
+{131}{017}{Are you always like this?}
+{132}{040}{Sometimes you can do many things with just words.}
+{133}{014}{The words are meaningles. I don't like small talk too.}
+
+{140}{}{Right. Let's get down to business. What do you want?}
+{141}{Barter}{I want to look at your stock.}
+{142}{010}{I want to ask a question.}
+{143}{999}{Nothing for now. Talk later.}
+
+{1501}{}{Joking, commander? This is Livos.}
+{1502}{}{This is Livos. }
+{151}{016}{That's it? Tell me more details about this place.}
+{152}{018}{Tell me about inhabitants of Livos.}
+{153}{019}{Tell me about yourself.}
+{154}{033}{What is behind that big metal door?}
+{155}{013}{You aren't very talkative.}
+
+{160}{}{[He is clearly irritated] More details? What the hell do you want? This is Livos. We trade clean water to the whole Radius. Sell the best guns. That's it. Stop bugging me with your chit-chat. Want to talk - find someone else.}
+{161}{018}{Who lives here?}
+{162}{Barter}{Can you show me the weapons you are selling?}
+{163}{017}{Let's talk more particularly about Livos. }
+
+{170}{}{[Christopher gets angry] You are pissing me off! Go fuck yourself! If you don't want to buy - get lost! }
+{171}{Barter}{Okay, show me what you have.}
+{172}{998}{YOU go fuck youself, damn psycho!}
+{173}{010}{Wait, I want to ask something else.}
+{174}{999}{Easy. I'm already leaving.}
+
+{180}{}{[Christopher nervously taps his fingers on the desk] Damn... Alright. Four families are living in here. Hortons, Duntons, McKinseys and us, Schweins. We are the most influential. We are in charge of tradings, security, weapon manufacturing. My uncle, Edward, guards the entrance. My father, Ludwig, is an engineer. Mother, Veronica, is a politician. What I do is obvious.}
+{181}{022}{Who are Hortons?}
+{182}{020}{Tell me about McKinseys.}
+{183}{021}{What can you say about Duntons?}
+{184}{010}{I see. I'll ask something else.}
+
+{190}{}{Are you kidding me? I. Sell. Weapons.}
+{191}{017}{What else can you say about yourself?}
+{192}{Barter}{Show me what you have.}
+{193}{010}{I wanted to ask something else.}
+
+{200}{}{[He is visibly irritated by this conversation] McKinseys are trading water. Dallas is responsible for it. Smart guy, can do business with him. Except he puts his nose where he shouldn't! The other McKinseys are bunch of clowns.}
+{201}{022}{What about Hortons?}
+{202}{021}{What are Duntons doing?}
+{203}{023}{What's the problem with Dallas?}
+{204}{010}{I want to ask something else.}
+
+{210}{}{[Christopher frowns with contempt] Duntons... Emily is the one with balls, she keeps her husband Soap under the thumb. Thinks she runs this place. Always pushes her idiotic ideas forward on the meetings.}
+{211}{022}{What about Hortons?}
+{212}{020}{Tell me about McKinseys.}
+{213}{010}{Another question.}
+
+{220}{}{[Christopher becames more lively] Claudia and Ashton - phantasists an schemers. They have a daughter, Mignon. She is a wonderful girl! A little light-headed and chatty, but in a good way. Together with her beauty it makes her ideal girlfriend! }
+{221}{021}{Tell me about Duntons.}
+{222}{020}{What can you tell me about McKinseys?}
+{223}{024}{I suppose you like Mignon.}
+{224}{010}{I want to ask something else.}
+
+{230}{}{[His face darkens] It's about Mignon, my girlfriend. Not exactly my, actually. Dallas is hitting on her and wants to take her away from me! If not for him, we would be married already!}
+{231}{028}{What can you say about Dallas?}
+{232}{027}{Who Mignon wants to be with?}
+{233}{024}{Do you want to marry her?}
+
+{240}{}{[Christopher gets excited] Damn right, I love her! And I'm proud to love the best girl in Livos! }
+{241}{025}{So what are you going to do?}
+
+{250}{}{[He ponders] Don't know. I tried everything. It's obvious I'm the best choice for her. But she and this Dallas are always talking! And she likes to talk, as you probably noticed. Unlike me. Talking is not my strongest feat. If it continues like this, I might have some accident with Dallas. So, I need to convince her. Maybe give her a present. Something valuable. She likes smelly things, for example. I undestand nothing in them.}
+{251}{026}{I can try to talk with Mignon and Dallas. I am very persuasive. And I can look for something valuable or perfume-like.}
+{252}{999}{Continue your love games without me. I have things to do. Bye.}
+
+{260}{}{[Christopher gets a little happier] It's a pleasure doing business with you! Talk to them. Or bring me the present for Mignon. I'll give you a gun as a reward. Maybe even some rare prototype.}
+{262}{}{[Christopher gets a little happier] It's a pleasure doing business with you! Talk to them. Or bring me the present for Mignon. I'll give you a gun as a reward. Maybe even some rare prototype. But first, you need to get inside. Talk to old man Schwein near the entrance. He'll make even a Chimera a member of Livos, in exchange for batteries or some rarity.}
+{261}{999}{Great. Getting to work.}
+
+{270}{}{She didn't make her choice yet. Dallas is pulling wool over her eyes, keeping us from being together.}
+{271}{024}{Do you want to be with her?}
+{272}{028}{Why does she talk to Dallas?}
+
+{280}{}{Dallas is eloquent. He is calm, smart. Puts words into stories. Can make others do something for him. He is running his own game, trying to steal Mignon from me.}
+{281}{025}{And what are you going to do about it?}
+
+{290}{}{Did you talk to Mignon and Dallas? Or - did you find a valuable present?}
+{291}{030}{I've found an actual perfume. It's a rarity. She will definitely like it!}
+{292}{031}{Yes, I talked to them. Mignon has agreed to marry you. Dallas won't get in your way.}
+{293}{010}{Not yet, I'm still working on it. I'd like to ask something else.}
+
+{300}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - plasma rifle prototype or laser pistol. Pick one.}
+{303}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - plasma rifle prototype! Unique and deadly!}
+{304}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - laser pistol! Light-weight, precise and deadly!}
+{301}{032}{[take the prototype]}
+{302}{032}{[take the pistol]}
+
+{310}{}{[Christopher happily smiles] Great! You talked them into it! You deserved the reward of your choice - plasma rifle prototype or laser pistol. Pick one.}
+{313}{}{[Christopher happily smiles] Great! You talked them into it! You deserved the reward of your choice - plasma rifle prototype! Unique and deadly!}
+{314}{}{[Christopher happily smiles] Great! You talked them into it! You deserved the reward of your choice - laser pistol! Light-weight, precise and deadly!}
+{311}{032}{[take the prototype]}
+{312}{032}{[take the pistol]}
+
+{320}{}{[He gives you the reward] Here!}
+{321}{999}{Thanks, Christopher. Bye.}
+
+{330}{}{Behind this door are the Livos quarters.}
+{331}{034}{Can I enter?}
+{332}{999}{I see. I'll ask something else.}
+
+{340}{}{No. Only inhabitants of Livos can enter.}
+{341}{}{Of course. You are one of us. You can go whenever you want.}
+{342}{010}{Another question.}
+
+{350}{}{No discounts. If you are one of us, then your mony will return into Livos through me.}
+{351}{010}{I see. Another question.}
+
+{360}{}{Hm... Boston McKinsey is responsible for the whole water supply. He is inside the vault. I heard there's some problem with the water wilter though. }
+{361}{034}{Can I talk to him?}
+{362}{037}{I could fix the filter. I'm good with fixing things.}
+
+{370}{}{You are good in repairing water filters? We could use you. Livos needs people like you. You'll become one of us! I'll tell Edward by the entrance that we have new inhabitant, who can repair things. Welcome to Livos. You can enter.}
+{371}{999}{Thanks. I'll go fix the filter.}
+
+{3801}{}{Yes? What is it?}
+{3802}{}{I've talked to Mignon. Just as you warned, she denied everything. It's okay, I'll re-educate her eventually. For now she understands everything and won't do something like this anymore. Or else I'm going to kick her teeth out.}
+{381}{041}{She behaves badly! She talk so many things about you!}
+{382}{039}{She tried to hit on me! As your friend, I should inform you about it. She called you stupid and short-sighted. And she said that she can jerk you around as much as she wants. And even if you get married, she would still have an affairs behind your back. "This cluck won't suspect a thing! I'll deny everything and he will believe me!", - that's what she said! }
+{383}{010}{Actually, I wanted to ask something else.}
+
+{390}{}{[Christopher clenches fists] Bitch! Cunt! Thanks, friend, I'll go talk to her. I don't know what I'm going to do! That bitch...}
+{391}{999}{Sure, go! See you later.}
+{392}{}{I don't know what I'm going to do! That bitch...}
+{393}{}{I'm going to go talk to her...}
+{394}{}{It's okay, I'll get some sense into her...}
+
+{400}{}{Words can lead you to some missing teeth. Are you buying or not?}
+{401}{Barter}{Yes, sure.}
+{402}{010}{No, I wanted only to ask.}
+{403}{017}{Words bear power. You can solve many problems with them.}
+
+{410}{}{Huh. She talks too much. Many meaningless sounds. Women...}
+{411}{999}{Okay, suit yourself. I'll go now [I should probably be more convincing]}
