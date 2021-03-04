@@ -302,14 +302,14 @@
 {326}{}{It's dark and damp, but it looks like someone made a shelter here.}
 {327}{}{This place is a busy shopping area. The sweet spirit of open market relations feels in the air.}
 {328}{}{The smell of machine oil and raw meat, mixed with ooze of feces and aroma of sweat from hard laboring workers, hits your nose right at the doorway. This is a factory floor.}
-{329}{}{...Another 4 more years. You are already 21, but nothing has changed in Tartarus.}
+{329}{}{...Another 4 years. You are already 21, but nothing has changed in Tartarus.}
 {330}{}{EXTRA MAP}
-{331}{}{Here and there you see residential tents and dilapidated houses. The ambience is filled with the constant lowing of lavash and the buzzing of flies.}
+{331}{}{Here and there you see residential tents and dilapidated houses. The ambience is filled with the constant lowing of lavash and buzzing of flies.}
 {332}{}{A huge "LIVOS" sign in big, richly decorated letters, points to the entrance of the cave, near which travelers and merchants jostle.}
-{333}{}{The arches of the cave merge with concrete walls, before which you see an automatic turret. It immediately locks onto you.}
-{334}{}{The steps of the staircase led you to a network of rooms and corridors, through which richly dressed vault dwellers roam back and forth.}
-{335}{}{In the poorly lit space stand incomprehensible machines and devices. It seems to be some kind of technical room.}
-{336}{}{It is quite dark and humid here. You can hear the splashing sound of water flowing nearby, the hum of machinery, and some... grunting?}
+{333}{}{The cave arches are merging with concrete walls, in front of which you see an automatic turret. It immediately locks onto you.}
+{334}{}{The staircase leads you to a network of rooms and corridors. Richly dressed vault dwellers are roaming back and forth.}
+{335}{}{In the poorly lit space of rooms stand incomprehensible machines and devices. Looks like it's some kind of technical area.}
+{336}{}{It is quite dark and humid here. You can hear the splashing sounds of water nearby, the hum of machinery, and some... Grunting?}
 {337}{}{The stale, heavy air immediately takes your breath away. You slowly calm down and let your eyes adjust to the impenetrable darkness.}
 {338}{}{This place looks like the encampment of some raiders or vagabonds. Some of the locals are dead drunk or are moaning from hunger, others constantly seem to look for something.}
 {339}{}{In this part the settlement looks more vibrant, and it seems that the excitement is associated with a nearby fenced-in square.}

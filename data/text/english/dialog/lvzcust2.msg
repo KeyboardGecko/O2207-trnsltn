@@ -97,10 +97,10 @@
 {1030}{}{No, you just HAVE to lower your water prices!}
 {1031}{}{Dallas, there's definitely something wrong with your water.}
 {1032}{}{Your water smells like... Like... Man, even my piss smells better!}
-{1033}{}{You are, of course, monopolists and all that - but we are the ones who own the food supply.}
-{1034}{}{No lower prices - no canned food for you! You have to go hunt the cave rats by yourself!}
-{1035}{}{You are so brazen up! It's easier for us to find water somewhere else in Radius then buy from you!}
+{1033}{}{You are, of course, monopolists and all - but we are the ones who own the food supply.}
+{1034}{}{No lower prices - no canned food for you! You have to go hunt the cave rats!}
+{1035}{}{It's easier for us to find water somewhere else in Radius than buy from you!}
 {1036}{}{Dallas, my friend, you can't set me up like that...}
 {1037}{}{Maybe you could let our mechanic to take a look at your filters.}
 {1038}{}{Five tins for a canister, not a battery more!}
-{1039}{}{So what? It doesn't give you the right to trade rotten water! Especially for such price!}
+{1039}{}{So what? It doesn't give you the right to sell rotten water! Especially at such price!}

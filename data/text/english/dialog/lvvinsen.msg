@@ -23,12 +23,12 @@
 {10}{}{[You see a decrepit old man at the controls. He mutters something under his breath, his little eyes constantly running around. It seems that he does not notice you]}
 {11}{002}{[Knock on the glass with your finger]}
 {12}{006}{Hey, old man, wake up!}
-{13}{008}{Hello. May I speak to you?}
+{13}{008}{Hello. May I bother you?}
 
 
 
 
-{20}{}{[The old man glances in your direction. Quietly begins to mumble] Again someone came, so tired of them, no respect at all... [Then he turns to you] Yes? Did you want something?}
+{20}{}{[The old man glances in your direction. Quietly begins to mumble] Again someone came, I'm so sick of them, no respect at all... [he turns to you] Yes? Did you want something?}
 {21}{003}{Actually, not you, but You.}
 {22}{005}{Yes, I would like to talk to you.}
 {23}{008}{Yes, I wanted to talk to you.}
@@ -36,7 +36,7 @@
 
 
 
-{30}{}{[An old man looks at you scornfully] What? I will never call such garbage as you "You"! But you should call me and other representatives of the proud family name Schwein on "You"!}
+{30}{}{[The old man looks at you scornfully] What? I will never call such garbage as you "You"! But you should call me and other representatives of the proud family name Schwein on "You"!}
 {31}{005}{Sorry, I get it. May I speak to You?}
 {32}{006}{Piss off, proud representative, you are disgusting.}
 {33}{004}{Schwein? Can't be! I am so glad to speak with one of the great Schweins!}
@@ -49,7 +49,7 @@
 {43}{007}{You're an "arrogant piece of shit". That's the only way I'll call you}
 
 
-{50}{}{[The old man softened a bit] That's better. Cause half of the vagabonds here do not understand a thing. I am Edward Von Vincent Schwein, but you can just call me Edward, because you will not remember full one anyway.}
+{50}{}{[The old man softens a bit] That's better. Cause half of the vagabonds here do not understand a thing. I am Edward Von Vincent Schwein, but you can just call me Edward, because you will not remember full one anyway.}
 {51}{010}{Yes, Edward. May I ask?}
 {52}{006}{I remember everything well, Edward Von Vincent Schwein, my brain is fine. You, on the other hand, clearly have problems with it.}
 {53}{007}{I will call you as I want. Got it, old dick?}
@@ -69,21 +69,21 @@
 {73}{998}{I won't go anywhere until we talk!}
 
 
-{80}{}{[The old man slowly pronounces every word] First, show some respect. I am Edward Von Vincent Schwein, and will not tolerate such behaviour from some tramp.}
+{80}{}{[The old man slowly pronounces every word] For starters, show some respect. I am Edward Von Vincent Schwein, I won't tolerate disrespect from some tramp.}
 {81}{009}{Sorry, I will show respect.}
-{82}{006}{I do not respect people like you.}
-{83}{007}{Or what? I don't care about you!}
+{82}{006}{I don't respect your kind of people.}
+{83}{007}{Or what? I do not care about you!}
 
 
 
-{90}{}{[Edward seems to calm down a bit] That's better. You can call me Edward. What do you want?}
+{90}{}{[Edward calms down a bit] That's better. You can call me Edward. What do you want?}
 {91}{010}{I would like to ask you something.}
-{92}{006}{In general, you're just an arrogant old man.}
+{92}{006}{You know, you're just an arrogant old man.}
 {93}{007}{None of your business, ye old dick, call the one in charge!}
 
 
 {1001}{}{[Edward looks at you with indifference] And here is our new commander. Something happened?}
-{1002}{}{[Edward looks at you with annoyance] I remember you, tramp. You are the dick that thinks he is cool, but in fact he is just a pile of Radius' garbage.}
+{1002}{}{[Edward looks at you with annoyance] I remember you, tramp. You are the dick that thinks he is cool, but in fact he's just a pile of Radius garbage.}
 {1003}{}{[Edward angrily looks at you] Only quick, and then get out.}
 {1004}{}{[Edward looks at you with indifference] Oh, you again? Anything you wanted?}
 {1005}{}{Okay, but hurry up.}

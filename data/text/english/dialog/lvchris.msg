@@ -167,7 +167,7 @@
 
 {3801}{}{Yes? What is it?}
 {3802}{}{I've talked to Mignon. Just as you warned, she denied everything. It's okay, I'll re-educate her eventually. For now she understands everything and won't do something like this anymore. Or else I'm going to kick her teeth out.}
-{381}{041}{She behaves badly! She talk so many things about you!}
+{381}{041}{She behaves badly! She says so many bad things about you!}
 {382}{039}{She tried to hit on me! As your friend, I should inform you about it. She called you stupid and short-sighted. And she said that she can jerk you around as much as she wants. And even if you get married, she would still have an affairs behind your back. "This cluck won't suspect a thing! I'll deny everything and he will believe me!", - that's what she said! }
 {383}{010}{Actually, I wanted to ask something else.}
 
@@ -175,7 +175,7 @@
 {391}{999}{Sure, go! See you later.}
 {392}{}{I don't know what I'm going to do! That bitch...}
 {393}{}{I'm going to go talk to her...}
-{394}{}{It's okay, I'll get some sense into her...}
+{394}{}{It's okay, I'll put some sense into her...}
 
 {400}{}{Words can lead you to some missing teeth. Are you buying or not?}
 {401}{Barter}{Yes, sure.}

@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a young pretty girl.}
+{1}{}{You see a young, pretty girl.}
 {2}{}{She whistles a simple melody.}
 #
 # после знакомства

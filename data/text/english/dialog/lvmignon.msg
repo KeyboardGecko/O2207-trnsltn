@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a sexy young woman.}
+{1}{}{You see a young, sexy woman.}
 {2}{}{She licked her lips. You mouth feels dry. Maybe you should close it?}
 #
 # после знакомства
@@ -116,10 +116,10 @@
 
 {300}{}{Yeah? Why do you think that?}
 {301}{027}{I think you'll make a great couple.}
-{302}{031}{Christopher is nuts! He throws himself at people for no reason. I had a talk with him in the trade quarters - and he shouted at me, telling that he will threaten you! I came to check if you are alright.}
+{302}{031}{Christopher is nuts! He throws himself at people for no reason. I had a talk with him in the trading quarters - and he shouted at me that he is going to hurt you! I came to check if you are alright.}
 
 {310}{}{[Mignon starts whining] He came by recently... He was so angry! He was screaming, blaming me for misbehaving... I told him it wasn't true, but he didn't believe me! He even hit me... [she burst with tears] He is so bad! I hate him! I don't know if I would forgive him... Maybe in a few days...}
-{311}{032}{He will always be like this. He will beat you all the time. So you'd better marry Dallas, and Christopher will leave you alone.}
+{311}{032}{He will always be like this, beating you all the time. You'd better marry Dallas, so Christopher would leave you alone.}
 
 {320}{}{You know, you are right... I feel so good and safe with Dallas, unlike this lunatic Christopher... I'd better choose Dallas.}
 {321}{010}{I think you'll make a great couple. Let's change the subject.}

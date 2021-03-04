@@ -104,7 +104,7 @@
 {214}{029}{Why you don't like Christopher?}
 {215}{010}{Actually, I'd like to talk about something else.}
 
-{220}{}{Of all Dunton Family, only Emily is worth mentioning. Bossy and arrogant bitch. Thinks she is better than everyone, when in reality she just has overblown self-esteem. She doesn't even take her husband for a living being, not mentioning the others. Emily gives speeches on the meetings, but for the most time, she is worthless.}
+{220}{}{Of all Dunton family, only Emily is worth mentioning. Bossy and arrogant bitch. Thinks she is better than everyone, when in reality she just has overblown self-esteem. She doesn't even take her husband for a living being, not mentioning the others. Emily gives speeches on the meetings, but for the most time, she is worthless.}
 {221}{021}{What can you tell me about Schweins?}
 {222}{028}{I want to learn about Hortons.}
 {223}{023}{Tell me about your family, McKinseys.}
@@ -146,7 +146,7 @@
 {291}{030}{You and Mignon - are you in relationship?}
 {292}{010}{I want to ask something else.}
 
-{300}{}{Yes, I'm in love with Mignon, this cute little blonde beauty... And I want to marry her. But there's this Christopher Schwein, always getting in our way! He wants to steal her from me! This insolent and rough man doesn't deserve to be a husband of such an extraordinary girl!}
+{300}{}{Yes, I'm in love with Mignon, cute little blonde beauty... And I want to marry her. But there's this Christopher Schwein, always getting in our way! He wants to steal her from me! This insolent and rough man doesn't deserve to be a husband of such an extraordinary girl!}
 {301}{031}{What does Mignon think? Who she wants to be with?}
 {302}{032}{How are you going to get her love?}
 

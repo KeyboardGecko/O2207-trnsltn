@@ -39,7 +39,7 @@
 
 {1001}{}{What auntie Abilyn can do for you, patron?}
 {1002}{}{[She has a disgusted look] Ask your question and stop distracting me with your petty things.}
-{1003}{}{You again. What are you sniffing around this time?}
+{1003}{}{Again? What are you sniffing around this time?}
 {101}{011}{Ludwig lost his book of wave science. Did you see it?}
 {102}{012}{What do you do here?}
 {103}{022}{What can you tell me about Livos?}
@@ -64,7 +64,7 @@
 {141}{015}{Okay, I won't call myself that. }
 {142}{017}{I'm still going to call myself that.}
 
-{150}{}{There, listen to auntie Abylin and you will never violate the Constitution. You have a lot to learn, greenhorn.}
+{150}{}{There, listen to auntie Abilyn and you will never violate the Constitution. You have a lot to learn, greenhorn.}
 {151}{010}{Whatever you say. I want to ask something else.}
 {152}{999}{I'll go think about my doings.}
 
@@ -79,7 +79,7 @@
 {180}{}{[Abilyn is boiling with resentment and discontent. She is visibly shaking] You don't really care?! Then get out of here, I don't want to see you anymore!!!}
 {181}{999}{Okay.}
 
-{190}{}{Good, then you are not in violation of anything. There, listen to auntie Abylin and you will never violate the Constitution. You have a lot to learn, greenhorn.}
+{190}{}{Good, then you are not in violation of anything. There, listen to auntie Abilyn and you will never violate the Constitution. You have a lot to learn, greenhorn.}
 {191}{010}{Whatever you say. I want to ask something else.}
 {192}{999}{I'll go, need to violate a coulple of rights from Constitution. Bye.}
 
