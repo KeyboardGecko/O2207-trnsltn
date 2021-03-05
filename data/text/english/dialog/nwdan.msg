@@ -11,78 +11,78 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Худой жилистый мужчина.}
-{2}{}{Снисходительно поглядывает на окружающих, словно зная что-то, неведомое остальным.}
+{1}{}{You see a skinny, wiry man.}
+{2}{}{He patronizingly gazes on the people around him, as if knowing something they don't.}
 #
 # после знакомства
-{3}{}{Вы видите: Дан.}
-{4}{}{Лидер "Стального Закона".}
+{3}{}{You see Dan.}
+{4}{}{The leader of "Steel law". He holds beads in his right hand.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{14}{}{[Он явно немолод , но серые глаза на узком, шакальем лице, отмеченным печатью хитрости, еще горят жаждой действия] Так-так, новые лица, а? И с чем же ты ко мне пожаловал, парень? Решил, что старик Дан поможет тебе стать рекрутом "Стального Закона"? [Смеется, но взгляд остается серьезным]}
-{10}{011}{Я - }
-{11}{011}{. О каком "Стальном Законе" речь?}
-{12}{999}{Приветствую, Дан. Меня зовут }
-{13}{999}{. Я пока просто осматриваюсь на новом месте. Что ж, не буду тебе мешать.}
+{14}{}{[He is clearly not young, but grey eyes on his shallow, cunning face are still burning with thirst for action.] So, a new face around here, huh? What brings you to me, boy? Do you think that old buddy Dan would help you become the recruit of "Steel law"? [He smiles, but his eyes stay serious.]}
+{10}{011}{I am }
+{11}{011}{. What "Steel law" are you talking about?}
+{12}{999}{Hello, Dan. My name is }
+{13}{999}{. I'm just looking around for now. Well, I won't be bothering you. Bye.}
 
 
-{1001}{}{[При вашем появлении он чуть заметно кивает, не меняя позы] С чем пожаловал, чужак? Надеюсь, тебе еще не промыли мозги Марк и его компания? Как же - " Стальной Закон" ведь главная угроза НМП!}
-{101}{011}{Я и хотел узнать - что это за "Стальной Закон"?}
-{102}{015}{Я тут кое-что узнал о тебе и Люси... Понятно, в честь кого она назвала Даниэля.}
-{103}{999}{Да я так  - мимо проходил. Поговорим позже, Дан.}
-{1002}{}{[Прикладывает ладонь к сердцу и почтительно склоняет голову, пряча от вас глаза] Мое почтение достойному приемнику старины Марка! Надеюсь, теперь Новый Порядок пойдет новым курсом? [Чуть заметно улыбается]}
-{104}{016}{А что, у тебя есть какие-то идеи? Ну так излагай!}
-{105}{999}{Это мне решать, Дан. Твое дело - исполнять приказы. Помни об этом. Еще увидимся...}
-{106}{017}{Конечно! Хватит терпеть экспансию Псов и Радуги! Пришло время установить в Радиусе свой закон... Стальной!}
-{1003}{}{[Ловко перебрасывает четки в левую руку и стискивает вашу ладонь в крепком рукопожатии] Рад тебя видеть, парень! Признаюсь, поначалу у меня были подозрения насчет тебя, но теперь, когда Даниэль не без твоей помощи встал у руля... В общем, в моем доме тебе всегда будут рады.}
-{107}{018}{Что, ожидаешь перемен к лучшему?}
-{108}{999}{Я сделал так, как посчитал необходимым... Рад был увидеться, Дан, но мне пора.}
-{1004}{}{[Наматывает четки на кулак на манер кастета и презрительно цедит сквозь зубы] А ты ведь мне сразу не понравился... Знал бы я, что ты собираешься похерить всю мою работу... Мертвяк взял бразды правления! Понимаешь, чем это обернется? Ничего-ничего, еще настанет время... А теперь проваливай. У меня нет никакого желания более общаться с тобой.}
-{109}{999}{Что, припекло маленько? Только попробуй что-то сотворить - урою. Все, отдыхай, революционер.}
-{1010}{999}{Надеюсь, в итоге ты поймешь, что это был лучший выбор... Прощай, Дан.}
-{1005}{}{[Дан поправляет повязку на рукаве и отдает вам честь на военный манер] Докладываю обстановку - агитация среди местного населения проходит успешно. Мой Арсэн очень хорошо умеет убеждать... Я же работаю над списками людей... которым с нами не по пути. Например, мертвякам... Ну и главное - мы продолжаем закупать оружие. Стараемся делать это как можно незаметнее, чтоб не привлекать лишнего внимания.}
-{1011}{999}{Так держать! Как только я решу выступать - все должно быть готово. Поговорим позже, Дан.}
+{1001}{}{[Seeing you he slightly nods, without altering his posture] What brings you to me, outsider? I hope your brains have not yet been brainwashed by Mark and his company. You know, about the "Steel law" being the biggest threat to NWO.}
+{101}{011}{Yes, I wanted to ask - what is this "Steel law"?}
+{102}{015}{I've recently learned something interesting about you and Lucy... I see in whose honour Daniel was named.}
+{103}{999}{I was just walking by. Talk later, Dan.}
+{1002}{}{[He puts his palm to the chest and respectfully nods to you, hiding his eyes] Greetings and admiration to the worthy successor of our old man Mark! I hope now NWO will follow its new course? [he smiles a little]}
+{104}{016}{What, you have some ideas about that? Tell me!}
+{105}{999}{That's for me to decide, Dan. Your duty is to follow orders. Remember that. I'll see you around.}
+{106}{017}{Sure! Enough of tolerating the expansion of Jackals and Rainbow! It's time to impose in Radius our law... Steel law!}
+{1003}{}{[He swiftly throws beads into his left hand and squeezes your palm in a firm handshake] Glad to see you, kid! I admit, I had some doubts about you in the beginning. But now, when Daniel is behind the wheel, not without your help... What I want to say is - you are always welcomed in my home.}
+{107}{018}{So, changes for the better?}
+{108}{999}{I did what i thought was right... Was nice seeing you, Dan, but I have to go.}
+{1004}{}{[He wraps his beads around the fist, like forming a knuckle, and hisses] I didn't like you from the start... If I only knew you would wreck everything I worked on. The deadman in charge! Do you realize what it will lead to? It's okay, my time would come eventually... And you - get lost. I have no intentions to keep our conversation going.}
+{109}{999}{You mad? Just try to do something about it, I'll bury you. Peace out, little revolutionary.}
+{1010}{999}{I hope one day you will understand that this was the best option... Bye, Dan.}
+{1005}{}{[Dan adjusts the armband on his sleeve and salutes you] Reporting - the agitation process among local population is proceeding quite well. My Arson is very persuasive... As for me, I'm busy with making a list of those who would better be off somewhere else. Ghouls, for example... And the main thing is that we keep hoarding the weapons. We are trying to do it as quiet as we can, no need for unnecessary attention.}
+{1011}{999}{That's the spirit! Everything should be ready when I decide for us to move out. Talk later.}
 
 
-{110}{}{[Дан заметно оживляется, взгляд становится оценивающим.] Что, даже никто на мозги не капал насчет этого? Хм... Ну почему бы и не помочь хорошему человеку и не объяснить, что тут к чему? В общем, на данный момент НМП руководят идеалисты, наивно пытающиеся добиться мира с другими общинами Радиуса путем переговоров и налаживания торговых связей. Как тебе это, а? К счастью, нашлись люди, понимающие, что чего-то добиться в этом Богом проклятом мире можно лишь силой оружия. Они назвали себя "Стальной Закон". Проведя грамотную экспансию, мы смогли бы захватить достаточно пленных, чтобы увеличить свой производственный и военный потенциал! Такие дела. И меня, почему-то, считают негласным лидером этой негласной организации... Постоянно косятся на меня и моего сынка - ты уже видел Арсэна? Хороший парень, только горячий лишка...    }
-{111}{012}{А что плохого в мирном решении спорных вопросов? Я так-то не очень люблю лишнее насилие...}
-{112}{013}{Но ты, разумеется, никакого отношения к этому "Стальному Закону" не имеешь? Если я захочу вдруг чем-то помочь - к кому мне обратиться?}
-{113}{014}{Хм... А с чего вы...они так уверены в своих силах? В других группировках Радиуса тоже серьезные парни имеются.}
-{114}{999}{Понятно. Ну, мне ваша внутренняя политика не особо интересна. Счастливо оставаться!}
+{110}{}{[Dan becomes more lively, his eyes assessing you] What, no one even nagged about it? Hm... Okay, why not help a good man, enlightening him on what's what? Here's the thing, now NWO is lead by a bunch of idealists, naively trying to make peace with other settlements of Radius through negotiations and establishing trade relations. How stupid is that? Fortunately, there are some people who understand that you can accomplish something in this cursed world only by the power of weapon. They call themselves "Steel law". With a good old expansionism, we could capture enough prisoners to significantly increase our production and military capacities! So it goes. And yeah, for some reason, I am considered a leader of this covert organization... We always get this dirty looks, me and my son. Have you met Arson? Good kid, except a little hot-headed... }
+{111}{012}{What's wrong with peaceful ways of dealing with problems? I'm not much into violence, you know...}
+{112}{013}{And you are, of course, unrelated to this "Steel law", aren't you? If I'd like to help - who should I talk to?}
+{113}{014}{Hm... And why do you... I mean, they even hope for achieving the succcess? Other factions of Radius have some serious power and men.}
+{114}{999}{I see. Well, I'm not very interested in local politics. See you!}
 
 
-{120}{}{[Снисходительно усмехается] Это с кем ты миром хочешь все порешать? С Псами и свихнувшимися на Капле радужными? Или с зажравшимися снобами из Олимпа? На нас уже пытались как-то наехать, чудом только и отбились. А почему? Потому что нашлись ребята, догадавшиеся сменять батарейки на хоть какое-то оружие, а не на всякую хрень. Хорошим стволом всегда добьешься большего, чем хорошим словом. Так во все времена было. Вот это "Стальной Закон" и пытался до других донести.}
-{121}{013}{Но ты, разумеется, никакого отношения к этому "Стальному Закону" не имеешь? Если я захочу вдруг чем-то помочь - к кому мне обратиться?}
-{122}{014}{Хм... А с чего вы...они так уверены в своих силах? В других группировках Радиуса тоже серьезные парни имеются.}
-{123}{999}{Чтож, мне надо это обдумать... Еще увидимся, Дан.}
+{120}{}{[He leniently chuckles] With whom? With Jackals? Or with crazy junkies from Rainbow? Or with greedy snobs from Olympus? We were attacked before, you know. It was a miracle we fought off. Want to know why? Because there were some guys, who traded their batteries for a good guns, not on some peaceful crap. You can always do more with good gun than with a good word. At any times. That's the message "Steel law" is trying to get to everyone.}
+{121}{013}{But you are, of course, unrelated to this "Steel law", aren't you? If I'd like to help - who should I talk to?}
+{122}{014}{Hm... And why do you... I mean, they even hope for achieving the succcess? Other factions of Radius have some serious power and men.}
+{123}{999}{I need to think about it. See you around, Dan.}
 
 
-{130}{}{[С деланным равнодушием разводит руками] Да мне-то почем знать? Я вообще лоялен к текущему руководству, только рад буду, если Даниэль Марка сменит на посту. [Улыбается, глядя куда-то поверх вашей головы] Он... Достойный сын своего отца, да... И, кстати, неплохого мнения о "Стальном Законе".}
-{131}{015}{Ну еще бы. Твоя кровь все-таки дает о себе знать, а? Вы с Люси хорошо постарались...}
-{132}{012}{Все равно не понимаю -  что плохого в мирном решении спорных вопросов? Я так-то не очень люблю лишнее насилие...}
-{133}{014}{А почему "Стальной Закон" вообще надеется на успех? В других группировках Радиуса тоже серьезные парни имеются.}
-{134}{999}{Ок, попробую поговорить с ним. Благодарю за информацию, Дан.}
+{130}{}{[He shrughs with seeming indifference] How do I know? I'm very loyal to the current management. I would be glad if Daniel succeeded Mark as mayor.... [Dan smiles, gazing above your head] He is worthy of his father, you know. And he has good opinion about the "Steel law".}
+{131}{015}{I bet you would. Your blood is your blood, right? You and Lucy put a lot of effort...}
+{132}{012}{I still don't get it. What's wrong with peaceful ways of dealing with problems? I'm not much into violence, you know...}
+{133}{014}{Why does "Steel law" even hopes for achieving the succcess? Other factions of Radius have some serious power and men.}
+{134}{999}{Okay, I'll go talk to him. Thanks for the information, Dan.}
 
 
-{140}{}{[Поводит плечами, словно разминаясь перед боем] А никто и не говорит, что будет легко. Но оно того стоит. К тому же,  наше преимущество в том, что никто от нас не ждет решительных действий... }
-{141}{012}{Все равно не понимаю -  что плохого в мирном решении спорных вопросов? Я так-то не очень люблю лишнее насилие...}
-{142}{013}{А ты, разумеется, никакого отношения к этому "Стальному Закону" не имеешь? Если я захочу вдруг чем-то помочь - к кому мне обратиться?}
-{143}{999}{Может, что-то в этом и есть... Надо все обдумать. Мне пора. Благодарю за информацию.}
+{140}{}{[He moves his shoulders, as if warming up before the fight] No one said that this would be easy. But it's going to be worth it. Besides, our advantage is that no one waits from us something like this. }
+{141}{012}{I still don't get it. What's wrong with peaceful ways of dealing with problems? I'm not much into violence, you know...}
+{142}{013}{And you are, of course, unrelated to this "Steel law", aren't you? If I'd like to help - who should I talk to?}
+{143}{999}{Maybe there is something about it... I need to think it over. I need to go, thanks for the info.}
 
 
-{150}{}{[Вопреки ожиданиям, Дан лишь неторопливо присаживается с ленивым зевком у стены и вновь начинает пропускать сквозь пальцы костяшки четок] Что, Сэм, небось, напел? У этого мертвяка от радиации уже окончательно крыша протекла. Если мой сын дружит с Даниэлем - значит я когда-то завалил на койку Люси? Логика! Так что ты иди своей дорогой и впредь думай, прежде чем пытаться меня удивить. А то глупо выглядишь, парень.}
-{151}{999}{Ладно, пойду пройдусь. В конце концов, это не так уж и важно. Но ты особо не расслабляйся, Дан. Еще увидимся.}
+{150}{}{[Contrary to your expectations, Dan only lazily sits by the wall and continues to cycle through his beads] Did Sam tell you this? This ghoul is completely lost his mind from radiation. If my son and Daniel are friends - that means I banged Lucy? So logical! Go do your business, and next time think before trying to surprise me. You looked pretty stupid, pal.}
+{151}{999}{Okay, I'll go. It doesn't matter much anyway. Stay on your toes, Dan. See you around.}
 
 
-{160}{}{[Откашливается в кулак и начинает проникновенно вещать] По моему скромному мнению, сейчас лучшее время для подготовки масштабного наступления по всем фронтам. Люди ждут перемен и полны энтузиазма. Я мог бы взять на себя разработку проекта по захвату новых территорий, кое-какие наработки у меня уже имеются...}
-{161}{017}{Конечно! Хватит терпеть экспансию Псов и Радуги! Пришло время установить в Радиусе свой закон... Стальной!}
-{162}{999}{Я сам решу, каким путем нам идти. Твое дело - исполнять приказы. Помни об этом и не бери на себя лишнего. И береги себя, Дан...}
+{160}{}{[He clears his throat and starts to eloquently speak] In my humble opinion, now is the best time to organize massive attack on all fronts. People are ready for changes and full of enthusiasm. I could develop a project plan for occupying new territories, I already have something in the works...}
+{161}{017}{Sure! Enough of tolerating the expansion of Jackals and Rainbow! It's time to impose in Radius our law... Steel law!}
+{162}{999}{That's for me to decide, which way to go. Your duty is to follow orders. Remember that and don’t take too much upon yourself. Take care, Dan.}
 
 
-{170}{}{[Дан достает из-за пазухи нарукавную повязку с изображением зажатого в механической руке треснувшего черепа и крепит ее на плече] Я знал, что этот день настанет. Мы с сыном немедленно начнем действовать во благо "Стального Закона". Я сумею убедить сомневающихся и покарать отступников... Вот увидишь - вскоре все местные пойдут за нами на штурм Радуги и Олимпа! }
-{171}{999}{Действуй, но будь осторожен. В таком деле торопиться нельзя - мы должны бить наверняка. Докладывать будешь лично мне. Все, мне пора. Удачи!}
+{170}{}{[Dan pulls out an armband from his pocket, depicting mechanical hand, holding the skull in tight grip. He puts it on your shoulder] I knew this day would come. Me and my son will immediately take action in the name of "Steel law". I will persuade those who have doubts and punish all renegades... You'll see, soon everyone around here will join us in our crusade to Rainbow and Olympus! }
+{171}{999}{Do it, but be careful. You can't rush this, we must succeed for sure. Report to me personally. For now I need to go. Good luck!}
 
 
-{180}{}{Так и есть. Даниэль оказался куда дальновиднее своего родит...эээ... Марка в выборе соратников. Он всем сердцем принимает "Стальной Закон" и прислушивается к мнению бывалых людей, душой болеющих за процветание НМП. }
-{181}{999}{Что ж, может, ты и прав. Время покажет. Удачи вам.}
+{180}{}{True. Daniel is much more forward-looking in the matter of picking allies than his fath... Uh, Mark. He takes "Steel law" much closer to the heart, and listens to opinion of experienced people, who put their soul into the prosperity of NWO. }
+{181}{999}{Time will tell, if you're right. Good luck.}
