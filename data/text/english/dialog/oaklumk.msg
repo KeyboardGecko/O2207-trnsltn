@@ -11,68 +11,68 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Мускулистого аборигена}
-{2}{}{Его вид несколько необычен для местных - одна броня чего стоит}
+{1}{}{You see a muscular savage.}
+{2}{}{His look is quite unusual for this place - look at his armor, for example.}
 #
 # после знакомства
-{3}{}{Вы видите: Клумка}
-{4}{}{Единственный воин племени, входящий в поселения чужаков с миром}
+{3}{}{You see Klumk.}
+{4}{}{The only warrior of the tribe, who enters into other settlements of Radius with peaceful intent.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Потертая кожаная броня не по размеру едва прикрывает широкую грудь. Поверх нее красуется толстый шипастый ошейник, на котором кто-то кривыми буквами нацарапал "Клумк". Кроме того, он зачем-то увешал броню какими-то значками, бутылочными крышками и стрелянными гильзами различного калибра. Украшением коллекции является дорожный знак "DO NOT ENTER" на спине, простреленный когда-то зарядом дроби] Что чужак хотеть от Клумк? Клумк не торговать сейчас!}
-{11}{011}{Привет, Клумк. Значит, огненная вода и бусы тебя не интересуют?}
-{12}{012}{Да я всего лишь хотел задать пару вопросов о вашем племени. }
-{13}{999}{Тогда поговорим позже.}
+{10}{}{[Battered leather armor, definitely smaller in size than it should be, barely covers his wide chest. On top of it there's a wide spiked collar, decorated with crooked letters, spelling out "Klumk". The armor itself is covered with all kinds of badges, bottlecaps and bullet shells of different caliber. The gem of collection is definitely that "DO NOT ENTER" road sign on his back, covered in bullet holes] What outsider want from Klumk? Klumk make no trade now!}
+{11}{011}{Hey, Klumk. So, you are not interested in fire water and beads?}
+{12}{012}{I just want to ask some questions about your tribe. }
+{13}{999}{Talk later then.}
 
 
-{1001}{}{[Поправляет бычье кольцо в носу и плотоядно оглядывает вас] Зачем ты столько ходить-бегать, чужак? Мясо потом стать жестким, Клумк такое не сильно любить...}
-{101}{012}{Обязательно это учту. А пока не скажешь мне пару слов о вашем племени?}
-{102}{014}{А Клумк любит вкус собственной крови? Если нет - то ему лучше заткнуть пасть.}
-{103}{999}{Прекрасно. Пройдусь-ка я еще, пожалуй.}
-{1002}{}{[Втягивает голову в плечи и невольно прикрывает рукой украшения на броне , словно вы собираетесь их отобрать] Ты опять хотеть драться? Клумк не хотеть! Зубов меньше стать, жевать плохо...}
-{104}{012}{Не дергайся, я только хотел задать тебе пару вопросов о своем новом доме.}
-{105}{999}{В следующий раз подумаешь, прежде чем идти против меня... Ладно, еще увидимся.}
+{1001}{}{[He touches the bull ring in his nose and gives you a predatory look] Why you walk-run so much, oursider? Meat be tough. Klumk not like this much...}
+{101}{012}{I'll remember that. For now, can you answer some questions about your tribe?}
+{102}{014}{Does Klumk like the taste of his own blood? If not, he'd better shut his mouth.}
+{103}{999}{Great. I'll go walk.}
+{1002}{}{[He pulls his head into shoulders and covers decorations on his armor with hands, as if you want to take them from him] You want fight again? Klumk do not want! Less teeth, bad to chew...}
+{104}{012}{Don't twitch, I just want to ask a few questions about my new home.}
+{105}{999}{Next time you'll think before coming at me. See you around.}
 
 
-{1101}{}{[Важно кивает и скребет длинными ногтями загорелое лицо в полосках ритуальных шрамов] Сейчас Клумк ходить охотиться! Но Старейшина знать, что Клумк умный, она посылать его к чужакам - менять добычу на разные штуки. Клумк хранить все здесь. [Стучит пальцем по голове] Шкура большой урса - пять по два ножей или кукуруза мешок, волка клыки - крепкая вода бутылка... Только чужаки отчего-то не любить, когда Клумк предлагать им один кожа... Красивый, в картинках! Клумк сам содрать с одного чужак и съесть его потом! Непонятный вы, чужаки...}
-{111}{013}{А побрякушки все эти тебе зачем?}
-{112}{014}{Я с тебя сейчас шкуру спущу, падаль! Время платить по счетам. }
-{113}{999}{Это да, мы такие. Ну, пока, бизнесмен.}
-{1102}{}{[Важно кивает и скребет длинными ногтями загорелое лицо в полосках ритуальных шрамов] Сейчас Клумк ходить охотиться! Но Старейшина знать, что Клумк умный, она посылать его к чужакам - менять добычу на разные штуки. Клумк хранить все здесь. [Стучит пальцем по голове] Шкура большой урса - пять по два ножей или кукуруза мешок, волка клыки - крепкая вода бутылка... Только чужаки отчего-то не любить, когда Клумк предлагать им один кожа... Красивый, в картинках! Клумк сам содрать с одного чужак и съесть его потом! Непонятный вы, чужаки... [Вздрагивает и торопливо исправляется] Клумк не хотел назвать тебя чужак! Ты теперь с нами, Клумк это помнит! }
-{114}{013}{Не переживай так. Скажи лучше, побрякушки все эти тебе зачем?}
-{115}{999}{Вот и не забывай. Бывай, бизнесмен.}
+{1101}{}{[He meaningfully nods, scratching his tanned face, covered in ritual scars, with long nails] Now Klumk go hunt! But Elder know that Klumk smart, she send Klumk to outsiders - exchange prey on things. Klumk keep everything here [he taps his forehead with finger]. Big Ursa hide - five times two knives or one sack of corn, wolf fangs - strong water one bottle... But outsiders not like Klumk offering them beautiful skin once. Nice, with pictures on it! Klumk peel it off an outsider by himself, ate him later! You are so strange, outsiders...}
+{111}{013}{Why do you wear all this trinkets?}
+{112}{014}{I'm going to peel the skin off you, deadmeat! Time to pay the piper! }
+{113}{999}{Yes, we are. Bye, businessman.}
+{1102}{}{[He meaningfully nods, scratching his tanned face, covered in ritual scars, with long nails] Now Klumk go hunt! But Elder know that Klumk smart, she send Klumk to outsiders - exchange prey on things. Klumk keep everything here [he taps his forehead with finger]. Big Ursa hide - five times two knives or one sack of corn, wolf fangs - strong water one bottle... But outsiders not like Klumk offering them beautiful skin once. Nice, with pictures on it! Klumk peel it off an outsider by himself, ate him later! You are so strange, outsiders... [He winces and hastly corrects himself] Klumk did not want to call you outsider! You with us now. Klumk remember!}
+{114}{013}{Don't trouble yourself. Better tell me, Why do you wear all this trinkets?}
+{115}{999}{Yes, you remember that. Bye, businessman.}
 
 
-{120}{}{Наше племя -великое! Старейшина так и сказать. Мы ходить охотиться! Мы убивать и дикий зверь, и любой чужак! А Кхала потом готовить это вкусно-вкусно! Но Клумк бояться Кхала, она его ругать постоянно... }
-{121}{011}{А что насчет тебя, Клумк?}
-{122}{999}{Вот значит как. Ну ладно, отдыхай, а мне пора.}
+{120}{}{Our tribe - great! Elder said so. We go hunt! We kill any wild beast, any outsider! And Khala cook it very tasty after! But Klumk afraid Khala, she yell at him all the time...}
+{121}{011}{What about you, Klumk?}
+{122}{999}{So that's how it is. Well, get some rest, I need to go,}
 
 
-{130}{}{[Изумленно смотрит на вас] Это же КРУТО! Мне так один чужак и сказать. Я у него постоянно часть своя добыча менять. А еще он научить меня писать мой имя! [Показывает на ошейник] Это я сам сделать! Только ты не говорить Старейшина, она и так на меня кричать. И еще... [Мнется, теребя болтающиеся на броне гильзы, но все же продолжает] Мне Птуна нравиться. Это я для нее покупать-цеплять. }
-{131}{012}{А про племя что скажешь?}
-{132}{014}{Как же вы меня достали... Сейчас, настреляю я тебе гильз! Только не забудь потом из башки пули повыковыривать!}
-{133}{999}{Моя пора... Тьфу ты! Пора мне, в общем.}
+{130}{}{[He gives you a bewildered look] Beacuse it's COOL! That's what one outsider tell me. I exchange my prey with him all the time. And he teach me to write my name! [he points on his collar] This I did myself! You no talk this to Elder, she yell at me all the time already. And... [he staggers, nervously strumming shells on his armor, but still continues] I like Ptuna. This I buy and wear for her. }
+{131}{012}{What can you say about the tribe?}
+{132}{014}{I'm so sickened by all of you... I'm gonna give you some shells! Don't forget to pull bullets from your head later!}
+{133}{999}{Me go... I mean, I need to go.}
 
 
-{140}{}{[Он расправляет плечи, тихо рыча. Мышцы вздулись так, что броня, кажется, вот-вот порвется. Клумк напоминает взбешенного лаваша, кольцо в носу лишь подчеркивает сходство] Ты угрожать мне, чужак? Я тебя убить! При всей племя! Я просить Старейшина, чтоб она разрешить мне поединок и съесть потом твоя печень! Никакой оружия, только наш руки и зубы!}
-{141}{999}{Да без проблем! Я всегда готов размяться! Собирай народ!}
-{142}{999}{Я тебе хребет переломаю и оставлю подыхать в луже крови, пес! И пусть это увидят все!}
-{143}{998}{Мне не нравятся публичные события... Разделаю-ка я тебя прямо сейчас!}
+{140}{}{[He straightens his shouders wit a quiet howling. His muscles pop out so hard that it looks like the armor whould tear it any minute. Klumk looks like rabid lavash, ring in his nose only emphasizes the similarity.] You threaten me, outsider? I kill you, in front of all tribe! I ask Elder to let me duel and eat your kindney after! No weapon, only fists and teeth!}
+{141}{999}{No problem! I'm always ready for a good warm up! Gather them!}
+{142}{999}{I'll break your spine and leave you die in the pool of your own blood, you mutt! Let everyone see this!}
+{143}{998}{I don't like being public... I'm going to dismember you right now!}
 
 
-{150}{}{[Клумк скинул свою броню и разрисовал тело кровавой грязью с  местной "кухни". Он неторопливо подходит к вам и пригибается так, что его лицо нависает над вами] Чужак готов умирать? Клумк уже голоден!}
-{151}{016}{[Рвануть его за кольцо в носу]}
-{152}{017}{[Вспомнить, что вы мастер и ударить его "тигриной лапой"]}
-{153}{998}{Сейчас свои зубы проглотишь! Молись своим духам, дикарь! }
-{154}{998}{Хватить трепаться. Поехали!}
+{150}{}{[Klumk sheds his armor, grabbing some dirt from the ground and making straight line from shoulder to hip. He starts to slowly approach you, crouching, but still, his face looms over you] Outsider ready to die? Klumk hungry already!}
+{151}{016}{[rip out the ring from his nose]}
+{152}{017}{[remember your martial arts training and punch him with "tiger claw"]}
+{153}{998}{You are going to swallow your teeth, savage! Pray to your spirits! }
+{154}{998}{Enough talk. Let's go!}
 
 
-{160}{}{[Мощный рывок - и кольцо у вас в руках. Клумк с разорванными ноздрями с ревом отшатывается, мотая головой]}
-{161}{998}{Эй! Лови, я тут кое-что нашел! [Кинуть ему кольцо и приготовиться к бою]}
+{160}{}{[A strong and sudden pull - and you have the ring. Klumk, furiously roaring, takes a step back, holding on his teared nostrils and shaking his head]}
+{161}{998}{Look what I found! Catch! [throw him the ring and prepare to fight]}
 
 
-{170}{}{[Ваши стальные пальцы распарывают ему лицо, левый глаз стекает по щеке оглушенного болью дикаря, упавшего на колени. Он слепо отмахивается от вас и, пошатываясь выпрямляется, вопя что-то неразборчивое]}
-{171}{998}{Поднимайся, мы только начали.}
+{170}{}{[Your steel fingers slice through his face. His left eye flows down the cheek, he falls on his knees, howling in pain, stunned, blindly flailing hands around. Then he slowly tries to stand up, shaking, yelling something illegible]}
+{171}{998}{Come on, get up. It's only the beginning.}
 
-{172}{}{Я не хотеть гибнуть вот так!}
+{172}{}{I do not want die like that!}
