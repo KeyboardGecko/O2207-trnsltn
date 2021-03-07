@@ -51,7 +51,7 @@ f##############################
 
 {110}{}{[she gives you a surprised look] How it would be better for everybody, if no one eats anyone? You are trying to make a joke on Khala! [She hisses through teeth, stroking the handle of a huge butcher knife] Khala doesn't like jokes. Khala likes meat...}
 {111}{031}{Slow down, you wacko. Or I'm gonna find a way to make you slow down. }
-{112}{014}{Alright, let's hastly change the subject. For example, tell me, what do you do here.}
+{112}{014}{Alright, let's quickly change the subject. For example, tell me, what do you do here.}
 {113}{999}{Oh damn, I've just remembered I have some places to be. See you around, foodie.}
 
 
@@ -100,7 +100,7 @@ f##############################
 {173}{999}{I need some time to wrap my head around it. See you later, don't walk me out, I know the way.}
 
 
-{180}{}{[Khala hastly puts her hand behind and snarls at you, squinting her eyes] Why do you care about Khala's arm? Why do you ask this question?}
+{180}{}{[Khala hastily puts her hand behind and snarls at you, squinting her eyes] Why do you care about Khala's arm? Why do you ask this question?}
 {181}{019}{Why so nervous? I just wanted to assess the damages and maybe do a little helping healing.}
 {182}{999}{Just saying. Well, I'd better come back later, when you calm down.}
 

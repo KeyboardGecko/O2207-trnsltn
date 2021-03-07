@@ -39,7 +39,7 @@
 {111}{013}{Why do you wear all this trinkets?}
 {112}{014}{I'm going to peel the skin off you, deadmeat! Time to pay the piper! }
 {113}{999}{Yes, we are. Bye, businessman.}
-{1102}{}{[He meaningfully nods, scratching his tanned face, covered in ritual scars, with long nails] Now Klumk go hunt! But Elder know that Klumk smart, she send Klumk to outsiders - exchange prey on things. Klumk keep everything here [he taps his forehead with finger]. Big Ursa hide - five times two knives or one sack of corn, wolf fangs - strong water one bottle... But outsiders not like Klumk offering them beautiful skin once. Nice, with pictures on it! Klumk peel it off an outsider by himself, ate him later! You are so strange, outsiders... [He winces and hastly corrects himself] Klumk did not want to call you outsider! You with us now. Klumk remember!}
+{1102}{}{[He meaningfully nods, scratching his tanned face, covered in ritual scars, with long nails] Now Klumk go hunt! But Elder know that Klumk smart, she send Klumk to outsiders - exchange prey on things. Klumk keep everything here [he taps his forehead with finger]. Big Ursa hide - five times two knives or one sack of corn, wolf fangs - strong water one bottle... But outsiders not like Klumk offering them beautiful skin once. Nice, with pictures on it! Klumk peel it off an outsider by himself, ate him later! You are so strange, outsiders... [He winces and hastily corrects himself] Klumk did not want to call you outsider! You with us now. Klumk remember!}
 {114}{013}{Don't trouble yourself. Better tell me, Why do you wear all this trinkets?}
 {115}{999}{Yes, you remember that. Bye, businessman.}
 

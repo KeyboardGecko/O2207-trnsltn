@@ -159,7 +159,7 @@
 {275}{999}{You know, I've just remembered something! I need to run. Find you later, 'kay?}
 
 
-{280}{}{A Hog's man? Another bitch running to this pig? Fucking assholes!! [He grabs for the gun with rabid look, but almost immediately comes to senses] Sure or not, I need to check on it. Right fucking now!! [he turns around and hastly walks away]}
+{280}{}{A Hog's man? Another bitch running to this pig? Fucking assholes!! [He grabs for the gun with rabid look, but almost immediately comes to senses] Sure or not, I need to check on it. Right fucking now!! [he turns around and hastily walks away]}
 {281}{999}{Good luck! And you're welcome.}
 
 
