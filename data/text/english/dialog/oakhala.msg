@@ -11,7 +11,7 @@ f##############################
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see а savage woman, wearing a blood-stained apron.}
+{1}{}{You see a tanned savage woman. She is wearing a blood-stained apron.}
 {2}{}{She looks at you like a food critic looks at sophisticated dish.}
 #
 # после знакомства
@@ -41,7 +41,7 @@ f##############################
 {108}{027}{Calm down! I've returned to help you.}
 {109}{999}{Wait for a little longer, soon it'll be dealt with.}
 {1010}{031}{This pain is nothing, compared to what you are going to suffer, you crazy animal! It's time to put you down!}
-{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but seeing you she hides it into one of pockets on her dirty apron. It became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
+{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but upon seeing you she hides it into one of pockets on her dirty apron. It became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
 {1011}{013}{Excuse me for interrupting your make-up, but could you tell me about this Unfed one?}
 {1012}{012}{You are still calling me an outsider?}
 {1013}{031}{How are you feeling, Khala?}

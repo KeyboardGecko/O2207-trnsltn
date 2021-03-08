@@ -316,11 +316,11 @@
 {340}{}{This is it, your first fight in the Arena! You need to make best use of your skills in melee combat and win!}
 {341}{}{The room turned out to be a real hangout, with alcohol, blackjack and whores! The drunken men tap out a melody with their feet and fists, setting the rhythm to the dancers.}
 {342}{}{The long corridor seems to end in darkness. You're willing to bet that it's been a long time since someone has set foot here.}
-{343}{}{At the entrance to the cave you see bored guards. Probably, they stand there because they are guarding the cave's entrance.}
+{343}{}{At the entrance to the cave you see bored guards. Probably, they stand there because they are guarding that cave's entrance.}
 {344}{}{In a small passageway ahead, you see a couple of burly savages, waving at you.}
-{345}{}{It looks like the settlement is securely sheltered from all sides. You would feel quite at home if it weren't for that sweet taste in the air...}
-{346}{}{In the pitch darkness of the cave you can't see nothing. You can only hear sounds. And the sounds you hear don't promise a pleasant stroll.}
-{347}{}{Surprisingly, a huge mansion is hidden between the cliffs! Surely, its former owner must have been very rich - and not very hospitable.}
+{345}{}{Looks like the settlement is securely sheltered from every direction. You would feel quite at home - if it weren't for that sweet taste in the air...}
+{346}{}{In the pitch darkness of the cave you can't see anything. You can only hear sounds. And the sounds you hear don't promise a pleasant stroll.}
+{347}{}{To your surprise, you stumble upon a huge mansion hidden between the cliffs! Surely, its former owner must have been very rich - and not very hospitable.}
 {348}{}{In the middle of the wasteland stands a lonely shabby hut. A very, very suspicious hut.}
 {349}{}{Almost falling off the last step, you find yourself in a stuffy room, soaked through with sweat and alcohol.}
 {350}{}{In front of you is the main entrance of a fairly large factory, very similar to the NWO. However, all plants are on the same facade.}

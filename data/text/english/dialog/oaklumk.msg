@@ -11,7 +11,7 @@
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
 # äî çíàêîìñòâà
-{1}{}{You see a muscular savage.}
+{1}{}{You see a huge muscular savage.}
 {2}{}{His look is quite unusual for this place - look at his armor, for example.}
 #
 # ïîñëå çíàêîìñòâà
@@ -20,7 +20,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[Battered leather armor, definitely smaller in size than it should be, barely covers his wide chest. On top of it there's a wide spiked collar, decorated with crooked letters, spelling out "Klumk". The armor itself is covered with all kinds of badges, bottlecaps and bullet shells of different caliber. The gem of collection is definitely that "DO NOT ENTER" road sign on his back, covered in bullet holes] What outsider want from Klumk? Klumk make no trade now!}
+{10}{}{[Battered leather armor, definitely smaller in size than it should be, barely covers his wide chest. On top of it there's a wide spiked collar, decorated with crooked letters, spelling out "Klumk". The armor itself is covered with all kinds of badges, bottlecaps and shells of different caliber. The gem of collection is definitely that "DO NOT ENTER" road sign on his back, covered in bullet holes] What outsider want from Klumk? Klumk make no trade now!}
 {11}{011}{Hey, Klumk. So, you are not interested in fire water and beads?}
 {12}{012}{I just want to ask some questions about your tribe. }
 {13}{999}{Talk later then.}

@@ -45,7 +45,7 @@
 {115}{999}{I will be glad to talk to you, but later, okay?}
 
 
-{120}{}{[Ptuna smiles] Elder, my mother... She is a wise woman. She is able to communicate with spirits and see into souls of people. Don't try to lie to her, if she call upon you.}
+{120}{}{[Ptuna smiles] Elder, my mother... She is a wise woman. She is able to communicate with spirits and see into souls of people. Don't try to lie to her, if she calls upon you.}
 {121}{011}{Didn't even think about it. Another question?}
 {122}{999}{Thanks, I'll remember that. See you around, Ptuna.}
 
@@ -68,13 +68,13 @@
 {147}{011}{Yes, it was a good fight... But let's talk about something else.}
 {148}{999}{He stood in my way, that's it. Was nice seeing you, but I have to go.}
 
-{150}{}{[Ptuna makes a long pause] He was one of us... I loved him, and he loved me. But Robin was kind of strange - he didn't want to eat the meat of outsiders. And he rejected our spirits! That's why he left... My mother would never let him to speak with tribe about such things. I...[her big eyes fill with tears, but she immediately gets it together] He wanted me to go with him, but... I love my mother too much. Why, why didn't he eat this meat?! It is the same as any other!! [you notice dried bloody stains on her poncho and remind yourself about who are you dealing with]}
+{150}{}{[Ptuna makes a long pause] He was one of us... I loved him, and he loved me. But Robin was kind of strange - he didn't want to eat the meat of outsiders. And he rejected our spirits! That's why he left... My mother would never let him to speak with tribe about such things. I... [her big eyes become filled with tears, but she immediately gets it together] He wanted me to go with him, but... I love my mother too much. Why, why didn't he eat this meat?! It is the same as any other!! [you notice dried bloody stains on her poncho and remind yourself about who are you dealing with]}
 {151}{016}{You know, I met Robin. Do you want me to tell him something, if I get the chance?}
 {152}{011}{Yeah, a lot of things happen in life. Maybe let's change the subject?}
 {153}{999}{Sorry, didn't want to make you sad. It's time to take a break.}
 
 
-{160}{}{[There’s not even a hint of emotion left in her voice] No. You can’t swim against the current in a river of time. You won't bring back the past.}
+{160}{}{[There's not even a hint of emotion left in her voice] No. You can't swim against the current in a river of time. The past cannot be brought back.}
 {161}{011}{As you say. Another question then...}
 {162}{999}{Suit yourself. Okay, I won't be bothering you anymore.}
 

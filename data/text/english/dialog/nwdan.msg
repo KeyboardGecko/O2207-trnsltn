@@ -77,7 +77,7 @@
 
 {160}{}{[He clears his throat and starts to eloquently speak] In my humble opinion, now is the best time to organize massive attack on all fronts. People are ready for changes and full of enthusiasm. I could develop a project plan for occupying new territories, I already have something in the works...}
 {161}{017}{Sure! Enough of tolerating the expansion of Jackals and Rainbow! It's time to impose in Radius our law... Steel law!}
-{162}{999}{That's for me to decide, which way to go. Your duty is to follow orders. Remember that and don’t take too much upon yourself. Take care, Dan.}
+{162}{999}{That's for me to decide, which way to go. Your duty is to follow orders. Remember that and don't take too much upon yourself. Take care, Dan.}
 
 
 {170}{}{[Dan pulls out an armband from his pocket, depicting mechanical hand, holding the skull in tight grip. He puts it on your shoulder] I knew this day would come. Me and my son will immediately take action in the name of "Steel law". I will persuade those who have doubts and punish all renegades... You'll see, soon everyone around here will join us in our crusade to Rainbow and Olympus! }

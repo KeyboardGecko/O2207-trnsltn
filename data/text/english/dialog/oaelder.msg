@@ -11,174 +11,174 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Пожилая аборигенка.}
-{2}{}{Судя по пристальному взгляду, старость наложила отпечаток на ее тело, но не разум.}
+{1}{}{Yoe see an elderly savage lady.}
+{2}{}{Judging by her crystal stare, old age put its marks on her body, but not mind.}
 #
 # после знакомства
-{3}{}{Вы видите: Старейшина.}
-{4}{}{Глава племени и шаман Оазиса.}
+{3}{}{You see Elder.}
+{4}{}{The head of this tribe and shaman of Oasis.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Ее одеяние состоит из грубовыделанных шкур, стянутых кожаными ремнями. На морщинистое лицо падает тень от странной конструкции на голове: цветные провода крепят разномастные печатные платы с деталями, антенны и увядшие пучки ароматных трав. Завершает образ детский череп, болтающийся на тонкой шее на волосяной веревке.] Ты... Сумрачный Аспид видит тебя! [Чуть подвывает на каждом слове, растягивая гласные] Не пытайся обмануть Старейшину, ибо сам Аспид смотрит ее глазами!}
-{11}{012}{Что? Какой, к хренам, Аспид?}
-{12}{012}{У тебя приступ шизофрении? О чем ты, вообще?}
-{13}{011}{Старейшина? Значит, ты тут за главного?}
-{14}{017}{У вас тут песчаный волк не пробегал?}
-{15}{999}{Нет, для бесед в таком ключе я пока не готов. Пойду-ка я, пожалуй.}
+{10}{}{[Her clothes are made of hides and pelts banded with leather straps. Her wrinkly face is shadowed by a strange, crown-like construction, mounted on her head: colored wires hold together different circuit boards, plates, antennas and and withered buns of fragrant herbs. The image is completed by a skull of a child, dangling on a braided string, which is wrapped around her slender neck] You... The Twilight Viper sees you! [she howls a little on every word, stretching the vowels] Don't try to lie to the Elder, for Viper himself is looking through her eyes!}
+{11}{012}{What the hell? Who? Viper?}
+{12}{012}{Are you having a stroke? What are you talking about?}
+{13}{011}{Elder? That means you are in charge here, right?}
+{14}{017}{Did you see a sand wolf running by?}
+{15}{999}{No, I'm not ready for this kind of talk. I'd better go.}
 
 
-{1001}{}{[Перебирает костяные четки, что-то бормоча себе под нос] ...И пусть двуногая добыча не избегнет рук детей Сумрачного Аспида... [Бросает на вас злобный взгляд] А тебе что нужно, чужак? [Разумеется, с уже привычными вам подвываниями] Не мешай Старейшине возносить молитвы...}
-{101}{012}{Да что это за Аспид такой, все-таки?}
-{102}{011}{У меня к тебе пара вопросов, Старейшина.}
-{103}{017}{У вас тут песчаный волк не пробегал?}
-{104}{999}{Ок, не буду мешать. Еще увидимся.}
-{1002}{}{[Поправляет череп на шее и мрачно кивает вам] Ну, чего пришел? Если ты решил, что стал частью племени и можешь надоедать мне целыми днями, то это нет так, Аспид тебя задери! Поди, займись чем-нибудь полезным, коротыш! [Ну теперь, хотя бы, она стала нормально говорить]}
-{105}{012}{Теперь-то объяснишь мне все насчет ваших богов? Или духов предков? Уж не знаю, как правильно.}
-{106}{011}{Вот только задам тебе пару вопросов.}
-{107}{017}{У вас тут песчаный волк не пробегал?}
-{108}{999}{Ладно-ладно, не злись ты так. Еще увидимся.}
+{1001}{}{[Elder cycles through a set of bone beads, quietly mumbling something] ...May the two-legged prey not escape the hands of Twilight Viper's children... [gives you a mean look] What do you need, outsider? [she starts to howl on wovels again] You are bothering Elder's praying...}
+{101}{012}{Who is this Viper you mentioned?}
+{102}{011}{I have a couple of questions for you, Elder.}
+{103}{017}{Did you see a sand wolf running by?}
+{104}{999}{Okay, won't be interrupting you anymore. See you later.}
+{1002}{}{[She grabs the skull on her neck and grimly nods] You came again. Why? If you think that being part of the tribe gives you the right to bother me all day long, you are wrong, may Viper rip your throat! Go do something useful, little man! [at least now she talks without howling]}
+{105}{012}{Now, can you explain me the details about your gods? Or spirits, I don't know how to call it.}
+{106}{011}{I'm only going to ask a couple of questions.}
+{107}{017}{Did you see a sand wolf running by?}
+{108}{999}{Okay, don't be mad. See you later.}
 
 
-{1101}{}{[Поправляет головной убор так, что пара антенн оказывается нацеленной на вас] Трать мое время осторожно, чужак! Сумрачный Аспид не любит, когда его шамана отвлекают от грез! Одна ошибка - и ты попадешь к нам на стол раньше срока! [Завершает тираду совсем уж волчьим воем]}
-{111}{014}{Вот как раз насчет вашей мясной диеты. Я  так понял, что жрать людей для вас в порядке вещей. Верно?}
-{112}{013}{Так ты еще и шаман по совместительству? }
-{113}{015}{Твои люди не выпускают меня из долины! Это может стать проблемой...}
-{114}{021}{Я не испытываю особого почтения к старикам. Будешь угрожать мне - жевать тебе станет нечем. }
-{115}{016}{Можешь рассказать мне про свое племя?}
-{116}{013}{Ха! Ты с этими антеннами что, связь с духами предков налаживаешь?}
-{117}{999}{Все-все! Уже ушел...}
-{1102}{}{[Задумчиво переводит взгляд с ритуальной дубинки на поясе на вашу голову и обратно] Хорошо, спрашивай. Может, дашь мне повод выдернуть тебе язык...}
-{118}{014}{У вас это, наверное, деликатес. А вообще, вам здесь так уж обязательно жрать людей? Только давай без этого духовного бреда.}
-{119}{013}{Зачем ты изображаешь из себя шамана? Тебе почета мало, что ли?}
-{1110}{021}{Я не испытываю особого почтения к старикам. Будешь грубить МНЕ - под угрозой окажется ТВОЙ язык. }
-{1111}{016}{Можешь рассказать мне про свое племя? Нормальным тоном?}
-{1112}{999}{Хотя мне уже пора идти. Поговорим позже.}
+{1101}{}{[She adjusts her headgear, so the couple of antennas now point straight at you] Spend my time wisely, outsider! Twilight Viper doesn't like when his shaman is distracted from prayings! One mistake, and you are being served to our table before due! [as she finishes her speech, her words sound almost as wolf-like howling]}
+{111}{014}{Yeah, about your protein diet. Am I getting this right that eating people is an OK for you?}
+{112}{013}{So, you are also the shaman, right? }
+{113}{015}{Your tribesmen won't let me leave this place! It could be a problem...}
+{114}{021}{I don't really respect elders, so if you threaten me - I'll make it harder for you to chew. }
+{115}{016}{Can you tell me about your tribe?}
+{116}{013}{Ha! You are communicating with spirits using this antennas?}
+{117}{999}{Okay! I'm leaving...}
+{1102}{}{[She thoughtfully moves her look from a ritual club on her belt to your head, and then back to a club] Very well. Ask. Maybe you'll give me the reason to rip your tongue out...}
+{118}{014}{I suppose it's a delicate dish for you here. I mean, is it really necessary? But don't give me this "spirits and stuff" bullshit.}
+{119}{013}{Why do you play the part of a shaman? Don't you get enough respect?}
+{1110}{021}{I don't really respect elders, so if YOU threaten ME - you are risking YOUR tongue. }
+{1111}{016}{Can you tell me about your tribe? In normal voice?}
+{1112}{999}{Although, I need to go. See you later.}
 
 
-{1201}{}{[Начинает медленно кружиться на месте, притоптывая и подвывая] ...И когда очищающее пламя прошло по земле, Сумрачный Аспид воздвиг эти горы, дабы уберечь своих детей! [Далее следует тарабарщина на неизвестном вам языке. Возможно, какая-то молитва?] Он напитал скалы своей мощью, которая год за годом изливалась на нас! И возвысились мы над остальными и ростом, и силою! И с тех пор следит он за нашим племенем через очи своего шамана и вещает его устами... Славен он и велик!}
-{121}{021}{Да че за херня? Можешь своим переросткам в уши ссать, а со мной такое не прокатит!}
-{122}{999}{Очень... интересно. Благодарю за исчерпывающий ответ.}
-{1202}{}{[Закидывает в рот какие-то корешки и начинает неторопливо пережевывать] Полезно для зубов, попробуй как-нибудь... Ммм... Если скажу - оставишь меня в покое? Ладно... Племя должно знать, что кто-то большой присматривает за ними. И людям надо верить, что их дела найдут оправдание у высших сил. Наши духи ничем не хуже других. Вот и все. И потом, это место... странное. Мудреные штуки чужаков, с которыми можно говорить друг с другом на расстоянии нескольких переходов, тут не работают, а наши тела наливаются неведомой силой... Здесь очень легко поверить во что угодно. Временами я и сама... [Замолкает, о чем-то задумываясь]   }
-{123}{021}{Да ты никак больная, раз выбрала для них таких убогих божков! Пора прекращать этот балаган!}
-{124}{999}{Опиум для народа, а? Ладно, как и обещал - я покидаю тебя.}
+{1201}{}{[She starts to slowly spin around, howling and tapping foot] ...And when the cleansing flame came roaming earth, Twilight Viper created these mountains to keep all of his children safe! [she then proceeds with some gibberish on a language unknown to you. Some kind of a prayer?] He filled this cliffs with his might, which had been pouring on us year after year! And we rose above all others in height and strength! Now he watches over his tribe through the eyes of his shaman and talks through her mouth... May the Viper be great and praised!}
+{121}{021}{The hell? You can piss into the ears of your overgrown kin as much as you want, but it won't work with me!}
+{122}{999}{Very... Interesting. Thanks for the answer.}
+{1202}{}{[She puts some herbs into her mouth and starts to slowly chew] Good for your teeth, you should try it... Mmm... If I tell you, would you leave me alone? Okay... The tribe should know that someone big is watching over them. And people need to believe that their deeds will be justified by higher authorities. Our spirits are not worse than any others, that's it. And besides, this place, it's... Strange. This thingies that outsiders used to talk to each other from a distance, are of no use here, but our bodies receive this unknown strength... So it's easy to believe anything you want. Sometimes even I myself... [she pauses, thinking about something] }
+{123}{021}{You are really sick in the head, worshiping such stupid things! It's time to stop this charade!}
+{124}{999}{Opiate of the masses, huh? Okay, I'm leaving you alone, just as I promised.}
 
 
-{1301}{}{Когда Старейшина выбирает себе преемницу, она возлагает на нее этот священный убор, через который с ней говорят наши духи! Ибо не всегда жалкий ум человека способен найти ответ на любой вопрос! Старейшина должна быть и шаманом, дабы ничто не укрылось в тенях незнания!}
-{131}{011}{Тогда еще вопрос.}
-{132}{022}{Так старейшиной может стать только женщина?}
-{133}{999}{Понятно... У меня пока все. Увидимся.}
-{1302}{}{[Чешет крючковатый нос рукоятью резной дубинки] Одно дело, когда что-то бормочет старуха-старейшина, и совсем другое - если через нее к тебе обращается могучий дух. Это знание со временем я тоже передам своей преемнице...}
-{134}{011}{Понятно. Еще вопрос...}
-{135}{022}{Преемнице? Старейшиной может стать только женщина?}
-{136}{999}{Ясно. Предлагаю пока сделать перерыв.}
+{1301}{}{When Elder chooses a successor, she bestows upon her this sacred headdress, through which our spirits talk to us! Because not always the feeble human mind is capable of finding answer to any question! Elder should be a shaman, for nothing to stay hidden in the shadows of unknown!}
+{131}{011}{Another question then.}
+{132}{022}{So only a woman can become Elder?}
+{133}{999}{I see... That's it for now. See you.}
+{1302}{}{[She scratches her crocheted nose with a ritual club's handle] It's one thing when some old woman, even an Elder, mumbles something, and the other - when a mighty spirit is talking through her. This knowledge is something I will eventually pass on to my successor too... }
+{134}{011}{I see. Another question then.}
+{135}{022}{Successor? So only a woman can become Elder?}
+{136}{999}{I see. Let's take a break.}
 
 
-{1401}{}{[Широко улыбается, демонстрируя совсем не старческий набор зубов] Люди - только те, кто с племенем! Остальные - чужаки! Поедать чужаков угодно нашим духам! Тебе тоже будет оказана эта великая честь!}
-{141}{021}{Да идите вы нахер, людоеды гребаные! Посмотрим, что сделают ваши духи, когда я вышибу кое-кому из местных мозги!}
-{142}{011}{Полегче, мы еще не настолько знакомы! Лучше скажи мне вот что...}
-{143}{999}{Спасибо, конечно, но я слишком скромный для таких почестей. Да и мне уже пора.}
-{1402}{}{[Широко улыбается, демонстрируя совсем не старческий набор зубов] Двуногую добычу проще убить. Те, кто за горами... Даже со своим оружием они не столь опасны, как дикие звери, которых, кстати, становится все меньше... А есть нашим могучим воинам надо много! Как еще их прокормить, если не заставить жрать всех подряд? }
-{144}{021}{Я намного опаснее любой твари Радиуса. И сейчас я тебе это докажу. Пришло время охотникам стать добычей!}
-{145}{011}{По крайней мере, честно. У меня есть еще вопросы...}
-{146}{999}{Понятно. Мне надо это обдумать...}
+{1401}{}{[She widely smiles, showing a set of teeth definitely not like one of an old person] People are only those of the tribe! The rest are outsiders! Eating outsiders pleases our holy spirits! You will have this great honor too!}
+{141}{021}{Go fuck yourself, fucking cannibal! Let's see what your spirits are going to do when I blast your brains out! }
+{142}{011}{Easy, we don't know each other this well yet. Better tell me something else...}
+{143}{999}{Thank you, of course, but I'm too humble for such honors. Actually, I've got to go.}
+{1402}{}{[She widely smiles, showing a set of teeth definitely not like one of an old person] Two-legged prey is easier to kill. Those who are beyond the mountains... Even with their weapons, they are still not as dangerous as wild animals - whose numbers, by the way, are diminishing with each year... And our powerful warriors need to eat a lot! How to feed them, if not forcing to eat everything there is? }
+{144}{021}{I'm a lot more dangerous than any creature of the Radius. And I'm going to prove it right now. Today the hunter becomes the prey!}
+{145}{011}{At least it sounds honest. I have other questions.}
+{146}{999}{I see. I need to think about it...}
 
 
-{150}{}{[Она, вроде бы, продолжает монотонно вещать в окружающее пространство, но вы слышите в ее голосе отчетливые злорадные нотки] Каждый может попасть в дом детей Сумрачного Аспида, но не каждый может его покинуть! Но я помогу тебе, освободив твой дух во время ритуала на Красном Поле! Лишь плоть останется с нами, а ты будешь волен лететь, куда захочешь... }
-{151}{023}{Заманчивое предложение. Но я бы хотел покинуть это место в полной комплектации.}
-{152}{023}{Тебе лучше придумать другой вариант, пока никто серьезно не пострадал...}
-{153}{021}{Я сам освобожу вас от бренной плоти, твари!  И начну с тебя, старая сука!}
-{154}{999}{Пожалуй, мне стоит подумать над альтернативными вариантами...}
+{150}{}{[She seems to speak with a monotonous tone, but you definitely hear sinister notes in her voice] Everyone can enter into the house of Twilight Viper, but not everyone can leave! But I will help you - by releasing your spirit on a Red Field after a ritual! Only your flesh will stay here, but you would be free to fly away wherever you like... }
+{151}{023}{Sounds tempting. But I'd like to leave this place in full package.}
+{152}{023}{You'd better come up with another option, while someone did't get hurt...}
+{153}{021}{That's me who is going to free you from your flesh, you animals! Starting from you, old bitch!!}
+{154}{999}{I'd like to think about the alternatives...}
 
 
-{1601}{}{Чужаку не понять детей Сумрачного Аспида! Но... Спрашивай, у тебя есть такое право перед Последней Трапезой... Для тебя последней...}
-{161}{018}{У вас тут есть кто-то, понимающий толк в лечении?}
-{162}{019}{А у тебя семья-то есть нормальная? Я просто обязан спросить.}
-{163}{020}{Чем промышляет твое племя?}
-{164}{011}{К другим вопросам...}
-{1602}{}{[Вздыхает] Ну почему ты не проиграл Клумку? Эх... Спрашивай, коротыш.}
-{165}{018}{Тут есть кто-то, понимающий толк в лечении?}
-{166}{020}{А у тебя семья-то есть нормальная? Я просто обязан спросить.}
-{167}{020}{Чем промышляет твое...наше племя?}
-{168}{011}{К другим вопросам...}
+{1601}{}{Outsider can never comprehend the thoughts of Twilight Viper's children! But ask, you have that right before the Last Supper... Last for you. }
+{161}{018}{Do you have someone around here who knows healing?}
+{162}{019}{I just need to know - do you have a normal family?}
+{163}{020}{What does your tribe do?}
+{164}{011}{To other questions...}
+{1602}{}{[Sighs] Why didn't you lose to Klumk... Ask, little man.}
+{165}{018}{Do you have someone around here who knows healing?}
+{166}{020}{I just need to know - do you have a normal family?}
+{167}{020}{What does your... Our tribe do?}
+{168}{011}{To other questions...}
 
 
-{170}{}{[Поправляет сползающую с плеча шкуру] Это обиталище блох наконец-то сбежало? Хорошая весть! Иначе я бы сама содрала с него шкуру...}
-{171}{021}{А, может, ты так и поступила? В глаза смотреть! Отвечай, старуха, пока твоя шкура еще при тебе! }
-{172}{999}{Полагаю, это значит нет... Ладно, продолжу поиски в другом месте.}
+{170}{}{[She pulls up a hide on her shoulder] This abode of fleas has finaly ran off? Good news! Or I would have skinned him myself eventually...}
+{171}{021}{Maybe that's what you actually did? Tell me, old hag, while you still has YOUR skin on yourself!  }
+{172}{999}{I suppose this means no... Well, I'll continue my search elsewhere.}
 
 
-{1801}{}{[Почему-то мрачнеет при этом вопросе] Кхала, наша знахарка, сведуща в лечении и готовке. Она  ревностно относится к своим обязанностям. Даже слишком... Ты сам скоро с ней познакомишься.}
-{181}{011}{Загляну к ней при случае. Еще вопрос...}
-{182}{999}{Это все, что мне нужно. Всего хорошего.}
-{1802}{}{[Хочет казаться печальной, но ее губы невольно растягиваются в улыбке] Кхала, наша знахарка, была сведуща в лечении и готовке... Какая потеря для нас! Теперь эта сук...ммм... достойная дочь племени уже радует наших духов своими рассказами о верном служении!}
-{183}{011}{Разделяю вашу скорбь. Тогда вернемся к другим вопросам...}
-{184}{999}{Ну, все там будем. А мне уже пора.}
-{1803}{}{[Морщится, будто прикусив неспелое яблоко] Кхала... Она наш повар и знахарь. Если бы ей так сильно не нравилось лить кровь... Причем неважно, чью. Но воины относятся к ней с почтением, так что приходиться мириться с ее привычками. Ну и готовит она вкусно, этого не отнять. Ляжки чужаков с гарниром из мозгов! Ммм...[Причмокивает губами]}
-{185}{011}{Загляну к ней при случае. Еще вопрос...}
-{186}{999}{Мне аж есть захотелось. Ну я пойду тогда, перекушу чего-нибудь.}
-{1804}{}{[Хмыкает] Да, была одна... Кхала. Но наши духи сделали мне подарок и забрали ее к себе. Туда ей и дорога.}
-{187}{011}{Разделяю твою неподдельную скорбь. Тогда вернемся к другим вопросам...}
-{188}{999}{Ну, все там будем. А мне уже пора.}
+{1801}{}{[Her face darkens] Khala, our healer, can treat wounds. She also cooks, and she is very protective about her duties. Too much even... You'll meet her soon.}
+{181}{011}{Yes, I'll come by her, if I get the chance...}
+{182}{999}{That's all I needed. All the best.}
+{1802}{}{[She tries to look sad, but can't hide her smile] Khala, our healer, could treat wounds and cook... What a huge loss for us! Now this bitch- this worthy daughter of our tribe is making our spirits happy with tales of her devotion!}
+{183}{011}{I share your sorrow. Now, to other questions...}
+{184}{999}{We all will be there eventually. And I've got to go.}
+{1803}{}{[She frowns, like biting a rotten apple] Khala... She is our cook and our healer. If only she doesn't like to shed blood so much... Doesn't matter which... But warriors treat her with respect, so we have to deal with her habits. And, to do her justice, her cooking is very good, I admit that. Outsider's thighs with brains as garnish... Yum...[she slurps]}
+{185}{011}{I'll come by her, if I get the chance. Another question.}
+{186}{999}{I feel hungry already. I'd better go bite on something.}
+{1804}{}{[She grunts] Yes, there was... Khala. But our spirits made a present for me and took her away. That's where she belongs.}
+{187}{011}{I'm truly sorry for your loss. Let's return to other questions......}
+{188}{999}{We all will be there eventually. And I've got to go.}
 
 
-{1901}{}{[Привычная злобная гримаса на какое-то время покидает ее сморщенное лицо] Птуна... Моя дочь когда-нибудь станет достойной Старейшиной. Она еще приведет племя к истинному величию!}
-{191}{011}{Это не может не радовать. Но у меня есть еще вопрос...}
-{192}{999}{Рад за вас. Счастливо оставаться, мне пора.}
-{1902}{}{[Привычная злобная гримаса на какое-то время покидает ее сморщенное лицо] Птуна - это и есть моя семья. Ей пока не достает твердости духа, но когда я уйду на покой, именно она займет мое место. Единственная, кто никогда не подведет меня...  Она всегда любила свою старуху-мать... [Кажется, она даже готова пустить слезу, но тут же берет себя в руки] Все, убирайся прочь! А то память у меня уже не та - могу и забыть, что тебя пока нельзя сожрать! }
-{193}{999}{Все-все, ухожу. Поговорим позже.}
+{1901}{}{[Her vicious wrinkled face becomes calm for a while] Ptuna... Someday my daughter will be a worthy Elder, and bring the tribe to the true prosperity! }
+{191}{011}{This is great. But I have another question...}
+{192}{999}{Good for you. I need to go, see you.}
+{1902}{}{[Her vicious wrinkled face becomes calm for a while] Ptuna is my family. She lacks the spirit for now, but when I retire, she is the one who takes my place. She never failed me... Always loved her old mother... [Looks like you see a tear in her eye, but she immediately becomes firm] That's it, go away! My memory is not as good as before, I can forget that I shouldn't eat you! }
+{193}{999}{Okay, okay, I'm leaving. Talk later.}
 
 
-{2001}{}{Единственное достойное дело для детей Аспида - охота! [В подтверждение своих слов ударом дубинки размазывает по земле обнаглевшую крысу] Ноги наших воинов быстры, а оружие не знает промаха!}
-{201}{011}{Действительно, достойно. А не ответишь мне еще на один вопрос?}
-{202}{999}{Понятно... Ну, у меня пока все.}
-{2002}{}{[Прищуривает выцветшие глаза, словно стараясь заглянуть куда-то за горы] Охотимся, чем тут еще заняться? Эти горы дали нам рост и силу, но еду нам приходиться добывать самим. Возделывать землю тут бесполезно, так что выход у племени был один. А если нам что-то нужно, кроме добычи, то это мы всегда можем выменять у чужаков.}
-{203}{011}{После войны всем пришлось нелегко... Расскажи мне лучше еще кое о чем.}
-{204}{999}{Понятно... Ну, у меня пока все.}
+{2001}{}{The only honorable occupation for Viper's children is the hunt! [Proving her point, she smashes a running by rat with one blow of her club. Blood splatters everywhere] The feet of our warriors are fast, and weapons are sharp and never miss the target!}
+{201}{011}{Definitely honourable. Would you mind answering another question?}
+{202}{999}{I see... Okay, I'm done with questions for now.}
+{2002}{}{[She squints her faded eyes, as if trying to look beyond the mountains] What else to do here? This place has given us the height and strength, but not food. We have to get it by ourselves. To try cultivating this land is pointless, so there's only one option for the tribe. And if we need something that we can't hunt, we can trade it from outsiders.}
+{203}{011}{It must be not easy to live here... Tell me about something else.}
+{204}{999}{I see... Okay, I'm done with questions for now.}
 
 
-{210}{}{[Вы явно разозлили ее. Она медленно пятится, цедя слова сквозь стиснутые зубы] Как же глуп бывает чужак! Как же он торопится попасть к нам в желудки! Он даже не понимает, с кем и как здесь нужно говорить! [Пронзительно визжит так, что у вас закладывает уши] Сюда, воины Аспида! Добыча ждет!}
-{211}{998}{Тебе они помочь не успеют, сука!}
-{212}{998}{Эх, нигде мне не рады...}
+{210}{}{[She is visibly angered. Slowly stepping back, she hisses through clenched teeth] How stupid an outsider can be! How hastily he desires to get into our stomachs! He doesn't understand how to talk properly here, and to whom! [she yells so loud that you become deaf for a moment] Come, Viper's warriors! Prey is here!}
+{211}{998}{They won't be here in time to help you, bitch!}
+{212}{998}{Man, why no one is glad to see me...}
 
 
-{2201}{}{[Вскидывается всем телом, запрокинув лицо к небесам, и произносит нараспев] ...И коль выходят новые воины лишь из лона женщины, то только она и достойна вещать от лица духов во главе племени!}
-{221}{011}{Железная логика... Давай лучше поговорим о чем-нибудь другом.}
-{222}{999}{Да это просто ничем не обоснованный  шовинизм! Жаль, мне надо идти, а то я бы тебе объяснил кое-что...}
-{223}{999}{Вот оно как. Ну ладно, оставлю тебя пока наслаждаться избранностью. Еще увидимся.}
-{2202}{}{[Награждает вас презрительным взглядом] А кого - вас, мужиков, до власти допускать? Было уже - от старого мира камня на камне не оставили... Но на это племя вам свои грязные лапы не наложить!}
-{224}{011}{Не будем развивать эту тему. Давай-ка обсудим кое-что другое...}
-{225}{999}{Да это просто ничем не обоснованный  шовинизм! Жаль, мне надо идти, а то я бы тебе объяснил кое-что...}
-{226}{999}{Нужны вы мне... Ладно, я пошел. Еще увидимся, Старейшина.}
+{2201}{}{[She shakes with her body, raising head to the sky, and starts to speak in a sing-song voice] ...And so the woman's loin is from where the warriors of the tribe come into this world, and so she is the one worthy of speaking the voice of spirits to the tribe!}
+{221}{011}{Makes perfect sense. Let's talk about something else.}
+{222}{999}{It's just an unjustified sexism! Too bad I need to go, or I would explain to you something...}
+{223}{999}{So that's how it is? Okay, I leave you to enjoy your chosenness. See you around.}
+{2202}{}{[She gives you a look of disdain] Who else? Men? Men, put into power... Been there, done that - just look what the old world ended up with. And I won't let that happen to my tribe!}
+{224}{011}{Let's not get into details. Better answer me something else.}
+{225}{999}{It's just an unjustified sexism! Too bad I need to go, or I would explain to you something...}
+{226}{999}{Like I need it...  Okay, I'm going. See you around, Elder.}
 
 
-{230}{}{[Видно, вы уже изрядно ее утомили. Она уже хочет прогнать вас, но тут ее осеняет новая идея] Чужак сможет уйти... Если победит могучего Клумка! Хотя Сумрачный Аспид говорит мне, что такого не может произойти... Но племя сможет убедиться в слабости чужаков пред лицом настоящего воина и насытиться после твоей плотью. Так что, хоть исход и предрешен, я позволю участвовать тебе в поединке! И никакого оружия - только то, чем наделили нас при рождении духи!}
-{231}{024}{Всего-то? Завалить одного из ваших тупых бычар? Ха! Я готов, не вопрос!}
-{232}{024}{Чтож, если другого выхода нет... Начнем?}
-{233}{021}{Так, мне это все надоело. Слушай сюда, падаль морщинистая - быстро скомандовала своим переросткам освободить дорогу! Иначе я просто уйду отсюда по вашим трупам!}
-{234}{999}{Нет, я, все-таки, лучше поищу альтернативные решения. }
+{230}{}{[Looks like she is quite tired of you. Suddenly, she brights up with a new idea] Outsider can leave... If he beats mighty Klumk in battle! Although, Twilight Viper tells me it's impossible... But it's good to show the tribe how weak outsiders are when facing our warriors! And also, they can feast on your flesh afterwards. So, even if an outcome is predefined, I'm offering you to participate in this duel. And no weapons - only what's with you from the moment you were born!}
+{231}{024}{That's it? To put down one of your stupid thugs? Ha! Easy!}
+{232}{024}{Well, if there's no other way... Shall we begin?}
+{233}{021}{Okay, I'm sick of it. Listen here, you wrinkled carcass, now you immediately command your overgrown idiots to clear the passage, or I'm leaving this place anyway, but filled with your corpses!}
+{234}{999}{No, I'd better search for alternative solutions. }
 
 
-{240}{}{[Вы ожидаете в местной "столовой", пока соберутся зрители и прибудет ваш соперник. Вскоре он появляется - голый по пояс и разрисованный грязью. Старейшина начинает тихонько подвывать, постепенно прибавляя громкость] И вот явился могучий Клумк, дабы поломать кости чужака, испить его крови и возложить его плоть на наш стол! Узрите же это и запомните хорошенько, дети мои!}
-{241}{999}{Да-да, понятно. Мы будем начинать?}
-{242}{999}{Черт, надо было прихватить табуретку...}
-{243}{999}{Я урою тебя, мразь! Вырву кишки и ими же удавлю! Подходи поближе! Ну!}
+{240}{}{[You patienty wait in the local "diner" for a crowd of spectators to gather, and for your opponent to arrive. Then he appears - naked from the waist up, body painted with bloody mud. Elder starts to gently howl, making it louder with every minute] Here comes the mighty Klumk, to break the bones of an outsider, to drink his blood, to put his flesh on our table! Observe it carefully, my children!}
+{241}{999}{Yeah, yeah. Shall we start?}
+{242}{999}{I should have brought a chair...}
+{243}{999}{I'm going to bury you, you scum! I'll rip off you entrails and choke you with them! Come on! Come!}
 
 
-{250}{}{[На залитом кровью поле воцаряется тишина. Аборигены неверяще смотрят на поверженного Клумка. Затем взгляды начинают потихоньку смещаться в направлении Старейшины. Надо отдать старушке должное - приходит в себя она быстро] В мудрости своей Сумрачный Аспид решил показать нам, как заканчивают те, кто не следует по его пути! Клумк слишком много общался с чужаками, это ослабило его! И наш покровитель послал нам этого...человека! Он... останется с нами! Будет ходить на охоту с нашими воинами, делить с нами еду и указывать нам на наши слабости! Поприветствуем же его! [Толпа отвечает на это нестройным хором растеряно-одобрительных выкриков. Старейшина же украдкой кивает вам и цедит сквозь зубы: "Соглашайся!"]}
-{251}{026}{А... Ну да, так и есть. Приветствуйте меня. }
-{252}{021}{Что?... Такого уговора не было! Наебать меня решила, сука? Я ухожу! Сейчас же!}
+{250}{}{[The blood-stained field becomes filled with silence. The locals are looking at the defeated Klumk, not capable of believing their eyes. Then their gazes slowly turn to the Elder. She snaps out of it pretty fast, you should admit that] So, in his wisdom, Twilight Viper decided to show us what awaits those who don't follow his path! Klumk spent too many time around outsiders, and that made him weak! And our great spirit have sent us this... Man! And he... Stays with us! He will hunt with our warriors, share the food and show us our weaknesses! Let's greet him! [The crowd responds with an unstructured chorus of confused cheers. Elder nods to you and says only with her lips: "Say yes!"]}
+{251}{026}{Oh... Oh yeah, that's how it is. Sure. Greet me. }
+{252}{021}{What?... That wasn't our deal! You want to fuck me up, bitch? I'm leaving! Right now!}
 
 
-{260}{}{[Аборигены расходятся, забрав с собой Клумка. Вы остаетесь вдвоем со Старейшиной] ...И зачем ты все это затеяла? Совсем из ума выжила? Зрелищ захотелось, скучно ей... [Вы не сразу понимаете, в чем дело, но потом до вас доходит. Она стала говорить...нормально?] Ну и что мне теперь с тобой делать? [Подбоченивается и в упор смотрит на вас]}
-{261}{027}{Стоп. Значит, все это время ты ломала комедию? В общем-то, у меня были подозрения, больно уж правильно ты речь строила... Но все равно - мои аплодисменты.}
-{262}{027}{Ха! А я так и знал, что ты просто мозги сношаешь этим дикарям! Красиво развела их с этой хренью насчет духов!}
+{260}{}{[The crowd of savages spreads up, taking away the Klumk's body. You are left together with Elder again] Why did I do this? Am I out of my mind? Wanted a spectacle, was bored... [You didn't catch it immediately, but then it hits you - she speaks... Normal?] So, what to do with you? [She silently stares]}
+{261}{027}{Wait. So it was all an act? Actually, I suspected that - you've been putting your words into sentences too good... Have my applause.}
+{262}{027}{Ha! I knew you are just fooling this savages! Nice job with this spirits bullshit!}
 
 
-{270}{}{[Снимает свой головной убор и крутит головой с редкими седыми прядями] Как же шея устает от этой штуки... А как иначе вбить в их головы хоть одну здравую мысль? Тут только духи и помогут... И потом, мне и самой иногда кажется, что кто-то смотрит на меня из мрака темными ночами... Ну да ладно. В общем, ты своего добился. Можешь уходить. Но, сам понимаешь, так просто я тебя не могла бы отпустить перед всем племенем. Так что теперь ты один из нас. Кушать не хочешь, кстати? }
-{271}{028}{Благодарю... А ты не боишься, что я открою им правду?}
-{272}{028}{Не, сами человечину жрите. Лучше скажи, че ты мне дашь за молчание?}
+{270}{}{[She takes off her headgear and slowly rotates her head, covered with rare silver locks] Oh, my neck is so tired from this thing... How else would you put even a single good thought into their heads? Only spirits can help. And besides, sometimes even I'm left to wonder that someone watches over me from the darkness of nights... Okay then. You got what you wanted, you can leave. And you should understand why I couldn't let you go just like that, in front of a whole tribe. So, now you are one of us. By the way - are you hungry? }
+{271}{028}{Thanks. Don't you afraid that I tell them the truth?}
+{272}{028}{No, eat human flesh by yourselves. Better tell me, what you'll give me for keeping silence?}
 
 
-{280}{}{Да кто тебе поверит? Я хорошо поработала над моими детьми... Стоит мне сказать только слово - и тебя вмиг разделают, как тушу урсы! Ну все, некогда мне с тобой возиться. [Поворачивается, чтобы уйти, но тут же что-то вспоминает] Ах да! Мне же нужно что-то дать тебе, в знак того, что мы приняли тебя... Каждый мальчик, когда становится мужчиной, получает дар от Аспида... Традиция, что поделать... [Роется где-то в глубине своих шкур] Так... Маракасы из черепов близнецов... Ожерелье из зубов караванщиков... Нет, жалко такие вещи раздавать... А! Вот, держи, все равно здесь картинок нет и ничего непонятно. И оставь меня в покое, коротыш! [Неизвестная рукопись переходит в ваше владение. Старейшина не спеша удаляется]}
-{281}{999}{"Конституция 15-и прав Лайвос"? Как это здесь оказалось?...}
+{280}{}{Who would believe you? I raised my children properly... One word of mine - and they'll rip you apart like a dead ursa! That's it, we're done here. [she turns around to leave, but suddenly remembers something] Oh yeah! I should give you something. The sign of you being one with the tribe. Every boy becomes a man when he is given a gift from Viper. Tradition, you know... [she digs through her hides] Maracas made of twin skulls... A necklace from caravaneer teeth... No, it's too good to give away... Oh! Here, take this. It has no pictures and nothing in it makes sense. Now leave me alone, little man! [You obtained some unknown book. Elder leisurely walks off]}
+{281}{999}{"Constitution of 15 rights"? How the hell this ended up here?..}
