@@ -11,7 +11,7 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{Yoe see an elderly savage lady.}
+{1}{}{You see an elderly savage lady.}
 {2}{}{Judging by her crystal stare, old age put its marks on her body, but not mind.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Her clothes are made of hides and pelts banded with leather straps. Her wrinkly face is shadowed by a strange, crown-like construction, mounted on her head: colored wires hold together different circuit boards, plates, antennas and and withered buns of fragrant herbs. The image is completed by a skull of a child, dangling on a braided string, which is wrapped around her slender neck] You... The Twilight Viper sees you! [she howls a little on every word, stretching the vowels] Don't try to lie to the Elder, for Viper himself is looking through her eyes!}
+{10}{}{[Her clothes are made of hides and pelts banded with leather straps. Her wrinkly face is shadowed by a strange, crown-like construction, mounted on her head: colored wires hold together different circuit boards, plates, antennas and withered buns of fragrant herbs. The image is completed by a skull of a child, dangling on a braided string, which is wrapped around her slender neck] You... The Twilight Viper sees you! [she howls a little on every word, stretching the vowels] Don't try to lie to the Elder, for Viper himself is looking through her eyes!}
 {11}{012}{What the hell? Who? Viper?}
 {12}{012}{Are you having a stroke? What are you talking about?}
 {13}{011}{Elder? That means you are in charge here, right?}
@@ -28,11 +28,11 @@
 {15}{999}{No, I'm not ready for this kind of talk. I'd better go.}
 
 
-{1001}{}{[Elder cycles through a set of bone beads, quietly mumbling something] ...May the two-legged prey not escape the hands of Twilight Viper's children... [gives you a mean look] What do you need, outsider? [she starts to howl on wovels again] You are bothering Elder's praying...}
+{1001}{}{[Elder cycles through a set of bone beads, quietly mumbling something] ...May the two-legged prey not escape the hands of Twilight Viper's children... [she gives you a mean look] What do you need, outsider? [she is howling on wovels again] You are bothering Elder's praying...}
 {101}{012}{Who is this Viper you mentioned?}
 {102}{011}{I have a couple of questions for you, Elder.}
 {103}{017}{Did you see a sand wolf running by?}
-{104}{999}{Okay, won't be interrupting you anymore. See you later.}
+{104}{999}{I won't be interrupting you anymore. See you later.}
 {1002}{}{[She grabs the skull on her neck and grimly nods] You came again. Why? If you think that being part of the tribe gives you the right to bother me all day long, you are wrong, may Viper rip your throat! Go do something useful, little man! [at least now she talks without howling]}
 {105}{012}{Now, can you explain me the details about your gods? Or spirits, I don't know how to call it.}
 {106}{011}{I'm only going to ask a couple of questions.}
@@ -40,7 +40,7 @@
 {108}{999}{Okay, don't be mad. See you later.}
 
 
-{1101}{}{[She adjusts her headgear, so the couple of antennas now point straight at you] Spend my time wisely, outsider! Twilight Viper doesn't like when his shaman is distracted from prayings! One mistake, and you are being served to our table before due! [as she finishes her speech, her words sound almost as wolf-like howling]}
+{1101}{}{[She adjusts her headgear, so the couple of antennas now point straight at you] Spend my time wisely, outsider! Twilight Viper doesn't like when his shaman is distracted from prayings! One mistake, and you are being served to our table before due! [as she finishes her speech, her voice sounds almost like wolf-like howling]}
 {111}{014}{Yeah, about your protein diet. Am I getting this right that eating people is an OK for you?}
 {112}{013}{So, you are also the shaman, right? }
 {113}{015}{Your tribesmen won't let me leave this place! It could be a problem...}
@@ -56,7 +56,7 @@
 {1112}{999}{Although, I need to go. See you later.}
 
 
-{1201}{}{[She starts to slowly spin around, howling and tapping foot] ...And when the cleansing flame came roaming earth, Twilight Viper created these mountains to keep all of his children safe! [she then proceeds with some gibberish on a language unknown to you. Some kind of a prayer?] He filled this cliffs with his might, which had been pouring on us year after year! And we rose above all others in height and strength! Now he watches over his tribe through the eyes of his shaman and talks through her mouth... May the Viper be great and praised!}
+{1201}{}{[She starts to slowly spin around, howling and tapping foot] ...And when the cleansing flame came roaming earth, Twilight Viper created these mountains to keep all of his children safe! [she then proceeds with some gibberish on a language unknown to you. Some kind of a prayer, maybe?] He filled this cliffs with his might, which had been pouring on us year after year! And we rose above all others in height and strength! Now he watches over his tribe through the eyes of his shaman and talks through her mouth... May the Viper be great and praised!}
 {121}{021}{The hell? You can piss into the ears of your overgrown kin as much as you want, but it won't work with me!}
 {122}{999}{Very... Interesting. Thanks for the answer.}
 {1202}{}{[She puts some herbs into her mouth and starts to slowly chew] Good for your teeth, you should try it... Mmm... If I tell you, would you leave me alone? Okay... The tribe should know that someone big is watching over them. And people need to believe that their deeds will be justified by higher authorities. Our spirits are not worse than any others, that's it. And besides, this place, it's... Strange. This thingies that outsiders used to talk to each other from a distance, are of no use here, but our bodies receive this unknown strength... So it's easy to believe anything you want. Sometimes even I myself... [she pauses, thinking about something] }
@@ -64,7 +64,7 @@
 {124}{999}{Opiate of the masses, huh? Okay, I'm leaving you alone, just as I promised.}
 
 
-{1301}{}{When Elder chooses a successor, she bestows upon her this sacred headdress, through which our spirits talk to us! Because not always the feeble human mind is capable of finding answer to any question! Elder should be a shaman, for nothing to stay hidden in the shadows of unknown!}
+{1301}{}{When Elder chooses a successor, she bestows upon her this sacred headdress, through which our spirits talk to us! Because not always the feeble human mind is capable of finding answer to any question! Elder should be a shaman, so nothing could stay hidden in the shadows of unknown!}
 {131}{011}{Another question then.}
 {132}{022}{So only a woman can become Elder?}
 {133}{999}{I see... That's it for now. See you.}
@@ -129,8 +129,8 @@
 {193}{999}{Okay, okay, I'm leaving. Talk later.}
 
 
-{2001}{}{The only honorable occupation for Viper's children is the hunt! [Proving her point, she smashes a running by rat with one blow of her club. Blood splatters everywhere] The feet of our warriors are fast, and weapons are sharp and never miss the target!}
-{201}{011}{Definitely honourable. Would you mind answering another question?}
+{2001}{}{The only honorable occupation for Viper's children is the hunt! [proving her point, she smashes a rat, which was running by, with one blow of her club. Blood splatters everywhere] The feet of our warriors are fast, weapons are sharp and never miss the target!}
+{201}{011}{Definitely honorable. Would you mind answering another question?}
 {202}{999}{I see... Okay, I'm done with questions for now.}
 {2002}{}{[She squints her faded eyes, as if trying to look beyond the mountains] What else to do here? This place has given us the height and strength, but not food. We have to get it by ourselves. To try cultivating this land is pointless, so there's only one option for the tribe. And if we need something that we can't hunt, we can trade it from outsiders.}
 {203}{011}{It must be not easy to live here... Tell me about something else.}
@@ -142,7 +142,7 @@
 {212}{998}{Man, why no one is glad to see me...}
 
 
-{2201}{}{[She shakes with her body, raising head to the sky, and starts to speak in a sing-song voice] ...And so the woman's loin is from where the warriors of the tribe come into this world, and so she is the one worthy of speaking the voice of spirits to the tribe!}
+{2201}{}{[She starts to shake, raising head to the sky and speaking in a sing-song voice] ...And so the woman's loin is from where our warriors come into this world, and so she is the one worthy of speaking the voice of spirits to the tribe!}
 {221}{011}{Makes perfect sense. Let's talk about something else.}
 {222}{999}{It's just an unjustified sexism! Too bad I need to go, or I would explain to you something...}
 {223}{999}{So that's how it is? Okay, I leave you to enjoy your chosenness. See you around.}
@@ -152,25 +152,25 @@
 {226}{999}{Like I need it...  Okay, I'm going. See you around, Elder.}
 
 
-{230}{}{[Looks like she is quite tired of you. Suddenly, she brights up with a new idea] Outsider can leave... If he beats mighty Klumk in battle! Although, Twilight Viper tells me it's impossible... But it's good to show the tribe how weak outsiders are when facing our warriors! And also, they can feast on your flesh afterwards. So, even if an outcome is predefined, I'm offering you to participate in this duel. And no weapons - only what's with you from the moment you were born!}
+{230}{}{[Looks like she is quite tired of you. Suddenly, she brights up with a new idea] Outsider can leave... If he beats mighty Klumk in battle! Twilight Viper tells me it's impossible... But it's good to show the tribe how weak outsiders are when facing our warriors! And they can feast on your flesh afterwards. So, even if an outcome is predefined, I'm offering you to participate in this. And no weapons - only what's with you from the moment you were born!}
 {231}{024}{That's it? To put down one of your stupid thugs? Ha! Easy!}
 {232}{024}{Well, if there's no other way... Shall we begin?}
-{233}{021}{Okay, I'm sick of it. Listen here, you wrinkled carcass, now you immediately command your overgrown idiots to clear the passage, or I'm leaving this place anyway, but filled with your corpses!}
+{233}{021}{Okay, I'm sick of it. Listen here, you wrinkled carcass, now you immediately command your overgrown idiots to clear the passage, or I'm leaving anyway, but this place gets filled with your corpses!}
 {234}{999}{No, I'd better search for alternative solutions. }
 
 
-{240}{}{[You patienty wait in the local "diner" for a crowd of spectators to gather, and for your opponent to arrive. Then he appears - naked from the waist up, body painted with bloody mud. Elder starts to gently howl, making it louder with every minute] Here comes the mighty Klumk, to break the bones of an outsider, to drink his blood, to put his flesh on our table! Observe it carefully, my children!}
+{240}{}{[You patienty wait in the local "diner" for a crowd of spectators to gather and for your opponent to arrive. Then he appears - naked from the waist up, body painted with blood. Elder starts to gently howl, making it louder with every minute] Here comes the mighty Klumk, to break the bones of an outsider, to drink his blood, to put his flesh on our table! Observe it carefully, my children!}
 {241}{999}{Yeah, yeah. Shall we start?}
 {242}{999}{I should have brought a chair...}
 {243}{999}{I'm going to bury you, you scum! I'll rip off you entrails and choke you with them! Come on! Come!}
 
 
-{250}{}{[The blood-stained field becomes filled with silence. The locals are looking at the defeated Klumk, not capable of believing their eyes. Then their gazes slowly turn to the Elder. She snaps out of it pretty fast, you should admit that] So, in his wisdom, Twilight Viper decided to show us what awaits those who don't follow his path! Klumk spent too many time around outsiders, and that made him weak! And our great spirit have sent us this... Man! And he... Stays with us! He will hunt with our warriors, share the food and show us our weaknesses! Let's greet him! [The crowd responds with an unstructured chorus of confused cheers. Elder nods to you and says only with her lips: "Say yes!"]}
+{250}{}{[The blood-stained field becomes filled with silence. The locals are looking at the defeated Klumk, not capable of believing their eyes. Then their gazes slowly turn to the Elder. She snaps out of it pretty fast, you should admit that] So, in his wisdom, Twilight Viper decided to show us what awaits those who don't follow his path! Klumk spent too many time around outsiders, and that made him weak! And our great spirit have sent us this... Man! And he... Stays with us! He will hunt with our warriors, share the food and show us our weaknesses! Let's greet him! [The crowd responds with an unstructured chorus of confused cheers. Elder nods to you, saying with her lips: "Say yes!"]}
 {251}{026}{Oh... Oh yeah, that's how it is. Sure. Greet me. }
 {252}{021}{What?... That wasn't our deal! You want to fuck me up, bitch? I'm leaving! Right now!}
 
 
-{260}{}{[The crowd of savages spreads up, taking away the Klumk's body. You are left together with Elder again] Why did I do this? Am I out of my mind? Wanted a spectacle, was bored... [You didn't catch it immediately, but then it hits you - she speaks... Normal?] So, what to do with you? [She silently stares]}
+{260}{}{[The crowd of savages spreads up, taking away the Klumk with them. You are left together with Elder again] Why did I do this? Am I out of my mind? Wanted a spectacle, was bored... [you didn't catch it immediately, but then it hits you - she speaks... Normal?] So, what to do with you? [she silently stares]}
 {261}{027}{Wait. So it was all an act? Actually, I suspected that - you've been putting your words into sentences too good... Have my applause.}
 {262}{027}{Ha! I knew you are just fooling this savages! Nice job with this spirits bullshit!}
 
@@ -181,4 +181,4 @@
 
 
 {280}{}{Who would believe you? I raised my children properly... One word of mine - and they'll rip you apart like a dead ursa! That's it, we're done here. [she turns around to leave, but suddenly remembers something] Oh yeah! I should give you something. The sign of you being one with the tribe. Every boy becomes a man when he is given a gift from Viper. Tradition, you know... [she digs through her hides] Maracas made of twin skulls... A necklace from caravaneer teeth... No, it's too good to give away... Oh! Here, take this. It has no pictures and nothing in it makes sense. Now leave me alone, little man! [You obtained some unknown book. Elder leisurely walks off]}
-{281}{999}{"Constitution of 15 rights"? How the hell this ended up here?..}
+{281}{999}{"Constitution of 15 rights"? How the hell this ended up here?}
