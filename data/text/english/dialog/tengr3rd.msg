@@ -53,7 +53,7 @@
 {1003}{}{Yes, very glad.}
 {1004}{}{Okay, tell me! No, later.}
 {1005}{}{You again? Not bad, not bad...}
-{1006}{}{I'd like to stop and chat, but duty calls.}
+{1006}{}{I actually don't mind chatting for a bit, but, you know, duty calls.}
 {1007}{}{How's life? Wonderful.}
 {1008}{}{Sure, come back later. Someday. Maybe.}
 {1009}{}{[looks at you and smiles]}
