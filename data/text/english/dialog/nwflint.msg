@@ -153,7 +153,7 @@
 {253}{026}{Oh, come on! If you hire me into your caravan then you'll pay me AND show me where these locations are, no charge. So, maybe you could show them for free?}
 
 #Node026
-{260}{}{[Flint even stops in a middle of a gulp] You know, there's some logic right here. Okay, let me show you... [he makes some marks on a map] Here you go.}
+{260}{}{[Flint stops in a middle of a gulp] You know, there's some good logic right here. Okay, let me show you... [he makes some marks on a map] Here you go.}
 {261}{010}{Thanks. Maybe you can tell me about these places?}
 
 #Node027
@@ -189,7 +189,7 @@
 #Node034
 {340}{}{Hmm... Basically, a line of people on this position is as big as the amount of pubic lice on a Rainbow slut. But if you can handle the weapon, and I can replace three guards with you reducing my costs - we can try. }
 {341}{036}{[tell him about all creatures and people you've killed, also elaborate on details and tricks of using your current weapon]}
-{342}{035}{I've killed. I'm pretty good at it...}
+{342}{035}{I've killed before. I'm pretty good at it...}
 
 #Node035
 {350}{}{Unconvincing. I can fucking tell that I'm prety good at dancing while wearing white dress. It's all about savings and profits, but only if it doesn't hurt the safety of my caravan. Return when you have something to show - or tell.}
@@ -206,7 +206,7 @@
 {372}{010}{I'll think about your proposition.}
 
 #Node038
-{380}{}{I pay at the destination point. You can accompany the caravan on the road back too, same pay. Three directions total - Livos, Rainbow and Jackals. Caravans are moving out on all three routes in 1, 7, 14, 21 and 28 day of each month. Just come to me in that date, choose the destination, that's it. Got that? }
+{380}{}{I pay at the destination point. You can accompany the caravan on the road back too, same pay. Three directions total - Livos, Rainbow and Jackals. Caravans are moving out on all three routes in 1, 7, 14, 21 and 28 day of each month. Just come to me in that date, choose the destination, that's it. Understood? }
 {381}{039}{Yes.}
 {382}{041}{Yes.}
 
@@ -223,7 +223,7 @@
 {403}{999}{Jackals.}
 
 #Node041
-{410}{}{Okay. Return on some of the day when we move out. We'll talk destination [Flint scratches his red nose]}
+{410}{}{Okay. Return on some of the day when we move out. We'll talk destination. [Flint scratches his red nose]}
 {411}{010}{Of course. I have a couple of questions more.}
 
 #Node042
