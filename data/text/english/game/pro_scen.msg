@@ -132,8 +132,8 @@
 {6601}{}{A broken metal door.}
 {6700}{}{Secret Blocking Hex}
 {6701}{}{Help! I was kidnapped and forced to describe objects!}
-{6800}{}{Entrance}
-{6801}{}{Entrance to the factory building.}
+{6800}{}{an entrance}
+{6801}{}{An entrance to the factory building.}
 {6900}{}{Stalagmite}
 {6901}{}{A natural extension of the rock floor.}
 {7000}{}{Stalagmite}
@@ -684,8 +684,8 @@
 {35401}{}{Going down.}
 {35500}{}{Ladder}
 {35501}{}{Going up.}
-{35600}{}{Entrance}
-{35601}{}{Entrance to the factory building.}
+{35600}{}{an entrance}
+{35601}{}{An entrance to the factory building.}
 {35700}{}{Table}
 {35701}{}{An old wooden table.}
 {35800}{}{Table}

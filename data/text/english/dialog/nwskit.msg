@@ -48,13 +48,13 @@
 
 {60}{}{Why the hell would I spill my beans to god-knows-who? [he stops, thinking] Although, what do I lose? Are you really interested in hearing this?}
 {61}{008}{Yes. }
-{62}{013}{Let's try to hear it. Or I'll do.}
+{62}{013}{I could try. Or I'll go.}
 
 
-{70}{}{Not exactly. Someone's been stealing the canned food from warehouse, and I'm the suspect. You know, the warehouse. Near the factory. Not very far from a little shack of our sadistic doctor Hinder... By the way, I'm Skeet, warehouse supervisor. Guarded, keep in mind, fuckin' warehouse. Fort Knox, my ass.}
+{70}{}{Not exactly. Someone's been stealing the canned food from warehouse, and I'm the suspect. You know, the warehouse. Near the factory. There's also a room of our sadistic doctor Hinder in it... By the way, I'm Skeet, warehouse supervisor. Guarded, keep in mind, fuckin' warehouse. Fort Knox, my ass.}
 {71}{011}{I'm }
 {72}{011}{. Any ideas who might be stealing?}
-{73}{012}{I really hope you won't be putting it on some mystical force, will you?}
+{73}{012}{I really hope you don't put it on some mystical force, do you?}
 
 
 {80}{}{Man... [he heavily sighs] That's how it is. I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor]}
@@ -63,7 +63,7 @@
 
 
 {90}{}{Hey! Where are you going?! Get back here! [he takes pause] Skeet, that's my name. Are you happy? Come back!}
-{91}{013}{Oh wow, getting talky of a sudden? I'm listening. But no fucking my brain this time.}
+{91}{013}{Oh wow, getting talkative all of a sudden? I'm listening. But don't mess with me this time.}
 
 
 {110}{}{No. If I knew, I wouldn't be sitting here. And I don't have any fuckin' guesses.}
@@ -71,13 +71,13 @@
 {112}{999}{Won't make any promises, but if I learn something, I'll let you know. And I think you are pretty tense. Let's try this - I'll go and try to find out things, and you stay here and pull your lever, okay? [leave, listening to his angry screams]}
 
 
-{120}{}{Holy shoe, what an insight! All I can think about are witches of the desert.}
+{120}{}{Holy shoe! Brilliant! This is definitely the doings of witches of the desert!}
 {121}{014}{That explains everything! Elementary! One question though, what is it in that pipe you smoking?}
 {122}{013}{Enough with the jokes, tired of them. Unlike you, I'm here voluntarily. I step out that door, and you are all by yourself.}
 
 
-{130}{}{Okay, okay. Listen, some asshole set me up: he steals the cans from factory warehouse at nights, with extreme success, mind that, and everyone think it's my doing. Even after they put me here, the cans are still getting stolen... And what do they think of that? Of course, I persuaded someone to continue doing it, to throw the suspicions off me! And yeah, that's all I can tell, basically... Listen, If you can help me in any way that would make me free, I won't forget that.}
-{131}{999}{Now, that's more like it, Skeet. I'll try to help. See you around.}
+{130}{}{Okay, okay. Listen, some asshole set me up: he steals the cans from factory warehouse at nights, with extreme success, mind that, and everyone else think it's my doing. Even after they put me here, the cans are still getting stolen - and what do they think? Of course, that I persuaded someone to continue doing it, to throw the suspicions off me! And that's all I have to tell, basically... Listen, If you can help in any way that would make me free, I won't forget that.}
+{131}{999}{Now we're talking, Skeet. I'll try to help. See you around.}
 {132}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
 
@@ -93,10 +93,10 @@
 {104}{999}{Good, Skeet, and I need to go, so - be seeing you! [laugh]}
 
 
-{150}{}{What?}
+{150}{}{Which ones?}
 {151}{018}{Think hard, please: how does this thief manage to get into the warehouse?}
 {152}{019}{Is there something special I should know while looking for a culprit?}
-{153}{999}{No, nothing. I don't think I really want to know how you had lost your teeth. [end the dialogue]}
+{153}{999}{No, nothing. I don't really want to know how you lost your teeth. [end the dialogue]}
 
 
 {160}{}{Wh- WHAT? How?! You are messing with me, man! How is that possible?!}
@@ -110,7 +110,7 @@
 
 
 {180}{}{I dunno... You see, the entrance is guarded, and the fence is not of the kind that you can jump over - it's pretty high. This "someone" is really stealthy, like a kid or something... [he flips] Yeah!! It can be a slick kid! Get his ass, you hear me?! Tear his balls off!}
-{182}{999}{I got it, Skeet. Go try my luck. And you should calm down.}
+{182}{999}{I got it, Skeet. I'll go try my luck. And you should calm down.}
 {183}{999}{I see you like kids. I'll go check it out.}
 
 
