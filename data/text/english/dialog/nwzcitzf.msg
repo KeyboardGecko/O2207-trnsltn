@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: женещина.}
-{2}{}{Вы видите: жительница НМП.}
-{3}{}{Вы видите: женщина.}
-{4}{}{Вы видите: рабочая.}
-{5}{}{Вы видите: местная.}
-{6}{}{Наверняка в молодости она была ничего.}
-{7}{}{Вы сильно затрудняетесь определить ее возраст.}
-{8}{}{Ей около 20-ти. или 30-ти... или... Эй, а это точно женщина?}
-{9}{}{Многие мужики позавидовали бы могучему аромату пота, исходящему от нее!}
+{1}{}{You see a woman.}
+{2}{}{You see an inhabitant of NWO.}
+{3}{}{You see a local woman.}
+{4}{}{You see a local female worker.}
+{5}{}{You see a local.}
+{6}{}{She was definitely pretty in her younger years.}
+{7}{}{You're having a hard time determining her age.}
+{8}{}{She is in her 20's. Or 30's... Or... Hey, are you sure it's a woman?}
+{9}{}{A lot of men could envy the mighty smell of sweat coming from her!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,43 +46,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Привет, красавчик!}
-{1001}{}{Привет! Как делишки?}
-{1002}{}{Здравствуй! Как на счет порции свежего мяска? [подмигивает]}
-{1003}{}{О! Привет! Может хочешь консерву?}
-{1004}{}{[шепчет] ::в подсобке через 20 минут::}
-{1005}{}{Рада тебя видеть!}
-{1006}{}{Приятно видеть тебя! Вот только закончу тут...}
-{1007}{}{Конечно, чем смогу - помогу!}
-{1008}{}{Здорово, что ты здесь!}
-{1009}{}{Я очень рада, что ты с нами!}
+{1000}{}{Hey, handsome!}
+{1001}{}{Hey! How are you doing?}
+{1002}{}{Hey there! Want some fresh meat? [slyly winks]}
+{1003}{}{Oh! Hello! Want a can of meat?}
+{1004}{}{[whispers] ::in the utility room in 15 minutes::}
+{1005}{}{So glad to see you!}
+{1006}{}{Nice to see you! Just let me finish here...}
+{1007}{}{Of course, I'll help with what I can!}
+{1008}{}{So good you're here!}
+{1009}{}{I'm happy that you are with us!}
 # Нейтральные сообщения
-{1010}{}{Просто отвали, ковбой.}
-{1011}{}{Эй, я же работать тут пытаюсь!}
-{1012}{}{Пнринеси-ка лучше во-он тот рулон жести.}
-{1013}{}{Слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{О-ох, знаешь, эти консервы сами собой не сделаются!}
-{1015}{}{Нет, это просто кровь лавашей. Да, точно.}
-{1016}{}{Может лучше за меня постоишь у конвеера?}
-{1017}{}{...эта работа никогда не кончится...}
-{1018}{}{Оох... Ну что опять? Ты не видишь, я занята!}
-{1019}{}{Нет. Мне некогда! Я закручиваю консервы, сам же видишь!}
+{1010}{}{Just get lost, cowboy.}
+{1011}{}{Hey, I'm trying to work here!}
+{1012}{}{Better fetch me that roll of tin.}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{Oh. You know, these cans won't roll themselves!}
+{1015}{}{No, it's lavash blood. Yes, I'm sure.}
+{1016}{}{Maybe you'd better stand by the conveyor instead of me?}
+{1017}{}{...This work never ends...}
+{1018}{}{Sheesh... What?! Can't you see I'm busy?}
+{1019}{}{No. No time! I roll food into cans, you see?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшол нах!!!}
-{1024}{}{Крути педали, пока не дали...}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошол вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
@@ -91,26 +91,26 @@
 {1039}{}{}
 #СТАНДАРТНЫЕ
 #ГГ стал Руководителем НМП
-{1040}{}{Приветствую! Это действительно здорово, что Вы теперь у руля.}
-{1041}{}{Не помешало бы смягчить условия труда тут...}
-{1042}{}{Возможно стоит пересмотреть то, что мы тут зарабатываем?}
-{1043}{}{Начальство смотрит как дела у простых смертных? Круто!}
-{1044}{}{Скажите, а Вам, случайно, жена не нужна? Я умею готовить! И консервы закатывать...}
+{1040}{}{Hello! It's great that you are in charge here.}
+{1041}{}{It would be good to improve the working conditions here...}
+{1042}{}{Maybe we should talk about increasing our salaries?}
+{1043}{}{Boss is checking up how the common folk is doing? Neat!}
+{1044}{}{Say, do you need a wife, by chance? I can cook! And roll cans...}
 #Мертвяк Сэм стал Руководителем
-{1045}{}{Нет, ты слышал? Нам только трупа у власти и не хватало...}
-{1046}{}{По крайней мере, нами руководит не лаваш. Хотя лавашей я люблю больше...}
-{1047}{}{Нет, я не расист... хотя что я говорю? Не переношу мертвяков. У власти.}
-{1048}{}{Скорей бы он сгнил что ли... мне как-то неуютно...}
-{1049}{}{Может пора свалить отсюда?}
+{1045}{}{Did you hear that? All we needed is a corpse in Mayor's position...}
+{1046}{}{At least it's not a lavash, who is in charge. But I like lavash more...}
+{1047}{}{I'm no racist but... What am I saying? I can't stand ghouls. As Leaders.}
+{1048}{}{I can't wait for him to rot... I don't feel comfortable...}
+{1049}{}{Maybe it's time to leave this place?}
 #Даниэль (сын Марка) стал Руководителем
-{1050}{}{Пипец, кажется эта консерва умнее нашего руководителя...}
-{1051}{}{Говорят, что Даниеля роняли головой в детстве. О кирпичи. С двух этажей.}
-{1052}{}{А ты слыхал, кто у нас теперь босс? Точнее - боссик?}
-{1053}{}{Ему не мешало бы собрать свои мозги в кучку.}
-{1054}{}{Чего я ожидаю? Дерьмового будущего...}
+{1050}{}{Damn, I think even this tin can is smarter than the new Leader...}
+{1051}{}{There's a rumor that Daniel fell on his head as a kid. On the bricks. From two floors height.}
+{1052}{}{Did you hear who is the boss? I mean, the little boss?}
+{1053}{}{It wouldn't hurt for him to get a little smarter.}
+{1054}{}{What am I expecting now? A shitty future, I suppose...}
 #Марк умер, нового Руководителя нет
-{1055}{}{Ты не слышал, что там с нами будет?}
-{1056}{}{Говорят... всякое. Один слух хуже другого...}
-{1057}{}{Думаю, теперь нам крышка...}
-{1058}{}{Пора паковать чемоданы.}
-{1059}{}{Кранты, Марк умер... нам всем теперь... кранты}
+{1055}{}{Do you know what'll happen to us now?}
+{1056}{}{All kinds of talks going on... One worse than other...}
+{1057}{}{I think now we are doomed...}
+{1058}{}{Time to pack up my things.}
+{1059}{}{That's it, Mark's dead... Now we are... Done.}

@@ -29,7 +29,7 @@
 {6}{}{Surprisingly persistent smell of manure fits her appearance perfectly.}
 {7}{}{You're having a hard time determining her age.}
 {8}{}{The look of her calloused arms lowers your self-esteem.}
-{9}{}{A lot of men could envy the smell of sweat, coming from her!}
+{9}{}{A lot of men could envy the mighty smell of sweat coming from her!}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
