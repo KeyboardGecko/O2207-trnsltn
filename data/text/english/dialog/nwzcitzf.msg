@@ -91,7 +91,7 @@
 {1039}{}{}
 #СТАНДАРТНЫЕ
 #ГГ стал Руководителем НМП
-{1040}{}{Hello! It's great that you are in charge here.}
+{1040}{}{Hello! It's great that you are now in charge here.}
 {1041}{}{It would be good to improve the working conditions here...}
 {1042}{}{Maybe we should talk about increasing our salaries?}
 {1043}{}{Boss is checking up how the common folk is doing? Neat!}

@@ -56,7 +56,7 @@
 {71}{006}{What were you saying about Pearsontown?}
 
 #Node008
-{80}{}{Uh, well, not exactly me. Becky got hurt once, told Hinder about it, but he chased her away. He told her that he doesn't have a medicines for such low-life as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearsontown itself. Becky told Sunny, and Sunny asked me about the place. And I told her. Stupid.}
+{80}{}{Uh, well, not exactly me. Becky got hurt once, told Hinder about it, but he chased her away. He told her that he doesn't have a medicines for such lowlife as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearsontown itself. Becky told Sunny, and Sunny asked me about the place. And I told her. Stupid.}
 {81}{009}{So, they headed into Pearsontown for medical supplies in hope of being accepted into NWO?}
 
 #Node009
