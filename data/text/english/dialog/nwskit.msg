@@ -167,7 +167,7 @@
 {343}{035}{The fence had been broken before?}
 
 
-{350}{}{Well, yeah. There was a hole once. We fixed it pretty good -  some places we covered with what we had, somewhere put a new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit through.}
+{350}{}{Well, yeah. There was a hole once. We fixed it pretty good -  some places we covered with what we had, somewhere put a new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit.}
 {351}{036}{Can you tell me where it was?}
 
 

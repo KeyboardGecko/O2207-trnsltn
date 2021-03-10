@@ -43,7 +43,7 @@
 {42}{003}{Nah, kid. I don't do charity helping. Talk to the town guards.}
 
 #Node005
-{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there were some outsiders living here in NWO.I mean, not outsiders, they are good people, but the locals didn't care. If you didn't ruin your health for the good of the settlement - you're going to be looked down upon. So was with them. It got to the point where they couldn't get any job which pays you anything except worsening your health. The traders put up high prices for them, the locals ignored them. So, I told them about Pearsontown . How stupid I was...}
+{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there were some outsiders living here in NWO. I mean, not outsiders, they are good people, but the locals didn't care. If you didn't ruin your health for the good of the settlement - you're going to be looked down upon. So was with them. It got to the point where they couldn't get any job which pays you anything except worsening your health. The traders put up high prices for them, the locals ignored them. So, I told them about Pearsontown . How stupid I was...}
 {51}{006}{Pearsontown?}
 {52}{007}{I see folks are quite friendly around here.}
 
