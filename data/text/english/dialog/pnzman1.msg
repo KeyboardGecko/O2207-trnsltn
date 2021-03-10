@@ -64,7 +64,7 @@
 {1014}{}{I really have no time to talk to you right now.}
 {1015}{}{Don't bother me, let me rest.}
 {1016}{}{What else do you want?}
-{1017}{}{...This work will never end...}
+{1017}{}{...This work never ends...}
 {1018}{}{You'd better help than to bother me.}
 {1019}{}{No. I'm busy!}
 # Отрицательные сообщения

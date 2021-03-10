@@ -228,7 +228,7 @@
 {311}{010}{Okay, let me ask another question.}
 
 
-{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use lavash waste as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
+{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use lavash manure as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
 {321}{033}{To rub some lavash GUANO into my face? Of course! I've always dreamed about it - about having such beautiful skin!}
 {322}{010}{No way I'm getting this thing close... I mean, I'm good. Better ask you something else.}
 {323}{999}{Nah, don't wanna. Will better go to get some fresh air...}
@@ -293,9 +293,9 @@
 
 
 
-{410}{}{Mark is my husband, he is the mayor of NWO. He is always busy with his job, can't even talk to me, I need it so much! Also, lately, his health is not so good as before. And all this quarrels with Dunn are not helping at all!}
-{411}{048}{Why does he quarrel with Dunn?}
-{412}{049}{Tell me about Dunn.}
+{410}{}{Mark is my husband, he is the mayor of NWO. He is always busy with his job, can't even talk to me, I need it so much! Also, lately, his health is not so good as before. And all this quarrels with Dan are not helping at all!}
+{411}{048}{Why does he quarrel with Dan?}
+{412}{049}{Tell me about Dan.}
 {413}{040}{I want to ask more about family.}
 {414}{010}{I have another question.}
 
@@ -356,8 +356,8 @@
 
 
 
-{490}{}{Dunn is the opposite of Mark in matter of politics. They always disagree. After Mark dies, with my sweet Daniel becoming mayor, everything will be better... Dunn wouldn't quarrel with his son, after all.}
-{491}{050}{Wait, so Daniel is Dunn's son? Not Mark's?}
+{490}{}{Dan is the opposite of Mark in matter of politics. They always disagree. After Mark dies, with my sweet Daniel becoming mayor, everything will be better... Dan wouldn't quarrel with his son, after all.}
+{491}{050}{Wait, so Daniel is Dan's son? Not Mark's?}
 
 
 

@@ -99,4 +99,4 @@
 {1046}{}{You'd better not piss me off...}
 {1047}{}{Do you have spare fingers!?}
 {1048}{}{[barely holds his anger]}
-{1049}{}{[озлобленно смотрит на Вас]}
+{1049}{}{[angrily looks at you]}

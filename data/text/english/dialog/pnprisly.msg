@@ -82,7 +82,7 @@
 {402}{999}{Oh, I know, what it is. No, I'm not interested.}
 
 
-{410}{}{I don't even know... I wasted a lot of time - disassembling the floor tiles, preparing soil, making patches... I even watered the crops! But I could grew only stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that lavash waste only makes it worse!}
+{410}{}{I don't even know... I wasted a lot of time - disassembling the floor tiles, preparing soil, making patches... I even watered the crops! But I could grew only stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that lavash manure only makes it worse!}
 {411}{042}{Maybe you need something else then? Man, I could really use Catty's advice on that.}
 
 
