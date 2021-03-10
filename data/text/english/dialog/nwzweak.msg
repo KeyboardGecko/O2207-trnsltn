@@ -106,8 +106,8 @@
 {1052}{}{Comrades! We should ban the lewd thoughts of men! They are practically sticking out of their pants! We need to mow them down! With a sickle!}
 {1053}{}{I find it unfair that female guards are not assigned with grenades! The woman with a grenade is capable of scarying off any intruder!}
 {1054}{}{It's time to end this Leader patriarchy! Put a woman in charge! Me, for example.}
-{1055}{}{I think it's important to announce that I haven’t had a man in days... Thank you for your attention! I'll be standing over there.}
+{1055}{}{I think it's important to announce that I haven't had a man in days... Thank you for your attention! I'll be standing over there.}
 {1056}{}{Why NWO doesn't have the opposition to the authority? If it does, when would it kick Leader's ass for... For... Uh...}
 {1057}{}{I think next time we need to buy dresses from Livos, instead of water. We absolutely need evening dresses!}
-{1058}{}{I'm advocating a law on women’s holidays! You know, on the red rainy days. And green rainy days...}
+{1058}{}{I'm advocating a law on women's holidays! You know, on the red rainy days. And green rainy days...}
 {1059}{}{I am a beautiful woman, and all men are jerks. And they smell. I'm done, thank you.}

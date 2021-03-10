@@ -215,7 +215,7 @@
 {380}{}{Everyone is equal to me here, I can't say someone stands out much. Maybe you'll ask more specific question? Who do you want to know about?}
 {381}{041}{Buck}
 {382}{042}{Daniel}
-{383}{044}{Dunn}
+{383}{044}{Dan}
 {384}{047}{Arson}
 {385}{048}{Maurissa}
 {386}{049}{Juan}
@@ -267,7 +267,7 @@
 {433}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{440}{}{Dunn? Rude, harsh and sneaky. Buck used to notice him doing little mean things a couple of times. A petty crook, in my view. }
+{440}{}{Dan? Rude, harsh and sneaky. Buck used to notice him doing little mean things a couple of times. A petty crook, in my view. }
 {441}{045}{Why won't you throw him out then?}
 {442}{038}{I don't think he's of interest to me. Let's talk about someone else?}
 {443}{031}{Yeah... Let's get back to questions about town.}
