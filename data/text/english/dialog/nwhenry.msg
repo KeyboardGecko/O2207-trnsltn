@@ -11,7 +11,7 @@
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
 # äî çíàêîìñòâà
-{1}{}{You see a kid with his eyes wide open.}
+{1}{}{You see a kid with eyes wide open.}
 {2}{}{His clothes look lousy. As many things around here.}
 #
 # ïîñëå çíàêîìñòâà
@@ -21,7 +21,7 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 #Node001
-{10}{}{Mister, you are not from around here, aren't you? [he doesn't make pause, as if being afraid that you'll go away not listening to him] Why do I even ask, I know every local, I'm from here myself. Name's Henry, by the way. Henry... And we need help! [he looks at you with his big puppy eyes]}
+{10}{}{Mister, you are not from around here, aren't you? [he doesn't pause, as if being afraid that you'll go away not listening to him] Why do I even ask, I know every local, I'm from here myself. Name's Henry, by the way. Henry... And we need help! [he looks at you with his big puppy eyes]}
 {11}{002}{"We"?}
 {12}{004}{Help?}
 {13}{005}{Tell me. Not so hastily though. Slowly, in details.}
@@ -43,7 +43,7 @@
 {42}{003}{Nah, kid. I don't do charity helping. Talk to the town guards.}
 
 #Node005
-{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there was a family of outsiders living here in NWO. I mean, they are good people, but the locals never cared, because if you didn't ruin your health for the good of the settlement - you're going to be looked down upon here. So it was with them. Got to a point where they couldn't get any job which pays you anything else except worsening your health. The traders put up high prices for them, the locals didn't help either. So, I told them about Pearsontown, stupid me...}
+{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there was a family of outsiders living here in NWO. I mean, they are good people, but the locals never cared, because if you didn't ruin your health for the good of the settlement - you're going to be looked down upon here. So it was with them. Got to a point where they couldn't get any job which gives you anything except worsening your health. The traders put up high prices for them, the locals didn't help either. So, I told them about Pearsontown, stupid me...}
 {51}{006}{Pearsontown?}
 {52}{007}{I see folks are quite friendly around here.}
 

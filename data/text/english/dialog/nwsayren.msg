@@ -11,142 +11,142 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: разведчик в странной броне.}
-{2}{}{Вся его броня испещрена заплатками, дырами, пластинами и рваными порезами. Он смотрит на всех свысока.}
+{1}{}{You see a scout. He is wearing strange armor.}
+{2}{}{His armor is covered in patches, teared holes and metal plates. He holds his chin high.}
 #
 # после знакомства
-{3}{}{Вы видите: Сайрен.}
-{4}{}{Кажется, на его броне появились новые заплатки и: амулеты?}
+{3}{}{You see Cyren.}
+{4}{}{Looks like his armor got new patches, holes, and... Amulets?}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[Вы видите мужчину лет тридцати с довольной ухмылкой. Несколько небольших шрамов на лице и потертое снаряжение выдают в нем человека, неоднократно бывавшего в переделках. Он смотрит на Вас свысока, слегка прищурившись] Да, Вы что-то хотели?}
-{11}{002}{Здравствуйте. Я так, осматриваюсь тут, завожу новые знакомства...}
-{12}{002}{Здоров! Я первый раз здесь, ищу с кем поболтать.}
-{13}{002}{Гуляю здесь, туда-сюда. Хочу поговорить.}
+{10}{}{[You see a man in his thirties, wearing a smug smirk on his face. A couple of big scars on his cheeks and battered equipment identify him as someone who've been in trouble more than several times. He looks down upon you] Yes? Did you want something?}
+{11}{002}{Hello. I'm just looking around, making friends...}
+{12}{002}{Hey! I'm here recently. Looking for someone to chat.}
+{13}{002}{I'm walking here, back and forward. Want to talk.}
 
 #Node002
-{20}{}{Ха, тогда давай знакомиться! Я Сайрен, самый лучший разведчик НМП! Новенькие здесь редко появляются.}
-{21}{010}{Очень приятно. Можно задать несколько вопросов?}
-{22}{010}{Привет, ответишь на несколько вопросов?}
-{23}{010}{Я задам вопрос.}
-{24}{999}{Я сейчас спешу, пока.}
+{20}{}{Hah, let's get acquaintained then! I'm Cyren, the best scout in NWO! I rarely see new ones here.}
+{21}{010}{A pleasure. Can you answer a few questions?}
+{22}{010}{Hey, can you answer some questions?}
+{23}{010}{I want to ask you a question.}
+{24}{999}{I'm in a hurry, see you.}
 
 #Node010
-{100}{}{Привет, рад видеть, что ты в порядке.}
-{101}{}{Конечно, задавай.}
-{102}{011}{Что ты тут делаешь?}
-{103}{018}{Где ты получил эти шрамы?}
-{104}{021}{У тебя есть что-нибудь на продажу?}
-{105}{023}{А, вот ты где! Куда это ты сбежал при первом же признаке опасности?}
-{106}{024}{Ха, а ты не сбежал, как я думал. Отлично сходили, было весело!}
-{107}{022}{Ты где был? Я тебя искал! Долго искал!}
-{108}{025}{Сходили класс! Твои яйца останутся тебе.}
-{109}{999}{Ладно, увидимся.}
+{100}{}{Hey, glad to see that you're okay.}
+{101}{}{Sure, go ahead and ask.}
+{102}{011}{What are you doing here?}
+{103}{018}{Where did you get these scars?}
+{104}{021}{Do you have something to trade with me?}
+{105}{023}{There you are! So, why did you run away at the first signs of danger?}
+{106}{024}{Hah, you didn't flee as I thought you would. Great run, was fun!}
+{107}{022}{Where have you been? I was looking for you! For a long time!}
+{108}{025}{It was a great run! You keep your balls for now.}
+{109}{999}{Okay, see you.}
 
-{117}{011a}{Ты наверняка слышал о смене Руководителя. Как думаешь, Сэм мог бы с этим справиться?}
+{117}{011a}{You must have heard about the changes in leadership here. What do you think, could Sam handle it?}
 
 #Node011
-{113}{}{[Сайрен начинает самодовольно улыбаться] Я разведчик. Лучший, между прочим. Спроси кого хочешь, любой подтвердит. Я выполняю поручения, с которыми другие не справятся. Ко мне обращаются только с самыми сложными и опасными заданиями.}
-{110}{012}{Ого, звучит впечатляюще. Наверное, ты настоящий профессионал своего дела.}
-{111}{012}{Вау, круто. Ты настоящий профи.}
-{112}{012}{Ооооо! Кле-е-е-во!!! Ты очень крут.}
+{113}{}{[Cyren gives you a conceited smile] I am scout. The best one around, mind you. Ask anyone, you'll see. I take the missions which couldn't be handled by others, the most dangerous and difficult ones.}
+{110}{012}{Sounds very impressive. You must be a real pro in your business.}
+{111}{012}{Cool. You must be good.}
+{112}{012}{Whoa!! So cool!!! You must be the best!!}
 
-{114}{}{Сэм? Сэм-мертвяк? Даже не знаю [напускает на себя важный вид] С одной стороны - он же труп, так? С другой - он бывалый руководитель, и уже знает что здесь к чему. Мы поступим так: я не говорю "да" или "нет", но если остальные поддержат  Сэма - я не буду возражать.}
-{115}{010}{Какая твердая и решительная позиция! Хорошо, я хотел еще что-то спросить...}
-{116}{999}{Окей, так и запишем. Ну, мне пора.}
+{114}{}{Sam? Sam, the ghoul? I dunno [he takes a look of importance] On one hand, he is quite dead, isn't he? On the other, he is very experienced in leading people, and knows what's what here. Let's put it like this - I won't say "no" or "yes", but if everyone else supports Sam, I definitely won't be against it.}
+{115}{010}{What a firm and determined position! Okay, I want to ask something else.}
+{116}{999}{I'll write it down. Need to go, see you.}
 
 #Node012
-{120}{}{[Сайрен еще больше расплылся в улыбке] Конечно. Да меня во всем НМП знают! Вон, спроси хотя бы у моей подруги Бланки, она обожает обо мне истории рассказывать. Все что она говорит - чистая правда. [После короткой паузы Сайрен наклонился ближе и перешел на шепот] Я даже ей не все рассказываю, а то не будет отпускать из-за опасностей. }
-{121}{016}{Мне очень хотелось бы узнать, как ты в одиночку справляешься со всеми сложными ситуациями. Мне бы это пригодилось.}
-{122}{016}{Расскажи, как ты один справляешься со всеми проблемами. Мне очень интересно.}
-{123}{015}{Бланка? Расскажи о ней подробнее.}
-{124}{013}{Я тоже хочу о себе историю!}
-{125}{014}{Баба Бланка?}
+{120}{}{[Cyren's smile becomes wider] Of course. I am well-known in all of NWO! Ask my friend Blanca, for example. She loves to talk stories about me. And everything she says is true. [he makes a short pause, leans closer to you and whispers] I'm even not telling her everything, because she wouldn't let me go on missions - it's so dangerous. }
+{121}{016}{I'd very much like to know how you deal with all your difficult situations. I could use this knowledge.}
+{122}{016}{Tell me, how you deal with problems? I'm curious.}
+{123}{015}{Blanca? Tell me more.}
+{124}{013}{I want the story aboyt myself too!}
+{125}{014}{Blanca?}
 
 #Node013
-{130}{}{[Сайрен задумался] Хм... А ты мне можешь пригодиться. Мои напарники иногда эмм... пропадают. Последнего скорпион укусил, чего только ни случалось. [Бормочет себе под нос] Доставать меня в походе разговорами не будет... Если не вернется - никто искать не станет. [Изобразив улыбку, Сайрен радостно обращается к Вам] Слушай, пойдем со мной на завод! Нужно жесть для банок принести. Это такая большая блестящая штука.}
-{131}{027}{Да! Пойдем!}
-{132}{999}{Не, я здесь погуляю. Пока.}
+{130}{}{[Cyren gets to think] Hm... You could come in handy, actually. My partners are sometimes, uh... Disappear. Last one was bitten by a scorpion... The stuff happened. [mumbles] He won't be bugging me with his chit-chat... No one will be looking for him, if he gets lost... [He shows you a wide smile again] You know, let's do a run tomorrow, to the factory! We need some rolls of tin. A big, shiny things. For cans.}
+{131}{027}{Sure! Let's do it!}
+{132}{999}{Nah, I'll walk by for a while. See you.}
 
 #Node014
-{140}{}{Да, баба. Она от меня без ума. Хотя без ума здесь не только она. Сходи спроси сам, если хочешь.}
-{141}{999}{Да! Пойду к бабе!}
+{140}{}{Yeah, Blanca. She's crazy about me. And she is not the only one, you know. Go talk to her, if you want.}
+{141}{999}{Okay. I'll go to Blanca.}
 
 #Node015
-{150}{}{Подружка моя. Она постоянно за мной бегает. Это и понятно. С таким, как я, любая девушка быть захочет. Она где-то недалеко была. Можешь найти ее, Бланка обо мне много чего расскажет.}
-{151}{010}{Ясно. Можно еще вопрос?}
-{152}{999}{Хорошо, пойду найду ее и задам несколько вопросов. Увидимся позже.}
+{150}{}{A girlfriend of mine. Follows me all the time. That's understandable - every girl wants to be with me. She should be somewhere around, you can go talk to her... She'll tell you many things. About me.}
+{151}{010}{I see. Can I ask?}
+{152}{999}{Okay, I'll go find her. See you later.}
 
 #Node016
-{160}{}{В том-то и дело, что я обычно с напарником хожу. Так, помочь по мелочи, вещи потаскать. Но сейчас не найдешь опытных людей, хотя бы наполовину, как я. Они редко переносят все опасности. Я уже и не помню, сколько напарников за все время поменялось. В последнем походе очередной погиб, его скорпион ужалил. Эх, бедняга, так и умер на месте. А подавал большие надежды...}
-{161}{017}{Слушай, а тебе новый напарник не нужен? Я хорошо в походах справляюсь!}
-{162}{010}{Да, жалко напарника. Можно вопрос?}
-{163}{999}{Напарники, говоришь, постоянно погибают? Вспомнил, мне срочно нужно бежать!}
+{160}{}{That's the thing! I usually go with a partner. You know, for little help, to carry things and such. But nowadays you can't find people experienced at least half as much as myself. They rarely handle the danger. I don't even know how many partners I've changed over time. The last one got bitten by a scorpion, poor guy. Died on the spot. And I had such high hopes for him...}
+{161}{017}{Do you need a new partner? I'm really good in runs!}
+{162}{010}{Yeah, a pity. Can I ask another question?}
+{163}{999}{Partners die all the time, you say? I've just remember something, I need to run!}
 
 #Node017
-{170}{}{Ты, что ли? [Сайрен оценивающе окидывает Вас взглядом] Пффф, да ты и до цели не дойдешь! Хотя... дам тебе шанс. Есть одна простенькая работенка. У нас заканчивается жесть для банок. Мне нужен напарник, чтобы разведать металлопрокатный завод Тин Индастриз. Достанем немного жести и назад. }
-{171}{010}{Ой, нет, лучше я вопрос задам.}
-{172}{027}{Я согласен! }
-{173}{999}{Нет, туда не пойду. Ладно, до встречи...}
+{170}{}{You? [Cyren glances over you] Nah, I think you won't even make it to the destination point! Although... Although, I can give you a chance. There is one simple job. We are almost out of tin for cans, so I need a partner to scout Tin Industries metalworks factory. We'll take some rolls of tin and return. }
+{171}{010}{Nah, I better ask a question.}
+{172}{027}{I'm in! }
+{173}{999}{No, I won't go there. Okay, see you around.}
 
 #Node018
-{180}{}{Эх, давно это было. Попали мы с этим, как его там, забыл уже, в одну переделку. Взрывы, стрельба, погоня... Только я один и выжил. Осколками задело, на всю жизнь шрам остался.}
-{181}{019}{Хм, а выглядит как след от женских ногтей.}
+{180}{}{Man, it was such a long time ago. We got into a trouble, me and that what's-his-name, I don't even remember. Explosions, shooting, chase... Only I survived. Got hit by fragments, scarred for life.}
+{181}{019}{Hm, looks just like a fingernail markings.}
 
 #Node019
-{190}{}{Да что ты понимаешь в шрамах, салага! Да я такого повидал, на несколько твоих жизней хватит! Все, хватит об этом, не хочу вспоминать старое.}
-{191}{020}{Ну да, наверное ты совершал нечто героическое... А почему броня не по размеру, и имя на груди затерто? Может, это не твоя?}
+{190}{}{What do YOU know about scars, greenhorn! I've been through so much, you could fill a several lives! Enough talking, don't want to remember the painful past.}
+{191}{020}{Yeah, you must have done a heroic things... And why is this armor not of your size? And the name on the tag is scrubbed out... Maybe it's not actually yours?}
 
 #Node020
-{200}{}{Это моя броня, ясно? И всегда была моей! Да, я ее с врага снял, голыми руками победил! }
-{201}{010}{Ладно, ладно... Еще вопрос.}
+{200}{}{That's my armor, hear me? And always was! I took it off my dead enemy, killed him with my bare hands! }
+{201}{010}{Alright, alright... Another question then.}
 
 #Node021
-{210}{}{Это ты не к тому обратился! Чтобы я, лучший разведчик, торгашеством занимался? Это пускай хлюпики в барахле своем копаются. Такие, как я, зарабатывают настоящей опасной мужской работой!}
-{211}{010}{Извини, тогда другой вопрос.}
-{212}{999}{А, ну тогда пойду поищу торговцев.}
+{210}{}{You picked the wrong person, pal! Do you want me, the best scout around, to do petty trading? Let local wussies handle this. Real men, like me, do a real man's job!}
+{211}{010}{Sorry. Another question.}
+{212}{999}{Then I'll go search for traders.}
 
 #Node022
-{220}{}{Ты ничего не понимаешь в разведке! Я решил вернуться за кое-какими вещами, и уже собирался идти тебя искать!}
-{221}{026}{Пойдем искать жесть.}
-{222}{999}{Держи жесть! Классно блестит!}
+{220}{}{You don't understand a thing in the matters of scouting! I decided to go back to pick some things, I was going to find you afterwards!}
+{221}{026}{Let's go get the tin rolls.}
+{222}{999}{Here's you tin! Shiny!}
 
 #Node023
-{230}{}{Эй, полегче! Настоящий опытный разведчик всегда умеет разумно оценить ситуацию и вовремя отступить для маневра! Я как раз собирался вернуться за тобой, чтобы вытащить оттуда.}
-{231}{026}{Пошли, нам надо еще раз попробовать.}
-{232}{999}{Не надо никуда идти, я уже сам справился. На, держи свою жесть. Пока.}
+{230}{}{Hey, easy! A real, experienced scout is always capable of wisely assessing the situation, to timely take a step back, and plan the maneuver! I was just going to get back to you, to get you out of there.}
+{231}{026}{Let's go, we need to try one more time.}
+{232}{999}{No need to go anywhere, I've already handled it. Here's your tin, take it and bye.}
 
 #Node024
-{240}{}{[Сайрен выглядит уставшим и разбитым] Да уж, неплохо погуляли... [Немного приободрившись, приподнимает голову] Столько раз тебя из передряг вытаскивал...}
-{241}{026}{Так, пойдем еще поищем.}
-{242}{999}{Вот, держи свою жесть. Пока.}
+{240}{}{[Cyren looks tired and broken] Yeah, this was... A good run... [he lift his head up] I got you out of mess so many times...}
+{241}{026}{Let's go look for it one more time.}
+{242}{999}{Here's your tin. Bye.}
 
 #Node025
-{250}{}{[Сайрен выглядит уставшим и разбитым] Хоть это радует... [Немного приободрившись, приподнимает голову] Я столько раз тебя из передряг вытаскивал...}
-{251}{026}{Пошли искать жесть!}
-{252}{999}{Держи жесть! Классно блестит!}
+{250}{}{[Cyren looks tired and broken] This is... Encouraging... [he lift his head up] I got you out of mess so many times...}
+{251}{026}{Let's go get the tin rolls.}
+{252}{999}{Here's you tin! Shiny!}
 
 #Node026
-{260}{}{[Сайрен отмахивается] Ну уж нет, я больше туда не пойду. Сам ищи, если хочешь. У меня... это... еще более важное задание сейчас!}
-{261}{999}{Понятно, лучший разведчик. Пойду сам искать.}
+{260}{}{[Cyren makes a dismissive gesture] No way, I'm not going there. Do it yourself, if you want. I have, uh... Um... More important mission to do!}
+{261}{999}{I see, best scout around. I'll search for it myself.}
 
 #Node027
-{270}{}{Хорошо. Приходи к заводу Тин Индастриз, я буду тебя там ждать. Давай на карте отмечу.}
-{271}{999}{Встретимся там.}
+{270}{}{Good. Come to Tin Industries factory, I'll wait for you there. Let me mark it on your map.}
+{271}{999}{I'll meet you there.}
 
 #Node028
-{280}{}{Привет. Вижу, ты добрался сюда живой, что уже хорошо. Готов идти? Только давай побыстрее. Или вообще можем в НМП вернуться...}
-{281}{999}{Я готов. Если сбежишь, я тебе яйца оторву! Из-под земли достану, понял? Все, идем.}
-{282}{999}{Я готов. Пошли.}
-{283}{999}{Я готов. Будешь убегать - яйца оторву. По очереди. Теперь идем.}
-{284}{999}{Угу. Пошли!}
+{280}{}{Hey. I see you made it here in one piece, which is already good. Are you ready? Only let's do it quick. Or we can return to NWO, actually...}
+{281}{999}{I'm ready. If you run, I'll tear your balls off! I will find you, hear me? That's it, let's go.}
+{282}{999}{I'm ready. Let's go.}
+{283}{999}{I'm ready. If you run, I'll tear your balls off. One by one. Now, let's go.}
+{284}{999}{Uh-huh. Let's go.}
 
-#Сайрен в напарниках у ГГ
-{900}{}{Давай побыстрее с этим разберемся.}
-{901}{}{Или мы идем внутрь - или я валю в НМП.}
-{902}{}{Некогда разговоры разговаривать.}
-{903}{}{Ну идем уже наконец!}
+#Cyren в напарниках у ГГ
+{900}{}{Let's deal with this quick.}
+{901}{}{Either we go inside, or I go back to NWO.}
+{902}{}{No time to talk.}
+{903}{}{Come on, let's go already!}
 
-{904}{}{Эээ... Ой, я там кое-что забыл. Снаружи. Да... Я скоро!}
+{904}{}{Uhh... I forgot something! I mean, I'll be right back!!}

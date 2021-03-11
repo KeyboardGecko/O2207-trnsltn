@@ -57,7 +57,7 @@
 {73}{012}{I really hope you don't put it on some mystical force, do you?}
 
 
-{80}{}{Man... [he heavily sighs] That's how it is. I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor]}
+{80}{}{Man... [he heavily sighs] That's how it is: I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor]}
 {81}{999}{Okay, I'll go and try to find out something. }
 {82}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
@@ -114,8 +114,8 @@
 {183}{999}{I see you like kids. I'll go check it out.}
 
 
-{190}{}{Special? Nah, don't think so. The warehouse is heavily guarded, and to get to the territory unnoticed - that is some fantastic shit. So it's all good - the guards are guarding, the fence is fixed recently...}
-{191}{023}{Wait. The fence has been broken before? For better hearing? Tell me details!}
+{190}{}{Special? Nah, don't think so. The warehouse is heavily guarded, and to get to the territory unnoticed - that is some fantastic shit. So it's all good: the guards are guarding, the fence is fixed recently...}
+{191}{023}{Wait. The fence was broken before? For better hearing, I suppose? Tell me details!}
 {192}{023}{Oh, you fixed the fence, that's solid. So what, helped?}
 
 
@@ -131,7 +131,7 @@
 {221}{999}{Haha-ha! There, there. Okay, I need to go, talk later.}
 
 
-{230}{}{What to say? There was a hole once. We fixed it pretty good -  some places we covered with what we had, somewhere put a new pieces... Why do you care about the fence? Do you think someone could slip through? Even my dick won't fit in, you know. Maybe only in one place there... So, forget it.}
+{230}{}{What to say? There was a hole once. We fixed it pretty good -  partially covered it with some junk we had, somewhere even put a new pieces... Why do you care about the fence? Do you think someone could slip through? Even my dick won't fit in, you know. Maybe only in one place there... So, forget it.}
 {231}{024}{Skeet, tell me, where is that hole where you put your dick?}
 {232}{024}{Tell me where it is - I want to stick mine too.}
 
@@ -150,24 +150,24 @@
 {311}{032}{I'm here not to convince you, you know.}
 
 
-{320}{}{Then how about an amnesty for a good olt Skeet? I was set up by some scumbag, so I'm sitting here for nothing! }
+{320}{}{Then how about an amnesty for a good old Skeet? I was set up by some scumbag, so I'm sitting here for nothing! }
 {321}{033}{Yeah, sure.}
 {322}{033}{Tell me details. }
 
 
-{330}{}{Man... [he heavily sighs] That's how it is. I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor] I'm innocent! For real!}
+{330}{}{Man... [he heavily sighs] That's how it is: I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor] I'm innocent! For real!}
 
 {331}{034}{Yeah? Isn't the warehouse guarded?}
 
 
-{340}{}{It is guarded, alright. To get to the territory unnoticed - that is some fantastic shit. So it's all good - the guards are guarding, the fence is fixed recently...}
+{340}{}{It is guarded, alright. To get to the territory unnoticed - that is some fantastic shit. So it's all good: the guards are guarding, the fence is fixed recently...}
 
 {341}{999}{Aren't you a storyteller. Sit in your camera. You belong here.}
 {342}{999}{Okay, I'll go look around. Maybe you are innocent.}
-{343}{035}{The fence had been broken before?}
+{343}{035}{The fence was broken before?}
 
 
-{350}{}{Well, yeah. There was a hole once. We fixed it pretty good -  some places we covered with what we had, somewhere put a new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit.}
+{350}{}{Well, yeah. There was a hole once. We fixed it pretty good - partially covered it with some junk we had, somewhere even put a new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit.}
 {351}{036}{Can you tell me where it was?}
 
 
