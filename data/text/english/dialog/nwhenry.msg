@@ -21,7 +21,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{Mister, you are not from around here, aren't you? [he doesn't make pause, as if being afraid that you'll go away not listening to him] Why do I even ask, I know every local, I'm from here myself. Name's Henry, by the way. Henry... And we need help! [he looks at you with his puppy eyes]}
+{10}{}{Mister, you are not from around here, aren't you? [he doesn't make pause, as if being afraid that you'll go away not listening to him] Why do I even ask, I know every local, I'm from here myself. Name's Henry, by the way. Henry... And we need help! [he looks at you with his big puppy eyes]}
 {11}{002}{"We"?}
 {12}{004}{Help?}
 {13}{005}{Tell me. Not so hastily though. Slowly, in details.}
@@ -38,17 +38,17 @@
 {32}{999}{Why should I care? Get lost.}
 
 #Node004
-{40}{}{Okay! Uh, my friends are in danger! They decided to risk their lives, because the locals are so hard-headed! And they went away so long ago... They need to be saved!}
+{40}{}{Okay! Uh, my friends are in danger! They decided to risk their lives, because the locals are so stubborn! And they went so long ago... They need to be rescued!}
 {41}{005}{Whoa kid, you shoud do trading with your commitment. Tell me. Slowly, in details.}
 {42}{003}{Nah, kid. I don't do charity helping. Talk to the town guards.}
 
 #Node005
-{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there were some outsiders living here in NWO. I mean, not outsiders, they are good people, but the locals didn't care. If you didn't ruin your health for the good of the settlement - you're going to be looked down upon. So was with them. It got to the point where they couldn't get any job which pays you anything except worsening your health. The traders put up high prices for them, the locals ignored them. So, I told them about Pearsontown . How stupid I was...}
+{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there was a family of outsiders living here in NWO. I mean, they are good people, but the locals never cared, because if you didn't ruin your health for the good of the settlement - you're going to be looked down upon here. So it was with them. Got to a point where they couldn't get any job which pays you anything else except worsening your health. The traders put up high prices for them, the locals didn't help either. So, I told them about Pearsontown, stupid me...}
 {51}{006}{Pearsontown?}
 {52}{007}{I see folks are quite friendly around here.}
 
 #Node006
-{60}{}{Pearsontown is a little well-preserved town, if you don't talk about those who inhabit it. Some said that there was a power plant there, but after it was bombed, no one was willing to go into the place. If you believe the stories of an old men. [the kid stumbles] So, mostly intact town was covered with radiation, and then there appeared Ferals, monsters and other bad stuff. And we always had a problems with medical supplies around here, but there, presumably, whould be enough of them, remained from before the war. A lot. Some people ventured there, but were unsuccessful. So I told girls about this place.}
+{60}{}{Pearsontown is a little, well-preserved settlement, if you don't take into account those who inhabit it. Some say that there was a power plant there, but after it was bombed, no one was willing to go into the place... If you believe the stories of an old men. [the kid stumbles] So, mostly intact town was covered with a cloud of radiation, and then there appeared Ferals, monsters and other bad stuff. And we always had a problems with medical supplies around here, but there, presumably, could be enough of them, remained from before the war. A lot. Some people ventured into it, searching - but were unsuccessful. So I told girls about the place.}
 {61}{008}{You told them? Why?}
 
 #Node007
@@ -56,7 +56,7 @@
 {71}{006}{What were you saying about Pearsontown?}
 
 #Node008
-{80}{}{Uh, well, not exactly me. Becky got hurt once, told Hinder about it, but he chased her away. He told her that he doesn't have a medicines for such lowlife as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearsontown itself. Becky told Sunny, and Sunny asked me about the place. And I told her. Stupid.}
+{80}{}{Uh, well, not exactly me. Becky got hurt once, came to doctor Hinder, but he chased her away. He told her that he doesn't have a medicines for such lowlife as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearsontown itself. Becky spoke with Sunny, and Sunny asked me about the place. And I told her. Stupid.}
 {81}{009}{So, they headed into Pearsontown for medical supplies in hope of being accepted into NWO?}
 
 #Node009
@@ -67,7 +67,7 @@
 
 #Node010
 {100}{}{Mister, did you change your mind? Will you help us?}
-{101}{999}{No, I'm just walking by.}
+{101}{999}{No, I was just walking by.}
 {102}{005}{Let's refresh my memory. Tell me everything from the beginning.}
 {103}{}{Mister, how's the search for my friends going?}
 {104}{999}{In the process, Henry. In the process.}
@@ -77,7 +77,7 @@
 #Node011
 {110}{}{I'm afraid, mister, I have nothing to offer you in return. And no one will. No one cares in NWO. But I can pray for you. I... Help me, please!}
 {111}{999}{Okay, kid. I'll se what I can do [take the coordinates of Pearsontown]}
-{112}{999}{Nah, kid. I don't do charity helping. So, sorry. Maybe another time.}
+{112}{999}{Nah, kid. I don't do charity helping. Sorry. Maybe some another time.}
 {113}{999}{Pray? I can pray myself. So I won't do nothing without proper payment.}
 
 #Node012
