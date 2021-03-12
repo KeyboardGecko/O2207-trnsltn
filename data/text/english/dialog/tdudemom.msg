@@ -52,7 +52,7 @@
 {133}{}{I just wanted to see if you were okay!}
 {134}{}{Mo-om, I am bored and don't know what else to do!}
 {140}{}{Oh... yes, I have! Your little brother Kirk played with it a while ago.}
-{141}{}{A-a-ha! The detective is on the trail! Thank you, Mom!}
+{141}{}{A-a-ha! The sleuth-man is on the trail! Thank you, Mom!}
 {142}{}{Brother again? I'll go and find him.}
 {150}{}{Sonny, you look tired. Do you want to go to bed?}
 {151}{}{Uhh... Yes, I'd like to sleep. I've done so much today.}

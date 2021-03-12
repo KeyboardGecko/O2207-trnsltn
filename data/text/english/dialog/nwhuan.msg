@@ -24,18 +24,18 @@
 {10}{}{Greetings. What can I help you with?}
 {11}{002}{Hey, I'm }
 {14}{002}{, I'm here recently.}
-{12}{002}{Hello. I was just looking around.}
-{13}{999}{I was only coming by. [end]}
+{12}{002}{Hello. I was only looking around.}
+{13}{999}{I was just walking by. [end]}
 
 #Node002
 {20}{}{Well, I always welcome guests. The name's Juan, I work here.}
 {21}{009}{What is this place?}
-{22}{003}{How long are you here?}
+{22}{003}{How long have you been around?}
 {23}{007}{Tell me about NWO.}
 {24}{999}{Glad to meet you, Juan. Well, I need to go.}
 
 #Node003
-{30}{}{I was born here. My father was a local mechanic, I followed his footsteps. Now this is our family business, I guess. Maybe I'll be able to pass it on Philip. The boy is smart, I don't want him to be a herder for all of his life.}
+{30}{}{I was born here. My father was a local mechanic, I followed his footsteps. Now this is our family business, I guess. Maybe I'll be able to pass it on to Philip. The boy is smart, I don't want him to be a herder for all of his life.}
 {31}{004}{Philip is your son?}
 {32}{006}{I want to ask something else.}
 {33}{028}{I need to go.}
@@ -60,18 +60,18 @@
 {65}{028}{Was nice to talk to you. Until later.}
 
 #Node007
-{70}{}{New World Order is our home. Those who are living here know how to value the relationships between people, friendship, loayalty. Together we are a tight-knit commune under a strong leadership. I'm sure you're going to like it here.}
+{70}{}{New World Order is our home. Those who live here know how to value the relationships between people, friendship, loyalty. Together we are a tight-knit commune under a strong leadership. I'm sure you're going to like it here.}
 {71}{008}{How do you manage to maintain peace and order around?}
 {72}{006}{I see. I want to ask something else.}
 {73}{028}{I really want to share your feelings. See you around.}
 
 #Node008
-{80}{}{We have guards. The ones who violate the rules are appearing sometimes, but they all have the same road in the end - beyond the gates.}
+{80}{}{We have guards. The ones who violate the rules appear sometimes, but they all have the same road in the end - beyond the gates.}
 {81}{006}{I have a couple of questions more.}
 {82}{028}{My curiosity is satisfied. See you around.}
 
 #Node009
-{90}{}{This is a "Happy Bull" canning factory. Here we turn our good old lavash into cans with meat. [Juan quietly laughs.]}
+{90}{}{This is a "Happy Bull" canning factory. Here we turn our good old lavash into cans with meat. [Juan quietly laughs]}
 {91}{012}{Sweet.}
 {92}{011}{"Happy bull"? For real?}
 {93}{006}{I'd like to ask about something else.}
@@ -79,23 +79,23 @@
 
 #Node011
 {110}{}{Don't ask me, I'm just a mechanic.}
-{111}{012}{Good joke...}
+{111}{012}{Nice joke...}
 {112}{006}{Can I ask something else?}
 {113}{028}{I see. Well, talk later.}
 
 #Node012
 {120}{}{Gloomy, right? It's good that cattle doesn't have soul. Thanks to this cans of meat, our settlement is prospering greatly... [Juan sighs heavily.] At least, for now.}
 {121}{014}{Is there something wrong?}
-{122}{013}{Cattle has no soul, you say? How do you know that?}
+{122}{013}{Cattle doesn't have soul, you say? How do you know that?}
 {123}{028}{Gloomy is not the right word. I'd better go.}
 
 #Node013
-{130}{}{You know, sometimes I think that even not every human has one. As for lavash, I've seen so many of them for my life that I don't even hear their howl before dying. Can you imagine? There's butchering going on all day in the bay, hide being skinned, and revving of a dying cattle is just a minor working noise, which you don't even pay attention to. I've looked into their helpless eyes so many times, tried to find even a little bit of... Something. Waited for some sign - is this the right thing to do, to kill and to continue killing so many living creatures? Is it good? And only emptiness in their eyes. [Juan looks from under his thick eyebrows]. Only emptiness.}
+{130}{}{You know, sometimes I think that even not every human has one. As for lavash, I've seen so many of them in my life that I don't even hear their dying screams. Can you imagine? There's butchering going on all day in the bay, hide being skinned, and revving of a dying cattle is just a minor working noise, which you don't even pay attention to. I've looked into their helpless eyes so many times, tried to find even a little bit of... Something. Waited for some sign - is this the right thing to do, to kill and to continue killing so many living creatures? Is it good? And there's only emptiness in their eyes. [Juan looks from under his thick eyebrows]. Only emptiness.}
 {131}{014}{You said "at least, for now". Is there something wrong?}
 {132}{999}{Oh man, you are cracking up so hard. [leave]}
 
 #Node014
-{140}{}{Something, yes. One machine broke down.}
+{140}{}{Something wrong, yes. One machine broke down.}
 {141}{015}{Is it serious?}
 {142}{028}{I hope it's nothing special. I've got to go.}
 
@@ -112,7 +112,7 @@
 
 {170}{}{#Node017}
 {171}{}{You see, this factory is standing here since before the war. The equipment is breaking down often, we fix it, just a working routine. But for the part to just disappear... I've never seen this before.}
-{172}{018}{Are you trying to imply that someone stole it?}
+{172}{018}{Are you implying that someone stole it?}
 {173}{027}{And where it could have gone, what do you think?}
 {175}{028}{Well, it is really a one difficult case. See you around.}
 
@@ -133,7 +133,7 @@
 {202}{028}{I see. I'll come by when I finish my business.}
 
 #Node021
-{210}{}{If you will find it, you would do us all an invaluable favor.}
+{210}{}{If you find it, you will do us an invaluable favor.}
 {211}{999}{I'll do what I can. See you soon, Juan.}
 {212}{023}{I can finely value it in batteries.}
 {213}{022}{For now, I have some other things to do.}
@@ -168,7 +168,7 @@
 {272}{028}{I see. I'll come by when I finish my business.}
 
 #Node028
-{280}{}{Come anytime.}
+{280}{}{Come by anytime.}
 {281}{999}{[end]}
 
 #Node029
@@ -177,7 +177,7 @@
 {292}{006}{Can I ask you about something?}
 
 #Node010
-{800}{}{Greeting. What can I help you with?}
+{800}{}{Greetings. What can I help you with?}
 {801}{}{Oh! Hello there, }
 {802}{}{. What can I help you with?}
 {803}{}{Oh. Hello, rude person. [it seems that Juan is not angry, only pretends] Why did you come? To listen to me whine?}

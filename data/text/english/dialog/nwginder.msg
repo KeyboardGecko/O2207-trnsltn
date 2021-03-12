@@ -25,16 +25,16 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[Before you stands the man in a relatively white lab coat. He is the most clean and tidy person that you've ever seen in your life. On his nose you see round glasses with small magnifying lenses. He looks skinny, sharp cheekbones are clearly defining his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, he continues to study a huge pile of papers in his hands].}
+{10}{}{[Before you stands the man in a mostly white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose you see round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, he continues to study a huge pile of papers in his hands].}
 {11}{002}{I'm }
 {12}{002}{. I'm here recently.}
 
 #Node002
-{20}{}{What do you want? [he didn't even take his eyes off the document. The more he looks into it, the less he pays attention to you]}
+{20}{}{What do you want? [he didn't even take his eyes off the document he is reading. The more he looks into it, the less he pays attention to you]}
 {21}{003}{Well...}
 
 #Node003
-{30}{}{[Hinder suddenly turns his attention to you] Don't waste my time on some nonsense. If you have something to talk about - talk, fast and short.}
+{30}{}{[Hinder forcefully turns to you] Don't waste my time on some nonsense. If you have something to talk about - talk, fast and short.}
 {31}{004}{Uh, um, yeah, I just wanted to ask something...}
 {32}{010}{[gather your thoughts]}
 
