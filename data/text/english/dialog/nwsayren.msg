@@ -81,7 +81,7 @@
 
 #Node016
 {160}{}{That's the thing! I usually go with a partner. You know, for little help, to carry things and such. But nowadays you can't find people experienced at least half as much as myself. They rarely handle the danger. I don't even know how many partners I've changed over time. The last one got bitten by a scorpion, poor guy. Died on the spot. And I had such high hopes for him...}
-{161}{017}{Do you need a new partner? I'm really good in runs!}
+{161}{017}{Do you need a new partner? I'm really good at runs!}
 {162}{010}{Yeah, a pity. Can I ask another question?}
 {163}{999}{Partners die all the time, you say? I've just remember something, I need to run!}
 

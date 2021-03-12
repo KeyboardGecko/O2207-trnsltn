@@ -37,10 +37,10 @@
 {23}{998}{It's time to teach you some manners... [attack]}
 
 
-{30}{}{You shite, it's you who'll get your mouth caved in, if you talk like that. I'll look past your fuckin' stupidity for this time. You can adress me as "Mister". I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{30}{}{You shite, it's you who'll get your mouth caved in, if you talk like that. I'll look past your fuckin' stupidity for this time. You will adress me with respect. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
 {31}{005}{So you can take bets then?}
 {32}{006}{A bookmaker? You? Don't make me laugh.}
-{33}{007}{"Mister"? "I'll look past your stupidity"? Do you fucking want to die?}
+{33}{007}{"With respect"? "I'll look past your stupidity"? Do you fucking want to die?}
 {34}{998}{It's time to teach you some manners... [attack]}
 
 

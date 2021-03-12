@@ -38,31 +38,31 @@
 {32}{999}{Why should I care? Get lost.}
 
 #Node004
-{40}{}{Okay! Uh, my friends are in danger! They decided to risk their lives, because the locals are so stubborn! And they went so long ago... They need to be rescued!}
+{40}{}{Yes! Uh, my friends are in danger! They decided to risk their lives, because the locals are so stubborn! And they are gone for a long time... They need to be rescued!}
 {41}{005}{Whoa kid, you shoud do trading with your commitment. Tell me. Slowly, in details.}
 {42}{003}{Nah, kid. I don't do charity helping. Talk to the town guards.}
 
 #Node005
-{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there was a family of outsiders living here in NWO. I mean, they are good people, but the locals never cared, because if you didn't ruin your health for the good of the settlement - you're going to be looked down upon here. So it was with them. Got to a point where they couldn't get any job which gives you anything except worsening your health. The traders put up high prices for them, the locals didn't help either. So, I told them about Pearsontown, stupid me...}
-{51}{006}{Pearsontown?}
+{50}{}{[The kid cantches his breath and gathers his thoughts] Okay, here's the thing, not long ago there was a family of outsiders living here in NWO. I mean, they are good people, but the locals never cared, because if you didn't ruin your health for the good of the settlement - you're going to be looked down upon here. So it was with them. Got to a point where they couldn't get any job which gives you anything except worsening your health. The traders put up high prices for them, the locals didn't help either. So, I told them about Pearson Town, stupid me...}
+{51}{006}{Pearson Town?}
 {52}{007}{I see folks are quite friendly around here.}
 
 #Node006
-{60}{}{Pearsontown is a little, well-preserved settlement, if you don't take into account those who inhabit it. Some say that there was a power plant there, but after it was bombed, no one was willing to go into the place... If you believe the stories of an old men. [the kid stumbles] So, mostly intact town was covered with a cloud of radiation, and then there appeared Ferals, monsters and other bad stuff. And we always had a problems with medical supplies around here, but there, presumably, could be enough of them, remained from before the war. A lot. Some people ventured into it, searching - but were unsuccessful. So I told girls about the place.}
+{60}{}{Pearson Town is a little, well-preserved settlement, if you don't take into account those who inhabit it. Some say that there was a power plant there, but after it was bombed, no one was willing to go into the place... If you believe the stories of an old men. [the kid stumbles] So, mostly intact town was covered with a cloud of radiation, and then there appeared Ferals, monsters and other bad stuff. And we always had a problems with medical supplies around here, but there, presumably, could be enough of them, remained from before the war. A lot. Some people ventured into it, searching - but were unsuccessful. So I told girls about the place.}
 {61}{008}{You told them? Why?}
 
 #Node007
 {70}{}{Well, yeah. But if you are part of NWO, you can be sure that everyone would stand for you. You are a part of the family.}
-{71}{006}{What were you saying about Pearsontown?}
+{71}{006}{What were you saying about Pearson Town?}
 
 #Node008
-{80}{}{Uh, well, not exactly me. Becky got hurt once, came to doctor Hinder, but he chased her away. He told her that he doesn't have a medicines for such lowlife as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearsontown itself. Becky spoke with Sunny, and Sunny asked me about the place. And I told her. Stupid.}
-{81}{009}{So, they headed into Pearsontown for medical supplies in hope of being accepted into NWO?}
+{80}{}{Uh, well, not exactly me. Becky got hurt once, came to doctor Hinder, but he chased her away. He told her that he doesn't have a medicines for such lowlife as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearson Town itself. Becky spoke with Sunny, and Sunny asked me about the place. And I told her. Stupid.}
+{81}{009}{So, they headed into Pearson Town for medical supplies in hope of being accepted into NWO?}
 
 #Node009
 {90}{}{Yes.}
 {91}{012}{What the hell were they thinking?}
-{92}{012}{The is genius. Considering the other ones from here couldn't handle it - guards, prospectors...}
+{92}{012}{This is genius. Considering the other ones from here couldn't handle it - guards, prospectors...}
 {93}{011}{I see. Have something to add?}
 
 #Node010
@@ -76,7 +76,7 @@
 
 #Node011
 {110}{}{I'm afraid, mister, I have nothing to offer you in return. And no one will. No one cares in NWO. But I can pray for you. I... Help me, please!}
-{111}{999}{Okay, kid. I'll se what I can do [take the coordinates of Pearsontown]}
+{111}{999}{Okay, kid. I'll se what I can do [take the coordinates of Pearson Town]}
 {112}{999}{Nah, kid. I don't do charity helping. Sorry. Maybe some another time.}
 {113}{999}{Pray? I can pray myself. So I won't do nothing without proper payment.}
 

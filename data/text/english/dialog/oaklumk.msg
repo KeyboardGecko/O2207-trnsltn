@@ -49,7 +49,7 @@
 {122}{999}{So that's how it is. Well, get some rest, I need to go,}
 
 
-{130}{}{[He gives you a bewildered look] Beacuse it's COOL! That's what one outsider tell me. I exchange my prey with him all the time. And he teach me to write my name! [he points on his collar] This I did myself! You no talk this to Elder, she yell at me all the time already. And... [he staggers, nervously strumming shells on his armor, but still continues] I like Ptuna. This I buy-wear for her. }
+{130}{}{[He gives you a bewildered look] Because it's COOL! That's what one outsider tell me. I exchange my prey with him all the time. And he teach me to write my name! [he points on his collar] This I did myself! You no talk this to Elder, she yell at me all the time already. And... [he staggers, nervously strumming shells on his armor, but still continues] I like Ptuna. This I buy-wear for her. }
 {131}{012}{What can you say about the tribe?}
 {132}{014}{I'm so sickened by all of you... I'm gonna give you some shells! Don't forget to pull bullets from your head later!}
 {133}{999}{Me go... I mean, I need to go.}

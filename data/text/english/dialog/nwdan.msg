@@ -27,7 +27,7 @@
 {13}{999}{. I'm just looking around for now. Well, I won't be bothering you. Bye.}
 
 
-{1001}{}{[Seeing you he slightly nods, without altering his posture] What brings you to me, outsider? I hope your brains have not yet been brainwashed by Mark and his company. You know, about the "Steel law" being the biggest threat to NWO.}
+{1001}{}{[Seeing you he slightly nods, not changing his posture] What brings you to me, outsider? I hope your brains have not yet been brainwashed by Mark and his company. You know, about the "Steel law" being the biggest threat to NWO.}
 {101}{011}{Yes, I wanted to ask - what is this "Steel law"?}
 {102}{015}{I've recently learned something interesting about you and Lucy... I see in whose honour Daniel was named.}
 {103}{999}{I was just walking by. Talk later, Dan.}
@@ -45,7 +45,7 @@
 {1011}{999}{That's the spirit! Everything should be ready when I decide for us to move out. Talk later.}
 
 
-{110}{}{[Dan becomes more lively, his eyes assessing you] What, no one even nagged about it? Hm... Okay, why not help a good man, enlightening him on what's what? Here's the thing, now NWO is lead by a bunch of idealists, naively trying to make peace with other settlements of Radius through negotiations and establishing trade relations. How stupid is that? Fortunately, there are some people who understand that you can accomplish something in this cursed world only by the power of weapon. They call themselves "Steel law". With a good old expansionism, we could capture enough prisoners to significantly increase our production and military capacities! So it goes. And yeah, for some reason, I am considered a leader of this covert organization... We always get this dirty looks, me and my son. Have you met Arson? Good kid, except a little hot-headed... }
+{110}{}{[Dan becomes more lively, his eyes assessing you] What, no one even nagged about it? Hm... Okay, why not help a good man, enlightening him on what's what? Here's the thing, now NWO is lead by a bunch of idealists, naively trying to make peace with other settlements of Radius through negotiations and establishing trade relations. How stupid is that? Fortunately, there are some people who understand that you can accomplish something in this cursed world only by the power of weapon. They call themselves "Steel law". With a good old expansionism, we could capture enough prisoners to significantly increase our production and military capacities! So it goes. And yeah, for some reason, they always take me for a leader of this covert organization... We get this dirty looks all the time, me and my son. Have you met Arson? Good kid, except a little hot-headed... }
 {111}{012}{What's wrong with peaceful ways of dealing with problems? I'm not much into violence, you know...}
 {112}{013}{And you are, of course, unrelated to this "Steel law", aren't you? If I'd like to help - who should I talk to?}
 {113}{014}{Hm... And why do you... I mean, they even hope for achieving the succcess? Other factions of Radius have some serious power and men.}

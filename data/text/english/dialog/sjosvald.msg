@@ -187,7 +187,7 @@
 {283}{010}{[try to ask a question]}
 
 
-{290}{}{Hah, maybe you'll make a great Jackal! Average one, but real. Still, the dog should know its place, get it?}
+{290}{}{Hah, maybe you'll make a great Jackal! I mean, kinda average, but real. Still, the dog should know its place, get it?}
 {291}{010}{Yeah, yeah, let's change the subject...}
 {292}{999}{Oh my god, I'm so tired of your bullshit... [leave]}
 

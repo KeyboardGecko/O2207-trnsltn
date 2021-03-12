@@ -20,7 +20,7 @@ f##############################
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Under thin greasy locks of hair that fall on her forehead and are interwoven with little bones, you see two hateful and curious, a bit googly, eyes. The only pieces of clothes she wears are loincloths and a torn apron, which has some kind of unusual patterns, deeply hidden under the layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
+{10}{}{[Under thin, greasy, interwoven with little bones locks of hair, falling on her forehead, you see two hateful and curious, a bit googly, eyes. The only pieces of clothes she wears are loincloths and a torn apron, which has some kind of unusual patterns, deeply hidden under the layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
 {11}{013}{Unfed who? What are you even talking about?}
 {12}{011}{I really hope you're joking. It would be better for everybody.}
 {13}{014}{What an interesting choice. And you are the local cook, I suppose?}
@@ -67,7 +67,7 @@ f##############################
 {133}{999}{Wonderful. I should go, I think.}
 
 
-{1401}{}{[Khala gently strokes knife handles, which stick up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. [she ajusts bracelet on her wrist and frowns in pain. You notice bite wounds on her elbow. Looks very nasty.]}
+{1401}{}{[Khala gently strokes knife handles, which stick up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. [she adjusts bracelet on her wrist and frowns in pain. You notice bite wounds on her elbow. Looks very nasty.]}
 {141}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
 {142}{018}{What's with your arm?}
 {143}{031}{What fucking gifts? You eat people, you crazy bitch!}
@@ -82,7 +82,7 @@ f##############################
 {1411}{999}{Enough information for now. See you later.}
 
 
-{150}{}{Khala likes when air smells with blood! This smell soaks into flesh, makes you strong! That's why Khala wears sacred clothes for her everyday eating ritual... [she touches straps of her apron. So that's what this patterns are about!]}
+{150}{}{Khala likes when air smells with blood! It soaks into flesh, makes you strong! That's why Khala wears sacred clothes for her everyday eating ritual... [she touches straps of her apron. So that's what this patterns are about!]}
 {151}{031}{Okay, that's it, I'm done! Now you are getting your "smell of blood in the air"!}
 {152}{014}{Actually, I wanted to learn another thing about you...}
 {153}{999}{I see... But I need to go.}
