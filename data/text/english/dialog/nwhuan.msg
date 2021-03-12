@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see a hunched man.}
-{2}{}{A tired middle-aged man. His thick, bushy eyebrows cover his eyes almost completely.}
+{2}{}{A tired, middle-aged man. His thick, bushy eyebrows cover his eyes almost completely.}
 #
 # после знакомства
 {3}{}{You see Juan.}
