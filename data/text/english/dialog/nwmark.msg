@@ -216,7 +216,7 @@
 {381}{041}{Buck}
 {382}{042}{Daniel}
 {383}{044}{Dan}
-{384}{047}{Arson}
+{384}{047}{Arsene}
 {385}{048}{Maurissa}
 {386}{049}{Juan}
 {387}{039}{[next]}
@@ -287,7 +287,7 @@
 {463}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{470}{}{Arson? Good for nothing mess without his own opinion. My son's buddy. Can't say I'm delighted to interact with him. He has a very cluttered mind.}
+{470}{}{Arsene? Good for nothing mess without his own opinion. My son's buddy. Can't say I'm delighted to interact with him. He has a very cluttered mind.}
 {471}{038}{Looks like I'll hardly get any value from communicating with him... let's talk about someone else?}
 {472}{031}{Yeah... Let's get back to questions about the town.}
 {473}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -428,7 +428,7 @@
 {691}{070}{So what is needed from me?}
 
 
-{700}{}{You have a fresh eye. Talk to Daniel, try to assess what's going on in his head. Maybe there's also some point in talking about Daniel with Buck first. Or maybe to his friend, Arson. And talk to Sam, he's his grandfather and spends much more time with him. Do not talk to Lucy though. She'll try to put things in a better light, stuff like that. We don't need it. Get back to me when you'll find out what's what.}
+{700}{}{You have a fresh eye. Talk to Daniel, try to assess what's going on in his head. Maybe there's also some point in talking about Daniel with Buck first. Or maybe to his friend, Arsene. And talk to Sam, he's his grandfather and spends much more time with him. Do not talk to Lucy though. She'll try to put things in a better light, stuff like that. We don't need it. Get back to me when you'll find out what's what.}
 {701}{999}{Okay. Be right back.}
 
 
@@ -592,7 +592,7 @@
 {1035}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 
 
-{1040}{}{Studying, just as he promised. There are some rumors going that he still hangs out with Arson, although I forbade it. But while everything looks so good - I prefer not to touch this topic very often.}
+{1040}{}{Studying, just as he promised. There are some rumors going that he still hangs out with Arsene, although I forbade it. But while everything looks so good - I prefer not to touch this topic very often.}
 {1041}{107}{And what about you? Think you can handle tutoring him before your time comes?}
 {1042}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 

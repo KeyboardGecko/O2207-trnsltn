@@ -104,7 +104,7 @@
 {1049}{}{Pffft... Some fringgin' democracy right there. What's next? A woman in charge?}
 #Даниэль (сын Марка) стал Руководителем
 {1050}{}{You know, I actually like Daniel. I'm much smarter than him.}
-{1051}{}{All this boy Daniel can do is to hang out with his buddy Arson... What kind of Leader is that?}
+{1051}{}{All this boy Daniel can do is to hang out with his buddy Arsene... What kind of Leader is that?}
 {1052}{}{I bet Daniel never even heard of the First Leader's Testaments.}
 {1053}{}{I won't be surprised if this boy sends all our guards to fight the Jackals.}
 {1054}{}{Would be better to put an election...}

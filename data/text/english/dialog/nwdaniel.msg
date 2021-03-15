@@ -11,255 +11,182 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Молодой паренек.}
-{2}{}{Он всем своим видом показывает, что он здесь король.}
+{1}{}{You see a young man.}
+{2}{}{All his look says that he's the boss here.}
 #
 # после знакомства
-{3}{}{Вы видите: Даниэль.}
-{4}{}{Он как всегда смахивает на молодого петуха в курятнике.}
+{3}{}{You see Daniel.}
+{4}{}{As usual, he looks just like a young rooster in a henhouse.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами молодой человек лет двадцати. Его одежда увешана заклепками, цепочками и просто кусочками металла] Здоров! }
-{11}{002}{Привет. Я тут недавно, изучаю город.}
-
-
-
-{20}{}{[Он широко улыбается] Ха, я тебе расскажу, что это за город. Его надо взорвать ко всем чертям, а на его месте построить новый! Я Даниэль, сын мэра. После смерти папаши я стану здесь управлять, и я здесь все переверну!}
-{21}{010}{Рад знакомству. Я хочу задать несколько вопросов.}
-{22}{999}{Рад знакомству, но сейчас мне надо срочно идти.}
-
-
-{1000}{}{Привет, поболтаем еще?}
-{1001}{}{Ты разговариваешь с будущим мэром НМП, поэтому на "Вы" и с уважением! Ха-ха, шучу! Ты здорово помог мне, чтоб я стал мэром! Ты что-то хотел?}
-{1002}{}{А, вот и наш будущий мэр. Ловко ты мое место занял. Я могу дать тебе несколько советов о том, что с этим городом делать.}
-{1003}{}{Окей!}
-{101}{011}{Что ты можешь рассказать про город?}
-{102}{030}{Ты станешь новым мэром?}
-{103}{024}{Расскажи про своего отца.}
-{104}{029}{Чем ты вообще занимаешься?}
-{105}{036}{Да, я стал новым руководителем. И я бы хотел чтобы ты свои закидоны держал при себе.}
-{106}{999}{Давай потом поговорим, надо идти.}
-
-
-
-
-{110}{}{[Даниэль плюет на землю] Этот город - грязная помойка. Здесь все не так, как должно быть. Надо что-то делать! Но все молчат, боятся папашу. И только я не боюсь открыто говорить, что он не прав. Арсэн и его отец Дан со мной согласны.  }
-{111}{012}{Как ты хочешь изменить город?}
-{112}{013}{Расскажи об Арсэне.}
-{113}{019}{Хочу услышать об отце Арсэна.}
-{114}{}{[Даниэль плюет на землю] Этот город - грязная помойка. Его мог привести я к светлому будущему, но тут появился ты. Посмотрим, на что ты способен.}
-{115}{010}{Посмотрим-посмотрим. А пока у меня вопрос...}
-
-
-{120}{}{[Глаза Даниэля загораются] Я снесу половину зданий и построю новые! Выгоню говнюков из города, а нормальных ребят оставлю! Арсэн будет моим помощником. И Дан тоже. Да, и мамка будет помогать. Вместе мы - сила!}
-{121}{013}{Можешь об Арсэне рассказать?}
-{122}{019}{Расскажи о Дане.}
-{123}{020}{Я хотел бы услышать о твоей маме.}
-{124}{021}{Как ты будешь строить новые здания?}
-{125}{022}{Кого ты хочешь выгнать из города?}
-
-
-
-
-{130}{}{[Даниэль начинает говорить с гордостью в голосе] Арсэн - это мой кореш! Он самый толковый здесь. Мы с ним такие вещи воротим, просто закачаешься. Весь город про нас знает.}
-{131}{014}{Расскажи подробнее, что вы с Арсэном делали.}
-{132}{010}{Я хочу другой вопрос задать.}
-
-
-
-
-{140}{}{[Даниэль довольно улыбается] Мы постоянно с Арсэном дела мутим. Шумим на весь НМП! Из последнего: политическое противостояние, улучшение производства, предотвращение катастрофы. О чем тебе рассказать?}
-{141}{015}{Звучит серьезно. Расскажи о политических делах.}
-{142}{016}{Вижу, что вы думаете о городе. Расскажи об улучшениях производства.}
-{143}{018}{Наверное, вы - герои! Расскажи о грозившей катастрофе.}
-{144}{010}{Хочу задать другой вопрос.}
-{145}{999}{Давай потом поговорим. Надо идти.}
-
-
-
-
-{150}{}{Тут одна тетка наезжала на Дана,  мол он в политике не шарит. Так мы с Арсэном ей в окно протухшую голову лаваша забросили! Представляешь?! Теперь она не возникает. Считай, еще один голос за нас!}
-{151}{016}{А, понятно. Расскажи об улучшении производства.}
-{152}{018}{Ясно. А что о грозившей катастрофе?}
-{153}{010}{Хочу задать другой вопрос.}
-
-
-
-
-{160}{}{Мы как-то проникли на консервный завод. И Арсэн вывернул в мясо ведро станочного масла! Консервов получилось на десяток больше! Народ не заметил ничего, только вкус и запах стали хуже, но все равно едят. Мы много куда масло добавляем. }
-{161}{017}{Слушай, а вы в еду лавашей ничего не добавляли?}
-{162}{015}{Хорошо, расскажи о политических конфликтах.}
-{163}{018}{Расскажи о том, как вы предотвратили катастрофу.}
-{164}{035}{[Вы, как всегда при разговорах, внимательно осматриваете собеседника. Ваше внимание привлекает силуэт бутылки из-под масла в скрытом кармане] От тебя и сейчас пахнет станочным маслом, вон и бутылка торчит из кармана. Что, опять решил куда-нибудь масла добавить? }
-{165}{010}{Тогда еще вопрос.}
-
-
-
-{170}{}{Да, точно! В их еду мы тоже масло станочное добавляем. Еды реально больше становится!}
-{171}{010}{Тогда еще хочу спросить...}
-{172}{999}{Ясно. Пойду займусь делами, пока.}
-
-
-
-
-{180}{}{Один мудак хотел двух своих дружков в НМП привезти. Они о встрече на рассвете договорились. Ты представляешь, три таких придурка в НМП! Это же катастрофа! Я и одного-то еле-еле терплю. И мы ночью ему двери и окна заколотили. Он не успел на встречу, и его дружки уехали! Так-то!}
-{181}{015}{Расскажи о ваших политических делах.}
-{182}{016}{Я хочу услышать об улучшении производства.}
-{183}{010}{Еще спрошу.}
-
-
-
-
-{190}{}{Дан - отец Арсэна. Толковый мужик! Он в политике шарит как никто другой. Правильные вещи говорит. Мы часто вместе с Арсэном его слушаем. Я-то не всегда догоняю, что Дан нам втирает, но явно по делу.}
-{191}{012}{Понятно. Расскажи, что ты хочешь сделать с городом.}
-{192}{010}{О другом спрошу.}
-{193}{999}{Понятно. Ладно, мне пора.}
-
-
-
-
-{200}{}{Мамка моя здорово мне помогает. От папаши отгораживает, когда накосячу. Да, и дома за меня все делает, и у меня есть время заниматься более серьезными делами.}
-{201}{012}{Ясно. Расскажи о своих планах на город.}
-{202}{010}{Спрошу другое.}
-{203}{999}{Хорошо, пойду поищу ее и поговорю. Пока.}
-
-
-
-
-{210}{}{[Даниэль задумывается] Понятия не имею. Но как-то же их строят. Главное, я знаю как их разрушить, а народ сам построит новые. Что ж ему еще останется делать? }
-{211}{012}{Окей. Так какие планы на город?}
-{212}{010}{Еще о другом спрошу.}
-
-
-
-{2200}{}{Я выгоню всех говнюков до единого! Правда, я пока не решил кого. Точно, мертвяков! Ненавижу их! Всех выгоню, кроме Сэма.}
-{2201}{}{Я выгоню всех говнюков до единого! В первую очередь выгоню мертвяков! Особенно Сэма! Этот мудак занял мое место на должность мэра!}
-{221}{023}{А почему Сэма не выгонишь?}
-{222}{010}{Тогда еще один вопрос.}
-
-
-
-{230}{}{Так он мой прадед. Пусть останется. Хоть и воняет на всю улицу... А всех остальных выгоню.}
-{231}{012}{Хорошо. Что ты еще хотел с городом сделать?}
-{232}{010}{Еще вопрос по другой теме.}
-{233}{999}{Понятно. Пойду с Сэмом поговорю, пока.}
-
-
-
-{2400}{}{Мой отец - мэр, зовут его Марк. Не хочу много про него рассказывать. Я с ним мало общаюсь. Я тусуюсь в основном с Арсэном, поэтому с его отцом, Даном, разговариваю чаще, чем со своим.}
-{2401}{}{Мой отец - бывший мэр, Марк. По совместительству - старый тупой кретин, который доверил руководство НМП чужаку.}
-{2402}{}{Мой отец - бывший мэр, Марк. По совместительству - старый тупой кретин, который доверил руководство полудохлому упырю.}
-{2403}{}{Мой отец - бывший мэр, зануда и дурак. Хотя мозгов ему хватило поставить меня за руль НМП.}
-{241}{025}{Если он мэр, то у него можно многому научиться.}
-{242}{010}{Еще спрошу.}
-
-
-
-
-{250}{}{[Даниэль скривился] Пфф, отец давно уже разучился управлять городом. Смотри, в какое болото превратился НМП! Как говорит Арсэн, <умирающий лаваш не даст хорошего потомства>, и я с ним согласен.}
-{251}{026}{И что Арсэн имеет ввиду?}
-{252}{027}{Здесь не так уж и плохо. У вас есть еда, есть работа.}
-{253}{010}{Хочу задать еще вопрос.}
-
-
-
-{260}{}{Понятия не имею, я ж не философ.}
-{261}{010}{Эээ... Ладно, еще спрошу.}
-{262}{027}{Так, в общем, в чем проблема? Здесь не так уж и плохо. У вас есть еда, есть работа.}
-
-
-
-{270}{}{[Даниэль начинает активно жестикулировать. Железяки на его одежде начинают позванивать] Это все фигня! Да мы можем гораздо больше! Да, если захотим, мы и всем миром сможем управлять!}
-{271}{028}{И что для этого надо сделать?}
-{272}{010}{Давай еще спрошу.}
-
-
-
-
-{280}{}{[Даниэль еще сильнее замахал руками, а его железяки громко зазвенели] Да какая разница! Нам надо сначала здесь все разнести. А потом уже будем думать, что делать дальше!}
-{281}{010}{Хорошо, еще спрошу.}
-{282}{999}{Ясно. Ладно, потом поговорим...}
-
-
-
-
-{290}{}{У меня всегда куча дел! Я тут много чего в НМП делаю, а Арсэн помогает. Мы с Арсэном тут самые продвинутые. }
-{291}{013}{Расскажи об Арсэне.}
-{292}{014}{И что вы делаете с Арсэном?}
-{293}{010}{Тогда еще спрошу.}
-{294}{}{Работаю.}
-{295}{010}{Ну ладно... еще пару вопросов...}
-
-
-{300}{}{Да, папаша сильно болен. И скоро я унаследую звание мэра НМП. Жалко папашу, конечно, но все же он совсем хреново управляет. Лучше бы сразу назначил меня мэром, а сам бы отдыхал.}
-{301}{034}{Я говорил с твоим отцом, и он не хочет, чтобы ты стал мэром. Но я думаю, что ты во всем прав! Поэтому сделай вид, что хочешь исправиться, а когда станешь мэром, сможешь делать все, что захочешь.}
-{302}{031}{Я говорил с твоим отцом и считаю, что он прав. Тебе надо измениться, чтобы стать мэром. Если ты изменишься, ты сможешь продолжить дело своего отца.}
-{303}{032}{Я думаю, из тебя получится плохой мэр. Мне не нравятся твои идеи.}
-{304}{033}{Наверное, из тебя получится хороший мэр. У тебя новые и хорошие идеи.}
-{305}{010}{Давай о другом поговорим.}
-{306}{999}{Пойду, с твоим отцом поговорю. Скоро вернусь.}
-
-
-
-
-{310}{}{Да ты ни хрена не шаришь! Я не собираюсь меняться ради этого уродства, которым стал НМП!}
-{311}{010}{Ладно, ладно... Наверное, я точно ничего не понимаю. Давай еще спрошу.}
-{312}{999}{Не хочешь - не надо. Пойду я, дела...}
-
-
-
-
-{320}{}{Да ты такой же, как мой папаша! Ничего не понимаете! Из-за вас НМП сгниет нахрен!}
-{321}{010}{Ладно, ладно... Наверное, я точно ничего не понимаю. Давай еще спрошу.}
-{322}{999}{Пойду подумаю, пока...}
-
-
-
-
-{330}{}{[Даниэль радостно подпрыгнул. Звяканье железяк превратилось в какую-то мелодию] Точно! Знаешь, ты клевый чувак! Ты сразу заметил, что тут надо все изменить!}
-{331}{010}{Да, надо много всего поменять. Еще спрошу.}
-{332}{999}{Точно! Начинай менять, а я пока пойду, надо свои дела закончить.}
-
-
-
-
-{340}{}{[Даниэль сначала вспыхнул, но потом успокоился] Да, папаша может устроить мне неприятности. Твоя задумка может сработать. Хорошо, я притворюсь, что хочу исправиться. А вот потом устрою всем хали-гали!}
-{341}{010}{Окей, договорились. Хочу еще спросить.}
-{342}{999}{Хорошо, договорились. Пойду с твоим отцом поговорю.}
-
-
-
-
-{350}{}{[Даниэль немного замялся] Эх, а я-то думал, что хорошо эту бутылку спрятал... Ладно, открою тебе секрет: мы с Арсэном решили в еду лавашей масло добавить, чтобы еду экономить. Им все равно, а для нас - выгодно.}
-{351}{010}{Понятно, еще хочу спросить...}
-{352}{999}{Я понял. Мне пора идти, увидимся позже.}
-
-
-{360}{}{Пффф... что еще скажешь?}
-{361}{037}{Думаю, ты будешь прекрасно смотрется на заводе. На этапе погрузки-разгрузки...}
-{362}{040}{Я слежу за тобой.}
-{363}{999}{Забей, мне пора.}
-
-
-{370}{}{Че? Что? Что ты сказал?}
-{371}{038}{Я говорю что с сегодняшнего дня ты работаешь на заводе. У нас тут равенство-братство. Не хорошо, когда член общества ничерта не делает полезного. }
-
-
-{380}{}{Но...}
-{381}{039}{Советую тебе начать работать самому. Иначе тебя будут прилюдно запинывать на завод охранники. }
-
-
-{390}{}{[парень стоит с открытым ртом. Он, мягко говоря, ошарашен]}
-{391}{999}{Ладно, пока. Мне пора.}
-
-
-{400}{}{И че? Ну следи. Хоть обследись.}
-{401}{999}{Ну, это мы еще посмотрим... [конец диалога]}
-{402}{037}{Думаю, будет удобнее следить, если ты будешь работать теперь грузчиком на заводе...}
+{10}{}{[Before you stands a man in his twenties. His clothes is covered with rivets, chains and pieces of metal] Hey there! }
+{11}{002}{Hello. I'm here recently, looking around the town.}
+
+{20}{}{[he gives you a wide smile] Hah, I'm going to tell you something about this town. It should be blown the hell up, to build a new one on its place! I'm Daniel, Mayor's son. After my dad kicks the bucket, I'll be in charge. And I'm going to turn this place upside down!}
+{21}{010}{Glad to meet you. I'd like to ask some questions.}
+{22}{999}{Glad to meet you, but I need to go.}
+
+{1000}{}{Hello again, wanna talk?}
+{1001}{}{You are talking to the future Leader of NWO, so show me respect! Haha, just kidding! You helped me greatly to become Mayor! Did you want something?}
+{1002}{}{And here's our new Mayor. How cunningly you took my place. I can still give you some advice about what to do with the town.}
+{1003}{}{Okay!}
+{101}{011}{What can you tell me about the town?}
+{102}{030}{It's you who is going to be a new Mayor?}
+{103}{024}{Tell me about your father.}
+{104}{029}{What do you do here?}
+{105}{036}{Yes, I'm the new Mayor. And I'd like you to keep your gimmicks to yourself.}
+{106}{999}{Let's talk later, I need to go.}
+
+{110}{}{[Daniel spits on the ground] This place is a dirty pile of heap. Everything is wrong here. And something needs to be done about it! But everyone's afraid to act, because they are afraid of my pops. And I'm the only one who doesn't hesitate to openly say that he is wrong. Also, Arsene and Dan, his father, agree with me.  }
+{111}{012}{How do you want to change the town?}
+{112}{013}{Tell me more about Arsene.}
+{113}{019}{I'd like to learn about Arsene's father.}
+{114}{}{[Daniel spits on the ground] This town is a dirty pile of heap. I could lead it to a great future, but then you appeared. Let's see what you can do.}
+{115}{010}{Yeah, we'll see. And now - another question.}
+
+{120}{}{[you see a fire in his eyes] I will knock down the half of local buldings to build a new ones! I'll chase all the shits out of town, so only the cool guys would stay! Arsene is going to help, Dan too. And mom. Together we are strong!}
+{121}{013}{Can you tell me about Arsene?}
+{122}{019}{Tell me about Dan.}
+{123}{020}{I'd like to hear about your mom.}
+{124}{021}{How are you going to build new buldings?}
+{125}{022}{Who exactly do you want to chase out of town?}
+
+{130}{}{[Daniel starts proudly talking] Arsene is my best bud! He is the smartest one around. We are doing big things together, all town knows about them.}
+{131}{014}{Tell me details about your doings.}
+{132}{010}{I want to ask another question.}
+
+{140}{}{[Daniel satisfyingly smiles] Big things, all the time - that's what we do. We rock the place! Last of our jobs include political stand-off resolvement, production rate improvement and disaster prevention. What do you want to hear about?}
+{141}{015}{Sounds serious. Tell me about political stand-off resolvement.}
+{142}{016}{I see you actually care about the town. Tell me about production rate improvement.}
+{143}{018}{You guys must be heroes. Tell me aboud disaster prevention.}
+{144}{010}{I want to ask something else.}
+{145}{999}{Let's talk later. I need to go.}
+
+{150}{}{There was some chick here, trying to get on Dan, saying that he knows nothing about politics. So, me and Arsene threw a rotten lavash head into her window! Can you imagine that?! Now she keeps her mouth shut! You could say it's plus additional vote for us!}
+{151}{016}{Oh, I see. Tell me about production rate improvement.}
+{152}{018}{Okay. What about disaster prevention?}
+{153}{010}{I want to ask other questions.}
+
+{160}{}{A day before we secretly snuck into the canned meat factory. And Arsene poured a whole bucket of machine oil into the meat! Which lead to producing ten cans of meat more than usual! People didn't notice anything. The taste and smell got worse though, but they still eat it, no worries. }
+{161}{017}{You didn't happen to pour something like this into the lavash food, did you?}
+{162}{015}{Right. Tell me about political stand-off resolvement.}
+{163}{018}{Tell me aboud disaster prevention.}
+{164}{035}{[As in all conversation, you are carefully observing the one you speak to. You notice the silouette of oil bottle in his inner pocked] You do smell some machine oil now, you know that? Here's the bottle sticking out. Do you want to pour it somewhere again? }
+{165}{010}{Another question then.}
+
+{170}{}{Of course! We added some oil into it too. There's more food this way!}
+{171}{010}{I want to ask something else.}
+{172}{999}{I see. I'll go do my things, see you.}
+
+{180}{}{One asshole wanted to get two of his friends into NWO, so they agreed to meet at dawn, on the outskirts of the town. Can you imagine three assholes in the NWO? It is a disaster! I can barely tolerate one. So, we boarded up his doors and windows at night, he didn't make it to his friends, and they left. That's it!}
+{181}{015}{Tell me about political stand-off resolvement.}
+{182}{016}{I want to hear about production rate improvement.}
+{183}{010}{I'll ask something else.}
+
+{190}{}{Dan is Arsene's father. A wise man! Knows politics like nobody else. He talks right things, me and Arsene like to listen to him. Sometimes I don't quite get what Dan tries to tell us, but it is definitely important.}
+{191}{012}{I see. Tell me, what do you want to do with a town?}
+{192}{010}{I'll ask something else.}
+{193}{999}{I see. I need to go.}
+
+{200}{}{My mom helps me greatly.  She keeps my pops away, when I screw up. And she does all my stuff at home, so I could have time to do more serious things.}
+{201}{012}{I see. Tell me about your plans for a town.}
+{202}{010}{I'll ask something else.}
+{203}{999}{I'll go talk to her. Bye.}
+
+{210}{}{[Daniel ponders] I have no idea. Somehow? What matters is that I know how to knock them down, and the locals will handle building new ones. What else they would do? }
+{211}{012}{Okay. So, what are your plans for the town?}
+{212}{010}{I'll ask something else.}
+
+{2200}{}{I will throw all the shits out of the town, all of them! Though, I still need to decide, which ones. Ghouls for sure, I hate them! I'll drive them all off, except Sam.}
+{2201}{}{I will throw all the shits out of the town, all of them! Especially Sam! This asshole took my place of Mayor!}
+{221}{023}{Why won't you drive off Sam?}
+{222}{010}{Another question then.}
+
+{230}{}{Because he is my grandpa. He can stay. Even if he smells a mile away... But the other ones will be chased away!}
+{231}{012}{Okay. So, what did you want to do with the town?}
+{232}{010}{Another question, on difeerent topics.}
+{233}{999}{I see. I'll go talk to Sam. Bye.}
+
+{2400}{}{My father is a Mayor, his name is Mark. I don't want to talk about him, we don't see each other much. I hang out with Arsene mostly, so I talk to his father more than with mine.}
+{2401}{}{My father is an ex-Mayor, his name is Mark. Also known as old and dumb jerk, who trusted the leadership of this town to a complete stranger.}
+{2402}{}{My father is an ex-Mayor, his name is Mark. Also known as old and dumb jerk, who trusted the leadership of this town to a half-dead rotten corpse.}
+{2403}{}{My father is a Mayor, his name is Mark. He is a bore and a fool. Although he is smart enough to put me in charge of NWO.}
+{241}{025}{If he is a Mayor, you can learn many things from him.}
+{242}{010}{I'll ask something else.}
+
+{250}{}{[Daniel cringes] Meh, pops doesn't know what he is doing. He lost it for a long time already. Look what swamp NWO has become! As Arsene says, "Dying lavash won't give a good offsprings". And I am completely agree.}
+{251}{026}{What Arsene actually means by that?}
+{252}{027}{It's not so bad around here. You have food, water. Work.}
+{253}{010}{I want to ask something else.}
+
+{260}{}{No idea. I'm not a philosopher.}
+{261}{010}{Um, okay. I'll ask something else.}
+{262}{027}{But what is actually the problem? It's not so bad around here. You have food, water. Work.}
+
+{270}{}{[Daniel starts actively gesturing. Metal things on his clothes start to chime a little] This is all bullshit! We are capable of doing much more! We could run the whole world if we want to!}
+{271}{028}{And what needs to be done about it?}
+{272}{010}{I'll ask something else.}
+
+{280}{}{[Daniel is waving hands even more energetically, metal things on his clothes are chiming loudly] Who the hell cares! First, we need to destroy everything old around here, and then to think about what to do next!}
+{281}{010}{Okay, I'll ask something else.}
+{282}{999}{I see. Okay, we'll talk later.}
+
+{290}{}{I have a lot of things to do in NWO! Arsene is helping. We are the coolest guys around. }
+{291}{013}{Tell me about Arsene.}
+{292}{014}{What exactly are you doing with Arsene?}
+{293}{010}{I'll ask something else.}
+{294}{}{Working.}
+{295}{010}{Okay. Another question.}
+
+{300}{}{Yeah, pops is pretty sick. And soon I'll inherit the Mayor's position. I feel sorry for the pops, of course, but he is doing his job pretty sick. Would be better if he put me into Mayor already, and got some rest.}
+{301}{034}{I talked to your father. He doesn't want you to be the Mayor. But I think you are right, so just pretend you want to reform. When you become Mayor, you can do whatever you want.}
+{302}{031}{I talked to your father. I think he is right. You should reform to become a better Mayor. If you do, you could carry the legacy of your father.}
+{303}{032}{I think you'll make a bad Mayor. I don't like your ideas.}
+{304}{033}{You'll probably do good as a Mayor.}
+{305}{010}{Let's talk about something else.}
+{306}{999}{I'll go talk to your father. See you around.}
+
+{310}{}{You don't know shit about it! I won't change myself for this hole NWO turned into!}
+{311}{010}{Okay then... Maybe I don't understand it. Let me ask something else.}
+{312}{999}{Suit yourself. I need to go.}
+
+{320}{}{You are just like my pops! You don't know shit! NWO is rotting because of people like you!}
+{321}{010}{Okay then... Maybe I don't understand it. Let me ask something else.}
+{322}{999}{Suit yourself. I need to go.}
+
+{330}{}{[Daniel jumps in excitement. Chiming of his metal turns into some melody] That's it! You know, you're cool! You noticed straight away that this place needs changes!}
+{331}{010}{Yes, a lot of changes. I'll ask something else.}
+{332}{999}{Of course! You start changing, and I need to finish something. See you.}
+
+{340}{}{[Daniel blushes. but quickly calms down] Yes, pops can put me into trouble. Your idea might work... Okay, I'll pretend. And then I'll show them!!}
+{341}{010}{Deal then. Another question.}
+{342}{999}{Agreed. I'll go talk to your father.}
+
+{350}{}{[Daniel seems a little confused] Uh, I thought it's well-hidden in my pocket... Okay, here's a secret for you - me and Arsene decided to put some of machine oil into lavash food, to cut costs, so to say. They don't care, we have profit.}
+{351}{010}{I see. I want to ask something else.}
+{352}{999}{Understood. I need to go, see you later.}
+
+{360}{}{Meh. What?}
+{361}{037}{I'll think you'll do fine on a factory line. On the loading stage.}
+{362}{040}{I'm watching you.}
+{363}{999}{Nevermind. I'll go.}
+
+{370}{}{Wh- What? What did you say?}
+{371}{038}{I said that starting today you work on a factory. We are all equal here, so it doesn't look good when someone does nothing for the common good. }
+
+{380}{}{But...}
+{381}{039}{I suggest you to start working. Or the guards will be making you work everyday. With their boots }
+
+{390}{}{[the moy gazes at you with open mouth. He is, to put it mildly, bedazzled.]}
+{391}{999}{Okay, I need to go. See you.}
+
+{400}{}{So? Watch me. Watch me all you like.}
+{401}{999}{Sure. [end dialogue]}
+{402}{037}{I think it would be more convenient for me to watch if you will take a job on a factory in a loading stage.}
 
 #Плавающие фразы на заводе
-{410}{}{А-а... это ты...}
-{411}{}{Да работаю я, работаю! Видишь? А ты мне мешаешь...}
-{412}{}{Да у меня просто перерыв!}
-{413}{}{Ну че те надо-то?}
+{410}{}{Oh... It's you...}
+{411}{}{I'm working, I'm working! Can't you see?}
+{412}{}{I was just having a break!}
+{413}{}{What else do you want?}
