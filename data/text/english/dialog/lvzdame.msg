@@ -107,7 +107,7 @@
 {1053}{}{Soup is a decrepit wuss. He's the shame of a whole New World.}
 {1054}{}{Which crazy person was first to come up with a Wine Debt?}
 {1055}{}{Ashton has completely lost his marbles with his hotel.}
-{1056}{}{Next time I'm going to spike Abilyn's wine with a laxative. And with sleeping pills.}
+{1056}{}{Next time I'm going to spike Abilene's wine with a laxative. And with sleeping pills.}
 {1057}{}{This little dirty empty-headed McKinsey's bitch Fox...}
 {1058}{}{They all gonna pay! They all gonna pay for the last game of poker!}
 {1059}{}{I'll come up with my own Constitution. No, I won't forget about the blackjack part.}

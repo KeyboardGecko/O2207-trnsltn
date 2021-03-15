@@ -274,7 +274,7 @@
 {13701}{}{}
 {13800}{}{Healer}
 {13801}{}{}
-{13900}{}{Arendt}
+{13900}{}{Arena Warden}
 {13901}{}{}
 {14000}{}{Kent}
 {14001}{}{}
@@ -370,17 +370,17 @@
 {18501}{}{You look in awe at his armor.}
 {18502}{}{Black smoke billows from the exhaust pipes behind him.}
 {18503}{}{Every movement of this warrior tells of his strength and power.}
-{18504}{}{...although, underneath his armor, is likely just a normal hunam body...}
+{18504}{}{...although, underneath his armor, is likely just a normal human body...}
 {18600}{}{Defender}
 {18601}{}{You look in awe at his armor.}
 {18602}{}{Black smoke billows from the exhaust pipes behind him.}
 {18603}{}{Every movement of this warrior tells of his strength and power.}
-{18604}{}{...although, underneath his armor, is likely just a normal hunam body...}
+{18604}{}{...although, underneath his armor, is likely just a normal human body...}
 {18700}{}{Soldier}
 {18701}{}{}
 {18800}{}{Predator}
-{18801}{}{Its armor is entangled in a network of tubes and powered pistons.}
-{18802}{}{This is a man in an armored suit with an ominously flashing gas mask.}
+{18801}{}{His armor is entangled with a network of tubes and powered pistons.}
+{18802}{}{This is a man in armored suit with an ominously flashing gas mask.}
 {18900}{}{Scout}
 {18901}{}{}
 {19000}{}{Biologist}
@@ -427,13 +427,13 @@
 {21001}{}{}
 {21100}{}{Pale Ghoul}
 {21101}{}{}
-{21200}{}{Were Cat}
+{21200}{}{Beastie}
 {21201}{}{}
-{21300}{}{Were Panther}
+{21300}{}{Black Beastie}
 {21301}{}{}
-{21400}{}{Enlightened One}
+{21400}{}{Lumenier}
 {21401}{}{}
-{21500}{}{Enlightened Leader}
+{21500}{}{Lumenier Leader}
 {21501}{}{}
 {21600}{}{Sickly Man}
 {21601}{}{}
@@ -506,7 +506,7 @@
 {25000}{}{Gromus}
 {25001}{}{}
 {25100}{}{Predator}
-{25101}{}{This fighter uses an improved version of the Guardians' armor suits.}
+{25101}{}{This fighter uses an improved version of the Guardian armor suit.}
 {25200}{}{Machinegun Turret}
 {25201}{}{This gun looks like it can tear up meat like nothing else.}
 {25300}{}{Laser Turret}

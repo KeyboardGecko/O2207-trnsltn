@@ -15,7 +15,7 @@
 {2}{}{Somehow she sticks out of the general pomposity of this place.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
-{3}{}{You see Abilyn McKinsey.}
+{3}{}{You see Abilene McKinsey.}
 {4}{}{Looks like frustration on her face became even more noticeable. Or maybe not.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
@@ -25,19 +25,19 @@
 {12}{003}{I'm new here. Just looking around the vault.}
 {13}{004}{Non of your business. I walk wherever I want.}
 
-{20}{}{[The woman makes disgusted face] Everyone goes here, distracting me... Meeting neighbours? Well, I'm Abilyn McKinsey. And now go meet someone else.}
-{21}{010}{Wait a second, Abilyn. Can you answer a few questions?}
+{20}{}{[The woman makes disgusted face] Everyone goes here, distracting me... Meeting neighbours? Well, I'm Abilene McKinsey. And now go meet someone else.}
+{21}{010}{Wait a second, Abilene. Can you answer a few questions?}
 {22}{999}{Glad to meet you. And I'll go do just that.}
 
-{30}{}{[The woman makes disgusted face] Everyone goes here, poking their noses around... Looking around? Well, nothing to look at here. I'm Abilyn McKinsey, it's only me and my stuff in here. Go look around somewhere else.}
-{31}{010}{Wait a second, Abilyn. Can you answer a few questions?}
+{30}{}{[The woman makes disgusted face] Everyone goes here, poking their noses around... Looking around? Well, nothing to look at here. I'm Abilene McKinsey, it's only me and my stuff in here. Go look around somewhere else.}
+{31}{010}{Wait a second, Abilene. Can you answer a few questions?}
 {32}{999}{You are right, I'll go into other places.}
 
-{40}{}{[The woman gets angry] You have no business here! According to paragraph 4 of our Constitution, "Every inhabitant oh the New World has the right to walk around his territory of the New World without asking permission of other inhabitants of the New World", so this is my territory, it belongs to Abilyn McKinsey! And I didn't give you permission to walk around here! Go walk around yours!}
+{40}{}{[The woman gets angry] You have no business here! According to paragraph 4 of our Constitution, "Every inhabitant oh the New World has the right to walk around his territory of the New World without asking permission of other inhabitants of the New World", so this is my territory, it belongs to Abilene McKinsey! And I didn't give you permission to walk around here! Go walk around yours!}
 {41}{010}{Okay, but first - answer a few questions.}
 {42}{999}{I'll go wander around mine.}
 
-{1001}{}{What auntie Abilyn can do for you, patron?}
+{1001}{}{What auntie Abilene can do for you, patron?}
 {1002}{}{[She has a disgusted look] Ask your question and stop distracting me with your petty things.}
 {1003}{}{Again? What are you sniffing around this time?}
 {101}{011}{Ludwig lost his book of wave science. Did you see it?}
@@ -50,7 +50,7 @@
 {111}{010}{I see. Let me ask something else.}
 {112}{999}{Okay, I'll go ask others about the book.}
 
-{120}{}{[Abilyn unhappy grumbles] Nothing. I do nothing. [she raises her voice] And I have the right to do so! According to paragraph 10 of our Constitution, "Every inhabitant of the New World has the right to do nothing at all"! I know my rights and is not afraid to use them! For example, do you call yourself an inhabitant of the New World, or not? }
+{120}{}{[Abilene unhappy grumbles] Nothing. I do nothing. [she raises her voice] And I have the right to do so! According to paragraph 10 of our Constitution, "Every inhabitant of the New World has the right to do nothing at all"! I know my rights and is not afraid to use them! For example, do you call yourself an inhabitant of the New World, or not? }
 {121}{013}{Yes, of course I do.}
 {122}{021}{No, I don't.}
 {123}{020}{I have no idea what it is or what it means.}
@@ -64,7 +64,7 @@
 {141}{015}{Okay, I won't call myself that. }
 {142}{017}{I'm still going to call myself that.}
 
-{150}{}{There, listen to auntie Abilyn and you will never violate the Constitution. You have a lot to learn, greenhorn.}
+{150}{}{There, listen to auntie Abilene and you will never violate the Constitution. You have a lot to learn, greenhorn.}
 {151}{010}{Whatever you say. I want to ask something else.}
 {152}{999}{I'll go think about my doings.}
 
@@ -72,14 +72,14 @@
 {161}{015}{Okay, I won't call myself that. I'm going to learn my rights. }
 {162}{017}{I'm still going to call myself that.}
 
-{170}{}{[Abilyn looks terribly angry] But you don't have the right!  You are violating the Constitution! This is outrageous! You, greenhorns, doesn't respect anything!}
+{170}{}{[Abilene looks terribly angry] But you don't have the right!  You are violating the Constitution! This is outrageous! You, greenhorns, doesn't respect anything!}
 {171}{015}{I realized my mistake. I won't do it again.}
 {172}{018}{I don't really care.}
 
-{180}{}{[Abilyn is boiling with resentment and discontent. She is visibly shaking] You don't really care?! Then get out of here, I don't want to see you anymore!!!}
+{180}{}{[Abilene is boiling with resentment and discontent. She is visibly shaking] You don't really care?! Then get out of here, I don't want to see you anymore!!!}
 {181}{999}{Okay.}
 
-{190}{}{Good, then you are not in violation of anything. There, listen to auntie Abilyn and you will never violate the Constitution. You have a lot to learn, greenhorn.}
+{190}{}{Good, then you are not in violation of anything. There, listen to auntie Abilene and you will never violate the Constitution. You have a lot to learn, greenhorn.}
 {191}{010}{Whatever you say. I want to ask something else.}
 {192}{999}{I'll go, need to violate a coulple of rights from Constitution. Bye.}
 
@@ -96,11 +96,11 @@
 {222}{024}{What can you say about other families in Livos?}
 {223}{010}{I want to ask something else.}
 
-{230}{}{[Abilyn cheers up] McKinseys are the most poweful family in Livos! My husband, Boston, gives speeches on a meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I know how it is - to love my own brother. But he is categorically against them having a relationships. What choice does Fox have, if the best man in the whole Livos is her brother? Boston doesn't understand that.}
+{230}{}{[Abilene cheers up] McKinseys are the most poweful family in Livos! My husband, Boston, gives speeches on a meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I know how it is - to love my own brother. But he is categorically against them having a relationships. What choice does Fox have, if the best man in the whole Livos is her brother? Boston doesn't understand that.}
 {231}{024}{Tell me about other families.}
 {232}{010}{Let me ask about something else.}
 
-{240}{}{[Abilyn contemptuously chuckles] What to say about them? A bunch of pathetic losers, that's who they are! I interact only with Emily Dunton, we play cards sometimes. She is very competitive, but she always pays her debts. Sometimes I think that if she loses her life in game of cards, she would go as far as killing herself.}
+{240}{}{[Abilene contemptuously chuckles] What to say about them? A bunch of pathetic losers, that's who they are! I interact only with Emily Dunton, we play cards sometimes. She is very competitive, but she always pays her debts. Sometimes I think that if she loses her life in game of cards, she would go as far as killing herself.}
 {241}{023}{What can you tell me about your family?}
 {242}{010}{I want to ask something else.}
 

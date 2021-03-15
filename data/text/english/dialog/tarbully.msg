@@ -103,7 +103,7 @@
 {1022}{}{Go away!}
 {1023}{}{Leave me alone!}
 {1024}{}{Don't touch me!}
-{1025}{}{I'm gonna punch you! Just wait for herald to look away.}
+{1025}{}{I'm gonna punch you! Just wait for Herald to look away.}
 {1026}{}{Leave.}
 {1027}{}{Get the hell out, you.}
 {1028}{}{What do you want?!}

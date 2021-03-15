@@ -110,7 +110,7 @@
 {1041}{}{Huh? Um... Yes?}
 {1042}{}{The time has come for you to serve the common good...}
 {1043}{}{...With your inaction and your laziness, you've put us all in great danger...}
-{1044}{}{...and the Warden told us the will of the Gods...}
+{1044}{}{...and Herald told us the will of the Gods...}
 {1045}{}{You will be feed to the Mouth of Hades!}
 {1046}{}{Your flesh will be given to the soil...}
 {1047}{}{...Which feeds us.}

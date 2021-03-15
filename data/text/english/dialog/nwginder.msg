@@ -25,7 +25,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[Before you stands the man in a mostly white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose you see round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, he continues to study a huge pile of papers in his hands].}
+{10}{}{[Before you stands the man in almost white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose you see a pair of round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, continues to study a huge pile of papers in his hands].}
 {11}{002}{I'm }
 {12}{002}{. I'm here recently.}
 
@@ -35,7 +35,7 @@
 
 #Node003
 {30}{}{[Hinder forcefully turns to you] Don't waste my time on some nonsense. If you have something to talk about - talk, fast and short.}
-{31}{004}{Uh, um, yeah, I just wanted to ask something...}
+{31}{004}{Uh, um, er, I just wanted to ask something...}
 {32}{010}{[gather your thoughts]}
 
 #Node004
@@ -157,7 +157,7 @@
 #Node028
 {280}{}{[doc stares at you] I won't be teaching some block from the wasteland, who knows nothing about the medical science. }
 {281}{029}{Owen has "luxatio manus". Unfortunately, I haven't run across the literature, which had the information about dealing with such condition.}
-{282}{031}{This would take care of sweaty and dirty labourer for you. In opposite case, he will come here by himself.}
+{282}{031}{This would take care of a sweaty and dirty labourer for you. In opposite case, he will come here by himself.}
 {283}{032}{But... You should help! You are the doctor!}
 
 #Node029

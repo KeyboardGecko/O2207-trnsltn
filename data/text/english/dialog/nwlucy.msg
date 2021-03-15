@@ -377,7 +377,7 @@
 
 
 {520}{}{Oh, in everything! From dusk, when I'm tying his shoes, and until dawn, when I put him to bed. He is very mature, and with my help he will become a great mayor!}
-{521}{040}{Tying his shoes? I see, he is very mature.I want to ask more about family.}
+{521}{040}{Tying his shoes? I see, he is very mature. I want to ask more about family.}
 {522}{010}{He should be, if you even help him go to bed. Okay, another question.}
 {523}{999}{Yeah, the best one. I'll go talk to him.}
 

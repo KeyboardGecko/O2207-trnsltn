@@ -188,11 +188,11 @@
 {284}{999}{I'd better go talk with someone else.}
 {285}{043}{Do you have this attitude toward your relatives too?}
 
-{290}{}{The most interesting thing to bother yourself with in Livos is obviously game of cards. I spend a lot of time playing with my friend Abilyn McKinsey. She is a worthy opponent, but more importantly, she always pays her debts. For me, the gambling debt is a holy thing. To repay it is a matter of honor, even if my life depends on it.}
-{291}{030}{Abilyn is your friend?}
+{290}{}{The most interesting thing to bother yourself with in Livos is obviously game of cards. I spend a lot of time playing with my friend Abilene McKinsey. She is a worthy opponent, but more importantly, she always pays her debts. For me, the gambling debt is a holy thing. To repay it is a matter of honor, even if my life depends on it.}
+{291}{030}{Abilene is your friend?}
 {292}{036}{Do you mean you could kill yourself if you lose?}
 
-{300}{}{[She makes a short laugh] She means nothing to me. I don't invest my trust in such unreliable concept as friendship. Abilyn is a convenient person. Convenient to play cards with, nothing more. I should point out that her intellectual capabilities are like of a chicken - and this makes her perfect interlocutor, safe to talk with.}
+{300}{}{[She makes a short laugh] She means nothing to me. I don't invest my trust in such unreliable concept as friendship. Abilene is a convenient person. Convenient to play cards with, nothing more. I should point out that her intellectual capabilities are like of a chicken - and this makes her perfect interlocutor, safe to talk with.}
 {301}{017}{Tell me more about Livos.}
 {302}{010}{I want to ask something else.}
 {303}{019}{I knew that you use people for your own benefit. I despise you so much.}

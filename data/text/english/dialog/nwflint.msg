@@ -187,7 +187,7 @@
 {331}{010}{Thanks, Flint.}
 
 #Node034
-{340}{}{Hmm... Basically, a line of people on this position is as big as the amount of pubic lice on a Rainbow slut. But if you can handle the weapon, and I can replace three guards with you reducing my costs - we can try. }
+{340}{}{Hmm... Basically, a line of people for this job is as big as the amount of pubic lice on a Rainbow slut. But if you can handle the weapon, and I can replace three guards with you reducing my costs - we can try. }
 {341}{036}{[tell him about all creatures and people you've killed, also elaborate on details and tricks of using your current weapon]}
 {342}{035}{I've killed before. I'm pretty good at it...}
 

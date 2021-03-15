@@ -83,7 +83,7 @@
 {161}{017}{What can you tell me about other McKinseys?}
 {162}{010}{I want to ask about something else.}
 
-{170}{}{My son Dallas, is responsible for water dealings. He is a little boring, but he knows his stuff. Although he is so bad at having fun! Stands silently at the meetings, so I have to carry it for all McKinseys there! My wife Abilyn is always clucking with Emily Dunton, playing cards all day. [Boston makes a deep sigh] And there's my daughter Fox... Oh man, so many problems with her...}
+{170}{}{My son Dallas, is responsible for water dealings. He is a little boring, but he knows his stuff. Although he is so bad at having fun! Stands silently at the meetings, so I have to carry it for all McKinseys there! My wife Abilene is always clucking with Emily Dunton, playing cards all day. [Boston makes a deep sigh] And there's my daughter Fox... Oh man, so many problems with her...}
 {171}{018}{What kind of problems?}
 {172}{010}{I see. Let's change the subject.}
 {173}{025}{What can you tell me about other families in Livos?}
@@ -108,7 +108,7 @@
 {211}{010}{Uh... Actually, I have a- ...Let's talk about something else.}
 {212}{999}{I need to go. Very urgent.}
 
-{220}{}{I mean Abilyn! She is my wife - and also my sister! We were together forever, that's why she is the one for me! And she fully supports me in this matter! Fox should forget about Dallas!}
+{220}{}{I mean Abilene! She is my wife - and also my sister! We were together forever, that's why she is the one for me! And she fully supports me in this matter! Fox should forget about Dallas!}
 {221}{023}{Wait a second. You are married on your sister. And you are against Fox marrying her brother?}
 
 {230}{}{Of course I am! What's not to understand here? Where'd she get an idea like that?! Unthinkable!}

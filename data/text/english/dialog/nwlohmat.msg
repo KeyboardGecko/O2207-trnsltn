@@ -30,7 +30,7 @@
 {16}{999}{[leave]}
 
 #Node002
-{20}{}{[The wolf is wagging his tail, looking at you with curiosity. He surely wouldn't mind to get a treat from you.]}
+{20}{}{[The wolf is wagging his tail, looking at you with curiosity. He surely wouldn't mind to get some sweet treat from you.]}
 {21}{003}{[sit nearby and try to carefully pet him]}
 {22}{004}{[dominate his mind with a powerful stare into his eyes]}
 {23}{005}{Look what I brought you! [give him a sugarcoated lavash meat]}

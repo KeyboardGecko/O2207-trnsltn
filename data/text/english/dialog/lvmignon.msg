@@ -81,7 +81,7 @@
 {211}{022}{[continue to listen]}
 {212}{010}{Enough information for me. I want to ask something else.}
 
-{220}{}{...This arrogant bitch Emily Dunton is brazenly using every convenience of our vault, despite her thinking that other people are inferior creatures, and she is the one in charge. She rarely even talks to anyone about anything, apart from ordering everyone around. Did you hear her talking? She uses such difficult words! I don't even understand her at all sometimes. But she also has weakness. She is a gambling addict. She and Abilyn McKinsey are often playing together. I think Abilyn is the only friend Emily has. And the reason for this, I suppose, is that Abilyn is a really simple-minded chick, who understands nothing and doesn't participate in anything. In short, you should see by now, what kind of place is this. Maybe you have other questions?}
+{220}{}{...This arrogant bitch Emily Dunton is brazenly using every convenience of our vault, despite her thinking that other people are inferior creatures, and she is the one in charge. She rarely even talks to anyone about anything, apart from ordering everyone around. Did you hear her talking? She uses such difficult words! I don't even understand her at all sometimes. But she also has weakness. She is a gambling addict. She and Abilene McKinsey are often playing together. I think Abilene is the only friend Emily has. And the reason for this, I suppose, is that Abilene is a really simple-minded chick, who understands nothing and doesn't participate in anything. In short, you should see by now, what kind of place is this. Maybe you have other questions?}
 {221}{010}{Yes. I wanted to ask...}
 {222}{999}{No, I learned enough. I'll go think about it.}
 
