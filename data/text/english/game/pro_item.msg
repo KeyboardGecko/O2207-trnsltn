@@ -881,9 +881,9 @@
 {44100}{}{*Dried Cheese*}
 {44101}{}{A piece of very old parmesan cheese, however it has already dried to the state of wood.}
 {44200}{}{Lavash Meat}
-{44201}{}{A lump of raw and fresh lavash meat, rich in protein and juicy.}
+{44201}{}{A piece of raw and fresh lavash meat, rich in protein and juicy.}
 {44300}{}{Sugar}
-{44301}{}{A packet of sugar. Although old age and dampness has it made hard as a rock, it is still as sweet as before.}
+{44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}
 {44401}{}{}
 {44500}{}{Seedy Disk}

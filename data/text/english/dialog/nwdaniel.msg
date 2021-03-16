@@ -89,7 +89,7 @@
 {192}{010}{I'll ask something else.}
 {193}{999}{I see. I need to go.}
 
-{200}{}{My mom helps me greatly.  She keeps my pops away, when I screw up. And she does all my stuff at home, so I could have time to do more serious things.}
+{200}{}{My mom helps me greatly. She keeps my pops away, when I screw up. And she does all my stuff at home, so I could have time to do more serious things.}
 {201}{012}{I see. Tell me about your plans for a town.}
 {202}{010}{I'll ask something else.}
 {203}{999}{I'll go talk to her. Bye.}

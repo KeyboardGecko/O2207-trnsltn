@@ -11,287 +11,228 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: смотритель лавашей.}
-{2}{}{У него задумчивый взгляд.}
+{1}{}{You see the lavash herder.}
+{2}{}{He has a thoughtful look.}
 #
 # после знакомства
-{3}{}{Вы видите: Филипп.}
-{4}{}{Кажется, его одежда видела лучшие дни.}
+{3}{}{You see Philip.}
+{4}{}{Looks like his clothes have seen better days.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[молодой парень задумчиво чешет затылок и смотрит по сторонам] Привет. Ты случайно не разбираешься в лечении животных?}
-{11}{02}{Привет. Случайно, нет. А в чем дело?}
+{10}{}{[A young fellow contemplatively scratches the back of his head] Hello. You don't happen to know your way around healing animals, do you?}
+{11}{02}{Hello. No, actually. What's wrong?}
 
 #Node002
-{20}{}{Да есть проблемка... большая. Меня, кстати, Филипп зовут. А, тебя, я не припоминаю, значит, ты тут недавно. }
-{21}{03}{Меня зовут }
-{22}{03}{. Я тут действительно не так давно.}
+{20}{}{I have a problem... A big one. My name is Philip, by the way. And I can't remember you, which means you are here recently. }
+{21}{03}{I'm }
+{22}{03}{. And you are right, I'm new here.}
 
 #Node003
-{30}{}{Ясно. Извини, но мне нужно заняться лавашами. Сейчас времени болтать совсем нет...}
-{31}{004}{Так у тебя проблема с лавашами?}
-{32}{006}{А вдруг я помочь смогу?}
-{33}{999}{Окей, ладно. Удачи тебе с твоей проблемой.}
+{30}{}{I see. You have to excuse me, but I need to tend lavash. No time to talk...}
+{31}{004}{So, you have a problem with lavash?}
+{32}{006}{Maybe I can help.}
+{33}{999}{Okay then. Good luck to you with your problem.}
 
 #Node004
-{40}{}{Да, но ты сам сказал, что ничего не смыслишь в лечении животных.}
-{41}{005}{Ну, я могу посмотреть. Как минимум - я мог уже сталкиваться с такой проблемой. Авось подсказал бы решение.}
-{42}{005}{Ну, я прекрасно лечу людей. Вдруг это поможет?}
+{40}{}{But you said youself that you don't know how to heal animals.}
+{41}{005}{Well, I can look. Maybe I've seen something similar. Could tell what to do.}
+{42}{005}{I'm good at healing people. Maybe that helps.}
 
 #Node005
-{50}{}{Окей. Я могу рассказать то, что заметил.}
-{51}{008}{Отлично, с этого и начнем...}
-{52}{007}{Маленькое уточнение - я бесплатно не помогаю.}
-{53}{008}{Хорошо. Но я ничего не обещаю.}
-{54}{999}{А знаешь, вобщем-то мне некогда всем этим заниматься. Свидимся еще.}
+{50}{}{Okay. I'll tell you what I've seen.}
+{51}{008}{Great, let's start with that.}
+{52}{007}{A little detail - I don't work for free.}
+{53}{008}{Okay. No promises though.}
+{54}{999}{Actually, you know, I have no time for it. See you maybe.}
 
 #Node006
-{60}{}{Ты же сам сказал, что ничего не смыслишь в лечении животных.}
-{61}{005}{Ну, я могу посмотреть. Как минимум - я мог уже сталкиваться с такой проблемой. Авось подсказал бы решение.}
-{62}{005}{Ну, я прекрасно лечу людей. Вдруг это поможет?}
+{60}{}{But you said youself that you don't know how to heal animals.}
+{61}{005}{Well, I can look. Maybe I've seen something similar. Could tell what to do.}
+{62}{005}{I'm good at healing people. Maybe that helps.}
 
 #Node007
-{70}{}{[Парень несколько мгновений смотрит на вас. Видно, что он не привык к такому] Ну, я думаю, что мы решим этот вопрос.}
-{71}{008}{Ок, тогда давай к делу!}
+{70}{}{[he looks at you for some time. Seems like he is not used to be in such situation] I think we can figure something out.}
+{71}{008}{Let's get to business then!}
 
 #Node008
-{80}{}{Так... начну с того, что лаваши перестали есть смесь, которую я готовлю. Всегда уплетали за милую душу, а недавно перестали. Причем они на глазах худеют, но жрать отказываются. И они не выглядят больными... Некторые даже пробовали отрастить детенышей... Прогуливаются как ни в чем не бывало. }
-{81}{013}{А ты пробовал им дать что-нибудь другое из еды, после того как они "объявили голодовку"?}
-{82}{011}{Ты не менял состав смеси недавно?}
-{83}{012}{А что за смесь?}
-{84}{999}{Хм... Мне надо подумать. Пойду осмотрюсь.}
+{80}{}{So, the thing is this - my lavash stopped eating food mix I make for them. The used to munch it with such an appetite, but now they completely stopped. They keep getting thinner, but still won't eat. And they don't look sick... Some of them even produced offsprings. They just walk around like nothing happens. }
+{81}{013}{Have you tried to feed them with something else, after they "went on a hunger strike"?}
+{82}{011}{Did you change the composition of your food mix recently?}
+{83}{012}{What's that mix?}
+{84}{999}{I need to think. I'll go look around.}
 
 #Node010
-{100}{}{Да?}
-{101}{016}{Давай вернемся к разговору о голодающих лавашах...}
-{102}{004}{Слушай, я тут вспомнил, что у тебя проблема с животными...}
-{103}{030}{А ты, как я погляжу, животных любишь. Что это за волк там сидит?}
-{104}{031}{Ну как там с весельчаками, которые еду портили? Выловил?}
-{105}{032}{Ну как, получилось выловить любителей портить еду?}
-{106}{033}{Как твои лаваши? Едят?}
-{107}{034}{Можешь про город рассказать? Или про местных?}
-{108}{999}{Все путем, Филипп, но мне пора. Удачи.}
-{109}{043}{Ну что, попался кто-нибудь?}
-{119}{039}{Ты вроде что-то говорил про сахарную лавашатину для волка? Можешь мне дать немного?}
+{100}{}{Yes?}
+{101}{016}{About your lavash problem...}
+{102}{004}{Listen, I remember you had a problem with animals...}
+{103}{030}{I see you are fond of pets. What's the deal with that wolf over there?}
+{104}{031}{What about that pests that were spoiling lavash food mix? Have you dealt with them?}
+{105}{032}{So, did you find out who was spoiling lavash food mix?}
+{106}{033}{How's your lavash? Do they eat?}
+{107}{034}{Can you tell me about the town? Or about the locals?}
+{108}{999}{It's all good, Philip, but I need to go. Good luck.}
+{109}{043}{So, did you catch someone?}
+{119}{039}{You have been mentioning sugarcoated lavash steak. Can you spare me one?}
 
 #Node011
-{110}{}{Нет, не менял. Сколько занимаюсь скотиной - всегда кормлю одним и тем же. Смесь я делаю сам лично, поэтому могу гарантировать, что состав не изменился. К тому же, он прост как палка.}
-{111}{014}{Они всю жизнь жрут одно и то же. Может им надоело?}
+{110}{}{No, I did not. I tend the cattle for many years, and I always feed them the same. I make mix myself, so I can guarantee its composition is unchanged. Besides, it's as simple as a stick.}
+{111}{014}{Maybe they are tired eating the same thing?}
 
 #Node012
-{120}{}{Ну, кое-какая растительность, вода. Ничего особого.}
-{121}{011}{И состав всегда одинаковый? Ты его не менял?}
+{120}{}{Well, uh, some herbs, water. Nothing special.}
+{121}{011}{And it is the same as always? You didn't change anything?}
 
 #Node013
-{130}{}{Нет, кормил всегда одним и тем же.}
-{131}{014}{Они всю жизнь жрут одно и то же. Может им надоело?}
+{130}{}{No. Always the same.}
+{131}{014}{Maybe they are tired eating the same thing?}
 
 #Node014
-{140}{}{Черт, это же скотина, а не модницы из Лайвоса. }
-{141}{015}{Ну да, ну да. У тебя самого-то есть идеи?}
-{142}{999}{Да уж. Мне нужно осмотреться, подумать.}
+{140}{}{Man, they are cattle, not dames from Livos. }
+{141}{015}{Yeah... Do you have any ideas?}
+{142}{999}{Okay. I need to look around and think.}
 
 #Node015
-{150}{}{Нет. Были бы - не просил бы помочь.}
-{151}{016}{Та-а-а-ак...}
+{150}{}{No. If I had something, I wouldn't ask you to help.}
+{151}{016}{Oh-kay...}
 
 #Node016
-{160}{}{[Филипп ожидает, пока вы выскажете свои мысли]}
-{161}{017}{Расскажи-ка мне о процессе кормления. }
-{162}{018}{Я знаю, в чем причина внезапной голодовки лавашей. Какие-то придурки подливали станочное масло тебе в смесь. Как раз тогда, когда ты подготавливал ее и отходил, чтобы убрать ингредиенты на место. }
-{163}{019}{Ну что, рекомендую тебе внимательнее готовить смесь. Арсэн и Даниэль подливали в нее станочное масло. }
-{164}{999}{Мне нужно осмотреться, подумать.}
-
-
-
+{160}{}{[Philip waits for you to tell him what you think.]}
+{161}{017}{Tell me about the feeding procedure. }
+{162}{018}{I know the reason behind your problem with lavash feeding. Some idiots kept pouring the machine oil into your mix, just when you were walking off to put ingredients away. }
+{163}{019}{Well, I recommend you to be more careful when making the mix. Arsene and Daniel has been pouring the machine oil into it. }
+{164}{999}{I need to look around and think.}
 
 #Node017
-{170}{}{Хм, думаю, я могу в двух словах описать тебе систему. [Филипп покашлял в кулак и рассказал о сложном устройстве, описав все в подробнейших деталях. Вам начинает казаться, что кормежка лавашей - есть смысл всей жизни этого человека. Он показывает руками подачу еды, крутит пальцы, вертит кистью, изображая некий механизм. Делает он это неторопливо, размеренно, подробно(но скучно), разъясняя все, что вообще только можно рассказать по данной теме. Как ни странно, но это вышло хоть и занудно, но понятно, вы полностью разобрались в его речевом потоке. Неожиданно у вас появляется мысль]}
-{171}{020}{Насколько я понимаю, ты очень ответственно относишься к своей работе. А исключая тебя, случайности и болезнь животных, могу предположить злой умысел. Ты не думал, что можно поставить небольшую ловушку и проверить мою теорию?}
-
-
-
+{170}{}{Okay, I'll describe it in two sentences. [Philip clears throat and starts telling you about the process, thoroughly describing every detail and nuance. You are suspecting that lavash feeding is the true purpose of his life. He explains it slowly, thoroughly and extensively (and boring), touching on every matter there is on the topic. Strangely, even if it was quite dull, you understood everything. Suddenly, you have an idea.]}
+{171}{020}{As I see, you take your job quite seriously. So, excluding yourself, sickness and accidents, we are left with the only option - it's someone's malicious intent. What do you think about setting a little trap to check out my theory?}
 
 #Node018
-{180}{}{Что?! Кто эти ублюдки?!}
-{181}{021}{Они этого больше не сделают, будь уверен. Я разобрался с ними. Скоро твои животины снова начнут жрать  еду.}
-{182}{019}{Арсэн и Даниэль.}
-{183}{022}{Я не знаю. Просто будь внимательней и сам увидишь.}
-
-
+{180}{}{What?! Who are these bastards?!}
+{181}{021}{They won't do it anymore, be sure about that. I dealt with them. Soon your favorite pets will start eating again.}
+{182}{019}{Arsene and Daniel.}
+{183}{022}{I don't know. You should be more careful and observant and you'll see for yourself}
 
 #Node019
-{190}{}{Вот ведь гниды! Ща я им!..}
-{191}{023}{Не стоит, они это не со зла делали, просто хотели помочь. Ты же знаешь, какие они тупицы. Я решил вопрос, они этого больше не сделают. Мне показалось даже, что Арсэну было стыдно.}
-{192}{021}{Я их поставил на место, не беспокойся. Теперь с твоей едой все будет нормально.}
-{193}{024}{Давай, иди и разберись с ними, как настоящий мужик!}
-
-
-
+{190}{}{That scum! I'll deal with them right now!}
+{191}{023}{It's not worth it. You know how dumb they are. They just tried to help, they meant no evil. And I took care of the matter anyway. I even think that Arsene looked as if he was sorry.}
+{192}{021}{I've put them into place, don't worry. Now your food mixes are going to be alright.}
+{193}{024}{Come on, do it, act like a man! Go!}
 
 #Node020
-{200}{}{Например? Не думаю, что смогу сделать подобное устройство.}
-{201}{025}{Да это и не устройство, в принципе. Краска есть? Тащи сюда.}
-
-
+{200}{}{A trap? I don't think I'm capable of making such a device.}
+{201}{025}{It's not a device. Do you have some paint? Bring it here.}
 
 #Node021
-{210}{}{Окей. Не важно, просил ты у меня награду или нет, но вот - эта штучка теперь твоя.  [Филипп протягивает вам пистолет]}
-{211}{999}{Спасибо, пойду опробую это в деле.}
-{212}{999}{И все? Блин. Ну ладно, это можно продать, верно? Пойду поищу торговцев.}
-{213}{027}{Нет-нет, Филипп, я не возьму.}
-
+{210}{}{Okay. It doesn't matter if you asked for reward or not, but this thing is now yours. [Philip hands you a gun]}
+{211}{999}{Thanks! I'll go try it in action.}
+{212}{999}{That's it? Man.... Okay, I can still sell it, right? I'll go look for traders.}
+{213}{027}{No, Philip, I won't take it.}
 
 #Node022
-{220}{}{Спасибо тебе, я уж думал, проблема в животных. Все оказалось проще, да? Приходи ко мне завтра в это же время, думаю, я узнаю, кто это к тому моменту. }
-{221}{999}{До завтра, парень.}
-{222}{026}{Чего? А как насчет моей награды, о которой мы договаривались?}
-
-
+{220}{}{Thanks a lot. I began to think that the problem is in animals themselves. But it turned out to be much simpler, right? Come by tomorrow, same time. I think I'll learn who is that pest. }
+{221}{999}{See you tomorrow then.}
+{222}{026}{What? And what about my reward we agreed upon?}
 
 #Node023
-{230}{}{Даже так? И что, мне теперь нужно не обращать внимание на эту парочку после этого? [Филипп осекся и замолчал. Затем протянул Вам пистолет] Это тебе. Спасибо, что помог. Дальше я сам.}
-{231}{999}{Спасибо, пойду опробую это в деле.}
-{232}{999}{И все? Блин. Ну ладно, это можно продать, верно? Пойду поищу торговцев.}
-{233}{027}{Нет-нет, Филипп, я не возьму.}
-
-
-
+{230}{}{So? Am I supposed to ignore them now? [Philip interrupts himself. Then he silently hands you a pistol] This is for you. Thanks for your help. I'll handle it from here.}
+{231}{999}{Thanks. I'll go try it in action.}
+{232}{999}{That's it? Man.... Okay, I can still sell it, right? I'll go look for traders.}
+{233}{027}{No, Philip, I won't take it.}
 
 #Node024
-{240}{}{Ну-ка, возьми это в качестве награды [протягивает вам свой пистолет], а я пойду и разберусь с этими засранцами. [Он резко уходит, вы даже не успеваете спросить у него что-либо. Вы стоите некоторое время на месте и осматриваете выданный вам пистолет. На боковине выгравирована надпись "Слюгер". Немного тяжеловат, но тяжелый - значит надежный, к тому же можно сильно приложить врага рукояткой. Вы собираетесь выстрелить для проверки, однако Филипп неожиданно возвращается]}
-{241}{028}{. . .}
-
-
+{240}{}{Take this as a reward [Philip hands you a gun], and I'll go take care of these pricks. [He hastily leaves, you didn't even manage to say another word. So, you stand and examine the pistol he gave to you. You see a "Slugger" label on the side. It feels quite heavy - but heavy is good, heavy is reliable. If it doesn't work you can always hit them with it. You think about shooting something as a test, but Philip suddenly comes back]}
+{241}{028}{[continue] }
 
 #Node025
-{250}{}{[Филипп отходит, но быстро возвращается. Протягивает Вам небольшую банку с краской] Держи, думаю я понял твою задумку, возвращайся через денек после "установки ловушки", если кто-то попадется, я буду уже знать.}
-{251}{999}{Отлично. [Вы берете банку] Жди меня, и я вернусь.}
-
-
+{250}{}{[Philip leaves you, returning shortly after. He hands you a can of paint] Here it is. I think I get what you are planning. Come by in a day after planting the "trap", if someone falls for it, I will know by then.}
+{251}{999}{Great. [you take the can] I'll be back.}
 
 #Node026
-{260}{}{Вот уж фиг там, вдруг ты врешь? Я не могу доверять всем подряд, понимаешь? Неспокойные времена. Вот, кто-то, как ты говоришь, масло льет в еду. Приходи завтра, когда я точно буду знать.}
-{261}{999}{Ладно, ладно. Я еще вернусь, Филипп, готовь награду. Удачи с этими ублюдками.}
-{262}{999}{Ну что ж, засранец, я вернусь завтра. И только попробуй не дать мне обещанное.}
-
-
+{260}{}{No way, what if you are lying? I can't trust everyone! Rough times, you know... There's even someone pouring oil in my food mixes. Come by tomorrow, when I learn something.}
+{261}{999}{Okay, I'll be back. Het my reward ready, Philip. Good luck with the catch.}
+{262}{999}{Okay, jerk, I'll come back tomorrow. And I dare you to try not to give me the reward you promised.}
 
 #Node027
-{270}{}{Ой, да ладно, я настаиваю.}
-{271}{999}{Ну, если ты настаиваешь... Спасибо, Филипп, и до скорого.}
-
-
+{270}{}{No, I'm insist.}
+{271}{999}{Well, if you insist... Thanks, Philip, and see you later.}
 
 #Node028
-{280}{}{[Он смотрит на вас некоторое время молча] Да, ты был прав, это они.}
-{281}{029}{Быстро ты навалял им.}
-
-
+{280}{}{[He silently looks at you for a minute] You was right. It was them.}
+{281}{029}{You beat them up quite fast, I must say.}
 
 #Node029
-{290}{}{Да мы и не дрались... Я просто подумал: "А зачем мне конфликты?" и вернулся. Никому от драки легче не будет, верно?}
-{291}{999}{Приятно видеть, что ты такой миролюбивый. Ну ладно, я пойду.}
-{292}{999}{Мда. Слабину дал? Я уж думал, порвешь их там всех. Ладно, пока, тряпка. Пистолет клевый, кстати.}
-
-
+{290}{}{No, we didn't fight... I was just thinking - why do I need to involve myself in conflict? So I turned around and went right back here. No one wins from having a fight, am I right?}
+{291}{999}{You are so peaceful, a real sight to see. Well, I'll go..}
+{292}{999}{What a pussy you are. I thought you would punch them so hard... Okay, weakling, see you around. Nice gun, by the way.}
 
 #Node030
-{300}{}{А, этот? Он не мой, вообще-то. Ничейный. }
-{301}{035}{И часто он к тебе заходит?}
-{302}{999}{О как. Ясно. Пойду-ка я по своим делам.}
-
-
-
+{300}{}{Oh, that? It's not mine, actually. It is no one's. }
+{301}{035}{And how often he gets to you?}
+{302}{999}{Oh. I see. I need to go, see you.}
 
 #Node031
-{310}{}{Ну... Я, значит, исправить нужду захотел... Отошел отлить, возвращаюсь - а какой-то ублюдок льет что-то, представляешь? Кричу ему "Стой, гнида", а он испугался, ведро свое с маслом бросил и пятками засверкал отсюда. Я ему вслед только и успел крикнуть, что животные страдают из-за него. Час назад я должен был снова кормежку устроить, провел обычные процедуры. Животные едят, значит этот гаденыш не вернулся. Это радует. Правда меня беспокоит что я до сих пор не знаю кто портил корм. В любом случае вот, держи. Надеюсь, он мне не пригодится. [Протягивает вам пистолет]}
-{311}{999}{Спасибо, пойду опробую его в деле.}
-{312}{999}{И все? Блин. Ну ладно, это можно продать, верно? Пойду поищу торговцев.}
-{313}{027}{Нет-нет, Филипп, я не возьму.}
-
-
-
+{310}{}{Uh... I was going to take a leak, so I went away... and when I returned, I saw someone pouring something into the mix, can you imagine? So I shouted at him to stop, that my animals are suffering, but he become scared, dropped the bucked and ran off. Around an hour ago I did usual feeding procedures - and lavash ate the food I gave them, so I guess this prick didn't come back, and that is good. I still don't know who he is though... Anyway, I'm grateful to you. Here. [he hands you a gun]}
+{311}{999}{Thanks. I'll go try it in action.}
+{312}{999}{That's it? Man.... Okay, I can still sell it, right? I'll go look for traders.}
+{313}{027}{No, Philip, I won't take it.}
 
 #Node032
-{320}{}{Еще нет.}
-{321}{999}{Хорошо, я позже зайду. До скорого.}
-
-
+{320}{}{Not yet.}
+{321}{999}{Okay, I'll come by later. See you soon.}
 
 #Node033
-{330}{}{Еще бы! Благодаря тебе они вновь начали полнеть. Приятное зрелище. Спасибо еще раз.}
-{331}{010}{Еще раз пожалуйста. Хорошо, что все хорошо. Еще вопрос...}
-{332}{999}{Конечно, Филипп. До скорого.}
-
-
+{330}{}{You bet! Thanks to you, they are getting fat again. A sight to see. Thanks again.}
+{331}{010}{Don't mention it. I'm glad everything's good. Another question...}
+{332}{999}{Sure, Philip. See you soon.}
 
 #Node034
-{340}{}{Хм, не думаю, что смогу рассказать что-то важное. Обычные работяги вроде меня новости узнают из слухов, а я слухи не люблю. Разве, что какая-то непонятная ситуация с мэром есть. Или была. Не знаю, честно. Ты поспрашивай других, я здесь не помощник.}
-{341}{010}{Хм. Ладно. Еще вопрос..}
-{342}{999}{О! Посмотрите-ка на часы! Мне уже совсем пора. [Уйти]}
-
-
-
-
+{340}{}{Hm, I don't think I can tell you something important. Usual workers, like me, learn the news from rumors, but I'm not interested in rumors. Well, there was some situation with Mayor, or something. I don't know, really. Ask someone else, can't help you here.}
+{341}{010}{Okay. Another question.}
+{342}{999}{Would you look at the time! I need to go. [leave]}
 
 #Node035
-{350}{}{Бывает иногда, он обычно по городу гуляет. Если и зайдет ко мне, то сидит и ждет, пока я ему дам чего-нибудь пожрать. }
-{351}{036}{И ты даешь?}
-
-
-
-
+{350}{}{He walks around sometimes. If he comes here, he usually sits and waits for me to give him something to eat. }
+{351}{036}{And you feed him?}
 
 #Node036
-{360}{}{А ты видел, какие у него клыки здоровенные? Конечно даю! Он, правда, не лаял на меня и не скалился никогда, и вообще вроде бы мирно сидит, но проверять его я не хочу. Собак боюсь, так уж вышло. И не спрашивай почему.}
-{361}{037}{И что даешь?}
-{362}{038}{Я все же спрошу. Почему?}
-
-
-
-
+{360}{}{Did you see his fangs? Of course I feed him! Although, he never growled at me, or showed any signs of aggression. He is quite peaceful - but I won't test it. I'm afraid of dogs, you know. Don't ask.}
+{361}{037}{And what do you feed him?}
+{362}{038}{Still, I'll ask. Why?}
 
 #Node037
-{370}{}{Я ему много чего давал. Он обычно медленно ест, неторопливо, но вот сахарную лавашатину в один присест лопает. Я даже подумал, что он ее в воздухе съест, если я подброшу. Ну подпрыгнет, знаешь? Но он не стал. Посмотрел на меня глазами такими любопытными, потупил малек, принюхался, но потом съел. Больше не рисковал я и давал как обычно. И что интересно, сколько я его кормлю, но с рук моих он не ест.}
-{371}{039}{Интересно. Слушай, можешь мне этой сахарной лавашатины дать?}
-
-
-
+{370}{}{Many things. He usually eats slowly, but with sugarcoated lavash steaks he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave at me surprised look, smelled the meat and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
+{371}{039}{Curious. Maybe you can give me some of this sugarcoated lavash meat?}
 
 #Node038
-{380}{}{Черт возьми! Ну не знаю я, не доверяю собакам. Я на ихнем не понимаю, чего они там говорят. А если я не понимаю, то не знаю. А чего человек не знает, того опасается или боится. }
-{381}{040}{Глупость. Человека губит такой взгляд на мир.}
-{382}{037}{Логично. Так что ты там ему даешь?}
-
-
+{380}{}{Damn it, I just don't trust the dogs! I don't understand them. The man is afraid of what he doesn't understand. }
+{381}{040}{Stupid. This view of the world is pretty destructive.}
+{382}{037}{Makes sense. So, what do you feed him?}
 
 #Node039
-{390}{}{Ну да, почему нет? Ты мне помог хорошо, кусочек лавашатины не жалко. [Филипп передает Вам засахаренную лавашатину и вкратце рассказывает способ ее приготовления]}
-{391}{}{За просто так, что ли? Извини, не могу просто отдать. Давай так: за пять батареек я дам тебе лавашатину и расскажу, как ее засахарить, а уж сахар сам доставай где хочешь.}
-{392}{041}{Спасибо, Филипп. Можешь про волка этого сказать что-нибудь еще?}
-{393}{041}{Ладно, держи. Можешь про волка этого еще сказать что-нибудь?}
-{394}{041}{Хм, ладно, воздержусь. Про волка этого еще сказать что-нибудь можешь?}
+{390}{}{Why not? You helped me, it is definitely worth a little piece. [Philip gives you a steak of sugarcoated lavash meat, explaining how to cook it]}
+{391}{}{Just like that? Sorry, I can't. Let's put it this way - for five batteries I'll give you a steak and explain to you how to sugarcoat it, and the rest you do yourself. The sugar, the cooking - your problem}
+{392}{041}{Thanks, Philip. Can you tell me something else about the wolf?}
+{393}{041}{Okay, here. Can you tell me something else about the wolf?}
+{394}{041}{Hm, okay, I'll pass. Can you tell me something else about the wolf?}
 
 #Node040
-{400}{}{Мы про собаку говорили, а не про мои взгляды и страхи. Предлагаю говорить про волка этого, а не про меня, потому что мне это не интересно, и говорить про это я не буду.}
-{401}{037}{Да, вернемся к волку. Что ты ему даешь поесть?}
-{402}{042}{А я буду.}
+{400}{}{We were talking about the wolf, not my fears and worldview. So let's keep doing just that.}
+{401}{037}{Okay, let's get back to the wolf. What do you feed him?}
+{402}{042}{I'd rather not.}
 
 #Node041
-{410}{}{Ну, появился он в городе внезапно, сразу без хозяина. Может быть хозяин и был, но я его не застал. По первому времени собаки на волка этого кидались, но он их раскидывал очень легко. Представляешь, один против целой стаи выходил победителем. Оттого-то и думаю я, что он очень крепкий, сильный и выносливый. Выглядит грозно, но я ни разу не слышал его рык, лай и прочее подобное. В общем, не буйный волк этот, мирный. А, вспомнил, его как-то один пьяный бугай мускулистый прогнать со двора пытался, кричал и надрывался, угрожал, ручищами своими размахивал. Все собаки окрестные разбежались от страха, а этот как шел так и шел, ухом повел только. Вот.}
-{411}{010}{Интересно. Ну ладно, и на том спасибо. Задам пару вопросов если можно?}
-{412}{999}{Понятно. Спасибо и до встречи. [уйти]}
+{410}{}{He appeared in the town suddenly. He is probably domesticated, but I have never seen his owner. I doubt he has one now. For some time, the local dogs are tried to pick on him, but he overpowered everyone around. Pretty strong, you see. Although he looks menacing, he is not agressive, if you don't try to make him angry. One time there was this brawny big guy, who tried to drive him off here, shouting, threatening, flailing his hands around. This wolf just doesn't care.}
+{411}{010}{Interesting. Another question then...}
+{412}{999}{I see. Thanks, see you around. [leave]}
 
 
 #Node042
-{420}{}{А я - нет. [Филипп развел руками, пожал плечами и поднял брови. Кажется, разговор окончен]}
-{422}{999}{Хм, как хочешь. Я пошел.}
-{423}{037}{Ладно, про собаку, так про собаку. Мы там о еде говорили, кажется. Что ты ему давал?}
-
+{420}{}{Well, it's the end of conversation then. [Philip shrugs. Looks like this talk is over]}
+{422}{999}{Suit yourself. I'm going then.}
+{423}{037}{Okay, let's get back to the wolf. What do you feed him?}
 
 #Node043
-{430}{}{Да, я нашел негодяев! Это был Арсэн. И Даниэль, конечно, тоже в этом замешан, они всегда вместе. Теперь я знаю! [Филипп резко замолчал и отвел глаза]}
-{431}{021}{Молодец. Теперь ты должен поговорить с ними, чтобы подобного впредь не повторялось.}
+{430}{}{Yes, I found out who they were - Arsene and Daniel. Should have guessed. They are bad batch around here. Now I know. [Philip looks away]}
+{431}{021}{Good. Now you should deal with them, so it wouldn't happen again.}
