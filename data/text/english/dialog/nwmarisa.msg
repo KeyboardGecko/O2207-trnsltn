@@ -12,7 +12,7 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see a twitchy lady.}
-{2}{}{She is constantly looking around, like afraid of something.}
+{2}{}{She is constantly looking around, like being afraid of something.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Maurissa.}
@@ -21,15 +21,15 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with eyes wide open. Looks like she is ready to run away in any moment] Who are you? What are you doing here?}
+{10}{}{[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with wide eyes. Looks like she is ready to run away in any moment] Who are you? What are you doing here?}
 {11}{002}{Relax, I'm }
 {12}{002}{. Is everything alright?}
 {13}{022}{What's wrong with you? Not quite right in the head?}
 {14}{999}{I was only passing by.}
 
 #Node002
-{20}{}{Oh, uh... I was just... I was thinking that you are following me. They follow me all the time! [she still looks suspiciously at you, trying to act like everything is okay.]}
-{21}{014}{What? }
+{20}{}{Oh, uh... I was just... I thought you are following me. They follow me all the time! [she still looks suspiciously at you, trying to act like everything is okay.]}
+{21}{014}{What? Who?}
 {22}{014}{Who is following you? Are you the big cheese around here, knowing too much?}
 {23}{003}{I'll continue following you then.}
 
@@ -61,7 +61,7 @@
 {114}{999}{[look over your shoulder] You know, I don't feel comfortable when people stare at something behind me. Talk later.}
 
 #Node012
-{120}{}{What? [her hands stretch like strings, face all red] You... Who do you think you are? I am perfectly okay!}
+{120}{}{What? [her hands stretch like strings, face is all red] You... Who do you think you are? I am perfectly okay!}
 {121}{999}{You have definitely lost your marbles. I think it's no use talking to you, although a little interesting. Bye-bye.}
 {122}{013}{You are as okay as I'm a stripper.}
 
@@ -97,13 +97,13 @@
 {181}{999}{[leave silently]}
 
 #Node019
-{190}{}{I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe. But our Mayor doesn't listen to me! So I fully support them undermining this... Fool's authority.}
-{191}{020}{Can you tell me details?}
+{190}{}{I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.}
+{191}{020}{Can you tell me more details about your family?}
 {192}{013}{Those who are sick are always disappointed with something... You are a schizophrenic with a persecution mania.}
-{193}{023}{I agree, it's quite boring here. ANd the authorities suck. }
+{193}{023}{I agree, it's quite boring here. And the authorities suck. }
 
 #Node020
-{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he won over my heart... But lately he acts cold. He says that something wrong with me. Arsene is just like him - strong and brave, He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend their time together.}
+{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart.... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.}
 {201}{999}{I think I need to talk to Dan. See you around, Maurissa.}
 {202}{050}{I think it's your fault that your family is falling apart. You should look for things in your home, not watch out for someone who's "following" you. Don't you think so?}
 {203}{021}{I feel sorry for you. I think you deserve better. }
@@ -115,7 +115,7 @@
 {212}{022}{[roll eyes] What a fool you are...}
 
 #Node022
-{220}{}{You are such a boor!!!}
+{220}{}{You are such a rude!!!}
 {221}{013}{Who cares.}
 {222}{999}{Uh... I think I've picked the wrong words. I'm sorry. Let's talk later. Bye!}
 
@@ -132,7 +132,7 @@
 
 
 #Node031
-{310}{}{[Maurissa abruptly changes her face expression] Leave! Immediately leave! [she turns away from you and starts to look around]}
+{310}{}{[Maurissa's face expression abruptly changes] Leave! Immediately leave! [she turns away from you and starts to look around]}
 {311}{999}{[end conversation]}
 
 #Node032
@@ -172,12 +172,12 @@
 {421}{999}{That's what I wanted to hear. Okay, I need to go. Will come by later. }
 
 #Node050
-{500}{}{[she heavily sighs] }
+{500}{}{[She heavily sighs.] }
 {501}{052}{Yes, this is how it is... [avoid looking into her eyes]}
 {502}{051}{There's a phrase I remember from one ancient book: "Treat the soul with experience". I think it would work for you. Find an occupation of your liking, something to do, something you can put your soul into. Try making clothes for children, working as a caravan merchant, collecting something rare. Take a trip somewhere. Do something!}
 
 #Node051
-{510}{}{[she looks at you for a long minute] What do I lose? I... I guess I just need to try. And keep trying until I find something I love. Right?}
+{510}{}{[she gives you a really long stare] What do I lose? I... I guess I just need to try. And keep trying until I find something I love. Right?}
 {511}{999}{Right. I'm so glad to hear it. Good luck to you.}
 
 #Node052

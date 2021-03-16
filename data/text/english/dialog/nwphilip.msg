@@ -25,9 +25,9 @@
 {11}{02}{Hello. No, actually. What's wrong?}
 
 #Node002
-{20}{}{I have a problem... A big one. My name is Philip, by the way. And I can't remember you, which means you are here recently. }
+{20}{}{I have a problem... A big one. My name is Philip, by the way. And I can't remember you, which means you are new here. }
 {21}{03}{I'm }
-{22}{03}{. And you are right, I'm new here.}
+{22}{03}{. And you are right, I'm here recently.}
 
 #Node003
 {30}{}{I see. You have to excuse me, but I need to tend lavash. No time to talk...}
@@ -37,14 +37,14 @@
 
 #Node004
 {40}{}{But you said youself that you don't know how to heal animals.}
-{41}{005}{Well, I can look. Maybe I've seen something similar. Could tell what to do.}
+{41}{005}{Well, I can look. Maybe I've seen something similar. Could give advice about what to do.}
 {42}{005}{I'm good at healing people. Maybe that helps.}
 
 #Node005
-{50}{}{Okay. I'll tell you what I've seen.}
-{51}{008}{Great, let's start with that.}
+{50}{}{Okay. I'll tell you what's wrong then.}
+{51}{008}{Great, let's get on with it.}
 {52}{007}{A little detail - I don't work for free.}
-{53}{008}{Okay. No promises though.}
+{53}{008}{Okay. No promises, though.}
 {54}{999}{Actually, you know, I have no time for it. See you maybe.}
 
 #Node006
@@ -57,7 +57,7 @@
 {71}{008}{Let's get to business then!}
 
 #Node008
-{80}{}{So, the thing is this - my lavash stopped eating food mix I make for them. The used to munch it with such an appetite, but now they completely stopped. They keep getting thinner, but still won't eat. And they don't look sick... Some of them even produced offsprings. They just walk around like nothing happens. }
+{80}{}{So, the thing is this - my lavash are no longer eating the food mix I make for them. They used to munch it with such an appetite, but now they have completely stopped. They keep getting thinner, but still won't eat. And they don't look sick... Some of them even produced offsprings. They just walk around like nothing happens. }
 {81}{013}{Have you tried to feed them with something else, after they "went on a hunger strike"?}
 {82}{011}{Did you change the composition of your food mix recently?}
 {83}{012}{What's that mix?}
@@ -77,8 +77,8 @@
 {119}{039}{You have been mentioning sugarcoated lavash steak. Can you spare me one?}
 
 #Node011
-{110}{}{No, I did not. I tend the cattle for many years, and I always feed them the same. I make mix myself, so I can guarantee its composition is unchanged. Besides, it's as simple as a stick.}
-{111}{014}{Maybe they are tired eating the same thing?}
+{110}{}{No, I did not. I tend the cattle for many years, and I always feed them the same. I make mix myself, so I can guarantee that its composition is unchanged. Besides, it's as simple as a stick.}
+{111}{014}{Maybe they are tired of eating the same thing?}
 
 #Node012
 {120}{}{Well, uh, some herbs, water. Nothing special.}
@@ -86,7 +86,7 @@
 
 #Node013
 {130}{}{No. Always the same.}
-{131}{014}{Maybe they are tired eating the same thing?}
+{131}{014}{Maybe they are tired of eating the same thing?}
 
 #Node014
 {140}{}{Man, they are cattle, not dames from Livos. }
@@ -100,7 +100,7 @@
 #Node016
 {160}{}{[Philip waits for you to tell him what you think.]}
 {161}{017}{Tell me about the feeding procedure. }
-{162}{018}{I know the reason behind your problem with lavash feeding. Some idiots kept pouring the machine oil into your mix, just when you were walking off to put ingredients away. }
+{162}{018}{I know the reason behind your problem. Some idiots kept pouring the machine oil into your mix. I guess it was happening just when you were walking off to put ingredients away. }
 {163}{019}{Well, I recommend you to be more careful when making the mix. Arsene and Daniel has been pouring the machine oil into it. }
 {164}{999}{I need to look around and think.}
 
@@ -125,7 +125,7 @@
 {201}{025}{It's not a device. Do you have some paint? Bring it here.}
 
 #Node021
-{210}{}{Okay. It doesn't matter if you asked for reward or not, but this thing is now yours. [Philip hands you a gun]}
+{210}{}{Okay. Whether you wanted the reward or not, this thing is now yours. [Philip hands you a gun]}
 {211}{999}{Thanks! I'll go try it in action.}
 {212}{999}{That's it? Man.... Okay, I can still sell it, right? I'll go look for traders.}
 {213}{027}{No, Philip, I won't take it.}
@@ -142,11 +142,11 @@
 {233}{027}{No, Philip, I won't take it.}
 
 #Node024
-{240}{}{Take this as a reward [Philip hands you a gun], and I'll go take care of these pricks. [He hastily leaves, you didn't even manage to say another word. So, you stand and examine the pistol he gave to you. You see a "Slugger" label on the side. It feels quite heavy - but heavy is good, heavy is reliable. If it doesn't work you can always hit them with it. You think about shooting something as a test, but Philip suddenly comes back]}
+{240}{}{Take this as a reward [Philip hands you a gun], and I'll go take care of these pricks. [he hastily leaves, you didn't even manage to say another word. So, you stand and examine the pistol he gave to you. You see a "Slugger" label on the side. It feels quite heavy - but heavy is good, heavy is reliable. If it doesn't work you can always hit them with it. You think about shooting something as a test, but Philip suddenly comes back.]}
 {241}{028}{[continue] }
 
 #Node025
-{250}{}{[Philip leaves you, returning shortly after. He hands you a can of paint] Here it is. I think I get what you are planning. Come by in a day after planting the "trap", if someone falls for it, I will know by then.}
+{250}{}{[Philip leaves you, returning shortly after. He hands you a can of paint] Here it is. I think I get your plan. Come by in a day after planting the "trap", if someone falls for it, I'm going to know by then.}
 {251}{999}{Great. [you take the can] I'll be back.}
 
 #Node026
@@ -159,17 +159,17 @@
 {271}{999}{Well, if you insist... Thanks, Philip, and see you later.}
 
 #Node028
-{280}{}{[He silently looks at you for a minute] You was right. It was them.}
+{280}{}{[He silently looks at you for a minute] You were right. It was them.}
 {281}{029}{You beat them up quite fast, I must say.}
 
 #Node029
-{290}{}{No, we didn't fight... I was just thinking - why do I need to involve myself in conflict? So I turned around and went right back here. No one wins from having a fight, am I right?}
+{290}{}{No, we didn't fight... I thought - why do I need to involve myself in conflict? So I turned around and went right back here. No one wins from being in a fight, am I right?}
 {291}{999}{You are so peaceful, a real sight to see. Well, I'll go..}
 {292}{999}{What a pussy you are. I thought you would punch them so hard... Okay, weakling, see you around. Nice gun, by the way.}
 
 #Node030
 {300}{}{Oh, that? It's not mine, actually. It is no one's. }
-{301}{035}{And how often he gets to you?}
+{301}{035}{And how often do you see him here?}
 {302}{999}{Oh. I see. I need to go, see you.}
 
 #Node031
@@ -193,7 +193,7 @@
 {342}{999}{Would you look at the time! I need to go. [leave]}
 
 #Node035
-{350}{}{He walks around sometimes. If he comes here, he usually sits and waits for me to give him something to eat. }
+{350}{}{He walks by sometimes. If he comes here, he usually sits and waits for me to give him something to eat. }
 {351}{036}{And you feed him?}
 
 #Node036
@@ -207,15 +207,15 @@
 
 #Node038
 {380}{}{Damn it, I just don't trust the dogs! I don't understand them. The man is afraid of what he doesn't understand. }
-{381}{040}{Stupid. This view of the world is pretty destructive.}
+{381}{040}{Stupid. This worldview is pretty destructive.}
 {382}{037}{Makes sense. So, what do you feed him?}
 
 #Node039
 {390}{}{Why not? You helped me, it is definitely worth a little piece. [Philip gives you a steak of sugarcoated lavash meat, explaining how to cook it]}
-{391}{}{Just like that? Sorry, I can't. Let's put it this way - for five batteries I'll give you a steak and explain to you how to sugarcoat it, and the rest you do yourself. The sugar, the cooking - your problem}
+{391}{}{Just like that? Sorry, I can't. Let's put it this way - for five batteries I'll give you a steak and explain to you how to sugarcoat it, and the rest you do yourself. The sugar, the cooking - your problem.}
 {392}{041}{Thanks, Philip. Can you tell me something else about the wolf?}
 {393}{041}{Okay, here. Can you tell me something else about the wolf?}
-{394}{041}{Hm, okay, I'll pass. Can you tell me something else about the wolf?}
+{394}{041}{Hm, I think I'll pass. Can you tell me something else about the wolf?}
 
 #Node040
 {400}{}{We were talking about the wolf, not my fears and worldview. So let's keep doing just that.}
@@ -230,7 +230,7 @@
 
 #Node042
 {420}{}{Well, it's the end of conversation then. [Philip shrugs. Looks like this talk is over]}
-{422}{999}{Suit yourself. I'm going then.}
+{422}{999}{Suit yourself. I'm going.}
 {423}{037}{Okay, let's get back to the wolf. What do you feed him?}
 
 #Node043

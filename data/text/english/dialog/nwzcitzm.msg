@@ -101,7 +101,7 @@
 {1046}{}{Yes, he's wise. But he is a filthy corpse.}
 {1047}{}{He won't listen to the people... Instead, he will make things right...}
 {1048}{}{It would be better if I became the Leader. I know how to impose order...}
-{1049}{}{Pffft... Some fringgin' democracy right there. What's next? A woman in charge?}
+{1049}{}{Pffft... Some friggin' democracy right there. What's next? A woman in charge?}
 #Даниэль (сын Марка) стал Руководителем
 {1050}{}{You know, I actually like Daniel. I'm much smarter than him.}
 {1051}{}{All this boy Daniel can do is to hang out with his buddy Arsene... What kind of Leader is that?}
