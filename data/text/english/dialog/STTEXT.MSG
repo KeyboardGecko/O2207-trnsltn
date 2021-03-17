@@ -324,12 +324,12 @@
 {348}{}{In the middle of the wasteland stands a lonely shabby hut. A very, very suspicious hut.}
 {349}{}{Almost falling off the last step, you find yourself in a stuffy room, soaked through with sweat and alcohol.}
 {350}{}{In front of you is the main entrance of a fairly large factory, very similar to the NWO. However, all plants are on the same facade.}
-{351}{}{The air of the workshop is saturated with the smell of rotten rags, and around is scattered evidence of the departed "tenants".}
-{352}{}{You hear a strange rustling in the basement. It's like someone's running a nail over stones.}
-{353}{}{There are only mountains around, nothing but mountains all around...}
-{354}{}{The picture of the "Miracle City" that appears before you is disappointing. There are only a couple of walls, mold and pale cave mushrooms.}
-{355}{}{Rising high into the sky, before you stands the huge skyscraper Olympus. The impressive Protectors next to the tower look simply insignificant.}
-{356}{}{The beauty of the interior furnishings makes your jaw drop on the floor and stay there for some time.}
+{351}{}{The air inside of this workshop is filled with a smell of rotten rags. Around you see scattered evidence of current tenants's presence.}
+{352}{}{You hear a strange rustling in the basement. It's like someone's scratching stones with a nail.}
+{353}{}{There are only mountains around, nothing except mountains...}
+{354}{}{The "Miracle City" that appears before you looks quite disappointing. Only a few walls, mold and pale cave mushrooms are left here.}
+{355}{}{Rising high into the sky, before you stands the huge skyscraper of Olympus. Menacing Defenders, standing next to the tower, look very insignificant in comparison.}
+{356}{}{The beauty of the interior furnishings makes your jaw drop on the floor and lay there for some time.}
 {357}{}{Men and women in coats, that may have been white a long time ago, are scurrying back and forth with flasks and fancy instruments.}
 {358}{}{It's hard to figure out what's going on here, but there are even more people in white coats than on the previous floor.}
 {359}{}{The local staff is running from computer to computer with bulging eyes and disheveled hair. They must be busy with something very important and urgent.}

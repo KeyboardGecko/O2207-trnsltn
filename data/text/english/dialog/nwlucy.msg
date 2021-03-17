@@ -27,7 +27,7 @@
 
 {20}{}{[you hear curiosity in her voice] Oh, I'm so glad do meet a new people in our town! My name is Lucy, I'm Mark's wife. Come, make yourself at home, let's have a chat.}
 {21}{003}{I'm also fond of meeting new people. You can learn so much new information from them!}
-{22}{015}{I like talking to new peolpe too. You can make a lot of benefit from it.}
+{22}{015}{I like talking to new people too. You can make a lot of benefit from it.}
 {23}{017}{I don't like to talk sideways. Usually, I'm specific.}
 {24}{018}{Actually I'm not much of a talker. I prefer to act first, then ask questions.}
 {25}{010}{Thank you, but first I'd like to ask a few questions.}
