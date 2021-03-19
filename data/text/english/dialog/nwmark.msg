@@ -213,7 +213,7 @@
 
 
 {380}{}{Everyone is equal to me here, I can't say someone stands out much. Maybe you'll ask more specific question? Who do you want to know about?}
-{381}{041}{Buck}
+{381}{041}{Burns}
 {382}{042}{Daniel}
 {383}{044}{Dan}
 {384}{047}{Arsene}
@@ -248,7 +248,7 @@
 {409}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{410}{}{Buck... He is a good man, despite having manners more suitable to a lavash corral janitor, than to the head of guards. But I'm fully confident with him. He is ready to do anything to keep us and our home safe. A piece of advice for you: do not talk to him about women - he will tire you with his success-stories, filled with a lot more toilet humor than his usual conversations...}
+{410}{}{Burns... He is a good man, despite having manners more suitable to a lavash corral janitor, than to the head of guards. But I'm fully confident with him. He is ready to do anything to keep us and our home safe. A piece of advice for you: do not talk to him about women - he will tire you with his success-stories, filled with a lot more toilet humor than his usual conversations...}
 {411}{038}{[ask about someone else]}
 {412}{031}{A valuable advice... but I'd like to go back to questions about the town.}
 {413}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -267,7 +267,7 @@
 {433}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{440}{}{Dan? Rude, harsh and sneaky. Buck used to notice him doing little mean things a couple of times. A petty crook, in my view. }
+{440}{}{Dan? Rude, harsh and sneaky. Burns used to notice him doing little mean things a couple of times. A petty crook, in my view. }
 {441}{045}{Why won't you throw him out then?}
 {442}{038}{I don't think he's of interest to me. Let's talk about someone else?}
 {443}{031}{Yeah... Let's get back to questions about town.}
@@ -393,7 +393,7 @@
 {6301}{}{I wonder why someone who has nothing to do with my problems just comes around and offers to help?}
 {631}{064}{Well, uh... I like politics and currency, you know. Hey, relax! I'll make my benefit. Pretty sure that there's a reward for helping in the main town matters, am I right?}
 {632}{064}{Because I want to make a life better. I meant my life, of course. Is there a reward?}
-{633}{065}{I had a really good talk with Buck. And I've seen how you all live here. Just want to help. Honestly.}
+{633}{065}{I had a really good talk with Burns. And I've seen how you all live here. Just want to help. Honestly.}
 {6302}{}{Glad to see you. Yeah, your help might come in handy...}
 {635}{066}{[listen]}
 
@@ -487,7 +487,7 @@
 {804}{084}{I see. In general, I have no more questions. Maybe you want to say some words of encouragement?}
 
 
-{810}{}{Hmm... You'll manage. Sam and Buck will be there for you with their advices, if you need them. Generally, the leader defines external and internal politics, starting from dividing the revenue and supplies, and all the way to the war duties and trade activities. The responsibility is pretty big, but don't be afraid - I'm not goiing to cemetery so soon. So I will provide help as long as I can, slowly introducing you into our key matters. Anyway, everyone else will already consider you as a leader. I need a couple more days to finish some preparations and announce my successor. Don't be surprised if people will suddenly start to pester you with their requests.}
+{810}{}{Hmm... You'll manage. Sam and Burns will be there for you with their advices, if you need them. Generally, the leader defines external and internal politics, starting from dividing the revenue and supplies, and all the way to the war duties and trade activities. The responsibility is pretty big, but don't be afraid - I'm not goiing to cemetery so soon. So I will provide help as long as I can, slowly introducing you into our key matters. Anyway, everyone else will already consider you as a leader. I need a couple more days to finish some preparations and announce my successor. Don't be surprised if people will suddenly start to pester you with their requests.}
 {811}{080}{Okay, I understood that part. Still, I have some questions...}
 {812}{084}{I see. In general, I have no more questions. Maybe you want to say some words of encouragement?}
 
@@ -532,7 +532,7 @@
 {901}{091}{Should I talk to every resident here? Really?}
 
 
-{910}{}{No, not to everyone. Only to the ones that folk listens to. Talk to Juan, Cyren, Flint, Owen, Buck and Hinder.}
+{910}{}{No, not to everyone. Only to the ones that folk listens to. Talk to Juan, Cyren, Flint, Owen, Burns and Hinder.}
 {911}{999}{Well... Okay. I'll try to do something with it. Will be back when Sam's reputation is equal to one of the saints, or something.}
 
 {920}{}{One more thing, if you are worried about the reward - there will be, once you're done with this. }

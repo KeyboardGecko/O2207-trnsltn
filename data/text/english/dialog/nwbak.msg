@@ -11,323 +11,264 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: здоровенный улыбающийся мужик.}
-{2}{}{Несмотря на габариты и возраст он выглядит лихим и жизнерадостным.}
+{1}{}{You see a big man. He is smiling.}
+{2}{}{Despite his size and age, he looks lively and dashing.}
 #
 # после знакомства
-{3}{}{Вы видите: Бак.}
-{4}{}{Он как всегда улыбается.}
+{3}{}{You see Burns.}
+{4}{}{He is smiling at you. As usual.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[перед Вами здоровенный мужик, лет тридцати с большими усами. Он улыбается и потирает свой старенький автомат] Оп-па. У нас тут новенький-хреновенький!}
-{11}{002}{Ты знаешь, что такое "лексическая редупликация"?}
-{12}{007}{Ну привет, старенький-поганенький.}
-{13}{998}{Да ты просто король шуток. Я твою корону сейчас тебе в жопу затолкаю!}
-{14}{011}{[промолчать, сверля глазами хохмача]}
-{15}{008}{Не смешно.}
-{16}{011}{[засмеяться во весь голос. Когда шутник засмеется так же громко, внезапно прервать смех и уставиться на него с серьезным лицом]}
+{10}{}{[Yo see a massive man in his thirties. He is smiling through a huge moustache, rubbing his old machinegun.] Whoa! Suddenly, we have someone new-and-screwed here!}
+{11}{002}{Do you know what "lexical reduplication" means?}
+{12}{007}{Hello to you too, old-and-bold.}
+{13}{998}{You are practically a king of jokes. Want me to shove your crown up your ass?}
+{14}{011}{[don't say a word, drilling him with your stare]}
+{15}{008}{Not funny.}
+{16}{011}{[start to laugh loudly. When the joker laughs as loud as you, stop and stare at him with a stone face.]}
 
 #Node002
-{20}{}{Реду... что?}
-{21}{003}{...пликация. Твои шутки на уровне твоего интеллекта. А он у тебя ниже плинтуса.}
-{22}{006}{...пликация. Но это неважно. Свою толику удовольствия я уже получил. Меня зовут }
+{20}{}{Redu... What?}
+{21}{003}{...plication. Your jokes correspond to level of your intellect. I must say, it's quite low.}
+{22}{006}{...plication. Nevermind. I got my joke. I'm }
 {23}{006}{.}
 
 #Node003
-{29}{}{[лицо мужика резко стало серьезным. Он молча уперся взглядом прямо в ваши глаза. Такое ощущение, что у него из ноздрей вот-вот повалит пар]}
-{30}{004}{Расслабься, мужик. Просто полегче с шуточками. Был бы это кто другой - я бы уже накинулся с кулаками. Но ты, гляжу, мужик что надо. Замяли? Меня зовут }
+{29}{}{[his face becomes serious, he is silently looking right into your eyes. You have a feeling that his nostrils are about to let off some steam.]}
+{30}{004}{Relax, man. Just take it a little easy on jokes. It it was somebody else, I'd already started a fist-fight. But I see that you are quite alright. Peace? I'm }
 {31}{004}{.}
-{32}{998}{Собственно ты и сам выглядишь паршиво. Прямо как твои шуточки - полное говно.}
+{32}{998}{In fact, you look just like your jokes - like shit.}
 
 
 #Node004
-{40}{}{[он слегка успокоился, но уже не улыбается] Меня зовут Бак. Я тут начальник охраны. Это такие ребята, которые могут аргументировано убедить тебя, что ты неправ и, что ты хочешь исправиться. Хе-хе. [расплывается в ухмылке]}
-{41}{005}{А, такие же младшие гоминиды как и ты?}
-{42}{010}{В общем, я тут у вас недавно. Есть несколько вопросов, если, конечно, начальник охраны может уделить мне время.}
+{40}{}{[he slightly calms down, although he isn't smiling anymore] The name's Burns. I'm the head of security around here. The kind of guys who can convince you that you are wrong and want to do the right thing. Hehe. [he grins]}
+{41}{005}{Oh, you mean your low-ranking hominids, like you?}
+{42}{010}{I'm here recently and have some questions. Of course, if the head of security have some time to answer.}
 
 #Node005
-{50}{}{Чего, мля?! }
-{51}{010}{Да все, забей. Я тут у вас недавно. И есть несколько вопросов, если, конечно, у начальника охраны найдется время.}
-{52}{998}{Я говорю, что ты гориллоид недоразвитый.}
+{50}{}{F- What?! }
+{51}{010}{Nevermind. I'm here recently and have some questions. Of course, if the head of security have some time to answer.}
+{52}{998}{I'm saying that you are retarded ape.}
 
 #Node006
-{60}{}{Я Бак. Начальник охраны НМП. }
-{61}{010}{Я тут совсем недавно. Хотел бы задать несколько вопросов.}
+{60}{}{I'm Burns. I'm the head of security in NWO. }
+{61}{010}{I'm here recently. I'd like to ask some questions.}
 
 #Node007
-{70}{}{О, а ты тоже весельчак? Думаю, мы с тобой найдем общий язык.}
-{71}{008}{Вообще-то это был сарказм. }
-{72}{006}{Ага. Типа того.}
-{73}{009}{Я не весельчак. Да и ты на него не шибко смахиваешь.}
-{74}{006}{Надеюсь, что так. А ты... }
+{70}{}{I see you are a funny guy too? I think we'll get along just fine.}
+{71}{008}{That was sarcasm, actually.}
+{72}{006}{Yeah, kinda.}
+{73}{009}{No, I'm not funny. And you are not very funny too.}
+{74}{006}{I hope so. And you are... }
 
 #Node008
-{80}{}{Да? А... ну и хрен с ним. Я Бак, начальник охраны в этом чудесном городке.}
-{81}{010}{Я тут совсем недавно. Хотел бы задать несколько вопросов.}
+{80}{}{Yeah? Oh... Screw it then. I'm Burns, the head of security in this wonderful town.}
+{81}{010}{I'm here recently. I'd like to ask some questions.}
 
 #Node009
-{90}{}{[мужик замолчал] Меня зовут Бак. Я тут рулю охраной в городе. }
-{91}{010}{Ага. Окей. Надеюсь, у начальника охраны есть время ответить на несколько вопросов?}
+{90}{}{[he gets silent] My name is Burns. I'm in charge of the town's security. }
+{91}{010}{Uh-huh. Okay. I hope the head of security has some time to answer my questions?}
 
 #Node010
-{1001}{}{О, привет-привет! Чего хотел?}
-{1002}{}{Ну давай-налегай, чего хотел узнать?}
-{1003}{}{Марк сказал что ты теперь его наследник. Что же, я думаю это верный выбор. Можешь на меня положится если что.}
-{1004}{}{Босс? Вы что-то хотели?}
-{101}{013}{Что ты можешь рассказать об этом месте?}
-{102}{014}{Расскажи о местных жителях.}
-{103}{035}{Ты, наверное, считаешь себя отличным шутником?}
-{104}{045}{Я тут слышал, что Марк собирается Сэма назначить мэром НМП. Как ты к этому относишься?}
-{105}{999}{Хорошо поболтали, но мне пора идти.}
-
-
+{1001}{}{Hello there! What do you want?}
+{1002}{}{Come on, get it on. What do you want to know?}
+{1003}{}{Mark said that you are his successor now. And I think it is a wise choice. You can count on me.}
+{1004}{}{Boss? Did you want something?}
+{101}{013}{What can you say about this place?}
+{102}{014}{Tell me about locals.}
+{103}{035}{You must be thinking that you are a great joker.}
+{104}{045}{I've heard that Mark is going to put Sam in charge of NWO. What do you think about it?}
+{105}{999}{Nice talking to you, but I need to go.}
 
 #Node011
-{110}{}{[Он неуверенно уставился на вас, ожидая Ваших слов.]}
-{111}{012}{Я был бы чертовски благодарен, если ты свои очешуенные шуточки прибережешь для своей мамаши. И если ты способен общаться не языком пятилетки, это будет очень здорово. Меня зовут }
+{110}{}{[he hesitantly stares at you, awaiting for your answer.]}
+{111}{012}{I would be VERY grateful, if you saved your hilarious jokes for your mom. And if you could talk not like five-year-old child, that would also be great. I'm }
 {112}{012}{.}
-{113}{006}{Итак, я представлюсь первым. Я }
+{113}{006}{Okay, I'll introduce myself first. I'm }
 {114}{006}{.}
 
 #Node012
-{120}{}{Здесь без шуток-прибауток не проживешь. Не нравится - не слушай. Я Бак, начальник охраны.}
-{121}{010}{Я тут совсем недавно. Хотел бы задать несколько вопросов.}
-
-
+{120}{}{You wouldn't make it here without jokes. Don't listen, if you don't like. I'm Burns, the head of security.}
+{121}{010}{I'm here recently. I'd like to ask some questions.}
 
 #Node013
-{130}{}{[Бак указывает себе ниже пояса] Об этом месте я много чего могу рассказать! Ха-ха-ха! Ладно, это место - Новый Мировой Порядок, если кратко - НМП, если еще не знаешь. Живем тихо, спокойно, как в заднице у лаваша. А я обеспечиваю порядок, чтоб так же тихо и оставалось.}
-{136}{}{Я думаю, что не открою вам, босс, ничего нового. По крайней мере если вас не интересуют мелкие перепалки местных жителей.}
-{131}{014}{Расскажи о жителях НМП.}
-{132}{022}{Чем тут можно заняться?}
-{133}{010}{Еще вопрос.}
-{134}{999}{Хорошо. Знаешь, мне уже пора идти, пока.}
-
-
-
+{130}{}{[Burns points below his belt] I can tell you about THIS place for sure, haha!! Okay, this town is called NWO, short for New World Order. We live peaceful and quietly, like in lavash's ass. And I'm responsible for it to continue to be that way.}
+{136}{}{I won't tell you nothing new, boss. If only you are not interested in local catfights.}
+{131}{014}{Tell me about NWO's locals.}
+{132}{022}{What can I do around here?}
+{133}{010}{Another question.}
+{134}{999}{Good. You know, I need to go now.}
 
 #Node014
-{140}{}{Я не люблю говорить о других, если только кого-то не словили со спущенными штанами между ног какой-нибудь красотки! Ха-ха! Я - начальник охраны, работаю на мэра НМП. Сейчас мэр - Марк, поэтому пока работаю на него.}
-{141}{015}{А почему "пока работаю"? Собрался уходить?}
-{142}{016}{Расскажи о Марке.}
-{143}{019}{Расскажи о себе подробнее.}
-{144}{010}{Тогда другой вопрос.}
-{145}{}{Я не люблю говорить о других, если только кого-то не словили со спущенными штанами между ног какой-нибудь красотки! Ха-ха! На самом деле мне нечего особо сказать. Да и вам будет полезнее со всеми поговорить лично.}
-{146}{016}{Расскажи о Марке.}
-{147}{019}{Расскажи о себе подробнее.}
-{148}{010}{Тогда другой вопрос.}
-
-
+{140}{}{I don't like to brag about others, except someone who got caught with his pants down between the legs of some beauty, hahaha!! I'm Burns, I work for NWO's mayor. Now it's Mark, so for now - I work for him.}
+{141}{015}{"For now"? Why, are you leaving?}
+{142}{016}{Tell me about Mark.}
+{143}{019}{Tell me more about yourself.}
+{144}{010}{Another question then.}
+{145}{}{I don't like to brag about others, except someone who got caught with his pants down between the legs of some beauty, hahaha!! Actually, I don't have much to say. You'd better talk with everyone personally.}
+{146}{016}{Tell me about Mark.}
+{147}{019}{Tell me more about yourself.}
+{148}{010}{Another question then.}
 
 #Node015
-{150}{}{Ха, я уйду отсюда только вперед ногами, защищая мэра! Дело в том, что здоровье у Марка - хуже говна. Его задница уже одной половинкой в могиле. И скоро в НМП будет новый мэр. И я буду защищать нового мэра, пока не сдохну.}
-{151}{016}{Хочу узнать о Марке.}
-{152}{019}{Можешь о себе рассказать?}
-{153}{010}{Хочу еще спросить.}
-
+{150}{}{Hah, I'm leaving this place only when I'm dead, protecting Mayor! The thing is, his health is shittier than shit. His ass is one half in grave, and soon there will be a new Leader in NWO. And I will protect new Mayor, until I die.}
+{151}{016}{I want to learn about Mark.}
+{152}{019}{Can you tell me about yourself?}
+{153}{010}{I want to ask something else.}
 
 #Node016
-{1601}{}{Марк - наш мэр, я его уважаю больше всех. Это охренеть, какой мужик! Он всю поляну тут держит, без него тут все развалилось бы к хренам собачьим! Но сейчас он тяжело болеет и скоро, к сожалению, отправится кормить червей. И тогда хрен знает, что станет с НМП!}
-{1602}{}{Марк - наш мэр, я его уважаю больше всех. Это охренеть, какой мужик! Жаль, что он уходит с поста руководителя. Но времена такие... надеюсь, что вы, босс, будете не хуже Марка.}
-{1603}{}{Марк - наш мэр, я его уважаю больше всех. Это охренеть, какой мужик! Жаль, что он уходит с поста руководителя. Но времена такие... надеюсь, новое руководство не испортит все своими гнилыми мозгами.}
-{161}{017}{Кто может стать новым мэром НМП?}
-{162}{018}{Что случится с НМП, если не будет нормального мэра?}
-{163}{010}{Хочу задать еще вопрос.}
-
-
+{1601}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! He handles everything here, without him it would already be nothing here! But now he is sick and, unfortunately, soon will be feeding the worms. And who knows what will NWO become after it!}
+{1602}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that you, boss, will be as good as him.}
+{1603}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that new management won't screw things here with their rotten brains.}
+{161}{017}{Who could become a new Mayor?}
+{162}{018}{What would happen with NWO if there's no Mayor, or if there's someone unsuited for position?}
+{163}{010}{I want to ask something else.}
 
 #Node017
-{1701}{}{В НМП после смерти Марка, мэром должен стать его сын - Даниэль. Но Марк говорит, что Даниэль - сопляк и полный придурок! Слушай, я тут подумал, что ты можешь помочь мне разобраться в этом дерьме. Я буду защищать нового мэра в любом случае, кто бы им ни стал. Но у каждого человека есть свои слабые стороны, свои враги, и мне нужно будет подготовиться.  Поговори с Марком и узнай, кто будет новым мэром. Поговори и с другими людьми, что они думают по поводу всей этой херни, насчет нового мэра. Ну как, возьмешься за это дело, найдешь преемника Марку?}
-{1702}{}{Вот дерьмо, это я и хочу узнать! Я же просил тебя поговорить с людьми и выяснить, кто будет новым мэром. Ты это сделаешь?}
-{171}{010}{Хм, наверное нет, у меня очень много дел. Я лучше еще вопрос задам.}
-{172}{010}{Да, я возьмусь за это дело. Я поговорю с Марком насчет его преемника. А пока другой вопрос.}
-
-
+{1701}{}{After Mark dies, his son Daniel should succeed him. But everybody says that Daniel is a wussie and a total moron, so I suppose there are some options... Listen, I was thinking that you could help me sort this shit out. I will protect a new Mayor in any case, whoever he would be. But every person has weaknesses, enemies and such. So, I need to prepare. Try to find out who will succeed Mark. Talk to Mark himself, and ask others around here, what do they think about it. Will you do this for me?}
+{1702}{}{Shit, that's what I want to know! I'd like you to talk to people and figure it out. Would you?}
+{171}{010}{Probably not, I have a lot of things to do. I'd better ask a question.}
+{172}{010Okay, I'll do it. I'll talk to Mark about his successor. And now - to other questions.}
 
 #Node018
-{180}{}{НМП скатится в ту же жопу, из которой Марк всю жизнь его вытаскивал! Город просто погрузится в дерьмо лавашей и растворится в нем, как моча в реке. }
-{181}{017}{Кто может стать мэром и не допустить этого?}
-{182}{010}{Да уж, ужасное будущее. Хочу задать другой вопрос.}
-
-
+{180}{}{NWO will quickly descend into the depths of the same ass from which Mark tried to pull it out the most of his life! The town will drown in lavash shit and dissolve in it, like a piss in the river.}
+{181}{017}{Who would be better as Mayor and won't let that happen?}
+{182}{010}{Sounds like quite a grim future. I'd like to ask another question.}
 
 #Node019
-{190}{}{[Бак весело лыбится] Да что тут рассказывать! Я начальник охраны, готов любому надрать задницу за дело или просто так! Ха-ха-ха! Меня называют Бак, это мое прозвище. Оторву яйца любому, кто косо посмотрит в сторону мэра, и сдохну, прикрывая его задницу!}
-{195}{}{[Бак весело лыбится] Да что тут рассказывать! Я хотя и начальник охраны, готов любому надрать задницу за дело или просто так! Ха-ха-ха! Если вы еще не слышали, меня кличут Бак - это мое прозвище. Баком, наверное, даже чаще называют! Оторву яйца любому, кто косо посмотрит в Вашу сторону, и сдохну, прикрывая Вам задницу!}
-{191}{020}{Ты действительно готов на все ради мэра?}
-{192}{021}{А откуда у тебя такое прозвище?}
-{193}{023}{Как ты стал начальником охраны?}
-{194}{010}{Хорошо, давай я задам еще вопрос.}
-
-
+{190}{}{[Burns's smile covers most of his face] What can I say! I'm the head of security, always ready to kick ass for a crime or just because, hahaha!! People call me Burns, it's my moniker. I will tear off the balls of anyone who dares to threaten Mayor, and I'm ready to die covering his ass!}
+{195}{}{[Burns's smile covers most of his face] What can I say! Despite being the head of security, I'm always ready to kick ass for a crime or just because, hahaha!! If you didn't hear, people call me Burns. It's my moniker. I will tear off the balls of anyone who dares to threaten you, and I'm ready to die covering your ass!}
+{191}{020}{Are you really willing to do anything for Mayor?}
+{192}{021}{How did you get your moniker?}
+{193}{023}{How did you become the head of security?}
+{194}{010}{Okay, let me ask another question.}
 
 #Node020
-{200}{}{[Бак становится серьезным. В его взгляде появляется стальной блеск] Я любому жопу порву, кто захочет навредить мэру. Если надо - грудью его закрою. И пусть меня похоронят рядом с другими руководителями, как преданного и верного до конца. И даже если весь Радиус пойдет на нас войной, то я первый пойду в атаку и буду херачить всех этих ублюдков, пока последняя тварь не сдохнет. Ни одна паршивая гнида не пройдет! Пусть все знают: Бак не собирается отсиживаться в кустах, как вшивая крыса!}
-{201}{021}{Бак, а почему тебя так прозвали?}
-{202}{010}{Понятно. Давай я еще спрошу.}
-
-
+{200}{}{[Burns becomes serious. His eyes glow with steel] I'll tear a new one to anyone who plans to hurt Mayor. I'll cover him from bullets with my chest, if I have to. And let me be buried together with previous Mayors, as the most loyal to the very end. Even if all of Radius wages war with us, I'll be in the first line, murdering these bastards, until the last one of them dies! Let everyone know - Burns won't be hiding like some lousy rat!}
+{201}{021}{Burns, why do people call you that?}
+{202}{010}{I see. Let me ask another question.}
 
 #Node021
-{210}{}{[крутит свой ус, задумчиво вспоминая прошлое] Эх, давно это было, я еще не был начальником охраны НМП. Скитались мы с другими парнями по Радиусу, занимались всякой херней, ничего особенного. И были у меня здоровенные, красивые бакенбарды вместе с шикарными усищами. Ни у одного хрена во всем Радиусе не было таких! И вот однажды один наш дружок, хитрожопый, как дешевая шлюха, решил забрать всю добычу себе. И подложил бомбу в костер. Мне повезло, я как раз отошел в кусты отлить, когда рвануло. Мне только лицо слегка опалило, и бакенбарды сгорели. Я этого ублюдка потом догнал и разрядил весь магазин ему в спину. И ходил я вот так, с опаленными бакенбардами, пока не отросли заново. Ну и прозвали меня после этого Бакенбард, потом Бакен, а потом просто Бак.}
-{211}{010}{Интересная история. Я задам еще вопрос.}
-
-
+{210}{}{[he twirles his moustache, pondering about the past] Man, it was so long time ago. I wasn't even the head of security back then. Me and some other guys had been walking around the Radius, doing all kinds of shit. Nothing special. And I had these beautiful sideburns, completed with an amazing moustache. Not one dick in the whole Radius had something similar! And one time, the smartest asshole around my fellas decided to take all the loot we had for himself. And planted a bomb into our campfire. I just went to take a piss when it detonated, so I guess I was lucky - All I got was a little scorched face and completely burned moustache and sideburns. I chased the bastard, ulnoading all my gun into his back. So I've been walking around with burned sideburns, until they grew back. So, people started calling me sideburns, then it was shortened for just Burns. That's it.}
+{211}{010}{What a story. I have other questions.}
 
 #Node022
-{220}{}{[Бак улыбнулся и без угрозы в голосе ответил] Можно пулю своей башкой словить, если начать создавать всем проблемы. А если будешь вести себя спокойно, как лаваш после траха, то никто тебя не тронет - даже рады будут новому человеку. Ты не похож на погонщика лавашей или работягу завода, поэтому вряд ли тебя заинтересует такая дерьмовая и скучная работа. Может, другие жители дадут тебе какое-нибудь поручение, которое сами очкуют сделать.}
-{221}{010}{Хорошо, не буду создавать проблем. Давай другой вопрос задам. }
-{222}{998}{Ты сейчас сам пулю в свою тупую башку получишь!}
-{223}{999}{Окей, пойду пообщаюсь с другими жителями по поводу работы.}
-
-
+{220}{}{[Burns smiles and, without any threat in his voice, answers] If you do problems, you could end up catching a bullet with your forehead. And If you behave, just like lavash after copulation, then you'll be safe. People even could like you here. You don't look like lavash herder or factory worker type, so you probably won't be interested in this boring and shitty kind of job. Maybe some of the folks would ask you to do something they are afraid to do themselves.}
+{221}{010}{I won't cause problems then. Another question. }
+{222}{998}{Now you're getting a bulet in your head!}
+{223}{999}{Okay, I'll go talk to others about work.}
 
 #Node023
-{230}{}{[Бак начал поигрывать своими мускулами] Как только, так сразу! Ха-ха! Когда я пришел в Радиус, здесь был другой начальник, полный сопляк и хлюпик. Его какой-то членоголовый говнюк из вот этого автомата пристрелил, и уже собирался отправить мэра в небесную жопу. Но тут я вмешался, голыми руками отмудохал этого педрилу, а автомат себе оставил. Вот мэр и предложил работать на него. Были и другие желающие, но я из них дерьмо сразу выбил. Никто не смог мне надрать задницу.}
-{231}{025}{Что-то ты не выглядишь особо сильным.}
-{232}{024}{Да, ты выглядишь сильным. Не хотел бы я с тобой ссориться.}
-{233}{010}{Понятно. Давай я спрошу еще. }
-
-
+{230}{}{[Burns flexes his muscles] As soon as I can, haha!! When I arrived in here, there was another head of security. A wuss and sucker. He was shot down in front of me by some dickhead asshole, from this exact machinegun. That asshole's next move was to send the Mayor to the heaven's ass, but I interrupted his plan by beating the shit out of him with my bare hands. Took the gun as a souvenir. And that's when Mayor offered me to work for him. Of course, there were another candidates on my position, but none of them could kick my ass. So there.}
+{231}{025}{You don't look too strong, you know.}
+{232}{024}{Yeah, I see. You look pretty strong. I wouldn't like to squabble with you.}
+{233}{010}{I see. Let me ask something else. }
 
 #Node024
-{240}{}{[Бак заулыбался, ему явно льстят Ваши слова] Да, я такой! Но не бойся, я с тобой ссориться не буду, я слабых и убогих не бью! Ха-ха-ха!}
-{241}{025}{Хотя, все-таки ты не особо сильный, как я посмотрю.}
-{242}{010}{Да, не надо меня бить, давай я лучше вопрос задам.}
-
-
+{240}{}{[Burns smiles even more. He is definitely flattered] Yes, I am!! But don't be afraid, I won't pick fights with you. I don't beat up the weaker ones, haha!!}
+{241}{025}{Although, scratch that, you actually don't look that strong.}
+{242}{010}{Yeah, no fights then. I want to ask something else.}
 
 #Node025
-{250}{}{[Бак мгновенно рассвирепел] Что??? Да ты молокосос недоделанный! Да я тебе одной рукой жопу на куски порву! Ты от одного моего удара с ног скопытишься! Ты что, давно по своей наглой роже не получал? }
-{251}{026}{С одного удара с ног свалюсь? Вряд ли. Спорим?}
-{252}{998}{Ты меня уже достал, я тебе сейчас сам жопу порву!}
-{253}{010}{Тише, тише, успокойся, я пошутил. Лучше я вопрос задам.}
-{254}{999}{Тише, тише, успокойся. Я пока пойду, а ты остынь, не хочу с тобой ссориться.}
-
-
+{250}{}{[he instantly gets fierce] WHAT??? You... Fucking milksop!! I will tear your ass into pieces with my one hand!! One punch from me will make you lay down!! Didn't have your face beaten up lately?! }
+{251}{026}{One punch will make me lay down? I really doubt that. Wanna bet?}
+{252}{998}{You are making me sick already. It is I who is going to tear your ass, right now!}
+{253}{010}{Come on, calm down. It was a joke. I'd better ask a question.}
+{254}{999}{Come on, calm down. It was a joke. I'd better go wait for you to calm down. I don't want to quarrel with you.}
 
 #Node026
-{260}{}{[в глазах Бака появился азарт] Хочешь поспорить? Ну давай, не забудь солому подстелить! Не бойся, я буду аккуратно бить, чтобы ничего тебе не сломать! Так что, согласен, или очкуешь? Выдерживаешь один удар - ты выиграл, а свалишься с ног - выигрываю я. Что, слабо? Коленки не дрожат? Ха-ха-ха!}
-{261}{027}{Ну давай! А на что спорим?}
-{262}{010}{Нет, что-то мне не хочется получать по морде. Я хотел еще спросить.}
-{263}{999}{Ой, нет, не надо. Пойду я лучше.}
-
-
+{260}{}{[His eyes are flashing with excitement] A bet? Sure! Don't forget to put down something soft, so you could sleep comfortably when you fall! Don't worry, I'll punch carefully, so I wouldn't break something. Handle one blow - and you win, drop down - and I win. Are you in, or your knees are trembling too much? Haha!!}
+{261}{027}{Let's do it! What we are going to bet with?}
+{262}{010}{Nah, I don't really feel like getting punched in the face. I'd like to ask something.}
+{263}{999}{Uh, no, thank you. I'd better go.}
 
 #Node027
-{270}{}{А на что угодно! Давай на щелбан!}
-{271}{028}{Давай! Я готов!}
-{272}{010}{Получить по морде за щелбан? Ну уж нет. Я еще спрошу.}
-
-
+{270}{}{Whatever, I don't care! Let's bet a noogie!}
+{271}{028}{Hah! Okay! Go!}
+{272}{010}{To get my face punched for a noogie? No way in hell. I better ask something.}
 
 #Node028
-{280}{}{[Бак громко заржал] Ха-ха-ха! Ну, держись!}
-{281}{999}{[Вы приготовились к удару]}
-
-
+{280}{}{Hahaha! Here we go!!}
+{281}{999}{[brace yourself for a punch]}
 
 #Node029
-{290}{}{[Вы еле-еле устояли на ногах, в голове гудит, но Вы выстояли. Бак смотрит на Вас с уважением] Ха, а ты крутая задница, как я посмотрю! Что ж, давай мне щелбан, заслужил.}
-{291}{032}{[Вы собираете все силы и прописываете Баку щелбан]}
-
+{290}{}{[You barely managed to keep yourself on your feet, your head is buzzing - but you are standing. Burns looks at you with respect] Hah, aren't you a tough one? Well, looks like I lost. Give me a noogie, I deserved that.}
+{291}{032}{[You concentrate all of your strength and give Burns a noogie]}
 
 #Node030
-{300}{}{[Вы падаете на спину после мощнейшего удара. Из глаз посыпались искры, вы почти теряете сознание. Бак довольно хохочет] Ха-ха-ха, я же говорил, что свалишься, как подстреленный лаваш! А теперь лови щелбан!}
-{301}{033}{[Вы собираете все силы и готовитесь получить щелбан]}
-
+{300}{}{[You fall on your back after a powerful blow. You see flashes, you almost pass out. Burns hoarsely laughs] Hahaha!! I told you that you will fall, like a pushed lavash!! Now - here's your noogie!}
+{301}{033}{[You concentrate all of your remaining strength to take a noogie]}
 
 #Node031
-{310}{}{[Вы падаете и теряете сознание. Через несколько минут Вы приходите в себя, Бак обеспокоенно пытается привести Вас в чувство] Ух, я рад, что ты в порядке. Я уж думал, ты ноги протянул. Ладно, не буду тебе щелбан прописывать, тебе и так досталось.}
-{311}{034}{[Вы собираете все силы, чтобы подняться.]}
-
-
+{310}{}{[You fall down and pass out. You come to your senses in a few minutes, Burns looks concerned] Phew, it's good that you are alright. I began to think that you're done for. Okay, no noogie for you, I think you had enough.}
+{311}{034}{[You concentrate all of your strength to just get up]}
 
 #Node032
-{320}{}{[На Ваш щелбан Бак никак не среагировал. Наверное, Вашему пальцу было больнее, чем ему] Что, и это все? Ха-ха-ха! Ладно, отлично время провели.}
-{321}{010}{Да, было просто замечательно. Я хочу еще вопрос задать.}
-{322}{999}{Да, было отлично. Мне надо немного прийти в себя, потом поговорим.}
-
-
+{320}{}{[Burns doesn't react at all. Looks like your finger hurts more than he is] That's it? Hahaha!!! Okay, it was great.}
+{321}{010}{Yeah, just wonderful. I want to ask something else.}
+{322}{999}{Agreed, that was great. I need to come to senses, let's talk later.}
 
 #Node033
-{330}{}{[Мощный щелчок почти сбивает Вас с ног. Бак довольно хохочет] Ха-ха-ха! Это было круто! Отлично время провели!}
-{331}{010}{Да, было просто замечательно. Я хочу еще вопрос задать.}
-{332}{999}{Да, было отлично. Мне надо немного прийти в себя, потом поговорим.}
-
-
+{330}{}{[His noogie almost knocks you over. Burns hoarsely laughs] That's it? Hahaha!!! Okay, it was great.}
+{331}{010}{Yeah, just wonderful. I want to ask something else.}
+{332}{999}{Agreed, that was great. I need to come to senses, let's talk later.}
 
 #Node034
-{340}{}{[Бак помогает Вам подняться. Потом начинает довольно хохотать] Ха-ха-ха, ты чуть на тот свет не отправился! Все равно отлично время провели!}
-{341}{010}{Да, было просто замечательно. Я хочу еще вопрос задать.}
-{342}{999}{Да, было отлично. Мне надо немного прийти в себя, потом поговорим.}
-
-
+{340}{}{[Burns helps you to get up. Then he hoarsely laughs] Hahaha, you almost died!! Still, that was great.}
+{341}{010}{Yeah, just wonderful. I want to ask something else.}
+{342}{999}{Agreed, that was great. I need to come to senses, let's talk later.}
 
 #Node035
-{350}{}{[Бак немного обиделся] Так и есть! Я самый веселый и задорный из всех! Не то, что это унылое говно вокруг! Я могу пошутить на любую тему!}
-{351}{036}{Спорим, ты не сможешь пошутить, если я дам тебе тему?}
-{352}{010}{Да, наверное, ты действительно лучший шутник в городе. Хочу еще вопрос задать.}
-
+{350}{}{[he looks offended] That's how it is! I'm the most funny guy here! Not like that boring shits around. I can make a joke about anything!!}
+{351}{036}{I bet you can't. What if I give you word? Would you make a rhyming joke about it?}
+{352}{010}{Yes, looks like you are the most funny guy. I want to ask something else.}
 
 #Node036
-{360}{}{[Бак с азартом начал выкрикивать] Ну давай! Задай любое слово, и я так пошучу, что ты жопу порвешь от смеха! Спорим на щелбан!}
-{361}{037}{Ха, ну давай! Сейчас придумаю тебе слово...}
-{362}{010}{Не, не хочу щелбан. Давай еще спрошу.}
+{360}{}{[he starts shouting] Yeah! Come on! Give me word and I'll rhyme so hard that you'll tear your ass from laughing! Let's bet on a noogie!}
+{361}{037}{Let's do it! I'll give you a word...}
+{362}{010}{Nah, I don't want a noogie. Let me ask something else.}
 
 
 #Node037
-{370}{}{[Бак довольно потирает руки и ждет от Вас слово]}
-{371}{038}{Винтовка}
-{372}{042}{Лаваш}
-{373}{039}{Треугольник}
-{374}{043}{Жопа}
-{375}{044}{Трансцендентность}
-{376}{040}{Батарейка}
-{377}{041}{Бутылка}
+{370}{}{[Burns is rubbing his hands, awaiting for your word]}
+{371}{038}{Rifle}
+{372}{042}{Lavash}
+{373}{039}{Triangle}
+{374}{043}{Ass}
+{375}{044}{Transcendence}
+{376}{040}{Battery}
+{377}{041}{Bottle}
 
 #Node038
-{380}{}{Винтовка-чертовка, отстрелена головка! Ха-ха-ха! Лови щелбан!}
-{381}{033}{Э-э-э...}
-
-
+{380}{}{Rifle - fire is full, shooting is delightful! Hahaha!! Here's a noogie!}
+{381}{033}{Uhhh...}
 
 #Node039
-{390}{}{Треугольник-покойник, на жопе гнойник! Ха-ха-ха! Лови щелбан!}
-{391}{033}{Э-э-э...}
-
-
+{390}{}{Triangle - wide angle is making me angry! Hahaha!! Here's a noogie!}
+{391}{033}{Uhhh...}
 
 #Node040
-{400}{}{Батарейка-злодейка, в жопе линейка! Ха-ха-ха! Лови щелбан!}
-{401}{033}{Э-э-э...}
-
-
+{400}{}{Battery, matter be it's making me flatterie! Hahaha!! Here's a noogie!}
+{401}{033}{Uhhh...}
 
 #Node041
-{410}{}{Бутылка-дрочилка, на жопе ухмылка! Ха-ха-ха! Лови щелбан!}
-{411}{033}{Э-э-э...}
-
-
+{410}{}{Bottle with model, ended in a brothel! Hahaha!! Here's a noogie!}
+{411}{033}{Uhhh...}
 
 #Node042
-{420}{}{Лаваш-карандаш, на лобке шалаш! Ха-ха-ха! Лови щелбан!}
-{421}{033}{Э-э-э...}
-
-
+{420}{}{Lavash, oh gosh, I'm not going to wash it! Hahaha!! Here's a noogie!}
+{421}{033}{Uhhh...}
 
 #Node043
-{430}{}{[Бак в замешательстве] Э-э-э... Черт, жопа - и так прикольно! Не знаю, что и придумать...}
-{431}{032}{Ха, не можешь придумать! Лови щелбан!}
-
+{430}{}{[Burns is confused] Uhhh... Damn, ass is fine as it is! I don't know what to say...}
+{431}{032}{Hah, so you lose! Here's a noogie!}
 
 #Node044
-{440}{}{[Бак в замешательстве] Э-э-э... Чего? Что это за херня такая? Не знаю, что и придумать...}
-{441}{032}{Ха, не можешь придумать! Лови щелбан!}
-
+{440}{}{[Burns is confused] Uhhh... What? What the hell is this shit? I don't know what to say...}
+{441}{032}{Hah, so you lose! Here's a noogie!}
 
 #Node045
-{450}{}{[Бак задумался, покручивая ус] Хм, Марк действительно хитрожопый правитель. Наверное, старина Сэм - это лучший вариант из всех возможных, хоть и несет от него, как из задницы лаваша. Сэм опытный руководитель, он тут когда-то все начинал. Ай да Марк, ай да сукин сын! Что ж, это будет круто.}
-{451}{999}{Окей, я вижу, ты не против. Мне надо идти, пока.}
+{450}{}{[Burns starts twirling his moustache] Hmm, Mark is a really smart-ass Mayor. I think good old Sam is the best possible option, even if he stinks like lavash ass. Sam is an experienced leader, he started it all here. Mark, you son of a bitch, that is a great idea!}
+{451}{999}{I see you don't mind. Okay, I need to go, bye.}

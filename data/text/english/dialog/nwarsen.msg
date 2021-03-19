@@ -133,7 +133,7 @@
 {162}{999}{I'll go look for them.}
 
 #Node017
-{170}{}{[Arsene cringes and looks away] What to say? This is, like, boring and stupid town. Nothing to do for cool guys, like me and Daniel. It's just, like, lavash and tin cans around. And the folks here are mostly, you know, work all day. I don't know what for. As they say - "Dying lavash won't give a good offsprings". }
+{170}{}{[Arsene cringes and looks away] What to say? This is, like, boring and stupid town. Nothing to do for cool guys like me and Daniel. It's just, like, lavash and tin cans around. And the folks here are mostly, you know, work all day. I don't know what for. As they say - "Dying lavash won't give a good offsprings". }
 {171}{029}{Tell me about Daniel.}
 {172}{018}{Do you have a job?}
 {173}{023}{Dying lavash won't give a good offsprings? And what does it mean?}
@@ -170,7 +170,7 @@
 {221}{021}{You shouldn't have, really. Lavash refuse to eat now. At all. Philip wouldn't like to learn about this...}
 
 #Node023
-{230}{}{How would I know! It sounds pretty cool though. }
+{230}{}{How would I know? It sounds pretty cool though. }
 {231}{010}{Okay, another question then.}
 {232}{999}{I need to go now. Bye.}
 
@@ -208,7 +208,7 @@
 {283}{999}{Okay, I'll go talk to him.}
 
 #Node029
-{290}{}{[Arsene starts ethusiastically gesturing, his eyes are burning] Daniel is such a cool dude! My man! We're, like, best friends! We are rocking this place so hard! Others wouldn't dare to! }
+{290}{}{[Arsene starts ethusiastically gesturing, his eyes are burning] Daniel is such a cool dude! My man! We're, like, best friends! We are rocking this place so hard! Like others wouldn't dare to! }
 {291}{030}{And what is it that you do, exactly?}
 {292}{039}{I've heard that Daniel is going to be a new Mayor of NWO.}
 
@@ -219,12 +219,12 @@
 {303}{010}{I want to ask more.}
 
 #Node031
-{310}{}{[Arsene smiles] Oh, you, like, figured it out already! Yes, it was us! I came up with, uh, an idea - to water down the lavash food mix with machine oil, or something. We already did it with canned food!}
+{310}{}{[Arsene smiles] Oh, you, like, figured it out already! Yes, it was us! I came up with, uh, an idea - to water down the lavash food mix with machine oil, or something. We already did the same with canned food a couple of times!}
 {311}{021}{You shouldn't have done it, really. Lavash refuse to eat now. At all. Philip will be very pissed.}
 {312}{021}{Yeah? Are you really this dumb? I think you should be assigned with a job of Philip's assistant.}
 
 #Node032
-{320}{}{[Arsene mysteriously smiles] Lately, we are working, uh, very hard on the food problem in NWO. Our latest development is a secret stew! We are, like, just made one. Want some?}
+{320}{}{[Arsene mysteriously smiles] Lately, we were working, uh, very hard on the food problem in NWO. Our latest development is a secret stew! We are, like, just made one. Want some?}
 {321}{034}{Sounds tempting. Okay, let's try it!}
 {322}{033}{What is it made of?}
 {323}{010}{I'm not very hungry now. Let me ask something else.}

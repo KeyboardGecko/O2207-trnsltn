@@ -5,7 +5,7 @@
 # 30/07/2013
 #
 # ЧТО ЭТО?
-# Это - ведро с кормежкой лавашей, в которую Даниэль и Арсэн подливают машинное масло.
+# Это - ведро с кормежкой лавашей, в которую Даниэль и Arsene подливают машинное масло.
 #
 # Описание 1
 {1}{}{You see: a tub with food.}
@@ -18,7 +18,7 @@
 # Действия
 {5}{}{You stare into the stinky goop, but fail to see anything unusual.}
 {6}{}{A closer inspection reveals that this mushy goo contains oil grease!}
-{7}{}{You carefully put some paint on the tub's edge, slightly covering it with dust. The trap is set, all you have to do now is to wait.}
+{7}{}{You carefully put some paint on the tub's edge, slightly covering it with dust. The trap is set, all you have to do now is wait.}
 {8}{}{}
 {9}{}{}
 {10}{}{}
