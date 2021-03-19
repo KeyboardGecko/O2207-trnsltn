@@ -382,7 +382,7 @@
 
 
 {620}{}{Yes?}
-{621}{063}{I spoke to Buck... He told me that you have some kind of problem regarding your successor. He didn't get much into details, only said it would be better to discuss it with you.}
+{621}{063}{I spoke to Burns... He told me that you have some kind of problem regarding your successor. He didn't get much into details, only said it would be better to discuss it with you.}
 {622}{073}{Mark, I talked to everyone, just as you asked.}
 {623}{072}{I'm still in the process of doing my job. Just came by.}
 {624}{097}{About Sam's election...}
@@ -428,7 +428,7 @@
 {691}{070}{So what is needed from me?}
 
 
-{700}{}{You have a fresh eye. Talk to Daniel, try to assess what's going on in his head. Maybe there's also some point in talking about Daniel with Buck first. Or maybe to his friend, Arsene. And talk to Sam, he's his grandfather and spends much more time with him. Do not talk to Lucy though. She'll try to put things in a better light, stuff like that. We don't need it. Get back to me when you'll find out what's what.}
+{700}{}{You have a fresh eye. Talk to Daniel, try to assess what's going on in his head. Maybe there's also some point in talking about Daniel with Burns first. Or maybe to his friend, Arsene. And talk to Sam, he's his grandfather and spends much more time with him. Do not talk to Lucy though. She'll try to put things in a better light, stuff like that. We don't need it. Get back to me when you'll find out what's what.}
 {701}{999}{Okay. Be right back.}
 
 

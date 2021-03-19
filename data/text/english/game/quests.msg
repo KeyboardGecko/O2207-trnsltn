@@ -36,7 +36,7 @@
 # NEW WORLD ORDER Quests
 #
 {400}{}{Mark asks you to broke peace between his wife Lucy and his adviser Sam.}
-{401}{}{Buck suggested that you find a replacement for the dying Mayor Mark.}
+{401}{}{Burns suggested that you find a replacement for the dying Mayor Mark.}
 {402}{}{Juan complains about the broken machine and asks you to help him.}
 {403}{}{The scout Cyren is going to Tin Industries for cans. He needs a partner.}
 {404}{}{You can guard Flint's caravans for a good payoff.}
