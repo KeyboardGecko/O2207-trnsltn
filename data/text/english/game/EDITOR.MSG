@@ -283,7 +283,7 @@
 {1117}{}{You did a nice job of making the soil in the Undeath Caves a little more fertile, and the harvest a little richer. Rejoice, now they live a little easier.}
 {1118}{}{Betrayals, secret murders, deception, denunciations ... Who cares? Winners are not judged! You are now the leader of the Sunset Jackals!}
 {1119}{}{Intrigues of intrigue and long-standing family feuds - you unraveled everything, and even took the post of Supervisor in the New World Order Cannery! Well, now you are definitely provided with canned food.}
-{1120}{}{It is not easy to be the head of four crazy families in Laivos, but in a crazy world there are crazy rules. Oh, and why are the vault residents calling you "Overseer"?}
+{1120}{}{It is not easy to be the head of four crazy families in Livos, but in a crazy world there are crazy rules. Oh, and why do the vault residents call you "Commander"?}
 {1121}{}{Controlling drugs and narcotics is not everyone's dream in the Wastes. You made that dream come true and now control the entire Rainbow Raiders community under your iron fist!}
 {1122}{}{How is that even possible? Four groups that hate each other, and you managed to become the head figure in each of them! Bravo!}
 {1123}{}{You are a famous seeker of old world governmental, scientific or other secrets... and of course the loot therein. Finding the unknown is your motto!}
