@@ -40,7 +40,7 @@
 {61}{010}{Oh... I see, I get it. Can I ask something else?}	
 {62}{999}{Thanks for the explanation. I'll better go.}	
 {63}{999}{Such an interesting place. I think we'll get along just fine. Well, see you later.}
-	
+
 {100}{}{Well, well, our new Tartarus boy! Whatcha need?}	
 {101}{}{Sure, ask.}	
 {102}{}{Well... Go ahead, ask away.}	

@@ -142,7 +142,6 @@
 {432}{}{No compassion for your neighbor! Well, I'll figure it out.}
 
 
-										
 {50}{}{It's you. What is the point of talking to you? You... Oh Gods, how does the earth carry you like this? Listen up Your father needs medicine, called AN-TI-RA-DIN. You can find it here [marks on your organizer the location of Raibow Raiders]. Do you even understand what I did?}
 {51}{999}{Abr... Abrrybrrr. Yep [nod and leave]}
 {52}{}{What else do you need? Aah, about your dad. Did you bring antiradin?}

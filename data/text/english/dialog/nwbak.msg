@@ -119,7 +119,7 @@
 {153}{010}{I want to ask something else.}
 
 #Node016
-{1601}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! He handles everything here, without him it would already be nothing here! But now he is sick and, unfortunately, soon will be feeding the worms. And who knows what will NWO become after it!}
+{1601}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! He handles everything, without him it would already be nothing here! But now he is sick and, unfortunately, soon will be feeding the worms. And who knows what will NWO become after it!}
 {1602}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that you, boss, will be as good as him.}
 {1603}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that new management won't screw things here with their rotten brains.}
 {161}{017}{Who could become a new Mayor?}
@@ -130,7 +130,7 @@
 {1701}{}{After Mark dies, his son Daniel should succeed him. But everybody says that Daniel is a wussie and a total moron, so I suppose there are some options... Listen, I was thinking that you could help me sort this shit out. I will protect a new Mayor in any case, whoever he would be. But every person has weaknesses, enemies and such. So, I need to prepare. Try to find out who will succeed Mark. Talk to Mark himself, and ask others around here, what do they think about it. Will you do this for me?}
 {1702}{}{Shit, that's what I want to know! I'd like you to talk to people and figure it out. Would you?}
 {171}{010}{Probably not, I have a lot of things to do. I'd better ask a question.}
-{172}{010Okay, I'll do it. I'll talk to Mark about his successor. And now - to other questions.}
+{172}{010}{Okay, I'll do it. I'll talk to Mark about his successor. And now - to other questions.}
 
 #Node018
 {180}{}{NWO will quickly descend into the depths of the same ass from which Mark tried to pull it out the most of his life! The town will drown in lavash shit and dissolve in it, like a piss in the river.}

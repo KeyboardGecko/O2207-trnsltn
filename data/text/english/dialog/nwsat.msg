@@ -26,20 +26,24 @@
 {13}{002}{Are you talking to me?}
 {14}{999}{I'm already leaving.}
 
+
 {20}{}{Do you see somebody else? It's you who barges into my tent like it's your property!}
 {21}{014}{What's so special about this tent?}
 {22}{003}{Sorry to bother you.}
 {23}{998}{Nobody dares to speak to me like that. [punch his face]}
 {24}{999}{Screw you. Everybody here walk wherever they want. [leave]}
 
+
 {30}{}{I'm surrounded by barbarians! Manners and politeness are forgotten completely! "New World Order" - ha! More like "Wild Bunch of Savages". The world, the order, the human nature - everything is gone to shit.}
 {31}{004}{This is the most civilized town I encountered. There are places much, much worse.}
 {32}{998}{Who do you call a savage?! [punch his face]}
 {33}{999}{I'd better go...}
 
+
 {40}{}{I don't care about other places. Now you are in MY tent and you are listening to ME.}
 {41}{005}{Why?}
 {42}{999}{I'm already leaving.}
+
 
 {50}{}{Because my tent is my sovereign territory. And in here, my laws and my rules are applied.}
 {51}{006}{What rules?}
@@ -47,46 +51,56 @@
 {53}{998}{No, smart-ass, actually the other rules are applied here. Here's one: you are getting your face punched.}
 {54}{999}{I'm leaving your sovereign territory.}
 
+
 {60}{}{People here are ought to know manners, respect elders and act like a human! Do you hear me? H-u-m-a-n, not some mindless savage! And stop looking around! I have a hunch on petty thieves. Don't you dare touching my stuff!}
 {61}{007}{Sounds reasonable. I accept those rules.}
 {62}{998}{That's it. That was the last drop of my patience.}
 {63}{999}{Screw you! [leave]}
+
 
 {70}{}{Oh, he accepts those rules! Of course you do! And call me "master Seth"!}
 {71}{008}{Yes, master Seth.}
 {72}{998}{[punch him into stomach as hard as you can]}
 {73}{999}{[leave]}
 
+
 {80}{}{[Seth ponders] Here's the thing... I see that you are not completely lost. You can be valuable. If you complete my assignment, I'll appoint you my personal assistant. Interested?}
 {81}{009}{Interested.}
 {82}{020}{Not interested.}
+
 
 {90}{}{First you need to swar not to talk about this to anyone. Anyone! Especially to this sly cook from that tent opposite of mine.}
 {91}{011}{Deal. So, what's the assignment?}
 {92}{999}{I need to think about it.}
 
+
 {110}{}{So. Somewhere in Radius, an underground settlement of Livos is situated. An intellectual elites on the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brighten up for a moment] It's time to show these savages where they belong! }
 {111}{012}{[keep listening]}
 {112}{021}{I see. Not interested.}
+
 
 {120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. Tell them that I'm willing to help and ready to be their official representative here. When their troops arrive, I'll help them establish here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
 {121}{013}{Deal.}
 {122}{022}{I need to think about it.}
 {123}{020}{No, I won't involve myself into this.}
 
+
 {130}{}{Wonderful! But keep your mouth shut! Don't tell it to that cretin from nearby tent.}
 {131}{999}{See you soon.}
 {132}{022}{I have some questions.}
+
 
 {140}{}{What?! How you even dare! You are stepping on a sovereign territory, on my land! It's an outpost of New World! It will be the place from which the expansion of a new civilization starts!}
 {141}{015}{Stop goofing around, old man. It's just an old tent.}
 {142}{006}{I see. And what are the rules around here?}
 {143}{999}{I'm leaving your sovereign territory.}
 
+
 {150}{}{Watch your mouth, you little shit! No one allowed you to yank! Either listen to what I tell you, or get the hell out of here!}
 {151}{016}{Okay, relax. It is your sovereign territory. So what?}
 {152}{998}{Okay, but I'm going to punch your face before leaving.}
 {153}{999}{Consider that I've never been here. [leave]}
+
 
 {160}{}{Good boy. You can call me Seth. If we come to agreement, we could work out something beneficial for both of us. Who are you and where are you from?}
 {161}{017}{My name is }
@@ -94,26 +108,32 @@
 {163}{018}{I am an ex-worker from Olympus.}
 {164}{019}{It doesn't matter.}
 
+
 {170}{}{Is that so? Well, pleasured to meet you, }
 {171}{}{. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guarenteed. Interested?}
 {172}{009}{Interested.}
 {173}{020}{Not interested.}
 
+
 {180}{}{Is that so? You got pretty far from tower. Well, pleasured to meet you. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guarenteed. Interested?}
 {181}{009}{Interested.}
 {182}{020}{Not interested.}
+
 
 {190}{}{Don't want to talk? As you wish. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guarenteed. Interested?}
 {191}{009}{Interested.}
 {192}{020}{Not interested.}
 
+
 {200}{}{I was never really counting on you, barbarian scum! Get the hell out of here!}
 {201}{998}{Okay, but I'm going to punch your face before I leave.}
 {202}{999}{[leave]}
 
+
 {210}{}{Of course... Is there anything interesting for a dirty savage?! Get the hell out! You'll regret not taking my side, when you had the chance!!}
 {211}{998}{Okay, but I'm going to punch your face before I leave.}
 {212}{999}{[leave]}
+
 
 {220}{}{Oh you need to think about it! [you see how contemptuous he is. You can see the terrible amount of effort he's making to not send you off to where the sun doesn't shine] What is there to think?}
 {221}{}{What is bothering your wise head?}
@@ -121,8 +141,9 @@
 {223}{025}{Frankly speaking, the thought about occupation of NWO by dwellers of an underground settlement sounds ridiculous.}
 {224}{027}{Why do you hate locals so much?}
 {225}{030}{What did the guy in the nearby tent do to you??}
-{226}{054I want to talk about Matt.}
+{226}{054}{I want to talk about Matt.}
 {227}{999}{I need to go.}
+
 
 {230}{}{I can't reveal my sources, and it shouldn't concern you. NWO is a bunch of helpless hobos, doomed to be enslaved. Someone should do it, sooner or later. Possibly, it would be Livos.}
 {231}{024}{What if I tell Mark about this?}

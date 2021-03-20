@@ -1,5 +1,5 @@
 #
-¦{1}{}{Hero Archetype is "Tank".}
+{1}{}{Hero Archetype is "Tank".}
 {2}{}{Hero Archetype is "Fox".}
 {3}{}{Hero Archetype is "Forrest".}
 {4}{}{Hero Archetype is "Standard".} 
