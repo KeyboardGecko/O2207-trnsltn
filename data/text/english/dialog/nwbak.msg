@@ -113,7 +113,7 @@
 {148}{010}{Another question then.}
 
 #Node015
-{150}{}{Hah, I'm leaving this place only when I'm dead, protecting Mayor! The thing is, his health is shittier than shit. His ass is one half in grave, and soon there will be a new Leader in NWO. And I will protect new Mayor, until I die.}
+{150}{}{Hah, I'm leaving this place only when I'm dead, protecting Mayor! The thing is, his health is shittier than shit. His ass is one cheek in grave, and soon there will be a new Leader in NWO. And I will protect new Mayor, until I die.}
 {151}{016}{I want to learn about Mark.}
 {152}{019}{Can you tell me about yourself?}
 {153}{010}{I want to ask something else.}
@@ -123,7 +123,7 @@
 {1602}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that you, boss, will be as good as him.}
 {1603}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that new management won't screw things here with their rotten brains.}
 {161}{017}{Who could become a new Mayor?}
-{162}{018}{What would happen with NWO if there's no Mayor, or if there's someone unsuited for position?}
+{162}{018}{What would happen with NWO if there's no Mayor, or if there's someone unsuited for the position?}
 {163}{010}{I want to ask something else.}
 
 #Node017
@@ -138,20 +138,20 @@
 {182}{010}{Sounds like quite a grim future. I'd like to ask another question.}
 
 #Node019
-{190}{}{[Burns's smile covers most of his face] What can I say! I'm the head of security, always ready to kick ass for a crime or just because, hahaha!! People call me Burns, it's my moniker. I will tear off the balls of anyone who dares to threaten Mayor, and I'm ready to die covering his ass!}
-{195}{}{[Burns's smile covers most of his face] What can I say! Despite being the head of security, I'm always ready to kick ass for a crime or just because, hahaha!! If you didn't hear, people call me Burns. It's my moniker. I will tear off the balls of anyone who dares to threaten you, and I'm ready to die covering your ass!}
+{195}{}{[Burns's smile covers most of his face] What can I say! I'm the head of security, always ready to kick ass for a crime or just because, hahaha!! People call me Burns, it's my moniker. I will tear off the balls of anyone who dares to threaten Mayor, and I'm ready to die covering his ass!}
+{190}{}{[Burns's smile covers most of his face] What can I say! Despite being the head of security, I'm always ready to kick ass for a crime or just because, hahaha!! If you didn't hear, people call me Burns. It's my moniker. I will tear off the balls of anyone who dares to threaten you, and I'm ready to die covering your ass!}
 {191}{020}{Are you really willing to do anything for Mayor?}
 {192}{021}{How did you get your moniker?}
 {193}{023}{How did you become the head of security?}
 {194}{010}{Okay, let me ask another question.}
 
 #Node020
-{200}{}{[Burns becomes serious. His eyes glow with steel] I'll tear a new one to anyone who plans to hurt Mayor. I'll cover him from bullets with my chest, if I have to. And let me be buried together with previous Mayors, as the most loyal to the very end. Even if all of Radius wages war with us, I'll be in the first line, murdering these bastards, until the last one of them dies! Let everyone know - Burns won't be hiding like some lousy rat!}
+{200}{}{[Burns becomes serious. His eyes glow with steel] I'll tear a new one to anyone who plans to hurt Mayor. I'll cover him from bullets with my chest, if I have to. And let me be buried together with previous Mayors, as the most loyal to the very end. Even if all of Radius wages war on us, I'll be in the front row, murdering these bastards, until the last one of them dies! Let everyone know - Burns won't be hiding like some lousy rat!}
 {201}{021}{Burns, why do people call you that?}
 {202}{010}{I see. Let me ask another question.}
 
 #Node021
-{210}{}{[he twirles his moustache, pondering about the past] Man, it was so long time ago. I wasn't even the head of security back then. Me and some other guys had been walking around the Radius, doing all kinds of shit. Nothing special. And I had these beautiful sideburns, completed with an amazing moustache. Not one dick in the whole Radius had something similar! And one time, the smartest asshole around my fellas decided to take all the loot we had for himself. And planted a bomb into our campfire. I just went to take a piss when it detonated, so I guess I was lucky - All I got was a little scorched face and completely burned moustache and sideburns. I chased the bastard, ulnoading all my gun into his back. So I've been walking around with burned sideburns, until they grew back. So, people started calling me sideburns, then it was shortened for just Burns. That's it.}
+{210}{}{[he twirles his moustache, pondering about the past] Man, it was so long time ago. I wasn't even the head of security back then. Me and some other guys had been walking around the Radius, doing all kinds of shit. Nothing special. And I had these beautiful sideburns, completed with an amazing moustache. Not one dick in the whole Radius had something like this! And one day, the smartest asshole around my fellas decided to take all the loot we had for himself. And planted a bomb into our campfire. I just went to take a piss when it detonated, so I guess I was lucky - all I got was a little scorched face and completely burned moustache and sideburns. I chased the bastard, unloading all my gun into his back. And I've been walking around with burned sideburns, until they grew back. So, people started calling me sideburns, then it was shortened for just Burns. That's it.}
 {211}{010}{What a story. I have other questions.}
 
 #Node022
@@ -161,7 +161,7 @@
 {223}{999}{Okay, I'll go talk to others about work.}
 
 #Node023
-{230}{}{[Burns flexes his muscles] As soon as I can, haha!! When I arrived in here, there was another head of security. A wuss and sucker. He was shot down in front of me by some dickhead asshole, from this exact machinegun. That asshole's next move was to send the Mayor to the heaven's ass, but I interrupted his plan by beating the shit out of him with my bare hands. Took the gun as a souvenir. And that's when Mayor offered me to work for him. Of course, there were another candidates on my position, but none of them could kick my ass. So there.}
+{230}{}{[Burns flexes his muscles] Very fast and easy, haha!! When I arrived in here, there was another head of security. A wuss and sucker. He was shot down in front of me by some dickhead asshole, from this exact machinegun. That asshole's next move was to send the Mayor to the heaven's ass, but I interrupted his plan by beating the shit out of him with my bare hands. Took the gun as a souvenir. And that's when Mayor offered me to work for him. Of course, there were another candidates on my position, but none of them could kick my ass. So there.}
 {231}{025}{You don't look too strong, you know.}
 {232}{024}{Yeah, I see. You look pretty strong. I wouldn't like to squabble with you.}
 {233}{010}{I see. Let me ask something else. }
