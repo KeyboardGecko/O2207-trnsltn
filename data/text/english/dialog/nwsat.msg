@@ -69,17 +69,17 @@
 {82}{020}{Not interested.}
 
 
-{90}{}{First you need to swar not to talk about this to anyone. Anyone! Especially to this sly cook from that tent opposite of mine.}
-{91}{011}{Deal. So, what's the assignment?}
+{90}{}{First you need to swear not to talk about this to anyone. Anyone! Especially to this sly cook in the opposite tent.}
+{91}{011}{Deal. So, what's the job?}
 {92}{999}{I need to think about it.}
 
 
-{110}{}{So. Somewhere in Radius, an underground settlement of Livos is situated. An intellectual elites on the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brighten up for a moment] It's time to show these savages where they belong! }
+{110}{}{Somewhere in Radius, an underground settlement of Livos is situated. An intellectual elites on the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brighten up for a moment] It's time to show these savages where they belong! }
 {111}{012}{[keep listening]}
 {112}{021}{I see. Not interested.}
 
 
-{120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. Tell them that I'm willing to help and ready to be their official representative here. When their troops arrive, I'll help them establish here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
+{120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. Tell them that I'm willing to help, and ready to be their official representative here. When their troops arrive, I'll help them establish themselves here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
 {121}{013}{Deal.}
 {122}{022}{I need to think about it.}
 {123}{020}{No, I won't involve myself into this.}
@@ -90,7 +90,7 @@
 {132}{022}{I have some questions.}
 
 
-{140}{}{What?! How you even dare! You are stepping on a sovereign territory, on my land! It's an outpost of New World! It will be the place from which the expansion of a new civilization starts!}
+{140}{}{What?! How you even dare! You are stepping on a sovereign territory, on my land! It's an outpost of New World! It's the place from which the expansion of a new civilization starts!}
 {141}{015}{Stop goofing around, old man. It's just an old tent.}
 {142}{006}{I see. And what are the rules around here?}
 {143}{999}{I'm leaving your sovereign territory.}
@@ -140,12 +140,12 @@
 {222}{023}{Where did you get the information about takeover of NWO?}
 {223}{025}{Frankly speaking, the thought about occupation of NWO by dwellers of an underground settlement sounds ridiculous.}
 {224}{027}{Why do you hate locals so much?}
-{225}{030}{What did the guy in the nearby tent do to you??}
+{225}{030}{What's the deal with that guy in the nearby tent?}
 {226}{054}{I want to talk about Matt.}
 {227}{999}{I need to go.}
 
 
-{230}{}{I can't reveal my sources, and it shouldn't concern you. NWO is a bunch of helpless hobos, doomed to be enslaved. Someone should do it, sooner or later. Possibly, it would be Livos.}
+{230}{}{I can't reveal my sources, and it doesn't concern you. NWO is a bunch of helpless hobos, doomed to be enslaved. Someone will do it, sooner or later. Possibly, it would be Livos.}
 {231}{024}{What if I tell Mark about this?}
 {232}{025}{Honestly, it sounds a little crazy.}
 {233}{022}{I see. I want to ask something else.}
@@ -170,12 +170,12 @@
 {268}{998}{[...hit him into a solar plexus.]}
 {269}{999}{[...stop yourself. Then take a deep breath and calm down.]}
 
-{270}{}{[Seth quietly sighs and continues in a patronizing tone] Yes, some simple things can be complicated, and sometimes even beyond the reach to the one of your kind. You see, I don't actually hate them. I only call the things by their names. Whether you like it or not, NWO is a herd of cattle. A herd of brainless, stinking cattle, which doesn't know respect, doesn't care for science or art. These things are way beyond their level. Cattle by itself is not capable of making this world a better place. The cattle has only one purpose - to serve the higher power on its way to prosperity. A quite worthy purpose, by the way. But cattle has been without its herder for too long. He became prideful and wants power which it can't handle. Try to show the cattle its place - and it will stomp you to death.}
+{270}{}{[Seth quietly sighs and continues in a patronizing tone] I know, to the one of your kind, some simple things can be complicated, and sometimes even beyond reach. You see, I don't actually hate them. I only call the things by their names. Whether you like it or not, NWO is a herd of cattle. A herd of brainless, stinking cattle, which doesn't know respect, doesn't care for science or art. These things are way beyond their level. Cattle by itself is not capable of making this world a better place. The cattle has only one purpose - to serve the higher power on its way to prosperity. A quite worthy purpose, by the way. But cattle has been without its herder for too long. It became prideful and longs for power which it can't handle. Try to show the cattle its place - and it will stomp you to death.}
 {271}{028}{[keep listening]}
 {272}{022}{I see. I wanted to ask something else.}
 {273}{999}{I'll listen to the rest of it some other time. [end]}
 
-{280}{}{In the chaos of our world, cattle fights itself and other herds of the same cattle. But as all chaos seeks harmony, sooner or later the master comes for the cattle. And cattle begins to serve, fulfilling its purpose. Try to understand, I don't hate NWO at all. I'm just obliged to live near them and tolerate their smugness, ingnorance, sass and untidyness. I am patiently waiting for the master to come for his cattle. And soon my patience will be rewarded.}
+{280}{}{In the chaos of our world, cattle fights itself and other herds of the same cattle. But, as all chaos seeks harmony, sooner or later the master will come for the cattle. And cattle will begin to serve, fulfilling its purpose. Try to understand, I don't hate NWO at all. I'm just obliged to live near them and tolerate their smugness, ingnorance, sass and untidyness. I am patiently waiting for the master to come for his cattle. And soon my patience will be rewarded.}
 {281}{029}{Your worldview disgust me, but to discuss it with you disgust me even more.}
 {282}{999}{Maybe you have a point.}
 {283}{022}{I still have some questions.}
@@ -186,8 +186,8 @@
 {292}{026}{[interrupt him mid-sentence]}
 {293}{022}{I have some other questions.}
 
-{300}{}{It's a local lunatic, yet a very cunning manipulator. I advise you to avoid dealing with him. Before you know it, you'll be dancing to his tune, getting yourself in trouble.}
-{301}{}{[Looks like Seth is trying to hide something] It's a local lunatic, yet a very cunning manipulator. I advise you to avoid dealing with him. Before you know it, you'll be dancing to his tune, getting yourself in trouble.}
+{300}{}{He is a local lunatic, yet a very cunning manipulator. I advise you to avoid dealing with him. Before you know it, you'll be dancing to his tune, getting yourself in trouble.}
+{301}{}{[Looks like Seth is trying to hide something] He is a local lunatic, yet a very cunning manipulator. I advise you to avoid dealing with him. Before you know it, you'll be dancing to his tune, getting yourself in trouble.}
 {302}{031}{What exactly did he do?}
 {303}{022}{I wanted to ask something else.}
 {304}{999}{See you soon.}
@@ -218,7 +218,7 @@
 {371}{022}{I still have a couple of questions.}
 {372}{999}{See you later.}
 
-{100}{}{The shits from the town are flowing into my home again... What are you sniffing here, you flea-bitten pup?!}
+{100}{}{The shit from the town is flowing into my home again... What are you sniffing here, you flea-bitten mutt?!}
 {101}{}{How's our deal going?}
 {102}{038}{Why are you so angry all the time?}
 {103}{022}{I have some questions.}
@@ -266,7 +266,7 @@
 {471}{999}{Worth a shot.}
 
 {480}{}{I... I can't believe it. Oh you... MINDLESS BASTARDS! CONSPIRING BEHIND MY BACK! THINKING YOU CAN BLACKMAIL ME! ASSHOLES! IDIOTS! MORONS! [Seth spits and wheezes, then starts to whine] Oooooh god, why have you forsaken this world! It's now a land of scoundrels...}
-{181}{049}{So, do you want my help or not? Or I can help Matt instead?}
+{481}{049}{So, do you want my help or not? Or I can help Matt instead?}
 
 {490}{}{[Seth gets silent. Then quietly asks] How much did he promise you?}
 {491}{050}{500}

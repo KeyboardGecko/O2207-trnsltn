@@ -45,12 +45,12 @@
 #Node004
 {40}{}{[he slightly calms down, although he isn't smiling anymore] The name's Burns. I'm the head of security around here. The kind of guys who can convince you that you are wrong and want to do the right thing. Hehe. [he grins]}
 {41}{005}{Oh, you mean your low-ranking hominids, like you?}
-{42}{010}{I'm here recently and have some questions. Of course, if the head of security have some time to answer.}
+{42}{010}{I'm here recently, and have some questions. Of course, if the head of security can spare some time to answer them.}
 
 #Node005
 {50}{}{F- What?! }
-{51}{010}{Nevermind. I'm here recently and have some questions. Of course, if the head of security have some time to answer.}
-{52}{998}{I'm saying that you are retarded ape.}
+{51}{010}{Nevermind. I'm here recently, and have some questions. Of course, if the head of security can spare some time to answer them.}
+{52}{998}{I'm saying that you are a retarded ape.}
 
 #Node006
 {60}{}{I'm Burns. I'm the head of security in NWO. }
@@ -94,8 +94,8 @@
 {121}{010}{I'm here recently. I'd like to ask some questions.}
 
 #Node013
-{130}{}{[Burns points below his belt] I can tell you about THIS place for sure, haha!! Okay, this town is called NWO, short for New World Order. We live peaceful and quietly, like in lavash's ass. And I'm responsible for it to continue to be that way.}
-{136}{}{I won't tell you nothing new, boss. If only you are not interested in local catfights.}
+{136}{}{[Burns points below his belt] I can tell you about THIS place for sure, haha!! Okay, this town is called NWO, short for New World Order. We live peaceful and quietly, like in lavash's ass. And I'm responsible for it to continue to be that way.}
+{130}{}{I won't tell you nothing new, boss. If only you are not interested in local catfights.}
 {131}{014}{Tell me about NWO's locals.}
 {132}{022}{What can I do around here?}
 {133}{010}{Another question.}
@@ -222,7 +222,7 @@
 
 #Node035
 {350}{}{[he looks offended] That's how it is! I'm the most funny guy here! Not like that boring shits around. I can make a joke about anything!!}
-{351}{036}{I bet you can't. What if I give you word? Would you make a rhyming joke about it?}
+{351}{036}{I bet you can't. What if I give you a word? Would you make a joke about it? Maybe, a rhyme?}
 {352}{010}{Yes, looks like you are the most funny guy. I want to ask something else.}
 
 #Node036
@@ -242,19 +242,19 @@
 {377}{041}{Bottle}
 
 #Node038
-{380}{}{Rifle - fire is full, shooting is delightful! Hahaha!! Here's a noogie!}
+{380}{}{Rifle, rifle, shooting is delightful! Hahaha!! Here's a noogie!}
 {381}{033}{Uhhh...}
 
 #Node039
-{390}{}{Triangle - wide angle is making me angry! Hahaha!! Here's a noogie!}
+{390}{}{Triangle, triangle, my dick is phalangal! Hahaha!! Here's a noogie!}
 {391}{033}{Uhhh...}
 
 #Node040
-{400}{}{Battery, matter be it's making me flatterie! Hahaha!! Here's a noogie!}
+{400}{}{Battery, battery, making me flatterie! Hahaha!! Here's a noogie!}
 {401}{033}{Uhhh...}
 
 #Node041
-{410}{}{Bottle with model, ended in a brothel! Hahaha!! Here's a noogie!}
+{410}{}{Bottle with a model, ended in a brothel! Hahaha!! Here's a noogie!}
 {411}{033}{Uhhh...}
 
 #Node042
