@@ -11,321 +11,317 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Местный обитатель}
-{2}{}{Немолодой мужчина с дружелюбным лицом}
+{1}{}{You see a common-looking local dweller.}
+{2}{}{A middle-aged man with a friendly face.}
 #
 # после знакомства
-{3}{}{Вы видите: Мэт}
-{4}{}{Живая надежда всех гурманов и сластолюбцев Радиуса}
+{3}{}{You see Matt.}
+{4}{}{A living hope of every gourmets in Radius.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Привет.}
-{11}{031}{Привет. [Вы почти не замечаете человека перед вами - все ваши мысли об ароматном мясе, которым пропахла палатка. У вас выступает слюна.]}
-{12}{002}{Привет. Ты здесь живешь?}
-{13}{031}{Чем так вкусно пахнет?}
-{14}{045}{Так ты и есть тот самый кашевар, которого ненавидит Сэт?}
-{15}{999}{Извини, ошибся палаткой.}
+{10}{}{Hello.}
+{11}{031}{Hello. [You have troubles noticing the man before you. All your thoughts are about the incredibly delicious smell of meat, which is all around the tent. Your mouth is filled with saliva.]}
+{12}{002}{Hello. Do you live here?}
+{13}{031}{What is it that smells so good in here?}
+{14}{045}{So, you are the cook who Seth hates so much?}
+{15}{999}{Sorry, wrong tent.}
 
 
-{24}{}{Да, это мое жилище и по совместительству стряпущая. Можешь звать меня Мэт. Ты сам издалека?}
-{20}{003}{Меня зовут }
-{21}{003}{, я бывший рабочий из башни Олимп.}
-{22}{004}{Я бывший рабочий из башни Олимп.}
-{23}{005}{Да, издалека.}
+{24}{}{Yes, that's where I live and occasionaly cook. You can call me Matt. Are you from afar?}
+{20}{003}{My name is }
+{21}{003}{, I'm an ex-worker from Olympus tower.}
+{22}{004}{I'm from Olympus.}
+{23}{005}{Yes, quite.}
 
 
-{30}{}{Рад знакомству, }
-{31}{}{. Ты первый из моих гостей, кто бывал в башне. [Мэт замолкает на секунду, а потом тяжело вздыхает.] По правде говоря, ты мой первый гость за все время, пока я здесь.}
-{32}{006}{Почему к тебе никто не ходит?}
-{33}{030}{У одиночества есть свои прелести.}
-{34}{999}{Печально это слышать. Ну пока.}
+{30}{}{Pleasure to meet you, }
+{31}{}{. You are my first visitor who have been into tower. [Matt pauses for a second, then sighs heavily] In truth, you are my first visitor in a long while... For all the time I'm here.}
+{32}{006}{Why no one visits you?}
+{33}{030}{Being alone has its advantages.}
+{34}{999}{Sad to hear that. Well, see you.}
 
 
-{40}{}{Ого! Ты первый из моих гостей, кто бывал в башне. [Мэт замолкает на секунду, а потом тяжело вздыхает.] По правде говоря, ты мой первый гость за все время, пока я здесь.}
-{41}{006}{Почему к тебе никто не ходит?}
-{42}{030}{У одиночества есть свои прелести.}
-{43}{999}{Печально это слышать. Ну пока.}
+{40}{}{Oh! You are my first visitor who have been into tower. [Matt pauses for a second, then sighs heavily] In truth, you are my first visitor in a long while... For all the time I'm here..}
+{41}{006}{Why no one visits you?}
+{42}{030}{Being alone has its advantages.}
+{43}{999}{Sad to hear that. Well, see you.}
 
 
-{50}{}{Тогда добро пожаловать в нашу коммуну.}
-{51}{039}{Я хотел узнать кое-что.}
-{52}{999}{Спасибо. До встречи!}
+{50}{}{Welcome to our little community then.}
+{51}{039}{I'd like to know something.}
+{52}{999}{Thanks. See you!}
 
 
-{60}{}{Я почти ни с кем не общаюсь... Раньше мы жили с братом. К нам и тогда-то никто не ходил, но вдвоем было не так одиноко.}
-{61}{007}{А где сейчас твой брат?}
-{62}{039}{Не нагоняй тоску. Я хотел узнать у тебя кое-что другое.}
-{63}{999}{Поговорим позже.}
+{60}{}{I don't talk to almost anyone... We used to live together with my brother. Though we didn't have any visitors back then too, but it wasn't so lonely with the two of us together.}
+{61}{007}{Where is your brother now?}
+{62}{039}{Don't be depressing. I'd like to know something else.}
+{63}{999}{Talk later.}
 
 
-{70}{}{Он живет в соседней палатке.}
-{71}{008}{А почему вы не живете вместе?}
-{72}{017}{Так Сэт - твой брат?}
-{73}{999}{Поговорим позже.}
+{70}{}{He lives in a nearby tent.}
+{71}{008}{Why don't you live together?}
+{72}{017}{So, Seth is your brother?}
+{73}{999}{Talk later.}
 
 
-{82}{}{[Мэт внезапно свирепеет.] Потому что я его ненавижу!}
-{80}{009}{Но почему?}
-{81}{}{Давай поговорим о другом.}
+{82}{}{[Matt suddenly gets furious] Because I hate him!!}
+{80}{009}{Why?}
+{81}{}{Let's talk about something else.}
 
 
-{90}{}{Сэт презирает всех и любит только себя. Я терпел его всю жизнь, пока наконец не решил покончить с этим. С тех пор я живу отдельно и не ничего хочу знать о нем.}
-{91}{013}{Рад, что ты нашел выход.}
-{92}{011}{Что плохого он тебе сделал?}
+{90}{}{Seth despises everyone, caring only about himself. I have been tolerating him all of my life, until one day I got fed up and decided to end this. Now I live separately and don't want to know nothing about him.}
+{91}{013}{I'm glad you've found a way out of it.}
+{92}{011}{What did he do to you?}
 
 
-{110}{}{Скорее, чего он не сделал. Сэт никогда не был для меня братом. Он в жизни ни разу меня не похвалил. Ни за что. И никогда не поддерживал меня, когда мне это было нужно, а только требовал делать, что он велит. Какое-то время его можно было терпеть, но когда я начал делиться с ним своими планами на жизнь, он стал смеяться надо мной. Начал учить жизни, убеждал, что у меня ничего не получится. Это была последняя капля. Я думаю, ему просто не по душе от того, что я хочу быть самостоятельным.}
-{111}{012}{Может, так он заботился о тебе, оберегал от неприятностей?}
-{112}{014}{Да, видимо, он был плохим братом. Но разве его нельзя простить?}
-{113}{015}{Ты оборзел не на шутку. Сэт не прав только в том, что мало тебя порол.}
+{110}{}{It's more about what he didn't do. Seth never acted like a brother, never complimented me on anything. Not one time. Never gave me support when I really needed it. All he could do is to demand listening to him and do what he says. When I tried to talk to him about what I want to do in life, he just made fun of me, telling me I won't be able to accomplish anything. So, that was the end for us.}
+{111}{012}{Maybe that was his way of taking care of you. To keep you out of troubles.}
+{112}{014}{Looks like he failed as a brother. But does it mean you have to be angry at him?}
+{113}{015}{You're being a real jerk. Set was wrong only in one thing - not beating you up enough.}
 
 
-{120}{}{Херня это все! Он пытался выставить меня слабаком, не способным жить без него. Ему просто хотелось чувствовать превосходство надо мной. А сам-то он на что-то годен? Столько амбиций, а где же дело?! Палаточный князь. Царь сортира.}
-{121}{014}{Да, видимо, он был плохим братом. Но разве его нельзя простить?}
-{122}{015}{Ты оборзел не на шутку. Сэт не прав только в том, что мало тебя порол.}
+{120}{}{That's bullshit! He triet to make me look like a whimp, unable to live without him. He just wanted to feel his superiority. But what did he actually achieve in life? So much ambition with no results. A king of his tent. A president of a toilet.}
+{121}{014}{Looks like he failed as a brother. But does it mean you have to be angry at him?}
+{122}{015}{You're being a real jerk. Set was wrong only in one thing - not beating you up enough.}
 
 
-{131}{}{Да уж, теперь это все позади. Надеюсь, я наконец-то смогу забыть о нем.}
-{132}{039}{Давай поговорим о другом.}
-{133}{999}{До скорого.}
+{131}{}{Yeah, well, that's all in the past now. I can finally leave this behind.}
+{132}{039}{Let's talk about something else.}
+{133}{999}{See you.}
 
 
-{140}{}{Иногда я пытаюсь простить его, ведь он сам несчастен. После смерти родителей нас поймали работорговцы и продали Псам заката. Это был ад, особенно для Сэта. Каждый день он копил злобу за то, что вынужден быть покорным и смиренным. Мы провели там все детство, а потом лагерь уничтожили воины в странных бронекостюмах. Но в Сэте уже поселилась ненависть. Теперь его мучает жажда отмщения всему миру за пережитые мучения. Он всегда хотел быть лидером, но уже никогда им не станет.}
-{141}{021}{Ты пробовал поговорить с ним об этом?}
-{142}{999}{Грустная история. Мне пора.}
+{140}{}{Sometimes I try to forgive him, because I understand how he feels. After our parents died, we were captured by the slavers and sold to the Sunset Jackals. This was hell, especially for Seth. Every new day was making him more angry for everything he had to endure. So, that was our childhood. Then the camp we were held in was destroyed by some warriors wearing strange shiny suits of armor. But Seth was already full of hate by that point, so, I guess now he wants to have revenge on the world, or something similar.}
+{141}{021}{Have you tried to talk to him about this?}
+{142}{999}{Sad story. I need to go.}
 
 
-{150}{}{Вы с ним два сапога пара. Желаю вам обоим удачи.}
-{151}{999}{И тебе того же.}
+{150}{}{You two are really the same kind. Good luck to both of you.}
+{151}{999}{And to you too.}
 
 
-{160}{}{Тем лучше для тебя. Сэт - эгоистичный хамский выродок. Держись от него подальше.}
-{161}{039}{Давай сменим тему.}
-{162}{999}{Ладно, до скорого.}
+{160}{}{Good for you. Seth is an egoistic, rude abomination. Stay away from him.}
+{161}{039}{Okay, let's change the subject.}
+{162}{999}{Right. See you then.}
 
 
-{170}{}{Ах, ты с ним знаком. Смогли найти общий язык?}
-{171}{016}{Нет, нам не о чем с ним говорить.}
-{172}{018}{Я подыграл ему, но по-моему, он сумасшедший.}
-{173}{019}{Да, мне нравится его взгляд на вещи.}
+{170}{}{Oh, so you've met him. Did you find a commond ground?}
+{171}{016}{No, we have nothing to talk about.}
+{172}{018}{I played along a little. He seemed a little crazy.}
+{173}{019}{Yes, I like how he sees things.}
 
 
-{180}{}{Хитро. Только долго с ним не заигрывай, можно и втянуться.}
-{181}{009}{А ты сам, как поглядеть, не в восторге от своего брата?}
-{182}{039}{Давай сменим тему.}
+{180}{}{Smart. Don't play for too long though. You'll end up sharing his ideas.}
+{181}{009}{As I see, you are not very fond of your brother?}
+{182}{039}{Okay, let's change the subject.}
 
 
-{190}{}{Просто чудно. Что у вас дальше по плану, захват мира, четвертая мировая война?}
-{191}{010}{Не пори чушь, Сэт просто хочет очистить этот город от грязи. Мне это по душе.}
-{192}{023}{Тебе в любом случае не поздоровится.}
-{193}{009}{А ты сам, как поглядеть, не в восторге от своего брата?}
-{194}{039}{Давай сменим тему.}
+{190}{}{That is just wonderful. What's next on your to-do list? Taking over the world? Another Great War?}
+{191}{010}{Don't be ridiculous. Seth just wants to clean this town from filth. I can relate to that.}
+{192}{023}{You’re going to end up bad anyway.}
+{193}{009}{As I see, you are not very fond of your brother?}
+{194}{039}{Let's change the subject.}
 
 
-{200}{}{Желаю вам обоим удачи.}
-{201}{999}{И тебе того же.}
+{200}{}{I wish you both well.}
+{201}{999}{And to you too.}
 
 
-{210}{}{Поверь, это все равно, что биться головой о стену. Да и не хочу я с ним мириться, меня все устраивает в моем положении.}
-{211}{022}{Но так ведь нельзя, братья должны жить в мире. Я помогу вам двоим.}
-{212}{051}{Ничего, я выбью из этой стены немного братской ответственности.}
-{213}{999}{Что ж, рад за тебя. Бывай.}
+{210}{}{It's like bashing your head against the wall. I don't even want to make peace with him by now, I'm perfectly fine with the way things are.}
+{211}{022}{But it's wrong! Family should live in peace. I can help you both.}
+{212}{051}{It's okay, I'll bash some brotherly responsibility from this wall.}
+{213}{999}{Well, good for you. Bye then.}
 
 
-{220}{}{Можешь не стараться.}
-{221}{999}{Я все же попробую.}
+{220}{}{Don't bother.}
+{221}{999}{I'm still going to try.}
 
 
-{230}{}{Да? И что ты мне сделаешь? Выкладывай, что ты задумал! [Вы замечаете, как Мэт кладет руку на пояс, готовясь достать оружие.]}
-{231}{025}{Я - ничего, это все придумал Сэт. Скоро сюда прибудет армия из подземного города Лайвос, и песенка НМП будет спета. Руководить захватом будет Сэт. Разумеется, при моей личной поддержке. Вот тогда-то ты и пожалеешь, что точил зуб на брата!}
-{232}{999}{Забудь, я пошутил.}
+{230}{}{Oh yeah? And what are you going to do? Come on, spill it out! [he puts his hand on his belt, probably, ready to pull his weapon.]}
+{231}{025}{Me? Nothing. Eveything is Seth's idea. Soon there's going to be an army from an underground settlement of Livos arriving here, which would mean the end of NWO. Seth will lead the takeover - with my personal assistance, of course. That's when you'll regret that you made your brother an enemy!}
+{232}{999}{Forget it, nevermind.}
 
 
-{250}{}{[Мэт белеет и покрывается потом.] Что?... Господи... опять рабовладельцы... Сэт... как ты мог?! Я не переживу это снова.}
-{251}{}{Что за чушь ты несешь? Какой подземный город? Чем будет руководить этот идиот? Ты не на того напал, умник.}
-{252}{026a}{Есть два варианта: либо я сейчас ухожу и через сутки возвращаюсь с отрядом вооруженных солдат, которые здесь камня на камне не оставят, либо мы с тобой договариваемся, и я говорю Сэту, что затея с Лайвос провалилась.}
-{253}{998}{[Выход]}
-{254}{026}{Да шучу я, успокойся.}
+{250}{}{[Matt becomes white, sweating] What?... Oh god, Seth... Just like with the slavers... How could you?! I won't go through it again.}
+{251}{}{What the hell are you blabbering about? What underground settlement? Who this idiot is going to lead? You are trying to fool the wrong guy, smart-ass.}
+{252}{026a}{There are two options: either I go away and in twenty four hours return with a squad of armed soldiers, who will burn this place to the ground, or you and me come to an agreement and I tell Seth that his plan about Livos has failed.}
+{253}{998}{[end]}
+{254}{026}{I was just kidding, calm down.}
 
 
-{265}{}{Ты... ты просто сумасшедший. Я ведь уже не молодой, сердце может не выдержать. Итак просыпаюсь по ночам от кошмаров. Ты не знал рабского детства...}
-{266}{039}{Прости. Давай поговорим о другом.}
-{267}{999}{[Выход]}
+{265}{}{You... You are insane. I'm not a boy, you know, I have a weak heart. Considering my childhood...}
+{266}{039}{Sorry. Let's talk about something else.}
+{267}{999}{[end]}
 
 
-{260}{}{[С Мэта сходит лицо. Он начинает жалобно стонать.] Я отдам тебе все, что у меня есть! Только не этот кошмар снова!}
+{260}{}{[Matt's face starts trembling. He is whining] I'll give you everything I have, only don't make me go through this nightmare again!}
 {261}{027}{500.}
 {262}{028}{1000!}
-{263}{029}{Эмм... 1500!}
+{263}{029}{Uhh... 1500!}
 {264}{029}{2000?..}
 
 
-{270}{}{Забирай. Только пообещай, что не станешь доводить начатое до конца.}
-{271}{999}{Договорились.}
+{270}{}{Take it. Just promise me you won't do this.}
+{271}{999}{Deal.}
 
 
-{280}{}{Забирай. Только пообещай, что не станешь доводить начатое до конца.}
-{281}{999}{Договорились.}
+{280}{}{Take it. Just promise me you won't do this.}
+{281}{999}{Deal.}
 
 
-{290}{}{Боже... [Мэт начинает плакать.] Откуда у меня взяться таким деньгам? [Внезапно он свирепеет] Вон отсюда! Пошел прочь! Я знаю, чего он хочет! Он это получит!}
-{291}{999}{[Выход.]}
+{290}{}{Oh god... [He is crying] Where do I get such money? [suddenly, he becomes furious] Get out!! Out of here!! I know what he's trying to do, and he is going to get it!!}
+{291}{999}{[end]}
 
 
-{300}{}{Ты прав. Я могу спокойно сидеть в своей палатке и наслаждаться любимым делом.}
-{301}{035}{А чем ты занимаешься?}
-{302}{999}{Позже поболтаем.}
+{300}{}{You are right. I can stay inside my tent, enjoying to do what I like the most.}
+{301}{035}{And what it would be?}
+{302}{999}{Let's talk later.}
 
 
-{310}{}{Ах, вижу, что ты заметил! Это моя фирменная буженина из лавашьего огузка. Попробуй, только из духовки.}
-{311}{032}{С удовольствием.}
-{312}{033}{Из огуз... чего? Спасибо, конечно, но я не ем еду с неаппетитными названиями.}
+{310}{}{Oh, I see you took notice! This is my special over-baked ham from lavash hindquarters. Take a bite, it's just out of the oven.}
+{311}{032}{Gladly!}
+{312}{033}{From hind... What? Thanks, but I'm not eating the food with such unappetizing name.}
 
 
-{320}{}{[Вы пробуете кусочек ароматного мяса на подливе с пряностями, и оно мгновенно тает у вас во рту. На несколько секунд вы теряете дар речи.]}
-{321}{037}{Я не пробовал ничего вкуснее.}
-{322}{037}{Горчит немного, а так сойдет.}
+{320}{}{[You try a slice of fragrant meat on a gravy with spices. It melts in your mouth instantly. You become speechless for a next few seconds.]}
+{321}{037}{I've never eaten anything tastier.}
+{322}{037}{A little bittery, but will do.}
 
 
-{331}{}{Ха-ха! Огузок - это бедренная часть туши крупного лаваша. Такое название используется в старых кулинарных книгах. Ну как хочешь, заставлять не стану.}
-{332}{034}{Бе-е-е...}
-{333}{032}{Ну ладно, убедил, дай попробовать!}
-{334}{999}{Позже поболтаем.}
+{331}{}{Haha! Hindquartets is a hip part of lavash. This name was used in an old culinary books. Well, if you don't want - suit youself, I won't be forcing you.}
+{332}{034}{Meh...}
+{333}{032}{Okay, I'm convinced, let me try it!}
+{334}{999}{Let's talk later.}
 
 
-{340}{}{Ты, никак, вегетарианец? Прости, дружище, но здесь я ничем помочь не могу. Только мясное меню.}
-{341}{035}{Чем ты здесь занимаешься?}
-{342}{999}{Ладно, позже поболтаем.}
+{340}{}{Are you a vegetarian? Sorry pal, I can't help you then. In my menu there's only meat.}
+{341}{035}{What do you do here?}
+{342}{999}{Okay, let's talk later.}
 
 
-{350}{}{Пусть это звучит слегка самонадеянно, но я кулинар в затворничестве. Приготовление еды - единственная страсть, которую я познал в жизни. Я не приемлю отношение к еде как к чему-то функциональному, когда лишь бы набить желудок. Что я люблю - это создавать новые вкусовые этюды из привычных продуктов, как вот этот - [Мэт показывает кусочек вкуснопахнущего мяса] - это обычная лавашатина, но приготовленная по-особому. Больше нигде нельзя такую попробовать.}
-{351}{036}{Как ты это делаешь?}
-{352}{038}{Почему о тебе не знают в округе?}
-{353}{039}{Мне некогда говорить об этом. Скажи лучше вот что...}
-{354}{999}{Позже пообщаемся.}
+{350}{}{It could sound a little self-absorbed, but I'm somewhat a reclusive cook. Making food is my only passion in life. I don't understand when people treat food as something they just need to fill their stomachs with. What I really like is to create an unusual mix of flavors from familiar products. Here, for example [he shows you a piece of meat] - this is just a lavah meat, but it's cooked in a really special way. You won't find it anywhere else.}
+{351}{036}{How are you doing this?}
+{352}{038}{Why people don't know about you around here?}
+{353}{039}{I have no time to talk about this. Better tell me something else...}
+{354}{999}{Talk later.}
 
 
-{360}{}{Лавашатины у нас хватает, и еще я собираю редкие растения, но в последнее время это дается все труднее. Да и одно и то же мясо начинает надоедать...}
-{361}{040}{Я могу поискать для тебя новые продукты.}
-{362}{039}{Понятно. Хочу еще кое-что спросить.}
+{360}{}{We have plenty of lavash meat, in addition I gather rare herbs that I know of. But lately it becomes harder. And meat all the time is, you know... Tiresome.}
+{361}{040}{I could look for new products for you to cook with.}
+{362}{039}{I see. I want to ask something else.}
 
 
-{370}{}{Спасибо. Есть хоть один благодарный гость - жизнь уже прожита не зря. [Мэт грустно улыбается.]}
-{371}{038}{Почему о тебе не знают в округе?}
-{372}{039}{Я хочу кое-что узнать.}
+{370}{}{Thanks. If there's even one thankful person, then I don't cook for nothing. [he sadly smiles]}
+{371}{038}{Why people don't know about you around here?}
+{372}{039}{I want to ask something.}
 
 
-{380}{}{Я не люблю соваться на глаза местным. Здесь не так спокойно, как кажется на первый взгляд. Может, тебе это покажется глупым, но я один, и меня некому защитить. Лучше я буду сидеть тихо и готовить свои любимые блюда, и никто не будет меня доставать.}
-{381}{036}{Где ты берешь ингредиенты?}
-{382}{039}{Понятно. Хочу еще кое-что спросить.}
+{380}{}{I don't ike to be an eyesore for the locals. This place is not as calm as it looks like... It may seem stupid, but I'm still alone, and I have no one to protect me. I'd be better sitting quietly, cooking my favourite dishes, with no one threatening me.}
+{381}{036}{Where do you get your ingredients?}
+{382}{039}{I see. I want to ask something else.}
 
 
-{390}{}{Что тебя интересует?}
-{391}{035}{Расскажи о себе.}
-{392}{009}{Расскажи о Сэте.}
-{393}{006}{Почему ты живешь как затворник?}
-{394}{999}{Наверное, спрошу в следующий раз. Пока.}
+{390}{}{What is it that interests you?}
+{391}{035}{Tell me about yourself.}
+{392}{009}{Tell me about Seth.}
+{393}{006}{Why are you so reclusive?}
+{394}{999}{I'll ask questions another time. See you.}
 
 
-{400}{}{Ты правда можешь? [Мэт подозрительно осматривается по сторонам, а затем переходит на шепот.] До меня дошли слухи о подземной продовольственной сокровищнице. Говорят, в ней хранятся несметные запасы вкуснейших продуктов. Мясные деликатесы из обитавших когда-то на Земле тварей... А еще невиданные плоды и растения! Из этих ингредиентов можно составить рецепты поистине райских блюд! Правда, никто точно не знает, где именно это место...}
-{401}{041}{У него есть название?}
-{402}{042}{Это не по мне, я за миражами не гоняюсь.}
+{400}{}{You could? [he suspiciously looks around, then whispers] I heard rumors about an underground treasury of food supply. They say that all kinds of pre-war delicacies are kept there! Meat dishes from the creatures that are no longer present in our world, the fruits and the plants you have never seen! You could make a heavenly lunch from these ingredients! But I don't know anyone who is able to tell where this place is...}
+{401}{041}{Does it have a name?}
+{402}{042}{That's not for me. I don't chase myths.}
 
 
-{410}{}{Лайвос. Кажется, так оно называется. Если ты сможешь отыскать его для меня, я буду до конца жизни готовить тебе такие блюда, которые никто не пробовал! [Мэт мечтательно облизывается.]}
-{411}{043}{По рукам, я попробую отыскать Лайвос.}
-{412}{042}{Нет, уж слишком неправдоподобные слухи.}
+{410}{}{Livos. I think this is how it's called. If you find it for me, I will cook the dishes that no one ever heard of for all of your life! [he gulps]}
+{411}{043}{Deal, I'll try to find the place.}
+{412}{042}{No, it seems to unnatural to me.}
 
 
-{420}{}{Эх... а мне только и остается, что верить в подобное. Что мне еще светит в этой жизни? Ничего.}
-{421}{039}{Давай поговорим о другом.}
-{422}{043}{Так и быть, я попробую отыскать Лайвос.}
-{423}{999}{Не вешай нос. Еще увидимся.}
+{420}{}{All that's left for me is to believe in such unnatural things. What else can I hope for?}
+{421}{039}{Let's talk about something else.}
+{422}{043}{Okay, I'll look for your Livos.}
+{423}{999}{Cheer up. I'll see you later.}
 
 
-{430}{}{[Мэт расцветает от радости.] Спасибо тебе огромное! Когда найдешь это место, возвращайся! Я к этому моменту заготовлю гору специй.}
-{431}{999}{До встречи.}
+{430}{}{[Matt brightens up] Thank you so much! Return when finding the place! I'll be ready with a lot of spices by that moment.}
+{431}{999}{See you then.}
 
 
-{100}{}{Проваливай. Я не разговариваю с шестерками Сэта.}
-{102}{}{[Уйти]}
-{101}{043a}{У меня весточка от Сэта. }
-{103}{039}{Я хотел кое-что узнать.}
-{104}{047}{По поводу Лайвос...}
+{100}{}{Get the hell away. I don't talk with Seth's errand boys.}
+{102}{}{[leave]}
+{101}{043a}{I have a message from Seth. }
+{103}{039}{I'd like to know about something.}
+{104}{047}{About Livos...}
 
 
-{432}{}{Что нужно этому мерзавцу?}
-{433}{025}{Новому мировому порядку настал конец. Скоро сюда прибудет армия из подземного города Лайвос. Руководить захватом будет Сэт. Разумеется, при моей личной поддержке. Вот тогда-то ты и пожалеешь, что точил зуб на брата!}
-{434}{012}{Сэт волнуется за тебя. Он хочет тебя защитить как старший брат младшего. А ты что делаешь? Убегаешь от него?}
-{435}{044}{Знаешь, что бывает с сопляками, которые убегают из дома? Они получает звездюлей.}
+{432}{}{What this bastard wants?}
+{433}{025}{NWO will meet its end for very soon. The army from an underground settlement of Livos is on the way here. Seth will lead the takeover - with my personal assistance, of course. That's when you'll regret that you made your brother an enemy!}
+{434}{012}{Seth is worried about you. He wants to protect you, as an older brother. And what is it you do? Running away?}
+{435}{044}{Do you know what happens to the snotty brats who run away from home? They get their ass whipped.}
 
 
-{440}{}{Что?!... Да ты...}
-{441}{999}{Получай!}
+{440}{}{What?!... How dare you...}
+{441}{999}{Take this!}
+
+{450}{}{I see this old bastard is spreading rumors about me. This fits him so well.}
+{451}{046}{What happened between two of you?}
+{453}{999}{I'll come by later.}
 
 
+{460}{}{You see, Seth is my older brother. He can't just leave me in peace.}
+{461}{009}{Why he hates you so much?}
+{462}{999}{I need to run, see you around.}
 
 
-
-{450}{}{Значит, старый ублюдок распускает обо мне слухи? Что ж, это на него похоже.}
-{451}{046}{Что у вас двоих стряслось?}
-{453}{999}{Я зайду позже.}
-
-
-{460}{}{Видишь ли, Сэт - мой родной брат, которому не дает покоя моя жизнь.}
-{461}{009}{За что он тебя ненавидит?}
-{462}{999}{Еще увидимся.}
+{470}{}{Did you find it?!}
+{474}{048}{Yes. Though Livos is not a treasury of foods, but an underground vault for a rich people. }
+{472}{050}{Not yet.}
 
 
-{470}{}{Ты отыскал его?!}
-{474}{048}{Да. Но Лайвос - это не сокровищница ингредиентов, а подземное убежище для богатых людей.}
-{472}{050}{Пока нет.}
+{480}{}{[the happiness on his face disappeares without a trace] So much hope - and now it's lost... Maybe I shouldn't have dreamed about such stupid things. Looks like my fate is to to roast iguanas and steal lavash meat from the factory...}
+{481}{049}{I'm sorry that you had to learn this. Still, don't be sad.}
 
 
-{480}{}{[От радости на лице Мэта не осталось и следа.] Эх... такая надежда - в прах... Что ж, не стоило мне мечтать о таких глупостях. Видно, мой удел - коптить игуан и воровать с завода лавашатину...}
-{481}{049}{Жаль, что пришлось об этом сказать. Но не вешай нос.}
+{490}{}{Thank you for trying to help. Good luck to you.}
+{491}{999}{And to you. Bye.}
 
 
-{490}{}{Спасибо за то, что пытался помочь мне. Удачи тебе.}
-{491}{999}{И тебе. Пока.}
+{500}{}{Too bad, I got excited already. When you find it, don't forget to tell me!}
+{501}{999}{Sure. See you soon.}
 
 
-{500}{}{Жаль, а я уже обрадовался. Когда отыщешь, не забудь вернуться и сказать мне!}
-{501}{999}{Конечно. До скорого.}
+{510}{}{But please, no assaulting.}
+{511}{999}{He is going to get what's coming.}
 
 
-{510}{}{Только, пожалуйста, без рукоприкладства.}
-{511}{999}{Этот гад получит по заслугам.}
+{520}{}{You have a talent in solving conflicts! Take this, as a sign of gratitude. [Matt hands you the revolver and the weapon repair kit] This belonged to our father. He wanted us to get along with each other. Now it's all yours.}
+{521}{}{Thank you! Take care of yourself.}
+{523}{999}{If you'll have more problems with him, tell me.}
 
 
-{520}{}{У тебя талант разрешать конфликты! Прими это в знак признательности. [Мэт протягивает вам револьвер и набор для ремонта оружия.] Это последний подарок нашего отца, который всегда хотел, чтобы мы ладили друг с другом. Теперь он твой. Еще раз спасибо.}
-{521}{}{Спасибо за помощь! Береги себя.}
-{523}{999}{Если снова будет тебя доставать, зови.}
+{530}{}{I don't know how to thank you... You saved us both. Now we are a family again, and we never let stupid grudges to take us apart. Take this, as a sign of gratitude. [Matt hands you the revolver and the weapon repair kit] This belonged to our father. He wanted us to get along with each other. Now it's all yours.}
+{531}{}{Thank you.}
+{532}{999}{Glad to be of help.}
 
 
-{530}{}{Не знаю, как благодарить тебя. Ты просто спас нас двоих. Теперь мы одна семья и никогда не позволим глупым склокам ее разрушить. Прими это в знак признательности. [Мэт протягивает вам револьвер и набор для ремонта оружия.] Это последний подарок нашего отца, который всегда хотел, чтобы мы ладили друг с другом. Теперь он твой. Еще раз спасибо.}
-{531}{}{Еще раз спасибо.}
-{532}{999}{Рад был помочь.}
+{540}{}{Hello! It's hard to believe, but now me and my brother have a common goal! When the underground dwellers arrive, I would cook wonderful meals from their ingredients! Thank you for uniting us. Come back to try my new dishes, when you hear the news about the takeover of NWO!}
+{541}{}{Come back to try my new dishes, when you hear the news about the takeover of NWO!}
+{542}{999}{[end]}
 
 
-{540}{}{Привет! В это трудно поверить, но у нас с братом появилась общая цель! Когда прибудут подземные жители, я смогу готовить изысканные блюда из их ингредиентов! Спасибо, что помог нам объединиться. Возвращайся за новыми блюдами, когда услышишь весть о прибытии подземных жителей!}
-{541}{}{Возвращайся за новыми блюдами, когда услышишь весть о прибытии подземных жителей!}
-{542}{999}{[Выход]}
-
-
-{16}{}{Буря переживаний от восхитительного блюда поднимает Ваше максимальное здоровье на 5 очков.}
-{17}{}{Ну что, вернулся, фантазер?}
-{18}{}{*Всхлип*}
-{19}{}{Теперь понял, что бывает с такими как ты в этом мире?}
-{25}{}{Чтоб ты сдох, старый подонок!}
-{26}{}{Прости меня, брат...}
-{27}{}{То-то же. Ладно, хорош ныть.}
-{28}{}{Чертов ублюдок!}
-{29}{}{Сукин сын! *всхлип*}
-{35}{}{Ты ошибся палаткой.}
-{36}{}{Мне не о чем говорить с прихвостнями моего брата.}
-{37}{}{Не знаю, как благодарить тебя.}
-{38}{}{Спасибо, что помог нам с братом!}
-{39}{}{Поговорим попозже.}
-{105}{}{Ага, снова ты. Что-то еще хотел?}
+{16}{}{A storm of emotions from this incredible meal increases your maximum health by 5 points.}
+{17}{}{So, you're back now, dreamer?}
+{18}{}{*Sob*}
+{19}{}{Now you understand what happens with the ones like you in this world?}
+{25}{}{Just die, you old asshole!}
+{26}{}{I am so sorry, brother...}
+{27}{}{There, there. Stop whining then.}
+{28}{}{Damn son of a bitch!}
+{29}{}{You asshole! *Sob*}
+{35}{}{You came in a wrong tent.}
+{36}{}{I have nothing to talk about with my brother's errand boys.}
+{37}{}{I don't know how to thank you.}
+{38}{}{Thanks for helping us.}
+{39}{}{Let's talk later.}
+{105}{}{You again. What else do you want?}
