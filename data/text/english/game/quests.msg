@@ -35,8 +35,8 @@
 #
 # NEW WORLD ORDER Quests
 #
-{400}{}{Mark asks you to broke peace between his wife Lucy and his adviser Sam.}
-{401}{}{Burns suggested that you find a replacement for the dying Mayor Mark.}
+{400}{}{Mark asks you to make peace between his wife Lucy and his advisor Sam.}
+{401}{}{Burns asked you to find out who would replace the dying Mayor Mark.}
 {402}{}{Juan complains about the broken machine and asks you to help him.}
 {403}{}{The scout Cyren is going to Tin Industries for cans. He needs a partner.}
 {404}{}{You can guard Flint's caravans for a good payoff.}
@@ -45,7 +45,7 @@
 {407}{}{Philip's lavash refuse to eat food. Find out the reason behind it.}
 {408}{}{The last time water came from Livos, it tasted strange. Sam asks you to look into what's going on.}
 {409}{}{Brothers Seth and Matt can not get along with each other, you need to reconcile them.}
-{410}{}{Bianca is passionately hungry for love. Find the "special device" and do not disappoint her!}
+{410}{}{Blanca is passionately hungry for love. Find the "special device" and do not disappoint her!}
 {411}{}{Henry asks to find Sunny and Becky's friends in Pearson Town.}
 #
 # LIVOS Quests

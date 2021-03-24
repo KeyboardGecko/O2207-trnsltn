@@ -11,7 +11,7 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see an icredibly sexual woman.}
+{1}{}{You see an incredibly sexual woman.}
 {2}{}{She looks very erotic in these clothes.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
@@ -28,21 +28,21 @@
 {15}{016}{Maybe, but it doesn't matter! I carry the holy word into masses! I...}
 {16}{999}{I have no time for petty talks! I need to run, do things!}
 
-{20}{}{This pen with dirt and shit is canned New World Order. There's absolutely nothing interesting here. Well, maybe except one... One diamond in the pile of trash. His name is Cyren!}
+{20}{}{This pen with dirt and shit is called New World Order. There's absolutely nothing interesting here. Well, maybe except one... One diamond in the pile of trash. His name is Cyren!}
 {21}{003}{Where did the name of this town come from?}
 {22}{006}{You can find something interesting anywhere, this place is no exception.}
 {23}{008}{Who is Cyren?}
 {24}{013}{If there's nothing interesting around, why are you here then?}
 {25}{999}{I want to explore this town on my own. Talk later.}
 
-{30}{}{How could I know! I'm not filling my head with nonsense! New World Order, that's it.}
+{30}{}{How could I know! I'm not littering my head with nonsense! New World Order, and that's it.}
 {31}{004}{Who could I ask about it?}
 {32}{007}{What can you tell me about the town?}
 {33}{013}{What do you do here?}
 {34}{005}{Who is in charge here?}
-{35}{999}{I'll go look for something who knows more.}
+{35}{999}{I'll go look for somebody who knows more.}
 
-{40}{}{Probably, rotten Sam can tell you about it [she shrugs, and you can't help but think how beautiful are her shoulders]. He knows many things.}
+{40}{}{Probably, rotten Sam can tell you about it [she shrugs, and you can't help but think how beautiful her shoulders are]. He knows many things.}
 {41}{018}{Who is that Sam you are talking about?}
 {42}{017}{Why "rotten"?}
 {43}{007}{What can you tell me about the town?}
@@ -71,7 +71,7 @@
 {74}{010}{I have some questions.}
 {75}{999}{This town must be really boring. I'd better get out of here.}
 
-{80}{}{[her eyes are flashing, when she starts actively gesturing] Cyren is the best man in the whole Radius! He is humble, but everyone knows he is a hero! Even the last vagabond knows about his deeds! Cyren is the scout of highest tier!!}
+{80}{}{[her eyes are flashing, she starts actively gesturing] Cyren is the best man in the whole Radius! He is humble, but everyone knows he is a hero! Even the last vagabond knows about his deeds! Cyren is the scout of highest tier!!}
 {81}{011}{What deeds did he do?}
 {82}{023}{I can see you're crazy about him.}
 {83}{010}{Okay, let's talk about something else.}
@@ -85,7 +85,7 @@
 {95}{999}{I have a lot of important things to do and no time to chat, so - bye.}
 
 {1001}{}{Hello, handsome! Always glad to talk to you! What do you want to know this time?}
-{1002}{}{[You see Blanca playing with her beautiful locks of hair. She gives you a cute smile, biting her lower lip] So, what do you want to talk about?}
+{1002}{}{[Blanca is playing with her beautiful locks of hair. She gives you a cute smile, biting her lower lip] So, what do you want to talk about?}
 {101}{005}{Who's in charge here?}
 {102}{008}{Tell me about Cyren.}
 {103}{013}{What are you doing here?}
@@ -93,7 +93,7 @@
 {105}{038}{I have found the toy for you to take some edge off.}
 {106}{999}{Actually, I've got to go. Bye.}
 
-{110}{}{[Blanca gets overwhelmed with emotions, she almost jumps, clapping her hands. Her eyes flash with endless passion] He is a true hero! He got himself out of many really bad situations, always coming out on top!! One day, Cyren single-handedly saved the whole village from Jackals! And there was a time when he got ambushed by a pack of scorpions and killed them all!! He even saved me from a Chimera once! And he stopped an assault on NWO! And prevented the contamination of groundwater! And you should hear abour him dealing with a huge, three-meter tall murderous robot! That's just fantastic!!}
+{110}{}{[Blanca gets overwhelmed with emotions, she almost jumps, clapping her hands. Her eyes filled with endless passion] He is a true hero! He got himself out of many really bad situations, always coming out on top!! One day, Cyren single-handedly saved the whole village from Jackals! And there was a time when he got ambushed by a pack of scorpions and killed them all!! He even saved me from a Chimera once! And he stopped an assault on NWO! And prevented the contamination of groundwater! And you should hear abour him dealing with a huge, three-meter tall murderous robot! That's just fantastic!!}
 {111}{024}{Saved the village from Jackals? I'd like to know more about that.}
 {112}{025}{The scorpions are pretty dangerous. How did he manage to handle them?}
 {113}{026}{Tell me about him saving you from a Chimera.}
@@ -110,10 +110,10 @@
 {124}{003}{Where did the name of this town come from?}
 {125}{999}{My mission actually involves Cyren, so I'll go look for him.}
 
-{1301}{}{I'm here temporarily. I came here together with Cyren. And when he is out there, doing his heroic deeds, I wait for him here. Only it's quite boring here, nothing to do at all... Especially during long, lonely nights... [she sensually sighs] If there's no Cyren, then I'm cold, alone and sad...}
-{1302}{}{I'm here temporarily. I came here together with Cyren. And when he is out there, doing his heroic deeds, I know how to deal with loneliness. You bet I know. [she winks at you]}
+{1301}{}{I'm here temporarily. I came here together with Cyren. And when he is away, doing his heroic deeds, I wait for him. Only it's quite boring, nothing to do at all... Especially during long, lonely nights... [she sensually sighs] Without Cyren I'm cold, alone and sad...}
+{1302}{}{I'm here temporarily. I came here together with Cyren. And when he is away, doing his heroic deeds, I know how to deal with loneliness. You bet I know. [she winks at you]}
 {131}{008}{Tell me about Cyren.}
-{132}{030}{I can make you feel less lonely, while Cyren is away, doing his heroic stuff.}
+{132}{030}{I can make you feel less lonely, while Cyren is away.}
 {133}{010}{I want to ask something else.}
 {134}{999}{You know, I need to go. Bye.}
 
@@ -157,7 +157,7 @@
 {194}{010}{Let's talk about something else.}
 {195}{999}{I should go talk to Mark. See you.}
 
-{200}{}{Daniel is Mark's son - or nephew, I don't remember. They are related to Sam, I think. And he is busy with something about running the town... Look, it doesn't matter. The real men, like Cyren, are not involving themselves into petty politics. }
+{200}{}{Daniel is Mark's son - or nephew, I don't remember. They are related to Sam, I think. And he is busy with something about running the town... I don't care. The real men, like Cyren, are not involving themselves into petty politics. }
 {201}{008}{I want to learn more about Cyren.}
 {202}{005}{Maybe Daniel is in charge here?}
 {203}{019}{What can you tell me about Mark?}
@@ -182,7 +182,7 @@
 {232}{010}{I don't have time for heroics now. I want to ask something else.}
 {233}{999}{Let's talk later. I have urgent things to do.}
 
-{240}{}{That is a very fascinating story! One time, Cyren and his partner went on a mission to somewhere near the Rainbow. They went into some settlement to get rest and resupply. They were already going to have lunch in one of the homes, when they heard screaming from the streets. Cyren ran outside and found out that the village was attacked by Jackals! There were no less than twenty of them, and Cyren had only a spoon in his hand, with all his stuff left inside the house. Despite that, he threw himself at enemy, killing them one by one!! Jackals ran off, so Cyren have been chasing them for several following days, killing every last one. Unfortunately, everyone in that village turned out to be dead, including his partner, and everything else - burned to the ground, including his equipment. So, Cyren came back with only a spoon, every witness of his doings - dead.}
+{240}{}{That is a very fascinating story! One time, Cyren and his partner went on a mission to somewhere near the Rainbow, and walked into some settlement to get rest and resupply. They were already going to have lunch in one of the homes, when they heard screaming from the streets. Cyren ran outside and found out that the village was attacked by Jackals! There were no less than twenty of them, and Cyren had only a spoon in his hand, with all his stuff left inside the house. Despite that, he threw himself at enemy, killing them one by one!! Jackals ran off, so Cyren have been chasing them for several following days, killing every last one. Unfortunately, everyone in that village turned out to be dead, including his partner, and everything else - burned to the ground, including his equipment. So, Cyren came back with only a spoon, every witness of his doings - dead.}
 {241}{025}{Tell me about scorpions and ambush.}
 {242}{026}{Can you tell me about saving you from Chimera?}
 {243}{027}{How did he stop an assault on NWO?}
@@ -191,7 +191,7 @@
 {246}{010}{Very interesting. But let's talk about something else.}
 {247}{999}{I'd like to meet him in person. I'll go find him.}
 
-{250}{}{In this story, Cyren demostrated his great skill and endurance. One day, Cyren and his partner ended up into a narrow mountain passage. Everything was very silent, Cyren immediately suspected that something is wrong. Suddenly, swarms of scorpions launched attack on them, coming from both sides, attacking from the top, crawling from under the cliffs and stones! Cyren even got stung in a leg by this filthy creatures! But he didn't get scared - he grabbed the nearest scorpion, ripped off his tail and started to sting other scorpions with it!! And he continued to fend off them until there were none left, not a single one. Only after that he bandaged his leg. Cyren survived after a dose of poison which was twice the lethal! Unfortunately, his partner died almost instantly. Cyren got back in a few days, brought that tail with him, and showed everyone the leg wound, which healed by then and was already looking like a little scratch!}
+{250}{}{In this story, Cyren demostrated his great skill and endurance. One day, Cyren and his partner ended up into a narrow mountain passage. Everything was very silent, Cyren immediately suspected that something is wrong. Suddenly, swarms of scorpions launched attack on them, coming from both sides, from the top, crawling from under the cliffs and stones! Cyren even got stung in a leg by one of this filthy creatures! But he didn't get scared - he grabbed nearest scorpion, ripped off his tail and started to sting other scorpions with it!! And he fended them off until none left. Only after that he bandaged his leg - he survived a dose of poison which was twice the lethal! Unfortunately, his partner died almost instantly. Cyren got back in a few days, brought tail with him, and showed everyone the leg wound, which healed and was looking like a little scratch!}
 {251}{024}{Tell me about Jackals and settlement.}
 {252}{026}{You were saying that he saved you from Chimera. Tell me about it.}
 {253}{027}{How did he stop an assault on NWO?}
@@ -200,7 +200,7 @@
 {256}{010}{Very interesting. But let's talk about something else.}
 {257}{999}{I'd like to go look at his wound. I'm very interested.}
 
-{260}{}{This one is my favourite! That's when I met Cyren and fell in love with him. It all started on a Rainbow, where I lived and worked. The women there have only one work, you know. I didn't mind it - no need to think much, and I became pretty good at my duties. But one time, some client started chasing me to beat me up, so I ran away. I wandered desert for some time, before I fell exhausted near some stone. That's when Cyren found me and woke me up. He was incredible! He shared his food and offered help. Then he pulled me aside and showed me a Chimera's corpse - he killed her while I was sleeping. She could eat me in my sleep! This Chimera smelled like a lavash who has been dead for a week - I get goosebumps even thinking about it. So, I thanked Cyren how they taught me in Rainbow. We've been together since. }
+{260}{}{This one is my favourite! That's when I met Cyren and fell in love with him. It all started on a Rainbow, where I lived and worked. Women there have only one work, you know. I didn't mind it - no need to think much, and I became pretty good at my duties. But one time, some client started chasing me to beat me up, so I ran away. I wandered around the desert for some time, before I fell exhausted near some stone. That's where Cyren found me. He was incredible! He woke me up, shared his food and offered help. Then he pulled me aside and showed me a Chimera's corpse - he killed her while I was unconscious. She could eat me in my sleep! This Chimera smelled like a lavash who has been dead for a week... I get goosebumps even thinking about it. So, I thanked Cyren in the way they taught me in Rainbow. We've been together since. }
 {261}{024}{What's the story about settlement and Jackals?}
 {262}{025}{Tell me about scorpions and ambush.}
 {263}{027}{You were saying that he stopped an assault on NWO. Tell me about it.}
@@ -209,7 +209,7 @@
 {266}{010}{I get it, Cyren's really good. Let's talk about something else.}
 {267}{999}{I'll go talk with Cyren about the details of hunting the Chimeras.}
 
-{270}{}{That's when Cyren acted like a true hero! He didn't even tell anyone about this one, because he is very humble. That's how it was: Cyren was absent for a few days. Then he returned, and started doing his usual business, as if nothing happened. But later, people started talking that some huge battle took place in a couple of days away from here. They suggested that two rival gangs had fought over something, with heavy casualties from both sides. But then Cyren told everyone the truth - actually, two gangs wanted to join forces to attack the NWO. And Cyren decided to deal with them, meeting them on their way to the town. He stormed into a crowd of enemies and killed them all! And he didn't want to cause panic in the NWO, so he kept it silent. He didn't even want to show where the battle took place! Everyone here is in a great debt to him!}
+{270}{}{That's when Cyren acted like a true hero! He didn't even tell anyone about this one, because he is very humble. That's how it was: Cyren was absent for a few days. Then he returned, and started doing his usual business, as if nothing happened. But later, people started talking that some huge battle took place, not very far away from here. They suggested that two rival gangs had fought over something, with heavy casualties from both sides. But then Cyren told everyone the truth - actually, two gangs wanted to join forces to attack the NWO. And Cyren decided to meet them on their way to the town. He stormed into a crowd of enemies and killed them all! And he didn't want to cause panic in the NWO, so he kept it silent. He didn't even want to show where the battle took place! Everyone here is in a great debt to him!}
 {271}{024}{I want to hear about Jackals and settlement.}
 {272}{025}{Tell me about scorpions and ambush. How he managed to get out of that?}
 {273}{026}{You were saying that he saved you from Chimera. How did it happen?}
@@ -218,7 +218,7 @@
 {276}{010}{The dwellers should really worship him, or something. Let's talk about other things.}
 {277}{999}{I'll go talk to Cyren about dealing with superior enemy forces.}
 
-{280}{}{This is a story where he saved the whole Radius from dying out! Cyren and his partner went scouting to the farthest reaches, near Tin Industries. And they stumbled upon some scientist on the way. That scientist turned out to be a total psycho, who wanted to destroy all life in Radius! Cyren decided to prevent it, and talked the scientist into trusting him. So, the psycho's plan was to pollute all groundwater with toxic waste, left from before the War. He even showed him the barrels with waste! And Cyren burned them, together with the scientist! Unfortunately, his partner died too, inhaling all the poisonous fumes. Later, Cyren showed everyone the pile of rusty battels and two skeletons near them. He definitely saved the whole Radius! }
+{280}{}{This is a story where he saved the whole Radius from dying out! Cyren and his partner went scouting to the farthest reaches, near Tin Industries. And they stumbled upon some scientist on the way. That scientist turned out to be a total psycho - he wanted to destroy all life in Radius! Cyren decided to prevent it, and talked the scientist into trusting him. So, the psycho's plan was to pollute all groundwater with toxic waste, left from before the War. He even showed his barrels with waste! And Cyren burned them, together with the scientist! Unfortunately, his partner died too, inhaling all the poisonous fumes. Later, Cyren showed everyone the pile of rusty battels and two skeletons near them. He definitely saved the whole Radius! }
 {281}{024}{Tell me about Jackals and settlement.}
 {282}{025}{I want to hear about scorpions and ambush.}
 {283}{026}{Tell me about him saving you from Chimera.}

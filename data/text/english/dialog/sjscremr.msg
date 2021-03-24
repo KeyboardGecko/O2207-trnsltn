@@ -231,7 +231,7 @@
 {402}{999}{I'll remember that. But you too stay focused. Good luck, Loudmouth.}
 {4002}{}{[He crouches a little, as if he wants to throw himself at you] Do I suddenly need to get full of respect now?! Listen here, asshole - I DON'T GIVE A FUCK! WHO! YOU!! ARE!! Here you matter LESS than yesterday's PUKE!!! DO YOU HEAR ME?!?}
 {403}{017}{I see you don't understand who are you barking on?! You gonna cough with blood after we finished, bitch!}
-{404}{999}{Sure, sure. You should come by us sometimes. You won't be disappointed, I promise. Just tell us in advance, we'll dig up some graves for your guys. See you around, Jackal.}
+{404}{999}{Sure, sure. You should come by us sometimes. You won't be disappointed, I promise. Just tell us in advance, we'll dig some graves for your guys. See you around, Jackal.}
 {409}{999}{At least it's honest. Okay, we'll see how it turns out eventually.}
 {4003}{}{[He literally looks you from all sides] How someone like YOU could take down the Hog?! I bet I would do it fucking faster. Anyway - soon the Rainbow's gonna be ours! I'm gonna impale every fucking one of them on a stakes, that shit-eating junkies!! Don't wait for me to thank you though - I wanted to fuck up this fangy pig bitch myself.}
 {405}{017}{How, you say? I can show you. If you are still good for something except babbling.}

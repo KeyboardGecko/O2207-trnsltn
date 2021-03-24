@@ -17,7 +17,7 @@
 
 # Действия
 {5}{}{With hands? No, such thick layer can be dug out only with a shovel.}
-{6}{}{Uhh... No, THIS is not the best tool for digging up the graves.}
+{6}{}{Uhh... No, this is NOW the best tool for excavating the graves.}
 {7}{}{}
 {8}{}{}
 {9}{}{}
