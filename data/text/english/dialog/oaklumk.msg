@@ -55,7 +55,7 @@
 {133}{999}{Me go... I mean, I need to go.}
 
 
-{140}{}{[He straightens his shouders wit a quiet howling. His muscles pop out so hard that it looks like the armor whould tear it any minute. Klumk looks like rabid lavash, ring in his nose only emphasizes the similarity.] You threaten me, outsider? I kill you, in front of all tribe! I ask Elder to let me duel and eat your kindney after! No weapon, only fists and teeth!}
+{140}{}{[He straightens his shouders with a quiet howling. His muscles pop out so hard that it looks like the armor whould tear it any minute. Klumk looks like rabid lavash, ring in his nose only emphasizes the similarity.] You threaten me, outsider? I kill you, in front of all tribe! I ask Elder to let me duel and eat your kindney after! No weapon, only fists and teeth!}
 {141}{999}{No problem! I'm always ready for a good warm up! Gather them!}
 {142}{999}{I'll break your spine and leave you die in the pool of your own blood, you mutt! Let everyone see this!}
 {143}{998}{I don't like being public... I'm going to dismember you right now!}
