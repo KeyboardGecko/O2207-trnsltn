@@ -540,7 +540,7 @@
 
 
 {930}{}{Still joking around? Tell me straight - yes or no.}
-{931}{078}{Yes. But I still don't het it - you have inheritance of leader position here, right?}
+{931}{078}{Yes. But I still don't get it - you have inheritance of leader's position here, right?}
 {932}{087}{Sounds really promising, yes... but I don't think this is where I should belong. It's like dressing me as a stripper and putting me on the pole. Why don't you... Why don't you put Sam on this position?}
 
 

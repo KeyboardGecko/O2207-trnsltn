@@ -71,8 +71,8 @@
 {1013}{}{You, humans, are all the same... Get off me.}
 {1014}{}{::cough-cough-chrheeerh::}
 {1015}{}{Have something to drink? No? Oohhrh...}
-{1016}{}{This is Rainbow, human. We don't tolerate unvelcomed guests.}
-{1017}{}{You, softskins, make work us, the old ghouls...}
+{1016}{}{This is Rainbow, human. We don't tolerate unwelcomed guests.}
+{1017}{}{You, softskins, make us, the old ghouls, do all work...}
 {1018}{}{[scratches his chin] I could really use a drink...}
 {1019}{}{Disgusted? Then don't stand here, go away somewhere.}
 # Отрицательные сообщения

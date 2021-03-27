@@ -29,96 +29,96 @@
 #
 #ОПИСАНИЕ ПЕРСОНАЖА
 #
-{1}{}{Вы видите: бык-охранник.}
-{2}{}{Вы видите: бычара-охранник.}
-{3}{}{Вы видите: охранник.}
-{4}{}{Вы видите: охранник-постовой.}
-{5}{}{Вы видите: постовой Радуги.}
-{6}{}{Этот горрилоид почему-то не выглядит тупым.}
-{7}{}{На его рукаве повязка отображающая цвета радуги.}
-{8}{}{Кажется, он может спокойно связать Вас в узел. В прямом смысле.}
-{9}{}{Его броня вся в трещинах, порезах и дырах от пуль}
+{1}{}{You see a thug-looking guard.}
+{2}{}{You see a big guarding thug.}
+{3}{}{You see a guard.}
+{4}{}{You see a thug.}
+{5}{}{You see a Rainbow guard.}
+{6}{}{This ape-like huge guy doesn't look stupid at all.}
+{7}{}{He has rainbow-colored patch on his sleeve.}
+{8}{}{Looks like he could easily tie you into a knot. Literally.}
+{9}{}{His armor is covered with cracks, scratches and bullet holes.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Босс [уважительно кивает]}
-{11}{}{Все спокойно, стоим - охраняем [ухмыляется]}
-{12}{}{Все тихо, босс. Без этих... без происшествий!}
-{13}{}{У нас тут все под контролем, будьте спокойны.}
-{14}{}{Нам нужен сильный лидер. Как Вы, босс [подмигивает]}
+{10}{}{Boss. [he respectfully nods]}
+{11}{}{All good, staying, guarding. [he grins]}
+{12}{}{All is quiet, boss. No, uh... Incidents.}
+{13}{}{Everything is under control, be sure about that.}
+{14}{}{We need a strong leader. Like you, boss. [he winks]}
 {15}{}{}
-{16}{}{[приосанивается] Здорово, босс.}
-{17}{}{[старается не смотреть Вам в глаза]}
-{18}{}{[козыряет двумя пальцами] Босс.}
-{19}{}{[уважительно Вам кивает]}
+{16}{}{[straightens up] Hey, boss.}
+{17}{}{[avoids looking into your eyes]}
+{18}{}{[salutes you] Boss.}
+{19}{}{[nods respectfully]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Да?}
-{1001}{}{Здорово.}
-{1002}{}{Проходи.}
-{1003}{}{А?}
-{1004}{}{Нет, я не подсказываю как пройти куда-нибудь.}
-{1005}{}{[проверяет оружие]}
-{1006}{}{[смачно плюет на землю]}
-{1007}{}{[точит армейский нож]}
-{1008}{}{[проверяет снаряжение]}
-{1009}{}{Давай мож в армрестлинг?}
+{1000}{}{Yeah?}
+{1001}{}{Hi.}
+{1002}{}{Come in.}
+{1003}{}{Huh?}
+{1004}{}{No, I'm not giving girections here.}
+{1005}{}{[checks out his weapon]}
+{1006}{}{[spits on the ground]}
+{1007}{}{[sharpens his knife]}
+{1008}{}{[checks out his equipment]}
+{1009}{}{Let's wrestle, maybe?}
 # Нейтральные сообщения
-{1010}{}{Чет я не припоминаю твою харю...}
-{1011}{}{А ты откуда такой нарисовался?}
-{1012}{}{Нет, я не справочная.}
-{1013}{}{Хочешь совет? Отвали.}
-{1014}{}{Я скучный? Я радужный млять!}
-{1015}{}{Да, я серьезный. Но не дебил.} 
-{1016}{}{Спорим, я сломаю тебе руку одной левой?}
-{1017}{}{Только попробуй сказать слово "тупой"...}
-{1018}{}{Помню видел я такого как ты... ух мы его...}
-{1019}{}{Я что, похож на гида?}
+{1010}{}{I don't remember seeing your face around here.}
+{1011}{}{Where the hell are the likes of you come from?}
+{1012}{}{No, I'm not a helpdesk.}
+{1013}{}{Want some advice? Get lost.}
+{1014}{}{I'm boring? I'm fucking rainbowring!}
+{1015}{}{I'm serious, not stupid.} 
+{1016}{}{I think I can break both of your hands with only my left one. Wanna bet?}
+{1017}{}{Just say "stupid" one fucking time...}
+{1018}{}{Once we've met a guy like you. We beat the shit out of him so hard...}
+{1019}{}{Do I look like a guide?}
 # Отрицательные сообщения
-{1020}{}{Мой ботинок зовут Чарли. Он обожает драть задницы.}
-{1021}{}{Брысь, щенок, пока из тебя глиномеса не сделали!}
-{1022}{}{Э, лошок, подь сюды!}
-{1023}{}{Я твоим лицом парашу мыть буду!}
-{1024}{}{Ну иди сюда, давай!}
-{1025}{}{Не жить, тебе, петушара!}
-{1026}{}{Глаз на жопу натяну!}
-{1027}{}{Щас твоя жопа станет розочкой...}
-{1028}{}{[проводит большим пальцем по своему горлу, изображая опасную бритву]}
-{1029}{}{Ты у меня черпак говна съешь!}
+{1020}{}{My boot is named Charlie. He loves to kick ass.}
+{1021}{}{Get the fuck out, whelp! Or we'll turn you into a clay kicker.}
+{1022}{}{Hey, you asshole, come 'ere!}
+{1023}{}{I'm gonna wash the toilets with your face!}
+{1024}{}{Come here, c'mon!}
+{1025}{}{You're dead meat, you cock!}
+{1026}{}{I'm gonna fuck you up so hard!}
+{1027}{}{I'm gonna tear you a new asshole...}
+{1028}{}{[makes a move with his finger from ear to ear]}
+{1029}{}{You're eating a bag of shit!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1034}{}{::м-у-у-а-а-а-м-м-м...::}
-{1035}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1036}{}{::м-у-у-а-а-а-м-м-м...::}
-{1037}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1038}{}{::м-м-м-а-а-м-м...::}
-{1039}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
+{1034}{}{::Mrmmyahrmmm...::}
+{1035}{}{::Uhhhhrmhumhumm...::}
+{1036}{}{::Ughmmrmmhmm...::}
+{1037}{}{::Yaaarghmhmhmmm...::}
+{1038}{}{::Mmmrhmmm...::}
+{1039}{}{::Aaaaghrhhmmzzzzzz...::}
 #МЫСЛИ ВСЛУХ
 #Стандартные
-{1040}{}{Куда я дел кроссворд?}
-{1041}{}{Интересно, а правда что раньше было какая-то ЛГБТ, у которой был символ Радуги?}
-{1042}{}{Скорей бы уже смена...}
-{1043}{}{Время течет слишком медленно...}
-{1044}{}{[бьет воображаемого противника]}
+{1040}{}{Where did I put my crossword puzzle?}
+{1041}{}{I wonder, was there really some LGBT organization once, having the rainbow as its symbol.}
+{1042}{}{When does my shift ends...}
+{1043}{}{Time goes by so slowly...}
+{1044}{}{[punches an imaginary opponent]}
 #Кабан убит игроком
-{1045}{}{Эх, четкий был Кабан. Четкий...}
-{1046}{}{Ну что за козел его угробил...}
-{1047}{}{Блин, нам теперь полюбому зарплату урежут...}
-{1048}{}{Пора искать новую работу...}
-{1049}{}{Может к Псам вернуться?...}
+{1045}{}{Man, Hog was legit. The real deal...}
+{1046}{}{What asshole had him murdered?..}
+{1047}{}{We are definitely having our pays cut...}
+{1048}{}{Maybe it's time to find a new job?..}
+{1049}{}{Maybe I should go back to Jackals?..}
 #Наоми Янг сбежала
-{1050}{}{Из-за этой суки меня лишили прибавки...}
-{1051}{}{Найду ее - оторву ее маленькие ручонки...}
-{1052}{}{Попадись она мне... только попадись...}
-{1053}{}{Млять, щас бы ширануться...}
-{1054}{}{[чешет лицо]}
+{1050}{}{That bitch is the reason I didn't get promoted...}
+{1051}{}{If I'll find her, I'm going to rip her little hands out!}
+{1052}{}{Just to meet her... Just once...}
+{1053}{}{Man, I need to shoot up so bad...}
+{1054}{}{[scratches his face]}
 #Наоми Янг сделала каплю сильнее
-{1055}{}{У-у-у-у-а!!! Вот это УЛЕТ!!!}
-{1056}{}{Да я готов трубу в два узла скрутить...}
-{1057}{}{Я чувствую... мои яйца стали больше... о-хре-неть...}
-{1058}{}{[ошарашено смотрит по сторонам]}
-{1059}{}{[нервно шарит по карманам]}
+{1055}{}{Yeeeeeehaaaaw!!! That is AWESOME!!!}
+{1056}{}{I'm gone make this pipe into a double knot!}
+{1057}{}{I feel... like my balls... got bigger... hoooo-ly shieeet...}
+{1058}{}{[looks around, shocking]}
+{1059}{}{[nervously rifles through his pockets]}

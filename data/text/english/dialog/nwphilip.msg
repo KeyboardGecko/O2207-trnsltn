@@ -151,7 +151,7 @@
 
 #Node026
 {260}{}{No way, what if you are lying? I can't trust everyone! Rough times, you know... There's even someone pouring oil in my food mixes. Come by tomorrow, when I learn something.}
-{261}{999}{Okay, I'll be back. Het my reward ready, Philip. Good luck with the catch.}
+{261}{999}{Okay, I'll be back. Prepare my reward, Philip. Good luck with the catch.}
 {262}{999}{Okay, jerk, I'll come back tomorrow. And I dare you to try not to give me the reward you promised.}
 
 #Node027

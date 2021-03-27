@@ -45,7 +45,7 @@
 
 
 #Node004
-{40}{}{Hehe, cool. It was, like, probably difficult to het here. I mean, uh, a lot of bandits around and dangerous, or something.}
+{40}{}{Hehe, cool. It was, like, probably difficult to get here. I mean, uh, a lot of bandits around and dangerous, or something.}
 {41}{005}{Nah, no sweat. It was pretty easy.}
 {42}{006}{There were some difficulties, but I managed.}
 {43}{007}{Yes, the outside world is full of danger. I barely made it here, almost died a few times.}

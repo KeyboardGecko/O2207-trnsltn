@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick, which he poked his teeth with. His rotten, black teeth, of course.] Hey man! Come! Shepherd offers the most valuable thing for any man to enjoy! Interested?}
+{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick he poked his black, rotten teeth with.] Hey man! Come! Shepherd offers the most valuable thing for any man to enjoy! Interested?}
 {11}{015}{Maybe. Tell me more.}
 {12}{011}{Sounds tempting... But do you mind answering a few questions first?}
 {13}{016}{This is great and all that, but I'm more interested in work.}
@@ -76,8 +76,8 @@
 {122}{999}{Thanks for the info. Take care, Shepherd.}
 
 
-{130}{}{[he quickly counts and hides batteries] Well, actually, nobody's in charge. But everyone pays my man Hog for protection. He is an extremely serious fella, we're like brothers. We've been through such shit together, you wouldn't believe. Had so much fun in raids while in Jackals... Then the Hog has Mate, that shaved motherfucking asshole, who think he's cool. You just keep in mind that he looks after the supply of raw materials for the laboratory and deals with issues that Hog does not. And there's Apothecary - he owns a bar and controls the quality of the Drop. He is pretty good at chemistry... When not wasted.}
-{131}{014}{What did you mention about the Jackals?}
+{130}{}{[he quickly counts and hides batteries] Well, actually, nobody's in charge here. But everyone pays my man Hog for protection. He is an extremely serious fella, we're like brothers. We've been through so much shit together, you wouldn't believe. Had so much fun in raids while in Jackals... Then the Hog has Mate, that shaved motherfucking asshole, who think he's cool. You just keep in mind that he looks after the supply of raw materials for the laboratory and deals with issues that Hog does not. And there's Apothecary - he owns a bar and controls the quality of the Drop. He is pretty good at chemistry... When not wasted.}
+{131}{014}{What did you say about the Jackals?}
 {132}{012}{Can you tell me more about the Rainbow?}
 {133}{999}{Understood. That's all I wanted. See you!}
 
@@ -110,7 +110,7 @@
 {1604}{}{[he sends a chewed toothpick flying into the nearest prostitute] I don't even feel comfortable to distract you with such petty matters... There's one of your guys, a guard of the local warehouse, name's Brick. This horny piece of lavash shit made a habit of visiting my girls - and he fucks them for free!! Backs them into a corner and bonks them right there. How do you like that? Help me, chief, I'm pretty busy lately - trying to make more money for you!}
 {169}{999}{Okay, I'll see to it. And you should think about why would I need someone who can't handle his own matters.}
 {1610}{999}{And you will pay in time, I don't even doubt. As for the Brick - I don't have time for this, hear me? Later.}
-{1604}{}{Nah, everything's quiet. You did a great job, man.}
+{1604}{}{Nah, everything's quiet. All good, man.}
 {1611}{999}{Okay. Tell me if you need something. Later, Shepherd.}
 {1605}{}{[he scratches his nose with a toothpick] Chief, you are so good at dealing with this kind of shit, I can't believe it! We are so lucky to have you in charge! Everything is great, no problem at all!}
 {1612}{999}{Good. But you should learn to handle the matters by yourself, because you are responsible. Later, Shepherd.}
@@ -158,13 +158,13 @@
 {222}{999}{I won't forget that. Later.}
 
 
-{2301}{}{[The girl gets behind you back, cowering in fear. The black guy stops nearby, gasping for air, tossing a toothpick into his mouth.] What the... Don't get in my way, man. I need to kick the shit out of stupid head of this bitch! Or better, help me subdue her!}
+{2301}{}{[The girl gets behind you back, cowering in fear. The black guy stops nearby, gasping for air, then tosses a toothpick into his mouth.] What the... Don't get in my way, man. I'll kick the shit out of this bitch's stupid head! Or better, help me to capture her!}
 {231}{024}{What's this all about?}
 {2302}{}{[The girl gets behind you back, cowering in fear. Shepherd stops nearby, gasping for air, tossing a toothpick into his mouth.]}
 {232}{024}{What's this all about?}
 
 
-{240}{}{I treated this slut like no other! I didn't even punched her face while fucking her! The clients liked her! And what she does in return? She starts fucking stealing! And you know why? Because of her fucking dad's meds! She tried to talk the caravan merchants into this, ain't it fucked up? Of course, merchants ratted her out - they are our regular customers! It's alright - if she survives after me, she'll learn some respect! [The girl squeals and covers her face] Subdue her, man!}
+{240}{}{I treated this slut like no other! I didn't even punched her face while fucking her! The clients liked her! And what she does in return? She starts fucking stealing! And you know why? Because of her fucking dad's meds! She tried to talk the caravan merchants into this, ain't it fucked up? Of course, they ratted her out - they are our regular customers! It's alright - if she survives after me, she'll learn some respect! [The girl squeals and covers her face] Get her, man!}
 {241}{025}{Just a second! [grab the girl] Damn, ain't she a feisty one! Hold her, don't stand there! Things like this shouldn't be forgiven, so don't go easy on her. Thieves used to have their hands cut off, or so I've heard...}
 {242}{026}{Hey, easy! This can be resolved without any fuss!}
 {243}{027}{You won't touch her, black boy. [stand in his way]}
@@ -174,7 +174,7 @@
 {251}{999}{You don't trust anyone these days... Okay, I overstayed my welcome. I should go.}
 
 
-{260}{}{[he is staring at you astonished with his mouth open. His toothpick is stuck on his lower lip.] What? What the hell are you blabbering about? How else would you deal with this?}
+{260}{}{[he is staring at you astonished, with his mouth open. His toothpick is stuck on his lower lip.] What? What the hell are you blabbering about? How else would you deal with this?}
 {261}{}{Be more practical! You said yourself that she is a valuable employee. And she is already terrified - look, she's barely standing. Why do you need to lose part of your income? Just remind her about this matter from time to time, and she will work even harder than before. }
 {262}{025}{You know, maybe you're right! [grab the girl] Hold her legs! Ow! I'm going to rip your arms off, you slut!}
 {263}{027}{How, you ask? One-on-one. With me.}
