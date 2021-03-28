@@ -53,7 +53,7 @@
 {60}{}{[He angrily turns to you and starts shouting] Who the hell do you think you are?! What are you doing here?!}
 {61}{009}{I want to talk!}
 {62}{007}{I'm teaching the local idiots to be polite! With my fists!}
-{63}{008}{I came to kick the shit out of you!}
+{63}{008}{I came to beat the shit out of you!}
 
 
 {70}{}{The hell do you want from me? Here, take this and let me work! [he gives you a bottle with something]}

@@ -35,7 +35,7 @@
 {4}{}{You see a boy from a gang.}
 {5}{}{You see a gang member.}
 {6}{}{He is practicing a quick draw of his gun from holster.}
-{7}{}{Sticking out his tongue and biting it, he aims at something.}
+{7}{}{Sticking out his tongue and biting it, he aims his gun at something.}
 {8}{}{Looks like his clothes are too big for him. A six sizes big, no less.}
 {9}{}{He counts bullets in his palm, angrily looking at people around him.}
 #
@@ -74,7 +74,7 @@
 {1016}{}{[looks at his gun]}
 {1017}{}{[cleans his weapon]}
 {1018}{}{G is in charge here. Talk to him, not me.}
-{1019}{}{[aims at piles of trash, laying around]}
+{1019}{}{[aims his gun at piles of trash, laying around]}
 # Отрицательные сообщения
 {1020}{}{Kiss my ass.}
 {1021}{}{Go to hell.}

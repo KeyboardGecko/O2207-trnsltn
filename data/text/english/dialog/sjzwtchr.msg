@@ -37,7 +37,7 @@
 {11}{}{You hit like a girl!}
 {12}{}{What kind of jab is that?!}
 {13}{}{Punch him in the face!}
-{14}{}{Kick the shit out of him!}
+{14}{}{Beat the shit out of him!}
 {15}{}{Go for the eyes! And then the crotch!!}
 {16}{}{Act like a man and kick him in the balls!}
 {17}{}{Don't you dare falling down, I bet on you!!}

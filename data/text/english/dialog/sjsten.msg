@@ -86,7 +86,7 @@
 {131}{999}{[end of dialogue]}
 
 
-{140}{}{You bitching rat, go try it yourself. I'm gonna stand and watch how Loudmouth will kick the shit out of you.}
+{140}{}{You bitching rat, go try it yourself. I'm gonna stand and watch how Loudmouth will beat the shit out of you.}
 {141}{010}{Oh-kay... Another question then.}
 {142}{999}{Fine. I'll deal with it myself.}
 

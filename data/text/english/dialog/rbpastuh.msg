@@ -20,7 +20,7 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick he poked his black, rotten teeth with.] Hey man! Come! Shepherd offers the most valuable thing for any man to enjoy! Interested?}
+{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick he poked his black, rotten teeth with.] Hey, man! Come! Shepherd provides the biggest joy for any man! Interested?}
 {11}{015}{Maybe. Tell me more.}
 {12}{011}{Sounds tempting... But do you mind answering a few questions first?}
 {13}{016}{This is great and all that, but I'm more interested in work.}
@@ -76,7 +76,7 @@
 {122}{999}{Thanks for the info. Take care, Shepherd.}
 
 
-{130}{}{[he quickly counts and hides batteries] Well, actually, nobody's in charge here. But everyone pays my man Hog for protection. He is an extremely serious fella, we're like brothers. We've been through so much shit together, you wouldn't believe. Had so much fun in raids while in Jackals... Then the Hog has Mate, that shaved motherfucking asshole, who think he's cool. You just keep in mind that he looks after the supply of raw materials for the laboratory and deals with issues that Hog does not. And there's Apothecary - he owns a bar and controls the quality of the Drop. He is pretty good at chemistry... When not wasted.}
+{130}{}{[he quickly counts and hides batteries] Well, actually, nobody's in charge. But everyone pays my man Hog for protection. He is an extremely serious fella, we're like brothers. We've been through so much shit together, you wouldn't believe. Had so much fun in raids while in Jackals... Then the Hog has Mate, that shaved motherfucking asshole, who think he's cool. You just keep in mind that he looks after the supply of raw materials for the laboratory and deals with issues that Hog does not. And there's Apothecary - he owns a bar and controls the quality of the Drop. He is pretty good at chemistry... When not wasted.}
 {131}{014}{What did you say about the Jackals?}
 {132}{012}{Can you tell me more about the Rainbow?}
 {133}{999}{Understood. That's all I wanted. See you!}
@@ -86,7 +86,7 @@
 {141}{999}{Thanks for the info. See you around.}
 
 
-{1501}{}{[he gets more lively] Now we're talking business! Here's how it is, man - for 27 batteries per hour, the best pussies in Radius are at your service! Do anything you want with them, but don't mess up the commodity's condition, be so kind. They won't say no, I promise you that. I work on them myself... In every hole, hahaha! Don't forget the condoms - it's on the house.}
+{1501}{}{[he gets more lively] Now we're talking business! Here's how it is, man - for only 27 batteries per hour, best pussies in Radius are at your service! Do anything you want with them, but don't mess up the commodity's condition, be so kind. They won't say no, I promise you that. I work on them myself... In every hole, hahaha! And don't forget the condoms - it's on the house.}
 {151}{999}{Such a good recommendations! I'm paying!}
 {152}{999}{No, I don't need it for now.}
 {1502}{}{Our fine establishment is always at your service, man! The price still stands - 27 batteries per hour.}
@@ -128,15 +128,15 @@
 {172}{999}{A good addition to my collection. See you around, Shepherd.}
 
 
-{1801}{}{[Растягивает вывернутые губы в довольной усмешке] Хорошая новость... Очень надеюсь, что так оно и будет. Держи пакет. Хочешь расскажу за скромную плату, как и что смешать, чтоб стояк сутки не проходил?}
-{181}{999}{Ну спасибо. Сам как-нибудь разберусь. Пока.}
-{1802}{}{[Толстые губы подхватывают зубочистку и Shepherd довольно потирает руки] Вот так-то, мешок со спермой... Больше проблем с  безопасностью не будет, шеф! Это вот вам, собрал специально. [Торопливо протягивает пакет с какой-то химией] Благодарю!}
-{182}{999}{Судьбу благодари. В следующий раз с тебя спрошу за такие дела. Пока свободен.}
+{1801}{}{[he stretches his lips into a smug smile] Good to know... I hope that's how it is. Here's your package. Want me to tell you how and what to mix, so your hard-on would last for twenty four hours? The price is pretty small.}
+{181}{999}{No thanks. I'll figure it out. See you.}
+{1802}{}{[his fat lips squeeze the toothpick. Shepherd looks pleased] You got what you deserved, you walking sperm bank... No more problems with security then, chief! Here, this is for you. [he hands you a backage with some chemicals] Thanks again!}
+{182}{999}{Next time you'll answer to me for such screw-ups. You can go for now.}
 
 
 {190}{}{[he coarsely laughs with a pleasant look] Maybe I would. You don't have enough batteries for it anyway! Haha! I'm a businessman, man, not a cheap pimp from the streets.}
 {191}{020}{Really? You ARE a pimp from the streets! I'm going to spin you right round on my device for free, if I feel like it!}
-{192}{013}{Okay, businessman. Tell me about the local authorities.}
+{192}{013}{Okay, businessman. Tell me about the local authorities. Who is in charge here?}
 {193}{012}{Alright. Tell me about the Rainbow.}
 {194}{999}{I get it. I'm leaving.}
 
@@ -158,9 +158,9 @@
 {222}{999}{I won't forget that. Later.}
 
 
-{2301}{}{[The girl gets behind you back, cowering in fear. The black guy stops nearby, gasping for air, then tosses a toothpick into his mouth.] What the... Don't get in my way, man. I'll kick the shit out of this bitch's stupid head! Or better, help me to capture her!}
+{2301}{}{[You see a girl running at you, screaming. As you stumble, she gets behind you back, cowering in fear. The black guy stops nearby, gasping for air, then tosses a toothpick into his mouth.] What the... Don't get in my way, man. I'm going to beat the shit out of this bitch's stupid head! Or better, help me to capture her!}
 {231}{024}{What's this all about?}
-{2302}{}{[The girl gets behind you back, cowering in fear. Shepherd stops nearby, gasping for air, tossing a toothpick into his mouth.]}
+{2302}{}{[You see a girl running at you, screaming. As you stumble, she behind you back, cowering in fear. Shepherd stops nearby, gasping for air, tossing a toothpick into his mouth.]}
 {232}{024}{What's this all about?}
 
 

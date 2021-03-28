@@ -633,7 +633,7 @@
 {31700}{}{*Machine Parts*}
 {31701}{}{One of the most important parts of the machine.}
 {31800}{}{*Constitution of 15 Rights*}
-{31801}{}{The Laivos Constitution for the inhabitants of the new world, created by the inhabitants for posterity. Perhaps it is useful to know the situation.}
+{31801}{}{The Livos Constitution for the inhabitants of the new world, created by the inhabitants for posterity. Perhaps it is useful to know the situation.}
 {31900}{}{*Robotron Hand*}
 {31901}{}{The electro-mechanical limb of a combat robotron.}
 {32000}{}{*Electric Motor*}

@@ -75,7 +75,7 @@
 {1015}{}{I'm serious, not stupid.} 
 {1016}{}{I think I can break both of your hands with only my left one. Wanna bet?}
 {1017}{}{Just say "stupid" one fucking time...}
-{1018}{}{Once we've met a guy like you. We beat the shit out of him so hard...}
+{1018}{}{Once I've met a guy like you. We beat the shit out of him.}
 {1019}{}{Do I look like a guide?}
 # Отрицательные сообщения
 {1020}{}{My boot is named Charlie. He loves to kick ass.}
@@ -102,14 +102,14 @@
 #МЫСЛИ ВСЛУЁ
 #Стандартные
 {1040}{}{Where did I put my crossword puzzle?}
-{1041}{}{I wonder, was there really some LGBT organization once, having the rainbow as its symbol.}
-{1042}{}{When does my shift ends...}
+{1041}{}{I wonder if there was really some LGBT organization once, which had the rainbow as its symbol.}
+{1042}{}{When does my shift end...}
 {1043}{}{Time goes by so slowly...}
 {1044}{}{[punches an imaginary opponent]}
 #Кабан убит игроком
 {1045}{}{Man, Hog was legit. The real deal...}
 {1046}{}{What asshole had him murdered?..}
-{1047}{}{We are definitely having our pays cut...}
+{1047}{}{We are definitely having our pay cut...}
 {1048}{}{Maybe it's time to find a new job?..}
 {1049}{}{Maybe I should go back to Jackals?..}
 #Наоми Янг сбежала
