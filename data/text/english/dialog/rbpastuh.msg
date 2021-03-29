@@ -66,7 +66,7 @@
 {110}{}{[his smile gets impossibly wide] Shepherd is always ready to help out a good man! For a fistful of batteries, of course. Every question costs a ten, no discounts. It's a free market, business is business, nothing personal.}
 {111}{019}{Why do you have to be so greedy? Would you even work instead of your girls, if the price is right?}
 {112}{012}{Okay. Tell me about the Rainbow.}
-{113}{013}{Man... Here. And tell me about your colleagues who is worth dealing with.}
+{113}{013}{Here. And tell me about the people in charge, who are worth dealing with.}
 {114}{020}{What? Ten? Why don't you go suck on it, herder?}
 {115}{999}{Actually, I've got to go.}
 
@@ -100,7 +100,7 @@
 {161}{999}{Deal. Wait here.}
 {162}{011}{Not interested. Better answer me some questions.}
 {163}{999}{I need to think about it. Will be back.}
-{1602}{}{One thing is bugging me. There's a guard of the local warehouse, name's Brick. This horny piece of lavash shit made a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! }
+{1602}{}{There's one thing that's bugging me. A guard of the local warehouse, named Brick. This horny piece of lavash shit made a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! }
 {164}{999}{Deal. Get the stuff ready.}
 {165}{011}{Nah, handle him yourself. And I need answers to some questions.}
 {166}{999}{I need to think about it. Will be back.}
