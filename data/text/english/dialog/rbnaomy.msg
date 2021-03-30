@@ -11,56 +11,56 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: девушка в лабораторной одежде.}
-{2}{}{Что-то ее явно угнетает.}
+{1}{}{You see a girl wearing lab coat.}
+{2}{}{Something's clearly depressing her.}
 #
 # после знакомства
-{3}{}{Вы видите: Наоми Янг.}
-{4}{}{Глава лаборатории по производству Капли.}
+{3}{}{You see Naomi Young.}
+{4}{}{The head of laboratory and the chief of the Drop production.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Ее лабораторный халат изрядно поношенный, но чистый. Правильные черты лица застыли маской постоянной усталости и напряжения. Зеленые глаза смотрят на вас насмешливо-пренебрежительно] А вы кто еще такой? [Тонкие брови сшибаются над переносьем, колба в ее руках со стуком опускается на стол] Сколько можно повторять - во время работы меня не отвлекать! Я уж  не говорю про то, что после вас каждый раз приходитcя проводить дезинфекцию. Узколобые олигофрены...}
-{11}{011}{Виноват, не хотел вам мешать. Кстати, нас не представили. Меня зовут }
-{12}{999}{. А вы?...}
-{13}{999}{Уже ухожу, не кипятитесь, дамочка! Я, кстати, }
-{14}{}{.Будем знакомы.}
+{10}{}{[Her lab coat is pretty worn, albeit clean. Her face is a mask of exhaustion and strain, green eyes are looking at you dismissively] Who the hell are you? How many times do I have to tell - don't bother me, while I'm working! I'm not even talking about the need to desinfect the place after every other narrow-minded oligophren...}
+{11}{011}{Sorry, didn't mean to interrupt. We haven't met, by the way. I'm }
+{12}{999}{. And you are?}
+{13}{999}{Sheesh, lady, chill! I'm already leaving. The name's }
+{14}{}{, by the way. Nice to meet you.}
 
 
-{1001}{011}{[Равнодушно кивает вам] Добрый... что там у нас за стенами? И по какому поводу мне опять приходится вас терпеть? [Ее слегка пошатывает от усталости]  Вам, как и тому быку-осеменителю за стеной, нужна [весьма похоже передает интонации Кирпича]"такая штука, чтоб стояк, в общем, сутки был!"? Эх... Да, и передайте Кабану, что следующая партия будет вовремя.}
-{101}{015}{Напомните мне, пожалуйста, кто вы ?}
-{102}{014}{Хотел обсудить ваше положение здесь.}
-{103}{999}{Передам при случае... Кстати, что вы можете сказать о нем?}
-{104}{999}{Всего лишь зашел оценить обстановку. Хорошего дня.}
-{105}{}{Прямо вот сутки? Интересное предложение... Хотя у меня с этим порядок. Ну, еще увидимся.}
-{1002}{027}{[Смотрит на вас с опаской, словно не зная, чего ожидать] Большой Босс почтил нас своим присутствием! И чем же обязаны, позвольте спросить? Решили лично продегустировать продукт? Или просто кончились ваши мальчики для битья?}
-{106}{026}{Есть разговор насчет Капли. Мне нужен более эффективный продукт на рынке.}
-{107}{999}{У вас есть какие-то вопросы? Жалобы?}
-{108}{999}{Просто решил проверить своих сотрудников. Вижу, все у вас в порядке.  Чтож, тогда до следующего раза.}
-{109}{}{Я сегодня не в настроении для твоего дерьма, девочка. Придержи язык и помни, от кого зависит твое существование. Ты подумай об этом. Все, мне пора.}
+{1001}{011}{[She indifferently nods] Good day to you... How's the life behind the walls going? And what's the reason I have to tolerate you here again? Maybe, you are here for "de ting to have a hard-on for anoder twentee for ours"? Geez... Oh, and tell Hog that the next batch will be ready in time.}
+{101}{015}{Remind me, please, who are you, actually?}
+{102}{014}{I wanted to talk about your situation here.}
+{103}{999}{I definintely will. By the way, what can you tell me about him?}
+{104}{999}{I was just lookind around. Good day to you too.}
+{105}{}{Twenty four hours? What an interesting proposition. I'm perfectly fine in that regards, by the way. Well, see ya.}
+{1002}{027}{[she gives you a cautious look, as if she doesn't know what to expect] A Big Boss himself came down upon us! And to what do we owe the pleasure, if I may ask? Decided to try the product yourself, or just out of punching bags?}
+{106}{026}{I want to talk about the Drop. I need the product to be more effective.}
+{107}{999}{Do you have questions, maybe? Complaints?}
+{108}{999}{Just checking my personnel. I see you are doing fine. See you next time then.}
+{109}{}{I'm not in the mood for your shit, girl. Keep your mouth shut, and remember who owes your life. That's all, I'm out.}
 
 
-{114}{012}{Наоми Янг. Почетная пожизненная глава сей прекрасной лаборатории. [Отвешивает шутовской поклон] Ну, довольны? [Вполголоса] Прислуживать тем, чей суммарный IQ  даже близко не дотягивает до твоего... Боже, видел бы меня отец... }
-{110}{021}{Что же вы здесь производите?}
-{111}{022}{Че? Ты типа умная такая, да? Так чегож на местных пашешь тогда без перерыва? Вот и закройся!}
-{112}{999}{А кто был ваш отец?}
-{113}{}{Прошу прощения, но мне уже пора.}
+{114}{012}{Naomi Young. A honorary head of this fine laboratory. For life. [she bows mockingly] Are you happy now? [mumbles] To serve those who has their IQ not even approximately close to mine, even if combined together... Glad my father don't see me...}
+{110}{021}{What is it that you create here?}
+{111}{022}{What? Think you're smart, huh? Why do you work for locals non-stop then?}
+{112}{999}{Who was your father?}
+{113}{}{You have to excuse me, but I need to go.}
 
 
-{120}{022}{[Поправляет костяной браслет в волосах] Вы из какой норы выползли с такими вопросами?  А что еще можно производить здесь, кроме Капли?  Она кровь Радуги... и проклятье моего отца...}
-{121}{013}{И кто был ваш отец?}
-{122}{999}{А не расскажите поподробнее, что такое Капля?}
-{123}{}{Спасибо за информацию, но мне надо идти.}
+{120}{022}{What hole did you crawl from, asking questions like this? What else can be made here? Only the Drop! The blood of Rainbow... The curse of my father.}
+{121}{013}{Who was your father?}
+{122}{999}{Can you tell me what exactly the Drop is?}
+{123}{}{Thanks for the info, but I need to go.}
 
 
-{130}{022}{[Принимает вид преподавателя, вещающего с кафедры для толпы учеников] Капля - абсолютный наркотик, быстрого типа. Оказывает прямое воздействие на прилежащее ядро лимбической системы, вызывая, в первую очередь, чувство эйфории. Привыкание - с первой дозы у 98,14% подопытных. За основу был взят препарат "Комбатид". Мой отец внес кое-какие изменения в формулу, когда исследовал уникальные свойства феромона огненных муравьев... Впрочем, больше вам знать не нужно, да и у меня времени на лекции нет. Надеюсь, даже такой необразованный примат, как вы, уяснил хотя бы часть информации...}
+{130}{022}{The Drop? The Drop is a perfect drug, having instantaneous effect. Has a direct impact on the adjacent core of limbic system, causing the feeling of euphoria, among other things. Addiction forms from the very first dose in 98,14% of cases. As a basis, the pre-war "Combatid" drug is used. My father made some changes to the formula, while researching unique properties of fire ant feromones... But I don't have time for lecturing, and you wouldn't understand details. Good if even a little part of what I've just said stuck in this primate head of yours.}
 {131}{021}{Ваш отец, должно быть, был известным ученым. Я мог слышать его имя?}
 {132}{999}{Слышь, ты всем знакомым эту хрень научную втираешь? Если да - то у тебя их точно немного, ха-ха!}
 {133}{999}{Благодарю за информацию, мне пора. Берегите себя.}
 {134}{}{Че? Да пошла бы ты знаешь куда? Примат... Идти мне надо, а то я бы тебе разъяснил, кто здесь кто...}
 
 
-{140}{013}{Кабан - прекрасный образчик того, что может сделать Капля с человеком. Есть какая-то ирония, что именно такой субъект получил от нее максимальный эффект... [Грустно улыбается] Благодаря регулярному приему препарата, он стал весьма силен и вынослив. Взамен же получил расстройство психики и, как следствие - полное отсутствие сна. Правда, реальность наш Кабан тоже воспринимает... несколько своеобразно. Он моя компенсация за заточение в четырех стенах - исследовать его феномен весьма и весьма любопытно.}
+{140}{013}{Take the Hog, for example. A wonderful exemplar, demonstrating how the Drop is affecting on human organism. Есть какая-то ирония, что именно такой субъект получил от нее максимальный эффект... [Грустно улыбается] Благодаря регулярному приему препарата, он стал весьма силен и вынослив. Взамен же получил расстройство психики и, как следствие - полное отсутствие сна. Правда, реальность наш Кабан тоже воспринимает... несколько своеобразно. Он моя компенсация за заточение в четырех стенах - исследовать его феномен весьма и весьма любопытно.}
 {141}{021}{А вы можете поподробнее рассказать о Капле?}
 {142}{012}{Ну-ну! Такую пургу прогнать насчет исследований может и бордельная шлюха. Кстати, твое-то положение чем от ее отличается?}
 {143}{999}{Понятно... Так вы здесь Каплю и производите?}
