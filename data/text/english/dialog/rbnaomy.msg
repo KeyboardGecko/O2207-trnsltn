@@ -81,14 +81,14 @@
 
 
 {170}{024}{What are you talking about? Is this some kind of a joke?}
-{171}{999}{No jokes. Is this the way you envisioned your life? Making drugs for dumb raiders?}
-.{172}{}{Yes, actually, it is. Ha-ha. Well, I need to go.}
+{171}{999}{No jokes. Is this how you wanted your life to be? Making drugs for dumb raiders?}
+{172}{}{Yes, actually, it is. Ha-ha. Well, I need to go.}
 
 
 {180}{019}{[You notice a shadow of emotion on her tired face] Why would I trust you? Maybe the Hog sent you to test my loyalty! And... There's that sleazy guy near the entrance...}
 {181}{021}{Do you really thing that Hog would do something like this? You work for him, and for him that's enough. As for the guard - I'll handle him. don't worry.}
 {182}{999}{Why should I smooth talk you into this? Out, now!}
-{183}{}{Uh, I didn't think about it... Pkay. see you later then.}
+{183}{}{Uh, I didn't think about it... Okay. see you later then.}
 
 
 {190}{020}{[She bites her lip, glancing on the entrance. Then she suddenly giggles] Okay, let's do it! What do I lose? Just a second...[She opens the drawer in her table and starts to pack some things into her pockets. It looks like she thought about running away before!] Done, I'm ready!}
