@@ -130,7 +130,7 @@
 {263}{}{One way or another, I intend to stay here a little longer. Get used to it.}
 
 
-{270}{028}{And I'd like to a real man to go down on me. Except there are none on the Rainbow. Why do you even think that the Drop can be improved?}
+{270}{028}{And I'd like a real man to go down on me. Except there are none on the Rainbow. Why do you even think that the Drop can be improved?}
 {271}{028}{I know enough chemistry to understand that. I could, for example, try to prolong the duration time of effects through the use of enzymatic inhibitors... Of course, it will take more time for me, but in the end, it would raise a question - do I even need you? And you will lose everything you have now...}
 {272}{999}{I'm not good in chemistry, but I'm pretty good at people. You love this job, I can see that. And you would be glad to take some challenge. To improve the drug and lessen the side effects... To prove that you are worthy of your father's legacy, that you are a great scientist! If you have to spend all your life here, isn't it better to at least have fun with it? Not to mention that I can make your existance here very, very painful. We wouldn't want that, right?}
 {273}{999}{I was just thinking out loud. We'll talk about this later.}
