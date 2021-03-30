@@ -99,7 +99,7 @@
 {200}{}{It's alright. I'm with you.}
 
 {212}{999}{What? [She deftly grabs some flask from a table] Do you know what this is? It's aqua regia, you moron! Get out, or else you'll be drinking it!}
-{210}{999}{YPut that thing back, you crazy bitch! I'm leaving!}
+{210}{999}{Put that thing back, you crazy bitch! I'm leaving!}
 {211}{}{Apologies. All the best.}
 
 {223}{013}{My father was Carlos Young... The brightest mind, the best chemist in Radius. And it's not only an opinion of his daughter, but a fact. Self-taught, he showed everyone! He invented the Drop... And he always loved me... Anyway, we're not here to remember the past. Understand this - even if there were a some kind of collective inteligence on the Rainbow, it wouldn't do anything even slightly comparable with a tiny bit of his research.}
