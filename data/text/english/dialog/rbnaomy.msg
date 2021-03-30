@@ -53,99 +53,96 @@
 {123}{}{Thanks for the info, but I need to go.}
 
 
-{130}{022}{The Drop? The Drop is a perfect drug, having instantaneous effect. Has a direct impact on the adjacent core of limbic system, causing the feeling of euphoria, among other things. Addiction forms from the very first dose in 98,14% of cases. As a basis, the pre-war "Combatid" drug is used. My father made some changes to the formula, while researching unique properties of fire ant feromones... But I don't have time for lecturing, and you wouldn't understand details. Good if even a little part of what I've just said stuck in this primate head of yours.}
-{131}{021}{Ваш отец, должно быть, был известным ученым. Я мог слышать его имя?}
-{132}{999}{Слышь, ты всем знакомым эту хрень научную втираешь? Если да - то у тебя их точно немного, ха-ха!}
-{133}{999}{Благодарю за информацию, мне пора. Берегите себя.}
-{134}{}{Че? Да пошла бы ты знаешь куда? Примат... Идти мне надо, а то я бы тебе разъяснил, кто здесь кто...}
+{130}{022}{The Drop? The Drop is a perfect drug with instantaneous effect. Has a direct impact on the adjacent core of limbic system, causing the feeling of euphoria, among other things. Addiction forms from the very first dose in 98,14% of cases. The pre-war "Combatid" drug is used as a basis for it. My father made some changes to the formula, while researching unique properties of fire ant feromones... But I don't have time for lecturing, and you wouldn't understand details. Good if even a little part of what I've just said stuck in this primate head of yours.}
+{131}{021}{Your father must have been very famous scientist. Could I hear his name?}
+{132}{999}{Do you give this scientific mumbo-jumbo bullshit to everyone you see? If you do - I guess you don't have a lot of friends, haha!}
+{133}{999}{Thanks for the information. but I need to go. Take care.}
+{134}{}{Whaaat? Why don't you go screw yourself? Primate... I would show you who's who, but I need to go.}
 
 
-{140}{013}{Take the Hog, for example. A wonderful exemplar, demonstrating how the Drop is affecting on human organism. Есть какая-то ирония, что именно такой субъект получил от нее максимальный эффект... [Грустно улыбается] Благодаря регулярному приему препарата, он стал весьма силен и вынослив. Взамен же получил расстройство психики и, как следствие - полное отсутствие сна. Правда, реальность наш Кабан тоже воспринимает... несколько своеобразно. Он моя компенсация за заточение в четырех стенах - исследовать его феномен весьма и весьма любопытно.}
-{141}{021}{А вы можете поподробнее рассказать о Капле?}
-{142}{012}{Ну-ну! Такую пургу прогнать насчет исследований может и бордельная шлюха. Кстати, твое-то положение чем от ее отличается?}
-{143}{999}{Понятно... Так вы здесь Каплю и производите?}
-{144}{}{Удачных исследований. Еще увидимся.}
+{140}{013}{Take the Hog, for example. A wonderful case to demonstrate all the effects the Drop has on human organism. It is quite ironic that someone like him got the maximum impact from it... [sadly smiles] Thanks to regular drug intake, he has become very strong and enduring. In return, he obtained a mental disorder and complete inability to sleep. I should point out that even the reality our Hog perceives in a very... Specific way. He is my reward for being locked into these walls - his phenomenon is unbelievably curious to study.}
+{141}{021}{Can you tell me more details about the Drop?}
+{142}{012}{Yeah, sure! Any brothel slut can make up this kind of bullshit about research. By the way, how's your situation any better?}
+{143}{999}{I see. So. you produce the Drop here?}
+{144}{}{Good luck in your studies. See you around.}
 
 
-{153}{016}{[Она недоуменно вскидывает брови] А что насчет моего положения? }
-{150}{017}{Мне кажется, лаборатория может работать более эффективно.}
-{151}{999}{Столь блестящему ученому не место здесь... Как вы считаете?}
-{152}{}{Да нет, ничего. Пожалуй, я вас оставлю.}
+{153}{016}{[she raises eyebrow] What about my situation? }
+{150}{017}{I think the lab can operate more effectively.}
+{151}{999}{Such a brilliant scientist shouldn't be locked in this place. What do you think?}
+{152}{}{No, nothing. I better go.}
 
 
-{164}{023}{[Оглядывает вас с нехорошим прищуром] И с чего это вы так решили, сэр?  Какое вам до этого вообще дело? Лично я на эту тему дискутировать не вижу смысла. [Достает из кармашка халата пилочку и начинает демонстративно править ноготки ] Каждый местный дегенерат еще учить меня берется... Ха!}
-{160}{023}{Я достаточно сведущ в химии, что бы понять это. Например, я бы мог попробовать использовать ферментативные ингибиторы для увеличения время действия положительных эффектов Капли... Разумеется, у меня на это уйдет гораздо больше времени, чем у вас, но в итоге... Что вы тогда скажите Кабану? Я ведь не забуду упомянуть, что вы и сами могли добиться таких результатов...}
-{161}{021}{Хей, я не силен в химии, но в людях разбираюсь неплохо. Вам ведь нравится эта работа, я же вижу! И вы сами были бы рады улучшить Каплю - сгладить побочные эффекты, например, облегчить страдания несчастных. И просто доказать, что вы достойная дочь своего отца и отличный ученый! Вам ведь все равно здесь вкалывать всю жизнь, не лучше ли получить от работы максимум удовольствия?}
-{162}{999}{Ты че ломаешься, сука? Сказано тебе - работай лучше!}
-{163}{}{Хорошо... Подумайте над моими словами, я еще вернусь.}
+{164}{023}{[she squints] And what makes you say that, sir? Why do you even care? I see no point in discussion about this matter. Every local degenerate has his opinion about me... Ha!}
+{160}{023}{I know enough chemistry to understand that. I could, for example, try to prolong the duration time of effects through the use of enzymatic inhibitors... Of course, it will take more time for me, but in the end... What would you say to Hog then? I won't forget to mention that you could achieve such results yourself.}
+{161}{021}{I'm not good in chemistry, but I'm pretty good at people. You love this job, I can see that. And you would be glad to take some challenge. To improve the drug and lessen the side effects... To prove that you are worthy of your father's legacy, that you are a great scientist! If you have to spend all your life here, isn't it better to at least have fun with it?}
+{162}{999}{Listen, bitch, you were told to do better, so do it!}
+{163}{}{Okay, think about it, I'll be back later.}
 
 
-{170}{024}{[Подозрительным тоном осведомляется вполголоса] О чем вы говорите? [Поворачивается в сторону рабочих и повышает голос] Вы чего там встали? За работу! И если испортите еще одну партию... Вы вообще закон постоянства состава знаете? [Снова вам] Это какая-то новая шутка? Очередной клоун отстал от цирка?}
-{171}{999}{Никаких шуток. Неужели вы именно так представляли свою научную карьеру? Гнать наркоту для отмороженных рейдеров?}
-{172}{}{Ага, точно -шутка. Ха-ха три раза. Не смешно? Ну я тогда  пошел}
+{170}{024}{What are you talking about? Is this some kind of a joke?}
+{171}{999}{No jokes. Is this the way you envisioned your life? Making drugs for dumb raiders?}
+.{172}{}{Yes, actually, it is. Ha-ha. Well, I need to go.}
 
 
-{180}{019}{[Вы не торопите ее, давая время на размышления. Привычная маска дала трещину и вы видите целую гамму эмоций на ее лице. ]А почему  я должна вам верить? Может, вас Кабан прислал для проверки лояльности? И потом... Там у входа постоянно трется этот озабоченный амбал...}
-{181}{021}{Вы серьезно думаете, что Кабан будет заниматься такими вещами? Вы и так на него работаете, ему этого достаточно. А с охранником я разберусь, не волнуйтесь.}
-{182}{999}{Да мне тебя уговаривать еще? Быстро на выход, мать твою!}
-{183}{}{Да, об этом я как-то не подумал... Ну, счастливо оставаться.}
+{180}{019}{[You notice a shadow of emotion on her tired face] Why would I trust you? Maybe the Hog sent you to test my loyalty! And... There's that sleazy guy near the entrance...}
+{181}{021}{Do you really thing that Hog would do something like this? You work for him, and for him that's enough. As for the guard - I'll handle him. don't worry.}
+{182}{999}{Why should I smooth talk you into this? Out, now!}
+{183}{}{Uh, I didn't think about it... Pkay. see you later then.}
 
 
-{190}{020}{[Она задумчиво покусывает губы, поглядывая в сторону выхода, но затем неожиданно задорно усмехается] А, была не была! Что я, в сущности, теряю? Один момент...[Открывает стол и начинает что-то быстро раскладывать по карманам. Похоже, о побеге она все-таки задумывалась и раньше] Все, я готова!}
-{191}{025}{Хорошо. Не будем терять времени.}
-{192}{}{Отлично! Только знаешь... Гм... Ты иди, а я тут подзадержусь на случай возможных проблем. }
+{190}{020}{[She bites her lip, glancing on the entrance. Then she suddenly giggles] Okay, let's do it! What do I lose? Just a second...[She opens the drawer in her table and starts to pack some things into her pockets. It looks like she thought about running away before!] Done, I'm ready!}
+{191}{025}{Good. Let's not waste any more time then.}
+{192}{}{Great! But, uh... Er... You go, I'm right behind you. I'll cover you if there's a problem.}
+
+{201}{999}{[she nods] Okay then... Let's go. Damn, I wasn't so nervous in a really long time... [she looks at the lab for the last time and goes to the exit]}
+{200}{}{It's alright. I'm with you.}
+
+{212}{999}{What? [She deftly grabs some flask from a table] Do you know what this is? It's aqua regia, you moron! Get out, or else you'll be drinking it!}
+{210}{999}{YPut that thing back, you crazy bitch! I'm leaving!}
+{211}{}{Apologies. All the best.}
+
+{223}{013}{My father was Carlos Young... The brightest mind, the best chemist in Radius. And it's not only an opinion of his daughter, but a fact. Self-taught, he showed everyone! He invented the Drop... And he always loved me... Anyway, we're not here to remember the past. Understand this - even if there were a some kind of collective inteligence on the Rainbow, it wouldn't do anything even slightly comparable with a tiny bit of his research.}
+{220}{999}{You are a worthy daughter, to remember him like that. What about the Drop?}
+{221}{021}{I see. Well, I'm off, all the best.}
+{222}{}{I'm so sick of you bragging about your smart brain! Here's a secret for you - if the skull is smashed, they all look the same, smart or stupid! Wanna see?}
 
 
-{201}{999}{[Она кивает] Вот только отошлю особо любопытных... [Раздает указания подчиненным, отбрасывает непослушную прядь со лба и поворачивается к вам] Идем... Черт, давно так не волновалась... [Оглядывает на прощание лабораторию и идет к выходу]}
-{200}{}{Все в порядке, я же рядом, если что.}
+{231}{999}{[her sarcastic face becomes blank] Well... Looks like I don't have much of a choice, do I? Okay, I'll do it. For my father. I have some theories... Tell the Hog that first results will be in a month.}
+{230}{}{Just wonderful. We've spent more time talking about it... Won't be distracting you anymore, you have a lot of work to do. Good luck!}
 
 
-{212}{999}{Что? [С неожиданным проворством хватает одну из колб] Знаешь что это? Царская водка, кретин! Проваливай, пока я не заставила тебя ее продегустировать!}
-{210}{999}{Ща! Поставь на место, сучка бешенная, ухожу же!}
-{211}{}{Мои извинения, был не прав. Всего доброго.}
+{240}{018}{[she still sounds sarcastic, but you hear doubt in her voice] How coud YOU know something about the science? I don't think you can even read... The Drop is a unique chemical compound, researching it is a delight for any scientist! By the way, I have food, roof over my head, protection... How many people in Radius can say the same?}
+{241}{018}{Sure, sure. Are you trying to convince me, or yourself? I can see that this job is not making you happy. There's a plenty of places where your skills could have a better application! Where you could help people, make a difference!}
+{242}{999}{Oh really? Why didn't you make any progress in your research then? I know enough about chemistry to name some fields where you, judging by what I see, weren't even trying to make an improvement. Heterogeneous catalysts, enzyme inhibitors... Do I need to continue?}
+{243}{999}{Suit yourself. All the best.}
+{244}{}{Then stay here until you die! I've had enough, I'm leaving!}
 
 
-{223}{013}{Мой отец - Карлос Янг... Это он привил мне тягу к науке. Он был лучшим химиком в Радиусе. И это не мнение влюбленной дочери, а простой факт. Самоучка утер нос всем выскочкам! Это ведь он изобрел Каплю... И при этом никогда не забывал обо мне... [Ее голос предательски дрогнул, но ту же зазвучал с прежними интонациями] Ну да у нас здесь не вечер воспоминаний. Усвойте одно - даже если бы на Радуге зародился коллективный интеллект, ваших жалких совместных усилий не хватило бы на освоение даже одной страницы его рабочих дневников.}
-{220}{999}{Вы достойная дочь, если до сих пор чтите его память. А что это за Капля?}
-{221}{021}{Ясно. Ну всего вам, как говорится.}
-{222}{}{Да ты достала уже здесь своими мозгами козырять! Открою секрет - и у придурка, и у умника от хорошего удара они вытекают одинаково! Хочешь докажу?}
+{250}{020}{[Naomi stops half-way] Wait, what about that huge thug outside? He once killed someone from the staff for an attempt to sneak away into the local bar...}
+{251}{999}{Yes, you are right. Let's leave together.}
+{252}{}{Uh... Didn't I tell you? I sent him some, er, kid, with some assighment from the Hog himself. Allegedly. The cost is clear, no one would stop you. And I'll stay and watch over your ex-colleagues.}
 
 
-{231}{999}{[Насмешливое выражение покидает ее лицо. Кажется, вы заставили ее задуматься] Чтож... Похоже, выбор у меня и правда невелик? Хорошо, я все сделаю. В память об отце. У меня есть кое-какие теоретические выкладки... Передайте Кабану, что первые результаты будут уже через месяц.}
-{230}{}{Вот и отлично. Больше разговоров было... Не буду отвлекать, впереди у вас большая работа. Удачи!}
+{260}{999}{[she looks surprised] Who could even think about compaining in this paradise? We have the best kind of stability here. You have sealed us off from the outside world, so nothing could prevent us from working for the greater good. If you didn't visit us, we wouldn't even know about the changes in local management! Ahem... By the way, the changes are happening very often lately. We are worried, you know... }
+{261}{999}{Don't worry about it. By the way, as a thank you for your work, I thought I’d let you relax a little. Food, drink and girls for everyone. Only don't do drugs, geniuses. Enjoy your time!}
+{262}{999}{I see you are a little sarcastic, aren't you? I'm not a fucking Hog! Let's see how you'd like to work for a week on water and rat meat! Say thank you to that big loud mouth of yours, bitch!}
+{263}{}{One way or another, I intend to stay here a little longer. Get used to it.}
 
 
-{240}{018}{[Ее голос по-прежнему изрядно сдобрен пренебрежением к вашим словам, но вы улавливаете и неуверенные нотки] Вам-то откуда знать о науке? Я сомневаюсь, что вы хотя бы читать умеете...  Капля - уникальное химическое соединение, исследование которого порадовало бы любого ученого! Кроме того, у меня есть крыша над головой, еда... Многие ли в Радиусе хотя бы этим могут похвастаться?}
-{241}{018}{Ну да, ну да. Это вы мне говорите или себя убедить пытаетесь? Я же все вижу - работа вам не в радость. Есть немало мест, где вашим талантам найдется достойное применение! Где вы действительно будете помогать людям!}
-{242}{999}{Да неужели? А чегож тогда вы не достигли никаких успехов в своих исследованиях? У меня достаточно познаний, чтобы навскидку назвать несколько направлений, в которых вы, судя по всему, даже не пытались продвинуться! Гетерогенные катализаторы, ферментативные ингибиторы... Продолжать?}
-{243}{999}{Чтож, дело ваше. Счастливо оставаться.}
-{244}{}{Ну так здесь и подохнешь! Все, хватит с меня. Будь здорова!}
+{270}{028}{And I'd like to a real man to went down on me. Except there are none on the Rainbow. Why do you even think that the Drop can be improved?}
+{271}{028}{I know enough chemistry to understand that. I could, for example, try to prolong the duration time of effects through the use of enzymatic inhibitors... Of course, it will take more time for me, but in the end, it would raise a question - do I even need you? And you will lose everything you have now...}
+{272}{999}{I'm not good in chemistry, but I'm pretty good at people. You love this job, I can see that. And you would be glad to take some challenge. To improve the drug and lessen the side effects... To prove that you are worthy of your father's legacy, that you are a great scientist! If you have to spend all your life here, isn't it better to at least have fun with it? Not to mention that I can make your existance here very, very painful. We wouldn't want that, right?}
+{273}{999}{I was just thinking out loud. We'll talk about this later.}
+{274}{}{If I had time for you, I would bend you over the table and show you a real man. It's in your interests to make the Drop better. Think about it.}
 
 
-{250}{020}{[Наоми было идет к выходу, но тут же останавливается] А как же тот стероидный боров снаружи? Он уже убил как-то одного из персонала, когда тот попытался выбраться в местный бар... }
-{251}{999}{Да, ты права. Уходим вместе.}
-{252}{}{Э... А я разве не сказал?  Я тут... отправил к нему одного паренька, якобы с поручением от Кабана. Так что берег чист! Никто тебя не задержит. А я прослежу, чтобы твои коллеги не натворили чего лишнего.}
+{280}{999}{[her sarcastic face becomes blank] Well... Looks like I don't have much of a choice, do I? Okay, I'll do it. For my father. I have some theories... First results will be in a month.}
+{281}{999}{Just wonderful. We've spent more time talking about it... Won't be distracting you anymore, you have a lot of work to do. Good luck!}
+{282}{}{That's better. You are not the only one with the good brain here, am I right? Okay, stop talking and get to work!}
 
-
-{260}{999}{[С преувеличенно удивленным видом оглядывается вокруг] Да кому в этом раю может прийти в голову жаловаться? У нас здесь образцовая стабильность. Вы любезно отгородили нас от внешнего мира, дабы ничто не помешало нам работать на благо всего прогрессивного человечества. Если бы хозяева Радуги не радовали нас своими визитами, мы бы и не узнали, что у нас сменилось руководство. Гм... Кстати, что-то часто вы стали меняться! Мы все так за вас переживаем... [Горестно качает головой. Непонятно, издевается она или в этом есть крупица правды?] }
-{261}{999}{Да не стоит! Кстати, в благодарность за вашу работу я решил позволить вам немного расслабиться. Выпивка, жратва и девочки для всех желающих. Только не ширяйтесь, гении. Наслаждайтесь!}
-{262}{999}{Вижу, вы тут малость подохренели? Я вам не Кабан, мать вашу! Посмотрим, как всем здесь понравится поработать недельку на воде и вяленой крысятине! Благодари за это свой длинный язык, сучка!}
-{263}{}{Как бы то ни было, я намерен задержаться здесь подольше. Привыкайте.}
-
-
-{270}{028}{[Изящным движением поправляет прическу] А мне бы хотелось, чтобы меня ублажал здесь хоть один настоящий мужчина. Но на Радуге таких же днем с огнем не сыскать? С чего вы вообще решили, что Каплю можно улучшить?}
-{271}{028}{Я достаточно сведущ в химии, что бы понять это. Например, я бы мог попробовать использовать ферментативные ингибиторы для увеличения время действия положительных эффектов Капли... Разумеется, у меня на это уйдет гораздо больше времени, чем у вас, но в итоге возникнет вопрос - а зачем вы вообще мне нужны? И тогда вы потеряете даже то немногое, что уже имеете...}
-{272}{999}{Хей, я не силен в химии, но в людях разбираюсь неплохо. Вам ведь нравится эта работа, я же вижу! И вы сами были бы рады улучшить Каплю - сгладить побочные эффекты, например, облегчить страдания несчастных. И просто доказать, что вы достойная дочь своего отца и отличный ученый! Вам ведь все равно здесь вкалывать всю жизнь, не лучше ли получить от работы максимум удовольствия? И потом - я ведь могу сделать ваше существование очень-очень мучительным. Но мы же и без этого обойдемся, правда?}
-{273}{999}{Да так, мысли вслух. Мы еще вернемся к этому вопросу.}
-{274}{}{Перегнуть бы тебя через стол - я б тебе показал, кто здесь мужик. Да времени нет. А ты подумай лучше, что с Каплей можно сделать. В твоих же интересах.}
-
-
-{280}{999}{[Насмешливое выражение покидает ее лицо. Кажется, вы заставили ее задуматься] Чтож... Похоже, выбор у меня и правда невелик? Хорошо, я все сделаю. У меня есть кое-какие теоретические выкладки... Первые результаты будут уже через месяц.}
-{281}{999}{Вот и отлично. Больше разговоров было... Не буду отвлекать, впереди у вас большая работа. Удачи!}
-{282}{}{Так-то лучше. Не у одной тебя здесь мозги работают, а? Неприятное открытие? Все, хватит трепаться - за работу!}
-
-{290}{}{Позже поговорим.}
-{291}{}{Мы ведь пытаемся сбежать, так?}
-{292}{}{Лишь бы тот бугай нас не поймал...}
-{293}{}{Давно уже я так не волновалась...}
-{294}{}{Спасибо, герой! Дальше я сама! Может еще увидимся.}
+{290}{}{Talk later.}
+{291}{}{We are trying to leave, right?}
+{292}{}{I hope that thug won't catch us...}
+{293}{}{I'm so nervous right now...}
+{294}{}{Thanks, hero. I'll take it from here. See you around... Someday.}
