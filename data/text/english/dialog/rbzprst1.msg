@@ -57,26 +57,26 @@
 {1000}{}{Hm?}
 {1001}{}{Hey sweetie!}
 {1002}{}{Wanna touch it?}
-{1003}{}{Looks like someone has his little frend woken up?}
+{1003}{}{Looks like someone has his little friend woken up?}
 {1004}{}{No, I'm not serving clients today.}
 {1005}{}{Wanna lick it?}
 {1006}{}{[licks her lips with a tempting look]}
-{1007}{}{[seductively plays with her tong]}
-{1008}{}{[she winked at you]}
+{1007}{}{[seductively plays with her tongue]}
+{1008}{}{[winks at you]}
 {1009}{}{[bites her lip, cougarly looking at the customers]}
 # Нейтральные сообщения
-{1010}{}{Today I'm dance only.}
-{1011}{}{Either pay, or get off. Talk is not for free.}
+{1010}{}{Today I'm only dancing.}
+{1011}{}{Pay or piss off. Talking is not for free.}
 {1012}{}{What?}
 {1013}{}{[spins her breasts]}
 {1014}{}{[looks at you, sensually breathing]}
 {1015}{}{[dances clumsily]}
 {1016}{}{[pulls out her panties, demonstrating herself to the clients]}
-{1017}{}{Someone likes it hot.}
-{1018}{}{[a couple of sweat drops are running down her forehead]}
+{1017}{}{Someone like it hot.}
+{1018}{}{[a couple drops of sweat are running down her forehead]}
 {1019}{}{[she leans forward, squeezing her breasts]}
 # Отрицательные сообщения
-{1020}{}{You pay for looking too.}
+{1020}{}{You pay for watching, you know.}
 {1021}{}{Get off, I'm not in the mood today.}
 {1022}{}{Get lost, freak.}
 {1023}{}{You are making me want to puke.}

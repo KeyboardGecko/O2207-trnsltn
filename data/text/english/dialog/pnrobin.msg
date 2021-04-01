@@ -69,7 +69,7 @@
 {200}{}{DEEEEEATH! [laughs] This is the main thing you should learn. The Radius is a highly dangerous place. Oh, wait, there is one safe spot! Some-Order-something, I don't really remember the name. An old factory to the west of here. Let me show you [he starts pushing buttons of your organizer], Here, ready! Only watch out for the tin men patrol while you walk there. Try to evade them.}
 {201}{010}{Maybe I don't really need to go there. Another question.}
 {202}{999}{Thanks, I'll keep it in mind. Well, off I go.}
-{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks ald frendly slaps your shoulder]}
+{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks and friendly slaps your shoulder]}
 {204}{010}{It can wait. I wanted to ask...}
 {205}{999}{Actually, I've got to go.}
 

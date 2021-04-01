@@ -489,7 +489,7 @@
 {881}{}{It seems that books will no longer be able to raise your skill.}
 {882}{}{In this issue, you learned a couple of new tricks on how to convince someone.}
 {883}{}{This issue details the wrist movement technique to make your throw as accurate as possible.}
-{884}{}{Jab, smash, hook, uppercut and heel to the throat! The comic strips colorfully and clearly demonstrates new ways to break your opponent in half with your bare hands!}
+{884}{}{Jab, smash, hook, uppercut and heel to the throat! The comic strips colorfully and clearly demonstrate new ways to break your opponent in half with your bare hands!}
 {885}{}{Your level of intelligence does not allow you to learn from these comics.}
 #
 # Special message for plot
@@ -538,17 +538,17 @@
 {941}{}{Warden, can I touch the armor? At least a little bit?}
 {942}{}{[stands at attention] Reporting! No horrible creatures have been seen under the bed!}
 #Security guards
-{943}{}{The Herald? How come you're not on duty?}
+{943}{}{Herald? Why aren't you on duty?}
 {944}{}{Don't give me your preaching, will you?}
 {945}{}{You'd better go do your work, no need to hang around here.}
 {946}{}{A scout? What are you doing here? You want a fresh girl, huh?}
-{947}{}{Hey, big military guy, you're bothering me on duty.}
+{947}{}{Hey, big military guy, you're bothering me. I'm on duty.}
 {948}{}{You would be more useful in patrolling the outside perimeters.}
 #Player set on fire in Tartarus after escaping
 {950}{}{It's the heretic! KILL HIM!}
 {951}{}{ALARM! Kill the heretic!}
 {952}{}{It's him, that one! GUARDS!}
-{953}{}{You deftly inject the entire dose of serum into the soft tissues of the girl!}
+{953}{}{You deftly inject the entire dose of serum into a girl's soft tissues!}
 {954}{}{}
 {955}{}{}
 {956}{}{}
