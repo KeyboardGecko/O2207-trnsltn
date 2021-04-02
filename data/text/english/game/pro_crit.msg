@@ -51,7 +51,7 @@
 {2600}{}{Dad}
 {2601}{}{It's John, your father.}
 {2700}{}{Mom}
-{2701}{}{It's Elisa, your mother.}
+{2701}{}{It's Elise, your mother.}
 {2800}{}{Kirk}
 {2801}{}{Your obnoxious little brother Kirk.}
 {2900}{}{Katie}
