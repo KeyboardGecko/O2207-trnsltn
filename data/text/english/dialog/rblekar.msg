@@ -156,7 +156,7 @@
 
 
 {260}{}{[he looks around and lowers his voice] Everything can happen... what's on your mind?}
-{261}{027}{What if someone, pretty good at cooking some deadly conconctions, would make some... Food supplement? And give it to another someone who will remember this favor? There's nothing better for a good people than mutually beneficial partnership, right? When the secrets can be kept, of course.}
+{261}{027}{What if someone, pretty good at cooking some deadly conconctions, would make some... Food supplement? And give it to someone, representing another someone, who would remember this favor? There's nothing better for a good people than mutually beneficial partnership, right? When the secrets can be kept, of course.}
 
 
 {270}{}{[he chuckles] You are such a weasel... You're gonna go far, kid. Okay, "someone" agrees - but only to produce the supplement and to give it to another "someone". Nothing more.}
@@ -164,7 +164,7 @@
 
 
 {280}{}{[he hesitates, nervously scratching his chin, but still firmly nods] This might be possible, yeah. Why not? The rats are the size of Mate, I suppose? It's going to be a difficult job... I could try - for a thousand batteries. }
-{281}{999}{Deal. Here's the money. Wait for my man.}
+{281}{999}{Deal. Here's the money. Wait for someone from me.}
 {282}{999}{Damn, that's a lot... Let's pretend we didn't talk. If something comes up, I know where to find you.}
 
 
