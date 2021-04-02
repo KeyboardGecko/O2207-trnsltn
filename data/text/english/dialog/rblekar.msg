@@ -200,7 +200,7 @@
 {341}{036}{Why the hell not? I think I can do it. No need for inauguration, I'm too humble for that.}
 {342}{036}{I'm in. Tell me, what's the deal around here at the moment.}
 {343}{035}{Nah, it's not for me. Solve your problems by yourselves.}
-{3402}{}{[he makes a long gulp, pouring the rest of booze down his throat] Phew... The thing is, all the boys root for you. They think that the Hog solved problems... Not very flexible, but he solved them. Mate was like that too. But in current situation we need someone smarter. That's when I thought about you, so - what do you think? The Rainbow awaits, kid! }
+{3402}{}{[he makes a long gulp, pouring the rest of booze down his throat] Phew... The thing is, all the boys root for you. They think that the Hog solved problems... Not in a very flexible way - but he solved them. Mate was like that too. But in current situation we need someone smarter. That's when I thought about you, so - what do you think about leading the place? The Rainbow awaits, kid! }
 {344}{036}{Good. Fill me in - what should I start with?}
 {345}{035}{You know, I've been thinking... I have my own problems. It's too much to do here. I'll pass.}
 
