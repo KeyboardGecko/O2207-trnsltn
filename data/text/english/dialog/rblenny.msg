@@ -11,95 +11,87 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: нервный мертвяк.}
-{2}{}{Он выглядит... как мертвяк}
+{1}{}{You see a nervous ghoul.}
+{2}{}{He looks... Like a ghoul.}
 #
 # после знакомства
-{3}{}{Вы видите: Ленни.}
-{4}{}{Мертвяк, решивший поспособствовать перерождению своего друга.}
+{3}{}{You see Lenny.}
+{4}{}{Ghoul, who decided to help his friend to reborn.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Этот мертвяк, крадучась, ходит кругами вокруг трупа плотного мужчины в окровавленной одежде, отгоняя от него мух. Неожиданно он кидается к телу и начинает яростно трясти его за отворот рубахи] Ну давай, перерождайся, мать твою! Почему тебя всегда столько ждать приходится? [Замечает вас и прикладывает изъеденный язвами палец к безгубому рту] Тихо! Процесс перерождения в самом разгаре!}
-{11}{011}{Какого... Что здесь происходит?}
-{12}{011}{Спокойно, я только хотел поинтересоваться происходящим.}
-{13}{999}{Так. Пожалуй, я лучше удалюсь.}
+{10}{}{[The ghoul walks around the man's bloodied corpse in circles, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait you for so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
+{11}{011}{What the... What is happening here?}
+{12}{011}{Calm down, I just want to understand what I'm looking at here.}
+{13}{999}{I think it would be better for me to leave.}
 
 
-{1001}{}{[Его череп в сморщенной коже с торчащими остатками волосяного покрова вполне дружелюбно кивает вам. Вытаращенные глаза лихорадочно блестят, руки нервно тискают потертый ремень дробовика за спиной] Привет, незнакомец! Пришел глянуть на момент воссоединения Ленни и Карла? }
-{101}{011}{Э... Ты о чем это?}
-{102}{019}{Воссоединения? Ты его что - трахать собрался?}
-{103}{014}{Ленни, мне нужно поговорить с тобой об этой...ситуации.}
-{104}{999}{Да нет, просто проходил мимо.}
-{1002}{}{[Обнимает вас костлявыми лапами в струпьях, обдавая неповторимым запахом разложения, пота и застрявшей в зубах еды]  Дружище! Как же я рад тебя видеть! У меня под лопаткой целая колония каких-то личинок - можем выковырять их и сварганить обед!}
-{105}{019}{Отвали, урод, пока я не наблевал на сморщенную жопу, что торчит у тебя вместо башки!}
-{106}{999}{Я тоже рад тебя видеть, Ленни. Извини, но мне пока некогда. Увидимся позже.}
-{1003}{}{[Заканчивает обдирать струпья с впалой груди и кивает вам] А, это ты! Повезло, что застал меня - мой кореш опять где-то шатается, пойду сейчас его искать.}
-{107}{999}{Удачи с поисками. Мне и самому пора идти.}
-{108}{019}{Да просто он решил кинуть тебя. Похоже, даже мертвяки считают тебя конченным уродом! Ха-ха!}
-{1004}{}{[Учитывая отсутствие губ, непонятно - улыбается ли он вам или угрожающе скалится] Что, незнакомец, еще здесь? А я вот собираюсь валить отсюда. Тут, почему-то, со мной никто особо общаться не хочет. Эх, был бы Карл тут...}
-{109}{999}{Удачи, мертвяк. Может, жизнь у тебя еще наладится.}
-{1010}{019}{Правильно, вали нахер! Таких уродов, как ты, надо еще на подходе отстреливать!}
+{1001}{}{[seeing you, he friendly nods with his wrinkled, skinny skull, covered with sticking remains of hair. His eyes are feverishly bulging out, arms clinging a shotgun's belt on his back.] Howdy, stranger! Did you come to witness a moment of Lenny and Carl's reunion? }
+{101}{011}{Uhh... What are you talking about?}
+{102}{019}{Reunion? Are you going to shag him, or something?}
+{103}{014}{Lenny, we need to duscuss this... Situation.}
+{104}{999}{No, I was just walking by.}
+{1002}{}{[tries to hug you with his skinny, saggy hands, giving you a smell of decay, sweat and rotten food] My friend! I'm so glad to see you! I have a whole colony of some bugs under my shoulder blade - can you help me to put them out?}
+{105}{019}{Get lost, you freak, until I puked all over this wrinkled ass-head of yours!!}
+{106}{999}{I'm glad to see you too, Lenny. I don't have time for this now, but I will definitely see you later.}
+{1003}{}{[Stops peeling scubs on his sunken chest and nods] Oh. it's you! You're lucko to see me - my fella is hanging out somewhere, I'm going to go look for him.}
+{107}{999}{Good luck with the search. I need to go.}
+{108}{019}{He just decided to screw you over. Looks like even the ghouls take you for a freak, ha-ha!}
+{1004}{}{[considering he has no lips, you can't understand if he is smiling or angry at you] You're still here, stranger? I'm going to get out. Somehow, no one wants to talk to me here. I wish Carl was around...}
+{109}{999}{Good luck, ghoul. Maybe your life gets better someday.}
+{1010}{019}{That's right, get the hell out! Ugly freaks like you should be shot on sight!}
 
 
-{110}{}{[Удивленно таращит на вас желтые глаза] А чего тебе непонятно? До тебя ,видать, все туго доходит? Ну это не беда, не переживай... В общем, я - Ленни, а это мой лучший друг Карл. Мы раньше постоянно шарились по Радиусу, искали барахлишко.  Все было хорошо, пока мы были вместе. Но как-то я решил пойти на дело один, нарвался на старую мину в тех развалинах, где счетчик Гейгера визжит непереставая... Карл нашел и вытащил ту кучу дерьма, в которую  превратился его дружище, но свою дозу радиации я хапануть успел. Результат перед тобой.}
-{111}{012}{И что? Текущую ситуацию это объясняет как-то слабо.}
+{110}{}{What's here you don't see? Are you thick or something? No worries, I'll explain... I'm Lenny, this is my best friend Carl. We used to hang around Radius together, looking for loot. Everything was good with the two of us. But one time, I decided to get out on a trip alone - into some old ruins, where geiger counter is screaming non-stop. That's where I stepped on a mine. Carl found the pile of shit I became and got me out, but I still received enough radiation. The result is in front of you.}
+{111}{012}{And? How this explains the current situation?}
 
 
-{120}{}{[Сплевывает зеленую слюну и чешет провал на месте носа] Все же ясно - Карлу надо тоже стать мертвяком, чтоб мы продолжали наше общее дело! Я все сделал как надо: кинул ему гранату в сортир и потом отволок в те самые развалины. Выждал нужное время и притащил сюда - ждать перерождения в комфорте. Даже столик в баре заказал, чтоб потом отметить. Видишь - он уже стал меняться, пятнами пошел, да и запах характерный...}
-{121}{019}{Да ты... Тебе радиация все мозги разъела, урод отмороженный! Надо урыть тебя, пока на людей кидаться не начал!}
-{122}{013}{Это называется разложением, Ленни. Твой друг стал мертвяком в буквальном смысле.}
-{123}{999}{Это... Очень необычно. Может, я и смогу тебе помочь, но мне надо сперва все обдумать.}
+{120}{}{[he spits out a spirt of green saliva, and scratches a hole, which was once his nose] It's obvious, you see - Carl needs to became a ghoul too! And then we will continue doing our things together! I did everything by the book - threw a grenade into his toilet, carried him into the same ruins I was in. Then I waited for some time and brought him back here, so he could be reborn in comfort. I even reserved the table in bar to celebrate! See? He's already changing! Look at these spots at his skin. And the smell...}
+{121}{019}{You... Your brains are completely eaten away by radiation, you freak! You should be put down, while you didn't start attacking people on the streets!}
+{122}{013}{This is called decaying. Your friend is literally dead.}
+{123}{999}{It's... Unusual. I may be able to help you, but first, I need to think it over.}
 
 
-{130}{}{[Взвизгивает и подпрыгивает на месте] Нет! Не смей мне в уши ссать! Карл живой! Просто надо еще чутка обождать. Не хочешь помочь - так и вали, куда шел!}
-{131}{019}{Не, надо тебя грохнуть, больной ты ублюдок. Хотя бы из жалости.}
-{132}{999}{Успокойся. Мы еще обсудим это позже.}
+{130}{}{No! Don't you dare to piss into my ears! Carl's alive! I just need to wait a little more! If you don't want to help - move along!}
+{131}{019}{I should put you down, you sick freak. Out of pity, at least.}
+{132}{999}{Calm down. Let's talk about it later.}
 
 
-{140}{}{[Подозрительно щурит один глаз] А чего тут обсуждать? И так все яснее ясного.}
-{141}{015}{Да я всего-то хотел тебя подменить и проследить за Карлом. Может, тебе куда отойти надо?}
-{142}{016}{Послушай, Ленни, твой друг мертв. Ты и сам это знаешь, просто не хочешь признавать. Если будешь продолжать в том же духе, то у тебя крыша съедет окончательно. Понятно, что ты хотел, как лучше, но жизнь такая штука... В общем, ты же понимаешь, что убил своего единственного друга?..}
-{143}{016}{Хей, это нехорошо, нельзя так оставлять мертвых! Его душа не попадет на небеса, пока ты не похоронишь тело! А так он будет ждать тебя там. Вместе со всеми мертвыми щенятами.}
-{144}{018}{Эй, Ленни, да твой дружок тебя просто кинул! Ты так старался для него, а он нагло гниет под местным солнцем и даже не собирается превращаться! Но знаешь что? Я могу стать твоим новым другом! А то прямо невозможно смотреть, как ты страдаешь, ага.}
-{145}{019}{Конечно, все ясно. Надо просто избавить такого бешенного пса, как ты, от мучений. Готовься, мертвяк.}
-{146}{999}{Ты прав, пока нам не о чем говорить.}
+{140}{}{[he squints] What's there to understand? It's all obvious.}
+{141}{015}{I just wanted to say that I can cover for you here. Maybe you need to go away for something.}
+{142}{016}{Listen, Lenny, your friend is dead. You know it, just don't want to admit it. And if you continue like this, you will definitely go off the rails. I see that you wanted to do best, but the life is such a thing... I mean, do you realize that you have killed your only friend?}
+{143}{016}{Hey, it's wrong to let dead people lay around! Until you bury the body, he won't be at peace! So, do it - and you can be sure he will wait for you on the other side.}
+{144}{018}{Lenny, your friend just screwed you over! You worked so hard for him, and he only lays under the hot sun, not even thinking about being reborn! But you know what? I can be your new best friend, instead of him! I can't stand seeing you suffer.}
+{145}{019}{I see how it is. I should put you out of your misery. Get ready, ghoul.}
+{146}{999}{You are right, we have nothing to talk about for now.}
 
+{150}{}{[he loudly exhales, fending off the flies] At last! The only normal guy around here! I'm already getting tired of carrying him around. And you're just in time, I need to take off some load real fast... Don't worry, I'll be right back. [he rans off, unzipping his pants in the process].}
+{151}{020}{Take your time... [wait for him to get out of your sight, then call for your ghoul ally and utilize Carl's body]}
+{152}{999}{I need to do something else. Lie here for now, Carl. }
 
-{150}{}{[Шумно выдыхает, распугивая мух] Наконец-то! Хоть один нормальный мужик тут отыскался. А то я задолбался с Карлом таскаться везде. И как раз на клапан сейчас так давит... Ты не переживай, я быстро - только до ближайшего укромного места и обратно [Торопливо уходит, на ходу расстегивая штаны].}
-{151}{020}{Не торопись... [Дождаться, пока он не исчезнет из виду, позвать союзника-мертвяка и утилизировать труп Карла]}
-{152}{999}{Нет, в другой раз. Полежи пока тут, Карл. }
+{160}{}{[Looks like Lenny is going to throw himself at you in any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for compassion. No one gives a shit about anyone around here... You know, actually, you're right!! We can meet with him at the other side!!! [suddenly, he drops his shotgun from shoulder and puts it to his belly]}
+{161}{999}{Uhh...}
 
+{170}{}{[Looks like Lenny is going to throw himself at you in any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for compassion. No one gives a shit about anyone around here... I don't have much, but still - take my bullets, you can trade them for batteries.}
+{171}{999}{Thanks, Lenny. I'll make good use of them.}
 
-{160}{}{[Кажется, он вот-вот набросится на вас... Но вдруг Ленни начинает всхлипывать] Да, я облажался по-полной... Грохнул своего кореша! Что на меня нашло? Видать, от взрыва дерьмо с мозгами местами поменялись... Ты... Спасибо, что проявил участие. Так-то здесь всем и на всех похер. И на всех похер... А знаешь, ты прав! Мы же можем увидеться с ним там! [Резко скидывает с плеча дробовик и направляет себе в живот]}
-{161}{999}{Эмм...}
+{180}{}{[he stares at corpse in front of him, sometimes looking at you. For a moment, his sight becomes clear, but then it is immediately clouded by the veil of madness.] Damn, you are so right! I am busting my ass here for him, and he... Man, I'm so lucky to have you opening my eyes! Lemme hug you... Oh! Wait! Take this - as a sign of our friendship! [hands you his shotgun] And I need to go drop this pile of shit into a cesspool. [he grabs corpse by its feet and drags it somewhere]}
+{181}{999}{Thanks, uh... Friend. Won't bother you anymore.}
 
+{190}{}{[He may be crazy, but not slow. Shotgun, hanging out on his back, now magically appears in his hands, pointing at you] What did you just say, you son of a bitch?! Carl, come on, stand up - there's another asshole to put down!}
+{191}{998}{Your first, dead meat!}
+{192}{998}{Yeah, go try it...}
 
-{170}{}{[Кажется, он вот-вот набросится на вас... Но вдруг Ленни начинает всхлипывать] Да, я облажался по-полной... Грохнул своего кореша! Что на меня нашло? Видать, от взрыва дерьмо с мозгами местами поменялись... Ты... Спасибо, что проявил участие. Так-то здесь всем и на всех похер. У меня мало что есть, но вот, возьми хотя бы патроны - сменяешь на батарейки, если что.}
-{171}{999}{Благодарю, Ленни. Я найду, как их применить с пользой для дела.}
+{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling of excitement. Delighted, he hands you his shotgut. Then the couple walks away in the bar's direction]}
+{201}{999}{That was too easy. And quite bizarre.}
 
-
-{180}{}{[Он некоторое время попеременно внимательно разглядывает то труп под ногами, то вас. На мгновение в его глазах появляются проблески разума, но их тут же скрывают пелена безумия] Да чтоб меня, ты же прав! Я тут жопу рву, а он... Эх, как же мне повезло, что ты хоть мне глаза открыл! Дружище, дай я тебя обниму... А! Погоди, возьми вот - в залог нашей дружбы. [Скидывает с плеча дробовик и протягивает вам] А я пока пойду сброшу эту кучу дерьма в выгребную яму. [Хватает труп за ноги и волочит в нужном направлении]}
-{181}{999}{Спасибо...гм...друг. Ну, не буду тебе мешать.}
-
-
-{190}{}{[Может, он и безумен, но менее шустрым от этого не стал. Дробовик, только что висящий за костлявой спиной, словно по волшебству оказывается у него в руках] Че ты сказал, сука?! Карл, дружище, вставай - надо быстро загнать в ад очередную кучу дерьма!}
-{191}{998}{Ты туда попадешь первым, мертвяк!}
-{192}{998}{Ну-ну, попробуй...}
-
-
-{200}{}{[Все проходит, как по маслу. При виде переродившегося "Карла", Ленни начинает скакать на месте с восторженными воплями. На радостях он даже отдает вам в подарок оружие! Далее парочка удаляется в направлении кабака]}
-{201}{999}{Это было как-то слишком просто... и странно.}
-
-
-
-{500}{}{Что нужно? [выжидательно смотрит на Вас]}
-{501}{}{А, новенький, да? Ну, что нужно?}
-{502}{}{Ты снова? Что тебе нужно?}
-{503}{}{Тут есть вариант заручиться дружбой неплохого парня... ваших кровей.  С хорошей винтовкой [подмигнуть]. Нужно просто подменить собой труп другого парня.}
-{504}{}{Ничего, просто мимо шел.}
-{505}{}{Не впечатляет, сам с этим разбирайся.}
-{506}{}{А что, неплохая идея, а? Друг с винтовкой мне точно не помешает. А то странные разговоры о Капле стале ходить... Рассказывай, что нужно сделать?}
-{507}{}{Отлично! Я тебя позову, как придет время!}
-{508}{}{Ну-ну, это твое решение... [подозрительно прищуриться и уйти]}
+{500}{}{What do you want? [he patiently looks at you]}
+{501}{}{Oh, an outsider? Well, what do you need?}
+{502}{}{You again? Is there something you want?}
+{503}{}{There's an option for you to obtain the support of one nice guy... Of your kind. With a shotgun [wink]. All you need is to substitute yourself for another man's corpse.}
+{504}{}{Nothing, just walking around.}
+{505}{}{Not impressed. Deal with it yourself.}
+{506}{}{You know, it actually sounds like a good idea! I could use a friend with a shotgun. Lately, there are strange rumors going around, about the Drop... What do you need me to do?}
+{507}{}{Great! I will find you when the moment is right!}
+{508}{}{Okay, it's your decision... [squint and leave]}
 {509}{}{0}

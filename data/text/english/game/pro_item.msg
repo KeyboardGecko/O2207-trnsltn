@@ -395,7 +395,7 @@
 {19800}{}{Placeholder Rokcet Launcher}
 {19801}{}{Min ST: 7}
 {19900}{}{SnR Rocket Launcher}
-{19901}{}{A single use rocket launcher type "Shoot'n'Run" that is impossible to reload, jsut throw it away after uese. Min ST: 6}
+{19901}{}{A single use rocket launcher type "Shoot'n'Run" that is impossible to reload, just throw it away after use. Min ST: 6}
 {20000}{}{Weapon 1}
 {20001}{}{}
 {20100}{}{Weapon 2}
