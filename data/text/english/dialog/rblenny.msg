@@ -20,13 +20,13 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[The ghoul walks around the man's bloodied corpse in circles, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait you for so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
+{10}{}{[The ghoul walks circles around the man's bloodied corpse, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait for you so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
 {11}{011}{What the... What is happening here?}
-{12}{011}{Calm down, I just want to understand what I'm looking at here.}
+{12}{011}{Calm down, I'm just trying to understand what I'm looking at here.}
 {13}{999}{I think it would be better for me to leave.}
 
 
-{1001}{}{[seeing you, he friendly nods with his wrinkled, skinny skull, covered with sticking remains of hair. His eyes are feverishly bulging out, arms clinging a shotgun's belt on his back.] Howdy, stranger! Did you come to witness a moment of Lenny and Carl's reunion? }
+{1001}{}{[seeing you, he friendly nods with his wrinkled, skinny skull, covered with sticking remains of hair. His eyes are feverishly bulging out, arms clinging belt of a shotgun, hanging on his back.] Howdy, stranger! Did you come to witness a moment of Lenny and Carl's reunion? }
 {101}{011}{Uhh... What are you talking about?}
 {102}{019}{Reunion? Are you going to shag him, or something?}
 {103}{014}{Lenny, we need to duscuss this... Situation.}
@@ -65,7 +65,7 @@
 {145}{019}{I see how it is. I should put you out of your misery. Get ready, ghoul.}
 {146}{999}{You are right, we have nothing to talk about for now.}
 
-{150}{}{[he loudly exhales, fending off the flies] At last! The only normal guy around here! I'm already getting tired of carrying him around. And you're just in time, I need to take off some load real fast... Don't worry, I'll be right back. [he rans off, unzipping his pants in the process].}
+{150}{}{[he loudly exhales, fending off the flies] At last! The only normal guy around here! I'm already getting tired of carrying him around. And you're just in time, I need to take off some load real fast... Don't worry, I'll be right back. [he rans off, unzipping his pants in the process]}
 {151}{020}{Take your time... [wait for him to get out of your sight, then call for your ghoul ally and utilize Carl's body]}
 {152}{999}{I need to do something else. Lie here for now, Carl. }
 
@@ -78,11 +78,11 @@
 {180}{}{[he stares at corpse in front of him, sometimes looking at you. For a moment, his sight becomes clear, but then it is immediately clouded by the veil of madness.] Damn, you are so right! I am busting my ass here for him, and he... Man, I'm so lucky to have you opening my eyes! Lemme hug you... Oh! Wait! Take this - as a sign of our friendship! [hands you his shotgun] And I need to go drop this pile of shit into a cesspool. [he grabs corpse by its feet and drags it somewhere]}
 {181}{999}{Thanks, uh... Friend. Won't bother you anymore.}
 
-{190}{}{[He may be crazy, but not slow. Shotgun, hanging out on his back, now magically appears in his hands, pointing at you] What did you just say, you son of a bitch?! Carl, come on, stand up - there's another asshole to put down!}
+{190}{}{[He may be crazy, but not slow. Shotgun, hanging out on his back, now magically appears in his hands, pointing at you] What did you just say, you son of a bitch?! Carl, come on, get up - there's another asshole to put down!}
 {191}{998}{Your first, dead meat!}
 {192}{998}{Yeah, go try it...}
 
-{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling of excitement. Delighted, he hands you his shotgut. Then the couple walks away in the bar's direction]}
+{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling of excitement. Delighted, he hands you his shotgun. Then the couple walks away in the bar's direction]}
 {201}{999}{That was too easy. And quite bizarre.}
 
 {500}{}{What do you want? [he patiently looks at you]}
