@@ -83,7 +83,7 @@
 {152}{017}{I was just joking. There's no one there.}
 
 #Node016
-{160}{}{Did he leave? It always ends like this... [She hunches. Now she looks extremelly exhausted.]}
+{160}{}{Did he leave? It always ends like this... [She hunches. Now she looks extremely exhausted.]}
 {161}{999}{[take a deep breath] Okay... Now... I'm going... [leave]}
 {162}{011}{Can I ask you something before he comes back?}
 
