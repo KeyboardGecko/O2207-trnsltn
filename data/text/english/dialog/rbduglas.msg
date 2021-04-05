@@ -11,121 +11,121 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: крепкий мужчина в армейской броне.}
-{2}{}{О чем-то думает, равнодушно оглядывая бар.}
+{1}{}{You see a tough guy in a suit of military armor.}
+{2}{}{He is thinking about something, indifferently looking around the bar.}
 #
 # после знакомства
-{3}{}{Вы видите: Дуглас.}
-{4}{}{Опытный искатель и постоянный клиент злачных мест Радуги.}
+{3}{}{You see Douglas.}
+{4}{}{An experienced Seeker and regular customer of all the scuzziest corners of Rainbow.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Он выглядит под стать своей поношенной броне без знаков различия: подпаленная борода закрывает осунувшееся лицо до самых глаз, один из которых слегка косит из-за старого шрама через лоб до скулы, черные волосы изрядно тронуты сединой] Что-то хотел? [Он даже не смотрит на вас, занятый очередной порцией выпивки]}
-{11}{}{Извини, что отвлекаю, но нечасто в этих краях встретишь...таких людей.   Я - }
+{10}{}{[he looks just as his old weary military armor, without any insignias -  his scraggly beard almost fully covers his thin face, one eye is a little googly because of an old scar, stretched from forehead to cheekbone. His hair, which definitely used to be black, now are mostly gray. He doesn't even look at you, when you come by, too busy with his drink.] Did you want something?}
+{11}{}{Sorry to bother, but it's not often you see people of your kind in these places. I'm }
 {13}{011}{.}
-{12}{999}{Нет, ничего. Всего лишь шел мимо.}
+{12}{999}{No, nothing. I was just walking by.}
 
 
-{1001}{}{[С вашего последнего разговора ничего не изменилось. Разве что он выглядит еще более усталым] А... Опять ты?}
-{101}{011}{Ну да. Извини за навязчивость, но таких, как ты, я раньше не встречал. Меня зовут }
-{99}{}{, кстати.}
-{102}{023}{Я принес твой жетон.}
-{103}{012}{Хотел расспросить тебя насчет твоих похождений, если ты не против.}
-{98}{999}{Ага. Привет... и сразу пока.}
-{1002}{}{[Вскидывает стакан, звякнув о металл цепью браслета] Твое здоровье, парень! Чем Дуглас может тебе помочь?}
-{104}{012}{Да вот, решил послушать рассказы о твоих странствиях по Радиусу.}
-{105}{999}{Просто решил проведать. Береги себя, Дуглас.}
-{1003}{}{[На мгновение отрывается от чистки оружия и, не вставая, отдает честь] Сам Большой Босс нарисовался! Радуге что-то нужно от старого искателя?}
-{106}{025}{И как тебе здешнее гостеприимство?}
-{107}{999}{Пока нет. Отдыхай.}
-{1004}{}{[Копается в потрепанном армейском ранце. На ваше появление лишь небрежно кивает] Привет, парень. Извини, выпить не предлагаю - занят, как видишь.}
-{108}{025}{Что, куда-то собираешься?}
-{109}{999}{Тогда не буду мешать.}
-{1005}{}{[Увидев вас, заметно оживляется] О, самый нужный человек Радуги! Подходи-подходи! Как там твой бизнес? Надеюсь, все в порядке? Меня только твои девочки и утешают в этом долбанном мире. Ну не считая выпивки и Капли.}
-{1010}{023}{Я принес твой жетон.}
-{1011}{011}{Да, девочки у нас высший класс... Извини, запамятовал, как тебя зовут. Мой промах. Таких людей, как ты, полезно узнать получше.}
-{1012}{012}{А я вот выкроил время, чтобы послушать о твоих похождениях по Радиусу.}
-{1013}{999}{Ну так мы всегда рады видеть тебя в нашем заведении. Заходи, если что.}
+{1001}{}{[nothing has changed since your last conversation. Except, maybe, he looks even more tired] Oh... You again?}
+{101}{011}{Well, yeah. Forgive my intrusion, but I haven't met people of your kind before. I'm }
+{99}{}{, by the way.}
+{102}{023}{I got your badge.}
+{103}{012}{I wanted to ask you about your adventures, if you don't mind.}
+{98}{999}{Yeah. Hello... And goodbye.}
+{1002}{}{[seeing you, he raises the glass. Chain on his bracelet gives a metallic ringing] Cheers, man! What Douglas can do for you?}
+{104}{012}{I just wanted to hear stories about your travels around Radius.}
+{105}{999}{I wanted to check upon you. Take care of yourself, Douglas.}
+{1003}{}{[For a moment, he stops polishing his weapon, and salutes you, not leaving the chair.] The big boss himself! What does Rainbow wants from an old Seeker?}
+{106}{025}{How do you like the local hospitality?}
+{107}{999}{Not yet. I'll leave you for now.}
+{1004}{}{[he is digging through a ragged army bag. When you appear, he just carelessly nods] Hey, man. Sorry, won't share a drink with you - a little busy, you see.}
+{108}{025}{Going somewhere?}
+{109}{999}{I won't bother you then.}
+{1005}{}{[seeing you, he gets lively] The most useful person in the Rainbow! Come! How's business, is everything alright? Your girls are the only ones who can comfort me in this rotten world. Apart from booze and the Drop, of course.}
+{1010}{023}{I got your badge.}
+{1011}{011}{Yes, our girls are of highest tier... Sorry, don't remember your name. My bad. It's very good to know people like you better.}
+{1012}{012}{I found some spare time to listen to your stories about traveling around Radius.}
+{1013}{999}{Well, we're always happy to have you in our establishment. Come by anytime.}
 
 
-{110}{}{Дуглас. [Усмехается, но глаза остаются равнодушными] И каких же это "таких", позволь спросить?}
-{111}{012}{Нуу... Ты выглядишь опытным путешественником, который многое повидал. И уцелел при этом. Учитывая то, что мне и самому еще немало придется мотаться по Радиусу, мой интерес вполне понятен...}
-{112}{024}{Да таких вот убогих клоунов, которые нацепили на себя армейские шмотки и считают, что круче них только стены Олимпа! Не, хватит с меня! В общем так - быстро сказал, откуда ты и что здесь потерял. Глядишь, и уползешь отсюда относительно целым.}
+{110}{}{Douglas. [he chuckles, but his eyes look just as indifferent as before] And what "kind" are you talking about, may I ask?}
+{111}{012}{Well... You look like an experienced traveler who have been through a lot. And stayed in one piece. Considering that I'm often walking around the Radius myself, my interest is pretty clear.}
+{112}{024}{I mean, the kind of lame clowns, who put some armor on them and think that there's no one better in the whole world, except the Olympus intself. I had enough of you! Let's put it like this - you tell me who are you and what are you doing here, and I let you leave this place without any problems. Mostly.}
 
 
-{120}{}{[Пожимает плечами, катая по столу пустую ампулу из-под Капли] Ну да, пришлось кое-где побывать. Искатель, который торчит на одном месте, быстро подохнет с голоду... Прямо как я в этой помойке. [Издает хриплый смешок]}
-{121}{013}{Искатель? Это твоя профессия?}
-{122}{014}{И где тебе приходилось бывать?}
-{123}{021}{Гм... А я-то хотел поинтересоваться, нет ли у тебя какой работенки для меня...}
-{124}{999}{Понятно... Ну, надеюсь, до этого я еще успею с тобой пообщаться.}
+{120}{}{[he shrugs, rolling empty vial of Drop around the table] Yes, I've been places. Seeker who stays in one place for long is going to die from hunger... Just like I am in this dump. [coarsely laughs]}
+{121}{013}{Seeker? Is that your job?}
+{122}{014}{Can you tell me about the places where you have been?}
+{123}{021}{Hmm... And I wanted to ask if you have some work for me.}
+{124}{999}{I see. I hope that we could have a talk before it happens.}
 
 
-{130}{}{[В его смехе появляются еле заметные истерические нотки] Профессия... Да... Все так думают поначалу - мол, пошарюсь в развалинах, нагребу добра и заживу потом в достатке... Но уйти нелегко, нет... Тут ни выпивка, ни шлюхи не помогут. Только Капля. И то ненадолго...[Встряхивает головой и залпом осушает стакан] В общем - если отбросить всю муть - мы ищем старые технологии  и стараемся при этом не загнуться от какой-нибудь заразной хрени,  пуль рейдеров, лап мутантов, радиации...}
-{131}{014}{Очень...хм...увлекательно. А где тебе довелось побывать за последнее время?}
-{132}{021}{А тебе в твоих поисках никакая помощь не требуется?}
-{133}{999}{Спасибо за информацию... Ну, мне пора.}
+{130}{}{[his laugh gets filled with hysterical notes] A job... Yeah... Everyone thinks that in the beginning - all you need is to rummage through some ruins, get yourself full pockets of stuff and then live happily ever after. The thing is - you can't leave. You can't do anything about it. And nothing will help to cope, not booze, nor whores. Only the Drop - but not for long...[he shakes head and empties the whole glass in one gulp] Bullshit aside, we are looking for an old tech, trying not to die in process from something contagious, bullets, claws or radiation. Or something else.}
+{131}{014}{Very interesting. Can you tell me about the places where you have been recently?}
+{132}{021}{Do you need any help in your... Search?}
+{133}{999}{Thanks for the info. I need to go.}
 
 
-{140}{}{[Потирает шею со следами старых ожогов]Ну, за последнее время я курсировал по маршруту "кабак-бордель-кабак", но тебя, пожалуй, не это интересует? Только, знаешь ли, на сухую я беседовать не особо привык.}
-{141}{015}{О чем речь! Держи десятку, промочи глотку.}
-{142}{024}{Ты че - по ушам мне ездил, чтоб мелочь на выпивку настрелять, а? Искатель, блять! Небось, по местным помойкам только и рыскал!}
-{143}{999}{Хотя у меня сейчас нет времени на беседы. Увидимся позже.}
+{140}{}{[he rubs his neck, covered with old burns] Well, lately I've been walking the route between bar and whorehouse back and forth. I doubt you are interested in this... You know, I'm not very used to talk with my mouth dry.}
+{141}{015}{No problem! Take a ten, get yourself a drink.}
+{142}{024}{So, you have been bending my ear all this time, only to ask for some change? Seeker, my ass! I bet you seeked only around local dumpsters!}
+{143}{999}{You know, I don't have timy for this myself. See you later.}
 
 
-{150}{}{[Основательно прикладывается к кружке] О-ох, забористая херня... Ну чего тебе рассказать? Про Мертвую реку слыхал? Так вот, за ней есть старая криогенная лаборатория. Любопытное местечко... Никто не знает, кто или что видит там сны в вечном холоде... И чего произойдет, если оно проснется. Только туда попасть не так-то просто - переправу Псы Заката держат. Я-то проскочить сумел, но лазейку ту они уже перекрыли...  }
-{151}{016}{Так-так, продолжай.}
-{152}{999}{Все, хватит с меня баек у костра. Пока!}
+{150}{}{[he takes a long gulp] Oh shit, that's good... Okay, what do you want to hear about? Do you know about the Dead River? There's an old cryogenic lab just nearby. Such an interesting place... No one knows what sleeps in there, seeing dreams in eternal cold... And what would happen if it wakes up. But you can't get there easily - the Sunset Jackals are guarding the passage. I managed to get through once, but that way is closed now. }
+{151}{016}{Okay, go on.}
+{152}{999}{Enough of the tales by the campfire. Bye!}
 
 
-{160}{}{Пришлось окольными путями выбираться, сцепился с парочкой безумных, чуть к херам меня не порвали... Хотел я отлежаться где-нибудь, наткнулся на дом один... Да только не простой домишко-то оказался. Сунулся я в подвал - а там чисто бункер военный! Я в одном из таких броник этот и надыбыл [стучит кулаком по броне]. Ну и стволом приличным в таком месте можно разжиться легко. Но какие-то дерьмовые рейдеры бункер тот уже оккупировали. Грамотные ублюдки, еле ушел. Вот, на память осталось.[Откидывает волосы и показывает разорванное пулей ухо] Может, вернусь еще туда...}
-{161}{017}{Это все?}
-{162}{999}{Да-да, все с тобой ясно. Пойду я, пока не заснул.}
-{163}{016a}{Военный бункер? Да сказки все это! Тут на каждом углу про какие-то секретные места рассказывают...}
+{160}{}{So I had to find another way out. Bumped in a couple of Ferals, almost got torn to pieces... Wanted to lay low somewhere, stumbled onto a house. And this house turned out to be not so usual. I tried the basement - and found a whole military bunker! The kind of where I found myself this suit [knocks on his armor with a fist]. You can easily get a good gun in such place. Still, this bunker is now occupied by some dirty raiders. Slick bastards, I barely got away. They gave me a souvenir [he puts away his hair and you see that part of his ear is missing] Maybe I'll return there later...}
+{161}{017}{Is that it?}
+{162}{999}{I see. I better go, while I'm still not sleepy.}
+{163}{016a}{A military bunker? Ha! Every guy I meet is always telling me about some secret places...}
 
-{164}{}{Зеленый ты еще, что бы правду от неправды отличить. Ну-у, на твой страх и риск - вот координаты. Ты только заранее резистанолом что ли запасись, а то живым оттуда точно не уйдешь!}
-{165}{999}{Это мы еще увидим! Если это место вообще существует.}
-{166}{017}{Ну-ну, проверим. А еще что интересного расскажешь?}
+{164}{}{You are too young to distinguish what's true and what's not. Well, here's the coordinates. Your responsibility. I would advise you to get some Resistanol, or you won't make it out of there alive.}
+{165}{999}{We'll see about that. If this place exists.}
+{166}{017}{I'll definitely chack it out. What else can you tell me?}
 
-{170}{}{[Делает перерыв на очередной глоток] Но самое интересное было в разрушенном городе, к юго-востоку от Олимпа. Там, когда война началась, местные успели уйти в катакомбы. Обустроились там, переждали... Только природа - безжалостная сука. И у нее были темнота и радиация против их самопальных укрытий... Изменились они, в общем. Услышать-унюхать тебя могут метров за сто запросто. Но вот кожа их стала тоньше местного презерватива! Я тебе отвечаю - смотришь на него и видно, что он на завтрак хавал! Ну не на столько, конечно, но где-то рядом. Пальцем насквозь можно проткнуть... Хех, так почти и вышло, когда образец взять пытался... Ну да это уже не для твоих ушей. }
-{171}{018}{Мда, чего только в Радиусе не встретишь... А здесь-то ты что позабыл?}
-{172}{999}{Спасибо за рассказ, но мне уже пора.}
-
-
-{180}{}{[Подается вперед и проникновенно спрашивает, глядя вам в глаза] А тебе-то что до этого? Вы уже задрали меня в корень! Отдыхаю я здесь, понятно?}
-{181}{019}{Ты прав, это не мое дело. Но и ты пойми - народ здесь подозрительный, всегда на измене. А тут ты нарисовался, непонятно для чего. Вот все и проявляют повышенный интерес. Неужели твоя миссия - такая большая тайна? Просто ты не очень-то похож на человека с важным заданием. Без обид! Я и сам люблю отдохнуть после трудов праведных.}
-{182}{019}{Вот как? А я только подумывал тебе скидку предложить, как постоянному клиенту...}
-{183}{019}{Так, значит? Как за жетоном сгонять - так друганы на века, а как на простой вопрос ответить - сразу свали на хер?}
-{184}{024}{Ты лучше рассказывай все, пока я тебя на вечный отдых не отправил!}
-{185}{999}{Ну и черт с тобой, нервный. Отдыхай и дальше.}
+{170}{}{[he stops to take another gulp] But the most interesting things were in a destroyed town to the south-east of Olympus. I think whan the war started, locals managed to get into catacombs. They settled there and tried to wait... Except the nature is a bitch, and it had the darkness and radiation to put against their hand-made shelters. So, they changed. Now they can easily smell you a hundred feet away - but their skin is thinner than a condom, I'm telling you! You look at him - and see what he had for breakfast! Well, I maybe exaggerating a little, but still pretty close. You can pierce them with a finger, hehe... Which is exactly what I did, when trying to get a sample... But that's another story, not for your ears. }
+{171}{018}{Yeah, you see a lot of strange stuff around Radius... What about here? What are you doing here?}
+{172}{999}{Thank you for telling me all this, but I need to go.}
 
 
-{190}{}{[Взъерошивает нечесаную шевелюру и с решительным видом достает из кармана ампулу с Каплей]  Да какого хрена?  [Опрокидывает в себя дозу] В общем, я сейчас на Олимп работаю... Как и всю свою гребанную жизнь. Поручено мне им кое-какие образцы притащить. [Похлопывает по подсумку] Вон, целый список накатали... Да только решил я пока болт забить на них. Устал...}
-{191}{020}{Так чего ты раньше-то не мог это рассказать?}
+{180}{}{[he leans forward, looking into your eyes] Why do you care? I'm so sick of you all! I am just relaxing here, alright?}
+{181}{019}{You are right, that's not my business. But listen to me - the folks around here are pretty suspicious. And here you are, who knows for what. So, naturally, everyone gets curious. Is your mission really such a great secret? I mean, you don't really look like someone on an important mission, no offense.}
+{182}{019}{Is that so? I was just thinking about giving you a discount, for our regular customer...}
+{183}{019}{Really? When go fetch a badge, then you're the best buddy, and when I need some answer on a simple question - then you tell me to get the fuck away?}
+{184}{024}{Either you tell me, or I'm putting you to eternal relaxation!}
+{185}{999}{To hell with you then, nervous one. Relax further.}
 
 
-{200}{}{А я что, обязан тут перед кем-то отчитываться? И потом, этот старый хрен Лекарь уже убедил себя, что я на кого-то шпионю. И другим в уши ссыт насчет этого. Нужна мне эта Радуга... Так что тебе никто не поверит. В лучшем случае нахер пошлют, а в худшем...  Достало все... [Капля начинает действовать] И Олимп достал... Сами пусть дерьмо мутантское ковыряют, исследователи... Хватит с меня...[Роняет голову на руки и замолкает]}
-{201}{999}{Гм... Ну, бывай, не буду мешать.}
+{190}{}{[he strokes his hair and pulls away a new ampule of the Drop from his pocket] For fuck's sake...  [pops it into his mouth] In general, I'm working for the Olympus... For my all damn life. I had an assigment to gather some things for them. I even have a list with me [pats his bag]. Only they would have to wait. I'm a little tired...}
+{191}{020}{Why didn't you tell me this earlier?}
 
 
-{210}{}{Ну, помощь мне кое-какая не помешает... Я тут где-то свой жетон похерил. Скорее всего, когда решил на местной арене размяться. Жаль, вещица памятная...}
-{211}{022}{А сам чего не поищешь?}
+{200}{}{Do I have to answer to someone here? And then, that old Apothecary prick has already convinced himself that I'm a spy, or something. And he tells everyone about it. I could care less about this Rainbow... What I'm trying to say is that no one would believe you. Best-case scenario, they tell you to fuck off, and in the worst-case...  I'm so sick of it... [looks like the Drop kicks in] And this Olympus can go fuck itself... Let them handle this shit, fucking smart-asses... I'm done... [he drops his head on his arms and stops talking]}
+{201}{999}{Ahem... Well, okay, see you around.}
 
 
-{220}{}{Да, понимаешь, местные со мной не особо ладят. Все в чем-то подозревают, дебилы... Начну тут поиски - новые вопросы появятся... И, если уж совсем честным быть, неохота мне лишний раз жопу свою таскать по Радуге. Тем более, скоро одна шлюшка обещала навестить меня... Ну, ты понимаешь.  Поможешь? С меня причитается!}
-{221}{999}{Ну да... Я-то могу поискать, конечно... Ладно, посмотрим, что я смогу сделать.}
-{222}{999}{Не, неинтересно. Попробуй в местной коробке потерянных вещей поискать, а мне этим некогда заниматься.}
+{210}{}{Yeah, I could use some help. I lost my badge somewhere around here. Most likely, it happened when I decided to warm ap on the Arena. A pity - this thing is like a memorabilia for me...}
+{211}{022}{And why can't you look for it yourself?}
 
 
-{230}{}{[Выглядит несколько смущенным] Тут такое дело... Я всю наличку как-то незаметно спустил на местных шлюх и выпивку. Но я добро помню! Если что надо будет - только скажи. Я многих людей серьезных знаю, ты это учти... Ну как, друг, отдашь жетон?}
-{231}{999}{Ладно, держи. Работенка непыльная была, все-таки. Но придет время и я тебе о твоих словах напомню.}
-{232}{024}{Да ты совсем охренел, мусорщик? Кого кинуть решил? Я тебе эту бирку собачью в жопу засуну до упора! }
+{220}{}{Because locals don't like me much. Everybody suspects that I'm up to something, morons... If I'd start searching for something, it would bring more questions. And, to be completely honest, I'm too lazy to carry my ass all around the Rainbow. Besides, some little whore promised to come visit me soon... You get it. So, would you help?}
+{221}{999}{Okay... Let's see what I can do.}
+{222}{999}{Nah, not interested. Try "Lost and Found" box, and I have no time for this.}
 
 
-{240}{}{[Выпрямляется, неторопливо подтягивая ремни обмундирования и расправляя плечи] Выпивка, девки, Капля...и убогое мясо, не знающее, когда надо заткнуть пасть. Все-таки, я люблю Радугу!}
-{241}{998}{Сейчас организую тебе экскурсию на местное кладбище!}
+{230}{}{[he looks a bit confused] You know... Somehow, I spent all of my cash on local hookers and booze. But I remember the favors! Tell me if you need something. I know a lot of people... So, will you give it to me?}
+{231}{999}{Sure, take it. This was an easy job. But there will be time when I'm going to remind you about your words.}
+{232}{024}{Are you out of your fucking mind, trash man? Trying to screw me over? I'll shove this badge up your ass! }
 
 
-{2501}{}{[Отодвигает части ударно-спускового механизма и ставит на их место запотевшую бутылку] Не жалуюсь. Радуга при тебе хорошим местом для отдыха стала. Я хоть немного расслабился. [Кивает на части оружия] На это внимания не обращая, просто я привык все оборудование в годном состоянии держать. Искателю любая ошибка дорого может обойтись... }
-{251}{999}{Это не только искателей касается, вообще-то. Ладно, отдыхай.}
-{2502}{}{[Ногой задвигает ранец под стол] Пока просто провожу инвентаризацию. Но все может быть. На Радуге что-то совсем неуютно стало для старого искателя. Да и работа ждет.}
-{252}{999}{Чтож, удачи тебе, искатель.}
+{240}{}{[He stands up and straightens his shoulders] Booze, whores, the Drop... and stupid meat, who doesn't know when to shut up. I love this place!}
+{241}{998}{You are going to be sent to a local cemetery!}
+
+
+{2501}{}{[he gets some weapon parts off the table and puts a bottle in their place] Can't complain. The Rainbow is getting pretty good place to have fun, with you leading it. I like it. [he nods to weapon parts] Don't mind this, it's just my habit of keeping things in order. The cost of mistake for a Seeker is very high... }
+{251}{999}{Not only for a Seekers, you know. Okay, see you around.}
+{2502}{}{[he shoves his bag under a table] Just taking inventory. But everything can happen. Rainbow nowadays is not the most cozy place for an old Seeker like me... And I have a job to do.}
+{252}{999}{Well then, good luck to you, Douglas.}
