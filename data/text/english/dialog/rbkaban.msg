@@ -11,145 +11,144 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: мускулистый рейдер.}
-{2}{}{Выглядит расслабленным, но отчего-то вам не по себе.}
+{1}{}{You see a muscular raider.}
+{2}{}{He seems relaxed - but you still can't shake this uncomfortable feeling...}
 #
 # после знакомства
-{3}{}{Вы видите: Кабан.}
-{4}{}{Подсевший на Каплю вожак рейдеров Радуги.}
+{3}{}{You see the Hog.}
+{4}{}{Addicted to the Drop, one and only leader of the Rainbow raiders.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Отсутствующий взгляд наркомана со стажем замечательно контрастирует с буграми мышц под татуированной кожей ] Свежее мясцо на кухне дьявола... [Даже в спокойном состоянии он излучает явную угрозу] Все хотят попасть на стол к Кабану... [Отрывисто бросает фразу, с трудом сфокусировав на вас взгляд] Что тебе нужно?}
-{11}{024}{Осматриваюсь. Хорошо тут у вас.}
-{12}{016}{Я всегда рад решить чужой вопрос... За достойную плату. Интересует?}
-{13}{025}{Ты знаешь одного паренька - Джи? Он со своей кампанией промышляет на твоей территории...}
-{14}{999}{Оуо, я, похоже, невовремя. Зайду попозже.}
+{10}{}{[his absent gaze of drug addict contrasts remarkably with bulging muscles under his tattoed skin. Even calm, he radiates a clear threat] Fresh meat on devil's kitchen... Everyone wants to get on the Hog's table... [with a great effort, he focuses his eyes on you] What do you want?}
+{11}{024}{Just looking around. Nice place you have here.}
+{12}{016}{I'm pretty good in solving problems for a price. Interested?}
+{13}{025}{Do you know about G? He and his crew are operating on your turf.}
+{14}{999}{Looks like the time is not right. I'll come by later.}
 
 
-{1001}{}{[Вы словно видите в его глазах собственное тело, подвешенное над медленным огнем] Если эта сука не исчезнет, Кабан выдернет ей обе ноги и забьет ими до смерти. }
-{101}{023}{Ты че там прохрюкал, торчок? Я тебя самого выдеру по-полной!}
-{102}{999}{Да ладно-ладно, ухожу...}
-{1002}{}{[Смотрит настороженно, но затем в его глазах мелькает тень узнавания] Снова ты... Ходи осторожно, не навернись с радуги...}
-{103}{024}{Осматриваюсь. Хорошо тут у вас.}
-{104}{016}{Я всегда рад решить чужой вопрос... За достойную плату. Интересует?}
-{105}{025}{Мне довелось пересечься с шайкой малолеток, промышляющих на твоей территории...}
-{106}{020}{Переговоры с Псами завершены.}
-{1003}{}{[Смотрит на вас как-то странно. Вы предпочитаете истолковать его взгляд, как дружелюбный] О, дипломат наш нарисовался... С чем пожаловал, говорун?}
-{107}{025}{С очередной миссией. На Радуге есть компания дельцов, невысоких ростом, но с буйным нравом...}
-{108}{024}{Осматриваюсь. Хорошо тут у вас.}
-{109}{999}{Решил проверить, как ты тут. Вижу, все в порядке. До скорого.}
-{1004}{}{[Он словно каждый миг ожидает нападения: глаза рыскают по всему помещению, все тело напряжено. При вашем появлении он дерганным движением принимает Каплю и давит ампулу подкованным каблуком. Другая доза уже ждет своей очереди] Или ты притащил мне пригорошню батареек, или у твоих шлюх очередные проблемы. Как думаешь, какой вариант для тебя лучший? [Чуть успокаивается, но по его телу то и дело пробегает еле заметная дрожь] Так с чем пришел, делец?}
-{1010}{028}{Да, я как раз насчет платы за охрану...}
-{1011}{016}{У меня на территории порядок. А тебе, случайно, помощь не требуется?}
-{1012}{025}{Мне довелось пересечься с шайкой малолеток, промышляющих на твоей территории...}
-{1013}{999}{Я в порядке. Просто мимо проходил. }
-{1005}{}{[От необычно тихого голоса Кабана у вас пробегает мороз по коже] Похоже, ты решил, что местные правила не для тебя? Где мои деньги, шлюхин ты вожак? И не забудь накинуть половину сверху за беспокойство. }
-{1014}{999}{Разумеется, вот здесь все! Мои извинения, больше такого не повторится.}
-{1015}{023}{Я  в твое свиное рыло лучше пару ударов накину! Не тебе с меня батарейки трясти!}
-{1016}{999}{Я все принесу! Чуть позже, до последней батарейки.}
-{1006}{}{[Кабан выглядит удивленным вашим появлением] Я-то думал, что у тебя хватило ума исчезнуть с территории Радиуса... [Ампула с хрустом превращается в месиво, когда он стискивает кулаки. Из горла вырывается хриплое рычание] Три гребаных месяца ты пытался поиметь меня! Я немало охеревших уродов повидал, но ты сумел сделать их всех! Ну ничего, сейчас вырву у тебя свою долю вместе с кишками...}
-{1017}{998}{Да, это я удачно зашел...}
-{1018}{998}{Нихера ты не получишь, сука! Поимел тебя? Да я даже еще не начинал! Иди сюда, я покажу, как это делается!}
+{1001}{}{[In his eyes you see your own body, hanging by the fires of hell] If this bitch doesn't disappear, the Hog will rip both of her legs, and beat her with them to death.}
+{101}{023}{Did you squeal something, Drop-head? It is I who will rip you up!}
+{102}{999}{Alright, alright, I'm leaving...}
+{1002}{}{[his sight is tense at first, but then he recognizes you] Again, you come... Thread lightly, don't fall off the Rainbow...}
+{103}{024}{Just looking around. Nice place you have here.}
+{104}{016}{I'm pretty good in solving problems for a price. Interested?}
+{105}{025}{I stumbled upon a gang of kids, operating on your territory...}
+{106}{020}{Negotiations with Jackals are completed.}
+{1003}{}{[He looks at you strangely. You prefer to interpret his gaze as friendly] Here comes our negotiator... What brings you to me, smooth-talker?}
+{107}{025}{Another matter to talk about. Lately, there's a company of little hustlers around the Rainbow, not very tall, but with a temper...}
+{108}{024}{I'm looking around. Nice place you have here.}
+{109}{999}{Just checking on you. And I see that all's good. See you then.}
+{1004}{}{[It's like he's waiting for an attack at any moment - his eyes are all over the place, the whole body is tense. Seeing you, he pops another dose of the Drop, throws empty ampoule on the floor and squishes it with his heel. Aother ampoule waits for its turn] Either you brought me a handful of batteries, or your whores have problems. What option is the best one for you, what do you think?}
+{1010}{028}{It's about the payment...}
+{1011}{016}{I have everything under control on my territory. What about you? Do you need help?}
+{1012}{025}{I stumbled upon a gang of kids, operating on your territory...}
+{1013}{999}{I'm good. Just walking by. }
+{1005}{}{[you get chills from the Hog's unusually calm voice] Looks like you think that local rules are not for you. Where's my money, you whore herder? And you pay a half extra - for troubles. }
+{1014}{999}{Of course, here's the full amount! My apologies, it won't happen again.}
+{1015}{023}{I'd better throw some punches in this pig snout of yours! You get dicks, not batteries!}
+{1016}{999}{I'll get it! Everything, down to the last battery! But a little later.}
+{1006}{}{[the Hog looks surprised to see you] I thought that you were smart enough to leave the Radius completely... [the ampoule in his hand crunches into mush, when he clenches fists] You has been fucking me up for three fucking months! I've seen a lot of different crazy fuckers, but you - you have outdone them all! That's okay, I will take my cut now - together with your ripped intestines!}
+{1017}{998}{I'm so good at picking the right moment to come...}
+{1018}{998}{You get squat, bitch! Fucking you up? I haven't even started! Let's see how it's done!}
 
 
-{110}{}{[Быстрым движением отправляет в глотку очередную порцию Капли] Похоже, у вас с Пастухом возникла проблема, а? У тебя есть две минуты для объяснений. [Его дыхание учащается, костяшки выпирают на сжатых до судороги кулаках] Только помни, что ходишь по охрененно острому лезвию...}
-{111}{012}{Ну, ваш гуталиновый паренек оказался хлипковат для серьезной драки.}
-{112}{012}{Произошло небольшое недопонимание, которое, уверен, не помешает нашим добрым отношениям...}
-{113}{015}{Нуу... Все произошло случайно, я здесь вообще не при чем... Серьезно, чего вы?!}
+{110}{}{[With a swift motion, he pours content of another ampoule down his throat] Looks like you and Shepherd had some problem. You have two minutes to explain yourself. [his breathing gets rapid, fists clenching] And choose word carefully, because the ice you are walking on is very fucking thin.}
+{111}{012}{Well, your brown fella turned out to be too fickle for a serious fight.}
+{112}{012}{There was a minor misunderstanding, which, I'm sure, won't get in the way of our good relationship.}
+{113}{015}{It was all an accident, I have nothing to do with it! Seriously!}
 
 
-{1202}{}{[Приближается к вам, цедя слова сквозь зубы] То есть, ты урыл моего брата из-за какой-то дешевой шмары? }
-{123}{023}{Что, теперь из-за каждого убитого нигера будем разборы проводить? Он сам виноват - строил из себя крутого, а удар нихрена держать не научился...}
-{124}{013}{В этом есть и положительная сторона - я выявил и устранил слабое звено на Радуге, которое могло в итоге создать тебе немало проблем...}
+{1202}{}{[he menacingly approaches you] Do you realize that you murdered my brother because of some cheap whore?}
+{123}{023}{Are you going to organize a thorough review meet-up when every petty raider of yours is killed? It's entirely his fault - he tried to act cool while couldn't even take a punch...}
+{124}{013}{There's a bright side to it - I have identified and eliminated the weak link on the Rainbow, which could lead to many of your problems.}
 
 
-{130}{}{[Кабан по-прежнему готов кинуться на вас, но что-то в его лице неуловимо изменилось] Что ты мне тут втереть пытаешься, падаль? }
-{131}{014}{Будем объективны - Пастух уже не тянул лямку управляющего борделем. Черт, да он даже одну шлюху приструнить не смог по-тихому, носился за ней по всей Радуге! И мне он достойного сопротивления тоже не оказал... Как считаешь, это хорошо скажется на твоей репутации?}
-{132}{023}{Ну натурально же - педик Пастух твой убогий, ему только нужники чистить...}
-{133}{022}{Эээ... Он проиграл, я победил - что тут еще добавить? Не выдержал удара судьбы твой дружок...}
+{130}{}{[his face expression changes, although it is barely noticeable] What are you now trying to say to me? }
+{131}{014}{Let's be objective - Shepherd couldn't handle his duties of brothel manager. Damn, he couldn't even deal with one whore! He ended up running and chasing her around the whole Rainbow. And he wasn't much of a challenge to me, by the way... How do you think it makes you look?}
+{132}{023}{I mean, your Shepherd was a wussie. All he was suited for is cleaning the cesspools...}
+{133}{022}{Erm... I won, he lost, what else to say? He couldn't take the blow of fate...}
 
 
-{140}{}{[Кабан на мгновение замирает, а потом растягивает тонкие губы в улыбке] В чем-то ты прав... [Некоторое время молчит, что-то обдумывая] Значит так - я  понес убыток. И ты мне  все возместишь. Займешь место Пастуха. Плата за охрану - раз в месяц. Три сотни. С остальным сам разберешься. И не дай бог тебе облажаться...}
-{141}{999}{Хорошее место, карьерный рост... Чего уж там, я согласен.}
-{142}{023}{Че? Я тебе кто - сутенер на полставки? Сам своих шлюх строй, мудила.}
+{140}{}{[the Hog freezes, then stretches his thin lips in a smile] You may be right somehow... [he stops, then continues] That's how it is - I took a loss. Because of you. And you're gonna make it up to me. You take Shepherd's place. Your security payment comes once in a month. Three hundred. The rest you'll figure out. And don't you dare to screw this up...}
+{141}{999}{Good position, career prospects... Why not? I agree.}
+{142}{023}{Whaaat? Who do you think I am? A half-assed pimp? Deal with your sluts yourself, asshole.}
 
 
-{150}{}{[Уничижающе смотрит на вас... И вдруг начинает смеяться] Хах... Ну ты выдал, я даже на мгновение поверил. Ладно, крутой, раз ты такой убедительный... И достаточно силен, чтоб Пастуху шею к херам свернуть, то место тебе... В борделе. Да не дергайся. В смысле - за Пастуха теперь пахать будешь. Плата за охрану - раз в месяц. Три сотни. Все. Свободен. С остальным сам разберешься. В твоих же интересах. "Я здесь вообще не при чем"... Твоюж мать... [Погружается в наркотические грезы]}
-{151}{999}{Ну... Спасибо... Наверное...}
+{150}{}{[he stares at you, not even blinking... And suddenly starts to laugh] Hahahah!! I even fell for it for a moment! Okay, tough guy, if you are so convinving... And strong enough to make Shepherd take a dirt nap... You belong to brothel. Don't twitch. What I mean is you take Shepherd's place. Your security payment comes once in a month. Three hundred. That's it. Go. You'll figure out the rest. It's in your own interests. "I have nothing to do with it"... Fucking hell... [he sinks into his narcotic thoughts, smiling]}
+{151}{999}{Uh... Thanks... I guess...}
+
+{1601}{}{[You patiently wait for the Hog to pop another dose of the Drop] Argh... Yes, slick one, you can be of some help...}
+{161}{017}{I'm listening.}
+{1602}{}{[You patiently wait for the Hog to pop another dose of the Drop] Argh... I don't need you... Go...}
+{162}{999}{Damn, why didn't you say so earlier...}
 
 
-{1601}{}{[Вы терпеливо ждете, пока Кабан закинется очередной Каплей] Аргх... Да, ловкач, кое-чем ты можешь помочь...}
-{161}{017}{Я весь во внимании.}
-{1602}{}{[Вы терпеливо ждете, пока Кабан закинется очередной Каплей] Аргх... Ты мне не нужен... Свали...}
-{162}{999}{Черт, мог бы сразу сказать.}
+{170}{}{There's one crazed freak... Loudmouth. He's leading the Jackals... I used to run with him and his pack. [he shows you his crippled hand] See? This bitch took off my finger. Because of some bullshit... But I'm not mad at him. I want to make peace.}
+{171}{018}{And you need a middleman for that?}
 
 
-{170}{}{Есть один двинутый урод... Крикун... Рулит Псами... [Он замолкает, что-то вспоминая] Когда-то и я ходил в его стае... [Резким движением вскидывает искалеченную кисть] Видишь? Эта мразь откромсала мой палец... Из-за какой-то херни... Но я не держу зла. Я хочу заключить с ними мир.}
-{171}{018}{И тебе в этом нужен посредник?}
+{180}{}{Yes... While it's quiet, they sell us weapons, we supply them with Drop... But it won't last for long. Everything can go to shits at any moment. [he shakes his head] Fucking asshole... He never learns... You... Convince him. No one benefits from the war...}
+{181}{019}{Ha! You got the right man for the job, the diplomacy is what I do! Will deliver the result, just wait.}
+{182}{999}{No, thank you. I don't want to go near such crazy people. All the best, bye!}
 
 
-{180}{}{Да... Пока все тихо, они толкают нам оружие, мы обеспечиваем их Каплей... Но это ненадолго. Все может сорваться к херам в любой момент... [Мотает головой] Долбанный мудила... Ничему его жизнь не учит... Ты... Убеди его... Война не нужна никому...}
-{181}{019}{Ха! Ты обратился по адресу - дипломатия это мой конек. Все сделаю в лучшем виде.}
-{182}{999}{Нет, благодарю. К таким психам лишний раз лучше не подходить. Всего хорошего!}
+{190}{}{[he closes his eyes, waiting for a drug to kick in] Good. Go and do it... The reward... Will please you... That's it, go...}
+{191}{999}{Got it, chief. Wait for the news.}
 
 
-{190}{}{[Прикрывает глаза, ожидая прихода] Хорошо... Иди и сделай это... Награда... Ты останешься доволен... Все, вали...}
-{191}{999}{Ок, шеф. Жди вестей.}
+{200}{}{[Slowly shakes his head to the rhythm of your words] What did Loudmouth say?}
+{201}{021}{Well, swearing and cheap bluster aside, the message is pretty short and clear - they won't attack the Rainbow, while your business relations are in the interest of both sides. As a gesture of good will, they even ready to give you a discount on their next batch of weapons.}
 
 
-{200}{}{[Медленно покачивает головой в такт вашим словам] Что сказал Крикун?}
-{201}{021}{Ну если убрать ругань и дешевые понты, то все коротко и ясно: они не станут нападать на Радугу, пока ваши деловые связи отвечают интересам обеих сторон. Псы даже согласились дать скидку на следующую партию оружия в качестве жеста доброй воли.}
+{210}{}{[he grins] You're good... If you managed to shake even this guy's stuck-up brain... [he waves to one of his raiders, who leaves the room and gets back carrying a rocket launcher] Here. Take this. Don't use it on the Rainbow though... And one more thing - if you want to fly, you can... Expect a discount from... Apothecary... [his eyes become unfocused and murky, speech is less cohesive. Looks like the conversation is over]}
+{211}{999}{Looks like Christmas came earlier this year...}
 
 
-{210}{}{[Ухмыляется] А ты хорош... Если сумел расшатать заклинившие мозги этого хмыря... [Машет одному из рейдеров. Тот торопливо уходит, но скоро возвращается, отдуваясь под тяжестью гранатомета] Вот... Забирай. Только не используй в пределах Радуги... И еще... Если захочешь полетать - Лекарь сделает тебе скидку... [Взгляд его становится отрешенным, речь все менее связанной. Похоже, разговор закончен]}
-{211}{999}{Подарок, что надо. Чисто Рождество...}
+{220}{}{[with an unusual speed, Hog rushes to you - and moment later his huge fist smashes into your ribs. It's a miracle your insides didn't fly out of your throat] And you can take a punch, shithead?! Get your ass out of here!}
+{221}{998}{Oh you ashole! I'll pull your innards out for this! Die, bitch! }
+{222}{999}{It hurts... Okay, I'm leaving. But we haven't finished...}
 
 
-{220}{}{[С неожиданной быстротой Кабан срывается с места, и мгновение спустя его кулачище врезается Вам под ребра. Только чудом Ваши внутренности не вылетели наружу] А ты, типа, можешь удар держать, гавноед?! Волоки свою жопу отсюда нахер, пока я ее не пустил по кругу!}
-{221}{998}{Ах ты падла! За это я тебе весь ливер выпущу! Сдохни, сука! }
-{222}{999}{Черт, больно-то как... Ладно, я уйду... Но мы еще не закончили...}
+{230}{}{[the Hog calmly nods. But in his cleared eyes you see death] I'm going to squeeze every last drop of blood out of you - and put it in my morning dose...}
+{231}{998}{Let's get down to business, you piggy head! }
+{232}{998}{That didn't sound very friendly...}
 
 
-{230}{}{[Кабан неожиданно спокойно кивает. Но в его прояснившихся глазах вы видите смерть] Я выжму из тебя всю кровь и добавлю каплю-другую в свою вечернюю дозу...}
-{231}{998}{Меньше разговоров, больше дел, свинорылый! }
-{232}{998}{Это прозвучало не очень-то дружелюбно...}
+{240}{}{Yes... The best place in Radius... Girls, booze... And the Drop. [he takes out an ampoule and wistfully gazes at it] This is what started it all... And this is what will be the end... Ask, if you need something... But not... Me...[he closes eyes, delving deeply into his intoxicated dreams]}
+{241}{010}{I didn't even think about bothering such respectable man with stupid questions... Hey! Do you hear me?}
+{242}{999}{[leave quietly]}
 
 
-{240}{}{Да... Это лучше место Радиуса... Телки, выпивка... И Капля. [Достает ампулу и любуется тусклым блеском стекла] С нее все началось и ей же все закончится... Если тебе что-то нужно - спроси... Только не меня... [Закрывает глаза, погружаясь в глубины своего разума]}
-{241}{010}{Даже не думал докучать пустыми расспросами уважаемому человеку... Эй! Ты меня слышишь?}
-{242}{999}{[Тихо уйти]}
+{250}{}{[he slowly turns his head. Tattoed spider on his neck moves his paws. Looks creepy.] Yes... I heard. For now, they are just making noise... But we were like this once too. All it takes is to get the taste of blood - and you will never be able to stop... [he smiles to his thoughts] Why did you mention them?}
+{251}{026}{I see an opportunity to put their skills for a good use. To the Rainbow's benefit.}
+{252}{999}{Just... Saying. Well, I won't be bothering you anymore.}
 
 
-{250}{}{[Медленно поводит головой. Чернильный паук на шее будто начинает перебирать лапками по паутине. Смотрится жутковато] Да... Есть такие... Пока от них больше шуму... Но ведь и мы когда-то с этого начинали... Стоить попробовать кровь на вкус - уже не сможешь остановиться... [Мрачно улыбается каким-то воспоминаниям] С чего ты про них вспомнил?}
-{251}{026}{Есть реальная возможность применить их навыки с пользой для Радуги.}
-{252}{999}{Да так, к слову пришлось. Ну, не буду тебя отвлекать.}
+{260}{}{How is that, may I ask? All I can think of is to boil them into a stew in a big pot, and feed my guys with it... Haha... A good idea, actually...}
+{261}{027}{Where's the rationality in that? You are low on people. And it's obvious that G and his fellas are not great at fights - yet - but you can use them as scouts! Put them around the Rainbow, so they could monitor the situation everywhere. There are threats in Radius except the Jackals, you know... Did I mention that you can pay them less than grown-ups?}
+{262}{999}{Uhh... I didn't mean this... Ahem... I better go think about it. Return with something better...}
 
 
-{260}{}{[В его взгляде появляется слабый интерес] И как же это? Мне на ум приходит только сварить их в общем котле и накормить парней... Хах... Неплохая идея, кстати...}
-{261}{027}{Ну-ну, а где же рациональный подход? У тебя ведь не хватает людей. Пусть Джи и его ребята в бою пока не особо эффективны, но на роль скаутов они более чем годятся! Расставь их по периметру Радуги, пусть отслеживают всех прибывших. Кроме Псов в Радиусе и так хватает угроз... Ну и платить им надо меньше, чем взрослым, про это тоже не забывай.}
-{262}{999}{Эээ... Да я как-то не об этом...Хм... Пойду-ка я, пока ничего лучше не придумаю...}
+{270}{}{[he nods, twirling the ampoule with his intact fingers] Yes... This will do. Tell them that I agree... We lose nothing. But if they screw up - the stew is still an option...}
+{271}{999}{I hope it never comes to that. See you around, Hog.}
 
 
-{270}{}{[Кивает, ловко перебирая ампулу Капли оставшимися пальцами искалеченной руки] Да... Это годится... Передай им, что я согласен... Мы ничего не потеряем... Но если они облажаются - вариант с котлом никто не отменял...}
-{271}{999}{Ух... Надеюсь, до этого не дойдет. Счастливо, Кабан.}
+{280}{}{What excatly didn't you understand? A client pays and fucks whores, and you maintain order. The rest is my business. [he pops another ampoule] So hand over the batteries and leave, don't ruin this for me...}
+{281}{999}{Sure. Here's for this month. See you around.}
+{282}{029}{What? Do you always collect twice, or it's just me?}
+{283}{030}{You know, I have a difficult situation - it turned out to be not so easy...}
 
 
-{280}{}{И что тебе непонятно? Клиент платит, трахает девок, ты следишь за порядком внутри. Остальное - моя забота. [Прикладывается к ампуле] Так что давай батарейки и вали, не ломай кайф...}
-{281}{999}{Легко. Вот - за этот месяц. Ну, счастливо оставаться.}
-{282}{029}{Что? А ты со всех дань по два раза собираешь?}
-{283}{030}{У меня пока с этим напряженная ситуация, не все так просто оказалось...}
+{290}{}{[his voice starts to growl] What are you fucking saying?}
+{291}{031}{I paid you recently! You were just popping another dose...}
+{292}{999}{No, nothing. Here's the cut. Sorry.}
+{293}{030}{You know, I have troubles getting the necessary amount.}
 
 
-{290}{}{[В его голосе появляются рычащие нотки, но вы замечаете неуверенность в его взгляде] Ты мне тут что втираешь?}
-{291}{031}{Так ведь недавно к тебе с долей заходил! Ты как раз еще очередную ампулу распечатывал...}
-{292}{999}{Нет, ничего. Вот деньги. Извини за беспокойство.}
-{293}{030}{Да... Понимаешь, на самом деле у меня пока не получается собрать нужную сумму.}
+{300}{}{That's your problem. Do whatever you want. Can even use your own ass to make earnings, I don't fucking care.}
+{301}{999}{Damn... I have to think of something...}
 
 
-{300}{}{[Отвечает вам равнодушным взглядом] Это твои проблемы. Крутись, как хочешь. Хоть своей жопой батарейки зарабатывай, мне похрен.}
-{301}{999}{Черт... Придется что-то придумать...}
-
-
-{310}{}{[Морщит покатый лоб, пытаясь что-то вспомнить. Его мышцы начинают бесконтрольно дергаться, отчего вытатуированные скелеты, химеры и собачьи головы приходят в движение, словно исполняя какой-то дикий танец. Но вскоре взгляд его проясняется] Дьявол, точно, было же дело... Ладно, не гони волну, бывает со мной иногда. Все, иди, мне передохнуть надо.}
-{311}{999}{Вот так бы сразу...}
+{310}{}{[He wrinkles his forehead, trying to remember something. His muscles start to twitch uncontrollably, which makes tattoed skeletons, chimeras and dog heads move in a wild dance. Then his sight clears] Fuck, you are right!... Okay, don't mind me, everything can happen. That's it, go, I need to rest.}
+{311}{999}{Nice.}

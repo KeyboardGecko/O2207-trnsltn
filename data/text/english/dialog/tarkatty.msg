@@ -22,15 +22,16 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
+#Katty? Cathy? Kathy? Catie? Kathie? Cathie? Cattie? I AM STRUGGLING, SEND HELP
 # до знакомства
 #
-{1}{}{Вы видите: Кэтти.}
-{2}{}{Кэтти - Ваша лучшая и самая близкая подруга.}
+{1}{}{You see Catty.}
+{2}{}{Catty - your best and closest friend.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Кэтти.}
-{4}{}{Кэтти - Ваша лучшая и самая близкая подруга.}
+{3}{}{You see Catty.}
+{4}{}{Catty - your best and closest friend.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
@@ -47,36 +48,36 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{, привет! [Кэтти выглядит расстроенной]}
-{101}{}{, моя мама сильно заболела. А этот старый пердун Пэт не хочет дать ей лекарство! Мамочке очень-очень плохо, мне стра-а-ашно! [начинает плакать]}
-{102}{}{Привет, Кэтти! Я просто так зашел, навестить. Ну, эээ, до встречи!}
-{103}{}{Да? Ну-у, тебе нужно лучше его просить, наверное... Пока!}
-{104}{}{А почему он так жмет лекарства? Он же всегда и всем их дает! Разве не для этого Боги послали его сюда??}
-{105}{}{Я поговорю с ним и достану лекарства для твоей мамы, не волнуйся!}
-{106}{}{Кэтти, а ты папин ключ не видела? Такой маленький, с деревянной ручкой?}
-{107}{}{Ты просила меня лекарства для твоей мамы достать.}
-{108}{}{Приве-ет! [Кэтти, как обычно, улыбается и накручивает хвостик на палец]}
-{109}{}{Привет! У тебя жутко расстроенный вид, Кэтти.}
-{110}{}{Я не зна-а-аю-у-у!!! [всхлипывает] Он... говорит... что уже давал... маме лекарства-а-а.}
-{111}{}{Ну не знаю... Мне как-то страшновато идти его просить. Желаю твоей маме выздороветь, пока!}
-{112}{}{Ах говнюк! Я поговорю с ним и достану лекарства для твоей мамы, не волнуйся!}
-{113}{}{Не переживай! Вот, возьми конфету. А лекарства для твоей мамы я достану, обязательно!}
-{1201}{}{А..? Ключ? Мой папка, Брук, вроде им какие-то гайки крутил в умывальнике. Спроси у него. У папки!}
-{1202}{}{А..? Ключ?.. Вроде мой папа, Брук, им какие-то гайки крутил. [Кэтти замолкает. Кажется, она чем-то сильно обеспокоена]}
-{121}{}{Чувствую, пропажа уже близко. Спасибо, Кэтти!}
-{122}{}{Ясно, значит твой папа последним видел пропажу. А у тебя что не так? Никогда тебя такой не видел.}
-{130}{}{Спасибо, }
-{131}{}{! Ты настоящий друг!}
-{132}{}{Ну, кто же кроме меня тебе поможет! Не переживай, я скоро!}
-{133}{}{Ты ведь знаешь, я на все способен! Я скоро!}
-{134}{}{Да-да-да, не парься, я скоро!}
-{140}{}{Да, мамочка сильно болеет. У тебя получилось?}
-{141}{}{Почти. Я зашел сказать, что я почти его раздобыл, осталось чуть-чуть.}
-{142}{}{Да, да, да! Вот лекарство! [протянуть Кэтти инъектор]}
-{150}{}{Ух-ты! Здорово, пойду отнесу их маме! Спаси-спасибо-спасибо! [чмокает Вас в щеку]}
-{151}{}{...да не за что...}
-{152}{}{Фу! Телячьи нежности.}
-{153}{}{...делов-то...}
+{100}{}{, hi! [Catty looks upset]}
+{101}{}{, my mom got very sick. And this old geezer Pat doesn't want to give her medicine! Mom feels very bad, I'm so scared! [she sobs]}
+{102}{}{Hi, Catty! I just came to visit. Well, uh, see you around!}
+{103}{}{Yeah? You, uh, should ask him more, I guess... Bye!}
+{104}{}{Why is he so greedy? He gives them to anyone all the time! Isn't that why the Gods sent him here??}
+{105}{}{I'll talk to him and get the medicine for your mom, don't worry!}
+{106}{}{Catty, did you see my dad's wrench? A small one, with a wooden handle?}
+{107}{}{You asked me to get medicine for your mom...}
+{108}{}{He-ey! [as usual, Catty is smiling to you, twirling her hair.]}
+{109}{}{Hello! You look sad, Catty.}
+{110}{}{I don't knoooow!!! [she sobs] He... He says... He already gave mom... Mom her medicineeee...}
+{111}{}{You know, it's so scary to talk to him... I wish your mom to get better, bye!}
+{112}{}{Oh, that turd! I'll go to him and get the medicine for your mom, don't worry!}
+{113}{}{Don't worry! Here, take a candy. I'll get medicine for your mom, don't you worry!}
+{1201}{}{Oh... A wrench? I think I saw my dad, Brook, turning some screws in the sink. Ask him! Ask my dad!}
+{1202}{}{Oh... A wrench? I think I saw my dad, Brook, turning some screws in the sink. [Catty gets silent. She looks very nervous.]}
+{121}{}{I feel like I'm close. Thanks, Catty!}
+{122}{}{I see, so your dad is the last one who saw it... What's wrong with you? I have never seen you like that.}
+{130}{}{Thank you, }
+{131}{}{! You really are my best friend!}
+{132}{}{Who else would help you, if not me! Don't worry, I'll be back soon!}
+{133}{}{You know that I can do anything! I'll be back!}
+{134}{}{Yeah-yeah-yeah, be back, wait.}
+{140}{}{Yes, mom is still very sick. Did you make it?}
+{141}{}{Almost. I came by to tell you that I almost got it, just a little bit left to do.}
+{142}{}{Yes! Here it is! [give Catty an injector]}
+{150}{}{Whoa! Great! I'll go get it to mom! Thank you, thank you, thank you! [she kisses you on a cheek]}
+{151}{}{You're welcome...}
+{152}{}{Ew!}
+{153}{}{That was easy.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

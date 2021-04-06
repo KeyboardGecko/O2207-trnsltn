@@ -99,7 +99,7 @@
 {185}{999}{To hell with you then, nervous one. Relax further.}
 
 
-{190}{}{[he strokes his hair and pulls away a new ampule of the Drop from his pocket] For fuck's sake...  [pops it into his mouth] In general, I'm working for the Olympus... For my all damn life. I had an assigment to gather some things for them. I even have a list with me [pats his bag]. Only they would have to wait. I'm a little tired...}
+{190}{}{[he strokes his hair and pulls away a new ampoule of the Drop from his pocket] For fuck's sake...  [pops it into his mouth] In general, I'm working for the Olympus... For my all damn life. I had an assigment to gather some things for them. I even have a list with me [pats his bag]. Only they would have to wait. I'm a little tired...}
 {191}{020}{Why didn't you tell me this earlier?}
 
 
