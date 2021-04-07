@@ -118,7 +118,7 @@
 
 {190}{}{That is just wonderful. What's next on your to-do list? Taking over the world? Another Great War?}
 {191}{010}{Don't be ridiculous. Seth just wants to clean this town from filth. I can relate to that.}
-{192}{023}{You’re going to end up bad anyway.}
+{192}{023}{You're going to end up bad anyway.}
 {193}{009}{As I see, you are not very fond of your brother?}
 {194}{039}{Let's change the subject.}
 

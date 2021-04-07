@@ -11,168 +11,168 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: усатый здоровяк.}
-{2}{}{Он словно сошел с рекламных плакатов здорового образа жизни.}
+{1}{}{You see a moustached tough guy.}
+{2}{}{It's like he walked off a poster propagating healthy lifestyle.}
 #
 # после знакомства
-{3}{}{Вы видите: Аренщик.}
-{4}{}{Азартный распорядитель местной арены.}
+{3}{}{You see Arena Warden.}
+{4}{}{A very lively administrator of local arena.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Бритый череп тускло блестит, как и стальные зубы под роскошными усами. Многократно ломаный нос и шрамы на лице выдают в нем бывалого бойца] На нашей арене новый игрок? Хочешь побиться об заклад или лично выбить дерьмо из соперника?}
-{11}{011}{А что здесь, собственно, происходит?}
-{12}{999}{Может быть в другой раз. Бывай.}
+{10}{}{[his shaved skull is shining under the light, just like metallic teeth under his magnificent moustache. Broken nose and facial scars are hinting that he is an experienced fighter] A new player on our Arena? Want to bet? Or to beat the shit out of someone?}
+{11}{011}{What's going on here?}
+{12}{999}{Maybe some other time. See you.}
 #
-{20}{}{ЕПТВОЙМАТЬ! Убери это чудовище отсюда!}
-{21}{}{Святые патроны, что это за монстр с тобой!?}
-{22}{}{НЕТ-НЕТ-НЕТ! Валите нахрен отсюда со своей зверушкой!}
-{23}{}{Ты совсем двинутый!? Зачем ты приволок ЭТО сюда!?}
-{24}{}{Великий Радиус, ну и монстрище!! Убери ЭТО отсюда сейчас же!!!}
+{20}{}{OH, FUCKING HELL!! Get this monster away from here!}
+{21}{}{Holy shells, what it this thing?!}
+{22}{}{No, NO, NO!! Get the fuck out with this pet of yours!!}
+{23}{}{Are you out of your fucking mind!? Why did you bring this thing here?!}
+{24}{}{Fuck me Radius, what a creature!! Get it away, NOW!!!}
 
-{1001}{}{[Кивает вам] Если ты не по делу, то времени трепаться у меня нет. Надо подготовить арену к очередному замесу - опять все кровью заляпали.}
-{101}{014}{Как насчет небольшой ставки?}
-{102}{015}{Сможешь организовать мне бой?}
-{103}{012}{Я хотел кое-что подобрать с арены.}
-{104}{999}{Ок, не буду тебя отвлекать.}
-{1002}{}{[Вскидывает два пальца к виску на военный манер] Как сам, чемпион? Жажда крови одолела? Ха! Все возвращаются на арену... Это вставляет покруче Капли.}
-{105}{014}{Пока хочу посмотреть на других бойцов... И сделать ставку-другую.}
-{106}{015}{Меньше слов. Кто сегодня готов выйти против меня?}
-{107}{012}{Я хотел кое-что подобрать с арены.}
-{108}{999}{Сегодня сделаю передышку. До следующего раза, Аренщик.}
-{1003}{}{[Швыряет на пол самодельные гантели и крепко жмет вам руку] Приветствую, босс! Не задержишься глянуть на свежее мясо? Хотя все равно - тебе достойных соперников нет... Я до сих пор храню клыки Кабана в память о той бойне, что ты учинил.}
-{109}{019}{А сам-то размяться не хочешь? Хватит гантели задрачивать, арена ждет!}
-{1010}{021}{Что скажешь насчет прибыли с боев?}
-{1011}{020}{Доложи-ка текущую обстановку, боец.}
-{1012}{999}{Да, хороший был бой... Ну бывай, еще зайду.}
-{1004}{}{[Приветствует вас небрежным взмахом руки] У нас порядок...босс. У тебя ничего срочного? А то я, вообще-то, занят.}
-{1013}{021}{Мне тоже недосуг трепаться. Один вопрос - что у нас с прибылью?}
-{1014}{020}{Как обстановка?}
-{1015}{999}{Ок, работай. Еще увидимся.}
-{1005}{}{[С мрачным видом полирует голову замызганной тряпкой] А, это ты... Извини, сегодня мне не до разговоров... Кабан... Этож моя мечта была - бойца увидеть, который его в итоге заломает на арене! А тут прирезали в подворотне, как лаваша на бойне...}
-{1016}{015}{Жизнь - бессердечная сука, а? Но к делу - есть кто-то, готовый выйти со мной на арену?}
-{1017}{014}{А ставку я могу сделать?}
-{1018}{012}{Да у меня разговор-то короткий - просто нужно кое-что забрать с арены.}
-{1019}{999}{Тогда не буду тебе мешать.}
-{1006}{}{[Аренщик выглядит растерянным, даже не смотря на свои внушительные габариты] Чегож теперь будет-то... Все летит к херам... [Замечает вас] А ты с чем пожаловал?}
-{1020}{014}{Нуу... Здесь, вроде как, принимают ставки? Или я ошибся?}
-{1021}{020}{Я, кажется, невовремя?}
-{1022}{015}{Решил поднять деньжат на арене, пока еще есть такая возможность.}
-{1023}{999}{Зашел проверить обстановку. Рад был повидаться, но мне уже пора.}
-
-
-{110}{}{[Раскидывает накаченные руки в стороны с картинным видом ] Это же Арена, мужик! Что ты видел на Радуге, если не был у нас? Здесь парни с титановыми яйцами превращают друг  друга в месиво под рев толпы! Брачные игры химер отдыхают! Ну а меня можешь звать Аренщиком. Я здесь рулю всеми делами, так что обращайся, если что.    }
-{111}{014}{А ставки здесь можно делать?}
-{112}{015}{Хорошо сказал... Мне аж захотелось принять участие. Возможно?}
-{113}{999}{Понятно. Ну бывай, Аренщик.}
+{1001}{}{[he nods to you] If you are here not to talk business, then I have no time for you. I need to prepare the Arena - everything is covered in blood again.}
+{101}{014}{How about a little bet?}
+{102}{015}{Can you set me up a fight?}
+{103}{012}{I'd like to pick up something from the Arena.}
+{104}{999}{Okay, I won't be distracting you.}
+{1002}{}{[he salutes you] How are you doing, champion? Getting bloodthirsty? Ha! Everyone comes back here eventually... It gets you more that the Drop.}
+{105}{014}{I want to observe the fighters... And make a bet. Maybe two.}
+{106}{015}{Less talking. Who's ready to be put against me?}
+{107}{012}{I'd like to pick up something from the Arena.}
+{108}{999}{I'm taking a break today. Until next time, Warden.}
+{1003}{}{[he drops his makeshift dumbbell and gives you a firm handshake] Greetings, boss! Coming by to look at the fresh meat? Although, there's no one compared to you... I'm still keeping the Hog's fangs as a memorabilia of that slaughter you did.}
+{109}{019}{What about you? Don't you want to warm up a little? Stop playing with dumbbells, Arena awaits!}
+{1010}{021}{What about profits from fights?}
+{1011}{020}{Report the situation, fighter.}
+{1012}{999}{Yes, it was a good fight... I'll see you around.}
+{1004}{}{[he greets you with a dismissive gesture] Everything's good... Boss. Is it urgent? I'm a little busy, actually.}
+{1013}{021}{I don't have a lot of free time too. So, how's the profits?}
+{1014}{020}{How's the situation here?}
+{1015}{999}{Okay, do your job. See you later.}
+{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him on the Arena! Instead, he was murdered in a ditch, like lavash in a shaughterhouse...}
+{1016}{015}{Life is a bitch, huh? Still, is there anyone who wants to fight me?}
+{1017}{014}{Can I make a bet though?}
+{1018}{012}{I have a small thing to ask - Just need to pick up something from the Arena.}
+{1019}{999}{I won't bother you then.}
+{1006}{}{[Warden looks lost, despite his huge size] What happens now?... Everything is going to hell... [he notices you] What do you come here for?}
+{1020}{014}{If I'm not mistaken, this is a place where I can make bet. Is that right?}
+{1021}{020}{Is now a bad time?}
+{1022}{015}{I decided to make a quick buck on the Arena - while I still can.}
+{1023}{999}{Just checking. Was nice to see you, but I need to go.}
 
 
-{1201}{}{А я хочу дать на клыка обеим сучкам Кабана за раз. Хочешь попасть на арену - выходи биться. Такие правила.}
-{121}{013}{Слушай, тут такое дело... Вещичка-то та собственность одного искателя из бара. Сечешь? Он постоянно по Радиусу шатается, все входы-выходы знает. С таким человеком неплохо бы знакомство заиметь. Если мне нельзя на Арену - то, может, ты потерю отыщешь? Это личный жетон, не спутаешь. А я за тебя словечко перед ним замолвлю...  }
-{122}{015}{А это вариант. Есть кто готовый к бою?}
-{123}{999}{Ладно, раз такое дело - я пошел.}
-{1202}{}{Без проблем, чемпион! Можешь даже меня на спрашивать в следующий раз - это ж, считай, твой второй дом ! Ха-ха!}
-{124}{999}{Черт, так ведь оно и есть! Будь здоров, Аренщик.}
-{1203}{}{[Он задумчиво изучает какое-то обгорелое руководство, шевеля губами. Не отрываясь от процесса, он рассеянно отвечает вам] Че там у тебя? Подобрать? Ты насчет мусора, что ли? Так давно пора - вали на арену, не отвлекай меня. И в следующий раз приходи вовремя.}
-{125}{999}{Э... Ну да, спасибо. Иду.}
+{110}{}{[he spreads his arms] This is the Arena! You haven't seen the Rainbow if you didn't visit this place! Here, the boys with the balls of metal turn each other into a bloody pulp to the roaring of the crowd! Even observing the Chimeras in their mating season can't compare to this! As for me, you can call me Warden. I'm leading this place, so - tell me, if you need something.}
+{111}{014}{Can I make bets here?}
+{112}{015}{Sounds good... I might even want to participate. Is that possible?}
+{113}{999}{I see. Okay, see you around, Warden.}
 
 
-{130}{}{[Задумчиво потирает бритую голову] Так-то да... Ну ладно, обожди...[Вы некоторое время со скучающим видом изучаете маршруты мух на потолке] Вот, держи. Но если узнаю, что ты меня наебать попытался...[Одаривает вас стальным оскалом] В общем, я тебе устрою пару незабываемых минут на арене.}
-{131}{999}{Все будет ровно, мужик! Не сомневайся. Еще увидимся.}
-{132}{999}{Я тебя хоть раз обманывал? Нет? Тогда не будем терять времени. Еще раз спасибо за помощь.}
+{1201}{}{And I'd like a blowjob from both Hog's bitches simultaneously. Want to get to the Arena? Come and fight. That's the rule.}
+{121}{013}{Here's how it is... That thing belonged to one Seeker, who's at the Bar now. Get it? He's always going around Radius, knows every nook. You would want to have such man as a friend. And if I can't go to Arena, maybe you could help? It's a badge, you can't mix it up. And I'll have a word with him for you.  }
+{122}{015}{This is definitely an option. Is there anyone ready to stand against me?}
+{123}{999}{If that's how it is - I'd better go.}
+{1202}{}{No problem, champ! You can stop asking, because this is your second home now! Haha!}
+{124}{999}{Man, it really is! Be well, Warden.}
+{1203}{}{[he is staring into some burned book, slowly moving his lips.] What? To pick up something? Is it about taking out the trash? It's about time for you to show up. Go to Arena, don't bother me. And come earlier next time.}
+{125}{999}{Uh... Yeah, thanks. I'm going.}
 
 
-{140}{}{[Его глаза азартно заблестели в предвкушении наживы] Ставки-то? Ставки это очень хорошо... Конечно же ты можешь принять участие в нашем празднике жизни! Как нехер делать! Все просто - вот первый кандидат, вот второй. Смотри на бойцов и выбирай любого. Ставки - 1 к 3. }
-{141}{016}{Начнем по маленькой - готов поставить 50.}
-{142}{016}{Держи сотню и пожелай мне удачи!}
-{143}{016}{Двести - или ничего!}
-{144}{015}{Я , вообще-то, предпочитаю выбивать монету лично. Как насчет таких раскладов?}
-{145}{999}{Нет, не сегодня.}
-
-{220}{}{Старина, ты же понимаешь - у нас только одиночные бои [косится на Вашего брата] Пусть джентльмен постоит в сторонке.}
-{221}{}{Старина, ты же понимаешь - у нас только одиночные бои [косится на роботрона] Боюсь, это твое ведро мне всю арену разнесет! Отключи-ка его пока.}
-{222}{}{Старина, ты же понимаешь - у нас только одиночные бои [косится на Лохматого]. Никаких животных, тем более огненных волков! Прикажи ему пока посидеть где-нибудь.}
-{226}{}{Слушай, ты же понимаешь - у нас только одиночные бои [косится на Людвига, жмущегося к Вам] Я вижу конечно, что вы очень... "близки", но вместе на Арену я вас не пущу!}
-{223}{}{Старина, ты же понимаешь - у нас только одиночные бои [косится на Ваше сопровождение] Я Вашу команду на арену не пущу! Пусть подождут пока.}
-{224}{999}{Да, конечно. Сейчас вернусь.}
-{225}{999}{Ах только по одному? Ну-у, тогда я еще подумаю...}
-
-{1501}{}{[Критически оглядывает вас] Выглядишь ты... Ладно, тебе, как новичку, и противника дадим соответствующего. Прибился тут к нам один парняга с востока - вот с ним и схлестнешься. Только не забудь занести в мой карман взнос - четыре сотни. }
-{151}{018}{Ок, я готов. Начнем?}
-{152}{018}{Мне уже не терпится почувствовать вкус его крови!}
-{153}{999}{Пожалуй, я пока воздержусь. }
-{1502}{}{[Чешет сломанное ухо, что-то прикидывая про себя] Начал ты неплохо. В этот раз против тебя будет бывший охранник босса. У него от Капли шифер посыпался конкретно, прет вперед, как химера бешенная, о защите не думает. Учти это. Взнос - четыреста, как в прошлый раз.}
-{154}{018}{И не таких обламывал. Я готов.}
-{155}{018}{Ха! Кто здесь бешенный - так это я! Надеюсь, вы уже вырыли для него могилу...}
-{156}{999}{Давай-ка в другой раз. У меня пока дела.}
-{1503}{}{[Довольно потирает руки] У меня предчувствие, что сегодня ты дашь джазу. Но будь поаккуратнее - соперник у тебя непростой. Дикарь, говорит и соображает с трудом, но уже порвал на лоскуты семерых. Не прочь человечинкой закусить после боя, кстати. Хотя, если он тебя уроет, тебе уже все равно будет... Ставка - как обычно.}
-{157}{018}{Я сам его печень вырву и схаваю при случае! Выпускай меня!}
-{158}{018}{Надеюсь, предчувствие тебя не обманет. Дай мне время размяться - и можно начинать.}
-{159}{999}{Ух... Нет, не сейчас.}
-{1504}{}{Так, я тут для тебя подготовил особого соперника. Специально вызвал сюда через пол-Радиуса, цени! Профессиональный боец, хоть и уже немолод. Народу переломал... Мне с ним тоже как-то довелось порубиться. Эх, было время... Особо берегись его правой и держи дистанцию. Я тебя не хочу ссаться заставить, просто  чтоб ты понял, с чем придется столкнуться.}
-{1510}{018}{А его ты предупредил? Попробует сократить дистанцию - я глаза ему вырву нахер! Да! Время убивать!}
-{1511}{018}{Я в деле. Поехали.}
-{1512}{999}{Обожди, мне еще надо подготовиться.}
-{1505}{}{[Вздыхает]Тут такое дело - против тебя Кент захотел выйти... Ты не смотри, что видок у него тот еще, Кабан его не зря правой рукой своей сделал. Боец он хитрый и жесткий. Эх... Никакой радости от таких замесов. Кент мой кореш, но и ты, чемпион, мне не чужой. Сколько деньжат я на тебе поднял! Мда... Как бы то ни было, покажи класс, зрители ждут!}
-{1513}{018}{Понял тебя. Подпортим твоему пижону прическу.}
-{1514}{018}{Могу только пообещать, что он умрет быстро...хоть и очень болезненно! Все, я выхожу!}
-{1515}{999}{К такому бою надо подготовиться... }
-{1506}{}{[Долго молчит] Тобой заинтересовался сам Кабан, чемпион. Я не знаю, что у него там в голове творится, но... Это действительно серьезно, парень. Ты с такими еще не сталкивался. В курсе, что он нихрена не спит и может голыми руками раздавить череп урсу? Не ввязывайся в ближний бой - если он тебя схватит, то пополам переломает. Ну как, готов?}
-{1516}{018}{Давно пора вырвать вашему Кабану клыки! Объявляй мой выход!}
-{1517}{018}{Готов. Не переживай, сделаем все красиво.}
-{1518}{999}{Мне еще надо кое-что уладить. Поговорим позже.}
-{1507}{}{[Вздыхает с сожалеющим видом] Нет, чемпион. Равных бойцов тебе нет, а значит и люди против тебя ставить не особо рвутся... Много на таком бое не срубишь. Уж извини.}
-{1519}{999}{Эх, вот она - цена славы... Ладно, на мой век боев еще хватит.}
+{130}{}{Well, yeah, but... Wait a second...[he leaves. You observe moving flies on the ceiling for some time, then he returns] Here. But if you try to fuck me up...[he shows you his metal teeth] I'll give you a lot of unforgettable moments on the Arena.}
+{131}{999}{Everything's going to be alright, man! Don't you doubt it. Okay, see you around.}
+{132}{999}{Did I ever lie to you? No! Let's not waste time then. Thanks again, for your help.}
 
 
-{1601}{}{[Небрежно высыпает на стол ваш выигрыш] У нас все по-честному - сгребай навар, счастливчик. Как и было уговорено, ровно }
-{161}{}{ монет.}
-{162}{999}{Ха! Удача любит сильных! Будь здоров.}
-{1602}{}{[С сожалеющим видом разводит руками] Не повезло тебе, парень. Бывает.}
-{163}{017}{Да у вас все бои договорные! Верни батарейки, сука, пока я на твоей лысине ничего не вырезал!}
-{164}{999}{Черт, обдираловка хренова... Ладно, я еще  вернусь.}
-{165}{999}{Чтож, бывает. Значит, в другой раз.}
+{140}{}{[his eyes are flashing] Bets? Bets are good... Of course, come closer and participate in our celebration! No sweat! It's easy - here's the first fighter, here's the second. Look at them, pick any. Bets are 1 to 3.}
+{141}{016}{Let's start with a small one - I'm betting fifty.}
+{142}{016}{Here's a hundred, wish me luck!}
+{143}{016}{Two hundred or nothing!}
+{144}{015}{Actually, I prefer to earn my coin with my fists. Can you do something about that?}
+{145}{999}{No. Not today.}
+
+{220}{}{You do realize that we have one-on-one fights only? [looks at your brother] Let the gentleman stand aside.}
+{221}{}{You do realize that we have one-on-one fights only? [looks at robotron] This bucket of yours is going to destroy my whole Arena! Turn it off for now.}
+{222}{}{You do realize that we have one-on-one fights only? [looks at Shaggy]. No animals. Especially Fire Wolves! Tell him to sit somewhere nearby.}
+{226}{}{You do realize that we have one-on-one fights only? [looks at Ludwig, who is trying to hide behind you] I see that you are, uh, "close", but you are not going to Arena together.}
+{223}{}{You do realize that we have one-on-one fights only? [looks at your company] I won't let your team go with you. Let them stay around.}
+{224}{999}{Of course. Be right back.}
+{225}{999}{One-on-one only? Then I'll think about it some more.}
+
+{1501}{}{[he critically looks at you] Hmm... Okay, as a newbie, you're getting a newbie opponent. Recently, we had one guy from east coming here - that's who you're gonna be fighting. Don't forget to pay the entrance fee - four hundred.}
+{151}{018}{I'm ready. Shall we start?}
+{152}{018}{I'm itching to taste his blood!}
+{153}{999}{Although, I think I'll pass.}
+{1502}{}{Not bad for a start. This time you will fight ex-bodyguard of our boss. His screws are little loose, thanks to the Drop. He bulldozes forward like a rabid Chimera, not caring about protection. Keep that in mind. The fee is four hundred, just like the last time.}
+{154}{018}{I've seen worse. I'm ready.}
+{155}{018}{Ha! The only one who has his screws loose is me! I hope you dug up a grave for him...}
+{156}{999}{Let's do it some other time. I've got things to do.}
+{1503}{}{I have a feeling that it's going to be a spectacular show today. Be warned though - your opponent is not that simple. He is a savage, bad at talking, even worse at thinking, but already put down seven guys. He doesn't mind eating some human flesh after the fight - or so I've heard. Still, if he kills you, I think you wouldn't care... The fee is usual.}
+{157}{018}{It is I who will rip his liver and eat it! Let me at him!}
+{158}{018}{I hope you're right about your feeling. Let me warm up a little, and we can start.}
+{159}{999}{Uh... No. Not now.}
+{1504}{}{I have a special one for you. Check this out - I called him from the other side or the Radius! He is a professional fighter, albeit not young. He put down so many people... I had a chance to fight him too. Those were the days... Watch for his right hook and keep distance. I'm not trying to make you piss yourself, just giving you a picture of what you're dealing with.}
+{1510}{018}{Did you warn him too? If he approaches, I'll gauge his eyes out! Yeah! Time to kill!}
+{1511}{018}{I'm in. Let's go.}
+{1512}{999}{Wait, I need to prepare.}
+{1505}{}{[he sighs] That's how it is - Mate expressed his desire to be put against you. Don't look at his appearance, the Hog made him his right hand not just for kicks. He is smart and cunning... Honestly, I'm getting no joy from this kind of fight. Mate is my friend, but you, champ, are no stranger to me too. You made me so much money! Yeah... Anyway, give him your best, the crowd is waiting!}
+{1513}{018}{I hear you. Let's mess his hair a little.}
+{1514}{018}{I can only promise that he dies quickly... And painfully! That's it, I'm going!}
+{1515}{999}{I need to prepare to this kind of fight... }
+{1506}{}{[he makes a long pause] The Hog himself became interested in you, champion. I don't know what's going on in his head, but... This is really serious. You've never seen anything like it. Are you aware that he doesn't sleep? Or that he can squash Ursa's skull with his one hand? Try to avoid getting close - if he grabs you, you're going to be broken in half. So, ready?}
+{1516}{018}{It's time to rip this Hog's fangs! Tell them I'm going!}
+{1517}{018}{I'm ready. Don't worry, we'll make this beautiful.}
+{1518}{999}{I need to deal with something. Talk later.}
+{1507}{}{[he sighs with regret] No, champ. There's no one like you, so people are not betting against you... And I can't make a profit it this situation. Sorry.}
+{1519}{999}{That's how the price of glory looks like... Okay, I had my share of fights.}
 
 
-{170}{}{[Подходит, разминая шею] Приятно вспомнить былые деньки на арене... Знаешь, что такое "мельница с обратным входом"? Или "шустрый кротокрыс"? Я тебе сейчас покажу...}
-{171}{998}{Ну давай, попробуй!}
+{1601}{}{[he gives you winnings] We are dealing honestly here - take your share, lucky guy. As agreed - }
+{161}{}{ batteries.}
+{162}{999}{Ha! The fortune favors strong! Be well.}
+{1602}{}{[he shrugs in regret] Tough luck, kid. It happens sometimes.}
+{163}{017}{The fight was a set-up! Get me back my batteries, bitch, or I'll carve your name on your bald head!}
+{164}{999}{A fucking rip-off... I'll be back soon.}
+{165}{999}{Yes, it happens. Maybe next time.}
 
 
-{1801}{}{[Довольно кивает] Сойдет. Потенциал у тебя явно есть. Да и зрителям ты понравился. Вот, держи выигрыш.}
-{181}{999}{Благодарю. До скорого!}
-{1802}{}{[Хлопает вас по плечу] Хорошая работа, парень! Как ты ему челюсть сломал - я сразу понял, что не зря на тебя поставил! Продолжай в том же духе! И не забудь выигрыш.}
-{182}{999}{Да, неплохо размялся. Теперь можно и передохнуть.}
-{1803}{}{[Вскакивает при вашем появлении и крепко жмет руку] Ты прямо как я в лучшие годы! Размотал этого урода жестко, арену теперь весь день отмывать... Надо бы подумать, кого тебе в другой раз подогнать... А пока держи, заработал честно.}
-{183}{999}{Смотри, не пересчитываю! Ну, бывай.}
-{1804}{}{[Отрывается от полировки зубов и стискивает вас могучими лапами] Ну, чемпион! Поднял я на тебе деньжат - всех телок в борделе перетрахаю и под ноль запасы бухла сведу у Лекаря! Вот это бой! Ты где такой захват выучил? Не забудь показать при случае. Вот, твоя доля и немного сверху от меня. }
-{184}{999}{Плата за кровь... Отлично, до следующего раза.}
-{1805}{}{[Задумчиво смотрит, как тело Кента волокут по Арене, оставляя кровавый след] Эх, Кент, Кент... Ладно, это его выбор. Ты как всегда отработал чисто, чемпион. Держи.}
-{185}{999}{Не переживай. Лучше он, чем мы.}
-{1806}{}{[Неверяще пялится на Арену] Чтоб меня мертвяк оттрахал... Стоило жить, чтоб такой бой увидеть! Четвертая мировая, как минимум! Был Кабан - осталась только туша в луже крови... Так, это твое. [Начинает отсчитывать батарейки, но потом морщится и сдвигает всю кучу в вашу сторону] А, да забирай все, чего уж там! Охренеть... Чеж дальше-то будет?}
-{186}{999}{Скоро узнаешь. Жди здесь, у меня скоро будет к тебе разговор.}
+{170}{}{[he stretches his neck] Nice, a chance to remember the glory days on the Arena... Do you know what is "windmill with back entrance"? Or "winky molerat"? I'll show you...}
+{171}{998}{Come at me!}
 
 
-{190}{}{[Со смехом поднимает руки вверх ] Только не с тобой, босс! Не хочу доживать остаток дней убогим инвалидом.}
-{191}{020}{Ладно, расслабься. Лучше доложи - как тут обстановка?}
-{192}{021}{Тогда не просветишь меня насчет наших шкурных дел?}
-{193}{999}{Ну-ну, береги себя, здоровяк. Еще увидимся.}
+{1801}{}{[he nods, looking satisfied] Will do. You have some potential, and the crowd likes you. Here's your winnings.}
+{181}{999}{Thank you very much. Later!}
+{1802}{}{[he slaps your shoulder] Good job, kid! As you broke his jaw, I understood right away that it was a good idea to bet on you! Keep it up! And don't forget your winnings.}
+{182}{999}{Yes, it was a good warm-up. Now I can get some rest.}
+{1803}{}{You look just like me in my best years! Went so hard on that asshole, now I have to clean the Arena for a whole day after you... And I need to think really hard about who to put you against next time. For now - here, you earned it.}
+{183}{999}{Notice that I won't count it! Okay, see you.}
+{1804}{}{My champion! If you only knew how much money I made on you... I'm going to fuck every girl in a brothel - and then drink every bottle of Apothecary's booze! This was hell of a fight! Where did you learn that tricks? Teach me, when you'll get the chance. Here's your cut... And a little extra, from me.}
+{184}{999}{Blood money... Nice. Until next time.}
+{1805}{}{[he silently watches Mate's body being dragged off the Arena, leaving a blood trail] Oh, Mate, my Mate... Anyway, that was his choice. And you? You did a clean job, as always. Here, champ.}
+{185}{999}{Don't feel bad. Better him than we.}
+{1806}{}{[he gazes at the Arena, unable to say any word] Fuck me sideways by a ghoul... It's worth living to see a fight like this! It's like next Great War! There was a Hog - and now it's just a puddle of blood with pile of meat... Here, this is yours. [he starts counting the batteries, but suddenly gives you everything he holds] You know, take it all! Holy shit... What's going to happen now?}
+{186}{999}{You'll see. Wait here, I'm going to have a talk with you very soon.}
 
 
-{2001}{}{[Показывает крепко сжатый кулак со сбитыми костяшками] Вот так всех держу, босс! Бойцы сами меня находят, а народ так и прет на арену, с тех пор, как ты Кабана здесь порвал. Знаменитое место стало - хоть памятную табличку вешай! }
-{201}{021}{Хорошая идея, кстати... Так значит с финансами у нас порядок?}
-{202}{999}{Это радует. Не давай им спуску, старина. А мне пора.}
-{2002}{}{[Пожимает мощными плечами] Да нормально все идет, как раньше. Бойцов такого класса, как Кабан, мы вряд ли найдем, но пока еще арена приносит прибыль. }
-{203}{021}{С этого места поподробнее - что там насчет денег?}
-{204}{999}{Неплохо... Ну, мне пора.}
-{2003}{}{[Удрученно мотает головой, как оглушенный урса] Все хреново, парень. С этой гребаной анархией от Радуги скоро останется одно воспоминание. Нам нужен лидер, способный любого удержать за яйца. Эх... Только арена не дает мне уйти в запой и забить болт на проблемы.}
-{205}{999}{Да, есть над чем подумать... Не буду тебя отвлекать.}
+{190}{}{[he puts his hands up, laughing] No, boss! I don't want to become a cripple for the rest of my days.}
+{191}{020}{Okay then, relax. Better tell me - how's the situation around here?}
+{192}{021}{Will you enlighten me about local business then?}
+{193}{999}{Take care of yourself, big guy. See you around.}
 
 
-{2101}{}{[С довольным видом взвешивает в руке увесистый черный мешочек] Все здесь, босс! Столько настригли, аж бицуха напрягается держать! }
-{211}{999}{Отлично, давай-ка сюда. Хорошая работа, здоровяк!}
-{2102}{}{[Потирает мозолистые руки, с хитрым видом прикусив кончик уса] Стабильно капает, босс. К сроку наберется изрядная сумма. Как обычно, 5-го и 20-го числа.}
-{212}{999}{Рад слышать. Тогда до скорого.}
-{2103}{}{[Кидает вам мешочек с батарейками] Все, что есть. Больше уж точно не будет.}
-{213}{999}{Ничего, деньги есть деньги. Бывай.}
-{2104}{}{[Зевает со скучающим видом, демонстрирую стальную пасть] Да есть немного, вроде... Приходи 5-го или 20-го - что-то да наскребем.}
-{214}{999}{Ну ладно... Мне пора, увидимся.}
+{2001}{}{[he shows his clenched fist] Like this! I'm holding the situation tightly under my control, boss! The fighters are coming to me themselves, and since you put the Hog down, Arena is always full with the crowd. The place is famous now! Maybe I should put a memorial sign.}
+{201}{021}{A good idea, by the way... So, this means that our finances are good?}
+{202}{999}{Glad to hear. Keep them on their toes, bud. And I need to go.}
+{2002}{}{[he shrugs his strong shoulders] More or less. Like before, I'd say. We won't find anyone like Hog, that's for sure, but the Arena is still providing steady income. }
+{203}{021}{Elaborate on that, be so kind - what about the profits?}
+{204}{999}{Good. Well, I need to go.}
+{2003}{}{[he shakes his head, like stunned Ursa] Everything is shit, kid. Soon the Rainbow will become a memory of itself, especially with this fucking anarchy around. We're in dire need of a leader, someone with metal balls... Man... Only the Arena keeps me from getting drunk all the time.}
+{205}{999}{This is something to think about... I won't be distracting you anymore.}
+
+
+{2101}{}{[with a happy look, he weighs a little black bag in his hand] All here, boss! It's so much, my biceps is getting tired to hold it! }
+{211}{999}{Great! Give it to me. Good job, tough guy!}
+{2102}{}{[he bites a tip of his moustache] Steadily, boss. It's going to be a lot of money, just wait for the payday. As usual, come 5-th and 20-th.}
+{212}{999}{Glad to hear. See you soon.}
+{2103}{}{[he throws you a bag of batteries] All there is. It's not going to be more than that.}
+{213}{999}{Money is money. See you around.}
+{2104}{}{[he yawns, showing his metal teeth] There's something, yes... Come by at 5-th or 20-th - we'll see what we have.}
+{214}{999}{Right. And I need to go now. See you.}

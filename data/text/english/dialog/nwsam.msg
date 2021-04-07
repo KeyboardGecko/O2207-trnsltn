@@ -124,7 +124,7 @@
 {241}{025}{Didn't you think about making the first step yourself?}
 {242}{010}{Yeah. I better ask something else.}
 
-{250}{}{[Sam raises voice] You wish! I’m not going first to that windbag! The truth is on my side, and I won't let her to do things she does in front of Mark and Daniel!}
+{250}{}{[Sam raises voice] You wish! I'm not going first to that windbag! The truth is on my side, and I won't let her to do things she does in front of Mark and Daniel!}
 {251}{010}{Maybe you're right. Let's change the subject.}
 {252}{026}{Sam, maybe Lucy is not faithful to Mark, and she doesn't have a lot of brains, but she is a devoted mother. She would do anything for Daniel, and you know that. Nobody is perfect. For a peace if your family, somebody should make compromises. Try to talk to her. The quarrel makes things only worse.}
 {253}{047}{Sam, you will go and try to make peace with her. Or I'll tell everyone that you are stealing batteries from the treasury.}

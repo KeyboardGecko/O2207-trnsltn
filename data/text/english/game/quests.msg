@@ -62,7 +62,7 @@
 #
 # RAINBOW RAIDERS Quests
 #
-{600}{}{Kent asks to bring 8 ant abdomen from the farm and give them to the healer.}
+{600}{}{Mate asks to bring 8 ant bellies from the farm and give them to the healer.}
 {601}{}{The healer asks you to find out who is that strange armored man sitting in the bar.}
 {602}{}{In one of the arena fights, Douglas lost his badge. Find the badge and return it to him.}
 {603}{}{Big G, the leader of a gang of teenagers, demands 5 bottles of cognac for the right to become a member of the gang.}

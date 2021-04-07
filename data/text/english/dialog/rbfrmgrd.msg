@@ -42,14 +42,14 @@
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #
 {10}{}{Hey, what the hell are you snitching here, you sniff? This area is fucking restricted, so get the fuck away before you drowned in bullets!}
-{11}{}{Calm down! I'm here on a mission from Kent [make a conspiratory face] "to collect ant bellies".}
+{11}{}{Calm down! I'm here on a mission from Mate [make a conspiratory face] "to collect ant bellies".}
 {12}{}{What's the problem? I didn't see the sign saying "area is fucking restricted"!}
 {13}{}{Okay, got it, already leaving.}
 
 {14}{}{Oh, a smart guy, eh? Lazy to waste bullets on you, so I'm saying it for the last time - GET THE FUCK OUT OF HERE!}
 {15}{}{Okay you stupid piece of fuckmeat, now you'll get it!}
 
-{16}{}{Hahah, Kent has found himself a fresh meat! [when he laughs, he sounds like a lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
+{16}{}{Hahah, Mate has found himself a fresh meat! [when he laughs, he sounds like a lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
 {17}{}{Now that's a different story...}
 {18}{}{[make a shovel face and go forward]}
 {19}{}{}

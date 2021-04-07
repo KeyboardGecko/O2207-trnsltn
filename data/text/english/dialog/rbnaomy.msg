@@ -125,7 +125,7 @@
 
 
 {260}{999}{[she looks surprised] Who could even think about compaining in this paradise? We have the best kind of stability here. You have sealed us off from the outside world, so nothing could prevent us from working for the greater good. If you didn't visit us, we wouldn't even know about the changes in local management! Ahem... By the way, the changes are happening very often lately. We are worried, you know... }
-{261}{999}{Don't worry about it. By the way, as a thank you for your work, I thought I’d let you relax a little. Food, drink and girls for everyone. Only don't do drugs, geniuses. Enjoy your time!}
+{261}{999}{Don't worry about it. By the way, as a thank you for your work, I thought I'd let you relax a little. Food, drink and girls for everyone. Only don't do drugs, geniuses. Enjoy your time!}
 {262}{999}{I see you are a little sarcastic, aren't you? I'm not a fucking Hog! Let's see how you'd like to work for a week on water and rat meat! Say thank you to that big loud mouth of yours, bitch!}
 {263}{}{One way or another, I intend to stay here a little longer. Get used to it.}
 
