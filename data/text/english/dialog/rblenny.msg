@@ -59,9 +59,9 @@
 
 {140}{}{[he squints] What's there to discuss? It's all obvious.}
 {141}{015}{I just wanted to say that I can cover for you here. Maybe you need to go away for something.}
-{142}{016}{Listen, your friend is dead. You know it, you just don't want to admit it. And if you go on like this, you will definitely go off the rails. I see that you wanted to do what's best... But, do you realize that you have killed your only friend?}
+{142}{016}{Listen, your friend is dead. You know it, you just don't want to admit it. And if you go on like this... You wanted to do what's best, but - do you realize that you killed your only friend?}
 {143}{016}{Hey, it's wrong to let dead people lay around! Until you bury the body, he won't be at peace! So, do it - and you can be sure he will wait for you on the other side.}
-{144}{018}{Lenny, your friend just screwed you over! You worked so hard for him, and he isn't even thinking about being reborn! But you know what? I can be your new best friend! I can't stand seeing you suffer.}
+{144}{018}{Lenny, your friend just screwed you over! You worked so hard, and he isn't even thinking about being reborn! You know, I can be your new best friend!}
 {145}{019}{I see how it is. I should put you out of your misery. Get ready, ghoul.}
 {146}{999}{You are right, we have nothing to talk about for now.}
 
@@ -75,7 +75,7 @@
 {170}{}{[Looks like Lenny is going to throw himself at you in any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for compassion. No one gives a shit about anyone around here... I don't have much, but still - take my bullets, you can trade them for batteries.}
 {171}{999}{Thanks, Lenny. I'll make good use of them.}
 
-{180}{}{[he stares at corpse in front of him, sometimes looking at you. For a moment, his sight becomes clear, but then it is immediately clouded by the veil of madness.] Damn, you are so right! I am busting my ass here for him, and he... Man, I'm so lucky to have you opening my eyes! Lemme hug you... Oh! Wait! Take this - as a sign of our friendship! [hands you his shotgun] And I need to go drop this pile of shit into a cesspool. [he grabs corpse by its feet and drags it somewhere]}
+{180}{}{[he stares at the corpse, sometimes looking at you. For a moment, his sight becomes clear - but then it is immediately clouded by madness.] Damn, you are so right! I am busting my ass here for him, and he... Man, I'm so lucky to have you opening my eyes! Lemme hug you... Oh! Wait! Take this - as a sign of our friendship! [hands you his shotgun] And I need to go drop this pile of shit into a cesspool. [he grabs corpse by its feet and drags it somewhere]}
 {181}{999}{Thanks, uh... Friend. Won't bother you anymore.}
 
 {190}{}{[He may be crazy, but not slow. Shotgun, hanging out on his back, now magically appears in his hands, pointing at you] What did you just say, you son of a bitch?! Carl, come on, get up - there's another asshole to put down!}

@@ -120,7 +120,7 @@
 {192}{999}{I think that's enough for today. I'd better go.}
 
 
-{200}{}{It was... Before. Then some started whining. Whining about how bad it is that we "exploit locals". Can you believe that? Bad! And all this despite us keeping things in order here, chopping balls of every scumbag who dares to bust things up! If it was Loudmouth taking over, everything here would go to shit already! He would definitely stuffed his ass full of Drop and murdered every smart-ass... Unlike Hog. Hog never wanted for everyone to dance to his tune. Just pay for protection in time, and have no worries at all. Except lately he is too dependent on the Drop too...}
+{200}{}{It was good... Before. Then some started whining. Whining about how bad it is that we "exploit locals". Can you believe that? Bad! And all this despite us keeping things in order here, chopping balls of every scumbag who dares to bust things up! If it was Loudmouth who took over, everything here would go to shit already! He would definitely stuffed his ass full of Drop and murdered every smart-ass... Unlike Hog. Hog never wanted for everyone to dance to his tune. Just pay for protection in time, and have no worries at all. Except lately he is too dependent on the Drop too...}
 {201}{021}{I don't quite get what you're trying to say.}
 
 

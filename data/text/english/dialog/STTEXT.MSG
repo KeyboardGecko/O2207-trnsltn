@@ -507,7 +507,7 @@
 #TALK ABOUT THE RENAISSANCE
 #
 {910}{1}{Renaissance, you say? Yes, there are a lot of rumors about this place. Even the last ghoul in the Radius heard that there is a promising RENAISSANCE somewhere nearby, where it is warm, quiet, calm, plenty of food and water... Everyone knows this place exists, but hell, no one, absolutely no one, knows where it is.}
-{911}{}{Wow! I see. Thank you for the information.}
+{911}{}{I see. Thanks for the information.}
 {912}{2}{Renaissance... [grins] Yeah, man, there is such place, nice and warm. I know a lot of people have been looking for it. They even say someone have found it, but no one has ever seen this "someone" since. I mean, there was one kid who'd been to the Renaissance, but I don't know what happened to him.}
 {913}{}{If somebody was there, then this place really exists. Thanks for that, too.}
 {914}{3}{Ah, so that's what you're up to! There was one just like you - just as inquisitive. But now he is not [chuckles]. The Renaissance is a locked down secret governmental city. Probably, some presidents or monarchs live in there. And people like you will be shot from half a mile on the way to this Renaissance of yours! Mark my words, stop looking for him, or you'll end up badly.}

@@ -99,7 +99,7 @@
 {1039}{}{::Uhhhhhhmmmrmrm...::}
 #МЫСЛИ ВСЛУХ
 #Стандартные
-{1040}{}{[mumbles] Apothecary is such an asshole, refuses to put drink on my tab... }
+{1040}{}{[mumbles] Apothecary is such an asshole - he refuses to put drinks on my tab... }
 {1041}{}{So! Where am I going?}
 {1042}{}{Huh... What's in that trash can?}
 {1043}{}{Actually, the rats are not that bad...}

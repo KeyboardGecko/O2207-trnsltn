@@ -50,7 +50,7 @@
 {15}{}{Okay you stupid piece of fuckmeat, now you'll get it!}
 
 {16}{}{Hahah, Mate has found himself a fresh meat! [when he laughs, he sounds like a lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
-{17}{}{Now that's a different story...}
+{17}{}{Now we're talking...}
 {18}{}{[make a shovel face and go forward]}
 {19}{}{}
 #

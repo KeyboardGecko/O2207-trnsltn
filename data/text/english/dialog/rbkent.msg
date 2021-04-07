@@ -12,7 +12,7 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see a raider who looks... Stylish?}
-{2}{}{Despite his appearance, he looks rather serious.}
+{2}{}{Despite his appearance, he stays serious.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Mate.}
@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[he somehow managed to get a fancy short haircut, and even to shave. But his boots are stained with mud and dry blood, and the color of his hip jacket is hard to define because of thick layer of dust] Who are you, and what do you want from me? }
+{10}{}{[he somehow managed to get a fancy haircut, and even shave. But his boots are stained with mud and dry blood, and color of his hip jacket is hard to define because of thick layer of dust] Who are you, and what do you want from me? }
 {11}{}{I'm }
 {12}{011}{. And you are?...}
 {13}{}{I'm just looking around the place. I'm - }
@@ -38,7 +38,7 @@
 {107}{031}{How's life, Mate?}
 {108}{999}{Just wanted to pay my respects. And I'm already leaving.}
 
-{110}{}{[He wrinkles and raises his jacket's collar] I'm Mate. Remember this name. I don't give a fuck about yours. Again - who are you, and what do you want from me?}
+{110}{}{[He wrinkles and raises his jacket's collar] I'm Mate. Remember the name. I don't give a fuck about yours. Again - who are you, and what do you want from me?}
 {111}{012}{Let's get straight to business - do you have a job for me?}
 {114}{011a}{I was told to ask around for "Antiradine". Do you know where I can get it?}
 {112}{015}{I would be grateful if you told me about who's here in charge. Who should I deal with?}
@@ -48,7 +48,7 @@
 {116}{012}{No problem, I'm ready. What's the job?}
 
 
-{1201}{}{Nice approach. I don't like small talk too. So, it's something I don't have time to deal with... Lately.}
+{1201}{}{Nice approach. I don't like small talk too. So, there's something I don't have time to deal with... Lately.}
 {121}{013}{Go on.}
 {1202}{}{[he sarcastically smiles] The job I have is definitely not for you. You are still pretty green for it. I wouldn't trust you even with polishing my shoes. Grow up a little, then we'll talk.}
 {122}{015}{Your loss... Can you at least point me out on what's what here? Maybe someone else could use my services.}
@@ -56,7 +56,7 @@
 {124}{999}{Suit yourself. Okay, nothing for me here. I'm going.}
 
 
-{130}{}{There's a farm to the west of Rainbow, where we grow fire ants. You should go there and get eight nice and fat ant bellies. Bring them to the Apothecary in the bar, I'll inform him about you. The job is not easy, and - just because you would ask - there was a couple of guys doing this before you. But some time ago they screwed up the delivery and celebrated it with a bottle of cognac, stolen from Apothecary. The Hog fucked me up for this really good, so I ended up drowning one of these rats in the toilet, making another to run circles with a metal pole in his ass. Do you get where I'm going with this?}
+{130}{}{There's a farm to the west of Rainbow, where we grow fire ants. You should go there and get eight nice and fat ant bellies. Bring them to the Apothecary in the bar, I'll inform him about it. The job is not easy, and - just because you would ask - there was a couple of guys doing this before you. But some time ago they screwed up the delivery and celebrated it with a bottle of cognac, stolen from Apothecary. The Hog fucked me up for this really good, so I ended up drowning one of these rats in the toilet, making another to run circles with a metal pole in his ass. Do you get where I'm going with this?}
 {131}{999}{A great way of dealing with things, I approve that. Okay, understood, will do.}
 {132}{020}{Why do you need these bellies?}
 {133}{999}{Won't be any problems with me. I'm on it already.}
@@ -77,12 +77,12 @@
 {156}{999}{You know, I don't actually need anything. See you!}
 
 
-{160}{}{[he sighs] Another bully... You have a straight path to the Arena - to the east from center. Sometimes I let off some steam there myself. Or you can try your luck in the Shepherd's brothel - looks like his black ass is not capable of keeping place in order anymore...}
+{160}{}{[he sighs] Another bully... You have a straight path to the Arena - to the east from center. Sometimes I let off some steam there myself. Or you can try your luck in the Shepherd's brothel - looks like his black ass is not capable of keeping order there anymore...}
 {161}{015}{Okay, got it. Another question, if you don't mind.}
 {162}{999}{Thanks, that's enough for me. See you.}
 
 
-{170}{}{Do I look like a fucking pimp to you? Go to Shepherd's whorehouse, near the factory. And don't ask ME such questions, I'm here not for your amusement.}
+{170}{}{Do I look like a fucking pimp to you? Go to Shepherd's whorehouse, next door to the factory. And don't ask ME such questions, I'm here not for your amusement.}
 {171}{015}{Got it. Can you answer something else?}
 {172}{999}{Okay, okay! Just keeping the conversation going. I'm leaving now.}
 
@@ -126,7 +126,7 @@
 {242}{998}{I think I talk too much...}
 
 
-{250}{}{For now, the Hog is holding everyone here by the balls. He doesn't get involved in the matters of management, but everyone have to pay him his cut. For protection. You can find him near the barracks, hard to miss. And watch your mouth around him - he isn't quite himself lately... Last week, he ripped some bugging vagrant's jaw off almost for nothing. Fucking Drop... That guy looked somewhat like you, by the way.}
+{250}{}{For now, the Hog is holding everyone by the balls. He doesn't get involved in the matters of management, but everyone have to pay him his cut. For protection. You can find him near the barracks, hard to miss. And watch your mouth around him - he isn't quite himself lately... Last week, he ripped some bugging vagrant's jaw off almost for nothing. Fucking Drop... That guy looked somewhat like you, by the way.}
 {251}{015}{You just made me feel better. Let's talk about other colleagues of yours.}
 {252}{999}{Great. I'd better go and think about it.}
 

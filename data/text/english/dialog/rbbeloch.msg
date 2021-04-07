@@ -20,13 +20,13 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[you see two quite pretty girls... If someone would clean them, feed them and change their torn clothes. The taller one stands up when seeing you, covering her friend] Please, don't hurt us... We'll behave! [her voice trembles. She discreetly pushes another girl, who tightly hugs her shaking, thin shoulders] Give us the Drop... Just a little... We'll do anything... [she hastily begins to undress]}
+{10}{}{[you see two quite pretty girls... If someone would clean them, feed them and change their torn clothes. The taller one stands up when seeing you, covering her friend] Please, don't hurt us... We'll behave! [her voice trembles. She discreetly pushes another girl - but that only makes her to hug her thin, shaking shoulders tighter] Give us the Drop... Just a little... We'll do anything... [she hastily begins to undress]}
 {11}{011}{Whoa, easy! I just wanted to ask who are you.}
 {12}{011}{Wait, that's not why I'm here. Come on, put on your clothes back on. What the hell is happening here? And who are you?}
 {13}{999}{This is what I call a good service! Too bad I need to go.}
 
 
-{1001}{}{[They look a little more lively than when you first met them, and they even cleaned up a little bit] Hello... Did you have some Drop for us? The Hog rarely visits lately... Which means... [another girl suddenly starts giggling and chanting] No shag - no Drop, bitches!!}
+{1001}{}{[They look a little more lively than when you first met them, and they even cleaned up a little bit] Hello... Do you have some Drop for us? The Hog rarely visits lately... Which means... [another girl suddenly starts giggling and chanting] No shag - no Drop, bitches!!}
 {101}{011}{So sad. Who are you again?}
 {102}{012}{I don't have it, but I know who could help you.}
 {103}{999}{Hey, be quiet. I'm just walking by.}

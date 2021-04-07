@@ -35,7 +35,7 @@
 #
 {10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
 {11}{}{Don't forget to check out our custom-made ammo, made by craftsmen from all corners of Radius!}
-{12}{}{Oooh! I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
+{12}{}{I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{No, I really need to go.}
 {15}{}{Why the hell are your ammo so expensive?}

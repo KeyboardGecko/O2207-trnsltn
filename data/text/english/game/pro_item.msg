@@ -666,7 +666,7 @@
 {33301}{}{An electronic access card marked X2.}
 {33400}{}{X1 Access Card}
 {33401}{}{An electronic access card marked X1.}
-{33500}{}{*Rad-Away*}
+{33500}{}{*Antiradine*}
 {33501}{}{A blister with a strange, slightly bubbling murky liquid. It is not clear whether this remedy is made in a factory, or Hand-made, but it is rumored to be an excellent cure for radiation.}
 {33600}{}{Firewood}
 {33601}{}{A huge armful of excellent wooden fuel for a nice cozy fire!}

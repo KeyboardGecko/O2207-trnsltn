@@ -6984,8 +6984,8 @@
 #
 {6100}{}{[buzzing]}
 {6101}{}{[buzzing]}
-{6102}{}{::shhh-zhhh::}
-{6103}{}{::shhh-zhhh::}
+{6102}{}{::hsss-ssss::}
+{6103}{}{::hsss-ssss::}
 {6104}{}{[crackling with chitin]}
 {6105}{}{[crackling with chitin]}
 {6106}{}{[twitches in pain]}
@@ -7010,8 +7010,8 @@
 #
 {6120}{}{[buzzing]}
 {6121}{}{[buzzing]}
-{6122}{}{::shhh-zhhh::}
-{6123}{}{::shhh-zhhh::}
+{6122}{}{::hsss-ssss::}
+{6123}{}{::hsss-ssss::}
 {6124}{}{[moves carapace]}
 {6125}{}{[moves carapace]}
 {6126}{}{[twitches in pain]}
@@ -7040,8 +7040,8 @@
 {6143}{}{[helplessly wiggles]}
 {6144}{}{[examines the surroundings]}
 {6145}{}{[examines the surroundings]}
-{6146}{}{::zzh vzh vzh zzh::}
-{6147}{}{::zzh vzh vzh zzh::}
+{6146}{}{::hss vzz vzz hss::}
+{6147}{}{::hss vzz vzz hss::}
 {6148}{}{[bleeds]}
 {6149}{}{[bleeds]}
 #
@@ -7079,8 +7079,8 @@
 {6173}{}{[attacks]}
 {6174}{}{[lunges at enemy]}
 {6175}{}{[lunges at enemy]}
-{6176}{}{::zzh zh zzhhh::}
-{6177}{}{::zzh zh zzhhh::}
+{6176}{}{::hss ss zsss::}
+{6177}{}{::hss ss zsss::}
 {6178}{}{[buzzing angrily]}
 {6179}{}{[buzzing angrily]}
 #
