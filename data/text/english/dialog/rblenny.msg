@@ -42,14 +42,14 @@
 {1010}{019}{That's right, get the hell out! Ugly freaks like you should be shot on sight!}
 
 
-{110}{}{What's here you don't see? Are you thick or something? No worries, I'll explain... I'm Lenny, this is my best friend Carl. We used to hang around Radius together, looking for loot. Everything was good with the two of us. But one time, I decided to get out on a trip alone - into some old ruins, where geiger counter is screaming non-stop. That's where I stepped on a mine. Carl found the pile of shit I became and got me out, but I still received enough radiation. The result is in front of you.}
+{110}{}{What's here you can't see? Are you thick or something? No worries, I'll explain... I'm Lenny, this is my best friend Carl. We used to hang around Radius together, looking for loot. Everything was good with the two of us. But one time I decided to go alone - into some old ruins, where geiger counter screams non-stop. And I stepped on a mine. Carl found the pile of shit I became and got me out, but I still received enough radiation. The result is in front of you.}
 {111}{012}{And? How this explains the current situation?}
 
 
-{120}{}{[he spits out a spirt of green saliva, and scratches a hole, which was once his nose] It's obvious, you see - Carl needs to became a ghoul too! And then we will continue doing our things together! I did everything by the book - threw a grenade into his toilet, carried him into the same ruins I was in. Then I waited for some time and brought him back here, so he could be reborn in comfort. I even reserved the table in bar to celebrate! See? He's already changing! Look at these spots at his skin. And the smell...}
-{121}{019}{You... Your brains are completely eaten away by radiation, you freak! You should be put down, while you didn't start attacking people on the streets!}
+{120}{}{[he spits out a fountain of green saliva, scratching a hole, which was once his nose] It's obvious, you see - Carl needs to became a ghoul too! And then we will continue doing our things together! I did everything by the book - put a grenade into his toilet, carried him into the same ruins I was in. Then I waited for some time and brought him back here, so he could be reborn in comfort. I even reserved the table in bar to celebrate! See? He's already changing! Look at these spots at his skin. And the smell...}
+{121}{019}{You... Your brains are completely eaten away by radiation, you freak! You should be put down, before you start attacking people on the streets!}
 {122}{013}{This is called decaying. Your friend is literally dead.}
-{123}{999}{It's... Unusual. I may be able to help you, but first, I need to think it over.}
+{123}{999}{It's... Unusual. I may be able to help you, but first I need to think it over.}
 
 
 {130}{}{No! Don't you dare to piss into my ears! Carl's alive! I just need to wait a little more! If you don't want to help - move along!}
@@ -57,11 +57,11 @@
 {132}{999}{Calm down. Let's talk about it later.}
 
 
-{140}{}{[he squints] What's there to understand? It's all obvious.}
+{140}{}{[he squints] What's there to discuss? It's all obvious.}
 {141}{015}{I just wanted to say that I can cover for you here. Maybe you need to go away for something.}
-{142}{016}{Listen, Lenny, your friend is dead. You know it, just don't want to admit it. And if you continue like this, you will definitely go off the rails. I see that you wanted to do best, but the life is such a thing... I mean, do you realize that you have killed your only friend?}
+{142}{016}{Listen, your friend is dead. You know it, you just don't want to admit it. And if you go on like this, you will definitely go off the rails. I see that you wanted to do what's best... But, do you realize that you have killed your only friend?}
 {143}{016}{Hey, it's wrong to let dead people lay around! Until you bury the body, he won't be at peace! So, do it - and you can be sure he will wait for you on the other side.}
-{144}{018}{Lenny, your friend just screwed you over! You worked so hard for him, and he only lays under the hot sun, not even thinking about being reborn! But you know what? I can be your new best friend, instead of him! I can't stand seeing you suffer.}
+{144}{018}{Lenny, your friend just screwed you over! You worked so hard for him, and he isn't even thinking about being reborn! But you know what? I can be your new best friend! I can't stand seeing you suffer.}
 {145}{019}{I see how it is. I should put you out of your misery. Get ready, ghoul.}
 {146}{999}{You are right, we have nothing to talk about for now.}
 
@@ -82,11 +82,11 @@
 {191}{998}{Your first, dead meat!}
 {192}{998}{Yeah, go try it...}
 
-{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling of excitement. Delighted, he hands you his shotgun. Then the couple walks away in the bar's direction]}
+{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling of excitement. Delighted, he hands you his shotgun. Then the couple walks away in the bar's direction.]}
 {201}{999}{That was too easy. And quite bizarre.}
 
 {500}{}{What do you want? [he patiently looks at you]}
-{501}{}{Oh, an outsider? Well, what do you need?}
+{501}{}{An outsider? What do you need?}
 {502}{}{You again? Is there something you want?}
 {503}{}{There's an option for you to obtain the support of one nice guy... Of your kind. With a shotgun [wink]. All you need is to substitute yourself for another man's corpse.}
 {504}{}{Nothing, just walking around.}

@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see a moustached tough guy.}
-{2}{}{It's like he walked off a poster propagating healthy lifestyle.}
+{2}{}{It's like he walked off a healthy lifestyle propaganda poster.}
 #
 # после знакомства
 {3}{}{You see Arena Warden.}
@@ -82,7 +82,7 @@
 {132}{999}{Did I ever lie to you? No! Let's not waste time then. Thanks again, for your help.}
 
 
-{140}{}{[his eyes are flashing] Bets? Bets are good... Of course, come closer and participate in our celebration! No sweat! It's easy - here's the first fighter, here's the second. Look at them, pick any. Bets are 1 to 3.}
+{140}{}{[his eyes are flashing] Bets? Bets are good... Of course, come closer and join our celebration! No sweat! It's easy - here's one fighter, here's another. Look at them, pick any. Bets are 1 to 3.}
 {141}{016}{Let's start with a small one - I'm betting fifty.}
 {142}{016}{Here's a hundred, wish me luck!}
 {143}{016}{Two hundred or nothing!}
@@ -134,7 +134,7 @@
 {165}{999}{Yes, it happens. Maybe next time.}
 
 
-{170}{}{[he stretches his neck] Nice, a chance to remember the glory days on the Arena... Do you know what is "windmill with back entrance"? Or "winky molerat"? I'll show you...}
+{170}{}{[he stretches his neck] Nice, a chance to remember the glory days on the Arena... Do you know what "windmill with back entrance" is? Or "winky molerat"? I'll show you...}
 {171}{998}{Come at me!}
 
 

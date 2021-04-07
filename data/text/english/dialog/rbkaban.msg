@@ -88,7 +88,7 @@
 {171}{018}{And you need a middleman for that?}
 
 
-{180}{}{Yes... While it's quiet, they sell us weapons, we supply them with Drop... But it won't last for long. Everything can go to shits at any moment. [he shakes his head] Fucking asshole... He never learns... You... Convince him. No one benefits from the war...}
+{180}{}{Yes... Now it's quiet - they sell us weapons, we supply them with Drop... But it won't last long. Everything can go to shits at any moment. [he shakes head] Fucking asshole... Never learns... You... Convince him. No one benefits from the war...}
 {181}{019}{Ha! You got the right man for the job, the diplomacy is what I do! Will deliver the result, just wait.}
 {182}{999}{No, thank you. I don't want to go near such crazy people. All the best, bye!}
 

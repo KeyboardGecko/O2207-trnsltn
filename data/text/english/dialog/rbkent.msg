@@ -121,7 +121,7 @@
 {232}{015}{I see... Let's get back to the questions about the Rainbow's authorities.}
 
 
-{240}{}Aren't you a cheap fuck? [he rolls his sleeves] Try to repeat that while spitting blood!}
+{240}{}{Aren't you a cheap fuck? [he rolls his sleeves] Try to repeat that while spitting blood!}
 {241}{998}{You know, to hell with talking! Let the dogs out!}
 {242}{998}{I think I talk too much...}
 

@@ -253,7 +253,7 @@
 {331}{035}{What do you want me to do?}
 {332}{010}{I don't think I'm interested in this. Let's change the subject.}
 {333}{999}{You know, I'm actually in a hurry. See you later.}
- 
+
 {340}{}{[you see flashes in her eyes] It's actually a good idea... Come around when Cyren is away, we'll try to work it out. And I have something to ask you, a favor. While in Rainbow, I took notice that the guys with black skin are quite experienced in... Private matters. Lately, I feel that my passion is overwhelming me, waiting to come out. I need to, uh, take care of it, you know what I'm saying? Can you do something for me?}
 {341}{035}{I will definitely come by. What do you want me to do?}
 {342}{010}{I will come around, sure. But now I'm a little busy to help you. Let's change the subject.}

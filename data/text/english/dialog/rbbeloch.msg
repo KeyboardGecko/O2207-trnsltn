@@ -20,7 +20,7 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[you see two quite pretty girls... If someone would clean them, feed them and change their torn clothes. The taller one stands up when seeing you, covering her friend] Please, don't hurt us... We'll behave! [her voice trembles. She discreetly pushes another girl, who hugs tighter her shaking, thin shoulders] GIve us the Drop... Just a little... We'll do anything... [she hastily begins to undress]}
+{10}{}{[you see two quite pretty girls... If someone would clean them, feed them and change their torn clothes. The taller one stands up when seeing you, covering her friend] Please, don't hurt us... We'll behave! [her voice trembles. She discreetly pushes another girl, who tightly hugs her shaking, thin shoulders] Give us the Drop... Just a little... We'll do anything... [she hastily begins to undress]}
 {11}{011}{Whoa, easy! I just wanted to ask who are you.}
 {12}{011}{Wait, that's not why I'm here. Come on, put on your clothes back on. What the hell is happening here? And who are you?}
 {13}{999}{This is what I call a good service! Too bad I need to go.}
@@ -29,12 +29,12 @@
 {1001}{}{[They look a little more lively than when you first met them, and they even cleaned up a little bit] Hello... Did you have some Drop for us? The Hog rarely visits lately... Which means... [another girl suddenly starts giggling and chanting] No shag - no Drop, bitches!!}
 {101}{011}{So sad. Who are you again?}
 {102}{012}{I don't have it, but I know who could help you.}
-{103}{999}{Эй, потише. Я же просто мимо прохожу.}
+{103}{999}{Hey, be quiet. I'm just walking by.}
 {1002}{}{[one girl blankly stares in front of her, the other one rocks back and forward, pulling her messy hair] The master is dead... No Hog - no Drop... [whines] Who would take care of us now? [she shakes her friend] We have to hurry! Mate waits for his meal! If we won't get it to him, he will beat us up again...}
 {104}{015}{Hey! I can help you. In exchange for a little favor.}
 {105}{011}{Shake it off for a minute and remind me, who are you?}
-{106}{019}{Как все стихнет - идите к Лекарю. Капля и отрава у него. Вы помните, что надо делать?}
-{107}{999}{get lost, you stupid junkie!}
+{106}{019}{As it gets quiet - go to the Apothecary. He has the Drop and the stuff. Do you remember what to do?}
+{107}{999}{Get lost, you stupid junkie!}
 {108}{999}{Damn, how low you've fallen... I need to go.}
 {1003}{}{[she readily gets on her knees] What does our master wants? We will do everything! Just so master would be pleased...}
 {109}{999}{This is in your best interests. Anyway, get cleaned up quickly. The master needs to release some tension.}
@@ -47,7 +47,7 @@
 {1015}{999}{Man, the commodity is ruined. Although... Open your pie hole, bitch. I think it's gonna be even better without the teeth. Relax, will you... [continue abusing the girls]}
 
 
-{1101}{}{I'm Squirrel, she is Snowflake...[she wrinkles her forehead, pondering] Or is it the other way around? It doesn't matter. Nothing matters... Ask our master. The Hog is kind... He feeds us, takes care of us... And if we behave, he gives us the Drop.... The Drop... [the other girl smiles when hearing this. You notice she lacks some front teeth.] Will you be kind to us?}
+{1101}{}{I'm Squirrel, this is Snowflake...[she wrinkles her forehead, pondering] Or is it the other way around? It doesn't matter. Nothing matters... Ask our master. The Hog is kind... He feeds us, takes care of us... And if we behave, he gives us the Drop.... The Drop... [the other girl smiles when hearing this. You notice she lacks some front teeth.] Will you be kind to us?}
 {111}{012}{I don't have time for this, but I know someone, who would take a good care of you.}
 {112}{999}{Don't even try to touch me, you stoned puddle of puke!}
 {113}{999}{Try to calm down a little... I won't disturb you for now.}
