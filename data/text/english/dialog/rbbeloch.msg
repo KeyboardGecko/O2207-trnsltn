@@ -88,7 +88,7 @@
 
 {170}{}{[she shakes her head] No, we can't... We are not allowed to touch food... He'll kill us... We saw one girl beaten to death, like a dog... So bad without the Hog... [she starts to cry]}
 {171}{018}{Get it together! Do you need the Drop or not? Why should I sweet-talk you into it... By the way, it's Mate who murdered your lovely Hog. It is him who ruined your life! Don't you want to settle this score?}
-{172}{998}{I hate crying. I'll come by later.}
+{172}{019}{I hate crying. I'll come by later.}
 {173}{999}{You are so useless. I won't bother with it then.}
 
 

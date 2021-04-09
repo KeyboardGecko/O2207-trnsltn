@@ -110,8 +110,8 @@
 {1045}{}{Man, Hog was legit. The real deal...}
 {1046}{}{What asshole had him murdered?..}
 {1047}{}{We are definitely having our pay cut...}
-{1048}{}{Maybe it's time to find a new job?..}
-{1049}{}{Maybe I should go back to Jackals?..}
+{1048}{}{Maybe it's time to find a new job...}
+{1049}{}{Maybe I should go back to Jackals?}
 #Наоми Янг сбежала
 {1050}{}{That bitch is the reason I didn't get promoted...}
 {1051}{}{If I'll find her, I'm going to rip her little hands out!}
