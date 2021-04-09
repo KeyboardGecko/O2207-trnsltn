@@ -75,7 +75,7 @@
 {182}{}{Yeah, that's great. I feel very sleepy now... [go to bed]}
 {190}{}{Do you think it's good for your sleep, listening about such terrible things in your bedtime? Oh, well, you're a grown boy now, aren't you? There are two caves on either side of us, the Purgatory and the Caves of the Undead. It is said that some servants once escaped to the caves - and terrible things happened to them.}
 {191}{}{What... What happened to them?}
-{200}{}{No one knows, but they turned into terrible creatures that live in Purgatory, because even the broken earth would not bear them! I think it would be better if these lost ones were thrown into the Mouth of Hades, so they would at least be of help to us in some form... The entrance to the creatures' lair is just outside our room. Don't you ever dare to go there!!!}
+{200}{}{No one knows, but they turned into terrible creatures that live in Purgatory, because even the broken earth would not bear them! I think it would be better if these lost ones were thrown into the Mouth of Hades, so they would at least be of help to us in some form... The entrance to their lair is just outside the room. Don't you ever dare to go there!!!}
 {201}{}{Of course I won't! Tell me more!}
 {202}{}{Of course I won't... [go to bed]}
 {210}{}{I don't know, baby. The Gods must have decided so. Someone has to take care of us, protect us, defend us. Do you think it's easy to be chosen by the Gods and bear such responsibility?}

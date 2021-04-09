@@ -676,7 +676,7 @@
 {33801}{}{A stick with a rubber pump on the end. It is practical if you want to hit someone gently. It is also suitable for unclogg toilets.}
 {33900}{}{"Name Certificate"}
 {33901}{}{On a rotten piece of paper, it is illegibly written that "The Bearer is INDEED a member of the GREAT and ANCIENT Shvain family."}
-{34000}{}{Douglas' Note}
+{34000}{}{A Note from Douglas}
 {34001}{}{Looks like a list of things Olympus needs.}
 {34100}{}{*Spare Parts Kit*}
 {34101}{}{A heavy box with a lot of hardware inside.}

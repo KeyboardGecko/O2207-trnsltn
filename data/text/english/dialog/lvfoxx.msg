@@ -70,7 +70,7 @@
 {141}{010}{You're welcome, enjoy. I wanted to ask something else.}
 {142}{999}{I'm glad that you are happy. I need to go, see you.}
 
-{150}{}{[Fox immediately gets upset] Uhh... In the end, you are not so cool as I thought you are, looks like you are just as mean as everybody else, I would keep your drawings, taking care of them, one day I could show them to my children, but you don't want to give them to me, so I won' tell you anything more, because I'm angry at you, so there, go away! [She turns around, trying to make it look serious, but somehow you know that her grudge won't last even for a minute]}
+{150}{}{[Fox immediately gets upset] Uhh... In the end, you are not so cool as I thought you are, looks like you are just as mean as everybody else, I would keep your drawings, taking care of them, one day I could show them to my children, but you don't want to give them to me, so I won't tell you anything more, because I'm angry at you, so there, go away! [She turns around, trying to make it look serious, but somehow you know that her grudge won't last even for a minute]}
 {151}{999}{Okay then, I'll go.}
 
 {160}{}{The Constitution of 15 rights is our greatest document, according to the paragraphs 13, 14 and 15 on Constitution, we have the right to have rights, the right to not have rights, and even the right not to know rights described in the Constitution, but in this case the inhabitant is deprived of any rights, including this right! }

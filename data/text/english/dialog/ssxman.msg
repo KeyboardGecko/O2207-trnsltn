@@ -35,7 +35,7 @@
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ „ ‡€ŠŒ‘’‚€
 #
 {10}{}{Go away, kid. My katana is broken, but I still can kick your ass, even without it.}
-{11}{}{Last kid that crossed that line, I had to summon up the Spinach Monster with my rock 'n' roll magic.}
+{11}{}{Last kid that crossed that line, I had to summon up the Spinach Monster with my rock'n'roll magic.}
 {12}{}{Don't be like me, kid. Go home, start a family, put on some palisade. And buy a real guitar.}
 {13}{}{Don't touch my guitar, man. Don't even touch my guitar. If you scratch my guitar, I'll kill you.}
 {14}{}{}

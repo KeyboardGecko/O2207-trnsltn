@@ -32,7 +32,7 @@
 
 
 {30}{}{Listen, son... That's no Tartarus. I mean... There's THE REST of the world, except, Tartarus, you see? So now you are there, in THE REST of the world. We call this place "the caves of undead". I myself came up with the name. And I'm Bono, if you are wondering.}
-{31}{005}{Undead? So you all are undead? And you live here? All this people, wearing Tartarus' clothes?.. Oh man...}
+{31}{005}{Undead? So you all are undead? And you live here? All this people, wearing Tartarus clothes?.. Oh man...}
 
 
 {40}{}{Well, let's say I'm the next step of being an old man. You could even say I'm the next step of being a *dead* man. And not the last step, unfortunately... The name's Bono. This place is called "the caves of undead". Here live the likes of you. And me.}

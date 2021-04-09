@@ -11,149 +11,142 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: здоровенный охранник.}
-{2}{}{У  него озабоченный (во всех смыслах) взгляд.}
+{1}{}{You see a huge guard.}
+{2}{}{He looks nervous. Or horny. Or both.}
 #
 # после знакомства
-{3}{}{Вы видите: Кирпич.}
-{4}{}{Здоровенный, как лаваш:и столь же умен.}
+{3}{}{You see Brick.}
+{4}{}{As big as lavash. Smart as much.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Этот тип похож на вставшего на дыбы урсу в кожаной жилетке. При вашем приближении он напрягает мышцы, стараясь казаться еще больше] Эй!  Ты куда прешь-то? Лучше сгоняй в бар за пивом - скажи, Кирпич послал. Сюда никому нет ходу.  Разве что только сочным телочкам с большим выменем... И то только на пять минут! [Довольно ржет]}
-{11}{011}{Пять минут? И это все? Нечасто, должно быть, они к тебе заходят...}
-{12}{013}{Так это ты Кирпич? Есть разговор.}
-{13}{012}{А что ты так рьяно охраняешь?}
-{14}{999}{Понятно. Бывай, бычок.}
+{10}{}{[This guy looks like Ursa wearing leather jacket. When you approach, he gets more tense, trying to look even bigger] Hey! Where do you think you're going? Better fetch me some beer from the bar, will you? Tell Apothecary that it's for Brick. No one goes here. Except maybe some juicy chicks with big boobs... And no more than for five minutes! [he hoarsely laughs]}
+{11}{011}{Five minutes, that's it? Looks like they don't visit his place very often...}
+{12}{013}{Brick, right? We need to talk.}
+{13}{012}{What's it you are so furiously guarding here?}
+{14}{999}{I see. Take care, bully.}
 
 
-{1001}{}{[Расправляет плечи и принимает серьезный вид] Опять ты? Я же сказал - здесь тебе делать нечего.}
-{101}{013}{Я от Пастуха. Ты уже понял - зачем?}
-{102}{012}{И что тебе такого важного доверили охранять?}
-{103}{999}{Да мимо прохожу, успокойся.}
-{1002}{}{[Смотрит на вас исподлобья] Ну чего еще? Не хожу я, не хожу к телкам Пастуха. Ну только... Эээ... Вообще никуда не хожу! Разве что затвор передерну разок-другой...}
-{104}{012}{Избавь меня от подробностей. Лучше ответь - чего ты тут маячишь постоянно? Давай-давай, рассказывай. }
-{105}{999}{Не переживай, будет и на твоей улице праздник. Будь здоров.}
-{1003}{}{[С нетерпеливым видом подходит к вам] Ну как там мои девочки? А то меня аж трясти начинает - вторые сутки без траха! }
-{106}{019}{Все договорено - тебе надо только встретиться с ними и обговорить детали.}
-{107}{999}{Потерпи еще немного, я дам знать, как все утрясу.}
-{1004}{}{[Поправляет тронутую ржавчиной цепь на бычьей шее и вскидывает ладонь приветственным жестом] Старшой! За время дежурства происшествий не было, век телок не видать! Чтоб меня мертвяк оттрахал, если хоть муха проскочит!  [С довольным видом чешет татуированную грудь ]}
-{108}{013}{А че ты такой радостный? Может, и не увидишь больше девок. Могу устроить. Ты какого хрена Пастуха напрягаешь?}
-{109}{013}{У меня был разговор с Пастухом. Догадываешься, о чем?}
-{1010}{023}{Как обстановка, боец?}
-{1011}{999}{Так держать. Сам знаешь, если  что не так... Ладно, мне пора. }
-{1005}{}{[Дремлет, привалившись к стене. Под ногами у него скопилась целая пирамида пустых бутылок. При вашем приближении открывает один глаз и лениво цедит] Че надо? Свали, не маячь... Или лучше скажи - у этого херова черножопого сутенера еще не все сучки разбежались?}
-{1012}{013}{Все или нет - тебе все равно их больше не видать. Понятно?}
-{1013}{023}{Вижу, ты здесь неплохо устроился.}
-{1014}{999}{Я лучше просто пройду мимо...}
-{1006}{}{Ха! Сучий король прибыл! [Отвешивает поклон, скаля редкие зубы] Не, здорово все-таки, что ты эту черножопую гниду задвинул! А то он мне в борделе вообще проходу не давал.}
-{1015}{013}{Значит, в твоих же интересах сотрудничать со мной. Ты же не откажешься просветить меня, что ты тут охраняешь? А то придется заплатить а всех телок Пастуха, которых ты оприходовал.}
-{1016}{999}{Конечно, мы всегда рады видеть наших постоянных клиентов. Надеюсь, скоро увидимся.}
-{1017}{999}{Ты не больно-то радуйся. Порядок в заведении нарушать я никому не позволю. Ладно, отдыхай, охрана.}
-{1007}{}{[Дремлет, привалившись к стене. Под ногами у него скопилась целая пирамида пустых бутылок. При вашем приближении открывает один глаз и лениво цедит] Че надо? Свали, не маячь... Или лучше скажи - в борделе телки еще остались?}
-{1018}{023}{Вижу, ты здесь неплохо устроился.}
-{1019}{999}{Я лучше просто пройду мимо...}
+{1001}{}{[he straightens his shoulders and gets serious] You again? I told you - nothing to do here.}
+{101}{013}{I'm from Shepherd. I think you know why.}
+{102}{012}{And what is it so important you're guarding here?}
+{103}{999}{Relax. I'm just walking around.}
+{1002}{}{What else do you want?! No, I don't go to Shepherd's chicks. At all. Sitting here, polishing my gun's barrel.}
+{104}{012}{Spare me the details. Better tell me, why are you hanging around here all the time? }
+{105}{999}{Don't worry, you'll get lucky someday. Good day to you.}
+{1003}{}{[he looks nervous] So, how are my chicks? I'm getting all shaky already - too long without a good fuck!}
+{106}{019}{All set. What's left is for you to meet them and talk details.}
+{107}{999}{Wait for a little more, I'll let you know when it's ready.}
+{1004}{}{Chief! During my time on duty no incidents occurred! Fuck me ghoul if someone gets past me! I swear with all my chicks that it won't happen!}
+{108}{013}{You're too lively, I see. I can give you problems. Why are you bothering Shepherd?}
+{109}{013}{I had a talk with Shepherd. Can you guess about what?}
+{1010}{023}{How's it going, soldier?}
+{1011}{999}{Good job. You know what to do. Okay, later.}
+{1005}{}{[he is taking a nap, leaning against the wall. Under his feet lies a whole pyramid of empty bottles. When you approach, he opens one eye] What? Get lost, don't loiter here... And tell me - does that black ass pimp still have some bitches to fuck?}
+{1012}{013}{Does or doesn't, you're not getting near them anyway. Got it?}
+{1013}{023}{I see you're doing pretty well.}
+{1014}{999}{I'd better go.}
+{1006}{}{Ha! The king of bitches has arrived! [he shows his missing teeth in a wide smile] I think it's great that you've dealt with this coal asshole! He didn't let me near his whorehouse.}
+{1015}{013}{Then it's in your best interests to collaborate with me. You wouldn't mind telling me what you're guarding here, right? Or you'll have to pay for every Shepherd's girl you screwed with.}
+{1016}{999}{Of course, we are always happy to see our regular customers. I hope to see you soon.}
+{1017}{999}{Don't be so happy. I won't let anyone to disturb order in my establishment. Take care, guard.}
+{1007}{}{[he is taking a nap, leaning against the wall. Under his feet lies a whole pyramid of empty bottles. When you approach, he opens one eye] What? Get lost, don't loiter here... And tell me - are there still bitches left to fuck in that brothel of yours?}
+{1018}{023}{I see you're doing pretty well.}
+{1019}{999}{I'd better go.}
 
 
-{110}{}{[Он сперва недоуменно пялится на вас, а потом набычивается с угрожающим видом] Ты на что намекаешь, а? Пять минут - эт потому, что мне пост оставлять нельзя надолго! А так-то я могу часами всех шлюх местных на приборе вертеть!}
-{111}{013}{Ладно, меня твой болт меньше всего волнует. Есть разговор.}
-{112}{012}{Верю-верю, завязывай. Лучше скажи - чего ты охраняешь?}
-{113}{999}{Ну-ну. Бывай, половой гигант.}
+{110}{}{[he stares at you, not saying anything, then gets an intimidating look] What the fuck are you implying? It's five minutes just because I can't leave my post for longer! Otherwise, I would be spinning every local chick on my device for hours!}
+{111}{013}{Okay, your device is none of my concern. We need to talk.}
+{112}{012}{I believe you, cut it. Tell me, what you're guarding?}
+{113}{999}{Sure. See you around, sex-monster.}
 
 
-{1201}{}{Чего я охраняю? Склад же! [Довольно ржет] А вообще не велено мне говорить. Вали давай.}
-{121}{013}{Ты тут, типа, местный юморист для слаборазвитых? Ну я тебе сейчас веселья поубавлю. Есть разговор.}
-{122}{013}{Ладно, это пока не важно. Слушай сюда - Пастух тебе просил кое-что передать.}
-{123}{999}{Еще увидимся, весельчак.}
-{1202}{}{[Некоторое время мнется на месте с несчастным видом, но все же начинает говорить] Если скажу, отвалишь от меня? Мне и так проблем хватает... В общем, девка тут одна в лаборатории - дочь того хрена яйцеголового, что Каплю изобрел. Наоми звать. Важная, видать, телка - даже мне ее трахнуть запретили...}
-{124}{999}{Понятно... Ну, некогда мне с тобой тут общаться, пора идти.}
+{1201}{}{What am I guarding? I mean - the warehouse, of course! [he laughs] Actually, I can't talk about it. Get lost.}
+{121}{013}{Are you a local retarded clown? I'll make you more serious. We need to talk.}
+{122}{013}{Listen here - Shepherd has something to tell you.}
+{123}{999}{See you around, funny guy.}
+{1202}{}{[he stumbles, then speaks] If I tell you, would you get lost? I have enough on my plate... There's one girl in the lab. She is the daughter of smart-ass who invented the Drop. Name's Naomi. She looks important - I'm even not allowed to fuck her...}
+{124}{999}{I see. I don't have time for it now, I need to go.}
 
 
-{1301}{}{[Пренебрежительно хмыкает] От Пастуха ты значит? Че, он уже кому только можно на меня настучал?  Сам-то зассал прийти... Или он тебя вместо шлюх мне подогнать решил? Ну так ты не в моем вкусе! [Ржет, с видом превосходства заложив большие пальцы за широкий ремень]}
-{131}{016}{Че ты там промычал, спермотозавр? Я тебя самого сейчас восьмерками тут крутить буду! [Схватить его]}
-{132}{014}{Значит так. Я сказал, что решу этот вопрос, и я это сделаю. }
-{133}{999}{Ах тыж... Ладно, еще вернусь...}
-{1302}{}{[Уныло скребет бритый затылок] Настучал все-таки, нигер... Ну... Старшой, я ж тут целый день болтаюсь, как хер в стакане! Работа нервная, опасная... Как же мне расслабиться? }
-{134}{025}{Ты мне на гниль не дави, падла! Пост покинул - раз, за товар не заплатил - два! Вопросы еще есть?}
-{135}{026}{Ну есть один вариант. Могу тебе своих девок подогнать для таких случаев. Но если узнаю, что в рабочее время к ним таскаться будешь... Кастрирую к херам!}
-{1303}{}{[Сплевывает вам под ноги] За Пастуха пришел пообщаться, да? Только его ведь Кабан больше не прикрывает. Че ты мне сделаешь? Отсосешь?}
-{136}{021}{Че сказал? Сука, ты сам сейчас у меня за щеку примешь!}
-{137}{014}{Всегда есть вариант, устраивающий обе стороны. И я его собираюсь найти.}
-{138}{999}{Сейчас у меня мало времени, но я еще вернусь...}
+{1301}{}{Shepherd, you say? I bet he told everyone shit about me and to afraid to show up himself. Did he sent you as his slut? You're not my type, you know! [he hoarsely laughs]}
+{131}{016}{What did you just say, sperm bank?! Come here! [grab him]}
+{132}{014}{I said I will solve this matter - and I'm going to do it. }
+{133}{999}{Oh you f... I'll be back later.}
+{1302}{}{[he scratches his head] So, our potato fella tattled on me... Well... Chief, try to understand - I'm hanging out here like a dick in the box! The job is dangerous, I'm nervous... How do I relax? }
+{134}{025}{Don't you dare playing the pity angle! You left the post, plus you didn't pay for service! Questions?}
+{135}{026}{There's an option. I can set you up with two girls. But if I'll see that you visit them on shift... I'm going to chop your dangle off!}
+{1303}{}{[he spits at your feet] It's about Shepherd, huh? He can't hide behind Hog anymore. So, what're you gonna do? Suck my dick?}
+{136}{021}{What did you say? You're the one who's going to suck dick!}
+{137}{014}{There's always an option, which benefits everyone. And I'm going to find it.}
+{138}{999}{I don't have time for this. But I'll be back.}
 
 
-{140}{}{[С интересом смотрит на вас] И как же ты собираешься это сделать, крутой? Только не бей, ха-ха!}
-{141}{015}{Слушай, я предлагаю найти компромиссное решение. Что если я предложу тебе достойную замену девочкам Пастуха?}
-{142}{016}{Вот именно это я  и сделаю, урод озабоченный! Буду ломать твои косточки, пока до твоей лавашьей жопы вместо башки не дойдет простая мысль - нехрен тебе у Пастух ошиваться! [Схватить его]}
-{143}{017}{Давай глянем на ситуацию со стороны. Ты - обычный охранник, а Пастух -любимчик Кабана. Как думаешь, кому он отдаст предпочтение? Я и так еле уговорил Пастуха не закладывать тебя Кабану. Но если ты будешь так же в наглую ломиться в бордель...}
-{144}{021}{А почему бы и нет? Давай-ка проверим, есть ли у тебя мышцы под слоем сала!}
-{145}{024}{Зачем тебе терки с Пастухом, если рабыни Кабана теперь остались без хозяина? Улавливаешь? Если поторопишься - то можешь их себе и забрать...}
-{146}{999}{Скоро узнаешь... Когда я вернусь.}
+{140}{}{[And? What are you going to do, mr. Cool Guy? Ony don't hit me, haha!}
+{141}{015}{I'm suggesting a compromise. What if I find you a worthy replacement of Shepherd's girls?}
+{142}{016}{That's exactly what I'm going to do, you sex-obsessed freak! I'm going to break your bones until you understand that you have nothing to do at Shepherd's! [grab him]}
+{143}{017}{Let's take a look at the situation. You are just a guard, while Shepherd is Hog's favorite. Who do you think Hog would back up? I barely talked Shepherd into not telling Hog about you...}
+{144}{021}{Damn, why the hell not? Let's see if you have some muscles under this layer of fat!!}
+{145}{024}{Why to have problems with Shepherd, when Hog's slave girls are now left without master? If you hurry, you can take them for yourself...}
+{146}{999}{You'll learn soon. I'll be back}
 
 
-{150}{}{Да кого ты мне предложишь? Лавашей драть? Все девки у нас с ходу попадают в бордель...}
-{151}{018}{А как насчет Белочки и Снежинки?}
-{152}{999}{Пока не знаю. Но дам тебе знать, если кого найду.}
+{150}{}{Who can you offer me? A lavash? Every girl around here ended up it a brothel...}
+{151}{018}{What about Snowflake and Squirrel?}
+{152}{999}{I don't know yet. But I'll tell you when find someone.}
 
 
-{160}{}{[Левой вы перехватываете его руку, потянувшуюся к ножу, а правой сдавливаете глотку Кирпича. Он пытается вырваться, но вы лишь усиливаете хватку. Когда он начинает хрипеть и терять сознание, вы отпускаете охранника. Какое-то время он лежит неподвижно, но потом принимает сидячее положение, кашляя и потирая дрожащей рукой горло] Кхак! Твоюж... Ууух...Чего ты сразу-то в бутылку полез? Я ж все понимаю, не дурак... Эх, ладно, подловил ты меня, твоя взяла. Пока монет не наскребу - в бордель ни ногой. Только зря ты с Пастухом связался. Жадный он, как волчара голодный...}
-{161}{999}{Не твоя забота, понял? Сам разберусь. Все, стой ровно, а мне пора.}
+{160}{}{[you grab his throat with right hand, holding him with your left. He tries to break free, but you only tighten the grip. When he starts to wheeze and faint, you let him go, and he drops to the ground, coughing and shaking] Khack! Fucking... Damn... Why do you need to get steamy all of a sudden? I get it, I'm not stupid... Okay, you win. I won't go to the whores until I have enough money to pay for them. Still, you shouldn't have dealt with Shepherd. He's too greedy...}
+{161}{999}{That's not your business, understood? I can handle him. That's it, I'm going.}
 
 
-{170}{}{[Со злостью лягает пустую бутылку под ногами] Везде этот нигер свое жало черное сует... Плохо ему, когда кому-то хорошо! Ну чеж делать... Будем пока тихо сидеть. Кабан шутить не станет - если не сам придет, то Кенту-то точно скажет меня наказать. А он и кастрировать может...}
-{171}{999}{Вот-вот. Рад, что мы в итоге пришли к соглашению. Будь здоров.}
+{170}{}{[he kicks empty bottle under his feet] This chocolate piece of shit is sticking his nose everywhere... He always feels bad when someone else feels good! Well... Okay, I'll keep quiet for now. The Hog is no joke - if he won't go to me himself, he will still send Mate. And Mate can easily cut my balls off...}
+{171}{999}{You get it. I'm glad we've come to an agreement. Good day to you.}
 
 
-{1801}{}{[Недоуменно моргает] Это чеж... Кабана девок пялить? Нее... Он же меня самого за это... Того...}
-{181}{019}{Да успокойся ты, все уже на мази. Обе, слышишь, ОБЕ согласились поиграть с тобой в розового пони [подмигнуть]}
-{182}{019}{Ты не ссы. Все будет нормально! Они о таком мужчине только мечтают! Я сам слышал, как тебя обсуждали! Ты, главное, найди возможность с ними пересечься. И будь поувереннее! Ты же крутой мужик!}
-{183}{999}{Мда, ты прав... Поищем другие варианты.}
-{1802}{}{[Недоуменно моргает] Это чеж... Кента девок пялить? Нее... Он же меня самого за это... Того...}
-{184}{019}{Да успокойся ты, все уже на мази. Обе, слышишь, ОБЕ согласились поиграть с тобой в розового пони [подмигнуть]}
-{185}{019}{Ты не ссы. Все будет нормально! Они о таком мужчине только мечтают! Я сам слышал, как тебя обсуждали! Ты, главное, найди возможность с ними пересечься. И будь поувереннее! Ты же крутой мужик! А Кент не Кабан, чего его бояться?}
-{186}{999}{Мда, ты прав... Поищем другие варианты.}
+{1801}{}{[he perplexedly blinks] Uh... You mean... To shag the Hog's bitches? Uhhh... He would fuck me up for this...}
+{181}{019}{Relax, everything is already taken care of! They both, you hear, BOTH agreed to play a pink pony with you. [wink]}
+{182}{019}{Don't sweat, everything's going to be alright. They are dreaming about a man like you, I've heard it myself! Just don't be afraid and try your luck. You're the man!}
+{183}{999}{Maybe you're right... Let's consider other options.}
+{1802}{}{[[he perplexedly blinks] Uh... You mean... To shag the Mate's bitches? Uhhh... He would fuck me up for this...}
+{184}{019}{Relax, everything is already taken care of! They both, you hear, BOTH agreed to play a pink pony with you. [wink]}
+{185}{019}{Don't sweat, everything's going to be alright. They are dreaming about a man like you, I've heard it myself! Just don't be afraid and try your luck. You're the man!}
+{186}{999}{Maybe you're right... Let's consider other options.}
 
 
-{190}{}{[Обрадовано кивает] Я ж так и знал! Ну все, держитесь сучки, папочка идет... Эх, все равно боязно как-то... [Уходит, бормоча что-то под нос]}
-{191}{999}{Давай смелее! Покажи им там...Гм... Хоть что-нибудь.}
+{190}{}{I knew it! Hang on, bitches, here comes the daddy!... Uh, it's still scary... [he leaves, mumbling something]}
+{191}{999}{You'll show them! Uh, at least something.}
 
+{200}{}{[he is definitely having doubts] Well, if you would deal with it... Man! What if they'll know?... But I want to fuck! Poor me... Okay, you live only once! I agree!!}
+{201}{999}{Good! Stay here and wait for the news.}
 
-{200}{}{[Неуверенно переминается с ноги на ногу] Ну если ты договоришься... Черт, а если он узнают?... И трахаться так охота... Бедный я, бедный... Была не была, согласен, чего уж там!}
-{201}{999}{Вот и отлично! Жди вестей!}
+{210}{}{[he gets closer] If it's about bashing heads - I'm always in. I have such a great boner after, you could chop wood with it...}
+{211}{998}{You're going to be pissing with blood! Hang on...}
+{212}{998}{Damn... You're so slow to understand what's happening. Okay, let's warm up a little.}
 
+{220}{}{[Brick slowly stands up, spitting out his teeth] You broke my nose, asshole... Looks like the rib too... Okay, I won't go to Shepherd's anymore. Happy now? And now, be kind, get away, will you?...}
+{221}{999}{That's better. If you pick on me again, you won't get off so easily. See you around.}
 
-{210}{}{[Приближается, играя мышцами] Башку проломить - эт я всегда рад. После этого у меня стоит, хоть дрова руби...}
-{211}{998}{Кровью ссать будешь, падаль! Ну, держись...}
-{212}{998}{Эх... Ну никак до вас не доходит сразу. Ладно, разомнемся.}
+{2301}{}{It's all quiet, chief! Our smart-asses are working non-stop, afraid to even twitch... And the Rainbow became more calm. Everyone knows that it's dangerous to mess with you. Don't forget me when you're going to the Jackals! }
+{231}{999}{I sure won't. As for now, look after the lab - everything can happen...}
+{2302}{}{Yup. No one tries to fuck my brain now. I made a deal with Apothecary - we're trying to sell the remaining Drop all at once... So, I'm guarding it for now. And he supplies me with booze. [he gulps from the bottle] }
+{232}{999}{Yeah... Good luck to you both.}
+{2303}{}{Yup. No one tries to fuck my brain now. I made a deal with Apothecary - now we're partners, selling the Drop to junkies from all around Radius. So, I'm guarding it for now. And he supplies me with booze. [he gulps from the bottle]}
+{233}{999}{Yeah... Good luck to you both.}
 
+{240}{}{[he jumps up, bottles fly all over] Really?! I didn't even know!! I thought they ran off... Squirrel is such a beauty... Thank you for this. I'll go check upon them. Tell black asshole that we're good. }
+{241}{999}{Good. I definitely will.}
 
-{220}{}{[Кирпич медленно выпрямляется, сплевывая выбитые зубы] Тыж мне нос сломал, бычара бешенный... И два ребра...[Неловко утирает кровь с лица] Не пойду я больше к Пастуху. Доволен? А теперь сделай одолжение -отвали, а? Дай оклематься спокойно...}
-{221}{999}{Вот так-то. Еще раз дернешься на меня - так просто не отделаешься. Будь здоров, не кашляй.}
+{250}{}{[he stares at you with fright] Chief, I... I... I'm sorry! It won't happen again! I get it, really!}
+{251}{999}{I believe you. But to make sure that you really get it, you're going to clean the toilet in barracks for the whole next week. You can start now. And I need to go. }
+{252}{999}{Hmm. I need to think what to do with you. Talk later.}
 
+{260}{}{[his jaw drops, he stares at you, dazzled] That means... I can do Squirrel, right? I was always into her... Ooh... Thanks, chief! I will never leave the post anymore, you can count on it!}
+{261}{999}{Okay, okay, enough. But be warned, one more screw-up, and I'm going to chop off your sapling down to the root.}
+{262}{999}{On the other hand, I need to think about it. Wait for my decision.}
 
-{2301}{}{Все тихо, старшой! Пашут наши яйцеголовые, дернуться лишний раз бояться... Вообще потише на Радуге стало. Все же знают, что с тобой лучше не пересекаться. Главное, ты меня не забудь, когда Псов давить соберешься! }
-{231}{999}{Непременно. А пока следи за лабораторией, мало ли что...}
-{2302}{}{А то. Никто теперь мозги мне не трахает. Сговорился с Лекарем - попробуем остатки Капли толкнуть разом... Вот я и охраняю пока, чтоб не растащили. А он мне бухло подгоняет [В подтверждение махом осушает целую бутылку] }
-{232}{999}{Мда... Ну, удачи вам.}
-{2303}{}{А то. Никто теперь мозги мне не трахает. Сговорился с Лекарем - он меня в долю взял, будем Каплю вместе толкать наркоте радиусной. Вот я и охраняю пока, чтоб не растащили. А он мне бухло подгоняет [В подтверждение махом осушает целую бутылку] }
-{233}{999}{Мда... Ну, удачи вам.}
-
-
-{240}{}{[Разом подрывается, гремя бутылками] Че, серьезно? А я и не в курсе даже, думал - свалили они... Ууу... Белочка клевая телка... В общем, спасибо тебе за наводку. Пойду я, пока их там совсем не затрахали. Передай чернышу, пусть дышит ровно. }
-{241}{999}{Вот и отлично. Пойду передам.}
-
-
-{250}{}{[Испуганно таращит на вас мутные глаза навыкате] Старшой... Я ж... Прости, не повторится больше! Все понял, честно!}
-{251}{999}{Верю... Только, чтоб лучше дошло, неделю будешь дерьмо выгребать из дальняка в казарме. И считай, что легко отделался. Все, можешь приступать! А мне пора. }
-{252}{999}{Гм... Ну ладно, подумаю еще, что с тобой делать.}
-
-
-{260}{}{[С отвалившей челюстью пялится на вас, не веря в свое счастье] Этож... Прямо Белочку можно будет, да? Она мне всегда нравилась... Ух... Спасибо, старшой, век не забуду! Чтоб я еще куда с поста ушел... Да ни в жисть!}
-{261}{999}{Ладно, ладно, хватит. Но смотри - еще один промах и точно обрежу тебе все под самый корень!}
-{262}{999}{Хотя... Надо мне еще подумать. Жди решения.}
-
-{270}{}{[бубнит под нос] Тупая сука! Что ты наделала!? Дохлая... тупая... СУКА!}
-{271}{}{Сучка выскочила из подвала! Она хотела сбежать, бля буду!}
-{272}{}{[сокрушается] Вот че тупой курице там не сиделось, а?}
-{273}{}{Я ж не мог ее просто отпустить! А она сопротивлялась!}
-{274}{}{Тупая тварь... Бля, ну почему она решила сбежать!?..}
+{270}{}{[mumbles] Stupid bitch! What have you done!? Stupid... Dead... BITCH!}
+{271}{}{The bitch tried to run away, I'm telling you!!}
+{272}{}{Why couldn't this stupid chick just stay there?}
+{273}{}{I couldn't let her go! And she resisted!}
+{274}{}{[mumbles] Stupid bitch... Fuck! Why... Why did she want to run off..}
