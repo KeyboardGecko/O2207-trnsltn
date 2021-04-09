@@ -50,17 +50,17 @@
 
 {110}{}{Douglas. [he chuckles, but his eyes look just as indifferent as before] And what "kind" are you talking about, may I ask?}
 {111}{012}{Well... You look like an experienced traveler who have been through a lot. And stayed in one piece. Considering that I'm often walking around the Radius myself, my interest is pretty clear.}
-{112}{024}{I mean, the kind of lame clowns, who put some armor on them and think that there's no one better in the whole world, except the Olympus intself. I had enough of you! Let's put it like this - you tell me who are you and what are you doing here, and I let you leave this place without any problems. Mostly.}
+{112}{024}{I mean, the kind of lame clowns, who put some armor on them and think that there's no one better in the whole world, except the Olympus itself. Let's put it like this - you tell me who are you and what are you doing here, and I let you leave this place without any problems. Mostly.}
 
 
 {120}{}{[he shrugs, rolling empty vial of Drop around the table] Yes, I've been places. Seeker who stays in one place for long is going to die from hunger... Just like I am in this dump. [coarsely laughs]}
-{121}{013}{Seeker? Is that your job?}
+{121}{013}{Seeker? Is this your job?}
 {122}{014}{Can you tell me about the places where you have been?}
 {123}{021}{Hmm... And I wanted to ask if you have some work for me.}
 {124}{999}{I see. I hope that we could have a talk before it happens.}
 
 
-{130}{}{[his laugh gets filled with hysterical notes] A job... Yeah... Everyone thinks that in the beginning - all you need is to rummage through some ruins, get yourself full pockets of stuff and then live happily ever after. The thing is - you can't leave. You can't do anything about it. And nothing will help to cope, not booze, nor whores. Only the Drop - but not for long...[he shakes head and empties the whole glass in one gulp] Bullshit aside, we are looking for an old tech, trying not to die in process from something contagious, bullets, claws or radiation. Or something else.}
+{130}{}{[his laugh gets filled with hysterical notes] A job... Yeah... Everyone thinks that in the beginning - all you need is to rummage through some ruins, get yourself full pockets of stuff and then live happily ever after. The thing is - you can't leave. You can't do anything about it. And nothing will help to cope, not booze, nor whores. Only the Drop - but not for long... [he shakes head and empties the whole glass in one gulp] Bullshit aside, we are looking for an old tech, trying not to die in process from something contagious, bullets, claws or radiation. Or something else.}
 {131}{014}{Very interesting. Can you tell me about the places where you have been recently?}
 {132}{021}{Do you need any help in your... Search?}
 {133}{999}{Thanks for the info. I need to go.}
@@ -69,7 +69,7 @@
 {140}{}{[he rubs his neck, covered with old burns] Well, lately I've been walking the route between bar and whorehouse back and forth. I doubt you are interested in this... You know, I'm not very used to talk with my mouth dry.}
 {141}{015}{No problem! Take a ten, get yourself a drink.}
 {142}{024}{So, you have been bending my ear all this time, only to ask for some change? Seeker, my ass! I bet you seeked only around local dumpsters!}
-{143}{999}{You know, I don't have timy for this myself. See you later.}
+{143}{999}{You know, I don't have time for this. See you later.}
 
 
 {150}{}{[he takes a long gulp] Oh shit, that's good... Okay, what do you want to hear about? Do you know about the Dead River? There's an old cryogenic lab just nearby. Such an interesting place... No one knows what sleeps in there, seeing dreams in eternal cold... And what would happen if it wakes up. But you can't get there easily - the Sunset Jackals are guarding the passage. I managed to get through once, but that way is closed now. }
@@ -77,33 +77,33 @@
 {152}{999}{Enough of the tales by the campfire. Bye!}
 
 
-{160}{}{So I had to find another way out. Bumped in a couple of Ferals, almost got torn to pieces... Wanted to lay low somewhere, stumbled onto a house. And this house turned out to be not so usual. I tried the basement - and found a whole military bunker! The kind of where I found myself this suit [knocks on his armor with a fist]. You can easily get a good gun in such place. Still, this bunker is now occupied by some dirty raiders. Slick bastards, I barely got away. They gave me a souvenir [he puts away his hair and you see that part of his ear is missing] Maybe I'll return there later...}
+{160}{}{So I had to find another way out. Bumped into a couple of Ferals, almost got torn to pieces... Needed to lay low somewhere, stumbled onto a house. And this house turned out to be not so simple. I tried the basement - and there was a whole military bunker! The kind of where I found myself this suit [knocks on his armor with a fist]. You can easily get a good gun in such place. Still, this bunker is now occupied by some dirty raiders. Slick bastards, I barely got away. They gave me a souvenir [he puts away his hair and you see that part of his ear is missing] Maybe I'll return there later...}
 {161}{017}{Is that it?}
 {162}{999}{I see. I better go, while I'm still not sleepy.}
 {163}{016a}{A military bunker? Ha! Every guy I meet is always telling me about some secret places...}
 
-{164}{}{You are too young to distinguish what's true and what's not. Well, here's the coordinates. Your responsibility. I would advise you to get some Resistanol, or you won't make it out of there alive.}
+{164}{}{You are too young to tell for sure what's true and what's not. In any case, here's the coordinates. Your responsibility. I would advise you to get some Resistanol, or you won't make it out of there alive.}
 {165}{999}{We'll see about that. If this place exists.}
 {166}{017}{I'll definitely chack it out. What else can you tell me?}
 
-{170}{}{[he stops to take another gulp] But the most interesting things were in a destroyed town to the south-east of Olympus. I think whan the war started, locals managed to get into catacombs. They settled there and tried to wait... Except the nature is a bitch, and it had the darkness and radiation to put against their hand-made shelters. So, they changed. Now they can easily smell you a hundred feet away - but their skin is thinner than a condom, I'm telling you! You look at him - and see what he had for breakfast! Well, I maybe exaggerating a little, but still pretty close. You can pierce them with a finger, hehe... Which is exactly what I did, when trying to get a sample... But that's another story, not for your ears. }
+{170}{}{[he stops to take another gulp] But the most interesting things were in a destroyed town to the south-east of Olympus. My theory is this - when the war started, locals managed to get into catacombs. They tried to settle there... Except the nature is a bitch, and it had darkness and radiation to put against their hand-made shelters. So, they changed. Now they can easily smell you a hundred feet away - but their skin is thinner than a condom, I'm telling you! You look at one - and see what he had for breakfast! Well, maybe I'm exaggerating a little, but still pretty close. You can pierce them with a finger, hehe... Which is exactly what I did, when trying to get a sample... But that's another story, not for your ears. }
 {171}{018}{Yeah, you see a lot of strange stuff around Radius... What about here? What are you doing here?}
 {172}{999}{Thank you for telling me all this, but I need to go.}
 
 
 {180}{}{[he leans forward, looking into your eyes] Why do you care? I'm so sick of you all! I am just relaxing here, alright?}
-{181}{019}{You are right, that's not my business. But listen to me - the folks around here are pretty suspicious. And here you are, who knows for what. So, naturally, everyone gets curious. Is your mission really such a great secret? I mean, you don't really look like someone on an important mission, no offense.}
+{181}{019}{You are right, that's not my business. But the folks around here are pretty suspicious. And here you are, sitting here, who knows for what... Is it really such a big secret? I mean, you don't look like someone on an important mission, no offense.}
 {182}{019}{Is that so? I was just thinking about giving you a discount, for our regular customer...}
 {183}{019}{Really? When go fetch a badge, then you're the best buddy, and when I need some answer on a simple question - then you tell me to get the fuck away?}
 {184}{024}{Either you tell me, or I'm putting you to eternal relaxation!}
 {185}{999}{To hell with you then, nervous one. Relax further.}
 
 
-{190}{}{[he strokes his hair and pulls away a new ampoule of the Drop from his pocket] For fuck's sake...  [pops it into his mouth] In general, I'm working for the Olympus... For my all damn life. I had an assigment to gather some things for them. I even have a list with me [pats his bag]. Only they would have to wait. I'm a little tired...}
+{190}{}{[he strokes his hair and pulls away a new ampoule of the Drop from his pocket] For fuck's sake... [pops it into his mouth] Okay. In general, I'm working for the Olympus... For my all damn life. I had an assigment to gather some things for them. I even have a list with me [pats his bag]... But they will have to wait. I'm a little tired...}
 {191}{020}{Why didn't you tell me this earlier?}
 
 
-{200}{}{Do I have to answer to someone here? And then, that old Apothecary prick has already convinced himself that I'm a spy, or something. And he tells everyone about it. I could care less about this Rainbow... What I'm trying to say is that no one would believe you. Best-case scenario, they tell you to fuck off, and in the worst-case...  I'm so sick of it... [looks like the Drop kicks in] And this Olympus can go fuck itself... Let them handle this shit, fucking smart-asses... I'm done... [he drops his head on his arms and stops talking]}
+{200}{}{Do I have to answer to someone here? And then, that old Apothecary prick has already convinced himself that I'm a spy, or something worse. And he tells it to everyone. I could care less about this Rainbow... What I'm trying to say is that no one would believe you. Best-case scenario, they tell you... To fuck off, and in... The worst-case...  I'm so sick of it... [looks like the Drop kicks in] This Olympus... can go fuck itself... Let them handle this shit, fucking smart-asses... I'm done... [he drops his head on his arms and stops talking]}
 {201}{999}{Ahem... Well, okay, see you around.}
 
 

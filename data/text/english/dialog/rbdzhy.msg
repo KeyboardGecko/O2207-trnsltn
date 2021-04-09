@@ -30,7 +30,7 @@
 
 
 {1001}{}{[he hastily hides a toy in a pocket] Whaddaya doing here again? Walking around, getting on my nerves?}
-{101}{013}{I want to know more about you and your fellas, G.}
+{101}{013}{I want to know more about you and your friends, G.}
 {102}{011}{I'm looking for a job. Could you give me directions?}
 {103}{022}{It's your lucky day today - the cognac delivery is here!}
 {104}{023}{You are too cocky, shorty. I think I need to beat some respect into you.}
@@ -85,18 +85,18 @@
 {116}{999}{I see, I'll come later.}
 
 
-{1201}{}{There is one. Would be enough to all of us. There are some regular caravans from NWO coming around - I overheard this near the bar, cleaning pockets of one drunk... All we need is raid one. The security must be pretty weak. or so they say. Well? Are you in? You look like an experienced fella, we could use your help.}
+{1201}{}{There is something, alright. Would be enough to all of us. I overheard this near the bar, cleaning pockets of one drunk... There are some regular caravans from NWO coming around. All we need is to raid one. The security must be pretty weak, or so they say. Well? Are you in? You look like an experienced fella, we could use your help.}
 {121}{023}{I think you are capable of raiding only local drunks! What caravan, black boy? Get out of here, don't buzz me!}
 {122}{018}{I have no doubts in you, but it sounds risky... Did you think this through?}
-{123}{017}{It suits me. Did you choose the place for ambush?}
-{124}{999}{I'll pass. The info is unverified, details are unknown... I don't work like that. See you!}
+{123}{017}{It suits me. Have you picked a place for an ambush?}
+{124}{999}{I'll pass. The info is unverified, details are unknown... I don't do work this way. See you!}
 {1202}{}{[he winks at you with a mysterious look] Sure, brother! I overheard something recently, while cleaning pockets of one drunk white boy... About the caravans from NWO. Guards are weak, much stuff to take... Get it? A good idea, don't you think? [looks at you, waiting for your approval]}
 {125}{018}{Listen, G... It's cool and all, but do you understand the consequences?}
 {126}{017}{Great, little brother! Where are we going to set up our ambush? We need a good place...}
 {127}{999}{Let's talk about it later. I need to go now.}
 
 
-{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? I do! And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog cares about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
+{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog cares about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
 {131}{014}{Have something to add, G?}
 
 
@@ -126,18 +126,18 @@
 
 
 {180}{}{What's there that makes you doubt? I'm telling you - the security is shit, the stuff is good! Easy-peasy...}
-{181}{019}{Security may be shit, but bieve me, when you take a bullet it wouldn't matter. Be honest, you are not experienced enough for this kind of stuff. Did you consider alternatives?}
+{181}{019}{Security may be shit, but believe me, when you take a bullet it doesn't matter. Be honest, you are not experienced enough for this kind of stuff. Did you consider alternatives?}
 {182}{017}{Actually, you are mostly right... Let's do this!}
 {183}{999}{I won't try to change your mind. I'll come by later.}
 
 
-{190}{}{What? Alter... You mean, to do something else? What exactly? The Hog got everything under his boot...}
-{191}{020}{For example, you could guard the Rainbow's borders. It's obvious that this place is not very protected from sudden invasions. The Hog obviously gets it, so if he is not doing something about it now, then he is short on people. I can talk to him - about, uh... Making you equal partners in this matter. What do you think? }
+{190}{}{What? Alter... You mean, to do something else? What exactly? The Hog's got everything under his boot...}
+{191}{020}{For example, you could guard the Rainbow's borders. It's obvious that this place is not very protected from sudden invasions. The Hog obviously gets it, so if he is not doing something about it now, then he is short on people. I can talk about it with him. Make you equal partners in this matter. What do you think? }
 {192}{017}{Uh... Yes, you're right. Robbing caravans is more fun anyway. What was your plan?}
 {193}{999}{I'll get back when I think of something.}
 
 
-{200}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. Now he looks pleased] We're in. You can talk to the Hog. }
+{200}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. He looks pleased] We're in. You can talk to the Hog. }
 {201}{999}{Great! You're going to grow up into a good leader. I'll go resolve this matter. See you!}
 
 {202}{}{I had a talk with the Hog about guarding the Rainbow - and he is in. He needs your services.}
@@ -195,7 +195,7 @@
 {2902}{}{Now we're partners! G's cool! I'll go tell everyone. See ye.}
 {292}{999}{Pleasure doing business with you, brother. Bye.}
 
-{300}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. Now he looks pleased] We're in! We won't let you down!}
+{300}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. He looks pleased] We're in! We won't let you down!}
 {301}{999}{You should be afraid what happens if you will.}
 {302}{999}{I have no doubts, brother!}
 {303}{999}{Great! You're going to grow up into a good leader. See you!}

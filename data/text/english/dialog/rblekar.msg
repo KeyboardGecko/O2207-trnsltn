@@ -76,13 +76,13 @@
 {113}{999}{Then I better go.}
 
 
-{120}{}{ Why didn't you say so earlier! So, our Mate has found someone smart, huh? Man, what times we live in - to put down a few ants and deliver a thing on schedule is a problem now... Hm... Okay, get them here. Tell Mate that all's good. And I'll drink for that... [he gulps from some bottle]}
+{120}{}{ Why didn't you say so earlier! So, our Mate has found someone smart at last? Man, what times we live in - to put down a few ants and deliver a thing on schedule is a problem now... Hm... Okay, get them here. Tell Mate that it's all good. And I'll drink for that... [he gulps from some bottle]}
 {121}{013}{A pleasure to do business with you! }
 {122}{013}{You could pour me a little. How do you even manage to drink so much and still talk... Okay, see you around.}
 
 
-{1301}{}{Wait a sec... [he leans closer] See that creep in army jacket? No, not that one! To the right! He is a suspicios fella... Always hangs here, sniffing out something. I get nervous when someone this sketchy is around. Can't even drink properly. You look like a smart guy, maybe you can figure out what's his deal. What if he is with the Jackals? And he already knows most of the locals, but not you, so give it a shot. I'll give you something worthy for it, don't you worry.}
-{131}{999}{Okay, let's see... No promises though.}
+{1301}{}{Wait a sec... [he leans closer] See that creep in army jacket? No, not that one! To the right! A suspicious fella... Always hanging here, sniffing out something. I get nervous with someone this sketchy around. Can't even drink properly. You look like a smart guy, maybe you can figure out what's his deal. What if he is with the Jackals? And he already knows most of the locals, but not you... I'll give you something worthy for it, don't you worry.}
+{131}{999}{Okay, let's see what I can do... No promises though.}
 {1302}{}{[he smiles with setisfied look] We do honest deals, you know! Just like in old times...}
 {132}{018}{By the way, can you tell me about the old times?}
 {133}{Бартер}{Let's drink for that. WHat do you have in stock?}
@@ -91,8 +91,8 @@
 
 
 {143}{}{[he leans even more closer] So? What's his deal?}
-{140}{015}{He is employed by the Olympus, his mission is to gather some biological materials, and...}
-{141}{017}{He is no one! He got lucky with getting a good army vest, but now he drinks himself away here. I bet he pops the Drop too... He is not dangerous. Did he visit something except brothel and bar?}
+{140}{015}{He is employed by the Olympus. His mission is to gather some stuff, and...}
+{141}{017}{He is no one! He got lucky with getting a good suit of armor, but now he drinks himself away here. I bet he pops the Drop too... He is not dangerous. Did he visit something except brothel and bar?}
 {142}{999}{Don't know for now, but I'm working on it.}
 
 
@@ -106,7 +106,7 @@
 {161}{998}{Oh man...}
 
 
-{170}{}{[disappointedly pours another shot] Well, I mean, yeah, he was never noticed near the lab or barracks... But you know how it is. Nowadays, if you are not paranoid, it doesn't mean no one wants to kill you. [he sighs] Okay, you did your part. Here. It's called "Admiration". It's a sample, not in mass production for now. The effect is something you've never felt before, I mean it.}
+{170}{}{[disappointedly pours another shot] Well, I mean, yeah, he was never noticed near the lab or barracks... But - you know how it is. Nowadays, if you are not paranoid, it doesn't mean that no one wants to kill you. [he sighs] Okay, you did your part. Here. It's called "Admiration". It's a sample, not in mass production for now. The effect is something you've never felt before. I mean it.}
 {171}{999}{If you say so... I'll figure it out. See you soon!}
 
 
@@ -128,7 +128,7 @@
 {211}{999}{Thanks for the information. I definitely will.}
 
 
-{220}{}{He tells me a lot of things. He is here to prevent people I don't know from loitering around the Rainbow. And he is not good at his job, if you ask me. Still, he mentioned you. But does it matter if you came empty-handed?}
+{220}{}{He tells me a lot of things. He is here to prevent people I don't know from loitering around the Rainbow. And he is not good at his job, if you ask me. Still, he mentioned you. But how does it matter, if you came empty-handed?}
 {221}{012}{Actually, I have a package for you. From your insect friends. Ant belly delivery!}
 {222}{999}{I'll come back later then.}
 

@@ -28,7 +28,7 @@
 
 {1001}{}{[he indifferently nods] Here to talk business? Or just to get on my nerves?}
 {101}{012}{If you have something to tell - I'm ready to listen.}
-{102}{015}{I'm always looking to put my skills to use. But first, can you help with the directions around here?}
+{102}{015}{I'm always looking forward to put my skills to use. But first, can you help with the directions around here?}
 {103}{014}{The insects are having a bad day today. Bellies are delivered.}
 {104}{999}{Just walking around. Good luck!}
 {1002}{}{[he carelessly touches his hair with two fingers] Hello. What brings you?}
@@ -131,7 +131,7 @@
 {252}{999}{Great. I'd better go and think about it.}
 
 
-{2601}{}{[he gets noticeably more glum] Everything's alright... For now. Aside from the fact that all could go to shit in any moment... I tried to reason with the Hog, but he prefers to listen that black asshole, Shepherd. Got himself a favorite... But if you need to deal with something, it's always Mate - do this, do that. I tried to talk to Apothecary too, but he doesn't care about anything, except cognac... And the worst part is that it's becoming noticeable to others - we are getting weak. Jackals, for example, are just waiting for the right moment to bite our ass... Wait, why do you care?}
+{2601}{}{[he gets noticeably more glum] Everything's alright... For now. Aside from the fact that all could go to shit in any moment... I tried to reason with the Hog, but he prefers to listen that black asshole, Shepherd. Got himself a favorite... But if you need to deal with something, it's always Mate - do this, do that. I tried to talk to Apothecary too, but he doesn't care about anything, except cognac... And the worst part is that it's becoming noticeable to others - we are getting weak. Jackals, for example, are only waiting for the right moment to bite our ass... Wait, why do you care?}
 {261}{027}{The fish rots from the head, as they say. Know what I mean?}
 {262}{024}{Ha! Did you try to get yourself a pair of balls? You should deal with it, like you always do. Not whine, like a dead-ass ghoul...}
 {263}{999}{Sad story... You have your problems. I won't get in your way.}

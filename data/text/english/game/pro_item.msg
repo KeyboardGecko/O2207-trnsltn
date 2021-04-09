@@ -451,7 +451,7 @@
 {22600}{}{Rad-Out}
 {22601}{}{An injection that expels radioactive patricles from your bloodstream. Unpleasant, but useful!}
 {22700}{}{Wild Potion}
-{22701}{}{Scorpion tails, rat nails, mole rat scales. The thought of all the things mixed in theremakes you queasy, but this potion removes radiation better than factory drugs!}
+{22701}{}{Scorpion tails, rat nails, mole rat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
 {22800}{}{Iodide}
 {22801}{}{If you are going to toy around the core of a nuclear reactor this miracle pill will help you not to burn out from your insides. Take before exposure!}
 {22900}{}{Resistanol}

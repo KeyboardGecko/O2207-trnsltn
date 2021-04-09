@@ -107,7 +107,7 @@
 {3003}{}{I... sincerely... sorry. You did not have time...}
 {305}{999}{I tried. I did everything I could. Father...}
 {306}{999}{I tried. I did everything I could [a vial of "antiradin" and bursts in your fist] Father...}
-{310}{}{Something you long, could not have time! Well, I hope it's not too late [Pat buries a few drops in your father's rolled eyes. John's body is starting to hit cramps] What are you standing for !? Help me keep it up! Doom, like this, everything will be fine, John. [convulsions pass, Pat straightens up] The reaction is normal, it means he will recover. Of course, it is necessary to look after him all the time and from time to time to bury his "antiradin", but I think your brother Kirk will cope with it perfectly.}
+{310}{}{Something you long, could not have time! Well, I hope it's not too late [Pat buries a few drops in your father's rolled eyes. John's body is starting to hit cramps] What are you standing for!? Help me keep it up! Doom, like this, everything will be fine, John. [convulsions pass, Pat straightens up] The reaction is normal, it means he will recover. Of course, it is necessary to look after him all the time and from time to time to bury his "antiradin", but I think your brother Kirk will cope with it perfectly.}
 {311}{032}{Ffu-uh. Glory to the gods... that is... well, that I managed. How long will father come to life?}
 {312}{033}{Great, one problem less. I had to go through a lot to get my father out of the world, but he was there through no fault of mine. We are all in danger because of their fault... "Gods."}
 {313}{999}{Well, well, and here I need to do something else.}
