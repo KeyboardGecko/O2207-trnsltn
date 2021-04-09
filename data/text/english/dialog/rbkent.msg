@@ -41,7 +41,7 @@
 {110}{}{[He wrinkles and raises his jacket's collar] I'm Mate. Remember the name. I don't give a fuck about yours. Again - who are you, and what do you want from me?}
 {111}{012}{Let's get straight to business - do you have a job for me?}
 {114}{011a}{I was told to ask around for "Antiradine". Do you know where I can get it?}
-{112}{015}{I would be grateful if you told me about who's here in charge. Who should I deal with?}
+{112}{015}{I would be grateful if you told me about who's here in charge. Who should I be dealing with?}
 {113}{999}{Look at how serious we are. Okay, I'd better go.}
 
 {115}{}{The Rainbow is famous for its chemical thingies, am I right? [he gives you a crooked grin, squinting his eyes] You can get it right here - go ask Apothecary. Of course, I could supply you with one, but only in exchange for a certain job.}
@@ -56,7 +56,7 @@
 {124}{999}{Suit yourself. Okay, nothing for me here. I'm going.}
 
 
-{130}{}{There's a farm to the west of Rainbow, where we grow fire ants. You should go there and get eight nice and fat ant bellies. Bring them to the Apothecary in the bar, I'll inform him about it. The job is not easy, and - just because you would ask - there was a couple of guys doing this before you. But some time ago they screwed up the delivery and celebrated it with a bottle of cognac, stolen from Apothecary. The Hog fucked me up for this really good, so I ended up drowning one of these rats in the toilet, making another to run circles with a metal pole in his ass. Do you get where I'm going with this?}
+{130}{}{There's a "farm" near the Rainbow, where we grow fire ants. To the west of central square. You should get there and collect eight nice and fat ant bellies. Bring them to the Apothecary in the bar, I'll inform him about it. The job is not easy, and - just because you would ask - there was a couple of guys doing this before you. But some time ago they screwed up the delivery and celebrated it with a bottle of cognac, stolen from Apothecary. The Hog fucked me up for this really good, so I ended up drowning one of these rats in the toilet, making another to run circles with a metal pole in his ass. Do you get where I'm going with this?}
 {131}{999}{A great way of dealing with things, I approve that. Okay, understood, will do.}
 {132}{020}{Why do you need these bellies?}
 {133}{999}{Won't be any problems with me. I'm on it already.}
@@ -126,7 +126,7 @@
 {242}{998}{I think I talk too much...}
 
 
-{250}{}{For now, the Hog is holding everyone by the balls. He doesn't get involved in the matters of management, but everyone have to pay him his cut. For protection. You can find him near the barracks, hard to miss. And watch your mouth around him - he isn't quite himself lately... Last week, he ripped some bugging vagrant's jaw off almost for nothing. Fucking Drop... That guy looked somewhat like you, by the way.}
+{250}{}{For now, the Hog is holding everyone by the balls. He doesn't get involved in the matters of management, but everyone has to pay him his cut. For protection. You can find him near the barracks, hard to miss. And watch your mouth around him - he isn't quite himself lately... Last week, he ripped some bugging vagrant's jaw off almost for nothing. Fucking Drop... That guy looked somewhat like you, by the way.}
 {251}{015}{You just made me feel better. Let's talk about other colleagues of yours.}
 {252}{999}{Great. I'd better go and think about it.}
 

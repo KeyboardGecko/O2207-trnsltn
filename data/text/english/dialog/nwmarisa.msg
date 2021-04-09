@@ -159,7 +159,7 @@
 #Node035
 {350}{}{You know what, it seems like a great idea. I will try it, thank you!}
 {351}{999}{That's much better! I need to go now. Hope you will be alright when I see you again.}
-{352}{999}{(Why do I always helping some messed up people?) Sure, buy.}
+{352}{999}{(Why do I always helping some messed up people?) Sure, bye.}
 
 
 #Node041

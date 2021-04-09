@@ -119,7 +119,7 @@
 {153}{010}{I want to ask something else.}
 
 #Node016
-{1601}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! He handles everything, without him it would already be nothing here! But now he is sick and, unfortunately, soon will be feeding the worms. And who knows what will NWO become after it!}
+{1601}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! He handles everything, without him it would already be nothing here! But now he is sick and, unfortunately, soon will be counting the worms. And who knows what will NWO become after it!}
 {1602}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that you, boss, will be as good as him.}
 {1603}{}{Mark is our Mayor, I respect him the most. He is the hell of a man! Too bad he's leaving his post... But such times. I hope that new management won't screw things here with their rotten brains.}
 {161}{017}{Who could become a new Mayor?}

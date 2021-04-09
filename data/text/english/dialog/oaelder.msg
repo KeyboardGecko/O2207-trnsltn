@@ -165,7 +165,7 @@
 {243}{999}{I'm going to bury you, you scum! I'll rip off you entrails and choke you with them! Come on! Come!}
 
 
-{250}{}{[The blood-stained field becomes filled with silence. The locals are looking at the defeated Klumk, not capable of believing their eyes. Then their gazes slowly turn to the Elder. She snaps out of it pretty fast, you should admit that] So, in his wisdom, Twilight Viper decided to show us what awaits those who don't follow his path! Klumk spent too many time around outsiders, and that made him weak! And our great spirit have sent us this... Man! And he... Stays with us! He will hunt with our warriors, share the food and show us our weaknesses! Let's greet him! [The crowd responds with an unstructured chorus of confused cheers. Elder nods to you, saying with her lips: "Say yes!"]}
+{250}{}{[The blood-stained field becomes filled with silence. The locals are looking at the defeated Klumk, not capable of believing their eyes. Then their gazes slowly turn to the Elder. She snaps out of it pretty fast, you should admit that] So, in his wisdom, Twilight Viper decided to show us what awaits those who don't follow his path! Klumk spent too many time around outsiders, and that made him weak! And our great spirit has sent us this... Man! And he... Stays with us! He will hunt with our warriors, share the food and show us our weaknesses! Let's greet him! [The crowd responds with an unstructured chorus of confused cheers. Elder nods to you, saying with her lips: "Say yes!"]}
 {251}{026}{Oh... Oh yeah, that's how it is. Sure. Greet me. }
 {252}{021}{What?... That wasn't our deal! You want to fuck me up, bitch? I'm leaving! Right now!}
 

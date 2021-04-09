@@ -107,7 +107,7 @@
 {153}{010}{Let's change the subject.}
 
 
-{160}{}{[The corners of his lips slowly moved upward by a tiny bit. Seems like it is his maximum ability to manifest positive emotions] You can tell him anything you want! He won't listen to you anyway. One my word against yours - and you are feeding the worms. Most likely, Loudmouth will blast your head off by himself. Go try it.}
+{160}{}{[The corners of his lips slowly moved upward by a tiny bit. Seems like it is his maximum ability to manifest positive emotions] You can tell him anything you want! He won't listen to you anyway. One my word against yours - and you are counting the worms. Most likely, Loudmouth will blast your head off by himself. Go try it.}
 {161}{017}{You mentioned that Loudmouth's going to die soon. What happens then?}
 {162}{999}{I'll go tell him anyway. We'll see the rest.}
 

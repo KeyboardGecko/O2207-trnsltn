@@ -53,7 +53,7 @@
 {105}{020}{[ask about the rumors in Livos]}
 {106}{999}{I have some things to do, let's talk later.}
 
-{110}{}{I don't like reading books, they are boring, I like magazines more, I can show you, if you want, they are so interesting and have so many colourful pictures, but I didn't hear anything about anyone stumbling upon the lost Ludwig's book, except my friend Mignon once mentioned that she have seen some book at her mom's, Claudia Horton, but Claudia hid it very fast, so Mignon didn't exactly see what kind of book it was, so it can be the book you need, and you'd better ask Mignon about it, or you even can talk straight to her mom about that book she hides.}
+{110}{}{I don't like reading books, they are boring, I like magazines more, I can show you, if you want, they are so interesting and have so many colourful pictures, but I didn't hear anything about anyone stumbling upon the lost Ludwig's book, except my friend Mignon once mentioned that she has seen some book at her mom's, Claudia Horton, but Claudia hid it very fast, so Mignon didn't exactly see what kind of book it was, so it can be the book you need, and you'd better ask Mignon about it, or you even can talk straight to her mom about that book she hides.}
 {111}{010}{I want to ask something else.}
 {112}{999}{I'll go have a talk with Mignon.}
 
