@@ -37,7 +37,7 @@
 {1003}{}{[he looks nervous] So, how are my chicks? I'm getting all shaky already - too long without a good fuck!}
 {106}{019}{All set. What's left is for you to meet them and talk details.}
 {107}{999}{Wait for a little more, I'll let you know when it's ready.}
-{1004}{}{Chief! During my time on duty no incidents occurred! Fuck me ghoul if someone gets past me! I swear with all my chicks that it won't happen!}
+{1004}{}{Chief! During my time on duty no incidents had occurred! Fuck me ghoul if someone gets past me! I swear with all my chicks that it won't happen!}
 {108}{013}{You're too lively, I see. I can give you problems. Why are you bothering Shepherd?}
 {109}{013}{I had a talk with Shepherd. Can you guess about what?}
 {1010}{023}{How's it going, soldier?}
@@ -128,7 +128,7 @@
 {221}{999}{That's better. If you pick on me again, you won't get off so easily. See you around.}
 
 {2301}{}{It's all quiet, chief! Our smart-asses are working non-stop, afraid to even twitch... And the Rainbow became more calm. Everyone knows that it's dangerous to mess with you. Don't forget me when you're going to the Jackals! }
-{231}{999}{I sure won't. As for now, look after the lab - everything can happen...}
+{231}{999}{I sure won't. As for now, look after the warehouse - everything can happen...}
 {2302}{}{Yup. No one tries to fuck my brain now. I made a deal with Apothecary - we're trying to sell the remaining Drop all at once... So, I'm guarding it for now. And he supplies me with booze. [he gulps from the bottle] }
 {232}{999}{Yeah... Good luck to you both.}
 {2303}{}{Yup. No one tries to fuck my brain now. I made a deal with Apothecary - now we're partners, selling the Drop to junkies from all around Radius. So, I'm guarding it for now. And he supplies me with booze. [he gulps from the bottle]}

@@ -45,14 +45,14 @@
 {1010}{021}{What about profits from fights?}
 {1011}{020}{Report the situation, fighter.}
 {1012}{999}{Yes, it was a good fight... I'll see you around.}
-{1004}{}{[he greets you with a dismissive gesture] Everything's good... Boss. Is it urgent? I'm a little busy, actually.}
-{1013}{021}{I don't have a lot of free time too. So, how's the profits?}
+{1004}{}{[he greets you with a dismissive gesture] Everything's good... Boss. Is it urgent? I'm a little busy here.}
+{1013}{021}{I don't have a lot of free time too. So, how's the profit?}
 {1014}{020}{How's the situation here?}
 {1015}{999}{Okay, do your job. See you later.}
 {1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him on the Arena! Instead, he was murdered in a ditch, like lavash in a slaughterhouse...}
 {1016}{015}{Life is a bitch, huh? Still, is there anyone who wants to fight me?}
 {1017}{014}{Can I make a bet though?}
-{1018}{012}{I have a small thing to ask - Just need to pick up something from the Arena.}
+{1018}{012}{I have a small favor to ask - just to pick up something from the Arena.}
 {1019}{999}{I won't bother you then.}
 {1006}{}{[Warden looks lost, despite his huge size] What happens now?... Everything is going to hell... [he notices you] What do you come here for?}
 {1020}{014}{If I'm not mistaken, this is a place where I can make bet. Is that right?}
@@ -67,7 +67,7 @@
 {113}{999}{I see. Okay, see you around, Warden.}
 
 
-{1201}{}{And I'd like a blowjob from both Hog's bitches simultaneously. Want to get to the Arena? Come and fight. That's the rule.}
+{1201}{}{And I'd like a blowjob from both of Hog's bitches simultaneously. Want to get to the Arena? Come and fight. That's the rule.}
 {121}{013}{Here's how it is... That thing belonged to one Seeker, who's at the Bar now. Get it? He's always going around Radius, knows every nook. You would want to have such man as a friend. And if I can't go to Arena, maybe you could help? It's a badge, you can't mix it up. And I'll have a word with him for you.  }
 {122}{015}{This is definitely an option. Is there anyone ready to stand against me?}
 {123}{999}{If that's how it is - I'd better go.}
@@ -77,7 +77,7 @@
 {125}{999}{Uh... Yeah, thanks. I'm going.}
 
 
-{130}{}{Well, yeah, but... Wait a second... [he leaves. You observe moving flies on the ceiling for some time, then he returns] Here. But if you try to fuck me up... [he shows you his metal teeth] I'll give you a lot of unforgettable moments on the Arena.}
+{130}{}{Well, yeah, but... Wait a second... [he leaves. You observe local flies for some time, then he returns] Here. But if you try to fuck me up... [he shows you his metal teeth] I'll give you a lot of unforgettable moments on the Arena.}
 {131}{999}{Everything's going to be alright, man! Don't you doubt it. Okay, see you around.}
 {132}{999}{Did I ever lie to you? No! Let's not waste time then. Thanks again, for your help.}
 
@@ -174,5 +174,5 @@
 {212}{999}{Glad to hear. See you soon.}
 {2103}{}{[he throws you a bag of batteries] All there is. It's not going to be more than that.}
 {213}{999}{Money is money. See you around.}
-{2104}{}{[he yawns, showing his metal teeth] There's something, yes... Come by at 5-th or 20-th - we'll see what we have.}
+{2104}{}{[he yawns, showing his metal teeth] There's something... Come by at 5-th or 20-th - we'll see what we have.}
 {214}{999}{Right. And I need to go now. See you.}

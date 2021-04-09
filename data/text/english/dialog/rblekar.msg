@@ -44,11 +44,11 @@
 {1012}{024}{The King is dead, long live the King. It happens. Are you worried?}
 {1013}{Бартер}{Why not. Do you have something left in stock?}
 {1014}{999}{Maybe later. If you'll still have something...}
-{1004}{}{[he swiftly pours a whole glass] Boss graced my bar with his presence! Let's drink for that.}
+{1004}{}{[he swiftly pours a full glass] Boss has graced my bar with his presence! Let's drink for that.}
 {1015}{031}{How's the business of selling the Drop?}
 {1016}{032}{All you need is an excuse. How is it going, Apothecary?}
 {1017}{Бартер}{Show me what you have for sale today. And fast.}
-{1018}{999}{I think it's more likely to see a two-headed lavash than sober you... Okay, I need to go. Take care of your liver.}
+{1018}{999}{I think it's more likely to see a two-headed lavash than you sober... Okay, I need to go. Take care of your liver.}
 {1005}{}{[drinks another shot, Not paying attention to the dirt and trash lying around] I was thinking that you left the place. Not that smart, huh?}
 {1019}{Бартер}{Better pour me something strong. And show me what you have in stock.}
 {1020}{030}{I see the situation leaves much to be desired?}
@@ -191,7 +191,7 @@
 {3301}{}{[he shows you empty hands] Easy, champ. Give a couple of minutes, we need to have a serious talk. The boys who went with Hog asked me to discuss one thing.}
 {331}{034}{I hope it's worth it.}
 {332}{034}{I'm listening.}
-{3302}{}{[his eyes burn with strange fire, hand itches to grab the nearest bottle] So, it's done? I didn't waste my time too - pushed some of our best guys into the right direction. }
+{3302}{}{[his eyes burn with strange fire, hand itches to grab the nearest bottle] So, it's done... I didn't waste my time too - pushed some of our best guys into the right direction. }
 {333}{034}{And?}
 {334}{034}{This is in your own interests. You didn't surprise me.}
 
@@ -211,8 +211,8 @@
 {353}{037}{I had my reasons. Thanks for the offer, but my answer stays the same.}
 
 
-{360}{}{[he exales in relief] Listen then. Your job is to keep things going. Business matters must be carried out without problems. Don't worry about our local stuff, we will take care of this. Once in a month you will be getting you cut for security. The rest you'll figure out. Everything depends on how you act now. And - congratulations, Boss! I sould definitely drink for that, wait a second...}
-{361}{999}{Nice. But if you think you can relax, you are deadly wrong. You are free to go. I'd like to look around my domain.}
+{360}{}{[he exales in relief] Listen then. Your job is to keep things going. Business matters must be carried out without problems. Don't worry about our stuff, we will take care of it. Once in a month you will be getting you cut for security. The rest you'll figure out. Everything depends on how you act now. And - congratulations, Boss! I should definitely drink for that, wait a second...}
+{361}{999}{Nice. But if you think you can relax, you are dead wrong. You are free to go. I'd like to look around my domain.}
 {362}{999}{I see. Now, I need to think everything over - and don't worry, I won't forget your role in it.}
 
 {370}{}{[looks like he is going to throw himself at you, but instead, he suddenly goes limp] That's your choice then. Don't regret it. [he walks away.]}

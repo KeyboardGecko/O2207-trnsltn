@@ -43,7 +43,7 @@
 {109}{013}{Just wanted to talk. For example, to ask something interesting about your friends.}
 {1010}{021}{It was a good raid on the caravan. How do you feel about doing it again?}
 {1011}{999}{I wanted to say hi. And now I need to go.}
-{1004}{}{[you see fear in his eyes, but he gets up and steps forward to you] Look who it is, the meanest uncle on Rainbow! What does he want here? [he blows his nose and wipes hand on his torn pants] G doesn't get into your business, so don't get into ours!}
+{1004}{}{[you see fear in his eyes, but he gets up and steps forward to you] Look who it is, the meanest uncle on Rainbow! What does he want here? [he blows his nose and wipes hand with his torn pants] G doesn't get into your business, so don't get into ours!}
 {1012}{024}{Listen up, businessman, you are operating on my turf. Everything around here is my business. So you'd better tell me what you're up to. If I learn about it not from you - you're getting yourself a problem.}
 {1013}{025}{Are you guys still raiding the caravans?}
 {1014}{026}{You can act cool in front of your friends all day, but don't forget to pay my cut in time.}
@@ -157,12 +157,12 @@
 {231}{998}{That isn't going to be easy for me - I can die from laughter. Fighters, my ass...}
 
 
-{2401}{}{[G silently stares at you. Then sighs and nods] Okay, ye win, uncle... What can I say? We are quiet, we don't neet problems with you. Besides, we have our own thing - we rob caravans from fucking New World Order. The security is shit, the stuff is good...}
+{2401}{}{[G silently stares at you. Then sighs and nods] Ye win, uncle... What can I say? We are quiet, we don't need problems with you. Besides, we have our own thing - we rob caravans from NWO. The security is shit, the stuff is good...}
 {241}{027}{Caravans? Are you out of your mind? Who is going to deal with NWO if they decide to attack us? }
-{242}{999}{Is that so? Sounds interesting... I'll come to you later to talk details.}
+{242}{999}{Is that so? Sounds interesting... I'll come to you later, to talk details.}
 {2402}{}{The life's good, brother! Who can oppose us with you by our side? Don't worry, we aren't shitting on your territory. We raid NWO's caravans now - the security is shit, the stuff is good... }
 {243}{027}{Caravans? You know, brother, it can actually cause problems. To me and you. How many of yours have you already lost?}
-{244}{999}{Is that so, brother? Sounds interesting... I'll come to you later to talk details.}
+{244}{999}{Is that so, brother? Sounds interesting... I'll come to you later, to talk details.}
 
 
 {2501}{}{So? What do ye mean?}

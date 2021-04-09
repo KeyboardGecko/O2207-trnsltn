@@ -108,7 +108,7 @@
 {1045}{}{Now we are definitely getting owned by Jackals...}
 {1046}{}{Lived like a Hog, died like a pig, heh-heh...}
 {1047}{}{[picks her nails with a big army knife]}
-{1048}{}{[wistles a simple melody]}
+{1048}{}{[whistles a simple melody]}
 {1049}{}{[with a serious look, she salutes and points the gun into the sky. Starts laughing.]}
 #Íאמלט ‗םד סבוזאכא
 {1050}{}{The crazy one ran off...}

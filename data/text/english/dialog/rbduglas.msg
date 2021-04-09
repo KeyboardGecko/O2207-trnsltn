@@ -107,13 +107,13 @@
 {201}{999}{Ahem... Well, okay, see you around.}
 
 
-{210}{}{Yeah, I could use some help. I lost my badge somewhere around here. Most likely, it happened when I decided to warm ap on the Arena. A pity - this thing is like a memorabilia for me...}
+{210}{}{Yeah, I could use some help. I lost my badge somewhere around here. Most likely, it happened when I decided to warm up on the Arena. A pity - this thing is like a memorabilia to me...}
 {211}{022}{And why can't you look for it yourself?}
 
 
-{220}{}{Because locals don't like me much. Everybody suspects that I'm up to something, morons... If I'd start searching for something, it would bring more questions. And, to be completely honest, I'm too lazy to carry my ass all around the Rainbow. Besides, some little whore promised to come visit me soon... You get it. So, would you help?}
+{220}{}{Because locals don't like me much. Everybody suspects that I'm up to something, morons... If I'd start searching for something, it would bring more questions. And, to be completely honest, I'm too lazy to carry my ass all around the Rainbow. Besides, one little whore promised to come visit me soon... You get it. So, would you help?}
 {221}{999}{Okay... Let's see what I can do.}
-{222}{999}{Nah, not interested. Try "Lost and Found" box, and I have no time for this.}
+{222}{999}{Nah, not interested. Try "Lost and Found" box, I have no time for this.}
 
 
 {230}{}{[he looks a bit confused] You know... Somehow, I spent all of my cash on local hookers and booze. But I remember the favors! Tell me if you need something. I know a lot of people... So, will you give it to me?}
@@ -125,7 +125,7 @@
 {241}{998}{You are going to be sent to a local cemetery!}
 
 
-{2501}{}{[he gets some weapon parts off the table and puts a bottle in their place] Can't complain. The Rainbow is getting pretty good place to have fun, with you leading it. I like it. [he nods to weapon parts] Don't mind this, it's just my habit of keeping things in order. The cost of mistake for a Seeker is very high... }
+{2501}{}{[he gets some weapon parts off the table and puts a bottle in their place] Can't complain. The Rainbow is becoming a pretty good place to have fun, with you in charge. I like it. [he nods to weapon parts] Don't mind this, just my habit of keeping things in order. The cost of mistake for a Seeker is very high... }
 {251}{999}{Not only for a Seekers, you know. Okay, see you around.}
 {2502}{}{[he shoves his bag under a table] Just taking inventory. But everything can happen. Rainbow nowadays is not the most cozy place for an old Seeker like me... And I have a job to do.}
 {252}{999}{Well then, good luck to you, Douglas.}

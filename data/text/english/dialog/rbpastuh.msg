@@ -40,9 +40,9 @@
 {109}{018}{I handled the matter with Brick. He won't be bothering your girls anymore.}
 {1010}{016}{Do you have something you need me to do, Shepherd?}
 {1011}{999}{No, I need to keep in shape. Maybe later.}
-{1003}{}{[he respectfully nods at you] Hey chief, how are you doing? Our favourites, Slut and Suck- er, I mean Squirrel and Snofwlake are not good enough for you anymore? We always have a wide range of new girls to offer! }
+{1003}{}{[he respectfully nods at you] Hey chief, how are you doing? Our favourites, Slut and Suck- er, I mean Squirrel and Snowflake are not good enough for you anymore? We always have a wide range of new girls to offer! }
 {1012}{021}{How it is going, Shepherd?}
-{1013}{016}{How's your horizontal business? All good?}
+{1013}{016}{I suppose your horizontal business is all good... See you around.}
 {1014}{022}{Isn't now the time to pay? What do you think?}
 {1015}{015}{Actually, let's see if you're not lying. Which new girls?}
 {1016}{017}{I dealt with those trash. Clean it up.}
@@ -153,7 +153,7 @@
 
 
 {2201}{}{[he opens his little portable safe] All here, chief, down to the last battery!}
-{221}{999}{Gread. Tell the girls I said thanks for their hard work. See you!}
+{221}{999}{Great. Tell the girls I said thanks for their hard work. See you!}
 {2202}{}{All will be good, chief! You know me, man! Every 5-th and 20-th. Just come and take your cut, no problems!}
 {222}{999}{I won't forget that. Later.}
 

@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Her lab coat is pretty worn, albeit clean. Her face is a mask of exhaustion and strain, green eyes are looking at you dismissively] Who the hell are you? How many times do I have to tell - don't bother me, while I'm working! I'm not even talking about the need to desinfect the place after every other narrow-minded oligophren...}
+{10}{}{[Her lab coat is pretty worn, albeit clean. Her face is a mask of exhaustion and strain, green eyes are looking at you dismissively] Who the hell are you? How many times do I have to tell - don't bother me, while I'm working! I'm not even talking about the need to desinfect the place after every other narrow-minded oligophren walking in here...}
 {11}{011}{Sorry, didn't mean to interrupt. We haven't met, by the way. I'm }
 {12}{999}{. And you are?}
 {13}{999}{Sheesh, lady, chill! I'm already leaving. The name's }
@@ -33,14 +33,14 @@
 {103}{999}{I definintely will. By the way, what can you tell me about him?}
 {104}{999}{I was just lookind around. Good day to you too.}
 {105}{}{Twenty four hours? What an interesting proposition. I'm perfectly fine in that regards, by the way. Well, see ya.}
-{1002}{027}{[she gives you a cautious look, as if she doesn't know what to expect] A Big Boss himself came down upon us! And to what do we owe the pleasure, if I may ask? Decided to try the product yourself, or just out of punching bags?}
+{1002}{027}{[she gives you a cautious look, as if she doesn't know what to expect] A Big Boss himself came down upon us! To what do we owe the pleasure, if I may ask? Decided to try the product yourself, or just out of punching bags?}
 {106}{026}{I want to talk about the Drop. I need the product to be more effective.}
 {107}{999}{Do you have questions, maybe? Complaints?}
 {108}{999}{Just checking my personnel. I see you are doing fine. See you next time then.}
 {109}{}{I'm not in the mood for your shit, girl. Keep your mouth shut, and remember who owes your life. That's all, I'm out.}
 
 
-{114}{012}{Naomi Young. A honorary head of this fine laboratory. For life. [she bows mockingly] Are you happy now? [mumbles] To serve those who has their IQ not even approximately close to mine, even if combined together... Glad my father don't see me...}
+{114}{012}{Naomi Young. A honorary head of this fine laboratory. For life. [bows mockingly] Are you happy now? [mumbles] To serve the ones who has IQ not even approximately close to mine, even combined... Glad my father can't see me...}
 {110}{021}{What is it that you create here?}
 {111}{022}{What? Think you're smart, huh? Why do you work for locals non-stop then?}
 {112}{999}{Who was your father?}
@@ -102,7 +102,7 @@
 {210}{999}{Put that thing back, you crazy bitch! I'm leaving!}
 {211}{}{Apologies. All the best.}
 
-{223}{013}{My father was Carlos Young... The brightest mind, the best chemist in Radius. And it's not only an opinion of his daughter, but a fact. Self-taught, he showed everyone! He invented the Drop... And he always loved me... Anyway, we're not here to remember the past. Understand this - even if there were a some kind of collective inteligence on the Rainbow, it wouldn't do anything even slightly comparable with a tiny bit of his research.}
+{223}{013}{My father was Carlos Young... The brightest mind, the best chemist in Radius. And it's not only an opinion of his daughter, but a fact. Self-taught, he showed everyone! He invented the Drop... And he always loved me... Anyway, we're not here to remember the past. Understand this - even if there were a some kind of collective inteligence on the Rainbow, it couldn't create anything even slightly comparable with a tiny bit of his research.}
 {220}{999}{You are a worthy daughter, to remember him like that. What about the Drop?}
 {221}{021}{I see. Well, I'm off, all the best.}
 {222}{}{I'm so sick of you bragging about your smart brain! Here's a secret for you - if the skull is smashed, they all look the same, smart or stupid! Wanna see?}
@@ -124,10 +124,10 @@
 {252}{}{Uh... Didn't I tell you? I sent him some, er, kid, with some assighment from the Hog himself. Allegedly. The cost is clear, no one would stop you. And I'll stay and watch over your ex-colleagues.}
 
 
-{260}{999}{[she looks surprised] Who could even think about compaining in this paradise? We have the best kind of stability here. You have sealed us off from the outside world, so nothing could prevent us from working for the greater good. If you didn't visit us, we wouldn't even know about the changes in local management! Ahem... By the way, the changes are happening very often lately. We are worried, you know... }
+{260}{999}{[she looks surprised] Who can even think about compaining in this paradise? We have the best kind of stability here. You have sealed us off from the outside world, so nothing could prevent us from working for the greater good. If you didn't visit us, we wouldn't even know about the changes in local management! Ahem... By the way, the changes are happening very often lately. We are worried, you know... }
 {261}{999}{Don't worry about it. By the way, as a thank you for your work, I thought I'd let you relax a little. Food, drink and girls for everyone. Only don't do drugs, geniuses. Enjoy your time!}
 {262}{999}{I see you are a little sarcastic, aren't you? I'm not a fucking Hog! Let's see how you'd like to work for a week on water and rat meat! Say thank you to that big loud mouth of yours, bitch!}
-{263}{}{One way or another, I intend to stay here a little longer. Get used to it.}
+{263}{}{One way or another, I intend to stay in charge for a little longer. Get used to it.}
 
 
 {270}{028}{And I'd like a real man to go down on me. Except there are none on the Rainbow. Why do you even think that the Drop can be improved?}
