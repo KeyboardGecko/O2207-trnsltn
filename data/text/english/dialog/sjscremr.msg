@@ -206,19 +206,19 @@
 
 {3601}{}{I don't fucking believe you! Trying to fuck me up?! I'm going to rip off your rotten tongue and send it to Hog as a gift!! GET HIM, BOYS!!}
 {361}{998}{Not the best of my negotiations...}
-{3602}{}{[He calms down a little, but the knife stays in his hand] What this fucking PIG could possibly offer?! We are only wasting time here... }
-{362}{037}{So, here's the deal - the Hog wants to make peace. Yes, I know what you're going to answer. But first, think about this - Rainbow is the only supplier of the Drop, and if the war starts, where are you going to refill yours? Considering the Hog would better burn down his lab together with its staff than leave it to you, if he loses. }
+{3602}{}{[He calms down a little, but the knife stays in his hand] What this fucking PIG could possibly offer?! We are wasting time here... }
+{362}{037}{So, here's the deal - the Hog wants to make peace. Yes, I know what you're going to answer. But first, think about it - Rainbow is the only supplier of the Drop, and if the war starts, where are you going to get yours? Considering the Hog would better burn down his lab together with its staff than leave it to you, if he loses. }
 {363}{037}{I detailed Rainbow's defences and military forces, together with their equipment. Even if you succeed in taking over them, your losses will be disastrous. How are you going to protect your territory after that? Considering that the factory is a sweet pie for every gang in the Radius... Of course, there are no one like you and your pack, but still. It's wiser to bid your time and don't go into direct conflict with the Hog.}
 {364}{037}{Listen, I managed to sign up a very profitable trading agreement with the Rainbow. Considering approximated voume of deliveries, you are selling weapons and buying the Drop at a very good price! And the situation is going to get only better. So use it! With the big money assets, the Jackals will grow so strong that the Rainbow itself will come asking you for protection! And that's when you deal with the Hog.}
 {365}{039}{Right! I'm here only to tell you this - the Hog is afraid of the Jackals! The negotiatons for peace is a sign of weakness! It's time to strike!!}
 {366}{999}{Believe me, you are wrong. But I need to check on some facts. See you later.}
 
 
-{370}{}{[While you talk, Loudmouth only grins, holding the bloody knife in his hand] You talk is smooth, I give you that. But something smells fishy here... [a thug approaches him and starts to quietly explain something] You too?! Okay, piss off for now... [he looks back at you] Here's the thing - we are gonna talk it out with the boys, and you stand still and don't make a sound.}
+{370}{}{[While you speak, Loudmouth only grins, holding the bloody knife in his hand] You talk is smooth, I give you that. But something smells fishy here... [a thug approaches him and starts to quietly explain something] You too?! Okay, piss off for now... [he looks back at you] Here's the thing - we are gonna discuss it with the boys, and you stand still and don't make a sound.}
 {371}{038}{Okay, no problem. I hope you'll make a good decision.}
 
 
-{380}{}{[You stay in a company of two thuggish Jackals, who are busy with a very intellectual dialogue about better ways to flay a man alive. Unfortunately, when the most interesting part starts, Loudmouth comes back with his other men] Here's the deal - tell Hog that we'll make the deal. We won't touch them for now. And we will even sell the next batch of "merchandize" with a discount... A little excessive, as for me. [He glances at one of his guards] But if there ANY reason, even a little one - I fucking let loose all my Jackals and drown the whole Rainbow in blood! Got it?!}
+{380}{}{[You stay in a company of two thuggish Jackals, who are busy with a very intellectual dialogue about better ways to skin a man alive. Unfortunately, when the most interesting part starts, Loudmouth comes back with his other men] Here's the answer - tell Hog that we'll take the deal. We won't touch them for now. And we will even sell the next batch of "merchandize" with a discount... A little excessive, as for me. [He glances at one of his guards] But if there ANY reason, even a little one - I fucking let loose all my Jackals and drown the whole Rainbow in blood! Got it?!}
 {381}{999}{Great. I'll tell that to Hog. Was nice having business with you, but I've got to go.}
 
 

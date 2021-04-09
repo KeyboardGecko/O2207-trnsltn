@@ -91,7 +91,7 @@
 {183}{}{Uh, I didn't think about it... Okay. see you later then.}
 
 
-{190}{020}{[She bites her lip, glancing on the entrance. Then she suddenly giggles] Okay, let's do it! What do I lose? Just a second...[She opens the drawer in her table and starts to pack some things into her pockets. It looks like she thought about running away before!] Done, I'm ready!}
+{190}{020}{[She bites her lip, glancing on the entrance. Then she suddenly giggles] Okay, let's do it! What do I lose? Just a second... [She opens the drawer in her table and starts to pack some things into her pockets. It looks like she thought about running away before!] Done, I'm ready!}
 {191}{025}{Good. Let's not waste any more time then.}
 {192}{}{Great! But, uh... Er... You go, I'm right behind you. I'll cover you if there's a problem.}
 

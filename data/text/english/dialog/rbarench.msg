@@ -49,7 +49,7 @@
 {1013}{021}{I don't have a lot of free time too. So, how's the profits?}
 {1014}{020}{How's the situation here?}
 {1015}{999}{Okay, do your job. See you later.}
-{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him on the Arena! Instead, he was murdered in a ditch, like lavash in a shaughterhouse...}
+{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him on the Arena! Instead, he was murdered in a ditch, like lavash in a slaughterhouse...}
 {1016}{015}{Life is a bitch, huh? Still, is there anyone who wants to fight me?}
 {1017}{014}{Can I make a bet though?}
 {1018}{012}{I have a small thing to ask - Just need to pick up something from the Arena.}
@@ -77,7 +77,7 @@
 {125}{999}{Uh... Yeah, thanks. I'm going.}
 
 
-{130}{}{Well, yeah, but... Wait a second...[he leaves. You observe moving flies on the ceiling for some time, then he returns] Here. But if you try to fuck me up...[he shows you his metal teeth] I'll give you a lot of unforgettable moments on the Arena.}
+{130}{}{Well, yeah, but... Wait a second... [he leaves. You observe moving flies on the ceiling for some time, then he returns] Here. But if you try to fuck me up... [he shows you his metal teeth] I'll give you a lot of unforgettable moments on the Arena.}
 {131}{999}{Everything's going to be alright, man! Don't you doubt it. Okay, see you around.}
 {132}{999}{Did I ever lie to you? No! Let's not waste time then. Thanks again, for your help.}
 

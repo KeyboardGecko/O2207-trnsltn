@@ -31,7 +31,7 @@
 #
 {1}{}{You see an angry kid.}
 {2}{}{You see a child bandit.}
-{3}{}{You see a G's cutthroat.}
+{3}{}{You see one of G's cutthroats.}
 {4}{}{You see a boy from a gang.}
 {5}{}{You see a gang member.}
 {6}{}{He is practicing a quick draw of his gun from holster.}

@@ -102,7 +102,7 @@
 
 
 {210}{}{[he grins] You're good... If you managed to shake even this guy's stuck-up brain... [he waves to one of his raiders, who leaves the room and gets back carrying a rocket launcher] Here. Take this. Don't use it on the Rainbow though... And one more thing - if you want to fly, you can... Expect a discount from... Apothecary... [his eyes become unfocused and murky, speech is less cohesive. Looks like the conversation is over]}
-{211}{999}{Looks like Christmas came earlier this year...}
+{211}{999}{Christmas came earlier this year...}
 
 
 {220}{}{[with an unusual speed, Hog rushes to you - and moment later his huge fist smashes into your ribs. It's a miracle your insides didn't fly out of your throat] And you can take a punch, shithead?! Get your ass out of here!}
@@ -115,7 +115,7 @@
 {232}{998}{That didn't sound very friendly...}
 
 
-{240}{}{Yes... The best place in Radius... Girls, booze... And the Drop. [he takes out an ampoule and wistfully gazes at it] This is what started it all... And this is what will be the end... Ask, if you need something... But not... Me...[he closes eyes, delving deeply into his intoxicated dreams]}
+{240}{}{Yes... The best place in Radius... Girls, booze... And the Drop. [he takes out an ampoule and wistfully gazes at it] This is what started it all... And this is what will be the end... Ask, if you need something... But not... Me... [he closes eyes, delving deeply into his intoxicated dreams]}
 {241}{010}{I didn't even think about bothering such respectable man with stupid questions... Hey! Do you hear me?}
 {242}{999}{[leave quietly]}
 

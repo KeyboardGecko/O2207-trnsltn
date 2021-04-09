@@ -40,14 +40,14 @@
 {109}{999}{This is in your best interests. Anyway, get cleaned up quickly. The master needs to release some tension.}
 {1010}{020}{How are you doing, pretty girls?}
 {1011}{999}{I don't have time for you now. Sit tight and don't twitch.}
-{1004}{}{[there's almost nothing left of their clothes, they look very beaten. One is lying still in the corner, only a faint shivering shows that she's still alive. Another one looks a little better] Wh... Why would they do this to us? [she spits out blood and chipped tooth on the ground, staring at it] We... We would do anything, why did they hurt us?... So hungry...[quietly whines]}
+{1004}{}{[there's almost nothing left of their clothes, they look very beaten. One is lying still in the corner, only a faint shivering shows that she's still alive. Another one looks a little better] Wh... Why would they do this to us? [she spits out blood and chipped tooth on the ground, staring at it] We... We would do anything, why did they hurt us?... So hungry... [quietly whines]}
 {1012}{999}{Damn... What an animals... }
 {1013}{999}{I'm sorry. Here, take this, at least... [give her a fruit]}
 {1014}{999}{Tough luck. The life is hard, you know. Too bad I'm late to get some.}
 {1015}{999}{Man, the commodity is ruined. Although... Open your pie hole, bitch. I think it's gonna be even better without the teeth. Relax, will you... [continue abusing the girls]}
 
 
-{1101}{}{I'm Squirrel, this is Snowflake...[she wrinkles her forehead, pondering] Or is it the other way around? It doesn't matter. Nothing matters... Ask our master. The Hog is kind... He feeds us, takes care of us... And if we behave, he gives us the Drop.... The Drop... [the other girl smiles when hearing this. You notice she lacks some front teeth.] Will you be kind to us?}
+{1101}{}{I'm Squirrel, this is Snowflake... [she wrinkles her forehead, pondering] Or is it the other way around? It doesn't matter. Nothing matters... Ask our master. The Hog is kind... He feeds us, takes care of us... And if we behave, he gives us the Drop.... The Drop... [the other girl smiles when hearing this. You notice she lacks some front teeth.] Will you be kind to us?}
 {111}{012}{I don't have time for this, but I know someone, who would take a good care of you.}
 {112}{999}{Don't even try to touch me, you stoned puddle of puke!}
 {113}{999}{Try to calm down a little... I won't disturb you for now.}
@@ -86,9 +86,9 @@
 {162}{999}{I see. Wait here.}
 
 
-{170}{}{[she shakes her head] No, we can't... We are not allowed to touch food... He'll kill us... We saw one girl beaten to death, like a dog... So bad without the Hog...[she starts to cry]}
+{170}{}{[she shakes her head] No, we can't... We are not allowed to touch food... He'll kill us... We saw one girl beaten to death, like a dog... So bad without the Hog... [she starts to cry]}
 {171}{018}{Get it together! Do you need the Drop or not? Why should I sweet-talk you into it... By the way, it's Mate who murdered your lovely Hog. It is him who ruined your life! Don't you want to settle this score?}
-{172}{999}{I hate crying. I'll come by later.}
+{172}{998}{I hate crying. I'll come by later.}
 {173}{999}{You are so useless. I won't bother with it then.}
 
 

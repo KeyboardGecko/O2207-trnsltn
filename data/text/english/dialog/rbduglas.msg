@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[he looks just as his old weary military armor, without any insignias -  his scraggly beard almost fully covers his thin face, one eye is a little googly because of an old scar, stretched from forehead to cheekbone. His hair, which definitely used to be black, now are mostly gray. He doesn't even look at you, when you come by, too busy with his drink.] Did you want something?}
+{10}{}{[he looks just as his old weary military armor without any insignias -  his scraggly beard almost fully covers his thin face, one eye is a little googly because of an old scar, stretched from forehead to cheekbone. His hair, which definitely used to be black, now are mostly gray. He doesn't even look at you, when you come by, too busy with his drink.] Did you want something?}
 {11}{}{Sorry to bother, but it's not often you see people of your kind in these places. I'm }
 {13}{011}{.}
 {12}{999}{No, nothing. I was just walking by.}
@@ -53,7 +53,7 @@
 {112}{024}{I mean, the kind of lame clowns, who put some armor on them and think that there's no one better in the whole world, except the Olympus itself. Let's put it like this - you tell me who are you and what are you doing here, and I let you leave this place without any problems. Mostly.}
 
 
-{120}{}{[he shrugs, rolling empty vial of Drop around the table] Yes, I've been places. Seeker who stays in one place for long is going to die from hunger... Just like I am in this dump. [coarsely laughs]}
+{120}{}{[he shrugs, rolling empty vial of Drop around the table] Yes, I've been places. Seeker who stays in one place for too long is going to die from hunger... Just like I am in this dump. [coarsely laughs]}
 {121}{013}{Seeker? Is this your job?}
 {122}{014}{Can you tell me about the places where you have been?}
 {123}{021}{Hmm... And I wanted to ask if you have some work for me.}
@@ -92,7 +92,7 @@
 
 
 {180}{}{[he leans forward, looking into your eyes] Why do you care? I'm so sick of you all! I am just relaxing here, alright?}
-{181}{019}{You are right, that's not my business. But the folks around here are pretty suspicious. And here you are, sitting here, who knows for what... Is it really such a big secret? I mean, you don't look like someone on an important mission, no offense.}
+{181}{019}{You are right, that's not my business. But the folks around here are pretty suspicious. And here you are, who knows for what... Is it really such a big secret? I mean, you don't look like someone on an important mission, no offense.}
 {182}{019}{Is that so? I was just thinking about giving you a discount, for our regular customer...}
 {183}{019}{Really? When go fetch a badge, then you're the best buddy, and when I need some answer on a simple question - then you tell me to get the fuck away?}
 {184}{024}{Either you tell me, or I'm putting you to eternal relaxation!}

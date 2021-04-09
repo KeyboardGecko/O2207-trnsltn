@@ -30,7 +30,7 @@
 #Œœ»—¿Õ»≈ œ≈–—ŒÕ¿∆¿
 #
 {1}{}{You see a girl from a gang.}
-{2}{}{You see a G's cutthroat.}
+{2}{}{You see one of G's cutthroats.}
 {3}{}{You see a "ballsy" girl.}
 {4}{}{You see a riffraff.}
 {5}{}{You see a brawny kid.}

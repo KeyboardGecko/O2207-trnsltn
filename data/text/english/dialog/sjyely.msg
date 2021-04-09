@@ -55,7 +55,7 @@
 {105}{}{}
 {106}{}{}
 
-{110}{}{I have one... Book. I think. It is probably a book. A kind of unusual one - it has dots and lines instead of letters, engraved on each page. Looks like some strange code. But why would someone encode something like this?}
+{110}{}{I have one... Book. I think. It is probably a book. A kind of unusual one - it has dots and lines engraved on each page instead of letters. Looks like some strange code. But why would someone encode something like this?}
 {111}{}{A code or not, why would I care?}
 {112}{}{Huh. Interesting.}
 {113}{}{Boring. I have to go, many things to do.}

@@ -21,7 +21,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{[This guy looks like Ursa wearing leather jacket. When you approach, he gets more tense, trying to look even bigger] Hey! Where do you think you're going? Better fetch me some beer from the bar, will you? Tell Apothecary that it's for Brick. No one goes here. Except maybe some juicy chicks with big boobs... And no more than for five minutes! [he hoarsely laughs]}
-{11}{011}{Five minutes, that's it? Looks like they don't visit his place very often...}
+{11}{011}{Five minutes, that's it? Looks like they don't visit this place very often...}
 {12}{013}{Brick, right? We need to talk.}
 {13}{012}{What's it you are so furiously guarding here?}
 {14}{999}{I see. Take care, bully.}
@@ -69,7 +69,7 @@
 {124}{999}{I see. I don't have time for it now, I need to go.}
 
 
-{1301}{}{Shepherd, you say? I bet he told everyone shit about me and to afraid to show up himself. Did he sent you as his slut? You're not my type, you know! [he hoarsely laughs]}
+{1301}{}{Shepherd, you say? I bet he told everyone shit about me and too afraid to show up himself. Did he send you as his slut? You're not my type, you know! [he hoarsely laughs]}
 {131}{016}{What did you just say, sperm bank?! Come here! [grab him]}
 {132}{014}{I said I will solve this matter - and I'm going to do it. }
 {133}{999}{Oh you f... I'll be back later.}
@@ -82,7 +82,7 @@
 {138}{999}{I don't have time for this. But I'll be back.}
 
 
-{140}{}{[And? What are you going to do, mr. Cool Guy? Ony don't hit me, haha!}
+{140}{}{And? What are you going to do, mr. Cool Guy? Ony don't hit me, haha!}
 {141}{015}{I'm suggesting a compromise. What if I find you a worthy replacement of Shepherd's girls?}
 {142}{016}{That's exactly what I'm going to do, you sex-obsessed freak! I'm going to break your bones until you understand that you have nothing to do at Shepherd's! [grab him]}
 {143}{017}{Let's take a look at the situation. You are just a guard, while Shepherd is Hog's favorite. Who do you think Hog would back up? I barely talked Shepherd into not telling Hog about you...}

@@ -39,7 +39,7 @@
 {33}{999}{Looks like it's all bullshit and fairy tales. I'm out of here.}
 
 
-{100}{}{[He looks at you with his sad, cloudy ghoul's eyes] Oh, you again? [sighs] How are you? Living by?}
+{100}{}{[He looks at you with his sad, cloudy, ghoul's eyes] Oh, you again? [sighs] How are you? Living by?}
 {101}{}{Of course. Ask anything you want.}
 {102}{020}{Tell me about yourself. How did you end up here?}
 {103}{030}{What is this place?}

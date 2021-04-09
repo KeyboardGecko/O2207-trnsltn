@@ -16,7 +16,7 @@
 #
 # после знакомства
 {3}{}{You see Lenny.}
-{4}{}{Ghoul, who decided to help his friend to reborn.}
+{4}{}{Ghoul who decided to help his friend to reborn.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
