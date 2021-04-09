@@ -20,9 +20,9 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His juvenile antics are strangely combined with the habits of a predator, when he starts talking] Who the hell are ye? [he looks around, as if checking for a threat] Whaddaya want from G, uncle? Hurry up, I have a little time to spare on you. Hear me?}
+{10}{}{[His juvenile antics are strangely combined with the habits of a predator, when he starts talking] Who the hell are ye? [he looks around, as if checking for a threat] Whaddaya want from G, uncle? I have no time to spare. Hear me?}
 {11}{}{Hello, G. I'm }
-{12}{013}{. What are you doing here?}
+{12}{013}{. What are you and your friends doing here?}
 {13}{}{I'm }
 {14}{011}{. I'm here for work. You look like you know the streets. Mind telling me about locals?}
 {15}{999}{Get lost, kid! I'm just walking by. }
@@ -96,12 +96,12 @@
 {127}{999}{Let's talk about it later. I need to go now.}
 
 
-{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS, my FAMILY! You'll see, we are going to take the lead here, eventually. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, did you hear? I did ! And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace of all black brothers! Why does the Hog cares about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
+{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? I do! And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog cares about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
 {131}{014}{Have something to add, G?}
 
 
 {1401}{}{[he shakes head] Nah. Nothing.}
-{141}{012}{Maybe you can tell me - is there some job for me around here?}
+{141}{012}{Maybe you can tell me then - is there some job for me around here?}
 {142}{999}{See you around then.}
 {1402}{}{Uh... I think we could accept you into our gang... If you can prove that you are useful.}
 {143}{015}{Really? I'm flattered. And what do you mean by "useful", I wonder?}
