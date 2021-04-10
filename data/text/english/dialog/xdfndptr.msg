@@ -22,108 +22,108 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: Дефендер.}
-{2}{}{Вы видите: Дефендер.}
-{3}{}{Вы видите: Дефендер.}
-{4}{}{Вы видите: Дефендер.}
-{5}{}{Вы видите: Дефендер.}
-{6}{}{Его броня вызывает у Вас трепет.}
-{7}{}{Из выхлопных труб за его спиной валит черный дым.}
-{8}{}{Каждое движение этого воина говорит о его неприступности и мощи.}
-{9}{}{...хотя, в конечном счете, под его броней наверняка простое человеческое мясо...}
+{1}{}{You see Defender.}
+{2}{}{You see Defender.}
+{3}{}{You see Defender.}
+{4}{}{You see Defender.}
+{5}{}{You see Defender.}
+{6}{}{A sight of his armor makes you stare in awe.}
+{7}{}{Black smoke is coming from the tail pipes on his back.}
+{8}{}{Every move of this warrior shows his impenetrability and power.}
+{9}{}{...Although, in the end, there's probably just a human meat under all this metal...}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Искатель?}
-{11}{}{Сейчас не время.}
-{12}{}{Продолжай свое задание.}
-{13}{}{Что ты тут делаешь?}
-{14}{}{На задании, да?}
-{15}{}{Вестник!? Какого черта ты здесь делаешь?}
-{16}{}{Тебе здесь не место, возвращайся в Тартар.}
-{17}{}{Вернись в Тартар, пока я не доложил о тебе.}
-{18}{}{Вестникам здесь не место. Здесь опасно.}
-{19}{}{Решил тряхнуть стариной в Радиусе, а?}
-{20}{}{Вы видите: рейнджер.}
-{21}{}{Вы видите: искатель.}
-{22}{}{Вы видите: военный.}
-{23}{}{Судя по форме, мужчина явно принадлежит к военным.}
-{24}{}{Его броня хорошо подогнана к форме тела и выглядит весьма удобной.}
-{30}{}{Искатель?}
-{31}{}{Только что с задания, а? Отдохни, расслабься.}
-{32}{}{Да-а, сильно тебя Радиус потрепал...}
-{33}{}{Ищешь, чем заняться? Спроси у Ричардса!}
-{34}{}{На задании, да?}
-{35}{}{Вестник!? Какого черта ты здесь делаешь?}
-{36}{}{Тебе здесь не место, возвращайся в Тартар.}
-{37}{}{Вернись в Тартар, пока я не доложил о тебе.}
-{38}{}{Ты же не собираешься тут проповедовать, да? *хохочет*}
-{39}{}{Решил свежего воздуха глотнуть? Не попадайся начальству.}
+{10}{}{Seeker?}
+{11}{}{Now's not the time.}
+{12}{}{Continue your mission.}
+{13}{}{What are you doing here?}
+{14}{}{On a mission, aren't you?}
+{15}{}{Herald!? What the hell are you doing here?}
+{16}{}{You don't belong here, return to Tartarus.}
+{17}{}{Get back to Tartarus before I report about you.}
+{18}{}{Herald shouldn't be here. It's dangerous.}
+{19}{}{Decided to remember the old days in Radius?}
+{20}{}{You see Ranger.}
+{21}{}{You see Seeker.}
+{22}{}{You see a military.}
+{23}{}{Judging by his uniform, he definitely belongs to military.}
+{24}{}{His armor is adjusted to his body and looks very comfortable.}
+{30}{}{Seeker?}
+{31}{}{Just returned? Relax, enjoy yourself.}
+{32}{}{Yeah, Radius got you pretty bad...}
+{33}{}{Wondering what to do? Ask Richards!}
+{34}{}{On a mission?}
+{35}{}{Herald!? What the hell are you doing here?}
+{36}{}{You don't belong here, return to Tartarus.}
+{37}{}{Get back to Tartarus before I report about you.}
+{38}{}{I hope you're not going to preach here, right? [laughs]}
+{39}{}{Taking a breath of fresh air? Don't let the superiors see you.}
 ####
-{40}{}{Вы видите: инженер.}
-{41}{}{Вы видите: техник.}
-{42}{}{Человек в грязном поношенном халате ученого.}
-{43}{}{Вы наверняка можете сказать, что этот человек знает толк в механизмах.}
-{44}{}{Вояка? Не мешайся мне тут!}
-{45}{}{Военные, вечно от вас никакого толку.}
-{46}{}{Вас, искателей, только в Радиус посылать.}
-{47}{}{Вестник!? Ты что тут забыл!?}
-{48}{}{Что, опять в своем Тартаре что-то поломали?}
-{49}{}{Ну неужели рабы снова конвертер поломали??}
-{50}{}{Ты кто такой?}
-{51}{}{Отвяжись, или позову охрану!}
-{52}{}{Мне плевать, кто ты и что тебе нужно, просто оставь меня в покое.}
-{53}{}{Ты не видишь!? Я тут пытаюсь работать!!!}
-{54}{}{Нет, нет, нет! Я не знаю, что тебе нужно!}
-{55}{}{Никак не привыкну к этой броне.}
-{56}{}{Здорово быть Дефендером! Только помыться бы.}
-{57}{}{Да, отличная броня, правда? Жалко прошлого владельца. Кто бы он ни был.}
-{58}{}{Я тут немного воздух покопчу, а? *металлический смех*}
-{59}{}{Я чувствую себя НЕСОКРУШИМЫМ!}
+{40}{}{You see an engineer.}
+{41}{}{You see a techie.}
+{42}{}{A man wearing dirty lab coat of scientist.}
+{43}{}{You can tell for sure that this man knows his stuff about tech.}
+{44}{}{A military? Don't get in my way here!}
+{45}{}{Military, you're always useless.}
+{46}{}{You, Seekers, are only good to be sent into Radius.}
+{47}{}{Herald!? What are you doing around here!?}
+{48}{}{What? Did they destroy something in Tartarus again?}
+{49}{}{Did the slaves break the converter again? Seriously?}
+{50}{}{Who the hell are you?}
+{51}{}{Get lost, or I call the guards!}
+{52}{}{I don't care who you are, or what do you need. Just leave me alone.}
+{53}{}{Can't you see!? I'm trying to work here!!!}
+{54}{}{No, NO! I don't know what you need!}
+{55}{}{I can't get used to this armor.}
+{56}{}{It's great to be Defender! I wish I could take a shower though.}
+{57}{}{A great armor, isn't it? I feel sorry for previous owner. Whoever he was.}
+{58}{}{I'm gonna make some smoke here, alright? ::metallic laugh::}
+{59}{}{I feel INDESTRUCTIBLE!}
 ####
-{60}{}{Вы видите: ученая.}
-{61}{}{Вы видите: женщина-техник.}
-{62}{}{Женщина в грязном халате выглядит очень сосредоточенной.}
-{63}{}{Она весьма красива, даже с этими синими кругами под глазами.}
-{64}{}{Охх, военные, да перестаньте вы сюда лазать!}
-{65}{}{Ты конечно сильный, и в форме, и все такое, но у меня много работы.}
-{66}{}{Нет, нет, нет! И дружкам своим передай - мне не до вас!}
-{67}{}{Эй, старый перец! Ты-то что у нас забыл?}
-{68}{}{Слушай, иди обратно в Тартар рабов успокаивать!}
-{69}{}{Вестник, ты лифтом не ошибся? Тебе вниз, а не наверх!}
+{60}{}{You see a female scientist.}
+{61}{}{You see a female techie.}
+{62}{}{This woman in a dirty lab coat looks very focused.}
+{63}{}{She looks quite beautiful even with this dark circles under her eyes.}
+{64}{}{Military, stop coming in here!!}
+{65}{}{You are strong, of course, and good-looking in this uniform - but I have a work to do.}
+{66}{}{No, NO! And tell your friends that I don't have time for you all!}
+{67}{}{Hey, old man! What are you doing here?}
+{68}{}{Listen, you'd better go back to Tartarus, to calm slaves!}
+{69}{}{Herald, did you pick a wrong elevator? You should press down, not up!}
 ####
-{70}{}{О! Будь другом - подтолкни-ка эту пушку, там опять что-то заклинило.}
-{71}{}{Да просто толкни ее. Это опытный образец, клинит иногда.}
-{72}{}{Ого! Вот это МОЩЬ! Все видели, а!? Вот это - моя малышка!}
-{73}{}{Ого, как его разворотило! Никогда не устану на это смотреть!}
-{74}{}{Спасибо, что помог с этим тестом.}
+{70}{}{Oh, you! Push that gun, be so kind. It's jammed again.}
+{71}{}{Yes, just push it. It's a prototype, it gets jammed sometimes.}
+{72}{}{Whoa! YES! Such POWER! Did everybody see that!? That's my baby!}
+{73}{}{Look at how messed up he is! I'll never get tired of watching!}
+{74}{}{Thanks for helping me with testing.}
 ####
-{75}{}{Вы видите Главу Карателей.}
-{76}{}{Этот Дефендер - безжалостный глава отряда зачистки.}
-{77}{}{Ну что, ребятки? Размелем кости этим вонючим отбросам!}
-{78}{}{Кстати! Я тут музычку с собой прихватил, чтобы уж совсем скучно не было!}
-{79}{}{Уже домой захотел, новенький? Как тут закончим - так и вернемся, не раньше!}
-{80}{}{Не уверен, новенький. Думаешь, с них уже хватит? Или, правда, боеприпасы сэкономить?..}
-{81}{}{Да, думаю - остальные сами разбегутся. Пора бы уже и домой.}
-{82}{}{Нельзя никого оставлять в живых! Всех этих мразей нужно истребить! Всех до единого!}
-{83}{}{Ну окей, наверно ты прав.}
-{84}{}{Ого! Вот это - наш настрой! Давай-ка поищем спрятавшихся и выпотрошим их как сраных лавашей!}
-{85}{}{[далее]}
-{86}{}{Вы видите Дефендера из отряда Карателей.}
-{87}{}{Его заляпанная кровью броня говорит сама за себя.}
-{88}{}{Новенький, повторяй за мной: целишься - стреляешь - ловишь кайф!}
-{89}{}{Они все виноваты! Мы просто защищаем наш Дом.}
-{90}{}{Не думай! Просто наслаждайся процессом!}
-{91}{}{Ты откуда такой болтливый вылез! Расслабься и стреляй!}
-{92}{}{Уверен, мы тут еще не закончили!}
-{93}{}{Глава Карателей погиб, Ваша миссия окончена. Вы возвращаетесь в "Олимп".}
-{94}{}{Вы покинули место зачистки, миссия окончена. Вы возвращаетесь в "Олимп".}
+{75}{}{You see the head of the Punishers.}
+{76}{}{This Defender is a ruthless leader of cleaners.}
+{77}{}{Alright boys, let's take care of this filthy scum!}
+{78}{}{I brought some music, so it wouldn't be too boring!}
+{79}{}{Want to go home already, rookie? We are returning when we're done, not before.}
+{80}{}{I'm not sure, rookie. You think they had enough? I don't want to waste bullets for nothing...}
+{81}{}{Yes, the rest will scatter anyway. It's time to get back.}
+{82}{}{No one should be left alive! Each of these scums must be murdered! Every last one of them!}
+{83}{}{Yes, maybe you're right.}
+{84}{}{Hah, that's the spirit! Let's look for survivors and tear them apart like herd of fucking lavash!}
+{85}{}{[more]}
+{86}{}{You see Defender from Punishers.}
+{87}{}{His armor suit, covered in blood, speaks for itself.}
+{88}{}{Repeat after me, rookie: aim - shoot - thrill!}
+{89}{}{They are all guilty! And we are just protecting our home.}
+{90}{}{Don't think! Enjoy the process!}
+{91}{}{Where did you come from, big-mouth? Relax and shoot!}
+{92}{}{We're not done here.}
+{93}{}{The leader of Punisher is dead. Your mission is over. You return to "Olympus".}
+{94}{}{You left the location. Your mission is over. You return to "Olympus".}
 {95}{}{}
 {96}{}{}
 ####
-{97}{}{ЧУЖАК! ОХРАНА-А-А!}
-{98}{}{ЗЕСЬ ЧУЖАК! АТАКОВАТЬ ЕГО!}
-{99}{}{НАРУШИТЕЛЬ В БАШНЕ! УБИТЬ ЕГО!}
+{97}{}{INTRUDER! GUARDS!!!}
+{98}{}{AN INTRUDER IS HERE! ATTACK HIM!!}
+{99}{}{INTRUDER IS IN THE TOWER!! KILL HIM!!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

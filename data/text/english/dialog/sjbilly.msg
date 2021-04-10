@@ -35,7 +35,7 @@
 {1002}{}{[he adjusts wide belt on his massive belly and nods to you] Have you considered joining the Jackals yet? I have a position here reserved just for you... Maybe we'll go to Shiva together, make a party for three? }
 {105}{011}{What an interesting proposition... But, as I recall, you are still not completely in charge here, right? Or something has changed?}
 {106}{999}{No, thanks. I have a lot on my plate already. See you around, Billy.}
-{1003}{}{[Billy is inspecting a map before him. It crudely depicts some area of Radius. Frowning his bushy eyebrows, he is deeply focused on moving his thick finger around it.] Here are the guards... And here we may be able to pull through... [he waves at you] Hey, come here! You've traveled a lot around Raduis, right? Maybe you could be of help.}
+{1003}{}{[Billy is inspecting a map before him. It crudely depicts some area of Radius. Frowning his bushy eyebrows, he is deeply focused on moving his thick finger around it.] Here are the guards... And here we may be able to pull through... [he waves at you] Hey, come here! You've traveled a lot around Radius, right? Maybe you could be of help.}
 {107}{018}{It depends of what do you want to know...}
 {108}{020}{Not a whole lot, actually... What's going on here, by the way? Everybody's on their toes.}
 {109}{999}{Uh... I'll be back later - need to finish one thing, okay?}
