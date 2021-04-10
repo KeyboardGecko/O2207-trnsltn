@@ -29,7 +29,7 @@
 {5}{}{You see a well-armed guard.}
 {6}{}{A tough-looking guard.}
 {7}{}{This guard is armed and well-protected.}
-{8}{}{He almost doesn't move. Just like a statue, but with a weapon.}
+{8}{}{He almost doesn't move. Just like a statue with a weapon.}
 {9}{}{This man guards the Tartarus dwellers from all kinds of dangerous creatures.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ

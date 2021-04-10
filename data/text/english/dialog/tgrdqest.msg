@@ -22,15 +22,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: охранник.}
-{2}{}{Вы видите: охранник в бронекостюме.}
-{3}{}{Вы видите: человек из охраны.}
-{4}{}{Вы видите: стража.}
-{5}{}{Вы видите: вооруженный охранник.}
-{6}{}{Мощного вида охранник.}
-{7}{}{Хорошо вооруженный и защищенный охранник.}
-{8}{}{Этот человек охраняет жителей Тартара от нечисти.}
-{9}{}{Он почти не движется, совсем как статуя с ружьем!}
+{1}{}{You see a guard.}
+{2}{}{You see a guard in armor.}
+{3}{}{You see a man from security.}
+{4}{}{You see a guardian.}
+{5}{}{You see a well-armed guard.}
+{6}{}{A tough-looking guard.}
+{7}{}{This guard is armed and well-protected.}
+{8}{}{He almost doesn't move. Just like a statue with a weapon.}
+{9}{}{This man guards the Tartarus dwellers from all kinds of dangerous creatures.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -45,103 +45,103 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{Эй, слуга! Ты вниз собрался? Загляни на тех. уровне в подсобку, и принеси мне бутылочку... эээ... того напитка, из агрегата.}
-{101}{}{Ну как, принес что было прошено?}
-{102}{}{Конечно, сын Богов! А... Как мне это сделать?}
-{103}{}{Не знаю, что ты хочешь, и знать не хочу.}
-{104}{}{Э-э-э... Нет. Пока еще нет.}
-{105}{}{Да, конечно, вот! [протянуть бутыль охраннику]}
-{110}{}{Ну ты тупо-о-ой... Держи, вот 11 конфет. НЕ ЕШЬ ИХ!!! Сунь их в аппарат, который в подсобке стоит, подставь пустую бутылку и нажми на кнопку. И НЕ ВЗДУМАЙ ЭТО ПИТЬ!}
-{111}{}{Окей, все понятно. Я мигом!}
-{112}{}{А у меня нет бутылки.}
-{120}{}{[нервно сжимает рукоятку оружия] Не раздражай меня, слуга! Нету? Найди! Укради! Выменяй у Смитти! Меня мелочи не интересуют!}
-{130}{}{[Вы мигом получаете очень болезненный удар в живот] Непокорный!}
-{131}{}{Хорошо-хорошо, я все сделаю. Только... как мне это сделать?}
-{132}{}{Да пошел ты!}
-{140}{}{Давай сюда. [забирает бутылку и прячет ее бод броню] Свободен.}
-{141}{}{А где же благодарность?}
-{142}{}{[кивнуть и молча уйти]}
-{143}{}{Хорошо, я пошел.}
-{150}{}{Пшел отсюда!}
-{160}{}{ПОЧЕМУ ТАК ДОЛГО!? ХОЧЕШЬ ПРОГНЕВИТЬ БОГОВ?}
-{161}{}{Я все понял, все все все! Я сейчас же, мигом!}
-{170}{}{А ты смотри-ка. Это ж мой приятель! [сын Богов явно в очень приподнятом настроении] Ну? Че надо?}
-{171}{}{А, да. А можно мне бутылочку... пустую?}
-{172}{}{Я... Я... Мне ничего. Я просто иду во-он туда.}
-{180}{}{Ээ-эх. Да я ее кокнул. Ик! Случайно. Ха-ха-ха, шучу, братан! Вот, держи, и вали уже отсюда, глаза намозолил.}
-{181}{}{[взять бутылку и быстро тихо убраться]}
+{100}{}{Hey you! Servant! You going down, right? Get to the maintenance room on lower level, and bring me a bottle of... Uhh... That drink, from the machine.}
+{101}{}{So? Did you bring what I asked?}
+{102}{}{Of course, Son of Gods! And... How do I do that?}
+{103}{}{I don't know what you want. And I don't care.}
+{104}{}{Uhh... No. Not yet.}
+{105}{}{Yeah, sure! Here it is! [hand him the bottle]}
+{110}{}{Man, you're so stupid... Here, take these 11 candies. DO NOT EAT THEM!!! Insert them into the machine, which you'll find in the maintenance room. Put one empty bottle under it, then press the button. You'll get a bottle filled. Bring it to me. AND DON'T DRINK IT!}
+{111}{}{Okay, I got it. Be right back!}
+{112}{}{But I don't have a bottle.}
+{120}{}{[he nervously clenches the handle of his weapon] Do not annoy me, Servant! Don't have a bottle? Then find it! Steal it! Trade it from Smitty! I don't care!}
+{130}{}{[you are immediately punched in a belly with armored fist] Disobedient!}
+{131}{}{Okay, okay, I'll do it. But... How?}
+{132}{}{Screw you!}
+{140}{}{Give me that. [he grabs the bottle and hides it under his armor] Go.}
+{141}{}{Where's my "thank you"?}
+{142}{}{[nod and leave]}
+{143}{}{Okay, I'm leaving.}
+{150}{}{Get the fuck out!}
+{160}{}{WHY DOES IT TAKE SO LONG? DO YOU WANT TO ANGER THE GODS?!}
+{161}{}{Understood, sorry! Be right back!!}
+{170}{}{Would you look at that. Isn't that my buddy! [Son of Gods is definitely in a good mood] So? What do you want?}
+{171}{}{Uh... Can I take an empty bottle?}
+{172}{}{I... I... Nothing. Just going that way.}
+{180}{}{Oh, man. I broke it. Hic! Accidentally. Hahaha, just kidding, bro. Here, take it and get the hell out of my sight.}
+{181}{}{[take the bottle and leave]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Здравствуй!}
-{1001}{}{Приветствую!}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Категорически приветствую!}
-{1004}{}{Э-эй! Как жизнь молодая?}
-{1005}{}{Приятно тебя видеть!}
-{1006}{}{Я бы и не прочь перекинуться парой слов, но служба, служба.}
-{1007}{}{Эй, как настроение?}
-{1008}{}{Ну конечно же рад тебя видеть!}
-{1009}{}{[смотрит на Вас дружелюбно]}
+{1000}{}{Hello!}
+{1001}{}{Hey there!}
+{1002}{}{Hello, hello!}
+{1003}{}{Hello to you too!}
+{1004}{}{Hey! How's life?}
+{1005}{}{Glad to see you!}
+{1006}{}{I actually don't mind chatting for a bit, but, you know, duty calls.}
+{1007}{}{Hey, how are you feeling?}
+{1008}{}{Of course I'm glad to see you!}
+{1009}{}{[looks at you friendly]}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Не-а, некогда мне!}
-{1013}{}{Хорошо, но попозже, лады?}
-{1014}{}{Не-е, настроения нет.}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Что тебе?}
-{1017}{}{Чего надо?}
-{1018}{}{Отойди, свет загораживаешь.}
-{1019}{}{[молча смотрит на Вас]}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Can't you see? I'm busy!}
+{1012}{}{No, I have no time!}
+{1013}{}{Okay. But later.}
+{1014}{}{Nah, I'm not in the mood.}
+{1015}{}{Don't bother me, let me rest.}
+{1016}{}{What now?}
+{1017}{}{What do you want?}
+{1018}{}{Step away, you are blocking the light.}
+{1019}{}{[looks at you saying nothing]}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{Малыш, тебе туда нельзя.}
-{1031}{}{Там нет ничего интересного.}
-{1032}{}{Лучше пойди и поиграй, ок?}
-{1033}{}{Не трогай мой костюм!}
-{1034}{}{Нет, ты туда не пройдешь.}
-{1035}{}{Сначала подрасти, и я тебя пропущу.}
-{1036}{}{Туда маленьким деткам нельзя ходить.}
-{1037}{}{Мелкий, не путайся тут, хорошо?}
-{1038}{}{Отойди, не мешайся!}
-{1039}{}{[стоит не двигаясь]}
+{1030}{}{Kid, you can't go in here.}
+{1031}{}{There's nothing interesting for you there.}
+{1032}{}{Go play somewhere else, okay?}
+{1033}{}{Don't touch my suit!}
+{1034}{}{No, you won't go in there.}
+{1035}{}{Grow up first, and I'll let you pass.}
+{1036}{}{Little children can't go in there.}
+{1037}{}{Don't run around here, little one.}
+{1038}{}{Step back, don't be a hassle!}
+{1039}{}{[doesn't move]}
 #Спец сообщения (ГГ - мальчик)
-{1040}{}{Как дела, малыш?}
-{1041}{}{Привет-привет!}
-{1042}{}{Давай потом поболтаем, ок?}
-{1043}{}{Эй, как делища?}
-{1044}{}{Не мешайся, пожалуйста.}
-{1045}{}{Нет, давай все же попозже.}
-{1046}{}{Слушай, малыш, мне сейчас некогда.}
-{1047}{}{Как дела, мелкопуз?}
-{1048}{}{Передавай привет папе!}
-{1049}{}{[смотрит на Вас и улыбается]}
-#Рандомные всплывающие сообщения
-{1050}{}{Щас бы посидеть, так Вестник застукает.}
-{1051}{}{Не-е, пора работу менять.}
-{1052}{}{Раз, два, три... смотри - не помри.}
-{1053}{}{И что же скучно-то так?.}
-{1054}{}{Хоть бы сунулся кто, а то ружье уже ржавеет.}
-{1055}{}{Нужно было в "Хищники" идти.}
-{1056}{}{И так вот день за днем.}
-{1057}{}{В туалет еще захотелось.}
-{1058}{}{Да-а, невесело...}
-{1059}{}{[внимательно изучает ружье]}
+{1040}{}{How are you doing, kid?}
+{1041}{}{Hey-hey!}
+{1042}{}{Let's talk later, okay?}
+{1043}{}{Hey, how are you?}
+{1044}{}{Don't get in my way please.}
+{1045}{}{No, let's talk later.}
+{1046}{}{Listen kid, I'm busy now.}
+{1047}{}{How are you doing, kiddo?}
+{1048}{}{Say hi to your dad from me!}
+{1049}{}{[looks at you and smiles]}
+#Рандомные плпвающие сообщения
+{1050}{}{Would be good to sit for a little... But if Herald sees...}
+{1051}{}{Maybe it's time to get a new job.}
+{1052}{}{One, two, three - nothing to do here.}
+{1053}{}{Why is it so boring?}
+{1054}{}{Would be great if someone attacked - my rifle is getting rusty.}
+{1055}{}{Should have gone with the "Predators".}
+{1056}{}{Day after day - all the same.}
+{1057}{}{I need a toilet.}
+{1058}{}{Yeah, not much fun...}
+{1059}{}{[carefully examines his rifle]}
 #Спец сообщения
-{1063}{}{Как...}
-{1064}{}{Ты...}
-{1065}{}{Смеешь...}
-{1066}{}{Заставлять...}
-{1067}{}{Меня...}
-{1068}{}{ЖДАТЬ!?}
+{1063}{}{How...}
+{1064}{}{Dare...}
+{1065}{}{You...}
+{1066}{}{Keep...}
+{1067}{}{Me...}
+{1068}{}{WAITING!?}
