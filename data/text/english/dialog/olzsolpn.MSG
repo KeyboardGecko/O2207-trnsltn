@@ -86,7 +86,7 @@
 {122}{999}{<LOG OFF>}
 
 #Node013
-{130}{}{I've tried many different ways of dealing with it, but he stil hears me! Even if he doesn't show it... The tower is stuffed with all kinds of surveillance devices, so he is observing everything, like he is some kind of God! But I can't give up... If he managed to get there, then there must be a way to get him out, to remove him. In the end, the salvation of this tower is my responsibility only...}
+{130}{}{I've tried many different ways of dealing with it, but he still hears me! Even if he tries to not show it... The tower is stuffed with all kinds of surveillance devices, so he is observing everything, like he is some kind of God! But I can't give up... If he managed to get there, then there must be a way to get him out, to remove him. In the end, the salvation of this tower is my responsibility only...}
 {131}{011}{<Private logs> (Authorized personnel only)}
 {132}{999}{<LOG OFF>}
 
