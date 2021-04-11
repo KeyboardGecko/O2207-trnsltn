@@ -456,27 +456,27 @@
 {23700}{}{Chair}
 {23701}{}{This chair is slightly askew.}
 {23800}{}{Chair}
-{23801}{}{An old wooden chair, looks stil quite sturdy.}
+{23801}{}{An old wooden chair. Still looks quite sturdy.}
 {23900}{}{Chair}
-{23901}{}{An old wooden chair, looks stil quite sturdy.}
+{23901}{}{An old wooden chair. Still looks quite sturdy.}
 {24000}{}{Chair}
-{24001}{}{An old wooden chair, looks stil quite sturdy.}
+{24001}{}{An old wooden chair. Still looks quite sturdy.}
 {24100}{}{Chair}
-{24101}{}{An old wooden chair, looks stil quite sturdy.}
+{24101}{}{An old wooden chair. Still looks quite sturdy.}
 {24200}{}{Chair}
-{24201}{}{An old wooden chair, looks stil quite sturdy.}
+{24201}{}{An old wooden chair. Still looks quite sturdy.}
 {24300}{}{Fire Hydrant}
 {24301}{}{There's definitely no water there anymore.}
 {24400}{}{Lamp Post}
-{24401}{}{It's covered in rust, but it's still standing.}
+{24401}{}{It's covered in rust, but still standing.}
 {24500}{}{Lamp Post}
 {24501}{}{This lamp post will never work again.}
 {24600}{}{Lamp Post}
 {24601}{}{This lamp post will never work again.}
 {24700}{}{Lamp Post}
-{24701}{}{It's covered in rust, but it's still standing.}
+{24701}{}{It's covered in rust, but still standing.}
 {24800}{}{Crate}
-{24801}{}{A metal crate, labeled Livos.}
+{24801}{}{A metal crate. Label reads "Livos".}
 {24900}{}{Metro Sign}
 {24901}{}{The entrance to the station must be here somewhere.}
 {25000}{}{Cave Wall}
@@ -487,7 +487,7 @@
 {25300}{}{Crate}
 {25301}{}{A sturdy metal crate.}
 {25400}{}{Crate}
-{25401}{}{A metal crate, labeled Livos.}
+{25401}{}{A metal crate. Label reads "Livos".}
 {25500}{}{Junk}
 {25501}{}{There's nothing useful there.}
 {25600}{}{Rocks}
