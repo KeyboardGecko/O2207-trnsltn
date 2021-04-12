@@ -146,7 +146,7 @@
 {293}{030}{You know, I have troubles getting the necessary amount.}
 
 
-{300}{}{That's your problem. Do whatever you want. Can even use your own ass to make earnings, I don't fucking care.}
+{300}{}{That's your problem. Do whatever you want. Use your ass to earn it, I don't fucking care.}
 {301}{999}{Damn... I have to think of something...}
 
 

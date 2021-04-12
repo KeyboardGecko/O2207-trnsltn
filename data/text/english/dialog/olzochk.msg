@@ -11,86 +11,75 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: человек в мощном бронекостюме.}
-{2}{}{Он калибрует свою броню прямо на себе.}
+{1}{}{You see a man wearing powerful armor suit.}
+{2}{}{He is calibrating his armor while wearing it.}
 #
 # после знакомства
-{3}{}{Вы видите: Константин Зочкис.}
-{4}{}{За всей этой броней сложно понять, что он из себя представляет на самом деле.}
+{3}{}{You see Constantine Zochkis.}
+{4}{}{Because of all this armor, it's hard to say what's he really like.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[скорее всего перед вами глава конструкторского Бюро, о котором Вам говорили]}
-{11}{}{[скорее всего перед вами глава конструкторского Бюро, о котором Вам говорили. Едва Вас заметив, он делает несколько шагов вам на встречу, вытянув руку вперед ладонью] Как ты смеешь заявляться сюда с этой дрянью [он указал пальцем на химеру]!? Пошел отсюда, неуч! И прихвати свою зверушку, пока я вас в порошок не стер! Немедленно!}
-{12}{002}{Эй, папаша, а где здесь Зочкис?}
-{13}{003}{Привет!}
-{14}{004}{Я слышал тут кружок любителей диких животных?}
-{15}{005}{В порошок? Довольно смелое заявление для такого старпера.}
-{16}{006}{А я слышал, что ты страсть как любишь химер...}
-{17}{008}{Говорят, что ты боишься химер и кричишь как маленькая девочка. Ну что же... это была полная правда.}
-{18}{999}{[не начинать диалог]}
-{19}{999}{Окей-окей, я уже ухожу!}
+{10}{}{[most likely, you see the head of Design office you've heard about.]}
+{11}{}{[most likely, you see the head of Design office you've heard about. Seeing you, he makes a few steps forward, raising his hand in a warning gesture] How DARE you to come here with this abomination?! Get out of here, idiot! And take your pet away, before I wipe the floor with you both! Leave immediately!}
+{12}{002}{Hey, grandpa. Where can I find Zochkis?}
+{13}{003}{Hello there!}
+{14}{004}{Is there a wildlife lovers club around here somewhere?}
+{15}{005}{Wipe the floors? A bold statement from such a geezer.}
+{16}{006}{I've heard you are into Chimeras...}
+{17}{008}{There's a rumor going that you are afraid of Chimeras, screaming like a little girl when you see one. And now I can definitely say - it's the truth.}
+{18}{999}{[don't start the conversation]}
+{19}{999}{Okay, okay! I'm already leaving!}
 
-{20}{}{[старик отрывается от своих дел и внимательно смотрит на Вас несколько мгновений] А ты, тупой солдафон, кто вообще такой? Ты хоть понимаешь с кем говоришь? Я - главный инженер, создатель нынешней обороны Олимпа - Константин Зочкис! А вот ты - вообще непонятно как попал на этот этаж. Что тебе нужно? Тебя отправил как посыльного этот бездарный и заносчивый мальчишка Филлип?}
-{21}{998}{Я просто хотел убедиться, что ты и есть Зочкис. Перед тем, как откручу тебе голову.}
-{22}{999}{Да уже ничего. Просто хотел убедиться в слухах лично. Уже иду дальше. Мое задание, слава богу, на выше этажом.}
+{20}{}{[he stops calibrating his suit and bluntly stares] Who the hell are you, blockhead? Do you even realize who you're talking to? I am the head engineer of this place, the creator of latest defense systems of Olympus, Constantine Zochkis! And you - how the hell did you even get on this level? What do you want here? Oh, let me guess - this incompetent and arrogant youngling Philipp sent you! You're his errand boy, am I right?}
+{21}{998}{I was just making sure that you are Zochkis. Before ripping your head off.}
+{22}{999}{Nothing, I want nothing. Just making sure that the rumors are true. I'm already leaving. Thank Gods, my mission is on the next level.}
 
-{23}{011}{На самом деле я по поручению Моро. Ему нужна энергоячейка для клон-машины.}
+{23}{011}{Actually, I'm here on behalf of Moro. He needs a power cell for a cloning machine.}
 
-{24}{}{Моро!? Да он вообще понимает, что истратил уже 3 ячейки, а их осталась всего пара! Нет, нет и еще раз - НЕТ! Поэтому... [внезапно он замирает, будто увидел привидение. Или услышал привидение] Хорошо... Мне приказано не мешать работе этажа органических исследований, так что... В любом случае, запчастями заведует Дик, найдешь его в противоположном углу этажа. Все, не задерживай меня больше.}
-{25}{999}{Окей, пойду к Дику.}
+{24}{}{Moro!? Does he understand that he had spent three cells already? We don't have many of them left! No, no and again - NO! And that's why... [suddenly, he freezes, as if seen a ghost. Or heard one.] Okay... I just had and order to not interrupt the work of Organic Research office, so... Anyway, the parts are issued by Dick, you can find him in the opposite side of this level. That's it, we're done here.}
+{25}{999}{Okay, I'll go visit Dick.}
 
+{30}{}{[You are being ignored.]}
+{31}{007}{Hello? I'm talking to you!}
+{32}{002}{Hey, grandpa. Where can I find Zochkis?}
+{33}{004}{Is there a wildlife lovers club around here somewhere?}
+{34}{999}{[leave]}
 
-{30}{}{[Вас игнорируют]}
-{31}{007}{Эй! Я к вам обращаюсь!}
-{32}{002}{Эй, папаша, а где здесь Зочкис?}
-{33}{004}{Я слышал тут кружок любителей диких животных?}
-{34}{999}{[уйти]}
+{40}{}{What? What are you talking about? Get the hell out of here, or I'll throw you out myself!}
+{41}{999}{Okay, okay! Just making sure that the rumors are true. I'm already leaving. I need the next floor anyway.}
+{42}{999}{[leave]}
 
+{50}{}{Are you having a psychotic break right now? I'm going to mince you!}
+{51}{998}{Try it, you ancient wreckage...}
+{52}{999}{Come on, old man, I was just fooling around. Relax, I'm leaving. I need the next floor anyway.}
 
-{40}{}{[старый инженер бросает на Вас злобный взгляд] Что? Что ты несешь? Проваливай отсюда, пока мы тебя не вышвырнули сами!}
-{41}{999}{Ладно-ладно вам! Я просто хотел убедиться в слухах лично. Уже иду дальше. Мне выше.}
-{42}{999}{[уйти]}
+{60}{}{[he turns to you. His armor makes loud echoing noises when he takes a step closer.] Last warning, clown.}
+{61}{998}{Oh yeah? [suddenly punch him]}
+{62}{999}{Come on, old man, I was just fooling around. Relax, I'm leaving. I need the next floor anyway.}
+{63}{998}{[spit into the ocular of his suit]}
 
+{70}{}{Don't disturb me. The talk is over.}
+{71}{002}{Hey, grandpa. Where can I find Zochkis?}
+{72}{004}{Is there a wildlife lovers club around here somewhere?}
+{73}{999}{[leave]}
 
-{50}{}{У тебя что, помутнение рассудка? Я тебя сейчас в фарш перетру!}
-{51}{998}{Ну попробой, старпер...}
-{52}{999}{Да ладно тебе, старикан. Я просто шутил. Расслабься, я уже ухожу. Просто мимоходом решил заскочить на ваш этаж. Мне выше.}
+{80}{}{What? What the hell are you babbling about? I can kill these things with my bare hands!}
+{81}{009}{Oh really?}
 
+{90}{}{Watch me, you brat!}
+{91}{999}{[watch him]}
 
-{60}{}{[инженер теперь полностью повернулся к Вам, его бронекостюм создает тяжелое эхо от шагов] Последнее предупреждение, клоун.}
-{61}{998}{Да? [нанести внезапный удар]}
-{62}{999}{Да ладно тебе, старикан. Я просто шутил. Расслабься, я уже ухожу. Просто мимоходом решил заскочить на ваш этаж. Мне выше.}
-{63}{998}{[плюнуть в окуляр бронекостюма]}
+{100}{}{[You are being ignored.]}
+{101}{}{[seeing you, he makes a few steps forward, raising his hand in a warning gesture] How DARE you to come here with this abomination?! Get out of here, idiot! And take your pet away, before I wipe the floor with you both! Leave immediately!}
+{102}{002}{Hey, grandpa. Where can I find Zochkis?}
+{103}{003}{Hello there!}
+{104}{004}{Is there a wildlife lovers club around here somewhere?}
+{105}{005}{Oh yeah? I wouldn't jump to conclusions like that, if I were you.}
+{106}{006}{I've heard you are into Chimeras...}
+{107}{008}{There's a rumor going that you are afraid of Chimeras, screaming like a little girl when you see one. And now I can definitely say - it's the truth.}
+{108}{999}{[don't start the conversation]}
+{109}{999}{Okay, okay! I'm already leaving!}
 
-
-
-
-{70}{}{Не мешай. Разговор окончен.}
-{71}{002}{Эй, папаша, а где здесь Зочкис?}
-{72}{004}{Я слышал тут кружок любителей диких животных?}
-{73}{999}{[уйти]}
-
-
-{80}{}{Что? Да что ты несешь? Я могу удавить любую из этих тварей голыми руками!}
-{81}{009}{Да ну?}
-
-
-{90}{}{Смотри, щенок!}
-{91}{999}{[наблюдать]}
-
-
-{100}{}{[Ваше присутствие игнорируют]}
-{101}{}{[Едва Вас заметив, он делает несколько шагов вам на встречу, вытянув руку вперед ладонью] Как ты смеешь заявляться сюда с этой дрянью [он указал пальцем на химеру]!? Пошел отсюда, неуч! И прихвати свою зверушку, пока я вас в порошок не стер! Немедленно!}
-{102}{002}{Эй, папаша, а где здесь Зочкис?}
-{103}{003}{Привет!}
-{104}{004}{Я слышал тут кружок любителей диких животных?}
-{105}{005}{Нда? Я бы на твоем месте не делал таких поспешных выводов.}
-{106}{006}{А я слышал, что ты страсть как любишь химер...}
-{107}{008}{Говорят, что ты боишься химер и кричишь как маленькая девочка. Ну что же... это была полная правда.}
-{108}{999}{[не начинать диалог]}
-{109}{999}{Окей-окей, я уже ухожу!}
-
-
-{110}{}{Ваш удар пришелся на стык двух пластин в районе живота. Часть стыкующих элементов вошла в тело инженера, пробив его кишечник насквозь. Похоже, вы нашли ахилесову пяту бронекостюма!}
-{111}{}{ВНИМАНИЕ! Говорит управляющий. Карта доступа Константина Зочкиса заблокирована, этаж бюро закрыт на карантин. Конец.}
+{110}{}{Your punch comes into the junction of two armor plates in the abdomen. Some elements and parts puncture through engineer's body, penetrating his intestines. Looks like you have accidentally found a sweet spot of this suit!}
+{111}{}{ATTENTION! Administrator speaking. Access keycard of Constantine Zochkis is blocked. The floor is currently put under lockdown. Over.}
