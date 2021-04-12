@@ -40,7 +40,7 @@
 {42}{005}{What are you even talking about? I don't understand!}
 {43}{998}{A sad way to go. Let's begin.}
 
-{50}{}{What? You wasn't sent by Boston McKinsey? Are you sure you didn't come to kill me?}
+{50}{}{What? You weren't sent by Boston McKinsey? Are you sure you didn't come to kill me?}
 {51}{007}{No! I'm just looking around Livos, getting acquaintained with everyone!}
 {52}{998}{I came exactly for that. Goodbye, Claudia.}
 {53}{999}{I don't want to kill no one! I'd better hurry up and get away from here.}
