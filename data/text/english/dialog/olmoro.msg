@@ -33,7 +33,7 @@
 
 #Node002
 {20}{}{[his eerie, predatory smile gets impossibly wide] For inspection, you say? Interesting... Especially considering that captain can't order an inspection around here, because his clearance level is too low... [he creepily giggles] Now, tell me, who you really are?}
-{21}{007}{Okay, you got me, doc. Actually, I'm here to hit on one assistant girl from the lab.}
+{21}{007}{Okay, you got me, doc. Actually, I'm here to hit on one of the assistant girls from the lab.}
 {22}{003}{None of your business, old man.}
 {23}{006}{I got my orders from captain. I don't know where he got his. I'm here to follow mine.}
 
@@ -58,7 +58,7 @@
 {63}{005}{[punch the doctor right in his nose]}
 
 #Node007
-{70}{}{[Moro covers his face with his palm. That's much better.] Another horny jock from the security... Well, at least you didn't try to deny it. Okay, smart guy. You shouldn't be here, but you still can be of help. Do me a favor - and you can loiter around here for as long as you want, pestering the lab girls as much as you can, I don't care. I won't take no for an answer, as you have already guessed.}
+{70}{}{[Moro covers his face with his palm. Now it's much easier for you to talk to him.] Another horny jock from the security... Well, at least you didn't try to deny it. Okay, smart guy. You shouldn't be here, but you still can be of help. Do me a favor - and you can loiter around here for as long as you want, pestering the lab girls as much as you can, I don't care. I won't take no for an answer, as you have already guessed.}
 {71}{013}{What favor?}
 
 #Node008
@@ -66,7 +66,7 @@
 {81}{013}{What favor?}
 
 #Node009
-{90}{}{Practicality... A rare thing nowadays. Especially to the ones from security. [he squints his little eyes even more] And, I suppose, I don't need to know what's your business here, on our level?... Although, I don't care. I need a favor - you look like a perfect candidate.}
+{90}{}{Practicality... A rare thing nowadays. Especially among the ones from security. [he squints his little eyes even more] And, I suppose, I don't need to know what's your business here, on our level?... Although, I don't actually care. I need a favor - you look like a perfect candidate.}
 {91}{013}{What favor?}
 
 #Node010
@@ -79,7 +79,7 @@
 {106}{999}{Okay. [take the keycard]}
 {107}{}{Have you brought the battery?}
 {108}{027}{No.}
-{109}{028}{Yes. Here. And besides that - Gray made a promise to someone. He needs a special clone.}
+{109}{028}{Yes. Here. And besides that - Gray needs a special clone. He owed someone.}
 {1010}{}{Have you brought the stem cells?}
 {1011}{031}{Yes. Here [hand over the essence].}
 {1012}{030}{No.}
@@ -112,8 +112,8 @@
 {161}{015}{How do I'm getting her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
 
 #Node017
-{170}{}{I need her to... "calibrate" the cloning machine. Recent events are... Messed up its "tuning" a little. }
-{171}{018}{I suppose it's better not to ask what happens to a woman?}
+{170}{}{I need her to... "calibrate" the cloning machine. Recent events are messed up its "tuning" a little. }
+{171}{018}{I suppose it's better not to ask what happens to a woman in the process?}
 {172}{019}{Let me take a look at the machine. Maybe I could calibrate it without a guinea pig.}
 {173}{999}{Deal. Wait for your test subject.}
 
@@ -124,11 +124,11 @@
 
 #Node019
 {190}{}{You? Seriously? You don't look like someone who knows cloning.}
-{191}{020}{You don't need to know how to drive, to fix a car... [study the cloning machine]}
+{191}{020}{You don't need to know how to drive to fix a car... [study the cloning machine]}
 {192}{025}{I can still try.}
 
 #Node020
-{200}{}{[The machine turns out to be pretty simple mechanism. Simple structure, simple schematics. All is pretty conchise and sturdy, you don't really need to know genetics to fix this thing. Repairing damaged components and calibration can be done automatically, if you know how to launch the procedure. And you know.]}
+{200}{}{[The machine turns out to be pretty simple mechanism. Simple structure, simple schematics. All is pretty conchise and sturdy, you don't really need to know genetics to fix this thing. The calibration can be done automatically, if you know how to launch the procedure. And you know.]}
 {201}{021}{Well, doc, it's quite easy here. [turn on automatic calibration procedure].}
 
 #Node021
@@ -136,7 +136,7 @@
 {211}{022}{It's done, doc.}
 
 #Node022
-{220}{}{[Moro stands with his mouth open. He walks to the machine and runs some tests] What bright minds are wasted in the security! Great job, top notch! You know, don't tell Gray and others about this little success, and I will give you something. Here, it's my personal belonging. Sad to part with this toy, but I don't need such caliber around here. Although, if not for that stupid Kelly, I wouldn't have to give it away...}
+{220}{}{[Moro stands with his mouth open. He walks to the machine and runs some tests] What bright minds are wasted in the security! Great job, top notch! You know what, don't tell Gray and others about this little success, and I will give you something. Here, it's my personal belonging. Sad to part with this toy, but I don't need such caliber around here. Although, if not for that stupid Kelly, I wouldn't have to give it away...}
 {221}{023}{[take the gun] Who? What did she do?}
 
 #Node023
@@ -173,8 +173,8 @@
 {301}{999}{[leave]}
 
 #Node031
-{310}{}{Wonderful. Go take a walk while the scientist is doing real job. Go, stay out of my way...}
-{311}{032}{[go "take a walk"]}
+{310}{}{Wonderful. Go take a walk while the scientist is doing real job. Go, don't get in my way...}
+{311}{032}{[take a walk]}
 
 #Node032
 {320}{}{[you return to Moro. He is fully covered in sweat, bald spots on his head are shining brightly] It's working! Everything's working! I took a clone's blood sample - and she is perfectly healthy! I should tell professor Gray about this! [suddenly, the radio on the table makes static noise, and you hear voice: "doctor Moro, an employee from Engineering level had her water broken. We are carrying her to you in a minute."] Shit! Looks like my visit to Gray is postponed for some time. You - take the clone to this dirtbag Dick.}
