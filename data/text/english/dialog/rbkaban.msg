@@ -84,11 +84,11 @@
 {162}{999}{Damn, why didn't you say so earlier...}
 
 
-{170}{}{There's one crazed freak... Loudmouth. He's leading the Jackals... I used to run with him and his pack. [he shows you his crippled hand] See? This bitch took off my finger. Because of some bullshit... But I'm not mad at him. I want to make peace.}
+{170}{}{There's one crazed freak... Loudmouth. He's leading the Jackals... I used to run with him and his pack. [he shows you his crippled hand] See? This bitch took off my finger... But I'm not mad at him. I want to make peace.}
 {171}{018}{And you need a middleman for that?}
 
 
-{180}{}{Yes... Now it's quiet - they sell us weapons, we supply them with Drop... But it won't last long. Everything can go to shits at any moment. [he shakes head] Fucking asshole... Never learns... You... Convince him. No one benefits from the war...}
+{180}{}{Yes. Now it's quiet - they sell us weapons, we supply them with Drop... But everything can go to shits at any moment. [he shakes head] Fucking asshole... Never learns... You... Convince him. No one benefits from war...}
 {181}{019}{Ha! You got the right man for the job, the diplomacy is what I do! Will deliver the result, just wait.}
 {182}{999}{No, thank you. I don't want to go near such crazy people. All the best, bye!}
 
@@ -134,7 +134,7 @@
 {271}{999}{I hope it never comes to that. See you around, Hog.}
 
 
-{280}{}{What excatly didn't you understand? A client pays and fucks whores, and you maintain order. The rest is my business. [he pops another ampoule] So hand over the batteries and leave, don't ruin this for me...}
+{280}{}{What exactly didn't you understand? A client pays and fucks whores, you maintain order. The rest is my business. [he pops another ampoule] So hand over the batteries and leave, don't ruin this for me...}
 {281}{999}{Sure. Here's for this month. See you around.}
 {282}{029}{What? Do you always collect twice, or it's just me?}
 {283}{030}{You know, I have a difficult situation - it turned out to be not so easy...}
