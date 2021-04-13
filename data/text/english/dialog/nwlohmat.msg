@@ -42,7 +42,7 @@
 {31}{007}{So, you are Shaggy. Nice.}
 
 #Node004
-{40}{}{[The wolf makes a silent growl. Looks like he starts to get angry.]}
+{40}{}{[The wolf makes a silent growl. Looks like he is starting to get angry.]}
 {41}{999}{Oh, okay. See you.}
 {42}{008}{[Keep staring]}
 
@@ -114,10 +114,10 @@
 
 #Node015
 {150}{}{[Shaggy joyfully sticks out his tongue.]}
-{151}{}{[Shaggy lays on his back, letting you to stroke his belly.]}
+{151}{}{[Shaggy is laying on his back, letting you stroke his belly.]}
 {152}{}{[Shaggy closes his eyes and sniffles.]}
 {153}{}{[Shaggy leaps at you and topples you down. Now you are playing like puppies.]}
-{154}{}{[Shaggy lightly bites your hand, playing with you.]}
+{154}{}{[Shaggy lightly bites your hand in a playful manner.]}
 {155}{}{Grrrrrr...}
 {156}{999}{Okay, that's enough...}
 

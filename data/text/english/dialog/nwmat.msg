@@ -138,7 +138,7 @@
 
 
 {230}{}{Oh yeah? And what are you going to do? Come on, spill it out! [he puts his hand on his belt, probably, ready to pull his weapon.]}
-{231}{025}{Me? Nothing. Eveything is Seth's idea. Soon there's going to be an army from an underground settlement of Livos arriving here, which would mean the end of NWO. Seth will lead the takeover - with my personal assistance, of course. That's when you'll regret that you made your brother an enemy!}
+{231}{025}{Me? Nothing. Everything is Seth's idea. Soon there's going to be an army from an underground settlement of Livos arriving here, which would mean the end of NWO. Seth will lead the takeover - with my personal assistance, of course. That's when you'll regret that you made your brother an enemy!}
 {232}{999}{Forget it, nevermind.}
 
 
