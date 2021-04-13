@@ -67,7 +67,7 @@
 {131}{014}{Of course not! The Hog and Brick are good friends! So, he will be pleased. But don't tell this to him, let it be a... Surprise. Do you know some quiet place around here, where no one would bother you and Brick?}
 {132}{999}{Suit yourself then.}
 {1302}{}{[she looks scared] We would like to leave for some time.... But Mate won't let us... }
-{133}{014}{Oh, come one! You said so yourself, that he doesn't pay any attention to you! Right? Good! Still - be cautious. Pick a quiet spot.}
+{133}{014}{Oh, come on! You said so yourself, that he doesn't pay any attention to you! Right? Good! Still - be cautious. Pick a quiet spot.}
 {134}{999}{Suit yourself. I won't push it.}
 
 

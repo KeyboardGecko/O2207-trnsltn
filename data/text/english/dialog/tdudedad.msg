@@ -24,13 +24,13 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Папа.}
-{2}{}{Это Джон, Ваш отец. Вечно насупленные брови выдают в нем скептика и реалиста.}
+{1}{}{You see your dad.}
+{2}{}{This is John, your father. His constantly frowned eyebrows are showing that he is skeptical and realistic.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Папа.}
-{4}{}{Это Джон, Ваш отец. Вечно насупленные брови выдают в нем скептика и реалиста.}
+{3}{}{You see your dad.}
+{4}{}{This is John, your father. His constantly frowned eyebrows are showing that he is skeptical and realistic.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
@@ -47,80 +47,80 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Привет, сынок! Как дела?}
-{1001}{}{[глаза папы постоянно бегают, будто бы он что-то потерял и уже давно не может найти]}
-{101}{}{Привет, Пап! Я не знаю, чем бы мне заняться.}
-{102}{}{Плохо все, нет настроения! [насупиться и отвернуться]}
-{103}{}{Привет, Пап! Да делать нечего. А что ты ищешь?}
-{104}{}{Привет! Просто хотел тебя отвлечь от работы!}
-{105}{}{Привет! Помнишь, ты просил меня найти твой ключ?}
-{1101}{}{Ну-у. Можешь поиграть с братом. Или поприставать к маме. }
-{1102}{}{Или... Может, хочешь мне помочь, раз уж все равно заняться нечем?}
-{1103}{}{Да я и правда кое-что потерял. Эй, а ты не видел тут профессионального сыщика? [подмигивает]}
-{111}{}{Конечно же! Что нужно сделать? Человек-сыщик готов к заданию! [козырнуть]}
-{112}{}{Да-да, знаю-знаю. [махнуть рукой, уйти]}
-{113}{}{Ээмм. Точно, пойду кого-нибудь вилкой потыкаю!}
+{100}{}{Hello, son! How are you?}
+{1001}{}{[his eyes are darting around, as if he is looking for something and can't find it.]}
+{101}{}{Hey, dad! I don't know what to get myself busy with.}
+{102}{}{I'm not in the mood! Everything is bad! [frown and turn away]}
+{103}{}{Hey, dad! Just hanging, having nothing to do. Did you lose something?}
+{104}{}{Hello! Just wanted to distract you a little from your work!}
+{105}{}{Hello! Remember you asked me to find your wrench?}
+{1101}{}{Well... You can go play with your brother. Or bother your mom.}
+{1102}{}{Hmm... Maybe you want to help me?}
+{1103}{}{Yes, I lost one thing. Hey, have you seen a professional sleuth around here? [he winks at you]}
+{111}{}{Of course! What do I need to do? A sleuth-man is ready for a mission!}
+{112}{}{Yeah, yeah, I know. [sigh and leave]}
+{113}{}{Uh. Right! I'm gonna go stab someone with a fork.}
 
-{120}{}{[отец расплывается в широкой улыбке] Ну что ж, вот тебе задание особой важности: ты ведь знаешь мой маленький газовый ключ? Ну, такой, с деревянной ручкой? Без него мне никак не починить эту раковину, а я ума не приложу, куда мог его задевать. Хотя, может мама его видела? Эй, а куда мама задевалась? Вот так всегда.}
-{121}{}{Не-е. Такое задание даже человек-сыщик не осилит. Я потом загляну, хорошо?}
-{122}{}{Задание взято и записано. Гражданин, ожидайте Вашу пропажу в ближайшее время!}
-{123}{}{Да зачем же тебе помощь человека-сыщика? Просто постарайся вспомнить, куда ты его положил!}
+{120}{}{[dad kindly smiles] Alright, here's a top priority assignment for you: do you remember my wrench? Small one, with a wooden handle? I can't fix this sink without it, and I don't remember where I could put it... Maybe mom has seen it? Oh, and where is the mom? It's always like that...}
+{121}{}{Nah. This mission is too hard even for a sleuth-man. I'll come by later, okay?}
+{122}{}{Mission is taken. Citizen, await for delivery of your belonging in the nearest future!}
+{123}{}{Why do you need help of a sleuth-man for this? Just try to remember where did you see it last!}
 
-{130}{}{[папа морщит лоб еще сильнее обычного] Нет, ничего не помню, одна работа в голове.}
-{131}{}{Тебе нужно просто восстановить цепочку событий! Вспомни, когда ты его видел в последний раз, затем припомни, что ты с ним делал - и все. Это просто, попробуй!}
-{132}{}{Да-а, пап, ну и память у тебя. Хорошо, пойду его поищу. [направиться к маме]}
+{130}{}{[dad wrinkles his forehead even more than usual] No, I can't remember. All I have on my mind is work.}
+{131}{}{You just need to restore the chain of events! Try to remember where you saw it, then what you were doing with it - and that's it! Come on, try!}
+{132}{}{Gee, dad, what a memory you have. Okay, I'll go look for it. [leave to go find mom]}
 
-{140}{}{Да! Вот это я помню! [улыбается] Нашлась пропажа?}
-{141}{}{Прикладываю все усилия, но пока безрезультатно. Может, ты еще что-нибудь вспомнил?}
-{142}{}{Да, вот он! [протянуть папе его драгоценный ключ]}
+{140}{}{Yes, I remember! [he smiles again] Did you find it?}
+{141}{}{I'm trying my best, but still no awail. Maybe you remembered something else?}
+{142}{}{Yes! Here it is! [give dad his treasured wrench]}
 
-{150}{}{Ого, да ты и впрямь человек-сыщик! Спасибо, брат, выручил! Чем бы таким тебя отблагодарить?.. О! Я, конечно, знаю, что ты еще маленький, что насилие - не выход, но на всякий пожарный - держи вот это [протягивает Вам кастет] Вдруг придется обороняться от тварей с поверхности?}
-{151}{}{Спаси-и-ибо! Какая штукови-и-ина-а-а! Су-у-уперрр!}
-{152}{}{Ого! Прикольно! Пойду опробую на ком-нибудь!}
-{153}{}{Что ж, надеюсь, это никогда мне не пригодится.}
+{150}{}{Oh wow, you are the real sleuth-man! Thanks, dude, you helped me out so much! What can I thank you with?... Oh yeah! I know that you are not a grown up yet, and the violence is always a bad option, but - just in case - take this. [he hands you a knuckle] What if you have to defend yourself from the creatures of the outside?}
+{151}{}{What a cool thing! Awesome! Thanks! }
+{152}{}{Wow! Nice! I'll go try it on someone.}
+{153}{}{Hope I'll never have to use it.}
 
-{160}{}{Та-ак... Ага... А потом я... А он мне... Ну точно! Брук, отец твоей подружки Кэтти! Это ему я его давал в последний раз! Ну ты и умище, весь в папу! Спасибо, сынок!}
-{161}{}{Пффф! Делов-то!}
-{162}{}{Да ладно, быть умным не так уж и сложно. [скромно поковырять ботинком черствую землю]}
+{160}{}{Okay, so... Hmm... Huh... Yeah. And then I... And he is... Of course! Brook, the father of your friend Catty! He's the one I gave it to! Aren't you a smart one? Just like your dad! Thanks, son!}
+{161}{}{Hah! Easy-peasy!}
+{162}{}{Come on, it's not that hard to be smart. [humbly pick the ground with a foot]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{Привет, сынок!}
-{1001}{}{Как ты себя чувствуешь? Животик не болит?}
-{1002}{}{Слушай, сейчас не время. Пойди поиграй с братом.}
-{1003}{}{Пожалуйста, пойди поприставай к маме.}
-{1004}{}{Не приставай сейчас ко мне, пожалуйста.}
-{1005}{}{А кто у нас тут человек-сыщик, а?}
-{1006}{}{Пожалуйста, пойди поприставай к маме.}
-{1007}{}{Братец, не приставай. Иди к маме, ей помешайся.}
-{1008}{}{Я обязательно с тобой поиграю, только вот закончу тут.}
-{1009}{}{::улыбаясь смотрит на Вас::}
+{1000}{}{Hey, son!}
+{1001}{}{How are you feeling? How's your tummy?}
+{1002}{}{Listen, now is not a good time. Go play with your brother.}
+{1003}{}{Go bother your mom, please.}
+{1004}{}{Don't distract me now, be so kind.}
+{1005}{}{Who is the sleuth-man, hmm?}
+{1006}{}{Go bother your mom, please.}
+{1007}{}{Come on kid, don't distract me. Go to mom, bother her.}
+{1008}{}{I will definitely play with you, but I need to finish here..}
+{1009}{}{[looks at you and smiles]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Нейтральная реакция)
 #
-{1010}{}{Слушай, не сейчас.}
-{1011}{}{Немного попозже, сын.}
-{1012}{}{Ты видишь, мне некогда.}
-{1013}{}{Не приставай сейчас, я занят.}
-{1014}{}{Нет, давай-ка чуть попозже.}
-{1015}{}{Сейчас не время, сынок.}
-{1016}{}{Сына, не сейчас.}
-{1017}{}{Немного попозже, хорошо?}
-{1018}{}{Нет, давай-ка чуть попозже.}
-{1019}{}{::кажется, не обращает на Вас внимания::}
+{1010}{}{Come on, not now.}
+{1011}{}{A little later, son.}
+{1012}{}{Do you see that I'm a little busy?}
+{1013}{}{Don't distract me now, I'm busy.}
+{1014}{}{No, later.}
+{1015}{}{Now it's not the time, kid.}
+{1016}{}{Son, not now.}
+{1017}{}{A little later, alright?}
+{1018}{}{No, a little later.}
+{1019}{}{[looks like he doesn't pay any attention to you]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Отрицательная реакция)
 #
-{1020}{}{Негодник!}
-{1021}{}{Даже не приставай, пока не извинишься!}
-{1022}{}{Я не хочу разговаривать с такими плохими мальчиками!}
-{1023}{}{Гадкий мальчишка!}
-{1024}{}{Негодник!}
-{1025}{}{Даже не приставай, пока не извинишься!}
-{1026}{}{Я не хочу разговаривать с такими плохими мальчиками!}
-{1027}{}{Гадкий мальчишка!}
-{1028}{}{И как тебе не стыдно!!!}
-{1029}{}{::кажется, он вот-вот взорвется::}
+{1020}{}{You rascal!}
+{1021}{}{Don't even try talking to me before you apologize!}
+{1022}{}{I don't want to talk to such bad boys!}
+{1023}{}{Bad boy!}
+{1024}{}{You rascal!}
+{1025}{}{Don't even try talking to me before you apologize!}
+{1026}{}{I don't want to talk to such bad boys!}
+{1027}{}{Bad, bad boy!}
+{1028}{}{You should be ashamed!!}
+{1029}{}{[looks like he is about to explode]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Сонные звуки)
 #
