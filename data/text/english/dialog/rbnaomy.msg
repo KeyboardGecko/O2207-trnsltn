@@ -112,7 +112,7 @@
 {230}{}{Just wonderful. We've spent more time talking about it... Won't be distracting you anymore, you have a lot of work to do. Good luck!}
 
 
-{240}{018}{[she still sounds sarcastic, but you hear doubt in her voice] How coud YOU know something about the science? I don't think you can even read... The Drop is a unique chemical compound, researching it is a delight for any scientist! By the way, I have food, roof over my head, protection... How many people in Radius can say the same?}
+{240}{018}{[she still sounds sarcastic, but you hear doubt in her voice] How could YOU know something about the science? I don't think you can even read... The Drop is a unique chemical compound, researching it is a delight for any scientist! By the way, I have food, roof over my head, protection... How many people in Radius can say the same?}
 {241}{018}{Sure, sure. Are you trying to convince me, or yourself? I can see that this job is not making you happy. There's a plenty of places where your skills could have a better application! Where you could help people, make a difference!}
 {242}{999}{Oh really? Why didn't you make any progress in your research then? I know enough about chemistry to name some fields where you, judging by what I see, weren't even trying to make an improvement. Heterogeneous catalysts, enzyme inhibitors... Do I need to continue?}
 {243}{999}{Suit yourself. All the best.}

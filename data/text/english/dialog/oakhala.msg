@@ -71,13 +71,13 @@
 {141}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
 {142}{018}{What's with your arm?}
 {143}{031}{What fucking gifts? You eat people, you crazy bitch!}
-{144}{016}{You know healing? Coud you heal me?}
+{144}{016}{You know healing? Could you heal me?}
 {145}{017}{Hmm... Mind teaching me some recipes?}
 {146}{999}{Enough information for now. See you later.}
 {1402}{}{[Khala gently strokes knife handles, sticking up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. If you want, Khala can share her knowledge.}
 {147}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
 {148}{031}{What fucking gifts? You eat people, you crazy bitch!}
-{149}{016}{You know healing? Coud you heal me?}
+{149}{016}{You know healing? Could you heal me?}
 {1410}{017}{Hmm... Mind teaching me some recipes?}
 {1411}{999}{Enough information for now. See you later.}
 
