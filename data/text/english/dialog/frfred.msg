@@ -61,7 +61,7 @@
 {141}{015}{Favor? What favor?}
 
 
-{150}{}{[He looks back on the girl and lowers his voice] That's the thing... When we settled here, I laid some mines around the house. You know, Jackals and such... Plus, the Beasties often come around. So, uh... [he embarrassingly sniffles] when I was finishing placing the mines, I noticed some Beasties and accelerated into the house... to protect Christie, don't take me wrong! [seems like the girl heard him, after all. She gives Fred a cold look, irritatingly kicks an empty can and walks away into farther corner of the room. Fred only sighs] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Make us some path through the field. You would need to dig up only around five of them.}
+{150}{}{[He looks back on the girl and lowers his voice] That's the thing... When we settled here, I laid some mines around the house. You know, Jackals and such... Plus, the Beasties often come around. So, uh... [he embarrassingly sniffles] when I was finishing placing the mines, I noticed some Beasties and accelerated into the house... to protect Christie, don't take me wrong! [seems like the girl heard him, after all. She gives Fred a cold look, irritatingly kicks an empty can and walks away into farther corner of the room. Fred sighs] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Make us some path through the field. You would need to dig up only around five of them.}
 {151}{016}{That's it? Why don't you do it yourself then?}
 {152}{024}{It is easier for me to kill you off, you asshole. And you can't hide from me, I'm not a Beastie...}
 {153}{999}{I need to think it over... Talk later.}
