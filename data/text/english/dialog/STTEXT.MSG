@@ -198,7 +198,7 @@
 {151}{}{Congratulations! You've got }
 {152}{}{You pocket is now lined more with additional }
 {153}{}{You are a bit more richer, by }
-{154}{}{Happiness is not in Batteries, but in their quantity! You recieve }
+{154}{}{Happiness is not in Batteries, but in their quantity! You receive }
 {155}{}{ Batteries!}
 #
 # Traps on Doors
@@ -434,7 +434,7 @@
 {801}{}{You don't have an Organizer}
 {802}{}{You cannot enter combat mode!}
 {803}{}{Resolution must be at least 800õ600!}
-{804}{}{You recieved a new karma!}
+{804}{}{You received a new karma!}
 {805}{}{}
 {806}{}{}
 {807}{}{}
