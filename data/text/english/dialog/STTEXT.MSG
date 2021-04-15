@@ -240,7 +240,7 @@
 {208}{}{DANG! I'M BEING ROBBED!!!}
 {209}{}{YOU THIEVING LITTLE...}
 {210}{}{To try to steal from this trader your skill must be at least }
-{211}{}{ !}
+{211}{}{!}
 {212}{}{}
 {213}{}{}
 #

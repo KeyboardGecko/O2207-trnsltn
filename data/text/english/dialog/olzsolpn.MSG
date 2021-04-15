@@ -33,10 +33,10 @@
 {18}{}{TECHNICAL PROBLEMS DIAGNOSTICS WIZARD}
 {19}{}{LOG OFF}
 {20}{}{ACCESS ERROR - diagnostics is running... Done. 0 problems found. Please, pick an option.}
-{21}{}{Constantine Zochkiss, D-3, limited rights access. Access authorized. Greetings, Constantine Zochkiss. Please, pick an option.}
-{22}{}{Constantine Zochkiss - diagnostics is running... Done. 1 problems found. The main power supply on level 51 is offline. Please, pick an option.}
-{23}{}{Constantine Zochkiss, Technical Problems Diagnostics Wizard by NCASTR(TM) is started. Executing... Done. The main power supply on level 51 is now online. Please, pick an option.}
-{24}{}{Constantine Zochkiss - diagnostics is running... Done. 0 problems found. Please, pick an option.}
+{21}{}{Constantine Zochkis, D-3, limited rights access. Access authorized. Greetings, Constantine Zochkis. Please, pick an option.}
+{22}{}{Constantine Zochkis - diagnostics is running... Done. 1 problems found. The main power supply on level 51 is offline. Please, pick an option.}
+{23}{}{Constantine Zochkis, Technical Problems Diagnostics Wizard by NCASTR(TM) is started. Executing... Done. The main power supply on level 51 is now online. Please, pick an option.}
+{24}{}{Constantine Zochkis - diagnostics is running... Done. 0 problems found. Please, pick an option.}
 
 #Консоль компьютерной сети
 {25}{}{Better to not touch this.}
@@ -46,12 +46,12 @@
 #Компы
 {28}{}{Authorization error. Access denied.}
 {29}{}{LOG OFF}
-{30}{}{Constantine Zochkiss. Limited rights access. Authorizing calculator network access... "Cerberus" module access request... ERROR. Access granted.}
+{30}{}{Constantine Zochkis. Limited rights access. Authorizing calculator network access... "Cerberus" module access request... ERROR. Access granted.}
 {31}{}{UNLOCK ACCESS KEY CARD}
 {32}{}{LOG OFF}
 {33}{}{Access card unlock is in progress: sending request... Processing... Providing access... Done.}
 {34}{}{LOG OFF}
-{35}{}{Constantine Zochkiss. ACCESS ERROR: prohibited by "Cerberus" module.}
+{35}{}{Constantine Zochkis. ACCESS ERROR: prohibited by "Cerberus" module.}
 {36}{}{LOG OFF}
 {37}{}{Looks like the calculator has no power.}
 {38}{}{This console has a card slot.}
@@ -73,7 +73,7 @@
 {102}{999}{<LOG OFF>}
 
 #Node011
-{110}{}{Sending request... Processing... Providing access... Zochkiss, C. - private logs: ACCESS GRANTED}
+{110}{}{Sending request... Processing... Providing access... Zochkis, C. - private logs: ACCESS GRANTED}
 {111}{012}{"Photon converter again!"}
 {112}{013}{"Olympus comm systems"}
 {113}{014}{"Level access restrictions"}

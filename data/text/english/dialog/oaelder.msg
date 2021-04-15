@@ -114,7 +114,7 @@
 {1802}{}{[She tries to look sad, but can't hide her smile] Khala, our healer, could treat wounds and cook... What a huge loss for us! Now this bitch- this worthy daughter of our tribe is making our spirits happy with tales of her devotion!}
 {183}{011}{I share your sorrow. Now, to other questions...}
 {184}{999}{We all will be there eventually. And I've got to go.}
-{1803}{}{[She frowns, like biting a rotten apple] Khala... She is our cook and our healer. If only she doesn't like to shed blood so much... Doesn't matter which... But warriors treat her with respect, so we have to deal with her habits. And, to do her justice, her cooking is very good, I admit that. Outsider's thighs with brains as garnish... Yum...[she slurps]}
+{1803}{}{[She frowns, like biting a rotten apple] Khala... She is our cook and our healer. If only she doesn't like to shed blood so much... Doesn't matter which... But warriors treat her with respect, so we have to deal with her habits. And, to do her justice, her cooking is very good, I admit that. Outsider's thighs with brains as garnish... Yum... [she slurps]}
 {185}{011}{I'll come by her, if I get the chance. Another question.}
 {186}{999}{I feel hungry already. I'd better go bite on something.}
 {1804}{}{[She grunts] Yes, there was... Khala. But our spirits made a present for me and took her away. That's where she belongs.}

@@ -75,7 +75,7 @@
 {102}{026}{[continue]}
 {103}{019}{I'd like to take a look at cloning machine one more time. Maybe I'll be able to fix it.}
 {104}{999}{I was just going to get it.}
-{105}{}{You're just in time. I have another job for you. The cloning machine works fine, tests went great, but the problem is that power cell is drained, so I keep the machine going in manual mode. Here's the keycard from Engineering level, find Zochkiss there, tell him I send you for the cloning machine battery.}
+{105}{}{You're just in time. I have another job for you. The cloning machine works fine, tests went great, but the problem is that power cell is drained, so I keep the machine going in manual mode. Here's the keycard from Engineering level, find Zochkis there, tell him I send you for the cloning machine battery.}
 {106}{999}{Okay. [take the keycard]}
 {107}{}{Have you brought the battery?}
 {108}{027}{No.}
@@ -161,7 +161,7 @@
 {271}{999}{[leave]}
 
 #Node028
-{280}{}{Gray? What? How does he even know about all this? I send you to Zochkiss!}
+{280}{}{Gray? What? How does he even know about all this? I send you to Zochkis!}
 {281}{029}{They have their own fights going. Anyway, he needs a clone of Beatrice, the wife of Dick from Engineering level.}
 
 #Node029
