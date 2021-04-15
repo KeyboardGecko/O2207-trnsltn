@@ -100,7 +100,7 @@
 {1046}{}{Taste the food of the Gods and take upon your tasks!}
 {1047}{}{Don't you dare to sleep on this fine holy day!}
 {1048}{}{Wash your eyes of nightmares and go back to serving!}
-{1049}{}{Praise the gods, our protectors and patrons!}
+{1049}{}{Praise the Gods, our protectors and patrons!}
 #Спец сообщения - День
 {1050}{}{The day has come, diabolical heat of the sun again kills the remains of life on the surface!}
 {1051}{}{Who is feeling hot - you should ask Wardens for water.}
@@ -131,6 +131,6 @@
 {1074}{}{Do not approach the caves, for not to be eaten by the demons of the night!}
 {1075}{}{Do not close your eyes, as I never get tired!}
 {1076}{}{Do not lay to rest without resolve from Wardens!}
-{1077}{}{Praise the gods for the freshness of this night!}
+{1077}{}{Praise the Gods for the freshness of this night!}
 {1078}{}{Take care of a fresh water, Servants!}
 {1079}{}{Feed lavash in their pens, for them to feed us with their flesh!}
