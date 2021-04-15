@@ -24,112 +24,112 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Вестник.}
-{2}{}{Всем своим видом Вестник говорит: "Я посланец Богов!"}
+{1}{}{You see a Herald.}
+{2}{}{Everything in his look says "I am the messenger of the Gods!"}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Грегориус.}
-{4}{}{Из-под низкого капюшона вы видите жесткий горящий взгляд Грегориуса.}
+{3}{}{You see Gregorius.}
+{4}{}{From under the hood you see a flaming sight of Gregorius.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Имя? [вестник откидывает голову назад и взмывает руки вверх]}
-{11}{}{Я? Эт-то... ой, я попозже подойду.}
-{12}{}{Я - }
-{13}{}{, пришел за поручениями.}
-{14}{}{, мне нужно взять дневное задание.}
-{20}{}{Ты опаздываешь, слуга технологий! Все твои братья и сестры уже давно трудятся, им достались все задания!}
-{21}{}{Но... Но... Работа ведь никогда не кончается... Я не могу ничего не делать, смотрителям это не понравится!}
-{22}{}{Быть не может... Вон, свет мигает постоянно, может, я трансформатором займусь?}
-{30}{}{Да, а ты смышленый, }
-{31}{}{! Раз так, вот твои задания: с лавашами творится что-то неладное, они постоянно валятся, мычат, ничего не едят - тебе нужно выяснить причину их немоготы; трансформатор на северной стене опять искрит - нужно его починить; ну и самое простое - перенести с тех. уровня смотрителям лавашей 12 канистр воды.}
-{32}{}{Все ясно, пойду разбираться...}
-{33}{}{Эмм... А можно поподробнее?}
-{34}{}{Как много заданий! Блиин, ладно, пойду работать..}
-{40}{}{Что тебя еще интересует?}
-{41}{}{А что конкретно не так с лавашами?}
-{42}{}{Как мне чинить трансформатор?}
-{43}{}{Где находятся канистры с водой для лавашей?}
-{44}{}{Да нет, все понятно, пойду трудиться.}
-{45}{}{Я уже починил трансформатор...}
-{50}{}{Они ведут себя странно: мало едят, много пьют, их фекалии воняют сильнее обычного, и, самое главное - они постоянно худеют и плохо размножаются. Если так и дальше пойдет - нам нечем будет питаться и Боги разгневаются!}
-{51}{}{Да-а, это очень плохо... Пойду разбираться.}
-{52}{}{Ясно... Можно еще спросить?}
-{60}{}{[Грегориус поднимает брови] Ты носишь костюм слуги технологий и не умеешь обращаться с электричеством? Еще один такой вопрос - и станешь слугой жизни! Просто отремонтируй этот трансформатор, а если сомневаешься - спроси у своих учителей, Кэрол или Смитти на тех уровне.}
-{61}{}{А-а, ну да, так и сделаю. Пошел работать.}
-{62}{}{Ну да, я так и собирался сделать... Можно еще спросить?}
-{70}{}{Ты что, вчера Богами создан? Канистры стоят на тех уровне, рядом с агрегатами очистки воды.}
-{71}{}{Ну конечно же, я просто уточнить хотел... Ну, я пойду водичку таскать.}
-{72}{}{Ах да, точно, я вспомнил. А можно еще вопрос?}
+{10}{}{Name? [Herald puts his head back and raises hands]}
+{11}{}{Me? It's, uhh... Sorry, I'll come by later.}
+{12}{}{I'm }
+{13}{}{, I came for the tasks.}
+{14}{}{, I need to take my daily task.}
+{20}{}{You are late, Technology Servant! All your brothers and sisters are doing their labor already, they took all the tasks!}
+{21}{}{But... But... The work never ends... I can't be left without a job, the others wouldn't like it!}
+{22}{}{It can't be! There, I see the lights blinking all the time, maybe I'll look into a fuse box?}
+{30}{}{You are smart, }
+{31}{}{! Good, here are your tasks: something bad is happening to the lavash, they look sick. You need to find out why. The fuse box on the northern wall is sparking again - it needs to be fixed. And the most important thing - you need to bring 12 canisters of water from the Technical level to the lavash overseers.}
+{32}{}{Okay. I'll go figure it out...}
+{33}{}{Uhh... Can you tell me more details?}
+{34}{}{Man, so much to do! Alright, I'll get to it...}
+{40}{}{What do you want to know?}
+{41}{}{What exactly is wrong with the lavash?}
+{42}{}{How do I fix the fuse box?}
+{43}{}{Where can I get the water canisters for lavash?}
+{44}{}{No, nothing, I understood everything. Off to do my labor.}
+{45}{}{I fixed the fuse box...}
+{50}{}{They are acting strange - don't eat, drink a lot, their feces are more smelly than usual. And most of all, they are getting thinner and don't breed. If it continues like this, we would have nothing to feed us with, and the Gods will get angry!}
+{51}{}{That's very bad... I'll go look into it.}
+{52}{}{I see. Can I ask something else?}
+{60}{}{You are wearing the suit of Techonogy Servant, yet you don't know how to deal with electricity? Another question like this, and you will become a Life Servant! Just repair this fuse box. If you have some doubts, ask your teachers, Smitty or Carol. They are on a Technical level.}
+{61}{}{I'll do that. Off to work.}
+{62}{}{Yeah, I was about to do just that... But can I ask more?}
+{70}{}{Did the Gods make you yesterday? The canisters are on a Technical level, near the water filtering machines.}
+{71}{}{Of course, I was just clarifying... Okay, off to carry water.}
+{72}{}{Oh yeah! I remembered. Can I ask another one?}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{, слуга технологий. Что тебе нужно?}
-{101}{}{Что тебя еще интересует?}
-{102}{}{Я по поводу дневных заданий.}
-{103}{}{Нет-нет, ничего, просто мимо проходил.}
-{104}{}{Да ничего меня не интересует.}
-{105}{}{Нет-нет, ничего, я лучше пойду.}
-{106}{}{Я хотел бы кое что уточнить...}
-{107}{}{Я по поводу того сломанного агрегата...}
-{108}{}{Вестник, ты же знаешь всех здесь, ведь так? Там на парковке есть один негр...}
-{109}{}{Я хотел бы доложить об ужаснейшем Бого...убийстве...}
-{110}{}{Какое задание ты хотел обсудить?}
-{111}{}{Про лавашей.}
-{112}{}{По поводу трансформатора.}
-{113}{}{Насчет канистр с водой.}
-{114}{}{На самом деле, я, пожалуй, потом подойду...}
-{1201}{}{Ты узнал причину их немоготы?}
-{1202}{}{Ты его починил?}
-{1203}{}{Что с канистрами? Они должны быть уже у смотрителей лавашей!}
-{121}{}{Я еще работаю над этим. Я попозже подойду.}
-{122}{}{Да, я все узнал. Причина в сломаном агрегате по очистке воды.}
-{123}{}{Все починено, больше он не должен ломаться.}
-{124}{}{Именно так, я перенес все 12 канистр! Ну и тяжеленные они...}
-{125}{}{Конечно, смотрители сейчас же вдвоем все принесут! Вдвоем они быстрее меня справятся!}
-{130}{}{Молодец, Боги будут довольны твоим старанием!}
-{131}{}{Да-да, рад стараться для Богов...}
-{132}{}{Ух ты, здорово! Я счастлив, что могу порадовать Богов!}
-{133}{}{Я просто выполняю свой долг, ничего такого...}
-{134}{}{Ну что ж, так действительно будет быстрее. Да и это ведь их обязанность... Похвально, слуга технологий!}
-{140}{}{Ты знаешь серийный номер агрегата? Кто ответственен за его работу? КТО ТОТ СЛУГА, ЧТО НЕ ПОЧИНИЛ ЕГО?!}
-{141}{}{Эээ... Там стерт номер... Но я его сам починю!}
-{142}{}{Эээ... Номер на агрегате стерт, но это не важно, я его уже починил.}
-{143}{}{Это слуга воды Брук, он плохо выполняет свои обязанности.}
-{144}{}{Я выясню это и немедленно доложу!}
-{1501}{}{Похвально, слуга, похвально! Отныне ты будешь отвечать за безномерной агрегат! Можешь отдохнуть.}
-{1502}{}{Брук, опять он... Мы не можем подвергать себя опасности из-за того, что кому-то нет желания трудиться на благо Тартара. Жерло Аида ждет Брука. А ты молодец, можешь отдохнуть, но перед этим - почини этот агрегат как можно скорее!}
-{1503}{}{ Или нет, назначаю тебе помочь Кэтти с уборкой урожая кукурузы. Неофициально, конечно.}
-{151}{}{Спасибо, это честь для меня. Разрешите, я пойду.}
-{152}{}{Все ясно, Вестник. Я пошел.}
-{153}{}{Да-да, понятно, пойду дальше работать...}
-{154}{}{Так я его уже починил, без проблем!}
-{155}{}{Да, но я не знаю, где искать запчасти для него...}
-{160}{}{Какая инициатива! Да будет так, ты должен починить этот агрегат!}
-{161}{}{Хорошо, Вестник, я это сделаю.}
-{162}{}{...инициатива наказуема... Хорошо, сделаю...}
-{170}{}{Что с ним? Пока он сломан и не очищает воду, мы все в большой опасности!}
-{171}{}{Я просто хотел сказать, что нашел почти все детали для его починки, скоро он заработает.}
-{172}{}{Все готово, агрегат по очистке снова очищает!}
-{180}{}{Ты молодец, слуга! И отлично справляешься со своими обязанностями. Я буду ставить тебя в пример другим слугам. А теперь - ступай, отдохни.}
-{181}{}{Это... очень здорово, слышать такие слова от Вестника. Рад стараться!}
-{182}{}{Да ничего особенного на самом деле, просто делаю то, что должен. Ну, я пошел.}
-{190}{}{Как только ты начинаешь меня радовать - сразу же разочаровываешь... Обратись к Смитти на тех. уровне, он же заведует всеми железяками. Да и вообще, он же вроде у вас, у техников, за главного!} #вроде или в роду ?)
-{191}{}{Ах, ну да, я просто удостовериться хотел...}
-{192}{}{Ну да, ну да... Я хотел бы еще кое-что уточнить.}
+{100}{}{, a Technology Servant. What do you need?}
+{101}{}{What interests you?}
+{102}{}{About daily tasks.}
+{103}{}{No, nothing. Just going by.}
+{104}{}{Nothing. Nothing interests me.}
+{105}{}{No, nothing. I better go.}
+{106}{}{I'd like to specify something...}
+{107}{}{It's about that broken water filtering machine...}
+{108}{}{Herald, you know everything about everyone here, right? There's one black man on the parking lot...}
+{109}{}{I want to report about a horrible... God-... Murder.}
+{110}{}{That task do you want to discuss?}
+{111}{}{About lavash.}
+{112}{}{About the fuse box.}
+{113}{}{About water canisters.}
+{114}{}{Actually, I better come around later...}
+{1201}{}{Did you find out the reason behind them getting sick?}
+{1202}{}{Did you fix it?}
+{1203}{}{What's about the canisters? They should be at the lavash overseers already!}
+{121}{}{I'm working on it. I'll come later.}
+{122}{}{Yes. The problem is in the faulty water filtering machine.}
+{123}{}{It's fixed, yes. Shouldn't break so often now.}
+{124}{}{Exactly, I carried them over, all 12! They were so heavy, by the way...}
+{125}{}{The overseers would handle carrying the canisters much better! There are two of them, so they would finish it faster!}
+{130}{}{Good! The Gods will be pleased by your efforts!}
+{131}{}{Yeah, yeah, all for the Gods, my pleasure.}
+{132}{}{I'm happy to please the Gods!}
+{133}{}{I'm just doing my job.}
+{134}{}{It would definitely be faster, you are right. And it's their job... Good thinking, Technology Servant!}
+{140}{}{Do you know the serial number of this machine? Who is responsible for it?! WHO IS THAT SERVANT WHO ALLOWED IT TO BE LEFT UNREPAIRED?!}
+{141}{}{Uhh... There's no number...But I'll fix it myself!}
+{142}{}{Uhh... The number is erased, but it doesn't matter. I repaired it already.}
+{143}{}{It's Brook, the Water Servant. He is bad at his responsibilities.}
+{144}{}{I will find out and report to you immediately!}
+{1501}{}{Good, Servant, good! Now this machine is your responsibility! You can rest for now.}
+{1502}{}{Brook, again... We can't constantly put ourselves in danger just because someone doesn't have the desire to do his labor for the greater good of Tartarus. The Mouth of Hades awaits for him now... And you - you did good, you can have some rest. But first, fix this water filtering machine!}
+{1503}{}{You can also help Catty with harvesting the corn cobs. Unofficially, of course.}
+{151}{}{Thanks, it's an honor to me. I'll go.}
+{152}{}{Understood, Herald. I'm off.}
+{153}{}{Yeah, yeah, I'm going - have more stuff to do...}
+{154}{}{I already did it. No problem.}
+{155}{}{But I don't know where to get the parts...}
+{160}{}{Such a spirit! So be it - you are tasked with repairing the machine!}
+{161}{}{I understand, Herald.}
+{162}{}{So much for an initiative... Okay.}
+{170}{}{What's about it? While it's broken and not filtering our water, we're all in great danger!}
+{171}{}{I just wanted to say that I've found the necessary parts for fixing it. Soon it will be repaired.}
+{172}{}{It's done, water filtering machine is filtering water again!}
+{180}{}{You did good, Servant! And you handle your responsibilities well. I will tell other Servants about you. And now - go, get some rest.}
+{181}{}{It's... A great thing to hear, especially from Herald. Glad to serve!}
+{182}{}{It was nothing special, just doing my job. I'm going.}
+{190}{}{You've just started to make me happy - and now you are making me sad again... Ask Smitty on a Technical level, he is responsible for this. He is also in charge for every Technology Servant, isn't he? } #вроде или в роду ?)
+{191}{}{Oh, uh, yeah. Just making sure...}
+{192}{}{Of course. I want to ask something else.}
 
-{200}{}{БАРДОК! Непокорнейший из всей паствы! Что на этот раз утворил этот самогонозависимый неразумец?} # - всё тут верно, "утворил и неразумец"
-{201}{}{Бардок. Ага... Нет-нет, ничего такого. Спасибо, Вестник.}
-{202}{}{Ничего. То есть, я пока не уверен...}
-{210}{}{ЧТО-О-О!? [Вы готовы поклясться, что из глаз Вестника полыхнуло настоящее пламя]}
-{211}{}{Нет-нет, ничего. Я просто не так выразился. На самом деле мне уже пора идти работать.}
-{212}{}{Боюсь, что так и есть. Это Бардок. Он убил Сына Богов. И спрятал тело на парковке...}
-{220}{}{СМЕЕЕЕРТЬ! СМЕЕЕЕЕЕРТЬ В ЖЕРЛЕ!!! ОХРАНА!}
-{221}{}{[опустить голову и покорно отойти в сторонку]}
-{222}{}{По-поводу Бардока...}
-{230}{}{Да, он очень опасен для... всех вас. Ему не жить на нашей земле, не дышать нашим воздухом, не радоваться нашему мирному служению. А ты - ты все правильно сделал. Ты очищаешь паству от паршивых овец, ты... можешь пойти далеко.}
-{231}{}{О... Спасибо. Я бы очень хотел пойти... далеко.}
+{200}{}{BARDOCK! The most rebellious of all flock... What this unreasonable egoist did this time?} # - всё тут верно, "утворил и неразумец" // да что вы блядь говорите, я ебнусь это переводить
+{201}{}{Bardock, you say... Nothing, nothing at all. Thanks, Herald.}
+{202}{}{Nothing. I mean, I'm not sure...}
+{210}{}{WHAAAT!? [you could swear that you saw a real flame bursting out from the Herald's eyes]}
+{211}{}{No, uh, nothing. I didn't mean it like that. Actually, I need to go do my labor.}
+{212}{}{I'm afraid it's true - Bardock murdered the Son of Gods and hid the body in a parking lot.}
+{220}{}{DEEEEATH!!! DEATH THROUGH THE MOUTH OF HADES!!!!! GUARDS!!!!}
+{221}{}{[put your head down and step aside]}
+{222}{}{About Bardock...}
+{230}{}{He is a danger to all of us. He can't be allowed to live with us, breathe our air, have the joy in humble Serving. And you - you did the right thing. You are cleansing the flock of bad sheeps, you... You are going to go far.}
+{231}{}{Oh... Thanks. I'd very much like to go... Far.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
@@ -185,47 +185,46 @@
 #
 #Спец сообщения - Утро
 #
-{1040}{}{Боги принесли нам новый день!}
-{1041}{}{Восславим Богов утренней молитвой!}
-{1042}{}{Боги вновь победили демонов ночи!}
-{1043}{}{Кто смел спать - того поднимите немедля!}
-{1044}{}{Просыпайтесь, воспряньте, слуги Богов!}
-{1045}{}{Поднимайте детей своих - пусть живут и радуются в бодрствовании!}
-{1046}{}{Вкусите пищи богов и принимайтесь за дела!}
-{1047}{}{Не смейте спать днем Божьим!}
-{1048}{}{Омойте глаза от ночных кошмаров и принимайтесь за служение!}
-{1049}{}{Восславим же Богов наших - защитников и покровителей!}
+{1040}{}{The Gods have given us a new day!}
+{1041}{}{Let's praise the Gods with a morning prayer!}
+{1042}{}{The Gods have defeated demons of the night again!}
+{1043}{}{Those who are asleep shall be woken up immediately!}
+{1044}{}{Rise, shine, Servants of Gods!}
+{1045}{}{Wake up the children - let them live and rejoice in rise!}
+{1046}{}{Taste the food of the Gods and take upon your tasks!}
+{1047}{}{Don't you dare to sleep on this fine holy day!}
+{1048}{}{Wash your eyes of nightmares and go back to serving!}
+{1049}{}{Praise the Gods, our protectors and patrons!}
 #Спец сообщения - День
-{1050}{}{День настал и адское солнце убивает остатки жизни на поверхности!}
-{1051}{}{Кому жарко - просите воды у Смотрителей.}
-{1052}{}{Кто уработался - отдохните с четверть часа.}
-{1053}{}{Не переедайте, слуги!}
-{1054}{}{Кто бросил незавершенным дело свое - о том доложите смотрителям!}
-{1055}{}{Отдыхайте не больше, чем вам положено по законам Божьим!}
-{1056}{}{Не время расслабляться, слуги! Возвращайтесь к делам своим!}
-{1057}{}{Залатайте баки с водой - дабы было нам чем жажду утолить!}
-# не заполнить, а залатать
-{1058}{}{Не приближайтесь к пещерам!}
-{1059}{}{Берегите детей своих!}
+{1050}{}{The day has come, diabolical heat of the sun again kills the remains of life on the surface!}
+{1051}{}{Who is feeling hot - you should ask Wardens for water.}
+{1052}{}{Who feels overworked - rest for a quarter of an hour.}
+{1053}{}{Servants! Do not overeat!}
+{1054}{}{Who left his task uncompleted - you shall tell Warden!}
+{1055}{}{Rest not more than it's allowed to you by the God's law!}
+{1056}{}{No time to rest, Servants! Get back to your tasks!}
+{1057}{}{Patch up the water tanks, for us to have something to quench our thirst!}
+{1058}{}{Do not approach the caves!}
+{1059}{}{Take good care of your children!}
 #Спец сообщения - Вечер
-{1060}{}{Спадает жара - вечер пришел!}
-{1061}{}{Неустанно трудитесь во имя Богов!}
-{1062}{}{Не прекращайте трудиться - и будут ВСЕ возблагодарены!}
-{1063}{}{Продолжайте трудиться во благо детей своих!}
-{1064}{}{Уважайте Смотрителей и благодарны будьте за их труд!}
-{1065}{}{Следите за порядком в ложах своих!}
-{1066}{}{Укладывайте детей спать, чтобы не мешали вам трудиться!}
-{1067}{}{Закончите все дневные дела свои!}
-{1068}{}{Приступайте к важной работе - вечерняя прохлада благоволит вам!}
-{1069}{}{Вознесите вечернюю молитву Богам вашим!}
+{1060}{}{The heat's coming down - evening is here!}
+{1061}{}{Work relentlessly in the name of Gods!}
+{1062}{}{Do not stop doing your work, and you will ALL be rewarded!}
+{1063}{}{Keep working for the good of your children!}
+{1064}{}{Respect Wardens and be grateful for their efforts!}
+{1065}{}{Maintain the cleanliness of your lodges!}
+{1066}{}{Put your children to bed early, for them not to interrupt you form working!}
+{1067}{}{Finish all the daily tasks of yours!}
+{1068}{}{Start your most important jobs - the evening air favors you!}
+{1069}{}{Say the evening prayers to your Gods!}
 #Спец сообщения - Ночь
-{1070}{}{Ночная прохлада пришла из пещер!}
-{1071}{}{Не смейте отдыхать, пока прохлада позволяет трудиться!}
-{1072}{}{Не тревожьте сон детей ваших!}
-{1073}{}{Ночные твари снова нас атакуют из Чистилища!}
-{1074}{}{Не приближайтесь к пещерам, дабы не сожрали вас демоны ночи!}
-{1075}{}{Не смыкайте глаз ваших, как и я не устаю!}
-{1076}{}{Не ложитесь на покой без разрешения Смотрителей!}
-{1077}{}{Восславим Богов за ночную прохладу!}
-{1078}{}{Позаботьтесь о свежей воде, слуги!}
-{1079}{}{Накормите лавашей в загонах, дабы отдали они нам свою плоть!}
+{1070}{}{The cold of the night comes from the caves!}
+{1071}{}{Do not dare to rest while the cool air lets you do your work!}
+{1072}{}{Do not interrupt the dreams of your children!}
+{1073}{}{The creatures of the night from the Purgatory are attacking us again!}
+{1074}{}{Do not approach the caves, for not to be eaten by the demons of the night!}
+{1075}{}{Do not close your eyes, as I never get tired!}
+{1076}{}{Do not lay to rest without resolve from Wardens!}
+{1077}{}{Praise the Gods for the freshness of this night!}
+{1078}{}{Take care of a fresh water, Servants!}
+{1079}{}{Feed lavash in their pens, for them to feed us with their flesh!}

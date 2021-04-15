@@ -75,7 +75,7 @@
 {211}{022}{Do I need a sprained wrist or something to insert? Well, of course, I will help without any problems!}
 {212}{022}{Is this a medical man doing some work? I'm not sure... but I can try, why not.}
 {213}{999}{Do you bother with the sick and bruised? Here's another. No, not before me now. Yes, and many other cases.}
-{220}{}{That's wonderful! So look... go over the farms and the technical level. When you see someone wallowing and moaning - try to raise him to his feet. Not by force, of course, but the worse things are worse for the poor fellows. Man 6 podlateat - come back. In the meantime, I'll think about how to thank you for such help [winks]}
+{220}{}{That's wonderful! So look... go over the farms and the Technical level. When you see someone wallowing and moaning - try to raise him to his feet. Not by force, of course, but the worse things are worse for the poor fellows. Man 6 podlateat - come back. In the meantime, I'll think about how to thank you for such help [winks]}
 {221}{PetsHelper}{Clear, understandable. I'll go treat the bruised and stretched.}
 {222}{PetsHelper}{Ok doc, the task is accepted. See you later!}
 {223}{999}{6 people!? Something is a bit too much. I thought a couple of kids would be brought to you for treatment. Nah, I'm some other time.}

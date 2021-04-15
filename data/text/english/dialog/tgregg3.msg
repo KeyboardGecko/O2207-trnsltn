@@ -47,23 +47,23 @@
 {52}{007}{Steve? No, I'm not Steve. I don't know who are you talking about.}
 
 #Node006
-{60}{}{Hey... Smart-ass. I saw poor Steve being eaten by Chimera with my own eyes. Your robe still has his blood on it. Take off your hood! Now!}
+{60}{}{Hey... Smart-ass. I saw poor Steve being eaten by a Chimera with my own eyes. Your robe still has his blood on it. Take off your hood! Now!}
 {61}{997}{I was just kidding, old man! Of course, I'm not him.}
 {62}{998}{[throw yourself at Gregorius]}
 {63}{997}{Don't you dare touching me, Herald!}
 
 #Node007
-{70}{}{You have to excuse me. It's just... You have his robe. I saw poor Steve being eaten by Chimera with my own eyes. The Seekers are doing a pretty good job if they managed to even bring his robe back...}
+{70}{}{You have to excuse me. It's just... You have his uniform. I saw poor Steve being eaten by a Chimera with my own eyes. The Seekers are doing a pretty good job if they managed to even bring his robe back...}
 {71}{008}{I didn't have a choice, had to take what was given.}
 
 #Node007a
-{72}{}{[he stares at you for some time] I'm bad at humor. Even worse, when it's about my dead teammates, rookie. Okay, I'll let it slide for the first time. Our Seekers are doing a pretty good job if they managed to even bring his robe back... [he suspiciously squints]}
+{72}{}{[he stares at you for some time] I'm bad at humor. Even worse when it's about my dead teammates, rookie. Okay, I'll let it slide for the first time. Our Seekers are doing a pretty good job if they managed to even bring his robe back... [he suspiciously squints]}
 {73}{008}{I didn't have a choice, had to take what was given.}
 
 #Node008
 {80}{}{So, Richards is actually preparing someone to take my place? It's okay, I guess it's time for me to remember the old days... For now, you can hang around, maybe pick up some "voice of the Gods" manneurisms [he chuckles]}
 {81}{999}{If you say so.}
-{82}{008a}{Of course, "teacher". [chuckle] By the way, aren't you tired of getting here through the metro station all the time?}
+{82}{008a}{Of course, "teacher". [smile] By the way, aren't you tired of getting here through the metro station all the time?}
 
 {83}{}{Through a METRO STATION?! [he looks very surprised] Huh... Listen, I think Richards and Spock played a joke on you. Or maybe you did something to piss them off, if they haven't assigned the elevator keycard to you. Huh... Wait! My memory is not as good as before... The second 2B card got completely demagnetized, so Richards asked his buddy, a Seeker named Douglas, to go to some place called "Army Headquarters", to pick up a spare. I'm not giving you my keycard, that's for sure, but you can wait for Douglas - or to go look for him.}
 {84}{999}{Thanks for the lead!}
@@ -115,12 +115,12 @@
 {1058}{}{Do not approach the caves!}
 {1059}{}{Take good care of your children!}
 #Спец сообщения - Вечер
-{1060}{}{The heat's coming down - evening has come!}
+{1060}{}{The heat's coming down - evening is here!}
 {1061}{}{Work relentlessly in the name of Gods!}
 {1062}{}{Do not stop doing your work, and you will ALL be rewarded!}
 {1063}{}{Keep working for the good of your children!}
 {1064}{}{Respect Wardens and be grateful for their efforts!}
-{1065}{}{Maintain the cleanliness in your lodges!}
+{1065}{}{Maintain the cleanliness of your lodges!}
 {1066}{}{Put your children to bed early, for them not to interrupt you form working!}
 {1067}{}{Finish all the daily tasks of yours!}
 {1068}{}{Start your most important jobs - the evening air favors you!}

@@ -58,7 +58,7 @@
 {121}{}{What do you feed them with?}
 {122}{}{What do they drink?}
 {1301}{}{Corn plants, as usual.}
-{1302}{}{Filtered water, which we get from a technical level. Although, wait a minute... Lately this water is murky and doesn't smell good...}
+{1302}{}{Filtered water, which we get from a Technical level. Although, wait a minute... Lately this water is murky and doesn't smell good...}
 {131}{}{What do you feed them with?}
 {132}{}{What do they drink?}
 {133}{}{I see. Okay, I'll go look into it further.}

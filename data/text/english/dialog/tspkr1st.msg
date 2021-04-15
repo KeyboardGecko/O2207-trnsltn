@@ -113,12 +113,12 @@
 {1058}{}{Do not approach the caves!}
 {1059}{}{Take good care of your children!}
 #Спец сообщения - Вечер
-{1060}{}{The heat's coming down - evening has come!}
+{1060}{}{The heat's coming down - evening is here!}
 {1061}{}{Work relentlessly in the name of Gods!}
 {1062}{}{Do not stop doing your work, and you will ALL be rewarded!}
 {1063}{}{Keep working for the good of your children!}
 {1064}{}{Respect Wardens and be grateful for their efforts!}
-{1065}{}{Maintain the cleanliness in your lodges!}
+{1065}{}{Maintain the cleanliness of your lodges!}
 {1066}{}{Put your children to bed early, for them not to interrupt you form working!}
 {1067}{}{Finish all the daily tasks of yours!}
 {1068}{}{Start your most important jobs - the evening air favors you!}
