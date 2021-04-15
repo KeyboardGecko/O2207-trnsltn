@@ -22,15 +22,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: смотритель лавашей.}
-{2}{}{Вы видите: смотритель лавашей.}
-{3}{}{Вы видите: смотритель лавашей.}
-{4}{}{Вы видите: смотритель лавашей.}
-{5}{}{Вы видите: смотритель лавашей.}
-{6}{}{Запачканная майка, руки в крови.}
-{7}{}{Он выглядит очень уставшим.}
-{8}{}{Просто работник в комбинезоне.}
-{9}{}{Он чем-то занят. Вероятно, приглядывает, какого бы лаваша закромсать.}
+{1}{}{You see a lavash overseer.}
+{2}{}{You see a lavash overseer.}
+{3}{}{You see a lavash overseer.}
+{4}{}{You see a lavash overseer.}
+{5}{}{You see a lavash overseer.}
+{6}{}{A dirty shirt, hands covered in blood.}
+{7}{}{He looks very tired.}
+{8}{}{Just a worker in a jumpsuit.}
+{9}{}{He is busy with something. Probably, he is choosing the lavash to put down.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -45,77 +45,77 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{Привет, технолог! Что надо?}
-{101}{}{Привет-привет. А ты чем тут занимаешься?}
-{102}{}{Я слышал, лаваши болеют? Да и вид у них какой-то больной.}
-{103}{}{Ничего не надо. Пока, мясник.}
-{104}{}{Мне Вестник сказал, что вам нужно воды принести. Сколько нужно-то?}
-{105}{}{Я воду принес, вот.}
-{110}{}{Смотрю, вон, за лавашами. Ну там, покормить, напоить, ляжку отрезать [хохочет]}
-{111}{}{Ясно. Ну, продолжай работать.}
-{112}{}{Ясно. Я слышал, лаваши болеют? Да и вид у них какой-то больной.}
-{120}{}{Эээ... Ну да, только это не моя вина! Ни с того ни с сего они вдруг дристать начали, да вонюче так! Едят плохо, мычат постоянно, падают. Ума не приложу, что с ними такое.}
-{121}{}{А чем вы их кормите?}
-{122}{}{А чем вы их поите?}
-{1301}{}{Так ботвой от кукурузы кормим, как обычно.}
-{1302}{}{Поим водой фильтрованной, которую нам с тех уровня приносят. Хотя, погоди-ка, в последнее время от воды воняет сильнее обычного! Может, с фильтром чего случилось?}
-{131}{}{А чем вы их кормите?}
-{132}{}{А чем вы их поите?}
-{133}{}{Ясно. Ладно, пойду дальше разбираться.}
-{140}{}{Так цельных 12 канистр, хватит на сегодня.}
-{141}{}{Хорошо, жди, сейчас принесу.}
-{142}{}{Да ладно! Это сколько же раз мне туда-сюда бегать? Погодите-ка, да это ведь ваша обязанность!}
-{150}{}{Отлично, осталось еще }
-{151}{}{ шт.}
-{152}{}{Да-да, сейчас притащу.}
-{160}{}{Молодчик! Смотри-ка, один все 12 принес! Спасибо, услужил!}
-{161}{}{Против приказа не пойдешь. Ладно, бывай!}
-{162}{}{Да ладно, мне не в лом. Пока!}
-{1701}{}{Ну... Как бы, вообще-то... да. Иди занимайся своими делами, ремонтник, мы сами принесем воду.}
-{1702}{}{Это обязанность того - кому ее поручил Вестник. Разве это мне он сказал воду перетаскать? Нет? Может, мне ему доложить, что ты не хочешь трудиться?}
-{171}{}{Забей. Раз уж я взялся принести - принесу. Ожидайте.}
-{172}{}{А-а-а, ваша взяла... Сейчас все принесу.}
-{173}{}{Вот и правильно, справедливость восстановлена. Пойду отчитаюсь Вестнику.}
+{100}{}{Hey, techie! What do you need?}
+{101}{}{Hey yourself. What do you do here?}
+{102}{}{I heard your lavash are getting sick? They look pretty sick to me...}
+{103}{}{Nothing. Bye, butcher.}
+{104}{}{Herald told me that you need water. How much exactly?}
+{105}{}{I brought water. Here.}
+{110}{}{I'm looking after lavash. You know, feed them, give them water, sometimes cut their thighs... [he laughs]}
+{111}{}{I see. Well, keep up the good work.}
+{112}{}{I see. I heard your lavash are getting sick? They look pretty sick to me...}
+{120}{}{Uhhh... Yeah. But it's not my fault! They just suddenly started having diarrhea, stopped eating, mooing all the time, falling. I don't know what's wrong with them.}
+{121}{}{What do you feed them with?}
+{122}{}{What do they drink?}
+{1301}{}{Corn plants, as usual.}
+{1302}{}{Filtered water, which we get from a technical level. Although, wait a minute... Lately this water is murky and doesn't smell good...}
+{131}{}{What do you feed them with?}
+{132}{}{What do they drink?}
+{133}{}{I see. Okay, I'll go look into it further.}
+{140}{}{12 canisters in total. Should be enough for today.}
+{141}{}{Wait for it, I'll bring them here.}
+{142}{}{Oh come on! That means I have to run around for... How long? Wait a second, that's your job!}
+{150}{}{Great, you need to get }
+{151}{}{ of them.}
+{152}{}{Yeah, yeah, I'm going...}
+{160}{}{Good job! Look how you handled it by yourself, brought all 12! Thanks for the help!}
+{161}{}{You can't go against order. Bye!}
+{162}{}{It was easy. See you!}
+{1701}{}{Well... Uh, I mean, yeah... Go do your stuff, techie. We'll bring the water ourselves.}
+{1702}{}{It's a job of whoever the Herald assigned to it. Did he tell ME to get water? No? Maybe I need to tell him that you don't want to do your labor?}
+{171}{}{Nevermind. If I took the task, I'll complete it. Wait here.}
+{172}{}{Okay, you win. I'm getting it.}
+{173}{}{That's right. The justice is served, I'll go tell the Herald.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Xэ-эй, дружище!}
-{1001}{}{Приветствую! Как делища?}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Привет, братан! Как житуха?}
-{1004}{}{Я бы с радостью поболтал, но... Давай в другой раз.}
-{1005}{}{Рад тебя видеть!}
-{1006}{}{А что, может, поболтаем? Ну, как хочешь.}
-{1007}{}{Слушай, я тут припрятал для тебя кое-что. Ну лады, потом поговорим.}
-{1008}{}{Ты почаще хоть меня тут навещай, Ок?}
-{1009}{}{Да не вопрос! Обращайся в любое время!}
+{1000}{}{Hey, friend!}
+{1001}{}{Hello! How are you doing?}
+{1002}{}{Hello there!}
+{1003}{}{Hey, friend! How are you?}
+{1004}{}{I would gladly stop and chat... But let's do it some other time.}
+{1005}{}{So good to see you!}
+{1006}{}{Wanna chat? Suit yourself.}
+{1007}{}{Listen, I stashed something for you. Okay, talk later.}
+{1008}{}{You should come to me more often.}
+{1009}{}{Of course! Come by anytime!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда. Нужно присматривать за этими двухголовыми тупорылами...}
-{1012}{}{Ээй! Я тут слежу за этим скотом!}
-{1013}{}{Эй, слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Слушай, мне и правда некогда с тобой лясы точить.}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо?}
-{1017}{}{... и тут я ему говорю: "А ты его подои!" Умора!}
-{1018}{}{Не поскользнись на том дерьме.}
-{1019}{}{Ой, слушай, давай немного погодя поговорим, а?}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Can't you see? I'm busy. I need to watch these two-horned stupid things...}
+{1012}{}{Hey! I'm watching the herd here!}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{Listen' I really don't have time to spare.}
+{1015}{}{Don't bother me, let me rest.}
+{1016}{}{What else do you want?}
+{1017}{}{...And then I said: "Have you tried to milk him?" Hilarious...}
+{1018}{}{Don't slip on that shit.}
+{1019}{}{Listen, let's talk a little later, alright?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена тебе от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!..}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у::}
-{1031}{}{::м-м-м-а-а-м-м::}
-{1032}{}{::м-у-у-а-а-а-м-м-м::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
