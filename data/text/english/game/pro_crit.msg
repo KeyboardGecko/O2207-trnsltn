@@ -354,9 +354,9 @@
 {17701}{}{}
 {17800}{}{Captain Richards}
 {17801}{}{}
-{17900}{}{Phillip Grey}
+{17900}{}{Philipp Gray}
 {17901}{}{}
-{18000}{}{Konstantin Zochkis}
+{18000}{}{Constantine Zochkis}
 {18001}{}{}
 {18100}{}{Daimond Crank}
 {18101}{}{}

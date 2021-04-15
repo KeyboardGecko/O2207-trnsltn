@@ -87,8 +87,8 @@
 #
 # OLYMPUS TOWER Quests
 #
-{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Grey (The injection works only for 8 days).}
-{901}{}{Phillip Grey is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
+{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Gray (The injection works only for 8 days).}
+{901}{}{Phillip Gray is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
 {902}{}{Diamond Crank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
 {903}{}{Diamond Crank is confident that Ludwig Shwein will be able to help him break through a deadlock of his research. Bring Ludwig to him.}
 {904}{}{Captain N34 asks you to fill out all the documentation forms and conduct weapon tests.}
@@ -98,6 +98,6 @@
 {908}{}{Sergeant Jack laid his eyes on Kelly from the Biology Labs. Convince Kelly to meet with Jack.}
 {909}{}{Moreau can't calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
 {910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what's up with that.}
-{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Grey for his services. Moreau might help.}
+{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Gray for his services. Moreau might help.}
 {912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab №2.}
 {913}{}{Taylor can repair an advanced Powersuit of the Lumeniers if you bring him a servo from a similar suit.}

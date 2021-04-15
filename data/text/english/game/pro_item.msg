@@ -687,7 +687,7 @@
 {34400}{}{Canned Meat}
 {34401}{}{Seems that the food was only recently canned. The meat inside might be a suprise, though.}
 {34500}{}{Torn Note}
-{34501}{}{Part of the text is missing, but you can make out the ending: "... why you would need this, but hte code for the console is 2358. And remember Grey, everything depends on you!"}
+{34501}{}{Part of the text is missing, but you can make out the ending: "...Why you would need this, but the code for the console is 2358. And remember, Gray, it's your responsibility!"}
 {34600}{}{*Energy Cell*}
 {34601}{}{An incredibly heavy battery. You can't help but wonder what will happen if you hit it with a sledgehammer.}
 {34700}{}{*Stem Cell Essence*}
