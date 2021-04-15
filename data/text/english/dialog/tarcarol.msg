@@ -73,7 +73,7 @@
 {1016}{}{What else do you want?}
 {1017}{}{Some other time, okay? I need to repair that damn reservoirs.}
 {1018}{}{Sheeesh... Again? See, I'm fixing that freaking mechanisms!}
-{1019}{}{Oh. Listen, let's talk a litte later, m?}
+{1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
@@ -83,7 +83,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)

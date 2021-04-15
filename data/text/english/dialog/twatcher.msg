@@ -56,7 +56,7 @@
 {1006}{}{I actually don't mind chatting for a bit, but, you know, duty calls.}
 {1007}{}{Hey, how are you feeling?}
 {1008}{}{Of course I'm glad to see you!}
-{1009}{}{[friendly looks at you]}
+{1009}{}{[looks at you friendly]}
 # Нейтральные сообщения
 {1010}{}{Don't bother me, I'm busy.}
 {1011}{}{Can't you see? I'm busy!}
@@ -77,7 +77,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спец сообщения (ГГ - мальчик)
 {1030}{}{How are you doing, kid?}

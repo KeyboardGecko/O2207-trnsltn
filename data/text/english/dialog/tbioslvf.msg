@@ -67,7 +67,7 @@
 {1016}{}{What else do you want?}
 {1017}{}{Some other time, okay? I need to make the digging for two pens.}
 {1018}{}{Sheeesh... What? Can't you see I'm B-U-S-Y!}
-{1019}{}{Oh. Listen, let's talk a litte later, m?}
+{1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
@@ -77,7 +77,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спящие сообщения
 {1030}{}{::Zzzzz...::}
