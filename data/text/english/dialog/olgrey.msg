@@ -41,7 +41,7 @@
 {41}{005}{Sounds interesting. }
 {42}{006}{What do I get from it?}
 
-{50}{}{Oh... Perfect! There's a way to deal with this argument with an incredible elegance. Zochkis is sitting at his office, locking himself into his motorized armor suit, because he has a strong delusion of persecution - but that's not related to the case. What is, however, is that he is afraid of Chimeras, like a little girl! But at the same time, he says that Chimeras can't be used for the defence of Olympus, because they are not very effective. So, I want you to take a Chimera and to go have a talk with this old bore. Make him attack the Chimera, so we could find out what's more effective - his armor suit or claws of my new pet. Although, if he dies in the process - I wouldn't mind... And be quite pleased too.}
+{50}{}{Oh... Perfect! There's a way to deal with this argument with an incredible elegance. Zochkis is sitting at his office, locking himself into his motorized armor suit, because he has a strong delusion of persecution - but that's not related to the case. What is, however, is that he is afraid of Chimeras, like a little girl! But at the same time, he says that Chimeras can't be used for the defense of Olympus, because they are not very effective. So, I want you to take a Chimera and to go have a talk with this old bore. Make him attack the Chimera, so we could find out what's more effective - his armor suit or claws of my new pet. Although, if he dies in the process - I wouldn't mind... And be quite pleased too.}
 {51}{007}{I'm in. }
 {52}{007}{I'll think about it. If I agree, I'll come back with the results. }
 
@@ -62,7 +62,7 @@
 {97}{}{Yes, a great legacy of the past. We used these devices some time ago, to control the Tartarus population level, when we had a... "Bad harvest" of Servants, let's put it like this. Well, now we are more often presented with an opposite problem, but cloning machines are still being used sometimes - as in now. Don't waste any more time and go to Moro.}
 
 {100}{}{I see you came back. Is there something important?}
-{101}{}{Here comes our supporter of right development of the Olympus defence... Do you have any new helpful ideas?}
+{101}{}{Here comes our supporter of right development of the Olympus defense... Do you have any new helpful ideas?}
 {105}{}{I don't know what you did, and I don't want to know, but this stupid Kelly doesn't bother me anymore. Thanks. Did you want something?}
 {102}{012}{Yes. I have some news. And you're going to like it.}
 {103}{011}{No.}

@@ -11,77 +11,66 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Дефендер с обозначением "капитан" на груди и "N34" на левом плече.}
-{2}{}{Он разговаривает по втроенной в шлем рации.}
+{1}{}{You see a Defender with an insignias - one on his chest reads "Captain", and one on left shoulder reads "№34".}
+{2}{}{He is talking to someone using the radio transmitter in his helmet.}
 #
 # после знакомства
-{3}{}{Вы видите: Капитан N34.}
-{4}{}{Он молча смотрит в стену.}
+{3}{}{You see Captain №34.}
+{4}{}{He is staring into a wall.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[увидев Вас, он прекращает разговор по рации и вытягивает руку ладонью вперед, останавливая Вас] Протокол Д-14, неизвестное лицо на этаже. Доложите о цели прибытия.}
-{11}{002}{Э-э-э... привет?}
-{12}{004}{У меня задание от Дэймонда Кранка. Я должен проверить вот эту пушку [показать оружие] на пробитие брони дефендеров.}
-{13}{002}{Просто гуляю.}
+{10}{}{[seeing you, he stops talking on the radio and makes a warning gesture with his hands] Protocol D-14, unknown person detected on the floor. State your objective.}
+{11}{002}{Uhh... Hello?}
+{12}{004}{I have an assignment from Diamond Crank. I need to test this gun [show the weapon] on a Defender armor.}
+{13}{002}{I'm just walking here.}
 
+{20}{}{[he is silent for at least 5 seconds] State your objective. You have one attempt.}
+{21}{004}{I have an assignment from Diamond Crank. I need to test this gun [show the weapon] on a Defender armor.}
+{22}{003}{Are you stupid?}
+{23}{003}{I'm already leaving, sorry. Won't bother you anymore.}
+{24}{998}{I'll show you the objective, stupid tin can...}
 
-{20}{}{[он молчит по меньшей мере секунд пять] Прошу уточнить цель своего прибытия. У Вас осталась одна попытка!}
-{21}{004}{У меня задание от Дэймонда Кранка. Я должен проверить вот эту пушку [показать оружие] на пробитие брони дефендеров.}
-{22}{003}{Ты что, тупой?}
-{23}{003}{Я уже ухожу! Не буду вам мешать!}
-{24}{998}{Щас я тебя научу анализировать, банка косервов...}
+{30}{}{Wrong answer. Attention! Protocol A-1 - terminate the intruder!}
+{31}{998}{[fight]}
 
+{40}{}{Request is processing. [he gets silent again. This lasts for another ten seconds.] Request denied. The Defender squad warrior is too valuable to waste his armor on weapon testing. Proceed in accordance to a protocol E-11: the initiator of the experiment - that is you - is issued with a suit of Defender armor. A firing command commenses testing on the initiator wearing the suit. The testing considered succesful if the initiator ends up alive. Otherwise, dr. Crank should find another assistant to commence additional testing, and engineers are assigned with improving the armor's capabilities. The suit, in this case, should be immediately removed from the body and processed in the repairing facilities. }
+{41}{005}{Such a great idea, just awesome! Are you kidding me?}
+{42}{005}{What? I didn't sign up for this!}
+{43}{998}{I have a better option. I'm gonna test this gun on you, right now!}
+{44}{005}{Oh maaan...}
+{45}{006}{Okay, let's proceed with this... E-11.}
 
-{30}{}{Ответ не принимается. Всем внимание - уничтожить нарушителя! Протокол А-1!}
-{31}{998}{[бой]}
+{50}{}{[he gets silent for another 5 seconds] Protocol P-99: "A member of a laboratory staff or combat unit must always obey direct orders. In case of violation, they should be destroyed."}
+{51}{998}{Go to hell, you stupid rusty heap!}
+{52}{998}{I have a better idea. I'm gonna test this gun on you, right now!}
+{53}{006}{Okay, let's proceed with this... E-11.}
 
+{60}{}{Copy. Stand by. [a group of Defenders, carrying the suit of armor, enter the room. You are ordered to change - right here, in front of them. Then you are beng escorted into a testing room.]}
+{61}{999}{[proceed to testing]}
+{62}{998}{[now, when you have the armor, you can just murder everyone. So - do it]}
 
-{40}{}{Запрос принят. [он замолчал секунд на десять] В запросе отказано - боец отряда дефендеров важнее испытания оружия. В данном случае предлагается использовать протокол Е-11, согласно которому инициатор эксперимента, то есть Вы, получаете броню дефендеров и расстрельную команду. Если вы выживете после испытания - значит эксперимент признается завершенным. Если нет - тогда придется доктору Кранку найти нового лаборанта, инженерам улучшить броню дефендеров для преодоления силы пробития нового образца оружия, а используемый образец брони в рамках эксперимента отправить в ремонт. }
-{41}{005}{Отличное решение, просто отличное! Ты издеваешься?}
-{42}{005}{Что? Я не нанимался для такого!}
-{43}{998}{Нет, у меня идея получше. Я сечас эту пушку оттестирую прямо на тебе!}
-{44}{005}{Ну блин...}
-{45}{006}{Хорошо, давай значит по этому... протоколу Е-11.}
+{70}{}{Vitals signs are stable. Given the damage sustained by your armor, I have to state that you are an excellent candidate for joining special operations Defenders squad. SO, I have an order for you - report to dr. Crank about the testing results, then return for your next assignment. Dismissed. [he turns around and immediately starts talking to someone on the radio]}
+{71}{999}{[end of dialogue]}
 
+{100}{}{For a candidate to special operations squad, you move too slow. I expected you much earlier. Anyway, here's your Defender suit. Put it on.}
+{101}{011}{[put on armor]}
+{102}{012}{[put on armor]}
+{103}{}{Testings failed - you attacked your teammates! Protocol A-1 - destroy him!}
+{104}{998}{[fight]}
+{105}{}{You are successfully completed the mission. You shall proceed to a Defender training course shortly... Stand by... [looks like he is receiving something on the radio] I have a new assignment for you - take this keycard and proceed to a "Server" floor for getting access to a COntrol Room. Don't delay, the order is of highest priority.}
+{106}{999}{Got it, on my way.}
+{107}{}{Candidate, proceed on the floor 79 immediately, for receiving new access codes.}
+{108}{}{Candidate, I have no further assignments. You shall be informed about the start of Defender training course in some time.}
+{109}{999}{Got it, on my way.}
 
-{50}{}{[он молчит по меньшей мере секунд пять] Протокол Р-99: "Сотрудник лабораторий или боевых отрядов обязан беспрекословно выполнять приказы, или он будет подвергнут уничтожению".}
-{51}{998}{Иди к черту, тупорылый солдафон!}
-{52}{998}{Нет, у меня идея получше. Я прямо сечас эту пушку оттестирую прямо на тебе!}
-{53}{006}{Хорошо, давай значит по этому... протоколу Е-11.}
+{110}{}{Good. Protocol K-77 - Condition red. You're going to be part of a group to clean-up the subway station. If the mission is a success, you will proceed to a Defender training course and become a full-time squad member.}
+{111}{999}{[move out on a mission]}
 
+{120}{}{Good. Protocol K-77 - Condition red. You're going to be part of a group to clean-up a settlement of cannibalistic mutants. The mission is to purify the wasteland of these creatures. If it is a success, you will proceed to a Defender training course and become a full-time squad member. Additional task comes from a request №106 by dr. Philipp Gray: every Defender who delivers samples of human flesh from the operation's area will get stimulators, in addition to a standart mission equipment.}
+{121}{999}{[move out on a mission]}
 
-{60}{}{Принято. Ожидайте. [он ушел, однако довольно быстро вернулся, но уже не один. Вам вручили комплект брони и приказали переодеватся. Прямо тут, посреди комнаты на глазах дефендеров. Когда вы переоделись Вам приказали следовать в спецкомнату для проведения теста.]}
-{61}{999}{[пройти тест]}
-{62}{998}{[ну, теперь-то, когда у Вас отличная броня, можно тут просто всех перестрелять...]}
-
-
-{70}{}{Отличные жизненные показатели! С учетом повреждений брони констатирую факт - вы отличный кандидат для зачисления в спецгруппу потенциальных дефендеров. Поэтому у меня для вас приказ - доложите о результатах тестирования доктору Кранку, после чего - немедленно взвращайтесь. У меня будет для Вас задание. Свободны. [он резко переключился на разговор с кем-то по рации]}
-{71}{999}{[конец диалога]}
-
-
-{100}{}{Для кандидата в спецгруппу вы слишком медленно передвигаетесь! Я ожидал ваше прибытие намного раньше! Итак, вот ваш "дефендер". Переодевайтесь!}
-{101}{011}{[сменить броню]}
-{102}{012}{[сменить броню]}
-{103}{}{Ваш экзамен провален! Вы атаковали ваших братьев по оружию! Протокол А1 по результатам Р-99! Уничтожить его!}
-{104}{998}{[бой]}
-{105}{}{Вы успешно прошли тестовый бой. В ближайшее время вас пригласят для прохождения курса подготовки дефендеров... Подождите... [похоже, он слушает внутреннее сообщение] Для вас есть незамедлительное задание: возьмите эту карту и отправляйтесь на этаж "Серверная" для смены кода доступа в Зал Контроля. Это приказ высшей приоритетности, медлить не стоит.}
-{106}{999}{Хорошо, уже иду.}
-{107}{}{Кандидат - немедленно направляйтесь на 79ый этаж и смените код доступа.}
-{108}{}{Кандидат - у меня пока для вас нет поручений. Вас известят о начале программы подготовки.}
-{109}{999}{Хорошо, уже иду.}
-
-
-
-
-{110}{}{Хорошо. Протокол К-77. Полная боевая готовность. Вы выдвигаетесь в составе группы на зачистку станции метро. Если зачистка пройдет успешно - у вас все шансы пройти курс подготовки дефендеров и стать одним из нас.}
-{111}{999}{[выдвинутся на выполнение задания]}
-
-
-{120}{}{Хорошо. Протокол К-77. Полная боевая готовность. Вы выдвигаетесь в составе группы на зачистку станции небольшого поселения мутантов-людоедов для очищения человеческого генофонда от этих тварей! Если зачистка пройдет успешно - у вас все шансы пройти курс подготовки дефендеров и стать одним из нас! Да, также по данному заданию у нас есть запрос за номером 106 от доктора Филлипа Грея. Дефендер, который доставит образцы человечены из зоны проведения операции сможет получить дополнительные стимуляторы, вне стандартного пайка.}
-{121}{999}{[выдвинутся на выполнение задания]}
-
-{122}{}{Достаточно, можешь доложить о результатах Капитану.}
-{123}{}{[смотрит в стену]}
-{124}{}{[ноль внимания]}
-{125}{}{[изображает столб]}
+{122}{}{Enough, you can report back to a Captain.}
+{123}{}{[stares blankly]}
+{124}{}{[doesn't pay any attention]}
+{125}{}{[acts like a stone]}
