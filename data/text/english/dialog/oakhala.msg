@@ -157,7 +157,7 @@
 
 
 {270}{}{[With her healthy hand, she plows through the bushes on her head in search of some insect. Little bones in her hairlocks lightly tap on each other] Let the outsider not hesitate! Khala is tired of catching little creatures with one arm!}
-{271}{029}{[make a gesture to dr. Pat] This is dr.Pat, he is a great shaman of his tribe! He will help you.}
+{271}{029}{[make a gesture to dr. Pat] This is dr. Pat, he is a great shaman of his tribe! He will help you.}
 {272}{019}{I want to examine your wounds again.}
 {273}{999}{Actually, you'll have to wait... Don't be nervous! Not for long!}
 

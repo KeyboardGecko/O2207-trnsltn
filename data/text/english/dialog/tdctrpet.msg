@@ -11,11 +11,11 @@
 #ОПИСАНИЕ КРИТТЕРА 			
 # 			
 # до знакомства 			
-{1}{}{You see dr.Pat.}			
+{1}{}{You see dr. Pat.}			
 {2}{}{A local healer, Pat. He is gloomy and dissatisfied with something, as always.}
 # 			
 # после знакомства 			
-{3}{}{You see dr.Pat.}			
+{3}{}{You see dr. Pat.}			
 {4}{}{A local healer, Pat. He is gloomy and dissatisfied with something, as always.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
@@ -34,139 +34,137 @@
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
 {100}{}{Oh, my Gods! I didn't recognize you! Where did you get this... Wow. Looks just like the one on guards! Very smart, very!}
-{104}{}{Oh, my Gods! I didn't recognize you! Where did you get this robe!? Looks just like the one on Heralds! Very smart, very!}																																	
+{104}{}{Oh, my Gods! I didn't recognize you! Where did you get this robe!? Looks just like the one on Heralds! Very smart, very!} 
 {101}{011}{Yes, I know, thanks, doc. How's my father? Does he feel better?}
 {102}{011}{Yeah, I'm that good. What's up with my dad?}
 {103}{999}{Talk later, doc. I have a lot of things I need to do.}	
-{110}{}{Yes, yes, of course. Your father is very sick. I know, you went outside, and... You probably have a lot of questions, but I will say only this: radiation. It's like an invisible rays coming through everything around us. But some bodies, like your mom's - or your dad's - accumulate this rays, like a filter.}																
+{110}{}{Yes, yes, of course. Your father is very sick. I know, you went outside, and... You probably have a lot of questions, but I will say only this: radiation. It's like an invisible rays coming through everything around us. But some bodies, like your mom's - or your dad's - accumulate this rays, like a filter.}  				
 {111}{014}{Too much words, doc! Just tell me, how do I help him?}	
 {112}{012}{Sounds difficult. Where do these rays come from?}			
 {113}{999}{I'm bored. Let's leave this boring conversation for later.}	
-{120}{}{Сложно сказать наверняка, но мне кажется, эти лучи идут от особых камней и от металла. Башня, что над нами - вся из металла, но она покрыта металлом снаружи, а изнутри она защищена противорадиационными штуками. Я не знаю точно, с этим разбираются инженеры, не врачи.}																					
-{121}{013}{Ин-же-не-ры. Кто это? Они тоже - "Сыны Богов"? Кто такие эти "Сыны Богов"? И кто такие "Боги"? И где они живут на самом деле? В той башне наверху, да?}																																	
-{130}{}{Ты задаешь слишком много опасных вопросов. Я бы и рад поделиться с тобой истиной, но боюсь эти знания тебе навредят. Уверен, ты все узнаешь в свое время. Постепенно.}																																
-{131}{014}{Ну-у. Хорошо, в любом случае у нас нет времени на это. Чем я могу помочь отцу?}																																								
-{132}{999}{Отлично! Спасибо большое за помощь! Я пойду и прямо сейчас сам во всем разберусь!}																																								
-{140}{}{Твоему отцу может, я повторюсь - МОЖЕТ помочь только одно средство - "Антирадин". Насколько мне известно, только этот препарат может поднимать на ноги такую запущенную радиационную болезнь. Достать его можно лишь в одном месте - на развалинах старой фабрики Rainbow Pharmaceuticals. Но пусть тебя не смущает слово "развалина"! Это - действующая фабрика, там всем заправляют жестокие рейдеры, но другого пути помочь твоему отцу я не знаю.}		
-{141}{015}{То есть мне нужно идти через пустошь прямо к очередным бандитам и пиратам, и просить у них редкое и, очевидно - дорогущее лекарство?!}																																		
-{142}{016}{Снова рейдеры? Но... Черт побери. Кто-то должен будет ответить за все это. Хорошо док, давай рассказывай как мне их найти.}																																				
-{150}{}{А что ты хочешь от меня? Хорошо, вот тебе другой способ - ты поднимаешься наверх, стучишься в ворота башни и просишь у них помочь твоему отцу! Наверняка в "Олимпе" есть нужное лекарство, да вот только плевать им на твоего отца! И на тебя им плевать! И на меня тоже.}																					
-{151}{016}{Понятно. Ну, если нет другого пути - рассказывай, как мне найти этих "радужных бандитов".}													
-{160}{}{Зачем рассказывать? Ты что, еще не привык к органайзеру? [подмигивает] Ээ-эх, когда-то и у меня такой был... Ну хорошо, смотри [какое-то время Пэт копается с вашим органайзером, походя рассказывая какие кнопки и в каком порядке нужно нажимать] Ну вот, координаты фабрики теперь забиты в карту. Я только должен тебя предупредить - лучше тебе поторопиться с этим антирадином, судя по всем признакам твоему отцу осталось не больше полутора недель.}		
-{161}{017}{Ясно, я все понял. Значит - "ан-ти-ра-дин". Я его добуду. Отец, только держись!}															
-{162}{018}{Все мне понятно. Ладно, спасибо за советы, док. Постараюсь не опоздать.}															
-{163}{018}{Эмм, ну посмотрим по обстоятельствам. Не хотелось бы там просто сдохнуть из-за каких-то лекарств. Я пойду.}																									
-{170}{}{Весь в отца [измученно улыбается]. Ступай, и пусть тебе сопутствует удача.}															
-{171}{999}{[ВЫХОД]}																			
-{180}{}{Я сказал то, что должен был сказать. Остальное - твое дело.}																	
-{181}{999}{[ВЫХОД]}																			
-{200}{}{Эмм? А, снова ты, }																			
-{201}{}{. Все никак не привыкну к твоему виду, хе-хе. Тебе что-то еще нужно?}																
-{202}{030}{Док, что с моим отцом?}																			
-{203}{021}{Я думал, может чем-то тебе тут помочь нужно?}																		
-{204}{023}{По-поводу того твоего задания...}																			
-{205}{Barter}{Напомни-ка мне, что там у тебя из запасов осталось?}																	
-{206}{999}{Эмм, нет, ничего. Я пожалуй пойду.}
+{120}{}{It's hard to say for sure, but it seems that these rays come from special stones and metal. The tower beneath us is made of metal too, but only on the outside. On the inside it is protected by anti-radiation stuff. I don't know for sure, engineers deal with it, not doctors.}   			
+{121}{013}{En-gi-neers... Who are they? Are they Sons of Gods too? Actually, who are these "Sons of Gods"? And who are the "Gods?" Do they live in tower?} 
+{130}{}{You are asking too many dangerous questions. I would be glad to tell you the truth, but I'm afraid this knowledge will only hurt you. I'm sure you'll find it all out in your time.}
+{131}{014}{Fine, I don't have time for it anyway. How can I help my dad?} 
+{132}{999}{Great! Thanks for the help. I'll go figure everything out right now.} 
+{140}{}{There's only one thing that may - MAY - help your father. It's called "Antiradine". As I've heard, this drug can handle even the radiation poisoning that severe. You can get it only in one place - in the ruins of old "Rainbow Pharmaceuticals" factory. Don't let the word "ruins" fool you - this factory is very much active and operating. They have a vile and vicious raiders in charge, but I fail to see any other way to help your dad.}		
+{141}{015}{So, I need to walk across the wastelands to the another gang of bandits and ask them to give me rare and, obviously, not so cheap medicine?!} 	
+{142}{016}{Raiders again? But... Goddamit. Someone has to answer for all this. Okay doc, tell me how to find them.} 			
+{150}{}{What do you want from me? Okay, here's another way - go to the surface and knock the tower doors, then ask them to cure your father. The "Olympus" definitely possesses such kind of medicine - only they don't care about anyone, your father, me, or you!}
+{151}{016}{I see. Well, if there's no other way - tell me how to find these "rainbow raiders".}  	
+{160}{}{Why to tell? Didn't you get accustomed to your organizer? [winks] I had one just like it once... Okay, look. [Pat takes your organizer and explains to you, what buttons to press and what they do] Here, the factory's coordinates are now in your map. Remember - you should hurry with finding the cure. I don't think your father will last longer than a couple of weeks.}		
+{161}{017}{I see. Antiradine then. I'll get it. Hang on, dad...}  			
+{162}{018}{Understood. Thanks for advices, doc, I'll try not to be late.}  			
+{163}{018}{Uh, we'll see how it goes. I wouldn't want to die looking for some stupid medicines. I'm off.}    	
+{170}{}{You're just like your father. [he gives a tired smile] Go, and good luck.}  			
+{171}{999}{[leave]}   	
+{180}{}{I said what I had to. The rest is up to you.}  					
+{181}{999}{[leave]}   	
+{200}{}{Huh? Oh, it's you again, }   	
+{201}{}{. I still can't get accustomed to your new appearance, hehe. What do you need?}  				
+{202}{030}{Doc, what's wrong with my father?}   	
+{203}{021}{I was thinking - maybe you need some help?}   
+{204}{023}{About your request...}
+{205}{Barter}{Show me what do you have in stock.}
+{206}{999}{Uh, no, nothing. I better go.}
 
-{207}{040}{У меня для тебя есть... необычная пациентка.}
+{207}{040}{Doc, I have some... Unusual female patient for you.}
 
-{209}{}{Да-да. Хм, что еще?}																			
-{210}{}{Помочь? Ты? Хмм, а отчего бы и не помочь? Действительно, давай-ка, займись делом. Только тут нужны чуткие руки. Ну и навыки в медицине не помешают.  Мда-а... Знаешь ведь сам, сколько здесь у нас ушибов, растяжений, вывихов. Постоянно кто-то что-то куда-то не туда засунет - и вот пожалуйста, травма. И работать человек не может, и плохо человеку, больно. А меня одного на всех не хватает... Ну как, возьмешься помочь?}						
-{211}{022}{Нужно вывихнутые запястья что ли вставить? Ну конечно, без проблем помогу!}															
-{212}{022}{Это медиком что-ли поработать? Не уверен я... но попробовать могу, почему бы и нет.}														
-{213}{999}{С больными да ушибленными возиться? Вот еще. Не-ет, не до этого мне сейчас. Да и других дел много.}																									
-{220}{}{Вот и чудненько! Значит, смотри... пробегись по фермам и по техническому уровню. Как увидишь кого валяющегося да стонущего - постарайся его на ноги поднять. Не силой, конечно же, а то еще хуже бедолагам сделаешь. Человек 6 подлатаешь - возвращайся. А я пока подумаю, чем бы тебя за такую помощь отблагодарить [подмигивает]}															
-{221}{PetsHelper}{Ясно, понятно. Пойду лечить ушибленных и растянутых.}																
-{222}{PetsHelper}{Ок док, задание принято. До скорого!}																		
-{223}{999}{6 человек!? Что-то как-то многовато. Я-то думал пару ребятишек к тебе на лечение привести. Нее-ет, я уж как-нибудь в другой раз.}																						
-{230}{}{Ну как там мои, то есть - твои пациенты?}																			
-{231}{999}{Работаю над этим. На удивление не так уж много травмированных. Пойду еще их поищу.}														
-{232}{024}{ бойцов возвращено в трудовой строй. Не обошлось без парочки досадных ошибок, но в основном все довольны.}																								
-{233}{024}{Вылечил всех кого нашел. Сейчас работают, не жалуются.}																	
-{240}{}{Ну что ж, хорошо. Это конечно капля в море, но один день спокойной жизни ты мне подарил, а это хоть чего-то да стоит! Могу предложить тебе на выбор обучить тебя навыкам медицины, или 3 "Хилл-Ап"а + 2 "Пойзон-Аут"а?}													
-{241}{025}{Медицинские навыки всегда пригодятся! Поделись опытом.}																	
-{242}{026}{Полезные препараты, док! Если я буду биться с ядовитыми скорпионами - они мне очень пригодятся! Беру препараты.}						
-{243}{027}{Никак не могу выбрать... А можно и то и другое?}																		
-{250}{}{Ну хорошо, смотри... когда видишь кровоточащую рану... [начинает долго и подробно описывать все базовые врачебные действия] Ну вот, надеюсь, эти сведения тебе пригодятся!}							
-{251}{999}{Спасибо, док. Правда, я надеюсь, что эти сведения мне НЕ ПРИГОДЯТСЯ. Счастливо!}														
-{260}{}{Отличный выбор, надежный! Особенно "Пойзон-Аут" может быть полезен, ему нет аналогов, а ведь если вовремя не вывести яд из организма - последствия могут быть фатальными.}					
-{261}{999}{Спасибо, док. Правда, я надеюсь, что эти препараты мне НЕ ПРИГОДЯТСЯ. Счастливо!}														
-{2701}{}{Ишь ты хитрец! Не-ет, так не пойдет. Либо я трачу мое время на твое обучение, либо отдаю тебе мои препараты. Кстати, у меня возникла идея, я тебе просто скажу "спасибо", и на этом разойдемся!}														
-{271}{025}{Понятно. Медицинские навыки всегда пригодятся! Поделись опытом.}															
-{272}{026}{Нет уж, уговор есть уговор, беру препараты!}																
-{2702}{}{Это, конечно, немного нечестно с твоей стороны, но так и быть, держи препараты. А на счет медицины -  смотри... когда видишь кровоточащую рану... [начинает долго и подробно описывать все базовые врачебные действия] Ну вот, надеюсь эти сведения тебе пригодятся!}											
-{273}{999}{Спасибо док, приятно с тобой иметь дело [подмигнуть]}
+{209}{}{Yes... Huh? What?}
+{210}{}{Help? Hmm, why not, actually... Yes, seriously, do something helpful. But you need a good hands and some medical skills. Yeah... You know how it is - we have all kinds of traumas, dislocations and sprains here. Someone stucks something in the wrong place - and here it is, a new injury. And this someone can't work and feels pain. And there's only me, which is not enough... So, would you help?} 
+{211}{022}{Do you need me to fix dislocated wrists or something? Of course I'll help, no problem!}  			
+{212}{022}{You mean, to do a medic's job? I'm not sure... But I could try, why not.}  		
+{213}{999}{To take care of sick and injured? Hell no, I don't have time for this. A lot of other things to do.}    	
+{220}{}{That's wonderful! Okay, listen - run around the Farms and Technical level. If you see someone lying around and groaning, try to get them back on feet. Not by force, of course, don't make it worse for them. Help at least six, and return to me. Meanwhile, I'll think about how to thank you for this. [he winks]}  			
+{221}{PetsHelper}{I see, I see. Okay, off to heal injured and sprained.}  				
+{222}{PetsHelper}{Assignment is taken, doc. See you soon!}   
+{223}{999}{Six!? Too much, if you ask me. I was thinking about bringing you a couple of sick kids or something. Nah, some other time.}
+{230}{}{So? How are my- I mean, your patients?}
+{231}{999}{I'm working on it. Surprisingly, not many injured around here. I'll go look for more.}  		
+{232}{024}{ are healed in total. Not without some accidental mistakes, but now everything is alright.}    
+{233}{024}{I healed every injured I could find. Now they are back to work.}  					
+{240}{}{Good, that's good. It's still a drop in the bucket, but at least now I can have one day off - and this means a lot! I can teach you some medical skills or give you 3 "Heal-Up" and 2 "Poison-Out". What will it be?}  	
+{241}{025}{The skills are always handy! Share your skills with me.}  					
+{242}{026}{A useful meds, doc! If I'm going to fight poisonous scorpions, they will help me a lot. I take them.} 
+{243}{027}{I can't choose... Can I have both?}   
+{250}{}{Okay, listen then... When you see a bloody wound... [he starts methodically and thoroughly describe all necessary actions for administering first aid] Okay, I hope this information comes in handy!} 	
+{251}{999}{Thanks, doc. Although, I hope this information DOESN'T come in handy. See you.}  		
+{260}{}{Good choice! Especially, "Poison-Out" - it has no analogues, and if you don't remove poison in time, it could be fatal to you.}					
+{261}{999}{Thanks, doc. I hope I won't have to use them. See you!}  		
+{2701}{}{What a sly! No, it doesn't work that way. Either I spend time on teaching you, or give you the meds. Oh, I have an idea! How about I just thank you and we call it a day?}
+{271}{025}{Okay, I get it! Teach me some medical skills.}  			
+{272}{026}{No, a deal is a deal, I take meds!!}  				
+{2702}{}{It is a little unfair, don't you think? Okay, here, take your meds. And about skills - when you see a bloody wound... [he starts methodically and thoroughly describe all necessary actions for administering first aid] Okay, I hope all of this comes in handy!} 					
+{273}{999}{Thanks, doc, nice to do business with you. [wink]}
 
-{274}{999}{А знаешь, док - оставь свои знания и лекарства при себе. Местным они больше пригодятся, а у меня сейчас нет времени на уроки. Бывай. Не кашляй.}																	
-{3001}{}{Твой отец держится из последних сил! Если ты не принесешь "Антирадин" как можно скорее, боюсь, может быть уже слишком поздно пытаться поднять его на ноги.}																			
-{301}{999}{Я изо всех сил пытаюсь его достать. Док, помоги отцу продержаться еще немного, я скоро вернусь!}																										
-{302}{031}{Вот он, вот ОН! "АНТИРАДИН"! [отдать Пэту пузырек]}																											
-{3002}{}{Джон идет на поправку, не о чем беспокоиться. Он конечно еще очень слаб, но твой брат Кирк постоянно за ним присматривает, так что думаю со временем твой отец победит болезнь.}				
-{303}{020}{Так приятно слышать хорошие новости. Мне еще кое-что интересно.}																
-{304}{999}{Это хорошо. Я надеюсь на тебя, док.}																									
-{3003}{}{Мне... искренне жаль. Ты не успел.}																												
-{305}{999}{Я пытался. Я сделал все что мог. Отец...}																												
-{306}{999}{Я пытался. Я сделал все что мог [пузырек "Антирадин"а лопается в вашем кулаке] Отец...}						
-{310}{}{Что-то ты долго, мог ведь и не успеть! Ну-у, я надеюсь еще не поздно [Пэт закапывает несколько капель в закатившиеся глаза вашего отца. Тело Джона начинают бить судороги] Что стоишь!? Помоги мне его держать! Воот, вот так, все будет хорошо, Джон. [судороги проходят, Пэт выпрямляется] Реакция нормальная, значит он поправится. Конечно, нужно за ним все время присматривать и время от времени закапывать ему "Антирадин", но думаю, твой брат Кирк отлично с этим справится.}
-{311}{032}{Ффу-ух. Слава Богам... то есть... хорошо, что я успел. Как долго отец будет приходить в себя?}					
-{312}{033}{Отлично, одной проблемой меньше. Мне пришлось много пережить, чтобы вытащить отца с того света, но он там оказался не по моей вине. Все мы в опасности по их вине... "Боги".}														
-{313}{999}{Ну и хорошо, а мне тут нужно еще кое-что сделать.}																											
-{320}{}{Не возьмусь даже предположить. На моей практике таких случаев еще не было, может быть на его восстановление уйдут месяцы. Конечно, в "Олимпе" могли бы его поднять за неделю... то есть, мы ведь тут, и у нас тут нет нужного оборудования... то есть... ну-у...}						
-{321}{033}{Опять "Олимп"! Если есть какая-то проблема, то решение ее находится в этой башне. Там что, правда, живут всемогущие "Боги", способные творить чудеса?}																
-{330}{}{Я знаю о "Богах" немногим больше тебя. Никто их никогда не видел. Мы слышали их приказы, они убивали неверных, они руководили нами, но никто и никогда их не видел. Может быть, тебе стоит попытаться поговорить с вестником Грегориусом?}							
-{331}{999}{Мммда, можно начать с этого. Нужно обязательно докопаться до правды.}																								
-{332}{999}{Я во всем этом обязательно разберусь!}
+{274}{999}{You know what, doc? Keep the meds and your knowledge to yourself. You would need it more around here, and I don't have time for lectures. See you.}  					
+{3001}{}{Your father is barely holding up! If you won't bring me "Antiradine" soon, it can be too late.}   	
+{301}{999}{I'm trying my best to find it, doc. Help my father to hold on for a little more, I'll be back soon!}    		
+{302}{031}{Here, here is it! I brought the "Antiradine"! [give Pat the syringe]}    			
+{3002}{}{John is getting better, nothing to worry about. He is still very weak, but your brother Kirk keeps an eye on him. I think your father will be alright. Give him time.}
+{303}{020}{So good to hear good news, doc. I have some questions though.}  				
+{304}{999}{Very good. I'm counting on you, doc.}    	
+{3003}{}{I... I am truly sorry. You didn't make it in time.}    				
+{305}{999}{I tried... I did everything I could. Father...}    				
+{306}{999}{I tried... I did everything I could. [the syrince of "Antiradine" pops, crushed in your fist] Father...} 
+{310}{}{What took you so long? What if it's too late? I hope it isn't... Give me that. [Pat puts a few drops into your dad's rolled eyes. John's body starts to shake uncontrollably] Don't stand there, help me hold him! There, there, everything is going to be alright, John. [the seizure stops. Pat stands up] The condition is stable... That means he'll get better. Of course he had to be taken care of, and periodically take drops of "Antiradine", but I think your brother Kirk will handle it just fine.}
+{311}{032}{Phew... Thank Gods... I mean, good that I made it in time. How long will it take for him to recover?}					
+{312}{033}{Great, one less problem to worry about. I had to go through a lot to pull dad from a brink - yet he ended up there not by my fault. We are in danger because of their fault... Because of the "Gods".}  		
+{313}{999}{Very good, because I need something else to do.}    			
+{320}{}{I can't even assume... There was no such cases in my practice. It can potentially take months. Of course, if he was in the "Olympus", they would put him back on feet in a week... But we are here, and we don't have necessary equipment... I mean... Uhh...} 
+{321}{033}{Again! It's always about the "Olympus"! If there's a problem, then the tower holds salvation! Is it really inhabited by the Gods?}  				
+{330}{}{I know about the Gods not more than you. No one saw them. We heard their orders, saw the defiants they have killed, but no one has ever met them. Maybe you could talk to Herald Gregorius about it?}
+{331}{999}{I could start from there. I will get to the truth.}    
+{332}{999}{I will definitely figure it all out!}
 
-{340}{}{Доктор, вот - я принес "Рад-Аут"! Его все хвалят [протянуть доктору инъекцию]}
-{341}{}{Я нашел отличное средство от лучевой болезни, народное! [протянуть доктору "Железовый Антирад"]}
-{342}{}{Вот, я принес таблетки от радиации! [показать на ладони таблетки "Радиом"]}
+{340}{}{Doc, look, I brought a "RadOut"! Everyone says it's good [hand doctor the injector]}
+{341}{}{I've found a great potion from radiation, a well-known folk remedy! [give doctor "Wild Potion"]}
+{342}{}{Here, I brought some anti-radiation pills! [show your "Radiom" pills]}
 
-{343}{}{[Пэт яростно машет руками] Нет-нет-нет! Я же четко сказал - "АН-ТИ-РА-ДИН", его нужно искать в Рэйнбоу Рэйдерз! Только это может помочь твоему отцу! Боги! не можешь запомнить - так хоть запиши куда-нибудь!}
-{344}{999}{Понятно. Буду искать этот... как ты там его назвал?}	
-
-
-{400}{}{Необычная, говоришь? Кто-то с тех. уровня опять сунул палец куда не следовало?}
-{401}{041}{Нет, на самом деле она довольно далеко отсюда. Придется выйти во внешний мир.}
-{402}{043}{Нет, я говорю о дикарке в скалах на севере. У нее сильно гноящаяся рана.}
-
-{410}{}{Я очень давно не был снаружи, боюсь мое дряхлое тело не перенесет никаких путешествий.}
-{411}{}{Не волнуйся, я знаю безопасный путь. Разве не хочется хоть разок подышать воздухом свободы?}
-{412}{}{Я тебя защищу, все будет в порядке. Женщине действительно нужна твоя помощь.}
-
-{420}{}{Ну, раз ты знаешь безопасную дорогу - отчего бы и не тряхнуть стариной, а? Пойдем, пока я не передумал. Но обещай привести меня обратно!}
-{421}{}{Отлично! Просто не отставай от меня.}
-{422}{999}{А знаешь, у меня тут еще кое-какие дела остались. Я скоро вернусь.}
-
-{430}{}{Звучит совсем неубедительно. Не вижу, зачем бы мне куда-то тащиться и кого-то там спасать. Нет, я никуда не пойду.}
-{431}{}{Да, тебя можно понять. Окей, мне пора идти.}
-{432}{}{Никакого сострадания к ближним своим! Хорошо, я сам разберусь.}
+{343}{}{[Pat furiously waves hands] No, no-no-no! I told you clearly - it's "ANTIRADINE"! You should look for it in Rainbow Raiders, and it's the only thing that can help your father! Oh Gods... If you can't remember it, write it down!}
+{344}{999}{I get it. I'll go look for this... What was it again?}	
 
 
+{400}{}{Unusual, you say? I bet someone from Technical level is sticking their hands where they are not supposed to again...}
+{401}{041}{No, actually this patient is somewhere far away from here. We have to venture outside.}
+{402}{043}{Actually, I mean the savage woman, she lives in the mountains to the north. She has a nasty rotten wound.}
 
-{50}{}{Это... ты. Какой смысл с тобой разговаривать? Ты же... О Боги, как тебя такого земля носит? Слушай. Твоему отцу нужно лекарство, называется АН-ТИ-РА-ДИН. Найти его можно вот здесь [отмечает на вашем органайзере локацию Raibow Raiders]. Ты хоть понял, что я сделал?}					
-{51}{999}{Абр... Абррыбррр. Угу [кивнуть и уйти]}																												
-{52}{}{Что тебе еще нужно? Аах, на счет твоего отца. Ты принес "Антирадин"?}																									
-{53}{Х11}{[Протянуть пузырек]}																												
-{54}{999}{Не-а. Убр..ыглаа-а-м [выход]}																												
-{55}{}{Мне жаль, но твой отец не дождался твоей помощи. Мне правда жаль.}																									
-{56}{999}{Уа-а-у-у-у! [выход]}																												
-{57}{}{Давай уже скорей сюда! [Пэт закапывает несколько капель в закатившиеся глаза вашего отца. Тело Джона начинают бить судороги] Что стоишь!? Помоги мне его держать! Воот, вот так, все будет хорошо, Джон. [судороги проходят, Пэт выпрямляется] Реакция нормальная, значит он поправится. Конечно, нужно за ним все время присматривать и время от времени закапывать ему "Антирадин", но думаю, твой брат Кирк отлично с этим справится.}				
-{58}{999}{Ага. У-у-уа-а-а-га.}
-{59}{}{Ну что тебе? Ничего? Я так и думал. Не отнимай мое время.}
-{60}{999}{Бррр.. Ум-Ум! [выход]}
+{410}{}{I haven't been outside in a really long time, I'm afraid that my old body won't handle the traveling.}
+{411}{}{Don't worry, I know how to get there safely. Don't you want to breathe a fresh air of freedom again?}
+{412}{}{I'll have you protected, I promise. That woman really needs your help.}
+
+{420}{}{Well, if you know safe paths and protect me... Okay then! Would be nice to remember the old days and shake off some rust, right? Let's move out, while I didn't change my mind. But promise to take me back!}
+{421}{}{Great! Just keep close to me.}
+{422}{999}{You know, I need to do something around here. I'll be back.}
+
+{430}{}{Not very convincing. Why would I go somewhere far to save someone I don't even know. No, I'm staying here.}
+{431}{}{I can relate... Okay, I need to go.}
+{432}{}{You have no compassion, doc! I'll handle it myself then.}
+
+{50}{}{It's... You. What's even the point of talking to you? You're... Oh Gods, how do you even live? Listen, your DAD needs a MEDICINE, it's called AN-TI-RA-DI-NE! You can find it here. [he points the Raibow Raiders on the map of your organizer] Do you even understand what I just did?}					
+{51}{999}{Ugh... Ughugh. Uh-huh. [nod and leave]}    				
+{52}{}{What do you want? Oh, it's about your father. Did you bring me the "Antiradine"?}    	
+{53}{Х11}{[hand him the syringe]}    				
+{54}{999}{Nah. Ugh.. Uglum. [leave]}    				
+{55}{}{I'm sorry, but your father didn't make it. I am really sorry.}    	
+{56}{999}{Woooooooo! [leave]}    				
+{57}{}{Give it to me quick! [Pat puts a few drops into your dad's rolled eyes. John's body starts to shake uncontrollably] Don't stand there, help me hold him! There, there, everything is going to be alright, John. [the seizure stops. Pat stands up] The condition is stable... That means he'll get better. Of course he had to be taken care of, and periodically take drops of "Antiradine", but I think your brother Kirk will handle it just fine.}
+{58}{999}{Ugh. Ughugugugh.}
+{59}{}{What? Nothing? Just as I thought. Don't waste my time.}
+{60}{999}{Brrrr... Ugh-ugh! [leave]}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{Давай быстрее с этим покончим.}
-{1001}{}{Ты уверен, что твоя пациентка еще не померла?}
-{1002}{}{Ох и зря я в это ввязался.}
-{1003}{}{Мне эта затея с самого начала не понравилась.}
-{1004}{}{Чем быстрее ты мне покажешь пациентку - тем лучше для всех.}
-{1005}{}{Дело сделано, так? Отведи меня обратно в Тартар.}
-{1006}{}{Давай просто поскорее вернемся домой.}
-{1007}{}{Хватит с меня твоих приключений.}
-{1008}{}{Я не хочу разговаривать, просто отведи меня обратно.}
-{1009}{}{Я очень устал, давай скорей вернемся в Тартар.}
+{1000}{}{Let's deal with this quick.}
+{1001}{}{Are you sure your patient is still alive by now?}
+{1002}{}{It was a bad idea - to get involved into this.}
+{1003}{}{This looked rigged from the start...}
+{1004}{}{The faster you take me to the patient, the better for everyone.}
+{1005}{}{It's done, right? Take me back to Tartarus.}
+{1006}{}{Let's just get back home.}
+{1007}{}{Enough of these adventures for me.}
+{1008}{}{I don't really want to talk. Just take me back.}
+{1009}{}{I'm very tired, let's get back to Tartarus quick.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Нейтральная реакция)
 #

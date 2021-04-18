@@ -446,12 +446,12 @@
 {22301}{}{A powerful army painkiller that heals even very deep wounds. It also increases strength and resistance to damage. Very essential in battle!}
 {22400}{}{Antidote}
 {22401}{}{If you are poisoned take a couple of pills and you will not face death from bloody diarrhea!}
-{22500}{}{Rot Gut}
-{22501}{}{The smell from the bottle of hootch knocks you off your feet, but this folk remedy let's you sweat out poisons pretty good!}
-{22600}{}{Rad-Out}
-{22601}{}{An injection that expels radioactive patricles from your bloodstream. Unpleasant, but useful!}
+{22500}{}{Poison-Out}
+{22501}{}{Maybe the smell from this bottle of hooch can knock you off your feet, but this folk remedy still makes you sweat out the poison pretty good!}
+{22600}{}{RadOut}
+{22601}{}{An injection that removes radioactive particles from your bloodstream. Unpleasant, but useful!}
 {22700}{}{Wild Potion}
-{22701}{}{Scorpion tails, rat nails, mole rat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
+{22701}{}{Scorpion tails, rat claws, molerat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
 {22800}{}{Iodide}
 {22801}{}{If you are going to toy around the core of a nuclear reactor this miracle pill will help you not to burn out from your insides. Take before exposure!}
 {22900}{}{Resistanol}

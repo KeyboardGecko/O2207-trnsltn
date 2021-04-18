@@ -271,7 +271,7 @@
 {1105}{}{You are addicted to the chem Stronghold. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Brainiac addiction. You must take this particular chem or suffer withdrawal.}
 {1107}{}{You have a chem addiction. If you do not take Combatid on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to Rad-Out. While not life threatening, you must take it regularly.}
+{1108}{}{Your body has become addicted to RadOut. While not life threatening, you must take it regularly.}
 {1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
 {1110}{}{You have a chem addiction. You must take Drop on a regular basis.}
 {1111}{}{Tragically, you are hooked on the Garnering. You are constantly in search of new expansions.}
