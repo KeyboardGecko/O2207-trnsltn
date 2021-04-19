@@ -28,7 +28,7 @@
 {4}{}{You see a guardian.}
 {5}{}{You see an armed guard.}
 {6}{}{A powerful-looking guard.}
-{7}{}{Well-armed and well-defended guardian.}
+{7}{}{Well-armed and well-equipped guardian.}
 {8}{}{This man is defending the Tartarus from dangerous creatures, and, probably, from dirty thoughts.}
 {9}{}{He is fully covered with some kind of sticky dirt. If it's even dirt.}
 #

@@ -25,12 +25,12 @@
 # ¤® §­ ª®¬αβΆ 
 #
 {1}{}{You see: dr. Pat.}
-{2}{}{dr. Pat - Son of the Gods, he provides residents of Tartarus with necessary medications.}
+{2}{}{Dr. Pat, the Son of the Gods. He provides residents of Tartarus with necessary medications.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
 {3}{}{You see: dr. Pat.}
-{4}{}{dr. Pat - Son of the Gods, he provides residents of Tartarus with necessary medications.}
+{4}{}{Dr. Pat, the Son of the Gods. He provides residents of Tartarus with necessary medications.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
 #

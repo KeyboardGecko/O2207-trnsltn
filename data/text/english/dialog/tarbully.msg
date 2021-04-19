@@ -25,13 +25,13 @@
 #
 # ¤® §­ ª®¬αβΆ 
 #
-{1}{}{You see: Bully.}
-{2}{}{A punk and hothead! Mom and dad say that's because he is a degenerate.}
+{1}{}{You see a Bully.}
+{2}{}{A punk and hothead. Mom and dad say that's because he is a degenerate.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
-{3}{}{You see: Bully.}
-{4}{}{A punk and hothead! Mom and dad say that's because he is a degenerate.}
+{3}{}{You see a Bully.}
+{4}{}{A punk and hothead. Mom and dad say that's because he is a degenerate.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
 #
@@ -49,25 +49,25 @@
 #‡„…‘ €—€…’‘ „€‹ƒ ‘‹… ‡€‘’‚€
 #
 {100}{}{Whaddaya want? A punch in the face?}
-{101}{}{Whachu looking at? Huh? Come here!}
+{101}{}{What?! You're asking for it! Come here!}
 {102}{}{Calm down, I want to talk about my brother...}
 {103}{}{Yeah. Talk later.}
-{104}{}{Ow, my mistake...}
+{104}{}{Oh, my mistake...}
 {1102}{}{Oh, it's you... Whaddaya want?}
 {105}{}{}
 {106}{}{}
 {107}{}{}
-{110}{}{Nothing to talk about! He threw a stone into me! He wanted to, I've seen heem aiming! He is done for, your brother!}
-{111}{}{Oh... If he started it, you both deal with it yourselves.}
+{110}{}{Nothing to talk about! He threw a stone into me! On purpose, I've seen heem aiming! He is done for, your brother!}
+{111}{}{Oh... If he started it, he should deal with you himself. You both figure it out.}
 {112}{}{I know your type, always looking for an excuse to pester someone! Now you're gonna get it, come here!}
-{113}{}{No, it was an accident! Think for yoursef, why does he need such problems? He is not an idiot!}
-{114}{}{Yeah, it was an accident, he just played with rocks. Forget about it [discreetly show your biceps]}
-{1201}{}{Not convincing! Get the hell out, tell your brother that he is, uh... screwed anyway!}
+{113}{}{No, it was an accident! Think, why would he get into a troubles with you? He is not an idiot!}
+{114}{}{It was an accident, he was just playing with rocks. Forget about it. [discreetly show your biceps]}
+{1201}{}{Not convincing! Get the hell out, tell your brother that he is, uh... Screwed anyway!}
 {1202}{}{Uhhh, erm, damn, I don't want to get my hands dirty punching your faces, you suckers. Get lost.}
 {121}{}{Here goes! [attack the bully]}
 {122}{}{I... I... We'll talk later!}
 {123}{}{Okay then!}
-{130}{}{Who did you call an idiot, you moron?!}
+{130}{}{Who did you call sucker, you moron?!}
 {131}{}{Oops...}
 #
 #‹€‚€™… ‘™… (®«®¦¨β¥«μ­ ο ΰ¥ ªζ¨ο)

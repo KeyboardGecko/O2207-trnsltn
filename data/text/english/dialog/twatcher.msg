@@ -27,7 +27,7 @@
 {3}{}{You see a Son of the Gods.}
 {4}{}{You see a Guard.}
 {5}{}{You see the Guardian.}
-{6}{}{The Warden keeping the order.}
+{6}{}{The Warden keeping order.}
 {7}{}{The Watcher of Tartarus.}
 {8}{}{This man is responsible for keeping order in Tartarus.}
 {9}{}{He is always walking back and forth with a bored look.}
