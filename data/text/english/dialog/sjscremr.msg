@@ -75,7 +75,7 @@
 {134}{999}{Uh... I've just remembered I have some business to take care of. See you later.}
 
 
-{140}{}{[He slaps your shoulder] Nice job! Perhaps I'm not only going to leave you your fingers intact, but will also give you a honest reward. [He puts down the rifle with powerful optics from his back, and reloads it a couple of times, checking smoothness of mechanism] Such a good toy... Exactly for you. Now you'll be able to shoot any beast between the eyes from a mile away.}
+{140}{}{[He pats you on the shoulder] Nice job! Perhaps I'm not only going to leave you your fingers intact, but will also give you a honest reward. [He puts down the rifle with powerful optics from his back, and reloads it a couple of times, checking smoothness of mechanism] Such a good toy... Exactly for you. Now you'll be able to shoot any beast between the eyes from a mile away.}
 {141}{012}{A pleasure doing business with you. I still have a couple of questions though.}
 {142}{015}{Is that it? Do you even realize what does it take to kill a Chimera? I bet you took other teeth from an old and dead ones...}
 {143}{999}{Thanks, Loudmouth. Big gun means big future! See you around.}
@@ -222,7 +222,7 @@
 {381}{999}{Great. I'll tell that to Hog. Was nice having business with you, but I've got to go.}
 
 
-{390}{}{[He puts a knife away and slaps your shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done... But not now. Later. If you want to join the fun, just say, we'll find you something to do. Will pick fingers for me, hahah.}
+{390}{}{[He puts a knife away and pats you on the shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done... But not now. Later. If you want to join the fun, just say, we'll find you something to do. Will pick fingers for me, hahah.}
 {391}{999}{Ahem... What an honor. Okay, that's it for me, I won't be bothering you anymore.}
 
 

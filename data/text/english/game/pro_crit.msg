@@ -403,7 +403,7 @@
 {19801}{}{This one looks very weak.}
 {19900}{}{Tame Chimera}
 {19901}{}{}
-{20000}{}{Mother Chimera}
+{20000}{}{Queen Chimera}
 {20001}{}{}
 {20100}{}{Wild Dog}
 {20101}{}{}

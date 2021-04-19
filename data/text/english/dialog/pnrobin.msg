@@ -34,7 +34,7 @@
 {32}{005}{[make a sad sigh] And how do I understand what exactly is going to bite my balls off?}	
 {40}{}{Hey, limpy dick, pull yoursef together! Now you are part of the family, so we'll teach you everything you need, don't sweat! You know, I was just like you once. Oh wait a second - no, I wasn't!! [he lougly laughs]}	
 {41}{006}{Okay, so, what should I learn for starters?}	
-{50}{}{Whoa, you ARE a tough and serious girl, aren't you? [He slaps you by the shoulder and you feel the bruise starting to form] It's good you have a spine, don't lose it! Without spine you won't handle the people of Radius - and they are even more scary than beasts! They'll bite your head instantly.}	
+{50}{}{Whoa, you ARE a tough and serious girl, aren't you? [He slaps your shoulder and you feel the bruise starting to form] It's good you have a spine, don't lose it! Without spine you won't handle the people of Radius - and they are even more scary than beasts! They'll bite your head instantly.}	
 {51}{006}{Okay, so, what should I learn for starters?}	
 {60}{}{For starters, you should get how this place works. I'm Robin, and I'm in charge of each of this sturdy guys behind my back. We are the Seekers, we drag around the Radius in search of food, water and instruments. The leader of this place is the guy named Bono, a falling-apart ghoul. He is alright and all that, but he doesn't have the balls. I mean, he literally doesn't. Then there's Hugo, he's a dead meat too, but with a head - and a spine! And with him we'll take over the Tartarus someday, only need to get around enough boys and guns for this!}
 {61}{010}{Oh... I see, I get it. Can I ask something else?}	
@@ -69,7 +69,7 @@
 {200}{}{DEEEEEATH! [laughs] This is the main thing you should learn. The Radius is a highly dangerous place. Oh, wait, there is one safe spot! Some-Order-something, I don't really remember the name. An old factory to the west of here. Let me show you [he starts pushing buttons of your organizer], Here, ready! Only watch out for the tin men patrol while you walk there. Try to evade them.}
 {201}{010}{Maybe I don't really need to go there. Another question.}
 {202}{999}{Thanks, I'll keep it in mind. Well, off I go.}
-{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks and friendly slaps your shoulder]}
+{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks and friendly pats you on the shoulder]}
 {204}{010}{It can wait. I wanted to ask...}
 {205}{999}{Actually, I've got to go.}
 

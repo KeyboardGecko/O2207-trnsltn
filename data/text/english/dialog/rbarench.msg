@@ -140,7 +140,7 @@
 
 {1801}{}{[he nods, looking satisfied] Will do. You have some potential, and the crowd likes you. Here's your winnings.}
 {181}{999}{Thank you very much. Later!}
-{1802}{}{[he slaps your shoulder] Good job, kid! As you broke his jaw, I understood right away that it was a good idea to bet on you! Keep it up! And don't forget your winnings.}
+{1802}{}{[he pats you on the shoulder] Good job, kid! As you broke his jaw, I understood right away that it was a good idea to bet on you! Keep it up! And don't forget your winnings.}
 {182}{999}{Yes, it was a good warm-up. Now I can get some rest.}
 {1803}{}{You look just like me in my best years! Went so hard on that asshole, now I have to clean the Arena for a whole day after you... And I need to think really hard about who to put you against next time. For now - here, you earned it.}
 {183}{999}{Notice that I won't count it! Okay, see you.}

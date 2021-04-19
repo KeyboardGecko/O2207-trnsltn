@@ -610,8 +610,8 @@
 {30501}{}{A bag of organic fertilizers. Just a handful of this fertilizer and the corn will grow fine and dandy.}
 {30600}{}{*Whetstone*}
 {30601}{}{This stone can be used to sharpen any edged weapon.}
-{30700}{}{Chimera Fang}
-{30701}{}{The tooth, or rather the fang, of the most dangerous creature, the Chimera! You are lucky that you were able to get it and remain all your limbs.}
+{30700}{}{Chimera's Fang}
+{30701}{}{The tooth - or rather, the fang - of the most dangerous creature, the Chimera! You are lucky that you were able to get it and keep all your limbs.}
 {30800}{}{S-Virus Strain}
 {30801}{}{A sealed ampoule containing a deadly virus. Be very careful with it!}
 {30900}{}{Strange Book}
@@ -1025,9 +1025,9 @@
 {51300}{}{D.E.U.S. Weapon}
 {51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
 {51400}{}{Horn}
-{51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
+{51401}{}{A trophy from the Chimera's corpse, you can use it as a weapon.}
 {51500}{}{Claw}
-{51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
+{51501}{}{A claw of the Chimera. Dangerous stuff in battle.}
 {51600}{}{Fang}
 {51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
 {51700}{}{Sharp Fang}
