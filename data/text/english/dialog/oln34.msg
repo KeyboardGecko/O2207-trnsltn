@@ -58,7 +58,7 @@
 {102}{012}{[put on armor]}
 {103}{}{Testings failed - you attacked your teammates! Protocol A-1 - destroy him!}
 {104}{998}{[fight]}
-{105}{}{You are successfully completed the mission. You shall proceed to a Defender training course shortly... Stand by... [looks like he is receiving something on the radio] I have a new assignment for you - take this keycard and proceed to a "Server" floor for getting access to a COntrol Room. Don't delay, the order is of highest priority.}
+{105}{}{You are successfully completed the mission. You shall proceed to a Defender training course shortly... Stand by... [looks like he is receiving something on the radio] I have a new assignment for you - take this keycard and proceed to a "Server" floor for getting access to a Control Room. Don't delay, the order is of highest priority.}
 {106}{999}{Got it, on my way.}
 {107}{}{Candidate, proceed on the floor 79 immediately, for receiving new access codes.}
 {108}{}{Candidate, I have no further assignments. You shall be informed about the start of Defender training course in some time.}
