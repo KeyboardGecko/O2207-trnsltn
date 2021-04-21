@@ -21,11 +21,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: raider.}
-{2}{}{You see: one of the Jackals.}
-{3}{}{You see: local.}
-{4}{}{You see: raider.}
-{5}{}{You see: Jackal.}
+{1}{}{You see a raider.}
+{2}{}{You see one of the Jackals.}
+{3}{}{You see a local.}
+{4}{}{You see a raider.}
+{5}{}{You see a Jackal.}
 {6}{}{The look on his face does not guarantee an easy conversation.}
 {7}{}{Bruised eye, lack of teeth, hard look.}
 {8}{}{Sunsetus Jackalus Ordinarius. A mean subspecies.}

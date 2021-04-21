@@ -48,10 +48,10 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÏÎÑËÅ ÇÍÀÊÎÌÑÒÂÀ
 #
 {100}{}{What do you need?}
-{101}{}{I'm the sleuth-man! Investigating the case of missing Wrench!}
-{102}{}{I'm looking for a dad's Wrench...}
+{101}{}{I'm the sleuth-man! Investigating the case of missing wrench!}
+{102}{}{I'm looking for a dad's wrench...}
 {103}{}{Nothing, I'm just playing here.}
-{110}{}{You are just a little boy. And your dad's Wrench is in the drawer near my bed. Go, fetch it.}
+{110}{}{You are just a little boy. And your dad's wrench is in the drawer near my bed. Go, fetch it.}
 {120}{}{Oh... It's in the drawer near my bed. Tell your dad I said thanks.}
 {111}{}{Thanks for the tip!}
 {112}{}{Okay, I will go get it, thank you.}

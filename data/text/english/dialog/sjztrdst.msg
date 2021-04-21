@@ -21,11 +21,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a junk dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: merchant from NWO.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a junk dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see a merchant from NWO.}
+{5}{}{You see a trader.}
 {6}{}{A common-looking junk trader.}
 {7}{}{Just a merchant selling all kinds of stuff.}
 {8}{}{One of Jackals. He trades in everything.}

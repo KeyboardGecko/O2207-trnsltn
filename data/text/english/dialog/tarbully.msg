@@ -51,19 +51,19 @@
 {100}{}{Whaddaya want? A punch in the face?}
 {101}{}{What?! You're asking for it! Come here!}
 {102}{}{Calm down, I want to talk about my brother...}
-{103}{}{Yeah. Talk later.}
-{104}{}{Oh, my mistake...}
+{103}{}{Okay... Talk later.}
+{104}{}{Sorry, my mistake...}
 {1102}{}{Oh, it's you... Whaddaya want?}
 {105}{}{}
 {106}{}{}
 {107}{}{}
-{110}{}{Nothing to talk about! He threw a stone into me! On purpose, I've seen heem aiming! He is done for, your brother!}
-{111}{}{Oh... If he started it, he should deal with you himself. You both figure it out.}
+{110}{}{Nothing to talk about! He threw a stone at me! It was on purpose, I've seen him aiming! He is done for, your brother!}
+{111}{}{Oh... If he started it, you both figure it out. I won't be a part of this.}
 {112}{}{I know your type, always looking for an excuse to pester someone! Now you're gonna get it, come here!}
-{113}{}{No, it was an accident! Think, why would he get into a troubles with you? He is not an idiot!}
+{113}{}{No, it was an accident! Think, why would he get into a trouble with you? He is not an idiot!}
 {114}{}{It was an accident, he was just playing with rocks. Forget about it. [discreetly show your biceps]}
 {1201}{}{Not convincing! Get the hell out, tell your brother that he is, uh... Screwed anyway!}
-{1202}{}{Uhhh, erm, damn, I don't want to get my hands dirty punching your faces, you suckers. Get lost.}
+{1202}{}{Uhhh... Erm... Damn, I don't want to get my hands dirty punching your faces, suckers. Get lost.}
 {121}{}{Here goes! [attack the bully]}
 {122}{}{I... I... We'll talk later!}
 {123}{}{Okay then!}
@@ -74,27 +74,27 @@
 #
 {1000}{}{Oh... Hey.}
 {1001}{}{You again? Hello.}
-{1002}{}{Yeah-yeah, what?}
-{1003}{}{Listen - later.}
+{1002}{}{Yeah, what?}
+{1003}{}{Later.}
 {1004}{}{What?}
-{1005}{}{Come on, forget it.}
+{1005}{}{Forget it.}
 {1006}{}{No problem.}
 {1007}{}{Later, okay?}
 {1008}{}{Yeah okay, okay.}
-{1009}{}{[he looks at you indifferently]}
+{1009}{}{[looks at you indifferently]}
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (¥©âà «ì­ ï à¥ ªæ¨ï)
 #
 {1010}{}{Oh... Hey.}
 {1011}{}{You again? Hello.}
-{1012}{}{Yeah-yeah, what?}
-{1013}{}{Listen - later.}
+{1012}{}{Yeah, what?}
+{1013}{}{Later.}
 {1014}{}{What?}
-{1015}{}{Come on, forget it.}
+{1015}{}{Forget it.}
 {1016}{}{No problem.}
 {1017}{}{Later, okay?}
 {1018}{}{Yeah okay, okay.}
-{1019}{}{[he looks at you indifferently]}
+{1019}{}{[looks at you indifferently]}
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (âà¨æ â¥«ì­ ï à¥ ªæ¨ï)
 #

@@ -21,11 +21,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: trader.}
-{2}{}{You see: armor dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: an armor merchant.}
-{5}{}{You see: seller.}
+{1}{}{You see a trader.}
+{2}{}{You see an armor dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see an armor merchant.}
+{5}{}{You see a vendor.}
 {6}{}{Just common-looking armor trader.}
 {7}{}{An armor dealer.}
 {8}{}{One of Jackals. He sells armor.}

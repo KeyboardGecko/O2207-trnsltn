@@ -48,7 +48,7 @@
 {121}{}{[Take candy]}
 {130}{}{Hi baby, what can your mom do for you?}
 {131}{}{Nothing! [smile and run away]}
-{132}{}{Mo-om, have you seen Dad's Wrench?}
+{132}{}{Mo-om, have you seen dad's wrench?}
 {133}{}{I just wanted to see if you were okay!}
 {134}{}{Mo-om, I am bored and don't know what else to do!}
 {140}{}{Oh... yes, I have! Your little brother Kirk played with it a while ago.}
