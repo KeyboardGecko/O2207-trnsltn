@@ -78,7 +78,7 @@
 {104}{Renessance}{You have seen a lot in your life. Do you know something about the Renaissance?}
 {105}{040}{Can you briefly explain what's what here?}
 {106}{050}{What are you always busy with?}
-{107}{060}{I still can't make that armor suit...}
+{107}{060}{I still can't make that armored suit...}
 {108}{999}{No, nothing. Maybe I'll come by later.}
 {109}{}{Yes, I'm looking for one thing... Did you hear about Ultra Repair Kit?}
 {113}{070}{Carl, I have something for you to look at... [show him broken water filter engine]}
@@ -154,7 +154,7 @@
 {611}{}{ batteries, no less! So, deal?}
 {612}{062}{Agreed. Here.}
 {613}{999}{Too expensive for me. When I get this much, I'll come back to you.}
-{614}{999}{HOW MUCH!? Hell no! You can buy a whole armor suit for that price! I'll better handle it myself.}
+{614}{999}{HOW MUCH!? Hell no! You can buy a whole armored suit for that price! I'll better handle it myself.}
 
 
 {620}{}{[Takes away your batteries and components for a fake armor] Look, it's simple: this thingie into that thingie, a rivet there, tape here, a little more, now put some paint around... add a little dust for aged effect - and would you look at that, won't tell it from real one at first sight! Here you go, klutz [gives you fake armor]}

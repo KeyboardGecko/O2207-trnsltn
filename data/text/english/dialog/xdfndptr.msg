@@ -110,7 +110,7 @@
 {84}{}{Hah, that's the spirit! Let's look for survivors and tear them apart like herd of fucking lavash!}
 {85}{}{[more]}
 {86}{}{You see Defender from Punishers.}
-{87}{}{His armor suit, covered in blood, speaks for itself.}
+{87}{}{His armored suit, covered in blood, speaks for itself.}
 {88}{}{Repeat after me, rookie: aim - shoot - thrill!}
 {89}{}{They are all guilty! And we are just protecting our home.}
 {90}{}{Don't think! Enjoy the process!}
