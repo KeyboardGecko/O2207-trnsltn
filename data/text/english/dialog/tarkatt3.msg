@@ -23,298 +23,245 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Кэтти.}
-{2}{}{Ее форма ремонтника испачкана мириадами пятен всех оттенков детской неожиданности.}
+{1}{}{You see Catty.}
+{2}{}{Her robe of a repairworker is covered with myriads of differently colored stains.}
 #
 # после знакомства
-{3}{}{Вы видите: Кэтти.}
-{4}{}{Она вам улыбается. Пытаясь стереть с лица масляное пятно пачкается еще больше.}
+{3}{}{You see Catty.}
+{4}{}{She smiles to you. Then tries to wipe the oil spot off her face - and gets even more dirty.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{5}{}{Да сколько же можно спать, }
-{6}{}{?? Скорее, скорее! Твоему отцу поплохело на фермах, Кирк еле дотащил его до доктора Пэта!}
-{7}{}{И-и-и-и... Что?}
-{8}{}{Ясно, сейчас же бегу к доктору!}
-{9}{}{Да ты что!? Проснись уже! Беги быстрее туда!}
+{5}{}{How can you sleep for so long, }
+{6}{}{?? Come on, get up! You father got sick on the farms, Kirk barely managed to drag him to a doctor Pat!}
+{7}{}{Uuuuuhhh... And what?}
+{8}{}{Got it, I'm running to the doc right away!}
+{9}{}{What's up with you!? Get up and meet them! Hurry!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{10}{}{[Кэтти никогда не отличалась манерами и повадками девочек, но сейчас только ее милое личико и напоминало, что вообще-то она женщина. Грязная мешковатая форма с добрым десятком заплаток, перепачканная машинным маслом и грязью, удивляла нашивкой "Брук" и не соответствовала общепринятым занятиям женщин Тартара. Она выглядела уставшей, но, кажется, вполне счастливой. Когда вы приблизились, она заметила вас и ее лицо не могло разорваться между крайним удивлением и сильной радостью] Ты? Это правда ты?}
-{11}{002}{Да, это...}
-{12}{002}{Нет, блин, не я.}
-
-
-{20}{}{[Кэтти хватает вас за руку и испуганно озирается] Ты с ума сошел? Тебя если увидят - жерло аида - это лучшее, что может с тобой произойти. Дети богов не забыли твой побег после смерти охранника.}
-{21}{003}{Да, Кэтти, я тоже, кстати, рад тебя видеть.}
-{22}{004}{Я даже пальцем того охранника не трогал!}
-{23}{005}{Я вообще-то помочь тому охраннику хотел!}
-{24}{003}{Да ладно, все нормально. Если не будешь размахивать руками, что это меня они хотят убить - все обойдется.}
-
-
-{30}{}{[Она осматривается по сторонам еще раз, понимает, что на вас никто не смотрит и дает вам звонкий подзатыльник, вложив в него всю свою силу. Судя по силе удара - она неплохо подкачала бицепсы на своей должности]}
-{31}{}{[Она осматривается по сторонам еще раз, понимает, что на вас никто не смотрит и рывком заключает вас в свои объятия]}
-{32}{006}{Эй!}
-{33}{006}{[крепко обнять ее]}
-
-
-{40}{}{Да я не дура. Я видела труп. Ты при всем желании не мог его голыми руками так...  [она что-то изобразила руками подобно лектору, у которого проблемы с жестикуляцией] да даже если бы ты вооружился каким-нибудь металлолом... Короче, охране все равно плевать.  Увидят - убьют же.}
-{41}{003}{Ты всегда встречаешь старых друзей причитаниями, что их хотят угробить?}
-{42}{003}{Ну и так ты встречаешь меня?}
-
-
-{50}{}{Я помню. Только охране плевать. Попадешься на глаза тому, кто еще не упился самогоном - как пить дать узнают и угробят.}
-{51}{003}{Ты всегда встречаешь старых друзей причитаниями, что их хотят угробить?}
-{52}{003}{Ну и так ты встречаешь меня?}
-
-
-{60}{}{[Она делает пару шагов от Вас, последний раз озирается, успокаивается и присаживается на груду ржавого хлама] Знаешь, а ведь я уже и не надеялась, что ты выживешь. Ну, все-таки эта пещера, в которую ты сбежал. Ну, о ней говорят... сам знаешь. Я рада, что ты выжил! Вот только теперь я готова тебе голову открутить за то, что так безрассудно приходишь сюда, словно ты любимчик детей богов... [она изучающе окинула вас взглядом] Черт, о стольком хочется поговорить... что я... я просто даже не знаю с чего начать... [она задумывается на секунду] Как у тебя дела-то? Расскажи, что было после побега. А потом я расскажу как дела у нас. }
-{61}{007}{Ну, мир не такой, как нам о нем говорили... [рассказать о своем побеге, о станции метро, Радиусе, людях которые его населяют]}
-
-
-
-{70}{}{[Кэтти задумчиво слушала Вас, даже не перебив ни разу. Кажется, за прошедшее время с вашей последней встречи она стала намного серьезнее и спокойнее. Возможно, даже рассудительнее] Охренеть, если честно. До сих пор во все происходящее с трудом верится... а Радиус... знаешь, возможно, там и не так уж и плохо [она окинула взглядом тяжелый разводной ключ, который качнула в руке словно взвешивая]. Если у тебя есть большое ружье и куча патронов. Как бы то ни было, здесь все же спокойнее. И порядок у нас поддерживается. Например, три дня назад один из охранников публично наказал мальчишку за воровство. Десять ударов палкой. Потом его придавили двое охранников к земле и заставили вытянуть руку. Сын богов раздробил ему кости своим тяжелым кованым ботинком. }
-{71}{010}{Да уж... }
-
-
-{100}{}{Привет, рада видеть тебя живым и здоровым! [Кэтти заключает вас в объятия на несколько мгновений, отходит на несколько шагов назад и окидывает вас взглядом] Ты как?}
-{101}{}{[она вздохнула] У тебя, наверное, еще много вопросов? Или еще больше ответов? [она едва заметно улыбнулась]}
-{102}{027}{Ты как-то иначе стала относиться ко мне, тебе не кажется?}
-{103}{030}{Какие последние новости тут у вас?}
-{104}{035}{Как... что было с отцом когда я ушел?}
-{105}{036}{Я многое повидал. Хочешь расскажу?}
-{106}{055}{Что было пока меня не было? Ну после моего побега.}
-{107}{011}{Слушай, мне нужно бежать, проведать отца. Я к тебе еще загляну.}
-{108}{011}{Ладно, мне пора бежать. Я еще загляну к тебе.}
-
-
-{110}{}{[Она подошла к вам и обняла вас] Береги себя.}
-{111}{999}{[конец диалога]}
-
-
-{120}{}{[Кэтти никогда не отличалась манерами и повадками девочек, но сейчас только ее милое личико и напоминало, что вообще-то она женщина. Грязная мешковатая форма с добрым десятком заплаток, перепачканная машинным маслом и грязью, удивляла нашивкой "Брук" и не соответствовала общепринятым занятиям женщин Тартара. Когда Вы приблизились, она устало подняла взгляд и, вытерев пот со лба, уставилась на Вас] Да? Я выполняю порученное дневное задание. Чем могу помочь благородному сыну богов?}
-{121}{013}{Для начала - почистить мне сапоги.}
-{122}{013}{Там сортиры загрязнились, надо их отчистить...}
-{123}{018}{[снять шлем на несколько мгновений и подмигнуть]}
-{124}{013}{Я тут себе бабу на ночь ищу...}
-{125}{022}{Да вот соскучился я по тебе.}
-
-
-{130}{}{Что?}
-{131}{014}{[снять шлем на несколько мгновений и подмигнуть]}
-{132}{021}{Что слышала, слуга!}
-
-
-{140}{}{[кажется Кэтти потеряла дар речи. Сначала ее лицо изобразило искреннее удивление, затем нотки радости, а потом она покраснела, схватила гаечный ключ и заехала вам им между ног]}
-{141}{015}{[Вы инстинктивно решили прикрыть пах, хотя броня оказалась достаточно хороша, чтобы погасить удар. Но сердце в пятки все равно ушло] Я смотрю ты рада меня видеть!}
-
-
-{150}{}{Ты - мудак! [Кэтти яростно раздувает ноздри в поисках места, по которому можно успешно ударить] Что за шуточки, блин? И это после того как ты отсюда свалил таким образом? }
-{151}{016}{Спокойно, Кэтти, это всего лишь шутка! }
-{152}{016}{Уже пошутить нельзя?}
-{153}{016}{Ладно-ладно, остынь...}
-
-
-{160}{}{Снимай шлем. }
-{161}{017}{Что?}
-{162}{017}{Зачем?}
-{163}{003}{Ну окей... [снять шлем]}
-
-
-{170}{}{О боги, просто сними этот чертов шлем!}
-{171}{003}{Ну окей... [снять шлем]}
-
-
-{180}{}{Ты? Это... [Кэтти хватает вас за руку и испуганно озирается] Ты с ума сошел? Если охрана узнает, что это ты - жерло аида - это лучшее, что может с тобой произойти. Дети богов не забыли твой побег после смерти охранника.}
-{181}{019}{Знаешь, я не просто так вырядился.}
-
-
-{190}{}{Да... да... [она все равно нервно озиралась. Удостоверившись, что никто на вас не смотрит, она вдохнула и молча обняла Вас] О боги, я так рада тебя видеть. Я уж и не думала, что выживешь... Я видела труп охранника. Раны были жуткие. Если его, в броне, вооруженного так измочалили, то что могли с тобой сделать... а эти чертовы охранники до сих пор думают, что это ты его укокошил. Совсем видать у них мозги от пьянок поехали.}
-{191}{}{Мы тут можем спокойно говорить?}
-
-
-{200}{}{Да, вполне. Если здесь до сих пор нет кучи охранников, значит все в порядке. Твоя маскировка работает. [Она делает пару шагов от Вас, последний раз озирается, успокаивается и присаживается на груду старого хлама] Я своим глазам если честно не верю.  Безумно рада, что ты выжил! Вот только теперь я готова тебе голову открутить за то, что так безрассудно приходишь сюда словно ты любимчик детей богов... [она изучающе окинула вас взглядом] Черт, о стольком хочется поговорить... что я... я просто даже не знаю с чего начать... [она задумывается на секунду] Как у тебя дела-то? Расскажи, что было после побега. А потом я расскажу как дела у нас. }
-{201}{007}{Ну, мир не такой, как нам о нем говорили... [рассказать о своем побеге, о станции метро, Радиусе, людях которые его населяют]}
-
-
-{210}{}{[у нее затряслись руки]}
-{211}{014}{Да ладно, блин. Я просто прикалываюсь. Это же я! [снять шлем на несколько мгновений и подмигнуть]}
-{212}{014}{Эй, Кэтти, это была дурацкая шутка, извини. Это я... [снять шлем на несколько мгновений и подмигнуть]}
-
-
-{220}{}{Что?}
-{221}{018}{[снять шлем на несколько мгновений и подмигнуть]}
-
-
-{230}{}{[Кэтти никогда не отличалась манерами и повадками девочек, но сейчас только ее милое личико и напоминало, что вообще-то она женщина. Грязная мешковатая форма с добрым десятком заплаток, перепачканная машинным маслом и грязью, удивляла нашивкой "Брук" и не соответствовала общепринятым занятиям женщин Тартара. Она выглядела уставшей. Как ни странно, стрельба, разносившаяся еще недавно по всему этажу ее вовсе не беспокоила, словно это обыденное дело]}
-{231}{024}{Кэтти?}
-
-
-{240}{}{[она замерла на месте, едва услышав ваш голос]}
-{241}{025}{Привет, я вернулся [улыбнуться]}
-{242}{025}{Удивительное спокойствие для человека, который находился недалеко от эпицентра стрельбы.}
-{243}{025}{[улыбаясь развести руки, приглашая Кэтти в объятия]}
-
-
-{250}{}{Это ты! Я... Я чертовски рада тебя видеть! И... даже обняла бы тебя, но... знаешь, меня смущают эти свежие кровавые пятна на броне и чьи-то мозги на твоем ботинке. }
-{251}{026}{Мда... не так я планировал нашу встречу.}
-
-
-{260}{}{Да уж, это не то слово. Слушай, ты поднял слишком много шума... и пошел против богов. Ты знаешь, что я не очень это одобряю, хотя и признаю, что они напрасно на тебя повесили убийство того охранника. Хотя теперь... похоже это уже не важно. [она оглядывается] я даже не уверена, что тут теперь безопасно.  Скорее я уверена, что тут теперь не безопасно. Поговорим с тобой после того как этот кошмар закончится. [Кэтти подошла к вам и взяла за руку] Пожалуй, мне лучше спрятаться. Я знаю тут пару укромных мест. Встретимся когда все закончится [убегает]}
-{261}{999}{[конец диалога]}
-
-
-{270}{}{[она покраснела и опустила взгляд] Нет. Вовсе нет. Просто... знаешь, тебя долго не было. Я даже думала, что ты мертв. А тут еще... в общем, я уже начинала думать над своим будущим. Ну... ты понимаешь, да?}
-{271}{028}{И кто этот козел?}
-{272}{029}{Ну да, понимаю...}
-
-
-{280}{}{Никто. Я никому еще ничего не обещала и я рада, что ты вернулся. Ну как... ты же останешься? [Она на секунду замерла, смотря на вас с надеждой, но потом сама же остудила свой пыл] Ага, как же. Если кто-то из охраны увидит твое лицо - пиши пропало. Просто... просто знай, что как бы что там не получилось - я буду тебя ждать.}
-{281}{010}{[улыбнуться]}
-
-
-{290}{}{Да ничего ты не понимаешь! [она хохотнула] Я никому еще ничего не обещала и я рада, что ты вернулся. Ну как... ты же останешься? [Она на секунду замерла, смотря на вас с надеждой, но потом сама же остудила свой пыл] Ага, как же. Если кто-то из охраны увидит твое лицо - пиши пропало. Просто... просто знай, что как бы что там не получилось - я буду тебя ждать.}
-{291}{010}{[улыбнуться]}
-
-
-{300}{}{Пока ничего особенного с нашей последней встречи не произошло. Все по-прежнему... никак.}
-{301}{}{[она опустила взгляд] Дети богов последнее время требуют жертв. Охрана просто забирает женщин и уводит их наверх. Примерно раз в пару недель. Обратно вернулась только одна. Но она до сих пор не говорит и ведет себя странно. Док сказал, что у нее раны на руках и ногах, спине. И, кажется, ее насиловали. Я... я стараюсь не думать об этом, но мне страшно.}
-{302}{}{Помнишь я тебе рассказывала о том, что боги забирают женщин? Кажется, даже слуги богов начинают пользоваться этим. Клэр, моя подружка, сбежала из Тартара после приставаний вестника. Не думаю, что она могла выжить, но что еще больше меня пугает - что с ней делал вестник...}
-{303}{}{[Кэтти кисло улыбнулась] Жизнь становится все сложнее, еды все меньше, вода все хуже, детей появляется все меньше... нужно ли продолжать?}
-{304}{010}{Ну... знаешь, постоянство это не так уж и плохо. Во всяком случае, лучше чем ухудшение.}
-{305}{010}{Да уж, стабильность это плохо, когда стабильно хреново.}
-{306}{031}{Вот же ж суки... я им гениталии пооткручиваю!}
-{307}{032}{Могло быть и хуже. Хорошо, что ты туда еще не попала...}
-{308}{031}{Вестник, конечно, мелочная мразь, возомнившая себя рукой богов. Ну ничего, я до него доберусь...}
-{309}{032}{Просто держись от него подальше, хорошо?}
-{3010}{032}{Кэтти, мы переживем это, мы сможем. Не в первой уже нам трудности переживать.}
-{3011}{031}{И все это из-за этих мудаков на верхних этажах Олимпа. Ничего, скоро все изменится...}
-
-
-{310}{}{Не вздумай ввязываться в драку, из которой не сможешь выйти живым.}
-{311}{010}{Ну да-да, конечно... проехали, давай лучше сменим пластинку.}
-{312}{999}{Угу, вот только яйца кое-кому отвинчу...}
-
-
-{320}{}{Спасибо за поддержку. Я думаю, мы справимся. Если бы ты только мог вернуться обратно в Тартар как его житель...}
-{321}{033}{Этот день настанет, обязательно.}
-{322}{034}{Скорее - как бог.}
-{323}{034}{Как слуга? Ну уж нет.}
-
-
-{330}{}{Ладно, я что-то совсем разнылась. Все ведь хорошо, мы еще живы и полны сил [она устало улыбнулась]}
-{331}{010}{Ладно... давай лучше сменим пластинку.}
-
-
-{340}{}{И когда ты успел набраться такой гордыни? [она машет на вас рукой] Главное не наделай глупостей.}
-{341}{010}{Ладно... давай лучше сменим пластинку.}
-
-
-{350}{}{Знаешь, он держался как мог. Но... он, похоже, был слишком малозначим для того, чтобы тратить на него редкие медикаменты. Охрана башни зашла к доку сразу после твоего побега. Они всерьез обсуждали "показательное наказание". Они хотели скинуть его в тот же день в жерло Аида как того, кто породил беглеца-нарушителя. Док отстоял его, вот уж не понимаю как у него вышло... но лекарств он совсем не получал для лечения отца. Я пыталась раздобыть хоть что-то, чтобы облегчить его муки... Но...}
-{351}{999}{Мне надо все это обдумать [конец диалога]}
-{352}{010}{Нда... давай лучше... переключимся на что-то другое...}
-
-
-{360}{}{Это так интересно! Расскажи мне!}
-{361}{037}{[рассказать о каких-нибудь мелочах из своих странствий]}
-{362}{038}{Ты знаешь что такое Лайвос?}
-{363}{039}{Ты знала, что есть поселения, в которых все равны и руководитель один из общества?}
-{364}{044}{Посмотри, кто у меня тут!}
-{365}{047}{Ты когда-нибудь слышала Радуге?}
-{366}{048}{Ты когда-нибудь слышала Капле?}
-{367}{050}{Кэтти... я смог! Я пробрался в Олимп!}
-{368}{010}{Я тут подумал... за последнее время ничего интересного-то и не было. Давай лучше поговорим о том, что происходит здесь?}
-
-
-{370}{}{Круто! Наверное... А у тебя еще есть в запасе что-нибудь интересное? }
-{371}{036}{Да, конечно!}
-{372}{010}{На сегодня хватит! [подмигнуть] Давай лучше поговорим о другом.}
-
-
-{380}{}{Нет. Это какой-то бог?}
-{381}{041}{[посмеяться] Нет, это место. Ты вряд ли видела Химер, но наверняка слышала о них. Жуткие твари. И я столкнулся с такой в бою... [рассказать о своей победе]}
-{382}{010}{Ага... знаешь, я подумал, что потом расскажу тебе эту историю. Давай лучше поговорим о вещах более насущных.}
-
-
-{390}{}{Да ладно? А как же боги?}
-{391}{040}{Боги... ну... не достают они до всех уголков мира своими ручонками. В общем, я попал в такое общество, когда там проходила смена руководства!}
-
-
-{400}{}{Да? И что там было? Приходил вестник и указывал кто достоин вести людей?}
-{401}{041}{Ты удивишься. У них было голосование. И что самое удивительное - у них теперь руководитель - гниющий мертвяк по имени Сэм.  }
-{402}{042}{Да... и вестник упал на колени предо мной и сказал, что я спаситель Радиуса. Так что я теперь глава этого городка.}
-{403}{042}{Нет... [закрыть лицо ладонью] это не так, да и... короче меня выбрали руководителем.}
-
-
-{410}{}{Что? [она уставилась на Вас словно Вы только что сказали откровенную глупость]}
-{411}{037}{[рассказать об этом подробнее]}
-
-
-{420}{}{Ты... теперь бог?}
-{421}{043}{Нет, я теперь глава города. Как если бы я стал главным здесь. Но не бог.}
-{422}{037}{Ага... локальный. }
-
-
-{430}{}{То есть бог?}
-{431}{037}{Ага... локальный. }
-{432}{010}{А... проехали... давай поговорим о чем-нибудь еще... }
-
-
-{440}{}{[Кэтти сначала отпрянула в сторону, потом заулыбалась, начала сюсюкать] Это же собачка!}
-{441}{045}{Ну да, похоже... Прямо как в детских книжках про Бима [наблюдать за тем, как Кэтти играет с волком].}
-
-
-{450}{}{Фантастика! Где ты его подобрал?}
-{451}{046}{Да, есть одно место... не суть. Он классный, да?}
-{452}{046}{В НМП. Это далеко [улыбнуться и рассказать, как вы нашли Лохматого]}
-
-
-{460}{}{Классный пес! А у тебя еще есть в запасе что-нибудь интересное? Я бы пока с ним поиграла [Лохматый активно виляет хвостом].}
-{461}{036}{Да, конечно!}
-{462}{010}{На сегодня хватит! [подмигнуть] Давай лучше поговорим о другом...}
-
-
-{470}{}{Это такая штука в небе? Я видела на картинках...}
-{471}{037}{Так называется еще место... довольно далеко отсюда, но можно дойти. Там... очень плохие люди живут. И главный у них был тупой как пробка, злой бандюга по имени Кабан... [рассказать о том, как вы разделались с Кабаном]}
-{472}{010}{Да... я такую видел, представляешь? Ладно, давай лучше поговорим о вещах попроще...}
-
-
-{480}{}{Нет. Что это?}
-{481}{049}{Это наркотик. Яд. И его производитель был... можно сказать что рабом, которого вынуждали производить Каплю. Я помог ей бежать. Ох, ну чего это стоило... [рассказать об освобождении Наоми]}
-
-
-{490}{}{Наоми? И у вас что-то было?}
-{491}{}{Круто! Наверное... А у тебя еще есть в запасе что-нибудь интересное? }
-{492}{037}{Нет, что ты! Хотя я слышал, что она любит ходить по пятам за людьми... Но вроде все обошлось [посмеяться]}
-{493}{036}{Да, конечно!}
-{494}{010}{На сегодня хватит! [подмигнуть] Давай лучше поговорим о другом...}
-
-
-{500}{}{Ты видел богов? }
-{501}{051}{Я... послушай, Кэтти, богов не существует. Есть люди, которые выдают себя за богов. Там, в башне, обычные люди. Ну... может некоторые из них с мозгами набекрень... но не суть. Мы сможем их свергнуть. Я близок к этому как никогда!}
-
-
-{510}{}{[она вздохнула] Зачем ты все это делаешь?}
-{511}{052}{Если не я, то кто?}
-{512}{054}{Это необходимо! Ты же раб! Неужели ты не хочешь стать свободной?}
-
-
-{520}{}{Просто береги себя, хорошо? Не лезь лишний раз под пули. Пообещай. }
-{521}{053}{[пообещать]}
-{522}{999}{[молча пойти завершать дело]}
-
-
-{530}{}{Ладно, я вижу как у тебя глаза горят. Я верю в тебя! Иди и возвращайся скорее.}
-{531}{999}{[молча пойти завершать дело]}
-
-
-{540}{}{И что тогда будет? Кто нас защитит? Внешний мир по твоим рассказам опасен!}
-{541}{053}{Да например я! Я видел внешний мир. Он не опаснее охранников, которые убивают жителей Тартара и насилуют женщин. }
-{542}{999}{[молча пойти завершать дело]}
-
-
-{550}{}{Ничего особого. В первый день охрана побурлила... но потом все пошло так, словно тебя никогда не было. Это... удручает. Другие жители Тартара кажется вообще не обратили внимания, что ты пропал. И потянулись обычные рабочие дни. Ты знаешь, подъем утренний, потом задания от Вестника. }
-{551}{010}{Нда. Ладно, давай поговорим о чем-нибудь другом...}
+{10}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. Dirty, baggy robe that she is wearing, pached in a dozen places and covered in oil and dirt, surprises with a letters "Brook" sewn onto it. You remember that female Technology Servant is not very common thing in Tartarus. Catty looks tired, but pretty happy. When you approach, she notices you - and her face explodes with a look of surprise and happiness] You?! Is it really you?}
+{11}{002}{Yes, it's-}
+{12}{002}{No, it's not me.}
+
+{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods didn't forget how you ran off after the guard's death.}
+{21}{003}{Yeah, I'm glad to see you too, Catty.}
+{22}{004}{I didn't even lay a finger on that guard!}
+{23}{005}{I was actually trying to help that guard!}
+{24}{003}{It's gonna be alright - if you won't be shouting and waving hands, pointing at me.}
+
+{30}{}{[She looks around again, making sure no one is looking, and smacks your head with a ringing slap with all her might. Judging by the power of slapping, her job keeps her in a pretty good physical shape.]}
+{31}{}{[She looks around again, making sure no one is looking, and with one fast move wraps her hands around you, hugging.]}
+{32}{006}{Hey!}
+{33}{006}{[tightly hug her back]}
+
+{40}{}{Yeah, I'm not stupid. I've seen the body. You couldn't do it with your bare hands even if you tried to... Even if you armed yourself with some metal junk... Anyway, the guards don't care. They will kill you when they see you.}
+{41}{003}{Are you always meeting your friends with "they will kill you"?}
+{42}{003}{So, I suppose you are glad to see me?}
+
+{50}{}{I remember. But the guard doesn't care. If you get in sight of someone not wasted by booze - and they will kill you.}
+{51}{003}{Are you always meeting your friends with "they will kill you"?}
+{52}{003}{So, I suppose you are glad to see me?}
+
+{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn’t think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so much things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{61}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius and its inhabitants]}
+
+{70}{}{[Catty listened to you thoughtfully, without interrupting. Looks like she became more serious and calm since your last meeting] Holy shit - that's all I can say. I'm still having troubles believing it. And about the Radius - you know, it sounds like not a bad place... [she looks at a big wrench in her hand] If you have a big gun and many bullets. Looks like this place is a lot safer. And we have order maintained here - for example, three days ago one guard punished some boy for stealing. Ten strokes of stick, and then he got his hand mangled with the guard's armored boot. }
+{71}{010}{Uhh... }
+
+{100}{}{Hey! Glad to see you alive and well. [Catty hugs you, then steps back and glances over you] How are you?}
+{101}{}{[she sighs] You must be having a lot of questions. Or answers.}
+{102}{027}{I see that you're treating me differently than before. Am I right?}
+{103}{030}{What are the current news?}
+{104}{035}{How... What happened with my dad since I left?}
+{105}{036}{I've been through a lot. Want me to tell you about it?}
+{106}{055}{What happened here while I was away? I mean, after my escape.}
+{107}{011}{I need to see my dad. I'll come by later.}
+{108}{011}{Okay, I need to go. I'll come again soon.}
+
+{110}{}{[she comes closer and hugs you] Take care.}
+{111}{999}{[end of dialogue]}
+
+{120}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. Dirty, baggy robe that she is wearing, pached in a dozen places and covered in oil and dirt, surprises with a letters "Brook" sewn onto it. You remember that female Technology Servant is not very common thing in Tartarus. Catty looks tired, but pretty happy. When you approach, she raises her eyes on you, wiping the sweat from her forehead with a tired gesture] Yes? I'm doing my daily duties. What can I help the noble Son of Gods with?}
+{121}{013}{Clean my boots, for a start.}
+{122}{013}{We have toilets clogged, they need to be taken care of...}
+{123}{018}{[remove helmet, wink at her, then put it back]}
+{124}{013}{I'm looking for a female to spend the night with.}
+{125}{022}{I missed you, that's all.}
+
+{130}{}{Wh-... What?}
+{131}{014}{[remove helmet, wink at her, then put it back]}
+{132}{021}{You heard me, Servant!}
+
+{140}{}{[Looks like she is speechless. Her face indicates she is shocked, then you see a shadow of happiness - and then she suddenly turs red, grabs wrench and strikes you between your legs]}
+{141}{015}{[you try to cover your groin, although your armor turned out to be sturdy enough to protect you from the blow. Still, your heart is pounding] I suppose you are glad to see me.}
+
+{150}{}{You, asshole! [Catty is furiously flaring her nostrils] What kind of joke is that? Especially after you escaped the way you did! }
+{151}{016}{Calm down, Catty! I was just goofing around! }
+{152}{016}{Can't I make a joke once it a while?}
+{153}{016}{Okay, chill!}
+
+{160}{}{Take off your helmet. }
+{161}{017}{What?}
+{162}{017}{Why?}
+{163}{003}{Okay... [take off your helmet]}
+
+{170}{}{Oh Gods, just take off this goddamn helmet!}
+{171}{003}{Okay... [take off your helmet]}
+
+{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods didn't forget how you ran off after the guard's death.}
+{181}{019}{You know, I'm wearing this armor not just for kicks.}
+
+{190}{}{Yeah... Sure... [Catty still looks nervous. She makes sure no one is looking one more time, then sighs and silently hugs you] Oh Gods... I'm so glad to see you again. I never thought you'd survive... I've seen the guard's corpse. The wounds were... Scary. And he had armor on him, unlike you. And that damn guards still think that it was you who killed him. They have their brains completely murky from all of the booze...}
+{191}{}{Can we talk safely here?}
+
+{200}{}{Sure, I think. If there's no load of guards around, then everything's alright. Your disguise is working. [She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I still can't believe my eyes. I'm so glad to see you! But I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so much things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{201}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius and its inhabitants]}
+
+{210}{}{[her hands start shaking]}
+{211}{014}{Oh come on, I'm just being silly. It's me! [remove helmet, wink at her, then put it back]}
+{212}{014}{This was a stupid joke, sorry, Catty, It's me... [remove helmet, wink at her, then put it back]}
+
+{220}{}{What?}
+{221}{018}{[remove helmet, wink at her, then put it back]}
+
+{230}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. Dirty, baggy robe that she is wearing, pached in a dozen places and covered in oil and dirt, surprises with a letters "Brook" sewn onto it. You remember that female Technology Servant is not very common thing in Tartarus. Catty looks tired. Strangely enough, the shots echoing around Tartarus seems to not worry her a bit, like it's a commin thing around here.]}
+{231}{024}{Catty?}
+
+{240}{}{[she freezes, hearing your voice]}
+{241}{025}{Hey, I'm back [smile]}
+{242}{025}{You look too calm for someone who was in the epicenter of a shoot-out.}
+{243}{025}{[smile and spread your hands]}
+
+{250}{}{It's... You! I... I'm so glad to see you! I would even hug you, but... Is this your blood on your armor? Oh, is that brain on your boots? }
+{251}{026}{Huh... That was not the way I envisioned our meeting.}
+
+{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of Gods. You know I don't approve it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think it's better for me to hide, I know some places. Let's meet after it's over. [she runs off]}
+{261}{999}{[end of dialogue]}
+
+{270}{}{[she blushes and lowers her eyes] No, not at all. It's just... You were absent for a really long time. I thought you died. And... I started to think about my future, you know. You, uh, do get it, right?}
+{271}{028}{And? Who is this dork?}
+{272}{029}{Yeah, I get it...}
+
+{280}{}{No one. I didn't promise anything to anyone, and I'm glad you're back. Uh... You are staying, right? [she lights with hope, but interrupts herself] Yeah, sure you do. If some guard sees your face, you're done... Just know that whatever happens, I'll be here, waiting for you.}
+{281}{010}{[smile]}
+
+{290}{}{No you don't! [she giggles] I didn't promise anything to anyone, and I'm glad you're back. Uh... You are staying, right? [she lights with hope, but interrupts herself] Yeah, sure you do. If some guard sees your face, you're done... Just know that whatever happens, I'll be here, waiting for you.}
+{291}{010}{[smile]}
+
+{300}{}{You know, nothing special, since we've met last time. It's the same... Nothing is going on.}
+{301}{}{[she lowers her eyes] Lately, Sons of Gods are in need of sacrifices. The guards just grab women and take them away at least once in every two weeks. And we have only one who returned, but she doesn't speak and behaves strangely. Doc said she has bruises on her back, arms and legs... I... I'm scared. I try not to think much, but I am scared.}
+{302}{}{Do you remember me telling you about the guards taking women away? Looks like even Sons of Gods themselves started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harrasments. I doubt she made it alive... But more scary is to think what Herald did to her.}
+{303}{}{[Catty gives you a weak smile] The life gets worse, the food is scarce, the water is more dirty, less children around... Do you want me to go on?}
+{304}{010}{Well... The stability isn't so bad. Better than worsening, at least.}
+{305}{010}{Yeah, the stability sucks, when it's consistently bad.}
+{306}{031}{That assholes... I'll cut their balls off!}
+{307}{032}{It could be worse. Good that they didn't come for you.}
+{308}{031}{Herald is a petty bitch who thinks he's the hand of Gods. I'll deal with him eventually.}
+{309}{032}{Just keep away from him, okay?}
+{3010}{032}{Catty, we'll make it through. It's not the first time.}
+{3011}{031}{It's all because of these dicks living on the upper floors of Olympus. And soon everything is going to change...}
+
+{310}{}{Don't start a fight you can't win.}
+{311}{010}{Sure, sure... Let's talk about something else.}
+{312}{999}{If you say so.}
+
+{320}{}{Thanks for the support. I think we'll make it somehow. If only you could return to Tartarus as its dweller...}
+{321}{033}{This day will come, I assure you.}
+{322}{034}{Rather, as its God.}
+{323}{034}{As a Servant? Hell no.}
+
+{330}{}{Looks like I whine too much. Everything is not so bad, right? We are alive and well. [she gives you a tired smile]}
+{331}{010}{Let's talk about something else.}
+
+{340}{}{When did you get so much arrogance in you? [she sighs] Okay, at least don't do anything stupid.}
+{341}{010}{Right. Let's talk about something else.}
+
+{350}{}{You know, he held on for as long as he could, but... It seems he was far too insignificant to waste rare medical supplies on him. The guards went to doc right after your escape. As far as I know, they considered making an example out of your father, throwing him into the Mouth of Hades, as he was the one responsible for the birth of violator - that is you. Doc managed to defend him, I don't even know how... But he still didn't get the necessary meds for treating John. I tried to help, but... Didn't help much.}
+{351}{999}{I should think it over. [end of dialogue]}
+{352}{010}{I need... Let's talk about something else.}
+
+{360}{}{Tell me, of course! I'm very curious!}
+{361}{037}{[tell her some insignificant details from your travels]}
+{362}{038}{Do you know what Livos is?}
+{363}{039}{Did you know that there are settlements where everyone is treated equally, and where the leader is someone of its inhabitants?}
+{364}{044}{Look who I have here!}
+{365}{047}{Did you hear about the Rainbow?}
+{366}{048}{Did you hear about the Drop?}
+{367}{050}{Catty... I did it! I got inside the Olympus!}
+{368}{010}{I, uh... Don't think there was something interesting lately. Better let's talk about what's happening here.}
+
+{370}{}{Cool! I guess... Do you have something else interesting to tell?}
+{371}{036}{Of course!}
+{372}{010}{Enough for today! [wink] Let's talk about something else.}
+
+{380}{}{No. Is it some kind of God?}
+{381}{041}{[laugh] No, it's a place. Maybe you didn't see the Chimeras, but you must have heard of them. Nasty creatures. And I had to fight one of these... [tell about your battle with Chimera]}
+{382}{010}{Yeah... You know, I'll tell you about it later. Let's talk about more recent things.}
+
+{390}{}{Really? What about the Gods?}
+{391}{040}{The Gods, they... Uh... They don't have power there. So, I ended up in such place when they were in the process of changing their leader!}
+
+{400}{}{And? How they did it? Did the Herald come to tell them who is worthy of leading people?}
+{401}{041}{You will be surprised - to chose someome they had to cast a vote, each of them. And the most interesting part - they voted for a rotten ghoul, named Sam. }
+{402}{042}{Yes... And Herald fell to his knees and told that I'm the saviour of the Radius. So, now I'm the leader of that town.}
+{403}{042}{No, it's not... It's not like... Long story short, I'm their leader now.}
+
+{410}{}{What?! [she stares at you as if you said something stupid]}
+{411}{037}{[tell her details]}
+
+{420}{}{Are you... A God now?}
+{421}{043}{No, I'm just the town manager. A mayor, not a God. Like if I were to become in charge around here.}
+{422}{037}{Yeah... A local kind. }
+
+{430}{}{You mean, like a God?}
+{431}{037}{Okay, yeah... A local kind. }
+{432}{010}{Uhh... Forget it... Let's talk about something else. }
+
+{440}{}{[Catty pulls back at first, but then suddenly shines with a smile] It's a doggie!}
+{441}{045}{Yeah, he sure looks like it... Just like in our children's books about Lassie. [observe Catty playing with a Fire Wolf]}
+
+{450}{}{Fantastic! Where did you get him?}
+{451}{046}{There was one place... Doesn't matter. He's great, right?}
+{452}{046}{In NWO. It's pretty far. [smile and tell her about how you've met Shaggy]}
+
+{460}{}{He is so cute! Do you have something else to tell me? I would play with him while you do it. [you notice that Shaggy is actively wagging his tail]}
+{461}{036}{Of course!}
+{462}{010}{Enough for today! [wink] Let's talk about something else.}
+
+{470}{}{You mean, a thing in the sea? I've seen pictures...}
+{471}{037}{It's also a name of one place... Pretty far away from here. There are some pretty bad people living in there. And they had a big and dumb guy in charge, an evil bandit by the name of Hog... [tell her about you dealing with Hog]}
+{472}{010}{Yeah... I saw one, can you imagine? Okay, let's talk about simpler things...}
+
+{480}{}{No. What is it?}
+{481}{049}{It's a drug. Poison. And it's creator was... You can say, a slave, who was forced to produce it. I helped her escape. If you only knew how risky it was... [tell about Naomi and her lab]}
+
+{490}{}{Naomi? Did something happen between the two of you?}
+{491}{}{Cool! I guess... Do you have more interesting stories to tell? }
+{492}{037}{Of course not! Although I heard that she likes to follow people around... But I got away. [laugh]}
+{493}{036}{Yeah!}
+{494}{010}{Enough for today! [wink] Let's talk about something else.}
+
+{500}{}{Did you meet the Gods? }
+{501}{051}{I... Listen, Catty, there are no Gods. Only people who pretend to be Gods. Only people... Living in the tower. Well, maybe some of them are a little nuts, but that's beside the point. We can overthrow them, Catty! I'm close to it!}
+
+{510}{}{[she sighs] Why? Why are you doing it?}
+{511}{052}{If not me, then who would?}
+{512}{054}{It should be done! You are a slave! Don't you want to be free?}
+
+{520}{}{Just take care of yourself, alright? Don't get in danger on purpose. Promise me. }
+{521}{053}{[promise]}
+{522}{999}{[leave silently]}
+
+{530}{}{I see the flame in your eyes - and I believe in you. Go, and come back after. I'll be waiting.}
+{531}{999}{[leave silently]}
+
+{540}{}{And what happens then? Who will protect us? Judging by what you told me, the outside world is dangerous!}
+{541}{053}{I will! I saw the world. It is not as dangerous as the guards killing the local dwellers and raping our women. }
+{542}{999}{[leave silently]}
+
+{550}{}{Nothing special. At first, the guards were pretty tense... But then everybody started to act like you were never here. It's... Depressing. Other dwellers seemingly didn't pay attention to your disappearance. And the days went by... You know, waking up, getting daily duties from Herald. Usual stuff. }
+{551}{010}{Yeah. Well, let's talk about something else.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
@@ -357,13 +304,13 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Отцу плохо)
 #
-{1030}{}{Надеюсь, твой отец поправится...}
-{1031}{}{Я так переживаю за Джона...}
-{1032}{}{Ты всегда можешь рассчитывать на меня!}
-{1033}{}{Держись, твой отец обязательно поправится!}
-{1034}{}{... Как здорово, что ты в порядке!}
-{1035}{}{, я скучаю. Я тут без тебя совсем одна...}
-{1036}{}{, заканчивай уже свои приключения и возвращайся.}
-{1037}{}{Береги себя, не подставляйся!}
-{1038}{}{Осторожнее там, снаружи...}
-{1039}{}{Я буду ждать тебя, только будь осторожен.}
+{1030}{}{I hope your father gets better.}
+{1031}{}{I'm worried about John...}
+{1032}{}{You can always count on me!}
+{1033}{}{Hang on, your dad will be alright!}
+{1034}{}{It's so good that you are alright!}
+{1035}{}{, I miss you. I feel so alone here...}
+{1036}{}{, finish with your adventures and get back to me.}
+{1037}{}{Be careful, don't put yourself in danger!}
+{1038}{}{Be careful outside...}
+{1039}{}{I will wait for you. Be careful.}

@@ -70,7 +70,7 @@
 {500}{}{Confirmation accepted. Objective: escort and protection. Awaiting orders.}
 {501}{}{Sugooooi! Ikimasu, senpai! Adventure awaits!}
 {502}{}{Let's go kick some asses!}
-{503}{}{Lovely! Off we go, lad! Chop chop!}
+{503}{}{Lovely! Off we go, lad! Chop-chop!}
 {504}{InParty}{Okay...}
 
 #NodeInParty
@@ -108,7 +108,7 @@
 
 #NodeMD
 {550}{}{Order: follow. Distance: middle. Confirmation accepted.}
-{551}{}{Honto ni? Okay, senpai, but remember than I'm still nearby! And I will come closer sometimes!}
+{551}{}{Honto ni? Hai, senpai, but remember than I'm still nearby! And I will come closer sometimes!}
 {552}{}{Good one, bro! I'll stick around, just tell me if you need help.}
 {553}{}{A wise choice, I might say. Hope all goes hunky-dory.}
 {554}{InParty}{Good. Another thing...}
@@ -142,7 +142,7 @@
 {590}{}{[Robotron awaits for your orders]}
 {591}{}{Hai, mochiro! I like talking to my senpai! I would do it all day long!!}
 {592}{}{Ain't nothin' I can't do, bro!}
-{593}{}{Brilliant. I fancy a little chinwag.}
+{593}{}{Surely. I fancy a little chinwag.}
 {594}{HowToSpeak}{You have a strange way of speaking. Can you do something about it?}
 {595}{InParty}{I wanted something else...}
 {596}{999}{Nothing, let's move.}
