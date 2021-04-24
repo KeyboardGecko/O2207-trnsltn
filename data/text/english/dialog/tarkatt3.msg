@@ -191,7 +191,7 @@
 {367}{050}{Catty... I did it! I got inside the Olympus!}
 {368}{010}{I, uh... Don't think there was something interesting lately. Better let's talk about what's happening here.}
 
-{370}{}{Cool! I guess... Do you have something else interesting to tell?}
+{370}{}{Cool! I guess... Do you have something else interesting to tell me?}
 {371}{036}{Of course!}
 {372}{010}{Enough for today! [wink] Let's talk about something else.}
 

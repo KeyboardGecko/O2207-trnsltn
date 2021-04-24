@@ -43,8 +43,8 @@
 {1102}{}{You really are my clever boy! See John, he's just like me! You will have a long and interesting life ahead of you! [hearing this your father rolls his eyes and sighs heavily] You should write about your own adventures!}
 {111}{}{And what if I won't have any adventures? What would I do with it?}
 {112}{}{Thank you mom! This is the best gift I could ever hope for!!!}
-{1201}{}{Well, of course you will have a lot of adventures! You just have to believe it! [mom leans over and whispers in your ear] But you also need to pray to our Gods for it, they will help you. [smiles and kisses you on the forehead] Well, we gotta go. Oh, yeah, Dad got you a yummy candy - but don't eat it right away. Why don't you share it with Katie? [winks] And if you get bored, come to me, I'll find something for you to do!}
-{1202}{}{Ah my little sweetheart, you look just like your mother! [smiles and kisses you on the forehead] Well, we have to go to. Oh, yeah, Dad got you a yummy candy - but don't eat it right away. Why don't you share it with Katie? [winks] And if you get bored, come to me, I'll find something for you to do!}
+{1201}{}{Well, of course you will have a lot of adventures! You just have to believe it! [mom leans over and whispers in your ear] But you also need to pray to our Gods for it, they will help you. [smiles and kisses you on the forehead] Well, we gotta go. Oh, yeah, Dad got you a yummy candy - but don't eat it right away. Why don't you share it with Catty? [winks] And if you get bored, come to me, I'll find something for you to do!}
+{1202}{}{Ah my little sweetheart, you look just like your mother! [smiles and kisses you on the forehead] Well, we have to go to. Oh, yeah, Dad got you a yummy candy - but don't eat it right away. Why don't you share it with Catty? [winks] And if you get bored, come to me, I'll find something for you to do!}
 {121}{}{[Take candy]}
 {130}{}{Hi baby, what can your mom do for you?}
 {131}{}{Nothing! [smile and run away]}
@@ -87,7 +87,7 @@
 {222}{}{Well, yes, I guess. And also I'm very tired now... [go to bed]}
 {2301}{}{Run to see your dad, seems like he just lost something again! [chuckles]}
 {2302}{}{Okay, then talk to your brother. He's been kind of upset lately and he doesn't want to tell me anything.}
-{2303}{}{I dunno... Have you seen your friend Katie lately? I've heard her mom, Stella, has fallen very ill... Run to see them, maybe they need some help with something?}
+{2303}{}{I dunno... Have you seen your friend Catty lately? I've heard her mom, Stella, has fallen very ill... Run to see them, maybe they need some help with something?}
 {231}{}{Great, I'll see Dad!}
 {232}{}{What's up with him? I'll check it out!}
 {233}{}{Really? I should run over and talk to them.}

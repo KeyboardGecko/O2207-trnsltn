@@ -54,12 +54,12 @@
 {2701}{}{It's Elise, your mother.}
 {2800}{}{Kirk}
 {2801}{}{Your obnoxious little brother Kirk.}
-{2900}{}{Katie}
-{2901}{}{Your childhood friend Katie. She constantly makes eyes at you.}
+{2900}{}{Catty}
+{2901}{}{Your childhood friend Catty. She constantly makes eyes at you.}
 {3000}{}{Brook}
-{3001}{}{Katie's father, always drab and sullen.}
+{3001}{}{Catty's father, always drab and sullen.}
 {3100}{}{Stella}
-{3101}{}{Katie's mother, one of the few female maintenance workers.}
+{3101}{}{Catty's mother, one of the few female maintenance workers.}
 {3200}{}{Bully}
 {3201}{}{A big kid, brash and arrogant.}
 {3300}{}{Carol}
@@ -70,8 +70,8 @@
 {3501}{}{The ever-disgruntled doctor who provides medical care to the inhabitants of Tartarus.}
 {3600}{}{Gregorius}
 {3601}{}{The herald of the will of the Gods. He never seems to sleep...}
-{3700}{}{Katie}
-{3701}{}{Your friend Katie.}
+{3700}{}{Catty}
+{3701}{}{Your friend Catty.}
 {3800}{}{Kirk}
 {3801}{}{Your brother.}
 {3900}{}{Kirk}
