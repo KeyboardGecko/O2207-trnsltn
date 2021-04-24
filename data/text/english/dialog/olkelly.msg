@@ -11,222 +11,222 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: самая красивая девушка здесь.}
-{2}{}{Она ходит хвостом за профессором, доводя его до белого каления.}
+{1}{}{You see the most beautiful girl around.}
+{2}{}{She follows the professor around like a tail, making him extremely pissed off.}
 #
 # после знакомства
-{3}{}{Вы видите: Келли.}
-{4}{}{Прекрасный пример того, что человеческая самонадеянность, лень, наивность и глупость невозможно искоренить, сбросив тысячи ядерных боеголовок на землю.}
-{5}{}{Вы видите: Келли.}
-{6}{}{У нее кровоподтеки на лице, а одежда местами изодрана в клочья.}
+{3}{}{You see Kelly.}
+{4}{}{A perfect example that arrogance, laziness, naivety and stupidity won't disappear even after thousand nuclear bombs dropped.}
+{5}{}{You see Kelly.}
+{6}{}{She has bruises on her face, her clothes are torn in many places.}
 #
-{7}{}{Профессор! Профессор, подождите!}
-{8}{}{Мистер Грей, подождите меня!}
-{9}{}{О Боже, снова ты...}
-{40}{}{Я скоро спущусь.}
-{41}{}{Да-да, я согласна с ним на встречу.}
-{42}{}{::всхлипывает::}
-{43}{}{Оставь меня! Все уходите!}
+{7}{}{Prodessor! Wait, professor!}
+{8}{}{Mr. Gray, wait for me!}
+{9}{}{Oh Gods, it's you again...}
+{40}{}{I'm coming.}
+{41}{}{Yes, I agree to meet him.}
+{42}{}{::whimpers::}
+{43}{}{Leave me! Go away!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[девушка внимательно наблюдает за мрачным профессором, сжимая в руках папку-планшет и стенографируя туда речи преследуемого ученого. Вы на минутку задумались - "а записывает ли она крепкие матерки, ругань и сарказм?"] Профессор Грей, повторите, пожалуйста, я не успела записать!}
-{11}{002}{[молча наблюдать за происходящим]}
-{12}{004}{[кашлянуть в кулак]}
-{13}{004}{Привет.}
+{10}{}{[The girl follows the moody professor, clutching a clipboard folder in her hands and occasionally writing down the things he says. You can't help but wonder, if she puts down his swearing and sarcastic remarks too.] Professor Gray, repeat the last part please! I'm writing it down!}
+{11}{002}{[calmly observe the situation]}
+{12}{004}{[clear your throat]}
+{13}{004}{Hey.}
 
 #Node002
-{20}{}{[Грей закрыл лицо своей ладонью: "Боже, Келли, ты тупее среднестатистического охранника!". Профессор заметил Вас и, кажется, вздохнул с облегчением: "Келли, поговори с сотрудником охраны и разберись, что ему нужно. Я слишком занят!". Лаборантка переключила свое внимание на Вас] Привет, я - Келли, что вам нужно? [Грей за ее спиной скорым шагом покинул помещение]}
-{21}{003}{Привет, на самом деле ничего. Я так, мимо проходил.}
-{22}{010}{Привет, есть несколько вопросов.}
-{23}{011}{Привет, ты же Келли, так? Меня просили тебе кое-что передать.}
+{20}{}{[Gray puts his hand on forehead and says "Oh Gods, Kelly, you are dumber than our guards". Then he suddenly notices you; his reaction is instant - "Look, talk to that guard over there, find out what he needs, I'm too busy!" The assistant immediately throws herself at you] Good day. I'm Kelly. What do you need? [you notice that Gray hastily leaves the room behind her back]}
+{21}{003}{Hello. Nothing, actually. Just walking around.}
+{22}{010}{Hello, I have some questions.}
+{23}{011}{Hi, are you Kelly? I was asked to tell you something.}
 
 #Node003
-{30}{}{И вы оторвали своим "мимо проходил" нас от дел! Да как вы... Послушайте, если Вам нечем заняться - можете сходить вверх по лестнице к старому хрычу Моро и мешать ему, а я тут занята важным делом! [лаборантка окинула взглядом комнату и поняла, что Грей уже ушел из комнаты. Она сжала папку покрепче и устремилась за профессором]}
-{31}{999}{[конец диалога]}
+{30}{}{You are distracting us from an important work with your "walking around"! How do you even... Listen, if you have nothing better to do, go visit that old fart Moro and distract him! I am too busy! [looks like she noticed that Gray is not in the room. She runs out.]}
+{31}{999}{[end of dialogue]}
 
 #Node004
-{20}{}{[они обратили на Вас внимание. Профессор, кажется, даже вздохнул с облегчением: "Келли, поговори с сотрудником охраны и разберись, что ему нужно. Я слишком занят!". Лаборантка переключила свое внимание на Вас] Привет, я - Келли, что вам нужно? [Грей за ее спиной скорым шагом покинул помещение]}
-{21}{003}{Привет, на самом деле ничего. Я так, мимо проходил.}
-{22}{010}{Привет, есть несколько вопросов.}
-{23}{011}{Привет, ты же Келли, так? Меня просили тебе кое-что передать.}
+{20}{}{[they both look at you at the same time. Gray's reaction is instant - "Look, talk to that guard over there, find out what he needs, I'm too busy!" The assistant immediately throws herself at you] Good day. I'm Kelly. What do you need? [you notice that Gray hastily leaves the room behind her back]}
+{21}{003}{Hello. Nothing, actually. Just walking around.}
+{22}{010}{Hello, I have some questions.}
+{23}{011}{Hi, are you Kelly? I was asked to tell you something.}
 
 #Node010
-{100}{}{Опять вы? Что вам нужно? Мы тут на пороге открытия! [Грей увидел, что вы отвлекли лаборантку, и ускоренно зашагал прочь]}
-{101}{}{Да?}
-{102}{011}{Привет, ты же Келли, так? Меня просили тебе кое-что передать.}
-{103}{044}{Ты же хорошо знаешь доктора Грея? }
-{104}{045}{Расскажите о ваших исследованиях.}
-{105}{045}{Расскажите о вашем этаже.}
-{106}{045}{Расскажите о себе.}
-{107}{999}{Ну, тогда лучше не буду вам мешать. Открывайте, что бы вы там ни открывали.}
-{108}{999}{Хотя я лучше уже пойду, начальство ждет.}
+{100}{}{You again? What do you want? We are on the verge of an important discovery! [Gray sees that you took the attention of his assistant and hastily runs away]}
+{101}{}{Yeah?}
+{102}{011}{Hi, are you Kelly? I was asked to tell you something.}
+{103}{044}{Do you know dr. Gray well? }
+{104}{045}{Tell me about your research.}
+{105}{045}{Tell me about this level.}
+{106}{045}{Tell me about yourself.}
+{107}{999}{Well, I won't be interrupting you then. Go ahead and do your discovery or something.}
+{108}{999}{I'd better go - my superiors are waiting.}
 
 #Node011
-{111}{}{[Лаборантка нахмурилась] И кто же? Это Моро с верхнего этажа? Ах нет, дай-ка угадаю, опять этот выскочка Джок, да? Он теперь будет своих посыльных отправлять, чтобы я раздвинула ноги? Можешь передать ему: "Нет". У меня есть отобранный для спаривания и построения ячейки мужчина. }
-{112}{042}{Слушай, я вот слышал, что это позволяет расслабиться и сделать жизнь лучше. Прочитал в научном журнале на днях, что это позволяет добиться невиданных высот на любом поприще. Анализы эффективности ученых проводили. Так вот, тот кто регулярно сношается, совершает открытия в... два... точнее в четыре раза чаще чем их "более разборчивые" коллеги.}
-{113}{021}{Тебе же не нравятся огромные гориллы с волосатыми подмышками, да?}
-{114}{016}{Кстати о твоем мужчине. У меня плохие новости о Тимми.}
-{115}{013}{Слушай, ты ведь, как я понимаю, рассчитываешь построить карьеру ученого тут, да?}
-{116}{012}{Эй, вообще-то все не так!}
+{111}{}{[she frowns] By whom? By that Moro from the upper floor? Oh, let me guess, it's this snob Jock again, right? He is actually resorting to sending someone, just to make me spread my legs for him? You can again tell him "No". I already have my assigned reproduction male partner. }
+{112}{042}{You know, I recently read in one scientific magazine that copulation actually quadruples the chances of making important scientific discoveries. There was quite a lot info on the matter.}
+{113}{021}{You don't really like big hairy mountain-like creatures, am I right?}
+{114}{016}{By the way, about your partner. I have some bad news concerning Timmy.}
+{115}{013}{I take it you're looking forward to a career of a scientist here, right?}
+{116}{012}{Hey, you got it all wrong!}
 
 #Node012
-{120}{}{Разговор окончен [Келли побежала догонять ушедшего Грея].}
-{121}{999}{[конец диалога]}
+{120}{}{We're done here. [she runs off]}
+{121}{999}{[end of dialogue]}
 
 #Node013
-{131}{}{А при чем тут это? Какая связь между Джоком и моей карьерой?}
-{132}{014}{А то, что я, пожалуй, могу рассказать Грею о том, что ты растяпа, которая из-за своих рыбьих мозгов стерилизовала женщин. Судя по тому как он тебя едва-едва терпит - избавится от тебя с большим удовольствием.}
+{131}{}{How does this concern me? How Jock is related to my career?}
+{132}{014}{I can tell dr. Gray about you being a klutz, leading to a sterilization of a few women in Tartarus. Judging by how he barely tolerates you, this would lead to him ditching you completely.}
 
 #Node014
-{140}{}{Что? Я... }
-{141}{015}{Ага, так что уговор такой: ты пойдешь и поговоришь с Джоком. Утрясайте свои любовные делишки сами, меня это уже не будет касаться. Или я прямо сейчас иду к Грею и стучу на тебя. Ну?}
+{140}{}{What? I... }
+{141}{015}{So, here's the deal - you will go and talk to Jock. Handle your lovey-dovey stuff yourselves, it's none of my concern. Or I'm going to Gray right now.}
 
 #Node015
-{150}{}{[Келли опустила взгляд] Окей. Я... я приду.}
-{151}{999}{Вот и молодец. Хорошая девочка.}
+{150}{}{[Kelly lowers her eyes] Okay. I... I will do it.}
+{151}{999}{Good girl.}
 
 #Node016
-{160}{}{Что?}
-{161}{017}{Я думаю, тебе стоит взглянуть на это [бросить ей в руки диск].}
+{160}{}{What?}
+{161}{017}{I think you should take a look at this [hand her the disk].}
 
 #Node017
-{170}{}{[Келли прочла диск и побелела. Не заплакала, так как ей скорее всего было плевать на Тимми. Но это разом ставило под угрозу выстроенный ей план ее жизни]}
-{171}{018}{Слушай, возможно, сейчас не время думать о таком, но я бы рекомендовал тебе прикинуть свои дальнейшие шаги. }
+{170}{}{[Kelly reads the disk and becomes pale.]}
+{171}{018}{Maybe it's not the time to give advice, but if I were you, I would re-think your life plan right now. }
 
 #Node018
-{180}{}{О чем ты?}
-{181}{019}{Ну, знаешь, теперь тебе могут впаять какого-нибудь чмошника похлеще Тимми. Я бы на твоем месте превентивно выбрал себе партнера. Из более влиятельных что ли. Ричардс для тебя староват, но вот Джок...}
+{180}{}{What do you mean?}
+{181}{019}{Well, you know, they can pair you with someone much worse than Timmy. Maybe it would be better to choose your new partner preventively, so to say. Someone influential. Richards is kinda old for you. But Jock...}
 
 #Node019
-{190}{}{Превентивно?}
-{191}{020}{Опережающие действия. Вот это все. Как ты вообще лаборантом стала? Впрочем, не важно. Ну так что?}
+{190}{}{Preventively?}
+{191}{020}{Yes. You know, taking the initiative. Making the first move. How did you end up a lab assistant? Nevermind... So?}
 
 #Node020
-{200}{}{Я не знаю... нужно спросить...}
-{201}{015}{И окажешься на дне. Не думаю, что тебе светит что-то хорошее. Давай, черт возьми, соглашайся. }
+{200}{}{I don't know... I should...}
+{201}{015}{You will definitely sink at the bottom. I don't think something good will come out otherwise. Come on, say yes! }
 
 #Node021
-{210}{}{Что? Что за мерзость, к чему это вообще?}
-{211}{022}{Слушай, я слыхал что с Тимми не все в поряде. Говорят он копыта отбросил и тебе подбирают нового муженька. }
-{212}{023}{А тебе понравится, когда перед твоим лицом будут трясти не самыми привлекательными частями тела?}
-{213}{024}{Да так, просто уточняю твои вкусы. Может тебе нравятся плешивые?}
+{210}{}{What? Ew, gross! What are you even talking about?}
+{211}{022}{I just heard the rumor that Timmy is not quite alright. They say he kicked the bucket, and now you are being paired with someone else. }
+{212}{023}{Would you like it when someone starts shaking his not-so-attractive body parts in front of your face?}
+{213}{024}{Just take interest in your tastes. Do you like bald guys?}
 
 #Node022
-{220}{}{И что ты об этом знаешь?}
-{221}{023}{Ну, что кишки Тимми были развешаны как гирлянда по комнате.}
-{222}{026}{Что тебе могут подобрать какого-нибудь лохмача. И что есть возможность этого избежать.}
+{220}{}{What do you know about it?}
+{221}{023}{Well, only that Timmy's intestines were flailed around the room like a firework.}
+{222}{026}{That they can pair you with someone VERY hairy. And that you can avoid it.}
 
 #Node023
-{230}{}{[Келли скривилась] Проваливай, хватит мне о всякой мерзости тут заливать.}
-{231}{012}{Но...}
+{230}{}{[Kelly cringes] Get out, stop saying gross things to me.}
+{231}{012}{Uhh...}
 
 #Node024
-{240}{}{А тебе может понравиться твоя лоботомия?}
-{241}{025}{Да я вообще-то серьезно. }
+{240}{}{Would you like lobotomy?}
+{241}{025}{I'm actually being serious here. }
 
 #Node025
-{250}{}{Сват из тебя паршивый.}
-{251}{012}{Но...}
+{250}{}{You're a lousy matchmaker.}
+{251}{012}{Uhh...}
 
 #Node026
-{260}{}{И это конечно же пойти и дать себя трахнуть Джоку? Джок всего лишь пешка, которая не влияет на принятие решений о распределении пар.}
-{261}{027}{А ты хоть знаешь, как происходит распределение?}
+{260}{}{And for this, of course, I need to let Jock fuck me, am I right? Forget it, I know that Jock has no influence on pairing process.}
+{261}{027}{Do YOU know how the pairing process works?}
 
 #Node027
-{270}{}{На самом деле нет. Будто ты знаешь.}
-{271}{028}{Вообще-то я помощник Ричардсона. В рамках заданий ходил подавать списки бойцов для формирования пар. И мы сошлись с технарем компьютера, который занимается выборкой. Так тот технарь сказал...}
+{270}{}{No, actually... As if you do!}
+{271}{028}{I'm actually Richard's assistant. I had an assignment to gather the list of soldiers to submit to the pairing process. We had some talk with a tech guy. So, that guy said it...}
 
 #Node028
-{280}{}{И ты ему поверил?}
-{281}{031}{Да. Я видел его бабу. Хороша его баба как никто, при том что он страшный как смерть задохлик.}
-{282}{030}{Ну он же техник компа. Комп делает то, что говорит ему технарь.}
-{283}{029}{Я видел, как работает программа и как ее заполняет технарь.}
+{280}{}{And you believed him?}
+{281}{031}{I mean, yeah. I saw his girl. And she is too good for him, believe me.}
+{282}{030}{Well, he is a tech guy. The program does what he orders it to.}
+{283}{029}{I saw the program working and how the tech guy put data into it.}
 
 #Node029
-{290}{}{А если я тебе покажу эти графики и таблицы, ты многое поймешь?}
-{291}{012}{Но...}
+{290}{}{And? Would you understand if I showed you Gray's graphics and tables?}
+{291}{012}{Uhh...}
 
 #Node030
-{300}{}{Говорит? Ты вообще хоть раз видел наши главные компьютеры?}
-{301}{012}{Но...}
+{300}{}{Orders it to? Did you even see our calculators?}
+{301}{012}{Uhh...}
 
 #Node031
-{310}{}{Допустим. И как это происходит?}
-{311}{033}{Как-как. Списки заносятся, компьютер их анализирует и выдает распечатку. Технарь делает ее копию, но с измененными парами, как нам нужно.}
-{312}{032}{Технарь кладет бумажки в компьютер и печатает что нужно изменить.}
+{310}{}{Let's assume that. So, tell me, how does it happen?}
+{311}{033}{The lists are put into a calculator, which analyzes and prints it. Tech guy makes a copy, changing pairs as needed to.}
+{312}{032}{The tech guy puts some paper into a calculator and types what needs to be changed.}
 
 #Node032
-{320}{}{Ты просто идиот.}
-{322}{012}{Но...}
+{320}{}{You are just an idiot.}
+{322}{012}{Uhh...}
 
 #Node033
-{330}{}{И что же все это время Джоку мешало "вписать" туда мое имя?}
-{331}{035}{Он не хочет связывать свою жизнь непонятно с кем. Сначала он хочет "попробовать".}
-{332}{034}{Присматривается. Да и поменять имена - это же нужно подкупить кучу народу... }
+{330}{}{And what prevented Jock from putting my name into it?}
+{331}{035}{He doesn't want to commit to someone he doesn't know. He wants to have some "tests" first.}
+{332}{034}{He is being careful. And, you know, to change the names... You need to bribe a ton of people. }
 
 #Node034
-{340}{}{А я почти поверила в эту стройную легенду.}
-{341}{012}{Но...}
+{340}{}{I almost fell for this legend of yours.}
+{341}{012}{Uhh...}
 
 #Node035
-{350}{}{Ага, то есть сначала он хочет меня оттрахать, а потом вписать туда мое имя. Ну чудесно что же. Не вижу причин чтобы дать ему такую возможность.}
-{351}{036}{Потому что мы ушли от изначальной темы. Я видел новые списки.}
+{350}{}{Oh, so he wants to fuck me first, and then put my name into it. Wonderful. I don't see any reason to let him do it.}
+{351}{036}{We're way off topic. I saw that new lists.}
 
 #Node036
-{360}{}{И что там?}
-{361}{041}{Рядом с твоим именем - Гленн, охранник из Тартара. Он в казарме на спор разбивает лицом кирпичи. Ну и шерсть у него везде, как у гориллы.}
-{362}{038}{Рядом с твоим именем - Барни, редкостный пропойца. После каждой смены пьет как не в себя.}
-{363}{037}{Рядом с твоим именем - Руди, говорят он любит нетрадиционные развлечения. Я слышал что он связал мужика-гуля и отдуплил его.}
+{360}{}{And? What's in there?}
+{361}{041}{Your name is paired with Glenn, a guard from Tartarus. He is quite known for smashing bricks with his face on a dare. And he is REALLY hairy.}
+{362}{038}{Your name is paired with Barnie, an alcoholic. You should see the amount of booze he drinks daily.}
+{363}{037}{Your name is paired with Rudy, the rumor is he's into some kinky stuff. Ghouls and such.}
 
 #Node037
-{370}{}{Не мели чепухи. Раз такие слухи ходят - его бы отстранили от формирования пар. Я читала свод правил. [Келли покачала головой] Славно ты мне лапши на уши навешал, а я почти поверила. Катись ка ты отсюда, умник.}
-{371}{012}{Но...}
+{370}{}{Don't talk nonsense. If there was something like this, he would have been removed from the lists completely. I've read the rulebook, you know. [she sighs] You were fooling me so well... I almost fell for it. Get out of here, smart-arse.}
+{371}{012}{Uhh...}
 
 #Node038
-{380}{}{Ну и славненько. Главное чтобы пил до отсутствия стояка и держался от меня подальше. Через год при отсутствии беременности поменяют.}
-{381}{039}{Э-э-э...}
+{380}{}{That's great. He will probably drink himself to the state of his weenie not working. They will replace him after a year.}
+{381}{039}{Uhh...}
 
 #Node039
-{390}{}{Что еще?}
-{391}{040}{Ну, вообще-то Барни тот еще бабник и никогда не откажется после обильного возлияния...}
+{390}{}{What else?}
+{391}{040}{Actually, Barnie is quite a womanizer. He will never miss a chance to hit after getting wasted...}
 
 #Node040
-{400}{}{Тысяча и один способ убедить меня раздвинуть ноги для Джока? [Келли засмеялась] Не-а, не поверила. }
-{401}{012}{Но...}
+{400}{}{So much efforts to make me spread my legs for Jock... [Kelly giggles] Nah, it won't work on me. }
+{401}{012}{Uhh...}
 
 #Node041
-{410}{}{Я как представлю... ладно, возможно мне следует перестраховаться и пойти поболтать с Джоком. Можешь ему сказать, что я приду.}
-{411}{999}{Отлично! }
+{410}{}{I feel sick even thinking about it... Okay, maybe I really need to go talk to Jock. Tell him I'm coming.}
+{411}{999}{Great! }
 
 #Node042
-{420}{}{Серьезно? [Келли уставилась на вас с открытым ртом]}
-{421}{043}{Да. Чего только не прочтешь от скуки на дежурстве.}
+{420}{}{Seriously? [Kelly gazes at you with her mouth open]}
+{421}{043}{Yup. You can stumble upon all kinds of things when on a shift.}
 
 #Node043
-{430}{}{Возможно, мне следует рассмотреть возможность... встречи с Джоком. Я поговорю с ним.}
-{431}{999}{Вот и чудненько. }
+{430}{}{Probably I really should... Consider... Meeting with Jock. I'll talk to him.}
+{431}{999}{Nice. }
 
 #Node044
-{440}{}{Да, только вас это не касается. И если старик Моро с верху что-то про меня наплел - то это все неправда.}
-{441}{010}{Ну конечно же неправда. Я еще хотел спросить.}
-{442}{999}{Тогда я лучше с ним и поговорю...}
+{440}{}{Yes, but it doesn't concern you. And if that old man Moro told you something about me - it's a lie.}
+{441}{010}{Of course it is. I wanted to ask something else.}
+{442}{999}{I'll go talk to him then.}
 
 #Node045
-{450}{}{Вас это ни в коем разе не касается. Вы можете получить всю информацию оставив официальный запрос. Вы осознаете, что прерываете научную деятельность?!}
-{451}{010}{Эм... я бы хотел спросить о другом...}
-{452}{999}{Тогда я, пожалуй, пойду и оформлю этот официальный запрос.}
+{450}{}{That is none of your concern. You can make an official request for accessing this information. Do you realize that you are interrupting a very important scientific research?!}
+{451}{010}{Uhh... I'd like to ask something.}
+{452}{999}{Then I'll go make that request.}
 
 #Node100
-{1001}{}{[Келли белая как мел, ее одежда порвана в нескольких местах. Под глазом синяк, а у губы кровоподтек. Она обнимает себя дрожащими руками. Вы замечаете, что почти все ногти сломаны] Ты! Ты! Я... я тебя ненавижу. Чтоб ты сдох! [лаборантку сотрясает крупная дрожь, вокруг ее глаз ярко выделяются темные пятна, словно два провала в бездну] Ты отправил меня к этому животному! Я... я... [Келли зарыдала и осела на пол]. }
-{1002}{101}{[продолжение]}
+{1001}{}{[Kelly looks pale as chalk, her clothes is torn and battered, lower lip is swollen. She is visiby trembling, her left eye is bruised. You notice that almost all of her nails are chipped] You!! I... I hate you! I wish you were dead! [she starts to shake uncontrollably] You sent me to that animal! I... I... [she cries and slowly descends on the floor] }
+{1002}{101}{[continue]}
 
 #Node101
-{1010}{}{Он обещал, что утащит меня еще не раз в темный уголок... я... я... я покончу с этим... закончу раз и навсегда... [Келли всхлипывает и не обращает на вас внимания]}
-{1011}{999}{[уйти]}
-{1012}{102}{[попытаться успокоить, обнять]}
+{1010}{}{He promised he would do it again... I... I... I'm going to end this, once and for all... [Kelly continues to whimper and doesn't pay any attention to you]}
+{1011}{999}{[leave]}
+{1012}{102}{[try to calm her down and hug her]}
 
 #Node102
-{1020}{}{[Келли вырывается из ваших объятий и убегает захлебываясь в плаче]}
-{1021}{999}{[конец диалога]}
+{1020}{}{[Kelly breaks out of your hug and runs away in tears]}
+{1021}{999}{[end of dialogue]}
