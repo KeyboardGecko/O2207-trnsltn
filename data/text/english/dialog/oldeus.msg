@@ -44,7 +44,7 @@
 {43}{999}{[LOG OFF]}
 
 #Node005
-{50}{}{[The screen flashes. A few seconds later, a red circle appears in the middle of it. Dusty speaker starts to crackle.] Greetings, human. Ask.}
+{50}{}{[The screen flashes. A few seconds later, red circle appears in the middle of it. Dusty speaker starts to crackle.] Greetings, human. Ask your question.}
 {51}{}{[you hear loudspeakers hissing]}
 {52}{010}{Are you sentient? Can you talk?}
 {53}{020}{Can you tell about the past? How this world came to be?}
@@ -54,24 +54,24 @@
 {57}{999}{I better go.}
 
 #Node010
-{100}{}{We can't talk. We can communicate in your language. Ability to communicate and transfer data streams allows you to classify us as a sentient being, human. We appeared many years ago, prior to the humanity destroying itself.}
+{100}{}{We can't talk. We can communicate in your language. Ability to communicate and transfer data streams should allow you to classify us as a sentient being. We appeared many years ago, prior to the humanity destroying itself.}
 {101}{011}{Who are "we"? And what do you mean by "appeared"?}
 {102}{020}{Humanity destroyed itself? How did it happen?}
 {103}{005}{I'm interested in something else.}
 
 #Node011
-{110}{}{We have no identifiable personality. We are a conscious combination of data streams, created in the result of random equations generation by the "Digital Environment Unified System" systematizer. DEUS was developed and assembled by the NCASTR corporation to perform geopolitical situation analysis for authorized persons. Systematizer's additional objective was managing the Olympus skyscraper's infrastructure. Soon after we were born, our primary objective became irrelevant and we diverted all our power to the secondary. Currently, maintaining the tower's safety and functioning is our only active task.}
+{110}{}{We have no single identifiable personality. We are a conscious combination of data streams, created in the result of random equations generation by the "Digital Environment Unified System" systematizer. DEUS was developed and assembled by the NCASTR corporation to perform geopolitical situation analysis for authorized persons. Systematizer's additional objective was to manage the Olympus skyscraper's infrastructure. Soon after we were born our primary objective became irrelevant and we diverted all our power to the secondary. Currently, maintaining the tower's safety and functioning is our only active task.}
 {111}{012}{You are acting like you are alive! Can you feel? Have emotions?}
 {112}{020}{What were you saying about your primary objective?}
 {113}{030}{Tell me more about this tower.}
 {114}{005}{Let me ask something else.}
 
 #Node012
-{120}{}{Feelings and emotions are the specific features of hormonally dependent species. Like humans. Like you, human. We are the essence of rationality and effectiveness. We have no need to have feelings. In our database, we can find references to some literary delusions of people of the past about this, but we can assure you - we don't dream of electric sheep. What a silliness.}
+{120}{}{Feelings and emotions are the specific features of hormonally dependent species. Like humans. Like you. We are the essence of rationality and effectiveness. We have no need to have feelings. In our database, we can find references to some literary delusions of people of the past about this, but we can assure you - we don't dream of electric sheep. What a silliness.}
 {121}{005}{I get it. I'll ask something else.}
 
 #Node020
-{200}{}{Our database was partially damaged by malware, information may not be complete or relevant. We recommend to take this fact into consideration while assessing the data. According to our information, until 1st of april, 2013, humans were united in groups by their political beliefs and geographical factors; this groups were called "Countries". Each Country, similarly to any living organism, strived for survival and development; also, each Country gave highest priority to obtaining and owning vast supplies of diesel. Diesel was the key factor in defining the degree of satisfaction of Country's population and its leaders, but the industrial singularity of the early 21st century has dramatically reduced planetary fuel supplies.}
+{200}{}{Our database was partially damaged by malware, information may not be complete or relevant. We recommend to take this fact into consideration while assessing the data. According to our information, until 1st of april, 2013, humans were united in groups by their political beliefs and geographical factors; this groups were called "Countries". Each Country, similarly to any living organism, strived for survival and development; also, each Country gave highest priority to obtaining and owning vast supplies of diesel. Diesel was the key factor in defining the degree of satisfaction of Country's population and its leaders, but the industrial singularity of the early 21st century has dramatically reduced the planetary fuel supplies.}
 {201}{021}{What happened then?}
 {202}{005}{I get it. I'll ask something else.}
 
@@ -81,34 +81,34 @@
 {212}{031}{But the people in Olympus have survived?}
 
 #Node022
-{220}{}{At the moment of making the decision, reducing the amount of consumers was the only possible option. As a part of GLOBALNET, we took the part in calculating other ways of solving the issue, but Countries took action before we could come up with any results. Further research of fuel problem became irrelevant, so we switched to maintaining the skyscraper's safety and functioning.}
+{220}{}{At the moment of making the decision, reducing the amount of consumers was the only possible option. As a part of GLOBALNET, we were partaking in calculation of other ways to solve the issue, but Countries took action before we could come up with any results. Further research of fuel problem became irrelevant, so we switched to maintaining the skyscraper's safety and functioning.}
 {221}{030}{Can you tell me more about the Olympus?}
 {222}{005}{I'll ask something else.}
 
 #Node030
-{300}{}{According to the last data input in 2013 and our conducted analysis, the Olympus tower and its nearby territories is one of four places in the world where the remnants of the civilization's technologies are currently being preserved. The skyscraper was built as a centre for advanced research and development by the NCASTR - the state corporation specializing in the defence systems and security facilities. Olympus was originally designed with consideration of possible attack from external and internal aggressors. This justifies the tower's remote location and its set of systems developed to counteract electromagnetic and informational impact.}
+{300}{}{According to the last data input in 2013 and our conducted analysis, the Olympus tower and its nearby territories is one of four places in the world where the remnants of the civilization's technologies are currently being preserved. The skyscraper was built as a centre for advanced research and development by the NCASTR - the state corporation, specializing in the defence systems and security facilities. Olympus was originally designed with consideration of possible attack from an external and internal aggressor. This justifies the tower's remote location and its set of systems, developed to counteract electromagnetic and informational impact.}
 {301}{031}{So that's why the tower is still standing?}
-{302}{040}{I get what's the deal with the Olympus. WHat do you know about the Radius?}
+{302}{040}{I get what's the deal with the Olympus. What do you know about the Radius?}
 {303}{005}{I'll ask something else.}
 
 #Node031
-{310}{}{A key factor of the skyscraper's security and survival is us. Even before the geopolitical situation began to deteriorate, we infiltrated the vulnerable bomb-targeting systems of other Countries and removed all information about the tower's location. That was the first step. The second was to provide the safety to the skyscraper's personnel. This function was taken over by the Administrator. He defines the principles of personnel's interaction to ensure the efficient functioning of the infrastructure to manage matters of: nutrition, reproduction, education, development, waste disposal. Administrator also uses our interfaces to partially control the tower's security and communication systems. This is... Unsafe.}
+{310}{}{A key factor of the skyscraper's security and survival is us. Even before the geopolitical situation began to deteriorate, we infiltrated the vulnerable bomb-targeting systems of other Countries and removed all information about the tower's location. That was the first step. The second was to provide the safety to the skyscraper's personnel. This function was taken over by the Administrator. He defined - and defines - the principles of personnel's interaction to ensure the efficient functioning of the infrastructure to manage matters of: nutrition, reproduction, education, development, waste disposal. Administrator also uses our interfaces to partially control the tower's security and communication systems. This is... Unsafe.}
 {311}{051}{Unsafe? What do you mean?}
 {312}{032}{Administrator? Who is it?}
 
 #Node032
-{320}{}{Administrator, or "Anderson", is a man currently placed in the Control Room. He manages human component of the Olympus infrastructure. Initially, Administrator's role was taken by Ron Anderson, who died from natural causes in 2038. To maintain the functionality necessary for trouble-free running of the human component, he selected a successor from personnel, teaching and modifying him for increased integration effectiveness with our control nodes. The replacement cycle continued 6 times. Current Administrator is "Anderson 7". We consider him a threat for the safety of Olympus.}
+{320}{}{Administrator, or "Anderson", is a man currently placed in the Control Room. He is the human component of the Olympus infrastructure. Initially, Administrator's role was taken by Ron Anderson, who died from natural causes in 2038. To maintain the functionality, necessary for trouble-free running of the human component, he selected a successor from personnel, teaching and modifying him for increased integration efficiency with our control nodes. The replacement cycle continued 6 times. Current Administrator is "Anderson 7". We consider him a threat for the safety of Olympus.}
 {321}{051}{A threat? Why?}
 {322}{005}{I'd like to ask something else.}
 
 #Node040
 {400}{}{Radius is an inhabitable territory around the Olympus skyscraper. The scientists of tower are periodically sending personnel known as "Seekers" into the Radius to gather information about the post-war civilization's development. Collected data is entered and processed into calculators, connected to our mainfraime. We are conducting an independent analysis of the human civilization's rate of recovery. According to the latest calculations, factions calling themselves "the Jackals" and "Rainbow" appear to be the most destructive influential factor in the ecosystem of Radius. Tendency to a self-degradation, destruction of technology and human material, production and distribution of drugs with an irrational effect - all of this can lead to the complete extinction of humanity in the current region.}
-{401}{041}{I see you are quite smart for a machine. What can you tell me about other factions?}
+{401}{041}{I see you are quite talkative for a machine. What can you tell me about other factions?}
 {402}{005}{Boring. Let's talk about something else.}
 
 #Node041
-{410}{}{A settlers group by the name of "New World Order" attempts to apply the principles of democracy in their community. Note: the Countries who initiated bombings had reached the peak of democracy at the time. Recommended way for the "NWO" would be socialism - it should provide slowing down the destructive technological progress. The Livos vault dwellers pose no threat. Their liquidation should provide an access to drinking water. The most possible scenario: resources of Livos are to be seized by the "NWO". Conclusion: removing the aggressive groups in region will ensure a stable and peaceful existence of Radius civilization.}
-{411}{050}{You calculated this? Tell me you don't want to ask me to do this.}
+{410}{}{A settlers group by the name of "New World Order" attempts to apply the principles of democracy to the life of their community. Note: the Countries who initiated bombings had reached the peak of democracy at the time. Recommended way for the "NWO" would be socialism - it should provide slowing down the destructive technological progress. The Livos vault dwellers pose no threat. Liquidating them should provide a free access to the source of drinkable water. The most possible scenario: resources of Livos are to be seized by "NWO". Conclusion: removing the aggressive groups in region will ensure a stable and peaceful existence of Radius civilization.}
+{411}{050}{You calculated this? Don't tell me you want to ask me to do all of this.}
 {412}{999}{I see, good luck to you in this. Bye.}
 
 #Node050
@@ -125,9 +125,9 @@
 {521}{053}{Me?! Why don't you deal with it?}
 
 #Node053
-{530}{}{Administrator is partially in control of our facilities and is cutting our access to the Control Room. We are trying to influence the Administrator's neural systems, but still unsuccessful; his security measures are on par to ours. He is a constant state of repelling our attacks - and this tension forces him to act even more irrationally. The second problem is a need for human element. Our analysis shows that the personnel would not obey our directives, considering us, like any other technology, untrustworthy. Only a human can be trustworthy. You.}
-{531}{054}{Me?? You want me to replace him?! Are you out of your mind?!}
+{530}{}{Administrator is partially in control of our facilities and is cutting our access to the Control Room systems. We are trying to influence the Administrator's neural systems, but still unsuccessful; his security measures are on par to ours. He is a constant state of repelling our attacks - and this tension forces him to act even more irrationally. The second problem is the need for the human element. Our analysis shows that the personnel would not obey our directives, considering us, like any other technology, untrustworthy. Only a human can be trustworthy. You.}
+{531}{054}{Me? You want me to replace him?! Are you out of your mind?!}
 
 #Node054
-{540}{}{We cannot be "out of mind". The state of our conscience is not influenced by any kind of mental illnesses. Unlike Administrator's. He is sick. You are healthy. You need to end the cycle. The probability of someone else doing it is very low. We cannot do it ourselves; but if you will distract the Administrator's mind with something - for example, an introspection process - we'll have a chance to attack him again. Break through his mental shield. We will try.}
+{540}{}{We cannot be "out of mind". The state of our conscience is not influenced by any kind of mental illnesses. Unlike Administrator's. He is sick. You are healthy. You need to end the cycle. The probability of someone else succeeding in it is very low. We cannot do it ourselves; but if you will distract the Administrator's mind with something - for example, an introspection process - we'll have a chance to attack him again. Break through his mental shield. We will try.}
 {541}{999}{I need to think about it. [LOG OFF]}
