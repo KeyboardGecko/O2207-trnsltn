@@ -59,7 +59,7 @@
 {112}{}{What would Herald say about it? He always complains about lack of people on the Farms.}
 {113}{}{I see. Well, off to do labor then.}
 {114}{}{Why didn't you save mom? You could do something!}
-{115}{}{[dad closes eyes and covers his face with palm] Again? Why do you need to blame someone all the time? I can't protect anyone from sickness, even the close ones. I just can't! Even Kirk understands. Maybe you need to accept it too.}
+{115}{}{[dad closes eyes and covers his face with palm] Again? Why do you need to blame someone all the time? I can't protect anyone from sickness, even the loved ones. I just can't! Even Kirk understands. Maybe you need to accept it too.}
 {116}{}{So, the Gods just took her? Her time has come, and that's it?}
 {117}{}{Yes, you'd better believe in that.}
 {118}{}{I'll try... And I need to go.}

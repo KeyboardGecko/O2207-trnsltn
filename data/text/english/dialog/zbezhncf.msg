@@ -21,11 +21,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: a woman.}
-{2}{}{You see: refugee.}
-{3}{}{You see: ragamuffin.}
-{4}{}{You see: vagrant.}
-{5}{}{You see: refugee.}
+{1}{}{You see a woman.}
+{2}{}{You see a refugee.}
+{3}{}{You see a ragamuffin.}
+{4}{}{You see a vagrant.}
+{5}{}{You see a refugee.}
 {6}{}{A skinny exhausted woman, wearing some kind of rags.}
 {7}{}{Old torn clothes barely covers her unnaturally thin body.}
 {8}{}{Judging by fresh scars on her pale-blue skin, he suffered through a lot lately.}

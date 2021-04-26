@@ -373,7 +373,7 @@
 {18}{}{I'm sorry, Matt.}
 {19}{}{Seth, is it true that no one cares about us?}
 {25}{}{Yes, Matt. I have only you and no one else.}
-{26}{}{What are we doing? *sob*}
+{26}{}{What are we doing? ::sob::}
 {27}{}{I'm sorry I was such a fool.}
 {28}{}{And I'm sorry I didn't listen to you.}
 {29}{}{It's all right, Matt...}

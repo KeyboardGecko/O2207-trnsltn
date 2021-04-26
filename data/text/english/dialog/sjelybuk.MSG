@@ -13,7 +13,7 @@
 {6}{}{No, looks like you are not that smart to solve it.}
 
 # Описание 2 
-{3}{}{You see: a Bible}
+{3}{}{You see a Bible}
 {4}{}{It sais "Bible: Old testament" on the cover}
 {5}{}{You concentrate, then it hits you - You know how to read the book!}
 

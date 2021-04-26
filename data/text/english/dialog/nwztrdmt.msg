@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a meat dealer.}
-{3}{}{You see: lavash meat merchant.}
-{4}{}{You see: merchant.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a meat dealer.}
+{3}{}{You see a lavash meat merchant.}
+{4}{}{You see a merchant.}
+{5}{}{You see a trader.}
 {6}{}{You can feel the smell of lavash meat from a mile away.}
 {7}{}{He oozes with distinctive, with delicate hints of rot, scent of lavash meat.}
 {8}{}{All his look demonstrates that he knows his stuff about lavash meat.}
@@ -99,7 +99,7 @@
 # Отрицательные сообщения
 {1040}{}{Keep your hands to yourself, shmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

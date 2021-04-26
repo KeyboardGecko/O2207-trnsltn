@@ -8,8 +8,8 @@
 # Это - все виды раскапываемых могил
 #
 # Описание 1
-{1}{}{You see: burial.}
-{2}{}{You see: a grave.}
+{1}{}{You see a burial.}
+{2}{}{You see a grave.}
 
 # Описание 2
 {3}{}{...where's the shovel when you need it?..}
@@ -17,7 +17,7 @@
 
 # Действия
 {5}{}{With hands? No, such thick layer can be dug out only with a shovel.}
-{6}{}{Uhh... No, this is NOW the best tool for excavating the graves.}
+{6}{}{Uhh... No, this is NOT the best tool for excavating the graves.}
 {7}{}{}
 {8}{}{}
 {9}{}{}

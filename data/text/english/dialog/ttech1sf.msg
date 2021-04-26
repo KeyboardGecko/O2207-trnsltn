@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a dweller of Tartarus.}
-{3}{}{You see: one of servants.}
-{4}{}{You see: a female servant.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a dweller of Tartarus.}
+{3}{}{You see one of servants.}
+{4}{}{You see a female servant.}
+{5}{}{You see a local.}
 {6}{}{A common man, no more, no less.}
 {7}{}{Two arms, two legs, two breasts... It's a woman!}
 {8}{}{Just a woman wearing jumpsuit.}

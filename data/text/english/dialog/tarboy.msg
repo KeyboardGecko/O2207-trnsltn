@@ -60,9 +60,9 @@
 {132}{}{Wow, thanks, kid! See you around!}
 {133}{}{Just what I need! Thanks, boy.}
 {140}{}{Well... [he meaningfully ponders] Okay then! Riddle me this - who is sneaking in the night through the path that's out of sight, wants to eat your tasty brains and to lay on what remains?}
-{141}{}{Ugh... Hungry zombie?}
+{141}{}{Ugh... Scary creature?}
 {142}{}{Erm... Grey jackal?}
-{143}{}{Ahem... Dreadful creature?}
+{143}{}{Ahem... Hungry Feral?}
 {144}{}{I know, I know! It's me! Booo! Give me your treasure!}
 {1501}{}{Nah, wrong. Bye, unworthy big guy!}
 {1502}{}{[The boy gets all pouty] You knew! Okaaay, I'll be right back. [He runs off and returns with the "treasure"] Here!}

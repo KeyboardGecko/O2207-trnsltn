@@ -11,11 +11,11 @@
 #‘€… ’’…€
 #
 # ¤® §­ ª®¬αβΆ 
-{1}{}{You see: beautiful, well-groomed woman.}
+{1}{}{You see a beautiful, well-groomed woman.}
 {2}{}{She looks pretty attractive, despite her age. She is definitely not of "working class".}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
-{3}{}{You see: Lucy.}
+{3}{}{You see Lucy.}
 {4}{}{She looks flawless, as always.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ

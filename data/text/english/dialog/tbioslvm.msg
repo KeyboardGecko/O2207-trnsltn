@@ -22,11 +22,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a Life Servant.}
-{3}{}{You see: one of Life Servants.}
-{4}{}{You see: a male servant.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a Life Servant.}
+{3}{}{You see one of Life Servants.}
+{4}{}{You see a male servant.}
+{5}{}{You see a local.}
 {6}{}{This man is responsible for Tartarus always having enough food.}
 {7}{}{This servant is busy with fertilizing and taking care of crops.}
 {8}{}{His duty is to provide enough food to Tartarus dwellers.}

@@ -15,7 +15,7 @@
 {2}{}{She looks at you like a food critic looks at sophisticated dish.}
 #
 # после знакомства
-{3}{}{You see: Khala.}
+{3}{}{You see Khala.}
 {4}{}{She successfully combines duties of chef and healer in this tribe.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ

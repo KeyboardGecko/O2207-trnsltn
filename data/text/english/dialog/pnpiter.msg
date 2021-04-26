@@ -41,12 +41,12 @@
 {14}{999}{Nothing. Nothing at all.}
 
 #Node002
-{20}{}{...New. That's understandable. Everyone here is. Except some came yesterday, while others - many years ago. That's all the difference there is. I'm Peter. I'm helping Bono to run things here. Someone should keep the walls holding the roof, and that's me. I'm doing it.}
+{20}{}{...New. That's understandable. Everyone here is. Except some came yesterday, while others - many years ago. That's all the difference there is. I'm Peter. I'm helping Bono to run things here. Someone has to make sure the walls hold the roof, and someone is me. I'm doing it.}
 {21}{010}{Okay. I'd like to know something.}
 {22}{999}{Okay. See you around, Peter.}
 
 #NodeWarn
-{31}{}{I heard that you are hob-nobbing with Hugo, is that right? Do what you want, but don't help this psycho with his plans, he'll put everyone here in danger. If he asks for anything - don't do it!}
+{31}{}{I heard that you are hob-nobbing with Hugo, is that right? Do what you want, but don't help this psycho with his plans, he'll put everyone here in danger. If he asks you to do something - don't do it!}
 {32}{999}{I'll consider that.}
 {33}{999}{Hey, I'm a free man! I do what I want. See you.}
 
@@ -65,19 +65,19 @@
 {109}{999}{Nothing. I have to go.}
 
 #Node011
-{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
+{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is a better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
 {111}{012}{Let some of you into Tartarus? Sounds questionable. They consider all outsiders a terrible creatures.}
 {112}{}{What can I say? Fixing the broken stuff, looking after what's working. Just helping Bono to keep things running, nothing exceptional.}
 {113}{010}{Plain and simple. Can I ask something else?}
 {114}{999}{Yeah, I see. Oh! I've got to go.}
 
 #Node012
-{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course, they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to make some deal with the guards. Maybe offer them batteries or some drugs, I don't know. Bono had some ideas.}
+{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course, they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to work out a deal. Maybe offer guards batteries or drugs, I don't know. Bono had some ideas.}
 {121}{010}{Well, it might work. I want to ask something else.}
 {122}{999}{I really doubt it - but good luck to you anyway.}
 
 #Node020
-{200}{}{We are surviving here, that's what happens. People run away from Tartarus, from Radius - and end up here. It is obvious you won't last long in wastelands alone, while here everyone is in the same situation. So they pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over the Tartarus by force. Keep away from him, he's crazy.}
+{200}{}{We are surviving here, that's what happens. People run away from Tartarus, from Radius - and end up here. It is obvious you won't last long in wastelands alone - but in here everyone is in the same situation. So they pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over the Tartarus by force. Stay away from him, he's crazy.}
 {201}{021}{Hugo?}
 {202}{010}{Okay, I mostly got it.}
 {203}{}{Just stay around for a couple of days, you'll get it eventually.}
@@ -85,7 +85,7 @@
 
 #Node021
 {210}{}{The ghoul on the lower platform. He and his men are the only ones who walks around with guns here. Hugo himself is just a big baby who wants to play pew-pew and to show everyone he's strong. He's ex-Jackal, after all.}
-{211}{022}{Does he have enough guns and men?}
+{211}{022}{Do they have enough guns and men?}
 {212}{010}{Thanks for the warning. I'll keep that in mind.}
 
 #Node022

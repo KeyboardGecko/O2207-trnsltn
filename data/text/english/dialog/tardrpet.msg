@@ -69,7 +69,7 @@
 {141}{}{Hmm... Let's trade then...}
 {142}{}{But doooctoooor... I have nothing valuable. Okay, I'll go.}
 {143}{}{[mumble] You'll bear it on your conscience... Goodbye, doctor.}
-{200}{}{Well, hello [he looks through you]. Need something?}
+{200}{}{Well, hello. [he looks through you] Need something?}
 {201}{}{Something else?}
 {202}{}{What new things do you have for trade?}
 {203}{}{Nothing. I'll go.}

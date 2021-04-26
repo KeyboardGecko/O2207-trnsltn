@@ -312,13 +312,13 @@
 
 {16}{}{A storm of emotions from this incredible meal increases your maximum health by 5 points.}
 {17}{}{So, you're back now, dreamer?}
-{18}{}{*Sob*}
+{18}{}{::sob::}
 {19}{}{Now you understand what happens with the ones like you in this world?}
 {25}{}{Just die, you old asshole!}
 {26}{}{I am so sorry, brother...}
 {27}{}{There, there. Stop whining then.}
 {28}{}{Damn son of a bitch!}
-{29}{}{You asshole! *Sob*}
+{29}{}{You asshole! ::sob::}
 {35}{}{You came in a wrong tent.}
 {36}{}{I have nothing to talk about with my brother's errand boys.}
 {37}{}{I don't know how to thank you.}

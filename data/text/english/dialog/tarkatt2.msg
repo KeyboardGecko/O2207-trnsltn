@@ -55,7 +55,7 @@
 {105}{}{Catty, do you know what's wrong with your father? Seems like he doesn't care about his duties lately.}
 {106}{}{A vegetables delivery! Here, 24 cobs total!}
 {107}{}{Look, Catty, my back hurts so much from all this crawling around patches, you wouldn't believe it! Better gather that corn yourself.}
-{1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes pouty face and taps her foot] I'm sick of this corn! And I should not only to make patches, but also to take harvest! It never ends!}
+{1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes pouty face and taps her foot] I'm sick of all this corn! And I should not only to make patches, but also to take harvest! It never ends!}
 {1102}{}{You know, with you helping me, it doesn't look so hopeless! [she giggles] Thanks again!}
 {111}{}{You do realize that if "it" ends, we are going to starve? So be kind, put some effort. I'm having a hard time too!}
 {112}{}{But you know that your job is good for all of us. Don't worry, you'll have your rest in the evening.}
@@ -71,7 +71,7 @@
 {130}{}{Wow!!! Thank you, thank you, thank you, thank youthankyouthankyouthankyoooou!!!}
 {131}{}{[turn your cheek for a kiss]}
 {132}{}{Don't mention it, that was easy for me!}
-{133}{}{Oh wow, I almost got woozy from all these thankyous! You're welcome.}
+{133}{}{Oh wow, I almost got woozy from all these thank-yous! You're welcome.}
 {140}{}{[Catty loudly and powerfully kisses you on the cheek. Nearby Servants meaningfully glance at each other.]}
 {141}{}{Hah, and for that - thank YOU! Well, tee-hee, I'd better go now.}
 {142}{}{Oh man! Catty, they are looking at us! Now we're gonna be laughed at.}

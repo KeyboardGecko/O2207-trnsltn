@@ -124,7 +124,7 @@
 {1021}{}{Don't even bother until you apologize!}
 {1022}{}{Mommy don't want to talk to bad kids!}
 {1023}{}{You were very naughty!}
-{1024}{}{Bad kid! Mommy is *SO* angry!}
+{1024}{}{Bad kid! Mommy is SO angry!}
 {1025}{}{Don't even dare to approach me until you apologize!}
 {1026}{}{Mommy would not talk to bad boys!}
 {1027}{}{Bad kid!}

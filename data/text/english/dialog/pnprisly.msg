@@ -27,7 +27,7 @@
 {14}{999}{I think it's time for me to leave.}
 
 
-{20}{}{Monster!? Monster... Yeah, I guess that's how it is. I've been a "monster" for many years now. The name's Priestley - and I *was* Priestley once, If you know what I mean. Because now I'm "that".}
+{20}{}{Monster!? Monster... Yeah, I guess that's how it is. I've been a "monster" for many years now. The name's Priestley - and I WAS Priestley once, If you know what I mean. Because now I'm "that".}
 {21}{010}{I see. I'm }
 {22}{010}{, can you tell me something?..}
 {23}{999}{All I hear is blah-blah-blah. Not interested.}
@@ -53,11 +53,11 @@
 
 {200}{}{Well, if you really want to know... [he sighs] I was once a missionary of a great god named [he furiously spits] Chiefacus. I carried his word all around the Radius, telling every peasant about the heavens and thirty beautiful virgins, awaiting them after death... And now you see how harsly Chiefacus [he furiously spits] dealt with me. I was so handsome, my beautiful holy chin dimple could get me between the legs of any woman... [he rolls eyes, pondering into memories] But then I withered.}
 {201}{021}{What do you mean? Did you get sick?}
-{202}{}{I was a handsome man once, but the Gods [he furiously spits] cursed me, and I turned into *this*. What else can be said?.. Thank God [he furiously spits] that Robin brought me here, or I would have been eaten by jackals in the desert.}
+{202}{}{I was a handsome man once, but the Gods [he furiously spits] cursed me, and I turned into THIS. What else can be said?.. Thank God [he furiously spits] that Robin brought me here, or I would have been eaten by jackals in the desert.}
 {203}{010}{So the Gods cursed you? I see. I have another questions.}
 
 
-{210}{}{Yes, probably I did. Chiefacus, may he burn in his hell, put some illness on me, as I went to nap in the shadow of mountain cliffs. I woke up already like this. Skin sagging and rotting, fell-off nose, the jaw barely holding up... Do you see what I've become!? Curse you, Gods, existing or not!!}
+{210}{}{Yes, probably I did. Chiefacus, may he burn in his hell, put some illness on me, as I went to nap in the shadow of a mountain cliff. I woke up already like this. Skin sagging and rotting, fell-off nose, the jaw barely holding up... Do you see what I've become!? Curse you, Gods, existing or not!!}
 {211}{010}{Yeah, tough luck. I have another questions.}
 {212}{999}{I see it's better to leave you alone for a while.}
 
@@ -77,7 +77,7 @@
 {321}{010}{Hm. I'll think about it. Another question.}
 
 
-{400}{}{Oh, *that*... Yes, I'm trying to grow some corn, but it's not working out. There was a girl from Tartarus with full pockets of seeds. She told me you could grow your food right beneath your feet.}
+{400}{}{Oh, THAT... Yes, I'm trying to grow some corn, but it's not working out. There was a girl from Tartarus with full pockets of seeds. She told me you could grow your food right beneath your feet.}
 {401}{041}{So? What could be wrong?}
 {402}{999}{Oh, I know, what it is. No, I'm not interested.}
 

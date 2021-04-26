@@ -22,11 +22,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a cook.}
-{3}{}{You see: a female cook.}
-{4}{}{You see: a girl, wearing shirt.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a cook.}
+{3}{}{You see a female cook.}
+{4}{}{You see a girl, wearing shirt.}
+{5}{}{You see a local.}
 {6}{}{Her shirt is covered with fat and tallow.}
 {7}{}{She looks very tired and has shadows under eyes.}
 {8}{}{It seems like she works on a kitchen.}

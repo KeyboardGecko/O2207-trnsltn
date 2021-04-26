@@ -22,11 +22,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a Technology Servant.}
-{3}{}{You see: one of the servants.}
-{4}{}{You see: a female Technology Servant.}
-{5}{}{You see: a local repairwoman.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a Technology Servant.}
+{3}{}{You see one of the servants.}
+{4}{}{You see a female Technology Servant.}
+{5}{}{You see a local repairwoman.}
 {6}{}{She is responsible for workability of mechanisms in Tartarus.}
 {7}{}{It's very uncommon - to see a female Technology Servant.}
 {8}{}{This woman looks out for gears and pumps.}

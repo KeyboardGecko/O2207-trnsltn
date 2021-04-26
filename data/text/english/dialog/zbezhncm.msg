@@ -21,11 +21,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: man.}
-{2}{}{You see: refugee.}
-{3}{}{You see: ragamuffin.}
-{4}{}{You see: vagrant.}
-{5}{}{You see: refugee.}
+{1}{}{You see a man.}
+{2}{}{You see a refugee.}
+{3}{}{You see a ragamuffin.}
+{4}{}{You see a vagrant.}
+{5}{}{You see a refugee.}
 {6}{}{It is unclear where this ragged man came from.}
 {7}{}{Looks like he wandered the Radius for a long time. Maybe even beyond the Radius.}
 {8}{}{His clothes are torn apart, old scars are seen under it.}

@@ -589,7 +589,7 @@
 {29500}{}{*Valve*}
 {29501}{}{One of the parts for the pump valve filter.}
 {29600}{}{Pump Valve Filter}
-{29601}{}{Missing spare part for the broken water treatment unit.}
+{29601}{}{Missing spare part for the broken water filtering unit.}
 {29700}{}{Nuclear Moonshine}
 {29701}{}{A bottle of an extremely strong liquor. It glows in the dark!}
 {29800}{}{*Douglas's Badge*}
@@ -969,7 +969,7 @@
 {48500}{}{Rusty Grate}
 {48501}{}{An old rusty grate. After touching it, red spots remain on the fingers.}
 {48600}{}{Moonshine Filter}
-{48601}{}{A simple filter for the moonshine distiller. It looks like it should save the consumption of rare candies.}
+{48601}{}{A simple filter for the moonshine distiller. Installing it would reduce the consumption of rare candies.}
 {48700}{}{Jackal Grip}
 {48701}{}{The grip of the Jackal Revolver, find the rest of the parts and build yourself a great gun.}
 {48800}{}{Jackal Barrel}

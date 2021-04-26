@@ -27,7 +27,7 @@
 
 {20}{}{New one - that's you, new one. Like the half of unfortunate seekers of better life here, you just couldn't sit tight in one place...}
 {21}{003}{Okay, let's sort this out. Is it a part of Tartarus? I mean, is this even a Tartarus?}
-{22}{004}{I don't understand, old man. What are you talking about? You *are* an old man, right? You don't look too good...}
+{22}{004}{I don't understand, old man. What are you talking about? You ARE an old man, right? You don't look too good...}
 {23}{999}{That's it, I'm out of here.}
 
 
@@ -35,7 +35,7 @@
 {31}{005}{Undead? So you all are undead? And you live here? All this people, wearing Tartarus clothes?.. Oh man...}
 
 
-{40}{}{Well, let's say I'm the next step of being an old man. You could even say I'm the next step of being a *dead* man. And not the last step, unfortunately... The name's Bono. This place is called "the caves of undead". Here live the likes of you. And me.}
+{40}{}{Well, let's say I'm the next step of being an old man. You could even say I'm the next step of being a DEAD man. And not the last step, unfortunately... The name's Bono. This place is called "the caves of undead". Here live the likes of you. And me.}
 {41}{005}{Undead... This is no Tartarus, although you have no sky here as well. Who are all these people?.. Oh man...}
 
 
@@ -122,7 +122,7 @@
 {202}{024}{Where do you get your food?}
 
 
-{210}{}{Where do *you* came from? That's the answer... A lot of people here are runaways from Tartarus, from your favourite Gods. Some others came from Radius. Me, for example. There are even some who tried to enter the Olympus itself... And who stayed alive, of course.}
+{210}{}{Where do YOU came from? That's the answer... A lot of people here are runaways from Tartarus, from your favourite Gods. Some others came from Radius. Me, for example. There are even some who tried to enter the Olympus itself... And who stayed alive, of course.}
 {211}{}{People... Well, they just come. From different places of Radius - wastelands, ruins... Anywhere. Any road eventually leads them here.}
 {214}{023}{Why did someone try to enter the Olympus?}
 {212}{023}{Enter the Olympus? To the Gods!?}
@@ -203,7 +203,7 @@
 {432}{044}{Gods can wait. First, I need a way to get into the Tartarus.}
 
 
-{440}{}{Get into Tartarus... Yeah, sure... Wait a second [his faces stretches out] You told me that they tried to shoot you, right? So they must be looking for you, and you won't get there anyway, right? But I think there *is* a way to help you get back into Tartarus. Alive. But you'll have to return the favor. What do you say, new one?}
+{440}{}{Get into Tartarus... Yeah, sure... Wait a second [his faces stretches out] You told me that they tried to shoot you, right? So they must be looking for you, and you won't get there anyway, right? But I think there IS a way to help you get back into Tartarus. Alive. But you'll have to return the favor. What do you say, new one?}
 {441}{045}{You are just old, decrepit extortionist, that's what I say. But I'm in. What do you need me to do?}
 {442}{045}{Favor in exchange for favor... Sounds fair. How do I help?}
 {443}{999}{Will I have to do something? I suppose, it's something dangerous? I need to think it over.}
@@ -235,7 +235,7 @@
 {531}{057}{Ahem... So, how do I get into the Tartarus?}
 {532}{057}{Hey, old man, what about Tartarus?}
 
-{540}{}{[he slyly squints his left eye] Helped, huh?.. I see you are the man of your word, so I won't go around asking how *exactly* you helped. Instead, I'll tell you how to get into Tartarus right away, write it down: go to the platform, then follow the tracks until the end. After that you'll see the passage to the side, so - you go there. Walk through until you bump into the guards. Come straight to them and say "get the hell out of my way, or else!" - and they'll let you in right away. And they'll give you food. And some medicine, I don't quite remember its name... Something like "fuk-yu-up" or "kill-yu-ded"... My memory is not serving me well lately.}
+{540}{}{[he slyly squints his left eye] Helped, huh?.. I see you are the man of your word, so I won't go around asking how EXACTLY you helped. Instead, I'll tell you how to get into Tartarus right away, write it down: go to the platform, then follow the tracks until the end. After that you'll see the passage to the side, so - you go there. Walk through until you bump into the guards. Come straight to them and say "get the hell out of my way, or else!" - and they'll let you in right away. And they'll give you food. And some medicine, I don't quite remember its name... Something like "fuk-yu-up" or "kill-yu-ded"... My memory is not serving me well lately.}
 {541}{999}{No need for being sarcastic. I'll come by later.}
 {542}{010}{Come on, I was just joking! I'll ask other question.}
 
@@ -261,7 +261,7 @@
 {653}{}{It took too long, }
 {654}{}{, now I can't... Spare any time.}
 {655}{999}{I see, so all this running's been for nothing.}
-{656}{999}{I didn't know you needed it *fast*. Oh well.}
+{656}{999}{I didn't know you needed it FAST. Oh well.}
 
 
 {660}{}{Wonderful, I've just scribbled a couple of notes... Okay, let's go.}
@@ -305,7 +305,7 @@
 ###
 ### Удобрения
 ###
-{750}{}{Yes, I've heard... It's unbelievable how *anything* could grow there! I think we could make an arragment... We could buy the fertilizer from you. Say, 20 batteries for a sack. What do you think? I can't offer more, but we need at least 10 sacks!}
+{750}{}{Yes, I've heard... It's unbelievable how ANYTHING could grow there! I think we could make an arragment... We could buy the fertilizer from you. Say, 20 batteries for a sack. What do you think? I can't offer more, but we need at least 10 sacks!}
 {751}{}{It's a deal! Wait, I'll bring the first batch.}
 {752}{}{I don't know. I need to think...}
 {760}{}{Very good. Put it here. Yes, like that. Peter will come by to take it. Thank you, here's your payment. [he gives you }

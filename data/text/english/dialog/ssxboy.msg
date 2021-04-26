@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see: boy.}
+{1}{}{You see a boy.}
 {2}{}{The boy, looks like age of seven. He is wearing some rugs.}
 #
 # после знакомства
 #
-{3}{}{You see: ???.}
+{3}{}{You see a ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА

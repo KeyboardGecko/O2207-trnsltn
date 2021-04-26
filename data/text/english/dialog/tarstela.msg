@@ -24,12 +24,12 @@
 #
 # ¤® §­ ª®¬αβΆ 
 #
-{1}{}{You see: Stella.} 
+{1}{}{You see Stella.} 
 {2}{}{Stella, Catty's mom. She looks very sick.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
-{3}{}{You see: Stella.}
+{3}{}{You see Stella.}
 {4}{}{Stella, Catty's mom. She looks very sick.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€

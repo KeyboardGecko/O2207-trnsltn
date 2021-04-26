@@ -52,7 +52,7 @@
 {102}{}{Hello! Just looking for something to do.}
 {103}{}{Why are you so nervous?}
 {104}{}{Did you see dad's wrench?}
-{105}{}{You had problems with that stupid one. With Bully.}
+{105}{}{You had problems with that stupid one. With Bully. Remember?}
 {1101}{}{I don't know what to do either. Wanna kick the stones together?}
 {1102}{}{Uh-huh. I don't really care, but I've seen Catty recently. She was... Crying! You're, like, her boyfriend. Maybe you could ask her what's wrong.}
 {111}{}{Man, screw you. You're boring.}
@@ -61,14 +61,14 @@
 {121}{}{Yes, brother, you are. Tell me later how it went.}
 {122}{}{He is a menace, alright... I'll go think what to do with him.}
 {123}{}{Don't sweat it, I'll handle him!}
-{124}{}{What's the problem then? There are two of us, let's kick his ass together! Come on, let's go!}
+{124}{}{What's the problem then? There are two of us, let's whoop his ass together! Come on, let's go!}
 {130}{}{Keep me posted, okay? And... Uh... Thanks.}
 {131}{}{[wave hand and leave]}
 {132}{}{Of course, you are my brother! Later!}
 {140}{}{Do you really need to ask? Of course I remember. And? What are you going to do?}
 {141}{}{I don't know. I'm still thinking.}
 {142}{}{The problem is solved, so stop worrying about it!}
-{143}{}{I have an idea - there are two of us, let's kick his ass together! Come on, let's go!}
+{143}{}{I have an idea - there are two of us, let's whoop his ass together! Come on, let's go!}
 {150}{}{Oh wow, thanks! I owe you, big time!}
 {151}{}{You sure do! One day I'll remember this!}
 {152}{}{No sweat, forget it.}

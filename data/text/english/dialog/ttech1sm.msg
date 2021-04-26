@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a dweller of Tartarus.}
-{3}{}{You see: one of servants.}
-{4}{}{You see: a male servant.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a dweller of Tartarus.}
+{3}{}{You see one of servants.}
+{4}{}{You see a male servant.}
+{5}{}{You see a local.}
 {6}{}{A common man, no more, no less.}
 {7}{}{Two arms, two legs, a penis... It's a man!}
 {8}{}{Just some worker in a jumpsuit.}

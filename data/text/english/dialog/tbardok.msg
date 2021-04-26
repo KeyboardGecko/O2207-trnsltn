@@ -51,7 +51,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÏÎÑËÅ ÇÍÀÊÎÌÑÒÂÀ
 #
-{100}{}{You again, thinny one?! Are you dense, or what? I told you - get the hell away from here!!}
+{100}{}{You again, skinny?! Are you dense? I told you - get the hell away from here!!}
 {101}{}{What are you guarding, Bardock? Did you hide here a treasure, or something?}
 {102}{áóòûëêà ñàìîãîíà}{You know, maybe we got off from a wrong foot. Could this bottle of wonderful moonshine help us break the ice? [wink]}
 {103}{}{Didn't Mama Monkey teach you manners, when you were a kid?}

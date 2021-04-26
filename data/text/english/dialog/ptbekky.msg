@@ -24,12 +24,12 @@
 #
 # ¤® §­ ª®¬αβΆ 
 #
-{1}{}{You see: wounded girl.}
+{1}{}{You see a wounded girl.}
 {2}{}{She looks sick and tired. A lacerated wound is seen on her leg.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
-{3}{}{You see: Becky.}
+{3}{}{You see Becky.}
 {4}{}{She still doesn't look very good, but you are sure that now she will be alright.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€

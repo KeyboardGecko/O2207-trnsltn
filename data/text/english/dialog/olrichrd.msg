@@ -63,7 +63,7 @@
 
 {110}{}{Damn, Doug, are you getting old? If I see you without this trash you're looking for our smart-asses, you're going to owe me a bottle of wine from Livos. No, a box! [he laughs] Okay, get some rest. And I guess I should write a report about why our nerds are not getting their toys in time.}
 {111}{}{Do you remember about the wine? [he laughs] Okay, I'll let it slide this time. But I am going to remind you of it every chance I get! }
-{112}{}{Damn, Doug, it's not funny anymore.  Next time you’ll be the one writing the report.}
+{112}{}{Damn, Doug, it's not funny anymore.  Next time you'll be the one writing the report.}
 {113}{999}{Okay...}
 
 {120}{}{That's how we do it! Let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject the Queen Chimera with the serum and bring her here. Questions? No questions. Come on, Doug, I'm counting on you.}

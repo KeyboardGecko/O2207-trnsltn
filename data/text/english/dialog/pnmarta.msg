@@ -11,11 +11,11 @@
 #Žˆ‘€ˆ… Šˆ''…€
 #
 # ¤® §­ ª®¬áâ¢  
-{1}{}{You see: a skinny woman.}
+{1}{}{You see a skinny woman.}
 {2}{}{She looks very nervous.}
 #
 # ¯®á«¥ §­ ª®¬áâ¢ 
-{3}{}{You see: Martha.}
+{3}{}{You see Martha.}
 {4}{}{This is Martha - mother of Lily, the only child on this station.}
 #
 #‡„…‘œ €—ˆ€…'‘Ÿ „ˆ€‹Žƒ

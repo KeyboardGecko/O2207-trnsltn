@@ -21,11 +21,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: man.}
-{2}{}{You see: labourer.}
-{3}{}{You see: male.}
-{4}{}{You see: street rat.}
-{5}{}{You see: local.}
+{1}{}{You see a man.}
+{2}{}{You see a labourer.}
+{3}{}{You see a male.}
+{4}{}{You see a street rat.}
+{5}{}{You see a local.}
 {6}{}{He looks very so-so.}
 {7}{}{Looks like he hasn't eaten in a long time...}
 {8}{}{He looks very exhausted.}

@@ -618,16 +618,16 @@
 #
 #
 #
-{4200}{}{A Protectors patrol.}
+{4200}{}{A Defenders patrol.}
 {4201}{}{A dangerous scorpion.}
-{4202}{}{A Protectors patrol.}
-{4203}{}{A Protectors patrol.}
+{4202}{}{A Defenders patrol.}
+{4203}{}{A Defenders patrol.}
 {4204}{}{A lone vicious ursa.}
 {4205}{}{A lone hungry chimera.}
 {4206}{}{A couple dangerous scorpions.}
-{4207}{}{Protectors fighting of an ursa.}
+{4207}{}{Defenders fighting of an ursa.}
 {4208}{}{A couple of stunted venomous chimeras.}
-{4209}{}{Protectors fighting some chimeras.}
+{4209}{}{Defenders fighting some chimeras.}
 {4210}{}{Some graves in the desert.}
 {4211}{}{An abandoned House.}
 {4212}{}{Raiders attacking a road warrior.}
@@ -638,16 +638,16 @@
 #
 #
 #
-{4250}{}{A Protectors patrol.}
+{4250}{}{A Defenders patrol.}
 {4251}{}{A dangerous scorpion.}
-{4252}{}{A Protectors patrol.}
-{4253}{}{A Protectors patrol.}
+{4252}{}{A Defenders patrol.}
+{4253}{}{A Defenders patrol.}
 {4254}{}{A lone vicious ursa.}
 {4255}{}{A lone hungry chimera.}
 {4256}{}{A couple dangerous scorpions.}
 {4257}{}{Someone defending against a vicious ursa.}
 {4258}{}{A couple of stunted venomous chimeras.}
-{4259}{}{Protectors fighting some chimeras.}
+{4259}{}{Defenders fighting some chimeras.}
 {4260}{}{A cave in the Mountains.}
 {4261}{}{A punk on his bike.}
 {4262}{}{A fortified outpost.}
@@ -655,16 +655,16 @@
 #
 #
 #
-{4300}{}{A Protectors patrol.}
+{4300}{}{A Defenders patrol.}
 {4301}{}{A dangerous scorpion.}
-{4302}{}{A Protectors patrol.}
-{4303}{}{A Protectors patrol.}
+{4302}{}{A Defenders patrol.}
+{4303}{}{A Defenders patrol.}
 {4304}{}{A lone vicious ursa.}
 {4305}{}{A lone hungry chimera.}
 {4306}{}{A couple dangerous scorpions.}
-{4307}{}{Protectors fighting a vicious ursa.}
+{4307}{}{Defenders fighting a vicious ursa.}
 {4308}{}{A couple of stunted venomous chimeras.}
-{4309}{}{Protectors fighting some chimeras.}
+{4309}{}{Defenders fighting some chimeras.}
 #
 #
 #
@@ -672,13 +672,13 @@
 {4350}{}{A merchant group from NWO.}
 {4351}{}{A group of unfortunate travelers.}
 {4352}{}{A lone traveler.}
-{4353}{}{A Protectors patrol.}
+{4353}{}{A Defenders patrol.}
 {4354}{}{A merchant group from NWO.}
 {4355}{}{A couple dangerous scorpions.}
 {4356}{}{Some travelers attacking a NWO merchant.}
 {4357}{}{A couple of stunted venomous chimeras.}
 {4358}{}{Some travellers hunting scorpions.}
-{4359}{}{Protectors attacking a group of travelers.}
+{4359}{}{Defenders attacking a group of travelers.}
 {4360}{}{Some graves in the desert.}
 {4361}{}{An abandoned House.}
 {4362}{}{Raiders attacking a road warrior.}
@@ -692,13 +692,13 @@
 {4400}{}{A merchant group from NWO.}
 {4401}{}{A group of unfortunate travelers.}
 {4402}{}{A lone traveler.}
-{4403}{}{A Protectors patrol.}
+{4403}{}{A Defenders patrol.}
 {4404}{}{A merchant group from NWO.}
 {4405}{}{A couple dangerous scorpions.}
 {4406}{}{Some travellers attacking a NWO merchant.}
 {4407}{}{A couple of stunted venomous chimeras.}
 {4408}{}{Some travellers hunting scorpions.}
-{4409}{}{Protectors attacking a group of travelers.}
+{4409}{}{Defenders attacking a group of travelers.}
 {4410}{}{A cave in the Mountains.}
 {4411}{}{A punk on his bike.}
 {4412}{}{A fortified outpost.}
@@ -709,27 +709,27 @@
 {4450}{}{A merchant group from NWO.}
 {4451}{}{A group of unfortunate travelers.}
 {4452}{}{A lone traveler.}
-{4453}{}{A Protectors patrol.}
+{4453}{}{A Defenders patrol.}
 {4454}{}{A merchant group from NWO.}
 {4455}{}{A couple dangerous scorpions.}
 {4456}{}{Some travellers attacking a NWO merchant.}
 {4457}{}{A couple of stunted venomous chimeras.}
 {4458}{}{Some travellers hunting scorpions.}
-{4459}{}{Protectors attacking a group of travelers.}
+{4459}{}{Defenders attacking a group of travelers.}
 #
 #
 #
 #
-{4500}{}{A Protectors patrol.}
+{4500}{}{A Defenders patrol.}
 {4501}{}{A couple of coyotes.}
 {4502}{}{Some strong travelers.}
 {4503}{}{A couple dangerous scorpions.}
 {4504}{}{A couple of starving lunatics.}
-{4505}{}{A Protectors patrol.}
-{4506}{}{Protectors attacking a group of travelers.}
+{4505}{}{A Defenders patrol.}
+{4506}{}{Defenders attacking a group of travelers.}
 {4507}{}{Several mithrats.}
 {4508}{}{A horde of rats.}
-{4509}{}{Protectors attacking a group of desert wolves.}
+{4509}{}{Defenders attacking a group of desert wolves.}
 {4510}{}{Some graves in the desert.}
 {4511}{}{An abandoned House.}
 {4512}{}{Raiders attacking a road warrior.}
@@ -740,16 +740,16 @@
 #
 #
 #
-{4550}{}{A Protectors patrol.}
+{4550}{}{A Defenders patrol.}
 {4551}{}{A couple of coyotes.}
 {4552}{}{Some strong travelers.}
 {4553}{}{A couple dangerous scorpions.}
 {4554}{}{A couple of starving lunatics.}
-{4555}{}{A Protectors patrol.}
-{4556}{}{Protectors attacking a group of travelers.}
+{4555}{}{A Defenders patrol.}
+{4556}{}{Defenders attacking a group of travelers.}
 {4557}{}{Several mithrats.}
 {4558}{}{A horde of rats.}
-{4559}{}{Protectors attacking a group of desert wolves.}
+{4559}{}{Defenders attacking a group of desert wolves.}
 {4560}{}{A cave in the Mountains.}
 {4561}{}{A punk on his bike.}
 {4562}{}{A fortified outpost.}
@@ -757,29 +757,29 @@
 #
 #
 #
-{4600}{}{A Protectors patrol.}
+{4600}{}{A Defenders patrol.}
 {4601}{}{A couple of coyotes.}
 {4602}{}{Some strong travelers.}
 {4603}{}{A couple dangerous scorpions.}
 {4604}{}{A couple of starving lunatics.}
-{4605}{}{A Protectors patrol.}
-{4606}{}{Protectors attacking a group of travelers.}
+{4605}{}{A Defenders patrol.}
+{4606}{}{Defenders attacking a group of travelers.}
 {4607}{}{Several mithrats.}
 {4608}{}{A horde of rats.}
-{4609}{}{Protectors attacking a group of desert wolves.}
+{4609}{}{Defenders attacking a group of desert wolves.}
 #
 #
 #
 #
 {4650}{}{Some strong travelers.}
-{4651}{}{A Protectors patrol.}
+{4651}{}{A Defenders patrol.}
 {4652}{}{A few hunters.}
 {4653}{}{A couple of antlions.}
 {4654}{}{A couple of pale howling lunatics.}
 {4655}{}{A few golden lions.}
 {4656}{}{Starving hunters attacking a group of travelers.}
 {4657}{}{A couple of stunted venomous chimeras.}
-{4658}{}{Stunted chimeras attacking some Protectors.}
+{4658}{}{Stunted chimeras attacking some Defenders.}
 {4659}{}{Some poor hunters attacked by a chimera.}
 {4660}{}{Some graves in the desert.}
 {4661}{}{An abandoned House.}
@@ -792,14 +792,14 @@
 #
 #
 {4700}{}{Some strong travelers.}
-{4701}{}{A Protectors patrol.}
+{4701}{}{A Defenders patrol.}
 {4702}{}{A few hunters.}
 {4703}{}{A couple of antlions.}
 {4704}{}{A couple of pale howling lunatics.}
 {4705}{}{A few golden lions.}
 {4706}{}{Starving hunters attacking a group of travelers.}
 {4707}{}{A couple of stunted venomous chimeras.}
-{4708}{}{Stunted chimeras attacking some Protectors.}
+{4708}{}{Stunted chimeras attacking some Defenders.}
 {4709}{}{Some poor hunters attacked by a chimera.}
 {4710}{}{A cave in the Mountains.}
 {4711}{}{A punk on his bike.}
@@ -809,14 +809,14 @@
 #
 #
 {4750}{}{Some strong travelers.}
-{4751}{}{A Protectors patrol.}
+{4751}{}{A Defenders patrol.}
 {4752}{}{A few hunters.}
 {4753}{}{A couple of antlions.}
 {4754}{}{A couple of pale howling lunatics.}
 {4755}{}{A few golden lions.}
 {4756}{}{Starving hunters attacking a group of travelers.}
 {4757}{}{A couple of stunted venomous chimeras.}
-{4758}{}{Stunted chimeras attacking some Protectors.}
+{4758}{}{Stunted chimeras attacking some Defenders.}
 {4759}{}{Some poor hunters attacked by a chimera.}
 #
 #
@@ -824,13 +824,13 @@
 #
 {4800}{}{A merchant group from NWO.}
 {4801}{}{A hunting party.}
-{4802}{}{A Protectors patrol.}
+{4802}{}{A Defenders patrol.}
 {4803}{}{A lone traveler.}
 {4804}{}{A group of raiders.}
 {4805}{}{A gang of raiders attacking a NWO merchant.}
 {4806}{}{Several dangerous raiders.}
 {4807}{}{A couple of coyotes.}
-{4808}{}{Unfortunate raiders caught by Protectors.}
+{4808}{}{Unfortunate raiders caught by Defenders.}
 {4809}{}{Some hunters fighting with raiders.}
 {4810}{}{Some graves in the desert.}
 {4811}{}{An abandoned House.}
@@ -844,13 +844,13 @@
 #
 {4850}{}{A merchant group from NWO.}
 {4851}{}{A hunting party.}
-{4852}{}{A Protectors patrol.}
+{4852}{}{A Defenders patrol.}
 {4853}{}{A lone traveler.}
 {4854}{}{A group of raiders.}
 {4855}{}{A gang of raiders attacking a NWO merchant.}
 {4856}{}{Several dangerous raiders.}
 {4857}{}{A couple of coyotes.}
-{4858}{}{Unfortunate raiders caught by Protectors.}
+{4858}{}{Unfortunate raiders caught by Defenders.}
 {4859}{}{Some hunters fighting with raiders.}
 {4860}{}{A cave in the Mountains.}
 {4861}{}{A punk on his bike.}
@@ -861,13 +861,13 @@
 #
 {4900}{}{A merchant group from NWO.}
 {4901}{}{A hunting party.}
-{4902}{}{A Protectors patrol.}
+{4902}{}{A Defenders patrol.}
 {4903}{}{A lone traveler.}
 {4904}{}{A group of raiders.}
 {4905}{}{A gang of raiders attacking a NWO merchant.}
 {4906}{}{Several dangerous raiders.}
 {4907}{}{A couple of coyotes.}
-{4908}{}{Unfortunate raiders caught by Protectors.}
+{4908}{}{Unfortunate raiders caught by Defenders.}
 {4909}{}{Some hunters fighting with raiders.}
 #
 #

@@ -94,7 +94,7 @@
 {133}{}{I'm just doing my job.}
 {134}{}{It would definitely be faster, you are right. And it's their job... Good thinking, Technology Servant!}
 {140}{}{Do you know the serial number of this machine? Who is responsible for it?! WHO IS THAT SERVANT WHO ALLOWED IT TO BE LEFT UNREPAIRED?!}
-{141}{}{Uhh... There's no number...But I'll fix it myself!}
+{141}{}{Uhh... There's no number... But I'll fix it myself!}
 {142}{}{Uhh... The number is erased, but it doesn't matter. I repaired it already.}
 {143}{}{It's Brook, the Water Servant. He is bad at his responsibilities.}
 {144}{}{I will find out and report to you immediately!}
@@ -106,7 +106,7 @@
 {153}{}{Yeah, yeah, I'm going - have more stuff to do...}
 {154}{}{I already did it. No problem.}
 {155}{}{But I don't know where to get the parts...}
-{160}{}{Such a spirit! So be it - you are tasked with repairing the machine!}
+{160}{}{What a determination! So be it - you are tasked with repairing the machine!}
 {161}{}{I understand, Herald.}
 {162}{}{So much for an initiative... Okay.}
 {170}{}{What's about it? While it's broken and not filtering our water, we're all in great danger!}
@@ -190,7 +190,7 @@
 {1042}{}{The Gods have defeated demons of the night again!}
 {1043}{}{Those who are asleep shall be woken up immediately!}
 {1044}{}{Rise, shine, Servants of Gods!}
-{1045}{}{Wake up the children - let them live and rejoice in rise!}
+{1045}{}{Wake up your children - let them live and rejoice in rise!}
 {1046}{}{Taste the food of the Gods and take upon your tasks!}
 {1047}{}{Don't you dare to sleep on this fine holy day!}
 {1048}{}{Wash your eyes of nightmares and go back to serving!}

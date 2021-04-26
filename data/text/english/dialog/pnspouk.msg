@@ -24,7 +24,7 @@
 #
 # до знакомства
 #
-{1}{}{You see the guard of Tartarus.}
+{1}{}{You see a guard of Tartarus.}
 {2}{}{You can't even imagine how THIS can be human.}
 #
 # после знакомства

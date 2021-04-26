@@ -76,7 +76,7 @@
 {140}{}{There, all done! The lights are good, no sparks and flickering.}
 {141}{}{Thanks, Smitty! I owe you one!}
 {142}{}{I could handle it eventually - but thanks anyway.}
-{150}{}{Do you think I don't know?! It doesn't work for two weeks already, the whole node went out, the filter itself! And I know how to fix it, no problem, but I need a Bracket and a Valve, and I'm too tired to run around Tartarus for them. Here, take the filter. If you wanna help, you can search for a Valve in an old cars, just look arond a parking lot. As for the Bracket - I heard the boys from Residential level played with it recently.}
+{150}{}{Do you think I don't know?! It doesn't work for two weeks already, the whole node went out, the filter itself! And I know how to fix it, no problem, but I need a bracket and a valve, and I'm too tired to run around Tartarus for them. Here, take the filter. If you wanna help, you can search for a valve in an old cars, just look arond a parking lot. As for the bracket - I heard the boys from Residential level played with it recently.}
 {151}{}{Oh my, it's so confusing! And what would I do with all this stuff?}
 {152}{}{Why should I do all the work?! Although, what choice do I have... Give me that.}
 {160}{}{When you find the details, just put everything together - and you'll get a working node! Then you need to install it into the machine, and that's it! Easy!}
@@ -85,7 +85,7 @@
 {170}{}{Hah! Aren't you a sly dog? You do know that there's almost no bottles left, and yet you are still asking! You know what? I can give you a bottle. For a little favor.}
 {171}{}{Who could have doubt that. Tell me about this "favor".}
 {172}{}{I don't need it right now. I want to ask something.}
-{180}{}{Do you know about my Moonshine Machina Magnifico? That one, in the utility room? If you only know how much soul and love I've put into it... [he wistfully rolls his eyes] But here's the problem - it eats up a lot of candies, and we don't have many of these around. So, I decided to make a little improvements and came up with a double-partition candy filter. Here's the filter grid, and here's the special pallet with a gutter. All is needed to do is to put the filter into the gutter, but my hands are so shaky today, you wouldn't believe! So, assemble the filter and install it into my machine, and I will give you the bottle. I mean, lend you the bottle. Give it back to me when you're done, okay?}
+{180}{}{Do you know about my Moonshine Machina Magnifico? That one, in the utility room? If you only knew how much soul and love I've put into it... [he wistfully rolls his eyes] But here's the problem - it eats up a lot of candies, and we don't have many of these around. So, I decided to make a little improvements and came up with a double-partition candy filter. Here's the filter grid, and here's the special pallet with a gutter. All is needed to do is to put the filter into the gutter, but my hands are so shaky today, you wouldn't believe! So, assemble the filter and install it into my machine, and I will give you the bottle. I mean, lend you the bottle. Give it back to me when you're done, okay?}
 {181}{}{Okay, okay, give me the parts. Get the bottle ready, I'll be right back.}
 {182}{}{As if I have nothing better to do! You invented it - you handle it! Bye, cheapskate.}
 {190}{}{What a skillful man you are! Just kidding, even baby could assemble it. [he laughs] But I keep my word, here's the bottle. Don't drop it!}

@@ -29,11 +29,11 @@
 #
 #Œœ»—¿Õ»≈ œ≈–—ŒÕ¿∆¿
 #
-{1}{}{You see: a hooker.}
-{2}{}{You see: a prostitute.}
-{3}{}{You see: a love priestess.}
-{4}{}{You see: lady of the evening.}
-{5}{}{You see: nightfly.}
+{1}{}{You see a hooker.}
+{2}{}{You see a prostitute.}
+{3}{}{You see a love priestess.}
+{4}{}{You see a lady of the evening.}
+{5}{}{You see a nightfly.}
 {6}{}{She looks like a porn star in retirement.}
 {7}{}{For some reason, her photo, pinned, near the entrance, looks much more attractive...}
 {8}{}{She has dry white stains in the most unusual places of her clothes.}

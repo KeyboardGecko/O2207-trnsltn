@@ -11,11 +11,11 @@
 #‘€… ’’…€
 #
 # ¤® §­ ª®¬αβΆ 
-{1}{}{You see: a sick, old man.}
+{1}{}{You see a sick, old man.}
 {2}{}{The man looks at you with shrewd, wise look.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
-{3}{}{You see: Mark.}
+{3}{}{You see Mark.}
 {4}{}{He is carefully looking through some documents.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ

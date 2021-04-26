@@ -22,11 +22,11 @@
 #
 #Description Šˆ’’…€
 #
-{1}{}{You see: }
-{2}{}{You see: }
-{3}{}{You see: }
-{4}{}{You see: }
-{5}{}{You see: }
+{1}{}{You see a }
+{2}{}{You see a }
+{3}{}{You see a }
+{4}{}{You see a }
+{5}{}{You see a }
 {6}{}{Description}
 {7}{}{Description}
 {8}{}{Description}

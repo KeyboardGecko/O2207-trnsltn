@@ -46,12 +46,12 @@
 {19}{}{}
 #
 {100}{}{Hey you! Servant! You going down, right? Get to the maintenance room on lower level, and bring me a bottle of... Uhh... That drink, from the machine.}
-{101}{}{So? Did you bring what I asked?}
+{101}{}{So? Did you bring what I asked for?}
 {102}{}{Of course, Son of Gods! And... How do I do that?}
 {103}{}{I don't know what you want. And I don't care.}
 {104}{}{Uhh... No. Not yet.}
 {105}{}{Yeah, sure! Here it is! [hand him the bottle]}
-{110}{}{Man, you're so stupid... Here, take these 11 candies. DO NOT EAT THEM!!! Insert them into the machine, which you'll find in the maintenance room. Put one empty bottle under it, then press the button. You'll get a bottle filled. Bring it to me. AND DON'T DRINK IT!}
+{110}{}{Man, you're so stupid... Here, take these 11 candies. DO NOT EAT THEM!!! Insert them into the machine, which you'll find in the maintenance room. Put one empty bottle under it, then press the button. You'll get a bottle filled with liquid. Bring it to me. AND DON'T DRINK IT!}
 {111}{}{Okay, I got it. Be right back!}
 {112}{}{But I don't have a bottle.}
 {120}{}{[he nervously clenches the handle of his weapon] Do not annoy me, Servant! Don't have a bottle? Then find it! Steal it! Trade it from Smitty! I don't care!}

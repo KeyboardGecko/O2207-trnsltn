@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: Jackal.}
-{2}{}{You see: one of the Jackals.}
-{3}{}{You see: spectator.}
-{4}{}{You see: raider.}
-{5}{}{You see: one of the spectators.}
+{1}{}{You see a Jackal.}
+{2}{}{You see one of the Jackals.}
+{3}{}{You see a spectator.}
+{4}{}{You see a raider.}
+{5}{}{You see one of the spectators.}
 {6}{}{He frantically screams his lungs out, cheering for fighters on a ring.}
 {7}{}{One of the audience. He craves for blood.}
 {8}{}{The spectator loudly shouts something encouranging.}
@@ -93,7 +93,7 @@
 # Отрицательные сообщения
 {1040}{}{Keep your hands to yourself, shmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

@@ -33,10 +33,10 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÄÎ ÇÍÀÊÎÌÑÒÂÀ
 #
 {5}{}{How can you sleep for so long, }
-{6}{}{?? Come on, get up! You father got sick on the farms, Kirk barely managed to drag him to a doctor Pat!}
+{6}{}{?? Get up, it's urgent! You father got sick on the farms! He lost consciousness, Kirk barely managed to drag him to doctor Pat!}
 {7}{}{Uuuuuhhh... And what?}
 {8}{}{Got it, I'm running to the doc right away!}
-{9}{}{What's up with you!? Get up and meet them! Hurry!}
+{9}{}{What's wrong with you!? Get up and go see them! Hurry!}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÏÎÑËÅ ÇÍÀÊÎÌÑÒÂÀ
 #
@@ -63,7 +63,7 @@
 {51}{003}{Are you always meeting your friends with "they will kill you"?}
 {52}{003}{So, I suppose you are glad to see me?}
 
-{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn’t think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so much things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn't think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so much things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
 {61}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius and its inhabitants]}
 
 {70}{}{[Catty listened to you thoughtfully, without interrupting. Looks like she became more serious and calm since your last meeting] Holy shit - that's all I can say. I'm still having troubles believing it. And about the Radius - you know, it sounds like not a bad place... [she looks at a big wrench in her hand] If you have a big gun and many bullets. Looks like this place is a lot safer. And we have order maintained here - for example, three days ago one guard punished some boy for stealing. Ten strokes of stick, and then he got his hand mangled with the guard's armored boot. }

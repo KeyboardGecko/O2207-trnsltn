@@ -20,7 +20,7 @@
 #
 {5}{}{Your punch was unexpected to Stan. He even fazed for a little - but now he is angered.}
 {6}{}{Your punch was unexpected to Stan, but he didn't even flinch. Looks like the testicles of this ogre are as non-sensitive as his brains.}
-{7}{}{*growls at you*}
+{7}{}{[growls at you]}
 {8}{}{Get off, okay?}
 {9}{}{Come on, enough! Get lost.}
 #

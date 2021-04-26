@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. Having his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly comes across as a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are *you*? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
+{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. Having his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly comes across as a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are YOU? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
 {11}{011}{I'm just looking around. You guys definitely have a way with organizing things. Your doing?}
 {12}{014}{You'd better watch your mouth - or there is a possibility that you are going to eat shit.}
 {13}{015}{I'm looking for a quick buck. Have something for a hired gun? }
@@ -94,5 +94,5 @@
 
 
 {200}{}{[Fiendishly squints] That's because every piece of scum here, who was kissing Loudmouth's ass, began to twitch when he got wrecked. And they should - I'm gonna skin their asses alive if they flinch! It's time for Jackals to follow the real pack leader!!}
-{201}{014}{You mean *you*? Even lavash with a wounded head fits the leader's role better!}
+{201}{014}{You mean YOU? Even lavash with a wounded head fits the leader's role better!}
 {202}{999}{Let's see how it turns out... See you around, Billy.}

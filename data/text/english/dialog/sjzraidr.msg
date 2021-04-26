@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: raider.}
-{2}{}{You see: one of the Jackals.}
-{3}{}{You see: local.}
-{4}{}{You see: raider.}
-{5}{}{You see: Jackal.}
+{1}{}{You see a raider.}
+{2}{}{You see one of the Jackals.}
+{3}{}{You see a local.}
+{4}{}{You see a raider.}
+{5}{}{You see a Jackal.}
 {6}{}{The look on his face does not guarantee an easy conversation.}
 {7}{}{Bruised eye, lack of teeth, hard look.}
 {8}{}{He's covered in scars. Looks like he went through many fights.}
@@ -92,7 +92,7 @@
 # Отрицательные сообщения
 {1040}{}{Keep your hands to yourself, schmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

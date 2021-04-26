@@ -12,11 +12,11 @@
 #NEED TO TEST THIS ONE
 #	
 # before meeting
-{1}{}{You see: a pretty, albeit very dirty girl.}
+{1}{}{You see a pretty, albeit very dirty girl.}
 {2}{}{She looks damn attractive in these clothes.}
 #
 # after meeting
-{3}{}{You see: a pretty, albeit very dirty girl.}
+{3}{}{You see a pretty, albeit very dirty girl.}
 {4}{}{She looks damn attractive in these clothes.}
 #
 {5}{}{Let's talk another time.}
