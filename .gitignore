@@ -22,7 +22,7 @@ data/text/russian/game/scanmsg.log
 tools/SFallScriptEditor/sse.log
 tools/SFallScriptEditor/settings/settings.dat
 tools/SFallScriptEditor/settings/recent.dat
+tools/SFallScriptEditor/User_SyntaxRules.xml
 
 *.ssl
 *.log
-tools/SFallScriptEditor/User_SyntaxRules.xml
