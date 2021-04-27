@@ -1,11 +1,5 @@
 
-scanmsg.exe
-scanmsg.txt
-scanmsg.log
 sse.log
 settings.dat
 recent.dat
 User_SyntaxRules.xml
-
-*.ssl
-*.log
