@@ -49,7 +49,7 @@
 {1013}{021}{I don't have a lot of free time too. So, how's the profit?}
 {1014}{020}{How's the situation here?}
 {1015}{999}{Okay, do your job. See you later.}
-{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him on the Arena! Instead, he was murdered in a ditch, like lavash in a slaughterhouse...}
+{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him on the Arena! Instead, he was murdered in a ditch, like Lavash in a slaughterhouse...}
 {1016}{015}{Life is a bitch, huh? Still, is there anyone who wants to fight me?}
 {1017}{014}{Can I make a bet though?}
 {1018}{012}{I have a small favor to ask - just to pick up something from the Arena.}
@@ -117,7 +117,7 @@
 {1513}{018}{I hear you. Let's mess his hair a little.}
 {1514}{018}{I can only promise that he dies quickly... And painfully! That's it, I'm going!}
 {1515}{999}{I need to prepare to this kind of fight... }
-{1506}{}{[he makes a long pause] The Hog himself became interested in you, champion. I don't know what's going on in his head, but... This is really serious. You've never seen anything like it. Are you aware that he doesn't sleep? Or that he can squash Ursa's skull with his one hand? Try to avoid getting close - if he grabs you, you're going to be broken in half. So, ready?}
+{1506}{}{[he makes a long pause] Hog himself became interested in you, champion. I don't know what's going on in his head, but... This is really serious. You've never seen anything like it. Are you aware that he doesn't sleep? Or that he can squash Ursa's skull with his one hand? Try to avoid getting close - if he grabs you, you're going to be broken in half. So, ready?}
 {1516}{018}{It's time to rip this Hog's fangs! Tell them I'm going!}
 {1517}{018}{I'm ready. Don't worry, we'll make this beautiful.}
 {1518}{999}{I need to deal with something. Talk later.}
@@ -158,7 +158,7 @@
 {193}{999}{Take care of yourself, big guy. See you around.}
 
 
-{2001}{}{[he shows his clenched fist] Like this! I'm holding the situation tightly under my control, boss! The fighters are coming to me themselves, and since you put the Hog down, Arena is always full with the crowd. The place is famous now! Maybe I should put a memorial sign.}
+{2001}{}{[he shows his clenched fist] Like this! I'm holding the situation tightly under my control, boss! The fighters are coming to me themselves, and since you put Hog down, Arena is always full with the crowd. The place is famous now! Maybe I should put a memorial sign.}
 {201}{021}{A good idea, by the way... So, this means that our finances are good?}
 {202}{999}{Glad to hear. Keep them on their toes, bud. And I need to go.}
 {2002}{}{[he shrugs his strong shoulders] More or less. Like before, I'd say. We won't find anyone like Hog, that's for sure, but the Arena is still providing steady income. }

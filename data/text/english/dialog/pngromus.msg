@@ -42,7 +42,7 @@
 {101}{}{Uhh?.. [he slurps]}	
 {102}{Barter}{I want to see what you are selling.}	
 {103}{011}{You are for the doctor here, right? Why do you look so bad then?}	
-{104}{020}{Where do you get this stuff you need for your potions?}	
+{104}{020}{Where do you get the components for your potions? Is it something poisonous?}	
 {105}{030}{I'm having problems with calming down Lily... You know the scorpion stuff, don't you? Can you give some advice what to do with its bite?}	
 {106}{040}{I'm kinda hurt, can you heal me?}	
 {107}{050}{I, uh... [gulp] don't feel so good. And my pee is glowing.}	

@@ -16,21 +16,21 @@
 {801}{}{A Teenage Girl.}
 {900}{}{Girl}
 {901}{}{An ordinary black girl in T-Shirt and pants.}
-{1000}{}{Tech Servant}
+{1000}{}{Technology Servant}
 {1001}{}{This person is responsible for the operation of the machinery in Tartarus.}
-{1100}{}{Tech Servant}
+{1100}{}{Technology Servant}
 {1101}{}{This person is responsible for the operation of the machinery in Tartarus.}
 {1200}{}{Herald}
-{1201}{}{This son of the Gods brings the word of the Lords to the Servants.}
+{1201}{}{This son of the Gods brings the will of the Gods to the Servants.}
 {1300}{}{Herald}
-{1301}{}{This son of the Gods brings the word of the Lords to the Servants.}
+{1301}{}{This son of the Gods brings the will of the Gods to the Servants.}
 {1400}{}{Life Servant}
 {1401}{}{This man provides Tartarus with food.}
 {1500}{}{Water Servant}
 {1501}{}{This man provides Tartarus with water.}
 {1600}{}{Life Servant}
 {1601}{}{This woman works on the farms of Tartarus.}
-{1700}{}{Tech Servant}
+{1700}{}{Technology Servant}
 {1701}{}{This woman works with technology as good as the men.}
 {1800}{}{Water Servant}
 {1801}{}{This woman provides Tartarus with water.}
@@ -41,9 +41,9 @@
 {2100}{}{Guardian}
 {2101}{}{An guard in an armored suit, covered in wires, tubes and whirring motors.}
 {2200}{}{Feral Ghoul}
-{2201}{}{A horribly nasty looking creature, it's skin hangs on like it's flapping on a rack.}
+{2201}{}{A horrible, nasty-looking creature. Its skin hangs on like it's flapping on a rack.}
 {2300}{}{Pale Ghoul}
-{2301}{}{A hideous creature, it's muscles are clearly showing through the pale skin.}
+{2301}{}{A hideous creature, its muscles are clearly showing through the pale skin.}
 {2400}{}{Warden}
 {2401}{}{A Son of the Gods, he keeps order in Tartarus.}
 {2500}{}{Lavash}
@@ -55,11 +55,11 @@
 {2800}{}{Kirk}
 {2801}{}{Your obnoxious little brother Kirk.}
 {2900}{}{Catty}
-{2901}{}{Your childhood friend Catty. She constantly makes eyes at you.}
+{2901}{}{Your childhood friend Catty. She can't take her eyes off you.}
 {3000}{}{Brook}
 {3001}{}{Catty's father, always drab and sullen.}
 {3100}{}{Stella}
-{3101}{}{Catty's mother, one of the few female maintenance workers.}
+{3101}{}{Catty's mother, one of the few female Technology Servants.}
 {3200}{}{Bully}
 {3201}{}{A big kid, brash and arrogant.}
 {3300}{}{Carol}
@@ -69,7 +69,7 @@
 {3500}{}{Dr. Pat}
 {3501}{}{The ever-disgruntled doctor who provides medical care to the inhabitants of Tartarus.}
 {3600}{}{Gregorius}
-{3601}{}{The herald of the will of the Gods. He never seems to sleep...}
+{3601}{}{The Herald of the will of the Gods. He seems to never sleep...}
 {3700}{}{Catty}
 {3701}{}{Your friend Catty.}
 {3800}{}{Kirk}
@@ -178,7 +178,7 @@
 {8901}{}{}
 {9000}{}{Dan}
 {9001}{}{}
-{9100}{}{Arsen}
+{9100}{}{Arsene}
 {9101}{}{}
 {9200}{}{Maurissa}
 {9201}{}{}
@@ -284,7 +284,7 @@
 {14201}{}{}
 {14300}{}{Brick}
 {14301}{}{}
-{14400}{}{Big G}
+{14400}{}{G}
 {14401}{}{}
 {14500}{}{Squirrel}
 {14501}{}{}
@@ -318,7 +318,7 @@
 {15901}{}{}
 {16000}{}{Naomi's Assistant}
 {16001}{}{}
-{16100}{}{Tame Wolf}
+{16100}{}{Pet Wolf}
 {16101}{}{}
 {16200}{}{Elder}
 {16201}{}{}
@@ -334,7 +334,7 @@
 {16701}{}{}
 {16800}{}{Local}
 {16801}{}{}
-{16900}{}{Tame Wolf}
+{16900}{}{Pet Wolf}
 {16901}{}{}
 {17000}{}{Fred}
 {17001}{}{}
@@ -345,9 +345,9 @@
 {17300}{}{Thug}
 {17301}{}{The bloodshot eyes and froth on the mouth speak volumes...}
 {17400}{}{Punk}
-{17401}{}{You can only talk to this one in the language of lead...}
+{17401}{}{You can talk to this one only in the language of lead...}
 {17500}{}{Raider}
-{17501}{}{An ordinary evil and unwashed bandit.}
+{17501}{}{An ordinary evil, unwashed bandit.}
 {17600}{}{Beast}
 {17601}{}{}
 {17700}{}{Robotron}
@@ -358,24 +358,24 @@
 {17901}{}{}
 {18000}{}{Constantine Zochkis}
 {18001}{}{}
-{18100}{}{Daimond Crank}
+{18100}{}{Diamond Crank}
 {18101}{}{}
-{18200}{}{Captain N34}
+{18200}{}{Captain №34}
 {18201}{}{}
 {18300}{}{Anderson's Shield}
 {18301}{}{}
 {18400}{}{Anderson}
 {18401}{}{}
 {18500}{}{Defender}
-{18501}{}{You look in awe at his armor.}
+{18501}{}{A sight of his armor makes you stare in awe.}
 {18502}{}{Black smoke billows from the exhaust pipes behind him.}
-{18503}{}{Every movement of this warrior tells of his strength and power.}
-{18504}{}{...although, underneath his armor, is likely just a normal human body...}
+{18503}{}{Every move of this warrior shows his impenetrability and power.}
+{18504}{}{...Although, there's probably just a normal human body under all this metal...}
 {18600}{}{Defender}
-{18601}{}{You look in awe at his armor.}
+{18601}{}{A sight of his armor makes you stare in awe.}
 {18602}{}{Black smoke billows from the exhaust pipes behind him.}
-{18603}{}{Every movement of this warrior tells of his strength and power.}
-{18604}{}{...although, underneath his armor, is likely just a normal human body...}
+{18603}{}{Every move of this warrior shows his impenetrability and power.}
+{18604}{}{...Although, there's probably just a normal human body under all this metal...}
 {18700}{}{Soldier}
 {18701}{}{}
 {18800}{}{Predator}
@@ -427,9 +427,9 @@
 {21001}{}{}
 {21100}{}{Pale Ghoul}
 {21101}{}{}
-{21200}{}{Beastie}
+{21200}{}{Onca Devil}
 {21201}{}{}
-{21300}{}{Black Beastie}
+{21300}{}{Black Onca Devil}
 {21301}{}{}
 {21400}{}{Lumenier}
 {21401}{}{}
@@ -514,7 +514,7 @@
 {25400}{}{Plasma Turret}
 {25401}{}{It's hard to imagine what this weapon can do to a living being.}
 {25500}{}{Phillip}
-{25501}{}{The caretaker of the lavash.}
+{25501}{}{The caretaker of the Lavash.}
 {25600}{}{Left Shield}
 {25601}{}{Anderson's left defensive shield.}
 {25700}{}{Central Shield}

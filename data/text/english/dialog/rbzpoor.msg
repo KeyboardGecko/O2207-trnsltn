@@ -83,7 +83,7 @@
 {1024}{}{Stop frightening me!}
 {1025}{}{You making me VERY NERVOUS!!}
 {1026}{}{Don't cut my escape route! I can leave, you know!}
-{1027}{}{That's good kick... Why are you lavash?}
+{1027}{}{That's good kick... Why are you Lavash?}
 {1028}{}{I... Ha... Hat... Hate... Te... What?}
 {1029}{}{A big bug... Where's my big shoe...}
 #Спящие сообщения

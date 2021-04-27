@@ -66,7 +66,7 @@
 {142}{998}{Come on, bitch! Come! Let's see the color of your liver!}
 
 
-{1501}{}{[He looks at you like if you are a squashed cockroach. Or the pile of lavash shit] What? I won't trust you even with wanking off! A mercenary, my ass... Get some experience first, then yap!}
+{1501}{}{[He looks at you like if you are a squashed cockroach. Or the pile of Lavash shit] What? I won't trust you even with wanking off! A mercenary, my ass... Get some experience first, then yap!}
 {151}{014}{Watch it, you son of a bitch. Or you're gonna be pissing with blood.}
 {152}{999}{Oh, okay. We'll talk later.}
 {1502}{}{[He glares at you, excruciatingly frowning his big furry brows. You can almost hear gears turning inside his head.] Well, uh... I might have something for a rando like you... That's it, listen closely: Loudmouth has this girl named Shiva. She is cool. Don't look at the fact that nearly every Jackal here made his way into her holes in the past. But then this motherfucker blasted off the heads of some our guys, so now everybody is afraid to even come near her. Greedy son of a bitch, it's widely known that his banana is non-functioning since ancient times, everyone's just scared shiteless to say it loud... Anyway, I've been thinking - why such a good girl should go to waste? So, I decided to pay her a visit. And I need you to keep an eye out for me. If all's good - I'm gonna give you a pretty neat gun. This is much better than batteries. You are nothing here without a good weapon. }
@@ -78,7 +78,7 @@
 {161}{999}{[follow him]}
 
 
-{170}{}{[He zips his pants with a smug look] This damn ass is the best you can find in the whole Radius... Don't you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he gives you a weapon pouch made of lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl made mag extension, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
+{170}{}{[He zips his pants with a smug look] This damn ass is the best you can find in the whole Radius... Don't you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he gives you a weapon pouch made of Lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl made mag extension, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
 {171}{999}{That's the deal! Thanks, Billy. I'm already itching to test it in action.}
 {172}{999}{Just as we agreed, yes. Good luck. And I've got to go.}
 
@@ -94,5 +94,5 @@
 
 
 {200}{}{[Fiendishly squints] That's because every piece of scum here, who was kissing Loudmouth's ass, began to twitch when he got wrecked. And they should - I'm gonna skin their asses alive if they flinch! It's time for Jackals to follow the real pack leader!!}
-{201}{014}{You mean YOU? Even lavash with a wounded head fits the leader's role better!}
+{201}{014}{You mean YOU? Even Lavash with a wounded head fits the leader's role better!}
 {202}{999}{Let's see how it turns out... See you around, Billy.}

@@ -54,7 +54,7 @@
 {104}{}{Yeah? Do you want to tell me something else?}
 {105}{}{Nothing. Talk later.}
 {110}{}{It... Can't be! Evil creatures have clouded your mind! What you saw is not true... It can't be... Just... IT JUST CAN'T BE!}
-{111}{}{Face it, you've been told lies. We all were - dad and mom too! They treated us like narrow-minded lavash, or even worse! Admit it, Kirk.}
+{111}{}{Face it, you've been told lies. We all were - dad and mom too! They treated us like narrow-minded Lavash, or even worse! Admit it, Kirk.}
 {112}{}{That's your business. You can believe, or not. How's dad?}
 {120}{}{Yeah?... It's... Oh, doesn't matter. Dad feels worse, every breath he takes gets him closer to death. I'm tired of thinking about it... You'd better talk to Pat.}
 {121}{}{At least he is still alive. Don't be sad, everything's gonna be alright.}

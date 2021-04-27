@@ -63,13 +63,13 @@
 {144}{010}{I want to ask something else.}
 {145}{999}{Let's talk later. I need to go.}
 
-{150}{}{There was some chick here, trying to get on Dan, saying that he knows nothing about politics. So, me and Arsene threw a rotten lavash head into her window! Can you imagine that?! Now she keeps her mouth shut! You could say it's plus additional vote for us!}
+{150}{}{There was some chick here, trying to get on Dan, saying that he knows nothing about politics. So, me and Arsene threw a rotten Lavash head into her window! Can you imagine that?! Now she keeps her mouth shut! You could say it's plus additional vote for us!}
 {151}{016}{Oh, I see. Tell me about production rate improvement.}
 {152}{018}{Okay. What about disaster prevention?}
 {153}{010}{I want to ask other questions.}
 
 {160}{}{A day before we secretly snuck into the canned meat factory. And Arsene poured a whole bucket of machine oil into the meat! Which lead to producing ten cans of meat more than usual! People didn't notice anything. The taste and smell got worse though, but they still eat it, no worries. }
-{161}{017}{You didn't happen to pour something like this into the lavash food, did you?}
+{161}{017}{You didn't happen to pour something like this into the Lavash food, did you?}
 {162}{015}{Right. Tell me about political stand-off resolvement.}
 {163}{018}{Tell me aboud disaster prevention.}
 {164}{035}{[As in all conversation, you are carefully observing the one you speak to. You notice the silouette of oil bottle in his inner pocked] You do smell some machine oil now, you know that? Here's the bottle sticking out. Do you want to pour it somewhere again? }
@@ -115,7 +115,7 @@
 {241}{025}{If he is a Mayor, you can learn many things from him.}
 {242}{010}{I'll ask something else.}
 
-{250}{}{[Daniel cringes] Meh, pops doesn't know what he is doing. He lost it for a long time already. Look what swamp NWO has become! As Arsene says, "Dying lavash won't give a good offsprings". And I am completely agree.}
+{250}{}{[Daniel cringes] Meh, pops doesn't know what he is doing. He lost it for a long time already. Look what swamp NWO has become! As Arsene says, "Dying Lavash won't give a good offsprings". And I am completely agree.}
 {251}{026}{What Arsene actually means by that?}
 {252}{027}{It's not so bad around here. You have food, water. Work.}
 {253}{010}{I want to ask something else.}
@@ -163,7 +163,7 @@
 {341}{010}{Deal then. Another question.}
 {342}{999}{Agreed. I'll go talk to your father.}
 
-{350}{}{[Daniel seems a little confused] Uh, I thought it's well-hidden in my pocket... Okay, here's a secret for you - me and Arsene decided to put some of machine oil into lavash food, to cut costs, so to say. They don't care, we have profit.}
+{350}{}{[Daniel seems a little confused] Uh, I thought it's well-hidden in my pocket... Okay, here's a secret for you - me and Arsene decided to put some of machine oil into Lavash food, to cut costs, so to say. They don't care, we have profit.}
 {351}{010}{I see. I want to ask something else.}
 {352}{999}{Understood. I need to go, see you later.}
 

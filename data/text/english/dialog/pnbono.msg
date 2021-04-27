@@ -50,7 +50,7 @@
 {62}{999}{Not now, I need some time to think everything over first.}
 
 
-{100}{}{Hmm?... Hmm-hmm? Oh, it's you, }
+{100}{}{Hmm... Hmm-hmm? Oh, it's you, }
 {101}{}{. What do you need?}
 {102}{}{Yeah? Something else?}
 {103}{011}{Tell me about Tartarus!}
@@ -70,7 +70,7 @@
 {111}{012}{Run away? This was an accident! I never even thought about running away from serving...}
 {112}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident.}
 {113}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident. Usually, the Sons of Gods don't make such fast accusations.}
-{114}{014}{Uh, yeah, sure I ran away! I always knew that life is not only abouut serving Gods, there must be something more to it, some... Higher purpose, I suppose.}
+{114}{014}{Uh, yeah, sure I ran away! I always knew that life is not only about serving Gods, there must be something more to it, some... Higher purpose, I suppose.}
 
 
 {120}{}{So that's how it is, huh? Interesting, yeah... So interesting... And very unusual... [his eyes are wide open, but you see that ghoul fell into the depths of his subconsciousness. Then he comes to senses] It's not like with others here. You definitely have some kind of a mission. Or maybe not.}
@@ -193,7 +193,7 @@
 {412}{044}{There MUST be entrance. If I could get out - I will get in.}
 
 
-{420}{}{We tried many things, actually - offered them hides of ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! - tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?..}
+{420}{}{We tried many things, actually - offered them hides of Ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! - tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?..}
 {421}{044}{I see. You don't know what the guards want. But I still need the way to get inside.}
 {422}{044}{There must be another way, without offerings or batteries...}
 
@@ -242,7 +242,7 @@
 {550}{}{[he glares at you] Helped, huh? You are fast... Anyway, the things they need are always trifle... Okay then, listen: you are, like, fugitive, right? So you can't show your face. But the guards in Tartarus have uniforms which makes their faces covered. So you just need to obtain such uniform, and you can freely walk into Tartarus, either through the station or through the Purgatory - assuming you are not afraid of Ferals...}
 {551}{056}{Obtain such uniform, you say? Okay, where do I get it?}
 
-{560}{}{I know for sure that the Sunset Jackals are in posession of many different uniform suits. Let me point it on your map [he takes your organizer and puts coordinates into it] Hah, I remember some of our seekers had a couple of such things with them... So, the Jackals. They are scary people. Murderers, rapists - practically animals, not everyone handles talking to them. But if you have a spine, you'll be fine. Look for Carl, the mechanic. He is alright. Should help you with the suit.}
+{560}{}{I know for sure that the Sunset Jackals are in posession of many different uniform suits. Let me point it on your map [he takes your organizer and puts coordinates into it] Hah, I remember some of our seekers had a couple of such things with them... So, the Jackals. They are scary people. Murderers, rapists - practically animals, not everyone can handle talking to them. But if you have a spine, you'll be fine. Look for Carl, the mechanic. He is alright. Should help you with the suit.}
 {561}{999}{Sunset Jackals then... Frankly, I thought of more... Useful help. But thanks anyway.}
 {562}{999}{Oh, so I need to visit some bandits and steal away a suit of armor? Thanks a lot, old man, for your "help"... I'll manage somehow.}
 
@@ -287,10 +287,10 @@
 {700}{}{[looks at you in anticipation]}
 {701}{}{Yes? Something else?}
 {702}{}{Did you want to say something?}
-{703}{}{What else do you need?}
+{703}{}{What do you need?}
 {704}{}{Bono is going to give some speech. Something important.}
-{705}{}{You should come to listen to Bono speaking.}
-{706}{}{Bono is going to give speech soon, he asked to come by and listen.}
+{705}{}{You should come listen to Bono speaking.}
+{706}{}{Bono is going to give speech soon, he asks to come by and listen.}
 {707}{}{Go to Bono's place, he wants to share a couple of words.}
 {708}{}{Okay, I'll come around.}
 {709}{}{I don't know, so many things to do... But I'll tell my friends.}

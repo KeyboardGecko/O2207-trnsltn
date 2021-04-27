@@ -78,20 +78,20 @@
 
 
 {400}{}{Oh, THAT... Yes, I'm trying to grow some corn, but it's not working out. There was a girl from Tartarus with full pockets of seeds. She told me you could grow your food right beneath your feet.}
-{401}{041}{So? What could be wrong?}
+{401}{041}{So? What could go wrong?}
 {402}{999}{Oh, I know, what it is. No, I'm not interested.}
 
 
-{410}{}{I don't even know... I wasted a lot of time - disassembling the floor tiles, preparing soil, making patches... I even watered the crops! But I could grew only stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that lavash manure only makes it worse!}
+{410}{}{I don't even know... I wasted a lot of time disassembling the floor tiles, preparing soil, making patches... I even watered the crops! But I only grew stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that Lavash manure only makes it worse!}
 {411}{042}{Maybe you need something else then? Man, I could really use Catty's advice on that.}
 
 
-{420}{}{Yeah, there is even a recipe for creating a real fertilizer. I just can't make it - have no components. And, uh, no skill... Maybe if you could bring me a little bag of it? I don't have much, but I would find what to pay you with.}
+{420}{}{Yeah, there is even a recipe for creating a real fertilizer, I know it... I just can't make it - have no components. And, uh, no skill... Maybe if you could bring me a little bag of it? I don't have much, but I would find what to repay you with.}
 {421}{QA}{Sure, why not? Tell me details, what should I do?}
-{422}{999}{Uh, no, sorry. The fertilizer is not my speciality. I need to go.}
+{422}{999}{Uh, no, sorry. The fertilizers are not my speciality. I need to go.}
 
 
-{430}{}{Great! I'm counting on you so much! Listen carefully: you need to take a full bag of leaves, around two stacks. Add mashed apple and sprinkle with some ash. After that, you should pour a bottle of whiskey into the mixture, lock the bag tight and shake it, to start fermentation process. And that's it. Not very hard, right? Except I have no time to deal with the matter. And the whiskey is not cheap, you know. There was a rumor that dwellers of some elite vault in the Radius has so much of it it pours out, but is it true? I don't know, sadly...}
+{430}{}{Great! I'm counting on you! Listen carefully: you need to take a bag of leaves, around two stacks will do. Throw in mashed apple and sprinkle it with some ash. After that, you should pour a bottle of whiskey into the mixture, lock the bag tight and shake it to start the fermentation process. And that's it. Not very hard, right? Except I have no time to deal with the matter. And the whiskey is not cheap, you know. There was a rumor that dwellers of some elite vault in the Radius has so much of it it pours out, but is it true? I don't know, sadly...}
 {431}{999}{Understood. Well, I think I can easily handle it, don't worry.}
 {432}{999}{Hah. Well, I can find some apples. If i can find some apples, I can find other stuff too. Wait for your fertilizer, I'll be right back.}
 

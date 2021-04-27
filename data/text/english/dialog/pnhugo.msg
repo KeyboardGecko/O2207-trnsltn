@@ -23,7 +23,7 @@
 #Node001
 {10}{}{A newbie! Another runaway from Tartarus, am I right? Hey, newbie, how do you like it outside?}
 {11}{999}{Me here bad. Go there.}
-{12}{002}{I think it's more dangerous here. The food is more scarce. Cold at nights.}
+{12}{002}{I think it's more dangerous. The food is more scarce. Cold at nights.}
 {13}{999}{I, uh- wrong door. See you.}
 
 #Node002
@@ -31,7 +31,7 @@
 {21}{003}{Uh, I guess. But how?}
 
 #Node003
-{30}{}{That's where the interesting part starts [he scoffs with a smile full of rotten teeth]. I'm Hugo and I represent the side of power around here. What's your name, young man?}
+{30}{}{That's where the interesting part starts. [he scoffs with a smile full of rotten teeth] I'm Hugo and I represent the side of power around here. What's your name, young man?}
 {31}{004}{. Are there any other sides?}
 {32}{005}{ is my name, and I'm really into the side of power.}
 
@@ -53,7 +53,7 @@
 {103}{020}{How can I help you?}
 {104}{030}{You asked to help you...}
 {105}{040}{Who can I trust around here?}
-{106}{999}{It's nothing, I'll better go.}
+{106}{999}{You know, I'll better go.}
 
 #Node011
 {110}{}{I'm talking about better life, son. Life in warmth and safety, where you won't have to eat dead rats to survive and grind you teeth from cold at night. I'm talking about the life in Tartarus, not as slaves, but as free people!}
@@ -98,7 +98,7 @@
 #Node040
 {400}{}{Trust? I don't even know. A piece of advice, kid - trust no one. If you learn a secret - keep it to yourself, be healthy. Radius doesn't like blabbers, it chews them down and spits them out, because when you gave out the information, it has no need for you anymore. Listen and keep silence. You'll live long enough.}
 {401}{}{Trust? You can trust me. I won't answer for the others. Everyone here is so... Smart-ass.}
-{402}{041}{I see. Even the kids?}
+{402}{041}{Even the kids?}
 {403}{010}{I see. Another question.}
 
 #Node041

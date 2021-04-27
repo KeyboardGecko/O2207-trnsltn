@@ -96,7 +96,7 @@
 {1043}{}{We need to elect a new Leader! I suggest... Myself! Who's in? I'M IN!}
 {1044}{}{I've been hanging around here for a few days already. Why I haven't been given a place to live yet?}
 {1045}{}{The guards are giving sassy looks to everybody! We should forbid them to do it!}
-{1046}{}{Every refugee should be given a tent, food and water! And wine! And a woman too. Or lavash, at least...}
+{1046}{}{Every refugee should be given a tent, food and water! And wine! And a woman too. Or Lavash, at least...}
 {1047}{}{They are hiding the truth! Earth is not round! The turtle is moving! AAAAAAAAAAAAH!!!}
 {1048}{}{This Podium is not equipped with all needed conveniences. Where, may I ask, is the one responsible for equipment of the Podium?}
 {1049}{}{I am convinced that we should change the politics regarding me- I mean, us, your guests from Radius, your future!}

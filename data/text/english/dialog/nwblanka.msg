@@ -64,7 +64,7 @@
 {64}{010}{I'd like to know more about some things.}
 {65}{999}{I'll go look for this local celebrity then.}
 
-{70}{}{All this place has to offer is lavash, canning factory and piles of shit. And the crowd of morons. They spend all day working on a factory, like a bunch of slaves. Live only with their job. They disgust me, all of them... except Cyren.}
+{70}{}{All this place has to offer is Lavash, canning factory and piles of shit. And the crowd of morons. They spend all day working on a factory, like a bunch of slaves. Live only with their job. They disgust me, all of them... except Cyren.}
 {71}{013}{So, what are you doing in this dump?}
 {72}{005}{Who is in charge of all this?}
 {73}{008}{Who is that Cyren?}
@@ -200,7 +200,7 @@
 {256}{010}{Very interesting. But let's talk about something else.}
 {257}{999}{I'd like to go look at his wound. I'm very interested.}
 
-{260}{}{This one is my favourite! That's when I met Cyren and fell in love with him. It all started on a Rainbow, where I lived and worked. Women there have only one work, you know. I didn't mind it - no need to think much, and I became pretty good at my duties. But one time, some client started chasing me to beat me up, so I ran away. I wandered around the desert for some time, before I fell exhausted near some stone. That's where Cyren found me. He was incredible! He woke me up, shared his food and offered help. Then he pulled me aside and showed me a Chimera's corpse - he killed her while I was unconscious. She could eat me in my sleep! This Chimera smelled like a lavash who has been dead for a week... I get goosebumps even thinking about it. So, I thanked Cyren in the way they taught me in Rainbow. We've been together since. }
+{260}{}{This one is my favourite! That's when I met Cyren and fell in love with him. It all started on a Rainbow, where I lived and worked. Women there have only one work, you know. I didn't mind it - no need to think much, and I became pretty good at my duties. But one time, some client started chasing me to beat me up, so I ran away. I wandered around the desert for some time, before I fell exhausted near some stone. That's where Cyren found me. He was incredible! He woke me up, shared his food and offered help. Then he pulled me aside and showed me a Chimera's corpse - he killed her while I was unconscious. She could eat me in my sleep! This Chimera smelled like a Lavash who has been dead for a week... I get goosebumps even thinking about it. So, I thanked Cyren in the way they taught me in Rainbow. We've been together since. }
 {261}{024}{What's the story about settlement and Jackals?}
 {262}{025}{Tell me about scorpions and ambush.}
 {263}{027}{You were saying that he stopped an assault on NWO. Tell me about it.}
@@ -527,10 +527,10 @@
 {704}{999}{[push her away, down to the floor]}
 
 {710}{}{[Blanca tries to resist, but you easily twist her arms, forcefully guiding the movements of her head. In the end, she gives up, rhytmically rocking back and forth, whining. When her cries become louder, you speed up her tempo, holding her head tighter to you. It makes her to start suffocating from the lack of air. You get the thing done and push her away. She drops down on the floor and quietly cries.]}
-{711}{999}{Shut up and get yourself cleaned up. Next time I'll feed you and your lovely Cyren to lavash. So, walk around on your toes now. }
+{711}{999}{Shut up and get yourself cleaned up. Next time I'll feed you and your lovely Cyren to Lavash. So, walk around on your toes now. }
 
 {720}{}{[You start slapping her face and punching her ribs, don't holding back. When she gives up resisting, laying on the floor barely alive, you stop your assault.]}
-{721}{999}{Shut your hole. Make one little sound again, and I'll feed you and your lovely friend to lavash. So, be a good girl and walk around on your toes, bitch.}
+{721}{999}{Shut your hole. Make one little sound again, and I'll feed you and your lovely friend to Lavash. So, be a good girl and walk around on your toes, bitch.}
 
 {730}{}{[Blanca is crying, tears are flowing down her cheeks, red from constant slapping. She looks helpless before you.]}
 {731}{071}{[Her lips are so damn attractive. Unzip your pants and force her to "service" you, using blows and threats]}

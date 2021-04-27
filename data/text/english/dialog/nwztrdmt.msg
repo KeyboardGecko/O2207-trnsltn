@@ -23,19 +23,19 @@
 #
 {1}{}{You see a trader.}
 {2}{}{You see a meat dealer.}
-{3}{}{You see a lavash meat merchant.}
+{3}{}{You see a Lavash meat merchant.}
 {4}{}{You see a merchant.}
 {5}{}{You see a trader.}
-{6}{}{You can feel the smell of lavash meat from a mile away.}
-{7}{}{He oozes with distinctive, with delicate hints of rot, scent of lavash meat.}
-{8}{}{All his look demonstrates that he knows his stuff about lavash meat.}
+{6}{}{You can feel the smell of Lavash meat from a mile away.}
+{7}{}{He oozes with distinctive, with delicate hints of rot, scent of Lavash meat.}
+{8}{}{All his look demonstrates that he knows his stuff about Lavash meat.}
 {9}{}{Merchant's clothes has some blood stains, but you are sure that they are not human.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{Looking for some of meat for you and your friends? I have the best one in the whole Radius! Most fresh and fragrant!}
 {11}{}{Stew? Jerky? Canned? Hell, even with blood, still warm - any kind of meat for your batteries! }
-{12}{}{Just look at yourself - all skin and bone! You need a nice big chunk of the tenderest lavash meat! Don't be shy, check out my product!}
+{12}{}{Just look at yourself - all skin and bone! You need a nice big chunk of the tenderest Lavash meat! Don't be shy, check out my product!}
 {13}{}{Okay, show me what you have.}
 {14}{}{No thanks, I'm not hungry.}
 {15}{}{Why the hell are your ammo so expensive?}
@@ -59,7 +59,7 @@
 {1003}{}{Huh?}
 {1004}{}{Just go away.}
 {1005}{}{Don't bother me, I need to rest...}
-{1006}{}{What else do you need?}
+{1006}{}{What do you need?}
 {1007}{}{[grins]}
 {1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
@@ -70,7 +70,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Just turn around and walk away!}
 {1015}{}{Don't bother me, I need to rest...}
-{1016}{}{What else do you need?}
+{1016}{}{What do you need?}
 {1017}{}{...All sorts of scum walking around...}
 {1018}{}{Leave me be, I have a work to do!}
 {1019}{}{Get lost!}

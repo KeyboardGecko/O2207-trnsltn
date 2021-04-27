@@ -12,7 +12,7 @@
 {2}{}{}
 
 # Описание 2
-{3}{}{Looks like food for lavash.}
+{3}{}{Looks like food for Lavash.}
 {4}{}{}
 
 # Действия

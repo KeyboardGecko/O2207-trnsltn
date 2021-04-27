@@ -111,7 +111,7 @@
 {203}{022}{I, uh... I've, erm... Poked around the machine, you know... And it suddenly CLANKED, and then went BRRRRRRR! And I suppose it's fixed now...}
 
 
-{210}{}{Of course it wasn't! I would get them myself otherwise! You still have a lot to learn, young lad [he gives you a judging look] So, what are you waiting for? Yeah, like that, give them to me - and now we put this thingie into that thingie with this thingie out... Wait wor it... And now it works!}
+{210}{}{Of course it wasn't! I would get them myself otherwise! You still have a lot to learn, young lad [he gives you a judging look] So, what are you waiting for? Yeah, like that, give them to me - and now we put this thingie into that thingie with this thingie out... Wait for it... And now it works!}
 {211}{023}{Yeah, great. So - what about the armor for me?}
 
 

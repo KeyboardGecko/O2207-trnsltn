@@ -114,10 +114,10 @@
 {612}{}{Of course! Do you think I would lie to you? Just search a little more.}	
 {613}{999}{Alright.}	
 {614}{999}{Damn, you could search a little more yourself. Fine, I'll be back soon.}	
-{620}{}{So helpful! Thanks! Now my boys can have a bite and a little warmth before we hit the road again. [Turns around] Get here, you vultures!.. I see that I can count on you. You probably deserved something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
+{620}{}{So helpful! Thanks! Now my boys can have a bite and a little warmth before we hit the road again... I see that I can count on you. And you probably deserve something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
 {621}{063}{[take the reward] Uh, thanks. Seriously, thanks.}	
 {622}{064}{[give the reward back] No, I don't need that. I'm not good at throwing things anyway.}	
-{630}{}{"Thanks" will not save your life, unlike of a sharp piece of metal. A word of advice - learn to handle something that kills your enemies. After that you'll see your full potential!}	
+{630}{}{"Thanks" will not save your life, unlike of a sharp piece of metal. A word of advice - learn to handle something that kills your enemies. After that you'll see your full potential!}
 {631}{999}{Uh. Yeah, okay, sure. Well, I'll go now.}	
 {632}{999}{I know. See you around.}	
 {640}{}{[He chuckles] Suit yourself, }	

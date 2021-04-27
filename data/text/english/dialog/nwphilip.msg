@@ -11,7 +11,7 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see the lavash herder.}
+{1}{}{You see the Lavash herder.}
 {2}{}{He has a thoughtful look.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
@@ -30,8 +30,8 @@
 {22}{03}{. And you are right, I'm here recently.}
 
 #Node003
-{30}{}{I see. You have to excuse me, but I need to tend lavash. No time to talk...}
-{31}{004}{So, you have a problem with lavash?}
+{30}{}{I see. You have to excuse me, but I need to tend Lavash. No time to talk...}
+{31}{004}{So, you have a problem with Lavash?}
 {32}{006}{Maybe I can help.}
 {33}{999}{Okay then. Good luck to you with your problem.}
 
@@ -57,7 +57,7 @@
 {71}{008}{Let's get to business then!}
 
 #Node008
-{80}{}{So, the thing is this - my lavash are no longer eating the food mix I make for them. They used to munch it with such an appetite, but now they have completely stopped. They keep getting thinner, but still won't eat. And they don't look sick... Some of them even produced offsprings. They just walk around like nothing happens. }
+{80}{}{So, the thing is this - my Lavash are no longer eating the food mix I make for them. They used to munch it with such an appetite, but now they have completely stopped. They keep getting thinner, but still won't eat. And they don't look sick... Some of them even produced offsprings. They just walk around like nothing happens. }
 {81}{013}{Have you tried to feed them with something else, after they "went on a hunger strike"?}
 {82}{011}{Did you change the composition of your food mix recently?}
 {83}{012}{What's that mix?}
@@ -65,16 +65,16 @@
 
 #Node010
 {100}{}{Yes?}
-{101}{016}{About your lavash problem...}
+{101}{016}{About your Lavash problem...}
 {102}{004}{Listen, I remember you had a problem with animals...}
 {103}{030}{I see you are fond of pets. What's the deal with that wolf over there?}
-{104}{031}{What about that pests that were spoiling lavash food mix? Have you dealt with them?}
-{105}{032}{So, did you find out who was spoiling lavash food mix?}
-{106}{033}{How's your lavash? Do they eat?}
+{104}{031}{What about that pests that were spoiling Lavash food mix? Have you dealt with them?}
+{105}{032}{So, did you find out who was spoiling Lavash food mix?}
+{106}{033}{How's your Lavash? Do they eat?}
 {107}{034}{Can you tell me about the town? Or about the locals?}
 {108}{999}{It's all good, Philip, but I need to go. Good luck.}
 {109}{043}{So, did you catch someone?}
-{119}{039}{You have been mentioning sugarcoated lavash steak. Can you spare me one?}
+{119}{039}{You have been mentioning sugarcoated Lavash steak. Can you spare me one?}
 
 #Node011
 {110}{}{No, I did not. I tend the cattle for many years, and I always feed them the same. I make mix myself, so I can guarantee that its composition is unchanged. Besides, it's as simple as a stick.}
@@ -105,7 +105,7 @@
 {164}{999}{I need to look around and think.}
 
 #Node017
-{170}{}{Okay, I'll describe it in two sentences. [Philip clears throat and starts telling you about the process, thoroughly describing every detail and nuance. You are suspecting that lavash feeding is the true purpose of his life. He explains it slowly, thoroughly and extensively (and boring), touching on every matter there is on the topic. Strangely, even if it was quite dull, you understood everything. Suddenly, you have an idea.]}
+{170}{}{Okay, I'll describe it in two sentences. [Philip clears throat and starts telling you about the process, thoroughly describing every detail and nuance. You are suspecting that Lavash feeding is the true purpose of his life. He explains it slowly, thoroughly and extensively (and boring), touching on every matter there is on the topic. Strangely, even if it was quite dull, you understood everything. Suddenly, you have an idea.]}
 {171}{020}{As I see, you take your job quite seriously. So, excluding yourself, sickness and accidents, we are left with the only option - it's someone's malicious intent. What do you think about setting a little trap to check out my theory?}
 
 #Node018
@@ -173,7 +173,7 @@
 {302}{999}{Oh. I see. I need to go, see you.}
 
 #Node031
-{310}{}{Uh... I was going to take a leak, so I went away... and when I returned, I saw someone pouring something into the mix, can you imagine? So I shouted at him to stop, that my animals are suffering, but he become scared, dropped the bucked and ran off. Around an hour ago I did usual feeding procedures - and lavash ate the food I gave them, so I guess this prick didn't come back, and that is good. I still don't know who he is though... Anyway, I'm grateful to you. Here. [he hands you a gun]}
+{310}{}{Uh... I was going to take a leak, so I went away... and when I returned, I saw someone pouring something into the mix, can you imagine? So I shouted at him to stop, that my animals are suffering, but he become scared, dropped the bucked and ran off. Around an hour ago I did usual feeding procedures - and Lavash ate the food I gave them, so I guess this prick didn't come back, and that is good. I still don't know who he is though... Anyway, I'm grateful to you. Here. [he hands you a gun]}
 {311}{999}{Thanks. I'll go try it in action.}
 {312}{999}{That's it? Man.... Okay, I can still sell it, right? I'll go look for traders.}
 {313}{027}{No, Philip, I won't take it.}
@@ -202,8 +202,8 @@
 {362}{038}{Still, I'll ask. Why?}
 
 #Node037
-{370}{}{Many things. He usually eats slowly, but with sugarcoated lavash steaks he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave at me surprised look, smelled the meat and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
-{371}{039}{Curious. Maybe you can give me some of this sugarcoated lavash meat?}
+{370}{}{Many things. He usually eats slowly, but with sugarcoated Lavash steaks he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave at me surprised look, smelled the meat and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
+{371}{039}{Curious. Maybe you can give me some of this sugarcoated Lavash meat?}
 
 #Node038
 {380}{}{Damn it, I just don't trust the dogs! I don't understand them. The man is afraid of what he doesn't understand. }
@@ -211,7 +211,7 @@
 {382}{037}{Makes sense. So, what do you feed him?}
 
 #Node039
-{390}{}{Why not? You helped me, it is definitely worth a little piece. [Philip gives you a steak of sugarcoated lavash meat, explaining how to cook it]}
+{390}{}{Why not? You helped me, it is definitely worth a little piece. [Philip gives you a steak of sugarcoated Lavash meat, explaining how to cook it]}
 {391}{}{Just like that? Sorry, I can't. Let's put it this way - for five batteries I'll give you a steak and explain to you how to sugarcoat it, and the rest you do yourself. The sugar, the cooking - your problem.}
 {392}{041}{Thanks, Philip. Can you tell me something else about the wolf?}
 {393}{041}{Okay, here. Can you tell me something else about the wolf?}

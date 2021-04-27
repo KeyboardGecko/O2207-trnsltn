@@ -57,7 +57,7 @@
 {64}{009}{I can assemble and disassemble almost any device with my eyes closed.}
 
 
-{72}{}{So what? Ursul can skin ursa before he gets eaten by one.}
+{72}{}{So what? Ursul can skin Ursa before he gets eaten by one.}
 {70}{005}{Oh my, you are such a bore.}
 {71}{997}{Don't care. I'll go find a more talkative companion.}
 

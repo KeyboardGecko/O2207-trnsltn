@@ -22,15 +22,15 @@
 #
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
-{1}{}{You see Defender.}
-{2}{}{You see Defender.}
-{3}{}{You see Defender.}
-{4}{}{You see Defender.}
-{5}{}{You see Defender.}
+{1}{}{You see a Defender.}
+{2}{}{You see a Defender.}
+{3}{}{You see a Defender.}
+{4}{}{You see a Defender.}
+{5}{}{You see a Defender.}
 {6}{}{A sight of his armor makes you stare in awe.}
-{7}{}{Black smoke is coming from the tail pipes on his back.}
+{7}{}{Black smoke billows from the exhaust pipes behind him.}
 {8}{}{Every move of this warrior shows his impenetrability and power.}
-{9}{}{...Although, in the end, there's probably just a human meat under all this metal...}
+{9}{}{...Although, there's probably just a normal human body under all this metal...}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
@@ -107,7 +107,7 @@
 {81}{}{Yes, the rest will scatter anyway. It's time to get back.}
 {82}{}{No one should be left alive! Each of these scums must be murdered! Every last one of them!}
 {83}{}{Yes, maybe you're right.}
-{84}{}{Hah, that's the spirit! Let's look for survivors and tear them apart like herd of fucking lavash!}
+{84}{}{Hah, that's the spirit! Let's look for survivors and tear them apart like herd of fucking Lavash!}
 {85}{}{[more]}
 {86}{}{You see Defender from Punishers.}
 {87}{}{His armored suit, covered in blood, speaks for itself.}

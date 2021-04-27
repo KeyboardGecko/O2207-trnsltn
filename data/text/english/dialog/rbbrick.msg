@@ -16,7 +16,7 @@
 #
 # ïîñëå çíàêîìñòâà
 {3}{}{You see Brick.}
-{4}{}{As big as lavash. Smart as much.}
+{4}{}{As big as Lavash. Smart as much.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
@@ -91,7 +91,7 @@
 {146}{999}{You'll learn soon. I'll be back}
 
 
-{150}{}{Who can you offer me? A lavash? Every girl around here ended up it a brothel...}
+{150}{}{Who can you offer me? A Lavash? Every girl around here ended up it a brothel...}
 {151}{018}{What about Snowflake and Squirrel?}
 {152}{999}{I don't know yet. But I'll tell you when find someone.}
 

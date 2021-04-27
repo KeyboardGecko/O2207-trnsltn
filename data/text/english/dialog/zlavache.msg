@@ -22,10 +22,10 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see lavash.}
+{1}{}{You see Lavash.}
 {2}{}{You see a mutated cow.}
 {3}{}{You see a disgusting grunting creature.}
-{4}{}{You see lavash.}
+{4}{}{You see Lavash.}
 {5}{}{You see an animal without horns.}
 {6}{}{Lavash looks pretty calm.}
 {7}{}{His udder constatly leaks some kind of muck.}
@@ -43,7 +43,7 @@
 {16}{}{Mooo-oohm moo!}
 {17}{}{Uhmmm... Mm...}
 {18}{}{[end]}
-{19}{}{[punch lavash in the snout, feeling insulted]}
+{19}{}{[punch Lavash in the snout, feeling insulted]}
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (®«®¦¨â¥«ì­ ï à¥ ªæ¨ï)
 #

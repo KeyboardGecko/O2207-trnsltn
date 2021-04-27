@@ -42,7 +42,7 @@
 {404}{}{You can guard Flint's caravans for a good payoff.}
 {405}{}{Clumsy Owen dislocated his arm, you need to help him.}
 {406}{}{Someone steals canned meat from the warehouse in yard and the innocently accused Skeet is sitting behind bars.}
-{407}{}{Philip's lavash refuse to eat food. Find out the reason behind it.}
+{407}{}{Philip's Lavash refuse to eat food. Find out the reason behind it.}
 {408}{}{The last time water came from Livos, it tasted strange. Sam asks you to look into what's going on.}
 {409}{}{Brothers Seth and Matt can not get along with each other, you need to reconcile them.}
 {410}{}{Blanca is passionately hungry for love. Find the "special device" and do not disappoint her!}

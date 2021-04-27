@@ -53,7 +53,7 @@
 {103}{}{Why aren't YOU doing the labor? You hang around here all the time!}
 {104}{}{No, nothing to ask about.}
 {105}{}{Uhh... Nothing.}
-{106}{}{I'm on a daily duty already. Herald tasked me with finding out why lavash are getting sick... I don't even know where to start.}
+{106}{}{I'm on a daily duty already. Herald tasked me with finding out why Lavash are getting sick... I don't even know where to start.}
 {110}{}{You know how it is - the head of each family looks after his corner. And our sink is leaking again. That damn sink!}
 {111}{}{Yes, I know this, but shouldn't you be on the Farm, working for mom?}
 {112}{}{What would Herald say about it? He always complains about lack of people on the Farms.}
@@ -76,7 +76,7 @@
 {131}{}{Uhh... You know, I'd better go do my work then.}
 {132}{}{Considering your condition, you are more likely to hurt yourself. Okay, I'll go do my labor. See you around.}
 {1401}{}{Son, uh, just look around. I don't know, I need to work.}
-{1402}{}{Oh... Well, I would start from examining the lavash, just to try to understand what's wrong with them. Then I'd talk about what they eat and drink, with the those who oversees them. And then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
+{1402}{}{Oh... Well, I would start from examining the Lavash, just to try to understand what's wrong with them. Then I'd talk about what they eat and drink, with the those who oversees them. And then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
 {141}{}{Well, thanks for nothing...}
 {142}{}{You know what, that's a great plan! Thanks!}
 {149}{}{Dad, do you know who is that big gloomy black man on the parking lot?}

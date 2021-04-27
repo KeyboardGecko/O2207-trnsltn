@@ -63,5 +63,5 @@
 {212}{}{The rough hides of Ursa are not susceptible to fire, but are easily penetrated with bullets!}
 {213}{}{Ants and Scorpions easily shrug off flames and bullets, but they have clearly not adapted against explosives.}
 {214}{}{Jackals can be killed with an explosion or bullets, but fire is useless against them.}
-{215}{}{Bullets just bounce off the skins of Beasties! Your best chance against them is explosives or energy weapons!}
+{215}{}{Bullets just bounce off the skins of Onca Devils! Your best chance against them is explosives or energy weapons!}
 {216}{}{}

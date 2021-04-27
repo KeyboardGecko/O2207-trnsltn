@@ -541,7 +541,7 @@
 {27100}{}{Firehose Box}
 {27101}{}{You have always liked to set things on fire rather than putting it out.}
 {27200}{}{Vending Machine}
-{27201}{}{Be careful with them, it seems this containers are very deranged.}
+{27201}{}{Be careful with them, it seems like this containers are very dilapidated.}
 {27300}{}{Hood}
 {27301}{}{A hood of a car with obvious traces of corrosion.}
 {27400}{}{Trunk}
@@ -869,7 +869,7 @@
 {43500}{}{Paint}
 {43501}{}{An old can of oil paint. You could paint a wall.}
 {43600}{}{Lavash Skin}
-{43601}{}{The tanned skin of lavash can be used to make leather items.}
+{43601}{}{The tanned skin of Lavash can be used to make leather items.}
 {43700}{}{*Metal Reel*}
 {43701}{}{A reel of rolled up five millimeters thick metal sheets.}
 {43800}{}{Tin can}
@@ -881,7 +881,7 @@
 {44100}{}{*Dried Cheese*}
 {44101}{}{A piece of very old parmesan cheese, however it has already dried to the state of wood.}
 {44200}{}{Lavash Meat}
-{44201}{}{A piece of raw and fresh lavash meat, rich in protein and juicy.}
+{44201}{}{A piece of raw and fresh Lavash meat, rich in protein and juicy.}
 {44300}{}{Sugar}
 {44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}

@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see a man dressed like butcher.}
-{2}{}{Despite trying to look like local cook, he is more resembling of a pirate from children's books.}
+{2}{}{Despite trying to look like local cook, he is more resembling a pirate from children's books.}
 #
 # после знакомства
 {3}{}{You see Harry.}
@@ -49,7 +49,7 @@
 
 {100}{}{Howdy. What do you want?}
 {101}{}{Ask away.}
-{102}{011}{Listen, do you have some work for me? Must clarify - I'm not good at cooking.}
+{102}{011}{Do you have some work for me? Must clarify - I'm not good at cooking.}
 {103}{015}{About the whetstone...}
 {104}{019}{What's the deal with the hook?}
 {106}{Barter}{I wouldn't mind buying some food from you... [barter]}

@@ -113,7 +113,7 @@
 {222}{027}{Do you mean you are ready to kill Daniel?}
 {223}{010}{I see. Another question then.}
 
-{2301}{}{[Sam becomes moody] Lucy... Mark's wife. The problem is that she is a brainless stupid chick. I was actually against Mark marrying her... She didn't let him to raise his son in a ways that Mark himself was raised. So, Daniel grew up not capable of being a Mayor at all. I wouldn't allow Lucy to tend the lavash, let alone raising a son! She treats Danial as a little child, not letting him make the desicions by himself.}
+{2301}{}{[Sam becomes moody] Lucy... Mark's wife. The problem is that she is a brainless stupid chick. I was actually against Mark marrying her... She didn't let him to raise his son in a ways that Mark himself was raised. So, Daniel grew up not capable of being a Mayor at all. I wouldn't allow Lucy to tend the Lavash, let alone raising a son! She treats Danial as a little child, not letting him make the desicions by himself.}
 {2302}{}{We have our problems, but the situation with Lucy gets better with every day. I think soon we'll forget we were quarreling. For that, I thank you.}
 {2303}{}{We have our problems, but the situation with Lucy gets better with every day. No open conflicts anymore. Although, Lucy tries to sit on my head, making me help her to do dirty little jobs...}
 {231}{024}{It seems like you hate her.}

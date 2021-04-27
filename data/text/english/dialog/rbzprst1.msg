@@ -37,7 +37,7 @@
 {6}{}{Looks like her ass in set on a vibration mode.}
 {7}{}{When she smiles, her checkered teeth are shown.}
 {8}{}{She smells sweat, bad tobacco, cheap booze and... something else.}
-{9}{}{Looks like her dancing teacher was some lavash in mating period.}
+{9}{}{Looks like her dancing teacher was some Lavash in mating period.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #

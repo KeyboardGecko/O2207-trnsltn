@@ -22,10 +22,10 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His bloodshot yellowed eyes immediately capture you whole like a carcass of lavash on a butcher table] Who is this miscarriage of a ghoul on drugs, wandering in here? What the FUCK do you want?!}
+{10}{}{[His bloodshot yellowed eyes immediately capture you whole like a carcass of Lavash on a butcher table] Who is this miscarriage of a ghoul on drugs, wandering in here? What the FUCK do you want?!}
 {11}{011}{Hey, lower your voice. I'm here for a business.}
 {12}{012}{I'm just looking around. Care to explain me something?}
-{13}{035}{Are you the Loudmouth? The Hog has something to say to you...}
+{13}{035}{Are you the Loudmouth? Hog has something to say to you...}
 {14}{035}{Do you even know who you are talking to? I'm an official ambassador of Rainbow, not a low-life molerat! The Hog personally...}
 {15}{040}{Did you hear the latest news from Rainbow?}
 {16}{999}{I was just leaving.}

@@ -58,7 +58,7 @@
 {111}{}{I wanted to ask... Did you grow yourself a moustache yet?}
 {112}{}{No, nothing. I'll come by later.}
 {113}{}{I need to repair a fuse box on level 2 - and I don't know how.}
-{120}{}{I'll get you!.. Get out of here, you joker!}
+{120}{}{I'll get you... Get out of here, you joker!}
 {121}{}{Okay-okay, I'm going.}
 {122}{}{Hey, don't touch it! I'm already leaving.}
 {1301}{}{What? Just do it! Look at wires, connect one to other - and that's it! You men are so useless.}

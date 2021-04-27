@@ -62,7 +62,7 @@
 {1012}{}{Better fetch me that roll of tin.}
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{Oh. You know, these cans won't roll themselves!}
-{1015}{}{No, it's lavash blood. Yes, I'm sure.}
+{1015}{}{No, it's Lavash blood. Yes, I'm sure.}
 {1016}{}{Maybe you'd better stand by the conveyor instead of me?}
 {1017}{}{...This work never ends...}
 {1018}{}{You'd better helped, instead of bothering me.}

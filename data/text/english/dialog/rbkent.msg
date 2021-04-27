@@ -105,7 +105,7 @@
 {203}{999}{Uh-huh. Nah, do it yourself. And I'm going.}
 
 
-{210}{}{[he snaps a beautiful silver lighter and lights up a cigarette] You think? Everyone who has a brain knows about the farm, and what we need it for. So? What are you going to do with this "secret information"? To synthesize the Drop is not like shooting bottles, smart-ass. Also, do you see any competitors? Take a guess, where they are.}
+{210}{}{[he snaps a beautiful silver lighter and lights up a cigarette] You think? Everyone who has a brain knows about the farm, and what we need it for. So? What are you going to do with this "secret information"? To synthesize the Drop is not like shooting bottles, smart-ass. Also, do you see any competitors? Take a guess where they are.}
 {211}{999}{Uh... Okay, I'll take the job. See you later.}
 {212}{999}{I was just asking. Nah, I'll pass. Will try to find another job.}
 

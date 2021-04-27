@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[The ghoul walks circles around the man's bloodied corpse, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait for you so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
+{10}{}{[The ghoul walks circles around the man's bloodied corpse, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait you for so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
 {11}{011}{What the... What is happening here?}
 {12}{011}{Calm down, I'm just trying to understand what I'm looking at here.}
 {13}{999}{I think it would be better for me to leave.}
@@ -29,7 +29,7 @@
 {1001}{}{[seeing you, he friendly nods with his wrinkled, skinny skull, covered with sticking remains of hair. His eyes are feverishly bulging out, arms clinging belt of a shotgun, hanging on his back.] Howdy, stranger! Did you come to witness a moment of Lenny and Carl's reunion? }
 {101}{011}{Uhh... What are you talking about?}
 {102}{019}{Reunion? Are you going to shag him, or something?}
-{103}{014}{Lenny, we need to duscuss this... Situation.}
+{103}{014}{Lenny, we need to discuss this... Situation.}
 {104}{999}{No, I was just walking by.}
 {1002}{}{[tries to hug you with his skinny, saggy hands, giving you a smell of decay, sweat and rotten food] My friend! I'm so glad to see you! I have a whole colony of some bugs under my shoulder blade - can you help me to put them out?}
 {105}{019}{Get lost, you freak, until I puked all over this wrinkled ass-head of yours!!}

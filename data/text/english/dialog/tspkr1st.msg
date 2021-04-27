@@ -133,4 +133,4 @@
 {1076}{}{Do not lay to rest without resolve from Wardens!}
 {1077}{}{Praise the Gods for the freshness of this night!}
 {1078}{}{Take care of a fresh water, Servants!}
-{1079}{}{Feed lavash in their pens, for them to feed us with their flesh!}
+{1079}{}{Feed Lavash in their pens, for them to feed us with their flesh!}

@@ -100,14 +100,14 @@
 {161}{999}{Deal. Wait here.}
 {162}{011}{Not interested. Better answer me some questions.}
 {163}{999}{I need to think about it. Will be back.}
-{1602}{}{There's one thing that's bugging me. A guard of the local warehouse, named Brick. This horny piece of lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! }
+{1602}{}{There's one thing that's bugging me. A guard of the local warehouse, named Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! }
 {164}{999}{Deal. Get the stuff ready.}
 {165}{011}{Nah, handle him yourself. And I need answers to some questions.}
 {166}{999}{I need to think about it. Will be back.}
 {1603}{}{[he nods] There are actually four scumbags... When they came around last time, one of my girls ended up being torn, and another had her face worked with a blade. This not only means that I'm having additional costs - it's disrespectful to you, chief!! I would impale them on some stick myself, but I know how you like to personally break the bones of such disrespectful pricks!}
 {167}{999}{Ha! You are quite right. Are they here now? Good - it's time to shed some blood...}
 {168}{999}{What? I don't do such petty shit. You should deal with matters like this yourself! That's it, I'm busy, See you!}
-{1604}{}{[he sends a chewed toothpick flying into the nearest prostitute] I don't even feel comfortable to distract you with such petty matters... There's one of your guys, a guard of the local warehouse, name's Brick. This horny piece of lavash shit has a habit of visiting my girls - and he fucks them for free!! Backs them into a corner and bonks them right there. How do you like that? Help me, chief, I'm pretty busy lately - trying to make more money for you!}
+{1604}{}{[he sends a chewed toothpick flying into the nearest prostitute] I don't even feel comfortable to distract you with such petty matters... There's one of your guys, a guard of the local warehouse, name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free!! Backs them into a corner and bonks them right there. How do you like that? Help me, chief, I'm pretty busy lately - trying to make more money for you!}
 {169}{999}{Okay, I'll see to it. And you should think about why would I need someone who can't handle his own matters.}
 {1610}{999}{And you will pay in time, I don't even doubt. As for the Brick - I don't have time for this, hear me? Later.}
 {1604}{}{Nah, everything's quiet. All good, man.}
@@ -117,7 +117,7 @@
 {1606}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] I've been having troubles with security in my establishment lately. Some assholes are periodically coming around, four of them. In their last visit, one of my girls ended up being torn, another had her face worked with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! As Hog went down, all this filth doesn't let met do my business! And Mate is so happy about it, that smug asshole...  So, will you handle the scumbags? They just came in...}
 {1613}{999}{Deal. Wait here.}
 {1614}{999}{I need to think about it. Will be back.}
-{1607}{}{One thing is bugging me. There's a guard of the local warehouse, name's Brick. This horny piece of lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! Without Hog, all kinds of assholes are running rampant here...}
+{1607}{}{One thing is bugging me. There's a guard of the local warehouse, name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! Without Hog, all kinds of assholes are running rampant here...}
 {1615}{999}{Deal. Get the stuff ready.}
 {1616}{999}{I need to think about it. Will be back.}
 

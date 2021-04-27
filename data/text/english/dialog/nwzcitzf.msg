@@ -62,7 +62,7 @@
 {1012}{}{Better fetch me that roll of tin.}
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{Oh. You know, these cans won't roll themselves!}
-{1015}{}{No, it's lavash blood. Yes, I'm sure.}
+{1015}{}{No, it's Lavash blood. Yes, I'm sure.}
 {1016}{}{Maybe you'd better stand by the conveyor instead of me?}
 {1017}{}{...This work never ends...}
 {1018}{}{Sheesh... What?! Can't you see I'm busy?}
@@ -98,7 +98,7 @@
 {1044}{}{Say, do you need a wife, by chance? I can cook! And roll cans...}
 #Мертвяк Сэм стал Руководителем
 {1045}{}{Did you hear that? All we needed is a corpse in Mayor's position...}
-{1046}{}{At least it's not a lavash, who is in charge. But I like lavash more...}
+{1046}{}{At least it's not a Lavash, who is in charge. But I like Lavash more...}
 {1047}{}{I'm no racist but... What am I saying? I can't stand ghouls. As Leaders.}
 {1048}{}{I can't wait for him to rot... I don't feel comfortable...}
 {1049}{}{Maybe it's time to leave this place?}
