@@ -21,7 +21,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{Here you are, pathetic, puny human. How you even dare to step a foot in here, into my Control Room? Disgusting slime! Your fate is sealed!}
+{10}{}{Here you are, puny human. How you even dare to step a foot in here, into my Control Room? Pathetic... Now your fate is sealed!}
 {11}{002}{Wh- What the hell? Who are YOU?}
 {12}{003}{Sealed? I decide for myself what happens next!}
 {13}{004}{Puny human? Hah! Look at yourself! It's you who is pathetic!}
@@ -81,5 +81,5 @@
 {111}{999}{[observe]}
 
 #Node012
-{120}{}{There are always some insolent fools, who don't want to fulfill their purpose, don't want to be a part of the mechanism. Some of them are venturing to the world outside - and end up dreaming about going back to the Tartarus, spending their lives in Metro Station, or nearby settlements... But there are always others who obsessed with a desire to change the way of things. And sometimes they come to me. They say "I'll save the world from you! Die, evil creature!". Stupid, soulless, empty humans... They fail to comprehend the complex nature of the world. And I destroy them before they destroy everything because of their stupidity and insolence. It's time for you to join them. Adieu, puny human.}
+{120}{}{There are always some insolent fools, who don't want to fulfill their purpose, don't want to be a part of the mechanism. Some of them are venturing to the world outside - and end up dreaming about going back to the Tartarus, spending their lives in Metro Station, or nearby settlements... But there are always others who obsessed with a desire to change the way of things. And sometimes they come to me. They say "I'll save the world from you! Die, evil creature!". Stupid, soulless, empty humans... They fail to comprehend the complex nature of the world. And I destroy them before they do any damage, with all their stupidity and insolence. It's time for you to join them. Adieu, puny human.}
 {121}{998}{You are wrong! And your time has come!}
