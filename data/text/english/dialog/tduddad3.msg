@@ -25,7 +25,7 @@
 # отец болен
 #
 {1}{}{You see your father.}
-{2}{}{This is your father - and he looks very, very sick. You have the darkest kind of thoughts when looking at him.}
+{2}{}{This is your father - and he looks very, very sick. You have the darkest thoughts when looking at him.}
 #
 # после выздоровления
 #

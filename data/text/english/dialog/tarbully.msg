@@ -25,13 +25,13 @@
 #
 # ¤® §­ ª®¬αβΆ 
 #
-{1}{}{You see: Bully.}
-{2}{}{A punk and hothead! Mom and dad say that's because he is a degenerate.}
+{1}{}{You see a Bully.}
+{2}{}{A punk and hothead. Mom and dad say that's because he is a degenerate.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
-{3}{}{You see: Bully.}
-{4}{}{A punk and hothead! Mom and dad say that's because he is a degenerate.}
+{3}{}{You see a Bully.}
+{4}{}{A punk and hothead. Mom and dad say that's because he is a degenerate.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
 #
@@ -49,52 +49,52 @@
 #‡„…‘ €—€…’‘ „€‹ƒ ‘‹… ‡€‘’‚€
 #
 {100}{}{Whaddaya want? A punch in the face?}
-{101}{}{Whachu looking at? Huh? Come here!}
+{101}{}{What?! You're asking for it! Come here!}
 {102}{}{Calm down, I want to talk about my brother...}
-{103}{}{Yeah. Talk later.}
-{104}{}{Ow, my mistake...}
+{103}{}{Okay... Talk later.}
+{104}{}{Sorry, my mistake...}
 {1102}{}{Oh, it's you... Whaddaya want?}
 {105}{}{}
 {106}{}{}
 {107}{}{}
-{110}{}{Nothing to talk about! He threw a stone into me! He wanted to, I've seen heem aiming! He is done for, your brother!}
-{111}{}{Oh... If he started it, you both deal with it yourselves.}
+{110}{}{Nothing to talk about! He threw a stone at me! It was on purpose, I've seen him aiming! He is done for, your brother!}
+{111}{}{Oh... If he started it, you both figure it out. I won't be a part of this.}
 {112}{}{I know your type, always looking for an excuse to pester someone! Now you're gonna get it, come here!}
-{113}{}{No, it was an accident! Think for yoursef, why does he need such problems? He is not an idiot!}
-{114}{}{Yeah, it was an accident, he just played with rocks. Forget about it [discreetly show your biceps]}
-{1201}{}{Not convincing! Get the hell out, tell your brother that he is, uh... screwed anyway!}
-{1202}{}{Uhhh, erm, damn, I don't want to get my hands dirty punching your faces, you suckers. Get lost.}
+{113}{}{No, it was an accident! Think, why would he get into a trouble with you? He is not an idiot!}
+{114}{}{It was an accident, he was just playing with rocks. Forget about it. [discreetly show your biceps]}
+{1201}{}{Not convincing! Get the hell out, tell your brother that he is, uh... Screwed anyway!}
+{1202}{}{Uhhh... Erm... Damn, I don't want to get my hands dirty punching your faces, suckers. Get lost.}
 {121}{}{Here goes! [attack the bully]}
 {122}{}{I... I... We'll talk later!}
 {123}{}{Okay then!}
-{130}{}{Who did you call an idiot, you moron?!}
+{130}{}{Who did you call sucker, you moron?!}
 {131}{}{Oops...}
 #
 #‹€‚€™… ‘™… (®«®¦¨β¥«μ­ ο ΰ¥ ªζ¨ο)
 #
 {1000}{}{Oh... Hey.}
 {1001}{}{You again? Hello.}
-{1002}{}{Yeah-yeah, what?}
-{1003}{}{Listen - later.}
+{1002}{}{Yeah, what?}
+{1003}{}{Later.}
 {1004}{}{What?}
-{1005}{}{Come on, forget it.}
+{1005}{}{Forget it.}
 {1006}{}{No problem.}
 {1007}{}{Later, okay?}
 {1008}{}{Yeah okay, okay.}
-{1009}{}{[he looks at you indifferently]}
+{1009}{}{[looks at you indifferently]}
 #
 #‹€‚€™… ‘™… (¥©βΰ «μ­ ο ΰ¥ ªζ¨ο)
 #
 {1010}{}{Oh... Hey.}
 {1011}{}{You again? Hello.}
-{1012}{}{Yeah-yeah, what?}
-{1013}{}{Listen - later.}
+{1012}{}{Yeah, what?}
+{1013}{}{Later.}
 {1014}{}{What?}
-{1015}{}{Come on, forget it.}
+{1015}{}{Forget it.}
 {1016}{}{No problem.}
 {1017}{}{Later, okay?}
 {1018}{}{Yeah okay, okay.}
-{1019}{}{[he looks at you indifferently]}
+{1019}{}{[looks at you indifferently]}
 #
 #‹€‚€™… ‘™… (βΰ¨ζ β¥«μ­ ο ΰ¥ ªζ¨ο)
 #

@@ -29,7 +29,7 @@
 {6}{}{Usual worker-labourer with dirty calloused hands.}
 {7}{}{He looks like he works a lot, although he doesn't look hungry.}
 {8}{}{Does he ever sleep?}
-{9}{}{All his chothes are covered with dirt and lavash manure. The smell matches his appearance.}
+{9}{}{All his chothes are covered with dirt and Lavash manure. The smell matches his appearance.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

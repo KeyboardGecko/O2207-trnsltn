@@ -25,7 +25,7 @@
 {11}{002}{What a good boy!}
 {12}{003}{[sit nearby and try to carefully pet him]}
 {13}{004}{[dominate his mind with a powerful stare into his eyes]}
-{14}{005}{Look what I brought you! [give him a sugarcoated lavash steak]}
+{14}{005}{Look what I brought you! [give him a sugarcoated Lavash steak]}
 {15}{006}{Shoo! Git!}
 {16}{999}{[leave]}
 
@@ -33,7 +33,7 @@
 {20}{}{[The wolf is wagging his tail, looking at you with curiosity. He surely wouldn't mind to get some sweet treat from you.]}
 {21}{003}{[sit nearby and try to carefully pet him]}
 {22}{004}{[dominate his mind with a powerful stare into his eyes]}
-{23}{005}{Look what I brought you! [give him a sugarcoated lavash steak]}
+{23}{005}{Look what I brought you! [give him a sugarcoated Lavash steak]}
 {24}{006}{Shoo! Git!}
 {25}{999}{[leave]}
 

@@ -22,15 +22,15 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see a lavash overseer.}
-{2}{}{You see a lavash overseer.}
-{3}{}{You see a lavash overseer.}
-{4}{}{You see a lavash overseer.}
-{5}{}{You see a lavash overseer.}
+{1}{}{You see a Lavash overseer.}
+{2}{}{You see a Lavash overseer.}
+{3}{}{You see a Lavash overseer.}
+{4}{}{You see a Lavash overseer.}
+{5}{}{You see a Lavash overseer.}
 {6}{}{A dirty shirt, hands covered in blood.}
 {7}{}{He looks very tired.}
 {8}{}{Just a worker in a jumpsuit.}
-{9}{}{He is busy with something. Probably, he is choosing the lavash to put down.}
+{9}{}{He is busy with something. Probably, he is choosing the Lavash to put down.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
@@ -47,13 +47,13 @@
 #
 {100}{}{Hey, techie! What do you need?}
 {101}{}{Hey yourself. What do you do here?}
-{102}{}{I heard your lavash are getting sick? They look pretty sick to me...}
+{102}{}{I heard your Lavash are getting sick? They look pretty sick to me...}
 {103}{}{Nothing. Bye, butcher.}
 {104}{}{Herald told me that you need water. How much exactly?}
 {105}{}{I brought water. Here.}
-{110}{}{I'm looking after lavash. You know, feed them, give them water, sometimes cut their thighs... [he laughs]}
+{110}{}{I'm looking after Lavash. You know, feed them, give them water, sometimes cut their thighs... [he laughs]}
 {111}{}{I see. Well, keep up the good work.}
-{112}{}{I see. I heard your lavash are getting sick? They look pretty sick to me...}
+{112}{}{I see. I heard your Lavash are getting sick? They look pretty sick to me...}
 {120}{}{Uhhh... Yeah. But it's not my fault! They just suddenly started having diarrhea, stopped eating, mooing all the time, falling. I don't know what's wrong with them.}
 {121}{}{What do you feed them with?}
 {122}{}{What do they drink?}

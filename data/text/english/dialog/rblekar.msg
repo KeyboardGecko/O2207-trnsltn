@@ -20,7 +20,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[The fumes of alcohol around him are so strong that could knock a lavash down, but his faded eyes are looking at you quite soberly. You also notice that he is not as old as he looks.] Booze, drugs, and our star attraction - the Drop! If Apothecary doesn't have it, then no one has. So, what is it you like?}
+{10}{}{[The fumes of alcohol around him are so strong that could knock a Lavash down, but his faded eyes are looking at you quite soberly. You also notice that he is not as old as he looks.] Booze, drugs, and our star attraction - the Drop! If Apothecary doesn't have it, then no one has. So, what is it you like?}
 {11}{011}{I'm }
 {12}{011}{, I'm just looking around.}
 
@@ -48,7 +48,7 @@
 {1015}{031}{How's the business of selling the Drop?}
 {1016}{032}{All you need is an excuse. How is it going, Apothecary?}
 {1017}{Áàğòåğ}{Show me what you have for sale today. And fast.}
-{1018}{999}{I think it's more likely to see a two-headed lavash than you sober... Okay, I need to go. Take care of your liver.}
+{1018}{999}{I think it's more likely to see a two-headed Lavash than you sober... Okay, I need to go. Take care of your liver.}
 {1005}{}{[drinks another shot, Not paying attention to the dirt and trash lying around] I was thinking that you left the place. Not that smart, huh?}
 {1019}{Áàğòåğ}{Better pour me something strong. And show me what you have in stock.}
 {1020}{030}{I see the situation leaves much to be desired?}

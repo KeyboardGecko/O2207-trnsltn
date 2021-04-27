@@ -35,11 +35,11 @@
 {100}{}{List of my Adventures!}
 {101}{}{Find and return Dad's key}
 {102}{}{Help my brother deal with the Bully}
-{103}{}{Get a "RadOut" for Katie's mom}
+{103}{}{Get a "RadOut" for Catty's mom}
 {104}{}{Find the cause of Lavash illness}
 {105}{}{Assemble the valve filter and repair the water pump}
 {106}{}{Repair the fuse box}
-{107}{}{Collect 24 corn cobs for Katie}
+{107}{}{Collect 24 corn cobs for Catty}
 {108}{}{Bring a bottle of moonshine to the guard}
 {109}{}{Bring the barrels of water to the Lavash keepers}
 {110}{}{Bring medicine to the Purgatory guard}
@@ -63,5 +63,5 @@
 {212}{}{The rough hides of Ursa are not susceptible to fire, but are easily penetrated with bullets!}
 {213}{}{Ants and Scorpions easily shrug off flames and bullets, but they have clearly not adapted against explosives.}
 {214}{}{Jackals can be killed with an explosion or bullets, but fire is useless against them.}
-{215}{}{Bullets just bounce off the skins of Beasties! Your best chance against them is explosives or energy weapons!}
+{215}{}{Bullets just bounce off the skins of Onca Devils! Your best chance against them is explosives or energy weapons!}
 {216}{}{}

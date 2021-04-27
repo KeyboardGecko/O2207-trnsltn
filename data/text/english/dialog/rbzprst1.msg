@@ -29,15 +29,15 @@
 #
 #ˆ‘€ˆ… …‘€†€
 #
-{1}{}{You see: a local sex-bomb.}
-{2}{}{You see: a half-naked girl.}
-{3}{}{You see: an artist of pole and boobs.}
-{4}{}{You see: a stripper.}
-{5}{}{You see: dancer.}
+{1}{}{You see a local sex-bomb.}
+{2}{}{You see a half-naked girl.}
+{3}{}{You see an artist of pole and boobs.}
+{4}{}{You see a stripper.}
+{5}{}{You see a dancer.}
 {6}{}{Looks like her ass in set on a vibration mode.}
 {7}{}{When she smiles, her checkered teeth are shown.}
 {8}{}{She smells sweat, bad tobacco, cheap booze and... something else.}
-{9}{}{Looks like her dancing teacher was some lavash in mating period.}
+{9}{}{Looks like her dancing teacher was some Lavash in mating period.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #

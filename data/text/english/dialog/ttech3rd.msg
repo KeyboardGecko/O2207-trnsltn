@@ -22,11 +22,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a dweller of Tartarus.}
-{3}{}{You see: a Technology Servant.}
-{4}{}{You see: a male servant.}
-{5}{}{You see: a local man.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a dweller of Tartarus.}
+{3}{}{You see a Technology Servant.}
+{4}{}{You see a male servant.}
+{5}{}{You see a local man.}
 {6}{}{A common man, no more, no less.}
 {7}{}{Looks like he is busy with something.}
 {8}{}{He is responsible for workability of mechanisms in Tartarus.}

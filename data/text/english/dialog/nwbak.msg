@@ -94,7 +94,7 @@
 {121}{010}{I'm here recently. I'd like to ask some questions.}
 
 #Node013
-{136}{}{[Burns points below his belt] I can tell you about THIS place for sure, haha!! Okay, this town is called NWO, short for New World Order. We live peaceful and quietly, like in lavash's ass. And I'm responsible for it to continue to be that way.}
+{136}{}{[Burns points below his belt] I can tell you about THIS place for sure, haha!! Okay, this town is called NWO, short for New World Order. We live peaceful and quietly, like in Lavash's ass. And I'm responsible for it to continue to be that way.}
 {130}{}{I won't tell you nothing new, boss. If only you are not interested in local catfights.}
 {131}{014}{Tell me about NWO's locals.}
 {132}{022}{What can I do around here?}
@@ -133,7 +133,7 @@
 {172}{010}{Okay, I'll do it. I'll talk to Mark about his successor. And now - to other questions.}
 
 #Node018
-{180}{}{NWO will quickly descend into the depths of the same ass from which Mark tried to pull it out the most of his life! The town will drown in lavash shit and dissolve in it, like a piss in the river.}
+{180}{}{NWO will quickly descend into the depths of the same ass from which Mark tried to pull it out the most of his life! The town will drown in Lavash shit and dissolve in it, like a piss in the river.}
 {181}{017}{Who would be better as Mayor and won't let that happen?}
 {182}{010}{Sounds like quite a grim future. I'd like to ask another question.}
 
@@ -155,7 +155,7 @@
 {211}{010}{What a story. I have other questions.}
 
 #Node022
-{220}{}{[Burns smiles and, without any threat in his voice, answers] If you do problems, you could end up catching a bullet with your forehead. And If you behave, just like lavash after copulation, then you'll be safe. People even could like you here. You don't look like lavash herder or factory worker type, so you probably won't be interested in this boring and shitty kind of job. Maybe some of the folks would ask you to do something they are afraid to do themselves.}
+{220}{}{[Burns smiles and, without any threat in his voice, answers] If you do problems, you could end up catching a bullet with your forehead. And If you behave, just like Lavash after copulation, then you'll be safe. People even could like you here. You don't look like Lavash herder or factory worker type, so you probably won't be interested in this boring and shitty kind of job. Maybe some of the folks would ask you to do something they are afraid to do themselves.}
 {221}{010}{I won't cause problems then. Another question. }
 {222}{998}{Now you're getting a bulet in your head!}
 {223}{999}{Okay, I'll go talk to others about work.}
@@ -198,7 +198,7 @@
 {291}{032}{[You concentrate all of your strength and give Burns a noogie]}
 
 #Node030
-{300}{}{[You fall on your back after a powerful blow. You see flashes, you almost pass out. Burns hoarsely laughs] Hahaha!! I told you that you will fall, like a pushed lavash!! Now - here's your noogie!}
+{300}{}{[You fall on your back after a powerful blow. You see flashes, you almost pass out. Burns hoarsely laughs] Hahaha!! I told you that you will fall, like a pushed Lavash!! Now - here's your noogie!}
 {301}{033}{[You concentrate all of your remaining strength to take a noogie]}
 
 #Node031
@@ -270,5 +270,5 @@
 {441}{032}{Hah, so you lose! Here's a noogie!}
 
 #Node045
-{450}{}{[Burns starts twirling his moustache] Hmm, Mark is a really smart-ass Mayor. I think good old Sam is the best possible option, even if he stinks like lavash ass. Sam is an experienced leader, he started it all here. Mark, you son of a bitch, that is a great idea!}
+{450}{}{[Burns starts twirling his moustache] Hmm, Mark is a really smart-ass Mayor. I think good old Sam is the best possible option, even if he stinks like Lavash ass. Sam is an experienced leader, he started it all here. Mark, you son of a bitch, that is a great idea!}
 {451}{999}{I see you don't mind. Okay, I need to go, bye.}

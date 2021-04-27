@@ -11,11 +11,11 @@
 #ˆ‘€ˆ… Šˆ’’…€
 #
 # ¤® §­ ª®¬áâ¢ 
-{1}{}{You see: beautiful, well-groomed woman.}
+{1}{}{You see a beautiful, well-groomed woman.}
 {2}{}{She looks pretty attractive, despite her age. She is definitely not of "working class".}
 #
 # ¯®á«¥ §­ ª®¬áâ¢ 
-{3}{}{You see: Lucy.}
+{3}{}{You see Lucy.}
 {4}{}{She looks flawless, as always.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
@@ -228,8 +228,8 @@
 {311}{010}{Okay, let me ask another question.}
 
 
-{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use lavash manure as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
-{321}{033}{To rub some lavash GUANO into my face? Of course! I've always dreamed about it - about having such beautiful skin!}
+{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use Lavash manure as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
+{321}{033}{To rub some Lavash GUANO into my face? Of course! I've always dreamed about it - about having such beautiful skin!}
 {322}{010}{No way I'm getting this thing close... I mean, I'm good. Better ask you something else.}
 {323}{999}{Nah, don't wanna. Will better go to get some fresh air...}
 

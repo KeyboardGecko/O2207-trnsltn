@@ -21,11 +21,11 @@
 #
 #CRITTER DESCRIPTION
 #
-{1}{}{You see: guy.}
-{2}{}{You see: local guy.}
-{3}{}{You see: young man.}
-{4}{}{You see: resident of vault.}
-{5}{}{You see: dweller of Livos.}
+{1}{}{You see a guy.}
+{2}{}{You see a local guy.}
+{3}{}{You see a young man.}
+{4}{}{You see a resident of vault.}
+{5}{}{You see a dweller of Livos.}
 {6}{}{A young man. The web of blue veins is clearly seen through the pale skin.}
 {7}{}{He dresses quite well.}
 {8}{}{He does not seem to bother himself with too much work.}

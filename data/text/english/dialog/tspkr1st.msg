@@ -96,7 +96,7 @@
 {1042}{}{The Gods have defeated demons of the night again!}
 {1043}{}{Those who are asleep shall be woken up immediately!}
 {1044}{}{Rise, shine, Servants of Gods!}
-{1045}{}{Wake up the children - let them live and rejoice in rise!}
+{1045}{}{Wake up your children - let them live and rejoice in rise!}
 {1046}{}{Taste the food of the Gods and take upon your tasks!}
 {1047}{}{Don't you dare to sleep on this fine holy day!}
 {1048}{}{Wash your eyes of nightmares and go back to serving!}
@@ -133,4 +133,4 @@
 {1076}{}{Do not lay to rest without resolve from Wardens!}
 {1077}{}{Praise the Gods for the freshness of this night!}
 {1078}{}{Take care of a fresh water, Servants!}
-{1079}{}{Feed lavash in their pens, for them to feed us with their flesh!}
+{1079}{}{Feed Lavash in their pens, for them to feed us with their flesh!}

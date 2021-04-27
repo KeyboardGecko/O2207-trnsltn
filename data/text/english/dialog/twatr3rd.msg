@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a dweller of Tartarus.}
-{3}{}{You see: water servant.}
-{4}{}{You see: water carrier.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a dweller of Tartarus.}
+{3}{}{You see a water servant.}
+{4}{}{You see a water carrier.}
+{5}{}{You see a local.}
 {6}{}{A common man, no more, no less.}
 {7}{}{He is dressed in a spangling zipped jumpsuit. You immediately want one like that.}
 {8}{}{This man's mission is to provide Tartarus with clean water.}
@@ -46,7 +46,7 @@
 {19}{}{}
 #
 {100}{}{Hi, kid! Looking for something?}
-{101}{}{Uhh... Yeah, I'm looking for someone who's responsible for that broken water-filtering device.}
+{101}{}{Uhh... Yeah, I'm looking for someone who's responsible for that broken water filtering device.}
 {102}{}{No, It's nothing...}
 {110}{}{You can check the label number. Oh, you must be talking about the one which has none - he's on Brook, Catty's dad. Strange, I haven't seen him here for a couple of weeks already...}
 {111}{}{Oh, thanks!}

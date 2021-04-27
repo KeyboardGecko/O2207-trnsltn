@@ -8,7 +8,7 @@
 # Это - сейф в стене военного бункера, где лежит карта лифта для подвала Олимпа 
 #
 # Описание 1
-{1}{}{You see: a durable safe.}
+{1}{}{You see a durable safe.}
 {2}{}{This safe looks very durable.}
 
 # Описание 2

@@ -49,7 +49,7 @@
 {14}{}{Oh, a smart guy, eh? I'm too lazy to waste bullets on you, so I'll say it for the last time - GET THE FUCK OUT OF HERE!}
 {15}{}{Okay you stupid piece of fuckmeat, now you're getting it!}
 
-{16}{}{Hahah, Mate has found himself a fresh meat! [when he laughs, he sounds like a lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
+{16}{}{Hahah, Mate has found himself a fresh meat! [when he laughs, he sounds like a Lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
 {17}{}{Now we're talking...}
 {18}{}{[make a shovel face and go forward]}
 {19}{}{}

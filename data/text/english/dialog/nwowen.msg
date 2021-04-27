@@ -28,7 +28,7 @@
 {14}{999}{No. Somehow, I don't feel like getting acquaintained with you. }
 
 #Node002
-{20}{}{Yes, I'm Owen, the cattle slaughterer. I put lavash to sleep with my sledgehammer, debone their carcasses and pass them further along the chain of technological progress, so to say. [he wipes sweat from his forehead with a bloody hand] Phew... So, what do you want, }
+{20}{}{Yes, I'm Owen, the cattle slaughterer. I put Lavash to sleep with my sledgehammer, debone their carcasses and pass them further along the chain of technological progress, so to say. [he wipes sweat from his forehead with a bloody hand] Phew... So, what do you want, }
 {21}{}{? Come on, ask!}
 {22}{004}{Tell me more about what you do here.}
 {23}{005}{Tell me about the local community.}
@@ -42,7 +42,7 @@
 {34}{999}{You see, Owen, it's not very interesting to me. Deal with your problems.}
 
 #Node004
-{40}{}{As I said, my job is to put down an animal and carve the carcass. It's actually not hard - I bash the lavash's head with that big-ass sledgehammer [he imitates the movement]. Then I take the saw and knives, separate meat from bone, pick up the steak cuts and put them away from the rest. A dirty job, I should say, but most of the time - I love it! [he kindly smiles]}
+{40}{}{As I said, my job is to put down an animal and carve the carcass. It's actually not hard - I bash the Lavash's head with that big-ass sledgehammer [he imitates the movement]. Then I take the saw and knives, separate meat from bone, pick up the steak cuts and put them away from the rest. A dirty job, I should say, but most of the time - I love it! [he kindly smiles]}
 {41}{008}{Care to demonstrate? Bashing a head with a sledge must be very spectacular.}
 {42}{003}{[carefully observing Owen, you notice that his movements are a little unnatural] Why are you so clumsy with your claw?}
 {43}{005}{Tell me about the local community. }
@@ -55,7 +55,7 @@
 
 #Node006
 {601}{}{[you glance over Owen's hand. Everything seems better than you thought, so, knowingly turning the patient's limb, you successfully put the bone into joint!] OW! Damn! [Owen pauses and slowly moves his arm. His wide smile becomes even wider] Thanks! You are really good at this medical stuff! You know, }
-{602}{}{, your help really came in handy. Here, take this. [Owen hands you a piece of lavash meat]}
+{602}{}{, your help really came in handy. Here, take this. [Owen hands you a piece of Lavash meat]}
 {61}{999}{Glad to be of help, Owen. Take care!}
 {603}{}{[You clumsily grab the butcher by the hand, inflicting him severe pain, which leads to you getting punched in the face with an elbow. You are lucky it wasn't hard] God frigging damn it! I told you, it hurts! Are you trying to completely drive me crazy?!}
 {62}{020}{Okay, I need to think... }
@@ -98,7 +98,7 @@
 {134}{014}{Don't remind me. How's the hand?}
 
 #Node014
-{140}{}{Great. Your help really came in handy. Here, take this. [Owen hands you a piece of lavash meat]. You are a good man. I wish there were more like you in NWO!}
+{140}{}{Great. Your help really came in handy. Here, take this. [Owen hands you a piece of Lavash meat]. You are a good man. I wish there were more like you in NWO!}
 {141}{015}{Thanks for your kind words. }
 
 #Node015
@@ -115,7 +115,7 @@
 {165}{999}{I'll come by later.}
 
 #Node017
-{170}{}{[he pauses] Okay, do it. I am pretty sick of this pain already. [you glance over Owen's hand. Everything seems better than you thought, so, knowingly turning the patient's limb, you successfully put the bone into joint!] OW! Damn! [Owen pauses and slowly moves his arm. His wide smile becomes even wider] Thanks! You are really good at this medical stuff! You know, your help really came in handy. Here, take this. [Owen hands you a piece of lavash meat]}
+{170}{}{[he pauses] Okay, do it. I am pretty sick of this pain already. [you glance over Owen's hand. Everything seems better than you thought, so, knowingly turning the patient's limb, you successfully put the bone into joint!] OW! Damn! [Owen pauses and slowly moves his arm. His wide smile becomes even wider] Thanks! You are really good at this medical stuff! You know, your help really came in handy. Here, take this. [Owen hands you a piece of Lavash meat]}
 {171}{015}{Glad to help, Owen.}
 {172}{015}{Next time don't try to swing around your sledgehammers like drumsticks.}
 

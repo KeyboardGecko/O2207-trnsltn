@@ -34,7 +34,7 @@
 {32}{005}{[make a sad sigh] And how do I understand what exactly is going to bite my balls off?}	
 {40}{}{Hey, limpy dick, pull yoursef together! Now you are part of the family, so we'll teach you everything you need, don't sweat! You know, I was just like you once. Oh wait a second - no, I wasn't!! [he lougly laughs]}	
 {41}{006}{Okay, so, what should I learn for starters?}	
-{50}{}{Whoa, you ARE a tough and serious girl, aren't you? [He slaps you by the shoulder and you feel the bruise starting to form] It's good you have a spine, don't lose it! Without spine you won't handle the people of Radius - and they are even more scary than beasts! They'll bite your head instantly.}	
+{50}{}{Whoa, you ARE a tough and serious girl, aren't you? [He slaps your shoulder and you feel the bruise starting to form] It's good you have a spine, don't lose it! Without spine you won't handle the people of Radius - and they are even more scary than beasts! They'll bite your head instantly.}	
 {51}{006}{Okay, so, what should I learn for starters?}	
 {60}{}{For starters, you should get how this place works. I'm Robin, and I'm in charge of each of this sturdy guys behind my back. We are the Seekers, we drag around the Radius in search of food, water and instruments. The leader of this place is the guy named Bono, a falling-apart ghoul. He is alright and all that, but he doesn't have the balls. I mean, he literally doesn't. Then there's Hugo, he's a dead meat too, but with a head - and a spine! And with him we'll take over the Tartarus someday, only need to get around enough boys and guns for this!}
 {61}{010}{Oh... I see, I get it. Can I ask something else?}	
@@ -69,7 +69,7 @@
 {200}{}{DEEEEEATH! [laughs] This is the main thing you should learn. The Radius is a highly dangerous place. Oh, wait, there is one safe spot! Some-Order-something, I don't really remember the name. An old factory to the west of here. Let me show you [he starts pushing buttons of your organizer], Here, ready! Only watch out for the tin men patrol while you walk there. Try to evade them.}
 {201}{010}{Maybe I don't really need to go there. Another question.}
 {202}{999}{Thanks, I'll keep it in mind. Well, off I go.}
-{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks and friendly slaps your shoulder]}
+{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks and friendly pats you on the shoulder]}
 {204}{010}{It can wait. I wanted to ask...}
 {205}{999}{Actually, I've got to go.}
 
@@ -114,10 +114,10 @@
 {612}{}{Of course! Do you think I would lie to you? Just search a little more.}	
 {613}{999}{Alright.}	
 {614}{999}{Damn, you could search a little more yourself. Fine, I'll be back soon.}	
-{620}{}{So helpful! Thanks! Now my boys can have a bite and a little warmth before we hit the road again. [Turns around] Get here, you vultures!.. I see that I can count on you. You probably deserved something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
+{620}{}{So helpful! Thanks! Now my boys can have a bite and a little warmth before we hit the road again... I see that I can count on you. And you probably deserve something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
 {621}{063}{[take the reward] Uh, thanks. Seriously, thanks.}	
 {622}{064}{[give the reward back] No, I don't need that. I'm not good at throwing things anyway.}	
-{630}{}{"Thanks" will not save your life, unlike of a sharp piece of metal. A word of advice - learn to handle something that kills your enemies. After that you'll see your full potential!}	
+{630}{}{"Thanks" will not save your life, unlike of a sharp piece of metal. A word of advice - learn to handle something that kills your enemies. After that you'll see your full potential!}
 {631}{999}{Uh. Yeah, okay, sure. Well, I'll go now.}	
 {632}{999}{I know. See you around.}	
 {640}{}{[He chuckles] Suit yourself, }	

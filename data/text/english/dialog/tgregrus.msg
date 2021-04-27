@@ -43,14 +43,14 @@
 {21}{}{But... But... The work never ends... I can't be left without a job, the others wouldn't like it!}
 {22}{}{It can't be! There, I see the lights blinking all the time, maybe I'll look into a fuse box?}
 {30}{}{You are smart, }
-{31}{}{! Good, here are your tasks: something bad is happening to the lavash, they look sick. You need to find out why. The fuse box on the northern wall is sparking again - it needs to be fixed. And the most important thing - you need to bring 12 canisters of water from the Technical level to the lavash overseers.}
+{31}{}{! Good, here are your tasks: something bad is happening to the Lavash, they look sick. You need to find out why. The fuse box on the northern wall is sparking again - it needs to be fixed. And the most important thing - you need to bring 12 canisters of water from the Technical level to the Lavash overseers.}
 {32}{}{Okay. I'll go figure it out...}
 {33}{}{Uhh... Can you tell me more details?}
 {34}{}{Man, so much to do! Alright, I'll get to it...}
 {40}{}{What do you want to know?}
-{41}{}{What exactly is wrong with the lavash?}
+{41}{}{What exactly is wrong with the Lavash?}
 {42}{}{How do I fix the fuse box?}
-{43}{}{Where can I get the water canisters for lavash?}
+{43}{}{Where can I get the water canisters for Lavash?}
 {44}{}{No, nothing, I understood everything. Off to do my labor.}
 {45}{}{I fixed the fuse box...}
 {50}{}{They are acting strange - don't eat, drink a lot, their feces are more smelly than usual. And most of all, they are getting thinner and don't breed. If it continues like this, we would have nothing to feed us with, and the Gods will get angry!}
@@ -76,13 +76,13 @@
 {108}{}{Herald, you know everything about everyone here, right? There's one black man on the parking lot...}
 {109}{}{I want to report about a horrible... God-... Murder.}
 {110}{}{That task do you want to discuss?}
-{111}{}{About lavash.}
+{111}{}{About Lavash.}
 {112}{}{About the fuse box.}
 {113}{}{About water canisters.}
 {114}{}{Actually, I better come around later...}
 {1201}{}{Did you find out the reason behind them getting sick?}
 {1202}{}{Did you fix it?}
-{1203}{}{What's about the canisters? They should be at the lavash overseers already!}
+{1203}{}{What's about the canisters? They should be at the Lavash overseers already!}
 {121}{}{I'm working on it. I'll come later.}
 {122}{}{Yes. The problem is in the faulty water filtering machine.}
 {123}{}{It's fixed, yes. Shouldn't break so often now.}
@@ -94,7 +94,7 @@
 {133}{}{I'm just doing my job.}
 {134}{}{It would definitely be faster, you are right. And it's their job... Good thinking, Technology Servant!}
 {140}{}{Do you know the serial number of this machine? Who is responsible for it?! WHO IS THAT SERVANT WHO ALLOWED IT TO BE LEFT UNREPAIRED?!}
-{141}{}{Uhh... There's no number...But I'll fix it myself!}
+{141}{}{Uhh... There's no number... But I'll fix it myself!}
 {142}{}{Uhh... The number is erased, but it doesn't matter. I repaired it already.}
 {143}{}{It's Brook, the Water Servant. He is bad at his responsibilities.}
 {144}{}{I will find out and report to you immediately!}
@@ -106,7 +106,7 @@
 {153}{}{Yeah, yeah, I'm going - have more stuff to do...}
 {154}{}{I already did it. No problem.}
 {155}{}{But I don't know where to get the parts...}
-{160}{}{Such a spirit! So be it - you are tasked with repairing the machine!}
+{160}{}{What a determination! So be it - you are tasked with repairing the machine!}
 {161}{}{I understand, Herald.}
 {162}{}{So much for an initiative... Okay.}
 {170}{}{What's about it? While it's broken and not filtering our water, we're all in great danger!}
@@ -190,7 +190,7 @@
 {1042}{}{The Gods have defeated demons of the night again!}
 {1043}{}{Those who are asleep shall be woken up immediately!}
 {1044}{}{Rise, shine, Servants of Gods!}
-{1045}{}{Wake up the children - let them live and rejoice in rise!}
+{1045}{}{Wake up your children - let them live and rejoice in rise!}
 {1046}{}{Taste the food of the Gods and take upon your tasks!}
 {1047}{}{Don't you dare to sleep on this fine holy day!}
 {1048}{}{Wash your eyes of nightmares and go back to serving!}
@@ -227,4 +227,4 @@
 {1076}{}{Do not lay to rest without resolve from Wardens!}
 {1077}{}{Praise the Gods for the freshness of this night!}
 {1078}{}{Take care of a fresh water, Servants!}
-{1079}{}{Feed lavash in their pens, for them to feed us with their flesh!}
+{1079}{}{Feed Lavash in their pens, for them to feed us with their flesh!}

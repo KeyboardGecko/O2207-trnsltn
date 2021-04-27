@@ -46,7 +46,7 @@
 {108}{}{<<EMPTY>>}
 {109}{}{   <<ASSEMBLE!>>}
 {110}{}{ > Craft Pump Filter.}
-{111}{}{ > Craft Distillery Filter}
+{111}{}{ > Craft Moonshine Filter}
 {112}{}{ > Craft Fake Military Armor}
 {113}{}{ > Craft Electric Trap}
 {114}{}{ > Craft Explosive Trap}

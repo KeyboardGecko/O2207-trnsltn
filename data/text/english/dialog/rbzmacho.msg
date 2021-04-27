@@ -112,7 +112,7 @@
 {1049}{}{[looks at the show]}
 #Íאמלט ‗םד סבוזאכא
 {1050}{}{The girls are flaccid lately...}
-{1051}{}{Drink without the Drop tastes like lavash piss...}
+{1051}{}{Drink without the Drop tastes like Lavash piss...}
 {1052}{}{Where can I get the pills...}
 {1053}{}{Man, they are ugly today...}
 {1054}{}{Damn, even my wang doesn't wake up...}

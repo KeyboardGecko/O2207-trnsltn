@@ -47,7 +47,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ œŒ—À≈ «Õ¿ ŒÃ—“¬¿
 #
-{100}{}{Hello, son! How are you?}
+{100}{}{Hello, son! How are you? }
 {1001}{}{[his eyes are darting around, as if he is looking for something and can't find it.]}
 {101}{}{Hey, dad! I don't know what to get myself busy with.}
 {102}{}{I'm not in the mood! Everything is bad! [frown and turn away]}
@@ -61,10 +61,10 @@
 {112}{}{Yeah, yeah, I know. [sigh and leave]}
 {113}{}{Uh. Right! I'm gonna go stab someone with a fork.}
 
-{120}{}{[dad kindly smiles] Alright, here's a top priority assignment for you: do you remember my wrench? Small one, with a wooden handle? I can't fix this sink without it, and I don't remember where I could put it... Maybe mom has seen it? Oh, and where is the mom? It's always like that...}
+{120}{}{[dad kindly smiles] Alright, here's a top priority assignment for you: do you remember my wrench? Small one, with a wooden handle? I can't fix this sink without it, and I don't remember where I could put it... Maybe mom has seen it? Oh, and where did mom go? It's always like that...}
 {121}{}{Nah. This mission is too hard even for a sleuth-man. I'll come by later, okay?}
 {122}{}{Mission is taken. Citizen, await for delivery of your belonging in the nearest future!}
-{123}{}{Why do you need help of a sleuth-man for this? Just try to remember where did you see it last!}
+{123}{}{Why do you need help of a sleuth-man for this? Just try to remember where you saw it last!}
 
 {130}{}{[dad wrinkles his forehead even more than usual] No, I can't remember. All I have on my mind is work.}
 {131}{}{You just need to restore the chain of events! Try to remember where you saw it, then what you were doing with it - and that's it! Come on, try!}

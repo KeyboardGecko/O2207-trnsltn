@@ -22,11 +22,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: a Technology Servant.}
-{2}{}{You see: a repairman.}
-{3}{}{You see: a servant.}
-{4}{}{You see: a repair guy.}
-{5}{}{You see: a Technology Servant.}
+{1}{}{You see a Technology Servant.}
+{2}{}{You see a repairman.}
+{3}{}{You see a servant.}
+{4}{}{You see a repair guy.}
+{5}{}{You see a Technology Servant.}
 {6}{}{He is responsible for workability of mechanisms in Tartarus.}
 {7}{}{This man is in charge of repairing the life-supporting mechanisms of Tartarus.}
 {8}{}{This is a Technology Servant, he is ensuring the maintenance of mechanisms and machines.}

@@ -8,11 +8,11 @@
 # Это - ведро с кормежкой лавашей, в которую Даниэль и Arsene подливают машинное масло.
 #
 # Описание 1
-{1}{}{You see: a tub with food.}
+{1}{}{You see a tub with food.}
 {2}{}{}
 
 # Описание 2
-{3}{}{Looks like food for lavash.}
+{3}{}{Looks like food for Lavash.}
 {4}{}{}
 
 # Действия

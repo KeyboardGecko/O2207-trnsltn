@@ -41,7 +41,7 @@
 {110}{}{[Mignon thinks] Er... I, for sure, didn't take it, this book-of-wave-something. I don't read boring books, my head always starts to ache from all this smart words and difficult drawings.}
 {111}{012}{Have you seen the book at all?}
 
-{120}{}{I've seen *some* book. At Mom's. She hid it very quickly, so I don't know is it the right one. But she doesn't like to read either, so it can be the one you looking for. My mom's name is Claudia, try asking her.}
+{120}{}{I've seen SOME book. At Mom's. She hid it very quickly, so I don't know is it the right one. But she doesn't like to read either, so it can be the one you looking for. My mom's name is Claudia, try asking her.}
 {121}{010}{Okay, I'll go talk to her later. Another question.}
 {122}{999}{I'll go do that. See you.}
 

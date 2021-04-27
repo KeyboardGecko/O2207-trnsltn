@@ -27,7 +27,7 @@
 {1400}{}{Terminal}
 {1401}{}{A computer terminal.}
 {1500}{}{Bull Head}
-{1501}{}{Looks like this head of a lavash is really happy to be canned.}
+{1501}{}{Looks like this head of a Lavash is really happy to be canned.}
 {1600}{}{Tires}
 {1601}{}{Hardened old tires covered in sand.}
 {1700}{}{Pit}

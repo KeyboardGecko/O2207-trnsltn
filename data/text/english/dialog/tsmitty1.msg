@@ -24,18 +24,18 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Смитти.}
-{2}{}{Старина Смитти, Ваш наставник и учитель по технологиям.}
+{1}{}{You see Smitty.}
+{2}{}{A good old Smitty, your technological mentor and teacher.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Смитти.}
-{4}{}{Старина Смитти, Ваш наставник и учитель по технологиям.}
+{3}{}{You see Smitty.}
+{4}{}{A good old Smitty, your technological mentor and teacher.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ты кто такой?}
-{11}{}{Я - герой!}
+{10}{}{Who're yew?}
+{11}{}{Ima hero!}
 {12}{}{}
 {13}{}{}
 {14}{}{}
@@ -47,61 +47,61 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Э-эй! [кашляет] Да это ж сынишка Джона! Рад тебя снова видеть! С чем пришел?}
-{101}{}{Ну-с, молодой человек, что еще интересует?}
-{102}{}{Привет, Смитти! О-ох, как от тебя самогонкой разит! Я, лучше, потом заскочу.}
-{103}{}{Да-да, и тебе не кашлять. Я потом еще зайду.}
-{104}{}{Да ничего мне не интересно. Пока, Смитти!}
-{105}{}{Ээ-э... Да ничего. Пока, Смитти!}
-{106}{}{Мне бы твоего совета, Смитти.}
-{107}{}{Слушай, Смитти, у тебя случайно нет лишней пустой бутылочки для меня? Я же тебя знаю, ты всегда держишь одну прозапас! Думаю, мне бутылки пригодятся.}
-{108}{}{Все, готово! Собрал твой фильтр и запихал его в аппарат. Бу-утылочка-а.}
-{110}{}{Конечно же! Что у тебя опять не получается починить, хе-хе?}
-{111}{}{На самом деле я могу починить все, даже то, что не ломалось. Пока!}
-{112}{}{Трансформатор на втором уровне.}
-{113}{}{А будто ты не знаешь? У тебя под боком агрегат по очистке воды стоит неработающий!}
-{114}{}{Я тут пытался собрать эту хреновину для агрегата, но ничего не выходит. Может, ты соберешь, а я вставлю в агрегат?}
-{120}{}{Так ты, дубина, пальцы-то под ток не суй! Осмотри его, трансформатор этот, как следует, изучи! Пойми, между какими проводами искрит, да соедини их. Ну или доверься своему навыку ремонта - и с закрытыми глазами шуруй там, авось получится! Делов-то на пять минут!}
-{121}{}{Раз это так просто, сходил бы да починил, подай мне пример профессиональной работы!}
-{122}{}{Да это все понятно, так он же током бьет! Ладно, пойду еще попробую.}
-{123}{}{А-ах, ничего-то ты дельного и не знаешь.}
-{1301}{}{А что, и схожу и починю! Раз уж ты такой криворукий.}
-{131}{}{Давай-давай, а я тебя здесь подожду.}
-{132}{}{Да ладно, не напрягайся, сам разберусь.}
-{133}{}{Не стоит, я сам. Можно еще вопрос?}
-{1302}{}{Ишь-ты, нашел молодого! Не-е, не буду я, как козел, по этажам скакать! Сам разбирайся!}
-{134}{}{Ну и разберусь! Подумаешь.}
-{135}{}{Да кто-бы сомневался! Ладно, разберемся. Пока!}
-{136}{}{Пф-ф, ну и хорошо. Можно еще вопрос?}
-{140}{}{Ну вот, все готово! Свет горит, искр нет. Учись, студент!}
-{141}{}{Спасибо, Смитти! Вот ты - настоящий друг!}
-{142}{}{Да я бы и сам справился. Но, все равно, спасибо.}
-{150}{}{Да он уж недели две как стоит, чертов механизм! Думаешь, я не знаю, как его чинить? Там же цельный узел полетел - фильтр насоса! Сам фильтр у меня есть, но к нему нужны еще клапан и кронштейн, а бегать по всему тартару и искать их у меня сил совсем нет! Вот, держи фильтр. Клапан поищи в каком-нибудь старом автомобиле на парковке, а с кронштейном, вроде, мальчишки на жилом уровне игрались.}
-{151}{}{О-го, как все запутанно! А что мне потом со всем этим барахлом делать?}
-{152}{}{Да ну нафиг этим заниматься! Хотя, куда мне деваться-то. Давай сюда свой фильтр.}
-{160}{}{Как соберешь все детали, соедини их вместе - и получишь собранный узел! Потом пихнешь его в агрегат - и все! Делов-то!}
-{161}{}{Да я уже и сам догадался! Ладно, пойду искать запчасти.}
-{162}{}{Ясно... Спасибо за инструктаж, пойду искать детальки.}
-{170}{}{Кхе... Ишь ты какой резвый! Знает ведь прекрасно, что цельных-то бутылок почти не осталось, а все равно просит! А знаешь, дам я тебе бутылочку, но за маленькую услугу.}
-{171}{}{Ну-у, кто бы сомневался! Выкладывай, что у тебя за проблема.}
-{172}{}{Да нет, сейчас она мне не нужна. Мне еще вот что интересно.}
-{180}{}{Ты ведь знаешь мою Самогонную Макину Магнифико? Ту, что в подсобке здесь стоит? Сколько любви и чувств я в нее вложил. [блаженно закатывает глаза] Но вот скотина - конфет жрет много, а их уж почти совсем не осталось. И решил я ее усовершенствовать - конфетный фильтр двойного перегона сделать: вот решетка фильтровочная, а вот спец поддон с желобком. И нужно-то всего решетку в желобок вставить, но так руки трясутся - не поверишь! Соберешь фильтр - да вставь его в аппарат, а я тебе за это бутылочку одолжу. Только ты мне ее потом обязательно верни!}
-{181}{}{Э-ээх, ладно, давай свои запчасти, [забрать поддон и решетку] а бутылочку ты приготовь, я за ней сразу же вернусь!}
-{182}{}{Вот мне заняться больше не чем! Сам изобрел - сам и собирай! Пока, жмотина.}
-{190}{}{Какой ты умелец! Да шучу я, его и младенец бы собрал! ::смеется:: Но слово свое я сдержу, вот бутылка. Да смотри, не урони ее!}
-{191}{}{Давай-давай, шутник старый... [забрать бутылку] Ну, пойду использую ее по назначению.}
-{2001}{}{[чешет затылок] Ну-у, тут без бутылки-то не ка-ак. Нет, вообще никак.}
-{2002}{}{Ты хоть все составные сначала найди! Неужто я, как молодой, буду по уровням бегать да запчасти искать?}
-{201}{}{Ну Смитти, ты ведь профессионал! А профессионалы хорошо работают в любом состоянии!}
-{202}{}{Бутылку самогона? Так для этого хотя бы бутылка нужна, а я ее отдал охр. Я скоро.}
-{203}{}{Хорошо-хорошо, пойду искать эти детальки.}
-{204}{}{На вот свой божественный напиток [протянуть бутыль] Последние конфеты на это извел.}
-{2101}{}{Льстец, о-ой льстец! Ну да ладно, давай сюда свои запчасти. [забирает у Вас все три детали, поворачивается спиной, и через пару секунд разворачивается и отдает Вам собранный узел] Да-а, малыш, тебе еще учиться и учиться!}
-{2102}{}{Э-э нет, брат, так дело не пойдет! Ты же видишь, как руки дрожат! Без лекарства тут ну-у никак не обойтись! Ну или попозже зайди - авось трясучка пройдет или настроение улучшится...}
-{211}{}{Ничего, все приходит с опытом. Пойду вкорячу узел в агрегат.}
-{212}{}{[заскрипев зубами пойти на добычу самогона для Смитти]}
-{220}{}{Ну да ладно, давай сюда свои запчасти. [забирает у Вас все три детали, поворачивается спиной, и через пару секунд разворачивается и отдает Вам собранный узел] Да-а, малыш, тебе еще учиться и учиться!}
-{221}{}{Ничего, все приходит с опытом. Пойду вкорячу узел в агрегат.}
+{100}{}{H-hey! [he coughs] Isn't that the John's boy! What brings you here?}
+{101}{}{So, young man, what do you need?}
+{102}{}{Hey, Smitty- oh man, you reek with booze! I'll come to you later.}
+{103}{}{I'm fine. And I'll be back later.}
+{104}{}{Nothing for now. See you, Smitty!}
+{105}{}{Uhh... Nothing. Bye, Smitty!}
+{106}{}{I could really use your advice, Smitty.}
+{107}{}{Listen, Smitty, do you have an empty bottle to spare, by any chance? I know you - you always have one! And I really need it.}
+{108}{}{I did it. I put an assembled filter into the machine. The bottle, please.}
+{110}{}{Sure! What are you having troubles fixing again?}
+{111}{}{Actually, I can fix anything. Even something that is not broken yet. See you!}
+{112}{}{A fuse box on second level.}
+{113}{}{Don't make it look like you don't know! You have a faulty water filtering machine right beside you!}
+{114}{}{I've been trying to assemble this stupid thing for a water filtering machine, but I just can't. Maybe you could do it? And I'll go and put it in.}
+{120}{}{Just don't put your fingers under the current! Examine the fuse box, study it closely. Find out which wires are sparky, connect them better. Or just try to trust your repairing skills - close your eyes and let the hands do the work. Maybe it would do it. It's easy, you'll see.}
+{121}{}{If it's easy, you could go and fix it. To show me how it's done, so to say.}
+{122}{}{Yeah, I get it, but it spikes me with electricity all the time! Okay, I'll go try again.}
+{123}{}{Oh, you actually don't know nothing helpful.}
+{1301}{}{You know, maybe that's exactly what I'm gonna do! You are too crooked-handed anyway.}
+{131}{}{Okay, go on, I'll wait for you right here.}
+{132}{}{Don't sweat it, I'll do the job myself.}
+{133}{}{No need. Can I ask another question?}
+{1302}{}{Hey, I'm not your errand boy! I'm not gonna run around the levels, handle it yourself!}
+{134}{}{Pfft, I will! Suit yourself.}
+{135}{}{I never had any doubts in you. Okay, I'll figure it out, bye!}
+{136}{}{Okay, no problem. Another question then?}
+{140}{}{There, all done! The lights are good, no sparks and flickering.}
+{141}{}{Thanks, Smitty! I owe you one!}
+{142}{}{I could handle it eventually - but thanks anyway.}
+{150}{}{Do you think I don't know?! It doesn't work for two weeks already, the whole node went out, the filter itself! And I know how to fix it, no problem, but I need a bracket and a valve, and I'm too tired to run around Tartarus for them. Here, take the filter. If you wanna help, you can search for a valve in an old cars, just look arond a parking lot. As for the bracket - I heard the boys from Residential level played with it recently.}
+{151}{}{Oh my, it's so confusing! And what would I do with all this stuff?}
+{152}{}{Why should I do all the work?! Although, what choice do I have... Give me that.}
+{160}{}{When you find the details, just put everything together - and you'll get a working node! Then you need to install it into the machine, and that's it! Easy!}
+{161}{}{I figured as much... Okay, I'm off to look for the parts.}
+{162}{}{I see... Thanks for the instruction, I'll go to search.}
+{170}{}{Hah! Aren't you a sly dog? You do know that there's almost no bottles left, and yet you are still asking! You know what? I can give you a bottle. For a little favor.}
+{171}{}{Who could have doubt that. Tell me about this "favor".}
+{172}{}{I don't need it right now. I want to ask something.}
+{180}{}{Do you know about my Moonshine Machina Magnifico? That one, in the utility room? If you only knew how much soul and love I've put into it... [he wistfully rolls his eyes] But here's the problem - it eats up a lot of candies, and we don't have many of these around. So, I decided to make a little improvements and came up with a double-partition candy filter. Here's the filter grid, and here's the special pallet with a gutter. All is needed to do is to put the filter into the gutter, but my hands are so shaky today, you wouldn't believe! So, assemble the filter and install it into my machine, and I will give you the bottle. I mean, lend you the bottle. Give it back to me when you're done, okay?}
+{181}{}{Okay, okay, give me the parts. Get the bottle ready, I'll be right back.}
+{182}{}{As if I have nothing better to do! You invented it - you handle it! Bye, cheapskate.}
+{190}{}{What a skillful man you are! Just kidding, even baby could assemble it. [he laughs] But I keep my word, here's the bottle. Don't drop it!}
+{191}{}{Come on, you old kidder... [take a bottle] Okay, I'll go put it to use.}
+{2001}{}{[scratches his head] Well, you can't do much without a bottle here... No, you definitely can't. If you know what I mean.}
+{2002}{}{Find the parts first! Do you expect me to run around and search for them? I'm not so young, you see.}
+{201}{}{Smitty, I know you! You are the real professional! And professionals are doing a good job in any condition!}
+{202}{}{A bottle of booze? I suppose there's a bottle needed for it, and I gave it to a guard... Be back soon.}
+{203}{}{Okay, okay, I'll go look for parts.}
+{204}{}{Here's your favourite drink. [hand him the bottle] I've spent all my candies on this.}
+{2101}{}{A sweet talker, I see! Alright then, give me the parts. [he takes three details from you - and in a second gives you back an assembled node] Yeah, kid, you have a lot to learn!}
+{2102}{}{No, that's not how it works! Do you see how shaky my hands are? You can't do much without a medicine here. Or come later, maybe I'll feel better, or be in a better mood...}
+{211}{}{It's okay, all comes with experience. I'll go insert the node into a machine.}
+{212}{}{[grit your teeth and go look for a booze to give Smitty]}
+{220}{}{Alright then, give me the parts. [he takes three details from you - and in a second gives you back an assembled node] Yeah, kid, you have a lot to learn!}
+{221}{}{It's okay, all comes with experience. I'll go insert the node into a machine.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
@@ -144,13 +144,13 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Та-ак, щас мы эту штуку примастрячим.}
-{1031}{}{Фиговину в штуковину, и... Черт!}
-{1032}{}{Проводочки-провода... Черт, не вышло ни фига.}
-{1033}{}{Винтики вы мои, родименькие.}
-{1034}{}{О-ох, как руки трясутся..}
-{1035}{}{Выпить, нужно срочно выпить.}
-{1036}{}{Э-эх, как же тут все запущено.}
-{1037}{}{Ну ничего-ничего, мы тебя подлатаем.}
-{1038}{}{Да гори оно все синим пламенем!}
-{1039}{}{[ковыряется в механизмах]}
+{1030}{}{Alright, let's put this thingie here...}
+{1031}{}{This thing into that thing, aaand... Damn it!}
+{1032}{}{Wires, cords... And nothing works.}
+{1033}{}{Oh! My favorite screws...}
+{1034}{}{My hands are so shaky...}
+{1035}{}{I definitely need a drink!}
+{1036}{}{Yeah, that's a pretty bad case of hand-crookery...}
+{1037}{}{It's alright, we're gonna patch you up.}
+{1038}{}{May it burn in hell!}
+{1039}{}{[rummages through some mechanism]}

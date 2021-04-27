@@ -11,11 +11,11 @@
 #ˆ‘€ˆ… Šˆ’’…€
 #
 # ¤® §­ ª®¬áâ¢ 
-{1}{}{You see: a sick, old man.}
+{1}{}{You see a sick, old man.}
 {2}{}{The man looks at you with shrewd, wise look.}
 #
 # ¯®á«¥ §­ ª®¬áâ¢ 
-{3}{}{You see: Mark.}
+{3}{}{You see Mark.}
 {4}{}{He is carefully looking through some documents.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
@@ -248,7 +248,7 @@
 {409}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{410}{}{Burns... He is a good man, despite having manners more suitable to a lavash corral janitor, than to the head of guards. But I'm fully confident with him. He is ready to do anything to keep us and our home safe. A piece of advice for you: do not talk to him about women - he will tire you with his success-stories, filled with a lot more toilet humor than his usual conversations...}
+{410}{}{Burns... He is a good man, despite having manners more suitable to a Lavash corral janitor, than to the head of guards. But I'm fully confident with him. He is ready to do anything to keep us and our home safe. A piece of advice for you: do not talk to him about women - he will tire you with his success-stories, filled with a lot more toilet humor than his usual conversations...}
 {411}{038}{[ask about someone else]}
 {412}{031}{A valuable advice... but I'd like to go back to questions about the town.}
 {413}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -346,7 +346,7 @@
 {563}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{570}{}{He's one of our best butchers. As long as I can remember - never met anyone else who can be so enthusiastic about dismembering the lavash. He is doing it so precise it's scary and beautiful at the same time. Especially considering that you can't always say if he's serious, or fooling around...}
+{570}{}{He's one of our best butchers. As long as I can remember - never met anyone else who can be so enthusiastic about dismembering the Lavash. He is doing it so precise it's scary and beautiful at the same time. Especially considering that you can't always say if he's serious, or fooling around...}
 {571}{038}{Okay, then I have some questions about other inhabitants.}
 {572}{031}{I see... Let's get back to questions about the town then.}
 {573}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}

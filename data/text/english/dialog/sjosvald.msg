@@ -16,7 +16,7 @@
 #
 # после знакомства
 {3}{}{You see Oswald.}
-{4}{}{He looks someone to eat brains out.}
+{4}{}{He looks for someone to eat their brains out.}
 #
 {5}{}{Your attack dazed Oswald. He reaches for a weapon.}
 {6}{}{You jaw makes clicking sound, feels like it's displaced. You clothes is soaked with piss. You feel awful.}
@@ -61,7 +61,7 @@
 
 
 {60}{}{Are you fucking lost it? You are way too far up your ass, faggot!}
-{61}{014}{Maybe it's YOU who lost it? Huh? Screaming aroung that you are Oswald Brown? Fuck me. I don't know who that is. And you don't fucking know who *I* am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave with your head in a bag as a souvenir.}
+{61}{014}{Maybe it's YOU who lost it? Huh? Screaming aroung that you are Oswald Brown? Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave with your head in a bag as a souvenir.}
 {62}{007}{And?}
 
 

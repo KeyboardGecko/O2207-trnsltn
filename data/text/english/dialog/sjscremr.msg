@@ -22,10 +22,10 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His bloodshot yellowed eyes immediately capture you whole like a carcass of lavash on a butcher table] Who is this miscarriage of a ghoul on drugs, wandering in here? What the FUCK do you want?!}
+{10}{}{[His bloodshot yellowed eyes immediately capture you whole like a carcass of Lavash on a butcher table] Who is this miscarriage of a ghoul on drugs, wandering in here? What the FUCK do you want?!}
 {11}{011}{Hey, lower your voice. I'm here for a business.}
 {12}{012}{I'm just looking around. Care to explain me something?}
-{13}{035}{Are you the Loudmouth? The Hog has something to say to you...}
+{13}{035}{Are you the Loudmouth? Hog has something to say to you...}
 {14}{035}{Do you even know who you are talking to? I'm an official ambassador of Rainbow, not a low-life molerat! The Hog personally...}
 {15}{040}{Did you hear the latest news from Rainbow?}
 {16}{999}{I was just leaving.}
@@ -75,7 +75,7 @@
 {134}{999}{Uh... I've just remembered I have some business to take care of. See you later.}
 
 
-{140}{}{[He slaps your shoulder] Nice job! Perhaps I'm not only going to leave you your fingers intact, but will also give you a honest reward. [He puts down the rifle with powerful optics from his back, and reloads it a couple of times, checking smoothness of mechanism] Such a good toy... Exactly for you. Now you'll be able to shoot any beast between the eyes from a mile away.}
+{140}{}{[He pats you on the shoulder] Nice job! Perhaps I'm not only going to leave you your fingers intact, but will also give you a honest reward. [He puts down the rifle with powerful optics from his back, and reloads it a couple of times, checking smoothness of mechanism] Such a good toy... Exactly for you. Now you'll be able to shoot any beast between the eyes from a mile away.}
 {141}{012}{A pleasure doing business with you. I still have a couple of questions though.}
 {142}{015}{Is that it? Do you even realize what does it take to kill a Chimera? I bet you took other teeth from an old and dead ones...}
 {143}{999}{Thanks, Loudmouth. Big gun means big future! See you around.}
@@ -208,7 +208,7 @@
 {361}{998}{Not the best of my negotiations...}
 {3602}{}{[He calms down a little, but the knife stays in his hand] What this fucking PIG could possibly offer?! We are wasting time here... }
 {362}{037}{So, here's the deal - the Hog wants to make peace. Yes, I know what you're going to answer. But first, think about it - Rainbow is the only supplier of the Drop, and if the war starts, where are you going to get yours? Considering the Hog would better burn down his lab together with its staff than leave it to you, if he loses. }
-{363}{037}{I detailed Rainbow's defences and military forces, together with their equipment. Even if you succeed in taking over them, your losses will be disastrous. How are you going to protect your territory after that? Considering that the factory is a sweet pie for every gang in the Radius... Of course, there are no one like you and your pack, but still. It's wiser to bid your time and don't go into direct conflict with the Hog.}
+{363}{037}{I detailed Rainbow's defenses and military forces, together with their equipment. Even if you succeed in taking over them, your losses will be disastrous. How are you going to protect your territory after that? Considering that the factory is a sweet pie for every gang in the Radius... Of course, there are no one like you and your pack, but still. It's wiser to bid your time and don't go into direct conflict with the Hog.}
 {364}{037}{Listen, I managed to sign up a very profitable trading agreement with the Rainbow. Considering approximated voume of deliveries, you are selling weapons and buying the Drop at a very good price! And the situation is going to get only better. So use it! With the big money assets, the Jackals will grow so strong that the Rainbow itself will come asking you for protection! And that's when you deal with the Hog.}
 {365}{039}{Right! I'm here only to tell you this - the Hog is afraid of the Jackals! The negotiatons for peace is a sign of weakness! It's time to strike!!}
 {366}{999}{Believe me, you are wrong. But I need to check on some facts. See you later.}
@@ -222,7 +222,7 @@
 {381}{999}{Great. I'll tell that to Hog. Was nice having business with you, but I've got to go.}
 
 
-{390}{}{[He puts a knife away and slaps your shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done... But not now. Later. If you want to join the fun, just say, we'll find you something to do. Will pick fingers for me, hahah.}
+{390}{}{[He puts a knife away and pats you on the shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done... But not now. Later. If you want to join the fun, just say, we'll find you something to do. Will pick fingers for me, hahah.}
 {391}{999}{Ahem... What an honor. Okay, that's it for me, I won't be bothering you anymore.}
 
 

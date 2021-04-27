@@ -24,12 +24,12 @@
 #
 # ¤® §­ ª®¬αβΆ 
 #
-{1}{}{You see: Carol.}
+{1}{}{You see Carol.}
 {2}{}{Carol - a repairwoman, the walking definition of feminism!}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
-{3}{}{You see: Carol.}
+{3}{}{You see Carol.}
 {4}{}{Carol - a repairwoman, the walking definition of feminism!}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
@@ -89,9 +89,9 @@
 #‹€‚€™… ‘™… („®―®«­¨β¥«μ­®)
 #
 {1030}{}{La-dee-dah!}
-{1031}{}{Men. Can't do shit by themselves.}
+{1031}{}{Men. Can't do a thing by themselves.}
 {1032}{}{So, this thingie goes into that thingie.}
-{1033}{}{What the?... Who took my wrench?}
+{1033}{}{What the... Who took my wrench?}
 {1034}{}{Screw that, I'll do fine without it.}
 {1035}{}{Okay, it's gonna work in a minute.}
 {1036}{}{There! Was that so difficult?}

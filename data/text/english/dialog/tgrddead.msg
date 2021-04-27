@@ -45,7 +45,7 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{[Son of Gods is breathing heavily through his mask] Servant... [he coughs] Those cave creatures got me good, and my partner... Uhh, damn... the Gods called for him. Run to the doctor and bring me the medicine. He knows what to do. I said, GO!! FAST!!!}
+{100}{}{[Son of Gods breathes heavily through his mask] Servant... [he coughs] Those cave creatures got me good... My partner... Uhh, damn... the Gods called for him. Run to the doctor and bring me the medicine... "Heal-Up". He will understand. I said GO!! FAST!!!}
 {101}{}{I'm going, okay.}
 {102}{}{I see, I'll be right back, Son of Gods!}
 {103}{}{}

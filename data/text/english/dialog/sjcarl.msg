@@ -78,7 +78,7 @@
 {104}{Renessance}{You have seen a lot in your life. Do you know something about the Renaissance?}
 {105}{040}{Can you briefly explain what's what here?}
 {106}{050}{What are you always busy with?}
-{107}{060}{I still can't make that armor suit...}
+{107}{060}{I still can't make that armored suit...}
 {108}{999}{No, nothing. Maybe I'll come by later.}
 {109}{}{Yes, I'm looking for one thing... Did you hear about Ultra Repair Kit?}
 {113}{070}{Carl, I have something for you to look at... [show him broken water filter engine]}
@@ -90,7 +90,7 @@
 {112}{999}{You are actually right, I'll go check upon that vendor.}
 
 
-{120}{}{Hmm, you want to get yourself a nice suit of armor and not to spend batteries? You know, there *is* a way! I might even help you out, except, you know, there's nothing free in the world... I might have some broken machinery over here, standing idle for a week already. I would fix it myself, but I need the parts, which are in the Chris warehouse. Without the machine I'm doing everything with my bare hands...}
+{120}{}{Hmm, you want to get yourself a nice suit of armor and not to spend batteries? You know, there IS a way! I might even help you out, except, you know, there's nothing free in the world... I might have some broken machinery over here, standing idle for a week already. I would fix it myself, but I need the parts, which are in the Chris warehouse. Without the machine I'm doing everything with my bare hands...}
 {121}{QA}{I see. In the warehouse, you say? We'll fix your machinery, don't worry.}
 {122}{QA}{Yeah-yeah, here we go again, go there, find that... Okay, will do.}
 {123}{010}{Oh, I suddenly have a headache... Let's change the subject.}
@@ -111,7 +111,7 @@
 {203}{022}{I, uh... I've, erm... Poked around the machine, you know... And it suddenly CLANKED, and then went BRRRRRRR! And I suppose it's fixed now...}
 
 
-{210}{}{Of course it wasn't! I would get them myself otherwise! You still have a lot to learn, young lad [he gives you a judging look] So, what are you waiting for? Yeah, like that, give them to me - and now we put this thingie into that thingie with this thingie out... Wait wor it... And now it works!}
+{210}{}{Of course it wasn't! I would get them myself otherwise! You still have a lot to learn, young lad [he gives you a judging look] So, what are you waiting for? Yeah, like that, give them to me - and now we put this thingie into that thingie with this thingie out... Wait for it... And now it works!}
 {211}{023}{Yeah, great. So - what about the armor for me?}
 
 
@@ -119,7 +119,7 @@
 {221}{023}{Nice! So - what about the armor?}
 
 
-{230}{}{Oh, of course, of course... Now listen, you could just make something which *looks* like the armor, you know? What do you think of that? You'll need only a jacket, a can of green paint... [Carl gives you a long explanation about how to make the fake armor] Here, take the necessary stuff. You definitely can assemble it yourself, I'm sure. No need to thank me! I'm just glad to help out a good fella.}
+{230}{}{Oh, of course, of course... Now listen, you could just make something which LOOKS like the armor, you know? What do you think of that? You'll need only a jacket, a can of green paint... [Carl gives you a long explanation about how to make the fake armor] Here, take the necessary stuff. You definitely can assemble it yourself, I'm sure. No need to thank me! I'm just glad to help out a good fella.}
 {231}{999}{Okay, I'll try to handle it.}
 {232}{999}{Oh well, thank you for that.}
 
@@ -131,7 +131,7 @@
 {404}{010}{I see. I want to ask something else.}
 
 
-{410}{}{Ooooh, you *are* a green one, aren't ya? Don't talk like this out loud, there are some guys who would bury you for it. Especially Billy himself. But you will easily recognize him - big guy, huge red beard, covered in scars, shattering earth as he steps on it... Tee-hee, just kidding, of course. He is not all covered in scars, maybe only by a half. Some say he can rip a man in two with his bare hands. So be careful getting into a beef with him.}
+{410}{}{Ooooh, you ARE a green one, aren't ya? Don't talk like this out loud, there are some guys who would bury you for it. Especially Billy himself. But you will easily recognize him - big guy, huge red beard, covered in scars, shattering earth as he steps on it... Tee-hee, just kidding, of course. He is not all covered in scars, maybe only by a half. Some say he can rip a man in two with his bare hands. So be careful getting into a beef with him.}
 {411}{010}{Understood, I'll keep that in mind. I want to ask something else.}
 
 
@@ -154,7 +154,7 @@
 {611}{}{ batteries, no less! So, deal?}
 {612}{062}{Agreed. Here.}
 {613}{999}{Too expensive for me. When I get this much, I'll come back to you.}
-{614}{999}{HOW MUCH!? Hell no! You can buy a whole armor suit for that price! I'll better handle it myself.}
+{614}{999}{HOW MUCH!? Hell no! You can buy a whole armored suit for that price! I'll better handle it myself.}
 
 
 {620}{}{[Takes away your batteries and components for a fake armor] Look, it's simple: this thingie into that thingie, a rivet there, tape here, a little more, now put some paint around... add a little dust for aged effect - and would you look at that, won't tell it from real one at first sight! Here you go, klutz [gives you fake armor]}
@@ -170,7 +170,7 @@
 {711}{}{300? Okay, here goes. Now repair it.}
 {712}{}{Where the hell do you think I get money? I'll better try to handle it myself.}
 
-{720}{}{Ghyah! I do remember. Do *you* remember about my 300 batteries?}
+{720}{}{Ghyah! I do remember. Do YOU remember about my 300 batteries?}
 {721}{}{Damn, I ran around the whole Radius to gather this much! Here, now repair it.}
 {722}{}{Yeah-yeah, soon I'll get the necessary amount.}
 

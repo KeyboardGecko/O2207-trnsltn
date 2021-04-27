@@ -311,7 +311,7 @@
 {560}{}{Exactly! It's everything he thinks about - his dreams. That everyone will respect him for cooking! Idiot! No one in this world cares for your talents! You need to listen to elders and learn from their experience. But you won't get it from him. Damn moron.}
 {561}{054}{I want to ask about something else.}
 
-{570}{}{You don't say! Maybe I should take lavash shit seriously too?}
+{570}{}{You don't say! Maybe I should take Lavash shit seriously too?}
 {571}{058}{You think too much about yourself. Meanwhile, you don't have a half of what Matt has.}
 {572}{060}{Think about him: he needs help, care and protection of his elder brother. He won't make it alone.}
 {573}{063}{Look at yourself: you dream about power, so everyone would be afraid of you, but can't earn respect of your own brother.}
@@ -373,7 +373,7 @@
 {18}{}{I'm sorry, Matt.}
 {19}{}{Seth, is it true that no one cares about us?}
 {25}{}{Yes, Matt. I have only you and no one else.}
-{26}{}{What are we doing? *sob*}
+{26}{}{What are we doing? ::sob::}
 {27}{}{I'm sorry I was such a fool.}
 {28}{}{And I'm sorry I didn't listen to you.}
 {29}{}{It's all right, Matt...}

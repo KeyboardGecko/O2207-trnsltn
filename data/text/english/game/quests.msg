@@ -42,7 +42,7 @@
 {404}{}{You can guard Flint's caravans for a good payoff.}
 {405}{}{Clumsy Owen dislocated his arm, you need to help him.}
 {406}{}{Someone steals canned meat from the warehouse in yard and the innocently accused Skeet is sitting behind bars.}
-{407}{}{Philip's lavash refuse to eat food. Find out the reason behind it.}
+{407}{}{Philip's Lavash refuse to eat food. Find out the reason behind it.}
 {408}{}{The last time water came from Livos, it tasted strange. Sam asks you to look into what's going on.}
 {409}{}{Brothers Seth and Matt can not get along with each other, you need to reconcile them.}
 {410}{}{Blanca is passionately hungry for love. Find the "special device" and do not disappoint her!}
@@ -88,11 +88,11 @@
 # OLYMPUS TOWER Quests
 #
 {900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Gray (The injection works only for 8 days).}
-{901}{}{Phillip Gray is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
+{901}{}{Phillipp Gray is convinced that Constantine Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
 {902}{}{Diamond Crank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
 {903}{}{Diamond Crank is confident that Ludwig Shwein will be able to help him break through a deadlock of his research. Bring Ludwig to him.}
 {904}{}{Captain N34 asks you to fill out all the documentation forms and conduct weapon tests.}
-{905}{}{It's time to change the password for the Control Room. Go to the Server Floor and follow the instructions.}
+{905}{}{It's time to change the password for the Control Room. Go to the Server floor and follow the instructions.}
 {906}{}{KILL ANDERSON!}
 {907}{}{Use the resources of the Olympus Tower as you see fit.}
 {908}{}{Sergeant Jack laid his eyes on Kelly from the Biology Labs. Convince Kelly to meet with Jack.}

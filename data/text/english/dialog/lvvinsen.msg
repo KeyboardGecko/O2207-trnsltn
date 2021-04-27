@@ -219,7 +219,7 @@
 {323}{010}{No I do not agree. I still want to ask.}
 {324}{999}{No, I'll go look for another buyer.}
 
-{330}{}{[Edward reluctantly gives away the bag of batteries. But when he takes the protector's hand, he begins to gently stroke and hug it.] Oh, what a wonderful thing, what a rarity... Oh, my darling...}
+{330}{}{[Edward reluctantly gives away the bag of batteries. But when he takes the roborton's arm, he begins to gently stroke and hug it.] Oh, what a wonderful thing, what a rarity... Oh, my darling...}
 {331}{999}{[You leave Edward alone with this touching occupation]}
 
 {340}{}{[Edward hesitates] I don't know, this thing is wonderful, but I can't let you in if you are not a member of Livos...}
@@ -229,7 +229,7 @@
 {350}{}{Well, you are definitely worthy of wearing the name Schwein! I will quickly sign the paper now! Come here, robot hand!}
 {351}{036}{Take it!}
 
-{360}{}{[Edward quickly gives you the paper] Here - a paper about the adoption from a family, with it you can safely pass. [he takes the protector's hand, begins to gently stroke it and cuddle it] Oh, what a wonderful thing, what a rarity... Oh, my darling...}
+{360}{}{[Edward quickly gives you the paper] Here - a paper about the adoption from a family, with it you can safely pass. [he takes the roborton's arm, and starts to gently stroke and cuddle it] Oh, what a wonderful thing, what a rarity... Oh, my darling...}
 {361}{999}{[You leave Edward alone with this touching occupation]}
 
 {3701}{}{Of course, you can go inside at any time, you're one of us.}

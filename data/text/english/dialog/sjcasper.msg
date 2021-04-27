@@ -186,7 +186,7 @@
 {262}{999}{No, that's it. I'm going.}
 
 
-{274}{}{[Casper critically looks at you] Well... Maybe. I'm still ging to have some troubles changing the conditions of a fight. It's gonna cost you... Six hundred batteries.}
+{274}{}{[Casper critically looks at you] Well... Maybe. I'm still going to have some troubles changing the conditions of a fight. It's gonna cost you... Six hundred batteries.}
 {270}{028}{Deal.}
 {271}{029}{I have only five hundred. I didn't expect to spend more.}
 {272}{030}{I have only five hundred. I didn't expect to spend more.}

@@ -8,8 +8,8 @@
 # Это - аккумулятор для починки в Биолабории 2
 #
 # Описание 1
-{1}{}{You see: power bank.}
-{2}{}{You see: a working power bank.}
+{1}{}{You see a power bank.}
+{2}{}{You see a working power bank.}
 
 # Описание 2
 {3}{}{It's broken, but you might try fixing it with a skill of repair or science not less than 55.}

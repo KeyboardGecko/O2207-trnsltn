@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: wildling.}
-{2}{}{You see: a savage.}
-{3}{}{You see: a local woman.} 
-{4}{}{You see: a huntress.}
-{5}{}{You see: a local.}
+{1}{}{You see a wildling.}
+{2}{}{You see a savage.}
+{3}{}{You see a local woman.} 
+{4}{}{You see a huntress.}
+{5}{}{You see a local.}
 {6}{}{The muscles pop out of a thin skin.}
 {7}{}{She looks stronger than many men you encountered.}
 {8}{}{This is an embodiment of a primal, wild woman.}

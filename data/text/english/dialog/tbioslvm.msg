@@ -22,11 +22,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a Life Servant.}
-{3}{}{You see: one of Life Servants.}
-{4}{}{You see: a male servant.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a Life Servant.}
+{3}{}{You see one of Life Servants.}
+{4}{}{You see a male servant.}
+{5}{}{You see a local.}
 {6}{}{This man is responsible for Tartarus always having enough food.}
 {7}{}{This servant is busy with fertilizing and taking care of crops.}
 {8}{}{His duty is to provide enough food to Tartarus dwellers.}
@@ -65,7 +65,7 @@
 {1014}{}{Instead of bothering me with questions, you'd better water some crops!}
 {1015}{}{Listen, don't bother me, let me rest a little.}
 {1016}{}{What else do you want?}
-{1017}{}{...Remember to comb the lavash...}
+{1017}{}{...Remember to comb the Lavash...}
 {1018}{}{...Crops, crops, you are gonna be my grave.}
 {1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения

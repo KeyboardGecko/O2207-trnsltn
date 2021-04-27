@@ -304,7 +304,7 @@
 {328}{}{The smell of machine oil and raw meat, mixed with ooze of feces and aroma of sweat from hard laboring workers, hits your nose right at the doorway. This is a factory floor.}
 {329}{}{...Another 4 years. You are already 21, but nothing has changed in Tartarus.}
 {330}{}{EXTRA MAP}
-{331}{}{Here and there you see residential tents and dilapidated houses. The ambience is filled with the constant lowing of lavash and buzzing of flies.}
+{331}{}{Here and there you see residential tents and dilapidated houses. The ambience is filled with the constant lowing of Lavash and buzzing of flies.}
 {332}{}{A huge "LIVOS" sign in big, richly decorated letters, points to the entrance of the cave, near which travelers and merchants jostle.}
 {333}{}{The cave arches are merging with concrete walls, in front of which you see an automatic turret. It immediately locks onto you.}
 {334}{}{The staircase leads you to a network of rooms and corridors. Richly dressed vault dwellers are roaming back and forth.}
@@ -463,7 +463,7 @@
 {858}{}{Hmm, looks like the rat won't bite.}
 {859}{}{}
 {860}{}{You've found enough mines. Time to tell Fred.}
-{861}{}{It looks like all the Beasties are dead, you can tell Christie about it.}
+{861}{}{It looks like all the Onca Devils are dead, you can tell Christie about it.}
 {862}{}{Something clicked!}
 {863}{}{Looks like your Perception is too low to detect mines. But clearing them with your feet is also a great way.}
 {864}{}{One is done, but there are still few to find around the house.}

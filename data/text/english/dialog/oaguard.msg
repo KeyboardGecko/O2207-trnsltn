@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: wildling.}
-{2}{}{You see: a savage.}
-{3}{}{You see: a strong savage.}
-{4}{}{You see: warrior.}
-{5}{}{You see: a wild one.}
+{1}{}{You see a wildling.}
+{2}{}{You see a savage.}
+{3}{}{You see a strong savage.}
+{4}{}{You see a warrior.}
+{5}{}{You see a wild one.}
 {6}{}{He flexes his muscles.}
 {7}{}{The expression on his face does not look hospitable at all.}
 {8}{}{His body is fully covered with tattoos.}

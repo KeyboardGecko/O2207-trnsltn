@@ -96,9 +96,9 @@
 {102}{019}{What do you do here?}
 {103}{024}{Tell me about the people who lives in this town.}
 {104}{016}{Where can I find some work?}
-{105}{020}{[You notice some spots of paint on Arsene's clothes, as if he wiped hands with it. Looks just like the paint you put on the bucket with lavash food] Why did you touch the lavash food pen?}
-{106}{022}{Arsene, I know that it is you who puts the machine oil into lavash food mix.}
-{107}{022}{[Your watchful eye of experienced thief notices the traces of lavash food on Arsene's clothes] Arsene, what is it on your clothes? A lavash fod mix?}
+{105}{020}{[You notice some spots of paint on Arsene's clothes, as if he wiped hands with it. Looks just like the paint you put on the bucket with Lavash food] Why did you touch the Lavash food pen?}
+{106}{022}{Arsene, I know that it is you who puts the machine oil into Lavash food mix.}
+{107}{022}{[Your watchful eye of experienced thief notices the traces of Lavash food on Arsene's clothes] Arsene, what is it on your clothes? A Lavash fod mix?}
 {108}{042}{Do you mind me being the Mayor?}
 {109}{999}{Let's talk later. I need to go, bye.}
 
@@ -133,10 +133,10 @@
 {162}{999}{I'll go look for them.}
 
 #Node017
-{170}{}{[Arsene cringes and looks away] What to say? This is, like, boring and stupid town. Nothing to do for cool guys like me and Daniel. It's just, like, lavash and tin cans around. And the folks here are mostly, you know, work all day. I don't know what for. As they say - "Dying lavash won't give a good offsprings". }
+{170}{}{[Arsene cringes and looks away] What to say? This is, like, boring and stupid town. Nothing to do for cool guys like me and Daniel. It's just, like, Lavash and tin cans around. And the folks here are mostly, you know, work all day. I don't know what for. As they say - "Dying Lavash won't give a good offsprings". }
 {171}{029}{Tell me about Daniel.}
 {172}{018}{Do you have a job?}
-{173}{023}{Dying lavash won't give a good offsprings? And what does it mean?}
+{173}{023}{Dying Lavash won't give a good offsprings? And what does it mean?}
 {174}{010}{I'll ask something else then.}
 {175}{999}{I see. I'll go ask someone else about the town.}
 
@@ -154,12 +154,12 @@
 {194}{999}{I need to go now. Bye.}
 
 #Node020
-{200}{}{[Arsene confusingly stares at you] Er, we're, like... Me and Daniel, we... Uhh... Tried to reduce the consumption of lavash food rations, you know! So I put some machine oil in it.}
+{200}{}{[Arsene confusingly stares at you] Er, we're, like... Me and Daniel, we... Uhh... Tried to reduce the consumption of Lavash food rations, you know! So I put some machine oil in it.}
 {201}{021}{You shouldn't, really. They refuse to eat now. At all. Philip wouldn't like to learn about this...}
 {202}{021}{Yeah? Are you really this dumb? I think you should be assigned with a job of Philip's assistant.}
 
 #Node021
-{210}{}{Man, I never thought that lavash are smarter than people. The local folk ate the oiled meat without complaining... Listen, don't tell Philip about me! I'll give you four packs of Combatid if you won't!}
+{210}{}{Man, I never thought that Lavash are smarter than people. The local folk ate the oiled meat without complaining... Listen, don't tell Philip about me! I'll give you four packs of Combatid if you won't!}
 {211}{999}{Uh, I'm sorry! I won't do it anymore, I swear! And to show you I'm honest, I'm ready to part with my supply of Combatid. Four packs. And I'd like you to not tell it to Philip. I don't need another enemy...}
 {212}{999}{Okay, give me your Combatid, I won't tell Philip. But you should stop putting oil in everything, got it? Okay, I need to go.}
 {213}{010}{I'll think about it. For now, I have some questions.}
@@ -214,12 +214,12 @@
 
 #Node030
 {300}{}{We are doing all kinds of things togethere. Everyone's, like, talking about us. We are the most famous in all NWO! We, like, had a hand in every matter.}
-{301}{031}{Did you have a hand into lavash food pen too?}
+{301}{031}{Did you have a hand into Lavash food pen too?}
 {302}{032}{Tell me about something you did.}
 {303}{010}{I want to ask more.}
 
 #Node031
-{310}{}{[Arsene smiles] Oh, you, like, figured it out already! Yes, it was us! I came up with, uh, an idea - to water down the lavash food mix with machine oil, or something. We already did the same with canned food a couple of times!}
+{310}{}{[Arsene smiles] Oh, you, like, figured it out already! Yes, it was us! I came up with, uh, an idea - to water down the Lavash food mix with machine oil, or something. We already did the same with canned food a couple of times!}
 {311}{021}{You shouldn't have done it, really. Lavash refuse to eat now. At all. Philip will be very pissed.}
 {312}{021}{Yeah? Are you really this dumb? I think you should be assigned with a job of Philip's assistant.}
 

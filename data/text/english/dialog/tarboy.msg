@@ -59,11 +59,11 @@
 {131}{}{Oh you little...}
 {132}{}{Wow, thanks, kid! See you around!}
 {133}{}{Just what I need! Thanks, boy.}
-{140}{}{Well... [he meaningfully ponders] Okay then! Riddle me this - who is sneaking in the night through the path that's out of sight, wants to eat your tasty brains and to dance on what remains?}
-{141}{}{Ugh... Hungry zombie?}
+{140}{}{Well... [he meaningfully ponders] Okay then! Riddle me this - who is sneaking in the night through the path that's out of sight, wants to eat your tasty brains and to lay on what remains?}
+{141}{}{Ugh... Scary creature?}
 {142}{}{Erm... Grey jackal?}
-{143}{}{Ahem... Dreadful creature?}
-{144}{}{I know, I know! It's me! Oooooh! Give me your treasure!}
+{143}{}{Ahem... Hungry Feral?}
+{144}{}{I know, I know! It's me! Booo! Give me your treasure!}
 {1501}{}{Nah, wrong. Bye, unworthy big guy!}
 {1502}{}{[The boy gets all pouty] You knew! Okaaay, I'll be right back. [He runs off and returns with the "treasure"] Here!}
 {151}{}{Why didn't you start with that, pip-squeak!}
@@ -77,7 +77,7 @@
 {1003}{}{Don't touch me!}
 {1004}{}{MOOOM!! HE STARTED IT!!!}
 {1005}{}{I have a special stone. Do you?}
-{1006}{}{Did you see me beating up that rug rat yesterday?}
+{1006}{}{Did you see me beating up that rugrat yesterday?}
 {1007}{}{Look what thingie I have here!}
 {1008}{}{MOOOOOOM! HE IS HASSLING ME AGAIN!!!}
 {1009}{}{I'll tell my brother about you, he's gonna beat you up!!!}

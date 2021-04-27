@@ -51,8 +51,8 @@
 {123}{}{You have completely filled the candy box.}
 {124}{}{There is not enough sugar in the unit. Fill the candy box.}
 {125}{}{A drop of the liquor hits your palm, and a searing pain causes you to pull your hand away.}
-{126}{}{You have successfully filled a bottle with the potent hootch, but is it worth drinking?}
-{127}{}{You have successfully installed the candy filter in the machine!}
+{126}{}{You have successfully filled a bottle with a potent hooch, but would you risk drinking it?}
+{127}{}{You have successfully installed the moonshine filter in the machine!}
 {128}{}{It returned to you }
 {129}{}{ pieces of candy.}
 #

@@ -24,18 +24,18 @@
 #
 # до знакомства
 #
-{1}{}{You see: a boy.}
+{1}{}{You see a boy.}
 {2}{}{This kid looks more like scared pet than a human child.}
 #
 # после знакомства
 #
-{3}{}{You see: ???.}
+{3}{}{You see ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
 {10}{}{Dad says I shouldn't talk to strangers.}
-{11}{}{Don't touch me! Are you a cannibal?}
+{11}{}{Don't touch me! What if you are a cannibal?}
 {12}{}{Daddy, I'm scared!}
 {13}{}{}
 {14}{}{}

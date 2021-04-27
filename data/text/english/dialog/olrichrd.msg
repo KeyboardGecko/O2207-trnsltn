@@ -11,113 +11,101 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: статный, крепко сложенный офицер.}
-{2}{}{Его снаряжение в идеальном состоянии.}
+{1}{}{You see a handsome, well-built officer.}
+{2}{}{His equipment is in perfect condition.}
 #
 # после знакомства
-{3}{}{Вы видите: Капитан Ричардс.}
-{4}{}{Он напоминает само здание Олимпа. Такой же непоколебимый и выделяющийся, как и объект сравнения.}
+{3}{}{You see captain Richards.}
+{4}{}{He reminds you of the Olympus itself - equally unshakeable and identifiable.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Грегг? А я уж думал ты прирос к Тартару со своими проповедями. Как дела? [Вы обращаете внимание на нашивку "Капитан Ричардс"]}
-{11}{}{Дуглас! Никак, уже собрал все для этих яйцеголовых? [Вы обращаете внимание на нашивку "Капитан Ричардс"]}
-{12}{003}{Нормально, решил ненадолго отдохнуть от работы. }
-{13}{002}{Нормально, а ты кто?}
-{14}{008}{Ричардс, а ты, как я вижу, прирос к этому месту!}
-{15}{012}{Да, у меня все с собой...}
-{16}{011}{Нет, решил ненадолго вернуться восстановить силы.}
-{17}{020}{Да, сэр, я все принес.}
-{18}{020}{Нет, сэр, решил ненадолго вернуться восстановить силы.}
+{10}{}{Greg? I started to think that you have taken roots in the Tartarus, with all of your preachings. How are you doing? [you notice his badge, which reads "cpt. Richards"]}
+{11}{}{Douglas! If you are here, then you've brought all the stuff for these eggheads! Right? [you notice his badge, which reads "cpt. Richards"]}
+{12}{003}{Fine. Decided to rest a little.}
+{13}{002}{I'm fine. Who're you?}
+{14}{008}{As I see it, it's you who has taken roots in this place, Richards!}
+{15}{012}{Yes, I gathered everything...}
+{16}{011}{No, I decided to get some rest before venturing forth.}
+{17}{020}{Yes sir! I brought everything.}
+{18}{020}{No sir! I decided to get some rest before venturing forth.}
 
-{20}{}{Что? [офицер замирает на несколько мгновений] ТРЕВОГА! У НАС НАРУШИТЕЛЬ! ВЗЯТЬ ЕГО!}
-{21}{998}{[бой]}
+{20}{}{What? [he freezes for a moment] ALARM! AN INTRUDER HERE! GET HIM!}
+{21}{998}{[fight]}
 
-{30}{}{Ха, да у тебя ж язык без костей! [офицер задумывается] Если есть желание нормально размяться, вспомнить былые военные годы - у меня есть задание от Филлипа Грея. Интересно?}
-{31}{004}{Да, давай, почему нет?}
-{32}{007}{Возможно, а за разминку полагается награда?}
+{30}{}{Ha, you still got a mouth on you! [he pauses] If you want to warm-up a little for old time's sake, I have a mission from Philipp Gray. Interested?}
+{31}{004}{Sure, why not?}
+{32}{007}{Maybe. Is there a reward for this warm-up?}
 
+{40}{}{Then you're going to need a good equipment. Your bath robe won't do. Wait... [he takes out a worn-out armor and hands it to you. Then he gives you a small package] Here's a pheromone injection which you are goinna be using, and also the coordinates of an old bunker. A bunch of Chimeras inhabited the place, so, now it's their den, I guess. You will need to inject the Queen Chimera with this shit and bring it to Gray. But remember this VERY well - our nerds said that the beast is really huge, so the effect of the serum won't last for more than a week. When you bring the Queen to me, I'll give you the key from a Biology level, where you meet Gray.}
+{41}{005}{A Chimera's den? Couldn't you start with that?}
+{42}{006}{Chimeras? I love Chimeras.}
+{43}{999}{Sounds good! But I better, uh, go...}
 
-{40}{}{Окей, тогда тебе понадобится снаряга нормальная. Твой дамский халатик не поможет [офицер хохотнул]. Погодь... [Ричардс достал слегка потрепанную броню и вручил Вам. В комплекте с ней был небольшой сверток]. Здесь же инъекция феромонов, которая тебе потребуется и координаты. Там старый бункер, который облюбовали химеры. Нужно прокрасться, уколоть матку этой дрянью и привести ее к Грею. Только ЗАПОМНИ: очкарики говорят, что та зверюга - настоящая громадина, поэтому сыворотка будет действовать не больше 8-ми дней. Как приведешь матку - дам тебе ключ от этажа биологии, где Грей сидит.}
-{41}{005}{Логово химер? А ты раньше сказать не мог?}
-{42}{006}{Химеры? Обожаю химер.}
-{43}{999}{Неплохо! Отличная разминка. Пожалуй, я пойду...}
+{50}{}{Greg, don't tell me you've gone completely soft in this Tartarus. Come on, goddamn it, don't be a girl, It whould be good for you! I can't look at what you are turning into.}
+{51}{999}{Okay, I'm going to go get prepared for this "warm-up".}
 
+{60}{}{[Richards laughs and pats you on the shoulder] Just like an old times. After you finish with it, I suggest we go grab a drink.}
+{61}{999}{Definitely.}
 
-{50}{}{Грегг, ты что, совсем бабой сделался в своем Тартаре? Давай, черт тебя дери, тебе полезно! Не могу смотреть на то, во что ты превращаешься.}
-{51}{999}{Да уж, пойду морально готовиться к этой "разминке".}
+{70}{}{Ha, you're at it again. I think it's you who will be treating, just for a given chance to breathe some fresh air.}
+{71}{004}{You wish... Okay, tell me details.}
 
+{80}{}{[he laughs]Are you hinting that I owe you a case of booze because of the last argument? I had my arm broken! I couldn't go into Radius, so the bet is off!}
+{81}{009}{Really? Well... Okay.}
 
-{60}{}{[Ричардс посмеялся и похлопал Вас по плечу] Да, как в старые-добрые. После того как закончишь это дело - предлагаю пропустить по стаканчику.}
-{61}{999}{Да, окей. Так и поступим.}
+{90}{}{By the way, if you want to warm-up a little for old time's sake, I have a mission from Philipp Gray. Interested?}
+{91}{004}{Sure, why not?}
+{92}{007}{Maybe. Is there a reward for this warm-up?}
 
+{95}{}{I didn't mean you have to jump into a Chimera's lair right away, don't take me wrong! I think that it's actually a pretty dangerous assignment... So you should rest a little first. Talk to the guys around. By the way, Jock is getting too nervous lately - maybe you can help him. [he winks]}
+{96}{004}{I'll keep that in mind.}
 
-{70}{}{Ха, ты опять за старое. Я думаю это ты мне будешь проставляться за возможность подышать свежим воздухом.}
-{71}{004}{Да уж... ладно, рассказывай - что там.}
+{110}{}{Damn, Doug, are you getting old? If I see you without this trash you're looking for our smart-asses, you're going to owe me a bottle of wine from Livos. No, a box! [he laughs] Okay, get some rest. And I guess I should write a report about why our nerds are not getting their toys in time.}
+{111}{}{Do you remember about the wine? [he laughs] Okay, I'll let it slide this time. But I am going to remind you of it every chance I get! }
+{112}{}{Damn, Doug, it's not funny anymore.  Next time you'll be the one writing the report.}
+{113}{999}{Okay...}
 
+{120}{}{That's how we do it! Let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject the Queen Chimera with the serum and bring her here. Questions? No questions. Come on, Doug, I'm counting on you.}
+{121}{}{At last! I started to think that our eggheads will eat my brain. And don't forget, you owe me! Now let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject the Queen Chimera with the serum and bring her here. Questions? No questions. Dismissed.}
+{122}{999}{[end of dialogue]}
 
-{80}{}{[офицер рассмеялся] Это ты так тонко намекаешь, что я тебе задолжал ящик выпивки за тот спор? У меня была сломана рука! Я не мог выйти в Радиус, так что спор аннулируется!}
-{81}{009}{Да? Ну... ладно.}
+{100}{}{Greg! I see your task went great...}
+{101}{}{Greg, are you still here? I'm going to ask you to hurry - Grey is getting on my nerves.}
+{102}{}{Douglas, I hope you are here not to loiter around, but to make me happy?}
+{103}{}{Douglas! Glad you're made it... Holy shit, what a huge thing! Go, take her to Gray, I'm not actually a fan of these creatures.}
+{104}{}{Douglas, I see you, but I don't see the Chimera. I'm going to assume that you still didn't venture into Radius.}
+{105}{}{Greg, come by later, we'll go grab a drink, but now I'm a little busy...}
+{106}{}{Douglas, I have no missions for you. Go and get some rest.}
+{1001}{013}{[continue]}
+{1002}{999}{I was just wrapping up some unfinished things. Moving out.}
+{1003}{012}{Yes, I brought everything...}
+{1004}{011}{No, I got back to get some rest before going on a mission.}
+{1005}{014}{[continue]}
+{1006}{999}{I'm going! Already going!}
+{1007}{999}{Okay, I'll come later.}
+{1008}{999}{Okay, I'll come later.}
+{1009}{10a}{I wanted to clarify something: Jock has been mentioning some Timmy. Do you know who he is?}
 
+{114}{}{Of course I know who he was! All these guys are like a family to me. And I remember Timmy, such a nice young lad. I heard the rumors about Jock bullying him, but never witnessed the thing with my own eyes. Fellas have been saying that Jock made Timmy to go into the Purgatory for something - and no one saw Timmy since... Believe me, I won't let some shit like this happen again.}
+{115}{999}{I see. Okay, I need to go do my job.}
 
-{90}{}{Кстати, если есть желание нормально размяться, вспомнить былые военные годы - у меня есть задание от Филиппа Грея. Интересно?}
-{91}{004}{Да, давай, почему нет?}
-{92}{007}{Возможно, а за разминку полагается награда?}
+{130}{}{I know you would handle it better than anyone! We are an old school, after all. Okay, now I'm going to ask you to take this thing to Gray, and fast - I'm not a fan of them, unlike Philipp, and I would prefer to rip its guts instead of giving her a tour around the place. [he hands you a keycard] Here, use it to get to an Organic level, or how was it... Okay, take this holy shit away from me.}
+{131}{999}{Okay.}
 
+{140}{}{[he hands you a keycard] Here, use it to get to an Organic level, or how was it... Okay, take this holy shit away from me.}
+{141}{999}{Okay.}
 
-{95}{}{Подожди-подожди, ну не сразу же к химерам лезть! Я так чую, что дело это довольно опасное... Ты бы отдохнул пока здесь, с ребятами поболтай. Кстати, Джок вон совсем нервный стал - может ты ему чем поможешь? [подмигивает]}
-{96}{004}{Хмм, ну ладно, учту.}
+{200}{}{Sir? What the hell is wrong with you? }
+{201}{022}{Just an old habit. Picked it in Radius. It has some tough stuff going on, you know.}
+{202}{021}{Uhh...}
 
+{210}{}{Do you even remember my name?}
+{211}{002}{Captain?}
+{212}{002}{Richards?}
+{213}{002}{John?}
+{214}{002}{Eddie?}
 
-{110}{}{Черт, Даг, ты что, стареешь? Если я тебя в следующий раз увижу без всего хлама для яйцеголовых - ты мне торчишь бутылку вина из Лайвоса. [он задумался] Нет, ящик! [он рассмеялся] Давай, отдыхай. А мне скоро в очередной раз писать отчет почему наши ботаники до сих пор не получат свои новые игрушки.}
-{111}{}{Ты помнишь про вино? [он ехидно смеется] Ладно, на этот раз - прощаю. Хотя нет, запишу на твой счет! И буду тебе напоминать про это при всяком удобном случае.}
-{112}{}{Черт, Даг, это уже ничерта не смешно. В следующий раз объяснительные будешь сочинять ты!}
-{113}{999}{Окей...}
-
-{120}{}{Вот это по нашему! Давай все проверим... [Ричардс сверяется со списком и одобрительно кивает] Отличная работа. Однако, сейчас я тебе рассиживаться не позволю! Есть задачка срочная, от Филиппа Грея. [капитан вручает Вам сверток] Здесь координаты и инъекция. Твоя задача - проникнуть в логово химер, ввести эту дрянь их Матке и вывести ее оттуда. Доложится по итогам мне. Вопросы? [Вы только хотели спросить, но он Вас перебил] Нет вопросов? Отлично! Давай, Даг, я на тебя рассчитываю!}
-{121}{}{Ну наконец! Я уж думал, что яйцеголовые съедят мой мозг по чайной ложечке! И не забудь про свой должок! [он рассмеялся] Давай все проверим... [Ричардс сверяется со списком и одобрительно кивает] Отличная работа. Однако, сейчас я тебе рассиживаться не позволю! Есть задачка срочная, от Филиппа Грея. [капитан вручает Вам сверток] Здесь координаты и инъекция. Твоя задача - проникнуть в логово химер, ввести эту дрянь матке и вывести ее оттуда. Доложится по итогам мне. Вопросы? [Вы только хотели спросить, но он Вас перебил] Нет вопросов? Отлично! }
-{122}{999}{[конец диалога]}
-
-{100}{}{А, Грегг! Вижу, поход удался на славу...}
-{101}{}{Грегг, ты еще не ушел? Просьба к тебе - поторопится. Мне Грей всю плешь проел уже...}
-{102}{}{Дуглас, надеюсь теперь ты здесь не штаны протираешь, а пришел меня порадовать?}
-{103}{}{Дуглас! Рад что ты вернулся... Срань господня, ну и здоровая гадина. Давай ты ее поскорее отведешь к Грею, а то я не питаю особой любви к этим тварям.}
-{104}{}{Дуглас, я тебя вижу, а химеру - нет. Могу предположить, что ты еще даже не отрывал свой зад чтобы даже выйти в Радиус?}
-{105}{}{Грегг, зайди позже - пропустим по стакашке, а сейчас я очень занят...}
-{106}{}{Дуглас, у меня пока нет для тебя заданий. Можешь отдохнуть.}
-{1001}{013}{[продолжить]}
-{1002}{999}{Да, просто нужно было закончить кое-какие дела. Уже выдвигаюсь.}
-{1003}{012}{Ага, у меня все с собой...}
-{1004}{011}{Не, решил ненадолго вернуться чтобы восстановить силы.}
-{1005}{014}{[продолжить]}
-{1006}{999}{Иду-иду! Уже иду!}
-{1007}{999}{Окей, зайду попозже.}
-{1008}{999}{Окей, зайду попозже.}
-{1009}{10a}{Хотел уточнить кое-что: тут Джок про какого-то Тимми упоминал. Не знаешь такого?}
-
-{114}{}{Да как же не знаю!? Все эти ребята - моя семья. Конечно, я помню Тимми, славный малый был. Ох и натерпелся он от Джока, но я засранца с поличным так и не застал - только по слухам знаю. Ребята говорили, что вроде как Джок беднягу на разведку в Чистилище отправил, и больше Тимми никто не видел... Ты уж поверь - я постараюсь, чтоб такой херни больше никогда не случилось.}
-{115}{999}{Ясно. Ну, мне пора поработать.}
-
-{130}{}{Я знал, что ты лучше любого справишься! Старая школа все-таки. Так, а теперь прошу тебя взять и отвести эту тварь поскорее к Грею. Я, в отличие от Филиппа, предпочел бы выпотрошить эту гадину, а не выгуливать ее по дому. Вот тебе ключ [он протягивает ключ-карту]. С этой штукой попадешь на его этаж органики, или как там его... А теперь, убери от меня скорее эту срань господню.}
-{131}{999}{Окей.}
-
-
-{140}{}{Вот, держи [он протягивает ключ-карту]. С этой штукой попадешь на его этаж органики, или как там его... А теперь, убери от меня скорее это.}
-{141}{999}{Окей.}
-
-
-{200}{}{Сэр? Ты что там, совсем уже умом тронулся? }
-{201}{022}{Да не, просто отхожу от привычки. В Радиусе жесткие порядки местами.}
-{202}{021}{Э-э-э...}
-
-
-{210}{}{Ты хоть не забыл, как меня зовут?}
-{211}{002}{Капитан?}
-{212}{002}{Ричардс?}
-{213}{002}{Джон?}
-{214}{002}{Эдди?}
-
-
-{222}{}{Да, похоже, задумка "дать тебе интересное задание вне Олимпа" была не очень...}
-{220}{012}{Да все нормально! Как я уже сказал - я все принес.}
-{221}{011}{Да все нормально! Мне просто нужно немного отдохнуть, восстановить силы.}
+{222}{}{Looks like the idea to give you "an interesting mission outside of Olympus" was not that great...}
+{220}{012}{It's alright, really! As I said, I brought everything.}
+{221}{011}{It's alright, really! I just needed get to some rest.}

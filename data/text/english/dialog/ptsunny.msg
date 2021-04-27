@@ -11,11 +11,11 @@
 #CRITTER DESCRIPTION
 #
 # before meeting
-{1}{}{You see: a dirty girl.}
+{1}{}{You see a dirty girl.}
 {2}{}{Her clothes are covered in dirt and torn in several places.}
 #
 # after meeting
-{3}{}{You see: Sunny.}
+{3}{}{You see Sunny.}
 {4}{}{Her clothes are covered in dirt and torn in several places.}
 #
 #HERE BEGINS A DIALOGUE

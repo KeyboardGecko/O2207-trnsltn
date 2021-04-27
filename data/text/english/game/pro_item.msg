@@ -446,12 +446,12 @@
 {22301}{}{A powerful army painkiller that heals even very deep wounds. It also increases strength and resistance to damage. Very essential in battle!}
 {22400}{}{Antidote}
 {22401}{}{If you are poisoned take a couple of pills and you will not face death from bloody diarrhea!}
-{22500}{}{Rot Gut}
-{22501}{}{The smell from the bottle of hootch knocks you off your feet, but this folk remedy let's you sweat out poisons pretty good!}
-{22600}{}{Rad-Out}
-{22601}{}{An injection that expels radioactive patricles from your bloodstream. Unpleasant, but useful!}
+{22500}{}{Poison-Out}
+{22501}{}{Maybe the smell from this bottle of hooch can knock you off your feet, but this folk remedy still makes you sweat out the poison pretty good!}
+{22600}{}{RadOut}
+{22601}{}{An injection that removes radioactive particles from your bloodstream. Unpleasant, but useful!}
 {22700}{}{Wild Potion}
-{22701}{}{Scorpion tails, rat nails, mole rat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
+{22701}{}{Scorpion tails, rat claws, molerat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
 {22800}{}{Iodide}
 {22801}{}{If you are going to toy around the core of a nuclear reactor this miracle pill will help you not to burn out from your insides. Take before exposure!}
 {22900}{}{Resistanol}
@@ -541,7 +541,7 @@
 {27100}{}{Firehose Box}
 {27101}{}{You have always liked to set things on fire rather than putting it out.}
 {27200}{}{Vending Machine}
-{27201}{}{Be careful with them, it seems this containers are very deranged.}
+{27201}{}{Be careful with them, it seems like this containers are very dilapidated.}
 {27300}{}{Hood}
 {27301}{}{A hood of a car with obvious traces of corrosion.}
 {27400}{}{Trunk}
@@ -589,7 +589,7 @@
 {29500}{}{*Valve*}
 {29501}{}{One of the parts for the pump valve filter.}
 {29600}{}{Pump Valve Filter}
-{29601}{}{Missing spare part for the broken water treatment unit.}
+{29601}{}{Missing spare part for the broken water filtering unit.}
 {29700}{}{Nuclear Moonshine}
 {29701}{}{A bottle of an extremely strong liquor. It glows in the dark!}
 {29800}{}{*Douglas's Badge*}
@@ -610,8 +610,8 @@
 {30501}{}{A bag of organic fertilizers. Just a handful of this fertilizer and the corn will grow fine and dandy.}
 {30600}{}{*Whetstone*}
 {30601}{}{This stone can be used to sharpen any edged weapon.}
-{30700}{}{Chimera Fang}
-{30701}{}{The tooth, or rather the fang, of the most dangerous creature, the Chimera! You are lucky that you were able to get it and remain all your limbs.}
+{30700}{}{Chimera's Fang}
+{30701}{}{The tooth - or rather, the fang - of the most dangerous creature, the Chimera! You are lucky that you were able to get it and keep all your limbs.}
 {30800}{}{S-Virus Strain}
 {30801}{}{A sealed ampoule containing a deadly virus. Be very careful with it!}
 {30900}{}{Strange Book}
@@ -869,7 +869,7 @@
 {43500}{}{Paint}
 {43501}{}{An old can of oil paint. You could paint a wall.}
 {43600}{}{Lavash Skin}
-{43601}{}{The tanned skin of lavash can be used to make leather items.}
+{43601}{}{The tanned skin of Lavash can be used to make leather items.}
 {43700}{}{*Metal Reel*}
 {43701}{}{A reel of rolled up five millimeters thick metal sheets.}
 {43800}{}{Tin can}
@@ -881,7 +881,7 @@
 {44100}{}{*Dried Cheese*}
 {44101}{}{A piece of very old parmesan cheese, however it has already dried to the state of wood.}
 {44200}{}{Lavash Meat}
-{44201}{}{A piece of raw and fresh lavash meat, rich in protein and juicy.}
+{44201}{}{A piece of raw and fresh Lavash meat, rich in protein and juicy.}
 {44300}{}{Sugar}
 {44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}
@@ -969,7 +969,7 @@
 {48500}{}{Rusty Grate}
 {48501}{}{An old rusty grate. After touching it, red spots remain on the fingers.}
 {48600}{}{Moonshine Filter}
-{48601}{}{A simple filter for the moonshine distiller. It looks like it should save the consumption of rare candies.}
+{48601}{}{A simple filter for the moonshine distiller. Installing it would reduce the consumption of rare candies.}
 {48700}{}{Jackal Grip}
 {48701}{}{The grip of the Jackal Revolver, find the rest of the parts and build yourself a great gun.}
 {48800}{}{Jackal Barrel}
@@ -1025,9 +1025,9 @@
 {51300}{}{D.E.U.S. Weapon}
 {51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
 {51400}{}{Horn}
-{51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
+{51401}{}{A trophy from the Chimera's corpse, you can use it as a weapon.}
 {51500}{}{Claw}
-{51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
+{51501}{}{A claw of the Chimera. Dangerous stuff in battle.}
 {51600}{}{Fang}
 {51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
 {51700}{}{Sharp Fang}

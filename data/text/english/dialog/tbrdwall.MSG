@@ -6,11 +6,11 @@
 #
 #
 # Описание 1
-{1}{}{You see: a wall.}
+{1}{}{You see a wall.}
 {2}{}{It looks like any other wall.}
 
 # Описание 2
-{3}{}{You see: a fresh brickwork.}
+{3}{}{You see a fresh brickwork.}
 {4}{}{It's pretty noticeable that the bricks are freshly laid. The cement also looks so weak it could be pulled out with a finger.}
 
 # Действия

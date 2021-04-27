@@ -178,7 +178,7 @@
 {302}{999}{Let's talk later.}
 
 
-{310}{}{Oh, I see you took notice! This is my special over-baked ham from lavash hindquarters. Take a bite, it's just out of the oven.}
+{310}{}{Oh, I see you took notice! This is my special over-baked ham from Lavash hindquarters. Take a bite, it's just out of the oven.}
 {311}{032}{Gladly!}
 {312}{033}{From hind... What? Thanks, but I'm not eating the food with such unappetizing name.}
 
@@ -188,7 +188,7 @@
 {322}{037}{A little bittery, but will do.}
 
 
-{331}{}{Haha! Hindquartets is a hip part of lavash. This name was used in an old culinary books. Well, if you don't want - suit youself, I won't be forcing you.}
+{331}{}{Haha! Hindquartets is a hip part of Lavash. This name was used in an old culinary books. Well, if you don't want - suit youself, I won't be forcing you.}
 {332}{034}{Meh...}
 {333}{032}{Okay, I'm convinced, let me try it!}
 {334}{999}{Let's talk later.}
@@ -206,7 +206,7 @@
 {354}{999}{Talk later.}
 
 
-{360}{}{We have plenty of lavash meat, in addition I gather rare herbs that I know of. But lately it becomes harder. And meat all the time is, you know... Tiresome.}
+{360}{}{We have plenty of Lavash meat, in addition I gather rare herbs that I know of. But lately it becomes harder. And meat all the time is, you know... Tiresome.}
 {361}{040}{I could look for new products for you to cook with.}
 {362}{039}{I see. I want to ask something else.}
 
@@ -279,7 +279,7 @@
 {472}{050}{Not yet.}
 
 
-{480}{}{[the happiness on his face disappeares without a trace] So much hope - and now it's lost... Maybe I shouldn't have dreamed about such stupid things. Looks like my fate is to to roast iguanas and steal lavash meat from the factory...}
+{480}{}{[the happiness on his face disappeares without a trace] So much hope - and now it's lost... Maybe I shouldn't have dreamed about such stupid things. Looks like my fate is to to roast iguanas and steal Lavash meat from the factory...}
 {481}{049}{I'm sorry that you had to learn this. Still, don't be sad.}
 
 
@@ -312,13 +312,13 @@
 
 {16}{}{A storm of emotions from this incredible meal increases your maximum health by 5 points.}
 {17}{}{So, you're back now, dreamer?}
-{18}{}{*Sob*}
+{18}{}{::sob::}
 {19}{}{Now you understand what happens with the ones like you in this world?}
 {25}{}{Just die, you old asshole!}
 {26}{}{I am so sorry, brother...}
 {27}{}{There, there. Stop whining then.}
 {28}{}{Damn son of a bitch!}
-{29}{}{You asshole! *Sob*}
+{29}{}{You asshole! ::sob::}
 {35}{}{You came in a wrong tent.}
 {36}{}{I have nothing to talk about with my brother's errand boys.}
 {37}{}{I don't know how to thank you.}

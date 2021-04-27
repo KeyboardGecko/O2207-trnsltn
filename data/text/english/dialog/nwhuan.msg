@@ -71,7 +71,7 @@
 {82}{028}{My curiosity is satisfied. See you around.}
 
 #Node009
-{90}{}{This is a "Happy Bull" canning factory. Here we turn our good old lavash into cans with meat. [Juan quietly laughs]}
+{90}{}{This is a "Happy Bull" canning factory. Here we turn our good old Lavash into cans with meat. [Juan quietly laughs]}
 {91}{012}{Sweet.}
 {92}{011}{"Happy bull"? For real?}
 {93}{006}{I'd like to ask about something else.}
@@ -90,7 +90,7 @@
 {123}{028}{Gloomy is not the right word. I'd better go.}
 
 #Node013
-{130}{}{You know, sometimes I think that even not every human has one. As for lavash, I've seen so many of them in my life that I don't even hear their dying screams. Can you imagine? There's butchering going on all day in the bay, hide being skinned, and revving of a dying cattle is just a minor working noise, which you don't even pay attention to. I've looked into their helpless eyes so many times, tried to find even a little bit of... Something. Waited for some sign - is this the right thing to do, to kill and to continue killing so many living creatures? Is it good? And there's only emptiness in their eyes. [Juan looks from under his thick eyebrows]. Only emptiness.}
+{130}{}{You know, sometimes I think that even not every human has one. As for Lavash, I've seen so many of them in my life that I don't even hear their dying screams. Can you imagine? There's butchering going on all day in the bay, hide being skinned, and revving of a dying cattle is just a minor working noise, which you don't even pay attention to. I've looked into their helpless eyes so many times, tried to find even a little bit of... Something. Waited for some sign - is this the right thing to do, to kill and to continue killing so many living creatures? Is it good? And there's only emptiness in their eyes. [Juan looks from under his thick eyebrows]. Only emptiness.}
 {131}{014}{You said "at least, for now". Is there something wrong?}
 {132}{999}{Oh man, you are cracking up so hard. [leave]}
 
@@ -290,7 +290,7 @@
 
 
 {510}{}{Mayor! Glad to see you!}
-{511}{053}{How's it ging with the machinery? Did you catch a thief?}
+{511}{053}{How's it going with the machinery? Did you catch a thief?}
 {512}{041}{How's it going in the factory bay? Complaints, propositions?}
 {513}{052}{How are you, Juan?}
 

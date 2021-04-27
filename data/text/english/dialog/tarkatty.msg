@@ -48,8 +48,8 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ œŒ—À≈ «Õ¿ ŒÃ—“¬¿
 #
-{100}{}{, hi! [Catty looks upset]}
-{101}{}{, my mom got very sick. And this old geezer Pat doesn't want to give her medicine! Mom feels very bad, I'm so scared! [she sobs]}
+{100}{}{, hi! [Catty looks visibly upset]}
+{101}{}{... It's just... My mom got very sick. And this old geezer Pat doesn't want to give her medicine! Mom feels very bad, I'm so scared! [she sobs]}
 {102}{}{Hi, Catty! I just came to visit. Well, uh, see you around!}
 {103}{}{Yeah? You, uh, should ask him more, I guess... Bye!}
 {104}{}{Why is he so greedy? He gives them to anyone all the time! Isn't that why the Gods sent him here??}
@@ -61,20 +61,20 @@
 {110}{}{I don't knoooow!!! [she sobs] He... He says... He already gave mom... Mom her medicineeee...}
 {111}{}{You know, it's so scary to talk to him... I wish your mom to get better, bye!}
 {112}{}{Oh, that turd! I'll go to him and get the medicine for your mom, don't worry!}
-{113}{}{Don't worry! Here, take a candy. I'll get medicine for your mom, don't you worry!}
+{113}{}{Here, take a candy. I'll get medicine for your mom, don't you worry!}
 {1201}{}{Oh... A wrench? I think I saw my dad, Brook, turning some screws in the sink. Ask him! Ask my dad!}
 {1202}{}{Oh... A wrench? I think I saw my dad, Brook, turning some screws in the sink. [Catty gets silent. She looks very nervous.]}
 {121}{}{I feel like I'm close. Thanks, Catty!}
 {122}{}{I see, so your dad is the last one who saw it... What's wrong with you? I have never seen you like that.}
 {130}{}{Thank you, }
 {131}{}{! You really are my best friend!}
-{132}{}{Who else would help you, if not me! Don't worry, I'll be back soon!}
+{132}{}{Who else would help you, if not me! Okay, I'll be back soon!}
 {133}{}{You know that I can do anything! I'll be back!}
-{134}{}{Yeah-yeah-yeah, be back, wait.}
-{140}{}{Yes, mom is still very sick. Did you make it?}
+{134}{}{Yeah, yeah, yeah, be back, wait.}
+{140}{}{Yes, mom still feels very sick. Did you get it?}
 {141}{}{Almost. I came by to tell you that I almost got it, just a little bit left to do.}
 {142}{}{Yes! Here it is! [give Catty an injector]}
-{150}{}{Whoa! Great! I'll go get it to mom! Thank you, thank you, thank you! [she kisses you on a cheek]}
+{150}{}{Wow! Great! I'll go get it to mom! Thank you, thank you, thank you! [she kisses you on a cheek]}
 {151}{}{You're welcome...}
 {152}{}{Ew!}
 {153}{}{That was easy.}
