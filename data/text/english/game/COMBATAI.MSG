@@ -6442,74 +6442,74 @@
 #
 # Target Hit In HEAD
 #
-{5700}{}{Прям в башку!}
-{5701}{}{Корефан, прикрой!}
-{5702}{}{Я взял удар на себя!}
-{5703}{}{Я прикрою!}
-{5704}{}{Да чтоб тебя!}
-{5705}{}{Я в порядке! Ты как?}
-{5706}{}{Прям в башку!}
-{5707}{}{Корефан, прикрой!}
-{5708}{}{Я взял удар на себя!}
-{5709}{}{Я прикрою!}
+{5700}{}{Yo, drop dat shit!}
+{5701}{}{That hurts! But you look like an asshole so we're even.}
+{5702}{}{I'm gonna bust yo ass for this!}
+{5703}{}{Aw, shit!}
+{5704}{}{Tastes good, reminds me of prison.}
+{5705}{}{Yeah, I'll shoot you in your face too!}
+{5706}{}{I'm startin' to feel a little faded.}
+{5707}{}{Shit man! Are ya tryin' to kill me?!}
+{5708}{}{::clang::}
+{5709}{}{Yo, get the fuck out my face!}
 #
 # Target Hit In ARM
 #
-{5710}{}{Я могу стрелять! Все в порядке!}
-{5711}{}{Я цел!}
-{5712}{}{Черт, рука повреждена.}
-{5713}{}{Я серьезно ранен.}
-{5714}{}{Я прикрываю!}
-{5715}{}{Я могу стрелять! Все в порядке!}
-{5716}{}{Я цел!}
-{5717}{}{Черт, рука повреждена.}
-{5718}{}{Я серьезно ранен.}
-{5719}{}{Я прикрываю!}
+{5710}{}{The bones are brittle but the jab is stiff!}
+{5711}{}{You bitch-made busta! That's my arm!}
+{5712}{}{I should slap yo' bitch ass.}
+{5713}{}{My hand's busted!}
+{5714}{}{Aw shit, that's my arm!}
+{5715}{}{Damn! My arm's fucked up!}
+{5716}{}{You want to get ventilated, huh?!}
+{5717}{}{Me ain't got time for this shit!}
+{5718}{}{Oh you just gonna do it like that huh?}
+{5719}{}{Must... Catch... Bullets!}
 #
 # Target Hit In TORSO
 #
-{5720}{}{В меня попали...}
-{5721}{}{Грудина пробита!}
-{5722}{}{Жить буду! Ты как?}
-{5723}{}{Закрыл тебя!}
-{5724}{}{Друган! В укрытие!}
-{5725}{}{Ложись!}
-{5726}{}{В меня попал, урод!}
-{5727}{}{Damn sniper!}
-{5728}{}{Главное ты в порядке.}
-{5729}{}{[рикошет]}
+{5720}{}{Hey man, wait 'till I get my homeboys!}
+{5721}{}{Bitch made punk, you dead!}
+{5722}{}{Whatever motherfucker, you don't scare me!}
+{5723}{}{Man you pushing me or something?}
+{5724}{}{I ain't scared of you, bitch!}
+{5725}{}{Bitch-ass benchwarmer!}
+{5726}{}{Fool, you're going home in a pine box!}
+{5727}{}{You're askin' for it, fool!}
+{5728}{}{I'ma snap yo' neck like a pencil!}
+{5729}{}{This is a G ride, you jackin' chump!}
 #
 # Target Hit In LEG
 #
-{5730}{}{В ногу попал! Гад!}
-{5731}{}{Ты как, братан?}
-{5732}{}{Дружище! Я ранен.}
-{5733}{}{Нужен ремкомплект!}
-{5734}{}{А черт!}
-{5735}{}{Что же это?!}
-{5736}{}{Вон он! Стреляй в него!}
-{5737}{}{Вот гадский папа!}
-{5738}{}{[рикошет]}
-{5739}{}{::clang::}
+{5730}{}{You just dinged my cruiser, peanut-head!}
+{5731}{}{You goddamn piece of shit!}
+{5732}{}{Fool, you jackin' a straight killa!}
+{5733}{}{Oh, motherfucker! Damn!}
+{5734}{}{It's your funeral asshole!!}
+{5735}{}{Gimme a clip on this motherfucker!}
+{5736}{}{Those fool oughta get blasted!}
+{5737}{}{Oh shit! My leg!}
+{5738}{}{Aw man, my shit!}
+{5739}{}{Damn, I'm slippin'.}
 #
 # Target Hit In EYES
 #
-{5740}{}{Ох черт!}
-{5741}{}{Мог и ослепить...}
-{5742}{}{Опасно!}
-{5743}{}{Датчик движения поврежден.}
-{5744}{}{Плохо видно.}
-{5745}{}{Меня атакуют!}
-{5746}{}{Прикрой меня!}
-{5747}{}{Черт побери!}
-{5748}{}{Убью гада!}
-{5749}{}{Ничего себе...}
+{5740}{}{I can't see shit!}
+{5741}{}{You know I'm about to kick your ass, right?}
+{5742}{}{Well shiet.}
+{5743}{}{Dayum!}
+{5744}{}{Yo that's my eye, fool!}
+{5745}{}{Oh come on, stop being a bitch!}
+{5746}{}{Busta! Straight busta!}
+{5747}{}{Goodnight, bitches!}
+{5748}{}{You think you're slick, huh? Wait 'till I see you!}
+{5749}{}{Where are you? You givin' me the heebie-jeebies, man!}
 #
 # Target Hit In GROIN
 #
-{5750}{}{ }
-{5751}{}{ }
-{5752}{}{ }
+{5750}{}{You think that's funny? }
+{5751}{}{Man that ain't cool! }
+{5752}{}{I ain't feelin' nothin'. }
 {5753}{}{ }
 {5754}{}{ }
 {5755}{}{ }
@@ -6520,55 +6520,55 @@
 #
 # MISSED
 #
-{5760}{}{Не, ну ты видел?}
-{5761}{}{Как тебе это нравится?}
-{5762}{}{Снова мимо!}
-{5763}{}{В тебя тоже не попал? Хорошо!}
-{5764}{}{Не попал.}
-{5765}{}{Да он вообще лох.}
-{5766}{}{Может пока в картишки?}
-{5767}{}{Он косой, посмотри на него.}
-{5768}{}{Да ладно уже.}
-{5769}{}{Бывает.}
+{5760}{}{Your parents must be ashamed of you, fool!}
+{5761}{}{You pathetic, bitch!}
+{5762}{}{Yo man! Why you stressin' me!}
+{5763}{}{Watch it fool!}
+{5764}{}{You ain't a G!}
+{5765}{}{Are you screwing with me?}
+{5766}{}{Man, you should've smoked me, bitch!}
+{5767}{}{My super-speed is no match for you!}
+{5768}{}{What's the matter with you?}
+{5769}{}{Are you high?}
 #
 # ATTACKING
 #
-{5770}{}{Прикрой! Я в атаку!}
-{5771}{}{Убью гада!}
-{5772}{}{Не парься, я им займусь!}
-{5773}{}{Атакую!}
-{5774}{}{Прям в яблочко!}
-{5775}{}{А как тебе это?!}
-{5776}{}{Так так так!}
-{5777}{}{Получай в череп!}
-{5778}{}{Я его завалю!}
-{5779}{}{Он труп!}
+{5770}{}{Yo homie, keep the change!}
+{5771}{}{Turn the other cheek, boy!}
+{5772}{}{Peace out, bitch!}
+{5773}{}{I'mma tear you up!!}
+{5774}{}{Yo, yo, yo, yo!}
+{5775}{}{This gonna be easy bitch!}
+{5776}{}{I'm surgical with these fists!}
+{5777}{}{Take that, ballsack!}
+{5778}{}{Who's the bitch now homie?}
+{5779}{}{It's on, motherfucker!}
 #
 # MOVE
 #
-{5780}{}{Я выдвигаюсь!}
-{5781}{}{Чуток ближе и я его сниму!}
-{5782}{}{Я им займусь!}
-{5783}{}{Я его убью.}
-{5784}{}{Уже иду!}
-{5785}{}{Нужно подойти.}
-{5786}{}{[двигается]}
-{5787}{}{[идет к цели]}
-{5788}{}{Скоро подойду.}
-{5789}{}{Я ближе!}
+{5780}{}{You better hope we don't find you, asshole!}
+{5781}{}{Homie, let's go roll down on some bustas!}
+{5782}{}{You 'bout to get beat by a metal bitch!}
+{5783}{}{Get ready for an ass whoopin'!}
+{5784}{}{Run, motherfucker, run!}
+{5785}{}{This gon' get REALLY ugly.}
+{5786}{}{C'mon dude, roll wit' me.}
+{5787}{}{Cover me homie, I'm going in!}
+{5788}{}{You picked the wrong house, fool!}
+{5789}{}{I - LIKE - BIG - BATS and I cannot lie!}
 #
 # RUNNING AWAY
 #
-{5790}{}{Отступаем!}
-{5791}{}{Беги, я прикрою!}
-{5792}{}{Прячься за мной!}
-{5793}{}{Назад!}
-{5794}{}{Не вылазь, тут опасно!}
-{5795}{}{О черт! Бежим!}
-{5796}{}{Ты не ранен? Отходим!}
-{5797}{}{Быстрей! В укрытие!}
-{5798}{}{Нужно передохнуть!}
-{5799}{}{Укройся.}
+{5790}{}{Yo I'm coming back, homie!}
+{5791}{}{Get yo stupid ass movin'!}
+{5792}{}{Ain't you got nothing else to do?!}
+{5793}{}{Screw you!!}
+{5794}{}{Later, bitch!}
+{5795}{}{Fool, you better get yo crusty behind away from me.}
+{5796}{}{UH!! I'M GONNA DIE MAN!!!}
+{5797}{}{C'mon, let's bounce!}
+{5798}{}{I gotta bail, in a minute.}
+{5799}{}{Get out my face, trick!}
 #
 #
 ####################################################
@@ -6585,7 +6585,7 @@
 {5805}{}{Grand. I'll be with you in a jiffy.}
 {5806}{}{Oi, that's me mug!}
 {5807}{}{Aw, sure look it.}
-{5808}{}{Jeesus Christ...}
+{5808}{}{Jeesus Christ... Bugger!}
 {5809}{}{Dickhead!}
 #
 # Target Hit In ARM
@@ -6595,7 +6595,7 @@
 {5812}{}{Ow! My tin ting is ballsed-up!}
 {5813}{}{Bloody fockin' hell!}
 {5814}{}{OUCH! Ye tore me bloody arm off!}
-{5815}{}{It's Levi-OOOOH-sa not LevioSAR.}
+{5815}{}{Enough of that shit mate, excuse me.}
 {5816}{}{Wan-ker! Wan-ker!}
 {5817}{}{Gahh! That's my "cuppa-tea" hand!}
 {5818}{}{My hand is wrecked.}
