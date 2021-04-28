@@ -25,7 +25,7 @@
 {7}{}{Thank you so much! Becky and I are forever in your debt!}
 {8}{}{Thanks again! You saved our lives!}
 #Node001
-{10}{}{[A young girl rushes to you as soon as you get into the room. It's rather dark here, but you notice that she looks like was tortured, or lacked any sleep for a really long time. You notice a metal pipe in her trembling hands] You are not insane. [she lowers her "weapon" and her shoulders limp down] Thank god... I almost gave up... Wait! Did you see a man there?}
+{10}{}{[A young girl rushes to you as soon as you get into the room. It's rather dark here, but you notice that she looks like was tortured or lacked any sleep for a really long time. You notice a metal pipe in her trembling hands] You are not insane. [she lowers her "weapon" and her shoulders limp down] Thank god... I almost gave up... Wait! Did you see a man there?}
 {11}{002}{Sunny, is it?}
 
 #Node002
