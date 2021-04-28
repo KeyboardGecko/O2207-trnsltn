@@ -6302,7 +6302,7 @@
 #
 #
 ####################################################
-# 5600 Роботрон (японская рабыня)
+# 5600 Robotron (japanese school girl) - you guessed it. Most of the stuff provided by Naruto quotes, bless those.
 ####################################################
 #
 # Target Hit In HEAD
@@ -6437,7 +6437,7 @@
 #
 #
 ####################################################
-# 5700 Роботрон (закадычный друг)
+# 5700 Robotron (american fella) - basically, CJ and his fellas from GTA SA
 ####################################################
 #
 # Target Hit In HEAD
@@ -6572,7 +6572,7 @@
 #
 #
 ####################################################
-# 5800 Роботрон (джентельмен)
+# 5800 Robotron (British) - a lot of brit slang, some scottish and irish stuff to spice things up
 ####################################################
 #
 # Target Hit In HEAD

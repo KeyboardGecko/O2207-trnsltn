@@ -72,7 +72,7 @@
 {104}{}{[Shaggy waits for your command, happily wagging his tail.]}
 {105}{}{[Shaggy impatiently waits for your command.]}
 {106}{}{[Shaggy jumps from joy and runs to you. Now you are covered with wolf's saliva.]}
-{107}{018}{[Command:]}
+{107}{018}{[Command him]}
 {108}{014}{Follow me.}
 {109}{014}{Did you miss me? Let's go!}
 {119}{999}{[end]}
@@ -81,7 +81,7 @@
 {180}{}{[Command...]}
 {181}{011}{Wait here.}
 {182}{012}{Return home, I can't take care of you anymore.}
-{183}{013}{We need.}
+{183}{013}{We need to change our distance.}
 {184}{015}{Good boy! [pet him]}
 {185}{999}{[leave]}
 
