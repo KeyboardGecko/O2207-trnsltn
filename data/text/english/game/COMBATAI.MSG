@@ -6176,7 +6176,7 @@
 {5501}{}{Incoming damage.}
 {5502}{}{::clang::}
 {5503}{}{::ting::}
-{5504}{}{::blam::
+{5504}{}{::blam::}
 {5505}{}{Target locked.}
 {5506}{}{::ping::}
 {5507}{}{Assessing options.}
