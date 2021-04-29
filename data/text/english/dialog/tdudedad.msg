@@ -24,13 +24,13 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Папа.}
-{2}{}{Это Джон, Ваш отец. Вечно насупленные брови выдают в нем скептика и реалиста.}
+{1}{}{You see Dad.}
+{2}{}{This is John, your father. His permanently frowning eyebrows reveal him to be a skeptic and realist.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Папа.}
-{4}{}{Это Джон, Ваш отец. Вечно насупленные брови выдают в нем скептика и реалиста.}
+{3}{}{You see Dad.}
+{4}{}{This is John, your father. His permanently frowning eyebrows reveal him to be a skeptic and realist.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
