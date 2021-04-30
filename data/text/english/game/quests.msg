@@ -27,30 +27,30 @@
 {301}{}{Search and get hold of an Ultra Repair Kit.}
 {302}{}{Find a rare whetstone for Harry.}
 {303}{}{Go on hunt with Ursul. Try not to die.}
-{304}{}{Casper initiated a siege against Vince. You need to help Vince.}
-{305}{}{Barker crafts necklaces out of chimera teeth, he needs 3 more.}
+{304}{}{Casper holds a grudge against Vince. You need to help Vince.}
+{305}{}{Loudmouth wants to have necklace made of chimera teeth. He needs 3 more fangs.}
 {306}{}{Oswald Brown wouldn't mind to get hold of a rare vintage "Slugger" pistol.}
 {307}{}{Billy Stone wants you to stand guard outside the room while he's with Shiva.}
-{308}{}{Chris Morena asks to get rid of Kyle and find a replacement for him.}
+{308}{}{Chris Murena asks to get rid of Kyle and find a replacement for him.}
 #
 # NEW WORLD ORDER Quests
 #
-{400}{}{Mark asks you to broke peace between his wife Lucy and his adviser Sam.}
-{401}{}{Buck suggested that you find a replacement for the dying Mayor Mark.}
+{400}{}{Mark asks you to make peace between his wife Lucy and his advisor Sam.}
+{401}{}{Burns asked you to find out who would replace the dying Mayor Mark.}
 {402}{}{Juan complains about the broken machine and asks you to help him.}
 {403}{}{The scout Cyren is going to Tin Industries for cans. He needs a partner.}
 {404}{}{You can guard Flint's caravans for a good payoff.}
 {405}{}{Clumsy Owen dislocated his arm, you need to help him.}
 {406}{}{Someone steals canned meat from the warehouse in yard and the innocently accused Skeet is sitting behind bars.}
-{407}{}{Philip's lavash refuse to eat food. Find out the reason behind it.}
+{407}{}{Philip's Lavash refuse to eat food. Find out the reason behind it.}
 {408}{}{The last time water came from Livos, it tasted strange. Sam asks you to look into what's going on.}
 {409}{}{Brothers Seth and Matt can not get along with each other, you need to reconcile them.}
-{410}{}{Bianca is passionately hungry for love. Find the "special device" and do not disappoint her!}
+{410}{}{Blanca is passionately hungry for love. Find the "special device" and do not disappoint her!}
 {411}{}{Henry asks to find Sunny and Becky's friends in Pearson Town.}
 #
 # LIVOS Quests
 #
-{500}{}{Edward Shwein won't let you in at Livos until you can prove that you are one of the family members.}
+{500}{}{Edward SdhWwein won't let you in at Livos until you can prove that you are one of the family members.}
 {501}{}{The water filter is broken. Ashton Horton wants you to fix it.}
 {502}{}{The Danton family asks you to kill all the creatures in the cave under the filtration room.}
 {503}{}{Christopher Shwein is in love with Minnie Horton and asks you to help him hook up with her.}
@@ -62,7 +62,7 @@
 #
 # RAINBOW RAIDERS Quests
 #
-{600}{}{Kent asks to bring 8 ant abdomen from the farm and give them to the healer.}
+{600}{}{Mate asks to bring 8 ant bellies from the farm and give them to the healer.}
 {601}{}{The healer asks you to find out who is that strange armored man sitting in the bar.}
 {602}{}{In one of the arena fights, Douglas lost his badge. Find the badge and return it to him.}
 {603}{}{Big G, the leader of a gang of teenagers, demands 5 bottles of cognac for the right to become a member of the gang.}
@@ -82,22 +82,22 @@
 #
 # FREDS HOUSE Quests
 #
-{800}{}{Fred has laid mines around the house, but forgot where they are. Find and clear at least 5 of them.}
-{801}{}{Fight off the attacking beasts.}
+{800}{}{Fred has laid mines around the house and forgot where they are. Find and clear at least 5 of them.}
+{801}{}{Fight off the attacking chimeras.}
 #
 # OLYMPUS TOWER Quests
 #
-{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Grey (The injection works only for 8 days).}
-{901}{}{Phillip Grey is convinced that Konstantin Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
+{900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Gray (The injection works only for 8 days).}
+{901}{}{Phillipp Gray is convinced that Constantine Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
 {902}{}{Diamond Crank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
 {903}{}{Diamond Crank is confident that Ludwig Shwein will be able to help him break through a deadlock of his research. Bring Ludwig to him.}
 {904}{}{Captain N34 asks you to fill out all the documentation forms and conduct weapon tests.}
-{905}{}{It's time to change the password for the Control Room. Go to the Server Floor and follow the instructions.}
+{905}{}{It's time to change the password for the Control Room. Go to the Server floor and follow the instructions.}
 {906}{}{KILL ANDERSON!}
 {907}{}{Use the resources of the Olympus Tower as you see fit.}
 {908}{}{Sergeant Jack laid his eyes on Kelly from the Biology Labs. Convince Kelly to meet with Jack.}
-{909}{}{Moreau can not calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
-{910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what'S up with that.}
-{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Grey for his services. Moreau might help.}
-{912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab Nr.2.}
+{909}{}{Moreau can't calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
+{910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what's up with that.}
+{911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Gray for his services. Moreau might help.}
+{912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab №2.}
 {913}{}{Taylor can repair an advanced Powersuit of the Lumeniers if you bring him a servo from a similar suit.}

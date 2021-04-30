@@ -20,7 +20,7 @@
 #
 {5}{}{Your punch was unexpected to Stan. He even fazed for a little - but now he is angered.}
 {6}{}{Your punch was unexpected to Stan, but he didn't even flinch. Looks like the testicles of this ogre are as non-sensitive as his brains.}
-{7}{}{*growls at you*}
+{7}{}{[growls at you]}
 {8}{}{Get off, okay?}
 {9}{}{Come on, enough! Get lost.}
 #
@@ -86,7 +86,7 @@
 {131}{999}{[end of dialogue]}
 
 
-{140}{}{You bitching rat, go try it yourself. I'm gonna stand and watch how Loudmouth will kick the shit out of you.}
+{140}{}{You bitching rat, go try it yourself. I'm gonna stand and watch how Loudmouth will beat the shit out of you.}
 {141}{010}{Oh-kay... Another question then.}
 {142}{999}{Fine. I'll deal with it myself.}
 

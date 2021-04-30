@@ -24,21 +24,21 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: девушка.}
-{2}{}{Тяжелые ботинки не по размеру, странная одежда и очень неудачная стрижка - девушка выглядит совершенно безбашенной.}
+{1}{}{You see a girl.}
+{2}{}{Heavy oversized boots, strange clothes and very bad haircut - this girl looks totally reckless.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: ???.}
+{3}{}{You see a ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Тебе никогда не говорили, что приставание к беззащитным девушкам в пустыне может закончиться пинком по яйцам?}
-{11}{}{Парень, у меня мегабодун. Поэтому если ты не хочешь предложить мне прохладного пива, то лучше проваливай.}
-{12}{}{Ёей, прости, ты не в моем вкусе. Я предпочитаю ушастых засранцев.}
-{13}{}{[напевает] Let's do it, let's fa-a-all in lo-o-ove.}
-{14}{}{Пресвятое говно динго! Неужели девушка не может спокойно починить свой танк без излишнего внимания?}
+{10}{}{Has anyone ever told you that harassing vulnerable girls in the desert can net you a kick in the balls?}
+{11}{}{Man, I have such a hangover. So if you are not trying to offer me a cold beer, you'd better get lost.}
+{12}{}{Hey, sorry - you're not my type. I prefer big-eared bastards.}
+{13}{}{[sings] Let's do it, let's faaall in looove.}
+{14}{}{Holy dingo shit! Can't a girl just fix her tank without too much attention?}
 {15}{}{}
 {16}{}{}
 {17}{}{}
@@ -47,12 +47,12 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{О! А я тебя знаю!}
-{101}{}{Что-нибудь еще интересно?}
-{102}{}{Конечно знаешь!}
-{103}{}{Да-да, это я!}
-{104}{}{Да ничего мне не интересно.}
-{105}{}{Мне все интересно.}
+{100}{}{Oh! I know you!}
+{101}{}{Something else interesting?}
+{102}{}{Yes you do!}
+{103}{}{Yes, it's me!}
+{104}{}{Nothing.}
+{105}{}{Everything.}
 {106}{}{}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)

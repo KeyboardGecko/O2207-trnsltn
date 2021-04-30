@@ -11,118 +11,118 @@
 #ОПИСАНИЕ КРИТТЕРА	
 #	
 # до знакомства	
-{1}{}{Вы видите: мускулистый мужик.}	
-{2}{}{Похоже, раньше он был не очень цивилизован. Просто дикарь.}	
+{1}{}{You see a very muscular man.}	
+{2}{}{Looks like he is not very civilized. In other words, a savage.}	
 #	
 # после знакомства	
-{3}{}{Вы видите: Робин.}	
-{4}{}{Сильный, выносливый, покрытый шрамами глава Искателей.}	
+{3}{}{You see Robin.}	
+{4}{}{Strong, enduring, covered in scars head of Seekers.}	
 #	
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ	
 #	
-{10}{}{[он смотрит на Вас не скрывая саркастической ухмылки] Хэй, новенький! ::хрр-кххх-тьфу:: Каково тебе здесь, а, Тартаровец?}	
-{11}{002}{Тартаровец? Эй, у меня есть имя, меня зовут...}	
-{12}{002}{Послушай, ты, меня зовут }	
-{13}{002}{, и я не собираюсь...}	
-{14}{999}{Ой, нет, я лучше в другом месте погуляю.}	
-{20}{}{Мне насрать, кем ты себя считаешь и кем считают тебя твои братишки-тартаровцы, для меня вы все - слюнявые ссущиеся котята, которым нужно раскрыть глаза на этот большой удивительный мир!}	
-{21}{003}{Ну хорошо, давай рассказывай.}	
-{22}{003}{Хорошо-хорошо, уговорил, я тебя выслушаю.}	
-{23}{999}{Нет, я не собираюсь все это выслушивать!}	
-{30}{}{Ты какой-то агрессивный, а, тартаровец? Тебе здесь что, не нравится? Ну конечно же, нравится! Здесь ВСЕМ нравится. А знаешь почему? Потому что если ты не здесь - ты ТАМ, а ТАМ тебя сожрет какая-нибудь хня в два счета, и ты даже понять не успеешь, ЧТО именно откусило тебе яйца!}	
-{31}{004}{Я... Я... Да черт, я действительно ничего не знаю...}	
-{32}{005}{[обреченно вздохнув] И как же мне понять, что именно охотится за моими яйцами?}	
-{40}{}{Эй вялый хрен, возьми себя в руки! Теперь ты здесь, в семье, мы тебя защитим и всему научим, так что не ссы! Когда-то я был таким же, как ты! А нет, погодь-ка... не, я никогда таким не был! ::заливисто хохочет::}	
-{41}{006}{Ок, и что мне нужно знать перво-наперво?}	
-{50}{}{Ого, да ты и правда не баба, а! [слегка хлопает Вас по плечу, и Вы чувствуете, как в месте похлопывания расплывается синяк] Хорошо, что у тебя есть хребет, ты его береги! Без хребта ты с местными людьми не сладишь, а они пострашнее зверья, сразу башку откусят.}	
-{51}{006}{Ок, и что мне нужно знать перво-наперво?}	
-{60}{}{Перво-наперво - устройство этого местечка. Я - Робин, и я - главный у этих славных крепких ребят за моей спиной. Мы - Искатели, и это мы таскаемся по радиусу в поисках воды, еды и инструментов. Главный тут вроде как Боно - разваливающийся мертвяк. Он конечно правильный и все такое, но яиц у него нет. То есть, действительно нет. Есть еще Хьюго, тоже мертвячина, но толковый, с крепким хребтом! Вот с ним мы как-нибудь и захватим ваш Тартар, только соберем достаточно бойцов и оружия!}
-{61}{010}{А-а-а... Ясно, да, я все понял. Можно кое-что еще узнать?}	
-{62}{999}{Понятно, спасибо, что все разъяснил. Я, пожалуй, пойду.}	
-{63}{999}{Мда-а, знатное местечко. Уверен, мы подружимся. Ну, я потом еще загляну.}
-	
-{100}{}{Так-так, наш новенький Тартаровец! Ну что тебе?}	
-{101}{}{Конечно, спрашивай.}	
-{102}{}{Нн-у-у... валяй, спрашивай.}	
-{103}{011}{Хочу подробнее кое о чем узнать.}	
-{104}{030}{Может, про себя расскажешь?}	
-{105}{040}{Ты не знаешь, как пробраться в Тартар?}
-{125}{020}{Может, расскажешь, что здесь в округе есть?}	
-{106}{050}{Боно говорил, что тебе нужна помощь.}	
-{107}{050}{Искатели выглядят не очень... Вы недавно вернулись из похода?}	
-{108}{060}{Я на счет твоего задания.}	
-{109}{999}{Да ничего, мне уже пора.}	
-{111}{}{Любознательный, да? [поднимает левую бровь] Ха-ха-ха, да не бойся ты так! Это хорошо, хорошо... Информация сильно помогает выживанию в радиусе. Давай, спрашивай!}	
-{112}{}{Ну давай, узнавай [ухмыляется]}	
-{113}{Renessance}{Ты что-нибудь слышал про Ренессанс?}	
-{114}{012}{Я ищу лекарство от радиации для отца.}	
-{115}{013}{Как думаешь, можно попасть в Олимп?}	
-{116}{014}{Почему тут нет детей?}	
-{117}{010}{Я хотел бы еще с тобой поговорить.}	
-{118}{999}{Нет, мне больше ничего не нужно. Бывай.}	
-{120}{}{Радиация? Если нужно что-то серьезное, а не обычное бухло нашего Громуса, тебе бы помог... как же эта дрянь называется... АНТИРАДИН! Точно! Говорят - адски мощная штука! Только вот где достать - извини не знаю. Вроде где-то на севере можно найти.}	
-{121}{011}{Антирадин... Ну и на этом спасибо. Можно еще узнать?}	
-{122}{999}{Ясно. Ну что, буду искать этот Антирадин. Бывай.}	
-{123}{}{От радиации? Да как два пальца обоссать! Наш Громус эту херню литрами делает, главное скорпионьих хвостов ему побольше накидать!}	
-{124}{011}{Нет, это, думаю, слабовато будет. Можно еще узнать кое что?}
+{10}{}{[Looks at you, not even trying to hide a smile] Hey, new one! [He furiously spits] How do you like it here, Tartarus boy?}	
+{11}{002}{Tartarus boy? I have a name! It's...}	
+{12}{002}{Listen, you, my name is }	
+{13}{002}{, and I'm not going to...}	
+{14}{999}{Uh, no, I better walk somewhere else.}	
+{20}{}{I don't give a shit who you think you are, or who your Tartarus friends think you are. For me, each of you is a slobbery pissing kitten who needs his eyes opened on this vast and wonderful world, hah! Don't you want to?}
+{21}{003}{I don't like you, but go on. Talk.}	
+{22}{003}{Okay, okay, I'm listening.}	
+{23}{999}{No, I'm not going to listen to this!}	
+{30}{}{You are a little agressive, aren't you, Tartarus boy? Don't you like it here? Of course you do! EVERYBODY likes it here. You know why? Because if you're not here - you are THERE, and THERE is the place where you will get eaten by some shit in two ticks! And you won't even get WHAT exactly bit your balls off!}	
+{31}{004}{I... I... Damn! I really know nothing...}	
+{32}{005}{[make a sad sigh] And how do I understand what exactly is going to bite my balls off?}	
+{40}{}{Hey, limpy dick, pull yoursef together! Now you are part of the family, so we'll teach you everything you need, don't sweat! You know, I was just like you once. Oh wait a second - no, I wasn't!! [he lougly laughs]}	
+{41}{006}{Okay, so, what should I learn for starters?}	
+{50}{}{Whoa, you ARE a tough and serious girl, aren't you? [He slaps your shoulder and you feel the bruise starting to form] It's good you have a spine, don't lose it! Without spine you won't handle the people of Radius - and they are even more scary than beasts! They'll bite your head instantly.}	
+{51}{006}{Okay, so, what should I learn for starters?}	
+{60}{}{For starters, you should get how this place works. I'm Robin, and I'm in charge of each of this sturdy guys behind my back. We are the Seekers, we drag around the Radius in search of food, water and instruments. The leader of this place is the guy named Bono, a falling-apart ghoul. He is alright and all that, but he doesn't have the balls. I mean, he literally doesn't. Then there's Hugo, he's a dead meat too, but with a head - and a spine! And with him we'll take over the Tartarus someday, only need to get around enough boys and guns for this!}
+{61}{010}{Oh... I see, I get it. Can I ask something else?}	
+{62}{999}{Thanks for the explanation. I'll better go.}	
+{63}{999}{Such an interesting place. I think we'll get along just fine. Well, see you later.}
 
-{200}{}{СМЕ-Е-Е-ЕРТЬ! [ржет] Это - главное, что тебе нужно усвоить. Радиус - крайне небезопасное место! А погодь - точно, есть одна спокойная бухта! Какой-то там порядок, я в детали не вникал тогда. Старый заводик на запад отсюда, дай на карте покажу [начинает тыкать в кнопки Вашего органайзера], вот - готово! Только смотри - на патруль железных дровосеков не наткнись, пока туда топать будешь.}
-{201}{010}{А может мне не так уж туда и надо. Еще хочу спросить.}
-{202}{999}{Спасибо, учту. Ну, я пошел.}
-{203}{}{Звиняй, оборванчик - я тебе уже все что знал, рассказал. Покрутись вокруг башни - может и сам чего найдешь. Если конечно не подохнешь! [подмигивает и дружески бьет Вас по плечу]}
-{204}{010}{С этим можно и повременить. Я тут узнать хотел...}
-{205}{999}{Вообще-то мне пора уже идти.}
+{100}{}{Well, well, our new Tartarus boy! Whatcha need?}	
+{101}{}{Sure, ask.}	
+{102}{}{Well... Go ahead, ask away.}	
+{103}{011}{I want to learn more about some things.}	
+{104}{030}{Can you tell me about yourself?}	
+{105}{040}{Do you know how one can get into Tartarus?}
+{125}{020}{Maybe you'll tell what's around here?}	
+{106}{050}{Bono mentioned you need help.}	
+{107}{050}{Your Seekers do not look good... Did you get back from a trip to wasteland recently?}	
+{108}{060}{About your request...}	
+{109}{999}{It's nothing. I need to go now.}	
+{111}{}{Aren't you a curious one? [he raises an eyebrow] Hahahah, don't be afraid! It's good! The information is the thing that keeps you alive in Radius. Come on, ask!}	
+{112}{}{Come on, learn then. [he grins]}	
+{113}{Renessance}{Did you hear something about the Renaissanse?}	
+{114}{012}{I'm looking for the cure from radiation for my father.}	
+{115}{013}{Do you think there's possible to get into the Olympus?}	
+{116}{014}{Why I don't see any children here?}	
+{117}{010}{I'd like to talk to you about something else.}	
+{118}{999}{No, I need nothing for now. See you.}	
+{120}{}{Radiation? If you need something more serious than the anti-radiational booze of Gromus, you'd probably go for... How was this stuff called... Oh! Antiradine! They say it's hella powerful. But where to get it - I don't know, sorry. Maybe you should check up north.}	
+{121}{011}{Antiradine... Well, thank you for that. Can I ask more?}	
+{122}{999}{I see. Okay, will go on search for this Antiradine stuff. See you.}	
+{123}{}{From radiation? Easy-peasy! Our Gromus produces this anti-rad shit in gallons, all you need is to throw him a load of scorpion tails!}	
+{124}{011}{No, I think it's too weak for my case. May I ask something else?}
 
-{130}{}{В Олимп, говоришь? Эмм... Ну, если завалишь бронированных охранников и порвешь голыми руками клыкастых и вечно голодных Химер - да, наверно, ты сможешь добраться до парадной двери, которую сам дьявол не откроет! ::хохочет::}	
-{131}{011}{Почему-то я так и думал. Можно еще узнать?}	
-{140}{}{Ха! Ха-ха-ха! Ну ты и шутник, а! Ну-ка поставь себя на место какой-нибудь бабы, и представь, каково растить ребенка в таких вот условиях. А не получается представить - спроси у Марты. Она, конечно, тебе наговорит всякого там... ну, кто папаша маленькой Лили. Но это все, ну как сказать. Она наша общая дочка, мы все в ответе за ее жизнь. Ну, вот поэтому детей тут и нет. Все, тема закрыта!}	
-{141}{011}{А-а, ну хорошо. Хотелось бы еще узнать кое что.}	
-{142}{}{Маленькие ребятки просто не смогут тут выжить, вот никто их и не заделывает. Тут есть только малышка Лили, дочка Марты, так и то непонятно, откуда она взялась.}	
-{143}{011}{Ну да, тут наверно сложновато растить детей. Я хотел бы еще кое что узнать.}	
-{144}{011}{А-а-а, ну понятно. Да, я так и думал. Можно еще узнать?}	
-{300}{}{Ээ-э-э. Слушай, я вообще-то не привык про себя  всяким там рассказывать, но... Ок, ты вроде парень надежный. Я тут, наверно, уже лет 10, или что-то вроде того. Сам я не здешний, из далекого местечка на севере, мы его называли Оазис. Не то, чтобы там было плохо, все-таки моя семья там, но-о.. Скажем так, я не мог принять их обычаи, просто не мог. Нет, даже не спрашивай, незачем тебе знать! И не суйся туда, это закрытое место для чужаков!}	
-{301}{031}{Ну хорошо, мне и незачем это знать. А что было дальше?}	
-{302}{}{Ну-у, слушай, я тебе так скажу, много будешь знать - мало будешь спать! Или как там говорят?.. Тебе достаточно знать, что если ты мне не понравишься, или обидишь тут кого - разговор у нас будет очень короткий! Точнее, вообще не будет! ::заливисто хохочет::}	
-{303}{010}{О-о-о, уяснил. Можно еще спросить?}	
-{304}{999}{Ясно-ясно, я лучше потом еще подойду.}	
-{310}{}{А что было? Я просто шел по Радиусу к Башне, думал, может там кто живой. Ну, я всегда хорошо бегал, поэтому от Химер я все-таки удрал, а гнали они меня до самого этого места. Ну вот так я сюда и попал. Просто, а? Почти все, кто здесь - и твои тартаровцы - точно так же сюда попали! А сколько оказались недостаточно быстрыми - я даже представить не возьмусь...}	
-{311}{010}{Мда-а, наверно многие. Хорошо, что я в Олимп не сунулся. Можно еще спросить?}	
-{400}{}{Вот тут ты в точку! Поговори об этом с Хьюго, у него есть план. Хьюго - мертвяк, на нижней платформе сидит, ты его легко найдешь. Он конечно наплетет про силу, отвагу и прочий бред, но основной посыл у него есть. Хотя, можешь конечно еще с Боно поговорить, у него вроде как тоже мирный план имеется, но как по мне, мирный план в Радиусе - это полная фигня!}	
-{401}{999}{Эмм, ок, я понял. Боно и Хьюго. Пойду, поговорю с ними.}	
-{402}{}{Вот тут ты в точку! Поговори об этом с Хьюго, у него есть план. Хьюго - мертвяк, на нижней платформе сидит, ты его легко найдешь. Он, конечно, наплетет про силу, отвагу и прочий бред, но основной посыл у него есть.}	
-{403}{010}{Ага, поговорить с Хьюго... Ок, спасибо. Можно еще узнать кое что?}	
-{500}{}{Помощь? Мне? Этот безъяйцевый мертвяк правда думает, что мне нужна помощь!? ХА! Ха-ха! Ну-у... ну может быть мои бойцы и правда немного устали. В последнее время нам тотально не прет! Ребята и правда вымотались, а у нас ни жратвы, ни дров. Слушай, ты мог бы помочь нам, достать дровишек и чего-нибудь пожрать, а?}	
-{501}{051}{А-а... а где мне это искать?}	
-{502}{}{А ты наблюдательный сукин сын, а? Да, мы постоянно, будто только из похода, а знаешь почему? Потому что мы постоянно таскаемся в этот чертов Радиус за этими чертовыми инструментами, оружием и всяким таким. Только вот... В последнее время нам тотально не прет! Ребята и правда вымотались, а у нас ни жратвы, ни дров. Слушай, ты мог бы помочь нам, достать дровишек и чего-нибудь пожрать, а?}	
-{503}{051}{Ну даже не знаю. А где мне это искать?}	
-{504}{999}{Да ты с ума сошел? Я же тут ничего не знаю! Не-ет, я пас ребята.}	
-{510}{}{Да ты не ссы, далеко-то ходить не надо! Ты видел, над нами тут развалины города? Так вот, мы не так давно, когда в поход выдвигались, видели тут пару сухих яблок и дровишки, думали на обратном пути захватить, но так вымотались, что сил их искать уже не было. Да и где-нибудь рядом в поселениях должны быть. Много-то не надо, штук }
-{517}{}{ яблок, да дрова, что скажешь? Я тебя не тороплю, как соберешь нужное количество - так и приноси, мы отсюда никуда не денемся [улыбается и подмигивает]}	
-{511}{QA}{Хорошо, я вам помогу. Вроде не очень сложно.}	
-{512}{999}{Ну-у, давай я подумаю, и потом еще подойду, хорошо? Вот и ладненько.}	
-{513}{}{Вот ты мужик, молодец! Ты просто по домам пошарь, в комодах там, сундуках всяких. Ты только смотри, чтобы там капканов не было, а то тут когда-то люди жили, так против воров могли понавешать всяких ловушек. Хотя навряд ли, не ссы!}	
-{514}{999}{Мог бы про ловушки и сразу сказать... но раз уж согласился... ждите меня с добычей.}	
-{515}{999}{Ловушку-мавушки-шмавушки, я разберусь, без проблем! Скоро буду.}	
-{516}{999}{Понятно, спасибо, что предупредил, буду повнимательнее.}	
-{600}{}{Давай показывай, что притащил.}	
-{601}{061}{Я на самом деле еще ищу. Никак не могу найти дрова. Ты уверен, что вы их видели?}	
-{602}{062}{Держи [вывалить на пол дрова и сушеные яблоки]}	
-{603}{999}{Просто хотел сказать, что скоро все нужное принесу.}
-{604}{999}{Дрова достал, еще яблок вам поищу - и сразу все отдам.}	
-{610}{}{Эмм, дай-ка память напрягу. Да, точно видели! В одной развалине подальше на северо-запад от спуска сюда.}	
-{611}{999}{Ок, спасибо, посмотрю там повнимательнее.}	
-{612}{}{Да конечно видели, что я тебе, врать буду что ли? Ищи просто получше.}	
-{613}{999}{Ну ладно.}	
-{614}{999}{Блин, вот сам бы и искал получше. Хорошо, я скоро буду.}	
-{620}{}{Вот удружил! Ну спасибо, мою парни смогут немного перекусить и согреться - и снова в путь. [поворачивается к Искателям] Хэй, коршуны, налетайте! [возвращается к Вам] Вот теперь я вижу, что ты не подведешь! Нужно бы тебя отблагодарить, да?.. [долго роется у себя за пазухой и в конце концов достает оттуда кусок металла в виде лепестка] Вот,  держи! Это мой личный метательный нож! Будь с ним поосторожней и не бросай его в камни, а то отскочит и глаз вышибет! Он это любит, я серьезно!}	
-{621}{063}{[принять награду] Эмм, спасибо. Серьезно, спасибо.}	
-{622}{064}{[вернуть награду] Нет, мне это не нужно. Все равно я их метать не умею.}	
-{630}{}{Спасибо-шмасибо тебе жизнь не спасут, а вот острый кусок металла - вполне. Мой тебе совет - ::заговорщецки шепчет:: научись обращаться с тем, что убивает твоих врагов. Вот тогда ты сможешь встать в полный рост!}	
-{631}{999}{Эмм. Да, ОК, хорошо. Ну, я пойду, пожалуй.}	
-{632}{999}{Да-да, я знаю. До встречи.}	
-{640}{}{::довольно хмыкает:: Ну, как знаешь, }	
-{641}{}{, как знаешь... Думаю, ты годный парень, но если будешь выпендриваться - долго не протянешь. Дают - бери, бьют - беги. Запомни мои слова.}	
-{642}{999}{Я запомню, будь уверен.}	
+{200}{}{DEEEEEATH! [laughs] This is the main thing you should learn. The Radius is a highly dangerous place. Oh, wait, there is one safe spot! Some-Order-something, I don't really remember the name. An old factory to the west of here. Let me show you [he starts pushing buttons of your organizer], Here, ready! Only watch out for the tin men patrol while you walk there. Try to evade them.}
+{201}{010}{Maybe I don't really need to go there. Another question.}
+{202}{999}{Thanks, I'll keep it in mind. Well, off I go.}
+{203}{}{Sorry, runtie, I told you everything I knew. Wander around the tower, maybe you'll find something yourself. If you won't die! [he winks and friendly pats you on the shoulder]}
+{204}{010}{It can wait. I wanted to ask...}
+{205}{999}{Actually, I've got to go.}
+
+{130}{}{Into the Olympus, you say? Hmm... Well, if you manage to take out every armed and armored guard, together with all their pet Chimeras - yeah, you'll probably make it to the front door. Which doesn't open even for a Devil! [he laughs]}	
+{131}{011}{Somehow, that's exactly what I thought. Can I ask something else?}	
+{140}{}{Hah! Hahahahah! What a joker you are! Just put yourself on a place of any woman here, and try to imagine, how it is to raise child in this conditions. Or go ask Martha, if you can't imagine. She will probably tell you a lot of stuff... About the dad of little Lily. How should I put it... That girl is daughter to all of us, everyone is equally responsible for her. And that's why there's no children here. Done on this topic!}	
+{141}{011}{Oh, okay then. I'd like to ask something else.}	
+{142}{}{Little kids are just not suitable for surviving here, that's why no one is having them. There is a Martha's daughter though, Lily.}	
+{143}{011}{Yes, I guess it's really difficult to raise a child here. I wanted to ask more.}
+{144}{011}{I see. That's what I though. Can I ask more?}	
+{300}{}{Uhh. Listen, I'm not used to talk about myself, but... I see you are alright. I'm here for ten years or something already. I'm not from around, came from a place to the north. We called it "the Oasis". It's not exactly bad, my family is still there, but... Let's say, I couldn't accept some of their local customs. I just couldn't. Don't ask! And don't go there, this place is locked for outsiders.}	
+{301}{031}{Fine, maybe I don't need to know the details. What happened after?}	
+{302}{}{Uhh, this is what I say - the less you know, the better you sleep! Or how it was?.. It's enough for you to know, that if I don't like you or hurt someone here, I won't be having long talks with you. I mean, I won't do talking at all, if you know what I mean!}	
+{303}{010}{Okay, I got that. Can I ask more?}	
+{304}{999}{Okay, okay, I'll better go.}	
+{310}{}{What after? I just wandered Radius, went to a Tower, was thinking, maybe there's someone alive there. And I was always good in running, so I managed to run away from Chimeras - and they chased me down to this place. And that's how I ended up here. Easy, huh? Practically everyone here - your fellows from Tartarus included - came here this way. I can't even imagine, how many of them were not fast enough...}	
+{311}{010}{Yeah, a whole lot, I suppose. It's good I didn't try to go to Olympus. Can I ask something else?}	
+{400}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on lower platform. He will tell you stories about the power, courage and other stuff, but you'll get the point. Although, you can also talk to Bono. He has a plan too, a peaceful one - but as for me, a peaceful solution in Radius is a total bullshit!}	
+{401}{999}{I get it. Bono and Hugo. I'll go talk to them.}	
+{402}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on lower platform. He will tell you stories about the power, courage and other stuff, but you'll get the point.}	
+{403}{010}{Talk to Hugo... Okay, thanks. Can I ask something else?}	
+{500}{}{Help? Me? This ghoul with no balls really thinks I need help? HA! Hahaha! Ha. Well, Maybe my boys actually got a little tired. We are so out of luck recently! Fellas are exhausted, and we still didn't get not enough food to eat and wood for fire. Maybe you could help us with it, find some wood and food?}	
+{501}{051}{Uhh... Where do I look for it?}	
+{502}{}{Aren't you a perceptive son of a bitch? Yes, we look like we had just returned from a trip. You know why? Because we had just returned from a trip! We are going into the damn Radius all the time, looking for supplies, materials and all that. But, you know... We are so out of luck recently! Fellas are exhausted, and we still didn't get not enough food to eat and wood for fire. Maybe you could help us with it, find some wood and food?}	
+{503}{051}{I don't even know. Where would I look for it?}	
+{504}{999}{Are you out of your mind? I don't know anything here! No, I'll pass.}	
+{510}{}{Don't be a pussy, you won't have to go far! Did you see the ruins above us? So, not long ago, before moving out, we left some dried apples and wood to pick up on a way back. But I don't remember where. And we were too tired to look. Also, there should be something in the nearby settlement, or even in the ruins themselves. We don't need lot, maybe }
+{517}{}{ apples and wood, what do you say? Don't be in a hurry, return when you have enough. We won't go anywhere. [He smiles and winks]}	
+{511}{QA}{Okay, I'll do it. Doesn't look too difficult.}	
+{512}{999}{Well, I'll think about it, okay? Alright.}	
+{513}{}{Great, my man! Also, try searching in nearby houses - closets, chests and all such. Only be careful for traps, there were people living, so they could've put something against the thieves. But I'd say it's unlikely, don't be afraid!}	
+{514}{999}{You could tell me about the traps first... But I said yes, so now wait for me to return with the stuff.}	
+{515}{999}{Traps, shmaps. I'll deal with them, no problem. Be right back.}	
+{516}{999}{I see, thanks for the warning. I'll keep an eye out.}	
+{600}{}{Show me what you got.}	
+{601}{061}{I'm still looking, actually. Can't wind wood for fire. Are you sure you've seen it?}	
+{602}{062}{Here [drop the wood and dry apples to the floor]}	
+{603}{999}{I just wanted to say that soon I'll bring everything you need.}
+{604}{999}{I got some wood, will find some apples and return.}	
+{610}{}{Uh, let me check on my memory. Yeah, I'm sure! In a ruin to north-west from entrance to the station.}	
+{611}{999}{Okay, thanks, will look there.}	
+{612}{}{Of course! Do you think I would lie to you? Just search a little more.}	
+{613}{999}{Alright.}	
+{614}{999}{Damn, you could search a little more yourself. Fine, I'll be back soon.}	
+{620}{}{So helpful! Thanks! Now my boys can have a bite and a little warmth before we hit the road again... I see that I can count on you. And you probably deserve something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
+{621}{063}{[take the reward] Uh, thanks. Seriously, thanks.}	
+{622}{064}{[give the reward back] No, I don't need that. I'm not good at throwing things anyway.}	
+{630}{}{"Thanks" will not save your life, unlike of a sharp piece of metal. A word of advice - learn to handle something that kills your enemies. After that you'll see your full potential!}
+{631}{999}{Uh. Yeah, okay, sure. Well, I'll go now.}	
+{632}{999}{I know. See you around.}	
+{640}{}{[He chuckles] Suit yourself, }	
+{641}{}{, suit yourself... I think you are a fine lad, but if you'll continue to show-off, you won't last long. Take what you are given, run when you are beaten. Remember my words.}	
+{642}{999}{I will. Be sure about that.}	
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)	
 #	
 {1000}{}{}	

@@ -24,74 +24,74 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: вычислитель.}
-{2}{}{Древний вычислитель. Может в нем и есть полезная информация, но без питания он не заработает.}
+{1}{}{You see a calculator.}
+{2}{}{An ancient calculator. It may contain some useful information, but it won't work without the power.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: вычислитель.}
-{4}{}{Здесь он хорошо сохранился и все еще функционирует.}
+{3}{}{You see a calculator.}
+{4}{}{It's in good condition and still functioning.}
 #
 #Node020
-{200}{}{Профессор Финеган: вход выполнен. Пожалуйста, выберите задачу.}
-{201}{021}{[Архив отчетов]}
-{202}{030}{[Почтовый ящик]}
-{203}{040}{[Доступ к БД по исследованиям]}
-{204}{999}{[ВЫХОД]}
+{200}{}{Professor Finnegan: access authorized. Please, pick an option.}
+{201}{021}{[Reports archive]}
+{202}{030}{[Mailbox]}
+{203}{040}{[Research database]}
+{204}{999}{[LOG OFF]}
 
 #Node021
-{210}{}{Доступ к разделу "Архив отчетов"... Данные частично недоступны. Пожалуйста, выберите задачу.}
-{211}{022}{[Отчет Деймонда 4]}
-{212}{023}{[Отчет Деймонда 5]}
-{213}{024}{[Отчет Стенли 1]}
-{214}{020}{[Главное Меню]}
-{215}{999}{[ВЫХОД]}
+{210}{}{Accessing "Reports archive"... The data is partially inaccessible. Please, pick an option.}
+{211}{022}{[Damon's report 4]}
+{212}{023}{[Damon's report 5]}
+{213}{024}{[Stanley's report 1]}
+{214}{020}{[Return to main menu]}
+{215}{999}{[LOG OFF]}
 
 #Node022
-{220}{}{...ведущий проекта "Прометей" - Деймонд Степп. Итак, многие из особей вполне адаптировались в социуме Пирсон-Тауна, родственники похоже что-то подозревают, но ничего существенного доказать все равно не могут. Кроме Браунов, как уже сообщалось ранее. Особь "Джек" был сбит грузовиком, обильное внутреннее кровотечение привело к смерти в больнице, однако через 2 дня после смерти тело особи исчезло из морга. Во время опроса родственники особи выгледели спуганными, но ничего так и не рассказали. В качестве подтверждения безумных гипотез коллег я собираюсь провести опыт по умерщвлению одной из зрелых особей...}
-{221}{021}{[НАЗАД]}
-{222}{020}{[Главное Меню]}
-{223}{999}{[ВЫХОД]}
+{220}{}{...A current lead of the "Prometheus" project, Damon Stepp. Many of the specimens are completely adapted into society of Pearson Town. Some of the relatives are suspecting something, but they lack any evidence. The "Jack Brown" specimen was hit by a truck, massive internal bleeding led to his death in a local hospital. After 2 days, his body had disappeared from morgue. When questioned, relatives of the specimen looked frightened, but didn't say anything. To prove - or to prove wrong - some insane theories of my colleagues, I am going to conduct an experiment of mortifying an adult specimen...}
+{221}{021}{[BACK]}
+{222}{020}{[Return to main menu]}
+{223}{999}{[LOG OFF]}
 
 #Node023
-{230}{}{Вынужден признать - безумная гипотеза подтвердилась, и один из 20-ти умерщвленных особей... на самом деле не умер. То есть, особь продолжила существование, хотя наблюдаются многочисленные признаки трупного разложения, хоть и протекающие во много раз медленнее, чем должны бы. Наши следующие действия - выяснить, какой способ наиболее эффективный для полного умерщвления этих... "мертвяков". PS: примечательно, что испытуемая особь сохранила все признаки абсолютно здорового сознания и даже пытается шутить.}
-{231}{021}{[НАЗАД]}
-{232}{020}{[Главное Меню]}
-{233}{999}{[ВЫХОД]}
+{230}{}{I have to admit, some of that insane theories had been verified. Of 20 mortified specimens, one didn't actually die... By that I mean it continued to act alive, despite having numerous signs of cadaver decomposition. Also, all processes in its body are going in a much slower pace than they should. Our next move is to find out, which method is most effective in mortyfying these... "Ghouls". P.S.: It is quite curious that the specimen has retained all the signs of a perfectly healthy consciousness, and even tries to make jokes.}
+{231}{021}{[BACK]}
+{232}{020}{[Return to main menu]}
+{233}{999}{[LOG OFF]}
 
 #Node024
-{240}{}{Что ж, как мне сообщили, прошло уже больше месяца после инцидента с исследовательской группой Степпа, шумиха улеглась и мы можем продолжить изучение девиаций в "Прометее". Как удалось выяснить, некоторые из клонов образуют особый "зомби-ген", включающийся в экстремальных условиях, например при остановке сердца или нарушениях работы мозга. После этапа начального перерождения эти, с позволения, "мертвяки" почти не отличаются от людей, но процесс разложения продолжается. Результаты работы Деймонда показали, что разложение клеток мозга происходит быстрее под воздействием облучения и голода, что приводит к вторичному перерождению, после которого у особи остаются только животные инстинкты. Наша следующая задача - разработать штамм вируса, способного воспроизвести "зомби-ген" в теле обычного человека.}
-{241}{021}{[НАЗАД]}
-{242}{020}{[Главное Меню]}
-{243}{999}{[ВЫХОД]}
+{240}{}{Well, I was told that a month after the incident with Stepp's team the things at last calmed down, so we can continue to research the deviations in "Prometheus". As we found out, some clones have the special "zombie-gene", which activates in extreme conditions - heart failure, brain damage, everything leading to a clinical death. After the initial stage of reborn, these, may I say, "ghouls" are hardly different from humans - except their decomposition process still goes on. Damon's research proved that the failure of brain cells goes faster when the body is exposed to radiation. The hunger can also be a crucial factor. Both of these lead to a second reborn stage, after which the specimen is left with only its primal instincts. Our next goal is to develop a strain, capable of replicating a "zombie-gene" in a normal human's body.}
+{241}{021}{[BACK]}
+{242}{020}{[Return to main menu]}
+{243}{999}{[LOG OFF]}
 
 #Node030
-{300}{}{ВНИМАНИЕ: ДОСТУП ОГРАНИЧЕН! Папка: Входящие. }
-{301}{031}{[Прочитано] Деймонд: Девиации в "Прометее"}
-{302}{032}{[Прочитано] Деймонд: Девиации в "Прометее" - это сенсация!}
-{303}{033}{[Прочитано] Деймонд: Девиации в "Прометее" - мы открыли бессмертие!}
-{304}{020}{[Главное Меню]}
-{305}{999}{[ВЫХОД]}
+{300}{}{ATTENTION: ACCESS RESTRICTED! Folder: inbox. }
+{301}{031}{[read] Damon: deviations in "Prometheus"}
+{302}{032}{[read] Damon: deviations in "Prometheus" - this is huge!}
+{303}{033}{[read] Damon: deviations in "Prometheus" - we invented immortality!}
+{304}{020}{[Return to main menu]}
+{305}{999}{[LOG OFF]}
 
 #Node031
-{310}{}{Мы онаружили кое-что интересное у одного из клонов. Помнишь, я говорил про странный ген? Так вот, похоже эта штука может нас всех озолотить! Но мне нужно еще пару недель на исследования. Ну и финансирование, конечно нужно выбить. Может Андерсону напрямую рассказать?}
-{311}{030}{[НАЗАД]}
-{312}{020}{[Главное Меню]}
-{313}{999}{[ВЫХОД]}
+{310}{}{We found something interesting concerning one of our clones. Do you remember that strange gene? Looks like this thing is going to make us rich! But I need a couple of weeks to research it further. And, of course, I need an additional financing. Maybe I should speak to Anderson directly?}
+{311}{030}{[BACK]}
+{312}{020}{[Return to main menu]}
+{313}{999}{[LOG OFF]}
 
 #Node032
-{320}{}{Билл, ОН ВЫЖИЛ! То есть, сначала вроде как умер, мы уже его упаковали в мешок, но Пит заметил, что он не остывает, а даже наоборот - теплее становится. Зрелище, конечно, не из приятных потом было: бедолагу ломало, крутило, он выл и скулил, а потом пошла пена изо рта и он затих, но дышал ровно. Я все в отчете не буду писать - потом с формальностями разберемся. Кстати, получается что Брауны не зря такие напуганные были - они правда зомби увидели!}
-{321}{030}{[НАЗАД]}
-{322}{020}{[Главное Меню]}
-{323}{999}{[ВЫХОД]}
+{320}{}{Bill, HE IS ALIVE! I mean, he died at first, and we were already in the process of bagging him, but then Pete noticed that he is still warm - and getting even warmer! I mean, it wasn't pretty after that: the poor guy started to twist and break, he howled and whimpered, then foam went out of his mouth - and only after that he got silent, but still breathing. I won't go into details in my reports, we'll handle the formalities later. By the way, turns out Browns were frightened for a reason - they have really seen a zombie!}
+{321}{030}{[BACK]}
+{322}{020}{[Return to main menu]}
+{323}{999}{[LOG OFF]}
 
 #Node033
-{330}{}{Это все тот ген, я назвал его "зомби-ген", потому что он делает из клона настоящего неубиваемого зомби! То есть, мы его не кормили уже 10 дней и постоянно "просвечиваем", ну чтобы за внутренностями следить, а он только активнее становится! Можно сделать суперсолдата! Правда, похоже от голодовки у него мозг пострадал, неадекватно себя вести начал. Схватил меня за запястье что даже синяки остались. Пришлось его к кровати привязать на от греха подальше. Сейчас вот лежит - кряхтит. Жалко его конечно, но все во имя науки, а? С тебя шампанское и моя фотграфия на первой полосе "Сакраменто Сайнс"!}
-{331}{030}{[НАЗАД]}
-{332}{020}{[Главное Меню]}
-{333}{999}{[ВЫХОД]}
+{330}{}{It's all because of that gene. I call it "zombie-gene", because he turns a clone into a real immortal zombie! We haven't fed him in 10 days, and we are x-raying him all the time, you know, to track all the changes inside him - and he is only getting more active! We could potentially create a supersoldier! I mean, it looks like his brain is a little damaged, after all, maybe from hunger, because he behaves quite inadequately. He grabbed my wrist so hard that I have bruises! We had to chain him to the bed, just in case. He is lying and grunting now. A pity, of course, but it's all in the name of science, am I right? You owe me the bottle of champaigne and putting my photo on the front page of the "Sacramento Science"!}
+{331}{030}{[BACK]}
+{332}{020}{[Return to main menu]}
+{333}{999}{[LOG OFF]}
 
 #Node040
-{400}{}{Доступ к Базе Данныйх проекта "Прометей"... База Данных пуста.}
-{401}{020}{[Главное Меню]}
-{402}{999}{[ВЫХОД]}
+{400}{}{Accessing "Prometheus" database... Database is empty.}
+{401}{020}{[Return to main menu]}
+{402}{999}{[LOG OFF]}

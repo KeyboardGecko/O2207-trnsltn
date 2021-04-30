@@ -51,7 +51,7 @@
 {101}{}{Hey, why aren't you working?}
 {102}{}{I'm just, uh... Bye.}
 {103}{}{I have a problem - the guard asks for a bottle of booze, which I don't have!}
-{110}{}{So smart, aren't you! What do you think I'm doing? I'm helping father, see? Too bad it's too early for me to wear the jumpsuit... [Kirk is definitely pissed of by the fact he's the younger one.]}
+{110}{}{So smart, aren't you! What do you think I'm doing? I'm helping father, see? Too bad it's too early for me to wear the jumpsuit... [Kirk seems definitely pissed off. You suspect it's because he's the younger one.]}
 {111}{}{Oh yeah, of course! Don't worry, you'll grow up soon! [friendly bump him into the shoulder]}
 {112}{}{Don't snap at me, I'm just asking. Also, I wanted to ask something else...}
 {120}{}{[Kirk looks at you like a bull on a piece of red cloth]}

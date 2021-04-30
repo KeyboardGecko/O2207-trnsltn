@@ -8,8 +8,8 @@
 # Это - поломанный станок карла, который может случайно починить Форрест Гамп
 #
 # Описание 1
-{1}{}{You see: a broken machine.}
-{2}{}{You see: a repaired machine.}
+{1}{}{You see a broken machine.}
+{2}{}{You see a repaired machine.}
 
 # Описание 2
 {3}{}{You don't know why, but this machine does not work.}
@@ -19,7 +19,7 @@
 {5}{}{You have ABSOLUTELY no idea what could be done about it.}
 {6}{}{No, you don't have a slightest clue about how this can be fixed.}
 {7}{}{You try to pull the lever. Accidentally you push off some wrench, which falls inside the machine. You hear some clanking inside. Suddenly, the machine starts!}
-{8}{}{This one is working fine. You don't need to do something about it.}
+{8}{}{This one is working fine. You don't need to do anything about it.}
 {9}{}{}
 {10}{}{}
 {11}{}{}

@@ -22,14 +22,14 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: guard.}
-{2}{}{You see: guard wearing bulletproof armor.}
-{3}{}{You see: a man from guard.}
-{4}{}{You see: guardian.}
-{5}{}{You see: armed guard.}
+{1}{}{You see a guard.}
+{2}{}{You see a guard wearing armor.}
+{3}{}{You see a man from guard.}
+{4}{}{You see a guardian.}
+{5}{}{You see an armed guard.}
 {6}{}{A powerful-looking guard.}
-{7}{}{Well-armed and well-defended guardian.}
-{8}{}{This man is defending the Tartarus from different creatures, and, probably, from dirty thoughts.}
+{7}{}{Well-armed and well-equipped guardian.}
+{8}{}{This man is defending the Tartarus from dangerous creatures, and, probably, from dirty thoughts.}
 {9}{}{He is fully covered with some kind of sticky dirt. If it's even dirt.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
@@ -56,7 +56,7 @@
 {1006}{}{I actually don't mind chatting for a bit, but, you know, duty calls.}
 {1007}{}{Hey, how are you feeling?}
 {1008}{}{Of course I'm glad to see you!}
-{1009}{}{[friendly looks at you]}
+{1009}{}{[looks at you friendly]}
 # Нейтральные сообщения
 {1010}{}{Don't bother me, I'm busy.}
 {1011}{}{Can't you see? I'm busy!}
@@ -77,7 +77,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Рандомные плпвающие сообщения
 {1030}{}{How do they endure this stench without respirators?}

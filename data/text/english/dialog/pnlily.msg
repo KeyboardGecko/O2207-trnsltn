@@ -24,32 +24,32 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: маленькая девочка.}
-{2}{}{Похоже, она сильно болеет.}
+{1}{}{You see a little girl.}
+{2}{}{Looks like she's very sick.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Лили.}
-{4}{}{Лили - единственная девочка на станции.}
+{3}{}{You see Lily.}
+{4}{}{Lily, the only child on the station.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{[малышка постоянно стонет и извивается. Похоже, у нее сильные боли.]}
-{11}{}{Тшшш, тшшш, мылышка, успокойся, все будет в порядке. Тише-тише, успокойся...}
-{12}{}{Лили? Лили-и? Ты меня слышишь? У тебя очень красивое имя, Лили... Лили-ли-ли-лилили. Хэй, из этого получается неплохая мелодия: лили-лили-лили-лиии, ли-лилилли-лили-лии...}
-{13}{}{[девочка совершенно никак не реагирует на Ваши попытки ее успокоить, она все так же продолжает стонать]}
-{14}{}{[оставить Лили в покое]}
-{15}{}{[похоже, мотив начал успокаивать девочку, и спустя несколько минут она мирно засопела]}
-{16}{}{[тихо привстать и уйти]}
-{17}{}{Вы вливаете малышке немного алкоголя в рот, и через пару минут она уже мирно сопит.}
-{18}{}{Вы четко, резко, но аккуратно ударяете малышку палкой по темечку, и она тут же отрубается. Вот это мастерство!}
-{19}{}{Вы не уверены, что у Вас хватит опыта "выключить" малышку этой палкой.}
-{20}{}{Девочка сильно страдает, она стонет и ворочается на лежаке.}
-{21}{}{Малышка мирно спит, не стоит ее будить.}
-{22}{}{А-а-а...}
-{23}{}{М-м-м-м-м...}
-{24}{}{::стонет::}
-{25}{}{А-у-мммм...}
+{10}{}{[Little girl moans and squirms. Looks like she's in a lot of pain.]}
+{11}{}{Hush, hush, baby, calm down. Everything's going to be alright. Hush, hush...}
+{12}{}{Lily? Lily-y? Do you hear me? You have such a beautiful name, Lily... Lily-ly-ly-ly-lyy. Oh, it turns into a great lullaby! Lily-lily-lily-leee, lee-lily-lee-lily-leee...}
+{13}{}{[The girl doesn't react to your attempts to calm her, she continues to moan.]}
+{14}{}{[leave Lily alone]}
+{15}{}{[looks like the melody starts to have effect on a girl. She calms down and, after a few minutes, falls asleep.]}
+{16}{}{[quietly leave]}
+{17}{}{You feed the baby a few drops of alcohol. In a couple of minutes she calmly asleeps.}
+{18}{}{You sharply and precisely hit the baby in the top of her head. She goes off instantly. Now that's a skill!}
+{19}{}{You are not quite sure your experience is enough to "turn off" the baby with this stick.}
+{20}{}{The girl suffers badly, she moans and moves around.}
+{21}{}{The girl is quietly sleeping. No need to wake her up.}
+{22}{}{Aaaah...}
+{23}{}{Nmmm...}
+{24}{}{::moans::}
+{25}{}{Ohm...}
 {26}{}{}
 {27}{}{}
 {28}{}{}
@@ -57,13 +57,13 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Привет!}
-{101}{}{Видел что-нибудь интересное?}
-{102}{}{Тут всегда так скучно!}
-{103}{}{Давай поиграем?}
-{104}{}{Меня зовут Лили, а тебя?}
-{105}{}{Боно и Хьюго  такие зануды...}
-{106}{}{Не волнуйся, у нас все будет хорошо!}
+{100}{}{Hello!}
+{101}{}{Can you tell me something interesting?}
+{102}{}{It's so boring here!}
+{103}{}{Let's play!}
+{104}{}{My name's Lily! What's yours?}
+{105}{}{Bono and Hugo are such bores...}
+{106}{}{Don't worry, we are going to be alright!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

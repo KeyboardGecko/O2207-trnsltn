@@ -237,7 +237,7 @@
 {11900}{}{Metal Armor}
 {11901}{}{Strong and heavy armor made of sheet metal. Constricts movement somewhat but offers great protection.}
 {12000}{}{Military Armor}
-{12001}{}{The most common armor used by army grunts in the war, stil reliable.}
+{12001}{}{The most common armor used by army infantry in the war. Still reliable.}
 {12100}{}{Combat Armor}
 {12101}{}{Infantry combat armor, leather, Kevlar, metal layers. Perfectly shields against many types of projectiles.}
 {12200}{}{Scout Armor}
@@ -261,9 +261,9 @@
 {13100}{}{Detective Revolver}
 {13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many! Min ST: 4}
 {13200}{}{.45 Revolver}
-{13201}{}{A basic average revolver, named after the fact that the mechanism of feeding the loaded cartridges is a revolving aka rotating drum. Min ST: 5}
+{13201}{}{A basic average revolver, named after the fact that the mechanism feeding the loaded cartridges is revolving like rotating drum. Min ST: 5}
 {13300}{}{Magnum Revolver}
-{13301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. Do I feel lucky? Well, do ya punk?. Min ST: 5}
+{13301}{}{Being that this is the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: "Do I feel lucky?" Well, do ya, punk? Min ST: 5}
 {13400}{}{Flare Gun}
 {13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor. Min ST: 5}
 {13500}{}{Thunderer}
@@ -277,15 +277,15 @@
 {13900}{}{9mm Revolver}
 {13901}{}{A very basic and Hand-made 9mm revolver, not very reliable. Min ST: 2}
 {14000}{}{Stun Pistol}
-{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could safe your life. Min ST: 3}
+{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could save your life. Min ST: 3}
 {14100}{}{Sting}
 {14101}{}{A pneumatic launching device for hurling poisonous darts at your adversaries. Min ST: 3}
 {14200}{}{Python Revolver}
-{14201}{}{This one blows heads just clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
+{14201}{}{This one blows heads clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
 {14300}{}{.223 Pistol (Scoped)}
-{14301}{}{A special and custom made pistol in .223 with an attached scope, that allows with ease to pick off your enemies at a distance. Min ST: 4}
-{14400}{}{Jackal Revolver}
-{14401}{}{The signature revolver of the Jackal. A nice cool gun to pop the heads of your enemies like melons. Min ST: 6}
+{14301}{}{A special custom-made pistol in .223 with an attached scope, which allows to pick off your enemies at a distance with ease. Min ST: 4}
+{14400}{}{Jackal's Revolver}
+{14401}{}{The signature revolver of the Jackal. A nice gun to pop the heads of your enemies like melons. Min ST: 6}
 {14500}{}{SL-10 Laser Pistol}
 {14501}{}{Compact and advanced version of the SL-9 laser pistol. Light, fast and deadly! Powered by small batteries. Min ST: 5}
 {14600}{}{Pneumatic Pistol}
@@ -373,7 +373,7 @@
 {18700}{}{Raven Rifle}
 {18701}{}{A descent rifle that shoots small BB Pellets. Even a wild coyote would not like to get hit by a bullet from this one. Min ST: 3}
 {18800}{}{Repaired Rifle}
-{18801}{}{A repaired and worn rifle, but stil deadly. Min ST: 5}
+{18801}{}{A repaired and worn rifle, but still deadly. Min ST: 5}
 {18900}{}{Placeholder Rifle}
 {18901}{}{}
 {19000}{}{Hurricane Minigun}
@@ -381,7 +381,7 @@
 {19100}{}{Heavy Rain Minigun}
 {19101}{}{Like it's predecessor, the "Heavy Rain" minigun tears through enemies like wet paper. It even powerful enough to destroy barricades and armored vehicles. Min ST: 9}
 {19200}{}{Turret Minigun}
-{19201}{}{This gun made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by with it's nearly limitless 90,000 reounds per minute hail of bullets. Min ST: 10}
+{19201}{}{This gun made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by with it's nearly limitless 90,000 rounds per minute hail of bullets. Min ST: 10}
 {19300}{}{HMG-1A4 Flamelance}
 {19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically it's more a plasma minigun, but nobody seems to care when they, and everything around them, melt away at a searing 3000 degrees Celsius. Min ST: 8}
 {19400}{}{Placeholder Minigun}
@@ -395,7 +395,7 @@
 {19800}{}{Placeholder Rokcet Launcher}
 {19801}{}{Min ST: 7}
 {19900}{}{SnR Rocket Launcher}
-{19901}{}{A single use rocket launcher type "Shoot'n'Run" that is impossible to reload, jsut throw it away after uese. Min ST: 6}
+{19901}{}{A single use rocket launcher type "Shoot'n'Run" that is impossible to reload, just throw it away after use. Min ST: 6}
 {20000}{}{Weapon 1}
 {20001}{}{}
 {20100}{}{Weapon 2}
@@ -446,12 +446,12 @@
 {22301}{}{A powerful army painkiller that heals even very deep wounds. It also increases strength and resistance to damage. Very essential in battle!}
 {22400}{}{Antidote}
 {22401}{}{If you are poisoned take a couple of pills and you will not face death from bloody diarrhea!}
-{22500}{}{Rot Gut}
-{22501}{}{The smell from the bottle of hootch knocks you off your feet, but this folk remedy let's you sweat out poisons pretty good!}
-{22600}{}{Rad-Out}
-{22601}{}{An injection that expels radioactive patricles from your bloodstream. Unpleasant, but useful!}
+{22500}{}{Poison-Out}
+{22501}{}{Maybe the smell from this bottle of hooch can knock you off your feet, but this folk remedy still makes you sweat out the poison pretty good!}
+{22600}{}{RadOut}
+{22601}{}{An injection that removes radioactive particles from your bloodstream. Unpleasant, but useful!}
 {22700}{}{Wild Potion}
-{22701}{}{Scorpion tails, rat nails, mole rat scales. The thought of all the things mixed in theremakes you queasy, but this potion removes radiation better than factory drugs!}
+{22701}{}{Scorpion tails, rat claws, molerat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
 {22800}{}{Iodide}
 {22801}{}{If you are going to toy around the core of a nuclear reactor this miracle pill will help you not to burn out from your insides. Take before exposure!}
 {22900}{}{Resistanol}
@@ -469,23 +469,23 @@
 {23500}{}{Cognac}
 {23501}{}{A smooth and noble drink. If you smell if it, you certainly will be respected among your peers.}
 {23600}{}{Booze}
-{23601}{}{You aren't sure if this strong self-brewed hootch is really meant to drink or as a desinfectant.}
+{23601}{}{You aren't sure if this strong home-brewed hootch is meant to be used as drink, or as a desinfectant.}
 {23700}{}{Spot-Up}
 {23701}{}{"What's up? Spot-Up!" There are legends about this soda, including some quite scary ones, but after one sip you will forget all your fears and doubts!}
 {23800}{}{Apple}
-{23801}{}{An old dry apple. It looks like it has mold on its side.}
+{23801}{}{An old dry apple. Looks like it has some mold on its side.}
 {23900}{}{Pear}
 {23901}{}{A surprisingly delicious piece of dried pear.}
 {24000}{}{Shotgun Repair Kit}
-{24001}{}{A kit for the maintenance and assembly of shotguns.}
+{24001}{}{A kit of spare parts for the maintenance and assembly of shotguns.}
 {24100}{}{Rifle Repair Kit}
-{24101}{}{A kit for the maintenance and assembly of rifles and submachine guns.}
+{24101}{}{A kit of spare parts for the maintenance and assembly of rifles and submachine guns.}
 {24200}{}{Shovel}
-{24201}{}{This item is convenient in both, digging something up and bury someone.}
+{24201}{}{This item is equally convenient for both digging something up and burying someone down.}
 {24300}{}{Rope}
 {24301}{}{A coil of good, strong rope. Decide for yourself how to use it.}
 {24400}{}{Screwdriver}
-{24401}{}{A typical screwdriver. Both a useful tool, and and irreplacable in self-defense.}
+{24401}{}{A typical screwdriver. Useful tool both in repairing and in self-defense.}
 {24500}{}{Silk Gloves}
 {24501}{}{If you want to rob someone this item of clothing will be very useful.}
 {24600}{}{Energy Drink}
@@ -541,7 +541,7 @@
 {27100}{}{Firehose Box}
 {27101}{}{You have always liked to set things on fire rather than putting it out.}
 {27200}{}{Vending Machine}
-{27201}{}{Be careful with them, it seems this containers are very deranged.}
+{27201}{}{Be careful with them, it seems like this containers are very dilapidated.}
 {27300}{}{Hood}
 {27301}{}{A hood of a car with obvious traces of corrosion.}
 {27400}{}{Trunk}
@@ -589,7 +589,7 @@
 {29500}{}{*Valve*}
 {29501}{}{One of the parts for the pump valve filter.}
 {29600}{}{Pump Valve Filter}
-{29601}{}{Missing spare part for the broken water treatment unit.}
+{29601}{}{Missing spare part for the broken water filtering unit.}
 {29700}{}{Nuclear Moonshine}
 {29701}{}{A bottle of an extremely strong liquor. It glows in the dark!}
 {29800}{}{*Douglas's Badge*}
@@ -610,8 +610,8 @@
 {30501}{}{A bag of organic fertilizers. Just a handful of this fertilizer and the corn will grow fine and dandy.}
 {30600}{}{*Whetstone*}
 {30601}{}{This stone can be used to sharpen any edged weapon.}
-{30700}{}{Chimera Fang}
-{30701}{}{The tooth, or rather the fang, of the most dangerous creature, the Chimera! You are lucky that you were able to get it and remain all your limbs.}
+{30700}{}{Chimera's Fang}
+{30701}{}{The tooth - or rather, the fang - of the most dangerous creature, the Chimera! You are lucky that you were able to get it and keep all your limbs.}
 {30800}{}{S-Virus Strain}
 {30801}{}{A sealed ampoule containing a deadly virus. Be very careful with it!}
 {30900}{}{Strange Book}
@@ -633,7 +633,7 @@
 {31700}{}{*Machine Parts*}
 {31701}{}{One of the most important parts of the machine.}
 {31800}{}{*Constitution of 15 Rights*}
-{31801}{}{The Laivos Constitution for the inhabitants of the new world, created by the inhabitants for posterity. Perhaps it is useful to know the situation.}
+{31801}{}{The Livos Constitution for the inhabitants of the new world, created by the inhabitants for posterity. Perhaps it is useful to know the situation.}
 {31900}{}{*Robotron Hand*}
 {31901}{}{The electro-mechanical limb of a combat robotron.}
 {32000}{}{*Electric Motor*}
@@ -666,7 +666,7 @@
 {33301}{}{An electronic access card marked X2.}
 {33400}{}{X1 Access Card}
 {33401}{}{An electronic access card marked X1.}
-{33500}{}{*Rad-Away*}
+{33500}{}{*Antiradine*}
 {33501}{}{A blister with a strange, slightly bubbling murky liquid. It is not clear whether this remedy is made in a factory, or Hand-made, but it is rumored to be an excellent cure for radiation.}
 {33600}{}{Firewood}
 {33601}{}{A huge armful of excellent wooden fuel for a nice cozy fire!}
@@ -676,7 +676,7 @@
 {33801}{}{A stick with a rubber pump on the end. It is practical if you want to hit someone gently. It is also suitable for unclogg toilets.}
 {33900}{}{"Name Certificate"}
 {33901}{}{On a rotten piece of paper, it is illegibly written that "The Bearer is INDEED a member of the GREAT and ANCIENT Shvain family."}
-{34000}{}{Douglas' Note}
+{34000}{}{A Note from Douglas}
 {34001}{}{Looks like a list of things Olympus needs.}
 {34100}{}{*Spare Parts Kit*}
 {34101}{}{A heavy box with a lot of hardware inside.}
@@ -687,7 +687,7 @@
 {34400}{}{Canned Meat}
 {34401}{}{Seems that the food was only recently canned. The meat inside might be a suprise, though.}
 {34500}{}{Torn Note}
-{34501}{}{Part of the text is missing, but you can make out the ending: "... why you would need this, but hte code for the console is 2358. And remember Grey, everything depends on you!"}
+{34501}{}{Part of the text is missing, but you can make out the ending: "...Why you would need this, but the code for the console is 2358. And remember, Gray, it's your responsibility!"}
 {34600}{}{*Energy Cell*}
 {34601}{}{An incredibly heavy battery. You can't help but wonder what will happen if you hit it with a sledgehammer.}
 {34700}{}{*Stem Cell Essence*}
@@ -827,7 +827,7 @@
 {41400}{}{Glass Bottle}
 {41401}{}{An empty glass bottle. What would you like to fill it with?}
 {41500}{}{Wooden Comb}
-{41501}{}{A utensil for grooming if you got any hair stil left on your head.}
+{41501}{}{A tool for grooming - if you still have hair left on your head.}
 {41600}{}{Children's Drawing}
 {41601}{}{A crude child's drawing. Questionable art.}
 {41700}{}{Children's Drawing}
@@ -843,13 +843,13 @@
 {42200}{}{Matches}
 {42201}{}{Matches are not a toy for children! Hey, they still light up!}
 {42300}{}{Yarn Spool}
-{42301}{}{If your calling is the sewing-machine, then this spool of robust thread will undoubtly make your very happy.}
+{42301}{}{If your are into sewing, this spool of robust thread will definitely make your very happy.}
 {42400}{}{Crayons}
 {42401}{}{Quite a rare, but useless item. You could leave some rock paintings somewhere.}
 {42500}{}{Metal Plate}
 {42501}{}{Obviously, you can eat soup from this. Or porridge.}
 {42600}{}{Rusty Plate}
-{42601}{}{Looking at several layers of rust, it's hard to imagine what you CAN eat from it.}
+{42601}{}{Looking at several layers of rust, it's hard to imagine HOW you can eat from it.}
 {42700}{}{Iron Plates}
 {42701}{}{A few iron plates, almost untouched by rust.}
 {42800}{}{72% Soap}
@@ -869,7 +869,7 @@
 {43500}{}{Paint}
 {43501}{}{An old can of oil paint. You could paint a wall.}
 {43600}{}{Lavash Skin}
-{43601}{}{The tanned skin of lavash can be used to make leather items.}
+{43601}{}{The tanned skin of Lavash can be used to make leather items.}
 {43700}{}{*Metal Reel*}
 {43701}{}{A reel of rolled up five millimeters thick metal sheets.}
 {43800}{}{Tin can}
@@ -881,9 +881,9 @@
 {44100}{}{*Dried Cheese*}
 {44101}{}{A piece of very old parmesan cheese, however it has already dried to the state of wood.}
 {44200}{}{Lavash Meat}
-{44201}{}{A lump of raw and fresh lavash meat, rich in protein and juicy.}
+{44201}{}{A piece of raw and fresh Lavash meat, rich in protein and juicy.}
 {44300}{}{Sugar}
-{44301}{}{A packet of sugar. Although old age and dampness has it made hard as a rock, it is still as sweet as before.}
+{44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}
 {44401}{}{}
 {44500}{}{Seedy Disk}
@@ -969,7 +969,7 @@
 {48500}{}{Rusty Grate}
 {48501}{}{An old rusty grate. After touching it, red spots remain on the fingers.}
 {48600}{}{Moonshine Filter}
-{48601}{}{A simple filter for the moonshine distiller. It looks like it should save the consumption of rare candies.}
+{48601}{}{A simple filter for the moonshine distiller. Installing it would reduce the consumption of rare candies.}
 {48700}{}{Jackal Grip}
 {48701}{}{The grip of the Jackal Revolver, find the rest of the parts and build yourself a great gun.}
 {48800}{}{Jackal Barrel}
@@ -1025,9 +1025,9 @@
 {51300}{}{D.E.U.S. Weapon}
 {51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
 {51400}{}{Horn}
-{51401}{}{A trophy from the chimera's corpse, you can use it as a weapon.}
+{51401}{}{A trophy from the Chimera's corpse, you can use it as a weapon.}
 {51500}{}{Claw}
-{51501}{}{Trophy claw of the Chimera. Dangerous stuff in battle.}
+{51501}{}{A claw of the Chimera. Dangerous stuff in battle.}
 {51600}{}{Fang}
 {51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
 {51700}{}{Sharp Fang}

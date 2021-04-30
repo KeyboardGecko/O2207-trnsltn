@@ -1,5 +1,5 @@
 #############################################################
-#Текстовый файл для криттера << Рандомный Торговец НМП в ЛАЙВОС >> 
+#Текстовый файл для криттера << Рандомный Торговец НМП в Livos >> 
 #############################################################
 #Структура файла:
 #строки 1-9 - описание персонажа;
@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a junk dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: merchant from NWO.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a junk dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see a merchant from NWO.}
+{5}{}{You see a vendor.}
 {6}{}{He looks very concerned with current price policy in Livos.}
 {7}{}{Just a trader who sells all kinds of junk.}
 {8}{}{He is one of the caravan merchants from NWO.}
@@ -33,9 +33,9 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, forged by craftsmen from all corners of Radius!}
-{12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
+{10}{}{Of course, I don't have many rarities, but I assure you - you won't be disappointed!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by finest craftsmen from all corners of the Radius!}
+{12}{}{I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
 {15}{}{Yes, I might need to buy something. Show me your goods.}
@@ -67,7 +67,7 @@
 {1003}{}{Huh?}
 {1004}{}{Just go away.}
 {1005}{}{Don't bother me, I need to rest...}
-{1006}{}{What else do you need?}
+{1006}{}{What do you need?}
 {1007}{}{[grins]}
 {1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
@@ -78,7 +78,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Just turn around and walk away!}
 {1015}{}{Don't bother me, I need to rest...}
-{1016}{}{What else do you need?}
+{1016}{}{What do you need?}
 {1017}{}{...All sorts of scum walking around...}
 {1018}{}{Leave me be, I have a work to do!}
 {1019}{}{Get lost!}
@@ -97,10 +97,10 @@
 {1030}{}{No, you just HAVE to lower your water prices!}
 {1031}{}{Dallas, there's definitely something wrong with your water.}
 {1032}{}{Your water smells like... Like... Man, even my piss smells better!}
-{1033}{}{You are, of course, monopolists and all that - but we are the ones who own the food supply.}
-{1034}{}{No lower prices - no canned food for you! You have to go hunt the cave rats by yourself!}
-{1035}{}{You are so brazen up! It's easier for us to find water somewhere else in Radius then buy from you!}
+{1033}{}{You are, of course, monopolists and all - but we are the ones who own the food supply.}
+{1034}{}{No lower prices - no canned food for you! You have to go hunt the cave rats!}
+{1035}{}{It's easier for us to find water somewhere else in Radius than buy from you!}
 {1036}{}{Dallas, my friend, you can't set me up like that...}
 {1037}{}{Maybe you could let our mechanic to take a look at your filters.}
 {1038}{}{Five tins for a canister, not a battery more!}
-{1039}{}{So what? It doesn't give you the right to trade rotten water! Especially for such price!}
+{1039}{}{So what? It doesn't give you the right to sell rotten water! Especially at such price!}

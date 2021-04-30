@@ -22,11 +22,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a cook.}
-{3}{}{You see: a female cook.}
-{4}{}{You see: a girl, wearing shirt.}
-{5}{}{You see: a local.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a cook.}
+{3}{}{You see a female cook.}
+{4}{}{You see a girl, wearing shirt.}
+{5}{}{You see a local.}
 {6}{}{Her shirt is covered with fat and tallow.}
 {7}{}{She looks very tired and has shadows under eyes.}
 {8}{}{It seems like she works on a kitchen.}
@@ -67,7 +67,7 @@
 {1016}{}{What else do you want?}
 {1017}{}{Some other time, okay? Or you get no food.}
 {1018}{}{Oh man... Why am I the cause of the toilet getting clogged!? It's humiliating.}
-{1019}{}{Oh. Listen, let's talk a litte later, m?}
+{1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
@@ -77,7 +77,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спящие сообщения
 {1030}{}{::Zzzzz...::}

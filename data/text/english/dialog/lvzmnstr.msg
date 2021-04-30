@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: monster.}
-{2}{}{You see: a cave monster.}
-{3}{}{You see: a huge cave monster!}
-{4}{}{You see: a queen mother of cave monsters.}
-{5}{}{You see: monster.}
+{1}{}{You see a monster.}
+{2}{}{You see a cave monster.}
+{3}{}{You see a huge cave monster!}
+{4}{}{You see a queen mother of cave monsters.}
+{5}{}{You see a monster.}
 {6}{}{Disgustingly looking oinking creature.}
 {7}{}{This creature is unbelievably huge!}
 {8}{}{¯¨á ­¨¥}

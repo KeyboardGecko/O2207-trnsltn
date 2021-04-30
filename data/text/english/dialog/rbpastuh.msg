@@ -1,6 +1,6 @@
 ##############################
 #Локация: Рэйнбоу Рэйдерз
-#Имя: Пастух
+#Имя: Shepherd
 #Краткое описание: Сутенер Радуги. Квест на озабоченного Кирпича, квест со шлюхой
 #Дата создания: 04.09.2014
 ##############################
@@ -11,184 +11,184 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: чернокожий рейдер.}
-{2}{}{Он с алчным видом осматривает каждого входящего.}
+{1}{}{You see a black-skinned raider.}
+{2}{}{He greedily looks at anyone entering.}
 #
 # после знакомства
-{3}{}{Вы видите: Пастух.}
-{4}{}{Черный, во всех смыслах слова, сутенер Радуги.}
+{3}{}{You see Shepherd.}
+{4}{}{Black, in every meaning of the word, pimp of the Rainbow.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Черная кожа, черные глаза, черные шмотки. При вашем приближении он отбрасывает зубочистку, которой ковырял в зубах... Разумеется, тоже черных] Хей, мэн, подгребай! У Пастуха есть главное, без чего ни один нормальный мужик долго не протянет. Интересует?}
-{11}{015}{Может быть. Давай-ка поподробнее.}
-{12}{011}{Интересно... А на пару вопросов о здешних раскладах не ответишь?}
-{13}{016}{Это здорово, но меня в первую очередь интересует работа.}
-{14}{999}{Я, пожалуй, все же попробую протянуть еще немного. Бывай.}
+{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick he poked his black, rotten teeth with.] Hey, man! Come! Shepherd provides the biggest joy for any man! Interested?}
+{11}{015}{Maybe. Tell me more.}
+{12}{011}{Sounds tempting... But do you mind answering a few questions first?}
+{13}{016}{This is great and all that, but I'm more interested in work.}
+{14}{999}{I'll try to enjoy something else. See you.}
 
 
-{1001}{}{[Подмигивает вам с заговорщицким видом] Что, надумал все-таки развлечься?}
-{101}{011}{Лучше ответь мне на пару вопросов.}
-{102}{015}{А ты с ходу сечешь. Я здесь именно за этим.}
-{103}{018}{Вопрос с Кирпичом решен. Больше он твоих девочек беспокоить не будет.}
-{104}{017}{Я разобрался с теми уродами в твоем заведении.}
-{105}{016}{Есть работа, Пастух?}
-{106}{999}{Пока нет. Увидимся.}
-{1002}{}{[Салютует вам неизменной зубочисткой] А вот и новый мускул Радуги. Девочку, чемпион?}
-{107}{015}{Ага. Надо бы расслабиться.}
-{108}{011}{Сначала ответь-ка мне на пару вопросов.}
-{109}{018}{Вопрос с Кирпичом решен. Больше он твоих девочек беспокоить не будет.}
-{1010}{016}{Есть работа, Пастух?}
-{1011}{999}{Не, у меня спортивный режим. Как-нибудь потом.}
-{1003}{}{[Слегка кланяется с почтительным видом] Хей, шеф, какими судьбами?  Сучка и Бл... Эээ... Я хотел сказать, Снежинка и Белочка уже не устраивают? Так у нас для вас всегда найдется свежачок! }
-{1012}{021}{Как дела в целом, Пастух?}
-{1013}{016}{Горизонтальный промысел идет без проблем?}
-{1014}{022}{Время платить, как считаешь?}
-{1015}{015}{А давай-ка проверим, не гонишь ли ты тут порожняк? Что там за новые девки?}
-{1016}{017}{Урыл я этих тварей. Приберись там.}
-{1017}{018}{Я решил вопрос с Кирпичом... За тебя.}
-{1018}{999}{Зашел проверить обстановку. Не расслабляйся и присматривай за нашим скотом, Пастух. Capish?}
-{1004}{}{[Кто-то явно решил проверить, бывают ли у негров синяки. У Пастуха явно не лучшие времена. Даже неизменная зубочистка куда-то подевалась] Хей, мэн... Ты-то хоть по делу ко мне заглянул?}
-{1019}{021}{Да, дела у тебя идут явно не важно.}
-{1020}{016}{Тебе, похоже, не помешает помощь, а?}
-{1021}{015}{Ну да. Снять девочку. С этим проблем не будет?}
-{1022}{018}{Держись бодрей, шлюхин пастырь! Вопрос с Кирпичом решен.}
-{1023}{017}{Поломал я твоих трудных клиентов.}
-{1024}{999}{Хм... Оставлю-ка я лучше тебя. Не кашляй, Пастух.}
-{1005}{}{[С понурым видом шатается по заведению, что-то бормоча себе под нос. Вы подходите ближе] Кабан... Как же так, брат? Через столько прошли, чтоб тебя здесь слили... Какая тут, к херам, справедливость? [Замечает вас] Ладно, жизнь продолжается. С чем пожаловал, мэн?}
-{1025}{018}{Вопрос с Кирпичом решен. Больше он твоих девочек беспокоить не будет.}
-{1026}{016}{Есть работа, Пастух?}
-{1027}{017}{Я разобрался с теми уродами в твоем заведении.}
-{1028}{015}{У твоих девочек ведь не перерыв на обед? Я бы их навестил.}
-{1029}{999}{Так, решил глянуть, как тут у тебя дела. Еще увидимся.}
+{1001}{}{[he winks at you, smiling] What, decided to have some fun at last?}
+{101}{011}{Better answer me some questions.}
+{102}{015}{You do know your customer. I'm here exactly for that.}
+{103}{018}{I handled the matter with Brick. He won't be bothering your girls anymore.}
+{104}{017}{I took care of those pricks in your joint.}
+{105}{016}{Do you have something you need me to do, Shepherd?}
+{106}{999}{Not yet. See you later.}
+{1002}{}{[he salutes you with his toothpick] Here comes the Rainbow's new muscle. Want a girl, champ?}
+{107}{015}{Yes. I need to relax.}
+{108}{011}{Answer a few questions first.}
+{109}{018}{I handled the matter with Brick. He won't be bothering your girls anymore.}
+{1010}{016}{Do you have something you need me to do, Shepherd?}
+{1011}{999}{No, I need to keep in shape. Maybe later.}
+{1003}{}{[he respectfully nods at you] Hey chief, how are you doing? Our favourites, Slut and Suck- er, I mean Squirrel and Snowflake are not good enough for you anymore? We always have a wide range of new girls to offer! }
+{1012}{021}{How it is going, Shepherd?}
+{1013}{016}{I suppose your horizontal business is all good... See you around.}
+{1014}{022}{Isn't now the time to pay? What do you think?}
+{1015}{015}{Actually, let's see if you're not lying. Which new girls?}
+{1016}{017}{I dealt with those trash. Clean it up.}
+{1017}{018}{I handled the matter with Brick for you.}
+{1018}{999}{I'm just checking things around here, Shepherd. Don't get too comfortable and keep an eye out for our merchandize. Capisce?}
+{1004}{}{[Looks like somebody decided to check if black people can have bruises. Shepherd looks pretty bad, even his toothpick is missing] Hey, man... I hope you are here for business?}
+{1019}{021}{Seems like your business is not doing so great.}
+{1020}{016}{You could use some help, am I right?}
+{1021}{015}{Well, yeah. I want a girl. Is this a problem?}
+{1022}{018}{Keep your head up, slut's herder! The matter with Brick is resolved.}
+{1023}{017}{I've dealt with your difficult clients.}
+{1024}{999}{Er... I better leave you alone. Take care, Shepherd.}
+{1005}{}{[With a depressed look, he wanders around the room, quietly mumbling something. You come closer.] Hog... How did it happen, brother? We went through so much - just for you to get smoked here... Where's the fucking righteousness in that? [he notices you] And the life goes on. What brings you here, man?}
+{1025}{018}{I handled the matter with Brick. He won't be bothering your girls anymore.}
+{1026}{016}{Do you have something you need me to do, Shepherd?}
+{1027}{017}{I took care of those pricks in your joint.}
+{1028}{015}{Unless you girls have a break for lunch, I would like to visit them.}
+{1029}{999}{Just wanted to see how are you doing. I'll come by later.}
 
 
-{110}{}{[Улыбка становится шире] Пастух всегда готов помочь хорошему человеку... За пригоршню батареек. Как на рынке: каждый вопрос потянет на десятку. И никаких скидок, мэн. Ничего личного, всего лишь бизнес.}
-{111}{019}{Вот че ты такой жадный? Может, ты и вместо своих девок поработать готов за хорошую награду?}
-{112}{012}{Ладно. Расскажи мне о Радуге.}
-{113}{013}{Эх.. Ну на, держи. А теперь поведай мне о своих коллегах, с которыми можно иметь дело.}
-{114}{020}{Что? Десятка? А не пойти ли тебе на хер, пастушок?}
-{115}{999}{На самом деле, мне пора идти.}
+{110}{}{[his smile gets impossibly wide] Shepherd is always ready to help out a good man! For a fistful of batteries, of course. Every question costs a ten, no discounts. It's a free market, business is business, nothing personal.}
+{111}{019}{Why do you have to be so greedy? Would you even work instead of your girls, if the price is right?}
+{112}{012}{Okay. Tell me about the Rainbow.}
+{113}{013}{Here. And tell me about the people in charge, who are worth dealing with.}
+{114}{020}{What? Ten? Why don't you go suck on it, herder?}
+{115}{999}{Actually, I've got to go.}
 
 
-{120}{}{[Жадно подхватывает батарейки] Радуга... Радуга - это лучшее место Радиуса, мэн! Здесь есть все, что надо вольному человеку. В нашем районе можешь завалиться в бар к Лекарю и закинуться дурью или выпивкой. Тут же мы гоним Каплю. Обязательно зацени, ебашит по мозгам, как кувалдой! Кайф тебе будет обеспечен. Если хочешь пустить кровь и подзаработать, то к твоим услугам Арена. Это к востоку от центральной площади. Там, кстати, ошивается большая часть наших парней, так что веди себя ровно. }
-{121}{013}{Так. А что насчет местных деловых? Наверняка народ у вас подобрался серьезный.}
-{122}{999}{Спасибо за информацию. Будь здоров, Пастух.}
+{120}{}{[he eagerly grabs the batteries] Rainbow, you ask? Rainbow is the best place in the whole Radius, man! Here you can find everything a free man needs. In our neighborhood you can come by Apothecary's bar and pop some stuff or get booze. Also, we make the Drop here - you should check it out. It hits you like a sledgehammer! Good stuff. If you want to shed some blood and make some money, then Arena is at your service. Look to the east of central square. By the way, it's the place where the most of our guys like to hang out, so - behave.}
+{121}{013}{Okay. What about the local authorities? You probably have some serious people in charge here.}
+{122}{999}{Thanks for the info. Take care, Shepherd.}
 
 
-{130}{}{[Быстро пересчитывает и прячет батарейки] У нас тут типа главных нет. Но все платят за охрану моему корешу Кабану. Крайне серьезный мужик. А  мы с ним как братья. Эх, столько пережили, еще когда в Псах на рейдах отрывались... Под Кабаном ходит Кент. Падла выбритая... Крутого из себя строит. Ладно, это наши дела. А ты запомни, что он следит за поставками сырья для лаборатории и решает те вопросы, до которых у Кабан руки не дошли. Ну и Лекарь - бар держит и за качеством продукта для Капли следит. Он в химии рубит здорово...Когда не нажратый.}
-{131}{014}{А что там насчет Псов было?}
-{132}{012}{А про Радугу поподробнее расскажешь?}
-{133}{999}{Ясно. Это все, что я хотел. Пока!}
+{130}{}{[he quickly counts and hides batteries] Well, actually, nobody's in charge. But everyone pays my man Hog for protection. He is an extremely serious fella, we're like brothers. We've been through so much shit together, you wouldn't believe. Had so much fun in raids while in Jackals... Then the Hog has Mate, that shaved motherfucking asshole, who think he's cool. You just keep in mind that he looks after the supply of raw materials for the laboratory and deals with issues that Hog does not. And there's Apothecary - he owns a bar and controls the quality of the Drop. He is pretty good at chemistry... When not wasted.}
+{131}{014}{What did you say about the Jackals?}
+{132}{012}{Can you tell me more about the Rainbow?}
+{133}{999}{Understood. That's all I wanted. See you!}
 
 
-{140}{}{[Метко плюет в тараканов, дерущихся за кусок какой-то тухлятины] Да шавки они задроченные. Как мы оттуда свалили - кончились Псы. У них там Крикун рулит, на всю башку ебнутый. Думает, что у него самый длинный хер в Радиусе. А сам в детстве ссался под себя и ныл без перерыва. А ты думаешь, откуда погоняло такое? Еслиб не его папаша, Шакал... Хороший босс был. Сделал из него в итоге Пса, но перестарался малость. Да и как из такого порченного что-то приличное получится? Он ни за что Кабану палец отрубил, прикинь?! Нам в итоге эта истеричка крикливая надоела и мы сюда двинули.  Завалили всех недовольных, отстроили хату Кабану, бар... В общем, зажили, как белые люди... Особенно я! [Довольно ржет]}
-{141}{999}{Благодарю за информацию. Еще увидимся.}
+{140}{}{[he spits on the floor] They are just a bunch of pussies. After we left them, the Jackals became nothing. Now there's Loudmouth in charge, and he is pretty fucked up. Thinks he has the longest dick in the Radius, ha! Why do you think they call him that? Because he was pissing his pants and whining non-stop as a child. His father, Jackal, was... A good boss, but a terrible parent. He fucked up his son, even with turning him into a real Jackal in the end. This loud asshole cut off Hog's finger just for kicks, can you imagine? So, when we got tired of this hysterical bitch, we moved here. Took care of every annoying shit, built the Hog's crib, the bar...  Basically, started to live as a normal, white people. Especially me! [he happily laughs]}
+{141}{999}{Thanks for the info. See you around.}
 
 
-{1501}{}{[Заметно оживляется] Вот это дело, мэн! Значит так - 27 батареек за час. И лучшие киски Радиуса в твоем распоряжении! Твори с ними, что хочешь! Но товарный вид не попорть, уж постарайся. Ломаться никто не будет, отвечаю. Я сам за ними в рейды хожу, а потом обрабатываю... Во все щели, ха-ха! Гандоны не забудь - подарок фирмы.}
-{151}{999}{Отличные рекомендации! Беру!}
-{152}{999}{Не, чего-то пока не хочется.}
-{1502}{}{Наше заведение всегда к твоим услугам, мэн! Расценки те же - 27 за сеанс.}
-{153}{999}{Поехали!}
-{154}{999}{Может, в другой раз.}
-{1503}{}{Не пожалеете, шеф, отвечаю! [Кричит одной из местных работниц] Ты! Быстро приготовила тех двух, что я для себя оставил! Наш шеф решил оказать нам честь! }
-{155}{999}{Ну сейчас проверим... А ты давай резинки и можешь отдыхать.}
+{1501}{}{[he gets more lively] Now we're talking business! Here's how it is, man - for only 27 batteries per hour, best pussies in Radius are at your service! Do anything you want with them, but don't mess up the commodity's condition, be so kind. They won't say no, I promise you that. I work on them myself... In every hole, hahaha! And don't forget the condoms - it's on the house.}
+{151}{999}{Such a good recommendations! I'm paying!}
+{152}{999}{No, I don't need it for now.}
+{1502}{}{Our fine establishment is always at your service, man! The price still stands - 27 batteries per hour.}
+{153}{999}{Let's do it!}
+{154}{999}{Maybe some other time.}
+{1503}{}{You won't regret it, chief, I tell you! [he shouts to one of his girls] Hey you!! Prepare those two new ones I left for myself! Our boss is doing us the honors! }
+{155}{999}{We'll see about that... Give me the rubbers and you can go.}
 
 
-{1601}{}{[Внимательно оценивает вас, даже обходит вокруг] Да, есть для тебя работенка. В последнее время у меня проблемы с безопасностью в заведении. Ходят одни твари, в количестве четырех рыл. На днях мало того, что девке одной порвали все промеж ног, так еще второй ножом по морде прошлись. А это убытки! Блять, да у меня аж стояк пропал на сутки от расстройства! Я бы мог сказать Кабану, но он Кента пришлет, а мы с ним не особо ладим. В общем, берешься наказать этих отморозков? Они как раз притащились.. С наличкой у меня туго, но подгоню тебе ствол серьезный. Я с ним еще Псов на рейды водил. }
-{161}{999}{Годится. Жди здесь.}
-{162}{011}{Неинтересно. Лучше ответь на вопрос один.}
-{163}{999}{Я подумаю. Если что - вернусь.}
-{1602}{}{Есть одна проблемка. У склада местного трется охранник один, Кирпичом кличут. Так этот озабоченный Лаваш повадился к моим телкам бегать! И трахает их!! Бесплатно!!! Заломает в углу и отдрючит. Нормально, а? Реши с ним вопрос, мэн, как родного прошу. Мне Лекарь подогнал химаря разного, хотел я намешать себе для оттяга. Но тебе все отдам, лишь бы этот урод тут больше не ошивался! }
-{164}{999}{Годится. Готовь препараты.}
-{165}{011}{Не, сам с ним разбирайся. А мне нужны ответы на парочку вопросов.}
-{166}{999}{Надо подумать. Я вернусь, как приму решение.}
-{1603}{}{[Кланется еще ниже] Да есть тут четверо мразей... На днях мало того, что девке одной порвали все промеж ног, так еще второй ножом по морде прошлись. Это не только убытки, но и неуважение к вам! Сам бы  их на хрящ насадил за это, но я ведь знаю, как вы любите лично ломать кости таким охеревшим бычарам!}
-{167}{999}{Ха! Есть такое дело... Они здесь? Отлично, пора кому-то пустить кровь...}
-{168}{999}{Че? Я такой херней заниматься не собираюсь. Ты сам должен такие вопросы решать! Все, некогда мне. Бывай!}
-{1604}{}{[Щелчком отправляет изжеванную зубочистку в ближайшую шлюху] Мне вот даже как-то неудобно вас такой просьбой донимать... Одн из парней ваших, Кирпич, повадился к моим телкам бегать! И трахать их! Бесплатно!!! Заломает в углу и отдрючит. Как вам, а? Помогите, шеф, а то у меня дел тут по горло... Хочу деньжат вам побольше срубить к сроку!}
-{169}{999}{Ладно, по дороге загляну к нему. А ты пока подумай, нахрена мне человек, который на своей территории порядок держать не может?}
-{1610}{999}{Заплатишь вовремя, я даже не сомневаюсь. А насчет Кирпича - некогда мне пока, понял? Еще увидимся!}
-{1604}{}{[Протирает грязной тряпкой фальшивый камень на перстне] Не, пока все тихо. Ты хорошо поработал, мэн.}
-{1611}{999}{Ок. Обращайся, если что. Бывай, Пастух.}
-{1605}{}{[Чешет сплющенный нос зубочисткой с счастливым видом] Шеф, вы тут так все грамотно разрулили - аж не верится! Повезло нам, что вы у руля встали! Все идет отлично, проблем пока никаких!}
-{1612}{999}{Это хорошо. Но ты учись сам вопросы решать, для этого тебя здесь и поставили. Еще увидимся, Пастух.}
-{1606}{}{[Внимательно оценивает вас, даже обходит вокруг] Да, есть для тебя работенка. В последнее время у меня проблемы с безопасностью в заведении. Ходят одни твари, в количестве четырех рыл. На днях мало того, что девке одной порвали все промеж ног, так еще второй ножом по морде прошлись. А это убытки! Блять, да у меня аж стояк пропал на сутки от расстройства! Еще и мне вломили стулом по башке... Как Кабана урыли, мне всякая мразь покоя не дает! А Кент только и рад, сука...  В общем, берешься наказать этих отморозков? Они как раз притащились.. С наличкой у меня туго, но подгоню тебе ствол серьезный. Я с ним еще Псов на рейды водил. }
-{1613}{999}{Годится. Жди здесь.}
-{1614}{999}{Я подумаю. Если что - вернусь.}
-{1607}{}{Есть одна проблемка. У склада местного трется охранник один, Кирпичом кличут. Так этот озабоченный Лаваш повадился к моим телкам бегать! И трахает их!! Бесплатно!!! Заломает в углу и отдрючит. Нормально, а? Реши с ним вопрос, мэн, как родного прошу. Мне Лекарь подогнал химаря разного, хотел я намешать себе для оттяга. Но тебе все отдам, лишь бы этот урод тут больше не ошивался! Совсем эти твари без Кабана охренели...}
-{1615}{999}{Годится. Готовь препараты.}
-{1616}{999}{Надо подумать. Я вернусь, как приму решение.}
+{1601}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] I've been having troubles with security in my establishment lately. Some assholes are periodically coming around, four of them. In their last visit, one of my girls ended up being torn, another had her face worked with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! Of course, I could tell Hog about it, but I suspect that he would send Mate to deal with it - and I have my beef with Mate. So, will you handle the scumbags? They actually just came in... }
+{161}{999}{Deal. Wait here.}
+{162}{011}{Not interested. Better answer me some questions.}
+{163}{999}{I need to think about it. Will be back.}
+{1602}{}{There's one thing that's bugging me. A guard of the local warehouse, named Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! }
+{164}{999}{Deal. Get the stuff ready.}
+{165}{011}{Nah, handle him yourself. And I need answers to some questions.}
+{166}{999}{I need to think about it. Will be back.}
+{1603}{}{[he nods] There are actually four scumbags... When they came around last time, one of my girls ended up being torn, and another had her face worked with a blade. This not only means that I'm having additional costs - it's disrespectful to you, chief!! I would impale them on some stick myself, but I know how you like to personally break the bones of such disrespectful pricks!}
+{167}{999}{Ha! You are quite right. Are they here now? Good - it's time to shed some blood...}
+{168}{999}{What? I don't do such petty shit. You should deal with matters like this yourself! That's it, I'm busy, See you!}
+{1604}{}{[he sends a chewed toothpick flying into the nearest prostitute] I don't even feel comfortable to distract you with such petty matters... There's one of your guys, a guard of the local warehouse, name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free!! Backs them into a corner and bonks them right there. How do you like that? Help me, chief, I'm pretty busy lately - trying to make more money for you!}
+{169}{999}{Okay, I'll see to it. And you should think about why would I need someone who can't handle his own matters.}
+{1610}{999}{And you will pay in time, I don't even doubt. As for the Brick - I don't have time for this, hear me? Later.}
+{1604}{}{Nah, everything's quiet. All good, man.}
+{1611}{999}{Okay. Tell me if you need something. Later, Shepherd.}
+{1605}{}{[he scratches his nose with a toothpick] Chief, you are so good at dealing with this kind of shit, I can't believe it! We are so lucky to have you in charge! Everything is great, no problem at all!}
+{1612}{999}{Good. But you should learn to handle the matters by yourself, because you are responsible. Later, Shepherd.}
+{1606}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] I've been having troubles with security in my establishment lately. Some assholes are periodically coming around, four of them. In their last visit, one of my girls ended up being torn, another had her face worked with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! As Hog went down, all this filth doesn't let met do my business! And Mate is so happy about it, that smug asshole...  So, will you handle the scumbags? They just came in...}
+{1613}{999}{Deal. Wait here.}
+{1614}{999}{I need to think about it. Will be back.}
+{1607}{}{One thing is bugging me. There's a guard of the local warehouse, name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! Without Hog, all kinds of assholes are running rampant here...}
+{1615}{999}{Deal. Get the stuff ready.}
+{1616}{999}{I need to think about it. Will be back.}
 
 
-{1701}{}{Ну ты и зверюга! Кровищи аж до потолка набрызгало! Хорошо сработал. Держи. [Передает вам блестящий, весь в смазке, револьвер] Жаль расставаться, но бизнес есть бизнес.}
-{171}{999}{С вами приятно иметь дело! Ладно, до скорого.}
-{1702}{}{Ну шеф, дали вы джазу! Кровищи аж до потолка набрызгало! Вот, примите от меня, со всем уважением. Я с ним еще Псов на рейды водил. [Передает вам блестящий, весь в смазке, револьвер] }
-{172}{999}{Пополнение для моей коллекции... Еще увидимся, Пастух.}
+{1701}{}{Man, what a beast you are! Everything is bloody, right to the ceiling! Good job. Here. [he gives you a shiny revolver, covered in oil] It's sad to part with it, but business is business.}
+{171}{999}{Nice to do it with you! Alright, see you later.}
+{1702}{}{What a bloodbath, chief! You definitely know your shit, man! Here, take this, with all respect. I used to lead the raids with it, back in the day, in Jackals. [he gives you a shiny revolver, covered in oil] }
+{172}{999}{A good addition to my collection. See you around, Shepherd.}
 
 
-{1801}{}{[Растягивает вывернутые губы в довольной усмешке] Хорошая новость... Очень надеюсь, что так оно и будет. Держи пакет. Хочешь расскажу за скромную плату, как и что смешать, чтоб стояк сутки не проходил?}
-{181}{999}{Ну спасибо. Сам как-нибудь разберусь. Пока.}
-{1802}{}{[Толстые губы подхватывают зубочистку и Пастух довольно потирает руки] Вот так-то, мешок со спермой... Больше проблем с  безопасностью не будет, шеф! Это вот вам, собрал специально. [Торопливо протягивает пакет с какой-то химией] Благодарю!}
-{182}{999}{Судьбу благодари. В следующий раз с тебя спрошу за такие дела. Пока свободен.}
+{1801}{}{[he stretches his lips into a smug smile] Good to know... I hope that's how it is. Here's your package. Want me to tell you how and what to mix, so your hard-on would last for twenty four hours? The price is pretty small.}
+{181}{999}{No thanks. I'll figure it out. See you.}
+{1802}{}{[his fat lips squeeze the toothpick. Shepherd looks pleased] You got what you deserved, you walking sperm bank... No more problems with security then, chief! Here, this is for you. [he hands you a backage with some chemicals] Thanks again!}
+{182}{999}{Next time you'll answer to me for such screw-ups. You can go for now.}
 
 
-{190}{}{[Ржет с довольным видом] Может и поработал бы. Один хер у тебя батареек на меня не хватило бы! Ха-ха! Я бизнесмен, мэн, а не дешевый сутенер из подворотни. За все надо платить.}
-{191}{020}{Че? Да ты сутенер и есть! Захочу - я тебя за бесплатно вертеть на приборе буду!}
-{192}{013}{Ладно, бизнесмен. Согласен, рассказывай про местных заправил.}
-{193}{012}{Ну да, ну да... Хорошо, расскажи мне про Радугу.}
-{194}{999}{Не, мне это не подходит. Я пошел.}
+{190}{}{[he coarsely laughs with a pleasant look] Maybe I would. You don't have enough batteries for it anyway! Haha! I'm a businessman, man, not a cheap pimp from the streets.}
+{191}{020}{Really? You ARE a pimp from the streets! I'm going to spin you right round on my device for free, if I feel like it!}
+{192}{013}{Okay, businessman. Tell me about the local authorities. Who is in charge here?}
+{193}{012}{Alright. Tell me about the Rainbow.}
+{194}{999}{I get it. I'm leaving.}
 
 
-{200}{}{[Таращит на вас большие глаза на выкате]  Ты... Ты на кого тут наехать пытаешься, сучонок? Да за меня Кабан тебя... Да я сам тебя щас урою!}
-{201}{998}{Ну подходи, гнида! Я те твое ебаное рыло до затылка вскрою!}
-{202}{998}{Слепой сказал - посмотрим! Попробуй!}
+{200}{}{[He stares at you with his bulging, red eyes]  You... Who do you think you are fucking with, bitch? You know what Hog will do to you? Screw this, you know what I will do to you? I'll show you!}
+{201}{998}{Come on, you scum! I will dissect your face right to the back of your head!}
+{202}{998}{As the blind man once said - let's see! Come and get it!}
 
 
-{2101}{}{Все отлично, шеф! Таких телочек сочных с последнего рейда пригнали... [Приглаживает сальные волосы] Да многие и сами к нам идут - под вашей крышей хотят быть! В общем, только успеваю батарейки считать.}
-{211}{022}{И много насчитал? Есть что для меня?}
-{2102}{}{[Обхватывает голову руками] Полный пиздец... Какие-то пидоры отметелили и свалили, не заплатив. Сучки бегут... Не могу я один тут рулить. Эх, Кабан, не вовремя тебя слили, брат... }
-{212}{999}{Ну, бывает и хуже. Держись, в общем. }
+{2101}{}{The business is going great, chief! The last batch of girls we got is just sweet, can't say it better. [he strokes his greasy hair] And a lot of them come to us by their own will, because they want your protection! All I have to do is to count the incoming batteries.}
+{211}{022}{And how much did you count? Have something for me?}
+{2102}{}{[he grabs his head] Everything is fucked... Some assholes beat the shit out of me and left without paying. The bitches are running away... I just can't handle it alone, man. Hog, why did you kick the bucket, brother... }
+{212}{999}{It could be worse. Hang in there. }
 
 
-{2201}{}{[Раскрывает небольшой переносной сейф] Все здесь, шеф, до последней батарейки! У меня все четко.}
-{221}{999}{Отлично. Девкам передай благодарность за ударный труд. Пока!}
-{2202}{}{Все будет, шеф! Вы же меня знаете! Каждое 5-е и 20-е число. Просто приходите - и забираете свое, все путем!}
-{222}{999}{Ну смотри, я-то не забуду прийти. Бывай.}
+{2201}{}{[he opens his little portable safe] All here, chief, down to the last battery!}
+{221}{999}{Great. Tell the girls I said thanks for their hard work. See you!}
+{2202}{}{All will be good, chief! You know me, man! Every 5-th and 20-th. Just come and take your cut, no problems!}
+{222}{999}{I won't forget that. Later.}
 
 
-{2301}{}{[Девушка испуганно прячется за вашу спину. Задыхающийся негр останавливается перед вами, подрагивающей рукой закидывая в пасть зубочистку] Какого... Свали-ка в сторонку, мэн. Мне надо вышибить дерьмо из тупой башки этой суки! Или лучше помоги мне ее скрутить!}
-{231}{024}{А что случилось?}
-{2302}{}{[Девушка испуганно прячется за вашу спину. Задыхающийся Пастух останавливается перед вами, подрагивающей рукой закидывая в пасть зубочистку]}
-{232}{024}{А что случилось?}
+{2301}{}{[You see a girl running at you, screaming. As you stumble, she gets behind you back, cowering in fear. The black guy stops nearby, gasping for air, then tosses a toothpick into his mouth.] What the... Don't get in my way, man. I'm going to beat the shit out of this bitch's stupid head! Or better, help me to capture her!}
+{231}{024}{What's this all about?}
+{2302}{}{[You see a girl running at you, screaming. As you stumble, she behind you back, cowering in fear. Shepherd stops nearby, gasping for air, tossing a toothpick into his mouth.]}
+{232}{024}{What's this all about?}
 
 
-{240}{}{Эта шлюха у меня на хорошем счету была, я даже по морде ее не бил, когда трахал! И клиентам она нравилась! А она взялась выручку крысятничать! Знаешь, зачем? Папаше своему на лекарства собирала! Хотела с проезжими торгашами передать. Нет, ну не ебнутая разве, а? Само собой, торгаш мне ее сдал - он же наш клиент постоянный, знает, с кем лучше дела мутить... Ничего, если выживет после меня - надолго уважением проникнется! [Девушка при этих словах взвизгивает и отскакивает в сторону, закрыв лицо руками] Держи ее, мэн!}
-{241}{025}{Момент! [Схватить девушку] Ух, еще царапается... Да хватай ты ее, че встал! Мда... Вставь ей по-полной, такие вещи прощать нельзя. Ворам вообще надо руки рубить...}
-{242}{026}{Эй, полегче! Все же можно решить без шума и пыли!}
-{243}{027}{Ты не тронешь ее, черный. [Встать у него на пути]}
+{240}{}{I treated this slut like no other! I didn't even punched her face while fucking her! The clients liked her! And what she does in return? She starts fucking stealing! And you know why? Because of her fucking dad's meds! She tried to talk the caravan merchants into this, ain't it fucked up? Of course, they ratted her out - they are our regular customers! It's alright - if she survives after me, she'll learn some respect! [The girl squeals and covers her face] Get her, man!}
+{241}{025}{Just a second! [grab the girl] Damn, ain't she a feisty one! Hold her, don't stand there! Things like this shouldn't be forgiven, so don't go easy on her. Thieves used to have their hands cut off, or so I've heard...}
+{242}{026}{Hey, easy! This can be resolved without any fuss!}
+{243}{027}{You won't touch her, black boy. [stand in his way]}
 
 
-{250}{}{[Сутенер умело скручивает руки сопротивляющейся проститутки веревкой и накидывает петлю на шею] Ну, без рук вообще-то можно работать... Спасибо за идею, кстати! В общем, не переживай, обработаю ее основательно. Ты заходи к нам, мэн - скидок не обещаю, уж извини, но зато и заразных подсовывать не стану! [Дергает за веревку] Пошла, шмара! }
-{251}{999}{Да, в наше время никому нельзя верить... Ладно, задержался я с вами. Мне пора.}
+{250}{}{[The pimp skillfully ties the hands of resisting girl with a rope, then puts a noose on her neck] You know, she doesn't need hands to work... Thanks for the tip, by the way! Don't you worry, I'll deal with her very thoroughly. You should come visit us, man. I won't promise any discounts, sorry, but at least the girls won't be contagious, haha! [pulls the rope] Move, bitch! }
+{251}{999}{You don't trust anyone these days... Okay, I overstayed my welcome. I should go.}
 
 
-{260}{}{[Он удивленно пялится на вас, приоткрыв рот с прилипшей к губе зубочисткой] Че? Хрена ли ты мне зубы заговариваешь? Да как еще такие вопросы решать?}
-{261}{}{Будь практичнее! Сам же сказал, что она ценный сотрудник. Напугал ты ее уже достаточно -  вон, смотри, она еле на ногах стоит. Так зачем терять часть дохода? Просто напоминай ей почаще о ее промахе и девчонка станет работать еще усерднее! }
-{262}{025}{А... Знаешь, а ты прав! [Схватить девушку] Ноги ей держи! Ай! Я руки тебе выдерну сейчас, сучка!}
-{263}{027}{Как? А один на один со мной.}
+{260}{}{[he is staring at you astonished, with his mouth open. His toothpick is stuck on his lower lip.] What? What the hell are you blabbering about? How else would you deal with this?}
+{261}{}{Be more practical! You said yourself that she is a valuable employee. And she is already terrified - look, she's barely standing. Why do you need to lose part of your income? Just remind her about this matter from time to time, and she will work even harder than before. }
+{262}{025}{You know, maybe you're right! [grab the girl] Hold her legs! Ow! I'm going to rip your arms off, you slut!}
+{263}{027}{How, you ask? One-on-one. With me.}
 
 
-{2701}{}{[Сутенер неожиданно бросается в вашу сторону. Что он хотел сделать - схватить девушку или напасть на вас - вы так и не узнали. Негр спотыкается на ровном месте, падает, и с такой силой прикладывается головой о ближайший валун, что вы слышите хруст костей. Девушка с удивленным видом отнимает руки от лица, смотрит на неподвижное тело и ставит новый рекорд по пронзительным воплям, после чего проворно исчезает за углом. Вы осматриваете тело сутенера, но сломанная шея убеждает вас, что он уже в стране вечной охоты]}
-{271}{999}{Да как такое может быть-то? И что теперь сказать, если кто спросит?}
-{2702}{}{[Надвигается на вас, картинно помахивая кулаками] А, герой у нас нарисовался! Святой спаситель бедных шлюх! Да ты хоть знаешь, что с тобой  Кабан сделает, если меня тронешь? Ну ладно, сука! Я ее на твоем теплом трупе насмерть затрахаю! Понял, ты?! [девушка тем временем явно собирается сделать ноги подальше от места грядущего конфликта.]}
-{272}{998}{Много слов. Сейчас посмотрим, из чего ты сделан...}
-{273}{998}{Я тебе ожерелье из твоих же кишков на шею накину, черножопый! А яйца ей на память подарю! }
-{274}{028}{[Распаленный угрозами противник даже не думает о защите. Самое время атаковать!]}
+{2701}{}{[Suddenly, the pimp throws himself at you. What he tried to do - attack you or grab the girl - will always remain a mystery, because he trips over, falls down and hits the floor with his head so hard that you hear loud cracking. The girl stands frozen with her mouth agape, then sets a new world record on high-pitched yelling and hastily vanishes around the corner. You check the pimp's body for signs of life, but his broken neck indicates that he has definitely kicked the bucket.]}
+{271}{999}{How's that even happened? And what should I say if someone asks?}
+{2702}{}{[He approaches you, grotesquely waving his hands] Oh, so we have a hero among us! A holy saviour of poor prostitutes! Do you know what Hog will do to you if you lay a finger on me? You know what, asshole, I'm going to kill you myself, and then fuck this bitch on your cold corpse! Hear me?! [the girl is definitely waiting for the moment to sprint away from the place of conflict.]}
+{272}{998}{So much talking... Let's see what you are made of.}
+{273}{998}{I'm going to make a meatball out of your innards and shove it very deep into your black ass! And she gets your black balls as a souvenir! }
+{274}{028}{[Heated by conversation, your opponent doesn't even think about defending himself. It's time to attack!]}
 
 
-{280}{}{[Удар нанесен с такой скоростью, что противник даже не успевает его заметить. Основанием ладони вы вбиваете носовые хрящи прямо ему в мозг. Сутенер падает навзничь, дергает напоследок ногой и замирает, невидяще пялясь в небо. Вы оборачиваетесь, но девушки уже нет]}
-{281}{999}{И никакой благодарности... Ладно, главное - дело сделано.}
+{280}{}{[Your blow is so fast that enemy didn't even notice it. With the palm of your hand, you punch his nose cartilage right into his brain. The pimp falls down like a sack of flour, twitches his leg for the last time - and stops moving. His unseeing eyes are staring into nothingness. You look around, but the girl is nowhere to be found.]}
+{281}{999}{Not even a thank you... Okay, what's done is done.}
 
-{285}{}{Вооруженные рэйдеры любезно препровождают Вас пинками на разговор к боссу.}
+{285}{}{Armed raiders kindly escort you to their boss, pointing their guns in your back.}

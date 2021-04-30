@@ -1,6 +1,6 @@
 ##############################
 #Локация: НМП
-#Имя: Хуан
+#Имя: Juan
 #Краткое описание: Потомственный механик, рабоатет на заводе "Хэппи Булл". Своих детей нет, поэтому присматривает за Филиппом.
 #Дата создания: 18.06.2014
 ##############################
@@ -11,314 +11,315 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: сутулый мужичок.}
-{2}{}{Усталый мужчина, на вид средних лет. Его густые брови практически полностью закрывают глаза.}
+{1}{}{You see a hunched man.}
+{2}{}{A tired, middle-aged man. His thick, bushy eyebrows cover his eyes almost completely.}
 #
 # после знакомства
-{3}{}{Вы видите: Хуан.}
-{4}{}{Хуан смотрит на вас из-под своих густых бровей.}
+{3}{}{You see Juan.}
+{4}{}{Juan eyes you from under his thick eyebrows.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{Здравствуй. Чем могу помочь?}
-{11}{002}{Привет. Меня зовут }
-{14}{002}{, я здесь недавно.}
-{12}{002}{Привет. Я здесь недавно, осматриваюсь.}
-{13}{999}{Просто мимо проходил. [Выход]}
+{10}{}{Greetings. What can I help you with?}
+{11}{002}{Hey, I'm }
+{14}{002}{, I'm here recently.}
+{12}{002}{Hello. I was only looking around.}
+{13}{999}{I was just walking by. [end]}
 
 #Node002
-{20}{}{Что ж, я гостям рад. Меня зовут Хуан, я здесь работаю.}
-{21}{009}{Что это за место?}
-{22}{003}{Давно ты в этих краях?}
-{23}{007}{Расскажи об НМП.}
-{24}{999}{Рад знакомству, Хуан. Ну, мне пора.}
+{20}{}{Well, I always welcome guests. The name's Juan, I work here.}
+{21}{009}{What is this place?}
+{22}{003}{How long have you been around?}
+{23}{007}{Tell me about NWO.}
+{24}{999}{Glad to meet you, Juan. Well, I need to go.}
 
 #Node003
-{30}{}{Я здесь родился. Мой отец был местным механиком, и я пошел по его стопам. Это наше семейное ремесло. Может быть, мне удастся передать его Филиппу. Мальчишка смышленый, не хочу, чтобы он всю жизнь был пастухом.}
-{31}{004}{Филипп - это твой сын?}
-{32}{006}{Я кое-что еще хотел спросить.}
-{33}{028}{Мне пора.}
+{30}{}{I was born here. My father was a local mechanic, I followed his footsteps. Now this is our family business, I guess. Maybe I'll be able to pass it on to Philip. The boy is smart, I don't want him to be a herder for all of his life.}
+{31}{004}{Philip is your son?}
+{32}{006}{I want to ask something else.}
+{33}{028}{I need to go.}
 
 #Node004
-{40}{}{Нет. [Брови Хуана, кажется, опускаются еще ниже.] Своих детей у меня нет.}
-{41}{005}{Филиппу повезло, что кто-то о нем заботится.}
-{42}{006}{Давай сменим тему.}
-{43}{028}{Я бы еще послушал, но в другой раз.}
+{40}{}{No. [Juan's, eyebrows seemingly get even lower.] I don't have children of my own.}
+{41}{005}{Philip is lucky to have someone to take care of him.}
+{42}{006}{Let's change the subject.}
+{43}{028}{I would listen to you more, but some other time.}
 
 #Node005
-{50}{}{[Хуан поднимает глаза. Вы видите в них благодарность.] Делаю, что могу. Хочу, чтобы парень вырос с добрым сердцем и рабочими руками.}
-{51}{006}{Я хотел спросить еще кое о чем.}
-{52}{028}{Желаю успехов. Еще увидимся.}
+{50}{}{[Juan looks at you. You see gratitude in his eyes] I do what I can. I want the boy to grow up with a good heart and skillful hands.}
+{51}{006}{I'd like to ask about something else.}
+{52}{028}{I wish you luck. See you around.}
 
 #Node006
-{60}{}{Спрашивай.}
-{61}{009}{Что это за место?}
-{62}{003}{Давно ты в этих краях?}
-{63}{007}{Расскажи об НМП.}
-{64}{060}{Хуан, а что ты думаешь по поводу грядущей смены руководства?}
-{65}{028}{Рад был пообщаться. Еще увидимся.}
+{60}{}{Ask.}
+{61}{009}{What is this place?}
+{62}{003}{How long are you here?}
+{63}{007}{Tell me about NWO.}
+{64}{060}{Juan, what do you think about the upcoming changes in leadership here?}
+{65}{028}{Was nice to talk to you. Until later.}
 
 #Node007
-{70}{}{Новый мировой порядок - это наш дом. Здесь живут те, кого мир научил ценить человеческие отношения, дружбу и преданность. Вместе мы тесная коммуна под руководством общего лидера. Я уверен, тебе у нас понравится.}
-{71}{008}{Как вам удается поддерживать правопорядок?}
-{72}{006}{Ясно. Я хотел спросить еще кое о чем.}
-{73}{028}{Хочется разделять твою радость. До скорого.}
+{70}{}{New World Order is our home. Those who live here know how to value the relationships between people, friendship, loyalty. Together we are a tight-knit commune under a strong leadership. I'm sure you're going to like it here.}
+{71}{008}{How do you manage to maintain peace and order around?}
+{72}{006}{I see. I want to ask something else.}
+{73}{028}{I really want to share your feelings. See you around.}
 
 #Node008
-{80}{}{У нас есть охрана. Нарушители иногда появляются, но дорога у них одна - за ворота.}
-{81}{006}{У меня есть еще пара вопросов.}
-{82}{028}{Мое любопытство удовлетворено. Еще увидимся.}
+{80}{}{We have guards. The ones who violate the rules appear sometimes, but they all have the same road in the end - beyond the gates.}
+{81}{006}{I have a couple of questions more.}
+{82}{028}{My curiosity is satisfied. See you around.}
 
 #Node009
-{90}{}{Это консервный завод "Хэппи Булл". Здесь наши славные лаваши превращаются в славные консервы. [Хуан тихо смеется.]}
-{91}{012}{Мило.}
-{92}{011}{"Счастливый бык"? Что, серьезно?}
-{93}{006}{Я хотел еще кое о чем спросить.}
-{94}{028}{Забавно. Еще увидимся.}
+{90}{}{This is a "Happy Bull" canning factory. Here we turn our good old Lavash into cans with meat. [Juan quietly laughs]}
+{91}{012}{Sweet.}
+{92}{011}{"Happy bull"? For real?}
+{93}{006}{I'd like to ask about something else.}
+{94}{028}{Funny. See you later then.}
 
 #Node011
-{110}{}{Меня не спрашивай, я простой механик.}
-{111}{012}{Веселая шутка...}
-{112}{006}{Можно узнать еще кое что?}
-{113}{028}{Понятно. Ну, бывай.}
+{110}{}{Don't ask me, I'm just a mechanic.}
+{111}{012}{Nice joke...}
+{112}{006}{Can I ask something else?}
+{113}{028}{I see. Well, talk later.}
 
 #Node012
-{120}{}{Мрачновато, правда? Хорошо, что у скота души нет. Благодаря этим консервам живет и процветает все наше поселение... [Хуан тяжело вздыхает.] По крайней мере, пока.}
-{121}{014}{Что-то случилось?}
-{122}{013}{Говоришь, у скотины нет души? А ты-то откуда знаешь?}
-{123}{028}{Мрачновато - не то слово. Я, пожалуй, пойду.}
+{120}{}{Gloomy, right? It's good that cattle doesn't have soul. Thanks to this cans of meat, our settlement is prospering greatly... [Juan sighs heavily.] At least, for now.}
+{121}{014}{Is there something wrong?}
+{122}{013}{Cattle doesn't have soul, you say? How do you know that?}
+{123}{028}{Gloomy is not the right word. I'd better go.}
 
 #Node013
-{130}{}{Знаешь, порой мне кажется, что не у каждого человека она есть. А что до лавашей, то я их за всю жизнь столько перевидал, что даже их предсмертный вой уже не слышу. Представляешь? Целыми днями в цехах рубят тушу, шкуру сдирают, а рев умирающей скотины - просто рабочий шум, на который не обращаешь внимания. Столько раз я заглядывал в эти беспомощные глаза, пытался отыскать в них хоть капельку чего-то. Ждал хоть какой-нибудь знак. Правильно ли мы сделали, что загубили столько живых существ и продолжаем губить? Тот ли путь мы избрали? Пусто в их глазах. [Хуан выглядывает из-под своих бровей]. Там пусто.}
-{131}{014}{Ты сказал "по крайней мере, пока". Что-то случилось?}
-{132}{999}{Черт возьми, парень, да у тебя шестеренки посыпались. [Уйти.]}
+{130}{}{You know, sometimes I think that even not every human has one. As for Lavash, I've seen so many of them in my life that I don't even hear their dying screams. Can you imagine? There's butchering going on all day in the bay, hide being skinned, and revving of a dying cattle is just a minor working noise, which you don't even pay attention to. I've looked into their helpless eyes so many times, tried to find even a little bit of... Something. Waited for some sign - is this the right thing to do, to kill and to continue killing so many living creatures? Is it good? And there's only emptiness in their eyes. [Juan looks from under his thick eyebrows]. Only emptiness.}
+{131}{014}{You said "at least, for now". Is there something wrong?}
+{132}{999}{Oh man, you are cracking up so hard. [leave]}
 
 #Node014
-{140}{}{Случилось. Один станок вышел из строя.}
-{141}{015}{Что, серьезная поломка?}
-{142}{028}{Надеюсь, ничего особенного. Мне пора.}
+{140}{}{Something wrong, yes. One machine broke down.}
+{141}{015}{Is it serious?}
+{142}{028}{I hope it's nothing special. I've got to go.}
 
 #Node015
-{150}{}{Да как сказать. У него пропала деталь.}
-{151}{027}{То есть как "пропала"?}
-{152}{016}{Скажешь тоже. Детали постоянно куда-то деваются.}
-{153}{028}{Надеюсь, отыщется. Мне пора.}
+{150}{}{How to put it... There's a missing part.}
+{151}{027}{What do you mean "missing"?}
+{152}{016}{Come on. The parts are breaking down all the time.}
+{153}{028}{I hope someone finds it. I have to go.}
 
 #Node016
-{160}{}{Что верно, то верно. Только странно это.}
-{161}{017}{Что именно?}
-{162}{999}{Странно, что я до сих пор стою и слушаю твой бубнеж. [Уйти.]}
+{160}{}{That is true, that is true. Still, it looks strange.}
+{161}{017}{What exactly?}
+{162}{999}{Strange that I'm still standing here and listening to you talking. [leave]}
 
 {170}{}{#Node017}
-{171}{}{Видишь ли, этот завод стоял здесь еще до войны. Оборудование часто ломается. Мы его ремонтируем, это наш обычный рабочий режим. Но такого, чтобы деталь просто исчезла, я никогда раньше не видел.}
-{172}{018}{Намекаешь, что кто-то ее украл?}
-{173}{027}{И куда, по-твоему, она могла деться?}
-{175}{028}{Что ж, дело и вправду непростое. До скорого.}
+{171}{}{You see, this factory is standing here since before the war. The equipment is breaking down often, we fix it, just a working routine. But for the part to just disappear... I've never seen this before.}
+{172}{018}{Are you implying that someone stole it?}
+{173}{027}{And where it could have gone, what do you think?}
+{175}{028}{Well, it is really a one difficult case. See you around.}
 
 #Node018
-{180}{}{Да чем черт не шутит. Только я ума не приложу, кто бы мог это сделать. В любом случае, нам нужна замена.}
-{181}{019}{Совсем не на кого подумать?}
-{182}{021}{Я мог бы поискать ее.}
-{183}{028}{Ясно. Я зайду к тебе, как закончу свои дела.}
+{180}{}{It is possible, yeah. But I can't even imagine who would do it. In any case, we need a replacement.}
+{181}{019}{You aren't suspecting anyone?}
+{182}{021}{I could look for the part.}
+{183}{028}{I see. I'll come by when I finish my business.}
 
 #Node019
-{190}{}{[Хуан хмурится] Никто бы не стал ломать станок. Этот завод кормит нас всех. Зачем кому-то делать такую глупость?}
-{191}{020}{Ладно-ладно, успокойся. Я просто спросил.}
-{192}{028}{Ну да, действительно. Мне пора.}
+{190}{}{[Juan frowns] No one would willingly break the machine. This factory feeds us all. Why would someone do something this stupid?}
+{191}{020}{Okay, okay, calm down. I was just asking.}
+{192}{028}{Indeed. Okay, I need to go.}
 
 #Node020
-{200}{}{В любом случае, нам теперь нужна замена.}
-{201}{021}{Я мог бы поискать ее.}
-{202}{028}{Ясно. Я зайду к тебе, как закончу свои дела.}
+{200}{}{In any case, we need a replacement.}
+{201}{021}{I could look for the part.}
+{202}{028}{I see. I'll come by when I finish my business.}
 
 #Node021
-{210}{}{Если сможешь раздобыть деталь, ты окажешь всем нам неоценимую услугу.}
-{211}{999}{Сделаю все, что в моих силах. До скорого, Хуан.}
-{212}{023}{Я вполне могу оценить ее в денежном эквиваленте.}
-{213}{022}{У меня пока есть другие дела.}
+{210}{}{If you find it, you will do us an invaluable favor.}
+{211}{999}{I'll do what I can. See you soon, Juan.}
+{212}{023}{I can finely value it in batteries.}
+{213}{022}{For now, I have some other things to do.}
 
 #Node022
-{220}{}{Жаль. Но если захочешь помочь - возвращайся.}
-{221}{999}{Пока.}
+{220}{}{A pity. But if you'll want to help - return to me.}
+{221}{999}{Bye.}
 
 #Node023
-{230}{}{[Хуан тихо вздыхает] Ну, разбогатеть ты здесь не сможешь, конечно, но могу предложить немного батареек. Штук 150 у меня найдется.}
-{231}{026}{Идет.}
-{232}{029}{Впрочем, я не буду брать плату.}
-{233}{024}{Чую, придется повозится с этим делом...}
+{230}{}{[Juan quietly sighs] Well, you won't get rich from this, but I can offer you some money. Around 150 of them, this much I have.}
+{231}{026}{Deal.}
+{232}{029}{Although, forget the payment, I won't take it.}
+{233}{024}{I feel the case is going to be tricky...}
 
 #Node024
-{240}{}{200, и по рукам.}
-{241}{026}{Годится.}
-{242}{029}{Знаешь, я передумал. Я не буду брать с тебя плату.}
-{243}{025}{Пойми меня, я не могу идти на невыгодную сделку.}
+{240}{}{200 and deal is on.}
+{241}{026}{Fine.}
+{242}{029}{You know, forget the payment, I won't take it.}
+{243}{025}{Don't get me wrong, but I can't agree on a bad deal.}
 
 #Node025
-{250}{}{[По лицу Хуана видно, что он раздосадован.] Ладно, даю 250 батареек. Главное, сделай работу.}
-{251}{999}{По рукам.}
+{250}{}{[You see by Juan's face that he is annoyed] Okay, I'll give you 250 batteries. Only do your job.}
+{251}{999}{Deal.}
 
 #Node026
-{260}{}{Замечательно. Главное, раздобудь деталь.}
-{261}{999}{До скорого.}
+{260}{}{Great. Please, get the part.}
+{261}{999}{See you soon.}
 
 #Node027
-{270}{}{Да черт его знает! Вылетела или провалилась куда-то. В любом случае, нам нужна замена.}
-{271}{021}{Я мог бы поискать ее.}
-{272}{028}{Ясно. Я зайду к тебе, как закончу свои дела.}
+{270}{}{Who the hell knows! Broke off, flew out, fell into some hole somewhere. In any case, we need a replacement.}
+{271}{021}{I could look for the part.}
+{272}{028}{I see. I'll come by when I finish my business.}
 
 #Node028
-{280}{}{Заглядывай в любое время.}
-{281}{999}{[Выход]}
+{280}{}{Come by anytime.}
+{281}{999}{[end]}
 
 #Node029
-{290}{}{Ты поступаешь как член Нового мирового порядка. Здесь высоко оценят твою помощь.}
-{291}{999}{До скорого, Хуан.}
-{292}{006}{Можно спросить тебя кое о чем?}
+{290}{}{You are acting like a member of New World Order. Your help will be highly valued.}
+{291}{999}{See you, Juan.}
+{292}{006}{Can I ask you about something?}
 
 #Node010
-{800}{}{Здравствуй. Чем я могу тебе помочь?}
-{801}{}{О, здравствуй-здравствуй, }
-{802}{}{. Чем я могу тебе помочь?}
-{803}{}{О, ну здравствуй, грубиян. [Хуан, кажется, совсем не злится, только притворяется.] Зачем пришел? Неужто мой бубнеж послушать?}
-{804}{}{Здравствуй-здравствуй. Как идут поиски?}
-{805}{}{О, вот, кому я всегда рад! Заходи.}
-{806}{}{О, если я кому-то и рад, так это тебе, }
-{807}{}{! Будь как дома.}
-{101}{030}{Своим ходом. Как только деталь отыщется, я сразу к тебе.}
-{102}{031}{Хуан, у тебя ведь должны быть запчасти?}
-{103}{006}{У меня возникло несколько вопросов.}
-{104}{006}{Привет, Хуан. Хочу расспросить тебя кое о чем.}
-{105}{036}{Поиски можно отменить, станок исправен.}
-{106}{038}{Держи, вот твоя деталь.}
-{107}{033}{Я принес литературу, которую ты просил. [Дать Хуану том "Оранжевый электроник".]}
+{800}{}{Greetings. What can I help you with?}
+{801}{}{Oh! Hello there, }
+{802}{}{. What can I help you with?}
+{803}{}{Oh. Hello, rude person. [it seems that Juan is not angry, only pretends] Why did you come? To listen to me whine?}
+{804}{}{Hello, hello. How's you search going?}
+{805}{}{That's the one man I'm always glad to see! Come on in.}
+{806}{}{If there's someone I'm always delighted to see, that's you, }
+{807}{}{! Make yourself at home.}
+{101}{030}{Steadily. When I find the part, I'll go straight to you.}
+{102}{031}{Juan, you do have a spare parts, right?}
+{103}{006}{I have some questions.}
+{104}{006}{Hey, Juan. I want to ask you about something.}
+{105}{036}{You can forget about the search, the machine is working.}
+{106}{038}{Here is your part.}
+{107}{033}{I have the book you asked me to bring. [give Juan the "Orange electronics" comics.]}
 
 #Node030
-{300}{}{Поторопись.}
-{301}{999}{[Выход]}
+{300}{}{Hurry up then.}
+{301}{999}{[end]}
 
 #Node031
-{310}{}{Кое-какие запчасти имеются, но нужной детали у меня нет.}
-{311}{032}{А можно ее изготовить из подручных средств?}
-{312}{999}{Печально. Ну ладно, буду искать дальше.}
+{310}{}{Yes, I have some parts, but I don't have the right one.}
+{311}{032}{Can it be made from something?}
+{312}{999}{A pity. Okay, I'll continue the search.}
 
 #Node032
-{320}{}{[Хуан раздумывает секунду] Я могу попробовать, но мне не хватает литературы по предмету. Вот если бы ты подкинул мне, скажем, "Оранжевого электроника"... Но книги в наше время очень сложно достать.}
-{321}{999}{Если попадется - принесу.}
-{322}{033}{Пожалуй, у меня есть то, что тебе нужно. [Дать Хуану том "Оранжевый электроник".]}
+{320}{}{[Juan hesitates for a second] I could try, but I need some literature, to delve deeply into the subject matter. If only you could bring me one "Orange electronic" comics... But the books are hard to come by nowadays.}
+{321}{999}{If I find one - I'll return to you.}
+{322}{033}{I guess I have what you need. [give Juan the "Orange electronics" comics.]}
 
 #Node033
-{330}{}{Ого! Где тебе удалось это раздобыть? Так, сейчас поглядим... [Вы наблюдаете, как глаза потомственного механика проносятся по страницам со скоростью урагана, вылавливая из массивов текста необходимые крупицы информации.]}
-{331}{034}{Эм... Хуан, ты еще здесь?}
+{330}{}{Whoa! Where did you manage to get that? Okay, let's see... [you observe how the hereditary master sweeps through the literature with a speed of a hurricane, picking from the massive walls of text necessary tiny bits of information.]}
+{331}{034}{Uh... Juan, are you still here?}
 
 #Node034
-{340}{}{[Он резко поднимает голову, захлопывает книгу и отдает ее вам.] Что ж, теперь мне все стало ясно. Уверен, я справлюсь с ремонтом без дополнительных деталей. Спасибо тебе за помощь. }
-{341}{035}{Э-э... что, уже все? Вот так просто?}
+{340}{}{[He suddenly stops, looks at you, slams the comics and gives it back to you.] Well, everything is clear to me now. I am sure I can handle the repairings without needing the part. Thank you for your help. }
+{341}{035}{Uh... That's it? So easy?}
 
 #Node035
-{350}{}{Ах, и вот еще что. Я знаю, что мы не обсуждали твое вознаграждение за хлопоты, но я не могу отпустить тебя с пустыми руками. Поэтому вот, я припас для тебя немного батареек. Возьми их. Это то немногое, чем я могу тебя отблагодарить.}
-{352}{}{Как мы и договаривались, вот твое вознаграждение. Заглядывай.}
-{353}{}{Знаешь, редко можно встретить такую самоотверженность ради ближнего за пределами Нового мирового порядка. Знай, теперь ты здесь всегда желанный гость.}
-{351}{999}{Рад был помочь.}
+{350}{}{Oh, and something else. I know that we didn't talk about the reward, but I can't let you go empty-handed. So here, some batteries. It's the least I can give to thank you.}
+{352}{}{As we agreed, here's your payment. Come by anytime.}
+{353}{}{You know, it's rare to see such commitment and caring about people from someone outside of New World Order. Know, that you are always welcomed here.}
+{351}{999}{Glad to be of help.}
 
 #Node036
-{360}{}{[Брови Хуана подпрыгивают вверх.] Да ты никак шутишь!}
-{361}{037}{Не веришь - сам посмотри.}
+{360}{}{[His eyebrows jump up] You must be joking!}
+{361}{037}{Go see for yourself, if you don't believe me.}
 
 #Node037
-{370}{}{Вот это руки - всем механикам на зависть! Повезло же мне тебя встретить. Будет кого в пример Филиппу ставить.}
-{371}{035}{Пустяки.}
+{370}{}{You have such a golden hands, every mechanic would envy! I'm so lucky to meet you. Now I have someone for Philip to look up to.}
+{371}{035}{It's no big deal, really.}
 
 #Node038
-{380}{}{Спасибо тебе огромное. Теперь завод заработает как надо. Кстати, как тебе консервы? Скажи, вкуснятина, а?}
-{381}{035}{Не то слово.}
-{382}{035}{Консервы как консервы, ничего особенного.}
-{383}{035}{Я пока не распробовал.}
+{380}{}{Thank you so much. Now the factory will work properly again. By the way, what do you think about our canned food? Tasty, isn't it?}
+{381}{035}{It is, yeah.}
+{382}{035}{Nothing special.}
+{383}{035}{I didn't try it yet.}
 
 
-{400}{}{Здравствуйте! Я слышал, что вы наш новый руководитель! Жаль, что нам не довелось пообщаться раньше. [мужчина замялся на несколько мгновений] О, прошу прощения, мое имя - Хуан, я тут механик. Поддерживаю оборудование в надлежащем состоянии и: я очень рад, что Вы, как и прежний руководитель, уделяете внимание и простым работягам вроде меня.}
-{401}{041}{Очень приятно, Хуан. Все ли в порядке? Нет каких либо жалоб, пожеланий или предложений?}
-{402}{999}{Очень приятно, Хуан, продолжай в том же духе. Я буду иногда заглядывать.}
-{403}{999}{Окей, продолжай работать.}
+{400}{}{Greetings! I've heard that you are our new Mayor! A pity we haven't met before. [he pauses for a momen] Oh, excuse me - I'm Juan, the local mechanic. I keep the equipment here working, and I'm very delighted to see that you, just like our previous Leader, devote your attention to a simple workers like me.}
+{401}{041}{A pleasure to meet you, Juan. Is everything alright? Any complaints, propositions?}
+{402}{999}{A pleasure, Juan, keep up the good work. I will come by sometimes.}
+{403}{999}{Okay, keep working.}
 
 
-{410}{}{Ну, я думаю, что вам не обязательно вникать во всякие мелочи. Уверен, у вас море работы.}
-{411}{042}{Давай, говори уже.}
-{412}{999}{Да уж, работы хоть отбавляй. Ну, если будут какие жалобы - обращайся.}
+{410}{}{Well, I don't think it's necessary for you to delve into a little details. I'm sure you have a lot of work to do by yourself.}
+{411}{042}{Come on, spill it.}
+{412}{999}{You bet, I have a loads of things to take care of. Well, if there will be any problems, talk to me.}
 
 
-{420}{}{Ну, на одном из станков пропала деталь. Обычно они ломались, но тут просто пропала. Хотя я не припоминаю, чтобы я снимал что-то со станка:}
-{421}{043}{Значит у нас членовредитель?}
+{420}{}{Well, there's a part gone missing on one of the machines. Usually they were breaking down, but this one just disappeared. Although, I can't remember taking something off that machine.}
+{421}{043}{So, we have a troublemaker around?}
 
-{430}{}{Ну, я не очень понимаю - кому вообще может прийти такое в голову. Это же надо! Подрывать работу основной артерии города - завода! Мы же тут как семья!}
-{431}{044}{Да тихо ты, раскочегарился. Надо ловить по возможности членовредителя, ты уж займись этим сам. А вот работу станка нужно восстановить немедленно.}
-
-
-{440}{}{Да я знаю. Нужна замена детали или: или можно достать редкую литературу - оранжевого электроника. Тогда я бы, возможно, собрал из имеющегося барахла замену:}
-{441}{046}{Даю разрешение тебе взять средства из городских запасов и сделать заказ в караване на все необходимое для ремонта.}
-{442}{045}{Покажи хоть деталь, чтоб если мне попадется - я принес тебе.}
-{443}{999}{Окей, если мне что-нибудь попадется на глаза - обязательно принесу тебе. А ты пока приложи все усилия чтобы производство не простаивало.}
-{444}{047}{Сегодня твой счастливый день. У меня как раз есть с собой книга, которая тебе нужна:}
-
-{450}{}{[Хуан показал в работающем станке на деталь]}
-{451}{999}{Окей, если мне что-нибудь попадется на глаза - обязательно принесу тебе. А ты пока приложи все усилия чтобы производство не простаивало.}
-{452}{048}{Сегодня твой счастливый день. У меня как раз есть с собой деталь, которая тебе нужна:}
+{430}{}{I don't really understand who would do something like that. To purposedly damage one thing that is vital to the town - our factory! We are all family here!}
+{431}{044}{Come on, be quiet. We need to keep an eye for this someone, so please do it. As for machine, it should be repaired immediately.}
 
 
-{460}{}{[Хуан смотрит на вас широко открытыми глазами, видимо не веря своим ушам] Правда? Это же замечательно! Спасибо, руководитель, это решит большинство проблем по обеспечению исправного состояния конвейера. }
-{461}{999}{Ага. Только не переборщи с расходами. Начальник охраны будет следить.}
+{440}{}{I know. We need to replace the part, or I could try to assemble the detail myself from what I have. But I need some literature on the subject to do so. If you bring me an "Orange electronics" comics, I could try something.}
+{441}{046}{I give you permission to take necessary funds from town treasury and make an order from caravan on everything you need for fixing this.}
+{442}{045}{Show me the detail, so if I see it, I could get it back to you.}
+{443}{999}{Okay, if I stumble upon it, I'll bring it to you. And for now you do everything you can to keep the production running.}
+{444}{047}{Today is your lucky day. I have the book you need.}
 
-{470}{}{О, так это же замечательно! Позвольте взглянуть: [Хуан бегло просматривает оглавление] Да, здесь есть необходимая информация. Думаю, я уже сегодня смогу завершить починку. Спасибо! Как мне вас отблагодарить, вы только что облегчили мою работу!}
-{471}{999}{Делай ее качественно и не позволь пропасть еще одной детали.}
-{472}{049}{Я думаю, что если ты мне вернешь журнал - то мы сойдемся.}
-{473}{050}{Я думаю, если ты вернешь стоимость журнала - то это будет справедливо.}
-
-
-{480}{}{О, так это же замечательно! Позвольте взглянуть: [Хуан пару мгновений крутит в руках деталь] Да, это то, что нужно! Думаю, я уже сегодня смогу завершить починку. Спасибо! Как мне вас отблагодарить, вы только что облегчили мою работу!}
-{481}{999}{Делай работу качественно и не позволь пропасть еще одной детали.}
-{482}{050}{Я думаю, если ты вернешь стоимость детали - то это будет справедливо.}
+{450}{}{[Juan points into the part on a working machine]}
+{451}{999}{Okay, if I stumble upon it, I'll bring it to you. And for now you do everything you can to keep the production running.}
+{452}{048}{Today is your lucky day. I have exactly the part you need.}
 
 
-{490}{}{О да, конечно! Подождите только, я прочту статьи, необходимые для ремонта: [Хуан довольно быстро заканчивает чтение и возвращает его вам] Да, я точно сегодня закончу ремонт! [он улыбается]}
-{491}{999}{Отлично, давай за работу.}
+{460}{}{[Juan looks at you with eyes wide open, seemingly having troubles believing what he just heard] Really? That is wonderful! Thanks, Leader, this should solve most of the problems of our conveyor's condition. }
+{461}{999}{Sure. Don't go overboard with spendings though. The head of security will be looking after you.}
+
+{470}{}{Oh, that's great! Allow me to take a look [Juan briefly inspects the contents] Yes, it should contain enough information. I think I will finish with the repairings today. How can I thank you? You've just made my job a lot easier!}
+{471}{999}{Just do everything you can, and look after other parts, so they don't disappear.}
+{472}{049}{I think if you give me back the comics, it should be enough.}
+{473}{050}{I think if you pay me back the value of a book in batteries, it will be fair.}
+
+
+{480}{}{Oh, that's great! Allow me to take a look [Juan examines the part for some time] Yes, this is just what I need! I think I will finish with the repairings today. How can I thank you? You've just made my job a lot easier!}
+{481}{999}{Just do everything you can, and look after other parts, so they don't disappear.}
+{482}{050}{I think if you pay me back the part's value in batteries, it will be fair.}
+
+
+{490}{}{Of course! Let me only read the paragraphs that I need for repairing  [Juan finishes pretty fast and returns the book to you] Yes, I can surely get done with the fixing today! [he smiles]}
+{491}{999}{Great, get to work.}
 
 {500}{}{Node050}
-{501}{}{О да, конечно! Вот: держите!}
-{502}{999}{Отлично, давай за работу.}
+{501}{}{Of course! Here you go.}
+{502}{999}{Great, get to work.}
 
 
 
 
-{510}{}{Руководитель! Рад видеть Вас!}
-{511}{053}{Как там с оборудованием? Воришку не поймал?}
-{512}{041}{Как дела в цехе? Нет жалоб, пожеланий или предложений?}
-{513}{052}{Как дела, Хуан?}
+{510}{}{Mayor! Glad to see you!}
+{511}{053}{How's it going with the machinery? Did you catch a thief?}
+{512}{041}{How's it going in the factory bay? Complaints, propositions?}
+{513}{052}{How are you, Juan?}
 
 
-{520}{}{Все отлично! Регулирую и чиню по мелочи оборудование. Все в штатном режиме.}
-{521}{}{Работы много. Очень много сил уходит на поддержание темпов производства. }
-{522}{999}{Хорошо, продолжай в том же духе.}
+{520}{}{It's all good! I tune and fix the equipment. Everything as usual.}
+{521}{}{There's so much to do. It takes a lot of effort to maintain the production rate. }
+{522}{999}{Okay then, keep it up.}
 
 
-{530}{}{Увы, но нет. Больше никто не приходил. Я тут сутками торчу, чтобы поддержать объемы производства. Времени и сил на решение проблемы просто не остается.}
-{531}{047}{Сегодня твой счастливый день. Я достал книгу, которая тебе нужна:}
-{532}{048}{Сегодня твой счастливый день. Я достал деталь, которая тебе нужна:}
-{533}{046}{Даю разрешение тебе взять средства из городских запасов и сделать заказ в караване на все необходимое для ремонта.}
-{534}{999}{Понятно. Я постараюсь решить эту проблему.}
+{530}{}{Sadly, no. No one came. I stay here for days, maintaining the production rate. I just don't have time and energy on other problems.}
+{531}{047}{Today is your lucky day. I have the book you need.}
+{532}{048}{Today is your lucky day. I have exactly the part you need.}
+{533}{046}{I give you permission to take necessary funds from town treasury and make an order from caravan on everything you need for fixing this.}
+
+{534}{999}{Understood. I'll try to do something about it.}
 
 
-{600}{}{Да, слыхал я, что Марк скоро уйдет на покой. Жаль, конечно, но что тут поделать? Я одно могу сказать - надеюсь наследником будет не его сын. }
-{601}{061}{Я слышал, что Марк хочет сделать руководителем Сэма.}
-{602}{063}{Думаю, Сэм был бы верным выбором в данном случае.}
+{600}{}{Yes, I've heard that Mark is retiring. It's sad, but what can be done about it? I only hope his successor would be someone other than his son. }
+{601}{061}{I've heard that Mark thinks about putting Sam in charge.}
+{602}{063}{I think Sam is a good candidate for this job.}
 
 
-{610}{}{Пожалуй, это будет самое разумное решение, которое только вообще сейчас возможно. А чего это тебя в политику понесло?}
-{611}{062}{Да так, интересно. Пытаюсь лучше понять местных жителей.}
+{610}{}{It would be the most sensible decision possible. Still, why would you care about politics, all of a sudden?}
+{611}{062}{Just curious. Trying to understand locals and their situation.}
 
 
-{620}{}{О, ну это дело правильное. Слушай, у меня сейчас работы невпроворот - давай позже поболтаем, ок?}
-{621}{999}{Ок, до скорого.}
+{620}{}{Well, it's a right thing to do. Listen, I have a work to do - let's talk later, okay?}
+{621}{999}{Sure. See you around.}
 
 
-{630}{}{Думаешь? Ты ж тут недавно [Хуан внимательно смотрит на Вас]! Хотя: особого выбора-то у нас и нет. Не Даниэля же ставить у руля: А с чего это вдруг разговоры о политике?}
-{631}{062}{Да так, интересно. Пытаюсь лучше понять местных жителей.}
+{630}{}{You think? You are just recently here, after all [Juan looks at you more carefully] Although, we don't have much of a choice. It definitely shouldn't be Daniel. Still, why would you talk about politics, all of a sudden?}
+{631}{062}{Just curious. Trying to understand locals and their situation.}

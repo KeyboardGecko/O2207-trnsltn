@@ -22,15 +22,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: мальчишка.}
-{2}{}{Вы видите: мальчуган.}
-{3}{}{Вы видите: пацанчик.}
-{4}{}{Вы видите: пацан.}
-{5}{}{Вы видите: мальчонка.}
-{6}{}{Просто очередной пацан, носящийся по Тартару.}
-{7}{}{Ничего особенного, парнишка как парнишка.}
-{8}{}{Шустрый, надоедливый мальчуган из Тартара.}
-{9}{}{Он так нахально на Вас смотрит, что руки так и чешутся загнать ему подзатыльник.}
+{1}{}{You see a boy.}
+{2}{}{You see a little boy.}
+{3}{}{You see a little man.}
+{4}{}{You see a little guy.}
+{5}{}{You see a kiddo.}
+{6}{}{Just a kid, running around Tartarus.}
+{7}{}{Nothing special, just a boy.}
+{8}{}{Noisy, annoying little kid from Tartarus.}
+{9}{}{He is looking at you so sassy that you want to smack him.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -45,50 +45,50 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{Привет, верзила! Чего тебе?}
-{101}{}{Здорово, пацан! Ты, случайно не видел здесь... это... кронштейн?}
-{102}{}{Да-да... Скажи ка, тебе кронштейн не попадался?}
-{110}{}{[ребенок смотрит на Вас большими, чистыми, но ничего не понимающими глазищами]}
-{111}{}{Да ну тебя...}
-{112}{}{[попытаться описать кронштейн]}
-{120}{}{А-а-а... Ты ищешь сокровище! Но сокровище надежно спрятано от недостойных! Ну таких, как ты!}
-{121}{}{А ну, гони сюда свое сокровище, малявка!}
-{122}{}{Но, э-э-э, я достойный! Могу доказать...}
-{1301}{}{Ммм... Не убедительно! Пока, недостойный верзила!}
-{1302}{}{Да-а... Ты - страшный, а значит - достойный. Я мигом! [наблюдая за сверкающими пятками, Вы даже не успеваете подумать о своем достоинстве, как паренек уже вернулся] Вот оно, сокровище!}
-{131}{}{Ах ты...}
-{132}{}{Ух, ну спасибо! Бывай, малой!}
-{133}{}{Да, действительно то, что нужно! Спасибо, парень.}
-{140}{}{Ну-у... [многозначительно морщит лоб] Есть способ! Отгадай загадку: кто крадется ночью темной по дорожке потаенной, хочет съесть твои мозги, чтобы впредь не выть с тоски?}
-{141}{}{Ну-у... Голодный зомби?}
-{142}{}{Так, этот... Серый шакал?}
-{143}{}{Э-э-э... Ужасная тварь?}
-{144}{}{Знаю-знаю! Это - Я! У-у-у! Отдавай сокровище!}
-{1501}{}{Не-е, не угадал. Пока, недостойный верзила!}
-{1502}{}{[парень обижено дует губы] Ты знал! Ла-адно, щас принесу [пацан убегает и тут же возвращается с "сокровищем"] Вот, держи!}
-{151}{}{Так бы сразу, малявка!}
-{152}{}{Не дуйся, я и вправду достойный, мне мама тоже эту песенку пела.}
+{100}{}{Hiya, big guy! Whaddaya want?}
+{101}{}{Hey, kid! Have you, by any chance, seen... Uh... A bracket thingy around here?}
+{102}{}{Yeah, yeah... Tell me, did you stumble upon the bracket?}
+{110}{}{[The child looks at you with his big, clear eyes. His look is blank.]}
+{111}{}{Oh, screw that...}
+{112}{}{[try to describe the bracket]}
+{120}{}{Ooooh... You are looking for a treasure! But my treasure is well-hidden from unworthy ones! Such as you!}
+{121}{}{Listen here, you little snot, give it to me right now!}
+{122}{}{But I am worthy! I can prove it!}
+{1301}{}{Huh... Not convinced! Bye, unworthy big guy!}
+{1302}{}{Yeah... You are scary, which means that you are worthy. I'll be right back! [He quickly runs off. As you start doubting your behaviour, he returns] Here it is, my treasure!}
+{131}{}{Oh you little...}
+{132}{}{Wow, thanks, kid! See you around!}
+{133}{}{Just what I need! Thanks, boy.}
+{140}{}{Well... [he meaningfully ponders] Okay then! Riddle me this - who is sneaking in the night through the path that's out of sight, wants to eat your tasty brains and to lay on what remains?}
+{141}{}{Ugh... Scary creature?}
+{142}{}{Erm... Grey jackal?}
+{143}{}{Ahem... Hungry Feral?}
+{144}{}{I know, I know! It's me! Booo! Give me your treasure!}
+{1501}{}{Nah, wrong. Bye, unworthy big guy!}
+{1502}{}{[The boy gets all pouty] You knew! Okaaay, I'll be right back. [He runs off and returns with the "treasure"] Here!}
+{151}{}{Why didn't you start with that, pip-squeak!}
+{152}{}{Don't be offended, kid, I am really worthy. My mom sang this song to me too.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 #
-{1000}{}{Че тебе? Хочешь помахаться?}
-{1001}{}{Ща как дам в бубен!}
-{1002}{}{Отвали, соплежуй!}
-{1003}{}{Не приставай ко мне!}
-{1004}{}{МА-А-МА! ОН ПЕРВЫЙ НАЧАЛ!!!}
-{1005}{}{У меня есть необычный камень, а у тебя?}
-{1006}{}{А ты видел, как я вчера вздрючил того спиногрыза?}
-{1007}{}{Смотри, какая у меня есть штуковина!}
-{1008}{}{МА-А-А-МА-А! А ОН ОПЯТЬ ПРИСТАЕТ!!!}
-{1009}{}{Я скажу про тебя своему старшему брату, он тебе покажет!!!}
+{1000}{}{Whaddaya need? Wanna fight?}
+{1001}{}{I'll punch you!}
+{1002}{}{Piss off, squirt!}
+{1003}{}{Don't touch me!}
+{1004}{}{MOOOM!! HE STARTED IT!!!}
+{1005}{}{I have a special stone. Do you?}
+{1006}{}{Did you see me beating up that rugrat yesterday?}
+{1007}{}{Look what thingie I have here!}
+{1008}{}{MOOOOOOM! HE IS HASSLING ME AGAIN!!!}
+{1009}{}{I'll tell my brother about you, he's gonna beat you up!!!}
 #
-{1010}{}{::хр-р-р-р-пиу-у-у...::}
-{1011}{}{::м-м-м-а-а-м-м...::}
-{1012}{}{::м-у-у-а-а-а-м-м-м...::}
-{1013}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1014}{}{А-А-А-А!!!}
-{1015}{}{МО-О-ОНСТР!!!}
-{1016}{}{МА-А-А-МА-А-А-А!!!}
-{1017}{}{УЙДИ! ОТСТАНЬ!!!}
-{1018}{}{::дикий вопль::}
+{1010}{}{::Zzzz...::}
+{1011}{}{::Hmmmm...::}
+{1012}{}{::Mmmmhrmh...::}
+{1013}{}{::Uhhhhhhrhmmmm...::}
+{1014}{}{AAAAAH!!!}
+{1015}{}{A MONSTER!!!}
+{1016}{}{MOOOOOOOOOOOOOM!!!}
+{1017}{}{GO AWAY! LEAVE ME ALONE!!!}
+{1018}{}{::screams::}
 {1019}{}{}

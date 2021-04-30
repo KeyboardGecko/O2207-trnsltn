@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see: a pirate nomad.}
+{1}{}{You see a pirate nomad.}
 {2}{}{Covered with scars and bruises, he doesn't look too friendly.}
 #
 # после знакомства
 #
-{3}{}{You see: ???.}
+{3}{}{You see a ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
@@ -42,8 +42,8 @@
 {15}{}{Hey soldier boy! We're gonna bury you alive!}
 {16}{}{The hell are you doing? Break his hands!}
 {17}{}{I'm telling ya - DO NOT TOUCH ME!}
-{18}{}{Now you're asking for this, punk!}
-{19}{}{Did you want that? Huh!?}
+{18}{}{Now you're asking for it, punk!}
+{19}{}{You want that? Huh!?}
 {20}{}{Very good! Come join us, it's gonna be fun to rob people together!}
 {21}{}{Hah, what a candidate! I've heard about you, have my respect!}
 {22}{}{You have "natural-born pirate" written all over your face!}

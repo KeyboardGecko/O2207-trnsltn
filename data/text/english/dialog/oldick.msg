@@ -11,85 +11,85 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: cутулый ученый с кислой миной.}
-{2}{}{Cсутуленный, немолодой лысоватый мужичок в светлой рубашке, плотно удерживаемой слишком тугими выцветшими подтяжками.}
+{1}{}{You see a hunched scientist with a sour face.}
+{2}{}{A hunched man in his late years, wearing light shirt with a pair of too tight faded suspenders.}
 #
 # после знакомства
-{3}{}{Вы видите: Дик.}
-{4}{}{Cсутулен, немолод, с проплешинами на голове. Вам бы точно не захотелось быть им.}
-{5}{}{Не мешайся мне тут. Просто уйди.}
-{6}{}{Нам больше не о чем говорить.}
-{7}{}{У меня для тебя ничего нет.}
-{8}{}{Cсутулен, немолод, с проплешинами на голове. Вам бы точно не захотелось быть им.}
+{3}{}{You see a hunched scientist with a sour face.}
+{4}{}{Hunched, old, head covered with bald spots. You wouldn't want to be him.}
+{5}{}{Do not interrupt me. Just leave.}
+{6}{}{We have nothing to talk about.}
+{7}{}{I don't have anything for you.}
+{8}{}{Hunched, old, head covered with bald spots. You wouldn't want to be him.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[мужчина вперивает в вас свой желчный взгляд. Вам кажется, что его брови давят ему на глаза. Они довольно густые, по сравнению с островками хилой растительности на макушке обтянутого кожей черепа. Сквозь них пробивается испарина, которую инженер промокает платочком, расшитым вензельками и именем "Дик"] У вас есть разрешение здесь находится?}
-{11}{003}{Я здесь от профессора Зочкисса. Мне поручено получить у вас энергоячейку. Вы же, как я понимаю, мистер Дик?}
-{12}{002}{Я здесь по служебным делам, мимоходом.}
+{10}{}{[Looks like his eyebrows are too heavy for his eyes. They are too bushy, especially compared to the rare islands of hair seen around his skull. The bald spots are shining with sweat, which he wipes with a handkerchief. He sinks his gaze into you.] Do you have a permission to be here?}
+{11}{003}{I'm here on behalf of professor Zochkis. I'm assigned with obtaining a power cell from you. You are mr. Dick, am I right?}
+{12}{002}{I'm here on duty. Just waking by.}
 
 #Node002
-{20}{}{[он поморщился] Ну так раз у вас нет заказ-наряда, согласованного Зочкиссом, попрошу не тратить мое время и не мозолить мне глаза. Убирайтесь, здесь не на что смотреть. }
-{21}{999}{[конец диалога]}
+{20}{}{[he cringes] If you don't have an order, assigned by Zochkis, then you have no business here. I have to ask you to not spend my time further. Leave, nothing to do for you here.}
+{21}{999}{[end of dialogue]}
 
 #Node003
-{30}{}{Именно. Энергоячейку? Зачем? [он прищурился, разглядывая вас] Вы не похожи на инженера. Да и не узнаю я вас, а инженеров я знаю всех. }
-{31}{013}{Я не инженер. Меня направили с уровня биологии за энергоячейкой для клон-машин.}
-{32}{004}{Не твоего ума дело.}
+{30}{}{That's right. Power cell? What for? [he squints, looking at you] You don't look like an engineer. Also, I don't recognize you - and I know every engineer around here.}
+{31}{013}{I'm not an engineer. I was sent here from a Biology level to get a battery for a cloning machine.}
+{32}{004}{None of your business.}
 
 #Node004
-{40}{}{[он опер кулаки о свою спичечную талию] Нда? Ну так может ты пойдешь нахер?}
-{41}{012}{Только после того, как получу эту сраную энергоячейку.}
-{42}{011}{А ты я погляжу серьезный перец. Расслабься, я погорячился.}
-{43}{005}{Ты смотри какой герой. Тебя часто в детстве били другие дети?}
+{40}{}{[he puts his hands to the sides] Oh yeah? Maybe go screw yourself then?}
+{41}{012}{Only after I get this stupid power cell.}
+{42}{011}{I see you are a serious man. Relax, I'm just being steamy.}
+{43}{005}{Look at our hero. Did you get beaten up a lot as a kid?}
 
 #Node005
-{50}{}{Что?}
-{51}{007}{[ударить с правой в нос]}
-{52}{009}{[ударить с правой в челюсть]}
-{53}{006}{[ударить ногой в пах]}
+{50}{}{WHAT?}
+{51}{007}{[punch his nose]}
+{52}{009}{[punch his jaw]}
+{53}{006}{[kick his groin]}
 
 #Node006
-{60}{}{[Ваш удар мгновенно достигает цели, складывая инженера пополам. Он кряхтит и хватает ртом воздух, вжимаясь в пострадавший орган]}
-{61}{007}{[ударить локтем в затылок]}
+{60}{}{[Your blow reaches target instantly, folding the engineer in half. He is now grunting and grasping for air, holding onto his injured organ]}
+{61}{007}{[strike the back of his head with an elbow]}
 
 #Node007
-{62}{}{[Дик падает на пол и не шевелится]}
-{63}{008}{[оглянуться по сторонам]}
+{62}{}{[Dick drops down and stops moving.]}
+{63}{008}{[look around]}
 
 #Node008
-{80}{}{[вы замечаете одного из обитателей этажа, который уставился на Вас. Кажется, сейчас будет драка...]}
-{81}{}{[все чисто, можно спокойно обобрать этого умника и уйти]}
-{82}{998}{[приготовится к бою]}
-{83}{999}{[конец "диалога"]}
+{80}{}{[You notice one of the floor's occupants staring at you. Here comes trouble...]}
+{81}{}{[All clear. You can safely loot the body and leave.]}
+{82}{998}{[prepare to fight]}
+{83}{999}{[end of "dialogue"]}
 
 #Node009
-{90}{}{[Дик успевает отпрянуть от вашего широкого замаха по дуге] На помощь! У нас нарушитель!}
-{91}{998}{[конец диалога]}
+{90}{}{[Dick bounces back and avoids your blow] Help! An intruder here!}
+{91}{998}{[end of dialogue]}
 
 #Node010
-{100}{}{Опять ты. Я не вижу рядом с тобой Беатрис. А значит, нам не о чем говорить. Проваливай.}
-{101}{}{[Дик открыл рот, когда увидел Вас с Беатрис. Хотя вернее сказать - Беатрис. Вас он вроде даже не особенно заметил. Инженер сделал несколько шагов навстречу и широко заулыбался, поправляя на себе одежду и смахивая пот, который пошел каплями со лба]}
-{102}{999}{Я занимаюсь этим.}
-{103}{014}{Эй, не хочу тут портить вашу семейную идиллию воссоединения, но ты мне кое-что обещал...}
+{100}{}{You again. I don't see Beatrice with you. This means we have nothing to talk about. Get lost.}
+{101}{}{[Seeing you and Beatrice - more likely, only Beatrice, because he is definitely not noticing you now - Dick opens his mouth. With a a wide smile, he takes a few steps towards her, stroking his shirt and wiping big drops of sweat from his forehead.]}
+{102}{999}{I'm working on it.}
+{103}{014}{Hey, I hate to spoil your family's reunion, but you promised me something.}
 
 #Node011
-{110}{}{Так на кой хер тебе нужна энергоячейка? Это знаешь ли дефицитный ресурс, его на просмотр порнухи не выдают. }
-{111}{013}{Меня направили с уровня биологии за энергоячейкой для клон-машин.}
+{110}{}{So, why the hell do you need a power cell? It's a scarce thing, you know. Can't just give it around.}
+{111}{013}{I was sent here from a Biology level to get a battery for a cloning machine.}
 
 #Node012
-{120}{}{[Дик покачал головой] Если ты думаешь что я тут тупой кладовщик - то можешь идти на хер. Энергоячейки - дефицитный ресурс, его на просмотр порнухи не выдают. }
-{121}{013}{Ну ты и зануда. Меня направили с уровня биологии за энергоячейкой для клон-машин.}
+{120}{}{[Dick slowly shakes his head] If you think that I'm just a stupid warehouse keeper, you can go screw yourself. Power cell is a rare thing, can't just give it around. }
+{121}{013}{You're so boring. I was sent here from a Biology level to get a battery for a cloning machine.}
 
 #Node013
-{130}{}{Клон-машин, говоришь? [инженер почесал свой бугристый подбородок и смахнул испарину со лба] Значит, эту работку тебе подкинули яйцеголовые профессора Грея... [Дик начал копаться в коробках, продолжая разговор с вами] Он пообещал кое-что для меня и кормил завтраками уже слишком долго. [несколько секунд Ваш собеседник кряхтел, разгребая запчасти в коробке в попытке достигнуть дна] Кое-что - это клон моей жены, Беатрис. [лицо инженера "вынырнуло из ящика] И судя по твоей заявке - они наконец могут создать клон. Дальше ждать я не намерен!}
-{135}{999}{[ДАЛЕЕ]}
-{134}{}{Зайди с энергоячейкой к профессору Грею. Зайди и [он снова нырнул в ящики с запчастями] скажи ему что я могу пойти к Зочкиссу и намекнуть на его планы. [Дик наконец отрыл небольшую картонную упаковку и, подойдя, вручил ее вам] А за услугу я тебе подскажу [переходит на шепот] "код от сейфа Зочкисса. Уверен, содержимое тебя прадует". Так что - переговори с Греем, это в твоих интересах. Ну и в любом случае - Моро не имеет права использовать энергоячейку пока Грей не проведет ее в системе учета снабжения.}
-{131}{999}{Я передам.}
-{132}{999}{Передам. Надеюсь, награда стоит того чтобы мальчиком на побегушках.}
-{133}{999}{Посмотрим.}
+{130}{}{A cloning machine, you say? [he scratches his chin and wipes the sweat off his face] That means you got this assignment from that smart-ass Gray... He promised me something. By something I mean the clone of Beatrice, my wife. And, judging by you being here, they are at last able to make one. I refuse to wait any longer!}
+{135}{999}{[more]}
+{134}{}{Bring the power cell to professor Gray. [he digs into some box filled with stuff] Bring it and tell him that I can go to Zochkis and... Give him a hint about some... Plans. [after a couple of minutes, he pulls out a little cardboard box and gives it to you] And for this, I'll tell you... [he whispers] the code from safe of Zockis. I'm sure, contents would please you. So - talk to Gray, it's in your best interests... Also, Moro won't be able to use the power cell anyway, until Gray marks it in the accounting framework.}
+{131}{999}{I'll do it.}
+{132}{999}{I hope the reward will be worth of all this errand boy running.}
+{133}{999}{We'll see.}
 
 #Node014
-{140}{}{[Дик желчно окинул вас взглядом. Похоже, вы испортили весь момент] Да как ты... а, чего мне стоит ожидать от солдафона. Короче рекомендую тебе заглянуть в сейф Зочкисса. Код - "2249". А теперь свали и не мешай мне. }
-{141}{999}{[Конец диалога]}
+{140}{}{[Dick angrily stares at you. Looks like you ruined the moment] How dare you... Although, what else to be expected from a stupid military thug. Okay, I urge you to look into the personal safe of Zochkis. The code is "2249". And now - get out and don't bother me.}
+{141}{999}{[end of dialogue]}

@@ -6,7 +6,7 @@
 #
 # Panel Messages
 #
-{10}{}{Welcome to the Portable Crafting System "Hand-Made Stuff" !}
+{10}{}{Welcome to the Portable Crafting System "Hand-Made Stuff"!}
 {11}{}{         What would you like to build today?}
 {12}{}{As a reminder, in order to build successfully, you must have all of the items listed in the box to your left. In addition, your skills must meet the required minimum for a given design! Your current skills are shown in the box to your right under CURRENT required skills are listed under REQUIRED. You must have a repair skill of at least 100% to craft most things. In addition, extra requirements are possible and are listed under INFORMATION.}
 {13}{}{Sorry, but you are missing something. Maybe Intelligence?}
@@ -46,7 +46,7 @@
 {108}{}{<<EMPTY>>}
 {109}{}{   <<ASSEMBLE!>>}
 {110}{}{ > Craft Pump Filter.}
-{111}{}{ > Craft Distillery Filter}
+{111}{}{ > Craft Moonshine Filter}
 {112}{}{ > Craft Fake Military Armor}
 {113}{}{ > Craft Electric Trap}
 {114}{}{ > Craft Explosive Trap}

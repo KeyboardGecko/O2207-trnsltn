@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see: man.}
+{1}{}{You see a man.}
 {2}{}{Tattered clothes, face of grey - looks like the life was harsh to him.}
 #
 # после знакомства
 #
-{3}{}{You see: ???.}
+{3}{}{You see a ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА

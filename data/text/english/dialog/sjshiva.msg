@@ -12,11 +12,11 @@
 #NEED TO TEST THIS ONE
 #	
 # before meeting
-{1}{}{You see: a pretty, albeit very dirty girl.}
+{1}{}{You see a pretty, albeit very dirty girl.}
 {2}{}{She looks damn attractive in these clothes.}
 #
 # after meeting
-{3}{}{You see: a pretty, albeit very dirty girl.}
+{3}{}{You see a pretty, albeit very dirty girl.}
 {4}{}{She looks damn attractive in these clothes.}
 #
 {5}{}{Let's talk another time.}
@@ -57,7 +57,7 @@
 {64}{009}{I can assemble and disassemble almost any device with my eyes closed.}
 
 
-{72}{}{So what? Ursul can skin ursa before he gets eaten by one.}
+{72}{}{So what? Ursul can skin Ursa before he gets eaten by one.}
 {70}{005}{Oh my, you are such a bore.}
 {71}{997}{Don't care. I'll go find a more talkative companion.}
 

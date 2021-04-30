@@ -11,278 +11,278 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: начальник каравана.}
-{2}{}{Его одежда напоминает паззл, собранный из всего, что можно найти под ногами.}
+{1}{}{You see a caravan master.}
+{2}{}{His clothes look like a puzzle - it is made of everything you can find under your feet.}
 #
 # после знакомства
-{3}{}{Вы видите: Флинт.}
-{4}{}{Он как всегда пьет из своей фляжки.}
+{3}{}{You see Flint.}
+{4}{}{He sips from his flask, as usual.}
 #
-{5}{}{Ваш навык "Выживания" повышен на 10!}
-{6}{}{Локация "Псы Заката" отмечена на вашей карте.}
-{7}{}{Локация "ЛАЙВОС" отмечена на вашей карте.}
-{8}{}{Локация "Радуга" отмечена на вашей карте.}
+{5}{}{Your skill of survival is increased by 10!}
+{6}{}{The location "Sunset Jackals" is added to you map.}
+{7}{}{The location "Livos" is added to you map.}
+{8}{}{The location "Rainbow Raiders" is added to you map.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[мужик перед Вами сделал глоток из фляжки, прополоскал горло и сглотнул. На миг его глаза стали добрее. Хотя Вам, скорее всего, показалось]. Новое лицо. Откуда?}
-{11}{002}{Издалека.}
-{12}{002}{[скрестить руки на груди] Не твое дело.}
-{13}{003}{Из Олимпа.}
-{14}{004}{Из Лайвоса.}
-{15}{005}{Из Псов.}
-{16}{}{Я что-то слышал про Ренессанс. Не знаешь, где это?}
+{10}{}{[The man before you sips from his flask, gargles and gulps. For a moment, his eyes became more kind. Although, maybe you are imagining things] A new face around here. Where are you from?}
+{11}{002}{From afar.}
+{12}{002}{[cross arms over the chest] None of your business.}
+{13}{003}{From Olympus.}
+{14}{004}{From Livos.}
+{15}{005}{From Jackals.}
+{16}{}{I keep hearing about Reinassance. Do you know where is it?}
 
 #Node002
-{2001}{}{Не хочешь говорить - не надо. Все равно нового ничего не узнаю. [он смачно сплюнул] Я Флинт, начальник каравана и бог выпивки.}
-{2002}{}{Флинт. Главный по караванам здесь... [он на несколько секунд приложился к фляжке] ф-фух...}
-{21}{010}{Меня зовут }
-{22}{010}{. Я бог алкашей и им подобных.}
-{23}{010}{А я - }
+{2001}{}{Don't want to tell me? Suit yourself. I'd lear nothing new anyway. [he spits] I'm Flint, caravan master, the god of drinking.}
+{2002}{}{Flint. The man in charge for caravans around here... [he nips from his flask] Pheeew...}
+{21}{010}{My name is }
+{22}{010}{. I'm the god of drunks and such kind.}
+{23}{010}{Well, I'm }
 {24}{010}{. }
 
 #Node003
-{30}{}{[он внимательно изучает Вас] Кажется, ты не врешь... Это любопытно, но не более того. Таких как ты, я уже встречал. Сделаны из того же дерьма, что и остальные жители Радиуса. }
-{31}{002}{Любопытно? И как тебя звать-то, умник?}
+{30}{}{[He carefully studies you] You are not lying... Curious, but nothing more. I've met the likes of you before. They made of the same shit as all others people in Radius. }
+{31}{002}{Curious? What's your name, smart guy?}
 
 #Node004
-{40}{}{[он внимательно изучает Вас] Врешь. Этих педантов я за милю узнаю. Ты не похож на них. [он приложился к своей фляжке] И что-то я не наблюдаю у тебя гламурной прически и бокала их засранного вина.}
-{41}{002}{[продолжить]}
+{40}{}{[He carefully studies you] You are lying. I notice this silver-spoon pricks from a mile away. You don't look like them. [he sips from his flask] And I don't see a glamorous hairstyle on you and glass of fucking wine in your hand. }
+{41}{002}{[continue]}
 
 #Node005
-{50}{}{[он внимательно изучает Вас] Нда? У "вас там" открыли школу благородных девиц? Ты не похож на эту шваль. [он приложился к своей фляжке]}
-{51}{002}{[продолжить]}
+{50}{}{[He carefully studies you] Oh yeah? Did "you there" open the posh school? You don't look like that trash. [he sips from his flask]}
+{51}{002}{[continue]}
 
 #Node010
-{1000}{}{[то ли он действительно не слышал, что вы сказали, то ли сделал вид. Сейчас он просто на вас уставился]}
-{1001}{}{Ты снова. Че хотел?}
-{1002}{}{Руководитель?}
-{101}{011}{Есть пара вопросов.}
-{102}{051}{Есть пара вопросов.}
-{103}{040}{Хочу пойти с караваном.}
-{104}{045}{Хочу пойти с караваном.}
-{105}{034}{Ты же начальник каравана? Охранники не требуются?}
-{106}{029}{Слушай, тебе, наверное, по работе частенько приходится ходить в Лайвос?}
-{107}{023}{Слушай, спросить хотел про ситуацию вокруг Марка и его приемника...}
-{108}{033}{Узнал, что с водой в Лайвосе?}
-{109}{999}{Впрочем ладно, потом. Пока.}
+{1000}{}{[He either doesn't hear you, or trying to make it look like it. Now he just stares at you]}
+{1001}{}{You again? What do you want?}
+{1002}{}{Commander?}
+{101}{011}{I have some questions.}
+{102}{051}{I have some questions.}
+{103}{040}{I want to travel with the caravan.}
+{104}{045}{I want to travel with the caravan.}
+{105}{034}{Do you need guards for the caravan?}
+{106}{029}{You must have often been to Livos?}
+{107}{023}{Look, I wanted to ask about the situation with Mark and his successor...}
+{108}{033}{Did you find out what's wrong with water in Livos?}
+{109}{999}{Although, we'd better talk later. Bye.}
 
 #Node011
-{110}{}{На миллион каждый? [выдавливает из себя смешок и сразу же перебивает его отрыжкой] Давай, выкладывай [он опять приложился к своей фляжке, запрокинул голову назад и опустошил емкость. Затем ловко извлек из внутреннего кармана бутыль с мутной жидкостью и поразительно легким, отточенным движением снял пробку и перелил содержимое себе во флягу. Пустая бутылка полетела в рядом стоящий ящик]. Ну?}
-{111}{012}{Ты же везде мотаешься, так? Наверняка у тебя припасено немало интересных вещиц, которые могли бы мне пригодится, за достойную цену. }
-{112}{024}{Расскажешь, где что в Радиусе находится? Не хотелось бы бродить по пустыне не в том направлении...}
-{113}{022}{Флинт, ты как вообще на ногах стоишь? Я твой выхлоп уже на подходе к городу чую. Ты сможешь простерилизовать даже трусы полуразложившегося, гнилого трупа с мелкой живностью в кишках, если просто дыхнешь на них.}
-{114}{010}{Хотя нет, вопросов, пожалуй, нет...}
+{110}{}{A million batteries each? [he chuckles and immediately burps] Come on, spill it out [he takes upon his flask again, putting head back and drinking it to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocker, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] So? }
+{111}{012}{You are traveling around a lot, right? You probably have many interesting things I could use. For a price, of course. }
+{112}{024}{Can you tell me about what's where in Radius? I wouldn't want to wander around, picking wrong directions...}
+{113}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of partially decomposed corpse.}
+{114}{010}{You know, no, no questions...}
 
 #Node012
-{120}{}{Может и припасено. Вот только это моя личная коллекция. Коллекция, которая лучше меня расскажет, где я был и что видел. Так что нет. Я ничего не продаю. Могу поделиться своим безграничным опытом хождения по Радиусу. Не бесплатно, разумеется. [он собрал все слюни и смачно плюнул через левое плечо]}
-{121}{010}{Ясно...}
-{122}{013}{Пффф... оставь свои мудрости при себе. Я тоже немало миль намотал по пескам Радиуса.}
-{123}{014}{Возможно, я что-нибудь и узнаю нового. Что ты хочешь взамен?}
-{124}{010}{Не интересно.}
+{120}{}{Maybe. Only it's my personal collection. Collection, which can tell better than me, where I've been and what I've seen. So - no, I'm not selling anything. Though I can share my boundless knowledge of walking around Radius. Not for free, of course. [forcefully spits over his left shoulder]}
+{121}{010}{I see...}
+{122}{013}{Pffft... Leave your knowledge to yourself. I also walked many miles on the sands of Radius.}
+{123}{014}{Maybe I'll learn something new from you. What do you want in return?}
+{124}{010}{Not interested.}
 
 #Node013
-{130}{}{Крутой, да? Ну и катись нахрен, а мое время не трать на свою высокомерную задницу.}
-{131}{999}{[конец диалога]}
+{130}{}{Tough guy, huh? Then scram the hell away and don't make me spend my time on your arrogant ass.}
+{131}{999}{[end of dialogue]}
 
 #Node014
-{140}{}{[Флинт показывает три пальца] Три сотни. }
-{141}{015}{У меня столько нет.}
-{142}{016}{Ну, надеюсь это не пустая трата денег... давай, рассказывай.}
-{143}{018}{Это слишком много.}
-{144}{010}{Знаешь, я думаю, что я пока обойдусь без твоих уроков...}
+{140}{}{[Flint sticks some fingers] Three hundred. }
+{141}{015}{I don't have that many.}
+{142}{016}{I hope it's not a waste of batteries... Now, tell me.}
+{143}{018}{That is too much.}
+{144}{010}{You know, I'll do without your lessons...}
 
 #Node015
-{150}{}{Значит, ты ничего сегодня не узнаешь.}
-{151}{010}{Не жлобись. Может все-таки расскажешь что-нибудь?}
+{150}{}{Then you'll learn nothing today.}
+{151}{010}{Come on, don't be a cheapskate. Tell me at least something.}
 
 #Node016
-{160}{}{Так... короче, если... [Флинт рассказывает Вам различные случаи из своей практики вождения караванов (регулярно делая маленькие глотки из своей фляжки), попутно сопровождая их комментариями о том, как это применить в жизни. Некоторые мысли кажутся вам действительно ценными]. Так, на этом пожалуй все. Конечно, тебе далеко еще до моего уровня, но теперь в Радиусе уже вряд ли пропадешь.}
-{161}{017}{Да уж, спасибо.}
-{162}{013}{Ну да, была пара интересных моментов, а так - все банальщина. }
-{163}{013}{То же мне, понторез. По мне, так все это бесполезная трата времени и батареек.}
+{160}{}{So... In short, when... [Flint tells you about many different cases from his vast experience of driving the caravans, not forgetting to take gulps from his flask in between the stories, and commenting about application of that experience in everyday life. Some thoughts seem really interesting to you] Okay, that's mostly it. You are still far below my level, but at least you should be fine when walking around the Radius.}
+{161}{017}{Man, thanks.}
+{162}{013}{It had a couple of interesting moments, but mostly - trivial stuff. }
+{163}{013}{So pretentious... As for me it was a waste of time and batteries.}
 
 #Node017
-{170}{}{Да уж не за что. }
-{171}{010}{Надеюсь следующий урок будет бесплатным?}
+{170}{}{You're welcome. }
+{171}{010}{I hope next lesson will be free?}
 
 #Node018
-{180}{}{Нда? Интересно как ты запоешь, когда налетчики, внезапно выскочившие из засады, будут заталкивать тебе в жопу ржавую трубу до тех пор, пока она не дойдет до твоей глотки. Мне кажется, что цена в 300 батареек даже мала, если она спасает тебя от ржавой трубы в заднице.}
-{181}{020}{Флинт, тебе засовывали трубу в жопу?!}
-{182}{019}{С этим трудно не согласиться...}
-{183}{010}{Мне - не засунут.}
+{180}{}{Oh yeah? Let's see how you sing when some raiders, ambushing you, will shove a rusty pipe into your ass so far it reaches your throat. I think the price of 300 batteries is quite small for saving you from a rusty pipe in your ass.}
+{181}{020}{Flint, you had a pipe shoved into your ass?!}
+{182}{019}{Hard to argue with that...}
+{183}{010}{They won't shove nothing to me.}
 
 #Node019
-{190}{}{Ну вот и не выебывайся.}
-{191}{010}{Но ценник мог бы и сбросить по дружески.}
+{190}{}{Stop fucking showing off then.}
+{191}{010}{Still, you could make the price a little lower.}
 
 #Node020
-{200}{}{А ты, как я погляжу, шутник. Ха-ха. [он опять сделал длинный глоток своего пойла]}
-{201}{021}{Теперь я понял, почему ты так часто пьешь. Я бы тоже забухал...}
-{202}{010}{Ладно, забей. Я просто пошутил.}
+{200}{}{You are a funny one. Ha-ha. [he takes another big gulp from his flask]}
+{201}{021}{Now I get why you are drunk all the time. I would be too...}
+{202}{010}{Forget it, I was just joking.}
 
 #Node021
-{210}{}{Пошел в жопу, умник. Иди доебись до кого-нибудь другого. }
-{211}{999}{[конец диалога]}
-{212}{010}{Ладно, забей. Я просто пошутил.}
+{210}{}{Fuck you, asshole. Go bug someone else. }
+{211}{999}{[end of dialogue]}
+{212}{010}{Don't mind that, I was just joking.}
 
 #Node022
-{220}{}{Не твоего ума дело.}
-{221}{}{Я залечиваю свои душевные раны и настраиваю свою тонкую душевную ориентацию. Во.}
-{222}{010}{Ну-ну.}
+{220}{}{That's none of your business.}
+{221}{}{I'm healing the wounds in my soul and rebuilding my fragile mental state. Huh.}
+{222}{010}{Of course you do.}
 
 #Node023
-{230}{}{[он сморщился и перебил Вас, не дав договорить] Мне вообще насрать. С высокой башни, против ветра, кучу в три своих роста. Не втягивай меня ни в какие дела, кроме караванных. Особенно - в политику. Мне насрать, кто правит и как правит. Главное, чтобы у меня был мой караван и мое бухло. Остальное мне до лампочки.}
-{231}{010}{Тебе насрать, как тобой правят?}
-{232}{023a}{Значит, ты не против, если Руководителем станет Сэм?}
+{230}{}{[He frowns and interrupts, not letting you finish] I don't give a shit. Like, at all, in any form, hugely. Do not make me involved in any business except caravan stuff. ESPECIALLY in politics. I don't give a shit who is in charge and how he does his job - if I still have my booze and my caravan, then it's okay. I don't care about the rest.}
+{231}{010}{You don't? Seriously?}
+{232}{023a}{So you don't mind if Sam will be the Mayor?}
 
 #Node023a
-{233}{}{Сказал же - м-не-на-с-ра-ть. Сэм? Да хоть Лохматый, мне-то что с того?}
-{234}{010}{Хорошо, значит - не против. Я еще хотел кое-что... }
+{233}{}{As I said - I-DON'T-CARE. Sam? Even if it's Shaggy, why should I care?}
+{234}{010}{Okay, don't means don't. I wanted something else... }
 
 #Node024
-{240}{}{Дай взглянуть на твою карту...}
-{241}{025}{[дать ему карту]}
-{242}{046}{[дать ему карту]}
+{240}{}{Let me see your map...}
+{241}{025}{[show him the map]}
+{242}{046}{[show him the map]}
 
 #Node025
-{250}{}{Так, ну кое-что я могу тебе отметить. Тебе это встанет в... 100 батареек.}
-{251}{028}{Ок, по рукам.}
-{252}{027}{Нет уж, я как-нибудь сам.}
-{253}{026}{Да ладно тебе! Если я наймусь в караван - ты дашь мне денег, и еще я на халяву узнаю, где что находится. Может ты соизволишь бесплатно указать все на карте?}
+{250}{}{I can show you something. It will cost you... A hundred batteries.}
+{251}{028}{Okay, deal.}
+{252}{027}{No, I'll manage myself.}
+{253}{026}{Oh, come on! If you hire me into your caravan then you'll pay me AND show me where these locations are, no charge. So, maybe you could show them for free?}
 
 #Node026
-{260}{}{[Флинт даже остановился во время глотка своей сивухи] Знаешь, а ведь в этом есть логика. Ладно, давай помечу... [он берет карту и ставит отметки] Вот, держи.}
-{261}{010}{Спасибо. Может расскажешь об этих местах?}
+{260}{}{[Flint stops in a middle of a gulp] You know, there's some good logic right here. Okay, let me show you... [he makes some marks on a map] Here you go.}
+{261}{010}{Thanks. Maybe you can tell me about these places?}
 
 #Node027
-{270}{}{Да флаг тебе в руки.}
-{271}{010}{Ну ты и жлоб.}
+{270}{}{Knock yourself out.}
+{271}{010}{What a greedy man you are.}
 
 #Node028
-{280}{}{Давай карту... [он берет карту и ставит отметки] Вот, держи.}
-{281}{010}{Отлично. Может расскажешь об этих местах?}
+{280}{}{Let me... [he makes some marks on your map] Here you go.}
+{281}{010}{Great. Maybe you can tell me about these places?}
 
 #Node029
-{290}{}{Ну, типа да. }
-{291}{030}{У меня просьба есть. Ты бы не мог во время следующей поездки узнать, что случилось с водой? Ее вкус изменился.}
+{290}{}{Well, yeah, kinda. }
+{291}{030}{I have a request. Can you try to find out what's wrong with their water when you go there? The taste has changed.}
 
 #Node030
-{300}{}{А мне-то что с того?}
-{301}{032}{Я тебе заплачу. Пятьдесят батареек за простой вопрос "по пути".}
-{302}{031}{Да хотя бы потому, что твое пойло делают из этой воды. Значит вкус и качество напитка страдает.}
-{303}{010}{Хотя знаешь... мне проще будет самому сходить, чем тебя просить...}
+{300}{}{What's in it for me?}
+{301}{032}{I'll pay. Fifty batteries for a simple casual question.}
+{302}{031}{Take notice that your booze is made of that water. So, taste and quality of your beverage is dropping.}
+{303}{010}{You know... It's easier to walk and do it myself than ask you...}
 
 #Node031
-{310}{}{[Флинт недоверчиво глянул на свою фляжку] Хмм... ладно. Приходи через семь дней. }
-{311}{010}{Спасибо.}
+{310}{}{[Flint throws a distrustful look on his flask] Hmm... Okay. Come to me in seven days. }
+{311}{010}{Thanks.}
 
 #Node032
-{320}{}{Договорились. Приходи через семь дней. [Флинт вновь приложился к фляге]}
-{321}{010}{Окей.}
+{320}{}{Deal. Come to me in seven days. [he starts gulping from his flask again]}
+{321}{010}{Okay.}
 
 #Node033
-{330}{}{Ага. У них резко вырос объем поставок воды. Короче... что-то у них там с фильтром случилось, и теперь они воду просто через уголь прогоняют. Пить можно - не подохнешь. Однако вкус дерьмоватый, конечно. Хотя, думаю, можно привыкнуть.}
-{331}{010}{Спасибо, Флинт.}
+{330}{}{Yeah. They had an increase in their level of supply. So... There's something happened with their filter. Now they use carbon canisters for cleaning water. It's drinkable, you won't die. The taste is shitty though... But maybe you can get used to it.}
+{331}{010}{Thanks, Flint.}
 
 #Node034
-{340}{}{Ну... в принципе, желающих как мандавошек на шлюхе в Радуге. Но, если ты умеешь обращаться с оружием как следует, а я смогу тобой заменить пару-тройку охранников и на этом сэкономить - я только за. }
-{341}{036}{[перечислить всех убитых вами людей и существ, рассказать некоторые хитрости использования оружия, которым Вы сейчас пользуетесь]}
-{342}{035}{Мне доводилось убивать. Вполне неплохо выходит...}
+{340}{}{Hmm... Basically, a line of people for this job is as big as the amount of pubic lice on a Rainbow slut. But if you can handle the weapon, and I can replace three guards with you reducing my costs - we can try. }
+{341}{036}{[tell him about all creatures and people you've killed, also elaborate on details and tricks of using your current weapon]}
+{342}{035}{I've killed before. I'm pretty good at it...}
 
 #Node035
-{350}{}{Неубедительно. Я, млять, могу сказать, что у меня неплохо выходит в балетной пачке скакать. Я за экономию и выгоду. Но только если это не навредит каравану. Приходи, поговорим, когда у тебя будет что показать-рассказать.}
-{351}{010}{Ну и черт с тобой.}
+{350}{}{Unconvincing. I can fucking tell that I'm prety good at dancing while wearing white dress. It's all about savings and profits, but only if it doesn't hurt the safety of my caravan. Return when you have something to show - or tell.}
+{351}{010}{The hell with it then.}
 
 #Node036
-{360}{}{Хмм... думаю, ты подойдешь. За успешное сопровождение плачу три сотни. Идет?}
-{361}{038}{Да, идет.}
-{362}{037}{Маловато будет.}
+{360}{}{Hmm... I think you'll fit in nicely. I pay three hundred for a job well done. Deal?}
+{361}{038}{Deal.}
+{362}{037}{Not enough.}
 
 #Node037
-{370}{}{Больше ты один хер не получишь. Не нравится - не ешь. [Флинт приложился к фляжке]}
-{371}{038}{Ладно, пусть будет три сотни. Давай подробнее.}
-{372}{010}{Я подумаю над твоим предложением.}
+{370}{}{You can have a jack shit more. Take it or leave it. [Flint sips from his flask]}
+{371}{038}{Okay, three hundred then. Tell me details.}
+{372}{010}{I'll think about your proposition.}
 
 #Node038
-{380}{}{Плачу в точке назначения. Есть возможность сопроводить караван и обратно, за ту же сумму. Есть три направления: Лайвос, Радуга и Псы. Караваны отправляем по всем трем направлениям раз в неделю. 1, 7, 14, 21 и 28 числа каждого месяца. Просто в день отправления подходишь ко мне, выбираешь  маршрут и вперед. Ясно? }
-{381}{039}{Да.}
-{382}{041}{Да.}
+{380}{}{I pay at the destination point. You can accompany the caravan on the road back too, same pay. Three directions total - Livos, Rainbow and Jackals. Caravans are moving out on all three routes in 1, 7, 14, 21 and 28 day of each month. Just come to me in that date, choose the destination, that's it. Understood? }
+{381}{039}{Yes.}
+{382}{041}{Yes.}
 
 #Node039
-{390}{}{У нас, кстати, сегодня отправление. Если готов - могу тебя вписать.}
-{391}{040}{Почему бы и нет? Давай.}
-{392}{999}{Сначала мне нужно сгонять за припасами. Я скоро вернусь!}
-{393}{010}{Возможно. У меня есть еще пара вопросов.}
+{390}{}{By the way, we are heading out today. I can put you in the list.}
+{391}{040}{Why not? Let's do it.}
+{392}{999}{I should get some supplies, I'll be right back!}
+{393}{010}{Maybe. I have a couple of questions.}
 
 #Node040
-{400}{}{Хорошо. Напоминаю - три сотни в одну сторону. Куда хочешь?}
-{401}{999}{Лайвос.}
-{402}{999}{Радуга.}
-{403}{999}{Псы.}
+{400}{}{Okay. Three hundred - one way, remember? Where to?}
+{401}{999}{Livos.}
+{402}{999}{Raibow.}
+{403}{999}{Jackals.}
 
 #Node041
-{410}{}{Хорошо. Приходи в один из дней отправки. Обговорим направление. [Флинт почесал свой раскрасневшийся нос]}
-{411}{010}{Окей. У меня есть пара вопросов.}
+{410}{}{Okay. Return on some of the day when we move out. We'll talk destination. [Flint scratches his red nose]}
+{411}{010}{Of course. I have a couple of questions more.}
 
 #Node042
-{420}{}{Вот мы и добрались. Держи свою долю. Скоро выдвинемся обратно. Если хочешь с нами - у тебя есть пара часов.}
-{421}{999}{Да, я с вами.}
-{422}{999}{Да, я с вами. Только нужно пополнить припасы. Я скоро.}
-{423}{999}{Не, спасибо. У меня тут дела. Удачи на обратной дороге.}
+{420}{}{So, we made it. Here's your cut. We are going back soon, so if you want to join - you have two hours.}
+{421}{999}{Yes, I'm with you.}
+{422}{999}{Yes, I'm with you. But I should get some supplies. I'll be right back.}
+{423}{999}{No, thanks. I have a things to do around here. Good luck on the road.}
 
 #Node043
-{430}{}{Ты? Готов к обратной дороге?}
-{431}{999}{Да, поехали.}
-{432}{999}{Нет, еще кое-что нужно сделать.}
-{433}{999}{У меня тут дела появились, так что можете не ждать.}
+{430}{}{You? Are you ready for a return trip?}
+{431}{999}{Yes, let's go.}
+{432}{999}{No, I need to do something here before leaving.}
+{433}{999}{I have some business to take care of, so don't wait for me.}
 
 #Node044
-{440}{}{Дом, милый дом! Держи три сотни, как договаривались. Если захочешь еще подзаработать деньжат - обращайся. }
-{441}{999}{Ок, до скорого.}
+{440}{}{Home, sweet home! Here's your three hundred, just as we agreed. If you want to make some more money, you know where to find me. }
+{441}{999}{Okay, see you later.}
 
 #Node045
-{450}{}{Я же тебе говорил - приходи 1,7,21 или 28. }
-{451}{010}{А, точно.}
+{450}{}{I told you - come 1,7,21 or 28. }
+{451}{010}{Oh, right.}
 
 #Node046
-{460}{}{Бля, да ты и так все знаешь, че пристал со своей картой?}
-{461}{010}{Да, просто так...}
+{460}{}{You know everything already, why do you fucking bug me with your map?}
+{461}{010}{Uh, just because...}
 
 
 
-{500}{}{Если слухи верны - Вы наш новый руководитель, так? Чем служба караванов НМП может быть Вам полезна? [мужчина сделал несколько глотков из фляжки, зажал нос и закатил глаза] Эхх.. хорошая в этот раз вышла. Кстати, я Флинт.}
-{501}{010}{А я - }
-{502}{010}{, и как ты правильно заметил - да, я новый руководитель.}
+{500}{}{If the rumors don't lie, you are our new leader, right? How can NWO caravan service be of, hah, service? [he takes a couple of huge gulps from his flask, pinches his nose and rolls his eyes] Maaan... Good one this time. I'm Flint, by the way.}
+{501}{010}{I'm }
+{502}{010}{, And - yeah, I'm the new leader, you got that right.}
 
 
-{510}{}{[он опять приложился к своей фляжке, запрокинул голову назад и опустошил емкость. Затем ловко извлек из внутреннего кармана бутыль с мутной жидкостью и поразительно легким, отточенным движением снял пробку и перелил содержимое себе во флягу. Пустая бутылка полетела в рядом стоящий ящик]. Вряд ли я Вам что-то смогу рассказать такого, что Вам было бы интересно. Я караванщик, а не Сэм. }
-{511}{055}{Ты же везде мотаешься, так? Наверняка у тебя припасено немало интересных вещиц, которые могли бы мне пригодится, за достойную цену. }
-{512}{052}{Посмотри мою карту. Если есть какие места, которые там еще не отмечены - укажи, пожалуйста.}
-{513}{022}{Флинт, ты как вообще на ногах стоишь? Я твой выхлоп уже на подходе к городу чую. Ты сможешь простерилизовать даже трусы полуразложившегося, гнилого трупа с мелкой живностью в кишках, если просто дыхнешь на них.}
-{514}{010}{Хотя нет, вопросов, пожалуй, нет.}
+{510}{}{[Flint puts his head back and takes upon his flask again, drinking its content to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocker, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] I doudt that I can tell something of interest to you. I'm a caravan master, not Sam. }
+{511}{055}{You are traveling around a lot, right? You probably have many interesting things I could use. For a price, of course. }
+{512}{052}{Look at my map. If you know some places that are not in it, mark them for me please.}
+{513}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of partially decomposed corpse.}
+{514}{010}{You know, no, no questions.}
 
 
-{520}{}{Ну давай свою карту.}
-{521}{053}{[продолжение]}
-{522}{054}{[продолжение]}
+{520}{}{Okay, show me your map.}
+{521}{053}{[continue]}
+{522}{054}{[continue]}
 
 
 
-{530}{}{Так, ну кое-что я могу тебе отметить. Вам это будет бесплатно, хе-хе. }
-{531}{010}{Просто неслыханная щедрость.}
+{530}{}{Well, I can mark something. To you it's free, heh-heh. }
+{531}{010}{An act of outstanding generosity.}
 
 
-{540}{}{Нет, боюсь я ничего нового не скажу. }
-{541}{010}{Окей.}
+{540}{}{I'm afraid I won't say nothing new. }
+{541}{010}{Okay then.}
 
 
-{550}{}{[Флинт сощурил левый глаз и потер ладонь о ладонь] Знаете, обычно я не продаю свои игрушки. Но, думаю, для Вас я сделаю исключение. Моим караванам как раз не хватает средств для модернизации.}
-{551}{010}{Ну уж нет, умник. Перебьешься.}
+{550}{}{[Flint squints his left eye and rubs his palms] You know, usually I don't sell my toys. But for you I can make an exception. My caravans could use some additional finances for modernization.}
+{551}{010}{Hell no, smart guy. Not today.}
 
 #Рандомные сообщения при стычках с бандитами
-{900}{}{Нечего тут лясы точить, нужно двигаться дальше.}
-{901}{}{Поболтать решил!? Давай-давай, нужно шевелиться!}
-{902}{}{Тьфу, бля, гребаный Радиус...}
-{903}{}{Идем дальше, некогда расслабляться.}
+{900}{}{Enough sitting around, we need to move.}
+{901}{}{Did you stop to chat!? Move it, move it!}
+{902}{}{Man, stupid fucking Radius...}
+{903}{}{Keep going, no time to relax.}

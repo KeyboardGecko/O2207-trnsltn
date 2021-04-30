@@ -1,5 +1,5 @@
 ##############################
-#Локация: ЛАЙВОС
+#Локация: Livos
 #Имя: Соуп Дантон 
 #Краткое описание: Задерганый муж-подкаблучник Эмили
 #Дата создания: 30.08.2014
@@ -11,217 +11,176 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: худощавый мужчина в годах.}
-{2}{}{Он выглядит уставшим, а его левый глаз моргает чаще правого раза в три.}
+{1}{}{You see a thin man, definitely in his late years.}
+{2}{}{He looks tired and his left eye blinks three times more often than the other one.}
 #
 # после знакомства
-{3}{}{Вы видите: Соуп.}
-{4}{}{Кажется, у него нервный тик.}
+{3}{}{You see Soup.}
+{4}{}{Looks like he's having a twitch.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами сгорбленный мужчина с поникшими плечами. Он передвигается, еле волоча ноги. На лице застыла маска обреченности и безысходности] Да?... Что?... Э-э-э, что такое? }
-{11}{002}{Привет. Мы, кажется, раньше не встречались. Я тут новенький.}
-{12}{003}{Эй, чувак, взбодрись! На тебе совсем лица нет!}
-{13}{004}{О-о-о, ты совсем хреново выглядишь. Что-нибудь случилось?}
+{10}{}{[You see a hunched man with lowered shoulders. He walks around very slowly, barely moving his feet. His face is a mask of doomed fate and hopelessness] Yes?.. What?... Uh, what is it? }
+{11}{002}{Hello. We haven't met before. I'm new around here.}
+{12}{003}{Hey, man, brighten up! You look like your face melted off!}
+{13}{004}{Oh, you definitely don't look good. Is there something wrong?}
 
 
+{20}{}{No, we haven't... I don't know if I'm allowed to talk to you... I think, I guess... I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
+{21}{010}{Do you have time for a few questions?}
+{22}{999}{You are not very talkative. I'd better go.}
 
 
-{20}{}{Нет, мы раньше не встречались... Я не знаю, можно ли мне с тобой разговаривать... Хотя, наверное, можно... Я, это, Соуп. Соуп Дантон. А, да, совсем забыл, здравствуй...}
-{21}{010}{Есть время ответить на пару вопросов?}
-{22}{999}{Какой-то ты неразговорчивый. Пойду я лучше отсюда.}
+{30}{}{[The man nearly jumps up surprised. Now he is staring at you] W-w-w-what?.. Uhh... What's going on? Please, don't shout... I don't recall we've met before. I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
+{31}{010}{Do you have time for a few questions?}
+{32}{999}{You are not very talkative. I'd better go.}
 
 
 
 
-{30}{}{[Мужчина от неожиданности подпрыгнул и ошарашено уставился на Вас] Ч-ч-что?... Э-э-э... Что происходит? Пожалуйста, не кричи так громко... Мы, кажется, не знакомы. Я, это, Соуп. Соуп Дантон. А, да, совсем забыл, здравствуй...}
-{31}{010}{Есть время ответить на пару вопросов?}
-{32}{999}{Какой-то ты неразговорчивый. Пойду я лучше отсюда.}
+{40}{}{[The man shrinks even more] Nothing... Nothing's wrong... Everything is alright... I don't recall we've met before. I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
+{41}{010}{Do you have time for a few questions?}
+{42}{999}{You are not very talkative. I'd better go.}
 
 
 
 
-{40}{}{[Мужчина еще больше сжался] Ничего... Ничего не случилось... Все нормально... Мы, кажется, не знакомы. Я, это, Соуп. Соуп Дантон. А, да, совсем забыл, здравствуй...}
-{41}{010}{Есть время ответить на пару вопросов?}
-{42}{999}{Какой-то ты неразговорчивый. Пойду я лучше отсюда.}
 
+{1001}{}{Hello, leader. Do you want to talk again? }
+{1002}{}{Yeah, of course, I'll try to answer your questions...}
+{1003}{}{Yes? Oh, hello. You are, probably, have some questions again. And I, maybe, can, uh, answer them.}
+{101}{011}{Ludwig Schwein had lost his book of wave science. Did you take it?}
+{102}{012}{What do you do in Livos?}
+{103}{019}{Tell me about your family.}
+{104}{020}{I want to talk about your wife, Emily.}
+{105}{028}{I want to learn of your plans about Seth and Matt from NWO.}
+{106}{029}{Do you have something I could do around here?}
+{107}{034}{I have dealt with the monsters. The Livos is safe again.}
+{108}{999}{No, nothing. I'll come by later.}
+{109}{012a}{How are you doing? After, you know, "dealing" with your wife?}
 
 
+{110}{}{[Soup shakes his head] No, no-no-no, I didn't take anything... It was, probably, someone else... I don't know anything about it.}
+{111}{010}{Okay, another question then.}
+{112}{999}{Then I'll go ask somewhere else. Bye.}
 
 
-{1001}{}{Привет, руководитель. Снова хочешь поговорить? }
-{1002}{}{Да-да, я попробую ответить на твои вопросы...}
-{1003}{}{Да? А, привет. Ты, наверное, снова хочешь поговорить. Я, кажется, могу немного с тобой, это, поболтать.}
-{101}{011}{Людвиг Швайн потерял свой учебник по волнологии. Ты его не брал?}
-{102}{012}{Чем ты занимаешься в Лайвос?}
-{103}{019}{Расскажи о своей семье.}
-{104}{020}{Я хочу поговорить о твоей жене Эмили.}
-{105}{028}{Я хочу узнать о твоих планах на Сэта и Мэта из НМП.}
-{106}{029}{Есть ли для меня еще какое-нибудь задание?}
-{107}{034}{Я вычистил пещеру от монстров. Лайвос теперь в безопасности.}
-{108}{999}{Нет, ничего. Я подойду попозже.}
-{109}{012a}{Как ты после... улаживания дел с твоей женой?}
+{120}{}{Me? Nothing... I used to do many things for the vault, but now... Now I do less and less... You can even say I do nothing at all...}
+{121}{013}{What things you used to do?}
 
 
+{122}{}{Me? I feel much better! I can't say my mental health is fully restored, but, you know... I've been thinking... You could deal with many things just as easy.}
+{123}{010}{Try to think less about such things. I had other questions.}
+{124}{999}{Oh... Yeah, sure. I think I need to go...}
 
-{110}{}{[Соуп отрицательно замотал головой] Нет-нет-нет, я не брал ничего... Наверное, это был кто-то другой... Я ничего по этому поводу не знаю.}
-{111}{010}{Ладно, давай я еще спрошу.}
-{112}{999}{Тогда пойду поищу в другом месте. Пока.}
 
+{130}{}{I used to be involved in managing Livos... People listened to me... I was making important decisions... [Soup looks very nervous]}
+{131}{014}{What happened then?}
 
 
+{140}{}{Then... Then I married Emily. Yes, Emily is my wife... She was so tall, slender and beautiful... A dream of any man. When she chose me, I was head over heels from happiness. But then... [Soup starts nervously picking his clothes. He definitely doesn't feel comfortable talking about it.]}
+{141}{015}{Come on, Soup, talk to me. You'll feel better.}
 
-{120}{}{Я? Да так, ничем... Раньше я много чего делал для убежища, но теперь... Теперь я делаю все меньше и меньше... Даже, наверное, ничего уже не делаю...}
-{121}{013}{А что ты делал раньше?}
 
+{150}{}{She turned out to be cold as ice! Slowly, but surely, she took over my power and influence. After that, she started to cause quarrels between the families, using their already strained relationships. Livos descended into chaos, and it is all Emily's fault! }
+{151}{016}{Looks like you really hate her.}
+{152}{010}{Let's talk about something else.}
 
 
-{122}{}{Я? Я чувствую себя гораздо лучше! Не скажу, что мое психическое здоровье сразу восстановилось, но, знаешь... Я тут подумал... Многие проблемы можно было бы решить вот так легко.}
-{123}{010}{Ты лучше поменьше об этом думай, а я хотел еще спросить.}
-{124}{999}{Ага... Ну да... Мне, пожалуй, пора бы уже идти отсюда...}
+{160}{}{Yes, it's true... [he gives you a long, thoughtful look] I have an important proposition for you. You are my last hope. We need to take Emily out! Will you help?}
+{161}{017}{You want me to kill her?}
+{162}{010}{No, I won't be a part of it. I just wanted to ask something.}
+{163}{999}{Stop! I don't want to be involved! I'd better go.}
 
 
+{170}{}{I want you to remove her. Do anything you want. Even... You know... Even if you have to... For the future of Livos...}
+{171}{018}{Okay. I'll do it. For the future of Livos.}
+{172}{010}{For now, let's just talk. Answer some of my questions.}
+{173}{999}{No, not interested. Bye.}
 
 
-{130}{}{Раньше я участвовал в управлении... Ко мне прислушивались... Я влиял на важные решения... [Соуп сильно нервничает]}
-{131}{014}{И что такое произошло?}
 
 
+{180}{}{[There's a fire in his eyes] This... This is wonderful! At last, I have hope! [He gets so carried away that stops paying attention to you]}
+{181}{999}{Okay. Talk later.}
 
 
-{140}{}{Потом... Потом я женился на Эмили. Да, Эмили - это моя жена... Она была такая высокая, стройная и красивая - мечта любого мужчины. Когда она выбрала меня, я был на седьмом небе от счастья. Но потом... [Соуп нервно начал теребить одежду руками. Ему очень сложно говорить на эту тему]}
-{141}{015}{Давай, Соуп, поделись со мной. Тебе станет легче.}
 
 
+{190}{}{My family is me and my wife Emily. More precise, it's only Emily. She completely took over the leadership. I make no decisions in the vault anymore... She is... She is... A bitch! That's who she is!}
+{191}{016}{Looks like you really hate her.}
+{192}{010}{I see. Let's talk about something else.}
 
 
-{150}{}{Она оказалась холодной, как лед! Медленно, но верно, она начала забирать у меня власть и влияние. Потом она начала ссорить другие семьи друг с другом, хотя и раньше у них были напряженные отношения. Весь Лайвос скатился в пучину хаоса, и во всем виновата Эмили! }
-{151}{016}{Похоже, ты ее ненавидишь.}
-{152}{010}{Давай о другом поговорим.}
 
 
+{2001}{}{Did you take care of Emily? Can I represent the Dunton family again?}
+{2002}{}{[Soup looks much better than before. His shoulders are straightened, eyes filled with life and enthusiasm] Now, when she's gone, I can represent Duntons again! Thank you for everything you've done!}
+{201}{021}{Are there any weaknesses of Emily I should know about?}
+{202}{022}{Soup, did you ever try to deal with this problem yourself? }
+{203}{010}{Let's talk about something else.}
+{204}{025}{Yes, I dealt with her. The vault is now free of her tyranny!}
 
 
-{160}{}{Да, это верно... [Он долго оценивающе смотрит на Вас] У меня есть к тебе важное поручение. Ты - моя последняя надежда. Нам надо убрать Эмили! Ты мне поможешь?}
-{161}{017}{Ты хочешь, чтобы я убил ее?}
-{162}{010}{Нет, я не собираюсь в этом участвовать. Я только хотел спросить кое-что.}
-{163}{999}{Стоп! Я не буду лезть в эти дела! Пойду я отсюда.}
 
 
+{210}{}{Emily loves gambling. To play cards is everything for her. She also has a grandiose sense of self-worth. That means she always pays her debts... Maybe this information would help. You could try to set up an accident using monsters in the filter room.}
+{211}{010}{Okay, I'll keep that in mind. Let's talk about something else.}
 
 
-{170}{}{Я хочу, чтобы ты ее убрал. Любым способом. Даже... Ну, ты понимаешь... Даже, если ее придется того... Ради будущего Лайвос...}
-{171}{018}{Хорошо. Я это сделаю ради будущего Лайвос.}
-{172}{010}{Давай пока просто поговорим. Ответь мне на вопрос.}
-{173}{999}{Нет, мне это не интересно. Я пойду, пока.}
 
 
+{220}{}{N-no, I, uh, don't know, actually... I... I'm afraid that won't be able to do it... [Soup hesitates]}
+{221}{023}{You are the head of a family! You can make the right decisions!}
+{222}{010}{[You fail to find words to convince him] Okay, let's talk about something else for now.}
 
 
-{180}{}{[Глаза Соупа загорелись] Это... Это превосходно! Наконец-то у меня появилась надежда! [Он так увлекся, что перестал обращать на Вас внимание]}
-{181}{999}{Ладно, потом поговорим.}
+{230}{}{Yes, I am...  I am in charge, I should be firm... But... I don't think I'm ready... [He still hesitates]}
+{231}{010}{[You fail to find words to convince him]  Okay, let's talk about something else for now.}
+{232}{024}{You can do it! Come on, Soup! The fate of the whole vault depends on you!}
 
 
+{240}{}{[You see determined look on his face] Yes. I should do it. The fate of all local people depends on me. Thank you for making me believe in myself. I'll go and do what I should.}
+{241}{999}{Way to go, Soup!}
 
 
-{190}{}{Моя семья - это я и моя жена Эмили. Даже правильней будет сказать так: это Эмили и все. Она забрала все руководство в свои руки. Я больше ничего уже не решаю в убежище... Она... Она... Стерва! Вот, кто она!}
-{191}{016}{Похоже, ты ее ненавидишь.}
-{192}{010}{Понятно. Давай о другом поговорим.}
+{250}{}{[For the first time, you see a smile on his face] This... This is so great! I am the head of my family again! I thank you for everything you've done!}
+{251}{026}{You are not only the head of Dunton family. You also should take the responsibilities of leading the whole Livos.}
+{252}{027}{Yes, you are the head of your family now. And I will take the position of the Livos leader. And if someone opposes, I know what to do.}
 
+{260}{}{[His smile becomes even wider] I... It's an honor to me... Who could imagine that - I'm in charge for Livos, again! I will do everything for the vault to prosper!}
+{261}{999}{You will be a wise leader. I need to go.}
 
+{270}{}{Of course, yes... You have deserved to be the leader of the vault... You did so much for me. You can always count on my help.}
+{271}{999}{Now I can start taking my duties. Bye, Soup.}
 
 
-{2001}{}{Ты убрал Эмили? Я могу приступить к участию в руководстве семьей Дантонов?}
-{2002}{}{[Соуп выглядит гораздо лучше, чем раньше. Плечи распрямились, глаза горят жизнью и энтузиазмом] Теперь, когда ее нет, я снова могу руководить семьей Дантонов! Спасибо тебе за все, что ты сделал!}
-{201}{021}{Есть ли у Эмили какие-нибудь слабости?}
-{202}{022}{Соуп, а ты не пробовал сам разобраться с этой проблемой? }
-{203}{010}{Давай обсудим другой вопрос.}
-{204}{025}{Да, я с ней разобрался. Я освободил Лайвос от ее тирании!}
+{280}{}{What? Who are these Seth and Matt? I have enough on my plate, let alone making some plans with NWO. I don't care what they are going to do.}
+{281}{010}{Understood. I want to ask something else.}
 
 
+{290}{}{I have a mission for you... It is pretty dangerous, I guess. There is a hole in the filter room, leading to a cave. The cave is full of nasty creatures, who can crawl out through the hole at any time and devour all Livos inhabitants! We must protect our home!}
+{291}{030}{How should I do that?}
 
 
-{210}{}{Эмили очень азартный игрок в карты. Также у нее гипертрофированное чувство собственного достоинства. Она всегда отдает карточные долги. Возможно, это тебе поможет. Можно попробовать устроить несчастный случай с участием монстров из дыры в фильтрационной комнате.}
-{211}{010}{Хорошо, я приму это к сведению. Теперь давай о другом поговорим.}
+{300}{}{It doesn't matter how. You can kill off all monsters or plug the hole with something. Just make them not a threat to us.}
+{301}{999}{Okay. I'll go carry out the task.}
+{302}{031}{Okay. I'll go carry out the task.}
+{303}{032}{Sure. I'm going to rip them into pieces very fast!}
+{304}{033}{Sure. I'm going to rip them into pieces very fast!}
 
 
+{310}{}{The task is dangerous, so I'll give you some batteries. Go and buy everything you need.}
+{311}{999}{Thanks. I'll get back when it's done.}
 
 
-{220}{}{Н-нет, я как-то не знаю... Я... Я боюсь, что у меня ничего не получится...[Соуп колеблется]}
-{221}{023}{Ты же главный мужчина в семье! Ты сможешь принять верное решение!}
-{222}{010}{[Вы не находите убедительных слов] Ладно, пока оставим эту тему. Поговорим о другом.}
+{320}{}{The task is dangerous, so I'll give you some batteries. Go and buy everything you need. I see you are determined, so take this tool - it will help you to clean the cave.}
+{321}{999}{Cool! Little monsters, here I come!}
 
 
+{330}{}{I see you are determined, so take this tool - it will help you to clean the cave.}
+{331}{999}{Cool! Little monsters, here I come!}
 
 
-{230}{}{Да, я главный... Я должен быть решительным... Но... Я не готов... [Соуп все еще сомневается]}
-{231}{010}{[Вы не находите убедительных слов] Ладно, пока оставим эту тему. Поговорим о другом.}
-{232}{024}{Ты сможешь это сделать! Давай, Соуп! От тебя зависит судьба убежища!}
-
-
-
-
-{240}{}{[На лице Соупа появилась уверенность] Да. Я должен это сделать. От меня зависит судьба всех этих людей. Спасибо, что заставил меня поверить в свои силы. Я пойду и сделаю то, что должен.}
-{241}{999}{Вперед, Соуп!}
-
-
-
-
-{250}{}{[Впервые вы увидели улыбку на лице Соупа] Это... Это просто отлично! Я снова глава семьи! Спасибо за то, что ты сделал!}
-{251}{026}{Теперь ты не только глава семьи Дантонов. Ты теперь должен взять на себя руководство всем убежищем.}
-{252}{027}{Да, ты теперь глава семьи. А я займу место руководителя Лайвос. Если кто-то будет против, я знаю, что делать.}
-
-
-
-{260}{}{[Улыбка на лице Соупа стала еще шире] Я... Это честь для меня... Кто бы мог поверить - я снова руковожу Лайвос! Я сделаю все ради процветания убежища!}
-{261}{999}{Ты будешь мудрым руководителем. Ладно, мне пора.}
-
-
-
-
-{270}{}{Конечно-конечно... Ты заслужил стать руководителем Лайвос... Ты и так для меня много сделал. И всегда сможешь рассчитывать на мою помощь.}
-{271}{999}{Теперь я могу начинать руководить убежищем. Пока, Соуп.}
-
-
-
-
-{280}{}{Что? Какие еще Сэт и Мэт? У меня и без того дел по горло, чтобы строить какие-нибудь планы с НМП. Мне все равно, что они там собираются делать.}
-{281}{010}{Понятно. Я хочу о другом узнать.}
-
-
-
-
-{290}{}{Есть у меня одно задание... Оно, наверное, достаточно опасное. В фильтрационной комнате есть дыра, которая ведет в пещеру. В пещере полно мерзких тварей, которые могут выползти оттуда в любой момент и сожрать всех жителей Лайвос. Мы просто обязаны защитить наш дом!}
-{291}{030}{Как мне это сделать?}
-
-
-
-
-{300}{}{Это не важно, как ты это сделаешь. Можешь вырезать всех тварей, можешь заткнуть дыру чем-нибудь. Важно, чтобы они больше нам не угрожали.}
-{301}{999}{Хорошо. Я пойду выполнять задание.}
-{302}{031}{Хорошо. Я пойду выполнять задание.}
-{303}{032}{Ага. Я их быстро на куски порву!}
-{304}{033}{Ага. Я их быстро на куски порву!}
-
-
-
-
-{310}{}{Задание опасное, так что я дам тебе несколько батареек. Купи себе все необходимое.}
-{311}{999}{Спасибо. Я все сделаю.}
-
-
-
-
-{320}{}{Задание опасное, так что я дам тебе несколько батареек. Купи себе все необходимое. Вижу, ты настроен решительно. Возьми этот молот, чтобы быстрее расчистить пещеру.}
-{321}{999}{Круто! Монстрики, я иду!}
-
-
-{330}{}{Вижу, ты настроен решительно. Возьми этот молот, чтобы быстрее расчистить пещеру.}
-{331}{999}{Круто! Монстрики, я иду!}
-
-
-
-
-{340}{}{Отлично! Это хорошие новости. Держи в подарок от меня этот модулятор голоса!}
-{341}{999}{Мне он пригодится. Я пойду.}
+{340}{}{Great! It's a good news. Here, take this voice modulator as a gift from me!}
+{341}{999}{Whoa, you can use tech to imitate someone's voice? It will surely come in handy. I'll go now, see you.}

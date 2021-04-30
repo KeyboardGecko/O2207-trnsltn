@@ -1,7 +1,7 @@
 ##############################
-#Локация: ЛАЙВОС
+#Локация: Livos
 #Имя: Эмили Дантон 
-#Краткое описание: Стерва, пытающаяся управлять Лайвосом
+#Краткое описание: Стерва, пытающаяся управлять Livosом
 #Дата создания: 27.08.2014
 ##############################
 #Для игры "Олимп 2207"
@@ -11,346 +11,249 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: женщина с ледяным взглядом.}
-{2}{}{Она смотрит на Вас свысока. Хотя правильнее сказать "на вас".}
+{1}{}{You see a woman with an ice-cold stare.}
+{2}{}{She looks at you arrogantly. More precisely, she looks at everyone arrogantly.}
 #
 # после знакомства
-{3}{}{Вы видите: Эмили.}
-{4}{}{Она вновь смотрит на вас как на фекалии, чтобы там она не говорила.}
+{3}{}{You see Emily.}
+{4}{}{Desite what she was saying, she still looks at you as if you were feces.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы видите высокую стройную женщину. Она двигается очень медленно, окидывая всех высокомерным взглядом, даже не скрывая презрения] Кто же это к нам пожаловал? Внеочередное пресмыкающееся Радиуса? Что требуется такому ничтожеству, как ты, от такой важной персоны, как я?}
-{11}{002}{Выбирай выражения, дамочка.}
-{12}{003}{И что же ты за такая важная персона?}
-{13}{004}{Прости за то, что отвлекаю. Буду благодарен, если уделишь мне несколько минут твоего драгоценного времени.}
-{14}{005}{Ты охренела? Хочешь проверить, кто из нас ничтожество?}
-{15}{006}{Важной персоны? Да ты обычная заносчивая сука, каких сотни вокруг.}
+{10}{}{[You see a tall, slender woman. Her movements are very slow-paced and she looks at the people around her with a definitive superiority. She doesn't even try to hide it] Who is it that came to us? Another lowlife from Radius? What such useless thing like you would want from such important person like me?}
+{11}{002}{Watch your mouth, lady.}
+{12}{003}{And what kind of important person you might be?}
+{13}{004}{Sorry to bother you. I would be grateful if you could spare some of your precious time to talk to me.}
+{14}{005}{Are you fucking kidding me? Wanna find out which of the two of us is the lowlife?}
+{15}{006}{Important person? You are just an arrogant bitch, there are hundreds like you around.}
 
+{20}{}{[The woman contemptuously squints] I have the right to use any words and phrases I please. Note, that you dare to initate the conversation with me, despite the colossal differences in our social statuses. Know that I am Emily Dunton, the ruler of Livos. Do you understand how great my condescention and kindness is to just talk to you back?}
+{21}{008}{I'm new at Livos. And I want to know more about people who run it.}
+{22}{007}{As for me, you are just a bitch with an inflated ego.}
+{23}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
 
+{30}{}{[The woman raises her head even more] My condescention and kindness are so great that I forgive you your ignorance. I am Emily Dunton, the ruler of Livos. Do you realize, what luck it is for you to have a conversation with me?}
+{31}{008}{I'm new at Livos. And I want to know more about people who run it.}
+{32}{007}{As for me, you are just a bitch with an inflated ego.}
+{33}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
-{20}{}{[Женщина презрительно сощурилась] Я вправе выбирать любые выражения, которые будут угодны моей персоне. Ты соизволил ко мне обратиться, несмотря на колоссальную разницу наших статусов в обществе. Я Эмили Дантон, властительница Лайвос. Теперь ты осознал, насколько велика моя снисходительность, за то, что я просто разговариваю с тобой?}
-{21}{008}{Я недавно в Лайвос. И хочу узнать подробнее о людях, которые им управляют.}
-{22}{007}{А по-моему, ты обычная стерва с раздутым самомнением.}
-{23}{999}{Прости меня, Эмили, я не буду больше тебя отвлекать.}
 
+{40}{}{[The woman slightly nods] Looks like you are not as block-headed as the most of inhabitants here. You've felt the difference in our social statuses right away. I am Emily Dunton, the ruler of Livos. What was the reason that made you distract me from my current occupation?}
+{41}{008}{I'm new at Livos. And I want to know more about people who run it.}
+{42}{007}{As for me, you are just a bitch with an inflated ego.}
+{43}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
 
+{50}{}{[The woman doesn't react to your aggression in the slightest. She only raised her eyebrow a little] I'm not surprised at all to see such manners from someone outside. I will never lower myself to your level, using brute violence to solve problems. I am Emily Dunton, the ruler of Livos. Do you realize, what luck it is for you to have a conversation with me?}
+{51}{008}{I'm new at Livos. And I want to know more about people who run it.}
+{52}{007}{As for me, you are just a bitch with an inflated ego.}
+{53}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
-{30}{}{[Женщина еще выше подняла голову] Моя снисходительность настолько велика, что я прощаю тебе твое невежество. Я Эмили Дантон, властительница Лайвос. Теперь ты осознал, насколько тебе посчастливилось беседовать со мной?}
-{31}{008}{Я недавно в Лайвос. И хочу узнать подробнее о людях, которые им управляют.}
-{32}{007}{А по-моему, ты обычная стерва с раздутым самомнением.}
-{33}{999}{Прости меня, Эмили, я не буду больше тебя отвлекать.}
 
+{60}{}{[The woman contemptuously looks at you] I have no desire to countinue the dialogue with some rudderless ruffian like you. Know that I am Emily Dunton, the ruler of Livos. And now get out, worm. I am not in the mood to tolerate your presence anymore.}
+{61}{999}{Didn't really want to keep it going. Bye.}
+{62}{007}{I myself decide, when to go and when to stay. And now I decide to stay.}
 
 
+{70}{}{[Emily angrily clenches her fists and starts shouting] Get away from here, you miserable nobody!}
+{71}{998}{Not a chance, bitch! I'm gonna teach you some manners! }
+{72}{999}{Alright, alright, I'm leaving...}
 
-{40}{}{[Женщина слегка кивнула] А ты не такой болван, как значительное большинство жителей Лайвос. Ты сразу постиг разницу наших статусов в обществе. Я Эмили Дантон, властительница Лайвос. Что побудило тебя отвлечь мою персону от текущего занятия?}
-{41}{008}{Я недавно в Лайвос. И хочу узнать подробнее о людях, которые им управляют.}
-{42}{007}{А по-моему, ты обычная стерва с раздутым самомнением.}
-{43}{999}{Прости меня, Эмили, я не буду больше тебя отвлекать.}
 
+{80}{}{Then you are talking to the right person. It is I who manages the running.}
+{81}{010}{I want to ask you a few questions.}
+{82}{999}{I'll better come by later. See you.}
 
 
+{1001}{}{On what questions of yours should I shed the light of my wisdom?}
+{1002}{}{What made you to ask for my cleverness again?}
+{1003}{}{What do you want here? Get out, you mindless worm!}
+{101}{012}{Ludwig had lost his book of wave science. Was it you who took it?}
+{102}{011}{I wanted to learn of your plans about Seth and Matt from NWO.}
+{103}{013}{Emily, our last conversation went not very smoothly. I would like to fix this.}
+{104}{017}{What can you tell me about Livos?}
+{105}{025}{I have completed the assignment. Monsters aren't threatening the Livos anymore.}
+{106}{031}{Emily, I'd like to play cards with you.}
+{107}{040}{I want to talk about an accident with Peter. }
+{108}{047}{Emily, I have something urgent I want to talk to you about.}
+{109}{999}{I think I need to go.}
 
-{50}{}{[На Вашу агрессию женщина практически никак не отреагировала, только слегка повела бровью] Я нисколько не удивлена манерами проходимца из внешнего мира. Я не опущусь до твоего уровня, чтобы решать вопросы силовыми методами. Я Эмили Дантон, властительница Лайвос. Теперь ты осознал, насколько тебе посчастливилось беседовать со мной?}
-{51}{008}{Я недавно в Лайвос. И хочу узнать подробнее о людях, которые им управляют.}
-{52}{007}{А по-моему, ты обычная стерва с раздутым самомнением.}
-{53}{999}{Прости меня, Эмили, я не буду больше тебя отвлекать.}
 
+{110}{}{[Emily looks grossed out] I am indifferent to the desires of animals from such a hole as NWO. I won't put myself to their level to make any kind of plans together, in any field of activity.}
+{111}{010}{Okay. I have another questions.}
 
 
+{120}{}{[Emily arrogantly glances at you] If you had a talk with Ludwig, you have surely noticed the chaos and mess which is his living quarters. I don't visit his laboratories, because otherwise I would have to clean myself from dirt and dust for several days. That's why I have nothing to do with Ludwig's book.}
+{121}{010}{I'd like to ask something else.}
+{122}{999}{I'll go look in other places then.}
 
-{60}{}{[Женщина с презрением смотрит на Вас] Я не желаю продолжать дискуссию с нижестоящей чернью вроде тебя. Я Эмили Дантон, властительница Лайвос. А теперь пошел прочь, червь. Я не расположена более тебя лицезреть.}
-{61}{999}{Не очень-то и хотелось. Пока.}
-{62}{007}{Я сам решаю, когда мне уходить, а когда нет. И сейчас я останусь.}
 
 
 
+{130}{}{[Emily calmes down a little] Make your assumptions about why our previous communication wasn't constructive.}
+{131}{014}{I talked bad things about you and insulted your dignity. For that I am sorry.}
+{132}{015}{I talked bad things about you and insulted your dignity. But you must admit that I was somehow right.}
+{133}{015}{I called things by their proper names. You are exactly as I said.}
+{134}{016}{I was right and you didn't want to admit it. }
+{135}{016}{I was right and you didn't want to admit it. And I'm waiting for you to apologize.}
 
-{70}{}{[Эмили гневно сжала кулаки и выкрикнула] Пошел прочь, ничтожество!}
-{71}{998}{Нет, сука! Я тебя научу вежливости!}
-{72}{999}{Все, ухожу, ухожу...}
 
 
 
+{140}{}{[Emily looks completely calm] Considering the fact that you have spent many days in a destructive environment of outside world, I accept your apologies. I am counting on the fact that such incidents won't happen in the future.}
+{141}{010}{I would hope so. For now, I want to ask something.}
+{142}{999}{I'm glad we've sorted out our disagreements. But now I need to go.}
 
-{80}{}{Тогда ты обратился к нужной особе. Я и есть тот человек, который осуществляет управление.}
-{81}{010}{Я хочу задать несколько вопросов.}
-{82}{999}{Лучше я потом зайду. Пока.}
 
 
 
+{150}{}{[Emily's face twists with anger] You understood completely nothing. I won't continue the dialogue with an ignorance of such kind. Get out.}
+{151}{999}{I was going to. Bye.}
+{152}{016}{We are not done yet. I will not go anywhere.}
 
 
 
-{1001}{}{На какие вопросы мне следует пролить свет?}
-{1002}{}{Что тебя заставило вновь обратиться к моей мудрости?}
-{1003}{}{Что тебе здесь надо? Пошел прочь, червь!}
-{101}{012}{Людвиг потерял учебник по волнологии. Может, ты его взяла?}
-{102}{011}{Я хочу узнать о твоих планах на Сэта и Мэта из НМП.}
-{103}{013}{Эмили, наш прошлый разговор прошел не очень гладко. Я хочу это исправить.}
-{104}{017}{Что ты можешь рассказать о Лайвос?}
-{105}{025}{Я выполнил задание. Монстры больше не угрожают Лайвос.}
-{106}{031}{Эмили, я хочу сыграть с тобой в карты.}
-{107}{040}{Я хочу обсудить несчастный случай с Питером. }
-{108}{047}{Эмили, мне срочно надо с тобой кое-что обсудить.}
-{109}{999}{Пожалуй, я пойду.}
 
+{160}{}{[She is visibly shaking with hatred] Get away from my sight, worm! You don't deserve even to be standing near me!}
+{161}{999}{Okay, calm down. I'm leaving.}
+{162}{998}{Or what?}
 
 
 
 
+{170}{}{Livos is my domain. I am the one and only ruler of this place. My stellar skills in politics are reflected best in the way I run this vault. I am effortlessly leading this wortless little people.}
+{171}{026}{How exactly are you leading them?}
+{172}{018}{Can I help you with leading the vault?}
+{173}{028}{What about others? Do they know that you treat them with such disdain?}
+{174}{029}{What is there to do here?}
 
-{110}{}{[Эмили недовольно поморщилась] Мне индифферентны черви из такой клоаки, как НМП. Я не опущусь до их уровня, чтоб строить с ними планы будущего развития в любой сфере деятельности.}
-{111}{010}{Хорошо. У меня другие вопросы.}
 
+{1801}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. Do my previous assignment and your status will be changed.}
+{1802}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. But you are assigned to the duties of my personal junior assistant. You can be rightfully proud.}
+{1803}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. But you do have an opportunity to strengthen your reputation here and increase the influence on the Livos residents. If you are capable of completing the task involving a risk to your life, I will assign you to the position of my personal junior assistant. Your status and influence would change greatly. I could run the things here more effectively, while you would have an additional privileges.}
+{181}{017}{I'm not ready to take risks for now. What was you mentioning about Livos?}
+{182}{020}{I am ready for a dangerous job. What is needed to do?}
+{183}{010}{I want to ask another question.}
+{184}{999}{I need to finish some business, I'll be back later.}
+{185}{019}{I don't want to help you enforce your power. I hate your dictatorship.}
 
 
 
-{120}{}{[Эмили надменно произнесла] Если ты вел беседу с Людвигом, ты должен был обратить внимание на хаос и кавардак в его помещении. Я не посещаю его лабораторию, потому что мне бы пришлось несколько дней отмываться от пыли и грязи. Именно поэтому я не брала книг Людвига.}
-{121}{010}{Я еще хочу спросить.}
-{122}{999}{Я пойду, поищу в другом месте.}
 
+{190}{}{[Emily gets furious] How dare you to talk to me like that! You belong to the excrements, worm! Get out!}
+{191}{999}{I was just going to.}
 
 
 
-{130}{}{[Эмили немного успокоилась] Выскажи свои предположения, отчего наша предшествующая беседа не являлась конструктивной.}
-{131}{014}{Я плохо отозвался о тебе, чем оскорбил твое достоинство. И за это прошу прощения.}
-{132}{015}{Я плохо отозвался о тебе, чем оскорбил твое достоинство. Но ты должна признать, что я был прав.}
-{133}{015}{Я назвал вещи своими именами. Ты именно такая, как я сказал.}
-{134}{016}{Я был прав, а ты не хотела это признать. }
-{135}{016}{Я был прав, а ты не хотела это признать. И я жду извинений.}
 
+{200}{}{The task won't be simple. A little while ago, in the floor of the filter room appeared a hole, leading to a cave. That cave is filled with dangerous monstrous creatures, who can crawl out in any time and kill everyone in Livos. Your mission is to ensure the safety of the vault.}
+{201}{021}{How would I do that?}
 
 
 
-{140}{}{[Эмили успокоилась] Учитывая то, что ты множество суток провел во внешнем мире и был подвержен деструктивной атмосфере, я принимаю твои извинения. Я рассчитываю на то, что впредь такие инциденты не возникнут.}
-{141}{010}{Я постараюсь. А сейчас я хочу спросить кое-что.}
-{142}{999}{Я рад, что разногласий больше нет. Но сейчас мне нужно идти.}
 
+{210}{}{I don't care what way you'll choose for protecting Livos. You can murder all monsters, you can barricade the hole. The option doesn't matter. The result does.}
+{211}{999}{Okay. I'll go carry out the task.}
+{212}{022}{Okay. I'll go carry out the task.}
+{213}{023}{Sure. I'm going to rip them into pieces very fast!}
+{214}{024}{Sure. I'm going to rip them into pieces very fast!}
 
+{220}{}{Wait. I'll put some amount of batteries at your disposal for completing the task.}
+{221}{999}{Thanks. I'll get back when it's done.}
 
+{230}{}{Wait. I'll put some amount of batteries at your disposal for completing the task. Also, I took notice that you are quite fond of dealing with problems using brute force. Take this instrument. With its help you'll get the job done in no time.}
+{231}{999}{Cool! Little monsters, here I come!}
 
-{150}{}{[Лицо Эмили исказило презрение] Ты совершенно ничего не осознал. Я не буду продолжать беседу с такого рода невежеством, как ты. Пошел прочь.}
-{151}{999}{Я и так собирался уходить. Пока.}
-{152}{016}{Мы еще не закончили. Я никуда не уйду.}
+{240}{}{Wait. I took notice that you are quite fond of dealing with problems using brute force. Take this instrument. With its help you'll get the job done in no time.}
+{241}{999}{Cool! Little monsters, here I come!}
 
 
+{250}{}{You have completed the task brilliantly. I should admit - I am quite impressed with the quality of the result. Because of that, I am rewarding you with this voice modulator.}
+{251}{999}{Whoa, you can use tech to imitate someone's voice? It will surely come in handy.}
 
+{260}{}{[Emily smugly smiles] My subtle leadership is done through a manipulation with consciousness of the vault residents. I recall there was an ancient phrase, which I believe belongs to one of my ancestors - "divide and conquer". And that is my exact method of ruling. I made each family to believe in their exclusivity and importance for the life and fate of Livos. And now they are more concerned with their own significance, rather than with taking notice of what's happening around them. If one of families starts to take advantage, I undertake some activities to weaken it. I throw them ideas on the official meetings - and they make it look like they are their own, never realizing the truth. A pathetic bunch of worthless pompous insects!}
+{261}{027}{What if I would tell them about it?}
 
-{160}{}{[Ее трясет от гнева] Сгинь с моих глаз, червь! Ты не достоин даже моего присутствия рядом!}
-{161}{999}{Ладно, успокойся. Я уже ухожу.}
-{162}{998}{А то что?}
+{270}{}{[Emily chuckles] No one would listen to you! They are so accustomed to viewing themselves as the center of universe that they became unable to see obvious things and listen to constructive criticism! Miserable losers is who they are!}
+{271}{017}{I see. Tell me more about Livos.}
+{272}{010}{I want to ask something on other topic.}
+{273}{999}{Damn, I need to get out of this place... Bye.}
+{274}{019}{You are self-righteous dictator! You are making me sick!}
 
+{280}{}{I have a right to think as I please. According to paragraph 5 of our Constitution, "Each inhabitant of the New World has the right to think of others, and of the New World itself, anything they see fit". That concludes that I am not worried even a bit with opinion of others about my persona. In my turn, I don't consider it necessary to hide my arrogance to all this pathetic and petty worms.}
+{281}{017}{I want to ask more about Livos.}
+{282}{010}{Let's change the subject.}
+{283}{019}{I hate such smug and bossy people like you. }
+{284}{999}{I'd better go talk with someone else.}
+{285}{043}{Do you have this attitude toward your relatives too?}
 
+{290}{}{The most interesting thing to bother yourself with in Livos is obviously game of cards. I spend a lot of time playing with my friend Abilene McKinsey. She is a worthy opponent, but more importantly, she always pays her debts. For me, the gambling debt is a holy thing. To repay it is a matter of honor, even if my life depends on it.}
+{291}{030}{Abilene is your friend?}
+{292}{036}{Do you mean you could kill yourself if you lose?}
 
+{300}{}{[She makes a short laugh] She means nothing to me. I don't invest my trust in such unreliable concept as friendship. Abilene is a convenient person. Convenient to play cards with, nothing more. I should point out that her intellectual capabilities are like of a chicken - and this makes her perfect interlocutor, safe to talk with.}
+{301}{017}{Tell me more about Livos.}
+{302}{010}{I want to ask something else.}
+{303}{019}{I knew that you use people for your own benefit. I despise you so much.}
 
-{170}{}{Лайвос - это мои владения. Я единственный истинный правитель сего места. Мой превосходный талант политика раскрылся именно в мудром управлении данного убежища. Я без усилий руковожу этими никчемными людишками.}
-{171}{026}{Как ты им управляешь?}
-{172}{018}{А я могу помочь в управлении убежищем?}
-{173}{028}{А остальные знают, что ты так пренебрежительно к ним относишься?}
-{174}{029}{Чем здесь можно заняться?}
+{310}{}{[You see the fire in Emily's eyes] Play a game of cards? A wonderful idea. What are you willing to bet?}
+{311}{032}{Let's play all-in! Bet everything we have at the moment!}
 
+{320}{}{[She gives you a cunning smile] I agree with your terms. Shall we begin?}
+{321}{033}{Let's do it!}
 
-{1801}{}{[Эмили окидывает Вас оценивающим взглядом] У тебя нет должного статуса для управления. Выполни мое предыдущее поручение, и твой статус изменится.}
-{1802}{}{[Эмили окидывает Вас оценивающим взглядом] У тебя нет должного статуса для управления. Ты назначен моим младшим помощником. Теперь ты можешь этим гордиться.}
-{1803}{}{[Эмили окидывает Вас оценивающим взглядом] У тебя нет должного статуса для управления. Однако, у тебя есть возможность усилить свое влияние среди населения Лайвос. Если ты способен выполнить поручение, связанное с риском для жизни, то я назначу тебя своим младшим помощником, и твой статус и влияние резко возрастут. Я смогу лучше контролировать убежище, а у тебя появятся привилегии.}
-{181}{017}{Я не готов сейчас рисковать. Что ты там говорила про Лайвос?}
-{182}{020}{Я готов к опасной работе. Что мне нужно сделать?}
-{183}{010}{Я хочу задать вопрос на другую тему.}
-{184}{999}{Мне сейчас нужно завершить дела, я пойду.}
-{185}{019}{Я не хочу помогать укреплять твою власть. Я ненавижу твою диктатуру.}
+{330}{}{[For some time, you play cards with Emily. She is so involved in the process, that fails to notice how you hide a couple of cards in your sleeve, taking out some aces instead. In the end you easily defeat her. Emily smiles] You won. I am ready to pay my debt. We agreed to play on everything we have. The thing is - I have nothing! I am paying you my debt of nothing! }
+{331}{999}{Uh... Damn, I didn't see that coming. Okay, we'll play again later.}
+{332}{034}{What do you mean? I told you, let's bet everything we have at the moment. Your life is what you have!}
 
+{340}{}{[She becomes pale] What?... How?... I... }
+{341}{035}{Yes, Emily, you gambled your life away. Now I can do whatever I want with it.}
 
+{350}{}{What do I do then?..}
+{351}{037}{If the word "honor" means anything to you - you'll kill yourself.}
+{352}{038}{You will abandon Livos. I give your life to Radius.}
+{353}{010}{Okay, I am in a good mood today, so I leave your life to yourself. Let's talk about something else.}
 
+{360}{}{[Emily proudly raises her head] If the bet is my life, then I'll do it if I lose! }
+{361}{039}{What about the Livos dvellers? What would they think about you killing yourself?}
 
-{190}{}{[Эмили разозлилась] Как ты смеешь со мной так разговаривать! Тебе самое место рядом с экскрементами, червь! Пошел прочь!}
-{191}{999}{Я как раз собирался уходить.}
+{370}{}{[Emily clenches her teeth, squints and proudly raises her head] I'll do it. Emily Dunton always pays her depts. Goodbye.}
+{371}{999}{[observe]}
 
+{380}{}{[Emily clenches her teeth, squints and proudly raises her head] I'll do it. Emily Dunton always pays her depts. Goodbye.}
+{381}{999}{[observe]}
 
+{390}{}{It is my constitutional right. According to paragraph 6 of our Constitution, "Each inhabitant of the New World has the right to take his own life, if it is not harming the other inhabitants of the New World".}
+{391}{010}{What a handy paragraph. Let's talk about something else.}
 
+{400}{}{[She gives a subtle smile] If it can be called accident. Subtle playing with the highly volatile emotions of people makes wonders, without even involving the culprit into the process. Peter presented danger for me, so temper of Boston McKinsey was especially appropriate. My role in this incident went totally unnoticed. Why am I saying this to you? The thing is, even if you would tell someone, nobody would take your words for the truth. }
+{401}{019}{So this is your doing? You cold-hearted bitch!}
+{402}{010}{Oh man, wow. Let's talk about something else...}
+{403}{041}{I suggest to hold a commemorative evening dedicated to Peter Horton.}
 
-{200}{}{Твое задание будет не из легких. В фильтрационной комнате образовалось отверстие, которое ведет в пещеру. В ней полно ужасных монстров, которые могут в любое время выползти оттуда и погубить весь Лайвос. Твоей задачей будет обеспечить безопасность убежища.}
-{201}{021}{Как мне это сделать?}
+{410}{}{Why whould I want to do that? Claudia Horton spends all her energy on Boston McKinsey, who always remains in stress because of that. And none one of them takes any interest in matters of leading the vault.}
+{411}{010}{[You think for a really long time, but fail to find a good argument] I don't even know... Okay, let's talk about something else.}
+{412}{042}{If the situation will keep going like this, it could lead to a point where Horton family will fall apart. Claudia is very close to crossing the line.}
 
+{420}{}{[Emily hesitates] ...Actually, you might be right, her delusion is going too far. Her actions could lead to disbalance of social powers in Livos. I will hold the commemorative evening, so Claudia would find some serenity.}
+{421}{999}{Great. I'll go tell her the good news.}
 
+{430}{}{They are just worthless worms, just as everybody else. Especially Soup, who is my husband. I married him only because of his social status, and I never let this filth approach me. Even to think about physical intimacy with Soup makes me so sick I have an urge to vomit. }
+{431}{010}{Now I see why you have no children. Let's talk about something else.}
 
+{440}{}{What? This worthless worm decided that he could take my position? I thank you for this information. I'll deal with this matter.}
+{441}{010}{I see. I want to ask something else.}
 
-{210}{}{Меня не интересует, каким способом ты сможешь защитить Лайвос. Можешь истребить всех монстров, можешь забаррикадировать отверстие. Это не имеет значения. Важен результат.}
-{211}{999}{Хорошо. Я пойду выполнять задание.}
-{212}{022}{Хорошо. Я пойду выполнять задание.}
-{213}{023}{Ага. Я их быстро на куски порву!}
-{214}{024}{Ага. Я их быстро на куски порву!}
+{450}{}{I figured that literally not one important event can happen without me here. Lead the way!}
+{451}{999}{Yes, come on...}
 
+{460}{}{What was the reason that you brought me here? I see nothing extraordinary around the filter room.}
+{461}{998}{I got you here to finally deal with you! Death to a tyrant!}
+{462}{999}{I was probably mistaken. Everything is alright here, let's go back.}
 
-
-
-{220}{}{Подожди. Я тебе предоставлю некоторое количество батареек для выполнения задания.}
-{221}{999}{Спасибо. Я все сделаю.}
-
-
-
-
-{230}{}{Подожди. Я тебе предоставлю некоторое количество батареек для выполнения задания. Также я заметила, что ты склонен решать все вопросы грубой физической силой. Возьми этот инструмент. С его помощью ты справишься в весьма короткий срок.}
-{231}{999}{Круто! Монстрики, я иду!}
-
-
-
-{240}{}{Подожди. Я заметила, что ты склонен решать все вопросы грубой физической силой. Возьми этот инструмент. С его помощью ты справишься в весьма короткий срок.}
-{241}{999}{Круто! Монстрики, я иду!}
-
-
-
-
-{250}{}{Ты блистательно выполнил мое поручение. Признаюсь, я слегка поражена изяществом исполнения. Я отдаю тебе в пользование этот модулятор голоса.}
-{251}{999}{Ого, можно подделать чужой голос? Я найду этому применение.}
-
-
-
-
-{260}{}{[Эмили самодовольно улыбнулась] Мое тонкое руководство осуществляется посредством манипуляций с сознанием своих подданных. У меня в памяти отложилась превосходная фраза одного моего далекого предка: "Разделяй и властвуй". Именно таким образом я и управляю убежищем. Я заставила поверить каждую семью в их исключительной важности и главенствующей роли в жизни Лайвос. И в настоящее время они обеспокоены собственной важностью более, чем наблюдением за скрытыми процессами. Когда же одна семья усиливается, я провожу ряд мероприятий, чтобы ее ослабить. Я подкидываю идеи на официальных собраниях своим подданным, и они их выдают за свои, даже не подозревая об этом. Жалкая кучка тщеславных насекомых!}
-{261}{027}{А если я им расскажу об этом?}
-
-
-
-
-{270}{}{[Эмили засмеялась] Тебя никто не станет слушать! Они настолько свыклись с мыслью, что являются центром вселенной, что не способны замечать очевидные вещи и воспринимать конструктивную критику! Жалкие ничтожества!}
-{271}{017}{Понятно. Расскажи еще о Лайвос.}
-{272}{010}{Я хочу уточнить кое-что на другую тему.}
-{273}{999}{Черт, мне пора сваливать из этого места... Пока.}
-{274}{019}{Ты самодовольная диктаторша! Я тебя ненавижу!}
-
-
-
-
-{280}{}{Я имею право думать, как мне заблагорассудиться. Согласно пункту 5 Конституции "Каждый житель Нового Мира имеет право думать что угодно о других жителях Нового Мира и о Новом Мире вообще". Таким образом, меня никаким образом не беспокоит мнение других на счет моей персоны. В свою очередь, я не скрываю презрения к этим мелочным и жалким червям.}
-{281}{017}{Я хочу больше узнать о Лайвос.}
-{282}{010}{Давай сменим тему.}
-{283}{019}{Терпеть не могу таких самодовольных властных людей, как ты. }
-{284}{999}{Пожалуй, я пойду, поговорю еще с кем-нибудь.}
-{285}{043}{А к своим родственникам ты тоже так относишься?}
-
-
-
-{290}{}{Самым интересным занятием в Лайвос, безусловно, являются карточные игры. Я провожу много времени с Абилин МакКинзи за игрой в карты. Она достойный соперник и всегда отдает карточные долги. Для меня карточный долг - священен. Для меня отдать карточный долг - дело чести, даже если это будет моя жизнь.}
-{291}{030}{Абилин - это твоя подруга?}
-{292}{036}{Ты хочешь сказать, что покончишь с собой, если проиграешь?}
-
-
-{300}{}{[Эмили усмехнулась] Для меня она ничего не значит. Я не доверяю такой ненадежной концепции, как дружба. Абилин - просто удобный человек для игры в карты, не более. Следует отметить, что ее интеллект сравним с интеллектом курицы, что делает ее безопасным собеседником.}
-{301}{017}{Давай еще поговорим о Лайвос.}
-{302}{010}{Я задам другой вопрос.}
-{303}{019}{Я так и знал, что ты используешь людей для своей выгоды. Я тебя презираю.}
-
-
-
-
-{310}{}{[В глазах Эмили загорелся азарт] Сыграть в карты? Это замечательная идея. Какую ставку ты предлагаешь?}
-{311}{032}{Давай играть ва-банк! На все, что есть у тебя на данный момент!}
-
-
-
-
-{320}{}{[Хитрая искорка промелькнула в глазах Эмили] Я соглашусь с твоими условиями. Начинаем?}
-{321}{033}{Давай!}
-
-
-
-
-{330}{}{[Вы некоторое время играете с Эмили в карты. Она так увлечена процессом, что не заметила, как Вы припрятали пару карт в рукаве и достали из колоды несколько козырей. В итоге Вы легко ее обыграли. Эмили улыбнулась] На этот раз ты вышел победителем. Я готова отдать тебе свой карточный долг. Наш договор состоял в том, что будем играть на все ценное, что я имею на данный момент с собой. Так вот, у меня с собой ничего нет! Я отдаю тебе долг в виде пустоты! }
-{331}{999}{Э-э-э... Черт, я на это не рассчитывал. Ладно, сыграем позже.}
-{332}{034}{Почему же? Я имел ввиду самое ценное, что у тебя есть - это твоя жизнь!}
-
-
-
-
-{340}{}{[Эмили резко побледнела] Что?... Как?... Я не... }
-{341}{035}{Да, Эмили, ты проиграла мне свою жизнь. Теперь я могу делать с ней все, что хочу.}
-
-
-
-
-{350}{}{Что же мне сейчас делать?...}
-{351}{037}{Ты обязана покончить с собой, если слово "честь" для тебя что-нибудь значит.}
-{352}{038}{Ты должна покинуть Лайвос. Я отдаю твою жизнь Радиусу.}
-{353}{010}{Ладно, я сегодня добрый. Я оставляю твою жизнь тебе. Перейдем к другому вопросу.}
-
-
-
-{360}{}{[Эмили гордо подняла голову] Если ставкой будет моя жизнь - то я сделаю это, если окажусь проигравшей! }
-{361}{039}{А жители Лайвос не будут против самоубийства?}
-
-
-
-
-{370}{}{[Эмили сжала зубы, прищурилась и гордо подняла голову] Я это сделаю. Эмили Дантон всегда отдает долги. Прощай.}
-{371}{999}{[Наблюдать]}
-
-
-
-
-{380}{}{[Эмили сжала зубы, прищурилась и гордо подняла голову] Я это сделаю. Эмили Дантон всегда отдает долги. Прощай.}
-{381}{999}{[Наблюдать]}
-
-
-
-
-{390}{}{Это мое конституционное право. Согласно пункту 6 Конституции "Каждый житель Нового Мира имеет право на самоубийство, если это не навредит другим жителям Нового Мира".}
-{391}{010}{Полезный пункт. Давай о другом поговорим.}
-
-
-
-
-{400}{}{[Эмили слегка улыбнулась] Если этот случай можно назвать несчастным. Тонкая игра на эмоциях легко возбудимых людей позволяют сделать необходимое чужими руками. Питер представлял опасность, и вспыльчивость Бостона МакКинзи была как нельзя кстати. А мое участие в инциденте осталось полностью незамеченным. Почему же я открыла тебе этот секрет? Дело в том, что даже если ты кому-нибудь захочешь рассказать об этом, никто не воспримет твои слова за истину. }
-{401}{019}{Так это твоих рук дело? Ты мерзкая стерва!}
-{402}{010}{Ничего себе... Давай о других вещах поговорим...}
-{403}{041}{Я предлагаю провести вечер в честь Питера Хортона.}
-
-
-
-
-{410}{}{И зачем мне это делать? Клаудия Хортон тратит свою энергию на Бостона МакКинзи, а он, в свою очередь, постоянно находится в напряжении из-за Клаудии. И никто из них не интересуется делами управления убежищем.}
-{411}{010}{[Вы долго думаете, но не можете привести веских аргументов] Хм, даже не знаю... Ладно, давай о другом поговорим.}
-{412}{042}{Если так и дальше будет продолжаться, то семья Хортонов может развалиться, так как Клаудия всех достала.}
-
-
-
-
-{420}{}{[Эмили задумалась] Да, помешательство Клаудии зашло уже слишком далеко. Ее действия могут привести к дисбалансу и пошатнуть равновесие сил семей в Лайвос. Я проведу вечер в честь Питера Хортона, чтобы Клаудия обрела спокойствие.}
-{421}{999}{Отлично. Пойду передам ей хорошие новости.}
-
-
-
-
-{430}{}{Они такие же черви, как и остальные. Особенно мой муж, Соуп. Я вышла за него замуж только из-за статуса. Я не подпускаю этот жалкий отброс к себе. У меня вызывает отвращение даже одна мысль о близости с Соупом. }
-{431}{010}{Теперь понятно, почему у вас нет детей. Давай сменим тему.}
-
-
-
-
-{440}{}{Что? Этот никчемный червь решил занять мое место? Благодарю за предупреждение. Я с этим делом разберусь.}
-{441}{010}{Хорошо. Я хочу еще спросить.}
-
-
-
-
-{450}{}{Я предполагала, что без моего участия не сможет обойтись ни одно важное событие. Ну, идем же!}
-{451}{999}{Да, пошли быстрей...}
-
-
-
-
-{460}{}{Какое событие побудило тебя обратиться ко мне? Я не наблюдаю ничего экстраординарного в фильтрационной комнате.}
-{461}{998}{Я тебя позвал, чтобы разобраться с тобой! Смерть тиранше!}
-{462}{999}{Я, наверное, ошибся. Здесь все в порядке. Пора возвращаться назад.}
-
-
-
-
-{470}{}{Я внимательно слушаю.}
-{471}{044}{Я разговаривал с твоим мужем Соупом. Он хочет тебя убить.}
-{472}{045}{Эмили! Нам срочно нужно в фильтрационную комнату! Без тебя там никто ничего не сделает!}
-{473}{010}{На самом деле, я просто хотел задать вопрос.}
-{474}{999}{Хотя нет, не сейчас. Мне надо идти.}
+{470}{}{I am carefully listening.}
+{471}{044}{I had a talk with your husband, Soup. He wants you dead.}
+{472}{045}{Emily! We are urgently need your presence in the filter room! No one is going to do a thing without you managing!}
+{473}{010}{Actually, I wanted to ask a question.}
+{474}{999}{Although, not now. I need to go.}

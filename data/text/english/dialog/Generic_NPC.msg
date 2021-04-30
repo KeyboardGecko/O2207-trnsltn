@@ -22,11 +22,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: overseer.}
-{2}{}{You see:}
-{3}{}{You see:}
-{4}{}{You see:}
-{5}{}{You see:}
+{1}{}{You see an overseer.}
+{2}{}{You see a }
+{3}{}{You see a }
+{4}{}{You see a }
+{5}{}{You see a }
 {6}{}{::описание::}
 {7}{}{::описание::}
 {8}{}{::описание::}

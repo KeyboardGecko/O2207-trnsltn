@@ -22,69 +22,69 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Огроменный, источающий силу и злобу дикарь.}
-{2}{}{Похоже, он уже долго скитается по Радиусу.}
-{3}{}{Женщина выглядит крайне изможденной. Удивительно, как она еще жива.}
-{4}{}{Натуральный бандит, в шрамах, татуировках и с налитыми кровью глазами.}
-{5}{}{Настоящая оторва! Лицо растатуировано а все тело проколото пирсингом.}
-{6}{}{Он вполне похож на бывалого бойца, и шутить явно не намерен.}
-{7}{}{Женщина выглядит очень боевой. Даже чересчур.}
-{8}{}{Мужчина выглядит совершенно измотанным и явно давно ничего не ел.}
-{9}{}{На женщину больно смотреть, просто кожа и кости. Как она еще держится?}
+{1}{}{A huge savage, oozing with power and malice.}
+{2}{}{Looks like he wandered around Radius for a really long time.}
+{3}{}{The woman looks extremely exhausted. It is suprising how she is still alive.}
+{4}{}{A typical bandit, covered with scars and tattoos. His bloody eyes are bulging out at you.}
+{5}{}{A real daredevil! The face is tattoed, body is pierced in all places.}
+{6}{}{He looks like an experienced fighter who is not going to fool around.}
+{7}{}{The woman looks threatening. Extremely threatening.}
+{8}{}{The man looks exhausted. He definitely haven't eaten for days.}
+{9}{}{It hurts to even look at her, all skin and bones. How's she still standing?}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Каннибалы
-{10}{}{Мясо в консервах! Больно зубы!}
-{11}{}{Вкусный, но железный! Убирайся!}
-{12}{}{Копье и нож не проткнуть железная кожа.}
-{13}{}{Железный монстр может уйти.}
-{14}{}{Мы не уметь снимать железный кожа.}
+{10}{}{Meat in can! Hurts teeth!}
+{11}{}{Tasty, but metal! Get away!}
+{12}{}{Knife and spear no pierce metal skin.}
+{13}{}{Metal monster can go.}
+{14}{}{We not know how to remove metal skin.}
 #Путники
-{15}{}{Ничего личного, братец. Мне просто нужны твои шмотки.}
-{16}{}{Я просто хочу выжить, и ты мне в этом поможешь!}
-{17}{}{Я так давно ничего не ел...}
-{18}{}{Чужак, о тебе никто не будет сожалеть.}
-{19}{}{Твои шмотки послужат мне лучше, чем тебе!}
-{20}{}{Привет, странник! Мы с тобой одной крови, так ведь? Просто пойдем своими дорогами.}
-{21}{}{Хэй, дружище! Ты только не нервничай, хорошо? Я просто тут осматриваюсь.}
-{22}{}{Не нужно дергаться, мне от тебя ничего не нужно.}
-{23}{}{Так, спокойно! Не лезь в бутылку, я такой же славный парень, как и ты!}
-{24}{}{Давай не будем доставлять друг-другу неприятности, ок?}
-{25}{}{Все пути чертового Радиуса ведут в Олимп.}
-{26}{}{Когда доберемся до башни - все будет хорошо.}
-{27}{}{Мы очень долго шли, но не все осилили это проклятый путь.}
-{28}{}{Черт, да я даже имя свое уже забыл!}
-{29}{}{Да, конечно это опасное путешествие, но выжить можно только в Олимпе.}
+{15}{}{Nothing personal - I just need your stuff.}
+{16}{}{I'm just trying to survive, and you are going to help me with that!}
+{17}{}{I haven't eaten for a really long time...}
+{18}{}{No one is going to be sad about you, outsider.}
+{19}{}{Your stuff suits me better!}
+{20}{}{Hey, stranger! We are of the same kind, aren't we? Let's just go our separate ways.}
+{21}{}{Hello, friend! Don't be nervous, alright? I'm just looking around here.}
+{22}{}{Don't be twitchy, I need nothing from you.}
+{23}{}{Easy! Don't start trouble, I am a good guy, just like you!}
+{24}{}{Let's not make any trouble for each other, okay?}
+{25}{}{Every road in this damn Radius leads to Olympus.}
+{26}{}{Everything will be great when we make it to the tower.}
+{27}{}{We've been walking for a really long time. Not all of us have made it here.}
+{28}{}{Damn, I can't even remember my name!}
+{29}{}{The trip is dangerous, of course. You can be safe only inside of Olympus.}
 #Пираты, рейдеры
-{30}{}{Пришла твоя смертушка, братец!}
-{31}{}{Готовься умереть, неудачник!}
-{32}{}{Ох и не повезло же тебе сегодня меня повстречать!}
-{33}{}{Мертвые не сопротивляются!}
-{34}{}{Эй ты! Стой ровно, чтобы легче было тебя убить!}
-{35}{}{Да мы просто романтики большой дороги!}
-{36}{}{Эй, красавчик! Я позабавлюсь с твоим трупом, как все закончится!}
-{37}{}{Свали нахер!}
-{38}{}{Да ну тебя в жопу!}
-{39}{}{Нет! Отвяжись! Я ничего не хочу!}
+{30}{}{Here comes you death, bro!}
+{31}{}{Ready to die, loser!}
+{32}{}{You are so lucky to meet me today!}
+{33}{}{Dead don't resist!}
+{34}{}{Hey you! Stay where you are, so I could kill you more easily!}
+{35}{}{We're just romantics of the world!}
+{36}{}{Hey, handsome! I'm gonna have fun with your corpse when it's all over!}
+{37}{}{Get the hell away!}
+{38}{}{Fuck you!}
+{39}{}{No! Get off! I don't want anything!}
 #Патруль НМП
-{40}{}{Сейчас ты заплатишь за все преступления!}
-{41}{}{Пришло время расплаты, паскуда!}
-{42}{}{Ты больше не сможешь нам навредить, гнида!}
-{43}{}{Ублюдок! Сейчас ты за все ответишь!}
-{44}{}{Тебе не жить! Пришло время расплаты!}
-{45}{}{Да, мы тут патрулируем местность.}
-{46}{}{Если Псы опять пойдут войной - мы узнаем это заранее.}
-{47}{}{Время сейчас беспокойное, без патрулей не обойтись.}
-{48}{}{Мы тут на службе, не отвлекай.}
-{49}{}{Продолжай свой путь спокойно.}
-{50}{}{Не делай ничего противозаконного - и все будет в порядке.}
+{40}{}{Now you're going to pay for your crimes!}
+{41}{}{It's payback time, bitch!}
+{42}{}{You will no longer be able to cause us problems, asshole!}
+{43}{}{Bastard! Now you'll answer for everything!}
+{44}{}{You are dead man! Payback is a bitch!}
+{45}{}{Yeah, we're patrolling the area.}
+{46}{}{Should Jackals attack us again - we'll know.}
+{47}{}{It's an uncertain times, can't do without patrols.}
+{48}{}{We are on duty. Don't distract us.}
+{49}{}{Get on your way, and be calm.}
+{50}{}{Don't do anything illegal and everything will be fine.}
 #Искатели
-{51}{}{Мы уже давно ничего не ели...}
-{52}{}{А что сказать? Просто ищем хоть что-нибудь полезное.}
-{53}{}{Все что попадется - все можно приспособить, чтобы жить полегче стало...}
-{54}{}{Может в Олимпе и много всего, да только живым туда никто не доходил.}
-{55}{}{Наши семьи ждут, что мы принесем хоть что-то полезное. Или съестное.}
+{51}{}{We haven't eaten for a really long time...}
+{52}{}{What's there to say? Just looking for anything useful.}
+{53}{}{Everything you find can be used to make life easier...}
+{54}{}{There may be a lot of things in Olympus, but nobody got there alive.}
+{55}{}{Our families expect us to bring something useful. Or edible.}
 {56}{}{}
 {57}{}{}
 {58}{}{}

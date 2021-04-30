@@ -22,11 +22,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: girl.}
-{2}{}{You see: a little girl.}
-{3}{}{You see: a girly girl.}
-{4}{}{You see: girlie.}
-{5}{}{You see: girl.}
+{1}{}{You see a girl.}
+{2}{}{You see a little girl.}
+{3}{}{You see a girly girl.}
+{4}{}{You see a girlie.}
+{5}{}{You see a girl.}
 {6}{}{A girl running around Tartarus.}
 {7}{}{Nothing unusual, just a little girl.}
 {8}{}{This girls are always get on your way!}

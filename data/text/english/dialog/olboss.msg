@@ -11,75 +11,75 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: человек в сфере, увитой шлангами и кабелями.}
-{2}{}{Изо всех возможных мест от него идут провода, подключенные к внешней электронике.}
+{1}{}{You see a man in a sphere, intertwined with hoses and cables.}
+{2}{}{Wires are coming out of all possible places, connecting the sphere to the external electronics.}
 #
 # после знакомства
-{3}{}{Вы видите: Андерсон - "Бог" Олимпа.}
-{4}{}{Похоже, этот человек настолько давно не покидал свою увитую проводами и шлангами сферу, что сам стал ее частью.}
+{3}{}{You see Anderson.}
+{4}{}{Looks like this man is inside this sphere for such a long time that he became one with it.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{Вот и ты, человечишка. Мерзкий слизняк, посмевший прийти сюда - в мою обитель, в мой Зал Контроля! Хотя я думал, ты придешь раньше. Но это не имеет никакого значения, твоя судьба предрешена.}
-{11}{002}{Что?.. Какого черта? Кто ты такой?}
-{12}{003}{Кем предрешена? Я сам решаю, что будет дальше!}
-{13}{004}{Человечишка? Ха! Ты привык считать себя Богом, но это ты - человечишка!}
-{14}{998}{Кончай тут разговоры разводить, ты просто кусок мяса в проводах и тебе конец!}
+{10}{}{Here you are, puny human. How you even dare to step a foot in here, into my Control Room? Pathetic... Now your fate is sealed!}
+{11}{002}{Wh- What the hell? Who are YOU?}
+{12}{003}{Sealed? I decide for myself what happens next!}
+{13}{004}{Puny human? Hah! Look at yourself! It's you who is pathetic!}
+{14}{998}{Enough with your bragging. You are just a piece of flesh entangled in wires. And you're finished!}
 
 #Node002
-{20}{}{Кто я такой!? [свирепеет] Я - ТВОЙ БОГ,  и тебе это известно с рождения! Это кто ТЫ такой!? Возомнил себя самым умным? Самым справедливым? Как ты посмел прийти сюда ДА ЕЩЕ И УКАЗЫВАТЬ МНЕ!?}
-{21}{005}{Ты обезумел от власти, но я пришел и я заставлю тебя ответить за все то зло, что ты причинил людям!}
-{22}{006}{Хэй, я прошел по горе трупов чтобы добраться до тебя, и я своего шанса не упущу!}
-{23}{006}{Я тот, кто порвет тебя на маленькие проводочки и скормит твои потроха песчаным шакалам, ублюдок.}
-{24}{007}{Ты не Бог, ты лишь объявил себя Богом и считаешь себя властелином мира. Но я положу этому конец!}
-{25}{998}{Кто я?! Узнаешь, когда я нафарширую твою задницу свинцом!}
+{20}{}{Who AM I!? I am your GOD! And you knew it since you were born! The question is - who are YOU? Think you are the smartest? The fairest? You are NOTHING!!}
+{21}{005}{You are driven mad with power. I'm here to make you answer for all the evil you've done to my people.}
+{22}{006}{Drop it. I climbed the mountain of corpses to get to you. And I'm going to enjoy every second.}
+{23}{006}{I'm the one who will tear you into a hundred little wires and feed your intestines to jackals!}
+{24}{007}{You are not a God. You are just delusional. Think you are ruling the world? You're crazy!}
+{25}{998}{You'll see who am I - after I'll stuff your ass with led!}
 
 #Node003
-{30}{}{Ты?? [хохочет] ТЫ-Ы ЧТО-ТО РЕШАЕШЬ?? Человек с примитивным мозгом! Даже я, став частью системы управления, не могу решать все. Ты не способен понять - люди с рождения являются винтиками в сложном механизме и не задумываясь выполняют свои роли, на этом держится не только Олимп, но и Радиус и остатки всей этой цивилизации. Думаешь, ты избранный? Нет, ты всего лишь неизбежная ошибка системы, выскочка, дефектный винтик, возомнивший себя вершителем судьбы мира. Ты не первый, кто пришел сюда, в Зал Контроля, чтобы убить меня. Но я умею ликвидировать ошибки. Закрой глаза и сделай последний вдох, человечишка.}
-{31}{005}{Это ты ошибаешься - возможно, я не первый пришел сюда, но я буду тем, кто положит конец твоим злодеяниям!}
-{32}{998}{[Приготовиться к бою]}
+{30}{}{You?! You think you DECIDE something?? A pathetic human with a primitive brain, not capable of comprehending your purpose! Not understanding that in fulfillment of purpose lies the prosperity of Olympus- no, the whole Radius! This is the foundation of our civilization's rebirth! And you chose to not fulfill your purpose! You think this makes you a chosen one? Think it makes you SPECIAL?! You are an ERROR! An inevitable FLAW, a faulty cog with an inflated ego!! Think you can change the world? Make things BETTER?! NO!! You are not even the first to come here!! But I exist to keep things in order - and I am fixing errors. Take your last breath, puny human.}
+{31}{005}{You are mistaken - maybe I'm not the first to come here, but I will be the one who puts an end to your evil.}
+{32}{998}{[prepare to fight]}
 
 #Node004
-{40}{}{Ты так примитивен! Удивительно, как ты вообще смог добраться сюда. Этот мир слишком сложен и ты не способен постичь его своим несовершенным мозгом, глупый человечишка. Мне надоел этот пустой разговор - пора с тобой кончать! Прощай, безмозглая марионетка!}
-{41}{998}{Еще посмотрим кто кого!}
+{40}{}{You are so primitive... I'm surprised you even managed to go this far. This world is too complex for this tiny brain of yours. Enough talking. Adieu, brainless puppet.}
+{41}{998}{Bring it on!}
 
 #Node005
-{50}{}{Твой примитивный мозг решил, что моя сущность - ЗЛО!? Да ты хоть понимаешь, что такое ЗЛО? Проживая свою бездумную судьбу ты хоть раз пытался разобраться, в чем разница между злом и необходимостью? Людишки, копошащиеся в борьбе за никчемную жизнь, всегда называют злом то, что им не нравится. Вам не нравиться трудиться в Тартаре и вам плевать, что этим вы спасаете жалкие остатки цивилизации от вымирания. Вы готовы все разрушить, чтобы заполучить власть, прикрывая свое желание благими намерениями. Разве это не зло? Эгоисты, лицемеры, циники и себялюбы! Вы недостойны той жизни, которую я вам создал!}
-{51}{009}{А как же ты? Ты разве не такой? Сидишь тут в комфорте, пока другие рискуют каждый миг!}
-{52}{998}{Нет! Заполучив твою власть, я смогу сделать жизнь других лучше! УМРИ!}
-{53}{004}{Ты слишком много о себе возомнил - спаситель цивилизации, ха! Тебе просто нравится играть роль Бога!}
+{50}{}{Evil... You, with your tiny brain, think that what I do is EVIL! Are you even capable of understanding your own words? For once in your boring little life, have you ever tried to distinguish EVIL from NECESSITY? Puny humans, unable to comprehend anything bigger than their pathetic existance... You see only the fact that people in Tartarus are bound to their way of life - yet by fulfilling their purpose they are saving the human civilization from becoming extinct. They are a crucial part of a coherent mechanism with an objective - a renaissance of a mankind! Thousands of lives contributing to the greated good, each of them with a specific purpose! The order of things created by ME and the ones before me!! And you are willing to destroy EVERYTHING, just because you pity your people. Isn't that evil? Selfish, cynical hyppocrite!}
+{51}{009}{Aren't YOU the one? You're saying that your way is the only right way! That everyone who thinks otherwise is wrong!}
+{52}{998}{No! There can be other way! If I were in your place, I would do it better... And I might! Time to die!}
+{53}{004}{You think too much of yourself, the "saviour of a civilization"! You just like to play God!}
 
 #Node006
-{60}{}{Ты смешной, человечек. Такой сердитый и уверенный в себе. Взгляни на меня! УВИДЬ, С КЕМ ТЫ РАЗГОВАРИВАЕШЬ! Не один человечек уже приходил сюда с такими же словами, но я все еще здесь. И я буду здесь завтра. И через 10 лет. И я буду убивать вас столько, сколько потребуется, для сохранения Радиуса. А теперь, пора с тобой заканчивать, у меня сегодня еще много дел.}
-{61}{012}{Эй подожди! Были и другие вроде меня?}
-{62}{998}{Ну держись, говнобог! [потянуться к оружию]}
-{63}{998}{Э-эх, ну сейчас потанцуем! [приготовиться к бою]}
+{60}{}{You are funny, puny human. So angry, so self-confident. Don't you see who you're talking to? Do you think you are the first to come here with the words like this? Yet I'm still here. And will be here tomorrow, and in ten years. And I will kill as many of you as it takes to maintain the salvation of Radius. Let's finish this. I have a lot of things to do.}
+{61}{012}{Wait a second! There were others before me?}
+{62}{998}{You're full of shit, false God. [reach for a weapon]}
+{63}{998}{It's showtime! [fight]}
 
 #Node007
-{70}{}{Ты не можешь понять мир, пока не увидишь его целиком. Это недоступно примитивному человеческому мозгу. Взгляни, во что я себя превратил, чтобы сохранять контроль над Олимпом! Я отказался от жизни смертного и подключил себя к системе, чтобы сохранить не только башню, но и весь Радиус с остатками цивилизации. Просто управлять башней недостаточно, но ты не способен понять это, человечек. Ты не видишь, что настоящее зло - это то, что движет тобой. ТЫ пришел сюда, чтобы стать БОГОМ! ТЫ хочешь убить МЕНЯ и захватить управление Олимпом! ТЫ РАЗРУШИШЬ ВСЕ, ЕСЛИ НЕ ОСТАНОВИТЬ ТЕБЯ ПРЯМО СЕЙЧАС!}
-{71}{008}{Я не верю, твоя система построена на лжи, и я разрушу ее! Я буду управлять Олимпом во имя справедливости и правды!}
-{72}{998}{НЕТ! Это я тебя ОС-ТА-НОВ-ЛЮ! [броситься в атаку]}
+{70}{}{You are too primitive to understand how complicated the world is. Like every other puny human, you don't know what it takes to keep the mankind from dying out. Look what I turned myself into! I forfeited my humanity, bounding myself to the tower's systems. Why? Because this is what needs to be done to save the Radius... As I said, you are not able to understand. You fail to see that the real evil is the desire that brought you here. You want to kill me - and condemn the human race to die? You will ruin everything! So I need to stop you... Right now!}
+{71}{008}{I don't believe you. Your worldview is based on lies! And I'm going to bring you to justice!}
+{72}{998}{No! It is ME who will stop YOU! [attack]}
 
 #Node008
-{80}{}{Что есть правда, и что есть справедливость? Этот мир держится на лжи! Он гораздо сложнее, чем ты способен себе представить своим несовершенным мозгом. Ты готов разрушить остатки цивилизации и обречь людей на гибель во имя правды и справедливости? Подумай об этом трезво, перед тем, как умрешь, человечишка. [турели угрожающе загудели]}
-{81}{998}{[БОЙ]}
+{80}{}{What is lie, and what is justice? This world is fueled by lies, and it is much more complex than you can imagine with your tiny brain. Are you willing to destroy the remains of civilization and condemn humanity for the justice and truth? Think about it, before you die. [you hear the turrets humming]}
+{81}{998}{[attack]}
 
 #Node009
-{90}{}{ЭТО ты называешь комфортом? Я страдаю каждое мгновение за всех живущих! Это Я принимаю муки за то, чтобы дать шанс горстке людей выжить! Каждый из Андерсонов, управлявших Олимпом, рано или поздно понимал, что должен подключиться к системе и принести в жертву возможность быть обычным смертным, чтобы продолжать управлять Олимпом, ведь от этого зависит существование всего Радиуса! И ты, человек, смеешь МЕНЯ упрекать в эгоизме?}
-{91}{010}{Да, смею! Строишь из себя хранителя Радиуса, но ты слишком долго сидел в этой комнате. Олимп не центр мира!}
-{92}{998}{Тоже мне мученик, ты всего лишь жаждешь сохранить свою власть. Просто умри!}
-{93}{}{Нет, я не такой. Все Андерсоны, управляющие Олимпом, рано или поздно понимали, что они должны пожертвовать своими жизнями простых смертных ради управления башней. Но ты ничего не знаешь и НЕ ДОЛЖЕН знать, твое дело - умереть и оставить все на своих местах. Ты утомил меня, глупый человечишка. Время умирать.}
-{94}{998}{А вот и посмотрим, кто кого!}
+{90}{}{You don't know what it takes to be me. What things I've seen. What sacrifices I made. I've been witnessing the effect of my actions for years! The plans that were set in motions by my predeccessors! That's why I KNOW that what I do is right! And I'm even willing to suffer for it. Each Anderson before me knew that he had to sacrifice his humanity and bound himself to this tower just to fulfill his mission, his destiny. To make sure that the mankind will thrive. And each of us did it without hesitation. Yet you dare to accuse me of being selfish?}
+{91}{010}{Yes, I do! You make it look like you are the saviour of Radius - but you have been sitting here for too long. The Olympus is not the center of the whole world!}
+{92}{998}{Look at him, thinks he's the martyr. All you really want is to stay in power. Just die already!}
+{93}{}{No... Each Anderson before me knew that he had to sacrifice his humanity and bound himself to this tower just to fulfill his mission, his destiny. To make sure that the mankind will thrive. And each of us did it without hesitation. But you know nothing - and you shouldn't. You should only die to leave things as they are. I'm tired of you. Let's end this.}
+{94}{998}{We'll see about that!}
 
 #Node010
-{100}{}{Как мало ты знаешь о мире. Как жаль, мне казалось ты умнее тех других, кто приходил сюда до тебя. "Я - защитник мира! Умри, злобная тварь!" - каждый раз я слышу похожие слова. И никакой благодарности! Никогда никакой благодарности, никто не понимает. Я так устал...}
-{101}{011}{Благодарности? Ты эксплуатируешь людей, рассказывая сказки о своей роли в существовании Радиуса. Ты жалок!}
+{100}{}{You know so little. A pity. You seemed smarter than the others. "I'll save the world from you! Die, evil creature!" - every time it's the same... No one understands... No one is ever grateful. I'm so tired.}
+{101}{011}{Grateful? You are abusing your power to make people believe in tales about you being God! You are pathetic!}
 
 #Node011
-{110}{}{Ты даже не можешь понять, зачем все это... О НЕТ![провода вокруг Бога начинают искрить] Ты отвлек меня! Я не успел... НЕТ!... Я ДОЛЖЕН БЫЛ... УСПЕТЬ!... ОТВЛЕКАТЬСЯ НЕЛЬЗЯ!... НЕЕЕТ!...Р-Р-ГХ-Х-Х-Х... [провода раскалились до красна, глаза закатились, изо рта пошла пена] }
-{111}{999}{[наблюдать]}
+{110}{}{You don't... NO![the wires around him start to crackle] You distracted me! I didn't have the time... NO!! I SHOULD HAVE... MAKE IT!... NO DISTRACTION!! NOOOO!!! URGHGLGHHH... [he rolls eyes, froth is coming out of his mouth] }
+{111}{999}{[observe]}
 
 #Node012
-{120}{}{Да, были - выскочки, не желающие быть частью единого механизма и грозящие его разрушить. Узнав реальный мир, большинство оседает в метро и мечтает вновь вернуться в Тартар, но иногда НЕКОТОРЫЕ пробираются сюда. И говорят что-то вроде: "Я - защитник мира! Умри, злобная тварь!". Бездумные, глупые, наивные человеческие оболочки, неспособные понять, ЧТО ИМЕННО ими движет... Этот мир нельзя постичь примитивным человеческим мозгом. И я уничтожаю выскочек, пока они не разрушили все из-за своей глупости и эгоизма. И для тебя пришло время разделить их участь, прощай, человечишка!}
-{121}{998}{Нет, ты не Бог, а просто человек! И это ТВОЕ время пришло!}
+{120}{}{There are always some insolent fools, who don't want to fulfill their purpose, don't want to be a part of the mechanism. Some of them are venturing to the world outside - and end up dreaming about going back to the Tartarus, spending their lives in Metro Station, or nearby settlements... But there are always others who obsessed with a desire to change the way of things. And sometimes they come to me. They say "I'll save the world from you! Die, evil creature!". Stupid, soulless, empty humans... They fail to comprehend the complex nature of the world. And I destroy them before they do any damage with all their stupidity and insolence. It's time for you to join them. Adieu, puny human.}
+{121}{998}{You are wrong! And your time has come!}

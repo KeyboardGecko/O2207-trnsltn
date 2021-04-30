@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: man.}
-{2}{}{You see: labourer.}
-{3}{}{You see: male.}
-{4}{}{You see: street rat.}
-{5}{}{You see: local.}
+{1}{}{You see a man.}
+{2}{}{You see a labourer.}
+{3}{}{You see a male.}
+{4}{}{You see a street rat.}
+{5}{}{You see a local.}
 {6}{}{He looks very so-so.}
 {7}{}{Looks like he hasn't eaten in a long time...}
 {8}{}{He looks very exhausted.}
@@ -64,7 +64,7 @@
 {1014}{}{I really have no time to talk to you right now.}
 {1015}{}{Don't bother me, let me rest.}
 {1016}{}{What else do you want?}
-{1017}{}{...This work will never end...}
+{1017}{}{...This work never ends...}
 {1018}{}{You'd better help than to bother me.}
 {1019}{}{No. I'm busy!}
 # Отрицательные сообщения
@@ -76,7 +76,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спящие сообщения
 {1030}{}{::Zzzzz...::}

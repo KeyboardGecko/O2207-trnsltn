@@ -1,6 +1,6 @@
 ##############################
-#Локация: ЛАЙВОС
-#Имя: Бостон МакКинзи
+#Локация: Livos
+#Имя: Boston McKinsey
 #Краткое описание: 
 #Дата создания: 23.08.2014
 ##############################
@@ -11,277 +11,173 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: полноватый, оплывший ковбой.}
-{2}{}{Его сальные глазки снисходительно и с прищуром смотрят на окружающих.}
+{1}{}{You see a chunky, plumb cowboy.}
+{2}{}{His greasy squinted eyes patronizingly gaze at everyone around.}
 #
 # после знакомства
-{3}{}{Вы видите: Бостон МакКинзи.}
-{4}{}{В залихватских сапогах со шпорами он выглядит очень колоритно.}
+{3}{}{You see Boston McKinsey.}
+{4}{}{Wearing dashing spurred boots, he looks very vivid.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами тучный мужчина с красным лицом, его глаза постоянно бегают] Ба! Кто это к нам пришел? Да это же новенький! Эй, смотрите, он здесь! Давай знакомиться, новичок-червячок! Ха-ха-ха! Да я шучу! Иди сюда, обними старого Бостона МакКинзи! [Он расставил свои ручищи и хочет Вас обнять]}
-{11}{002}{[Вы отходите на несколько шагов] Рад знакомству. Не надо объятий. Я хочу просто поговорить}
-{12}{003}{[Вы немного отстраняетесь и пожимаете ему руку] Рад знакомству. Я хочу узнать кое-что.}
-{13}{004}{[Вы пытаетесь его обнять, но длины Ваших рук не хватает из-за огромного живота Бостона] Здоров, Бостон! Я тоже рад тебя видеть!}
+{10}{}{[You see an obese man with a red face and shifty eyes] Whoa! Who's that? That's someone new! Hey, look, he's here! Let's get acquaintained, newbie-doobie! Hahahah, I'm kidding! Come here, give a little hug to old Boston McKinsey! [He spreads his fat arms trying to hug you]}
+{11}{002}{[You take a few steps back] Pleased to meet you. No need for hugging. I just want to ask a few questions.}
+{12}{003}{[You lean back a little and shake his hand] Glad to meet you. I want to know something.}
+{13}{004}{[You are trying to hug him back, but lack the length of hands, because of Boston's huge belly] Howdy, Boston! I'm glad to see you too!}
+
+{20}{}{[He disappointedly puts his arms down] How impolite! So rude! He is met with an open arms - and turns his nose up! Man! You must be another bore, who's afraid of his own shadow.}
+{21}{005}{I just don't like hugging strangers.}
+{22}{006}{Yes, I'm trying to keep a low profile.}
+{23}{004}{You got it all wrong, I was just taking some acceleration for a good hug!}
+
+{30}{}{[He looks a little disappointed] Man, how official! So sour and boring! It is not a trade deal, it's the greeting of new inhabitant of Livos!}
+{31}{005}{I don't know you too well to hug.}
+{32}{006}{I want to talk business.}
+{33}{004}{Hugs - only after official introduction. Which was just now!!}
+
+{40}{}{[Boston explodes with loud laugh] HAAHAhahahahuehue!! Man, you are quite alright! It's gonna be a lot more fun around here! Because for now it's kinda stale, but we'll show them! Hahahahah!!}
+{41}{010}{Of course we will! And now I want to ask something.}
+{42}{999}{Okay, Boston, I have no time for now, let's talk later.}
+
+{50}{}{[Boston wrinkles] Man, so touchy! Boo-hoo! What do you want, your highness?}
+{51}{010}{I want to ask a few questions.}
+{52}{999}{Nothing for now. Let's talk later.}
+
+{60}{}{[Boston playfully stands still, clicking heels, taking a serious look] What would you like, mr. Boring Person? }
+{61}{010}{I want to ask a few questions.}
+{62}{999}{Nothing for now. Let's talk later.}
+
+{1001}{}{Who is this I see! It's our new patron! Came to talk to good old Boston?}
+{1002}{}{Ask your questions to me, but don't put nose everywhere you see! Hahahaha! }
+{1003}{}{Who is that I see! Hello there! Came again to talk to good old Boston?}
+{101}{024}{I want to know more about this place.}
+{102}{013}{Do you know what I can do around here?}
+{103}{014}{What are you busy with here?}
+{104}{011}{Did you see Ludwig's book of wave science?}
+{105}{029}{I want to talk about Claudia.}
+{106}{041}{I've talked to Seth and Matt from NWO. They want to know with whom from Livos to forge alliance.}
+{107}{999}{Let's talk later, I need to go.}
+
+{110}{}{A book of waste science? Hahahaha! Books? Books are boring! Let this eggheads read their books, I wouldn't buy that for a battery! Who needs it?}
+{111}{012}{Would you know who might take it?}
+
+{120}{}{No idea! This bore Ashton Horton is always digging through some books. My daughter Fox is also reading some magazines. And there's Ludwig himself. He probably put it somewhere and forgot where.}
+{121}{010}{Let's talk about something else then.}
+{122}{999}{Okay, I'll go look in other places.}
+
+{130}{}{We have a lot of work, sure! There, you can go clean the toilets. Hahaha! Just kidding, I have no job for you, I handle mine just fine. Ask someone else.}
+{131}{014}{And what's your job?}
+{132}{010}{I want to ask something else.}
+
+{140}{}{[Boston takes a proud look] I am the head of McKinseys, the most important family in Livos! And my job is to run the whole thing! My speeches on meetings have a tremendous influence. Sometimes even leading to a fights. [he suddenly stops talking] Uhh... Also, I watch over my son, Dallas. He is busy with supplying water to other settlements.}
+{141}{015}{There was a problem in NWO with your last batch of water. It has some confusing flavor. Can you tell me why?}
+{142}{026}{Fights? Tell me more.}
+{143}{016}{What else can you tell me about McKinsey family?}
+{144}{025}{What are the other families in Livos busy with?}
+
+{150}{}{[Boston thinks] Hrm... I don't know what's wrong with the water. I don't poke into this kind of things, really. Dallas deals with it himself. }
+{151}{999}{Okay, I'll go ask him.}
+{152}{010}{I'll talk to him later, and now I want to ask you something else.}
+
+{160}{}{The McKinsey family is the heart of Livos! We are responsible for the most valuable thing there is - clean water! I can destroy unfriendly town just with stopping the shipments of our water to it! And then burn their dried corpses, hahaha! So, you see that McKinseys are the most important in Livos.}
+{161}{017}{What can you tell me about other McKinseys?}
+{162}{010}{I want to ask about something else.}
+
+{170}{}{My son Dallas, is responsible for water dealings. He is a little boring, but he knows his stuff. Although he is so bad at having fun! Stands silently at the meetings, so I have to carry it for all McKinseys there! My wife Abilene is always clucking with Emily Dunton, playing cards all day. [Boston makes a deep sigh] And there's my daughter Fox... Oh man, so many problems with her...}
+{171}{018}{What kind of problems?}
+{172}{010}{I see. Let's change the subject.}
+{173}{025}{What can you tell me about other families in Livos?}
+
+{1801}{}{[Boston suddenly flips out] That is not your business! I can deal with the problems of our family myself, hear me?}
+{1802}{}{[Boston suddenly flips out] This little brat has no brains at all! Imagine that, she wants to marry her own brother! Where did she even get this from? Me and my sister are categorically against such marriage!}
+{181}{010}{Okay, calm down. I want to ask something else.}
+{182}{022}{Your sister? You didn't mention that you have a sister.}
+{183}{021}{Who should become her husband then?}
+{184}{019}{If they love each other, why not to let them marry?}
+{185}{999}{Easy there. We'll talk later.}
+
+{190}{}{[Boston start shouting, flailing hands] What?! You too? I will never let that happen! This is ridiculous! One more word and I won't be responsible for my actions!}
+{191}{020}{Just let them marry! And kiss, and hug each other, and sle...}
+{192}{010}{Easy, calm down. Let's change the subject while it hasn't gone too far.}
+{193}{999}{Looks like you're on edge. I'll come by later, when you calm down.}
+
+{200}{}{That's it, I'm sick of it! Come here, I'm gonna screw off this stupid head of yours!}
+{201}{998}{Uh, wait!..}
+
+{210}{}{Cristopher Schwein! Or someone from a dozen people in the trading quarters! Oh, I know! You are not married, are you? Go talk to her! We'll marry you in a moment!}
+{211}{010}{Uh... Actually, I have a- ...Let's talk about something else.}
+{212}{999}{I need to go. Very urgent.}
+
+{220}{}{I mean Abilene! She is my wife - and also my sister! We were together forever, that's why she is the one for me! And she fully supports me in this matter! Fox should forget about Dallas!}
+{221}{023}{Wait a second. You are married on your sister. And you are against Fox marrying her brother?}
+
+{230}{}{Of course I am! What's not to understand here? Where'd she get an idea like that?! Unthinkable!}
+{231}{010}{Ahem... Let's talk about something else.}
+{232}{999}{Yeah. You figure this out and I'll go.}
+
+{2401}{}{Patron, you are not yourself lately, aren't you? Didn't you already study Livos? The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
+{2402}{}{Livos is the best! Here gathered the best people of Radius! You already noticed that! The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
+{241}{025}{And what are they all doing here?}
+
+{250}{}{[Boston looks disgusted] This boring pencil-pusher Ludwig Schwein digs through his cogs, his boring son Christopher deals with boring tradings at the entrance, boring old man Edward boringly sits his pants in the surveillance room. Ashton Horton, that pompous boring fool, turns screws. And boring Emily Dunton is busy only with interfering the others on meetings! [His smile becomes sad] Livos is a swamp, Livos is full of dumbs! Hahahaha!}
+{251}{010}{I see. I have other question.}
 
+{260}{}{[Boston becomes very nervous, turning his eyes away from you] It's nothing... There was one case... I mean, there was this accident!! [he inadvertedly starts shouting] It's all their fault! They purposefully angered me! Poor Peter Horton, they threw him on me!}
+{261}{027}{Who? Peter Horton?}
 
+{270}{}{[He starts frantically fumbling his clothes] Peter... Claudia's husband... We had an argument on a meeting, about inverting third and fourth paragraphs of the Constitution of 15 right. It is obvious that to wander around the territory is more important than to emit gases! Emily Dunton is also fanned the fire a little with her words, so I couldn't stand it and pushed Peter. He badly fell, hitting his head...}
+{271}{028}{And? What happened next?}
 
+{2801}{}{[Boston starts to whine] He died! Can you imagine? Died! Poor Peter... And his wife, Claudia, is dead too. I hope they found each other after death... [he turns away from you. Looks like he doesn't want to talk anymore.]}
+{2802}{}{[Boston starts to whine] He died! Can you imagine? Died! Poor Peter... Claudia, his wife, is following me now, harassing me all the time. She is driving me crazy! [he starts shouting again] My god!! I didn't want to kill him! We were just arguing! Why won't she leave me alone?! [he turns away from you. Looks like he doesn't want to talk anymore.]}
+{2803}{}{[Boston starts to whine] He died! Can you imagine? Died! Poor Peter... Claudia, his wife, used to harass me all the time. But now she forgave me.}
+{281}{040}{Boston, let me handle your conflict with Claudia.}
+{282}{999}{Such a sad story. Let's talk later.}
 
-{20}{}{[Он разочаровано развел руками] Ой, как не вежливо! Как не вежливо! Его встречают с распростертыми объятиями, а  он нос воротит! Ай-яй-яй! Ты, наверное, очередной зануда, который боится собственной тени.}
-{21}{005}{Нет, я просто не люблю обниматься с незнакомцами.}
-{22}{006}{Да, я стараюсь не высовываться лишний раз.}
-{23}{004}{Ты не так меня понял, я брал разгон для крепких объятий!}
+{290}{}{Yes? Did you manage to handle the conflict with Claudia? Would she stop harassing me?}
+{291}{030}{She won't harass you. At all. She had an accident happening to her.}
+{292}{031}{I talked Claudia into living you alone.}
+{293}{032}{I talked Emily into arranging a commemorative evening dedicated to Peter. Claudia will be happy and should stop bothering you.}
+{294}{033}{What if you just apologize to her?}
+{295}{035}{I have an idea...}
+{296}{010}{No, I'm still thinking about it. I wanted to ask something else.}
+{297}{036}{I told Claudia that I avenged Peter's death. She should be calmer now.}
 
+{300}{}{[Boston becomes pale] Oh god, what happened to her? [suddenly he smiles] But she went so crazy lately... So it's even better! Here, take it! You deserved it! [he hands you a custom-made "Slugger" pistol]}
+{301}{999}{She is with her husband now... Bye, Boston.}
+{302}{}{Yeah, sure [Boston smiles] She's alright now, I guess? But, about your reward - sorry, but someone already took my "Slugger" off me. [he squints and suspiciously looks at you] I wanted to give it to you, but you're not mad at me, right? Thanks for taking care of the problem with Claudia.}
 
+{310}{}{[Boston gets visibly happier] Man, you are so good! So good! Here, take this, you deserved it! [He hands you a custom-made "Slugger" pistol]}
+{311}{999}{Now she'll calm down. Bye, Boston.}
 
+{320}{}{[Boston gets visibly happier] Man, you are so good! So good! Here, take this, you deserved it! [He hands you a custom-made "Slugger" pistol]}
+{321}{999}{Now she'll calm down. Bye, Boston.}
 
-{30}{}{[Он немного разочаровался] Ба, как официально! Как кисло и нудно! Это же не торговая сделка, а приветствие нового жителя Лайвос!}
-{31}{005}{Я не так хорошо тебя знаю, чтобы обниматься.}
-{32}{006}{Я хочу поговорить по делу.}
-{33}{004}{Объятия - только после официального знакомства. То есть прямо сейчас!}
+{330}{}{What? I have nothing to apologize for! It was not my fault! I won't apologize! What are you even saying?}
+{331}{034}{It's the only way to get rid of her. You are one of the smartest people in Livos! Just pretend that you're sorry, she'll believe it! No one else would be able to deceive her like that! }
+{332}{999}{Okay, let's find another way...}
 
+{340}{}{Hah, that's for sure! I can deceive her! Okay, I'll go talk to her. I'll pretend that I am very sorry about Peter. And she's gonna believe it! You are cunning, aren't you? And helpful [he winks] Here, take this, a little reward from me! [He hands you a custom-made "Slugger" pistol]}
+{341}{999}{Now she'll calm down. Bye, Boston.}
 
+{350}{}{Yeah? Which idea?}
+{351}{037}{I'm going to beat you up and tell her I avenged Peter. And she will leave you alone.}
 
+{360}{}{[Boston touches his bruises] Good that it's not for nothing. Hah, she will definitely stop following me! Here, take this, a little reward! [He hands you a custom-made "Slugger" pistol]}
+{361}{999}{Now she'll calm down. Bye, Boston.}
 
-{40}{}{[Бостон громко захохотал] Га-га-га! Да ты, парниша, то, что надо! Теперь намного веселее будет! Здесь же скукота смертная, теперь мы зададим всем жару! Ха-ха-ха!}
-{41}{010}{Конечно! А теперь я хочу спросить.}
-{42}{999}{Ладно, Бостон, у меня сейчас нет времени. Позже поговорим.}
+{370}{}{What?!I won't let you beat me up! Are out of your mind?}
+{371}{038}{Listen, a couple of scratches is a small payment for your peace of mind. I will hit accurately, but hard, so it would look real.}
+{372}{999}{Okay, let's find another way...}
 
+{380}{}{Uh... Okay, I'll endure it! Come on, hit me!}
+{381}{999}{[You swing your fist...]}
 
+{390}{}{[Boston holds his head] Ow, that hurts! Careful! Ow!}
+{391}{999}{Done. Now I'll go to Claudia and tell her I avenged Peter. She will leave you alone after that.}
 
+{400}{}{[Boston swiftly turns to you. There's hope in his eyes] Really? You will? That's wonderful! I'll do everything you say! Hell, I'm going to give you my gun, if you'll pull it through! Do everything you have to, but make this freaking psycho leave me alone!}
+{401}{999}{Okay, I'll think about what can be done.}
 
-{50}{}{[Бостон скривился] Ба, какие мы недотроги! Ой-ой-ой! И что же Ваше Величество желает?}
-{51}{010}{Я хочу задать пару вопросов.}
-{52}{999}{Сейчас ничего. Давай потом поговорим.}
-
-
-
-
-{60}{}{[Бостон показательно становится по стойке "смирно" и делает серьезное выражение лица] И что Вам будет угодно, Мистер Зануда? }
-{61}{010}{Я хочу задать пару вопросов.}
-{62}{999}{Сейчас ничего. Давай потом поговорим.}
-
-
-
-{1001}{}{Кого я вижу! Да это же наш новый патрон! Пришел поговорить со стариной Бостоном?}
-{1002}{}{Задавай мне свой вопрос, но не суй везде свой нос! Ха-ха-ха! }
-{1003}{}{Кого я вижу! Здоров! Снова пришел поговорить со стариной Бостоном?}
-{101}{024}{Я хочу узнать об этом месте больше.}
-{102}{013}{Есть ли здесь какая-нибудь работа?}
-{103}{014}{Чем ты здесь занимаешься?}
-{104}{011}{Ты видел где-нибудь учебник по волнологии Людвига?}
-{105}{029}{Я хочу поговорить на счет Клаудии.}
-{106}{041}{Я в НМП встретил Сэта и Мэта. Они хотят знать, с кем Лайвос заключит союз.}
-{107}{999}{Давай позже поговорим, мне надо идти.}
-
-
-
-
-{110}{}{Учебник по говнологии? Ха-ха-ха! Да какие учебники! Это же скучно! Пусть яйцеголовые читают свои книги, а я и за даром учебник не возьму! Да кому он нужен!}
-{111}{012}{Может, ты знаешь, кто мог взять?}
-
-
-
-
-{120}{}{Понятия не имею! Этот зануда Эштон Хортон с какими-то книгами возится постоянно, и дочка моя, Фокс, цветные журналы часто листает. А так все книги у Людвига. Наверняка старый болван положил куда-то и забыл.}
-{121}{010}{Тогда поговорим о другом.}
-{122}{999}{Ладно, пойду поищу в другом месте.}
-
-
-
-
-{130}{}{Работы здесь полно! Вон, можешь унитазы почистить. Ха-ха-ха! Шучу! У меня для тебя нет работы, я сам справляюсь. Спроси у кого-нибудь еще.}
-{131}{014}{А что за работа у тебя?}
-{132}{010}{Хочу о другом спросить.}
-
-
-
-
-{140}{}{[Бостон важно надулся] Я - глава семьи МакКинзи, самой главной семьи Лайвос! И работа моя - управлять здесь всем! Мои выступления на собраниях имеют огромную важность. Иногда и до драк доходит! [Бостон резко осекся] Э-э-э... И вообще, я слежу за своим сыном Далласом. Он занимается отправкой воды в другие поселения.}
-{141}{015}{В НМП есть проблема с последней партией воды. Она имеет непонятный привкус. Можешь рассказать, из-за чего?}
-{142}{026}{Драки? Что произошло?}
-{143}{016}{Что ты можешь еще рассказать о семье МакКинзи?}
-{144}{025}{Чем занимаются другие семьи в Лайвос?}
-
-
-
-
-{150}{}{[Бостон задумался] Хм... Я не знаю, что случилось с водой. Да и вообще, я особо не лезу в эти дела. Даллас сам этим всем занимается. }
-{151}{999}{Хорошо, пойду у Далласа спрошу.}
-{152}{010}{Я потом у него узнаю, а пока хочу еще спросить.}
-
-
-
-
-{160}{}{Семья МакКинзи - это сердце Лайвос! Мы отвечаем за самое ценное в этом мире - за чистую воду! Я могу уничтожить вражеский город, просто прекратив поставки воды! А потом сжечь их высохшие трупы! Ха-ха-ха! Так что МакКинзи - самые важные в Лайвос.}
-{161}{017}{Что ты можешь рассказать о других МакКинзи?}
-{162}{010}{Я хочу узнать о чем-нибудь другом.}
-
-
-
-
-{170}{}{Даллас, мой сын, руководит отправкой воды в другие поселения. Слегка нудноват, но дело знает. Но веселиться совсем не умеет! Стоит в стороне, молчит на собраниях. И мне приходится за всех МакКинзи выступать! Моя жена Абилин вечно кудахчет с Эмили Дантон и целыми днями играет в карты. [Бостон глубоко вздохнул] И моя дочка, Фокс... Эх, сколько с ней проблем...}
-{171}{018}{Какие проблемы у тебя с дочкой?}
-{172}{010}{Ясно. Давай сменим тему.}
-{173}{025}{Что ты можешь рассказать о других семьях Лайвос?}
-
-
-
-
-{1801}{}{[Бостон резко взорвался] Это не твое дело! Я сам решу проблемы нашей семьи, ты понял?}
-{1802}{}{[Бостон резко взорвался] Да эта малолетняя дурочка совсем мозгов не имеет! Представляешь - она хочет выйти замуж за собственного брата! И откуда у нее только такие мысли могли взяться? Мы с сестрой категорически против такого брака!}
-{181}{010}{Окей, успокойся. Я о другом хочу узнать.}
-{182}{022}{С сестрой? Ты не упоминал, что у тебя есть сестра.}
-{183}{021}{Кого тогда ей выбрать в мужья?}
-{184}{019}{Но если они любят друг друга, то почему бы им не пожениться?}
-{185}{999}{Ладно, спокойно. Я позже с тобой поговорю.}
-
-
-
-{190}{}{[Бостон начал кричать и махать руками] Что? И ты туда же? Я никогда этого не допущу! Это нелепо! Еще одно слово, и я не смогу за себя отвечать!}
-{191}{020}{Да, точно, пусть они поженятся! И будут обниматься, и целоваться, и спа...}
-{192}{010}{Тише, успокойся. Давай сменим тему, пока все не зашло слишком далеко.}
-{193}{999}{Похоже, ты на взводе. Я позже зайду, когда ты успокоишься.}
-
-
-
-
-{200}{}{Ты достал меня, придурок! Иди сюда! Я тебе сейчас твою тупую башку оторву!}
-{201}{998}{Эй, стой, подожди...}
-
-
-
-
-{210}{}{Кристофера Швайна или кто-нибудь снаружи! Мы легко найдем ей мужа из десятков людей, посещающих торговую палату! О, слушай, а ты же не женат? Иди и поговори с ней! Мы быстренько свадьбу сыграем!}
-{211}{010}{Э-э-э... У меня уже есть на примете одна... Давай пока о другом поговорим.}
-{212}{999}{Ой, на самом деле мне срочно надо идти...}
-
-
-
-
-{220}{}{Так Абилин моя сестра и моя жена! Мы всю жизнь вместе, потому что она была создана для меня! И она меня полностью поддерживает в том, чтобы Фокс из головы выкинула Далласа!}
-{221}{023}{Подожди, ты женат на своей сестре и выступаешь против того, чтобы Фокс женилась на брате?}
-
-
-
-{230}{}{Конечно я против! Что тут непонятного? Как ей только такое могло в голову прийти! Немыслимо!}
-{231}{010}{Хм... Что-то я захотел поговорить про другие вещи.}
-{232}{999}{Да уж, разбирайтесь сами со всем этим, я пойду.}
-
-
-
-{2401}{}{Патрон, ты опять не в себе, а? Или ты еще не изучил Лайвос? Здесь живут мы, МакКинзи, Швайны, Хортоны и Дантоны. [Бостон широко улыбнулся] Но кроме МакКинзи - все остальные полные придурки! Ха-ха-ха! }
-{2402}{}{Лайвос - лучшее место для жизни! Здесь живут самые лучшие люди Радиуса! Ты и сам в этом уже убедился! Здесь живут мы, МакКинзи, Швайны, Хортоны и Дантоны. [Бостон широко улыбнулся] Но кроме МакКинзи - все остальные полные придурки! Ха-ха-ха! }
-{241}{025}{Чем же они занимаются?}
-
-
-
-
-{250}{}{[Бостон скривился от отвращения] Зануда Людвиг Швайн марает бумажки и копается в шестеренках, его сынок Кристофер от скуки торгует на входе, старик Эдуард просиживает штаны в комнате слежения. Эштон Хортон, напыщенный дурак, крутит гайки. А Эмили Дантон только и делает, что мешает всем проводить собрания! [На лице появилась кривая усмешка] Лайвос - полное болото, Лайвос полон идиотов! Ха-ха-ха!}
-{251}{010}{Понятно. Хочу задать другой вопрос.}
-
-
-
-
-{260}{}{[Бостон сильно занервничал и начал уводить взгляд в сторону] Да ничего... Был один случай... То есть был один несчастный случай! [Он резко перешел на крик] Это все они виноваты! Они специально разозлили меня! Бедный Питер Хортон, они его натравили на меня!}
-{261}{027}{Какой Питер Хортон?}
-
-
-
-
-{270}{}{[Он взволнованно теребит край одежды] Питер... Муж Клаудии... На собрании мы с ним спорили, нужно ли менять местами 3-ий и 4-ый пункты конституции 15-ти прав. Очевидно же, что право бродить по территории гораздо важнее права испускать кишечные газы! Эмили Дантон тогда еще масло в огонь своими словами подлила, я не выдержал и толкнул Питера. Он неудачно упал и стукнулся головой...}
-{271}{028}{И что случилось?}
-
-
-{2801}{}{[Бостон начал всхлипывать] Он умер! Представляешь - умер! Бедняга Питер... И его жена Клаудия тоже мертва. Надеюсь, они нашли друг друга после смерти... [Он отвернулся в сторону, не желая дальше разговаривать]}
-{2802}{}{[Бостон начал всхлипывать] Он умер! Представляешь - умер! Бедняга Питер... Клаудия, его жена, теперь постоянно за мной следит и лезет во все мои дела. Она уже меня с ума сводит! [Он снова перешел на крик] Боже! Я же не хотел его убивать! Мы просто спорили! Когда же Клаудия от меня отстанет! [Он отвернулся в сторону, не желая дальше разговаривать]}
-{2803}{}{[Бостон начал всхлипывать] Он умер! Представляешь - умер! Бедняга Питер... Клаудия, его жена, раньше постоянно меня доставала. А теперь она меня простила.}
-{281}{040}{Бостон, давай я улажу твой конфликт с Клаудией.}
-{282}{999}{Печальная история. Давай потом поговорим.}
-
-
-
-
-
-
-
-
-
-{290}{}{Да? Ты уладил дело с Клаудией? Она не будет меня больше доставать?}
-{291}{030}{Она точно не будет тебя доставать. С ней недавно произошел несчастный случай.}
-{292}{031}{Я уговорил Клаудию, чтобы она от тебя отстала.}
-{293}{032}{Я уговорил Эмили, чтобы она провела собрание в честь Питера. Клаудия будет рада и перестанет тебе надоедать.}
-{294}{033}{А что, если ты просто извинишься перед ней?}
-{295}{035}{Я придумал кое-что...}
-{296}{010}{Нет, я пока еще думаю, как это сделать. Я хотел о другом узнать.}
-{297}{036}{Я сказал Клаудии, что отомстил за Питера. Она теперь успокоится.}
-
-
-{300}{}{[Бостон побледнел] Боже, что же с ней случилось?.. [Потом сразу повеселел] Хотя, она и так умом поехала, так будет даже лучше! На, держи, заслужил! [он передает Вам резной пистолет марки "Слюгер"]}
-{301}{999}{Теперь она со своим мужем... Пока, Бостон.}
-{302}{}{Ну да, конечно [Бостон улыбнулся] Теперь она в порядке, а? Но, насчет твоей награды - ты уж извини, но "слюгер", который я тебе хотел вручить, кто-то у меня прихватил... [щурится на Вас] Но ты же не в обиде на меня, так? Спасибо, что избавил меня от проблем с Клаудией.}
-
-
-{310}{}{[Бостон сразу повеселел] Ба, да ты молодец! Очень хорошо! На, держи, заслужил! [он передает Вам резной пистолет марки "Слюгер"]}
-{311}{999}{Теперь она успокоится. Пока, Бостон.}
-
-
-
-
-{320}{}{[Бостон сразу повеселел] Ба, да ты молодец! Очень хорошо! На, держи, заслужил! [он передает Вам резной пистолет марки "Слюгер"]}
-{321}{999}{Теперь она успокоится. Пока, Бостон.}
-
-
-
-
-{330}{}{Что? Я не виноват! Я не буду извиняться перед ней! Что за вздор ты несешь!}
-{331}{034}{Это единственный выход, чтобы она отцепилась. Ты же один из самых умных людей в Лайвос! Притворись, что сожалеешь, и она поверит! Только ты сможешь так тонко ее обмануть, никому другому я бы и не предлагал! }
-{332}{999}{Ладно, поищем другой способ...}
-
-
-
-
-{340}{}{Ха, точно, я смогу ее провести! Я схожу и извинюсь перед ней. Я прикинусь, что очень переживаю из-за Питера. И она точно поверит! Хитрые мысли вертятся у тебя в голове, а? И полезные [подмигивает] На, держи свою награду! [он передает Вам резной пистолет марки "Слюгер"]}
-{341}{999}{Теперь она успокоится. Пока, Бостон.}
-
-
-
-
-{350}{}{Да? Что же ты придумал?}
-{351}{037}{Я тебя изобью, и скажу, что отомстил за Питера. И она отстанет.}
-
-
-
-
-{360}{}{[Бостон потирает ушибы и синяки] Хорошо, хоть не зря по морде получил. Ха, она теперь отстанет! На, держи. [он передает Вам резной пистолет марки "Слюгер"]}
-{361}{999}{Теперь она успокоится. Пока, Бостон.}
-
-
-
-{370}{}{Что? Я не собираюсь позволять себя бить! Ты в своем уме?}
-{371}{038}{Послушай, пара синяков - это небольшая плата за твое спокойствие. Я буду аккуратно бить, но сильно, чтобы было похоже на правду.}
-{372}{999}{Ладно, поищем другой способ...}
-
-
-
-{380}{}{Э-э-э... Ладно, я потерплю... Давай, бей!}
-{381}{999}{[Вы замахиваетесь для удара]}
-
-
-
-
-{390}{}{[Бостон держится за голову] Ай, больно! Аккуратней! Ай!}
-{391}{999}{Все готово. Теперь я пойду к Клаудии, и скажу, что отомстил за Питера. Когда она увидит, что Питер отомщен, она отстанет.}
-
-
-
-
-{400}{}{[Бостон быстро повернулся. В его глазах загорелась надежда] Правда? Ты попробуешь все уладить? [Он моментально повеселел] Это превосходно! Я сделаю все, что скажешь! Я отдам тебе свою пушку, если ты это сделаешь! Сделай все, что угодно, чтобы эта психопатка меня не доставала!}
-{401}{999}{Хорошо, я подумаю, что можно сделать,}
-
-
-
-
-{410}{}{Пускай они заключают союз друг с другом! По очереди один одного! Ха-ха-ха! Я ничего не слышал об этих жалких уродах и о союзе. Можешь передать, что мне плевать на них. Может, другая семья хочет с ними что-нибудь заключить.}
-{411}{010}{Хорошо, узнаю у других насчет союза.}
+{410}{}{So let them forge alliance with each other! They can even take turns! Hahahaha! I've never heard about this pathetic weaklings. You can tell them that I don't care. Maybe some other family might want to deal with them, but not mine.}
+{411}{010}{Okay, I'll ask others.}

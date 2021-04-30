@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: мужчина.}
-{2}{}{Вы видите: джентльмен.}
-{3}{}{Вы видите: пожилой мужчина.}
-{4}{}{Вы видите: житель убежища.}
-{5}{}{Вы видите: житель Лайвос.}
-{6}{}{Пожилой мужчина в старом, замызганном костюме.}
-{7}{}{Выражение его бледного лица говорит о том, что все люди смертны. Кроме него, конечно же.}
-{8}{}{Если бы он не шевелился время от времени, то походил бы статую - такой же бледный и холодный у него вид.}
-{9}{}{Каждое его движении как бы говорит: "Я от природы значимее всех прочих в этом мире"}
+{1}{}{You see a man.}
+{2}{}{You see a gentleman.}
+{3}{}{You see an old gentleman.}
+{4}{}{you see a vault dweller.}
+{5}{}{You see an inhabitant of Livos.}
+{6}{}{Old man, wearing an old, battered suit.}
+{7}{}{The expression on his pale face clearly says that everyone is mortal. Except him, of course.}
+{8}{}{If he wouldn't move from time to time, he could easily be mistaken for a statue - just as pale and cold.}
+{9}{}{His every move says "I'm more important that anyone else in this world".}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,43 +46,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Здравствуй, достопочтенный!}
-{1001}{}{Доброго дня!}
-{1002}{}{Ох, молодой человек, так приятно видеть вас тут!}
-{1003}{}{Да-да, я тоже рад тебя видеть.}
-{1004}{}{Отличная сегодня погодка, не находите, юноша?}
-{1005}{}{Ох-ох-ох, какой милый юноша!}
-{1006}{}{Будь я немного моложе - мы бы обязательно с тобой развлеклись.}
-{1007}{}{Дорогой друг, обращайся в любое время.}
-{1008}{}{Посмотрите только кто здесь!}
-{1009}{}{Может встретимся вечерком за бутылочкой конячка?}
+{1000}{}{Hello, gentleman!}
+{1001}{}{Good day to you!}
+{1002}{}{It is a delight to see you here, young man!}
+{1003}{}{Yes, I'm glad to see you too.}
+{1004}{}{A fine weather today, don't you think?}
+{1005}{}{Oh, such a nice young man!}
+{1006}{}{If I were younger, we could have some fun together.}
+{1007}{}{My dear friend, ask me anytime!}
+{1008}{}{Look who's here!}
+{1009}{}{Maybe we could meet tonight over a bottle of cognac?}
 # Нейтральные сообщения
-{1010}{}{Молодой человек, не мешайтесь, пожалуйста.}
-{1011}{}{А Вы, позвольте узнать, чьего рода будете?}
-{1012}{}{Найди себе какое-нибудь занятие, юноша.}
-{1013}{}{Вы отвлекаете меня своим присутствием.}
-{1014}{}{Н-н-нет, мне очевидно не до Ваших мелких проблем.}
-{1015}{}{Уважаемый, извольте болтаться в другом месте.}
-{1016}{}{Я не вижу на Вас фамильного родимого пятна, молодой человек.}
-{1017}{}{Ах-ха-ха, даже не помышляйте об этом!}
-{1018}{}{Просто отойдите от меня на почтенное расстояние.}
-{1019}{}{Я занят. Проваливай.}
+{1010}{}{Young man, do not bother me, be so kind.}
+{1011}{}{Let me kindly ask, what family are you belong to?}
+{1012}{}{Find yourself something to do, young man.}
+{1013}{}{You are distracting me with your presence.}
+{1014}{}{N-no, I have nothing to do with your petty problems.}
+{1015}{}{My dear, be kind to hang out somewhere else.}
+{1016}{}{I can't see a family birth mark on you, young man.}
+{1017}{}{Ahahah, don't even think about it!}
+{1018}{}{Just step away from me to a venerable distance.}
+{1019}{}{I'm busy. Go away.}
 # Отрицательные сообщения
-{1020}{}{Оооох, как бы я тебе врезал!}
-{1021}{}{Я тебя ненавижу, сопляк!}
-{1022}{}{Да как ты смеешь!?..}
-{1023}{}{Одним своим присутствием ты поганишь мою жизнь!}
-{1024}{}{Ах ты поганая отрыжка мерзких тварей!}
-{1025}{}{Я бы с удовольствием вырвал тебе ногти, один за другим.}
-{1026}{}{Просто умри, избавь этот мир от своего присутствия.}
-{1027}{}{Как же ты жалок! И мерзок. Высерыш!}
-{1028}{}{Ты - поганый прыщ на заднице болотной твари!}
-{1029}{}{Мразь! Тварь! Лицемер! Подонок!}
+{1020}{}{Oh, I would punch you so hard!}
+{1021}{}{I hate you, sucker!}
+{1022}{}{How dare you!?..}
+{1023}{}{You are ruining my life with just being around!}
+{1024}{}{Oh you fucking burp of nasty beast!}
+{1025}{}{I would gladly ripped off your nails. One by one.}
+{1026}{}{Just die. Free the world from your presence.}
+{1027}{}{You are so pathetic! And filthy. Shithead!}
+{1028}{}{You are the pimple on the asscheek of a swamp beast!}
+{1029}{}{Scum! Filth! Jerk! Dirtbag!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
@@ -90,24 +90,24 @@
 {1038}{}{}
 {1039}{}{}
 #официальные сообщения с подиума
-{1040}{}{Товарищи, друзья! Ну сколько уже можно не сливать за собой воду! Чьи это желтоватые испражнения там лежат?}
-{1041}{}{Нам нужно, просто жизненно необходимо... Эээ... Я сейчас вернусь.}
-{1042}{}{Вчерашнего дня один молодой человек ущипнул меня за непотребное место! Это нужно срочно обсудить!}
-{1043}{}{Невозможно уже стало пить эту мерзость! Кто-нибудь, настройте винный аппарат!}
-{1044}{}{Сколько же еще будет продолжаться наше пребывание здесь? Пора заселять мир Новыми Людьми!}
-{1045}{}{Считаю своим долгом сообщить, что вчерашний покер прошел хорошо. не так хорошо, как хотелось бы, но неплохо.}
-{1046}{}{У меня потерялась перламутровая пуговица со штанов. Кто-нибудь видел ее? Она круглая. С двумя отверстиями. И с пятнышком.}
-{1047}{}{Консервы от Мирового Порядка травят нас! Точно-точно, травят! Вы бы видели мой вчерашний стул!}
-{1048}{}{Пусть Швайны каждому выдадут оружие! Я не доверяю эти автоматическим стрелковым установкам.}
-{1049}{}{Нам нужно срочно собраться и обсудить новый репертуар шуток для анекдотного автомата!}
+{1040}{}{Friends! Comrades! For how long will someone keep forgetting to flush? Whose are these yellowish dungings lying there?}
+{1041}{}{We urgently, importantly need to... Uhh... I'll be right back.}
+{1042}{}{Just the day before, one young man pinched me by soft spot! We should urgently talk about this!}
+{1043}{}{It has become impossible to drink this gunk! Somebody, fix the wine machine!}
+{1044}{}{For how long would last our stay here? It's time to inhabit the New World with a New People!}
+{1045}{}{I take my duty to inform you that yesterday's poker went well. Not as well as I'd like it to, but still pretty well.}
+{1046}{}{I lost a pearl button from my pants. Has anybody seen it? Round, two holes. A little black spot.}
+{1047}{}{The canned food of New World Order is poisoning us! I am absolutely positive about that! You should've seen my stool yesterday!}
+{1048}{}{Let Schweins provide each of us with a weapon! I don't trust this automatic turrets.}
+{1049}{}{We shoud have an urgent meeting to discuss updating the repertoire of jokes for the joke machine!}
 #тихие проклятья про себя
-{1050}{}{Чертовы мужланы, никто ничего не хочет делать.}
-{1051}{}{Этот народ вымирает... Я - единственный сохранивший ясность мысли.}
-{1052}{}{И куда же подевался мой пони?.. Мой лиловый пони...}
-{1053}{}{Покер стал уже не тот... Его нужно вырастить, и посадить в клетку...}
-{1054}{}{Ах чертовка Миньон! Я бы ее оседлал...}
-{1055}{}{Стерва Эмили, гореть ей в недрах мироздания.}
-{1056}{}{Кругом одни шалавы, они душат меня... О-о-о, да-а-а...}
-{1057}{}{Интересно, как давно мы уже обходимся без туалетной бумаги?..}
-{1058}{}{Я их всех убью. Да, этой же ночью. Или завтрашним вечером, за покером.}
-{1059}{}{Безумцы, они все абсолютно безумны! Лишь я, я... Я могу править Новым Миром!}
+{1050}{}{Damn bozos. No one wants to do anything.}
+{1051}{}{This people are losing it... I'm the only one who still keeps being sane..}
+{1052}{}{Where the hell is my pony?.. My lilac pony...}
+{1053}{}{Poker nowadays is not the same as before... We should let it grow a little and put it into the cage...}
+{1054}{}{Oh that damn Minion! I would ride her...}
+{1055}{}{That bitch Emily, may she burn in hell.}
+{1056}{}{I'm surrounded by sluts, they are choking me... Ooooh yeeeah...}
+{1057}{}{I wonder, how long has it been, since we stopped using toilet paper...}
+{1058}{}{I will kill them all. On this exact night. Or better - tomorrow evening, during the poker game.}
+{1059}{}{They are all mad, absolutely mad! Only I deserve to rule the New World!}

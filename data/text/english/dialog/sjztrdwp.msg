@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a weapons dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: arms-dealing merchant.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a weapons dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see an arms-dealing merchant.}
+{5}{}{You see a vendor.}
 {6}{}{A common-looking weapon-selling merchant.}
 {7}{}{Just an arms dealer.}
 {8}{}{One of Jackals, a weapon trader.}
@@ -59,7 +59,7 @@
 {1003}{}{Huh?}
 {1004}{}{Just go away.}
 {1005}{}{Don't bother me, I need to rest...}
-{1006}{}{What else do you need?}
+{1006}{}{What do you need?}
 {1007}{}{[grins]}
 {1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
@@ -70,7 +70,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Just turn around and walk away!}
 {1015}{}{Don't bother me, I need to rest...}
-{1016}{}{What else do you need?}
+{1016}{}{What do you need?}
 {1017}{}{...All sorts of scum walking around...}
 {1018}{}{Leave me be, I have a work to do!}
 {1019}{}{Get lost!}
@@ -97,9 +97,9 @@
 {1038}{}{}
 {1039}{}{}
 # Отрицательные сообщения
-{1040}{}{Keep your hands to yourself, shmuck!}
+{1040}{}{Keep your hands to yourself, schmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

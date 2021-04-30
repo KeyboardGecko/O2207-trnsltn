@@ -11,132 +11,96 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: интеллегентного вида мертвяк.}
-{2}{}{Он выглядит довольно мирно и, что более странно, чертовски статно.}
+{1}{}{You see an intelligently-looking ghoul.}
+{2}{}{He looks quite peacefully - and surprisingly handsome.}
 #
 # после знакомства
-{3}{}{Вы видите: Сэм.}
-{4}{}{Он опять копается в каких-то бумагах.}
+{3}{}{You see Sam.}
+{4}{}{He is rummaging through some papers, as usual.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы видите древнего мертвяка с шелушащейся кожей и несколькими язвами на открытых участках тела. Он поворачивается в Вашу сторону и улыбается, но Вас пронимает ужас, так как это похоже на оскал смерти в последнюю секунду жизни] Здравствуй, чем могу быть полезен? }
-{11}{002}{Привет. Я изучаю город, я недавно тут. Просто зашел поговорить.}
-{12}{003}{А ты в курсе что от тебя, мягко говоря, воняет?}
+{10}{}{[You see an ancient ghoul with peeling skin and some ulcers around his body. He turns to you and smiles - but you feel terrified, because it looks like the death itself grins at you in your last seconds] Hello. What can I do for you? }
+{11}{002}{Hello. I'm looking around the town, I'm new here. Just came by to talk.}
+{12}{003}{Do you realize that you smell bad, to say the least?}
+
+{20}{}{Well, let's become formally introduced. I'm Sam. Are you here on business? Or just want to talk?}
+{21}{010}{I'd like to ask a few questions.}
+
+{30}{}{You got a mouth, I see... However, let's become formally introduced. I'm Sam. Are you here on business? Or just want to discuss my charming pheromones?}
+{31}{010}{Uh, okay, let's talk. I want to ask something.}
+{32}{004}{Phero-what?}
 
 
+{40}{}{Oh... Nevermind, doesn't matter. Did you want something?}
+{41}{010}{Yes, I suppose...}
+{42}{010}{Yes.}
+
+{1000}{}{Come on then, say it.}
+{1001}{}{Hello. Come, let's talk.}
+{1002}{}{Here comes our new Leader. I hope you won't flush my life's work down the toilet [he laughs]. Ask me anytime if you need something. I know every nook and cranny here.}
+{1003}{}{Oh,hello! How are you? Have a questions? I'm quite busy lately, but I can spare five minutes...}
+{1004}{}{Hello. [he looks saddened]}
+{101}{054}{Sam, what do you do here?}
+{102}{051}{About problem with the water...}
+{103}{011}{There aren't many ghouls around. How did you end up here?}
+{104}{019}{Tell me about yourself.}
+{105}{020}{Can you tell me something about the town?}
+{106}{023}{Sam, I've heard you have quarrel with Lucy. Mind to tell me about it?}
+{107}{058}{Sam, who is going to be the next Mayor, what do you think? Who do you want to see in this position?}
+{108}{059}{How's life, Sam?}
+{109}{999}{I need to go, talk later.}
 
 
-
-{20}{}{Что ж, будем знакомы. Я Сэм. Ты по делу или просто так?}
-{21}{010}{Я хотел бы задать несколько вопросов.}
-
-
-
-
-{30}{}{А ты за словом в карман не лезешь... и тем не менее - будем знакомы. Я - Сэм. Ты тут по делу или будем обсуждать мои очаровательные феромоны?}
-{31}{010}{Эээ, ладно, давай поговорим. Я хочу у тебя кое-что узнать.}
-{32}{004}{Феро-что?}
+{110}{}{[Sam laughs] I was born here - and died here! And will stay here until I die completely. New World Order is my reason to live, so to say.}
+{111}{012}{You probably did a lot to NWO?}
+{112}{016}{Is NWO everything you care about?}
+{113}{015}{How come you are ghoul? How did you become like that?}
+{114}{020}{What else can you tell me about this place?}
+{115}{010}{I see. Another question then.}
 
 
-{40}{}{А... не важно. Забудь. Ты что-то хотел?}
-{41}{010}{Да, думаю да...}
-{42}{010}{Да.}
+{120}{}{[Sam looks into the distance] Some time ago, I was the Mayor of this beautiful town. Me and my team built this place practically from sand and dust, turning a small settlement into a place known far beyond its borders.}
+{121}{020}{And what is NWO now?}
+{122}{015}{Why did you leave Leader's position?}
+{123}{013}{What happened to your team?}
+{124}{010}{Another question.}
 
-{1000}{}{Ну так давай, говори.}
-{1001}{}{Здравствуй. Проходи, поговорим.}
-{1002}{}{О, наш новый руководитель пожаловал. Надеюсь, ты не похеришь все мои многолетние труды [смеется]. Обращайся по любым вопросам. Я тут каждый винтик знаю.}
-{1003}{}{О, привет! Как дела? Есть вопросы? Я в последнее время занят сильнее, но пять минут у меня есть...}
-{1004}{}{Привет. [кажется он очень опечален]}
-{101}{054}{Сэм, чем ты здесь занимаешься?}
-{102}{051}{По поводу пробем с водой...}
-{103}{011}{Здесь редко встретишь мертвяка. Как ты здесь оказался?}
-{104}{019}{Расскажи о себе, Сэм.}
-{105}{020}{Можешь что-нибудь о городе рассказать?}
-{106}{023}{Сэм, я слышал, у тебя ссора с Люси. Можешь рассказать подробнее?}
-{107}{058}{Сэм, как ты думаешь, кто будет следующим руководителем? Кого бы ты хотел видеть на этом посту?}
-{108}{059}{Сэм, как дела?}
-{109}{999}{Мне пора идти, позже поговорим.}
+{130}{}{They died, every last one of them. From old age, illnesses, hands of bandits. I outlived them all. If only they were alive, my old fellas... We could do so much more! And now you can't even find someone suitable for a Leader of this place, let alone the people with common goal.}
+{131}{018}{The current Leader is no good?}
+{132}{014}{Why didn't you continue the work of your team?}
+{133}{010}{Let me ask something else.}
 
+{140}{}{Now here you are wrong - all these years I keep helping the development of NWO. Of course, when I was Mayor, I had more... Capabilities. Now I mostly assist Mark, my grandson. Now he's the Mayor.}
+{141}{018}{Tell me about Mark.}
+{142}{015}{Why did you leave Mayor's position?}
+{143}{010}{I want to ask something else.}
 
-{110}{}{[Сэм смеется] Я здесь родился и умер! И буду жить здесь, пока не умру окончательно. Новый Мировой Порядок - это мой смысл жизни, можно сказать.}
-{111}{012}{Ты, наверное, много сделал для НМП?}
-{112}{016}{Неужели кроме НМП тебя ничего не интересует?}
-{113}{015}{Как получилось, что ты стал мертвяком?}
-{114}{020}{Что ты еще можешь рассказать про НМП?}
-{115}{010}{Понятно, еще вопрос.}
+{150}{}{When I was Mayor, I got very sick. I thought I won't make it to the end of a week. So, there was a need to elect a new Mayor, and they put my son in my place. For a few months I was lying delirious, while damned radiation was doing its job. In the end I didn't die and recovered... If you can call it that [with a smile, Sam points to pieces of skin sagging off his shoulder]. After "recovery" I started assisting my son, and then his son, Mark. You know, it's hard to see your family die... But what can I do about it? Not everyone as "lucky" as me.}
+{151}{018}{What can you say about your grandson?}
+{152}{010}{I see. I have another question.}
 
+{160}{}{Of course not. My family is what I care about the most. My town and my family. These two things are interconnected with each other. All our lives are dedicated to NWO, so the development of the town wouldn't stop. Although, lately we have some serious problems... }
+{161}{021}{Tell me about your family.}
+{162}{023}{What problems are you talking about?}
+{163}{017}{Are you willing to develop NWO no matter what?}
+{164}{010}{Okay, I'll ask something else.}
 
+{170}{}{Of course! I'd do everything so the town would thrive. I could even apply for the Mayor and continue the legacy of our family. I even want this, damn it! No man here has such vast experience of running this settlement as me. I can handle being the Mayor, even in this sad circumstances.}
+{171}{018}{Sad circumstances? What do you mean?}
 
+{180}{}{For now, my grandson Mark is in charge. He is a good Mayor and have done a lot to the town. But he is very sick and won't last long. Mark should name his successor. And there's none good successor, because his son Daniel is completely incapable of being the Leader. He will ruin everything! And he is a good kid, but still very light-headed. So, until he's ready, I could lead the settlement. That's what I want.}
+{181}{022}{Tell me more about Daniel.}
+{182}{021}{What else can you say about your family?}
+{183}{010}{Okay, let me ask something else.}
 
-{120}{}{[Сэм смотрит куда-то вдаль] Эх, когда-то давным-давно я был мэром этого чудесного городка. Я и моя команда строили НМП из песка и пыли, это мы превратили небольшое поселение в славный город, известный далеко за его пределами.}
-{121}{020}{А что из себя представляет НМП сейчас?}
-{122}{015}{Почему ты ушел с поста мэра?}
-{123}{013}{Что стало с твоей командой?}
-{124}{010}{Еще вопрос.}
+{190}{}{Uh, what can I say about me... I devoted all of my life to my family and my town. I think nobody else has done so much for NWO as myself. And I love my family very much, although not everything great in it. Because of some of its members...}
+{191}{023}{Who do you mean?}
+{192}{020}{What can you tell me about NWO?}
+{193}{010}{Let's get back to other questions.}
 
-
-
-
-{130}{}{Умерли, все до одного. Кто от старости, кто от болезни, кто от рук бандитов. Только я пережил их всех. Эх, были бы живы мои старые товарищи, мы бы намного дальше продвинулись! А сейчас даже нормального руководителя не найдешь, не говоря уже о группе людей, объединенных общей целью.}
-{131}{018}{Сейчас нет нормального руководителя?}
-{132}{014}{Почему ты не продолжил дело своей команды?}
-{133}{010}{Давай я спрошу о другом.}
-
-
-
-
-{140}{}{А вот тут ты ошибаешься, все эти долгие годы я продолжаю помогать развивать НМП. Конечно, когда я был мэром, возможностей было больше. Сейчас я только помогаю своему внуку, Марку. Теперь он мэр НМП.}
-{141}{018}{Расскажи про Марка.}
-{142}{015}{Почему ты оставил пост Мэра?}
-{143}{010}{Я хочу еще спросить.}
-
-
-
-
-{150}{}{Будучи мэром, я очень сильно заболел, думал, что не доживу до конца недели. Надо было срочно назначить нового мэра, и мэром стал мой сын. Несколько месяцев я лежал в бреду, пока чертова радиация делала свое дело. Но, я не умер, и вскоре поправился, насколько это стало возможным [Сэм с улыбкой показывает на куски кожи, свисающей с плеча]. После выздоровления я стал помогать своему сыну, а потом внуку, Марку. Эх, тяжело видеть, как умирают твои близкие... Но что поделаешь, не всем так "повезло", как мне.}
-{151}{018}{Что ты можешь рассказать о своем внуке?}
-{152}{010}{Понятно. Хочу другой вопрос задать.}
-
-
-
-
-{160}{}{Интересует, конечно. Моя семья - это главное для меня. Мой город и моя семья. Эти две вещи тесно связаны друг с другом. Вся наша семья посвятила свою жизнь НМП, и развитие города не остановится. Хотя, в последнее время у нас есть серьезные проблемы. }
-{161}{021}{Расскажи о твоей семье.}
-{162}{023}{О каких проблемах ты говоришь?}
-{163}{017}{Ты продолжишь развивать НМП не смотря ни на что?}
-{164}{010}{Ладно, еще спрошу.}
-
-
-
-
-{170}{}{Конечно! Я все сделаю, чтобы НМП процветал. Могу снова стать мэром и продолжить дело нашей семьи. Черт возьми, я даже хочу этого! Ни у одного человека нет такого богатого опыта в управлении городом, как у меня. Мне по плечу стать отличным мэром, хотя и при таких печальных обстоятельствах.}
-{171}{018}{Печальные обстоятельства? Ты о чем?}
-
-
-
-
-{180}{}{Марк, мой внук, сейчас мэр НМП. Он толковый руководитель и много сделал для НМП. Но сейчас он очень болен, и жить ему осталось недолго. Марк должен назначить своего преемника. А сейчас нормального преемника нет, так как его сын, Даниэль, совершенно не готов стать руководителем. Он развалит здесь все к чертям! Даниэль парень неплохой, но у него еще ветер в голове. Пока он не будет готов, я бы хотел стать временным руководителем НМП.}
-{181}{022}{Расскажи о Даниэле подробней.}
-{182}{021}{Что ты можешь о своей семье рассказать?}
-{183}{010}{Хорошо, давай еще спрошу.}
-
-
-
-
-{190}{}{Эх, да что мне о себе рассказывать. Я всю жизнь посвятил своей семье и своему городу. Наверное, никто столько не сделал для НМП, сколько я. Я люблю свою семью, хотя не все так хорошо из-за некоторых ее членов.}
-{191}{023}{Кого ты имеешь ввиду?}
-{192}{020}{Что ты можешь рассказать про НМП?}
-{193}{010}{Давай вернемся к другим вопросам.}
-
-
-
-
-{200}{}{Новый Мировой Порядок - самый лучший город Радиуса. В его названии заложены основные принципы, которыми мы руководствуемся. Во-первых, Порядок. У нас все тихо и спокойно, охрана строго за этим следит. Во-вторых, Новый. Мы создаем новое общество, где человек чувствует себя защищенным и уверенным в завтрашнем дне. В-третьих, Мировой. Наши идеи идут далеко, в других городах все больше и больше людей, поддерживающих наши взгляды. Возможно, мы станем центром нового мира, мы к этому стремимся.}
-{201}{010}{Ясно, я еще хочу спросить.}
-
-
-
+{200}{}{New World Order is the best place in the whole Radius. Its name reflects all the main principles we follow. Firstly, Order. We maintain peace here, ensured by our guards. Secondly, New. We are creating a new society, where man could feel himself protected and confident in his future. Thirdly, World. Our ideas and principles go far beyond us, there are more and more people in other places who support our worldview. It is possible that we would become a center of a New World, and that's what we are striving for.}
+{201}{010}{I see. I want to ask something else.}
 
 {210}{}{Моя семья - это все, что у меня есть. Марк, мой внук, Люси, его жена, черт бы ее побрал, и Даниэль, мой правнук. Хотя, он не совсем мой правнук.}
 {211}{018}{Расскажи о Марке.}
@@ -144,339 +108,215 @@
 {213}{022}{Я хотел бы услышать о Даниэле.}
 {214}{010}{Я хотел о другом спросить.}
 
+{220}{}{Daniel is a good kid, but he's very young. He needs to learn so much - but all he does is a petty pranks all day. I don't mind for him to become Mayor after Mark, but now he is not ready at all. And if he won't get his mind right - I won't let him to become the Mayor. Even if I have to resort to extreme measures.}
+{221}{023}{Why do you think Daniel is not ready?}
+{222}{027}{Do you mean you are ready to kill Daniel?}
+{223}{010}{I see. Another question then.}
 
+{2301}{}{[Sam becomes moody] Lucy... Mark's wife. The problem is that she is a brainless stupid chick. I was actually against Mark marrying her... She didn't let him to raise his son in a ways that Mark himself was raised. So, Daniel grew up not capable of being a Mayor at all. I wouldn't allow Lucy to tend the Lavash, let alone raising a son! She treats Danial as a little child, not letting him make the desicions by himself.}
+{2302}{}{We have our problems, but the situation with Lucy gets better with every day. I think soon we'll forget we were quarreling. For that, I thank you.}
+{2303}{}{We have our problems, but the situation with Lucy gets better with every day. No open conflicts anymore. Although, Lucy tries to sit on my head, making me help her to do dirty little jobs...}
+{231}{024}{It seems like you hate her.}
+{232}{025}{Sam, did you try to make peace with her?}
+{233}{010}{I want to ask something else.}
 
+{240}{}{No, I don't hate her. But I don't love her either. If Mark married her, then it's his problem. If she wouldn't interfere with raising Daniel, everything would have been alright. And also - she sleeps with everyone. And that is noticed by everybody, except Mark. We have a huge fights with her lately... As you see, I'm not fond of her at all. But if she would come and try to make peace, I'd consider doing it. The family must live in peace, after all. }
+{241}{025}{Didn't you think about making the first step yourself?}
+{242}{010}{Yeah. I better ask something else.}
 
-{220}{}{Даниэль - хороший парень, правда, молод еще. Ему учиться и учиться, а он целыми днями мелкие пакости всем строит. Я не против того, чтобы он стал новым мэром после Марка, но сейчас он не готов абсолютно. И, если он не возьмется за ум, то я не позволю ему стать мэром, даже готов прибегнуть к крайним средствам.}
-{221}{023}{Даниэль не готов? Почему?}
-{222}{027}{Ты что, готов убить Даниэля?}
-{223}{010}{Ясно, еще вопрос.}
+{250}{}{[Sam raises voice] You wish! I'm not going first to that windbag! The truth is on my side, and I won't let her to do things she does in front of Mark and Daniel!}
+{251}{010}{Maybe you're right. Let's change the subject.}
+{252}{026}{Sam, maybe Lucy is not faithful to Mark, and she doesn't have a lot of brains, but she is a devoted mother. She would do anything for Daniel, and you know that. Nobody is perfect. For a peace if your family, somebody should make compromises. Try to talk to her. The quarrel makes things only worse.}
+{253}{047}{Sam, you will go and try to make peace with her. Or I'll tell everyone that you are stealing batteries from the treasury.}
 
+{260}{}{You know, maybe you're right. The family always comes first - and I am willing to humiliate myself to maintain peace in it. Okay, I'll try talking to Lucy. Thank you for helping me to realize this, you deserve my respect.}
+{261}{010}{The right thing to do! I want to ask something else.}
+{262}{999}{That's really great. Okay, I need to go, bye.}
 
-{2301}{}{[Сэм помрачнел] Люси... Жена Марка. Проблема в том, что она - безмозглая тупая баба. Она запретила Марку воспитывать своего сына так, как воспитывали его. И Даниэль вырос совершенно неподготовленным к руководству. Я ей не то что сына воспитывать, а ухаживать за лавашами не позволил бы! Она сюсюкается с Даниэлем, как с маленьким ребенком, и не дает ему принимать самостоятельные решения. Я был против, чтобы Марк на ней женился.}
-{2302}{}{У нас еще есть некоторые проблемы, но с Люси все потихоньку налаживается, скоро совсем забудем о ссоре. За это тебе спасибо.}
-{2303}{}{У нас с Люси еще есть некоторые проблемы, но в семье все потихоньку налаживается. Уже нет острых конфликтов. Правда, Люси на шею мне села, постоянно требует делать всякую грязную работу.}
-{231}{024}{Наверное, ты ее ненавидишь.}
-{232}{025}{Сэм, а ты не пробовал помириться с ней?}
-{233}{010}{Хочу о другом узнать.}
+{270}{}{[Sam laughs] Of course not! I'm not going to kill Daniel! By extreme measures I mean completely different thing. I know something that won't allow Daniel to be put in charge, heh-heh. And I'm ready to use this knowledge, even if it will harm both Mark and Daniel. I'm willing to do that if NWO's future would be threatened - but I still want to consider other options of resolving the situation.}
+{271}{028}{What knowledge are you talking about?}
+{272}{029}{What knowledge are you talking about?}
+{273}{030}{What knowledge are you talking about?}
 
+{280}{}{Hah, aren't you a smart one. Do you really think I would tell this to anyone? I have enough problems on my plate, because of a certain someone. I don't want to make it worse. If you earn some of my respect, I would consider telling you.}
+{281}{023}{Who is the certain someone, who is the reason of your problems?}
+{282}{010}{Okay, I'll try to earn some of your respect. And now I want to ask a question.}
+{283}{999}{I'll try to earn some of your respect. I'll go think about it.}
 
+{290}{}{You helped me make peace with Lucy, so I'll tell you a secret. The thing is - Daniel is not Mark's son! Lucy had an affair with Dan before Mark, the son even named after his father. If Mark learns about it, he wouldn't put Daniel in Mayor's position. And I would become NWO's Leader again!}
+{291}{010}{Oh wow, that changes things. Thanks for trusting me, Sam. I'd like to ask about something else.}
 
+{300}{}{You think you can threaten me with that story about stealing batteries, and ask to trust you a secret afterwards? You get no respect from me for your actions, so I won't tell you anything. Despite making peace in our family, you should put a lot of efforts to earn my respect.}
+{301}{031}{How can I do it?}
 
-{240}{}{Нет, не ненавижу. Но и не люблю. Если Марк на ней женился, то ему виднее. Если бы она не лезла в воспитание Даниэля, то все было бы в порядке. А еще она спит со всеми подряд, это видят все, кроме Марка. В последнее время мы очень сильно ссоримся из-за ее поведения. Но если она захочет помириться, я ее прощу. Все-таки, семья должна жить в мире.}
-{241}{025}{А ты пробовал сам сделать первый шаг к примирению?}
-{242}{010}{Да уж, лучше я о другом спрошу.}
+{310}{}{Respect is earned through actions. For now, you did nothing. Tell me, why should I respect you?}
+{311}{033}{I have trained a lot, so I'm in a perfect physical shape.}
+{312}{037}{I'm very smart and acute. I read a lot and learned many things.}
+{313}{032}{I'm highly skilled in weaponry, I had a lot of practice.}
+{314}{050}{I am pretty good at medical science, can give some advices.}
+{315}{040}{I'm great with a technical stuff, I know much about working with mechanisms.}
+{316}{041}{How can I prove that I deserve some respect?}
 
+{320}{}{[Sam cringes] As any bandit in Radius. I don't respect solving problems by force.}
+{321}{010}{Too bad. Another question then.}
 
+{330}{}{Well, healthy mind means healthy body. Show me what you're capable of. Do something.}
+{331}{034}{I'm ready! [demonstrate your physical capabilities]}
+{332}{035}{I'm ready! [demonstrate your physical capabilities]}
+{333}{010}{I'm not quite ready now. I better ask some questions.}
 
-{250}{}{[Сэм возмущенно восклицает] Вот еще! Я не собираюсь первый идти к этой гулящей девке! Правда на моей стороне, и я не позволю ей делать такое на глазах у Марка и Даниэля!}
-{251}{010}{Да, такое нельзя позволять. Давай сменим тему.}
-{252}{026}{Сэм, Люси, может, и гулящая девка, и мозгов у нее не много, но она любящая мать. Люси сделает все ради Даниэля, ты же знаешь. Никто не идеален в этом мире. Ради покоя в вашей семье можно пойти на уступки. Сходи к ней, предложи помириться. Ссора делает вам только хуже.}
-{253}{047}{Сэм, ты сходишь и извинишься перед ней. А то я расскажу всем, что ты воруешь со склада батарейки.}
+{340}{}{[You do somersault and some other tricks, demonstrating your great shape. Sam observes you, looking surprised] Impressive. You definitely put some work into your body. This deserves respect. }
+{341}{036}{Told you! So, will you tell me a secret now?}
+
+{350}{}{[You do some easy athletic tricks. Sam chuckles] Hah, not very impressive, actually. Even I can do something similar - if nothing falls off me. No, that's not enough.}
+{351}{010}{A pity. Another question then.}
+
+{360}{}{Okay, this proves you put a lot of work into yourself. I think that you have something in you. Okay, listen carefully. The thing is - Daniel is not Mark's son! Lucy had an affair with Dan before Mark, the son even named after his father. If Mark learns about it, he wouldn't put Daniel in Mayor's position. And I would become NWO's Leader again!}
+{361}{010}{Oh wow, that changes things. Thanks for trusting me, Sam. I'd like to ask about something else.}
+
+{370}{}{Smart and acute - that's a rarity. I have one old intellectual test. Try to pass it.}
+{371}{038}{Give me that test!}
+{372}{039}{Give me that test!}
+{373}{010}{I'm not quite ready now. I better ask some questions.}
+
+{380}{}{[You easily solve every task in the test, even coming up with alternative solutions and recommendations to make test harder. Sam observes you, looking surprised] Impressive. You definitely put some work into your mind. This deserves respect.}
+{381}{036}{Told you! So, will you tell me a secret now?}
+
+{390}{}{[You spend a lot of time on the test and fail to solve some tasks in it. Sam chuckles] Hah, not very impressive. The most interesting questions are skipped. No, that's not enough.}
+{391}{010}{A pity. Another question then.}
 
+{400}{}{[You help Sam to figure out details in a blueprint of an old piece of machinery, giving recommendations about how to optimize it. Sam observes you, looking surprised] Impressive. You definitely put some work into your skills. This deserves respect.}
+{401}{036}{Told you! So, will you tell me a secret now?}
+
+{410}{}{I don't even know... Although, there is one thing you can do for me...}
+{411}{042}{Which one?}
+
+{420}{}{[Sam stumbles, not answering for some time] You already know that the batteries keep disappearing from the treasury. If you'll spare me two hundred more of them, I'll tell you everything.}
+{421}{043}{Of course, I have a lot of this stuff. Here's two hundred, for your healthcare.}
+{422}{044}{I don't have so many.}
+
+{430}{}{[Sam takes batteries and stashes them] You are a rich person. This deserves respect. Considering local poverty, it is an achievement. Most of people spend everything on alcohol and narcotics. They are not capable of saving even small sums.}
+{431}{046}{So, what's about that secret?}
+
+{440}{}{[Sam gives you despising look] I knew it. You are just like everyone else. Living in the moment, not thinking about the future. }
+{441}{045}{I will bring you the amount! Just give me more time. }
 
+{450}{}{Well, you know where to find me. If you are capable of saving necessary amount for me, I'll tell you a secret. Although I really doubt you could do it.}
+{451}{999}{Okay, I'll go look for batteries.}
 
+{460}{}{Okay, I'll tell you. The thing is - Daniel is not Mark's son! Lucy had an affair with Dan before Mark, the son even named after his father. If Mark learns about it, he wouldn't put Daniel in Mayor's position. And I would become NWO's Leader again!!}
+{461}{010}{Oh wow, that changes things. Thanks for trusting me, Sam. I'd like to ask about something else.}
+
+{470}{}{[Sam freezez] Damn... I knew sooner or later someone would find out... }
+{471}{048}{For now it's only me. And I won't tell anyone - but only if you'll make peace with Lucy and do what she tells you. It will be better for your family.}
+
+{480}{}{[Sam gets angry] I won't go to her, I won't apologize! She sleeps with everyone! }
+{481}{049}{You will. You have no choice, if you want to keep stealing the batteries for your medications.}
 
-{260}{}{Знаешь, ты прав. Семья - это главное. И я готов унизиться, чтобы в семье был покой. Хорошо, я схожу и помирюсь с ней. Ты мне помог это осознать, спасибо, это заслуживает уважение.}
-{261}{010}{Правильно! Я еще спрошу о другом.}
-{262}{999}{Это здорово, что вы помиритесь. Ладно, мне пора идти, пока.}
+{490}{}{[Sam lowers his shoulders, saddened] Okay... I'll talk to her. Nut no one should know about the stealings.}
+{491}{010}{That's better. It will be our little secret. Now, to other questions.}
 
+{500}{}{[Sam carefully listens for your recommendations about taking care of skin to prevent decaying] Impressive. You are really a specialist. I respect that.}
+{501}{036}{Told you! So, will you tell me a secret now?}
 
+{510}{}{Did you find out the reason behind the quality of water from Livos?}
+{511}{010}{No, I'm still working on it... I wanted to ask something else.}
+{512}{052}{Yes, I know the reason.}
 
+{520}{}{And? What is it?}
+{521}{053}{Due to the large quantities of exported water and increased usage of water filter, they resorted to another option of water processing - charcoal filters. That's where the taste comes from.}
 
-{270}{}{[Сэм хохочет] Да нет же! Я не собираюсь убивать Даниэля! Под крайними мерами я подразумеваю совсем другое. Я знаю кое-что, что не позволит Даниэлю стать мэром, хе-хе. И я готов воспользоваться информацией, даже если она нанесет вред Марку и Даниэлю. Я пойду на это, если под угрозой будущее НМП. Однако, я хочу, чтобы все оставалось, как раньше, и мне не пришлось бы открывать эту информацию Марку.}
-{271}{028}{О какой информации ты говоришь?}
-{272}{029}{О какой информации ты говоришь?}
-{273}{030}{О какой информации ты говоришь?}
+{530}{}{I see. So, the water is alright, now need to worry. We used this kind of filtering before, until our filters went out of order. I think we have some amount of batteries to reward someone who'd solev this problem... [Sam gives you a bag of batteries]}
+{531}{999}{Thanks, it will come in handy.}
+{532}{999}{Thanks, but no need. I'm glad to help.}
+{533}{999}{Thanks, but to take care of town's prosperity is my duty as a Mayor. Put the money into other needs.}
 
+{540}{}{My main mission is to assist the current Mayor to run NWO. Also I'm supervising the water shipments from Livos. }
+{541}{055}{You definitely have some job I could do...}
+{542}{010}{I see, Another question then.}
 
+{550}{}{I guess I do have something for you. Livos regularly supplies us with water of a great quality, there were never any problems with it. But the last batch worries me. }
+{551}{056}{Is there something wrong?}
 
+{560}{}{Water has some taste, which wasn't there before. So, I need to find out the reason behind it.}
+{561}{010}{I'm not interested in such job for now. I have other questions.}
+{562}{057}{Okay, I'll look into it.}
 
-{280}{}{Ха, какой ты хитрый. Думаешь, я буду рассказывать кому попало эту важную информацию? У нас и так проблемы в семье из-за кое-кого, и я не хочу, чтобы стало еще хуже. Я уважаю людей за поступки. Может, если ты завоюешь мое уважение, то я тебе расскажу.}
-{281}{023}{Из-за кого у вас проблемы в семье?}
-{282}{010}{Ладно, попробую завоевать твое уважение. А пока задам вопрос.}
-{283}{999}{Я попробую завоевать твое уважение. Пойду пока подумаю.}
+{570}{}{Good. Go to Livos, find out the reason. Tell me when you do. I can show you this place on your map. Also, I'll show you the Tin Industries factory's location. It's my present to you.}
+{571}{999}{Thanks. Mark it on the map, please.}
+{572}{999}{I know where to go. I'll come to Livos and find out everything I can.}
 
+{580}{}{I suppose Lucy will do everything she can for her son to be put into Leader's position. This will bring us nothing good. As for me, it's I who should run this place, until he comes to right mind.}
+{581}{010}{I see... Another question then.}
+{582}{999}{Understood. Thanks for you honesty.}
 
+{590}{}{Quite good. I hope you are not going to make a lot of changes in here. I'd like to remind you that I am your advisor.}
+{591}{}{We have a lot of things to do. Big plans! }
+{592}{}{I am saddened. I hope this little jerk will become smart faster than I think. }
+{593}{060}{About that job...}
+{594}{073}{Do you need any help?}
+{595}{074}{Come on, don't be so sad!}
+{596}{999}{I need to run. Lots of work!}
 
-{290}{}{Ты помог нам с Люси помириться, поэтому я доверю тебе эту тайну. Дело в том, что Даниэль - не от Марка! Люси родила его после интрижки с Даном, и даже назвала сына в его честь. Если Марк об этом узнает, он вполне может передумать назначать Даниэля мэром. И я смогу снова стать руководителем НМП!}
-{291}{010}{Ух ты, это многое меняет. Спасибо за доверие, Сэм. Я хотел бы узнать еще кое-что.}
+{600}{}{Yes?}
+{601}{061}{I don't need advisor anymore. You are free to go. }
+{602}{072}{I'd like you to run the town full-time, while I'm busy with other matters.}
+{603}{066}{You know, I don't like ghouls much...}
 
+{610}{}{[Sam hangs his head. He stays silently, gazing at his holey shoes.]}
+{611}{062}{Come on, I was just joking.}
+{612}{063}{You can live here. But you should find another job. }
+{613}{063}{Get out of my sight.}
+{614}{065}{Get out. Better if I won't see you around this town in twenty four hours.}
 
+{620}{}{[He eyes you with a very discouraged look.]}
+{621}{999}{Relax. I'll try not to make jokes like this anymore. Come to your senses, I'll run by later.}
+{622}{999}{This kind of stress keeps you in shape. Come to your senses, I'll run by later.}
 
+{630}{}{But...}
+{631}{999}{That's my order. Now get lost.}
+{632}{064}{Keep talking - and I send you to beg for batteries in other towns.}
 
-{300}{}{Ты думаешь, что можешь угрожать мне историей с кражей батареек, а потом хочешь, чтобы я тебе открыл секрет? За твой поступок я тебя не уважаю, и не собираюсь тебе ничего говорить. Несмотря на то, что в семье у нас наступил мир, тебе надо заслужить мое уважение.}
-{301}{031}{Как я могу заслужить твое уважение?}
+{640}{}{[Sam steps back. He is smudged, scraped off, chewed and spat away to the roadside of life. He hunches and walks out somewhere.]}
+{641}{999}{[end of dialogue]}
 
+{650}{}{[He becomes as white as it is possible for a corpse. It seems he still didn't realize what he just heard. But his face already expresses devastation and depression] Why?}
+{651}{999}{Just get out of here. I want you out of town in twenty four hours. Hear me?}
+{652}{999}{Just get out of here. Before you go, you can take your monthly payment from treasury. Tomorrow you'd better not be here. }
 
+{660}{}{Is it a problem?}
+{661}{067}{Yes.}
+{662}{069}{I don't know yet. We'll see.}
 
+{670}{}{So, what are we going to do with it?}
+{671}{068}{Nothing for now. I just want you to know that I despise you.}
+{672}{063}{For starters, let's change your occupation. I think you will be just fine doing job of a conveyour worker.}
 
-{310}{}{Я уважаю людей за поступки, и ты пока ничего не сделал для того, чтобы я тебя уважал. Вот скажи, за что тебя можно уважать?}
-{311}{033}{Я много тренировался, у меня отличная физическая форма.}
-{312}{037}{Я очень умен и сообразителен, я много читал и изучал.}
-{313}{032}{Я отлично владею различными видами оружия, я много практиковался.}
-{314}{050}{Я отлично разбираюсь в медицине, могу дать несколько советов.}
-{315}{040}{Я отличный технический специалист, я много знаю о технике.}
-{316}{041}{Могу я на деле доказать, что достоин уважения?}
+{680}{}{Is that it? }
+{681}{999}{Yes. You can go back to your petty rat duties. }
 
+{690}{}{If that's all, can you don't distract me anymore? I'm trying to take care of the town here, solving problems. Important stuff.}
+{691}{071}{Good for you. Pat yourself on the back.}
+{692}{070}{I see you don't show enough respect to your management...}
+{693}{999}{Yes, I think you can deal with all this shit while I take a rest.}
 
-{320}{}{[Сэм скривился] Нет, любой бандит Радиуса может этим похвастаться. Я не уважаю силовые методы решения вопросов.}
-{321}{010}{Жаль, тогда другой вопрос.}
+{700}{}{It is mutual.}
+{701}{063}{Okay, if you put it like this... I think it's time to change your occupation...}
 
+{710}{}{What?}
+{711}{063}{I said I have a prize for you. A new job. }
+{712}{999}{Nothing. Don't get too comfortable. And go, deal with all this shit already. The town has a fuckload of problems, they need you to deal with them. Do your job while I didn't find someone to replace you.}
 
+{720}{}{Of course, I'll do my best. For now, I'm trying to smooch things. People ask questions, they are worried. After I deal with that - and it will take some time - we could think about expanding the town, building additional bays for the factory and organizing new caravan routes. I'll let you know.}
+{721}{999}{Great. keep me posted.}
 
-{330}{}{Ну что ж, в здоровом теле - здоровый дух. Покажи, что ты можешь. Сделай несколько упражнений.}
-{331}{034}{Да, я готов показать свою подготовку!}
-{332}{035}{Да, я готов показать свою подготовку!}
-{333}{010}{Хм, я сейчас не готов, я попозже сделаю. Лучше вопрос задам.}
+{730}{}{Oh, no, thank you. I think I'm the one who should do the work. But thank you for the proposition, i'll keep that in mind. And now - I have a lot of work to do.}
+{731}{999}{Yeah, sure. See you around.}
 
+{740}{}{Is that a humor? [he rolls his eyes] Okay, you have to excuse me, but I can't talk right now. I need to make preparation for repairings of "Master's palace". }
+{741}{999}{Sure, good luck.}
 
-
-{340}{}{[Вы делаете несколько головокружительных кульбитов, демонстрируя превосходную физическую подготовку. Сэм удивленно наблюдает] Да, впечатляет. Ты действительно много работал над собой, это достойно уважения. }
-{341}{036}{Я же говорил! Ну так что, откроешь мне секрет?}
-
-
-
-
-{350}{}{[Вы делаете несколько несложных трюков. На лице Сэма появляется усмешка] Ха, не очень-то и впечатляет. Даже я могу нечто подобное показать, лишь бы ничего не отвалилось. Нет, этого не достаточно.}
-{351}{010}{Жаль, тогда другой вопрос.}
-
-
-
-
-{360}{}{Ладно, ты показал, что много работал над собой. Думаю, с тобой еще не все потеряно. А теперь слушай внимательно. Дело в том, что Даниэль - не от Марка! Люси родила его после интрижки с Даном, и даже назвала сына в его честь. Если Марк об этом узнает, он вполне может передумать назначать Даниэля мэром. И я смогу снова стать руководителем НМП!}
-{361}{010}{Ух ты, это многое меняет. Спасибо за доверие, Сэм. Я хотел бы узнать еще кое-что.}
-
-
-
-
-{370}{}{Умные и проницательные люди - большая редкость в наше время. У меня есть один старый тест на сообразительность. Попробуй, пройди.}
-{371}{038}{Давай свой тест, я его мигом пройду!}
-{372}{039}{Давай свой тест, я его мигом пройду!}
-{373}{010}{Хм, я сейчас не готов, я попозже его пройду. Лучше вопрос задам.}
-
-
-
-{380}{}{[Вы с легкостью решаете все задания теста и даже предлагаете несколько альтернативных решений и рекомендаций по усложнению заданий. Сэм удивленно наблюдает] Да, впечатляет. Ты действительно много работал над собой, это достойно уважения.}
-{381}{036}{Я же говорил! Ну так что, откроешь мне секрет?}
-
-
-
-
-{390}{}{[Вы долго мучаетесь над тестом, и в результате не решаете часть заданий. На лице Сэма появляется усмешка] Ха, не очень-то и впечатляет. Самые интересные задания не выполнены. Нет, этого не достаточно.}
-{391}{010}{Жаль, тогда другой вопрос.}
-
-
-
-
-
-
-
-
-
-
-{400}{}{[Вы помогаете Сэму разобраться в сложном чертеже станка, даете рекомендации по оптимизации его работы. Сэм удивленно наблюдает] Да, впечатляет. Ты действительно много работал над собой, это достойно уважения.}
-{401}{036}{Я же говорил! Ну так что, откроешь мне секрет?}
-
-
-
-
-{410}{}{Даже не знаю... Хотя, ты можешь оказать мне одну услугу...}
-{411}{042}{В чем она заключается?}
-
-
-
-
-{420}{}{[Сэм мнется и долго не отвечает] Ты и так уже знаешь, что со склада пропадают батарейки. Если ты подкинешь мне пару сотен батареек, то я тебе расскажу, в чем дело.}
-{421}{043}{Конечно, у меня этого добра полно. Держи две сотни батареек на лечение.}
-{422}{044}{У меня нет столько батареек.}
-
-
-
-
-{430}{}{[Сэм берет батарейки и прячет их] Ты богатый человек, это достойно уважения. Среди повсеместной нищеты это достижение. Большинство людей сливают все на алкоголь и наркотики. Они не способны накопить даже небольшую сумму.}
-{431}{046}{Так что за секрет ты можешь мне открыть?}
-
-
-
-
-
-{440}{}{[Сэм презрительно смотрит] Я так и знал. Ты такой же как и все. Живешь одним днем и не думаешь о будущем. }
-{441}{045}{Я смогу накопить! Дай мне только немного времени... }
-
-
-
-
-{450}{}{Что ж, ты знаешь, где меня найти. Если накопишь нужную сумму, то я открою тебе секрет. Хотя, в твоем случае, я в этом сильно сомневаюсь.}
-{451}{999}{Хорошо, я пойду поищу батарейки.}
-
-
-
-
-{460}{}{Ладно, открою тебе секрет. Дело в том, что Даниэль - не от Марка! Люси родила его после интрижки с Даном, и даже назвала сына в его честь. Если Марк об этом узнает, он вполне может передумать назначать Даниэля мэром. И я смогу снова стать руководителем НМП!}
-{461}{010}{Ух ты, это многое меняет. Я хотел бы узнать еще кое-что.}
-
-
-
-
-{470}{}{[Сэм застыл] Черт... Я знал, что рано или поздно об этом узнают... }
-{471}{048}{Пока знаю только я. И я не скажу никому, если ты извинишься перед Люси и будешь делать, что она скажет. Это для спокойствия вашей семьи.}
-
-
-
-
-{480}{}{[Сэм начинает злиться] Я не пойду к ней извиняться! Эта баба спит со всеми подряд! }
-{481}{049}{Пойдешь и извинишься. У тебя нет выбора, если хочешь и дальше продолжать воровать батарейки и не умереть без лекарств.}
-
-
-
-
-{490}{}{[Сэм печально опускает плечи] Хорошо... Я пойду и извинюсь перед ней. Но о краже никто не должен знать.}
-{491}{010}{Так-то лучше. Это будет наш маленький секрет. Теперь еще вопрос.}
-
-
-
-
-{500}{}{[Сэм внимательно выслушивает Ваши рекомендации по уходу за кожей и предотвращению разложения тканей] Действительно, ты большой специалист. Я это уважаю.}
-{501}{036}{Я же говорил! Ну так что, откроешь мне секрет?}
-
-
-
-
-{510}{}{Ты знаешь почему вода из Лайвос испортилась?}
-{511}{010}{Пока нет, я работаю над этим... Я хотел другое спросить.}
-{512}{052}{Да, я выяснил причину.}
-
-
-
-
-{520}{}{И что там?}
-{521}{053}{Поставки воды у Лайвос сильно возросли, и их водяной фильтр не справляется. Поэтому, они начали дополнительно использовать бочки с угольным фильтром. От этого и появился привкус.}
-
-
-
-
-{530}{}{Понятно. Значит, с водой все в порядке, не нужно беспокоиться. Мы ведь раньше тоже использовали старые довоенные угольные фильтры, пока они не вышли из строя. Я думаю, в наших запасах предусмотрена сумма на решение этой проблемы... [Сэм дает мешочек батареек]}
-{531}{999}{Спасибо, мне это пригодится.}
-{532}{999}{Спасибо, но мне не нужно награды. Я был рад помочь.}
-{533}{999}{Спасибо, но это мой долг, как руководителя - заботится о процветании города. А деньги пусти на хозяйственные нужды.}
-
-
-
-{540}{}{Основное мое занятие - помогать мэру управлять НМП. Также я слежу за поставками воды из Лайвос. }
-{541}{055}{Наверняка у тебя есть работка для меня...}
-{542}{010}{Понятно. Еще один вопрос.}
-
-
-
-
-
-{550}{}{Пожалуй, я могу поручить тебе одно дело. Лайвос регулярно поставлял нам воду, всегда хорошего качества, не было никаких проблем. Но последняя поставка воды меня настораживает. }
-{551}{056}{Что не так с этой водой?}
-
-
-
-
-{560}{}{Вода имеет какой-то непонятный привкус, которого раньше не было. Нужно узнать, почему вода стала другой.}
-{561}{010}{Нет, сейчас меня не интересует работа. У меня другой вопрос.}
-{562}{057}{Хорошо, я попробую узнать, что случилось с водой.}
-
-
-
-
-{570}{}{Отлично. Ты должен сходить в Лайвос и выяснить причину. Потом доложишь мне. Я могу показать на карте, где находится Лайвос. А также отмечу Тин Индастриз, если это необходимо. Это тебе в качестве подарка.}
-{571}{999}{Спасибо. Отметь эти места на карте.}
-{572}{999}{Я знаю, где они находятся. Я схожу в Лайвос и узнаю, почему вода испортилась.}
-
-
-{580}{}{Я думаю Люси сделает все, чтоб ее отпрыск занял пост. Ничего хорошего это не светит. По мне так я должен стать у руля до тех пор, пока он не наберется ума.}
-{581}{010}{Ясно... еще вопрос...}
-{582}{999}{Ясно, спасибо за честность.}
-
-
-{590}{}{Нормально. Надеюсь ты не планируешь тут все кардинально менять. Хочу тебе напомнить, что я - твой советник.}
-{591}{}{Дел очень много. Но у меня большие планы! }
-{592}{}{Я удручен. Надеюсь этому маленькому придурку мозг придет быстрее, чем я думаю. }
-{593}{060}{Да, по поводу твоей работы...}
-{594}{073}{Помощь не нужна?}
-{595}{074}{Да ладно тебе, не убивайся ты так!}
-{596}{999}{Слушай, мне пора бежать. Много дел!}
-
-
-{600}{}{Да?}
-{601}{061}{Мне больше не нужен советник. Ты можешь быть свободен. }
-{602}{072}{Я бы хотел чтобы ты полностью управлял городом пока я занят...}
-{603}{066}{Знаешь, я не очень люблю мертвяков...}
-
-
-{610}{}{[Сэм опустил голову. Он молча стоит, рассматривая свои старые дырявые ботинки]}
-{611}{062}{Да ладно, я пошутил.}
-{612}{063}{Ну, жить можешь тут. Но тебе стоит подыскать новую работу. }
-{613}{063}{Проваливай с глаз моих.}
-{614}{065}{Проваливай. И чтобы тебя в городе через сутки не было!}
-
-
-{620}{}{[он обескураженно смотрит на Вас]}
-{621}{999}{Расслабься. Постараюсь так больше не шутить. Ты приходи в себя, я еще загляну.}
-{622}{999}{Тебе полезны встряски. Давай, приходи в себя, я еще загляну.}
-
-
-{630}{}{Но...}
-{631}{999}{Я сказал свое слово. А теперь отвали.}
-{632}{064}{Ты ща договоришься - отправлю искать милостыню в других городах.}
-
-
-{640}{}{[Сэм попятился от Вас. Он был размазан, подавлен, пережеван и выплюнут на обочину жизни. Он ссутулился и куда-то пошел]}
-{641}{999}{[конец диалога]}
-
-
-{650}{}{[Он побелел настолько, насколько вообще способен побелеть труп. Кажется он до конца еще не осознал что ему сказали. Однако, лицо уже выдало подавленность и разбитость] За что?}
-{651}{999}{Просто вали отсюда. Чтобы через сутки тебя не было в городе. Усек?}
-{652}{999}{Просто свали. Перед уходом можешь взять отступные из казны города - свои месячные расходы. Завтра тебя тут быть не должно.}
-
-
-{660}{}{Это проблема?}
-{661}{067}{Да.}
-{662}{069}{Пока не знаю. Посмотрим.}
-
-
-{670}{}{И что мы будем делать?}
-{671}{068}{Пока что ничего. Просто хочу чтобы ты знал что ты мне противен.}
-{672}{063}{Для начала - сменим твою профессию. Я думаю - работник на конвеере завода - отлично тебе подойдет.}
-
-
-{680}{}{Это все? }
-{681}{999}{Да, возвращайся к своим крысиным обязанностям. }
-
-
-{690}{}{Раз такое дело - не мог бы ты меня не отвлекать? Я тут вообще-то город на плаву держу, проблемы решаю.}
-{691}{071}{Молодец. Возьми с полки пирожок. Там их два. Твой - посередине.}
-{692}{070}{Что-то ты не проявляешь уважения к своему начальнику...}
-{693}{999}{Да, пожалуй пока что ты можешь разгребать все говно, пока я отдыхаю.}
-
-
-{700}{}{Просто это взаимно.}
-{701}{063}{Ох, раз так об этом говорить... думаю, пора сменить твою профессию...}
-
-
-{710}{}{Что?}
-{711}{063}{Я говорю что у меня для тебя приз. Новая работа. }
-{712}{999}{Ничего. Не расслабляйся. И давай, разгребай уже все говно. В городе проблем черти сколько, а там и лаваш не валялся. Давай, работай, пока я не нашел тебе замену.}
-
-
-{720}{}{Разумеется. Я сделаю все в лучшем виде. Я пока тут пытаюсь сгладить углы все. Народ много вопросов задает, волнуется. Как утрясу, а на это нужно немало времени, можно подумать над расширением города, отстройке дополнительных корпусов завода, увеличению караванов. Я дам знать, когда мы будем готовы.}
-{721}{999}{Отлично. Держи меня в курсе.}
-
-
-{730}{}{О, нет, спасибо. Думаю, тут нужно работать именно мне. Но спасибо за предложение. Я учту на будущее. А теперь - извини, но у меня много работы.}
-{731}{999}{Да, конечно. До скорого.}
-
-
-{740}{}{Это юмор такой? [Сэм закатил глаза и вздохнул] Ладно, извини, но сейчас я не могу говорить. Нужно готовить все к ремонту "дворца повелителя". }
-{741}{999}{Окей, удачи тебе.}
-
-
-{750}{}{Вас преследует мысль что стоило взять деньги. Все равно его благодарность на хлеб не намажешь...}
-{751}{}{Хм?.. [смотрит сквозь Вас]}
-{752}{}{А?.. Да, я просто работаю...}
-{753}{}{Да-да, конечно... как скажете...}
+{750}{}{You have a thought stuck in your head that you should have taken the money. His gratitude has no physical value, after all...}
+{751}{}{Huh?.. [looks through you]}
+{752}{}{Huh?.. Yeah, I'm just working...}
+{753}{}{Yeah, yeah, sure... As you say...}

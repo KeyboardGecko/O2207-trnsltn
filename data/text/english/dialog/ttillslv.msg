@@ -24,15 +24,15 @@
 #
 # äî çíàêîìñòâà
 #
-{1}{}{You see: a wounded servant.}
-{2}{}{You see: a healed servant.}
+{1}{}{You see a wounded servant.}
+{2}{}{You see a healed servant.}
 #
 # ïîñëå çíàêîìñòâà
 #
 {3}{}{This poor sob could really use a doctor's help.}
-{4}{}{You watch with satisfaction at the result of your medical deed.}
+{4}{}{You gaze with satisfaction at the result of your medical deed.}
 #
-{5}{}{You tried as hard as you could, but failed to cure this wound. Maybe you should try again?}
+{5}{}{You put as many efforts as you can, but fail to cure this wound. Maybe you should try again?}
 {6}{}{Perfect! You've managed to cure this servant!}
 {7}{}{}
 {8}{}{}
@@ -49,7 +49,7 @@
 {16}{}{You put me on my feet!}
 {17}{}{Oh, thank you! Now I can serve much harder than before!}
 {18}{}{Thank you, I feel much better!}
-{19}{}{Thanks a lot! Finally I can go back to work!}
+{19}{}{Thanks a lot! At last I can go back to work!}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÏÎÑËÅ ÇÍÀÊÎÌÑÒÂÀ
 #

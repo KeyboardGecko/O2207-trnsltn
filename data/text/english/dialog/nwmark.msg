@@ -11,11 +11,11 @@
 #éèàëÄçàÖ äêàííÖêÄ
 #
 # §Æ ß≠†™Æ¨·‚¢†
-{1}{}{You see: a sick, old man.}
+{1}{}{You see a sick, old man.}
 {2}{}{The man looks at you with shrewd, wise look.}
 #
 # ØÆ·´• ß≠†™Æ¨·‚¢†
-{3}{}{You see: Mark.}
+{3}{}{You see Mark.}
 {4}{}{He is carefully looking through some documents.}
 #
 #áÑÖëú çÄóàçÄÖíëü ÑàÄãéÉ
@@ -76,7 +76,7 @@
 {111}{999}{Okay. I got it, already leaving...}
 
 
-{120}{}{Is that so? [he stops what he has been doing and moves closer] I asked people to keep an eye on you. If you would do something, I would immediately knew. So, stop wasting my time! Go make yourself useful or try your luck somewhere else. With the Dogs, for example. They like your kind. }
+{120}{}{Is that so? [he stops what he has been doing and moves closer] I asked people to keep an eye on you. If you would do something, I would immediately knew. So, stop wasting my time! Go make yourself useful or try your luck somewhere else. With the Jackals, for example. They like your kind. }
 {121}{999}{Okay, okay! I'm going!}
 
 
@@ -213,10 +213,10 @@
 
 
 {380}{}{Everyone is equal to me here, I can't say someone stands out much. Maybe you'll ask more specific question? Who do you want to know about?}
-{381}{041}{Buck}
+{381}{041}{Burns}
 {382}{042}{Daniel}
-{383}{044}{Dunn}
-{384}{047}{Arson}
+{383}{044}{Dan}
+{384}{047}{Arsene}
 {385}{048}{Maurissa}
 {386}{049}{Juan}
 {387}{039}{[next]}
@@ -248,7 +248,7 @@
 {409}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{410}{}{Buck... He is a good man, despite having manners more suitable to a lavash corral janitor, than to the head of guards. But I'm fully confident with him. He is ready to do anything to keep us and our home safe. A piece of advice for you: do not talk to him about women - he will tire you with his success-stories, filled with a lot more toilet humor than his usual conversations...}
+{410}{}{Burns... He is a good man, despite having manners more suitable to a Lavash corral janitor, than to the head of guards. But I'm fully confident with him. He is ready to do anything to keep us and our home safe. A piece of advice for you: do not talk to him about women - he will tire you with his success-stories, filled with a lot more toilet humor than his usual conversations...}
 {411}{038}{[ask about someone else]}
 {412}{031}{A valuable advice... but I'd like to go back to questions about the town.}
 {413}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -267,7 +267,7 @@
 {433}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{440}{}{Dunn? Rude, harsh and sneaky. Buck used to notice him doing little mean things a couple of times. A petty crook, in my view. }
+{440}{}{Dan? Rude, harsh and sneaky. Burns used to notice him doing little mean things a couple of times. A petty crook, in my view. }
 {441}{045}{Why won't you throw him out then?}
 {442}{038}{I don't think he's of interest to me. Let's talk about someone else?}
 {443}{031}{Yeah... Let's get back to questions about town.}
@@ -287,7 +287,7 @@
 {463}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{470}{}{Arson? Good for nothing mess without his own opinion. My son's buddy. Can't say I'm delighted to interact with him. He has a very cluttered mind.}
+{470}{}{Arsene? Good for nothing mess without his own opinion. My son's buddy. Can't say I'm delighted to interact with him. He has a very cluttered mind.}
 {471}{038}{Looks like I'll hardly get any value from communicating with him... let's talk about someone else?}
 {472}{031}{Yeah... Let's get back to questions about the town.}
 {473}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -346,7 +346,7 @@
 {563}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
 
 
-{570}{}{He's one of our best butchers. As long as I can remember - never met anyone else who can be so enthusiastic about dismembering the lavash. He is doing it so precise it's scary and beautiful at the same time. Especially considering that you can't always say if he's serious, or fooling around...}
+{570}{}{He's one of our best butchers. As long as I can remember - never met anyone else who can be so enthusiastic about dismembering the Lavash. He is doing it so precise it's scary and beautiful at the same time. Especially considering that you can't always say if he's serious, or fooling around...}
 {571}{038}{Okay, then I have some questions about other inhabitants.}
 {572}{031}{I see... Let's get back to questions about the town then.}
 {573}{999}{Uh... Mark, I need to run now, have some stuff to take care of...}
@@ -382,7 +382,7 @@
 
 
 {620}{}{Yes?}
-{621}{063}{I spoke to Buck... He told me that you have some kind of problem regarding your successor. He didn't get much into details, only said it would be better to discuss it with you.}
+{621}{063}{I spoke to Burns... He told me that you have some kind of problem regarding your successor. He didn't get much into details, only said it would be better to discuss it with you.}
 {622}{073}{Mark, I talked to everyone, just as you asked.}
 {623}{072}{I'm still in the process of doing my job. Just came by.}
 {624}{097}{About Sam's election...}
@@ -393,7 +393,7 @@
 {6301}{}{I wonder why someone who has nothing to do with my problems just comes around and offers to help?}
 {631}{064}{Well, uh... I like politics and currency, you know. Hey, relax! I'll make my benefit. Pretty sure that there's a reward for helping in the main town matters, am I right?}
 {632}{064}{Because I want to make a life better. I meant my life, of course. Is there a reward?}
-{633}{065}{I had a really good talk with Buck. And I've seen how you all live here. Just want to help. Honestly.}
+{633}{065}{I had a really good talk with Burns. And I've seen how you all live here. Just want to help. Honestly.}
 {6302}{}{Glad to see you. Yeah, your help might come in handy...}
 {635}{066}{[listen]}
 
@@ -428,7 +428,7 @@
 {691}{070}{So what is needed from me?}
 
 
-{700}{}{You have a fresh eye. Talk to Daniel, try to assess what's going on in his head. Maybe there's also some point in talking about Daniel with Buck first. Or maybe to his friend, Arson. And talk to Sam, he's his grandfather and spends much more time with him. Do not talk to Lucy though. She'll try to put things in a better light, stuff like that. We don't need it. Get back to me when you'll find out what's what.}
+{700}{}{You have a fresh eye. Talk to Daniel, try to assess what's going on in his head. Maybe there's also some point in talking about Daniel with Burns first. Or maybe to his friend, Arsene. And talk to Sam, he's his grandfather and spends much more time with him. Do not talk to Lucy though. She'll try to put things in a better light, stuff like that. We don't need it. Get back to me when you'll find out what's what.}
 {701}{999}{Okay. Be right back.}
 
 
@@ -487,7 +487,7 @@
 {804}{084}{I see. In general, I have no more questions. Maybe you want to say some words of encouragement?}
 
 
-{810}{}{Hmm... You'll manage. Sam and Buck will be there for you with their advices, if you need them. Generally, the leader defines external and internal politics, starting from dividing the revenue and supplies, and all the way to the war duties and trade activities. The responsibility is pretty big, but don't be afraid - I'm not goiing to cemetery so soon. So I will provide help as long as I can, slowly introducing you into our key matters. Anyway, everyone else will already consider you as a leader. I need a couple more days to finish some preparations and announce my successor. Don't be surprised if people will suddenly start to pester you with their requests.}
+{810}{}{Hmm... You'll manage. Sam and Burns will be there for you with their advices, if you need them. Generally, the leader defines external and internal politics, starting from dividing the revenue and supplies, and all the way to the war duties and trade activities. The responsibility is pretty big, but don't be afraid - I'm not goiing to cemetery so soon. So I will provide help as long as I can, slowly introducing you into our key matters. Anyway, everyone else will already consider you as a leader. I need a couple more days to finish some preparations and announce my successor. Don't be surprised if people will suddenly start to pester you with their requests.}
 {811}{080}{Okay, I understood that part. Still, I have some questions...}
 {812}{084}{I see. In general, I have no more questions. Maybe you want to say some words of encouragement?}
 
@@ -532,7 +532,7 @@
 {901}{091}{Should I talk to every resident here? Really?}
 
 
-{910}{}{No, not to everyone. Only to the ones that folk listens to. Talk to Juan, Cyren, Flint, Owen, Buck and Hinder.}
+{910}{}{No, not to everyone. Only to the ones that folk listens to. Talk to Juan, Cyren, Flint, Owen, Burns and Hinder.}
 {911}{999}{Well... Okay. I'll try to do something with it. Will be back when Sam's reputation is equal to one of the saints, or something.}
 
 {920}{}{One more thing, if you are worried about the reward - there will be, once you're done with this. }
@@ -540,7 +540,7 @@
 
 
 {930}{}{Still joking around? Tell me straight - yes or no.}
-{931}{078}{Yes. But I still don't het it - you have inheritance of leader position here, right?}
+{931}{078}{Yes. But I still don't get it - you have inheritance of leader's position here, right?}
 {932}{087}{Sounds really promising, yes... but I don't think this is where I should belong. It's like dressing me as a stripper and putting me on the pole. Why don't you... Why don't you put Sam on this position?}
 
 
@@ -592,7 +592,7 @@
 {1035}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 
 
-{1040}{}{Studying, just as he promised. There are some rumors going that he still hangs out with Arson, although I forbade it. But while everything looks so good - I prefer not to touch this topic very often.}
+{1040}{}{Studying, just as he promised. There are some rumors going that he still hangs out with Arsene, although I forbade it. But while everything looks so good - I prefer not to touch this topic very often.}
 {1041}{107}{And what about you? Think you can handle tutoring him before your time comes?}
 {1042}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 
@@ -611,10 +611,10 @@
 {1071}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 
 {1080}{}{Skeet? That thief of our canned food? And what do you want to tell me about him?}
-{1081}{109}{He had nothing to do with stealing! The canned food has been eaten by an old chimera. I killed it.}
+{1081}{109}{He had nothing to do with stealing! The canned food has been eaten by an old Chimera. I killed it.}
 {1082}{999}{Nothing... Except I think he is innocent here. I will find a way to prove it.}
-{1083}{}{Well, that fits. Our watchmen really detected an old chimera in our warehouse. It's so good that no one got hurt... As for Skeet - of course we'll release him. And... Yeah, we owe him an apology.}
+{1083}{}{Well, that fits. Our watchmen really detected an old Chimera in our warehouse. It's so good that no one got hurt... As for Skeet - of course we'll release him. And... Yeah, we owe him an apology.}
 {1084}{999}{Great. Glad that justice was served.}
 
-{1090}{}{So it's true. Amazing! When I was told about that dead chimera - I couldn't believe it. And turns out it's you who killed it! It's so good that no one got hurt. You did a big favor to us! As for Skeet - of course we'll release him. And... Yeah, we owe him an apology.}
+{1090}{}{So it's true. Amazing! When I was told about that dead Chimera - I couldn't believe it. And turns out it's you who killed it! It's so good that no one got hurt. You did a big favor to us! As for Skeet - of course we'll release him. And... Yeah, we owe him an apology.}
 {1091}{109}{Great. Glad that justice was served.}

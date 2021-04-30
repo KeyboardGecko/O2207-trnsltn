@@ -11,11 +11,11 @@
 #éèàëÄçàÖ äêàííÖêÄ
 #
 # §Æ ß≠†™Æ¨·‚¢†
-{1}{}{You see: beautiful, well-groomed woman.}
+{1}{}{You see a beautiful, well-groomed woman.}
 {2}{}{She looks pretty attractive, despite her age. She is definitely not of "working class".}
 #
 # ØÆ·´• ß≠†™Æ¨·‚¢†
-{3}{}{You see: Lucy.}
+{3}{}{You see Lucy.}
 {4}{}{She looks flawless, as always.}
 #
 #áÑÖëú çÄóàçÄÖíëü ÑàÄãéÉ
@@ -27,7 +27,7 @@
 
 {20}{}{[you hear curiosity in her voice] Oh, I'm so glad do meet a new people in our town! My name is Lucy, I'm Mark's wife. Come, make yourself at home, let's have a chat.}
 {21}{003}{I'm also fond of meeting new people. You can learn so much new information from them!}
-{22}{015}{I like talking to new peolpe too. You can make a lot of benefit from it.}
+{22}{015}{I like talking to new people too. You can make a lot of benefit from it.}
 {23}{017}{I don't like to talk sideways. Usually, I'm specific.}
 {24}{018}{Actually I'm not much of a talker. I prefer to act first, then ask questions.}
 {25}{010}{Thank you, but first I'd like to ask a few questions.}
@@ -228,8 +228,8 @@
 {311}{010}{Okay, let me ask another question.}
 
 
-{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use lavash waste as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
-{321}{033}{To rub some lavash GUANO into my face? Of course! I've always dreamed about it - about having such beautiful skin!}
+{320}{}{Correct! What's laying under our feet is capable of keeping our skin young and smooth! I use Lavash manure as a base for face masks and compresses. It contans a special component, which makes the skin Glowy, Unblemished, Absolutely Natural and Organic, or as I say abbreviated - "GUANO"! Wanna rub some? }
+{321}{033}{To rub some Lavash GUANO into my face? Of course! I've always dreamed about it - about having such beautiful skin!}
 {322}{010}{No way I'm getting this thing close... I mean, I'm good. Better ask you something else.}
 {323}{999}{Nah, don't wanna. Will better go to get some fresh air...}
 
@@ -293,9 +293,9 @@
 
 
 
-{410}{}{Mark is my husband, he is the mayor of NWO. He is always busy with his job, can't even talk to me, I need it so much! Also, lately, his health is not so good as before. And all this quarrels with Dunn are not helping at all!}
-{411}{048}{Why does he quarrel with Dunn?}
-{412}{049}{Tell me about Dunn.}
+{410}{}{Mark is my husband, he is the mayor of NWO. He is always busy with his job, can't even talk to me, I need it so much! Also, lately, his health is not so good as before. And all this quarrels with Dan are not helping at all!}
+{411}{048}{Why does he quarrel with Dan?}
+{412}{049}{Tell me about Dan.}
 {413}{040}{I want to ask more about family.}
 {414}{010}{I have another question.}
 
@@ -356,8 +356,8 @@
 
 
 
-{490}{}{Dunn is the opposite of Mark in matter of politics. They always disagree. After Mark dies, with my sweet Daniel becoming mayor, everything will be better... Dunn wouldn't quarrel with his son, after all.}
-{491}{050}{Wait, so Daniel is Dunn's son? Not Mark's?}
+{490}{}{Dan is the opposite of Mark in matter of politics. They always disagree. After Mark dies, with my sweet Daniel becoming mayor, everything will be better... Dan wouldn't quarrel with his son, after all.}
+{491}{050}{Wait, so Daniel is Dan's son? Not Mark's?}
 
 
 
@@ -377,7 +377,7 @@
 
 
 {520}{}{Oh, in everything! From dusk, when I'm tying his shoes, and until dawn, when I put him to bed. He is very mature, and with my help he will become a great mayor!}
-{521}{040}{Tying his shoes? I see, he is very mature.I want to ask more about family.}
+{521}{040}{Tying his shoes? I see, he is very mature. I want to ask more about family.}
 {522}{010}{He should be, if you even help him go to bed. Okay, another question.}
 {523}{999}{Yeah, the best one. I'll go talk to him.}
 

@@ -21,11 +21,11 @@
 #
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
-{1}{}{You see: a man.}
-{2}{}{You see: seeker.}
-{3}{}{You see: a man.}
-{4}{}{You see: seeker.}
-{5}{}{You see: seeker.}
+{1}{}{You see a man.}
+{2}{}{You see a Seeker.}
+{3}{}{You see a man.}
+{4}{}{You see a Seeker.}
+{5}{}{You see a Seeker.}
 {6}{}{He looks a bit tired.}
 {7}{}{His body is covered with scars.}
 {8}{}{He has a very intimidating look.}
@@ -76,7 +76,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Ñïÿùèå ñîîáùåíèÿ
 {1030}{}{::Zzzzz...::}

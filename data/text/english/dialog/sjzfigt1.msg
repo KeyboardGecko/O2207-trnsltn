@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: fighter.}
-{2}{}{You see: one of the Jackals.}
-{3}{}{You see: brawler.}
-{4}{}{You see: raider.}
-{5}{}{You see: one of thugs.}
+{1}{}{You see a fighter.}
+{2}{}{You see one of the Jackals.}
+{3}{}{You see a brawler.}
+{4}{}{You see a raider.}
+{5}{}{You see one of thugs.}
 {6}{}{He frantically beats the shit out of his opponent.}
 {7}{}{Looks like he is very busy with beating up his opponent.}
 {8}{}{He is covered with scars. Looks like it isn't his first time to walk on that ring.}
@@ -52,7 +52,7 @@
 {1003}{}{Huh?}
 {1004}{}{Just go away.}
 {1005}{}{Don't bother me, I need to rest...}
-{1006}{}{What else do you need?}
+{1006}{}{What do you need?}
 {1007}{}{[grins]}
 {1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
@@ -63,7 +63,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Just turn around and walk away!}
 {1015}{}{Don't bother me, I need to rest...}
-{1016}{}{What else do you need?}
+{1016}{}{What do you need?}
 {1017}{}{...All sorts of scum walking around...}
 {1018}{}{Leave me be, I have a work to do!}
 {1019}{}{Get lost!}
@@ -90,9 +90,9 @@
 {1038}{}{}
 {1039}{}{}
 # Отрицательные сообщения
-{1040}{}{Keep your hands to yourself, shmuck!}
+{1040}{}{Keep your hands to yourself, schmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

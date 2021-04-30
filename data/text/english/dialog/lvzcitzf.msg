@@ -21,11 +21,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: girl.}
-{2}{}{You see: local girl.}
-{3}{}{You see: a young girl.}
-{4}{}{You see: dweller of the vault.}
-{5}{}{You see: inhabitant of Livos.}
+{1}{}{You see a girl.}
+{2}{}{You see a local girl.}
+{3}{}{You see a young girl.}
+{4}{}{You see a dweller of the vault.}
+{5}{}{You see an inhabitant of Livos.}
 {6}{}{A young girl with a pale, scrawny face.}
 {7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
 {8}{}{Bags under her eyes are clumsily masked by some white powder. Or is it lime?..}
@@ -51,7 +51,7 @@
 {1002}{}{Hello! Let's hang out by the wine machine some time later!}
 {1003}{}{Yes, I'm glad to see you too.}
 {1004}{}{It's a wonderful day to have sex isn't it? [winks]}
-{1005}{}{I am *so* glad to see you!}
+{1005}{}{I am SO glad to see you!}
 {1006}{}{Hey there, mighty warrior!}
 {1007}{}{Anything for you, sweetie!}
 {1008}{}{You look so good in these pants!}

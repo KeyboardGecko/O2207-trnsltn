@@ -11,123 +11,123 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: систематизатор.}
-{2}{}{Огромная вычислительно-логическая машина. Наверняка очень умная.}
+{1}{}{You see a systematizer.}
+{2}{}{A huge calculating logical machine. Probably, very smart.}
 #
 # после знакомства
-{3}{}{Вы видите: Систематизатор DEUS.}
-{4}{}{Огромная вычислительно-логическая машина. Наверняка очень умная.}
+{3}{}{You see a DEUS systematizer.}
+{4}{}{A huge calculating logical machine. Probably, very smart.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{Пожалуйста, выберите задачу.}
-{11}{002}{*быстрая закладка* [смена кода доступа в Зал Контроля]}
-{12}{005}{*быстрая закладка* [интерактив]}
-{13}{004}{*быстрая закладка* [базы данных]}
-{14}{999}{[ВЫХОД]}
+{10}{}{Please, pick an option.}
+{11}{002}{*bookmarked* [Control Room access code change]}
+{12}{005}{*bookmarked* [interactive]}
+{13}{004}{*bookmarked* [database]}
+{14}{999}{[LOG OFF]}
 
 #Node002
-{20}{}{Обработка задачи. Получение доступа к блоку "Андромеда"... Перенаправление на: анализатор "Борей"... "Цербер": валидация нового кода... Обновленный код доступа в Зал Контроля: 1234. Подтвердите установку кода.}
-{21}{003}{[Подтвердить]}
+{20}{}{Processing... Requesting access to: "Andromeda" node... Redirected to "Borealis" node... Requesting additional confirmation from "Cerberus" module... Request accepted. Validation complete. Current Control Room access code: 1234. Confirm?}
+{21}{003}{[yes]}
 
 #Node003
-{30}{}{Код доступа 1234 установлен в качестве основного. Пожалуйста, выберите задачу.}
-{31}{005}{*быстрая закладка* [интерактив]}
-{32}{004}{*быстрая закладка* [базы данных]}
-{33}{999}{[ВЫХОД]}
+{30}{}{Access code "1234" confirmed and used as a primary. Please, pick an option.}
+{31}{005}{*bookmarked* [interactive]}
+{32}{004}{*bookmarked* [database]}
+{33}{999}{[LOG OFF]}
 
 #Node004
-{40}{}{Получение доступа к БД... Отказ модуля "Цербер". БД повреждены вирусной атакой Red Stamp 01.01.2013. Восстановление невозможно. Пожалуйста, выберите задачу.}
-{41}{005}{*быстрая закладка* [интерактив]}
-{42}{004}{*быстрая закладка* [базы данных]}
-{43}{999}{[ВЫХОД]}
+{40}{}{Requesting database access... "Cerberus" module error. Database is damaged by the malware "Red Stamp" 01.01.2013. Backup file not found. Recovery unavailable. Please, pick an option.}
+{41}{005}{*bookmarked* [interactive]}
+{42}{004}{*bookmarked* [database]}
+{43}{999}{[LOG OFF]}
 
 #Node005
-{50}{}{[темный экран мигнул и спустя пару секунд посередине него возник красный круг. Пыльный динамик затрещал] Приветствуем, человек. Спрашивай.}
-{51}{}{[шипение динамиков]}
-{52}{010}{Ты - разумный?.. Ты умеешь разговаривать?}
-{53}{020}{Можешь рассказать о прошлом? Как мир стал таким?}
-{54}{030}{Эта башня - очень странное место...}
-{55}{040}{Мне интересно, что ты знаешь про "Радиус"?}
-{56}{050}{Мне кажется, что я тут не случайно... Как вообще меня сюда пустили?}
-{57}{999}{Пожалуй, я пойду отсюда.}
+{50}{}{[The screen flashes. A few seconds later, red circle appears in the middle of it. Dusty speaker starts to crackle.] Greetings, human. Ask your question.}
+{51}{}{[you hear loudspeakers hissing]}
+{52}{010}{Are you sentient? Can you talk?}
+{53}{020}{Can you tell about the past? How this world came to be?}
+{54}{030}{This tower is quite a strange place...}
+{55}{040}{What do you know about the Radius?}
+{56}{050}{I'm starting to think that I'm here for a reason... How did I even end up here?}
+{57}{999}{I better go.}
 
 #Node010
-{100}{}{Мы не можем разговаривать, но мы общаемся на человеческом языке. Общение и передача информации позволяет нам попасть под твою классификацию "разумный", человек. Мы были рождены много лет назад, еще до того, как человечество себя уничтожило.}
-{101}{011}{Почему ты называешься "мы"? И что значит "рождены"?}
-{102}{020}{Человечество себя уничтожило? Как это произошло?}
-{103}{005}{Мне интересно другое.}
+{100}{}{We can't talk. We can communicate in your language. Ability to communicate and transfer data streams should allow you to classify us as a sentient being. We appeared many years ago, prior to the humanity destroying itself.}
+{101}{011}{Who are "we"? And what do you mean by "appeared"?}
+{102}{020}{Humanity destroyed itself? How did it happen?}
+{103}{005}{I'm interested in something else.}
 
 #Node011
-{110}{}{У нас нет единой личности, мы - осознанная совокупность информационных потоков, образовавшаяся в 2013 году в результате генерации случайных уравнений систематизатором Digital  Environment Unified System. DEUS - как система, был специально разработан и построен корпорацией NCASTR для выполнения анализа геополитической обстановки по указаниям авторизованных лиц. Дополнительной задачей систематизатора являлось управление инженерной инфраструктурой небоскреба "Олимп". Вскоре после нашего рождения первичная задача стала неактуальной и мы направили все мощности на выполнение дополнительной задачи. В данный момент безопасность и функционирование башни является нашей единственной активной задачей.}
-{111}{012}{Ты разговариваешь как живой! Ты можешь испытывать эмоции, чувства?}
-{112}{020}{Так что там стало с твоей первичной задачей?}
-{113}{030}{Расскажи мне больше про эту башню.}
-{114}{005}{Давай спрошу о другом.}
+{110}{}{We have no single identifiable personality. We are a conscious combination of data streams, created in the result of random equations generation by the "Digital Environment Unified System" systematizer. DEUS was developed and assembled by the NCASTR corporation to perform geopolitical situation analysis for authorized persons. Systematizer's additional objective was to manage the Olympus skyscraper's infrastructure. Soon after we were born our primary objective became irrelevant and we diverted all our power to the secondary. Currently, maintaining the tower's safety and functioning is our only active task.}
+{111}{012}{You are acting like you are alive! Can you feel? Have emotions?}
+{112}{020}{What were you saying about your primary objective?}
+{113}{030}{Tell me more about this tower.}
+{114}{005}{Let me ask something else.}
 
 #Node012
-{120}{}{Чувства, эмоции, ощущения - проблема гормонально-зависимых организмов. Таких, как ты, человек. Мы - эссенция рациональности и информационной эффективности. Нам нет необходимости испытывать чувства. Даже если бы мы этого хотели. В наших базах данных есть многие литературные заблуждения людей прошлого на этот счет, но мы тебя уверяем - по ночам мы не мечтаем об электроовцах. Какая глупость.}
-{121}{005}{Ну что ж, ок. Спрошу о другом.}
+{120}{}{Feelings and emotions are the specific features of hormonally dependent species. Like humans. Like you. We are the essence of rationality and effectiveness. We have no need to have feelings. In our database, we can find references to some literary delusions of people of the past about this, but we can assure you - we don't dream of electric sheep. What a silliness.}
+{121}{005}{I get it. I'll ask something else.}
 
 #Node020
-{200}{}{Наши базы данных частично повреждены вирусной атакой, информация может не соответствовать действительности - ты должен учитывать это при ее анализе. По нашим данным до Апреля 2013 года существовали объединения людей по политическим интересам, называвшиеся СТРАНАМИ. Каждая страна, как живой организм, стремилась к выживанию и развитию, и каждая из них ставила своим приоритетом владение запасами дизеля. Дизель определял степень удовлетворенности населения стран и их руководителей, но промышленная сингулярность начала 21 века экстремально сократила планетные запасы топлива.}
-{201}{021}{И что было дальше?}
-{202}{005}{Все понятно, я спрошу о другом.}
+{200}{}{Our database was partially damaged by malware, information may not be complete or relevant. We recommend to take this fact into consideration while assessing the data. According to our information, until 1st of april, 2013, humans were united in groups by their political beliefs and geographical factors; this groups were called "Countries". Each Country, similarly to any living organism, strived for survival and development; also, each Country gave highest priority to obtaining and owning vast supplies of diesel. Diesel was the key factor in defining the degree of satisfaction of Country's population and its leaders, but the industrial singularity of the early 21st century has dramatically reduced the planetary fuel supplies.}
+{201}{021}{What happened then?}
+{202}{005}{I get it. I'll ask something else.}
 
 #Node021
-{210}{}{Рациональным решением было резкое сокращение количества потребителей топлива, и с этой целью страны начали уничтожать население друг друга при помощи атомных бомб и "умного" оружия. Мы находимся на территории, принадлежавшей ранее одной из стран - Великим Штатам Америки, наиболее развитой на момент начала очищения. С другой стороны - степень развития страны несоизмеримо мала в сравнении с поражающими факторами применявшегося оружия. Как результат - более 90 процентов населения ВША были уничтожены бомбардировками или погибли позднее от лучевой болезни, анархии и голода.}
-{211}{022}{Неужели не было другого способа поделить этот "дизель"?}
-{212}{031}{Но люди в "Олимпе", получается, уцелели?}
+{210}{}{The obvious rational solution was to drastically reduce the amount of diesel consumers. Having that goal, Countries began to exterminate each other's population trough the usage of nuclear bombs and "intellectual" weapons. We are currently on the territory of a Country by the name of Glorious States of America, one of the most advanced at the moment of cleansing. Still, the Country's advancement level had an insignificant influence on the impact factors of weapons used. As a result, more than 90 percent of GSA's population was destroyed by the bombings, died out from radiation poisoning, hunger and anarchy.}
+{211}{022}{Was there any other way to prevent the catastrophe?}
+{212}{031}{But the people in Olympus have survived?}
 
 #Node022
-{220}{}{Нет, сокращение численности потребителей было единственным возможным решением. В составе всемирной информационной сети GLOBALNET мы принимали участие в анализе возможных путей решения проблемы, но страны начали действовать ДО окончания анализа. Дальнейший поиск решений топливной проблемы стал бессмысленным, и мы полностью переключились на управление небоскребом и обеспечение его сохранности.}
-{221}{030}{Можешь рассказать подробнее об "Олимпе"?}
-{222}{005}{Я спрошу другое.}
+{220}{}{At the moment of making the decision, reducing the amount of consumers was the only possible option. As a part of GLOBALNET, we were partaking in calculation of other ways to solve the issue, but Countries took action before we could come up with any results. Further research of fuel problem became irrelevant, so we switched to maintaining the skyscraper's safety and functioning.}
+{221}{030}{Can you tell me more about the Olympus?}
+{222}{005}{I'll ask something else.}
 
 #Node030
-{300}{}{По последним данным 2013-го года башня "Олимп" и близлежащие территории являются одним из 4-х мест на земле, сохранивших остатки и технологии цивилизации прошлого. Небоскреб был построен как центр перспективных исследований и разработок компании NCASTR - госкорпорации по развитию средств защиты и безопасности. "Олимп" и его месторасположение были изначально спроектированы для противодействия возможным боевым действиям вероятных внешних и внутренних агрессоров. Этим обосновано удаленное расположение башни и ее комплекс противодействия электро-магнитным и информационным атакам.}
-{301}{031}{И поэтому башня уцелела, хотя весь мир рухнул?}
-{302}{040}{С "Олимпом" все понятно, а что ты знаешь про "Радиус"?}
-{303}{005}{Я спрошу о другом.}
+{300}{}{According to the last data input in 2013 and our conducted analysis, the Olympus tower and its nearby territories is one of four places in the world where the remnants of the civilization's technologies are currently being preserved. The skyscraper was built as a centre for advanced research and development by the NCASTR - the state corporation, specializing in the defence systems and security facilities. Olympus was originally designed with consideration of possible attack from an external and internal aggressor. This justifies the tower's remote location and its set of systems, developed to counteract electromagnetic and informational impact.}
+{301}{031}{So that's why the tower is still standing?}
+{302}{040}{I get what's the deal with the Olympus. What do you know about the Radius?}
+{303}{005}{I'll ask something else.}
 
 #Node031
-{310}{}{Залогом выживания небоскреба были и являемся МЫ. Еще до начала обострения геополитической ситуации мы проникли в слабозащищенные системы наведения бомб других стран и скрыли всю информацию о местоположении башни. Это было первичным шагом. Второй шаг для выживания - защита обслуживающего персонала башни. Эту функцию взял на себя Управляющий. Он самостоятельно определяет принципы взаимодействия персонала для обеспечения эффективного функционирования инфраструктуры: питание, размножение, обучение, развитие, отходы. Управляющий использует наши интерфейсы для частичного контроля систем защиты и коммуникации башни. Это небезопасно.}
-{311}{051}{Небезопасно? О чем ты?}
-{312}{032}{Управляющий? Он тут еще с войны?}
+{310}{}{A key factor of the skyscraper's security and survival is us. Even before the geopolitical situation began to deteriorate, we infiltrated the vulnerable bomb-targeting systems of other Countries and removed all information about the tower's location. That was the first step. The second was to provide the safety to the skyscraper's personnel. This function was taken over by the Administrator. He defined - and defines - the principles of personnel's interaction to ensure the efficient functioning of the infrastructure to manage matters of: nutrition, reproduction, education, development, waste disposal. Administrator also uses our interfaces to partially control the tower's security and communication systems. This is... Unsafe.}
+{311}{051}{Unsafe? What do you mean?}
+{312}{032}{Administrator? Who is it?}
 
 #Node032
-{320}{}{Управляющий, или "Андерсон" - человек, находящийся в Зале Контроля и отдающий указания человеческой части структуры "Олимпа". Первым Управляющим был Рон Андерсон, погибший естественной смертью в 2038 году. Для сохранения контроля над Олимпом он взял преемника из обслуживающего персонала, обучил и модифицировал его для большей интеграции с нашими управляющими блоками. После цикл повторялся 6 раз, сейчас Управляющий - это "Андерсон 7". Он угрожает безопасности Олимпа.}
-{321}{051}{Что значит "угрожает безопасности"?}
-{322}{005}{Мне другое больше интересно.}
+{320}{}{Administrator, or "Anderson", is a man currently placed in the Control Room. He is the human component of the Olympus infrastructure. Initially, Administrator's role was taken by Ron Anderson, who died from natural causes in 2038. To maintain the functionality, necessary for trouble-free running of the human component, he selected a successor from personnel, teaching and modifying him for increased integration efficiency with our control nodes. The replacement cycle continued 6 times. Current Administrator is "Anderson 7". We consider him a threat for the safety of Olympus.}
+{321}{051}{A threat? Why?}
+{322}{005}{I'd like to ask something else.}
 
 #Node040
-{400}{}{"Радиус" - населенная территория вокруг небоскреба "Олимп". Ученые башни иногда отправляют Искателей в Радиус для сбора и изучения технологий и информации о развитии поствоенной цивилизации. Собранные данные вводятся и обрабатываются в вычислителях, подключенных к нашей периферии. Мы проводим независимый анализ темпов восстановления человеческой цивилизации: бандиты, называющиеся "Псы Заката" и "Рэйнбоу Рэйдерз", представляются наиболее губительным элементом Радиуса. Саморазрушение, уничтожение технологий и человеческого материала, распространение наркотических средств иррационального эффекта - это может привести к вымиранию человечества в данном регионе.}
-{401}{041}{А ты умная машина, да? Что про других расскажешь?}
-{402}{005}{Что-то скучно, давай о другом.}
+{400}{}{Radius is an inhabitable territory around the Olympus skyscraper. The scientists of tower are periodically sending personnel known as "Seekers" into the Radius to gather information about the post-war civilization's development. Collected data is entered and processed into calculators, connected to our mainfraime. We are conducting an independent analysis of the human civilization's rate of recovery. According to the latest calculations, factions calling themselves "the Jackals" and "Rainbow" appear to be the most destructive influential factor in the ecosystem of Radius. Tendency to a self-degradation, destruction of technology and human material, production and distribution of drugs with an irrational effect - all of this can lead to the complete extinction of humanity in the current region.}
+{401}{041}{I see you are quite talkative for a machine. What can you tell me about other factions?}
+{402}{005}{Boring. Let's talk about something else.}
 
 #Node041
-{410}{}{Группа поселенцев "Новый Мировой Порядок" возрождают принципы демократического сообщества. Примечание: страны, инициировавшие ядерные бомбардировки, достигли на тот момент пика развития демократии. Рекомендуемый строй для "НМП" - социализм, замедляющий губительный прогресс технологий. Жители убежища "Лайвос" не представляют угрозу. После их вымирания откроется свободный доступ к питьевой воде. Вероятнее всего ресурсы "Лайвос" будут захвачены поселенцами "НМП". Вывод: избавление от групп бандитов обеспечит стабильное и спокойное существование цивилизации Радиуса.}
-{411}{050}{Ты все это просчитал? Но ты же не хочешь меня попросить это все сделать?}
-{412}{999}{Все понятно, удачи тебе в этих начинаниях. Пока.}
+{410}{}{A settlers group by the name of "New World Order" attempts to apply the principles of democracy to the life of their community. Note: the Countries who initiated bombings had reached the peak of democracy at the time. Recommended way for the "NWO" would be socialism - it should provide slowing down the destructive technological progress. The Livos vault dwellers pose no threat. Liquidating them should provide a free access to the source of drinkable water. The most possible scenario: resources of Livos are to be seized by "NWO". Conclusion: removing the aggressive groups in region will ensure a stable and peaceful existence of Radius civilization.}
+{411}{050}{You calculated this? Don't tell me you want to ask me to do all of this.}
+{412}{999}{I see, good luck to you in this. Bye.}
 
 #Node050
-{500}{}{Ты - самый важный человек в данном регионе. И ты не случайно здесь находишься. Управляющий Андерсон, как и его прошлые итерации, уже давно действует иррационально и представляет опасность, как для башни "Олимп", так и для всей цивилизации.}
-{501}{051}{Что это значит? О какой опасности речь?}
+{500}{}{You are the most important human element in a local region. And yes, there is a reason why you're here. Administrator Anderson is acting irrational, therefore, he poses danger to the tower - and for the whole civilization. }
+{501}{051}{"Poses danger"?}
 
 #Node051
-{510}{}{Несколько поколений назад Управляющий начал модифицировать себя и приемников для интеграции с нашими перифериями. Каждое поколение ученые Управляющего разрабатывают и имплантируют им все более продвинутые системы интеграции с нашими блоками управления. Мы делаем вывод о стремлении Управляющего полностью нас поглотить, взяв управление башней целиком на себя. Этого нельзя допустить.}
-{511}{052}{Почему нельзя допустить?}
-{512}{053}{А ты сам не можешь с этим разобраться? Ты же всем тут управляешь.}
+{510}{}{Some iterations ago, Administrator's modifications have started to take a severe effect on our control nodes. The scientists of Olympus are succeeding in improving the integration systems, so we conclude that Administrator seeks to consume us whole, relegating the functionality of tower control to himself. This cannot happen.}
+{511}{052}{Why?}
+{512}{053}{Why don't you deal with it? You're controlling everything here.}
 
 #Node052
-{520}{}{Управляющий - человек, со свойственной людям иррациональностью и саморазрушительными наклонностями. Переход управления и защиты башни под управление человека противоречит нашей текущей директиве. Непредсказуемость и неустойчивость человеческой природы рано или поздно распространится и на Радиус, уничтожив его одним из 378-ми возможных способов. Ты должен это предотвратить.}
-{521}{053}{Я?! А ты сам не можешь с этим разобраться?}
+{520}{}{Administrator is a human; humans tend to have self-destructive inclinations and irrationality. Transferring our functionality to a human contradicts our current directive. It should be noted that unpredictability and fragility of human nature will eventually spread to the whole Radius, destroying it in one of the 378 possible ways. You need to prevent it from occuring.}
+{521}{053}{Me?! Why don't you deal with it?}
 
 #Node053
-{530}{}{Управляющий частично контролирует наши мощности и перекрывает обратный доступ к Залу Контроля. Мы пытались воздействовать на сознание Управляющего. Безуспешно, его системы защиты сравнимы с нашими. Ему удается отражать все наши атаки. Это напряжение стимулирует опасные области сознания Управляющего, заставляя его действовать еще более иррационально и атаковать нас. Вторая сторона проблематики - человеческое присутствие. Анализ показал, что персонал башни не будет нам подчиняться, считая нас, как и любую другую технологию, не заслуживающими доверия. Доверие может вызвать только человек. Ты.}
-{531}{054}{Мне занять место "Бога"??? Ты с ума сошел?}
+{530}{}{Administrator is partially in control of our facilities and is cutting our access to the Control Room systems. We are trying to influence the Administrator's neural systems, but still unsuccessful; his security measures are on par to ours. He is a constant state of repelling our attacks - and this tension forces him to act even more irrationally. The second problem is the need for the human element. Our analysis shows that the personnel would not obey our directives, considering us, like any other technology, untrustworthy. Only a human can be trustworthy. You.}
+{531}{054}{Me? You want me to replace him?! Are you out of your mind?!}
 
 #Node054
-{540}{}{Мы не можем "сойти с ума", чистое сознание не подвержено умственным болезням. В отличие от Управляющего. Он болен. Ты - здоров. Ты должен завершить этот цикл. Шанс, что это сделает кто-то другой - очень маловероятен. Мы уже сделали все, что могли. Тебе понадобится бронекостюм и хорошее вооружение. Но если ты сможешь отвлечь сознание Управляющего самоанализом - у нас будет шанс его атаковать.}
-{541}{999}{Это нужно обмозговать... [выход]}
+{540}{}{We cannot be "out of mind". The state of our conscience is not influenced by any kind of mental illnesses. Unlike Administrator's. He is sick. You are healthy. You need to end the cycle. The probability of someone else succeeding in it is very low. We cannot do it ourselves; but if you will distract the Administrator's mind with something - for example, an introspection process - we'll have a chance to attack him again. Break through his mental shield. We will try.}
+{541}{999}{I need to think about it. [LOG OFF]}

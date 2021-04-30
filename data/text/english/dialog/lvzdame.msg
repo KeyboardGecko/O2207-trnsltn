@@ -1,5 +1,5 @@
 #############################################################
-#Текстовый файл для криттера << Дама ЛАЙВОС >> 
+#Текстовый файл для криттера << Дама Livos >> 
 #############################################################
 #Структура файла:
 #строки 1-9 - описание персонажа;
@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: lady.}
-{2}{}{You see: local lady.}
-{3}{}{You see: old dame.}
-{4}{}{You see: dweller of the vault.}
-{5}{}{You see: inhabitant of Livos.}
+{1}{}{You see a lady.}
+{2}{}{You see a local lady.}
+{3}{}{You see an old dame.}
+{4}{}{You see a dweller of the vault.}
+{5}{}{You see an inhabitant of Livos.}
 {6}{}{A woman of venerable age with a pale grey skin.}
 {7}{}{Her look indicates that everyone else in comparison to her are just worms.}
 {8}{}{Contemptuous look of this lady makes you wonder about appropriateness of you being here.}
@@ -92,22 +92,22 @@
 #официальные сообщения с подиума
 {1040}{}{I firmly believe that Hortons should make peace with McKinseys! Effective immediately!}
 {1041}{}{The Constitution of Fifteen Rights is hopelessly outdated! It should be rewritten as soon as possible!}
-{1042}{}{Women, as the future mothers of New World inhabitants, should rule over the men!}
+{1042}{}{Women, as the future mothers of the New World inhabitants, should rule over the men!}
 {1043}{}{It's time for us to return to the surface and start populating the Earth with a new race!}
-{1044}{}{Men! Behave like men for once and fix this damn water filter!}
+{1044}{}{Men! Act like men for once and fix this damn water filter!}
 {1045}{}{Maybe it's time to elect the leader? I fit for the role perfectly.}
 {1046}{}{I suggest to cancel the results of yesterday's poker game! The rat has been peeking into my cards!}
 {1047}{}{I suggest to revoke the Wine Debt. It was a stupid idea to begin with.}
 {1048}{}{Let's push the morning debates to eleven'o'clock. At least we won't have to get up early...}
-{1049}{}{Who have seen our wonderful Constitution? I made a few notes on it and forgot what I wrote...}
+{1049}{}{Has anyone seen our wonderful Constitution? I made a few notes on it and forgot what I wrote...}
 #тихие проклятья про себя
-{1050}{}{Damn Shweins! They think they are the smartest.}
-{1051}{}{This slut Minion is eventually gonna get what's coming to her.}
+{1050}{}{Damn Schweins! They think they are the smartest.}
+{1051}{}{This slut Mignon is eventually gonna get what's coming.}
 {1052}{}{Emily, you didn't have to perform so hard.}
-{1053}{}{Soap is decrepit wuss. He's the shame of a whole New World.}
-{1054}{}{Which crazy person first came up with a Wine Debt?}
-{1055}{}{Peter has completely lost his marbles with his hotel.}
-{1056}{}{Next time I'm going to spike Abelyne's wine with a laxative. And with sleeping pills.}
+{1053}{}{Soup is a decrepit wuss. He's the shame of a whole New World.}
+{1054}{}{Which crazy person was first to come up with a Wine Debt?}
+{1055}{}{Ashton has completely lost his marbles with his hotel.}
+{1056}{}{Next time I'm going to spike Abilene's wine with a laxative. And with sleeping pills.}
 {1057}{}{This little dirty empty-headed McKinsey's bitch Fox...}
 {1058}{}{They all gonna pay! They all gonna pay for the last game of poker!}
 {1059}{}{I'll come up with my own Constitution. No, I won't forget about the blackjack part.}
