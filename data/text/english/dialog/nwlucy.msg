@@ -33,7 +33,7 @@
 {25}{010}{Thank you, but first I'd like to ask a few questions.}
 {26}{999}{Thanks, but not now, I'm in a hurry. Talk later.}
 
-{30}{}{[she brightens up] That's what I think too! Learning new things is so interesting! It's very boring here, no one to have a normal discussion with, while there's so much stuff going on around! For example, recently husband of my friend's sister caught my friend's brother making out with her sister, and then she... [you are caught into a long monologue about relationships between NWP's inhabitants] ...and turns out my friend actually cheated on her husband with his brother!}
+{30}{}{[she brightens up] That's what I think too! Learning new things is so interesting! It's very boring here, no one to have a normal discussion with, while there's so much stuff going on around! For example, recently husband of my friend's sister caught my friend's brother making out with her sister, and then she... [you are caught into a long monologue about relationships between NWO's inhabitants] ...and turns out my friend actually cheated on her husband with his brother!}
 {31}{004}{[you listen with you mouth wide open, with attention to every detail] How could this happen!}
 {32}{008}{[you pretend to listen carefully, but actually tune out] Oh wow, I have no words!}
 {33}{008}{[from very beginning of her monologue, you begin to recall every single thing that occured to you since the start your journey. You count every ammo spent by you and your enemies in battles. And just as you started to count all the food you have eaten, Lucy finishes] What a story!}
@@ -159,7 +159,7 @@
 
 
 
-{220}{}{[Lucy starts to get lively] Recently, husband of my friend's sister caught my friend's brother making out with her sister, and then she... [you are caught into a long monologue about relationships between NWP's inhabitants] ...and turns out my friend actually cheated on her husband with his brother!}
+{220}{}{[Lucy starts to get lively] Recently, husband of my friend's sister caught my friend's brother making out with her sister, and then she... [you are caught into a long monologue about relationships between NWO's inhabitants] ...and turns out my friend actually cheated on her husband with his brother!}
 {221}{023}{[You make a great effort, trying to make connection between everyone in this story, but you fail to do so]}
 {222}{023}{[You pretend to try to make connection between everyone in this story, but actually you don't really try]}
 {223}{024}{[You start to distract yourself, scratch your head, pick your nose.]}

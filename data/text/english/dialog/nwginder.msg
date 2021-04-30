@@ -135,7 +135,7 @@
 {221}{023}{[take the procedures]}
 
 #Node023
-{230}{}{[You have a very unpleasant feeling in your ass, your hand itches after being poked with needles. You don't feel very good. Maybe the doctor's syringes are not as clean as his lab coat. And the amount of blood he took from you - it's a lot...] }
+{230}{}{[You have a very unpleasant feeling in your butt, your hand itches after being poked with needles. Maybe the doctor's syringes are not as clean as his lab coat. And the amount of blood he took from you - it's a lot...] }
 {231}{024}{Now it's your turn, doc. To carry out the obligations.}
 
 #Node024

@@ -127,13 +127,13 @@
 #
 {100}{}{click-click}
 {101}{}{ka-click}
-{102}{}{:: something clicked:}
+{102}{}{::something clicks::}
 {103}{}{krrr-trrr-click}
 {104}{}{trrr-krr-click}
 {105}{}{::click::}
 {106}{}{krr-rrr-click}
 {107}{}{krrr-trrr-click}
-{108}{}{::door opened::}
+{108}{}{::door opens::}
 {109}{}{::opens::}
 #
 # locked doors, safes, drawers
@@ -143,7 +143,7 @@
 {112}{}{Not so fast, it's locked.}
 {113}{}{You can't just open it. It's locked.}
 {114}{}{Damn, it didn't work...}
-{115}{}{And what did you want to achieve??}
+{115}{}{And what did you try to achieve?}
 {116}{}{It doesn't seem like a good idea.}
 {117}{}{No! That won't do!}
 {118}{}{You locked the lock and jammed the door.}
@@ -180,7 +180,7 @@
 #
 {140}{}{You receive }
 {141}{}{You've earned }
-{142}{}{You deserve }
+{142}{}{You get }
 {143}{}{Perfect! You get }
 {144}{}{ experience points.}
 #
@@ -218,7 +218,7 @@
 #
 {170}{}{At the last moment, you notice a hidden blade under the lid.}
 {171}{}{You happen to notice a tripwire leading to a trap.}
-{172}{}{A trap has been set!}
+{172}{}{The trap goes off!}
 {173}{}{You have successfully disarmed the trap!}
 {174}{}{You've discovered a trap!}
 {175}{}{You don't see anything unusual here.}
@@ -464,7 +464,7 @@
 {859}{}{}
 {860}{}{You've found enough mines. Time to tell Fred.}
 {861}{}{It looks like all the Onca Devils are dead, you can tell Christie about it.}
-{862}{}{Something clicked!}
+{862}{}{Something clicks!}
 {863}{}{Looks like your Perception is too low to detect mines. But clearing them with your feet is also a great way.}
 {864}{}{One is done, but there are still few to find around the house.}
 {865}{}{Quite a lot of people are going to come. You need to tell Bono about it.}
@@ -532,14 +532,14 @@
 {935}{}{I don't complain, no! Everything is good, I like to serve the Gods.}
 #Kids
 {936}{}{Herald! Tell me about the Gods!}
-{937}{}{Is it true that there are terrible things outside?}
-{938}{}{Mom says this is where we belong. And where is the place of the Gods, Herald?}
-{940}{}{Uuuh, the Warden! Such cool armor!}
+{937}{}{Is it true that there are terrible creatures outside?}
+{938}{}{Mom says this is where we belong. And where is the place for the Gods, Herald?}
+{940}{}{Uuuh, Warden! What a cool armor!}
 {941}{}{Warden, can I touch the armor? At least a little bit?}
 {942}{}{[stands at attention] Reporting! No horrible creatures have been seen under the bed!}
 #Security guards
 {943}{}{Herald? Why aren't you on duty?}
-{944}{}{Don't give me your preaching, will you?}
+{944}{}{Don't give me your preaching, okay?}
 {945}{}{You'd better go do your work, no need to hang around here.}
 {946}{}{A scout? What are you doing here? You want a fresh girl, huh?}
 {947}{}{Hey, big military guy, you're bothering me. I'm on duty.}

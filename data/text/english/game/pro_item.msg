@@ -154,7 +154,7 @@
 {7701}{}{You can assemble a rifle from this, if you have the skills and a special repair kit.}
 {7800}{}{Shotgun Parts}
 {7801}{}{You can assemble a shotgun from this, if you have the skills and a special repair kit.}
-{7900}{}{Torch}
+{7900}{}{Flare}
 {7901}{}{An old flashlight.}
 {8000}{}{Medical Book}
 {8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary things.}
@@ -189,7 +189,7 @@
 {9500}{}{LVS Machinegun}
 {9501}{}{A heavy machine gun, developed by "Civil Defense" for the US Army for paramilitary police units. Mounted on lightly armored vehicles, it prooved itself excellent against protesters! Min ST: 8}
 {9600}{}{SLR-3 Laser Rifle}
-{9601}{}{A modification of the "Grand Shvain Laser Rifle" developed by Sebastian Shvain in 2198. Awkward and heavy, but damn it's a laser! Min ST: 7}
+{9601}{}{A modification of the "Grand Schwein Laser Rifle" developed by Sebastian Schwein in 2198. Awkward and heavy, but damn it's a laser! Min ST: 7}
 {9700}{}{SLR-4 Laser Rifle}
 {9701}{}{This model replaced the "SLR-3" rifle in 2202. Differences from its predecessor are a slightly higher weight, but a greater firing range and laser pulse stability. Min ST: 8}
 {9800}{}{Plasma Rifle}
@@ -311,7 +311,7 @@
 {15600}{}{Dread SMG (Exp. Mag.))}
 {15601}{}{A modified "Dread" SMG with an added magazine for even more bursting fun. Min ST: 5}
 {15700}{}{SL-9 Laser Pistol}
-{15701}{}{One of the first successful models of Shvain's laser pistols. Though a bit heavy it's not just a laser pointer but quite deadly! Min ST: 5}
+{15701}{}{One of the first successful models of Schwein's laser pistols. Though a bit heavy it's not just a laser pointer but quite deadly! Min ST: 5}
 {15800}{}{Plasma Pistol}
 {15801}{}{A strong electromagnet disperses super-heated globs of plasma at a high rate of fire. It burns easily through metal, wood, stone and of course also living tissue. Min ST: 5}
 {15900}{}{9mm Submachine gun}
@@ -406,7 +406,7 @@
 {20301}{}{}
 {20400}{}{Weapon 5}
 {20401}{}{}
-{20500}{}{Torch (lit)}
+{20500}{}{Flare (lit)}
 {20501}{}{An old flashlight. It's lit}
 {20600}{}{Dynamite (lit)}
 {20601}{}{A stick of good old dynamite with a lit fuse.}
@@ -675,7 +675,7 @@
 {33800}{}{*Plunger*}
 {33801}{}{A stick with a rubber pump on the end. It is practical if you want to hit someone gently. It is also suitable for unclogg toilets.}
 {33900}{}{"Name Certificate"}
-{33901}{}{On a rotten piece of paper, it is illegibly written that "The Bearer is INDEED a member of the GREAT and ANCIENT Shvain family."}
+{33901}{}{On a rotten piece of paper, it is illegibly written that "The Bearer is INDEED a member of the GREAT and ANCIENT Schwein family."}
 {34000}{}{A Note from Douglas}
 {34001}{}{Looks like a list of things Olympus needs.}
 {34100}{}{*Spare Parts Kit*}
@@ -768,7 +768,7 @@
 {38401}{}{Chemical analysis of a fundamentally new metal alloy.}
 {38500}{}{Tartarus Directive}
 {38501}{}{A collection of edicts distributed in Tartarus.}
-{38600}{}{Shvain's Notes}
+{38600}{}{Schwein's Notes}
 {38601}{}{The notes of the gunsmith Sebastian Schwein.}
 {38700}{}{Olympus Promotion}
 {38701}{}{Olympus! The greatest creation of mankind!}
@@ -797,15 +797,15 @@
 {39900}{}{Mr. Potato Intelligence}
 {39901}{}{A brainy genius should eat potatoes! The collectible Potato Nerd will make you a little smarter.}
 {40000}{}{Mr. Potato Agility}
-{40001}{}{Skillful as a potato bat, Potato Batman will increase your agility!}
+{40001}{}{Skillful as a potato bat, collectible Potato Batman will increase your agility!}
 {40100}{}{Mr. Potato Luck}
 {40101}{}{Fortuna loves potatoes. Keep the collectible Potato Rabbit with you for good luck!}
 {40200}{}{Orange Chucky}
 {40201}{}{The sparkling character of this comic book will quickly teach you the basics of self-defense and hand-to-hand combat.}
-{40300}{}{A Player Orange}
-{40301}{}{In this comic, the orange baseball player will teach you throwing techniques, one of the most important skills in this world.}
+{40300}{}{An Orange Pitcher}
+{40301}{}{In this comic, the orange baseball player will teach you some throwing techniques, one of the most important skills in this world.}
 {40400}{}{Annoying Orange}
-{40401}{}{The orange tongue is our real hero! His witty phrases and ingenious examples can give you a lot of interesting information about communicating with people and beyond.}
+{40401}{}{The orange babbler - that's our real hero! His witty phrases and ingenious examples can give you a lot of interesting information about communicating with people and beyond.}
 {40500}{}{Grenade Launcher Module}
 {40501}{}{}
 {40600}{}{Minigun Module}

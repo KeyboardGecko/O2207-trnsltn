@@ -87,11 +87,11 @@
 {111}{999}{Let's settle with that. See you soon.}
 
 #Node012
-{120}{}{Really? [Owen even stops smiling in surprise] This sadist said it himself? [suddenly, Hinder steps into the door. He silently approches Owen, puts his bag on the table and starts examining the butcher's arm. Not saying a word, just as he promised.]}
+{120}{}{Really? [Owen even stops smiling in surprise] This sadist said it himself? [suddenly, Hinder steps into the door. He silently approches Owen, puts his bag on the ground and starts examining the butcher's arm. Without saying a word.]}
 {121}{013}{[wait]}
 
 #Node013
-{130}{}{[the doctor finishes, proudly turns around and walks off the room. Owen looks dazzled] How? How did you talk him into this?}
+{130}{}{[the doctor finishes, proudly turns around and walks away. Owen looks dazzled] How? How did you talk him into this?}
 {131}{014}{Let it be our little secret. How's the hand?}
 {132}{014}{Diplomacy can take you places - from NWO to Jackals and back. How's the hand?}
 {133}{014}{He's a wonderful person, by the way. How's the hand?}

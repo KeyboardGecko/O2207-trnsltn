@@ -25,11 +25,11 @@
 {7}{}{Thank you so much! Becky and I are forever in your debt!}
 {8}{}{Thanks again! You saved our lives!}
 #Node001
-{10}{}{[A young girl rushes to you as soon as you get into the room. It's rather dark here, but you notice that she looks like was tortured or lacked any sleep for a really long time. You notice a metal pipe in her trembling hands] You are not insane. [she lowers her "weapon" and her shoulders limp down] Thank god... I almost gave up... Wait! Did you see a man there?}
+{10}{}{[A young girl rushes to you as soon as you get into the room. It's rather dark here, but you notice that she looks like she was tortured or lacked sleep for a really long time. She holds a metal pipe in her trembling hands] You are not insane. [she lowers her "weapon" and her shoulders limp down] Thank god... I almost gave up... Wait! Did you see a man there?}
 {11}{002}{Sunny, is it?}
 
 #Node002
-{20}{}{[the girl starts enthusiastically nodding her head] Yes, I am Sunny. And you are?..}
+{20}{}{[the girl starts enthusiastically nodding her head] Yes, I am Sunny. And you are?}
 {21}{003}{.}
 {22}{003}{Henry asked me to help you.}
 {23}{003}{Doesn't matter, the thing is that you need to get out of here.}
@@ -76,7 +76,7 @@
 
 #Node012
 {120}{}{Yes. I found an old town map in the mall. There's a hospital somewhere nearby. Sorry, but I do not know which way to go, this map was in a very bad condition and I didn't really understand it. But I explored as much of town as I could. And if I understood everything correctly, the hospital is somewhere not far from where we were attacked. Maybe... Maybe you'll even find our father. What if he's in a such basement too?}
-{121}{013}{So, what exactly is needed?}
+{121}{013}{So, what exactly should I be looking for?}
 
 #Node013
 {130}{}{A paramedic's bag dad told us about. He said that if we find a few - even one - it would help us get into the NWO.}
@@ -88,11 +88,11 @@
 {141}{999}{[end of dialogue]}
 
 #Node015
-{150}{}{[Sunny hides her eyes. Her joy from receiving the bag quickly disappears.] Okay. Let's get out of here. We'll need your help. I can inject the painkiller and apply a splint, but dragging her and fighting off the beasts - that's out of question for me. [the girl is about to get to Becky, but stops, smiles at you and gives you kiss on the cheek] Thank you. I really appreciate your help, although I may be bad at showing it. After attitude we got in the NWP - to get some help is even nicer. A pity that I lost my father in this. I still hope he fled the town and we will meet with him eventually.}
+{150}{}{[Sunny hides her eyes. Her joy from receiving the bag quickly disappears.] Okay. Let's get out of here. We'll need your help. I can inject the painkiller and apply a splint, but dragging her and fighting off the beasts - that's out of question for me. [the girl is about to get to Becky, but stops and smiles at you] Thanks. I really appreciate your help, although I may be bad at showing it. After attitude we got in the NWO - to get some help is even nicer. A pity that I lost my father in this. I still hope he fled the town and we will meet with him eventually.}
 {151}{016}{[treat Becky]}
 
 {160}{}{#Node016}
-{161}{}{[Sunny handled the task so well as if she had been taught this. Becky looks much better now. When Sunny changes the bandage on her leg, you have a glance at very nasty-looking wound. But in the end, the girl finally looks relieved. Probably, for the first time for days.] Well... We are ready. No more waiting for father. Let's go.}
+{161}{}{[Sunny handled the task so well as if she had been taught this. Becky looks much better now. When Sunny changes the bandage on her leg, you have a glance at very nasty-looking wound. But in the end, the girl finally feels relieved. Probably, for the first time for days.] Well... We are ready. No more waiting for father. Let's go.}
 {163}{999}{[lead girls out of town]}
 
 #Node017

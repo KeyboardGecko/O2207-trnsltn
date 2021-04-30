@@ -71,7 +71,7 @@
 {102}{005}{Let's refresh my memory. Tell me everything from the beginning.}
 {103}{}{Mister, how's the search for my friends going?}
 {104}{999}{In the process, Henry. In the process.}
-{105}{}{Mister... You... You are the pest person in the whole NWO! I will never forget that! It's a pity I have nothing to give you for my gratitude.... But... Someday I'll repay my debt. I definitely will. And for now... I'll be praying for you. Thank you.}
+{105}{}{Mister... You are the best person in the whole NWO! I will never forget that! It's a pity I have nothing to give you for my gratitude.... But... Someday I'll repay my debt. I definitely will. And for now... I'll be praying for you. Thank you.}
 {106}{999}{Good luck, kid! And don't tell your friends about dangerous places anymore.}
 
 #Node011
