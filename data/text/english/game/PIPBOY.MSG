@@ -64,7 +64,7 @@
 {403}{}{Work in Renaissance}
 {404}{}{PD Alloy Research}
 {405}{}{Tartarus Directive}
-{406}{}{Shvain's Notes}
+{406}{}{Schwein's Notes}
 {407}{}{Olympus Promotion}
 {408}{}{About the Lumeniers}
 {409}{}{Recruit's Diary}
@@ -981,7 +981,7 @@
 {6058}{}{                                 8 мая 2013 года}
 {6059}{}{**END-DISK**}
 ###########################################################
-# GVAR_DISK_SHVAIN_DAIRY
+# GVAR_DISK_Schwein_DAIRY
 ###########################################################
 {7000}{}{29 марта 2013}
 {7001}{}{Вот и все: все 4 семьи внутри, ворота запечатаны.}

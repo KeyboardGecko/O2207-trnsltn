@@ -69,7 +69,7 @@
 #NodePartyIn
 {500}{}{Confirmation accepted. Objective: escort and protection. Awaiting orders.}
 {501}{}{Sugooooi! Ikimasu, senpai! Adventure awaits!}
-{502}{}{Let's go kick some asses!}
+{502}{}{Alright, let's bounce.}
 {503}{}{Lovely! Off we go, lad! Chop-chop!}
 {504}{InParty}{Okay...}
 
@@ -91,7 +91,7 @@
 #NodeDistance
 {530}{}{State an objective.}
 {531}{}{Nani?! Our distance? But I want to stay closer to my senpai!}
-{532}{}{For sure, bro! You're in charge here!}
+{532}{}{For sure. You're in charge, G.}
 {533}{}{Smashing. Go on.}
 {534}{SD}{Keep closer to me.}
 {535}{MD}{Keep a medium distance.}
@@ -101,7 +101,7 @@
 #NodeSD
 {540}{}{Order: follow. Distance: short. Confirmation accepted.}
 {541}{}{Yattaaa!! Of course, senpai, I'll be as close to you as I can!}
-{542}{}{For sure! Buds for life!}
+{542}{}{Okay homie, I'll be around.}
 {543}{}{It's not quite my cup of tea, but alright.}
 {544}{InParty}{Good. Another thing...}
 {545}{999}{Good. Let's move.}
@@ -109,7 +109,7 @@
 #NodeMD
 {550}{}{Order: follow. Distance: middle. Confirmation accepted.}
 {551}{}{Honto ni? Hai, senpai, but remember than I'm still nearby! And I will come closer sometimes!}
-{552}{}{Chill out man, I'll stick around. Tell me if you need help.}
+{552}{}{Gonna be easy. Tell me if you need help.}
 {553}{}{A wise choice, I might say. Hope all goes hunky-dory.}
 {554}{InParty}{Good. Another thing...}
 {555}{999}{Good. Let's move.}
@@ -117,15 +117,15 @@
 #NodeLD
 {560}{}{Order: follow. Distance: far. Confirmation accepted.}
 {561}{}{Huuuuh? Iyada!! I want to be closer to my senpai! Okay, senpai, I'll do what you tell me to. Uwuuu...}
-{562}{}{Cover them rear? You're so friggin' good at this!}
-{563}{}{I'm not mugging you off, mate, but I'm not as effective when far away.}
+{562}{}{Cover our asses? Cool, cool.}
+{563}{}{I'm not mugging you off, mate, but I'm not very effective when far.}
 {564}{InParty}{Good. Another thing...}
 {565}{999}{Good. Let's move.}
 
 #NodePartyOut
 {570}{}{Order: wait. Switch to power saving mode. Confirmation accepted.}
 {571}{}{Naniiiiiii?! Dame yo!! I won't leave my senpai, it's too dangerous! My senpai needs me! Iya, senpai... Okay, senpai, I'll do what you tell me to. Uwuuuuu...}
-{572}{}{Oh man, here we go again. Not so bro now, ain't ya? Okay, suit yourself.}
+{572}{}{Oh shit, here we go again. Suit yourself.}
 {573}{}{God, mate, I'm absolutely gutted. But you're the boss.}
 {574}{PartyIn}{You know, I need you to follow me.}
 {575}{999}{Good.}
@@ -133,7 +133,7 @@
 #NodeOutParty
 {580}{}{[Robotron awaits for your orders]}
 {581}{}{Senpai! I feel so lonely here... Watashi wa anata to issho ni itaidesu...}
-{582}{}{My man! I knew you won't leave without me! Bros for life, right?}
+{582}{}{Alright homie, if you wanna roll, I'm down.}
 {583}{}{How is life, chum? Let's hit the road again!}
 {584}{PartyIn}{Follow me, we have a lot to do.}
 {585}{999}{I'll come back later.}
@@ -141,23 +141,23 @@
 #NodeTalk
 {590}{}{[Robotron awaits for your orders]}
 {591}{}{Hai, mochiro! I like talking to my senpai! I would do it all day long!!}
-{592}{}{Ain't nothin' I can't do, bro!}
+{592}{}{Yeah, homie. For sure.}
 {593}{}{Surely. I fancy a little chinwag.}
 {594}{HowToSpeak}{You have a strange way of speaking. Can you do something about it?}
 {595}{InParty}{I wanted something else...}
 {596}{999}{Nothing, let's move.}
 
 #NodeHowToSpeak
-{600}{}{Current comminucation pattern: Standart. Options available: 0 - Standart, 1 - Japanese school girl, 2 - American buddy, 3 - British gentleman.}
+{600}{}{Current comminucation pattern: Standart. Options available: 0 - Standart, 1 - Japanese school girl, 2 - American crewmate, 3 - British gentleman.}
 {601}{HTS0}{Let it be a standart one. I like robots.}
 {602}{HTS1}{Japanese school girl? Interesting, let's try it!}
-{603}{HTS2}{A buddy is what I need. Pick 2.}
+{603}{HTS2}{A crewmate is what I need. Pick 2.}
 {604}{HTS3}{British gentleman... Sounds curious. I choose 3.}
 
 #NodeAmmo
 {610}{}{[Robotron takes batteries] Power supply accepted. Behavior adjustments: complete.}
 {611}{}{Uwaaaa, sugooooi! A new batteries! Senpai, now I'm going to shoot lasers, like a Gundam!}
-{612}{}{Whoa dude! Awesome! Look, imma firin' ma lazar!}
+{612}{}{Hell yeah! Look at me and weep, assholes!}
 {613}{}{I'm chuffed to bits, mate. Cheers.}
 {614}{InParty}{Uh... I'm glad you like it. One more thing...}
 {615}{999}{You're welcome. Now, let's move.}

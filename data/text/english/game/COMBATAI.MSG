@@ -6672,10 +6672,10 @@
 {5871}{}{I'm gonna wreck u!}
 {5872}{}{Wanker!!}
 {5873}{}{I'll shank ya innit!}
-{5874}{}{I'll kick yer arse!}
+{5874}{}{I'm gon' kick yer arse!}
 {5875}{}{For the British Empire!}
-{5876}{}{C'mere lad!}
-{5877}{}{Off with your head!}
+{5876}{}{C'mere u twat!}
+{5877}{}{Fancy meetin' ya!}
 {5878}{}{Good night, bruv.}
 {5879}{}{Alba gu bra!!}
 #
