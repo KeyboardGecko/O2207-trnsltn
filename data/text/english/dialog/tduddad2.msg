@@ -24,18 +24,18 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: отец.}
-{2}{}{Ваш отец Джон. Растрепанные волосы, бледное лицо.. Вы уже привыкли видеть его таким.}
+{1}{}{You see your dad.}
+{2}{}{John, your father. Disheveled hair, pale face... You are used to see him like this.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: отец.}
-{4}{}{Ваш отец Джон. Растрепанные волосы, бледное лицо.. Вы уже привыкли видеть его таким.}
+{3}{}{You see your dad.}
+{4}{}{John, your father. Disheveled hair, pale face... You are used to see him like this.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ты кто такой?}
-{11}{}{Я - герой!}
+{10}{}{Who're you?}
+{11}{}{I'm a hero!}
 {12}{}{}
 {13}{}{}
 {14}{}{}
@@ -47,43 +47,43 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Сын? Что ты хотел? Что ты здесь делаешь? Почему не трудишься? [отец хмурится] Тебе следует сейчас же спуститься на фермы и спросить у Вестника про дневные поручения.}
-{101}{}{Ты еще о чем-то хотел спросить? [отец слегка приподнимает брови]}
-{102}{}{Я как раз собирался спуститься поработать, папа. Видишь, уже пошел.}
-{103}{}{А ты почему не трудишься? Ты ведь постоянно здесь торчишь!}
-{104}{}{Нет, пока спрашивать не о чем.}
-{105}{}{Эээ... Нет, больше ничего.}
-{106}{}{Да я как раз на задании. Вестник поручил мне узнать, из-за чего болеют лаваши, а я даже не знаю, с чего начать.}
-{110}{}{Ты ведь знаешь, каждый глава следит за исправностью своего угла, а у нас опять раковина течет. Чертова раковина!}
-{111}{}{Да знаю я все это, но ты ведь должен быть на фермах, работать за маму.}
-{112}{}{А что скажет Вестник по этому поводу? Он постоянно говорит, что на фермах не хватает рук.}
-{113}{}{Понятно. Ну, пойду работать.}
-{114}{}{Почему ты не спас маму? Ты же мог что-нибудь сделать?}
-{115}{}{[отец закрывает глаза и сжимает пальцами переносицу] Опять этот разговор, да? Конечно, тебе же нужно кого-нибудь винить... Я не могу защитить никого от болезни, даже самых близких и дорогих. Я просто не могу! Даже Кирк это понимает, пора бы и тебе смириться.}
-{116}{}{Хочешь сказать, Боги ее забрали? Пришло ее время - и все?}
-{117}{}{Да, лучше просто верить в это.}
-{118}{}{Я постараюсь поверить... Мне пора идти.}
-{119}{}{Ни за что! Кто-то в этом виноват, и однажды виновный поплатится! [уйти]}
-{1201}{}{Ээх... Эти фермы свели Элизу в Жерло Аида, и меня туда же сведут. Благо, доктор Пэт разрешает мне не перетруждаться и немного отдыхать здесь.}
-{121}{}{Нужно бы поговорить с доктором, может он и мне пропишет постельный режим?}
-{122}{}{Мама... Мне ее не хватает.}
-{123}{}{Знаешь, ты прав, тебе нужно отдохнуть.}
-{1202}{}{Вестник Грегориус знает, и он способен на понимание простых людских бед и проблем. Нет ничего страшного в том, что я провожу некоторое время здесь.}
-{124}{}{Черт! У меня тоже проблемы! Это не справедливо, что я должен работать.}
-{125}{}{Ну-у, раз уж он в курсе.}
-{126}{}{А-а, понятно. Ну, пойду тогда работать.}
-{130}{}{А что, ты всегда можешь попытаться. Хочешь, могу сломать тебе пару ребер? Для пущей убедительности.. [улыбается]}
-{131}{}{Э-э... Знаешь, пойду-ка я поработаю.}
-{132}{}{В твоем-то состоянии ты скорее сам повредишь себе что-нибудь. Ладно, пойду работать.}
-{1401}{}{Сынок, но посмотри там-сям. Не знаю, мне нужно работать.}
-{1402}{}{Оох... Ну-у, я бы начал с осмотра самих лавашей, просто посмотреть, что в них не так. Дальше поговорил бы с их смотрителями, чем их кормят, поят. Ну а потом - по обстоятельствам. Может их водой тухлой поят? Тогда нужно бы агрегаты очистки осмотреть.}
-{141}{}{Ну пап, спасибо, помог блин..}
-{142}{}{А что, это идея! Спасибо!}
-{149}{}{Пап, ты не знаешь что за огромный хмурый негр стоит на парковке?}
-{1501}{}{Эмм. Огромный хмурый, да?.. Бардок что ли? Ну да, наверняка он. Я его еще с детства знаю, он постоянно во всякие неприятности впутывался. А потом еще и алкоголь его доконал. Ты не подумай плохого, он в общем нормальный мужик, но ты держись от таких подальше.}
-{1502}{}{Огромный и хмурый? Нет, не знаю таких. И, на всякий случай: нечего ошиваться где попало, тебе давно нужно идти трудиться на фермах.}
-{151}{}{О! Ну-у. Ок, хорошо, я учту.}
-{152}{}{А, ну да, конечно. Спасибо, пап.}
+{100}{}{Son? What do you want? What are you doing here? Why aren't you doing your labor? [he frowns] You should immediately go to the Farms and ask Herald about daily duties.}
+{101}{}{Did you want to ask something? [he slightly raises his eyebrows]}
+{102}{}{I was just going, dad. See, already did.}
+{103}{}{Why aren't YOU doing the labor? You hang around here all the time!}
+{104}{}{No, nothing to ask about.}
+{105}{}{Uhh... Nothing.}
+{106}{}{I'm on a daily duty already. Herald tasked me with finding out why Lavash are getting sick... I don't even know where to start.}
+{110}{}{You know how it is - the head of each family looks after his corner. And our sink is leaking again. That damn sink!}
+{111}{}{Yes, I know this, but shouldn't you be on the Farm, working for mom?}
+{112}{}{What would Herald say about it? He always complains about lack of people on the Farms.}
+{113}{}{I see. Well, off to do labor then.}
+{114}{}{Why didn't you save mom? You could do something!}
+{115}{}{[dad closes eyes and covers his face with palm] Again? Why do you need to blame someone all the time? I can't protect anyone from sickness, even the loved ones. I just can't! Even Kirk understands. Maybe you need to accept it too.}
+{116}{}{So, the Gods just took her? Her time has come, and that's it?}
+{117}{}{Yes, you'd better believe in that.}
+{118}{}{I'll try... And I need to go.}
+{119}{}{No way! It's somebody's fault! And one day this somebody's gonna pay! [leave]}
+{1201}{}{Ohh... These farms led Elize to the Mouth of Hades, and they will do the same to me. I'm lucky dr. Pat allows me to now overwork myself and to rest here often.}
+{121}{}{I need to talk to dr. Pat, maybe he could give me day off too.}
+{122}{}{Mom... I miss her so much...}
+{123}{}{You know, you're right. You need to rest.}
+{1202}{}{Herald Gregorius knows and understands problems of our people. Nothing bad comes out of me spending some time here.}
+{124}{}{Damn! I have my problems too! It's not fair I have to work!}
+{125}{}{Well, if he is aware of that...}
+{126}{}{I see. Then I'll go do my labor.}
+{130}{}{You know, you can actually try. Do you want my help? I could break your hand, or something. [he gives you a weak smile]}
+{131}{}{Uhh... You know, I'd better go do my work then.}
+{132}{}{Considering your condition, you are more likely to hurt yourself. Okay, I'll go do my labor. See you around.}
+{1401}{}{Son, uh, just look around. I don't know, I need to work.}
+{1402}{}{Oh... Well, I would start from examining the Lavash, just to try to understand what's wrong with them. Then I'd talk about what they eat and drink, with the those who oversees them. And then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
+{141}{}{Well, thanks for nothing...}
+{142}{}{You know what, that's a great plan! Thanks!}
+{149}{}{Dad, do you know who is that big gloomy black man on the parking lot?}
+{1501}{}{Huh. Big and gloomy, right?... You mean, Bardock? It must be him. I know him since childhood, he was always getting into all kinds of troubles. And then this alcohol habit... Don't take me wrong, he is alright, but still - you'd better stay away from him.}
+{1502}{}{Big and gloomy? No, I don't know. And, just to make sure - stop hanging around, you should be on the Farms, doing your labor.}
+{151}{}{Oh! Okay... I'll keep that in mind.}
+{152}{}{Yeah, sure. Thanks, dad.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

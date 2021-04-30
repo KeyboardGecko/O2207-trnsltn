@@ -7,7 +7,7 @@
 #General
 #
 {10}{}{You can only use this item from the interface bar.}
-{11}{}{Sorry, but you can't use this item from the inventory, just from the toolbar.}
+{11}{}{Sorry, but you can't use this item from the inventory. Only from the toolbar.}
 {12}{}{Sorry, but to use this item, you need to put it in your hand.}
 {13}{}{This item can only be used from the interface bar.}
 {14}{}{To use this item, place it in the slot of your left or right hand.}
@@ -43,7 +43,7 @@
 {118}{}{To install another charge, use the C4 deactivator.}
 {119}{}{::C4 activation frequency error, detonation package already installed::}
 #
-#Moonshine Stil in Tartarus
+#Moonshine Still in Tartarus
 #
 {120}{}{The machine's candy box is already full.}
 {121}{}{You put the candy in the candy box. There is still room for }
@@ -51,8 +51,8 @@
 {123}{}{You have completely filled the candy box.}
 {124}{}{There is not enough sugar in the unit. Fill the candy box.}
 {125}{}{A drop of the liquor hits your palm, and a searing pain causes you to pull your hand away.}
-{126}{}{You have successfully filled a bottle with the potent hootch, but is it worth drinking?}
-{127}{}{You have successfully installed the candy filter in the machine!}
+{126}{}{You have successfully filled a bottle with a potent hooch, but would you risk drinking it?}
+{127}{}{You have successfully installed the moonshine filter in the machine!}
 {128}{}{It returned to you }
 {129}{}{ pieces of candy.}
 #
@@ -70,22 +70,22 @@
 {139}{}{}
 #
 {140}{}{The cleaning unit looks faulty, the serial number is erased.}
-{141}{}{Repairs will not fix anything, there is no complete component in the unit.}
+{141}{}{Repairs will not help - the unit doesn't have enough parts in it.}
 {142}{}{You have installed the pump filter in the unit.}
-{143}{}{The cleaning unit is not working... That's what makes the Lavash sick!}
+{143}{}{The cleaning filter is not working... That's what makes the Lavash sick!}
 #
 #Undead Cave
 #
 {150}{}{It looks like the toilet is completely clogged with sewage. You have no idea what you could do with it, it's about to spill over the edge!}
-{151}{}{After long, painfull and smelly attempts to clear the clogged drain, you finally hear a gurgling-slurping sound and a wave of sewage pours out of the toilet. You happen to find a piece of map neatly wrapped in plastic in the stinking mass.}
-{152}{}{A toilet, carefully declogged by your strong hands.}
+{151}{}{After long, painfull and smelly attempts to clear the clogged drain, you finally hear a gurgling-slurping sound and a wave of sewage pours out of the toilet. Beneath this stinking mass you happen to find a piece of map neatly wrapped in plastic.}
+{152}{}{A toilet, successfully declogged by your strong hands.}
 {153}{}{A clogged toilet.}
 {154}{}{A cleaned toilet bowl.}
 #
 #Geiger Counter
 #
 {160}{}{The device shows that your radiation level is zero!}
-{161}{}{After a slight crackling the device indicate a small dose of }
+{161}{}{After a slight crackling, the device shows a small dose of }
 {162}{}{The device crackles loudly and indicates a medium dose of }
-{163}{}{The Rad-O-Meter makes a terrible crackling noise and red numbers indicate a higly dangerous dose of }
+{163}{}{The Rad-O-Meter makes a terrible crackling noise, red numbers indicate a highly dangerous dose of }
 {164}{}{ rads.}

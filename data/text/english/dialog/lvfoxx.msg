@@ -1,6 +1,6 @@
 ##############################
-#Локация: ЛАЙВОС
-#Имя: Фокс МакКинзи 
+#Локация: Livos
+#Имя: Фокс McKinsey 
 #Краткое описание: Доставшая всех болтушка
 #Дата создания: 18.08.2014
 ##############################
@@ -11,128 +11,86 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Молодая красивая девчушка.}
-{2}{}{Она насвистывает простенькую мелодию.}
+{1}{}{You see a young, pretty girl.}
+{2}{}{She whistles a simple melody.}
 #
 # после знакомства
-{3}{}{Вы видите: Фокс.}
-{4}{}{Она оценивает Вас взглядом.}
+{3}{}{You see Fox.}
+{4}{}{She assesses you with her look.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами молодая симпатичная девушка с большими красивыми глазами и милой улыбкой] Ой, ты меня напугал! Я слышала, что у нас новый житель, и я рада, что встретила тебя, я так хочу узнать, что творится в Радиусе, что с нетерпением ждала нашей встречи, и теперь могу поговорить с тобой обо всем, что происходит снаружи этого убежища, какие там люди, какие события, что вообще в Радиусе происходит, а то тут немного скучновато, никто не хочет со мной разговаривать, кроме моей подружки Миньон и брата Далласа, но он в основном молчит и иногда просит, чтоб его не отвлекали от его дел, и он такой милый, когда серьезен, прямо сокровище, а не мужчина, и я рада, что у меня такой хороший брат, и он заботится обо мне, и иногда называет меня ласково Фокси, и это так мило, потому что родители меня называли всегда только Фокс, а иногда строго Фокс МакКинзи...}
-{11}{010}{Стоп! Подожди! Я просто хочу задать несколько вопросов.}
-{12}{002}{[Слушать дальше]}
-{13}{999}{Мой мозг сейчас взорвется, мне надо побыть в тишине. }
+{10}{}{[You see a young cute girl with big eyes and beautiful smile] Oh, you scared me! I heard that there's someone new in the vault and I'm so glad to meet you, I'm so interested in what's happening in Radius, I couldn't wait to meet you, now I can talk to you about everything that happens outside, how are the people and what's going on there, because here is quite boring actually, no one wants to chat with me, except my friend Mignon and my brother Dallas, but he is mostly silent and sometimes asks not to distract him from his business, and he is so cute whe speaks seriously, just a tresure of a man, I'm so glad I have a brother like him, he cares about me, sometimes calls me Foxie and it's so cute, because parents always call me Fox, and sometimes more serious, Fox McKinsey...}
+{11}{010}{Wait! Stop it! I just want to ask a few questions.}
+{12}{002}{[Keep listening]}
+{13}{999}{My brain is exploding! I need to be alone for a minute. }
 
+{20}{}{...Just like the name of a girl from a bedtime story mom used to tell me, together with other stories about some animals, which I've never seen, and mom has also never seen, and there's not even pictures of them left, and we were imagining what would they be like, what they eat, how talk to each other, and that was so interesting, but then I grew up and it stopped being interesting, I'm now busy with choosing someone to marry, so many options here that I don't know who to pick, and I don't really want to pick, because I'm in love with someone else, who I can't marry, because mom and dad forbade me to marry my brother Dallas, but they are brother and sister too, and they are together, like, forever, but they are still against me being with Dallas, but he is so cool, no one in Livos compares to him...}
+{21}{010}{Okay, stop! Answer my questions please!}
+{22}{003}{[Keep listening. You have a slight feeling of pressure in your head]}
+{23}{999}{I can't take it anymore. I need to take a walk.}
 
+{30}{}{...Because he is the most smart and handsome, and he is doing water tradings, which means he is the most important person in Livos, and even dad doesn't make as much for the vault as my lovely brother, that's why our family is the most important here and that's why we are leaders of this place, although other families disagree with it, but we know how it really is - they do not affect prosperity of Livos at all, and soon Dallas will become the leader here and will be able to marry me, despite my parents barring it, but he may not want to, because he likes my friend Mignon, who also dates Christopher Schwein, so if she chooses Christopher, then Dallas would fall into me, and we will marry and I won't have to choose someone else... }
+{31}{010}{Stop it! I want to ask a question!}
+{32}{004}{[Keep listening. You head is buzzing loudly]}
+{33}{999}{Okay, I need a break. I'll go get some rest.}
 
+{40}{}{... And we will rule the vault, just like our parents do, just as their parents did, just as everybody before us did, starting with our ancestors who built this place, who knew that we will survive the war and start repopulating the planet and become the center of the whole world, which we already are...}
+{41}{999}{[The feeling of pressure in your head becomes so painful and strong you can't take it anymore]}
+{42}{005}{[With great effort you try to listen to the rest of this flood of words]}
 
-{20}{}{... как звали одну девочку из детской сказки, которую мне на ночь рассказывала мама, вместе со сказкой про каких-то животных, которых я никогда не видела, и мама их никогда не видела, и даже картинок таких животных не осталось, и мы с ней придумывали, на кого они могут быть похожи, что они едят, и как они разговаривают друг с другом, и это было так интересно, а потом я повзрослела, и теперь мне не интересно слушать сказки, я сейчас занята поисками жениха, здесь столько вариантов, и я не знаю, кого мне выбрать, и я не хочу из них никого выбирать, потому что я люблю другого, а за него мне запрещено выходить замуж, потому что я люблю своего брата Далласа, и мама с папой против этого, а они всю жизнь вместе, и они тоже брат и сестра, но они все равно против того, чтобы я любила Далласа, а он такой классный, и никто в Лайвос с ним не сравнится...}
-{21}{010}{Все, хватит! Ответь на конкретные вопросы!}
-{22}{003}{[Продолжать слушать. Вы чувствуете легкое давление в голове]}
-{23}{999}{Я не могу это больше слушать, я пойду погуляю.}
+{50}{}{...And I'm so glad you're here with us, it's so good to talk to you, because you are such a good listener, I'll tell everyone what a great person you are!}
+{51}{010}{And now let me ask a question.}
+{52}{999}{That's it. I'm done.}
 
+{1001}{}{Hey, I'm flattered that our commander came by to talk to me again, I can tell you so many interesting and useful things!}
+{1002}{}{Of course, go ahead and ask, I'll gladly tell you everything I know and everything I heard and everything other people tell me on the topics you need.}
+{1003}{}{Hello, I'm so glad you came by to talk to me again, I can tell you so many interesting and useful things!}
+{101}{011}{I'm looking for the lost book, it belongs to Ludwig. Do you know anything about it?}
+{102}{012}{What do you do here?}
+{103}{018}{Is there any work to do around here?}
+{104}{019}{Tell me about your family.}
+{105}{020}{[ask about the rumors in Livos]}
+{106}{999}{I have some things to do, let's talk later.}
 
+{110}{}{I don't like reading books, they are boring, I like magazines more, I can show you, if you want, they are so interesting and have so many colourful pictures, but I didn't hear anything about anyone stumbling upon the lost Ludwig's book, except my friend Mignon once mentioned that she has seen some book at her mom's, Claudia Horton, but Claudia hid it very fast, so Mignon didn't exactly see what kind of book it was, so it can be the book you need, and you'd better ask Mignon about it, or you even can talk straight to her mom about that book she hides.}
+{111}{010}{I want to ask something else.}
+{112}{999}{I'll go have a talk with Mignon.}
 
-{30}{}{... потому что он самый умный и самый красивый, и занимается продажей и доставкой воды, а значит он самый полезный человек для Лайвос, и даже папа не делает столько для убежища, сколько делает мой любимый брат, и поэтому наша семья здесь самая важная и самая главная, хотя другие семьи с нами не соглашаются, но мы-то знаем, что происходит на самом деле, что они никак не влияют на процветание Лайвос, и скоро Даллас станет самым главным, и он сможет на мне жениться, не смотря на запрет родителей, но он этого не станет делать, потому что ему нравится моя подружка Миньон, но за ней еще ухаживает Кристофер Швайн, и поэтому если она выберет Кристофера, то Даллас может влюбиться в меня, и мы сможем пожениться, и мне не придется выбирать себе другого мужа... }
-{31}{010}{Остановись! Я хочу вопрос задать!}
-{32}{004}{[Послушать еще чуть-чуть. Ваша голова сильно гудит]}
-{33}{999}{Так, мне нужен перерыв. Я пойду отдохну.}
+{120}{}{I'm so into talking with people, so I'm always looking for someone to talk to, and when I get older, I'm going to give speeches on a meetings and going to talk, talk, talk, and everyone will be listening, because according to paragraph 11 of our Constitution of 15 rights, "Every inhabitant of the New World has the right to loudly express his thoughts if he is at the official meeting of inhabitants of the New World", and I will deal with a lot of issues on this meetings and will make a lots of useful suggestions, one of which will be to add drawings into the Constitution of 15 rights, because I love them, I love to draw, I love drawings, so if you have some drawings, I will gladly look at them.}
+{121}{013}{I have some drawings I painted when I was a kid.}
+{122}{016}{Tell me about the Constitution.}
+{123}{010}{I don't have any drawings, I want to ask something else.}
 
+{130}{}{[With burning eyes, Fox examines your drawings] Wow, look at this, these are wonderful drawings, I got so bored by my old magazines, there's no one who would draw something new around here, but yours look so different from others I've seen, and I can look at them for a really long time and imagine what is it you drew, and if you give the to me as a present, I would be so grateful!}
+{131}{014}{Sure, take it.}
+{132}{015}{No, I need them for myself.}
 
+{140}{}{Thanks! You are so cool, no one's given me a gift like this, I'm so happy, thank you, thank you, thank you! [Fox gives you a smooch in the cheek]}
+{141}{010}{You're welcome, enjoy. I wanted to ask something else.}
+{142}{999}{I'm glad that you are happy. I need to go, see you.}
 
+{150}{}{[Fox immediately gets upset] Uhh... In the end, you are not so cool as I thought you are, looks like you are just as mean as everybody else, I would keep your drawings, taking care of them, one day I could show them to my children, but you don't want to give them to me, so I won't tell you anything more, because I'm angry at you, so there, go away! [She turns around, trying to make it look serious, but somehow you know that her grudge won't last even for a minute]}
+{151}{999}{Okay then, I'll go.}
 
-{40}{}{... и мы будем управлять убежищем, как это делали наши родители, и как делали их родители, и как делали все, кто жил здесь до нас, до самых первых наших предков, которые это все построили, и которые знали, что мы сможем пережить войну, а потом начать заселять заново планету, и быть центром всего мира, и уже сейчас мы им и являемся...}
-{41}{999}{[Давление в голове становится настолько сильным, что Вы не выдерживаете]}
-{42}{005}{[Вы с трудом пытаетесь дослушать этот поток слов]}
+{160}{}{The Constitution of 15 rights is our greatest document, according to the paragraphs 13, 14 and 15 on Constitution, we have the right to have rights, the right to not have rights, and even the right not to know rights described in the Constitution, but in this case the inhabitant is deprived of any rights, including this right! }
+{161}{017}{Where I can find the Constitution?}
 
+{170}{}{Oh, I haven't seen it in a while, it always changes hands, so I don't know where is it now, it could even be accidentally left by someone somewhere, or even lost, because recently I was asking around and no one knows where is it, maybe someone hid it, so I couldn't suggest to make changes into it, so now it's hidden from me, it's so bad!}
+{171}{010}{Okay, I want to ask something else.}
+{172}{999}{I need to go, urgent business. Bye.}
 
+{180}{}{[Fox hesitates for a second] Maybe Ashton Horton has some work for you, he does repairings in the vault, but he is not always able to fix everything that's broken, just like he wasn't able to repair the nutritional mixtures machine, without which we felt very bad, until we started selling water in exchange for buying canned food and other food, which everyone likes, because the machine never made such tasty things, and now it's completely broken, no one knows how to fix it, and also, my friend Mignon once overheard that her dad Ashton was telling to someone it can't be fixed at all, so we need to continue trading water to the settlements, and that means there will always be new people around here and I will always have someone to talk with!}
+{181}{010}{I see. I wont to ask something else.}
+{182}{999}{I'll go ask Ashton about work.}
 
+{190}{}{Oh, I can talk about my family for hours, because we are the most important in Livos and other families couldn't live without us, and also, other settlements in Radius couldn't either, because my brother Dallas sells water to them, and without water, obviously, no one lives for long, so it turns out that McKinsey family is vital for the Radius, and the most important, so everybody respects us, and that makes me so proud of my name and my relatives, we are great family, great people doing great things, like my dad Boston, who gives speeches on a meetings, although one time he pushed Peter Horton and he badly fell and died, although my dad didn't mean to kill him, it was an accident, but Peter's wife Claudia now blames our family anyway, she is stalking us all the time, harassing dad, and it makes him really nervous!}
+{191}{010}{I want to know about other things.}
+{192}{999}{That's everything I wanted to ask. Bye, Fox.}
 
-{50}{}{... и я рада, что ты теперь с нами, с тобой так классно разговаривать, ты так хорошо слушаешь, я всем расскажу, какой ты классный!}
-{51}{010}{А теперь давай я задам вопрос.}
-{52}{999}{Все. С меня хватит.}
+{200}{}{[As thought of asking Fox about rumors in Livos crosses your mind, you immediately try to forget it. It could be hazardous for your mental health.]}
+{201}{010}{[Think about other questions]}
+{202}{999}{[Leave]}
 
-
-
-{1001}{}{Привет, я так польщена, что наш патрон зашел снова со мной поговорить, я могу тебе рассказать много чего интересного и полезного!}
-{1002}{}{Конечно, спрашивай, я с удовольствием расскажу все, что знаю, и все, что слышала, и все, что говорят другие люди по твоему вопросу.}
-{1003}{}{Привет, я так рада, что ты снова зашел со мной поговорить, я могу тебе рассказать много чего интересного и полезного!}
-{101}{011}{Я ищу одну научную книжку, которую потерял Людвиг. Ты знаешь об этом что-нибудь?}
-{102}{012}{Чем ты занимаешься?}
-{103}{018}{Есть ли в Лайвос какая-нибудь работа?}
-{104}{019}{Расскажи о своей семье.}
-{105}{020}{[Спросить о слухах в Лайвос]}
-{106}{999}{У меня срочные дела, потом поговорим.}
-
-
-
-
-
-{110}{}{Я не люблю читать книжки, они такие скучные, я люблю листать журналы, и могу тебе показать, они такие интересные, и там столько цветных картинок, и я не слышала, что кто-то находил книжку Людвига, но моя подружка Миньон говорила, что видела какую-то умную книгу у своей мамы, которую зовут Клаудия Хортон, но она очень быстро ее спрятала, и Миньон не успела рассмотреть, что это была за книга, и это может быть именно та книга, которую ты ищешь, и ты можешь расспросить Миньон об этом, а можешь сразу поговорить с ее мамой, и может быть ты найдешь эту книгу, которую она прячет.}
-{111}{010}{Я хочу еще спросить.}
-{112}{999}{Пойду поговорю с Миньон.}
-
-
-
-
-{120}{}{Я очень люблю общаться, и я постоянно ищу себе собеседника, и когда я немного стану старше, я буду выступать на собраниях, и буду говорить, говорить, говорить, а все будут слушать, потому что по пункту 11 Конституции 15-ти прав "Каждый житель Нового Мира имеет право громко высказать свои мысли, только если он находится на официальном собрании жителей Нового Мира", и я много решу важных вопросов на собраниях, и я внесу много новых предложений, одним из которых будет добавить картинки в Конституцию 15-ти прав, потому что я люблю картинки, и я люблю рисовать, и если у тебя есть рисунки, то я их тоже с радостью посмотрю.}
-{121}{013}{У меня есть рисунки, которые я рисовал в детстве.}
-{122}{016}{Расскажи о Конституции.}
-{123}{010}{У меня нет никаких рисунков, я хочу еще спросить.}
-
-
-
-{130}{}{[Фокс с горящими глазами начала рассматривать Ваши детские рисунки] Ух ты, эти рисунки просто замечательные, а то мне совсем надоели все мои старые журналы, а новых рисунков почти никто не рисует, а у тебя они выглядят совсем по-другому, и я еще долго-долго могу на них смотреть и фантазировать, что же такое на них нарисовано, и если ты мне их подаришь, то я буду очень-очень тебе благодарна!}
-{131}{014}{Конечно, забирай.}
-{132}{015}{Нет, они мне самому нужны.}
-
-
-
-
-{140}{}{Ой, спасибо, ты такой классный, мне никто давно не делал таких подарков, я так счастлива, спасибо-спасибо-спасибо! [Фокс чмокнула Вас в щеку]}
-{141}{010}{Да ладно, мне не жалко. Я хочу еще вопрос задать.}
-{142}{999}{Да не за что, наслаждайся. А я пока пойду.}
-
-
-
-
-{150}{}{[Фокс сразу обиделась] Ну-у-у... А ты не такой классный, как мне показалось, ты такой же жадина как и остальные, а я бы хранила твои рисунки, берегла бы их и любила, а потом показывала бы своим детям, а ты не хочешь мне их подарить, и я тебе не скажу больше ничего, потому что я обиделась, и все, уходи! [Она картинно отвернулась, делая вид, что обиделась, но ее обиды вряд ли хватит и на минуту]}
-{151}{999}{Ну ладно, я пойду.}
-
-
-
-
-{160}{}{Конституция 15-ти прав - это наш основной документ, который по пунктам 13, 14 и 15 Конституции дает нам право иметь права, а также право не иметь прав, и даже право не знать права Конституции, но тогда житель лишается всех прав, включая и это право! }
-{161}{017}{Где я могу найти Конституцию?}
-
-
-
-{170}{}{Ой, я уже давно ее не видела, она постоянно переходит из рук в руки, и я не знаю, где она сейчас, ее могли даже где-нибудь забыть или потерять, и я недавно всех расспрашивала, и никто не говорит, где Конституция, и наверно ее кто-то спрятал, чтобы я не могла предложить внести в нее изменения на собрании, и специально скрывают ее от меня!}
-{171}{010}{Ладно, я хочу еще спросить.}
-{172}{999}{Я пойду, у меня есть срочные дела, пока.}
-
-
-
-
-{180}{}{[Фокс на секунду задумалась] Может, у Эштона Хортона будет для тебя работа, потому что он занимается ремонтом в убежище, но не всегда может починить то, что сломалось, как не смог починить аппарат по приготовлению питательных смесей, без которого нам было очень плохо, пока мы не начали продавать воду в поселения и получать взамен питательные продукты, которые у нас все очень любят, а аппарат не давал таких вкусных вещей, а теперь вообще сломался полностью, и никто не знает, как его можно отремонтировать, и моя подружка Миньон однажды услышала, как ее папа Эштон как-то говорил, что аппарат сломался полностью и починить его невозможно, и поэтому мы будем продолжать продавать воду другим поселениям, а значит тут будут появляться новые люди, и мне будет с кем поговорить!}
-{181}{010}{Все ясно. Я хочу еще кое-что узнать.}
-{182}{999}{Пойду поговорю с Эштоном по поводу работы.}
-
-
-
-
-{190}{}{Ой, о нашей семье я могу часами рассказывать, потому что мы самые главные в Лайвос, и другие семьи без нас никак не смогут прожить, и даже другие поселения Радиуса не смогут без нас, потому что мой брат Даллас продает им воду, а без воды никто не сможет выжить, и поэтому получается, что семья МакКинзи является самой важной во всем Радиусе, и все нас уважают, и я очень горжусь своей фамилией и своими родственниками, потому что мы великая семья, и она состоит из великих людей, которые занимаются очень важными делами, как мой папа Бостон, который выступает на собраниях, но однажды он случайно толкнул Питера Хортона, и он неудачно упал и умер, хотя папа этого не хотел, и это был несчастный случай, а жена Питера Клаудия теперь винит во всем нашу семью, и постоянно следит за нами и мешает папе, и его это очень сильно раздражает!}
-{191}{010}{Я хочу узнать о других вещах.}
-{192}{999}{Это все, что я хотел узнать. Пока, Фокс.}
-
-
-
-
-{200}{}{[Как только у Вас появилась мысль спросить Фокс о слухах в Лайвос, Вы сразу отвергли эту мысль, потому что это может быть крайне опасно для психики и здоровья в целом]}
-{201}{010}{[Подумать над другим вопросом]}
-{202}{999}{[Попрощаться и уйти]}
-
-{300}{}{Вы уверены, что только что по Вашей голове проехало что-то очень и очень тяжелое. Вам нужно отдохнуть и восстановить здоровье.}
-{301}{}{А-А-А-А! Я больше не могу-у-у-!!!}
+{300}{}{[You are sure that something just rolled over your head. Something huge and very heavy. You need to rest and recover.]}
+{301}{}{AAAAHHHH!!! I CAN'T TAKE IT ANYMORE!!!}

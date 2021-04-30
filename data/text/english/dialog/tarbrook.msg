@@ -24,13 +24,13 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Брук.}
-{2}{}{Хмурый Брук - папа Кэтти. Вечно чем-то недоволен.}
+{1}{}{You see Brook.}
+{2}{}{This glum man is Brook, Catty's dad. He is always dissatisfied with something.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Брук.}
-{4}{}{Хмурый Брук - папа Кэтти. Вечно чем-то недоволен.}
+{3}{}{You see Brook.}
+{4}{}{This glum man is Brook, Catty's dad. He is always dissatisfied with something.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
@@ -47,72 +47,72 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Что тебе нужно?}
-{101}{}{Я - человек-сыщик! Расследую дело пропавшего ключа!}
-{102}{}{Да я тут папин ключ ищу...}
-{103}{}{Ничего-ничего, просто гуляю тут.}
-{110}{}{Ты - просто маленький мальчик. А ключ твоего папки лежит в ящике, рядом с моей кроватью. Давай, беги уже.}
-{120}{}{А-а... Ключ в ящике, рядом с моей кроватью. Передай папе спасибо за него.}
-{111}{}{Спасибо за наводку!}
-{112}{}{Ясно, пойду, заберу его. Спасибо.}
+{100}{}{What do you need?}
+{101}{}{I'm the sleuth-man! Investigating the case of missing wrench!}
+{102}{}{I'm looking for a dad's wrench...}
+{103}{}{Nothing, I'm just playing here.}
+{110}{}{You are just a little boy. And your dad's wrench is in the drawer near my bed. Go, fetch it.}
+{120}{}{Oh... It's in the drawer near my bed. Tell your dad I said thanks.}
+{111}{}{Thanks for the tip!}
+{112}{}{Okay, I will go get it, thank you.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{Xэ-эй, дружище!}
-{1001}{}{Приветствую! Как делища?}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Привет, братан! Как житуха?}
-{1004}{}{Я бы с радостью поболтал, но... Давай в другой раз.}
-{1005}{}{Рад тебя видеть!}
-{1006}{}{А что, может, поболтаем? Ну, как хочешь.}
-{1007}{}{Слушай, я тут припрятал для тебя кое-что. Ну лады, потом поговорим.}
-{1008}{}{Ты хоть почаще меня тут навещай, Ок?}
-{1009}{}{Да не вопрос! Обращайся в любое время!}
+{1000}{}{Hey, buddy!}
+{1001}{}{Hello! How are you doing?}
+{1002}{}{Well, hello there!}
+{1003}{}{Hey, brother! How are you?}
+{1004}{}{I would gladly stop and chat... But let's do it some other time.}
+{1005}{}{So good to see you!}
+{1006}{}{Maybe wanna chat? Suit yourself.}
+{1007}{}{Listen, I've stashed something for you. Okay, let's talk later.}
+{1008}{}{Come see me more often, okay?}
+{1009}{}{Of course! Come back anytime!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Ээй! Я тут пытаюсь заставить работать эти чертовы механизмы!}
-{1013}{}{Эй, слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Эй, чем приставать с расспросами, принес-ка бы лучше во-о-он тот ключ.}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Ну что тебе еще надо.}
-{1017}{}{... и тут я ему говорю: "У тебя же искрит!" Умора.}
-{1018}{}{... а он мне такой: "Так это же Э-ЛЕСК-РИ-ЧЕСТ-ВО!"}
-{1019}{}{Ой, слушай, давай немного погодя поговорим, а?}
+{1010}{}{Don't get in my way, I'm busy.}
+{1011}{}{Can't you see? I have no time to spare.}
+{1012}{}{Hey! I'm trying to make these damn mechanisms here to work again!}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{Instead of bugging me with questions, hand me over that wrench.}
+{1015}{}{Listen, don't touch me, let me rest a little.}
+{1016}{}{What else do you want?}
+{1017}{}{...And then I'm like - you are sparking here! Hilarious.}
+{1018}{}{...And then he's like - that's E-LEC-TREE-SEE-TEE!}
+{1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!}
+{1029}{}{You piss me off! Go away!}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Да не буду я ничего чинить!}
-{1031}{}{Не-ет, пусть он горит синим пламенем, этот насос.}
-{1032}{}{Вот пристали... Надо - сам и чини его!}
-{1033}{}{Да отстань, не буду я его чинить.}
-{1034}{}{Эта хрень постоянно ломается! Я уже устал!}
-{1035}{}{Нет, нет и еще раз - НЕТ!}
-{1036}{}{Не буду, даже не пытайся.}
-{1037}{}{Ой, просто отстань от меня.}
-{1038}{}{Да здесь куча ремонтников! Почему это я его должен чинить!?}
-{1039}{}{[отмахивается рукой]}
+{1030}{}{No, I won't fix anything!}
+{1031}{}{Nah, let this water pump burn. I'll pass.}
+{1032}{}{Why are you bothering me? If you need it, you fix it!}
+{1033}{}{Get off me, I won't be fixing it.}
+{1034}{}{This junk breaks down all the time! I'm tired of it!}
+{1035}{}{No, no and NO again!}
+{1036}{}{I won't do it, stop trying.}
+{1037}{}{Oh, just leave me be.}
+{1038}{}{There are many mechanics here! Why should I fi it?!?}
+{1039}{}{[waves hand]}
 #
 #Спец сообщения - конвой Брука в Жерло Аида
 #
-{1040}{}{Слуга воды Брук?}
-{1041}{}{А... Э-э... Да...}
-{1042}{}{Пришло время послужить всеобщему благу...}
-{1043}{}{...своим бездействием и ленью ты подвергал всех нас большой опасности...}
-{1044}{}{...и Вестник донес до нас волю Богов...}
-{1045}{}{Ты будешь скормлен Жерлу Аида!}
-{1046}{}{Твоя плоть упитает землю...}
-{1047}{}{...которая упитает нас.}
-{1048}{}{Шевелись, слуга!}
-{1049}{}{ПОШЕЛ!}
+{1040}{}{Water Servant Brooke?}
+{1041}{}{Huh? Um... Yes?}
+{1042}{}{The time has come for you to serve the common good...}
+{1043}{}{...With your inaction and your laziness, you've put us all in great danger...}
+{1044}{}{...and Herald told us the will of the Gods...}
+{1045}{}{You will be feed to the Mouth of Hades!}
+{1046}{}{Your flesh will be given to the soil...}
+{1047}{}{...Which feeds us.}
+{1048}{}{Hurry up, Servant!}
+{1049}{}{MOVE!}

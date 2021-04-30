@@ -1,6 +1,6 @@
 ##############################
 #Локация: ЛАЙВОС
-#Имя: Эштон Хортон 
+#Имя: Эштон 'ортон 
 #Краткое описание: Главный по ремонту в Лайвос
 #Дата создания: 25.08.2014
 ##############################
@@ -11,261 +11,169 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: усатый здоровяк. }
-{2}{}{В детстве вы находили довоенный журнал Нинт, где на обложке был пузатый водопроводчик Мар. Этот водопроводчик был очень похож на этого мужика.}
+{1}{}{You see a man with a big moustache. }
+{2}{}{As a child, you've seen an old Ninto magazine with an chubby plumber Maro on its cover. This man looks just like that plumber.}
 #
 # после знакомства
-{3}{}{Вы видите: Эштон.}
-{4}{}{Из его карманов торчат гаечные ключи, отвертки и прочий ремонтный скарб.}
+{3}{}{You see Ashton.}
+{4}{}{Wrenches and screwdrivers are sticking out of his pockets.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами усатый мужчина с недовольным выражением лица. Заметив Вас, он буркнул себе под нос] Чего надо? Ходят тут всякие, суют свой нос везде. Говори, кто ты, зачем пришел.}
-{11}{002}{Я недавно здесь. Изучаю убежище.}
-{12}{009}{А ты сам-то кто такой?}
-{13}{011}{Привет. Я новенький здесь, знакомлюсь с соседями.}
-
-
-
-
-{20}{}{Изучай, только аккуратно. Нечего сунуть везде свои руки и нажимать куда попало. Я Эштон Хортон, глава семьи Хортонов и главный человек в Лайвос. Ты знаешь самое главное правило Лайвос?}
-{21}{003}{Нет.}
-{22}{004}{Да.}
-{23}{005}{У меня сейчас нет времени на правила. Я пойду.}
-
-
-
-
-{30}{}{Главное правило Лайвос - бережно относиться к имуществу! Пользоваться оборудованием только при необходимости. Ради развлечения включать и выключать все подряд запрещено! Усвоил?}
-{31}{004}{Да, я усвоил правила.}
-{32}{007}{Нет, мне не понятно.}
-{33}{005}{Мне не интересны правила. Я лучше пойду.}
-
-
-
-
-{40}{}{Отлично. Тогда я должен провести проверку, насколько хорошо ты усвоил правила. Ты готов?}
-{41}{006}{Я готов!}
-{42}{007}{Нет, я пока не готов.}
-{43}{003}{А какие там правила? Я забыл немного.}
-
-
-
-
-{50}{}{[Он схватил Вас за руку] Подожди! Ты не можешь уйти, пока не усвоишь правила! Ты должен показать, насколько хорошо ты их усвоил! Ты готов к проверке?}
-{51}{006}{Да, я готов.}
-{52}{003}{Напомни, какие там правила?}
-{53}{007}{Нет, я не готов к проверке.}
-
-
-
-
-{60}{}{Итак, вопрос первый. Как нужно относиться к имуществу Лайвос?}
-{61}{012}{Очень бережно.}
-{62}{012}{Бережно.}
-{63}{013}{Слегка бережно.}
-{64}{013}{Нормально, не заморачиваясь.}
-{65}{013}{Можно нажимать кнопки, если хочется.}
-{66}{014}{Можно лезть куда захочешь и нажимать все подряд.}
-{67}{014}{Можно делать что угодно, пинать и ковыряться.}
-
-
-
-
-{70}{}{Я тебя не отпущу, пока ты не усвоишь правила! Ты же влезешь куда-нибудь и все сломаешь! Ты должен пройти проверку!}
-{71}{003}{Ну, ладно. Напомни, какие там правила?}
-{72}{006}{Я готов к проверке.}
-{73}{008}{Да пошел ты! Мне плевать на твои проверки!}
-
-
-
-
-{80}{}{Ты тупой идиот! Я тебе сейчас мозги вправлю!}
-{81}{998}{Давай, начинай.}
-
-
-
-
-{90}{}{Да-а-а, ну и манеры у тебя. Ты просто не знал, что разговариваешь с Эштоном Хортоном, главой семьи Хортонов и главным человеком в Лайвос. Ты знаешь самое главное правило Лайвос?}
-{91}{003}{Нет.}
-{92}{004}{Да.}
-{93}{005}{У меня сейчас нет времени на правила. Я пойду.}
-
-
-
-{1001}{}{Шеф, проходи. Что-нибудь сломалось?}
-{1002}{}{Да, я отвечу на твои вопросы.}
-{1003}{}{А, снова ты. Надеюсь, ты ничего не сломал?}
-{101}{015}{Людвиг потерял свой учебник по волнологии. Ты его не брал?}
-{102}{016}{Я хочу узнать про Сэта и Мэта из НМП. С кем из них вы хотите заключить союз?}
-{103}{017}{Ты говорил, что ты самый главный в Лайвос. Расскажи подробнее.}
-{104}{019}{В чем заключается твоя работа?}
-{105}{026}{Я хочу поговорить по поводу фильтра воды.}
-{106}{999}{Сейчас у меня есть другие дела. Потом поговорим.}
-
-
-
-
-
-
-{110}{}{[Мужчина улыбнулся] Что ж, ты выбрал правильного человека для знакомства. Я Эштон Хортон, глава семьи Хортонов и главный человек в Лайвос. Ты знаешь самое главное правило Лайвос?}
-{111}{003}{Нет.}
-{112}{004}{Да.}
-{113}{005}{У меня сейчас нет времени на правила. Я пойду.}
-
-
-
-
-{120}{}{[Эштон довольно улыбается] Правильно! Ты молодец. Эх, вот бы все так хорошо знали правила. Больше у меня вопросов нет, ты прошел проверку. Теперь можешь свободно передвигаться по всему убежищу.}
-{121}{010}{Для начала я хотел бы задать несколько вопросов.}
-{122}{999}{Хорошо, я пойду изучать убежище со спокойной совестью.}
-
-
-
-
-{130}{}{[Эштон повысил голос] Не совсем верно! К оборудованию нужно относиться очень бережно! Как же вас всех заставить запомнить это простое правило... Ладно, можешь ходить здесь, но не лезь куда не следует.}
-{131}{010}{Для начала я хотел бы задать несколько вопросов.}
-{132}{999}{Хорошо, я пойду дальше изучать убежище.}
-
-
-
-
-{140}{}{[Эштон замахал руками] Не верно! Это делать запрещено! К оборудованию нужно относиться очень бережно! Как же вас всех заставить запомнить это простое правило... Ладно, можешь ходить здесь, но не смей прикасаться к оборудованию! По крайней мере пока не запомнишь правило.}
-{141}{010}{Для начала я хотел бы задать несколько вопросов.}
-{142}{999}{Хорошо, я пойду дальше изучать убежище.}
-
-
-
-
-{150}{}{[Эштон махнул рукой] Нет, у меня нету никакого учебника. У меня полно более важных дел, чем заниматься такой ерундой, как изучение бредовых теорий. Поспрашивай у остальных.}
-{151}{010}{Ясно. Я хочу еще спросить.}
-{152}{999}{Пойду у кого-нибудь еще спрошу.}
-
-
-
-
-{160}{}{[Эштон недовольно скривился] Какие еще Сэт и Мэт? Я слишком занят, чтобы заключать союзы с какими-то проходимцами из НМП! Мне абсолютно до лампочки они и их проблемы. Я не собираюсь заключать с ними никаких союзов. Может, другие семьи о чем-нибудь с ними договаривались. Это в их стиле - заниматься ерундой.}
-{161}{010}{Хорошо. Тогда другой вопрос.}
-{162}{999}{Пойду узнаю у других семей про союз.}
-
-
-
-
-{170}{}{[Эштон самодовольно вскинул подбородок] Да, я являюсь самым главным в этом убежище. Во-первых, только я отвечаю за ремонт оборудования. Без моих навыков здесь все давно рассыпалось бы к чертям. Этим ленивым амебам ничего поручить нельзя. Я даже запрещаю им ковыряться в механизмах. Эти криворукие придурки только еще хуже сделают. }
-{171}{018}{А что во-вторых?}
-
-
-
-
-{180}{}{[Эштон еще больше заулыбался] А во-вторых, я являюсь единственным законным владельцем этого прекрасного отеля. Мои предки, владельцы сети отелей, построили его для меня и моей семьи. А остальные живут здесь только потому, что мы им разрешаем. Если убежище начнет переполняться, я легко выкину кого-нибудь наружу. Мое слово здесь закон. Все знают, что я единственный законный управляющий. Но, не смотря на свое высокое положение, я не болею "звездной болезнью". Я даже горжусь тем, что высокое положение совсем не мешает мне делать черную работу ремонтников.}
-{181}{020}{Ты ремонтируешь абсолютно все в убежище?}
-{182}{010}{Хорошо, я хочу о другом узнать.}
-
-
-
-
-{190}{}{Я заведую ремонтом оборудования. И никому не позволяю лезть в это важное дело. Только такие золотые руки, как у меня, должны прикасаться к сложным механизмам.}
-{191}{020}{Ты можешь починить абсолютно все?}
-{192}{010}{Понятно. Я спрошу о другом.}
-
-
-
-
-{200}{}{[Эштон немного замялся] Не совсем все... Вот аппарат по производству питательных смесей полностью вышел из строя. Там что-то сгорело, заклинило или что-то еще. Несмотря на мою величайшую квалификацию, я так и не смог его починить. Это все из-за небрежного отношения жителей к аппарату! Я все время им повторяю, чтобы берегли оборудование. А они наплевательски относятся ко всем вещам. Понятно, они здесь в гостях в моем отеле. А мне, как хозяину, это неприятно.}
-{201}{021}{Есть еще какие-нибудь проблемы?}
-{202}{010}{Ясно. Спрошу о других вещах.}
-
-
-
-
-{2101}{}{[Эштон медленно и неохотно продолжил] Э-м-м... Видишь ли... Не знаю, нужно ли тебе это говорить... М-м-м... В-общем, с водным фильтром что-то не так. Он перестал справляться с большими объемами воды. Боюсь, что дальше будет только хуже. Если он сломается окончательно, то Лайвос может погибнуть. Я пробовал починить его, но поломка оказалась достаточно сложной. Сразу так не починишь.}
-{2102}{}{Сейчас других проблем нет. Была небольшая поломка водного фильтра, но теперь он работает отлично.}
-{2103}{}{Водный фильтр окончательно сдох. Я уже и инструкцию почитал, и кучу времени потратил, но все равно не могу починить. Скоро запасы воды закончатся. Не знаю, что и делать.}
-{211}{022}{Я слышал, что вкус воды изменился. Это из-за поломки?}
-{212}{025}{Я могу посмотреть, что случилось с фильтром. У меня большой опыт ремонта различных механизмов.}
-{213}{023}{Ты же лучший ремонтник в Лайвос. Неужели ты не разобрался с этим?}
-{214}{010}{Понятно. Давай о другом поговорим.}
-
-
-
-
-
-{220}{}{[Эштон отрицательно замотал головой] Нет, качество отфильтрованной воды осталось на прежнем уровне. Поломка фильтра повлияла только на объемы воды. Вся вода в Лайвос прошла через этот фильтр, и вкус ее точно такой же, как и раньше. Ты сам можешь в этом убедиться.}
-{221}{025}{У меня есть опыт ремонта. Я могу посмотреть, что там случилось с этим фильтром.}
-{222}{023}{А почему ты сам не смог разобраться? Ты же лучший специалист по ремонту в убежище.}
-{223}{010}{Да? Значит, проблема не в фильтре. У меня еще остались вопросы.}
-{224}{999}{Мне надо узнать, что случилось с водой. Поговорю еще с кем-нибудь. Пока.}
-
-
-
-
-
-{230}{}{[Эштон колеблется] Даже не знаю... Я смотрел инструкцию по ремонту, но там все так сложно... Я не смог разобраться. То есть не успел! Да, я просто не успел разобраться из-за других важных и срочных дел!}
-{231}{024}{Эштон, ты самый лучший ремонтник во всем Радиусе, с которым мне приходилось разговаривать! Ты быстро разберешься с этой простенькой инструкцией и починишь фильтр!}
-{232}{025}{А давай я посмотрю, что случилось с фильтром. У меня есть опыт в ремонте.}
-{233}{010}{Может, потом починишь. Я сейчас хочу о другом спросить.}
-
-
-
-
-{240}{}{[Эштон весь сияет от гордости] Да! Я самый лучший во всем Радиусе! Я, конечно, могу и сам починить фильтр, но мне еще надо разобраться, куда можно продать пару пушек. Да и батарейки на новые запчасти как раз нужны. Ты можешь мне помочь в этом, если выкупишь одну из них. Скажем, за 350 батареек. Пока я не разберусь с этим делом, мне не до фильтра.}
-{241}{010}{Я подумал, что лучше сам попробую починить. Я еще у тебя хотел спросить.}
-{242}{031}{Вот батарейки. Я возьму одну из твоих пушек, и у тебя появится время и батарейки, чтобы заняться починкой фильтра.}
-{245}{999}{У меня сейчас нет батареек. Давай я позже тебе принесу.}
-
-
-
-{250}{}{[Эштон явно сомневается] Даже не знаю... Я никого не допускаю к ремонту в своем отеле. [Он еще немного подумал] Ладно. Случай не простой, мне может помочь свежий взгляд на проблему. Можешь посмотреть фильтр. Но очень аккуратно!}
-{251}{999}{Хорошо. Я пойду посмотрю, что с фильтром.}
-
-
-
-
-{260}{}{Фильтр все еще работает очень плохо. А инструкция по ремонту как-то совсем непонятно написана.}
-{261}{024}{Эштон, ты самый лучший ремонтник во всем Радиусе, с которым мне приходилось разговаривать! Ты быстро разберешься с этой простенькой инструкцией и починишь фильтр!}
-{262}{010}{Я пока тоже не разобрался, в чем дело. Я задам еще вопрос.}
-{263}{027}{Я отремонтировал фильтр. Теперь он работает даже лучше, чем раньше.}
-{265}{027}{Я не уверен, но похоже вам теперь нужен НОВЫЙ фильтр...}
-{264}{030}{А я могу посмотреть инструкцию?}
-
-
-{270}{}{Это отлично! Сейчас я проверю... [Эштон нажал какие-то кнопки на приборах] Фильтр действительно работает! Как хорошо, что у тебя был такой мудрый советник, как я! Но ты тоже помог немного. Вот тебе немного батареек. Еще у меня завалялось пара пушек. Можешь выбрать себе одну. }
-{271}{028}{Я хочу прототип плазменной винтовки.}
-{272}{029}{Мне больше нравится лазерный пистолет.}
-
-{273}{}{Что-о? Ты его окончательно разломал!? [Эштон нажал какие-то кнопки на приборах] Черт... совсем не реагирует на сигналы... Нуу-с, теперь остается только надеяться, что вода не такая уж грязная, как мы думали... А я уже подготовил награду для тебя, но хрен ты чего получишь!}
-{274}{999}{Ааа... [махнуть рукой и уйти]}
-{275}{999}{Конечно, только спрячь получше [подмигнуть и уйти]}
-
-
-{280}{}{Отличный выбор. На, держи. Но не забывай бережно относиться к оружию! [Улыбается и бормочет в сторону] Надо же, наконец-то я избавлюсь от этого бесполезного хлама...}
-{281}{999}{Спасибо. Пока, Эштон.}
-
-
-
-
-{290}{}{Отличный выбор. На, держи. Но не забывай бережно относиться к оружию! [Улыбается и бормочет в сторону] Надо же, наконец-то я избавлюсь от этого бесполезного хлама...}
-{291}{999}{Спасибо. Пока, Эштон.}
-
-
-
-
-{300}{}{Нет! Я никому не позволяю копаться в моих документах.}
-{301}{026}{Ладно. Так что там с фильтром?}
-
-
-
-
-{310}{}{У меня есть лазерный пистолет и прототип плазменной винтовки. Я отдам тебе что-нибудь одно, а потом займусь фильтром. Что ты себе выберешь?}
-{311}{032}{Я хочу прототип плазменной винтовки.}
-{312}{033}{Мне больше нравится лазерный пистолет.}
-
-
-
-{320}{}{Отличный выбор. На, держи. [Улыбается и бормочет в сторону] Надо же, наконец-то я избавлюсь от этого бесполезного хлама... [Смотрит в Вашу сторону] Пойду чинить! Для лучшего спеца Радиуса по ремонту - это пара пустяков!}
-{321}{999}{Спасибо. Пока, Эштон.}
-
-
-
-{330}{}{Отличный выбор. На, держи. [Улыбается и бормочет в сторону] Надо же, наконец-то я избавлюсь от этого бесполезного хлама... [Смотрит в Вашу сторону] Пойду чинить! Для лучшего спеца Радиуса по ремонту - это пара пустяков!}
-{331}{999}{Спасибо. Пока, Эштон.}
+{10}{}{[You see a dissatisfied man with a moustache. Seeing you he starts grumbling] Another someone poking his nose around. Who are you and why did you come here? What do you want? }
+{11}{002}{I'm here recently. Looking around the vault.}
+{12}{009}{Who are YOU?}
+{13}{011}{Hey. I'm new, meeting my neighbours.}
+
+{20}{}{Look around, but carefully. Don't put your fingers into everything, pushing every button you see. I'm Ashton Horton, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
+{21}{003}{No.}
+{22}{004}{Yes.}
+{23}{005}{I have no time to talk about rules right now. I'll go.}
+
+{30}{}{The first rule of Livos is to take good care of the property! Use the local equipment only in case you need to. It's forbidden to turn everything on and off just for fun, or push any buttons when you feel like it! Understood?}
+{31}{004}{Yes, understood.}
+{32}{007}{No, I still don't get it.}
+{33}{005}{I don't care. I'll go.}
+
+{40}{}{Good. Then I need to test your knowledge of the rules. Are you ready?}
+{41}{006}{I'm ready!}
+{42}{007}{No, I'm not ready yet.}
+{43}{003}{Uh, which rules? I forgot.}
+
+{50}{}{[He grabs your hand] Wait! You can't leave until you learn the rules! You should demonstrate your knowledge of them! Are you ready?}
+{51}{006}{Yes, I'm ready.}
+{52}{003}{Remind me, which rules are there?}
+{53}{007}{No, I'm not ready.}
+
+{60}{}{Okay then, first question - How do you treat the property of Livos?}
+{61}{012}{With a good care.}
+{62}{012}{With care.}
+{63}{013}{With a little care.}
+{64}{013}{Usually.}
+{65}{013}{You can push buttons if you feel like it.}
+{66}{014}{You can poke into everything you want and push everything you find.}
+{67}{014}{You can do anything, including kicking stuff around and picking into it.}
+
+{70}{}{I won't let you go until you learn the rules! You will definitely go and break something! You should pass the test!}
+{71}{003}{Well, okay. Remind me, which rules are there?}
+{72}{006}{I'm ready for test.}
+{73}{008}{Screw you! I don't care about that tests of yours!}
+
+{80}{}{You are stupid moron! I'm gonna beat some sense into you!}
+{81}{998}{Come on then!}
+
+{90}{}{You have a bad temper. Probably, that's because you didn't know that you are talking to Ashton Horton himself, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
+{91}{003}{No.}
+{92}{004}{Yes.}
+{93}{005}{I have no time to talk about rules right now. I'll go.}
+
+{1001}{}{Come in, chief. Did something break again?}
+{1002}{}{Yes, I can answer your questions.}
+{1003}{}{Oh, you again. You didn't break anything, did you.}
+{101}{015}{Ludwig lost his book of wave science. Did you see it?}
+{102}{016}{I want to talk about Seth and Matt from NWO. Do you want to make an alliance with them?}
+{103}{017}{You said that you are the most important man in Livos. Tell me more about it.}
+{104}{019}{What is it that you do here?}
+{105}{026}{I want to talk about water filter.}
+{106}{999}{I have some things to do. Let's talk later.}
+
+{110}{}{[The man smiles] Well, you've met the right person to talk to. I'm Ashton Horton, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
+{111}{003}{No.}
+{112}{004}{Yes.}
+{113}{005}{I have no time to talk about rules right now. I'll go.}
+
+{120}{}{[Ashton looks satisfied] Right! You are good! If only everyone else would understand the rules as good as you. I have no more questions, you have passed. Now you can walk freely around the vault.}
+{121}{010}{I would like to ask some questions first.}
+{122}{999}{Okay, I'm going with a clean conscience.}
+
+{130}{}{[Ashton raises his voice] Not exactly right! You should treat the property of Livos with a GOOD CARE! How am I supposed to make all of you to remember this simple thing... Okay, you can walk around freely, but don't poke your nose where you shouldn't.}
+{131}{010}{I would like to ask some questions first.}
+{132}{999}{Okay, I'll go walk around.}
+
+{140}{}{[Ashton frantically waves his hands] Wrong! You can't do it, it's forbidden! You should take a GOOD CARE of local property! How am I supposed to make all of you to remember this simple thing... Okay, you can walk around freely, but don't touch any equipment! At least, until you learn the rules.}
+{141}{010}{I would like to ask some questions first.}
+{142}{999}{Okay, I'll go walk around.}
+
+{150}{}{[Ashton carelessly shrugs] No, I didn't see any book. I have more important things to do than reading about some stupid theories. Ask others.}
+{151}{010}{Okay. I have other questions.}
+{152}{999}{I'll go ask someone else.}
+
+{160}{}{[Ashton makes displeased face] Who the hell are Seth and Matt? I'm too busy to make some stupid alliances with some tramps wrom NWO! I don't care about their problems in the slightest. No alliances for them. Maybe some other families would talk about it. It's in their habit - to deal in nonsence.}
+{161}{010}{Okay. I have other questions.}
+{162}{999}{I'll go and do that then.}
+
+{170}{}{[Ashton complacently raises his chin] Yes, I'm the most important person in this place. Firstly, I do the repairs of the vital equipment. No one else does. Without my skills, everything here would have fallen apart already. This lazy amoebas can't do anything, so I forbid them to even touch the mechanisms. They will only make things worse with their crooked hands. }
+{171}{018}{And secondly?}
+
+{180}{}{[His smile gets wider] And secondly, I am the one and only legitimate owner of this beautiful hotel. My ancestors, who were the proprietors of a huge hotel network, built it for me and my family. And the rest are only living here because we allow it. If Livos gets crowded, I'll throw someone outside. My word is the law here, everyone knows that I'm the rightful leader. Still, despite my high status, I don't act star-struck. I'm even proud that it doesn't get in my way of doing the hard labor of repairings.}
+{181}{020}{You are able of repairing anything in the vault, right?}
+{182}{010}{Okay, I want to ask something else.}
+
+{190}{}{I'm doing repair duties. And I don't let anyone else poke into this important business. Only the hands of gold, like mine, would touch this compicated tech.}
+{191}{020}{Can you fix anything here?}
+{192}{010}{I see. I have other questions.}
+
+{200}{}{[Ashton stumbles] Not exactly... For example, our nutritional mixtures machine is completely out of order. There's something burned in it. Or jammed. Or something else. Despite my highest qualification, I couldn't do anything. It's all becase of carelessness of other dwellers! I keep telling them - take a good care of the property! But they just don't. Of course, they are guests in my hotel, but as an owner, I'm not very glad.}
+{201}{021}{Any other problems?}
+{202}{010}{I see. I'll ask about something else.}
+
+{2101}{}{[Ashton slowly and reluctantly continues] Uhh... You see... I don't know if I should tell you this, but, er... The thing is, there's something wrong with the water filter. He can't handle big amounts of water anymore. And I'm afraid it'll only get worse - if it breaks down completely, Livos could die out. I tried to repair it, but the situation is pretty complex. You can't just go and fix it.}
+{2102}{}{No other problems for now. There was issues with broken water filter, but it forks fine now.}
+{2103}{}{The water filter is completely dead. I've read the manual, spent much time, but still fail to fix it. Soon our water supply will become thin. Don't know what to do with it.}
+{211}{022}{I've heard that the taste of water became strange. Is it because of a problem with filter?}
+{212}{025}{I can look into the filter problem. I have a broad experience of repairing different stuff.}
+{213}{023}{You are the best repairman of Livos! How come you still didn't manage?}
+{214}{010}{I see. Let's talk about something else.}
+
+{220}{}{[Ashton shakes his head] No, the quality of water is the same. The filter problem only influences the amount of water that can be filtered. Every drop of water in Livos went through this filter, the taste is the same as before. You can see for yourself.}
+{221}{025}{I am experienced in repairings. I can see what has happened to filter.}
+{222}{023}{How come you still didn't manage it? You are the best repairman of Livos!}
+{223}{010}{Really? So it's not about the filter then. I have other questions.}
+{224}{999}{I need to find out what's wrong with the water. I'll go talk to someone else. Bye.}
+
+{230}{}{[Ashton hesitates] I don't even know... I've read the manual, but, uh, it's so difficult... I couldn't make heads or tails- I mean, I didn't have time to look into it properly! Yes, because of this other urgent business I have!}
+{231}{024}{Ashton, you are the most experienced person in this vault in the matters of repairing things! I'm sure it will be very easy for you to understand this manual, if you try!}
+{232}{025}{Let me see into it. I have some skills of fixing things.}
+{233}{010}{I'm sure you'll fix it later. I want to ask something else.}
+
+{240}{}{[Ashton shines] Yes! I'm the best in the whole Radius! I could fix the filter, sure, but I still need to deal with, uh, selling a couple of guns. Because, obviously, I need batteries for the parts. You could help me out if you buy one of them for, let's say, 350 batteries. Until I deal with this, I won't get into repairing the filter.}
+{241}{010}{I'd better look into fixing filter myself. I have other questions.}
+{242}{031}{Here are the batteries. Give me one of that guns. Now you'll have the time you need to do fixings.}
+{245}{999}{I have no batteries on me right now. I'll get them to you later.}
+
+{250}{}{[Ashton has visible doubts] I don't know... I don't let anyone to fix things around here. Hm. This is a difficult case, so I could have use a fresh eye. Okay, you can go look at the filter. But be very careful!}
+{251}{999}{Okay, I'll go check the filter out.}
+
+{260}{}{The filter is still bad at filtering. And the repair manual is so obscure!}
+{261}{024}{Ashton, you are the most experienced person in this vault in the matters of repairing things! I'm sure it will be very easy for you to understand this manual, if you try!}
+{262}{010}{I'm still looking into the problem too. I have some questions though.}
+{263}{027}{I've repaired the filter. It works even better than before.}
+{265}{027}{I'm not quite sure, but it looks like you need a NEW filter...}
+{264}{030}{Can I look at the manual?}
+
+{270}{}{That is great! I'll check... [Ashton presses some buttons on a nearby device] The wilter is really working! That is so good you had such a wise me advising you! Still, you've helped a bit too. Here are some batteries for that. And I also have a couple of guns here, so pick one as a present. }
+{271}{028}{I want a plasma rifle prototype.}
+{272}{029}{I'm more into that laser pistol.}
+
+{273}{}{Wh- WHAT? You broke it completely?! [Ashton presses some buttons on a nearby device]] Damn... No signal at all... Well... All that's left is to hope that the water is not as dirty as we used to think... And I had some reward prepared for you, but now you obviously won't get it!}
+{274}{999}{Oh... [shrug and leave]}
+{275}{999}{Of course, you'd better hide it somewhere [wink and leave]}
+
+{280}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk...}
+{281}{999}{Thanks. Bye, Ashton.}
+
+{290}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk...}
+{291}{999}{Thanks. Bye, Ashton.}
+
+{300}{}{No! I won't let anyone to look into my documents!}
+{301}{026}{Okay then. So, what about the filter?}
+
+{310}{}{I have a laser pistol and plasma rifle prototype. Pick something and I'll go handle the filter.}
+{311}{032}{I want a plasma rifle prototype.}
+{312}{033}{I'm more into that laser pistol.}
+
+{320}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk... [Looks at you] I'll go fix the thing! Not a problem at all, especially for the best repairman in Radius!}
+{321}{999}{Thanks. Bye, Ashton.}
+
+{330}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk... [Looks at you] I'll go fix the thing! Not a problem at all, especially for the best repairman in Radius!}
+{331}{999}{Thanks. Bye, Ashton.}

@@ -29,32 +29,32 @@
 #
 #ÎÏÈÑÀÍÈÅ ÏÅĞÑÎÍÀÆÀ
 #
-{1}{}{You see: a hooker.}
-{2}{}{You see: a prostitute.}
-{3}{}{You see: a love priestess.}
-{4}{}{You see: lady of the evening.}
-{5}{}{You see: nightfly.}
+{1}{}{You see a hooker.}
+{2}{}{You see a prostitute.}
+{3}{}{You see a love priestess.}
+{4}{}{You see a lady of the evening.}
+{5}{}{You see a nightfly.}
 {6}{}{She looks like a porn star in retirement.}
 {7}{}{For some reason, her photo, pinned, near the entrance, looks much more attractive...}
 {8}{}{She has dry white stains in the most unusual places of her clothes.}
-{9}{}{It's unlikely she spends more than a couple of minutes on her obnoxious make-up.}
+{9}{}{It's unlikely that she spends more than a couple of minutes on her obnoxious make-up.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 {10}{}{[invites you with a finger]}
-{11}{}{Come, ride me, cowboy!}
+{11}{}{Come and ride me, cowboy!}
 {12}{}{I'm gonna show you the gates of heaven, my sweet pie.}
-{13}{}{As you want it - with hands, legs, lips.}
+{13}{}{Any way you want it - hands, legs, lips.}
 {14}{}{You pay, you say - I do, my superman.}
 {15}{}{27 batteries - and I'm all yours [winks]}
 {16}{}{I still can't hear the clanking of batteries, my pretty boy.}
 {17}{}{Any dream - for 27 batteries only.}
 {18}{}{To the front, to the back, upside-down - 27 batteries for a run.}
 {19}{}{}
-{101}{}{Hey, honey, I remember about the tax twice a week! I paid you not too long ago!}
+{101}{}{Hey, honey, I remember about the tax twice a week! I paid you not long ago!}
 {102}{}{No sweetie, I'm paying twice a week, just as we agreed!}
 {103}{}{Don't get all hot-headed, just checking that you didn't forget about my 10 percent.}
-{104}{}{Came to collect? Here, take your 10 percent. All I have.}
+{104}{}{Came to collect? Here, take your 10 percent. All the money I have.}
 {105}{}{Look at that big bad tax autority, came for his percent! Here, "master", take it!}
 {106}{}{Yeah-yeah, twice a week... [gives you batteries] Here boss, all I could gather.}
 {107}{}{[take the batteries] Don't get too sassy or I'll put you under a pet jackals.}
@@ -76,11 +76,11 @@
 {1011}{}{Today back door is closed.}
 {1012}{}{I'm a passionate mistress, If you can afford it...}
 {1013}{}{Baby, do you even have the batteries?}
-{1014}{}{Wow, your lil'Jimmy reached out to me... So cute!}
+{1014}{}{Your lil' Jimmy reaches out to me... It's so cute!}
 {1015}{}{Come on, beautiful, you won't regret it!}
 {1016}{}{[plays with her boobs]}
 {1017}{}{[wags her butt]}
-{1018}{}{[flails a dildo]}
+{1018}{}{[brandishes a dildo]}
 {1019}{}{::moans::}
 # Îòğèöàòåëüíûå ñîîáùåíèÿ
 {1020}{}{Losers will not get lucky with me.}
@@ -126,6 +126,6 @@
 #Íàîìè ßíã ñäåëàëà êàïëş ñèëüíåå
 {1055}{}{::Hmh::}
 {1056}{}{::Mhrhm::}
-{1057}{}{[She is staring blankly. When you come closer she almost wakes up]}
+{1057}{}{[She is staring blankly. When you come closer, she almost wakes up]}
 {1058}{}{::laughs::}
 {1059}{}{I haven't felt so good in a long time...}

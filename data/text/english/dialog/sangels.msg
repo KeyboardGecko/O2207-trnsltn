@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see: a cannibal.}
-{2}{}{You are pretty sure he is cannibal. He has a necklace made of ears, his armor contains pieces of skulls.}
+{1}{}{You see a cannibal.}
+{2}{}{You are pretty sure he is a cannibal. He has a necklace made of ears, his armor contains pieces of skulls.}
 #
 # после знакомства
 #
-{3}{}{You see: ???.}
+{3}{}{You see ???.}
 {4}{}{::описание::}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА

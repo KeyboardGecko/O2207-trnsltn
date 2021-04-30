@@ -22,7 +22,7 @@
 {16}{}{Hit Points}
 {17}{}{The motion sensor option is not installed.}
 {18}{}{The motion sensor has no charges remaining.}
-{20}{}{English Translation by KeyboardGecko and fedprod}
+{20}{}{English Translation by Keyboard Gecko and fedprod}
 {30}{}{This is not yet the end! Do you wish to continue playing?}
 {50}{}{If you see THIS message dial 555-EXTERMINATUS immediately.}
 #
@@ -37,8 +37,8 @@
 {1001}{}{You feel very nauseous, and after some mild vomiting, slightly fatigued.}
 {1002}{}{You are very fatigued, the vomiting does not stop, and your recovery time is impaired.}
 {1003}{}{You are hemorrhaging violently. You are very sick, and your hair is falling out.}
-{1004}{}{You are hemorrhaging violently and continuously. The vomitus is stained red from your blood. Your skin is falling off of your bones.}
-{1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony and call for death.}
+{1004}{}{You are hemorrhaging violently and continuously. The vomit is stained red from your blood. Your skin is peeling off your bones.}
+{1005}{}{You are bleeding from your intestines and have a case of severe diarrhea. You feel bloated and are in intense agony, calling for death.}
 {1006}{}{You have died from radiation sickness.}
 {1007}{}{You have received a large dose of radiation.}
 {1008}{}{The geiger counter is clicking.}
@@ -54,7 +54,7 @@
 {3000}{}{You have been poisoned!}
 {3001}{}{You take damage from poison.}
 {3002}{}{You feel a little better.}
-{3003}{}{You feel that the poison has been cleansed from your body, such a relief!}
+{3003}{}{You feel that the poison has been cleansed from your body. Such a relief!}
 #
 # from queue.c
 #
@@ -77,8 +77,8 @@
 #
 # from anim.c -- Fallout 2
 #
-{8000}{}{You are overburdened.} 
-{8001}{}{%s is overburdened.}
+{8000}{}{You are overcumbered.} 
+{8001}{}{%s is overcumbered.}
 #
 # from worldmap.c -- Fallout 2
 #

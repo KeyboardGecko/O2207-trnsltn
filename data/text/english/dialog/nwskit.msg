@@ -11,186 +11,188 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: заключенный.}
-{2}{}{подозрительный тип.}
+{1}{}{You see a prisoner.}
+{2}{}{A suspicious fellow.}
 #
 # после знакомства
-{3}{}{Вы видите: Скит.}
-{4}{}{Скит. Завскладом.}
+{3}{}{You see Skeet.}
+{4}{}{Skeet. He is responsible for warehouse.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы  видите за решеткой человека сомнительной внешности: его левый глаз прищурен, будто он смотрит на Вас с подозрением, а передние зубы отсутствуют. Вкрадчивый взгляд этого типа сильно угнетает, и Вы уже хотите уйти как тот окликает Вас] Эй, чего смотришь?! Еще один желающий плюнуть мне в лицо?}
-{11}{002}{А что, стоит?}
-{12}{003}{Чего сидим? Кого ждем?}
-{13}{004}{Для начала - привет. }
+{10}{}{[You see a man behind bars. He has a shady look: left eye is squinted, like he's suspicious of something, some of his front teeth are missing. This guy's soft gaze makes you feel depressed. As you want to leave, he starts to talk] Hey, what are you looking at?! Another one in line to spit into my face?}
+{11}{002}{Do I need to?}
+{12}{003}{Why are you sitting here?}
+{13}{004}{Hello, for starters.}
 
 
-{20}{}{Ты чего пришел-то? Поглумиться? Давай-ка ты проваливай отсюда... [усмехается, бормоча что-то себе под нос]}
-{21}{005}{Слушай, а ты кто такой, и чего ты там делаешь вообще? Выходи может, а там и поговорим.}
-{22}{006}{А ты не очень общительный.}
+{20}{}{Why are you here? To mock me? You know what, get the hell out of here... [he chuckles, mumbling something]}
+{21}{005}{Actually, who are you? And what are you doing there? Come out and let's talk.}
+{22}{006}{You are not very talkative, I see.}
 
 
-{30}{}{Ах-ха-ха-ха-ха! Ну-ну, ну-ну... Нет, вопрос хороший, правда - я сам думаю над этим. Жду, когда кто-нибудь раздуплится и выпустит меня отсюда.}
-{31}{007}{А что, это ваш обезьянник? Буянил - тебя и посадили подумать над поведением? Или убил кого-нибудь?}
-{32}{008}{И как ты тут оказался?}
+{30}{}{Hahahahaahahah! Yeah, right... No, it's a good question, really - I was just thinking about it myself. Waiting for someone to come into senses and let me out of here.}
+{31}{007}{What, is this, like, a prison? Caused some trouble and they put you here to think about your behaviour? Oh! Did you kill someone?}
+{32}{008}{And how did you end up here?}
 
 
-{40}{}{Че те надо, окаянный?}
-{41}{008}{Меня зовут }
-{42}{008}{. Я смотрю, ты тут влип. Рассказывай уже, не тяни резину.}
+{40}{}{Whaddaya want, cheeky boy?}
+{41}{008}{The name's }
+{42}{008}{. I see you got yourself into some mess. Tell me, don't be shy.}
 
 
-{50}{}{[он закрывает лицо ладонью и качает головой] Боже, ну что за идиот...}
-{51}{008}{Ты все-таки представься и поясни суть проблемы, а то уже начинает надоедать. }
-{52}{009}{Ладно, я, пожалуй, оставлю тебя...}
+{50}{}{[He covers his face with a palm of his hand and shakes his head] Oh my god, what an idiot...}
+{51}{008}{Why don't you introduce yoursef and get to the point of your problem? I'm getting tired of it. }
+{52}{009}{Okay, I'll leave you for now...}
 
 
-{60}{}{Да с хрена ли мне тут душу изливать хрен пойми кому, а? [он замолкает] Хотя, что я теряю? Тебе это действительно интересно?}
-{61}{008}{Да. }
-{62}{013}{Давай попробуем. Или я пойду.}
+{60}{}{Why the hell would I spill my beans to god-knows-who? [he stops, thinking] Although, what do I lose? Are you really interested in hearing this?}
+{61}{008}{Yes. }
+{62}{013}{I could try. Or I'll go.}
 
 
-{70}{}{Не совсем: кто-то ворует тушенку со склада, а подозревают меня. Ну тот склад на цеховом дворе, там в пристройке еще наш медик-садист Гиндер сидит. Да, кстати, я - Скит, заведующий тем самым складом. Охраняемым, бля, складом. Тоже мне, форт Нокс, бля.}
-{71}{011}{Я - }
-{72}{011}{. Есть идеи кто это может быть?}
-{73}{012}{Надеюсь ты не хочешь все списать на мистические силы?}
+{70}{}{Not exactly. Someone's been stealing the canned food from warehouse, and I'm the suspect. You know, the warehouse. Near the factory. There's also a room of our sadistic doctor Hinder in it... By the way, I'm Skeet, warehouse supervisor. Guarded, keep in mind, fuckin' warehouse. Fort Knox, my ass.}
+{71}{011}{I'm }
+{72}{011}{. Any ideas who might be stealing?}
+{73}{012}{I really hope you don't put it on some mystical force, do you?}
 
 
-{80}{}{Ох. [тяжело вздыхает] Значит так. Я заведую складом на цеховом дворе, зовут меня Скит. На складе хранятся консервы. [выходит из себя, повышая тон] Какая-то мразь систематически уводит эти консервы, здорово преуспевая в своем гнусном ремесле. Естественно, все думают на меня. Кражи продолжаются до сих пор - слушать меня все равно никто не хочет, а помогать - и подавно. Балакают, что я подговорил кого-то чтобы кражи продолжались. [он смачно схаркивает на пол]}
-{81}{999}{Что ж, пойду, попытаюсь что-нибудь разузнать. }
-{82}{999}{Ничего не обещаю, но если я что-то узнаю - дам тебе знать.}
+{80}{}{Man... [he heavily sighs] That's how it is: I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor]}
+{81}{999}{Okay, I'll go and try to find out something. }
+{82}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
 
-{90}{}{Эй! Ты куда?! А ну вернись! [спустя небольшую паузу] Скит - так меня зовут. Ты доволен? Вернись!}
-{91}{013}{Ух ты, в тебе проснулось красноречие? [Вы выдерживаете короткую паузу] Итак, я полон внимания. Но давай уже без твоего фирменного секса с мозгом собеседника.}
+{90}{}{Hey! Where are you going?! Get back here! [he takes pause] Skeet, that's my name. Are you happy? Come back!}
+{91}{013}{Oh wow, getting talkative all of a sudden? I'm listening. But don't mess with me this time.}
 
 
-{110}{}{Нет. Знал бы - не сидел здесь. И догадок-хренадок у меня нет.}
-{111}{999}{Что ж, пойду, попытаюсь что-нибудь разузнать. }
-{112}{999}{Ничего не обещаю, но если я что-то узнаю - дам тебе знать. А ты... ты слишком напряжен. Я знаю, что тебе нужно сделать: сейчас я уйду и постараюсь что-нибудь узнать, а ты пока подергай себя хорошенько за рычаг, ага? [удалиться под гневные вопли Скита]}
+{110}{}{No. If I knew, I wouldn't be sitting here. And I don't have any fuckin' guesses.}
+{111}{999}{Okay, I'll go and try to find out something. }
+{112}{999}{Won't make any promises, but if I learn something, I'll let you know. And I think you are pretty tense. Let's try this - I'll go and try to find out things, and you stay here and pull your lever, okay? [leave, listening to his angry screams]}
 
 
-{120}{}{Офигеть! Какая проницательность! Я только и думаю, что о пустынных ведьмах, ага.}
-{121}{014}{Это все объясняет! Элементарно! Всего один вопрос: что ты забиваешь в свою трубку?}
-{122}{013}{Давай не ерничай. А то меня это уже утомило. Я, в отличие от тебя, не сижу здесь по принуждению. Шаг за дверь и разбирайся сам.}
+{120}{}{Holy shoe! Brilliant! This is definitely the doings of witches of the desert!}
+{121}{014}{That explains everything! Elementary! One question though, what is it in that pipe you smoking?}
+{122}{013}{Enough with the jokes, tired of them. Unlike you, I'm here voluntarily. I step out that door, and you are all by yourself.}
 
 
-{130}{}{Хорошо, хорошо. Послушай, какой-то козел сыграл со мной злую шутку: он по-ночам тягает с моего склада во дворе тушенку, причем крайне успешно, а думают на меня. После моего заточения тушенка не перестала пропадать и... что ты думаешь? [Иронично] Конечно, это я кого-то подговорил отвести от меня подозрения. И да, больше мне рассказать по сути нечего... Парень, если ты окажешь любую помощь, которая приведет к моему освобождению, поверь, я такое не забуду.}
-{131}{999}{Вот, совсем другое дело, Скит. Я постараюсь тебе помочь. До скорого.}
-{132}{999}{Ничего не обещаю, но если я что-то узнаю - дам тебе знать.}
+{130}{}{Okay, okay. Listen, some asshole set me up: he steals the cans from factory warehouse at nights, with extreme success, mind that, and everyone else think it's my doing. Even after they put me here, the cans are still getting stolen - and what do they think? Of course, that I persuaded someone to continue doing it, to throw the suspicions off me! And that's all I have to tell, basically... Listen, If you can help in any way that would make me free, I won't forget that.}
+{131}{999}{Now we're talking, Skeet. I'll try to help. See you around.}
+{132}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
 
-{140}{}{Тебе еще не надоело язвить? Подумай лучше вот о чем: кто-то чертовски выгодно, а главное - умело меня подставил, и сейчас, используя уязвимые места склада и его охраны, мастерски имеет меня и всех остальных.  }
-{141}{999}{Что ж, пойду, попытаюсь что-нибудь разузнать. }
-{142}{999}{Ничего не обещаю, но если я что-то узнаю - дам тебе знать.}
+{140}{}{Aren't you tired of being a smart-ass? Think about it - someone set me up bloody well, using vulnerable spots of warehouse and its security, masterfully fucking up everyone, including me. }
+{141}{999}{Okay, I'll go and try to find out something. }
+{142}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
 
-{100}{}{Здарова, как успехи?}
-{101}{015}{У меня появилось пара вопросов об этом "неуловимом тушеночном воре".}
-{102}{016}{Хорошо. С тебя сегодня снимут обвинения.}
-{103}{017}{Успехи? Да, вот парочку приколов придумал...}
-{104}{999}{Успехи есть, Скит, но нужно идти дальше, так что пока! [смеетесь]}
+{100}{}{Hey there. How is it going?}
+{101}{015}{I came up with some questions about that "elusive thief of canned food".}
+{102}{016}{Good. Today you are going to be free of all charges.}
+{103}{017}{Going? Good. Thought of a couple of jokes...}
+{104}{999}{Good, Skeet, and I need to go, so - be seeing you! [laugh]}
 
 
-{150}{}{Что еще?}
-{151}{018}{Подумай, пожалуйста, хорошенько: как вор проникает на склад?}
-{152}{019}{Есть что-нибудь особенное, о чем мне следует знать, когда я буду искать вора?}
-{153}{999}{Да ничего. Пожалуй, я не хочу знать как ты зубы потерял. [конец диалога]}
+{150}{}{Which ones?}
+{151}{018}{Think hard, please: how does this thief manage to get into the warehouse?}
+{152}{019}{Is there something special I should know while looking for a culprit?}
+{153}{999}{No, nothing. I don't really want to know how you lost your teeth. [end the dialogue]}
 
 
-{160}{}{Черт... Как?! Ты меня разыгрываешь! Блин, да как так-то?}
-{161}{020}{Все просто: дикая химера забиралась по опорам забора, прыгала в дыру и проникала на территорию склада. Затем она, очевидно, безнаказанно тырила консервы. }
+{160}{}{Wh- WHAT? How?! You are messing with me, man! How is that possible?!}
+{161}{020}{Easy - a wild Chimera has been climbing the fence poles, jumping through a hole and getting into a warehouse. After that, obviously, she had been stealing the cans with food, unpunished. }
 
 
-{170}{}{Ну-ка, ну-ка. Выкладывай!}
-{171}{021}{Вот, послушай. Идет мужик по пустыне, пить хочет. Видит указатель - стрелка прямо, и написано: До воды 3 км. Обрадовался, идет дальше. Пить хочется - спасу нет! На четвереньках добрался до следующего указателя - стрелка прямо, и написано: До воды 2 км. Из последних сил доползает до третьего указателя - стрелка вертикально вниз, и написано: До воды 1 км.}
-{172}{022}{Ну, такой, например: Скит - он безнадежно за решеткой закрыт. Сидит, стонет, воет, скулит...}
-{173}{999}{Да ничего, забудь. Потом поболтаем.}
+{170}{}{Spill it.}
+{171}{021}{Here's one - the man walks around the desert, thirsty. Suddenly, he notices a sign pointing right, saying "water - 3km". He gets excited, and goes right. Still very thirsty! On hands and knees he makes it to the next sign, pointing left, saying "water - 2km". So, with the last of his strength, he crawls even further, getting to the third sign - it points straight down, saying "water - 1km".}
+{172}{022}{For example... Skeet - that's it, behind the bars he sit. Cursing and swearing, not doing shit...}
+{173}{999}{Nah, forget it. We'll talk later.}
 
 
-{180}{}{Та хрен его знает... Ну сам посуди: вход охраняется, перемахнуть через забор - не тот забор, чтоб перемахивать через него. Это кто-то просто невероятно скрытный, знаешь, как ребенок или что-то вроде того... [Скит заводится] Да! Это может делать ловкий пацан! Возьми этого ублюдка за задницу, слышишь?! Оторви яйца сученку!}
-{182}{999}{Все ясно, Скит. Пойду испытывать удачу. А тебе стоит успокоиться.}
-{183}{999}{Я вижу ты, Скит, детей любишь. Пойду, посмотрю.}
+{180}{}{I dunno... You see, the entrance is guarded, and the fence is not of the kind that you can jump over - it's pretty high. This "someone" is really stealthy, like a kid or something... [he flips] Yeah!! It can be a slick kid! Get his ass, you hear me?! Tear his balls off!}
+{182}{999}{I got it, Skeet. I'll go try my luck. And you should calm down.}
+{183}{999}{I see you like kids. I'll go check it out.}
 
 
-{190}{}{Особенное? Нет, не думаю. Склад хорошо охраняется, да и на территорию проникнуть незамеченным - это из разряда фантастики. В общем, все по совести: охрана не дремлет, забор мы залатали недавно...}
-{191}{023}{Стоп. А раньше забор был дырявым для лучшей слышимости? Что вы делали с забором?}
-{192}{023}{О, залатали забор - это солидно. И как, думаешь, помогло?}
+{190}{}{Special? Nah, don't think so. The warehouse is heavily guarded, and to get to the territory unnoticed - that is some fantastic shit. So it's all good: the guards are guarding, the fence is fixed recently...}
+{191}{023}{Wait. The fence was broken before? For better hearing, I suppose? Tell me details!}
+{192}{023}{Oh, you fixed the fence, that's solid. So what, helped?}
 
 
-{200}{}{[Скит входит в ступор] Охренеть! Вот тварь! Перемочить их всех... Нахрен! А лучше - к долбанной бабушке!}
-{201}{999}{Ладно, владыка стеллажей, пойду-ка я отчитаюсь Марку.}
+{200}{}{[Skeet freezes] Holy shit! What a bitch! Rip them all... To shreds!!}
+{201}{999}{Okay, lord of shelves, I'll go tell this to Mark.}
 
 
-{210}{}{А мне не смешно.}
-{211}{999}{[пожимаете плечами] Как знаешь, Скит. До скорого.}
+{210}{}{I don't get it.}
+{211}{999}{[Shrug] As you say, Skeet. See you.}
 
 
-{220}{}{Ха-ха. Пиздец, как смешно.}
-{221}{999}{Аха-ха. Хорошо, хорошо. Ладно, мне пора, потом поболтаем.}
+{220}{}{Ha-ha. So fucking funny.}
+{221}{999}{Haha-ha! There, there. Okay, I need to go, talk later.}
 
 
-{230}{}{Ну, что тебе сказать? Забор дырявым раньше был. В целом, мы его основательно отремонтировали: кое-где прикрыли, чем было, кое-где хватило новый поставить... Да что тебе этот забор? Ты думаешь, что там есть куда просочиться? Да я туда член не просуну, парень. Может только в одну дырку удастся, так что забудь.}
-{231}{024}{Скит, и все же: где эта дырка, куда ты член суешь?}
-{232}{024}{Скажи, где она? Я тоже хочу туда вдуть.}
+{230}{}{What to say? There was a hole once. We fixed it pretty good -  partially covered it with some junk we had, somewhere even put a new pieces... Why do you care about the fence? Do you think someone could slip through? Even my dick won't fit in, you know. Maybe only in one place there... So, forget it.}
+{231}{024}{Skeet, tell me, where is that hole where you put your dick?}
+{232}{024}{Tell me where it is - I want to stick mine too.}
 
 
-{240}{}{Да е-мое, сам увидишь. Такой проказник, как ты, мимо такой дырочки не сумеет пройти... муа-ха-ха-ха-ха!}
-{241}{999}{А ты, не совсем нормальный, да, Скит? [отправиться на поиски таинственной дыры]}
+{240}{}{Look it up, man! Someone like you would't miss it. I mean, someone as naughty... Mwaahaha!}
+{241}{999}{You are not completely sane, are you, Skeet? [leave in search of a mysterious hole]}
 
 
 
 
-{300}{}{[Вы  видите человека сомнительной внешности: его левый глаз прищурен, будто он смотрит на Вас с подозрением, а передние зубы отсутствуют. Вкрадчивый взгляд этого типа сильно угнетает, и Вы уже хотите уйти как тот окликает Вас] Эй, чего смотришь?! Еще один желающий плюнуть мне в лицо?}
-{301}{031}{Вообще-то я новый руководитель города.}
+{300}{}{[You see a man of shady looks: left eye is squinted, like he's suspicious of something, some of his front teeth are missing. This guy's soft gaze makes you feel depressed. As you want to leave, he starts to talk] Hey, what are you looking at?! Another one in line to spit into my face?}
+{301}{031}{Actually, I'm the new Mayor.}
 
 
-{310}{}{Да ты гонишь!}
-{311}{032}{Я здесь не для того, чтобы тебя убеждать в чем-то.}
+{310}{}{You must be shitting me!}
+{311}{032}{I'm here not to convince you, you know.}
 
 
-{320}{}{Тогда как насчет амнистии бедному старику Скиту? Меня подставила какая-то сволочь, а я тут сижу! }
-{321}{033}{Ну-ну.}
-{322}{033}{Рассказывай давай. }
+{320}{}{Then how about an amnesty for a good old Skeet? I was set up by some scumbag, so I'm sitting here for nothing! }
+{321}{033}{Yeah, sure.}
+{322}{033}{Tell me details. }
 
 
-{330}{}{Ох. [тяжело вздыхает] Значит так. Я заведую этим складом, зовут меня Скит. На складе хранятся консервы. [выходит из себя, повышая тон] Какая-то мразь систематически уводит эти консервы, здорово преуспевая в своем гнусном ремесле. Естественно, все думают на меня. Кражи продолжаются до сих пор - слушать меня все равно никто не хочет, а помогать - и подавно. Балакают, что я подговорил кого-то чтобы кражи продолжались. [он смачно схаркивает на пол] Я не виновен! Честно!}
-{331}{034}{Да? А склад что, не охраняется?}
+{330}{}{Man... [he heavily sighs] That's how it is: I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor] I'm innocent! For real!}
 
+{331}{034}{Yeah? Isn't the warehouse guarded?}
 
-{340}{}{Хорошо охраняется, да и на территорию проникнуть незамеченным - это из разряда фантастики. В общем, все по совести: охрана не дремлет, забор мы залатали недавно...}
-{341}{999}{Понятно, сказочник ты наш. Маринуйся в камере. Тут тебе самое место.}
-{342}{999}{Окей, пойду осмотрюсь. Может ты и действительно незаслуженно сидишь.}
-{343}{035}{Забор был дырявым?}
 
+{340}{}{It is guarded, alright. To get to the territory unnoticed - that is some fantastic shit. So it's all good: the guards are guarding, the fence is fixed recently...}
 
-{350}{}{Да. В целом, мы его основательно отремонтировали: кое-где прикрыли, чем было, кое-где хватило новый поставить... Да что тебе этот забор? Ты думаешь, что там есть куда просочиться? Я так не думаю. Там была щель, но совсем маленькая. Даже ребенок не протиснется.}
-{351}{036}{Скажи, где она?}
+{341}{999}{Aren't you a storyteller. Sit in your camera. You belong here.}
+{342}{999}{Okay, I'll go look around. Maybe you are innocent.}
+{343}{035}{The fence was broken before?}
 
 
+{350}{}{Well, yeah. There was a hole once. We fixed it pretty good - partially covered it with some junk we had, somewhere even put a new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit.}
+{351}{036}{Can you tell me where it was?}
 
-{360}{}{Да е-мое, сам увидишь. }
-{361}{999}{[отправиться на поиски таинственной дыры]}
 
 
-{400}{}{Как успехи?}
-{401}{041}{Хорошо. С тебя сегодня снимут обвинения.}
-{402}{999}{В процессе.}
+{360}{}{Look it up, man! Someone like you would't miss it. }
+{361}{999}{[leave in search of a mysterious hole]}
 
 
-{410}{}{Серьезно? }
-{411}{042}{Да. Твой склад грабила маленькая химера. Она расковыряла забор и тихонька подворовывала запасы. Умная тварь. Мне нужно рассказать об этом Марку. }
+{400}{}{How is it going?}
+{401}{041}{Good. Today you are going to be free of all charges.}
+{402}{999}{In the process.}
 
 
-{420}{}{Черт, спасибо! Спасибо тебе! За мной не заржавеет!}
-{421}{999}{Ага, счастливо оставаться. }
+{410}{}{Seriously? }
+{411}{042}{Yeah. Your warehouse was being robbed by a little Chimera. She dug up a fence and has been quietly stealing the supplies. Smart creature. I should tell Mark about it. }
 
 
-{5}{}{Спасибо тебе! Век не забуду!}
-{6}{}{Серьезно - спасибо, мужик!}
-{7}{}{Спасибо за помощь! Сочтемся как-нибудь!}
-{8}{}{Да пошел ты!}
-{9}{}{Свали нахрен, МУДИЛА!}
-{14}{}{Ой, не надо мне посетителей тут...}
-{15}{}{Слушай, я не в настроении щас лясы точить...}
+{420}{}{Damn, thanks! Thank you, really! I owe you!}
+{421}{999}{Yeah, see you around. }
+
+
+{5}{}{Thank you! I'll remember that!}
+{6}{}{Seriously - thanks, man!}
+{7}{}{Thanks for the help! I owe you!}
+{8}{}{Screw you!}
+{9}{}{Get the hell out, ASSHOLE!}
+{14}{}{I'm not in the mood for visitors...}
+{15}{}{Listen, it's a bad time to do small talk...}

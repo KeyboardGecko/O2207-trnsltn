@@ -24,70 +24,70 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Бродяга.}
-{2}{}{Он выглядит каким-то... отрешенным.}
+{1}{}{You see a vagabond.}
+{2}{}{He looks a little... Distracted.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: знакомый бродяга.}
-{4}{}{Он будто бы чего-то ждет.}
+{3}{}{You see a familiar vagabond.}
+{4}{}{He looks like he's waiting for something.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Хэй, странник! Приветствую! Ты бы поосторожнее тут ходил - каннибалы на каждом шагу...}
-{11}{}{И тебе привет. Да я тут... Эй, а ты кто вообще?}
-{12}{}{Некогда мне тут болтать.}
+{10}{}{Hey, stranger! Greetings! I would thread lightly if I were you - so many cannibals around...}
+{11}{}{Hey yourself. I was just... Wait, who are you again?}
+{12}{}{I don't have time to talk.}
 {13}{}{}
-{14}{}{Можешь называть меня бродягой, так ведь и есть. Интересуешься... странностями?}
-{15}{}{Ну выкладывай.}
-{16}{}{Нет, мне не интересно. Я пошел.}
+{14}{}{You can call me vagabond, because that's who I am. Are you interested in... Strange things?}
+{15}{}{I am. Spill it out.}
+{16}{}{No, I'm not. I better go.}
 {17}{}{}
 {18}{}{}
 {19}{}{}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Опять ты. [улыбается] Хочешь мне что-то рассказать?}
-{101}{}{У тебя там вроде что-то было? Выкладывай.}
-{102}{}{Я принес деньги за книгу.}
-{103}{}{Я смог перевести заглавие. Это оказалось не так уж ии сложно.}
-{104}{}{Нет, просто мимо проходил.}
+{100}{}{You again. [he smiles] Have something to tell me?}
+{101}{}{You wanted to show me something, I recall? Spill it.}
+{102}{}{I got you money for the book.}
+{103}{}{I managed to translate the title. It turned out to be not so hard.}
+{104}{}{No, I was just walking by.}
 {105}{}{}
 {106}{}{}
 
-{110}{}{Есть одна... книга. Наверняка книга. Только она необычная, вместо букв - палочки и точки выдавлены. Вобщем-то похоже на какой-то код, только вот зачем кому-то что-то кодировать, а?}
-{111}{}{Код - не код, мне-то какое дело?}
-{112}{}{Хм, и правда интересно.}
-{113}{}{Скукота, мне нужно идти настоящими делами заниматься.}
+{110}{}{I have one... Book. I think. It is probably a book. A kind of unusual one - it has dots and lines engraved on each page instead of letters. Looks like some strange code. But why would someone encode something like this?}
+{111}{}{A code or not, why would I care?}
+{112}{}{Huh. Interesting.}
+{113}{}{Boring. I have to go, many things to do.}
 
-{120}{}{Ну так смотри: я уверен, что там что-то очень важное, но расшифровать код никак не получется. Может, ты сможешь, а? Давай так, я тебе за 10 батареек продаю книгу, а если ты подберешь ключик к коду - выкуплю с ключом за сотню. Идет?}
-{121}{}{По-рукам, держи батарейки.}
-{122}{}{У меня пока столько нет.}
+{120}{}{I am sure that it's something important, but I don't know how to crack the code. Maybe you could try? Let's do this - I will sell a book to you for ten batteries, and if you learn how to decrypt it, I will buy it back for a hundred, together with a key. Deal?}
+{121}{}{Deal, here are the batteries.}
+{122}{}{I don't have such sum.}
 
-{123}{}{Приходи как накопишь, я отсюда никуда не уйду.}
-{124}{}{Договорились.}
+{123}{}{Come back when you do. I won't leave anywhere.}
+{124}{}{Deal.}
 
-{130}{}{[бродяга передает Вам на удивление хорошо сохраившуюся книгу] Сумеешь ее разгодать - я буду ждать тебя здесь. Без нее мне некуда идти.}
-{131}{}{Как знаешь, дело твое.}
+{130}{}{[vagabond hands you a book in perfect condition] I will wait for you here. Without the book I have nowhere to go.}
+{131}{}{Suit yourself.}
 
-{140}{}{[бродяга вплотную приближается к Вам] И что? Что там написано?}
-{141}{}{Э-э-э, "Сборник стихов Джона Смитта".}
-{142}{}{Похоже, написано - "Библия. Ветхий завет" Ума не приложу, что это значит.}
-{143}{}{На самом деле я не уверен, нужно еще подумать, погадать... Пока.}
+{140}{}{[vagabond gets close] So? What does it say?}
+{141}{}{Uh, "John Smith. A poem".}
+{142}{}{Looks like it says "Bible. Old testament". No idea what this could mean.}
+{143}{}{I'm not sure, actually. I need to do some more research... See you.}
 
-{150}{}{[бродяга с силой отталкивает Вас] ЛЖЕШЬ! Впрочем, я уже привык к этому... Я ищу правду. Возвращайся, как разгадаешь ее, или отдай обратно.}
-{151}{}{[уйти]}
+{150}{}{[A vagabond forcefully pushes you away] LIAR! I'm getting used to it... Still, I need the truth. Come to me with the right answer, or give the book back.}
+{151}{}{[leave]}
 
-{160}{}{ДА!? Так и написано? [он тяжело дышит] Библия, значит... Хорошо, готов тебе заплатить 150 батареек за книгу.}
-{161}{}{По-рукам!}
-{162}{}{Что же в ней такого? Знаешь, пожалуй я оставлю ее себе, раз она так ценна.}
+{160}{}{Really!? That's what it says? [his breathing becomes heavy] A bible then... Okay, I'm paying you hundred and fifty for the book.}
+{161}{}{Deal!}
+{162}{}{What's so valuable about it? I better keep it to myself.}
 
-{170}{}{Тогда я заберу ее силой [встает в боевую стойку] Отдавай книгу!}
-{171}{}{Хорошо-хорошо, вот, держи.}
-{172}{}{Хрен тебе с маслом! [бой]}
+{170}{}{Then I'll take it by force. [he takes a battle stance] Give me the book!}
+{171}{}{Okay, okay! Here.}
+{172}{}{No way! [fight]}
 
-{180}{}{[бросает Вам мешочек с батарейками, хватает книгу и быстро уходит]}
-{181}{}{И тебе пока. Странный какой...}
+{180}{}{[he throws you a bag of batteries, grabs the book and hastily leaves.]}
+{181}{}{Bye to you too. Such a strange fella...}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

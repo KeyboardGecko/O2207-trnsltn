@@ -24,130 +24,130 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: угрюмый негр.}
-{2}{}{Этот слуга технологий похож на... наверное, на кусок стены. Пьяный кусок стены.}
+{1}{}{You see a gloomy black man.}
+{2}{}{This Technology Servant looks like... A piece of wall? Yes, a drunk piece of wall.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Бардок.}
-{4}{}{Его челюсти так крепко сжаты, что того и гляди он разжует собственные зубы.}
+{3}{}{You see Bardock.}
+{4}{}{His jaws are clenched so tight that it seems like he is chewing his own teeth.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{[из плотно сомкнутых губ до Вас доносится рык] не суйся куда не следует, пацан.}
-{11}{}{Разве же я куда-то суюсь? Я тут по делу вообще-то.}
-{12}{}{А что такое? Я здесь живу точно так же, как и ты!}
-{13}{}{Уже ухожу-ухожу.}
-{14}{}{Очень подозрительный тип. Нужно бы разузнать у Вестника, кто он такой.}
+{10}{}{[his voice sounds like a menacing growl through clenched teeth] Don't stick your nose around here, kid.}
+{11}{}{Do I? No, I'm here for a reason, actually.}
+{12}{}{What's wrong about it? I live here, just like you!}
+{13}{}{Alright, I'm leaving.}
+{14}{}{He's a very suspicious character. Maybe you should ask Herald about him.}
 {15}{}{}
 {16}{}{}
 {17}{}{}
 {18}{}{}
 {19}{}{}
-{20}{}{Меня. Это. Не волнует. Брысь отсюда, щенок.}
-{21}{}{Понял-понял, меня уже нет.}
-{22}{}{Ты, говнюк, кого щенком назвал!? А ну иди сюда! }
-{23}{}{[прошипеть, закатывая рукава] ты сам нарвался, говножуй.}
+{20}{}{I. Don't. Care. Get away, you brat. Shoo.}
+{21}{}{Okay, okay, I'm gone.}
+{22}{}{Who did you call brat, you shit!? Come here! }
+{23}{}{[hiss at him, rolling up your sleeves] You're getting it, asshole.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{Опять ты, дрищепан?! Ты с первого раза туго соображаешь? Сказано же - проваливай отсюда к ЧЕРТУ!}
-{101}{}{Да что тут такое-то, Бардок? Ты тут сокровища что ли спрятал?}
-{102}{бутылка самогона}{Знаю, у нас сразу знакомство не стой ноги пошло, но, может бутылка отменного самогона растопит лед, а? [подмигнуть]}
-{103}{}{Тебя в детстве манерам мама-макака не научила, а?}
-{104}{черный}{Ну хорош тебе, нигер, мне-то можешь рассказать, что у тебя там? Своих не закладываю.}
-{105}{}{Свали отсюда.}
-{106}{}{Понял, ухожу.}
-{110}{}{Думаешь, разузнал, как меня зовут - и сразу свой-в-доску? Пшел отсюда, пока я тебе не навалял!}
-{111}{}{Ох-ох-ох, какой грубый кусок говна!..}
-{112}{}{Ну хорошо-хорошо, не кипятись. Уже ушел.}
-{120}{}{А-а-а-ачерт с тобой, только смотри у меня - никому! Даже своим... КЛЯНИСЬ!}
-{121}{}{КЛЯНУСЬ!}
-{122}{}{Не буду клясться! Ну тебя, ты больной, тебе лечиться нужно!}
-{130}{}{Ну хорошо. Хорошо... Утром, значит... Вчера вроде. Или позавчера... Не помню, не важно. Пошел я сюда за детальками, Смитти просил подсобить. С утра еще глотка сохла, удавил бы за каплю самогона! Ну так, а на лестнице тут стоял этот броненосец. Тоже мне... Грит "На тебе конфет, сбегай мол мне за самогонкой".}
-{131}{}{Да-аа, что-то знакомое... Ну-у, сбегал?}
-{132}{}{Он же сын Богов, его желания святы для нас.}
-{133}{}{Конечно сбегал, не представляешь, как выпить хотелось! Сбегал я до машины Смитти, сварил напиток... Ну и не удержался, выпил его. Возвращаюсь, а он - охранник, уже ждет меня, падла. Хотел меня под дых шваркнуть, да не смог на ступеньках развернуться, ну и упал. Не знаю, что на меня нашло, но я ему шлем в череп вколотил голыми руками!}
-{134}{}{Да не пори ты такую чушь! Тебе в голову что ли наплевали? Ладно, значит, сбегал я до машины Смитти, сварил напиток... Ну и не удержался, выпил его. Возвращаюсь, а он - охранник, уже ждет меня, падла. Хотел меня под дых шваркнуть, да не смог на ступеньках развернуться, ну и упал. Не знаю, что на меня нашло, но я ему шлем в череп вколотил голыми руками!}
-{135}{}{Как же так, сына Богов?.. Голыми руками?}
-{136}{}{Не думал, что их вообще можно... того...}
-{137}{}{Я тоже не верил, но... Вон он лежит, тут. Я за полчаса стенку разобрал и пещерку вырыл. Братья, конечно помогли... Но! То, что произошло здесь, на парковке, должно здесь и остаться, понял меня?}
-{138}{}{Понятно... Мда-а... Ясно.}
-{139}{}{Эээ... Ты убил сына Богов. Нет, сначала ты не повиновался, а затем УБИЛ СЫНА БОГОВ. Ок, я подумаю над этим.}
-{140}{}{[Бардок с поразительной молниеносностью выхватывает бутылку у Вас из рук и так же молниеносно ее выпивает, после чего не менее резко валится на землю в пьяном забытье]}
-{141}{}{Ну-у, посмотрим, что он тут так тщательно бережет.}
-{142}{}{Хмм, и что дальше?}
-{143}{}{Теперь можно и осмотреться.}
+{100}{}{You again, skinny?! Are you dense? I told you - get the hell away from here!!}
+{101}{}{What are you guarding, Bardock? Did you hide here a treasure, or something?}
+{102}{бутылка самогона}{You know, maybe we got off from a wrong foot. Could this bottle of wonderful moonshine help us break the ice? [wink]}
+{103}{}{Didn't Mama Monkey teach you manners, when you were a kid?}
+{104}{черный}{Come on, bro, you can tell me. I won't tattle on my kindred.}
+{105}{}{Get out.}
+{106}{}{Understood, I'm going.}
+{110}{}{You think that if you know my name, we're like family? Get out of here, before I kick your ass!}
+{111}{}{Oh wee, look at this rude piece of shit!...}
+{112}{}{Okay, no need to be so steamy. I'm leaving.}
+{120}{}{I... To hell with it, I'm telling you everything! But you must swear no one learns about it! No one! SWEAR!}
+{121}{}{I SWEAR!}
+{122}{}{I won't! Screw it, you are definitely not right in the head!}
+{130}{}{Okay. Okay... It was in the morning... Yesterday. I think. Or the day before... I don't remember. It doesn't matter! I came here to look for parts, because Smitty asked to help. And I had a throat so dry that I would kill for a drop of booze! And there he was, standing near the staircase... Asshole in armor... He tells me "take some candies, and fetch me some moonshine".}
+{131}{}{Sounds familiar... So? Did you do it?}
+{132}{}{He is the Son of Gods! His wishes are holy to us.}
+{133}{}{Of course I did, you wouldn't believe how much I needed that drink! So, I made a run to the Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
+{134}{}{You know that's bullshit! Are you feeling alright? Okay, so, I made a run to the Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
+{135}{}{The Son of Gods?... With bare hands?}
+{136}{}{I never thought that you can... You know... Them.}
+{137}{}{Me neither, but... There he is, laying dead. I took the wall apart in half an hour, dug a little hole. Brothers helped, of course. Still, what happened on the parking lot should stay on the parking lot, hear me?!}
+{138}{}{I see... Yeah... I hear you.}
+{139}{}{Uhh... You murdered the Son of Gods. No, first you didn't obey, and THEN you MURDERED the Son of Gods. I need to think about it.}
+{140}{}{[with astonishing speed, Bardock snatches the bottle from your hands, and - with the same astonishing speed - drinks it to the bottom. Then he immediately falls down to the ground, delving into a drunken sleep.]}
+{141}{}{Okay, let's see what he is guarding here.}
+{142}{}{Huh. And now what?}
+{143}{}{At last, I can look around...}
 #
-{149}{}{Проваливай. Да смотри, помалкивай там.}
-{150}{}{Ну что, доволен? Понравилось? Держи пасть на замке, сопляк!}
-{151}{}{Понял-понял. Меня тут не было.}
-{152}{}{Да, я все видел. Но как ТАКОЕ могло случиться?}
-{153}{}{Не твое собачье дело. Вали, пока и с тобой ТАКОЕ не случилось.}
-{154}{}{[уйти]}
+{149}{}{Get lost. And keep your mouth shut, you know.}
+{150}{}{Are you happy now? Did you like it? Keep your hole shut, you snot!}
+{151}{}{Understood. I was never here.}
+{152}{}{Yes, I saw it. But - how? How could something like this happen?}
+{153}{}{None of your damn business. Get out, before the same happens to YOU.}
+{154}{}{[leave]}
 #
-{160}{}{Ах, это ты, }
-{161}{}{. Я знаю, за такое меня скормят Жерлу, тут гадать не приходится, но вроде пока никто за мной не пришел, значит, ты умеешь хранить тайны?}
-{162}{}{Конечно же умею, мне ты можешь довериться полностью! Я ВСЕ очень тщательно храню.}
-{163}{}{Я уверен, это была случайность. Не знаю, как бы я поступил на твоем месте.}
-{164}{}{Да без проблем, молчать легче, чем доносить. Хотя, мне было бы еще легче молчать, если бы ты мне чем-нибудь помог...}
-{170}{}{Похоже, так же. Хээй, а ты - свой человек, а? [улыбается желтыми зубами] Только, дрищеват немного... Ты бы с сыном Богов не справился бы, даже если бы тот был УЖЕ МЕРТВЫМ! [заливисто хохочет] Давай-ка я тебя обучу паре приемчиков.}
-{171}{}{Да, конечно! Обожаю учиться!}
-{172}{}{Эээ, нет, спасибо. Чую тут какой-то подвох. Лучше я пойду.}
-{180}{}{Нет, не похоже. Тебе лучше уйти. Твое присутствие будит во мне какое-то... зло.}
-{181}{}{Хорошо, считай, меня тут и не было.}
-{182}{}{Конечно, я уйду. Следи за собой, Бардок.}
-{183}{черный}{Ну вот опять ты мне не доверяешь! Я же свой, эй! Я бы так же поступил, точно.}
-{1901}{}{Ты что, выпрашиваешь у меня что-то? Шкура что ли огрубела, смелый стал!?}
-{1902}{}{Хм, а ты хитер, да? Умен, хитер... Только, дрищеват немного... Ты бы с сыном Богов не справился бы, даже если бы тот был УЖЕ МЕРТВЫМ! [заливисто хохочет] Давай-ка я тебя обучу паре приемчиков.}
-{191}{}{Не кипятись, ты меня неправильно понял... Я потом еще загляну, пока.}
-{192}{}{Да ты тоже осмелел, а!? Ну давай, ДАВАЙ!}
-{200}{}{[Бардок больно ударяет Вас в живот, Вы корчитесь от боли. Он повторяет удар снова и снова, пока Вы, наконец, не успеваете перехватить его руку... Спустя пару часов обучение подходит к концу.] Ну вот и отлично, основы, думаю, ты ухватил!}
-{201}{}{Мда-а-а, спасибо. Это было... познавательно.}
-{202}{}{Да уж, "учитель", у меня еще пару недель все будет болеть.}
+{160}{}{Oh, it's you, }
+{161}{}{. I know, I should be fed to the Mouth of Hades for something like this, and yet no one is coming for me. That means you can keep secrets.}
+{162}{}{Of course. You can trust me, I keep ALL secrets.}
+{163}{}{I am sure this was an accident. I don't know what I would do, if I were you.}
+{164}{}{No problem. To stay silent is easier than to rattle. Although, it would be even better if you helped my silence in some way...}
+{170}{}{Looks like it. Hey, you are my man, after all. [he smiles with yellowed teeth] Only a little skinny... You couldn't handle the Son of Gods even if he was ALREADY DEAD! [he laughs] Let me teach you a thing or two about fighting.}
+{171}{}{Sure! I love to learn new things!}
+{172}{}{Uh, no, thanks, sounds too fishy. I better go.}
+{180}{}{No, it doesn't look like it. You better leave. Your presence wakes something in me... Something evil.}
+{181}{}{Consider I was never here.}
+{182}{}{Of course I'll leave. Watch yourself, Bardock.}
+{183}{черный}{Are you doubting me again? Hey, I'm your man, remember? I'd do the same thing.}
+{1901}{}{Are you blackmailing me? Did you become brazen all of a sudden!?}
+{1902}{}{Aren't you a smart one? Smart and cunning... Only a little skinny... You couldn't handle the Son of Gods even if he was ALREADY DEAD! [he laughs] Let me teach you a thing or two about fighting.}
+{191}{}{Don't get so worked up, it's a slight misunderstanding. I'll come by later. Bye.}
+{192}{}{Did you!? Come on! COME HERE!!}
+{200}{}{[Bardock paifully punches you into belly. You are writhing in pain. He continues to do it again and again, until you, at last, manage to catch his hand... A couple of hours later, your lesson is over.] Great, I think you got the essentials!}
+{201}{}{Yeah, thanks. That was... Enlightening.}
+{202}{}{I sure did, "teacher". Now it's going to hurt for a week.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{[заговорщицки Вам подмигивает]}
-{1001}{}{[улыбается Вам]}
-{1002}{}{Привет, Братишка!}
-{1003}{}{Хээй, как дела?}
-{1004}{}{Только - тсссс, Ок?}
-{1005}{}{[заговорщицки Вам подмигивает]}
-{1006}{}{[улыбается Вам]}
-{1007}{}{Привет, Братишка!}
-{1008}{}{Хээй, как дела?}
-{1009}{}{Только - тсссс, Ок?}
+{1000}{}{[he winks at you and smiles]}
+{1001}{}{[smiles at you]}
+{1002}{}{Hey, brother!}
+{1003}{}{Hey! How are you doing?}
+{1004}{}{Not a word to anyone, okay?}
+{1005}{}{[he winks at you and smiles]}
+{1006}{}{[smiles at you]}
+{1007}{}{Hey, brother!}
+{1008}{}{Hey! How are you doing?}
+{1009}{}{Not a word to anyone, okay?}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Нейтральная реакция)
 #
-{1010}{}{[угрюмо смотрит на Вас]}
-{1011}{}{[смотрит на Вас невидящим взглядом]}
-{1012}{}{Отвали.}
-{1013}{}{Не отсвечивай.}
-{1014}{}{Нам не о чем говорить.}
-{1015}{}{Нет. Просто - нет.}
-{1016}{}{[Угрюмо смотрит на Вас]}
-{1017}{}{[смотрит на Вас невидящим взглядом]}
-{1018}{}{Отвали.}
-{1019}{}{Нам не о чем говорить.}
+{1010}{}{[glumly looks at you]}
+{1011}{}{[looks at you with an unseeing gaze]}
+{1012}{}{Get lost.}
+{1013}{}{Don't loiter here.}
+{1014}{}{We have nothing to talk about.}
+{1015}{}{No. Just no.}
+{1016}{}{[glumly looks at you]}
+{1017}{}{[looks at you with an unseeing gaze]}
+{1018}{}{Get lost.}
+{1019}{}{We have nothing to talk about.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Отрицательная реакция)
 #
-{1020}{}{[яростно смотрит на Вас]}
-{1021}{}{[испепеляет взглядом]}
-{1022}{}{Брысь, щенок!}
-{1023}{}{Я надеру твою наглую задницу!..}
-{1024}{}{[яростно смотрит на Вас]}
-{1025}{}{[испепеляет взглядом]}
-{1026}{}{Брысь, щенок!}
-{1027}{}{Я надеру твою наглую задницу!..}
-{1028}{}{[его мышцы напряглись]}
-{1029}{}{Еще шаг - и ты труп.}
+{1020}{}{[furiously looks at you]}
+{1021}{}{[gives you a burning gaze]}
+{1022}{}{Shoo, brat!}
+{1023}{}{I'm gonna kick your arrogant ass!...}
+{1024}{}{[angrily looks at you]}
+{1025}{}{[gives you a burning gaze]}
+{1026}{}{Shoo, brat!}
+{1027}{}{I'm gonna kick your arrogant ass!..}
+{1028}{}{[flexes his muscles]}
+{1029}{}{One more step, and you're dead.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Бардок слишком пьян, чтобы разговаривать.}
+{1030}{}{Bardock is too drunk to have a conversation.}
 {1031}{}{}
 {1032}{}{}
 {1033}{}{}

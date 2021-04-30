@@ -22,13 +22,13 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: a resident of Tartarus.}
-{2}{}{You see: a Technology Servant.}
-{3}{}{You see: one of the servants.}
-{4}{}{You see: a female Technology Servant.}
-{5}{}{You see: a local repairwoman.}
+{1}{}{You see a resident of Tartarus.}
+{2}{}{You see a Technology Servant.}
+{3}{}{You see one of the servants.}
+{4}{}{You see a female Technology Servant.}
+{5}{}{You see a local repairwoman.}
 {6}{}{She is responsible for workability of mechanisms in Tartarus.}
-{7}{}{It's very uncommon thing - a female Technology Servant.}
+{7}{}{It's very uncommon - to see a female Technology Servant.}
 {8}{}{This woman looks out for gears and pumps.}
 {9}{}{She is busy with something. Or trying to look like it.}
 #
@@ -67,7 +67,7 @@
 {1016}{}{What else do you want?}
 {1017}{}{Some other time, okay? I need to fix these damn reservoires.}
 {1018}{}{Sheeesh... What? Can't you see I have some fixing to do?} 
-{1019}{}{Oh. Listen, let's talk a litte later, m?}
+{1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
@@ -77,7 +77,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спящие сообщения
 {1030}{}{::Zzzzz...::}

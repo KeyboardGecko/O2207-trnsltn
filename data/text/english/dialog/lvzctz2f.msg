@@ -21,11 +21,11 @@
 #
 #CRITTER DESCRIPTION
 #
-{1}{}{You see: girl.}
-{2}{}{You see: local girl.}
-{3}{}{You see: young lady.}
-{4}{}{You see: resident of vault.}
-{5}{}{You see: dweller of Livos.}
+{1}{}{You see a girl.}
+{2}{}{You see a local girl.}
+{3}{}{You see a young lady.}
+{4}{}{You see a resident of vault.}
+{5}{}{You see a dweller of Livos.}
 {6}{}{A young lady with a haggled, pale face.}
 {7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
 {8}{}{Bags under her eyes are clumsily masked by some white powder. Or is it lime?..}

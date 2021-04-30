@@ -1,6 +1,6 @@
 ##############################
 #Локация: Рэйнбоу Рэйдерз
-#Имя: Лекарь
+#Имя: Apothecary
 #Краткое описание: Хозяин бара Радуги. Выдает квест на Дугласа. Через него ГГ становится главой Радуги
 #Дата создания: 07.09.2014
 ##############################
@@ -11,210 +11,209 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: шустрый мужичок.}
-{2}{}{Он протирает стаканы, хитро поглядывая по сторонам.}
+{1}{}{You see a shifty fella.}
+{2}{}{He wipes glasses and looks around.}
 #
 # после знакомства
-{3}{}{Вы видите: Лекарь.}
-{4}{}{Хозяин бара Радуги.}
+{3}{}{You see Apothecary.}
+{4}{}{The owner or Rainbow's bar.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Устойчивый запах перегара способен свалить с ног лаваша, но выцветшие глаза смотрят на вас вполне трезво. Он не так стар, как кажется на первый взгляд] Бухло, наркота и - гвоздь программы! - Капля. Если у Лекаря чего-то нет - значит этого нет ни у кого. Так чего изволите?}
-{11}{011}{Я }
-{12}{011}{, осматриваюсь тут.}
+{10}{}{[The fumes of alcohol around him are so strong that could knock a Lavash down, but his faded eyes are looking at you quite soberly. You also notice that he is not as old as he looks.] Booze, drugs, and our star attraction - the Drop! If Apothecary doesn't have it, then no one has. So, what is it you like?}
+{11}{011}{I'm }
+{12}{011}{, I'm just looking around.}
 
-{13}{}{Ты слышал что-нибудь про... Ренессанс?}
-
-
-{1001}{}{[Кивает] Ты знаешь мои правила. Разговор только по делу.}
-{101}{022}{Так я за этим и пришел. Разве Кент тебе ничего не говорил?}
-{102}{014}{По поводу Дугласа...}
-{103}{018}{Кстати, насчет дел - как вы тут развернулись? Не просветишь насчет былых времен?}
-{104}{Бартер}{Хотел изучить твой ассортимент.}
-{105}{023}{Ты, вроде как, недавно высказал недовольство текущим положением дел...}
-{106}{999}{Ок, тогда увидимся позже.}
-{1002}{}{[Ловко разливает коньяк] Хапнем по маленькой за встречу?}
-{107}{Бартер}{А как же - разговоры только по делу? Я, вообще-то, кое-что прикупить хотел.}
-{108}{018}{Не расскажешь, как тут все было раньше?}
-{109}{023}{Я составлю тебе компанию, когда дела на Радуге пойдут в гору. Твой рассказ, кстати, произвел на меня некоторое впечатление. Но былые времена сами собой не вернутся... Понимаешь?}
-{1010}{999}{Может, позже. Бывай, Лекарь.}
-{1003}{}{[Похоже, он твердо решил побить собственный рекорд по поглощению коньяка в короткие сроки. Но пока еще держится на ногах и способен на разговор] Что, пришел выпить за упокой души Кабана? Небось, уже варится в котле с кипящей Каплей... }
-{1011}{014}{Ты все еще заинтересован узнать, что не так с Дугласом?}
-{1012}{024}{Король умер, да здравствует король. Бывает. Сильно переживаешь по этому поводу?}
-{1013}{Бартер}{А почему бы и нет. Ты еще не весь товар перевел?}
-{1014}{999}{Может, позже. Если к тому времени у тебя что-то останется..}
-{1004}{}{[Ловко подкидывает бутылку и наполняет целый стакан] Босс почтил мой кабак своим присутствием! Надо это отметить.}
-{1015}{031}{Что у нас с продажей Капли, Лекарь?}
-{1016}{032}{Да ладно, тебе ж только повод нужен стакан опрокинуть... Как сам, Лекарь?}
-{1017}{Бартер}{Покажи-ка, что у тебя сегодня на витрине. И пошустрее.}
-{1018}{999}{Я скорее лаваша с одной башкой встречу, чем тебя трезвого... Ладно, мне пора. Береги печень.}
-{1005}{}{[Цедит очередную порцию, не обращая внимания на грязь и мусор вокруг] Я уж думал, ты сорвался с Радуги. Не такой уж ты, выходит, и умный, а?}
-{1019}{Бартер}{Лучше плесни мне чего покрепче. И что вообще у тебя есть на продажу?}
-{1020}{030}{Вижу, обстановка оставляет желать лучшего?}
-{1021}{999}{Да как раз зашел с тобой попрощаться. Счастливо!}
-{1006}{}{[Шмыгает красным, в прожилках носом и расшаркивается перед вами с издевательским видом] Мое почтение! Чего такой хмурый? Прогнило что-то в блядском королевстве? Хех, подсаживайся, в общем, обсудим дела наши непростые. Но учти - если что купить решишь, услугами шлюх я плату не принимаю!}
-{1022}{022}{Я как раз по делу. Кент тебя предупреждал?}
-{1023}{014}{По поводу Дугласа...}
-{1024}{018}{Кстати, насчет дел - как вы тут развернулись? Не просветишь насчет былых времен?}
-{1025}{Бартер}{У меня с наличкой все в порядке. Показывай, что там у тебя есть.}
-{1026}{023}{Я тут понемногу вникаю в местные дела... Тебе не кажется, что здесь есть проблемы...с управлением? На высшем уровне? Мы уже даже это вроде как обсуждали...}
-{1027}{999}{Я в порядке. Бизнес идет. Рад был свидеться, Лекарь.}
-
-{400}{011a}{Я ищу "антирадин", не слыхал про такое?}
-{401}{}{Ха, издеваешься что ли? Да ты его только здесь и сможешь достать. Радиацию выводит - на раз, и почти без побочки. Иногда получается его тут сварить, но в основном я старые припасы потихоньку толкаю. Препарат хоть и дорогой, но берует его охотно. На днях, кстати, Кенту одну дозу в спор проиграл, зараза... [со злобой бросает сальную тряпку на стойку]}
-{402}{Barter}{Интересно. Давай-ка еще раз твой ассортимент посмотрим.}
-{403}{010}{О как, благодарю за информацию. Я еще что-то хотел спросить...}
-{404}{999}{Кент, говоришь? Пойду перетру с ним.}
-
-{405}{}{Слушай, а нет ли для меня какой работки, а?}
+{13}{}{Do you know something about the Renaissance?}
 
 
-{110}{}{[ухмыляется] Ну-ну. Мы, вообще-то, тут не любим слишком любопытных. Особенно таких мутных типов, как ты. }
-{111}{Бартер}{Да о чем ты? Я всего-то хотел изучить твой ассортимент. Сторгуемся?}
-{112}{022}{А что со мной не так? Или Кент тебя не предупредил насчет меня?}
-{113}{999}{Ну тогда я пойду, пожалуй.}
+{1001}{}{[he nods] You know my rules. Business only.}
+{101}{022}{That's exactly why I'm here. Didn't Mate tell you anything?}
+{102}{014}{About Douglas...}
+{103}{018}{By the way, about business - care to tell me about how you settled up here? About how it all started?}
+{104}{Бартер}{I wanted to look at your assortment.}
+{105}{023}{You kind of recently expressed your dissatisfaction with the current state of affairs around here...}
+{106}{999}{Okay then, see you later.}
+{1002}{}{[swiftly pours cognac] How about a little shot to celebrate our meeting?}
+{107}{Бартер}{What happened to business? I'd like to buy something from you.}
+{108}{018}{Care to tell me about how it all started here?}
+{109}{023}{I'll keep you company when business on Raibow gets rolling. I was quite impressed by your story, but the old days won't come back by themselves, you know what I mean?}
+{1010}{999}{Maybe later. Take care, Apothecary.}
+{1003}{}{[Looks like he's strongly determined to break his own record for short-term cognac absorption. But for now he is able to stand straight and put words into sentences] What? Did you come to drink for the Hog? I bet he's boiling in a pot filled with Drop... }
+{1011}{014}{Are you still interested in what's the deal with Douglas?}
+{1012}{024}{The King is dead, long live the King. It happens. Are you worried?}
+{1013}{Бартер}{Why not. Do you have something left in stock?}
+{1014}{999}{Maybe later. If you'll still have something...}
+{1004}{}{[he swiftly pours a full glass] Boss has graced my bar with his presence! Let's drink for that.}
+{1015}{031}{How's the business of selling the Drop?}
+{1016}{032}{All you need is an excuse. How is it going, Apothecary?}
+{1017}{Бартер}{Show me what you have for sale today. And fast.}
+{1018}{999}{I think it's more likely to see a two-headed Lavash than you sober... Okay, I need to go. Take care of your liver.}
+{1005}{}{[drinks another shot, Not paying attention to the dirt and trash lying around] I was thinking that you left the place. Not that smart, huh?}
+{1019}{Бартер}{Better pour me something strong. And show me what you have in stock.}
+{1020}{030}{I see the situation leaves much to be desired?}
+{1021}{999}{Yes, I've came to say bye. Cheers!}
+{1006}{}{[he sniffles with his red nose] A pleasure for me! Why so glum? Is there something happened in the fucking kingdom? Take a seat, let's talk about our business. But remember - I don't take services of hookers as payment!}
+{1022}{022}{That's exactly why I'm here - to talk business. Didn't Mate tell you anything?}
+{1023}{014}{About Douglas...}
+{1024}{018}{By the way, about business - care to tell me about how you settled up here? About how it all started?}
+{1025}{Бартер}{Don't worry, I am paying with money. Show me what you have.}
+{1026}{023}{I was just getting myself familiar with local affairs. Don't you think this place has some... Troubles with management? We touched on this subject earlier.}
+{1027}{999}{I'm good. The business is good. Nice to see you, Apothecary.}
+
+{400}{011a}{I'm looking for something called "Antiradine", do you know what it is?}
+{401}{}{Hah, you kidding? This is just the place to get it. Deals with the radiation instantly, has almost no side-effects. We sometimes brew it right here, but mostly I'm selling the old stocks. The drug is not cheap, but sells really well. Recently I even lost one dose to Mate... [he angrily throws his dirty cloth on the table]}
+{402}{Barter}{Interesting. Let's take a look at your assortment again.}
+{403}{010}{Thanks for the information. I wanted to ask something else.}
+{404}{999}{Mate, you say? I'll go talk to him.}
+
+{405}{}{Do you have something you need me to do? Like, work?}
 
 
-{120}{}{[Оживляется] Ну так бы сразу! Получается, нашел Кент все-таки кого-то толкового, а? Охренеть, дожили - пару муравьев задрать вовремя и доставить товар по назначению проблемой стало... То ли дело раньше... Хм... Ну ладно, давай их сюда. Можешь сказать Кенту, что все "Ок", а я пока это дело отмечу... [Делает пару глотков прямо из бутылки с коньяком]}
-{121}{013}{С вами приятно иметь дело! }
-{122}{013}{Мог бы и мне плеснуть. Куда тебе столько, морда же треснет... Ладно, еще увидимся.}
+{110}{}{[he grins] Yeah. We don't like your nosy type around here, you know. }
+{111}{Бартер}{What do you mean? I just wanted to look at your stock. Let's barter, maybe?}
+{112}{022}{What's wrong with my type? Didn't Mate tell you about me?}
+{113}{999}{Then I better go.}
 
 
-{1301}{}{Обожди-ка... [Наклоняется к вам поближе и хрипит вполголоса] Видишь того хмыря в армейском прикиде? Да нет, правее! Подозрительный тип... Постоянно трется здесь, вынюхивет чего-то. Мне напряжно, когда кто-то непонятный рядом ошивается. Коньяк в глотке застревает... Ты, вроде, парнишка шустрый - разузнал бы, кто он и откуда? Вдруг его Псы послали? Местных он уже всех знает, а ты человек новый... А я тебе подгоню такую штуку, что хрен где в Радиусе сыщешь! Зуб даю!}
-{131}{999}{Ладно, посмотрим... Но ничего не обещаю.}
-{1302}{}{[Довольно скалится]  У нас все честно! Прямо как в старые времена...}
-{132}{018}{Кстати, а что можешь рассказать о прошлых делах?}
-{133}{Бартер}{Ну, накатим за старые времена? Что у нас сегодня в продаже?}
-{134}{999}{Ок, увидимся, Лекарь.}
-{135}{014}{Ха, да я с этим уже разобрался!}
+{120}{}{ Why didn't you say so earlier! So, our Mate has found someone smart at last? Man, what times we live in - to put down a few ants and deliver a thing on schedule is a problem now... Hm... Okay, get them here. Tell Mate that it's all good. And I'll drink for that... [he gulps from some bottle]}
+{121}{013}{A pleasure to do business with you! }
+{122}{013}{You could pour me a little. How do you even manage to drink so much and still talk... Okay, see you around.}
 
 
-{143}{}{[Подается вперед с заинтересованным видом] Так-так, и чего там с ним?}
-{140}{015}{В общем, его нанял Олимп, собрать какие-то биологически материалы и...}
-{141}{017}{Да ничего особенного! Ну повезло мужику, нарыл где-то броник случайно. А сейчас спивается потихоньку, да еще, небось, на Каплю подсел... Какая вам от него угроза? Он вообще здесь, кроме кабака с  борделем что-то посещал?}
-{142}{999}{Пока ничего, но я работаю над этим.}
+{1301}{}{Wait a sec... [he leans closer] See that creep in army jacket? No, not that one! To the right! A suspicious fella... Always hanging here, sniffing out something. I get nervous with someone this sketchy around. Can't even drink in peace. You look like a smart guy, maybe you can figure out what's his deal. What if he is with the Jackals? And he already knows most of the locals, but not you... I'll give you something worthy for it, don't you worry.}
+{131}{999}{Okay, let's see what I can do... No promises though.}
+{1302}{}{[he smiles with setisfied look] We do honest deals, you know! Just like in old times...}
+{132}{018}{By the way, can you tell me about the old times?}
+{133}{Бартер}{Let's drink for that. WHat do you have in stock?}
+{134}{999}{See you around, Apothecary.}
+{135}{014}{Hah, I dealt with this already!}
 
 
-{150}{}{[Удивленно моргает, но тут же приходит в себя] Ты... Ты что мне тут втереть пытаешься, сученок? Пошутить решил, падла? А? Мне правда нужна, а не твои укуренные байки!}
-{151}{016}{Да это и есть правда! Я все выяснил, что еще надо? Или у вас все такие тугие?}
-{152}{017}{Хм... Эээ... Ну да, извини, плохая шутка. Он обычный спивающийся доходяга. К Псам никакого отношения не имеет. У тебя ведь кроме твоих подозрений на него ничего и не было?}
-{153}{999}{Эй-эй! Спокойно, остынь! Приду-ка я лучше попозже...}
+{143}{}{[he leans even more closer] So? What's his deal?}
+{140}{015}{He is employed by the Olympus. His mission is to gather some stuff, and...}
+{141}{017}{He is no one! He got lucky with getting a good suit of armor, but now he drinks himself away here. I bet he pops the Drop too... He is not dangerous. Did he visit something except brothel and bar?}
+{142}{999}{Don't know for now, but I'm working on it.}
 
 
-{160}{}{[Совсем не со стариковским проворством выхватывает оружие откуда-то из-под одежды] Ну все, достал ты меня, мразь! Сговорился с ним и решил меня наебать, а? Думаешь, Лекарь уже в маразм впал, что ли? [Кричит охранникам] Парни, тут надо вышибить кое из кого все дерьмо!}
-{161}{998}{Да как так-то...}
+{150}{}{[he blinks, shocked] You... What are you truing to pull off here, you little shit? Is this some kind of a joke? I need the truth, not your stupid tales!}
+{151}{016}{IT IS the truth! I've got it all worked out, what else do you want from me? Is everyone around here this tight?}
+{152}{017}{Huh... Er... Sorry, that was a bad one. He is just a drunkard. Not related to Jackals. Did you have something on him, except your suspicions?}
+{153}{999}{Hey, hey! Chill out! I'd better come later...}
 
 
-{170}{}{[Разочарованно опрокидывает очередную рюмку] В общем-то да, к лаборатории он не совался, к казармам тоже... Но сейчас такое время, сам понимаешь... Если ты параноик, это еще не значит, что тебя никто не хочет урыть. [Вздыхает] Ладно, ты свою часть сделки выполнил. Так что держи, кодовое название - "Восхищение". Опытный образец. Не смотри, что выглядит не очень - эффект забойный, отвечаю!}
-{171}{999}{Ну если ты так говоришь... Ладно, разберемся. До скорого!}
+{160}{}{[very hastily, he pulls out the weapon] That's it, I'm sick of your bullshit, you asshole! Are you trying to fuck me up? Did you conspire with him? Do you think that Apothecary is senile? [shouts to the guards] Hey boys, someone here needs the shit beaten out of him!}
+{161}{998}{Oh man...}
 
 
-{180}{}{[С мечтательным видом чешет морщинистую шею] Да, сейчас не то, что раньше... Ты в курсе, что мы когда-то с Псами Заката дела проворачивали? Я еще с Шакалом начинал, правильный рейдер был... А вот Крикун... Совсем съехал по фазе. Прикинь, как-то брали мы караван и один из парней на линии огня оказался. Думаешь, этот придурок прекратил стрелять? Да хер там! Пацан ползает, мозги свои собрать пытается, а он ржет над ним... Так что перетерли мы все это промеж собой и решили свалить сюда...}
-{181}{019}{О как! Продолжай, я весь во внимании...}
-{182}{999}{Ну понятно. Извини, но мне уже пора.}
+{170}{}{[disappointedly pours another shot] Well, I mean, yeah, he was never noticed near the lab or barracks... But - you know how it is. Nowadays, if you are not paranoid, it doesn't mean that no one wants to kill you. [he sighs] Okay, you did your part. Here. It's called "Admiration". It's a sample, not in mass production for now. The effect is something you've never felt before. I mean it.}
+{171}{999}{If you say so... I'll figure it out. See you soon!}
 
 
-{190}{}{Здесь еще до войны фабрика была. Потом, понятно, растащили все, но какие-то высоколобые в итоге тут осели и начали химию гнать. А один особо грамотный, Карлос Янг, сообразил, как сделать то, что мы Каплей называем. Вот жеж убойная херня, эх! Хотя коньячок все равно лучше... Гм... Ну вот мы тут все и захватили. Даже рассказывать нечего - ну кто тут что нам мог сделать? Так все начиналось хорошо...[С поникшей головой начинает протирать стойку]}
-{191}{020}{Чего приуныл-то, если вы тут все в порядке?}
-{192}{999}{Так, с меня достаточно. Пойду я, пожалуй.}
+{180}{}{[he scratches hs neck] Yes, now it's not like the old times... Do you know that we used to run with the Jackals? I knew the Jackal himself, he was... The real deal. Which I can't say about his son, Loudmouth - that one's totally gone off his nut. Once we raided a caravan, and one of our guys got in the line of fire. If you think that Loudmouth stopped shooting, you are fucking wrong! That lad ended up crawling around with his insides all over the place, with Loudmouth laughing... So we talked about it and decided to move on. And moved here.}
+{181}{019}{Interesting. Go on.}
+{182}{999}{I see. Well, it's time for me to go.}
 
 
-{200}{}{[Отбрасывает тряпку и ловко пришпиливает длинным ногтем какое-то неудачливое насекомое] Так то раньше было... Кое-кто тут ныл, что мы местных пригнули зря. Нехорошо это, прикинь, а? Сучары неблагодарные... Мы на Радуге порядок держим, отморозкам всяким рога ломаем! Еслиб Крикун фабрику захватил, тут бы все уже по прибору пошло! Обдобался бы он с Псами Каплей и перерезал бы всех работяг... Кабан же никогда никого перед собой отплясывать не заставлял - только плати вовремя и за охрану можешь не переживать!}
-{201}{021}{Не пойму, куда ты клонишь.}
+{190}{}{This place was a pre-war factory of some kind. I mean, not completely intact, much of it was looted. But still, some big-brains settled here, kickstarting the production of chemicals. One of them, Carlos Young, invented the thing we call the Drop. Dope shit! Although, I prefer cognac... Anyway, we seized the factory. Nothing to say, really - who could oppose us? So, that's how it all started. And it was good... [he starts wiping the table with saddened look]}
+{191}{020}{Why so sad, if all was good?}
+{192}{999}{I think that's enough for today. I'd better go.}
 
 
-{210}{}{А туда - ты посмотри вокруг. Всем на все похер. Какие-то левые типы постоянно шатаются на территории, проблем внутренних все больше становится... И, главное, загнется Кабан - кто вместо него будет? Я уже староват для этих игр... А других достойных кандидатов пока не вижу... Хотя, чего-то я тут уже лишнего понес. Неплохо старые времена вспомнить, но с тебя разговоров хватит. Заходи, если какое дело будет.}
-{211}{999}{Благодарю за информацию, обязательно еще зайду...}
+{200}{}{It was good... Before. Then some started whining. Whining about how bad it is that we "exploit locals". Can you believe that? Bad! And all this despite us keeping things in order here, chopping balls of every scumbag who dares to bust things up! If it was Loudmouth who took over, everything here would go to shit already! He would definitely stuffed his ass full of Drop and murdered every smart-ass... Unlike Hog. Hog never wanted for everyone to dance to his tune. Just pay for protection in time, and have no worries at all. Except lately he is too dependent on the Drop too...}
+{201}{021}{I don't quite get what you're trying to say.}
 
 
-{220}{}{[Насмешливо смотрит на вас, пока ловкие пальцы привычными движениями сортируют какие-то ампулы в старой аптечке] Мне он много чего рассказывает, для этого здесь и поставлен, чтоб непонятно кто не ошивался на Радуге. Хреновато справляется, бывает и такое, но вот за тебя шепнул пару словечек. Только что толку, парень, если ты пришел с пустыми руками?}
-{221}{012}{Вообще-то, у меня для тебя посылка от ваших насекомых. Муравьиные брюхи с доставкой!}
-{222}{999}{Тогда я зайду попозже...}
+{210}{}{I mean this - look around you. No one here cares about anything anymore. The territory is full of some shady assholes loitering around, the number of problems is increasing... And the Hog, you know... I'm worried. What would happen if the Hog kicks the bucket? I'm too old for this shit, and I fail to see any worthy candidates to keep things tight... I think I'm talking too much. It's nice to remember the old times, but enough for now. Come around, if you want to make business.}
+{211}{999}{Thanks for the information. I definitely will.}
 
 
-{2301}{}{[Дружески улыбаясь, подзывает жестом подойти поближе, но, когда вы оказываетесь в пределах досягаемости, цепко хватает вас за шею и злобно шипит] Значит так, сученок, дело было так - один старик просто решил потрепаться насчет старых времен с очередным посетителем. И не более. Я тебя знать не знаю, чтоб обсуждать чего-то серьезное. И если будешь и дальше свои домыслы тут распространять - я твой ливер собакам скормлю!  }
-{231}{999}{Эй, убери руки-то. Я ж ничего такого не имел в виду. Поговорим позже, когда... узнаем друг друга получше, скажем так.}
-{232}{029}{Ай! Падла старая, я из твоего ливера суп сварганю, если грабки не уберешь! }
-{2302}{}{[Пожав плечами, выпивает обе рюмки] Слушай, я вижу, что ты парень-то нормальный. Поэтому вот тебе бесплатный совет - завязывай ты с этими разговорами. Лично я первый ход делать не собираюсь, пока Кабан жив и держит всех в кулаке. }
-{233}{999}{Ну пожелаем ему тогда долгих лет правления. Хотя в наше время ставки на кого-то надо делать очень осторожно... Ты подумай об этом на досуге.}
-{234}{999}{Конечно. Закрыли тему.}
+{220}{}{He tells me a lot of things. He is here to prevent people I don't know from loitering around the Rainbow. And he is not good at his job, if you ask me. Still, he mentioned you. But how does it matter, if you came empty-handed?}
+{221}{012}{Actually, I have a package for you. From your insect friends. Ant belly delivery!}
+{222}{999}{I'll come back later then.}
 
 
-{240}{}{Ну не без этого... У нас в любой момент может начаться кровавая баня, а я уже стар для этого дерьма. Кент чего-то дергается, пытается все наладить, но пока особых результатов нет.}
-{241}{025}{Значит, пришло время взять ситуацию в свои руки. Как считаешь?}
-{242}{999}{Ну удачи тебе и ему. Увидимся.}
+{2301}{}{[he gives you a friendly smile, then swiftly grabs your throat and hisses] Here's how it is, little shit - one old man just decided to ramble about good old days with another customer. Nothing more. I don't know you. I won't discuss something serious with you. And if you keep talking like that, I'm going to feed your liver to the dogs. }
+{231}{999}{Hey, no hands! I didn't mean anything bad. Let's talk later, when we... Get to know each other better.}
+{232}{029}{Ow! Ye old ass, I'll cook YOUR liver if you won't get your meat hooks off me! }
+{2302}{}{[he shrugs, drinking two shots simultaneously] I see you are okay. So, here's some free advice - lay off this chat. I won't make any move, while Hog is still around, keeping things in order. }
+{233}{999}{Then let's drink for him staying in charge for many years to come. Although now you should be very careful when betting on someone... Think about it.}
+{234}{999}{Of course. We're done with this topic.}
 
 
-{2501}{}{Ну-ну... Ты можешь в свои руки только мой прибор взять и передернуть, пока я не скомандую "Хватит!". Ты кто такой, чтоб мне что-то подобное втирать? Вали нахер отсюда, пока я еще добрый!}
-{251}{029}{Ну все, гнида, достал ты меня! А правда говорят, что у тебя вместо крови коньяк в жилах? Сейчас и проверим!}
-{252}{999}{Хорошо, вернемся к этому разговору позже.}
-{2502}{}{[Настороженно смотрит на вас] Это ты к чему?}
-{253}{026}{У меня какое-то странное предчувствие, что Кент скоро вполне может присоединиться к Кабану. Например, в результате пищевого отравления. Даже не знаю, откуда такие мысли. Атмосфера, что ли, на Радуге нездоровая?}
-{254}{028}{Не хочу вдаваться в подробности. Лучше поговорим, как деловые люди - если кто-то заплатит тебе приличную сумму за изготовление яда для...огромных крыс, например, ты же не будешь задавать лишних вопросов?}
-{255}{999}{Да ни к чему. Ох, а мне же уже пора! Пока, Лекарь.}
+{240}{}{Yeah... The bloodbath can start at any moment. And, as I said, I'm getting a little old for this shit. Mate is trying to hold things up, but with little results.}
+{241}{025}{Maybe it's time to deal with the situation. What do you think?}
+{242}{999}{Good luck to you both then. See you around.}
 
 
-{260}{}{[Оглядывается по сторонам и говорит вполголоса] Все может быть...  И как ты себе это представляешь?}
-{261}{027}{Например кто-то, сведущий в изготовлении не особо полезных для здоровья смесей, приготовит...пищевую добавку. И передаст ее посланнику человека, который впоследствии не забудет этой услуги. Что может быть лучше для дружеских отношений, чем подобные совместные дела? При обоюдном молчании, разумеется.}
+{2501}{}{All you can deal with is your thingy by the toilet. Who do you think you are, telling me this? Get the fuck away, don't piss me off!}
+{251}{029}{That's it asshole, I'm sick of it! Let's check if you have booze instead of blood!}
+{252}{999}{Okay, better to talk about it later then.}
+{2502}{}{[looks at you with caution] Why do you say that?}
+{253}{026}{I have a strange feeling about this. That Mate can join the Hog soon. You know, poisoning, for example. I don't even know where this thoughts come from. Maybe it's something in the air...}
+{254}{028}{I don't really want to elaborate on that. Let's talk like businessmen - if someone would pay you a huge amount of money for, I don't know, some deadly poison, to deal with a huge rats - would you question it?}
+{255}{999}{I dunno... Oh! Look at the time! Bye, Apothecary.}
 
 
-{270}{}{[Усмехается] Ну ты и проныра... Далеко пойдешь, если будешь под ноги смотреть. В общем, мастер согласен. Но он только изготовит и передаст...препарат нужному человеку. Не более.}
-{271}{999}{Большего и не требуется. Надеюсь, к этой теме возвращаться нам не придется.}
+{260}{}{[he looks around and lowers his voice] Everything can happen... what's on your mind?}
+{261}{027}{What if someone, pretty good at cooking some deadly conconctions, would make some... Food supplement? And give it to someone, representing another someone, who would remember this favor? There's nothing better for a good people than mutually beneficial partnership, right? When the secrets can be kept, of course.}
 
 
-{280}{}{[Он долго колеблется, нервно потирая руки, но в итоге следует решительный кивок] Это вполне возможно, почему бы и нет? Крыса-то размерами с Кента, да? Это будет сложная работа... Скажем, за тысячу батареек я бы мог и попытаться. }
-{281}{999}{Заметано. Вот деньги. Жди моего человека.}
-{282}{999}{Черт, дороговато... Будем считать, что этого разговора не было. Если что - я знаю, где тебя найти.}
+{270}{}{[he chuckles] You are such a weasel... You're gonna go far, kid. Okay, "someone" agrees - but only to produce the supplement and to give it to another "someone". Nothing more.}
+{271}{999}{I don't need more. And I hope we don't have to talk about this again.}
 
 
-{290}{}{[Отскакивает в сторону, пытаясь достать оружие] Ко мне, парни! Валите эту мразь!}
-{291}{998}{Они тебе не помогут, пинчер!}
+{280}{}{[he hesitates, nervously scratching his chin, but still firmly nods] This might be possible, yeah. Why not? The rats are the size of Mate, I suppose? It's going to be a difficult job... I could try - for a thousand batteries. }
+{281}{999}{Deal. Here's the money. Wait for someone from me.}
+{282}{999}{Damn, that's a lot... Let's pretend we didn't talk. If something comes up, I know where to find you.}
 
 
-{300}{}{Да вообще похрен. Все равно я здесь надолго не задержусь. Вот только провернем на пару с Кирпичом пару делишек... Не закинешь ему ящик вот этого отличного суррогата? Хотя нет, еще выжрешь по дороге...}
-{301}{999}{Ну тогда мне пора. Рад был увидеться...наверное.}
+{290}{}{[He jumps away, pulling out his weapon] Boys! Let's put down this motherfucker!}
+{291}{998}{They won't help you, drunkard!}
 
 
-{3101}{}{Намек понял! [Открывает сейф под стойкой и передает вам сумку из лавашьей кожи] Все здесь, босс, до последней батарейки!}
-{311}{999}{Верю, это же не коньяк. Увидимся, Лекарь.}
-{3102}{}{Все путем! Я сроки помню, как же, 5-го и 20-го предоставлю всю сумму.}
-{312}{999}{Отлично. Может, для разнообразия еще и протрезвеешь к тому времени?}
+{300}{}{Don't care. I won't be staying here for long. Just need to finish couple of matters with the Brick. By the way, can you fetch him this package of booze? Ah, forget it, you will drink it all on the way...}
+{301}{999}{Then I need to go. Was nice seeing you... I guess.}
 
 
-{3201}{}{[Принимает вид благодарного ангела перед престолом Господа... Если, конечно, бывают пьяные морщинистые ангелы с растрепанной бородой] Пока грех жаловаться. Боюсь сглазить, босс. Обороты Капли растут, в баре тоже оседает все больше деньжат. И наконец-то на Радуге порядок! Драть кротокрыса под хвост, да ты действительно здесь всех построил! Я о большем и не мечтал...}
-{321}{999}{Вот и не забывай, кому ты обязан своей счастливой старостью. До скорого.}
-{3202}{}{[Принимает вид благодарного ангела перед престолом Господа... Если, конечно, бывают пьяные морщинистые ангелы с растрепанной бородой] Пока грех жаловаться. Боюсь сглазить, босс. Конечно, без Капли навар уже не тот, но главное, что наконец-то на Радуге порядок! Драть кротокрыса под хвост, да ты действительно здесь всех построил! Я о большем и не мечтал...}
-{322}{999}{Вот и не забывай, кому ты обязан своей счастливой старостью. До скорого.}
+{3101}{}{Understood! [he pulls a bag from under the register] Everything is here, Boss, down to the last battery!}
+{311}{999}{I believe you, it's not a hooch. See you around, Apothecary.}
+{3102}{}{All good! I remember the deadlines - 5th and 20th.}
+{312}{999}{Great. Try to get sober until that, for a change.}
 
 
-{3301}{}{[Торопливо показывает пустые руки] Спокойно, чемпион. Выдели мне пару минут, есть серьезный разговор. Парни, что раньше под Кабаном ходили, попросили один вопрос с тобой перетереть.}
-{331}{034}{Говори. Надеюсь, оно того стоит.}
-{332}{034}{Я весь во внимании.}
-{3302}{}{[Глаза Лекаря горят лихорадочным огнем, а рука то и дело тянется к початой бутылке в кармане] Дело сделано, а? Я времени тоже зря не терял - навел самых толковых из наших на нужные мысли. }
-{333}{034}{И что в итоге?}
-{334}{034}{Это прежде всего в твоих интересах. Так что ты меня не удивил.}
+{3201}{}{Can't really complain - and don't want to jinx it. The Drop sales are increasing, bar is thriving too. At last, the Rainbow has some order! Fuck me molerat, you do know how to pull shit together here! I couldn't even dream of something like this...}
+{321}{999}{Don't forget who you owe this to. See you around.}
+{3202}{}{Can't really complain - and don't want to jinx it. Of course, the profits are not the same without the Drop, but at least the Rainbow has some order! Fuck me molerat, you do know how to pull shit together here! I couldn't even dream of something like this...}
+{322}{999}{Don't forget who you owe this to. See you around.}
 
 
-{3401}{}{[Прищуренные глаза какое-то время изучают вас. Наконец он начинает говорить] Ты урыл Кабана - это проблема, мужик. Хреново или нет, но он держал ситуацию на контроле. И теперь мы не хотим, чтоб все здесь по прибору пошло. Нужен человек, способный сшибить рога  недовольным и встать на место Кабана. Мы за тобой давно наблюдаем, на Радуге ведь каждый в итоге показывает свое истинное лицо...  В общем, парни решили, что ты на это вполне способен. И я их поддерживаю. Слово за тобой, чемпион. Вот, возьми - в знак добрых намерений. "Восхищение" - редкая штука, нигде больше не найдешь [Протягивает вам некий препарат неизвестного назначения. Вы берете его, решив попозже изучить поподробнее]}
-{341}{036}{Хм... А почему бы и нет? Мне это вполне подходит. Даже коронацию можете отменить, я парнишка скромный.}
-{342}{036}{Согласен. Рассказывай, какие расклады мы имеем на данный момент.}
-{343}{035}{Нет. Это не по мне. Сами решайте свои проблемы.}
-{3402}{}{[Кадык Лекаря быстро дергается, пропуская в желудок остатки коньяка] Уф... В общем, все серьезные люди за тебя. Они согласились, что Кабан вопросы решал жестко, но не всегда по уму. С Кентом тоже все ясно было с самого начала. При наших раскладах нужен кто-то похитрее. Тут-то я про тебя и вспомнил. Радуга ждет, парень! }
-{344}{036}{Отлично. Введи меня в курс дела - с чего начать?}
-{345}{035}{Знаешь, я тут подумал - мне и своих проблем хватает. Тут слишком много разгребать надо. Я пас.}
+{3301}{}{[he shows you empty hands] Easy, champ. Give a couple of minutes, we need to have a serious talk. The boys who went with Hog asked me to discuss one thing.}
+{331}{034}{I hope it's worth it.}
+{332}{034}{I'm listening.}
+{3302}{}{[his eyes burn with strange fire, hand itches to grab the nearest bottle] So, it's done... I didn't waste my time too - pushed some of our best guys into the right direction. }
+{333}{034}{And?}
+{334}{034}{This is in your own interests. You didn't surprise me.}
 
 
-{350}{}{[Он неверяще таращится на вас, пытаясь подобрать слова] Ты... Мать твою... Соскакиваешь, да? Да нахера тогда ты вообще все это здесь устроил?}
-{351}{037}{Я выходил на арену, потому что мне нравится выбивать дерьмо из людей. Вот и все. }
-{352}{037}{А может у меня с Кентом личные счеты были? А может я тебя тупо поимел ради своих интересов и на Радугу мне плевать? В общем, я уже сказал - нет.}
-{353}{037}{Для чего - это уже мое личное дело. Спасибо за предложение, но мой ответ прежний.}
+{3401}{}{[his squinted eyes look at you for some time. Then he starts talking.] You wasted the Hog. And it is a big problem, man, because he held the place together. And we don't want everything here to go to shit. This place needs someone cheeky enough to lead it. And we are observing your doings for a long time already - the Rainbow makes everyone to show their true colors, you know... So, my boys think that you are suited for this position, and I agree with them. Your turn, champ. Tell me, what you think. And take this, as a gesture of good will. It's called "Admiration" - a pretty rare stuff, you won't find it anywhere else. [he hands you something]}
+{341}{036}{Why the hell not? I think I can do it. No need for inauguration, I'm too humble for that.}
+{342}{036}{I'm in. Tell me, what's the deal around here at the moment.}
+{343}{035}{Nah, it's not for me. Solve your problems by yourselves.}
+{3402}{}{[he makes a long gulp, pouring the rest of booze down his throat] Phew... The thing is, all the boys root for you. They think that the Hog solved problems... Not in a very flexible way - but he solved them. Mate was like that too. But in current situation we need someone smarter. That's when I thought about you, so - what do you think about leading the place? The Rainbow awaits, kid! }
+{344}{036}{Good. Fill me in - what should I start with?}
+{345}{035}{You know, I've been thinking... I have my own problems. It's too much to do here. I'll pass.}
 
 
-{360}{}{[Облегченно выдыхает и заметно оживляется] Значит так. Твоя тема - порядок на местности. Бизнес должен идти без проблем. Насчет внутренних дел мозги не суши, мы и сами справимся. Раз в месяц  будем откидывать тебе часть навара за охрану. По ходу дела остальное сам поймешь. У нас как себя поставишь - такое и отношение заслужишь. И... мои поздравления, босс! За это определенно стоит выпить...}
-{361}{999}{Отлично. Но если вы думаете, что можете теперь расслабиться - то хрен вы угадали. Можешь идти. А я огляжу свои новые владения.}
-{362}{999}{Понятно. Ладно, ступай. Мне надо все обдумать. Не беспокойся, твоего участия в этом деле я не забуду.}
+{350}{}{[looks like he can't believe what you've just said] You... You are fucking... Quitting? Why the fuck did you start this mess then?}
+{351}{037}{I just like to beat the shit out of people, that's it.}
+{352}{037}{Maybe I had my beef with Mate? Maybe I just screwed you over because of my own interests? Maybe I don't really care about the Rainbow? As I said - no.}
+{353}{037}{I had my reasons. Thanks for the offer, but my answer stays the same.}
 
 
-{370}{}{[Кажется, что он вот-вот бросится на вас, но затем берет себя в руки и спокойно кивает] Чтож, твой выбор. Смотри, как бы пожалеть потом не пришлось. [Уходит]}
-{371}{999}{[Выход]}
+{360}{}{[he exales in relief] Listen then. Your job is to keep things going. Business matters must be carried out without problems. Don't worry about our stuff, we will take care of it. Once in a month you will be getting you cut for security. The rest you'll figure out. Everything depends on how you act now. And - congratulations, Boss! I should definitely drink for that, wait a second...}
+{361}{999}{Nice. But if you think you can relax, you are dead wrong. You are free to go. I'd like to look around my domain.}
+{362}{999}{I see. Now, I need to think everything over - and don't worry, I won't forget your role in it.}
+
+{370}{}{[looks like he is going to throw himself at you, but instead, he suddenly goes limp] That's your choice then. Don't regret it. [he walks away.]}
+{371}{999}{[end]}

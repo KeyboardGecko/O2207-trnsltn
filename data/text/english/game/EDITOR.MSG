@@ -172,13 +172,13 @@
 {622}{}{hours} # Title line 3
 # -
 # -
-#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
-#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
-#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000}
-#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
-#{000}{}{  Intelligence: 00       Damage Res.: 000}
-#{000}{}{       Agility: 00    Radiation Res.: 000}
-#{000}{}{          Luck: 00       Poison Res.: 000}
+#      Strength: 00        Hit Points: 000/000          Sequence: 00
+#    Perception: 00       Armor Class: 000          Healing Rate: 00
+#     Endurance: 00     Action Points: 000       Critical Chance: 000
+#      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.
+#  Intelligence: 00       Damage Res.: 000
+#       Agility: 00    Radiation Res.: 000
+#          Luck: 00       Poison Res.: 000
 #
 {623}{}{ ::: Statistics :::}
 {624}{}{       Strength:}
@@ -214,7 +214,7 @@
 {645}{}{Male}
 {646}{}{Female}
 #-
-#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+#		 Level: 00                 Exp: 000,000    Next Level: 000,000
 {647}{}{ Level:}
 {648}{}{                Exp:}
 {649}{}{Next Level:}
@@ -271,7 +271,7 @@
 {1105}{}{You are addicted to the chem Stronghold. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Brainiac addiction. You must take this particular chem or suffer withdrawal.}
 {1107}{}{You have a chem addiction. If you do not take Combatid on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to Rad-Out. While not life threatening, you must take it regularly.}
+{1108}{}{Your body has become addicted to RadOut. While not life threatening, you must take it regularly.}
 {1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
 {1110}{}{You have a chem addiction. You must take Drop on a regular basis.}
 {1111}{}{Tragically, you are hooked on the Garnering. You are constantly in search of new expansions.}
@@ -283,7 +283,7 @@
 {1117}{}{You did a nice job of making the soil in the Undeath Caves a little more fertile, and the harvest a little richer. Rejoice, now they live a little easier.}
 {1118}{}{Betrayals, secret murders, deception, denunciations ... Who cares? Winners are not judged! You are now the leader of the Sunset Jackals!}
 {1119}{}{Intrigues of intrigue and long-standing family feuds - you unraveled everything, and even took the post of Supervisor in the New World Order Cannery! Well, now you are definitely provided with canned food.}
-{1120}{}{It is not easy to be the head of four crazy families in Laivos, but in a crazy world there are crazy rules. Oh, and why are the vault residents calling you "Overseer"?}
+{1120}{}{It is not easy to be the head of four crazy families in Livos, but in a crazy world there are crazy rules. Oh, and why do the vault residents call you "Commander"?}
 {1121}{}{Controlling drugs and narcotics is not everyone's dream in the Wastes. You made that dream come true and now control the entire Rainbow Raiders community under your iron fist!}
 {1122}{}{How is that even possible? Four groups that hate each other, and you managed to become the head figure in each of them! Bravo!}
 {1123}{}{You are a famous seeker of old world governmental, scientific or other secrets... and of course the loot therein. Finding the unknown is your motto!}

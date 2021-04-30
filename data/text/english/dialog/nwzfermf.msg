@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: женещина.}
-{2}{}{Вы видите: НМПшница.}
-{3}{}{Вы видите: местная баба.}
-{4}{}{Вы видите: местная работница.}
-{5}{}{Вы видите: местная.}
-{6}{}{На удивление стойкий запах навоза прекрасно подходит ее внешности.}
-{7}{}{Вы сильно затрудняетесь определить ее возраст.}
-{8}{}{Вид ее натруженных рук невольно понижает Вашу самооценку...}
-{9}{}{Многие мужики позавидовали бы могучему аромату пота, исходящему от нее!}
+{1}{}{You see a woman.}
+{2}{}{You see an inhabitant of NWO.}
+{3}{}{You see a local woman.}
+{4}{}{You see a local female worker.}
+{5}{}{You see a local.}
+{6}{}{Surprisingly persistent smell of manure fits her appearance perfectly.}
+{7}{}{You're having a hard time determining her age.}
+{8}{}{The look of her calloused arms lowers your self-esteem.}
+{9}{}{A lot of men could envy the mighty smell of sweat coming from her!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,43 +46,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Привет, красавчик!}
-{1001}{}{Привет! Как делишки?}
-{1002}{}{Здравствуй! Как на счет порции свежего мяска? [хитро подмигивает]}
-{1003}{}{О! Привет! Может хочешь консерву?}
-{1004}{}{[шепчет] ::в подсобке через 15 минут::}
-{1005}{}{Рада тебя видеть!}
-{1006}{}{Приятно видеть тебя! Вот только закончу тут...}
-{1007}{}{Конечно, чем смогу - помогу!}
-{1008}{}{Здорово, что ты здесь!}
-{1009}{}{Я очень рада, что ты с нами!}
+{1000}{}{Hey, handsome!}
+{1001}{}{Hey! How are you doing?}
+{1002}{}{Hey there! Want some fresh meat? [slyly winks]}
+{1003}{}{Oh! Hello! Want a can of meat?}
+{1004}{}{[whispers] ::in the utility room in 15 minutes::}
+{1005}{}{So glad to see you!}
+{1006}{}{Nice to see you! Just let me finish here...}
+{1007}{}{Of course, I'll help with what I can!}
+{1008}{}{So good you're here!}
+{1009}{}{I'm happy that you are with us!}
 # Нейтральные сообщения
-{1010}{}{Просто отвали, ковбой.}
-{1011}{}{Эй, я же работать тут пытаюсь!}
-{1012}{}{Не стой на пути - зашибу.}
-{1013}{}{Слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{Ты работать будешь или нет, милый?}
-{1015}{}{Бери лопату и иди копать, красавчик!}
-{1016}{}{У тебя что, отпуск? Нет? Тогда живо иди работать!}
-{1017}{}{...эта работа никогда не кончится...}
-{1018}{}{Оох... Ну что опять? Ты не видишь, я занята!}
-{1019}{}{Мне некогда, ковбой. За меня мою работу никто не сделает.}
+{1010}{}{Just get lost, cowboy.}
+{1011}{}{Hey, I'm trying to work here!}
+{1012}{}{Do not get on my way, or else.}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{Are you going to work, honey?}
+{1015}{}{Take the shovel and go dig, pretty boy!}
+{1016}{}{Are you on vacation? No? Then go do your job!}
+{1017}{}{...This work never ends...}
+{1018}{}{Man... What?! I am busy!}
+{1019}{}{No time, cowboy. No one's gonna do my job for me.}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшол нах!!!}
-{1024}{}{Крути педали, пока не дали...}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошол вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1010}{}{::Zzzz...::}
+{1011}{}{::Hmmmm...::}
+{1012}{}{::Mmmmhrmh...::}
+{1013}{}{::Uhhhhhhrhmmmm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
@@ -91,26 +91,26 @@
 {1039}{}{}
 #СТАНДАРТНЫЕ
 #ГГ стал Руководителем НМП
-{1040}{}{Руководитель, у Вас есть минутка?}
-{1041}{}{А мне полагаются батарейки сверхнормы за качество работы?}
-{1042}{}{Здравствуйте, руководитель. Как денек?}
-{1043}{}{Приятно видеть Вас в здравии, руководитель.}
-{1044}{}{Я рада, что такой человек как Вы стоит у руля.}
+{1040}{}{Mayor, do you have a minute?}
+{1041}{}{Do I get extra batteries for a good quality of my work?}
+{1042}{}{Good day, Leader. How's your day?}
+{1043}{}{Good to see you healthy, Mayor.}
+{1044}{}{I'm glad that someone like you is leading us.}
 #Мертвяк Сэм стал Руководителем
-{1045}{}{Пффф... Сэм, мать его так, теперь босс...}
-{1046}{}{Как можно доверять руководство тому, у кого мозг уже сгнил?}
-{1047}{}{Нет, я не расист, но Сэм-руководитель - это перебор...}
-{1048}{}{Нда, ну и времена настали...}
+{1045}{}{Pffft... Friggin' Sam is the boss now...}
+{1046}{}{How can you trust the leadership of this place to someone who has his brains rotten to the core?}
+{1047}{}{I'm no racist, but Sam as the Leader is too much...}
+{1048}{}{Man, what times are we live in...}
 {1049}{}{::вздох::}
 #Даниэль (сын Марка) стал Руководителем
-{1050}{}{Я бы не сказал что я умна. Но я бы сказала что Даниель тупее меня.}
-{1051}{}{А в моем детстве детям не то что город - оружие не доверяли...}
-{1052}{}{Мне кажется, что все это не приведет к добру...}
-{1053}{}{Я очень надеюсь, что мальчишка быстро поумнеет.}
-{1054}{}{Я вот думаю, что лучше бы Сэма сделали руководителем...}
+{1050}{}{I wouldn't say that I'm smart. But I would say that Daniel is way more stupid.}
+{1051}{}{In my childhood the child couldn't be trusted with a weapon, let alone the whole town...}
+{1052}{}{I don't think it'll do any good for this place...}
+{1053}{}{I really hope the boy gets smarter...}
+{1054}{}{Sometimes I think that it would be better to Sam become the Leader instead...}
 #Марк умер, нового Руководителя нет
-{1055}{}{::всхлип::}
-{1056}{}{Покойся с миром, Марк...}
-{1057}{}{Я надеюсь на лучшее. Но жду я худшего.}
-{1058}{}{Похоже славные деньки закончились...}
-{1059}{}{Я не хочу говорить.}
+{1055}{}{::sob::}
+{1056}{}{Rest in peace, Mark...}
+{1057}{}{I hope for the better. But preparing for the worst.}
+{1058}{}{Looks like our good old days are over...}
+{1059}{}{I don't want to talk.}

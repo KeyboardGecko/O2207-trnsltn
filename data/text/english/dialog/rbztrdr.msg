@@ -29,24 +29,24 @@
 #
 #ОПИСАНИЕ ПЕРСОНАЖА
 #
-{1}{}{Вы видите: барыга.}
-{2}{}{Вы видите: дилер.}
-{3}{}{Вы видите: пушер.}
-{4}{}{Вы видите: толкач.}
-{5}{}{Вы видите: наркоторговец.}
-{6}{}{Его лицо перекошено в попытке изобразить добрую улыбку.}
-{7}{}{На его куртке множество маленьких карманчиков, из которых он то и дело достает товар.}
-{8}{}{Одежда хоть и старая, но выглядит очень прочной и удобной. Судя по всему, ее регулярно переделывают.}
-{9}{}{Он стоит широко расставив ноги, зазывая покупателей.}
+{1}{}{You see a dealer.}
+{2}{}{You see a seller.}
+{3}{}{You see a pusher.}
+{4}{}{You see a drug dealer.}
+{5}{}{You see a pusher.}
+{6}{}{His face is twisted in a strange attempt to make a smile.}
+{7}{}{His clothes is covered with many little pockets, from which he periodically pulls out his merchandise.}
+{8}{}{His clothes, although old, seems to be very durable and comfotable. Looks like it's greatly maintained and often remade.}
+{9}{}{He stands tall, spreading his legs, calling out to customers.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Показывай товар.}
-{11}{}{Ну посмотрим, что там у тебя.}
-{12}{}{Показывай. И не вздумай меня надурить!}
-{13}{}{Нет, ничего мне больше не нужно.}
-{14}{}{Мне пора идти.}
-{15}{}{Хватит мне на сегодня.}
+{10}{}{Show me the goods.}
+{11}{}{Let me see what you have.}
+{12}{}{Show it. And don't even think about short-change me!}
+{13}{}{No, I don't need anything for now.}
+{14}{}{I need to go.}
+{15}{}{Enough for today.}
 {16}{}{}
 {17}{}{}
 {18}{}{}
@@ -54,71 +54,71 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Хей! Немного капли?}
-{1001}{}{Друг, поверь, тебе нужна капля!}
-{1002}{}{Ищешь что-нибудь эдакое?}
-{1003}{}{Слушай, кореш, мне только что пришла свежая партия...}
-{1004}{}{Моя наркота - лучшая, базарю тебе.}
-{1005}{}{Мои цены - самые низкие!}
-{1006}{}{Я гарантирую тебе хорошо отвиснуть с моим товаром!}
-{1007}{}{Только здесь и сейчас - выгоднее цены уже не будет!}
-{1008}{}{Капля обладает чудесными эффектами! Она омолаживает, снимает боль...}
-{1009}{}{Закинься и мир станет лучше!}
+{1000}{}{Heya! Want some Drop?}
+{1001}{}{Believe me, my friend, you need some Drop!}
+{1002}{}{Are you looking for something special?}
+{1003}{}{Listen, man, I just got a fresh batch...}
+{1004}{}{My stuff is the best, I tell you.}
+{1005}{}{My prices are the lowest!}
+{1006}{}{I guarantee you'll have a good time with my merchandise!}
+{1007}{}{Here and now! Prices aren't getting better than this!}
+{1008}{}{The Drop has miraculous effects! Rejuvenates, relieves pain...}
+{1009}{}{Pop it, and the world gets better!}
 # Нейтральные сообщения
-{1010}{}{Берешь или нет?}
-{1011}{}{Могу дать скидку если возьмешь больше.}
-{1012}{}{Не, только такой.}
-{1013}{}{Это - не разбодяжка, стопудов, парень.}
-{1014}{}{[Он достал пакетик из одного кармана и переложил его в другой]}
-{1015}{}{Самая забойная капля в Радиусе!}
-{1016}{}{Постоянным клиентам скидка!}
-{1017}{}{Принимаю к оплате любой товар!}
-{1018}{}{Хей, смотри-смотри, да выбирай!}
-{1019}{}{Покупай уже! Товар высший сорт.}
+{1010}{}{Do you take it or not?}
+{1011}{}{I can give you a discount if you take more.}
+{1012}{}{No, only this one.}
+{1013}{}{This one is not diluted, I tell you.}
+{1014}{}{[pulls out something from one pocket, puts it into another]}
+{1015}{}{The strongest Drop in Radius!}
+{1016}{}{Discounts for regular customers!}
+{1017}{}{I accept any goods for payment!}
+{1018}{}{Hey! Look, choose!}
+{1019}{}{Just buy already! This is a top grade stuff.}
 # Отрицательные сообщения
-{1020}{}{Щас я тебе устрою терморектальный криптоанализ...}
-{1021}{}{Еще слово и ты кровью сcать будешь.}
-{1022}{}{Пшел отсюда!}
-{1023}{}{[Показывает Вам два средних пальца.]}
-{1024}{}{Ты кто вообще такой, а?!}
-{1025}{}{Да ты хоть знаешь кто я?!}
-{1026}{}{Крути педали отсюда!}
-{1027}{}{Исчезни.}
-{1028}{}{Я тебе глаз на жопу натяну.}
-{1029}{}{[Злобно смотрит на Вас]}
+{1020}{}{You're getting your thermorectal cryptoanalysis...}
+{1021}{}{One more word, and you'll be pissing with blood.}
+{1022}{}{Get the hell out!}
+{1023}{}{[gives you two middle fingers]}
+{1024}{}{Who the hell are you, huh?!}
+{1025}{}{Do you know who I am?!}
+{1026}{}{Bugger off!}
+{1027}{}{Get lost.}
+{1028}{}{I'm going to fuck you up!}
+{1029}{}{[looks at you angrily]}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1034}{}{::м-у-у-а-а-а-м-м-м...::}
-{1035}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1036}{}{::м-у-у-а-а-а-м-м-м...::}
-{1037}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
-{1038}{}{::м-м-м-а-а-м-м...::}
-{1039}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
+{1034}{}{::Mrmmyahrmmm...::}
+{1035}{}{::Uhhhhrmhumhumm...::}
+{1036}{}{::Ughmmrmmhmm...::}
+{1037}{}{::Yaaarghmhmhmmm...::}
+{1038}{}{::Mmmrhmmm...::}
+{1039}{}{::Aaaaghrhhmmzzzzzz...::}
 #РЕКЛАМНЫЕ ВЫКРИКИ ПРО ТОВАР
 #Стандартные
-{1040}{}{Почему капля лучше девушки? Она не ебет мозги!}
-{1041}{}{Капля окрыляе-е-ет!}
-{1042}{}{Капля - это настоящее испытание вкусом!}
-{1043}{}{Товар, достойный королей!}
-{1044}{}{Капля - и ты опять летаешь во сне!}
+{1040}{}{Why is a Drop better than a girl? Because it doesn't hump your brain!}
+{1041}{}{The Drop gives you wings!}
+{1042}{}{The Drop - you're loving it!}
+{1043}{}{Because you're worth it!}
+{1044}{}{The Drop - betcha can't take just one!}
 #Кабан убит игроком
-{1045}{}{Купи мой товар, отдай дань памяти Кабану!}
-{1046}{}{Капля - это то, что вам нужно, чтобы заглушить боль утраты!}
-{1047}{}{Капля - перепиши свою историю!}
-{1048}{}{Капля - измени свою реальность!}
-{1049}{}{Только хардкор, только капля!}
+{1045}{}{Buy my stuff, pay respects to the Hog!}
+{1046}{}{The Drop is what you need to dull the pain of loss!}
+{1047}{}{The Drop - rewrite your history!}
+{1048}{}{The Drop - make your own reality!}
+{1049}{}{The Drop, one and only!}
 #Наоми Янг сбежала
-{1050}{}{Я еще не поднял цену! Налетай!}
-{1051}{}{Покупай, пока остался товар!}
-{1052}{}{Успей приторчать, пока есть чем!}
-{1053}{}{Каждая следующая доза дороже! Успей купить пока дешево!}
-{1054}{}{Дефицитный товар в наличии!}
+{1050}{}{The price still stands! Buy while you can!}
+{1051}{}{Buy it while I have it!}
+{1052}{}{Pop it while you have it!}
+{1053}{}{The next dose gets more expensive! Buy while it's cheap!}
+{1054}{}{Rare commodities available!}
 #Наоми Янг сделала каплю сильнее
-{1055}{}{Свежак! Так вы еще не улетали!}
-{1056}{}{Вкус новой капли за гранью возможного!}
-{1057}{}{Теперь одна доза отправит вас в долгий прекрасный полет!}
-{1058}{}{Ощути яркий всплеск!}
-{1059}{}{Измени свой взгляд на мир!}
+{1055}{}{A fresh one! You never got so high before!}
+{1056}{}{New Drop gets you to the outer limits!}
+{1057}{}{Fly the friendly skies with one dose!}
+{1058}{}{Feel the brightness!}
+{1059}{}{Be the happiest man in Radius!}

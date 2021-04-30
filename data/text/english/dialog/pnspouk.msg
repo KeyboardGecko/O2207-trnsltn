@@ -24,78 +24,78 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: охранник Тартара.}
-{2}{}{Вы не представляете, как ЭТА штука может быть человеком.}
+{1}{}{You see a guard of Tartarus.}
+{2}{}{You can't even imagine how THIS can be human.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Капрал Споук.}
-{4}{}{Этот человек в броне, кажется, может в одиночку захватить весь мир.}
+{3}{}{You see corporal Spock.}
+{4}{}{This man in armored suit looks like he is able to conquer the whole world by himself.}
 #
-{5}{}{Думаешь, ты здесь самый хитрый? Получай, нежить!}
+{5}{}{You think you are smart, huh? Take that, dead meat!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ну-ка назад, нежить!}
-{11}{}{Я просто случайно тут оказался. Кто вы?}
-{12}{}{Я только хотел спросить, кто вы и что вы тут охраняете?}
-{13}{}{Уже ухожу!}
-{14}{}{Я - капрал Споук, и я тут защищаю Тартар от таких, как ты. Беглецы, нежить, выживальцы - все вы должны держаться подальше отсюда. Приблизишься - снесу башку в один миг. Свободен!}
-{15}{}{Ясно-ясно, уже ухожу.}
-{16}{}{Ты смотри-ка какой суровый! Небось, без костюмчика-то - кишка тонка вякать?}
+{10}{}{Get the hell back, you dead meat!}
+{11}{}{I'm here by accident. Who are you?}
+{12}{}{I just wanted to ask - who are you and what are you guarding here?}
+{13}{}{I'm leaving!}
+{14}{}{I am corporal Spock, and I protect the Tartarus from the likes of you. Runaways, ferals, survivors - you all stay away from here. Come closer, and I'll blow your head off in an instant. Go.}
+{15}{}{I see, I see. I'm leaving.}
+{16}{}{Look how rough you are! I bet you don't have so much guts without this armor of yours.}
 {17}{}{}
 {18}{}{}
 {19}{}{}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{010}{Ты! Опять ты!?}
-{101}{}{Я просто хотел спросить, может мы можем договориться, чтобы некоторые со станции могли пройти? Я заплачу.}
-{102}{}{Я на счет нашего уговора.}
-{103}{}{Ухожу-ухожу, спокойно.}
-{110}{011}{Хмм... Интересная мысль. Одна бутылка коньяка и бутылка виски - и я пропущу одну женщину и одного ребенка. Это не обсуждается, я жду.}
-{111}{}{Что ж, хорошо, договорились.}
-{120}{012}{Да-а? Я все еще жду мою выпивку!}
-{121}{}{Вот, я принес коньяк и виски [протянуть бутылки]}
-{122}{}{Я только хотел узнать, что наш договор все еще в силе.}
-{123}{}{Просто хотел сказать, что скоро все принесу.}
-{130}{013}{Ты испытываешь мое терпение, нежить! Бутылка коньяка и бутылка виски за женщину и ребенка. А теперь - свали с глаз моих!}
-{131}{}{Да-да, скоро все добуду.}
-{140}{014}{Хорошо. [забирает обе бутылки] теперь слушай, нежить: чтобы я тебя здесь больше не видел. Ты порядком намозолил мне глаза, и только что ты заплатил за то, чтобы иметь возможность удрать отсюда в течении следующих 2 минут. Сунешься сюда еще раз - стреляю без предупреждения. Понял? Пшел отсюда!}
-{141}{}{[стиснуть зубы и уйти]}
-{142}{}{Да я тебя... [напасть на Споука]}
+{100}{010}{You! You again?!?}
+{101}{}{I just wanted to ask, maybe we could make a deal, so some of people from the station could go inside? I'll pay.}
+{102}{}{About our deal.}
+{103}{}{Easy, I'm leaving.}
+{110}{011}{Hm... Interesting proposition. A bottle of whiskey and a bottle of cognac - and I let one women and one child to enter. No negotiating. I'm waiting.}
+{111}{}{Well, okay then, it's a deal.}
+{120}{012}{Yeah? I'm still waiting for my booze!}
+{121}{}{Here, cognac and whiskey [give bottles]}
+{122}{}{I just wanted to check that our deal still stands.}
+{123}{}{I wanted to tell you that I'll get it soon.}
+{130}{013}{You are testing my patience, dead meat! A bottle of whiskey and a bottle of cognac for passage of one women and one child. And now get out of my sight!}
+{131}{}{Yeah-yeah, soon I'll get it.}
+{140}{014}{Good. [takes bottles] Now listen to me, dead meat: never show your face here again. I'm pretty tired of seeing you around, so you've just paid me for getting out of this place alive. Deal stands for two minutes. Come again, and I'll open fire without warning. Understood? Now get out!}
+{141}{}{[grit your teeth and walk away]}
+{142}{}{I'll get you... [attack Spock]}
 
-{200}{}{Стой, скаут! Имя?}
-{201}{}{Джон }
-{202}{}{Стив }
-{203}{}{Джек }
-{204}{}{Крис }
-{205}{}{Смит.}
-{206}{}{Сноу.}
-{207}{}{Браун.}
-{208}{}{Уэст.}
-{210}{}{Проходи.}
-{211}{}{[выход]}
-{212}{}{Напасть на охранника.}
-{213}{}{[развернуться и уйти]}
-{214}{}{Боб...}
-{215}{}{Вестник? Заблудился что ли? Имя?}
+{200}{}{Wait a second, cowboy! The name?}
+{201}{}{John }
+{202}{}{Steve }
+{203}{}{Jack }
+{204}{}{Chris }
+{205}{}{Smith.}
+{206}{}{Snow.}
+{207}{}{Brown.}
+{208}{}{West.}
+{210}{}{Go in.}
+{211}{}{[leave]}
+{212}{}{[attack the guard]}
+{213}{}{[turn around and leave]}
+{214}{}{Bob...}
+{215}{}{Herald? Did you get lost or something? The name?}
 
-{216}{}{Черт, я все ваши имена никогда не запомню. Давай, проходи.}
-{217}{}{Да, вроде выходил такой. А может... Да ладно, давай, проходи.}
-{218}{}{Хмм... нет, ну один черт имена в памяти не держатся. Хоть в органайзер каждого записывай. Да ты проходи, давай. [погружается в раздумья]}
-{219}{}{Джоны, Стивы, Джеки. Вас всех одинаково что ли называют? Да шучу-шучу, я ж для проформы имя спрашиваю. Давай, проходи.}
+{216}{}{Damn, I'll never remember all your names. Come on, go in.}
+{217}{}{Yes, there was one with such name. Or wasn't? Oh man, just get in.}
+{218}{}{Hmm... Nah, I've always been bad at names. Maybe I need to write you all down? Go in, come on. [starts thinking]}
+{219}{}{John, Steve, Jack... You are the same man, aren't you? Just kidding, it's a stadart procedure. Come on, go in.}
 
-{300}{}{Не приближайся!}
-{301}{}{Все вопросы - к капралу!}
-{302}{}{Прочь, нежить!}
-{303}{}{Ближе не подходить!}
-{304}{}{Убирайся отсюда!}
-{305}{}{Да-да, и тебе не болеть, скаут.}
-{306}{}{Береги свою задницу, скаут.}
-{307}{}{Я бы не смог вот так постоянно таскаться в Радиус.}
-{308}{}{Хэй, скаут, как там наверху, а?}
-{309}{}{Давай, проходи, не задерживайся.}
+{300}{}{Do not approach!}
+{301}{}{All questions - to the corporal!}
+{302}{}{Get out, dead meat!}
+{303}{}{Don't come closer!}
+{304}{}{Get away from here!}
+{305}{}{Yeah-yeah, you take care too, cowboy.}
+{306}{}{Keep your ass safe, boy scout.}
+{307}{}{I couldn't walk into Radius as often as you.}
+{308}{}{Hey scout, how's the outside?}
+{309}{}{Come in, don't stay here for too long.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

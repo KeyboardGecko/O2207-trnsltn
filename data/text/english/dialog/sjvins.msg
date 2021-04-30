@@ -69,7 +69,7 @@
 
 {100}{}{Oh, hey, a familiar face! Coming by for a little chat, mate?}
 {101}{}{Sure, ask away.}
-{102}{020}{You don't look so good, you know.}
+{102}{020}{You don't look very good, I must say.}
 {103}{030}{Can you tell me about how things are going here?}
 {104}{040}{Why are you always looking around?}
 {105}{045}{Remember how you asked me to deal with Stan?}
@@ -113,10 +113,10 @@
 {416}{999}{Don't sweat, we'll figure something out.}
 
 
-{450}{}{Of course, mate! That's literally the only thingie I can thinkie about [he nervously smiles]. So what about it?}
+{450}{}{Of course, mate! That's literally the only thingie I can thinkie about [he nervously smiles]. So?}
 {451}{999}{I'm looking into it. Soon everything will be alright.}
 {452}{046}{It's cool now. Stan will leave you alone.}
-{453}{}{F-fuckk... Are you kidding? [he shows you bruises all around his body] He beat me up real good... I won't even trust you with guarding the lavash shit now...}
+{453}{}{F-fuckk... Are you kidding? [he shows you bruises all around his body] He beat me up real good... I won't even trust you with guarding the Lavash shit now...}
 {454}{999}{Oh, right... It kinda took longer than expected... Good that you are alive though. Okay then, see ya.}
 
 
@@ -125,7 +125,7 @@
 {462}{999}{Cool. I could even apply for the Jackals, am I right? [wink and leave]}
 
 
-{470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole lavash single-handedly. If he lands one punch, I'll be in the ground by the waist.}
+{470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole Lavash single-handedly. If he lands one punch, I'll be in the ground by the waist.}
 {471}{048}{But you can bet against yourself and take a dive. Or bet against Stan and find a way to set him up. You'll win more than you lose anyway.}
 {472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best case scenario - to clean the toilets. }
 

@@ -11,349 +11,225 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: молодой спокойный парень.}
-{2}{}{Его лицо не выражает никаких эмоций. }
+{1}{}{You see a calm, young man.}
+{2}{}{His face doesn't express any emotions. }
 #
 # после знакомства
-{3}{}{Вы видите: Даллас.}
-{4}{}{Он по прежнемо методично занят своими делами.}
+{3}{}{You see Dallas.}
+{4}{}{He is still methodically doing his business.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вы видите спокойного и серьезного молодого человека] Я - Даллас МакКинзи. Чем могу быть полезен?}
-{11}{010}{Я тут осматриваюсь, ответишь на несколько вопросов?}
-{12}{999}{Я так, мимо проходил.}
+{10}{}{[You see a calm and serious young man] I'm Dallas McKinsey. What can I do for you?}
+{11}{010}{I'm looking around, can you answer some questions?}
+{12}{999}{I was just walking by.}
+
+{1001}{}{Hey, patron. Want to talk business?}
+{1002}{}{Sure, ask your questions, go ahead.}
+{1003}{}{Hey. Want to talk business?}
+{101}{011}{I'm looking for Ludwig's book of wave science. Did you see it?}
+{102}{020}{Heard any rumors?}
+{103}{013}{Tell me about this place. What's in here?}
+{104}{014}{I want to know about inhabitants of this place.}
+{105}{024}{What is it that you do here?}
+{106}{025}{I want to talk about water deliveries to the NWO.}
+{107}{036}{Let's talk about Mignon.}
+{108}{999}{I need to go. Talk later.}
+
+{110}{}{[Dallas calmly looks into your eyes] I don't have his book. I'm not interested in science to such a degree.}
+{111}{012}{Do you know who might've took it?}
+
+{120}{}{[Dallas thinks for a second] Let's see... My parents did't take it for sure - they just don't need it. Fox also has no interest in science book. She likes to read only old magazines, mainly because of pictures. So - it's not McKinseys. Try ask other families - Hortons or Duntons. }
+{121}{023}{Tell me about your family.}
+{122}{019}{What can yu tell me about other families?}
+{123}{999}{I see. I'll go look somewhere else.}
+
+{130}{}{[Dallas leisurely starts talking] This vault was built around two hundred years ago. It's inhabited by four families - Schweins, Hortons, Duntons and us, McKinseys. We all are the descendants of famous people.}
+{131}{028}{I'd like to know more about Hortons.}
+{132}{022}{Tell me about Duntons.}
+{133}{021}{Can you tell me about Schweins?}
+{134}{023}{I want to learn about your family.}
+{135}{010}{I'll ask about something else.}
+
+{140}{}{[Dallas smiles] Dwellers of Livos is the sorrow and delight of this place. On one hand, there are many different characters and world-views. On the other, they vary in range from fanatics to schizophrenics.}
+{141}{018}{Who in Livos is the fanatic and who is schizophrenic?}
+{142}{019}{Tell me more about inhabitants.}
+{143}{016}{Oh yeah, since I have become the inhabitant of Livos, there's plus one more fanatic and schizophrenic!}
+{144}{015}{What the dwellers are busy with?}
+{145}{010}{I'd like to ask about something else.}
+{146}{999}{I've just remember I need to do something. We'll talk later.}
+
+{150}{}{Every family has responsibilities and sphere of influence. Who you want to know about - Schweins, Duntons, Hortons or us, McKinseys?}
+{151}{022}{Duntons.}
+{152}{028}{Hortons.}
+{153}{021}{Schweins.}
+{154}{023}{Tell me about your family.}
+{155}{010}{I'm not in the mood to talk about families. Let me ask something else.}
+{156}{999}{I don't have time to chat right now. I'd better go.}
+
+{160}{}{[Dallas didn't even flinch] I never doubted it. Only a psycho would run around Radius, which is full of danger, bandits and radiation. No offense.}
+{161}{017}{What if this psycho would want to cave your head in?}
+{162}{010}{Maybe. Let me ask something else.}
+{163}{999}{Yes, I'm a psycho. I'd better go, I think I'm being followed.}
+
+{170}{}{[Dallas makes a gesture with the palm of his hand] No need for aggression. Let's continue the conversation peacefully, without fights.}
+{171}{998}{It's too late for that! I'm gonna bash your brains out!}
+{172}{010}{Okay, I'm calm. I have other questions.}
+{173}{999}{I'm kinda edgy right now, so I'll go cool off a bit. Talk later.}
+
+{180}{}{[Dallas smiles] Oh, I can't deny you the pleasure of meeting them. You are going to like it, believe me.}
+{181}{019}{I want to know more about the dwellers.}
+{182}{010}{I'd like to ask about something else.}
+{183}{999}{I'll go look for them. See you.}
+
+{1901}{}{I don't think it would be right to talk details about this with... Non-locals. No offense.}
+{1902}{}{Livos is inhabited by four families - Schweins, Hortons, Duntons and us, McKinseys. Who do you want to know about?}
+{191}{023}{Tell me about your family.}
+{192}{022}{I want to know about Duntons.}
+{193}{021}{What do I need to learn about Duntons?}
+{194}{028}{Tell me about Hortons.}
+{195}{010}{Actually, I'd like to talk about something else.}
+{196}{999}{I'm not very interested to hear about it right now. I'll go.}
+
+{2001}{}{I'm not into rumors. If you want to talk about them, you'd better look for my sister Fox. She likes to blab. It pisses everyone around her, even me. Sometimes, she can stick to me and chirp without end. She is able to talk for hours and give zero useful information.}
+{201}{010}{Okay, I want to ask something else.}
+{202}{999}{I'll go speak to her. Want to learn more about local rumors.}
+{2002}{}{I'm not into rumors. If you want to talk about them, you'd better look for my sister Fox. Actually, for be able to do that, you should become the inhabitant of Livos. Edward decides who is worthy to live among us.}
+{203}{999}{So, it's all that I need to do then... See you around.}
+
+{210}{}{The Schweins are not doing anything helpful. Ludwig sits in his laboratory, trying to turn his fantasies into reality of material world. Cristopher is an average and greedy vendor, you could see him by the entrance. I can't stand him. Also, need to mention an old man Edward, who thinks that he is the most important person in the vault. When in fact, he just watches the entrance. Even the child could handle this job. Other ones are not worth mentioning.}
+{211}{022}{What can you tell me about Duntons?}
+{212}{028}{I want to know about Hortons.}
+{213}{023}{Can you tell me about your family?}
+{214}{029}{Why you don't like Christopher?}
+{215}{010}{Actually, I'd like to talk about something else.}
+
+{220}{}{Of all Dunton family, only Emily is worth mentioning. Bossy and arrogant bitch. Thinks she is better than everyone, when in reality she just has overblown self-esteem. She doesn't even take her husband for a living being, not mentioning the others. Emily gives speeches on the meetings, but for the most time, she is worthless.}
+{221}{021}{What can you tell me about Schweins?}
+{222}{028}{I want to learn about Hortons.}
+{223}{023}{Tell me about your family, McKinseys.}
+{224}{010}{I learned what I needed. Let me ask something else.}
+
+{230}{}{[Dallas smiles and proudly continues] It's no secret that our family is the most influential in Livos. We are responsible for the vitally important product - clean water. Nothing compares to this. The head of our family is Boston McKinsey, my father. I'm doing most of the work... Practically everything. Other members of our family you'd better meet personally.}
+{231}{024}{What exactly do you do here?}
+{232}{028}{Tell me about Hortons.}
+{233}{021}{What about the Schweins?}
+{234}{022}{I'd like to know about Duntons.}
+{235}{010}{Let's change the subject. I want to ask something else.}
+
+{2401}{}{[Dallas gives you a little smile] Why, patron, can't remember who's doing what? I deal in exports of drinkable water into settlements of Radius. I make contracts and manage the deliveries. With all gallantry, I can say that my job is the most important for survival of Livos. In exchange we get the canned food and other goods.}
+{2402}{}{[Dallas points into his papers] I deal in exports of drinkable water into settlements of Radius. I make contracts and manage the deliveries. With all gallantry, I can say that my job is the most important for survival of Livos. In exchange we get the canned food and other goods.}
+{241}{025}{I want to talk about water deliveries to the NWO.}
+{242}{042}{Can you sell me clean water?}
+{243}{010}{One more question.}
 
+{250}{}{[Dallas raises his eyebrow] Yeah? What's wrong with them? }
+{251}{026}{Water is not good. I want to find out why.}
+{252}{027}{The water tastes a little strange. I was asked to find out what's wrong. People are becoming nervous, if it continues - they won't buy as much as they used to. And that means your profits will drop significantly.}
 
+{260}{}{I won't talk details about water deliveries. If there's taste, then it should be like this. Period.}
+{261}{010}{Hm... Alright, I'll ask something else.}
 
-{1001}{}{Здравствуй, патрон. Хочешь о делах поговорить?}
-{1002}{}{Конечно, задавай свой вопрос.}
-{1003}{}{Здравствуй. Хочешь о делах поговорить?}
-{101}{011}{Я ищу учебник Людвига по волнологии. Он, случайно, не у тебя?}
-{102}{020}{Есть какие-нибудь слухи?}
-{103}{013}{Расскажи про это место. Что тут?}
-{104}{014}{Я хочу узнать больше о жителях этого места.}
-{105}{024}{В чем заключается твоя работа здесь?}
-{106}{025}{Я хочу поговорить еще раз о поставках воды в НМП.}
-{107}{036}{Я хочу поговорить о Миньон.}
-{108}{999}{Мне нужно идти, потом поговорим.}
+{270}{}{[Dallas scratches his chin] Well... We are definitely not interested in profit drops. Okay, I'll tell you about the taste. Due to the large quantities of exported water, we are concerned with stability of our water filter. So we resorted to backup option of water processing. We use carbon canisters, charcoal filters. Still, the filtration quality stays at highest level. You can tell them that our water is good. Nothing to worry about.}
+{271}{999}{Great, I'll tell them everything is alright.}
 
-
-
-{110}{}{[Даллас спокойно смотрит Вам в глаза] У меня нет учебника Людвига. Я не интересуюсь наукой в той степени, чтобы изучать научные книги.}
-{111}{012}{Ты не знаешь, кто мог бы его взять?}
-
-
-
-
-{120}{}{[Даллас на секунду задумался] Давай-ка порассуждаем. Мои родители не могли его взять, им он попросту не нужен. Фокс тоже не стала бы брать научную книгу. Она не любит читать ничего, кроме старых журналов. И то из-за больших цветных картинок. Больше чтением никто не увлекается. У семьи МакКинзи ты учебник не найдешь, спрашивай у остальных: Хортонов или Дантонов. }
-{121}{023}{Расскажи о своей семье.}
-{122}{019}{Что ты можешь рассказать о других семьях?}
-{123}{999}{Понятно. Пойду поищу в другом месте.}
-
-
-
-
-{130}{}{[Даллас неторопливо начал рассказывать] Это убежище было создано более двухсот лет назад. Здесь живут четыре семьи: Швайны, Хортоны, Дантоны и мы, МакКинзи. Мы все потомки древних и известных людей, которые основали это убежище.}
-{131}{028}{Я хочу узнать о Хортонах.}
-{132}{022}{Расскажи о Дантонах.}
-{133}{021}{Можешь рассказать о Швайнах?}
-{134}{023}{Я хотел бы узнать о вашей семье больше.}
-{135}{010}{Я задам другой вопрос.}
-
-
-
-
-{140}{}{[Даллас улыбнулся] Жители Лайвос - радость и беда убежища. С одной стороны, очень большое разнообразие характеров и мировоззрений. А с другой стороны, здесь живут люди от фанатиков до шизофреников.}
-{141}{018}{Кто в Лайвос фанатик и кто шизофреник?}
-{142}{019}{Расскажи о жителях подробнее.}
-{143}{016}{О, как только я стал одним из жителей Лайвос, у вас на одного шизофреника и фанатика стало больше!}
-{144}{015}{Чем занимаются жители Лайвос?}
-{145}{010}{Я еще хочу спросить.}
-{146}{999}{Я вспомнил об одном важном деле. Потом поговорим.}
-
-
-
-
-{150}{}{У каждой семьи своя сфера влияния и свои обязанности. О ком ты хочешь узнать: о Швайнах, о Дантонах, о Хортонах или о нашей семье МакКинзи?}
-{151}{022}{О Дантонах.}
-{152}{028}{О Хортонах.}
-{153}{021}{О Швайнах.}
-{154}{023}{Расскажи о вашей семье.}
-{155}{010}{Я не в настроении слушать о семьях, давай я о другом спрошу.}
-{156}{999}{У меня не особо много времени об этом говорить. Я пойду, поговорим об этом позже.}
-
-
-
-
-{160}{}{[Даллас даже бровью не повел, все так же спокойно продолжил] А я и не сомневаюсь. Бегать по Радиусу, полном опасностей, бандитов и радиации, может только псих. Без обид.}
-{161}{017}{А если этот псих захочет проломить тебе голову?}
-{162}{010}{Может, ты и прав. Давай я спрошу о других вещах.}
-{163}{999}{Да, я псих. Пойду я, а то мне кажется, что за мной следят.}
-
-
-
-
-{170}{}{[Даллас сделал останавливающий жест ладонью] Стоп, не надо никакой агрессии. Давай продолжим спокойно и без драки.}
-{171}{998}{Нет, уже поздно, я тебе сейчас мозги вышибу!}
-{172}{010}{Хорошо, я успокоился. Я хочу задать еще вопрос.}
-{173}{999}{Я сейчас на взводе, пойду успокоюсь. Потом поговорим.}
-
-
-
-
-{180}{}{[Даллас улыбнулся] О, удовольствие познакомиться с ними я оставлю тебе. Ты их не пропустишь, уж поверь мне.}
-{181}{019}{Я хочу узнать о жителях больше.}
-{182}{010}{Давай о другом спрошу.}
-{183}{999}{Пойду поищу их, пока.}
-
-
-
-
-{1901}{}{Я думаю не стоит распространяться об этом с... НЕ местными, понимаешь? Без обид.}
-{1902}{}{В Лайвос живет четыре семьи: Дантоны, Хортоны, Швайны и мы, МакКинзи. О ком ты хочешь узнать?}
-{191}{023}{Расскажи о своей семье.}
-{192}{022}{Хочу узнать о Дантонах.}
-{193}{021}{Что мне следует знать о Швайнах?}
-{194}{028}{Расскажи о Хортонах.}
-{195}{010}{Да на самом деле я хотел о другом спросить.}
-{196}{999}{Мне сейчас не очень интересно слушать об этом. Я пойду.}
-
-
-
-
-{2001}{}{Я слухи не распространяю. Если хочешь их обсуждать, то поговори с моей сестрой Фокс. Она любит трепать языком, уже всех достала. Иногда как прицепится, как начнет щебетать, не остановишь. Может часами говорить, а информации - ноль.}
-{201}{010}{Ок, я хочу у тебя еще спросить.}
-{202}{999}{Пойду поговорю с ней, хочу побольше слухов узнать.}
-{2002}{}{Я слухи не распространяю. Если хочешь их обсуждать, то поговори с моей сестрой Фокс. Правда, для этого, конечно же, ты должен стать жителем Лайвос. Эдуард определяет, кто достоин оказаться среди нас.}
-{203}{999}{Ага, дело-то за малым... Еще увидимся.}
-
-
-
-
-{210}{}{Семья Швайн ничем полезным не занимается. Людвиг сидит в своей лаборатории и пытается воплотить свои фантазии в материальном мире. Кристофер - посредственный и жадный торговец, ты его видел возле входа. Терпеть его не могу. Можно еще упомянуть старого никчемного Эдуарда, который мнит себя самым полезным человеком в убежище. А на деле он просто следит за входом, с этой работой даже ребенок справится. Об остальных Швайнах нечего даже и говорить.}
-{211}{022}{Что можешь о Дантонах рассказать?}
-{212}{028}{Расскажи о Хортонах.}
-{213}{023}{А о своей семье что можешь рассказать?}
-{214}{029}{Чем тебе не угодил Кристофер?}
-{215}{010}{Вообще-то, я о другом хочу спросить.}
-
-
-
-{220}{}{Из Дантонов можно выделить только Эмили. Властная и заносчивая стерва. Считает себя выше и лучше других, а на самом деле у нее просто слишком завышена самооценка. Она даже мужа своего за человека не считает, чего уж говорить о других жителях. Эмили ведет собрания, но толку от нее нет никакого.}
-{221}{021}{Что можешь о Швайнах рассказать?}
-{222}{028}{Я хочу услышать о Хортонах.}
-{223}{023}{Расскажи о своей семье, семье МакКинзи.}
-{224}{010}{Я узнал, что хотел, давай о другом спрошу.}
-
-
-
-
-{230}{}{[Даллас улыбнулся и с гордостью в голосе продолжил] Не секрет, что наша семья самая влиятельная в Лайвос. Мы отвечаем за самый важный продукт во всем Радиусе - за чистую воду. Это единственный источник жизни, по важности с ним ничто не сравнится. Глава нашей семьи - Бостон МакКинзи, мой отец. Я делаю практически всю полезную работу. С остальными членами нашей семьи тебе лучше познакомиться персонально.}
-{231}{024}{Какую работу ты выполняешь?}
-{232}{028}{Расскажи о Хортонах.}
-{233}{021}{Что делают Швайны?}
-{234}{022}{А что о Дантонах можешь сказать?}
-{235}{010}{Давай сменим тему, я о других вещах хочу спросить.}
-
-
-
-{2401}{}{[Даллас слегка улыбнулся] Что, патрон, не можешь запомнить, кто чем занимается? Я занимаюсь экспортом чистой питьевой воды в поселения Радиуса. Я заключаю договоры и организую процесс доставки воды. Фактически, без должной скромности, моя работа является самой главной для выживания Лайвос. Взамен мы получаем питательные смеси и другие товары.}
-{2402}{}{[Даллас указал на бумаги] Я занимаюсь экспортом чистой питьевой воды в поселения Радиуса. Я заключаю договоры и организую процесс доставки воды. Фактически, без должной скромности, моя работа является самой главной для выживания Лайвос. Взамен мы получаем питательные смеси и другие товары.}
-{241}{025}{Я хочу поговорить о поставках воды в НМП.}
-{242}{042}{Ты можешь мне продать чистую воду?}
-{243}{010}{Еще один вопрос.}
-
-
-
-
-{250}{}{[Даллас вопросительно приподнял бровь] Да? И что такое с поставками в НМП? }
-{251}{026}{Вода какая-то невкусная. Я должен выяснить, почему.}
-{252}{027}{Вода имеет непонятный привкус. Мне поручили узнать, что случилось. Люди нервничают и не хотят много заказывать, а значит, снизится прибыль.}
-
-
-
-
-{260}{}{Я не буду распространяться о поставках воды. Если привкус есть, так и должно быть, и точка.}
-{261}{010}{Хм... Ладно, о другом спрошу.}
-
-
-
-
-{270}{}{[Даллас задумчиво почесал подбородок] Хм... Если снизится прибыль, то нам это не выгодно. Хорошо, я расскажу тебе, почему вода имеет привкус. В связи с большими объемами экспорта мы опасаемся за наш водный фильтр. Поэтому мы прибегли к резервному способу фильтрации воды. Мы используем бочки с угольными фильтрами. Тем не менее, качество фильтрации остается на высоком уровне. Можешь передать, что вода безопасна, для беспокойства нет причин.}
-{271}{999}{Отлично, я передам, что все в порядке.}
-
-
-
-
-{280}{}{Глава семьи, Эштон Хортон, заведует ремонтом в убежище. Но серьезные поломки он исправить не может, только мелочевку. Он и его сестра, Клаудия, немного не в себе. Когда ты поговоришь с ними, ты поймешь, о чем я. [Голос Далласа немного задрожал, взгляд устремился в сторону] И Миньон, дочь Клаудии и покойного Питера... В семье шизофреников расцвел сказочный цветок...}
-{281}{030}{Я вижу, ты не равнодушен к Миньон.}
-{282}{021}{Расскажи о Швайнах.}
-{283}{022}{Что можешь рассказать о Дантонах?}
-{284}{023}{Можешь о своей семье рассказать?}
-{285}{010}{Я хочу другой вопрос задать.}
-
-
-
-{2901}{}{Он лез в наши отношения с Миньон, но теперь она станет моей женой. И это все благодаря тебе!}
-{2902}{}{[Он сжал кулаки] Кристофер лезет в наши отношения с Миньон Хортон! Тупой беспринципный торгаш!}
-{2903}{}{Этот подонок отбил у меня мою Миньон! Я его ненавижу!}
-{291}{030}{У тебя отношения с Миньон?}
-{292}{010}{Я хочу задать другой вопрос.}
-
-
-{300}{}{Да, я люблю Миньон, эту миленькую очаровательную белокурую красавицу... И я хочу жениться на ней. Но Кристофер Швайн лезет в наши отношения, он хочет у меня ее отбить! Этот наглый и жесткий человек не достоин быть мужем такой замечательной девушки!}
-{301}{031}{С кем хочет быть Миньон?}
-{302}{032}{Как ты ее хочешь добиться?}
-
-
-
-
-
-
-{310}{}{Она пока сама не знает, с кем хочет быть. Ей нравится, что за ней ухаживают и соревнуются за нее. }
-{311}{032}{Как ты за ней ухаживаешь?}
-
-
-
-
-
-
-{320}{}{Миньон любит романтику. Мы часами разговариваем с ней о чувствах, красивых вещах, мечтах, любви. Но еще ей нравятся прямолинейные и наглые мужчины. Кристофер обладает именно таким характером, хотя и двух слов не может связать. Если б я мог устроить романтический вечер специально для нее, она б точно сделала свой выбор в мою пользу. Либо надо сделать так, чтобы она начала ненавидеть Кристофера.}
-{321}{033}{Почему ты не устроишь такой вечер?}
-
-
-
-
-
-
-{330}{}{Дело в том, что у нас не осталось ни одного музыкального диска. Если бы я нашел несколько дисков с романтической музыкой, ее сердце принадлежало бы мне.}
-{331}{034}{Я могу поискать музыкальные диски для тебя. А что делать с Кристофером?}
-
-
-
-
-
-{340}{}{Кристофер ей нравится своей жесткостью и прямолинейностью. Хотя этот беспринципный подонок готов родную мать продать за пару лишних батареек. Он бывает вспыльчив, поэтому можно спровоцировать его на агрессию.}
-{341}{035}{Я хочу помочь тебе в этом деле.}
-{342}{010}{Я не хочу лезть в ваши любовные разборки. Давай поговорим на другую тему.}
-
-
-
-{350}{}{Ты мне поможешь? Отлично! Чтоб Миньон стала моей, убеди ее, что Кристофер Швайн ей не подходит, что он агрессивный и черствый болван. Либо принеси мне несколько романтических музыкальных дисков, и тогда она будет моей!}
-{351}{999}{Хорошо, я поищу диски или попробую убедить Миньон. До встречи.}
-
-
-
-
-{360}{}{Что ты о ней хочешь обсудить?}
-{361}{037}{Что ты просил сделать, чтобы вы были вместе?}
-{362}{038}{Я достал диски с романтической музыкой для вашего романтического вечера.}
-{363}{039}{Я поговорил с Миньон, она не желает больше видеть Кристофера. Вы можете быть вместе.}
-{364}{040}{Я разговаривал с Кристофером по поводу твоих отношений с Миньон.}
-{365}{010}{Сейчас ничего, я хотел о другом спросить.}
-
-
-
-
-{370}{}{Достань мне диски с музыкой или уговори Миньон отказаться от Кристофера. Возможно, стоит спровоцировать его на агрессию. }
-{371}{999}{Хорошо, я посмотрю, что можно сделать.}
-
-
-
-
-{380}{}{Отлично! Это то, что надо! Мы проведем незабываемый вечер с моей любимой Миньон, и тогда ничто не будет нам мешать быть вместе! Вот, возьми этот подарок от меня.}
-{381}{999}{Спасибо, Даллас. Будьте счастливы вместе.}
-
-
-
-
-{390}{}{Отлично! Это хорошие новости! Теперь мы будем вместе, и ничто не будет нам мешать! Вот, возьми этот подарок от меня.}
-{391}{999}{Спасибо, Даллас. Будьте счастливы вместе.}
-
-
-
-
-{400}{}{Что ты хочешь сказать?}
-{401}{010}{Ничего особенного. Давай я задам другой вопрос.}
-{402}{041}{Я тебе говорю, как другу. Кристофер хочет с тобой разобраться, чтобы ты не мешал ему и Миньон. Он готов устроить с тобой несчастный случай, и даже угрожал в открытую твоей жизни. Если ты не откажешься от Миньон, он начнет действовать.}
-
-
-
-
-{410}{}{[Голос Далласа задрожал] Черт... Я не справлюсь с этим подонком в открытой борьбе... Он легко сможет меня убрать с дороги своими грубыми методами... Если он угрожает моей жизни, то я откажусь от Миньон. Здоровье дороже.}
-{411}{999}{Я ему скажу, что ты не будешь вмешиваться. Я его отговорю от крайних мер. Я не допущу, чтоб ты пострадал. Пока, друг. }
-
-
-
-
-{420}{}{Я продаю воду оптом. Для своего пользования ты можешь взять сколько захочешь бесплатно. Хотя, ты можешь мне помочь в одном деле с водой.}
-{421}{043}{Чем я могу помочь?}
-
-
-
-
-{430}{}{Я испытываю новые способы фильтрации воды. [Он протягивает Вам бутылку с мутноватой жидкостью] Вот отфильтрованная вода. Попробуй и скажи, нормальная она или нет.}
-{431}{044}{Конечно, давай сюда. Я как раз хочу пить.}
-{432}{010}{Нет, спасибо, я не буду рисковать. Я лучше вопрос задам.}
-
-
-
-
-
-{440}{}{Отлично! На, держи.}
-{441}{045}{[Сделать маленький глоток]}
-{442}{048}{[Выпить половину бутылки]}
-{443}{051}{[Выпить бутылку целиком]}
-{444}{010}{Я передумал пробовать. Я лучше спрошу.}
-
-
-
-{450}{}{[Вода на вкус неприятная, но кроме вкуса никаких других последствий нет. Даллас выжидающе смотрит] Ну что? Как вода?}
-{451}{046}{Нормально, пить можно.}
-{452}{048}{Я не распробовал, выпью половину бутылки.}
-{453}{051}{Чтоб лучше распробовать, я выпью все без остатка.}
-{454}{047}{Нет, эта вода не подходит для продажи.}
-
-
-
-{460}{}{Хорошо! Вот тебе немного батареек за помощь. Эта вода пойдет в одно из поселений Радиуса.}
-{461}{010}{Спасибо. Теперь перейдем к вопросам.}
-
-
-
-
-{470}{}{Хм, очень жаль. Тогда отменим поставку этой воды в поселения Радиуса. Вот тебе немного батареек за помощь.}
-{471}{010}{Спасибо. Теперь перейдем к вопросам.}
-
-
-
-
-{480}{}{[Вода имеет неприятный вкус. Как только вы выпиваете половину бутылки, вам немного стало плохо. Даллас ждет Вашего ответа] Как вода? Нормальная?}
-{481}{051}{Я хочу допить воду до конца.}
-{482}{049}{Нормальная вода, можно продавать.}
-{483}{050}{Вода ужасная, мне немного стало плохо.}
-
-
-
-
-{490}{}{Хорошо! Вот тебе немного батареек за помощь. Эта вода пойдет в одно из поселений Радиуса.}
-{491}{010}{Спасибо. Теперь перейдем к вопросам.}
-
-
-
-
-{500}{}{Хм, очень жаль. Тогда отменим поставку этой воды в поселения Радиуса. Вот тебе немного батареек за помощь.}
-{501}{010}{Спасибо. Теперь перейдем к вопросам.}
-
-
-
-
-{510}{}{[Вам резко стало плохо. Когда Вы допили до конца, Вас вырвало] Эй, ты в порядке? Такую воду точно нельзя пускать в продажу! На, возьми несколько батареек за помощь. И вот тебе лекарство от отравления. }
-{511}{010}{Ффу-ух... ::отплеваться:: Спасибо... Теперь перейдем к вопросам.}
-
-{520}{}{Вы одобрили сомнительную воду. Возможно, кому-то станет от нее плохо.}
-{521}{}{Вы не одобрили сомнительную воду. Возможно, это кого-то спасет от отравления.}
-{522}{}{Вы одобрили явно плохую воду. Кому-то точно станет от нее плохо!}
-{523}{}{Вы не одобрили явно плохую воду. Это точно кого-то спасет от отравления!}
-{524}{}{Вы предотвратили попадание плохой воды в продажу. Это точно кого-то спасет от отравления!}
+{280}{}{Ashton Horton, the head of family, makes repairings in the vault. He can't fix serious ones though, only something little. He and his sister, Claudia, are a little off. You'll see what I mean when you talk to them. [His voice suddenly becomes shaky, eyes looking away] And there's Mignon, daughter of Claudia and deceased Peter... A beautiful flower, blooming in the family of schizophrenic...}
+{281}{030}{I see you have a thing about Mignon.}
+{282}{021}{Tell me about Schweins.}
+{283}{022}{What can you say about Duntons?}
+{284}{023}{Can you tell me about your family?}
+{285}{010}{I want to ask something else.}
+
+{2901}{}{He was getting in the way of our relationship with Mignon, but now she will be my wife. All of this - thanks to you!}
+{2902}{}{[He clenches his fists] Christopher is getting into our relationship with Mignon! Stupid, greedy haggler!}
+{2903}{}{This scumbag stole my Mignon! I hate him!}
+{291}{030}{You and Mignon - are you in relationship?}
+{292}{010}{I want to ask something else.}
+
+{300}{}{Yes, I'm in love with Mignon, cute little blonde beauty... And I want to marry her. But there's this Christopher Schwein, always getting in our way! He wants to steal her from me! This insolent and rough man doesn't deserve to be a husband of such an extraordinary girl!}
+{301}{031}{What does Mignon think? Who she wants to be with?}
+{302}{032}{How are you going to get her love?}
+
+{310}{}{She doesn't know yet. She likes the competition we have over her. }
+{311}{032}{How exactly are you going to make your move?}
+
+{320}{}{Mignon likes romantic things. We can talk for hours - about feelings, beauty, dreams, love. But she also likes straight-forward and brazen men. Christopher is exactly like this, despite not being able to put two words together. If only I could make a romantic evening for her... She would have definitely picked me over him. Or maybe I need her to start hating Christopher for something. That would work too.}
+{321}{033}{Why don't you organize such evening?}
+
+{330}{}{The thing is, we don't have any music disks left in the vault. If I would have found one CD with romantic songs, her heart would definitely be mine.}
+{331}{034}{I could try to look for such CD for you. And what about Christopher?}
+
+{340}{}{Christopher attracts her with his straight-forwardness and self-confidence. But in reality, this opportunistic scumbag is willing to sell his own mother for a couple of extra batteries. He tends to have a bit of a temper, so he can be provoked.}
+{341}{035}{I'd like to help you with this matter.}
+{342}{010}{I don't want to get involved into your love games. Let's change the subject.}
+
+{350}{}{You would? That's great! Convince Mignon that Christopher Schwein is not right for her, that he is an agressive and stale idiot. Or if you find any CD with romantic music, bring it to me!}
+{351}{999}{Okay, I'll remember that. See you around.}
+
+{360}{}{What do you want to talk about?}
+{361}{037}{What did you want me to do, so you and Mignon could be together?}
+{362}{038}{I've found music CD for your date.}
+{363}{039}{I talked to Mignon, she doesn't want to see Christopher anymore. Now you two can be together.}
+{364}{040}{I talked to Christopher about you and Mignon.}
+{365}{010}{Nothing for now. I'd like to ask something else.}
+
+{370}{}{Get me some music CDs or talk Mignon into leaving Christopher. Maybe you can even get him into aggression. }
+{371}{999}{I'll se what I can do.}
+
+{380}{}{Great! That's just what I need! We are going to have a wonderful evening with my lovely Mignon, it will be unforgettable! Here, take this present from me.}
+{381}{999}{Thanks, Dallas. Be happy together.}
+
+{390}{}{Great! That's great news! Now we are going to be a couple at last, nothing would get in our way! Here, take this present from me.}
+{391}{999}{Thanks, Dallas. Be happy together.}
+
+{400}{}{So? What are you trying to say?}
+{401}{010}{Nothing. Let me ask something else.}
+{402}{041}{I'm telling you this as a friend - Christopher wants to end you. So you wouldn't get in the way of him and Mignon. He would go as far as causing an accident, openly putting your life in danger, if you won't give up on Mignon.}
+
+{410}{}{[His voice trembles] Damn... I can't handle this bastard in a fight... He would easily take me out with brute force... If he plans to threaten my life, I'm going to leave Mignon alone. My life is more valuable to me.}
+{411}{999}{I'll tell him this. I'll talk him out of harming you, be sure about that. Bye, friend. }
+
+{420}{}{I sell water in large quantities. You can take any little amount you want for your personal use, free of charge. Also, I could use your help in one matter.}
+{421}{043}{What can I help you with?}
+
+{430}{}{I am currently testing some new methods of filtration. [He hands you the bottle filled with cloudy liquid] Here's the sample of processed water. Try it and tell me what you think.}
+{431}{044}{Sure, give it to me. I'm already thirsty.}
+{432}{010}{No, thanks, it looks very risky. I better ask a question.}
+
+{440}{}{Great! Here.}
+{441}{045}{[take a sip]}
+{442}{048}{[drink half a bottle]}
+{443}{051}{[drink the whole bottle]}
+{444}{010}{I changed my mind. I'd better ask something.}
+
+{450}{}{[This water tastes not very good, but except that you feel no other effects. Dallas patiently looks at you.] So? How is it?}
+{451}{046}{It's okay. Drinkable.}
+{452}{048}{I didn't quite get it, let me try half a bottle.}
+{453}{051}{To give you an opinion, I need to drink it whole.}
+{454}{047}{No, I think you can't sell this.}
+
+{460}{}{Good! Here's some batteries for your efforts. This water will be delivered into one of the Radius settlements.}
+{461}{010}{Thanks. Onto the questions.}
+
+{470}{}{That's a pity. Then we'll cancel the shipment of this water into Radius settlements. Here's some batteries for your efforts.}
+{471}{010}{Thanks. Onto the questions.}
+
+{480}{}{[Water has a very unpleasant taste. Just as you finish to drink half of the bottle, you feel sick. Dallas waits for your answer.] So? How is it?}
+{481}{051}{I want to drink it to the bottom.}
+{482}{049}{The water is okay, you can sell it.}
+{483}{050}{This is awful, I feel sick.}
+
+{490}{}{Good! Here's some batteries for your efforts. This water will be delivered into one of the Radius settlements.}
+{491}{010}{Thanks. Onto the questions.}
+
+{500}{}{That's a pity. Then we'll cancel the shipment of this water into Radius settlements. Here's some batteries for your efforts.}
+{501}{010}{Thanks. Onto the questions.}
+
+{510}{}{[You suddenly feel VERY sick. Just as you finish the bottle, you instantly throw up] Hey, are you alright? This water definitely can't be put on the market. Here, take some batteries for your efforts. And here's the cure from poisoning. I think you need it. }
+{511}{010}{Yuck... [spit] Thanks... Now, onto the questions.}
+
+{520}{}{You approved the water of questionable quality. Probably, someone is going to get sick.}
+{521}{}{You didn't approve the water of questionable quality. Maybe you've just saved someone from poisoning.}
+{522}{}{You approved the water of poor quality. Someone is definitely going to get sick!}
+{523}{}{You didn't approve the water of poor quality. You've definitely saved someone from poisoning!}
+{524}{}{You prevented the delivery of bad water to the market. It will definitely save someone from poisoning!}

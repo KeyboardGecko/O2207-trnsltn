@@ -1,5 +1,5 @@
 ##############################
-#Локация: ЛАЙВОС
+#Локация: Livos
 #Имя: Людвиг Швайн 
 #Краткое описание: Изобретатель и техник Швайнов
 #Дата создания: 23.08.2014
@@ -11,301 +11,226 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Опрятный мужчина.}
-{2}{}{Он периодически достает из кармана старые очки и изучает чертежи, после чего аккуратно все возвращает на свои места.}
+{1}{}{You see a tidy-looking man.}
+{2}{}{He periodically takes out a pair of old glasses from his pocket and looks through them at the blueprints.}
 #
 # после знакомства
-{3}{}{Вы видите: Людвиг Швайн.}
-{4}{}{На его физиономии словно написано "не беспокоить".}
+{3}{}{You see Ludwig Schwein.}
+{4}{}{His face clearly says "do not disturb".}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Перед Вами пожилой мужчина. Он занят своим делом и не обращает на Вас никакого внимания] }
-{11}{002}{Привет. Я здесь недавно, изучаю Лайвос.}
-{12}{002}{Привет. Ты меня слышишь?}
-{13}{002}{Привет. Эй, я к тебе обращаюсь!}
+{10}{}{[You see an elderly man. He is busy with his business and doesn't pay you any attention.] }
+{11}{002}{Hello. I'm here recently, looking around Livos.}
+{12}{002}{Hello. Do you hear me?}
+{13}{002}{Hello. Hey! I'm talking to you!}
 
 
+{20}{}{[He doesn't react at all.]}
+{21}{003}{Hello, I say! I'm new around here! I want to talk.}
+{22}{004}{Heeey! Hello! Do you hear me!?}
+{23}{005}{Heeey! Are you deaf or something? [give him a little push]}
+{24}{006}{Heeey! MAN! ARE YOU DEAF? [kick him]}
 
 
-{20}{}{[Он никак не реагирует]}
-{21}{003}{Я говорю привет! Я новенький в Лайвос, хочу поговорить.}
-{22}{004}{Э-э-эй! Привет! Ты меня слышишь!?}
-{23}{005}{Э-э-эй! Ты что, глухой? [Легонько толкнуть]}
-{24}{006}{Э-э-эй! Мужик! Ты оглох? [Пнуть ногой]}
+{30}{}{[Still no answer.]}
+{31}{004}{HELLO! I WANT TO TALK!}
+{32}{005}{Hello! [pat his shoulder]}
+{33}{006}{Hey! Look at me when I'm talking to you! [give him a hard push]}
 
 
+{40}{}{[He doesn't even turn his head to you] Get out, I'm busy.}
+{41}{005}{I need to talk! Spare me a minute.}
+{42}{006}{I won't go anywhere until we talk! Hear me?}
+{43}{007}{Are you out of your mind? Turn around, I'm talking to you!}
 
 
-{30}{}{[По-прежнему никакой реакции]}
-{31}{004}{[Громко] Привет! Я хочу поговорить!}
-{32}{005}{Привет! [Похлопать по плечу]}
-{33}{006}{Привет! Повернись, когда я с тобой говорю! [Сильно толкнуть]}
+{50}{}{[He angrily turns to you] I am so sick of the morons who interrupt my work! What do you want?}
+{51}{009}{I'm new in Livos. I want to talk.}
+{52}{007}{I want to take a look at your face before punching it.}
+{53}{008}{Watch your mouth, old man. Or it could be your last words.}
+
+{60}{}{[He angrily turns to you and starts shouting] Who the hell do you think you are?! What are you doing here?!}
+{61}{009}{I want to talk!}
+{62}{007}{I'm teaching the local idiots to be polite! With my fists!}
+{63}{008}{I came to beat the shit out of you!}
 
 
+{70}{}{The hell do you want from me? Here, take this and let me work! [he gives you a bottle with something]}
+{71}{009}{That's better. And now I want to talk.}
+{72}{008}{What? I am going to stick this up you ass!}
 
 
-{40}{}{[Не поворачиваясь в Вашу сторону] Пошел вон, я занят.}
-{41}{005}{Я хочу поговорить! Отвлекись на минуту.}
-{42}{006}{Я не уйду, пока не поговорю! Слышишь?}
-{43}{007}{Ты охренел? Повернись, я с тобой говорю!}
+{80}{}{[He makes a move towards you] That's it, I'm going to tear your tongue out, asshole!}
+{81}{998}{Come on, try!}
 
 
-
-
-{50}{}{[Он со злостью резко поворачивается] Как же меня достали все эти уроды! Совсем работать не дают! Что надо?}
-{51}{009}{Я в Лайвос недавно. Хочу поговорить.}
-{52}{007}{Хочу увидеть твою рожу, прежде чем ее набить.}
-{53}{008}{Повежливей, старикан, а то это будут твои последние слова!}
-
-
-
-
-{60}{}{[Он резко повернулся и начал кричать, брызжа слюной] Да кто ты такой? Какого хрена ты тут делаешь?}
-{61}{009}{Я поговорить хочу!}
-{62}{007}{Учу вежливости всяких уродов! Кулаками!}
-{63}{008}{Пришел выбить из тебя дерьмо!}
-
-
-
-
-{70}{}{Да какого хрена тебе надо от меня? На, возьми, и не мешай мне работать! [Отдает какую-то бутылку]}
-{71}{009}{Так-то лучше, а теперь я хочу поговорить.}
-{72}{008}{Я ее сейчас тебе в задницу засуну!}
-
-
-
-
-{80}{}{[Он начинает двигаться в вашу сторону] Ну все, сейчас я тебе язык оторву, урод!}
-{81}{998}{Ну давай, попробуй!}
-
-
-
-
-
-{90}{}{Я не говорю с кем попало! Для начала представься!}
-{91}{011}{Я }
+{90}{}{I don't do conversations with just anybody! Name yourself, for a start!}
+{91}{011}{I'm }
 {92}{011}{.}
-{93}{013}{Альцгеймер Паркинсон.}
-{94}{014}{Зеленый Человечек.}
-{95}{015}{Это не важно. Называй меня как хочешь.}
-{96}{016}{Представься сначала ты.}
+{93}{013}{Alzheimer Parkinson.}
+{94}{014}{Little green man.}
+{95}{015}{My name is not important. Call me as you like.}
+{96}{016}{You first.}
 
 
 
-{1001}{}{Командир, говори, что надо. У меня нет времени трепаться.}
-{1002}{}{Говори, что надо! У меня нет желания с тобой трепаться целый день! }
-{1003}{}{[Людвиг неохотно отрывается от своего занятия] Ну что еще?}
-{101}{017}{Расскажи об убежище Лайвос.}
-{102}{018}{Я хочу узнать про жителей Лайвос.}
-{103}{022}{Чем ты тут занимаешься?}
-{104}{028}{По поводу учебника по волнологии...}
-{105}{Barter}{Покажи, какие пушки у тебя есть.}
-{106}{036}{У меня есть новости из Олимпа...}
+{1001}{}{Tell me what's your business to me, commander. I have no time to chat with you.}
+{1002}{}{Tell me what do you want! I can't spend my time chatting with you all day! }
+{1003}{}{[Ludwig reluctantly stops what he was doing] What?!}
+{101}{017}{Tell me about the Livos vault.}
+{102}{018}{I want to know about the Livos inhabitants.}
+{103}{022}{What do you do here?}
+{104}{028}{About your book of wave science...}
+{105}{Barter}{Show me what guns do you have.}
+{106}{036}{I have some news from the Olympus...}
 {107}{999}{0}
 {108}{999}{0}
-{109}{999}{Нет, ничего. Мне уже пора идти.}
+{109}{999}{No, nothing. I have to go.}
 
 
+{110}{}{I know. I've heard that there's a newcomer. I'm Ludwig Schwein. What do you want?}
+{111}{010}{Answers to a few questions.}
+{112}{012}{You knew? Why did you ask then?}
+{113}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
 
+{120}{}{Because I felt like it! If you don't like something - get the hell out and don't talk to me!}
+{121}{010}{Wait, I just wanted to ask something.}
+{122}{999}{Yeah, I'll better go.}
 
 
-{110}{}{Я знаю. Мне говорили, что у нас новый житель. Я Людвиг Швайн. Что надо?}
-{111}{010}{Задать пару вопросов.}
-{112}{012}{Ты знал? Зачем тогда спрашивал?}
-{113}{999}{Что-то я не хочу дальше с тобой разговаривать.}
+{130}{}{Do you take me for a fool? I am old, sure, but I don't have neither Alzheimer, nor Parkinson's! I know who you are, I was told. I'm Ludwig Schwein. What do you want?}
+{131}{010}{To ask a few questions.}
+{132}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
 
+{140}{}{Each of you, who come outside, always tries to come up with some loud pseudonym. I know who you are, I was told. I'm Ludwig Schwein. What do you want?}
+{141}{010}{To ask a few questions.}
+{142}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
+{150}{}{I'm going to call you an idiot! Do you really think you could came in here, if I didn't know who you are? I was told already! I'm Ludwig Schwein. What do you want?}
+{151}{010}{To ask a few questions.}
+{152}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
-{120}{}{Мне так захотелось! Не нравится - вали отсюда и не мешай!}
-{121}{010}{Подожди, я просто спросить хочу кое о чем.}
-{122}{999}{Да уж, лучше я пойду.}
+{160}{}{[He stares at you] Good. I'm Ludwig Schwein. And I know who you are, I was told. What do you want?}
+{161}{010}{To ask a few questions.}
+{162}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
 
+{170}{}{Why don't you try to find out yourself? Go and do that! I'm not a local guide, I have a things to do!}
+{171}{018}{At least tell me about the inhabitants of this place.}
+{172}{022}{What are you so busy with?}
+{173}{999}{Okay, I'll go.}
 
 
-{130}{}{Думаешь, я дурак? Я хоть и стар, у меня нет ни болезни Альцгеймера, ни болезни Паркинсона! Я знаю, кто ты, мне уже сообщили. Я Людвиг Швайн. Что хотел?}
-{131}{010}{Хочу задать вопрос.}
-{132}{999}{Что-то мне не хочется больше разговаривать, я пойду.}
 
 
+{180}{}{I don't care about any of them! They are only good while they don't distract me from doing my work. I'm not interested in interacting with them, running around, being loud and useless... Christopher buys the parts and materials I need, the rest is none of my concern. }
+{181}{019}{You don't talk to anyone?}
+{182}{021}{What can you tell me about your family?}
 
 
-{140}{}{Вы, приходящие снаружи, вечно придумываете себе громкие прозвища. Я знаю, кто ты, мне уже сообщили. Я Людвиг Швайн. Что хотел?}
-{141}{010}{Хочу задать вопрос.}
-{142}{999}{Что-то мне не хочется больше разговаривать, я пойду.}
+{190}{}{[Ludwig makes a contemptuous face] Who to talk here to? Look around - they are all complete idiots! Only Ashton Horton has some resemblanse of minimal technical skills, but even he is sick in the head! He thinks he lives in a Horton's hotel! A hotel! And he probably thinks that he is in charge for the whole vault.}
+{191}{020}{And who is actually in charge?}
+{192}{032}{Did you try talking to someone not from Livos? Maybe random stranger will turn out to be an expert.}
 
 
+{200}{}{All of us here are in charge. But most of others only waste resources. Only we, Schweins, are truly beneficial to the place.}
+{201}{022}{And what exactly you do here?}
+{202}{021}{What can you tell about other Schweins?}
+{203}{010}{Okay, I want to ask about something alse.}
 
 
-{150}{}{Я буду называть тебя идиотом! Думаешь, ты бы прошел сюда, если б я не знал, кто ты такой? Мне уже сообщили. Я Людвиг Швайн. Что хотел?}
-{151}{010}{Хочу задать вопрос.}
-{152}{999}{Что-то мне не хочется больше разговаривать, я пойду.}
+{210}{}{Our family is the most important. I'm busy with inventing new weapons, my son Christopher is doing external trades, and my brother Edward provides security of the entrance. We could easily do without other families. And my wife, Veronica, would handle all other matters.}
+{211}{022}{What weapons are you inventing?}
+{212}{010}{I want to ask about something else.}
 
 
+{220}{}{[Ludwig points to a table, littered with spare parts and schematics] I specialize in laser and plasma weaponry. Currently I'm studying plasma energy, more exactly - principles of wave science.}
+{221}{024}{And? How is the study going?}
+{222}{035}{Emily Dunton gave me the task of cleaning the cave from monsters. Could you arm me with laser rifle for this mission?}
+{223}{033}{I'm actually very good with tech, so I could help you with optimisation process of plasma weaponry.}
 
 
-{160}{}{[Он пристально на Вас смотрит] Хорошо. Я Людвиг Швайн. И я уже знаю, кто ты такой, мне уже сообщили. Что хотел?}
-{161}{010}{Хочу задать вопрос.}
-{162}{999}{Что-то мне не хочется больше разговаривать, я пойду.}
+{230}{}{[Ludwig thinks] Hm... That's actually a good idea. I'd like to obtain the results of some field testings of this weapon, so I could upgrade the model. Here, return to me with the report when you finish. }
+{231}{010}{Great. I'll gather the data and return. The most difficult part of the report would be "problems and nuances after ten years of usage". Let's talk about something else.}
 
 
+{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! No good! Someone of this morons stole my book of wave science! They won't even understand a thing from it! Idiots! How do I continue my work?!}
+{2402}{}{With the book of wave science, my study of plasma energy processes is going quite well! Thanks for bringing it back.}
+{241}{026}{I could look for the book. I'll ask around and find out who could do it.}
+{242}{025}{Who could do such a thing?}
+{243}{010}{Let's talk about something else.}
 
 
-{170}{}{А ты сам посмотреть не можешь, что ли? Иди изучай, я не собираюсь экскурсии водить! Мне есть чем и без тебя заняться.}
-{171}{018}{Расскажи хотя бы про жителей.}
-{172}{022}{А чем ты занят?}
-{173}{999}{Хорошо, пойду изучать.}
+{250}{}{I don't know, anyone! I know for sure that it's not one of our family. We don't get on the way of each other. }
+{251}{026}{I could help with searching. I'll talk with others and find out who could have it.}
+{252}{010}{Let's change the subject.}
 
 
+{260}{}{[His eyes glimmer with hope] You want to help me? Good, very good. I don't care how you do it, but if you will actually find it, I'll allow you to buy some of my weaponry. The best ones. And you'll have a special gift.}
+{261}{027}{I'll look for it. What's that gift?}
 
 
-{180}{}{Да мне плевать на них! Лишь бы работать не мешали. Только орут, как дикие, и нихрена не делают. Я не хочу видеть никого из них. Кристофер покупает для меня нужные материалы, остальное меня не интересует. }
-{181}{019}{Ты ни с кем не общаешься?}
-{182}{021}{Что о своей семье можешь рассказать?}
+{270}{}{[He slightly smiles] I put a lot of batteries into this thing when I was young. But now it's not very likely I'll ever use it. Find the book, you'll see what it is.}
+{271}{010}{Okay. But I have some other questions.}
+{272}{999}{I'll go do that right now. Bye.}
 
 
+{280}{}{[Ludwig grabs your hand] Did you find it?! Give it to me!!}
+{281}{029}{No, not yet. Remind me, where could I look?}
+{282}{030}{Yes, I have it. Here.}
 
 
-{190}{}{[Людвиг скривил презрительную гримасу] А с кем здесь общаться? Ты посмотри: они же полные идиоты! Только у Эштона Хортона есть минимальные навыки в ремонте, но он больной на всю голову! Он считает, что живет в отеле Хортонов! В отеле! И наверняка считает себя владельцем всего этого убежища.}
-{191}{020}{А кто на самом деле владелец?}
-{192}{032}{А ты пробовал общаться с другими людьми, не из Лайвос? Может, случайный прохожий окажется хорошим специалистом.}
+{290}{}{Why the hell are you interrupting me then!! Some idiot from Livos stole it! Talk them into returning, find it in some drawer, you can even shoot someone if that helps. But find me the book!!}
+{291}{999}{Okay, I'll go looking.}
 
 
+{300}{}{[Ludwig practically rips the book from your hands] Yes! Yes!! Here it is!! Now I can continue my research! Take this, just as I promised [Ludwig gives you a piece of map]. And you can now have access to my best stock.}
+{301}{031}{What is it? A map?}
 
 
-{200}{}{Мы здесь все владельцы Лайвос. Но большинство только расходует ресурсы, и только мы, Швайны, делаем что-то ценное.}
-{201}{022}{И что ты делаешь?}
-{202}{021}{Что ты можешь рассказать о других Швайнах?}
-{203}{010}{Хорошо, я задам еще вопрос.}
+{310}{}{Edward bought it. He thought it was some schematics, so he sold it to me eventually. Probably it's a piece of map, showing how to get to the Renaissance, a city of wonders. I've heard that it has clean water, fresh air. A whole city untouched by the war! I wanted to find it myself when I was younger, but now I never will. If you do, remember your old friend, who gave this to you.}
+{311}{Barter}{Of course. And now show me what you have in stock.}
+{312}{999}{Thanks for the map. I'll come by later.}
 
+{320}{}{I don't have time to leave Livos and chat with some vagabonds. I got out only once, to the trading quarters by the entrance. I chose myself someone to marry. Edward gathered some girls for me and I picked the best. That's how Veronica became my wife.}
+{321}{010}{I see. Another question then.}
 
 
+{330}{}{[Ludwig starts to dig through his drawings and documents] I do have one schematics here, which is missing a vital fragment. Take a look. Could you advise something?..}
+{331}{034}{[you discuss the weapon scheme for some time, exchanging ideas and making calculations]}
 
-{210}{}{Наша семья - самая важная в Лайвос. Я занимаюсь изобретением нового оружия, мой сын Кристофер занимается торговлей с внешним миром, а мой брат Эдуард охраняет вход. Мы бы запросто справились и без других семей. А моя жена, Вероника, легко справилась бы со всем остальным.}
-{211}{022}{Какое оружие ты изобретаешь?}
-{212}{010}{Я хочу узнать кое-что другое.}
 
+{340}{}{[In the end you gave Ludvig some pointers to solving his problems. After that Ludwig completely threw himself into work.]}
+{341}{999}{[Leave him alone]}
 
+{350}{}{[Ludwig starts to wave hands] No, no-no-no! I need my weapons for research and development!}
+{351}{023}{Maybe I could help with it then. I am ready to do a field testing of weapon prototype and return with full report about its characteristics.}
 
+{360}{}{News? From Olympus? [he looks fascinated] What are you saying?}
+{361}{037}{I have a proposition for you... Uh, to go there and, erm... Do a little science work. Let's go?}
+{362}{038}{The main researcher of the Olympus wants to consult with you on the matter of some new weapon.}
+{363}{999}{Nothing, only that it's calm and peaceful in there. We'll talk later.}
 
-{220}{}{[Людвиг указывает в сторону стола, заваленного запчастями и схемами] Я занимаюсь разработкой лазерного и плазменного оружия. В данный момент я изучаю плазменную энергию на принципах волнологии.}
-{221}{024}{Как продвигается изучение?}
-{222}{035}{Эмили Дантон дала мне задание очистить пещеру от живности. Можешь дать мне лазерную винтовку для этого поручения?}
-{223}{033}{Я хорошо разбираюсь в технике, могу помочь с оптимизацией процессов в плазменном оружии.}
 
+{370}{}{So what you really proposing is that I leave this secure and protected vault for some shady job? No way, thank you!}
+{371}{010}{No means no. I'd like to ask something else.}
+{372}{999}{Okay, as you wish.}
 
 
+{380}{}{Sounds very tempting! It is quite risky, of course, but... I am a scientist, damn it! I should take risks! Lead the way!}
+{381}{999}{Good, we are leaving immediately. Follow me.}
+{382}{}{You conveniently stick the syringe into Ludwig's hip. Frowning from pain for a couple of seconds, he suddenly looks at you with eyes full of loyalty.}
 
-{230}{}{[Людвиг задумался] Хм... А это хорошая идея. Я хотел бы получить отчет о полевых испытаниях лазерной винтовки. После этого я смогу доработать и улучшить модель. На, возьми, как только проведешь все испытания, принеси отчет. }
-{231}{010}{Отлично. Как только я соберу статистику, я ее верну. Основным испытанием будет "Отказы и поломки за 10 лет работы". Давай поговорим на другую тему.}
+{383}{}{::murmuring::}
+{384}{}{...What? ...Where? ...N-no...}
+{385}{}{I... I'm here... And now I'm...}
+{386}{}{Who's there? Oh, yes, of course... Yeah...}
+{387}{}{Nowhere... Always here...}
+{388}{}{[gives a faithful look]}
 
-
-
-
-{2401}{}{[Людвиг яростно ударил по столу кулаком] Да в том-то и дело, что никак! Какой-то идиот украл у меня учебник по волнологии! Они же нихрена в нем не поймут! Идиоты! Как мне теперь продолжать работу?}
-{2402}{}{С учебником по волнологии изучение процессов плазменной энергии ускорились! Спасибо, что вернул книгу.}
-{241}{026}{Я могу поискать учебник. Поговорю и выясню, кто это сделал.}
-{242}{025}{Кто это мог сделать?}
-{243}{010}{Давай о другом поговорим.}
-
-
-
-{250}{}{Да кто угодно! Знаю, что не из нашей семьи. Мы друг другу не мешаем заниматься своими делами. }
-{251}{026}{Я могу помочь с поиском. Поговорю с другими жителями и выясню, кто его мог взять.}
-{252}{010}{Давай сменим тему.}
-
-
-
-
-{260}{}{[В глазах Людвига промелькнула надежда] Ты хочешь помочь найти учебник? Хорошо, очень хорошо. Мне все равно, как ты его достанешь, делай что хочешь. Если найдешь, я тебе позволю купить кое-что из моего лучшего оружия. И один ценный подарок.}
-{261}{027}{Я поищу его. А что за ценный подарок?}
-
-
-
-
-{270}{}{[Людвиг слегка улыбнулся] Я отвалил за эту вещь кучу батареек, когда был молод. Но теперь я вряд ли ей воспользуюсь. Найди учебник, и я отдам тебе ее.}
-{271}{010}{Хорошо, но для начала я еще спрошу.}
-{272}{999}{Начну поиски прямо сейчас. Пока.}
-
-
-
-
-{280}{}{[Людвиг схватил Вас за руку] Ты нашел его? Где он? Давай его сюда!}
-{281}{029}{Пока не нашел. Напомни, где его можно найти?}
-{282}{030}{Да, учебник у меня. На, держи.}
-
-
-
-
-{290}{}{Так какого хрена ты меня отвлекаешь! Какой-то идиот из Лайвос у меня его украл. Уговори их отдать, укради, найди в ящике, можешь даже пристрелить кого-нибудь, если это поможет. Но учебник верни!}
-{291}{999}{Хорошо, я пойду искать.}
-
-
-
-
-{300}{}{[Людвиг хватает учебник] Да! Вот он! Теперь мои исследования продолжатся! На, держи, как я  и обещал [Людвиг отдает кусок карты]. И можешь посмотреть мои разработки.}
-{301}{031}{Что это за карта?}
-
-
-
-
-
-{310}{}{Эту карту купил Эдуард. Он думал, что это чертеж, и продал мне. Я выяснил, что это - карта Ренессанса, города-рая. Я слышал, там чистая вода, свежий воздух. Огромный город, не тронутый войной! Я хотел его найти, когда был молод, но теперь уже никогда не найду. Если ты найдешь его, не забудь про своего старого друга, который тебе ее вручил.}
-{311}{Barter}{Хорошо, а теперь давай посмотрим, что у тебя есть.}
-{312}{999}{Я позже зайду, спасибо за карту.}
-
-
-
-
-{320}{}{У меня нет времени выходить из Лайвос и разговаривать с бродягами. Я только один раз выходил в Торговую Палату, чтобы жениться на Веронике. Эдуард собрал несколько девушек для меня, чтобы я выбрал лучшую. Так Вероника стала моей женой.}
-{321}{010}{А, понятно, тогда другой вопрос.}
-
-
-
-
-{330}{}{[Людвиг начал копаться в схемах] Есть у меня одна старая схема, у которой не хватает одного фрагмента. Посмотри, можешь ли ты что-нибудь посоветовать...}
-{331}{034}{[Вы некоторое время изучаете схему, высказывая предположения и производя расчеты]}
-
-
-
-
-{340}{}{[Вы посоветовали Людвигу несколько вариантов решения проблемы. Людвиг с головой окунулся в работу]}
-{341}{999}{[Оставить его в покое]}
-
-
-
-
-
-{350}{}{[Людвиг отрицательно замахал руками] Нет-нет-нет, мое оружие нужно мне для исследований и изучения!}
-{351}{023}{Тогда я могу помочь тебе в изучении оружия. Я готов испытать образец и представить полный отчет по характеристикам.}
-
-
-
-{360}{}{Новости? Из Олимпа? [он явно заинтригован] Что ты хочешь этим сказать?}
-{361}{037}{Есть предложение... Ну-у, отправиться туда, и... вроде как немного там поработать... Пойдем?}
-{362}{038}{Главный изобретатель Олимпа хочет с тобой проконсультироваться по поводу какого-то нового оружия.}
-{363}{999}{Ничего, просто что там все хорошо и спокойно. Потом поговорим.}
-
-
-{370}{}{То есть ты предлагаешь мне выйти из надежного, защищенного убежища ради какой-то сомнительной работы? Ну уж нет, ни за что!}
-{371}{010}{Конечно, отказаться - твое право. Я хотел еще спросить.}
-{372}{999}{Хорошо, как знаешь.}
-
-
-{380}{}{Да-да, звучит очень заманчиво! Это, конечно, довольно рискованно, но... Я же ученый, черт побери! Я должен рисковать! Идем!}
-{381}{999}{Отлично, выдвигаемся прямо сейчас. Следуй за мной.}
-{382}{}{Вы удачно вогнали шприц Людвигу в бедро. Поморщившись пару секунд от боли, он вдруг взглянул на Вас полными преданности глазами.}
-
-{383}{}{::бормотание::}
-{384}{}{...что? ...куда? ...не-ет...}
-{385}{}{Я... я здесь... а теперь я...}
-{386}{}{Кто тут? Ах да,-да, конечно... да...}
-{387}{}{Никуда... Всегда здесь...}
-{388}{}{[смотрит преданным взглядом]}
-
-{389}{}{Идем же, идем скорее!}
-{390}{}{Ну долго нам еще? Сколько можно в конце концов!?}
-{391}{}{Помнишь, ты обещал познакомить меня с профессором!}
+{389}{}{Come on, let's go! Hurry!}
+{390}{}{For how much longer? When!?}
+{391}{}{Do you remember that you promised to introduce me to the scientist?}

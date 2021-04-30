@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see: clone of Beatris.}
-{2}{}{Amazing! She was created with the clothes on!}
+{1}{}{You see a clone of Beatris.}
+{2}{}{Amazing! She was cloned together with her clothes!}
 #
 # после знакомства
 #
-{3}{}{You see: ???.}
+{3}{}{You see a ???.}
 {4}{}{::описание::}
 {5}{}{I... I remember only seeing dr. Moro and bright lights.}
 {6}{}{What am I doing here? Is the experiment over?}

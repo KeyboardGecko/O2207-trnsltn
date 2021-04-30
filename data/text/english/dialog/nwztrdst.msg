@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: trader.}
-{2}{}{You see: a junk dealer.}
-{3}{}{You see: merchant.}
-{4}{}{You see: merchant from NWO.}
-{5}{}{You see: trader.}
+{1}{}{You see a trader.}
+{2}{}{You see a junk dealer.}
+{3}{}{You see a merchant.}
+{4}{}{You see a merchant from NWO.}
+{5}{}{You see a trader.}
 {6}{}{A common-looking junk trader.}
 {7}{}{Just a merchant selling all kinds of stuff.}
 {8}{}{A dweller of NWO. He trades in everything.}
@@ -35,7 +35,7 @@
 #
 {10}{}{Of course, I don't have many rarities, but I assure you, you won't be disappointed!}
 {11}{}{Don't forget to check out our custom-made ammo, made by craftsmen from all corners of Radius!}
-{12}{}{Oooh! I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
+{12}{}{I recognize you as a person who could appreciate little useful things, which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{No, I really need to go.}
 {15}{}{Why the hell are your ammo so expensive?}
@@ -59,7 +59,7 @@
 {1003}{}{Huh?}
 {1004}{}{Just go away.}
 {1005}{}{Don't bother me, I need to rest...}
-{1006}{}{What else do you need?}
+{1006}{}{What do you need?}
 {1007}{}{[grins]}
 {1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
@@ -70,7 +70,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Just turn around and walk away!}
 {1015}{}{Don't bother me, I need to rest...}
-{1016}{}{What else do you need?}
+{1016}{}{What do you need?}
 {1017}{}{...All sorts of scum walking around...}
 {1018}{}{Leave me be, I have a work to do!}
 {1019}{}{Get lost!}
@@ -99,7 +99,7 @@
 # Отрицательные сообщения
 {1040}{}{Keep your hands to yourself, shmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

@@ -11,82 +11,75 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: паренек с широко открытыми глазами.}
-{2}{}{Его одежда выглядит паршиво. Впрочем, как и многое здесь.}
+{1}{}{You see a kid with eyes wide open.}
+{2}{}{His clothes look lousy. As many things around here.}
 #
 # после знакомства
-{3}{}{Вы видите: Генри.}
-{4}{}{Его одежда выглядит паршиво. Впрочем, как и многое здесь.}
+{3}{}{You see Henry.}
+{4}{}{His clothes look lousy. As many things around here.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{Мистер, вы же не местный, да? [паузы паренек не делал, видно боялся, что вы уйдете так и не дослушав его до конца] Да что я спрашиваю, я ж местный, всех знаю. Меня, кстати, Генри зовут. Генри, вот... и нам очень нужна помощь! [смотрит он на Вас щенячьими глазами]}
-{11}{002}{"Нам"?}
-{12}{004}{Помочь?}
-{13}{005}{Рассказывай давай, только не тараторь. Обстоятельно и по порядку.}
-{14}{999}{Не, пацан. Отвали.}
+{10}{}{Mister, you are not from around here, aren't you? [he doesn't pause, as if being afraid that you'll go away not listening to him] Why do I even ask, I know every local, I'm from here myself. Name's Henry, by the way. Henry... And we need help! [he looks at you with his big puppy eyes]}
+{11}{002}{"We"?}
+{12}{004}{Help?}
+{13}{005}{Tell me. Not so hastily though. Slowly, in details.}
+{14}{999}{Nah, kid. Get lost.}
 
 #Node002
-{20}{}{Ну, Бекки, Санни и ее папа. Они мои друзья и они попали в беду!}
-{21}{005}{Рассказывай давай, только не тараторь. Обстоятельно и по порядку.}
-{22}{003}{Не, пацан. Благотворительной помощью не занимаюсь. Обратись к городским стражникам.}
+{20}{}{Well, uh, Becky, Sunny and her dad. They are my friends, and they are in trouble!}
+{21}{005}{Tell me. Not so hastily though. Slowly, in details.}
+{22}{003}{Nah, kid. I don't do charity helping. Talk to the town guards.}
 
 #Node003
-{30}{}{Но я пытался! Они не помогут...}
-{31}{005}{Ну блин. Ладно, давай, рассказывай. }
-{32}{999}{Ну а мне-то что? Отвали.}
+{30}{}{I tried! They won't help me...}
+{31}{005}{Oh, man. Okay, talk. }
+{32}{999}{Why should I care? Get lost.}
 
 #Node004
-{40}{}{Да! Мои друзья в опасности! Они решили рискнуть жизнями из-за твердолобости местных жителей. И решили это сделать слишком давно... Их нужно спасти!}
-{41}{005}{Воу-воу, с твоим напором нужно барыжить. Давай обстоятельно и по порядку.}
-{42}{003}{Не, пацан. Благотворительной помощью не занимаюсь. Обратись к городским стражникам.}
+{40}{}{Yes! Uh, my friends are in danger! They decided to risk their lives, because the locals are so stubborn! And they are gone for a long time... They need to be rescued!}
+{41}{005}{Whoa kid, you shoud do trading with your commitment. Tell me. Slowly, in details.}
+{42}{003}{Nah, kid. I don't do charity helping. Talk to the town guards.}
 
 #Node005
-{50}{}{[парень перевел дыхание и собрался с мыслями] В общем, в НМП еще недавно жили чужаки. Ну как, они не чужаки, они хорошие. Но местным было плевать. Пока ты не загубишь здоровье во благо поселения - на тебя будут смотреть свысока. Так было и с ними. Дошло до того, что им не давали работы, на которой можно заработать хоть что-то кроме надломанного здоровья. Торгаши завышали цены, а жители словно их не замечали. Я по дурости им рассказал о Пирсон-Таун. Ну что я за дурак...}
-{51}{006}{Пирсон-Таун?}
-{52}{007}{А я как погляжу, у вас дружелюбие цветет и пахнет.}
+{50}{}{[The kid catches his breath, gathering thoughts] Okay, here's the thing, not long ago there was a family of outsiders living here in NWO. I mean, they are good people, but the locals never cared, because if you didn't ruin your health for the good of the settlement - you're going to be looked down upon here. So it was with them. Got to a point where they couldn't get any job which gives you anything except worsening your health. The traders put up high prices for them, the locals didn't help either. So, I told them about Pearson Town, stupid me...}
+{51}{006}{Pearson Town?}
+{52}{007}{I see folks are quite friendly around here.}
 
 #Node006
-{60}{}{Пирсон-Таун... это хорошо сохранившийся город. Чего не скажешь о тех, кто там обитает. Говорят, там в войну была какая-то мощная энергостанция, но  после того как ее разбомбили, город больше не трогали. Ну, если верить россказням стариков. [пацан замялся] И относительно целый город накрыло толстое одеяло радиации, а потом там появились монстры и Безумные. У нас всегда были проблемы с медикаментами, но там они сохранились из-за обстоятельств в довольно приличном виде. Ну и в большом объеме. Было несколько вылазок, но безуспешных. Я и рассказал сдуру про это место девочкам, когда они в очередной раз вернулись вечером ни с чем.}
-{61}{008}{Ты им рассказал про это место? Зачем?}
+{60}{}{Pearson Town is a little, well-preserved settlement, if you don't take into account those who inhabit it. Some say that there was a power plant there, but after it was bombed, no one was willing to go into the place... If you believe the stories of an old men. [the kid stumbles] So, mostly intact town was covered with a cloud of radiation, and then there appeared Ferals, monsters and other bad stuff. And we always had a problems with medical supplies around here, but there, presumably, could be enough of them, remained from before the war. A lot. Some people ventured into it, searching - but were unsuccessful. So I told girls about the place.}
+{61}{008}{You told them? Why?}
 
 #Node007
-{70}{}{Да. Зато если ты становишься частью НМП - ты можешь быть уверен, что ты член семьи и что за тебя будут стоять все жители.}
-{71}{006}{А что ты говорил про Пирсон-Таун?}
+{70}{}{Well, yeah. But if you are part of NWO, you can be sure that everyone would stand for you. You are a part of the family.}
+{71}{006}{What were you saying about Pearson Town?}
 
 #Node008
-{80}{}{Ну, не совсем я. Бекки поранилась где-то, а Гиндер прогнал ее. Сказал, что на таких шавок как она, у него нет лекарств. И что он бы ее не стал лечить, даже если бы она принесла бинты из самого Пирсон-Тауна. Бекки рассказала об этом Санни, а Санни спросила у меня, что это за место. Ну я и рассказал. Дурак.}
-{81}{009}{Значит, они направились в Пирсон-Таун за медикаментами, в надежде что их наконец примут в НМП как своих?}
+{80}{}{Uh, well, not exactly me. Becky got hurt once, came to doctor Hinder, but he chased her away. He told her that he doesn't have a medicines for such lowlife as her. And that he wouldn't help her even if she'd brought the band-aids from the Pearson Town itself. Becky spoke with Sunny, and Sunny asked me about the place. And I told her. Stupid.}
+{81}{009}{So, they headed into Pearson Town for medical supplies in hope of being accepted into NWO?}
 
 #Node009
-{90}{}{Да.}
-{91}{012}{Господи, о чем они думали?}
-{92}{012}{Это гениально. Учитывая, что с этим не справились ваши патрульные и искатели.}
-{93}{011}{Ясно. Есть что добавить?}
+{90}{}{Yes.}
+{91}{012}{What the hell were they thinking?}
+{92}{012}{This is genius. Considering the other ones from here couldn't handle it - guards, prospectors...}
+{93}{011}{I see. Have something to add?}
 
 #Node010
-{100}{}{Мистер, вы передумали? Вы нам поможете?}
-{101}{999}{Нет, я просто прогуливаюсь.}
-{102}{005}{Давай, освежи-ка мне память. Расскажи все с самого начала.}
-{103}{}{Мистер, как там дела с поиском моих друзей?}
-{104}{999}{В процессе, Генри, в процессе.}
-{105}{}{Мистер... Вы... лучший человек во всем НМП. Я никогда этого не забуду. Жаль мне совсем нечего вам дать за помощь. Но... однажды я смогу вернуть долг. Однажды я обязательно это сделаю. А пока... пока я буду молиться за Вас. Спасибо.}
-{106}{999}{Удачи, парень! И не рассказывай больше о всяких опасных местах своим друзьям.}
-
-
-
-
-
-
-
+{100}{}{Mister, did you change your mind? Will you help us?}
+{101}{999}{No, I was just walking by.}
+{102}{005}{Let's refresh my memory. Tell me everything from the beginning.}
+{103}{}{Mister, how's the search for my friends going?}
+{104}{999}{In the process, Henry. In the process.}
+{105}{}{Mister... You... You are the pest person in the whole NWO! I will never forget that! It's a pity I have nothing to give you for my gratitude.... But... Someday I'll repay my debt. I definitely will. And for now... I'll be praying for you. Thank you.}
+{106}{999}{Good luck, kid! And don't tell your friends about dangerous places anymore.}
 
 #Node011
-{110}{}{Мистер, боюсь мне нечего предложить вам за спасение моих друзей. И за них никто не предложит. В НМП всем плевать. Но... я буду молиться за вас каждый день, если вы поможете. Я... пожалуйста, помогите.}
-{111}{999}{Ладно, парень. Я посмотрю, что можно сделать [взять координаты Пирсон-Тауна]}
-{112}{999}{Не, пацан. Благотворительной помощью не занимаюсь. Так что звиняй. Может в другой раз.}
-{113}{999}{За молитву? За мамашу свою помолись. А я и пальцем не пошевелю бесплатно.}
+{110}{}{I'm afraid, mister, I have nothing to offer you in return. And no one will. No one cares in NWO. But I can pray for you. I... Help me, please!}
+{111}{999}{Okay, kid. I'll se what I can do [take the coordinates of Pearson Town]}
+{112}{999}{Nah, kid. I don't do charity helping. Sorry. Maybe some another time.}
+{113}{999}{Pray? I can pray myself. So I won't do nothing without proper payment.}
 
 #Node012
-{120}{}{Все, что они хотели - быть принятыми... но... [парень тяжело вздохнул]}
-{121}{011}{Ясно. Есть что добавить?}
+{120}{}{All they ever wanted is to be accepted... But... [the kid sighs]}
+{121}{011}{I see. Have something to add?}

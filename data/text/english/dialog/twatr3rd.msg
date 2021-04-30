@@ -24,8 +24,8 @@
 #
 {1}{}{You see a resident of Tartarus.}
 {2}{}{You see a dweller of Tartarus.}
-{3}{}{You see water servant.}
-{4}{}{You see water carrier.}
+{3}{}{You see a water servant.}
+{4}{}{You see a water carrier.}
 {5}{}{You see a local.}
 {6}{}{A common man, no more, no less.}
 {7}{}{He is dressed in a spangling zipped jumpsuit. You immediately want one like that.}
@@ -46,9 +46,9 @@
 {19}{}{}
 #
 {100}{}{Hi, kid! Looking for something?}
-{101}{}{Uhh... Yeah, I'm looking for someone who's responsible for that broken water-filtering device.}
+{101}{}{Uhh... Yeah, I'm looking for someone who's responsible for that broken water filtering device.}
 {102}{}{No, It's nothing...}
-{110}{}{You can check the label number. Oh, you must be talking about the one which has none... Brook, Katie's dad, works on that. Strange, I haven't seen him here in a couple of weeks...}
+{110}{}{You can check the label number. Oh, you must be talking about the one which has none - he's on Brook, Catty's dad. Strange, I haven't seen him here for a couple of weeks already...}
 {111}{}{Oh, thanks!}
 {112}{}{I see, just as I thought.}
 #
@@ -61,29 +61,29 @@
 {1004}{}{I would gladly stop and chat... But let's do it some other time.}
 {1005}{}{So good to see you!}
 {1006}{}{Wanna chat? Suit yourself.}
-{1007}{}{Listen, I've stashed something for you. Let's talk later, okay?}
+{1007}{}{Listen, I've stashed something for you. Okay, let's talk later.}
 {1008}{}{Heeey, did you come to help me here? I'm kidding, relax.}
 {1009}{}{No sweat! Come back anytime!}
 # Нейтральные сообщения
 {1010}{}{Don't get in my way, I'm busy.}
 {1011}{}{Can't you see? I have no time to spare.}
 {1012}{}{Hey! I'm trying to make these damn mechanisms here to work again!}
-{1013}{}{Listen, maybe not now, okay?}
+{1013}{}{Listen, maybe not now? Good.}
 {1014}{}{Instead of bugging me with questions, you'd better carried over those canisters with water.}
-{1015}{}{Listen, don't bother me, let me rest a little.}
-{1016}{}{You'd better help, I'm already strained.}
+{1015}{}{Listen, don't touch me, let me rest a little.}
+{1016}{}{You'd better helped, I'm already strained.}
 {1017}{}{...to carry this canisters again...}
-{1018}{}{Why? Why do these filters always smoke???}
-{1019}{}{Oh. Listen, let's talk a litte later, 'mkay?}
+{1018}{}{Dang it! Why do these filters always smoke like that?}
+{1019}{}{Oh... Listen, let's talk a little later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
 {1022}{}{Better don't take your chances, you freak!}
 {1023}{}{Screw you!!!}
-{1024}{}{Make it like a tree and leave!}
+{1024}{}{Make like a tree and get out of here.}
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
-{1026}{}{Get the fuck out of my sight!}
+{1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спец сообщения ()

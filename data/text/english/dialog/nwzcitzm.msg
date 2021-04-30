@@ -21,15 +21,15 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: мужчина.}
-{2}{}{Вы видите: житель НМП.}
-{3}{}{Вы видите: мужичок.}
-{4}{}{Вы видите: рабочий.}
-{5}{}{Вы видите: местный.}
-{6}{}{Он выглядит неважнецки.}
-{7}{}{Его одежда сильно изношена и вся в машинном масле.}
-{8}{}{Видимо, он много работает, и мало отдыхает.}
-{9}{}{Он весь в машинном масле и... крови.}
+{1}{}{You see a man.}
+{2}{}{You see an inhabitant of NWO.}
+{3}{}{You see a fellow.}
+{4}{}{You see a worker.}
+{5}{}{You see a local.}
+{6}{}{He doesn't look too good.}
+{7}{}{His clothes are battered and covered with oil.}
+{8}{}{Looks like he works a lot and rests a little.}
+{9}{}{He is covered in oil and... Blood?}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
@@ -46,43 +46,43 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Xэ-эй, дружище!}
-{1001}{}{Приветствую! Как делища?}
-{1002}{}{Здравствуй! Как на счет свежей порции мяска?}
-{1003}{}{О! Приветствую! Может хочешь консерву по-дружбе?}
-{1004}{}{Я бы с радостью поболтал, но... Давай в другой раз.}
-{1005}{}{Рад тебя видеть!}
-{1006}{}{Приятно видеть тебя! Вот только закончу тут...}
-{1007}{}{Конечно, чем смогу - помогу!}
-{1008}{}{Здорово, что ты здесь!}
-{1009}{}{Я очень рад, что ты с нами!}
+{1000}{}{Hey, buddy!}
+{1001}{}{Howdy! How are you doing?}
+{1002}{}{Hey there! Want some fresh meat?}
+{1003}{}{Oh, hey! Wanna try some fresh meat?}
+{1004}{}{I would glagly stop and chat, but... Let's do it another time.}
+{1005}{}{So glad to see you!}
+{1006}{}{Nice to see you! Just let me finish here...}
+{1007}{}{Of course, I'll help with what I can!}
+{1008}{}{So good you're here!}
+{1009}{}{I'm happy that you are with us!}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Эй, я же работать тут пытаюсь!}
-{1012}{}{Пнринеси-ка лучше во-он тот рулон жести.}
-{1013}{}{Слушай, давай не сейчас, а? Вот и хорошо.}
-{1014}{}{О-ох, знаешь, эти консервы сами собой не сделаются!}
-{1015}{}{Нет, это просто кровь лавашей. Да, точно.}
-{1016}{}{Может лучше за меня постоишь у конвеера?}
-{1017}{}{...эта работа никогда не кончится...}
-{1018}{}{Лучше бы помог, чем приставать.}
-{1019}{}{Нет. Мне некогда! Я закручиваю консервы, сам же видишь!}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Hey, I'm trying to work here!}
+{1012}{}{Better fetch me that roll of tin.}
+{1013}{}{Listen, maybe not now? Good.}
+{1014}{}{Oh. You know, these cans won't roll themselves!}
+{1015}{}{No, it's Lavash blood. Yes, I'm sure.}
+{1016}{}{Maybe you'd better stand by the conveyor instead of me?}
+{1017}{}{...This work never ends...}
+{1018}{}{You'd better helped, instead of bothering me.}
+{1019}{}{No. No time! I roll food into cans, you see?}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшол нах!!!}
-{1024}{}{Крути педали, пока не дали...}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошол вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::хр-р-р-р-пиу-у-у...::}
-{1031}{}{::м-м-м-а-а-м-м...::}
-{1032}{}{::м-у-у-а-а-а-м-м-м...::}
-{1033}{}{::а-а-р-р-х-х-р-р-р-ю-у...::}
+{1030}{}{::Zzzzz...::}
+{1031}{}{::Hrmhmmmhm...::}
+{1032}{}{::Mmmmnmrm...::}
+{1033}{}{::Uuuhmrmrm...::}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
@@ -91,26 +91,26 @@
 {1039}{}{}
 #СТАНДАРТНЫЕ
 #ГГ стал Руководителем НМП
-{1040}{}{Черт возьми, это большая честь для меня!}
-{1041}{}{У меня есть просьба. Несколько. У Вас есть минутка-другая?}
-{1042}{}{Я точно знаю, как нужно управлять! Хотите дам пару советов?}
-{1043}{}{Народу виднее, уж поверьте!}
-{1044}{}{Эх, помню как давно давал Марку советы... чтобы он без меня делал?}
+{1040}{}{God dammit, It's such a big honor to me!}
+{1041}{}{I have a request. Several, actually. Do you have a minute?}
+{1042}{}{I know for sure how this town should be run! Want some advices?}
+{1043}{}{People know best, be sure about that!}
+{1044}{}{I remember how I used to give advices to Mark... What he would have done without me?}
 #Мертвяк Сэм стал Руководителем
-{1045}{}{Какого хрена ЭТО делает на посту руководителя?}
-{1046}{}{Ну да, он мудрый. Но он - мерзкий трупак.}
-{1047}{}{Он же не будет прислушиваться к народу... он будет делать как надо...}
-{1048}{}{Лучше бы я стал руководителем. Уж я-то знаю как навести порядок...}
-{1049}{}{Пфф... демократию, млять, развели. Вы еще женщину руководить поставьте...}
+{1045}{}{What the hell is THIS thing doing in a Mayor's chair?}
+{1046}{}{Yes, he's wise. But he is a filthy corpse.}
+{1047}{}{He won't listen to the people... Instead, he will make things right...}
+{1048}{}{It would be better if I became the Leader. I know how to impose order...}
+{1049}{}{Pffft... Some friggin' democracy right there. What's next? A woman in charge?}
 #Даниэль (сын Марка) стал Руководителем
-{1050}{}{Знаешь, а мне нравится Даниель. Я умнее его.}
-{1051}{}{Да этот Даниель только и может, что шататься с этим Арсэном... какой из него руководитель?}
-{1052}{}{Даниель-то, наверное, даже не слыхал о заветах Первого.}
-{1053}{}{Я не удивлюсь, если этот мальчишка отправит всех наших охранииков в налет на Псов.}
-{1054}{}{Лучше бы выборы провели...}
+{1050}{}{You know, I actually like Daniel. I'm much smarter than him.}
+{1051}{}{All this boy Daniel can do is to hang out with his buddy Arsene... What kind of Leader is that?}
+{1052}{}{I bet Daniel never even heard of the First Leader's Testaments.}
+{1053}{}{I won't be surprised if this boy sends all our guards to fight the Jackals.}
+{1054}{}{Would be better to put an election...}
 #Марк умер, нового Руководителя нет
-{1055}{}{Хреново... Марк умер, ты слышал?}
-{1056}{}{Что с нами будет?}
-{1057}{}{Пусть земля ему будет пухом...}
-{1058}{}{Я очень надеюсь, что все нормализуется.}
-{1059}{}{Мы слабы без руководителя...}
+{1055}{}{It sucks... Did you hear that Mark died?}
+{1056}{}{What will happen to us now?}
+{1057}{}{Rest in peace, Leader...}
+{1058}{}{I am hoping that everything will be alright.}
+{1059}{}{We are so weak without a Leader...}

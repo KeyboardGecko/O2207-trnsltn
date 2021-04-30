@@ -11,106 +11,106 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: Нервный парень.}
-{2}{}{Он настолько бледный, что будто светится.}
+{1}{}{You see a nervous man.}
+{2}{}{He is so pale that it looks like he's glowing.}
 #
 # после знакомства
-{3}{}{Вы видите: Фред.}
-{4}{}{Параноидально осторожный бывший Пес.}
+{3}{}{You see Fred.}
+{4}{}{A paranoid ex-Jackal.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Мучнисто-бледный худощавый парень  в клепаной кожанке с многочисленными выцветшими нашивками о чем-то спорит с высокой рыжеволосой девушкой. Увидев вас, он торопливо тащит пистолет из-за ремня, но задевает спуск и едва не простреливает себе ногу. От этого он белеет еще сильнее, но все же кое-как наводит трясущимися руками ствол в вашем направлении. Вы замечаете расплывчатое "ФРЕД", набитое на фалангах пальцев обеих рук] Ты! Стой, где стоишь! Какого хрена тебе здесь нужно? Как ты нашел это место?!}
-{11}{011}{Слушай, клоун, если ты не спрячешь ствол, я тебе его в задницу поперек засуну. Пока мне нужна от вас только информация, но это может измениться в любой момент.}
-{12}{011}{Эй! Полегче, ок? Я, вообще-то, только пару вопросов вам задать хотел.}
-{13}{999}{Я сейчас спокойно уйду, а ты возьми себя в руки. Не пугай девушку...}
+{10}{}{[You see skinny man, pale as a ghost, dressed in a riveted jacket with lots of labels; he's having a heated argument with a tall, red-haired girl. Seeing you he nervously rushes to pull out his pistol, almost pulling trigger in the process and barely avoiding shooting himself in the leg. It makes him turn even more white, but he still manages to point gun in your direction, holding it with both trembling hands. You notice letters "FRED" tattoed on his knuckles of both hands.] Stay where you are! What the hell do you want here? How did you find this place?!}
+{11}{011}{Listen here, clown, If you'll keep waving the piece like that, I'm gonna stick it up your ass. For now I need only information, but it can change at any moment.}
+{12}{011}{Hey, easy, alright? I just want to ask a couple of questions, that's all.}
+{13}{999}{I'm going to calmly leave now. And you pull yoursef together. Don't scare a girl.}
 
 
-{1001}{}{[Испуганно вздрагивает, но тут же принимает грозный вид. При этом косится в сторону девушки, проверяя, заметила ли она его страх] Для всех будет лучше, если ты свалишь отсюда побыстрее. Или до тебя с первого раза туго доходит?}
-{101}{012}{Уйду, когда сочту нужным. Пока ответь-ка мне на пару вопросов.}
-{102}{019}{Я закончил с минами.}
-{103}{016}{Насчет балахона все в силе? Или ты сам минами решил заняться?}
-{104}{999}{Не дергайся, мне нужно здесь осмотреться. Скоро я вас покину. }
-{1002}{}{[Кивает вам с кислой улыбкой] А, крутой... И откуда ты на мою голову взялся? }
-{105}{012}{Да тебе судьбу благодарить за меня надо! Ладно, скажи-ка мне лучше вот что...}
-{106}{999}{Скоро разбежимся, не боись. Ты меня своим нытьем уже достал.}
-{107}{999}{Не переживай так, в ближайшее время я вас покину. Только закончу одно дело.}
+{1001}{}{[He starts to shiver frightened, but almost immediately takes on intimidating look. He glances on a girl, checking if she saw his fear] It would be better for everyone if you'll just go away now, fast. Do I need to repeat that?}
+{101}{012}{I leave when I want to. For now aswer some questions.}
+{102}{019}{I'm done with the mines.}
+{103}{016}{Are we good about the robe deal? Or you decided to take on the mines yourself?}
+{104}{999}{Don't twitch, I need to look around. I'll leave you soon. }
+{1002}{}{[Nods to you with a weak smile] Oh, mr. Cool guy... Why the hell did you drop on my head?.. }
+{105}{012}{Actually, you should be grateful. Better tell me this...}
+{106}{999}{We'll part ways soon, don't sweat. I'm already tired of your whining.}
+{107}{999}{Don't worry, I'll leave you in some time. Only need to finish one thing.}
 
 
-{110}{}{[Он медленно опускает пистолет и съеживается, будто в ожидании удара. Вы замечаете, как девушка при этом недовольно морщится] Дерьмо химерово... Я уж подумал, что Псы до меня добрались. Но если ты не из них, это еще не значит, что тебе здесь кто-то рад, понял? Че ты хотел-то от нас, кстати?}
-{111}{013}{Ты в свое время нашел один балахон с надписью NCASTR. Надеюсь, он еще у тебя?}
-{112}{021}{Как вы двое здесь оказались?}
-{113}{020}{А чего ты так из-за Псов все переживаешь?}
-{114}{999}{Пока ничего, мне надо осмотреться.}
+{110}{}{[He slowly puts the gun down and shrivels, as if waiting for a strike. You notice displeased look on the girl's face as she sees it] Chimera's shit... I thought it's the Jackals came for my head. Still, if you are not one of them, it doesn't mean you are welcomed here, got it? What did you want, by the way?}
+{111}{013}{You have found a robe with NCASTR logo some time ago. Do you still have it?}
+{112}{021}{How you two ended up here?}
+{113}{020}{Why are you so worried about Jackals?}
+{114}{999}{Nothing for now, I need to look around.}
 
 
-{120}{}{[С несчастным видом смотрит на свою спутницу, но она упорно не хочет встречаться с ним взглядом] Ну спрашивай, все равно ведь не отстанешь. Мало мне Псов - ты еще нарисовался...}
-{121}{013}{Ты в свое время нашел один балахон с надписью NCASTR. Надеюсь, он еще у тебя?}
-{122}{021}{Как вы двое здесь оказались?}
-{123}{020}{А чего ты так из-за Псов все переживаешь?}
-{124}{999}{Чуть позже, мне надо осмотреться.}
+{120}{}{Okay, ask. It's not like you are going anywhere. As if the Jackals are not enough for me...}
+{121}{013}{You have found a robe with NCASTR logo some time ago. Do you still have it?}
+{122}{021}{How you two ended up here?}
+{123}{020}{Why are you so worried about Jackals?}
+{124}{999}{Later, I need to look around.}
 
 
-{130}{}{[Фред выглядит слегка удивленным] Балахон? Ну да, есть такой. У жмурика одного позаимствовал. Хороший прикид - трупак-то сгнил совсем, да и кротокрысы обглодали неслабо, а ему хоть бы что. Тебе-то он зачем?}
-{131}{014}{Уверен - мне этот балахон нужнее, чем тебе.}
-{132}{012}{Поговорим об этом позже, у меня есть еще вопросы.}
-{133}{999}{Скоро узнаешь. Как только я вернусь.}
+{130}{}{A robe? Yeah, I have it. Took it from the corpse. The body was completely rotten and partially eaten by molerats, but strangely enough, the robe wasn't affected in the slightest. Why do you ask?}
+{131}{014}{I am sure I need this robe more than you.}
+{132}{012}{We'll talk about this later. I have other questions.}
+{133}{999}{You'll know soon. When I'll come back.}
 
 
-{140}{}{[С задумчивым видом скребет щетинистый подбородок] Нуу... Это че - память о твоем дохлом дядюшке? Хотя, мне-то что?  Так-то без проблем, только окажи мне одну услугу.}
-{141}{015}{Что? Какую еще услугу?}
+{140}{}{[He thoughtfully scratches his chin] Is it, like, a memorabilia? A dead relative or something? Although, why do I care. No problem, but I need a favor from you.}
+{141}{015}{Favor? What favor?}
 
 
-{150}{}{[Воровато оглядывается на девушку и говорит вполголоса] Тут такое дело... Как только мы здесь тормознулись, я вокруг дома мин накидал. Сам понимаешь - Псы, да еще и бестии тут частенько шатаются. Но... [Шмыгает носом со смущенным видом] Торопился я немного, зарыть-то их зарыл... Там бестия нарисовалась, я в дом и рванул... Чтоб Кристи мою защитить, не подумай ниче! [Похоже, девушка его  все-таки слышала. Она раздраженно пинает пустую консервную банку и уходит в дальний угол, наградив Фреда далеко не ласковым взглядом. Тот лишь вздыхает и продолжает обычным тоном] В общем, пока то да се, я и сам забыл, где мины поставил. Вот с этим ты мне и помоги - проложи дорогу через поле, там всего-то штук пять отрыть и придется.}
-{151}{016}{И только? Так че ж сам-то этим не займешься?}
-{152}{024}{Мне тебя урыть проще, мудила ты грешный. И я не бестия, от меня не спрячешься...}
-{153}{999}{Надо все обдумать... Поговорим позже.}
+{150}{}{[He looks back on the girl and lowers his voice] That's the thing... When we settled here, I laid some mines around the house. You know, Jackals and such... Plus, the Onca Devils often come around. So, uh... [he embarrassingly sniffles] when I was finishing placing the mines, I noticed some Onca Devils and accelerated into the house... to protect Christie, don't take me wrong! [seems like the girl heard him, after all. She gives Fred a cold look, irritatingly kicks an empty can and walks away into farther corner of the room. Fred sighs] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Make us some path through the field. You would need to dig up only around five of them.}
+{151}{016}{That's it? Why don't you do it yourself then?}
+{152}{024}{It is easier for me to kill you off, you asshole. And you can't hide from me, I'm not an Onca Devil...}
+{153}{999}{I need to think it over... Talk later.}
 
 
-{160}{}{Да я хотел, только вот руки все не доходят... Тут это... По дому столько дел, ага. [Его сожительница издает возмущенный возглас, но потом лишь безнадежно машет рукой]}
-{161}{999}{Ладно, я согласен. Скоро вернусь. Надеюсь, не по частям...}
-{162}{024}{Больно сложно с тобой. Я лучше сделаю то, до чего у Псов руки не дошли - окрашу этот мир твоей кровью. }
-{163}{017}{Хей, зачем упускать такой шанс отличиться перед Кристи? Ты же хочешь, чтобы она смотрела на тебя другими глазами? Это ж тебе не бестию голыми руками заломать - всего-то в земле немного покопаться. Девушкам нравятся мужики, готовые рискнуть ради них шкурой, уж поверь моему опыту. }
-{164}{999}{Понятно... Я прикину кое-что и продолжим разговор.}
+{160}{}{I wanted to, but uh, didn't have time... There is, uh... So much to do, you know. Housekeeping. [the girl makes a chuckle, but then looks at him and just sighs.]}
+{161}{999}{Okay, I'll do it. Be back soon. In one piece, I hope.}
+{162}{024}{So many problems with you. I'll better do what Jackals couldn't - paint this walls with your blood.}
+{163}{017}{Hey, why do you want to miss the chance of showing Christie who you really are? You do want her to look at you differently, right? And it's not about killing an Onca with bare hands - just to dig around for a little. Girls like men who ready to take risks for them, believe my experience.}
+{164}{999}{I see... I'll think about something and we'll continue the conversation.}
 
 
-{170}{}{[Похоже, вы сумели задеть его за живое] Это... Драть меня сзади, в чем-то ты прав. Конечно, я это могу... Только...[Вы какое-то время любуетесь борьбой самомнения с осторожностью] А, да хрен с ним, сделаю все сам! [Хватает какой-то инструмент со стола и торопится уйти, пока не передумал. Вы и Кристи с интересом прислушиваетесь, ожидая взрыва, но вместо этого в дом вваливается еще более бледный и взволнованный Фред. На его лице, как приклеенная, застыла неестественная улыбка]}
-{171}{018}{Ну, как успехи?}
+{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Oh man, really, screw it, I'll do everything myself! [he grabs some kind of an instrument from the table and hurries to leave, while he didn't change his mind. You and Christie eagerly listen, awaiting for the sound of explosion, but instead, after some time, you see Fred breaking into the room, even more pale and trembling than before. Despite that, he has a smile on his face - although, a little unnatural.]}
+{171}{018}{So, how did it go?}
 
 
-{180}{}{[Он присаживается на трясущихся ногах, привалившись к стене] Готово... Я крут! [Истерично хихикает] Ух, натерпелся... В общем, забирай балахон - вон он, в скатке под столом. Это я типа тебе благодарен, что меня подбил на это. Теперь-то Кристи мне точно даст, а?}
-{181}{999}{Это уже ваши проблемы. Может, еще свидимся. Бывай.}
-{182}{999}{Конечно! Все так и будет. Ну, не буду вам мешать.}
+{180}{}{[He sits down, leaning to the wall, with his legs shaking] It's done... I'm so good!! [he giggles hysterically] Man, that was... Take the robe, here is it, under the table. That's my grattitude for motivating me to do it. Now Christie is definitely impressed, right?}
+{181}{999}{It's your business now. I'm going then. Maybe I'll see you around.}
+{182}{999}{Sure! Exactly that. Well, I won't bother you anymore.}
 
 
-{190}{}{Да ладно! Черт, я был уверен, что твои кишки по песку разметает!  Не, ну ты порадовал, не вопрос! [Лезет под стол и достает перетянутую ремнями скатку] Ща, момент... Вот, держи. Хорош костюмчик, а?}
-{191}{999}{Пойдет. Ладно, бывай Пес... Бывший Пес.}
-{192}{999}{То, что нужно. Ну, мне пора, удачи вам.}
+{190}{}{No way! Shit, I was sure that your intestines are gonna be scattered around all the wasteland! You did great, no questions! [he puts his hand under the table and pulls out roll of clothes] One moment... Here you go. Looks good, right?}
+{191}{999}{Will do. Okay, I'll go now. See you around, Jackal... I mean, ex-Jackal.}
+{192}{999}{That's what I need. I need to go now. Good luck.}
 
 
-{200}{}{[Нервным движением откидывает сальные пряди со лба] Да ты че, это ж самая отмороженная банда на Радиусе! И они измены не прощают. Я ж кинул их с Кристи. [Кивает в сторону девушки] Если б ты нам не помешал, я ее уломал бы отсюда сдернуть. Нельзя мне на одном месте долго торчать... [Бормочет себе под нос] Может, придется в итоге одному когти рвать...}
-{201}{022}{Кристи, похоже, много значит для тебя?}
-{202}{012}{Ясно. Еще вопрос...}
-{203}{999}{Пока на этом и закончим разговор.}
+{200}{}{[He nervously pulls greasy locks of hair from his forehead] What, you don't know? They are the most head-frosted gang of the whole Radius! And they doesn't forgive those who bertrays them. And that counts us, with Christie. [nods in girl's direction] If you hadn't interrupted us, I would talk her into leaving this place. It's dangerous to stay in one place for too long... [he mumbles] Maybe I'll have to leave on my own in the end...}
+{201}{022}{Looks like Christie means a lot to you.}
+{202}{012}{I see. Another question then.}
+{203}{999}{Let's finish for now.}
 
 
-{210}{}{Как-как... Бегаем мы быстро, вот как. [Замолкает, глядя себе под ноги] Мы тогда одно поселение на рога поставили, всех, кроме девок помоложе, в расход пустили... Тут я ее и увидал. Мне бы такая телка в жизни не обломилась у Псов. Вот я и решил вопрос по-своему. Забрал Кристи и рванул сюда. Мы эту хату с Урсулом в разведке как-то нашли. Это ж он тебя навел? Больше-то некому... Теперь решаем, как дальше быть. Вот такие дела, брат. }
-{211}{022}{Кристи, похоже, много значит для тебя?}
-{212}{012}{Бывает. Вернемся к другим вопросам.}
-{213}{999}{Продолжим разговор позже. Не возражаешь?}
+{210}{}{How... We are good at running, that's how. [He stops talking, looking on the ground] It all started when me and my pack rocked some settlement... Shaked it to the bottom. We disposed of everyone, except the girls... And that's when I saw her. I mean, look at her! I would never have any chance with a girl like this in the Jackals, you know? So I dealt with it my way. I took her and ran off. Here. Me and Ursul stumbled upon this place once, while hunting. It was him who pointed you, wasn't he? No one else knows... And now we are considering our options on what to do next. That's how it is.}
+{211}{022}{Looks like Christie means a lot to you.}
+{212}{012}{I see. Let's talk about something else.}
+{213}{999}{We'll continue the conversation later, if you don't mind.}
 
 
-{220}{}{[С мечтательным видом ковыряется пальцем в зубах] Это да... Я и не знал, что такие девки бывают. Бля, опять шерсть крысиная в зубах застряла... Только не так я все себе представлял. Сказал бы кто, что столько проблем с Псами будет, уж не знаю, стал бы с ней связываться... [Задумчиво смотрит на Кристи, которая пытается сделать что-то, похожее на ужин] Хотя, может, оно того стоит?}
-{221}{023}{Да кому ты нужен, герой? У Псов что - без тебя дел мало? Ты хоть одного видел, после того, как сорвался от них?}
-{222}{012}{Это сам решай. А мне скажи вот что...}
-{223}{999}{Все, мне пора. Благодарю за информацию.}
+{220}{}{[He takes on a dreamy look, picking his teeth with a finger] I guess... I didn't even know there could be someone like her. Fuck! The rat fur stuck in my teeth again... What I mean is - this is not how I imagined everything to end. If someone told me that I would have such big problems with the Jackals, I don't know if I would took her away... [He ponders, looking at Christie] But maybe it's worth it?}
+{221}{023}{Who the hell needs you, hero? Do you think that Jackals have nothing to do without chasing off runaways? Did you see even one of them since you ran off?}
+{222}{012}{You decide it. And tell me this...}
+{223}{999}{Okay, I need to go. Thanks for the information.}
 
 
-{230}{}{[Он колеблется какое-то время, но потом решительно мотает головой] Не, я так рисковать не могу. Мало ли че Крикуну в башку стукнет? С ним шутки плохи... }
-{231}{012}{Дело твое. Ты мне лучше ответь на один вопрос.}
-{232}{999}{Как знаешь. Ладно, мне пора идти.}
+{230}{}{[He hesitates for a while, but then firmly shakes his head] No, I won't take such risks. Who knows what Loudmouth thinks? He's not the one you should mess with... }
+{231}{012}{Suit yourself. Better answer me something else.}
+{232}{999}{As you see fit. Well, I need to go.}
 
 
-{240}{}{[Он вновь хватается за пистолет, отшатываясь от вас] Попробуй, сука! Кристи, беги!}
-{241}{998}{Никто из вас живым отсюда не уйдет!}
-{242}{998}{Да че тут пробовать? Следи за руками!}
+{240}{}{[He picks up his gun again, pulling himself back] Try it, bitch! Christie, run!!}
+{241}{998}{No one leaves this place alive!}
+{242}{998}{Try it? Watch!}

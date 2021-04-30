@@ -1,6 +1,6 @@
 ##############################
 #Локация: Псы Заката
-#Имя: Освальд Браун 
+#Имя: Oswald Brown 
 #Краткое описание: Старший по новеньким
 #Дата создания: 25.09.2014
 ##############################
@@ -11,307 +11,307 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: человека, с которым Вы бы не захотели разговаривать.}
-{2}{}{Он тут, похоже Дартаньян. А вы, конечно же...}
+{1}{}{You see a man who you wouldn't want to talk to.}
+{2}{}{Looks like he's a big cheese here. Unlike you.}
 #
 # после знакомства
-{3}{}{Вы видите: Освальд.}
-{4}{}{Он ищет взглядом жертву для выноса мозга.}
+{3}{}{You see Oswald.}
+{4}{}{He looks for someone to eat their brains out.}
 #
-{5}{}{Ваш удар ошеломил Освальда. Он потянулся к оружию.}
-{6}{}{Ваша челюсть щелкает. Такое чувство, что она вышла из своих пазов. Ваша одежда промокла от мочи. Вы чувствуете себя отвратительно.}
-{7}{}{Я же приказал охранять ворота! Сейчас я тебя проучу...}
-{8}{}{А ну бегом, блять, толчки пидорить!}
-{9}{}{Освальд был гнилым и зарывшимся даже для рейдера. Многие здесь желали его смерти, но для других он был авторитетом. Опасайтесь за свою жизнь.}
-{14}{}{А, наше новое чмо. Держись подальше от меня.}
-{15}{}{Вафля, свали нах!}
-{16}{}{Зачмыренный, че ты не в сортире?}
-{17}{}{Да пошел нах!}
-{18}{}{Ты ж парашу драить должен!}
-{19}{}{Свали от меня, чмошник!}
+{5}{}{Your attack dazed Oswald. He reaches for a weapon.}
+{6}{}{You jaw makes clicking sound, feels like it's displaced. You clothes is soaked with piss. You feel awful.}
+{7}{}{You were ordered to guard the gate! I'll show you...}
+{8}{}{Cleaning the toilets! GO, NOW!!}
+{9}{}{Oswald was rotten and cocky even for a raider. Many here wanted him dead - but some respected. You should look out for your life.}
+{14}{}{Here goes our schmuck. Stay away from me.}
+{15}{}{Get off, wimp!}
+{16}{}{Schmuck, why I see you away from toilet?}
+{17}{}{Fuck you!}
+{18}{}{You should be cleaning toilets by now!}
+{19}{}{Get out of me, dirty schmuck!}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Вас замечает этот человек, когда вы проходите мимо] Эй, ты! А ну иди сюда! [Вы присматриваетесь к нему: перед Вами молодой парень в довольно чистом снаряжении. На куртку и штаны нашито много щитков и пластин. Выглядит он скорее как рождественская елка, нежели как человек, регулярно бывающий в рейдах. Лицо его выражает крайнюю степень презрения. Похоже, Вы говно]}
-{11}{002}{Что?}
-{12}{003}{Нормально попроси.}
-{13}{999}{[показать средний палец и уйти]}
+{10}{}{[You are noticed when you walk by] Hey, you! Come here! [You look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a cristmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
+{11}{002}{What?}
+{12}{003}{Ask nicely.}
+{13}{999}{[Give him a middle finger and walk away]}
 
 
-{20}{}{Твоей рожи я не припоминаю. Значит новенький. А я тут разруливаю все дела с новоприбывшими. }
-{21}{020}{И?}
-{22}{003}{Мне насрать.}
-{23}{999}{[показать средний палец и уйти]}
+{20}{}{I don't remember seeing your face around here. That means you are a newbie. And it's me who deal with the newbies here.}
+{21}{020}{And?}
+{22}{003}{I don't give a shit.}
+{23}{999}{[Give him a middle finger and walk away]}
 
 
-{30}{}{Что? [он не на шутку удивлен. Скорее даже обескуражен] Да ты знаешь кто я? Кто Я?! Я, мать твою,...}
-{31}{005}{[перебить] Кусок говна ты. }
-{32}{006}{[перебить] Мне насрать кто ты. }
-{33}{004}{[слушать]}
+{30}{}{What? [he looks very surprised. Confused even] Do you actually know who are you talking to? Who am I?! I'm...}
+{31}{005}{[interrupt him] A piece of shit. }
+{32}{006}{[interrupt him] I don't give a fuck who you are. }
+{33}{004}{[listen]}
 
 
-{40}{}{... Освальд Браун! Царь и бог! [он осекся] После Крикуна я тут всем заведую! Будешь выебываться - закопаю прямо тут!}
-{41}{018}{Че ты от меня хочешь?}
-{42}{006}{Бла-бла-бла. Как интересно. }
-{43}{005}{[показать средний палец и уйти]}
+{40}{}{...Oswald Brown! The king, the fucking god! [he interrupts himself] I'm the one in charge here after Loudmouth! If you are gonna fuck with me, I'll bury you right where you stand!}
+{41}{018}{What do you want from me?}
+{42}{006}{Blah, blah, bloody blah. So interesting. }
+{43}{005}{[Give him a middle finger and walk away]}
 
 {50}{}{Node005}
-{51}{}{Ну все, тебе кранты, сука!}
-{52}{998}{[бой]}
+{51}{}{That's it, you're done, bitch!}
+{52}{998}{[fight]}
 
 
-{60}{}{Да ты оборзел что ли? Ты зарвался, пиздюк!}
-{61}{014}{А может это ты зарвался? А? Ты тут орешь что ты Освальд Браун? Офигеть. Я не знаю кто это. А ты, епт, не знаешь КТО Я. И поверь, лучше уж тебе заткнуться. Крикун далеко не самое страшное, что тебе встречалось. Я не засратый новичок. Я тут по делам. Перетру пару тем и уйду. Будешь тут пальцы гнуть при мне - уйту с твоей башкой вместо сувенира.}
-{62}{007}{И че дальше?}
+{60}{}{Are you fucking lost it? You are way too far up your ass, faggot!}
+{61}{014}{Maybe it's YOU who lost it? Huh? Screaming aroung that you are Oswald Brown? Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave with your head in a bag as a souvenir.}
+{62}{007}{And?}
 
 
-{70}{}{Ты прямо ща становишься на колени и вымаливаешь прощение. Если будешь стараться - отправлю тебя сторожить ворота. Если мне не понравится, как ты будешь пидорить языком подошвы моих ботинок - отправлю копать выгребные ямы. Усек, падла?}
-{71}{015}{А ты шутник. Ты тут местный клоун?}
-{72}{998}{Да? [схватить его за ворот и ударить лбом по носу]}
-{73}{008}{[промолчать]}
+{70}{}{Now you stand on your knees and beg for forgiveness. If you'll make enough effort - you're going to be sent to guard the gate. But if I won't like how your tongue cleans the soles of my boots - you are going to clean toilets. Got it, sucker?}
+{71}{015}{What a joker. Are you for the clown here?}
+{72}{998}{Yeah? [grab his collar and slam his nose with a headbutt]}
+{73}{008}{[keep silent]}
 
 
-{80}{}{Уже лучше, щенок. [Освальд растянулся в мерзкой улыбке] Теперь на колени.}
-{81}{998}{Извини, задумался просто. [схватить его за ворот и ударить лбом по носу]}
-{82}{009}{[опуститься на колени]}
-{83}{014}{Утихомирь свой пыл. Лично мне это уже надоедает. Если не заткнешься - Крикун, мой старый кореш, популярно тебе объяснит, почему меня не стоит трогать.}
+{80}{}{That's better, pup. [Oswald gives you a disgusting smile] Now, on your knees.}
+{81}{998}{Sorry, I got carried away. [grab his collar and slam his nose with a headbutt]}
+{82}{009}{[stand on knees]}
+{83}{014}{I'm getting tired of your shit. I suggest you change your attitude. If you won't shut up, my old buddy Loudmouth will explain to you why it's a mistake to talk to me like that.}
 
 
-{90}{}{[Освальд оскалился] Так-то лучше, уебок. Теперь лижи мои ботинки и моли меня о милосердии. Только наказание прививает дисциплину, хе-хе...}
-{91}{013}{[выхватить нож из голенища ботинка и всадить в пах, прокрутить вокруг оси, нанести два удара в живот, вскочить и полоснуть Освальда по глотке. Завершить нападение воткнув нож в плечо]}
-{92}{011}{[поцеловать ботинки Освальда]}
+{90}{}{[Oswald grins] That's better, sucker. Now - lick my boots and beg for mercy. The discipline is born through punishment, heh-heh...}
+{91}{013}{[take out the knife from your boot and stab Oswald into the groin. Turn the knife around, pull off, stab twice in the belly. Stand up and cut his throad. Finish by sticking the blade into his shoulder.]}
+{92}{011}{[kiss Oswald's boots]}
 
 
-{100}{}{[Он смотрит на вас так, словно Вы свежее говно] }
-{101}{030}{Есть работа? }
-{102}{044}{По поводу пистолета...}
-{103}{046}{Я смотрю тебя таращит от пистолетов, да? С чего такая любовь?}
-{104}{047}{Ты всегда такое говно?}
-{105}{048}{Так ты тут один из главарей?}
-{106}{999}{[конец диалога]}
+{100}{}{[He looks at you like you are fresh shit.] }
+{101}{030}{Have a job? }
+{102}{044}{About the pistol...}
+{103}{046}{I see you are getting hard from pistols? Why's that?}
+{104}{047}{Are you always act like an asshole?}
+{105}{048}{So you are one of the top dogs here?}
+{106}{999}{[end of dialogue]}
 
 
 
 
 
-{110}{}{[Освальд засмеялся, после чего ударил ботинком Вас прямо по лицу. Удар пришелся по челюсти и, похоже, повредил ее. Вы упали на спину. Освальд расстегнул ширинку и начал ссать на вас]}
-{111}{012}{[покорно лежать]}
-{112}{998}{[наброситься на Освальда]}
+{110}{}{[Oswald laughs, then kicks you in the face. The boot goes right into your jaw, making loud cracking sound. You fall on your back. Oswald unzips his pants and starts pissing on you.]}
+{111}{012}{[lay obediently]}
+{112}{998}{[throw yourself at Oswald]}
 
 
-{120}{}{Ну что, животное? Ничтожество! Кусок дерьма! Теперь ты - почетный уборщик сортира. Не дай бог я тебя увижу дальше двух метров от дерьма - тебе пиздец. Будешь жрать говно. Стоять в сортирной яме с открытым ртом. А теперь - уебывай, чмо.}
-{121}{999}{[конец диалога]}
+{120}{}{Animal! Lowlife! Piece of shit! Dirtbag! Now I hereby appoint you to the honored toilet cleaner position! Don't ever let me catch you two meters away from it, or you are fucked! I will make you eat shit while standing knee-deep in it. Now get the fuck out, schmuck.}
+{121}{999}{[end of dialogue]}
 
 
-{130}{}{[Освальд осел на пол истекая кровью из многочисленных ран. Он яростно хрипел и бился. Но недолго. Он мертв]}
-{131}{999}{[конец диалога]}
+{130}{}{[Oswald slowly descends down, bleeding from all wounds. He makes gurgling sounds, but it doesn't last long. He is dead.]}
+{131}{999}{[end of dialogue]}
 
 
-{140}{}{Мне плевать, кто ты есть. [Освальд уставился на вас "испытующим" взглядом]}
-{141}{021}{[внимательно смотреть ему в глаза со спокойной физиономией]}
-{142}{010}{Вот и славно. Давай может перетрем по делу?}
+{140}{}{I don't care who you are. [Oswald stares at you with his "peering" look]}
+{141}{021}{[Look back into his eyes with a calm face]}
+{142}{010}{Good. Let's talk business already.}
 
 
-{150}{}{Ага, главный в этом цирке. Ты, мля...}
-{151}{010}{Ладно, забей. Давай может перетрем по делу?}
-{152}{016}{Можно даже сказать главная цирковая залупа.}
+{150}{}{Yeah, the one in charge of this circus. You fucking...}
+{151}{010}{Okay, forget it. Let's talk business already.}
+{152}{016}{You could say, you are the biggest dick around.}
 
 
-{160}{}{[Освальд побагровел от злости и выхватил пистолет из старой кобуры на поясе. Дуло уткнулось Вам прямо в голову] Сука, а теперь ты что скажешь? А? Ну, бля, только скажи еще слово...}
-{161}{008}{[промолчать]}
-{162}{017}{Пошел ты на...}
+{160}{}{[Oswald turns red. He readily pulls out his gun, its barrel pokes into your forehead] Now who is talking, bitch?! Huh?! I dare you, I fuckin dare you to say one more word!!}
+{161}{008}{[keep silent]}
+{162}{017}{Go fuck yourself...}
 
 
-{170}{}{[Освальд нажал на курок]}
-{171}{999}{[Вы умираете мгновенно]}
+{170}{}{[Oswald pulls the trigger]}
+{171}{999}{[You die in an instant]}
 
 
-{180}{}{Чтобы ты заткнулся и ходил строевым шагом мимо меня! Чтобы ты помнил что ты - кусок дерьма, а я твой бог!}
-{181}{019}{Вау. }
-{182}{016}{А не пойти бы тебе нахрен?}
-{183}{010}{Впечатляюще. Если бы у меня не было мозга. Давай лучше по делам перетрем, а не болтами мерятся будем.}
+{180}{}{That's for you to shut up and walked by me on your toes! To remember that you are piece of shit and I'm your master!}
+{181}{019}{Wow.}
+{182}{016}{Why don't you go fuck yourself?}
+{183}{010}{Impressive. I mean, it would have been, if I had no brain. Let's stop this dick-measuring competition and talk business.}
 
 
-{190}{}{Что?}
-{191}{010}{Я говорю: "Вау!". Давай-ка лучше перетрем по делу. А то мне уже надоело.}
+{190}{}{What?}
+{191}{010}{I said "Wow". Let's talk business already. I'm tired of bullshit.}
 
 
-{200}{}{У тебя есть шанс выслужится. Посмотрим, насколько ты покорен. Отдай свое оружие.}
-{201}{022}{Что?}
-{202}{029}{Ага, щас. Уже бегу, спотыкаюсь и волосы назад.}
-{203}{027}{Нет.}
-{204}{029}{Да я скорее его сожру по запчастям.}
+{200}{}{You have your chance to make things right. Let's see how obedient you are. Give me your weapon.}
+{201}{022}{What?}
+{202}{029}{Yeah, right. Doing that already.}
+{203}{027}{No.}
+{204}{029}{I'd rather eat it whole.}
 
 
-{210}{}{[Освальд ухмыльнулся] Гляделки? Какая прелесть. Иди с мамой своей в гляделки играй, упырь.}
-{211}{010}{Меня это уже задолбало. Давай по делу поговорим.}
+{210}{}{[Oswald grins] A staring contest? Cute. Go play it with your mom, cocksucker.}
+{211}{010}{I'm tired of bullshit. Let's talk business already.}
 
 
-{220}{}{Оружие. Отдай его мне.}
-{221}{023}{[отдать оружие]}
-{222}{027}{Нет.}
+{220}{}{Your weapon. Give it to me.}
+{221}{023}{[give him your weapon]}
+{222}{027}{No.}
 
 
-{230}{}{[Освальд взял ваше оружие и закрепил его в своем снаряжении] Отлично, хорошая девочка. Сегодня я освобождаю тебя от работ на благо нашего сообщества. А теперь - уебывай.}
-{231}{026}{Верни. Мне. Мое. Оружие.}
-{232}{025}{Тебе жить надоело?}
-{233}{024}{[промолчать]}
+{230}{}{[He takes your weapon and attaches it to his equipment] Good girl. Today you are free from duties for the good of our great community. Now fuck off.}
+{231}{026}{Give. Me. Back. My. Weapon.}
+{232}{025}{Are you sick of being alive or what?}
+{233}{024}{[keep silent]}
 
 
-{240}{}{Ты еще тут? Сьеби! [Освальд оттолкнул вас]}
-{241}{998}{[накинуться на Освальда]}
-{242}{999}{[уйти]}
+{240}{}{You're still here? Shoo! Fuck off! [Oswald pushes you]}
+{241}{998}{[throw yourself at Oswald]}
+{242}{999}{[leave]}
 
 
-{250}{}{Это тебе жить надоело. И что ты со мной сделаешь? Заглядишь меня до появления совести?}
-{251}{024}{[промолчать]}
-{252}{998}{[накинуться на Освальда]}
-{253}{999}{[уйти]}
+{250}{}{And what are you going to do with it? Stare at me until I grow myself a consciousness?}
+{251}{024}{[keep silent]}
+{252}{998}{[throw yourself at Oswald]}
+{253}{999}{[leave]}
 
 
-{260}{}{Странно что ты не предложил поцеловать тебя в жопу. Свали пока я тебя не отхуярил.}
-{261}{024}{[промолчать]}
-{262}{998}{[накинуться на Освальда]}
-{263}{999}{[уйти]}
+{260}{}{Strange you didn't ask me to kiss you. Fuck off while you still can.}
+{261}{024}{[keep silent]}
+{262}{998}{[Throw yourself at Oswald]}
+{263}{999}{[leave]}
 
 
-{270}{}{[Освальд захихикал. Похоже, у него проблемы с головой. Прямо как в плохих историях про довоенных армейских офицеров...] Смело. Мне кажется что ты со своими титановыми яйцами отлично послужишь на шлагбауме. Пиздуй на ворота. Если узнаю что ты вместо охраны будешь шароебится - тебе пиздец.}
-{271}{006}{А не пойти бы тебе самому на ворота? По дороге можешь заглянуть к торгашам и торгануть своим очком.}
-{272}{999}{Ага. [выйти из палатки]}
-{273}{028}{Я че, мля, похож на одну из твоих шавок?}
+{270}{}{[Oswald giggles. Looks like he has some troubles with the head, like in some scary stories about army veterans, or something] So fearless... I think you and your titanium balls will make a great addition to the gate guards. Get your ass there, fast. If I hear that you are hanging around instead of doing your job - you are fucked.}
+{271}{006}{Why don't YOU go guard the gate? And while you walking there, you could come by traders and sell your asshole for a quick buck.}
+{272}{999}{Yeah. [leave]}
+{273}{028}{Do I look like one of your bitches?}
 
 
-{280}{}{Ого, да вы только гляньте! У него есть яйца!}
-{281}{998}{А у тебя их сейчас не будет. [бой]}
-{282}{999 }{[махнуть рукой и уйти]}
-{283}{010}{[попытаться задать пару вопросов]}
+{280}{}{Oh, look at that! Our boy here has some balls!}
+{281}{998}{And now you are lost yours. [fight]}
+{282}{999 }{[sigh and leave]}
+{283}{010}{[try to ask a question]}
 
 
-{290}{}{Ха, возможно из тебя получится настоящий Пес! Средненький, зато настоящий. Но псу положено знать свое место. Усек?}
-{291}{010}{Ну-ну. Давай-ка сменим пластинку...}
-{292}{999}{Господи, как ты задолбал... [махнуть рукой и уйти]}
+{290}{}{Hah, maybe you'll make a great Jackal! I mean, kinda average, but real. Still, the dog should know its place, get it?}
+{291}{010}{Yeah, yeah, let's change the subject...}
+{292}{999}{Oh my god, I'm so tired of your bullshit... [leave]}
 
 
-{300}{}{[он растянулся в улыбке, из-за которой его очень хочется ударить по голове] Сортиры, мусорки, шлаг... Все к твоим услугам, дружочек!}
-{301}{031}{Как смешно. Я про нормальную оплачиваемую работу.}
+{300}{}{[He smiles and you have sudden urge to punch him in the face] Toilets, trash, gate... Everything for you, buddy!}
+{301}{031}{So funny. I meant real job, with real pay.}
 
 
-{310}{}{А ты у нас что, белоручка? Ладно, не важно. На самом деле работенка есть. Я люблю хорошие пистолеты. И я как раз ищу одну модель в свою коллекцию. Слюгер. Если найдешь - дай мне знать.}
-{311}{032}{Такой?}
-{312}{036}{У меня есть кое-что получше... Взгляни [показать револьвер Шакала].}
-{313}{999}{Хорошо. Как найду - зайду.}
-{314}{043}{Цена вопроса?}
-{315}{010}{Я подумаю. А пока у меня есть еще пара вопросов.}
-{316}{999}{Я подумаю. }
+{310}{}{Okay, butternut, there is actually something. I like good pistols. And I'm looking for one for my collection. Called Slugger. If you'll find one, let me know.}
+{311}{032}{One like this?}
+{312}{036}{I have something better. Take a look. [show Jackal's revolver]}
+{313}{999}{Okay. If I see one, I'll come by.}
+{314}{043}{The price?}
+{315}{010}{I will think about it. For now I still have some questions.}
+{316}{999}{I will think about it. }
 
 
-{320}{}{[Освальд сразу же кивнул] Да, такой. Я готов заплатить... скажем... пять сотен. Без торга. В конце-концов я мог бы тебя грохнуть и забрать его. Считай это моей щедростью.}
-{321}{034}{По рукам.}
-{322}{033}{Мне надо подумать. Взвесить все за и против.}
+{320}{}{[Oswald instantly nods] Yes, exactly like this one. I'll pay, let's say, five hundred. Drop the bargaining. I could just shoot you and take it. Consider it my gesture of generosity.}
+{321}{034}{Deal.}
+{322}{033}{I need to think. To consider options.}
 
 
-{330}{}{Ну тогда и возвращайся как надумаешь. Ломаешься как целка, мля. }
-{331}{999}{[конец диалога]}
-{332}{010}{У меня есть пара вопросов.}
+{330}{}{Then come back when you do that. Fucking prude all of a sudden. }
+{331}{999}{[end of dialogue]}
+{332}{010}{I still have some questions.}
 
 
-{340}{}{[Освальд отдал положенную вам награду, а сам углубился в изучение пистолета. В этот момент его высокомерная физиономия стала простой и задумчивой. В его глазах был интерес, а не презрение. Кажется, он не намерен продолжать с Вами разговор]}
-{341}{035}{Эй, Освальд, у меня есть пара вопросов.}
-{342}{999}{[конец диалога]}
+{340}{}{[Oswald gives you a reward and sinks into examining the pistol. In one moment his pretentious face becomes simple and contemplative, his eyes showing interest instead of resentment. Looks like he has no intention of continuing the conversation.]}
+{341}{035}{Hey, Oswald, I still have some questions.}
+{342}{999}{[end of dialogue]}
 
 
-{350}{}{Давай потом. Я занят.}
-{351}{999}{[конец диалога]}
+{350}{}{Later. I'm busy now.}
+{351}{999}{[end of dialogue]}
 
 
-{360}{}{[Освальд даже поднял брови. Похоже, он узнал пистолет, но не поверил своим глазам] Где ты ЕГО достал, зеленый? Пожалуй, я согласен купить его. Тысяча.}
-{361}{037}{Тысяча? Ты верно шутишь. Я искал его запчасти, собирал его... одни только запчасти мне обошлись дороже!}
-{362}{042}{Окей, по рукам.}
-{363}{033}{Мне надо подумать. Взвесить все за и против.}
+{360}{}{[Oswald raises his eyebrows. Looks like he recognized the pistol, but has troubles believing his eyes] Where did you get THAT, greenhorn? I think I'll buy it. Thousand.}
+{361}{037}{Thousand? You must be kidding. I looked for the parts, assembled it... Even the cost of parts themselves is more than that!}
+{362}{042}{Okay, deal.}
+{363}{033}{I need to think. To consider options.}
 
 
-{370}{}{Окей, назови свою цену.}
-{371}{041}{Полторы тысячи.}
-{372}{039}{Две тысячи.}
-{373}{038}{Три тысячи.}
+{370}{}{Fine. Name your price.}
+{371}{041}{One and a half thousand.}
+{372}{039}{Two thousand.}
+{373}{038}{Three thousand.}
 
 
-{380}{}{Пушка хороша, базару нет. Но, знаешь ли, это перебор. Мне проще тебя вальнуть будет. }
-{381}{041}{Полторы тысячи.}
-{382}{039}{Две тысячи.}
+{380}{}{The gun is good, I tell you that. But this price is a little excessive. It's easier for me to murder you instead of paying. }
+{381}{041}{One and a half thousand.}
+{382}{039}{Two thousand.}
 
 
-{390}{}{Нет. }
-{391}{040}{С чего нет-то? Мало того что пушка редкая, так она еще и страшно убойная и надежная. Он стоит больше. Тебе продаю как авторитетному мужику. Другой просто недостоин.}
-{392}{041}{Полторы тысячи.}
+{390}{}{No. }
+{391}{040}{Why the hell no? Not only the gun is the rarest - it's big, powerful, and reliable. It costs more. I sell to you because you are authority. The others are less worthy.}
+{392}{041}{One and a half thousand.}
 
 
-{400}{}{[Освальд почесал подбородок. Затем мучительно уставился на пистолет] Ладно. Твоя взяла. Если найдешь Слюгер - заходи. [он отдал положенную Вам награду а сам углубился в изучение пистолета. В этот момент его высокомерная физиономия стала простой и задумчивой. В его глазах был интерес, а не презрение. Кажется, он не намерен продолжать с Вами разговор]}
-{401}{035}{Эй, Освальд, у меня есть пара вопросов.}
-{402}{999}{[конец диалога]}
+{400}{}{[Oswald scratches his chin. Then painfully stares at the pistol] Okay. You win. If you'll find Slugger, come to me. [he gives you a reward and sinks into examining the pistol. In one moment his pretentious face becomes simple and contemplative, his eyes showing interest instead of resentment. Looks like he has no intention of continuing the conversation.]}
+{401}{035}{Hey, Oswald, I still have some questions.}
+{402}{999}{[end of dialogue]}
 
 
-{410}{}{Ладно. Вот твоя награда. Если найдешь Слюгер - заходи. [он отдал положенную Вам награду а сам углубился в изучение пистолета. В этот момент его высокомерная физиономия стала простой и задумчивой. В его глазах был интерес, а не презрение. Кажется, он не намерен продолжать с Вами разговор]}
-{411}{035}{Эй, Освальд, у меня есть пара вопросов.}
-{412}{999}{[конец диалога]}
+{410}{}{Okay. Here's your reward. If you'll find Slugger, come to me. [he gives you a reward and sinks into examining the pistol. In one moment his pretentious face becomes simple and contemplative, his eyes showing interest instead of resentment. Looks like he has no intention of continuing the conversation.]}
+{411}{035}{Hey, Oswald, I still have some questions.}
+{412}{999}{[end of dialogue]}
 
 
-{420}{}{Вот твоя награда. Если найдешь Слюгер - заходи. [он отдал положенную Вам награду а сам углубился в изучение пистолета. В этот момент его высокомерная физиономия стала простой и задумчивой. В его глазах был интерес, а не презрение. Кажется, он не намерен продолжать с Вами разговор]}
-{421}{035}{Эй, Освальд, у меня есть пара вопросов.}
-{422}{999}{[конец диалога]}
+{420}{}{Here's your reward. If you'll find Slugger, come to me. [he gives you a reward and sinks into examining the pistol. In one moment his pretentious face becomes simple and contemplative, his eyes showing interest instead of resentment. Looks like he has no intention of continuing the conversation.]}
+{421}{035}{Hey, Oswald, I still have some questions.}
+{422}{999}{[end of dialogue]}
 
 
-{435}{}{Пять сотен.}
-{430}{032}{Такой?}
-{431}{036}{У меня есть кое-что получше... Взгляни.}
-{432}{999}{Хорошо. Как найду - зайду.}
-{433}{010}{Я подумаю. А пока у меня есть еще пара вопросов.}
-{434}{999}{Я подумаю. }
+{435}{}{Five hundred.}
+{430}{032}{One like this?}
+{431}{036}{I have something better. Take a look.}
+{432}{999}{Okay. If I see one, I'll come by.}
+{433}{010}{I will think about it. For now I still have some questions.}
+{434}{999}{I will think about it. }
 
 
 
-{440}{}{Нашел Слюгер?}
-{441}{032}{Такой?}
-{442}{036}{У меня есть кое-что получше... Взгляни.}
-{443}{045}{Я в процессе. Просто думал, может ты еще какой-нибудь ствол ищешь, чтобы я зря не тратил времени и не пропустил его.}
+{440}{}{Did you find Slugger?}
+{441}{032}{One like this?}
+{442}{036}{I have something better. Take a look.}
+{443}{045}{In the process. I was just thinking - maybe you need another gun? So I wouldn't waste time and looked for it too.}
 
 
-{450}{}{Нет, бля. Мне нужен, епт, Слюгер. Если это все - съеби с глаз долой.}
-{451}{999}{[конец диалога]}
-{452}{010}{Вообще есть пара вопросов...}
+{450}{}{No, you fuck. I neet the damn Slugger. If that's it - get the hell away.}
+{451}{999}{[end of dialogue]}
+{452}{010}{I still actually have some questions...}
 
 
-{460}{}{Потому что. Ты не моя мамочка, чтобы я с тобой болтал о себе. }
-{461}{010}{Неважно, у меня еще пара вопросов.}
-{462}{999}{Забей, я пошел.}
+{460}{}{Because. You are not my mom, I'm not chatting with you. Especially about that. }
+{461}{010}{Forget it. I still have some questions.}
+{462}{999}{Nevermind that. I'm going.}
 
 
-{470}{}{Сказал кусок дерьма.}
-{471}{010}{Неважно, у меня еще пара вопросов.}
-{472}{999}{Забей, я пошел.}
+{470}{}{Said piece of shit.}
+{471}{010}{Forget it. I still have some questions.}
+{472}{999}{Nevermind that. I'm going.}
 
 
-{480}{}{Да, слежу за выродками вроде тебя и привожу их в чувство. Ни мозгов, ни уважения к авторитету. Про дисциплину я вообще молчу. }
-{481}{050}{А кто тут еще рулит?}
-{482}{049}{Ты уже задолбал со своим пренебрежением. Да я повидал побольше твоего.}
+{480}{}{I look out for a greenhorn freaks like you and put some sense into them. No brains, no respect for authority. I'm not even talking about discipline.}
+{481}{050}{Who else is in charge here?}
+{482}{049}{You are pissing me off with your neglect attitude. I've seen much more of the world than you.}
 
 
-{490}{}{Мне, откровенно говоря, насрать.}
-{491}{010}{Неважно, у меня еще пара вопросов.}
-{492}{999}{Забей, я пошел.}
+{490}{}{Really? I don't give a shit.}
+{491}{010}{Forget it. I still have some questions.}
+{492}{999}{Nevermind that. I'm going.}
 
 
-{500}{}{Крикун - он тут типа самый главный. Самое главное - держись от него подальше.  Есть еще Билли и Крис. Они так, на подхвате...}
-{501}{051}{Билли?}
-{502}{052}{Крис?}
-{503}{010}{Неважно, у меня еще пара вопросов.}
+{500}{}{Loudmouth. He's the one leading. Stay away from him. Then there's Billy... And Chris. They are more like smaller management.}
+{501}{051}{Billy?}
+{502}{052}{Chris?}
+{503}{010}{Forget it. I still have some questions.}
 
 
-{510}{}{Билли, мать его, Стоун. Тупица, ответственный за ремонт. С его-то рукожопостью... я слышал что он поебывает чужих девушек, хе-хе...}
-{511}{052}{Крис?}
-{512}{010}{Неважно, у меня еще пара вопросов.}
+{510}{}{Billy fucking Stone. Asshole who's in charge for repairings. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
+{511}{052}{Chris?}
+{512}{010}{Forget it. I still have some questions.}
 
 
-{520}{}{Крис Мурена. Шизоид. Лучше не доставай оружие при нем. Вальнет. У него нервы, мне кажется, не лучше чем у Крикуна. А еще - следи за вещами. Этот говнюк с карманной болезнью никогда не возвращает то, что брал. И он обожает брать, когда хозяина вещи нет рядом.}
-{521}{051}{Билли?}
-{522}{010}{Неважно, у меня еще пара вопросов.}
+{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when its owner is not around.}
+{521}{051}{Billy?}
+{522}{010}{Forget it. I still have some questions.}

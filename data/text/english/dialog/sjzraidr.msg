@@ -21,11 +21,11 @@
 #
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
-{1}{}{You see: raider.}
-{2}{}{You see: one of the Jackals.}
-{3}{}{You see: local.}
-{4}{}{You see: raider.}
-{5}{}{You see: Jackal.}
+{1}{}{You see a raider.}
+{2}{}{You see one of the Jackals.}
+{3}{}{You see a local.}
+{4}{}{You see a raider.}
+{5}{}{You see a Jackal.}
 {6}{}{The look on his face does not guarantee an easy conversation.}
 {7}{}{Bruised eye, lack of teeth, hard look.}
 {8}{}{He's covered in scars. Looks like he went through many fights.}
@@ -39,8 +39,8 @@
 {13}{}{[scratches his armpit]}
 {14}{}{Huh? What, greenhorn? Want to hear about our raid to Ruins yesterday? I bet you wish you were there! We took our sweet time with that girl, and after that - impaled her father on a stake. Then we put a sign on his neck, saying "He was against us. Sunset Jackals." The Loudmouth went crazy hearing about it. Such a good day...}
 {15}{}{Yeah, just came back from the raid. Don't ask. It was okay at first, robbed some caravans, fucked some girls... Then we bumped into that damn Lumeniers... Fucking shits! There were five of us at the beginning, all mean and hardened - but only me and my mate had returned...}
-{16}{}{Oh yeah, let me tell you how we rocked the Rainbow yesterday! So, we went there... Hicc-... And, uh... There were girls, some booze... So we made a bet with one of our guys, about who would win on the Arena... And, as you can see, I am standing here! Hicc-... And he must be... Uh, feeding the ants...}
-{17}{}{Are you Hungry, greenhorn? Everybody is, and somehow it's only me and Ursul who goes on the hunt! Did you even see the Ursa? How the hell do you hunt something that hunts you?! I don't even know... Sometimes it seems like it's easier to shoot off some Chimeras...}
+{16}{}{Oh yeah, let me tell you how we rocked the Rainbow yesterday! So, we went there... Hicc-... And, uh... There were girls, some booze... So we made a bet with one of our guys about who would win on the Arena... And, as you can see, I am standing here! Hicc-... And he must be... Uh, feeding the ants...}
+{17}{}{Are you hungry, greenhorn? Everybody is, and somehow it's only me and Ursul who goes on the hunt! Did you even meet an Ursa? How the hell do you hunt something that hunts you?! I don't even know... Sometimes it seems like it's easier to shoot off some Chimeras...}
 {18}{}{Have you heard of "Renaissance"? It's, like, an undeground city of wonders. They say it's filled with riches, a fuckloads of food, clean water... One time I've seen some piece of paper with a drawing on it. Some said that it was a part of map leading to Renaissance... They must be wrong...}
 {19}{}{[end]}
 #
@@ -52,7 +52,7 @@
 {1003}{}{Huh?}
 {1004}{}{Just go away.}
 {1005}{}{Don't bother me, I need to rest...}
-{1006}{}{What else do you need?}
+{1006}{}{What do you need?}
 {1007}{}{[grins]}
 {1008}{}{Leave me be, I have work to do.}
 {1009}{}{Yeah-yeah, you're good and all.}
@@ -63,7 +63,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Just turn around and walk away!}
 {1015}{}{Don't bother me, I need to rest...}
-{1016}{}{What else do you need?}
+{1016}{}{What do you need?}
 {1017}{}{...All sorts of scum walking around...}
 {1018}{}{Leave me be, I have a work to do!}
 {1019}{}{Get lost!}
@@ -90,9 +90,9 @@
 {1038}{}{}
 {1039}{}{}
 # ŒÚËˆ‡ÚÂÎ¸Ì˚Â ÒÓÓ·˘ÂÌËˇ
-{1040}{}{Keep your hands to yourself, shmuck!}
+{1040}{}{Keep your hands to yourself, schmuck!}
 {1041}{}{Hey! Keep your hands away from my pockets!}
-{1042}{}{You are pushing *me* around!?}
+{1042}{}{You are pushing ME around!?}
 {1043}{}{Do this one more time and I will bury you!}
 {1044}{}{Oh, get the fuck out!}
 {1045}{}{Do I bother you? Because I don't give a shit!}

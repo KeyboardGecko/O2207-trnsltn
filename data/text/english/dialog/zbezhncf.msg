@@ -21,11 +21,11 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see: a woman.}
-{2}{}{You see: refugee.}
-{3}{}{You see: ragamuffin.}
-{4}{}{You see: vagrant.}
-{5}{}{You see: refugee.}
+{1}{}{You see a woman.}
+{2}{}{You see a refugee.}
+{3}{}{You see a ragamuffin.}
+{4}{}{You see a vagrant.}
+{5}{}{You see a refugee.}
 {6}{}{A skinny exhausted woman, wearing some kind of rags.}
 {7}{}{Old torn clothes barely covers her unnaturally thin body.}
 {8}{}{Judging by fresh scars on her pale-blue skin, he suffered through a lot lately.}
@@ -61,7 +61,7 @@
 {1011}{}{Give me something! Anything!}
 {1012}{}{You are the man, aren't you? Spare the woman something!}
 {1013}{}{I know, you can help me out with food!}
-{1014}{}{Don't be a lavash shit, help out the refugee...}
+{1014}{}{Don't be a Lavash shit, help out the refugee...}
 {1015}{}{Do you have something you don't need anymore?}
 {1016}{}{I haven't eaten for days... Spare me something!}
 {1017}{}{Be a kind man, cowboy, spare something to a wanderer.}

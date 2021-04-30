@@ -22,21 +22,21 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: охранник.}
-{2}{}{Вы видите: охранник в бронекостюме.}
-{3}{}{Вы видите: человек из охраны.}
-{4}{}{Вы видите: стража.}
-{5}{}{Вы видите: вооруженный охранник.}
-{6}{}{Мощного вида охранник.}
-{7}{}{Хорошо вооруженный и защищенный охранник.}
-{8}{}{Он почти не движется, совсем как статуя с ружьем!}
-{9}{}{Этот человек охраняет жителей Тартара от нечисти.}
+{1}{}{You see a guard.}
+{2}{}{You see a guard in armor.}
+{3}{}{You see a man from security.}
+{4}{}{You see a guardian.}
+{5}{}{You see a well-armed guard.}
+{6}{}{A tough-looking guard.}
+{7}{}{This guard is armed and well-protected.}
+{8}{}{He almost doesn't move. Just like a statue with a weapon.}
+{9}{}{This man guards the Tartarus dwellers from all kinds of dangerous creatures.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Отвали, сопляк!}
-{11}{}{Еще раз попробуешь - отправишься к Богам!}
-{12}{}{Руки прочь, малявка!}
+{10}{}{Get lost, snot!}
+{11}{}{Try this one more time, and you'll meet the Gods!}
+{12}{}{Hands off, rugrat!}
 {13}{}{}
 {14}{}{}
 {15}{}{}
@@ -45,24 +45,24 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{Искатель? Заблудился что ли? Ты же знаешь, лифт - только для Вестников, так что давай-ка вали через парадную.}
-{101}{}{Да-да, конечно.}
-{102}{}{Ты роли не попутал, а? Сейчас я тебе покажу! [потянуться за оружием]}
-{103}{}{Вестник? [тщетно пытается разглядеть ваше лицо под капюшоном] Грег, ты что ли?}
-{104}{}{Да-да, это я.}
-{105}{}{Ты что это, схалтурить решил? У тебя же еще смена не кончилась.}
-{106}{}{Нужно проучить одного из зарвавшихся, а дубинка у меня наверху осталась.}
-{107}{}{Я-я-я... ну-у-у... Мне нужно наверх, в общем.}
-{108}{}{[молча развернуться и уйти]}
-{109}{}{Я не знаю, кто ты такой, но клянусь богами, сейчас я это выясню. [тянется к оружию]}
-{110}{}{Ну-ну.}
-{111}{}{Что-то у тебя голос сильно изменился... Грег.. [делает шаг Вам навстречу, вглядываясь под капюшон]}
-{112}{}{[закашляться изо всех сил] Кхо-ох хрр-кххх-тьфу... Хрр-кххффтху! О-ох... какая-то зараза у меня, все горло горит. Наверно от рабов подхватил.}
-{113}{}{[молча развернуться и уйти]}
-{114}{}{Я-я-я... ну-у-у... да нет, все такой же... Мне нужно наверх, в общем-то.}
-{115}{}{[поспешно отходит в сторону] А-а-а, ну ты это - иди врачам покажись. А то вдруг и правда зараза какая?}
-{116}{}{Ну так что ты у меня не спросил? А, впрочем, у меня дубинка именная, вдруг ты и ее сломаешь? Давай, проходи, только побыстрее.}
-{117}{}{Угу.[пройти к лифту]}
+{100}{}{Seeker? Did you get lost, or something? You know that elevator is for Heralds only, so go, use the front door.}
+{101}{}{Yes, of course.}
+{102}{}{Aren't you overstepping? I'll show you! [reach for weapon]}
+{103}{}{Herald? [he unsuccessfully tries to take a good look at your face under the hood] Greg, is that you?}
+{104}{}{Yes, it's me.}
+{105}{}{Are you trying to ditch? You still have your shift going.}
+{106}{}{I need to teach a lesson to one of the impudents, but I left my baton upstairs.}
+{107}{}{I... Uh... I need to go upstairs.}
+{108}{}{[quietly turn around and leave]}
+{109}{}{I don't know who you are, but I swear by the Gods, I'm going to find out. [reaches for weapon]}
+{110}{}{Uh-huh.}
+{111}{}{Your voice sounds a little different... Greg... [takes a step towards you, staring under the hood]}
+{112}{}{[cough forcefully] Cough-chr-khah [spit] Khrr-cough ooh... I got some kind of infection, my throat is burning. Probably from slaves.}
+{113}{}{[quietly turn around and leave]}
+{114}{}{I... Uh... What? No, it's the same... I need to go upstairs.}
+{115}{}{[he hastily steps away] Oh. You, uh, should go see the doctors. What if it's contagious?}
+{116}{}{Why didn't you ask me for one then? Although, my baton is my personal belonging... What if you break it? RIght, come in, hurry.}
+{117}{}{Okay. [go to elevator]}
 {118}{}{}
 {119}{}{}
 {120}{}{}
@@ -78,79 +78,79 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ
 # Положительные сообщения
-{1000}{}{Здравствуй!}
-{1001}{}{Приветствую!}
-{1002}{}{Здравствуй - здравствуй!}
-{1003}{}{Категорически приветствую!}
-{1004}{}{Э-эй! Как жизнь молодая?}
-{1005}{}{Приятно тебя видеть!}
-{1006}{}{Я бы и не прочь перекинуться парой слов, но служба, служба.}
-{1007}{}{Эй, как настроение?}
-{1008}{}{Ну конечно же рад тебя видеть!}
-{1009}{}{[смотрит на Вас дружелюбно]}
+{1000}{}{Hello!}
+{1001}{}{Hey there!}
+{1002}{}{Hello, hello!}
+{1003}{}{Hello to you too!}
+{1004}{}{Hey! How's life?}
+{1005}{}{Glad to see you!}
+{1006}{}{I actually don't mind chatting for a bit, but, you know, duty calls.}
+{1007}{}{Hey, how are you feeling?}
+{1008}{}{Of course I'm glad to see you!}
+{1009}{}{[looks at you friendly]}
 # Нейтральные сообщения
-{1010}{}{Не мешайся, я занят.}
-{1011}{}{Не видишь, мне некогда.}
-{1012}{}{Не-а, некогда мне!}
-{1013}{}{Хорошо, но попозже, лады?}
-{1014}{}{Не-е, настроения нет.}
-{1015}{}{Слушай, не приставай, дай отдохнуть.}
-{1016}{}{Что тебе?}
-{1017}{}{Чего надо?}
-{1018}{}{Отойди, свет загораживаешь.}
-{1019}{}{[молча смотрит на Вас]}
+{1010}{}{Don't bother me, I'm busy.}
+{1011}{}{Can't you see? I'm busy!}
+{1012}{}{No, I have no time!}
+{1013}{}{Okay. But later.}
+{1014}{}{Nah, I'm not in the mood.}
+{1015}{}{Don't bother me, let me rest.}
+{1016}{}{What now?}
+{1017}{}{What do you want?}
+{1018}{}{Step away, you are blocking the light.}
+{1019}{}{[looks at you saying nothing]}
 # Отрицательные сообщения
-{1020}{}{Отвали, придурок!}
-{1021}{}{Сгинь нахрен!}
-{1022}{}{Лучше не нарывайся, уродец!}
-{1023}{}{Пшел нах!!!}
-{1024}{}{Крути педали, пока не дали.}
-{1025}{}{Не хочешь в глаз - дави на газ!}
-{1026}{}{Свалил нахрен с глаз моих!}
-{1027}{}{Какого хрена те от меня надо?!}
-{1028}{}{Да как ты вообще смеешь..?}
-{1029}{}{Ты меня бесишь! Пошел вон!}
+{1020}{}{Get lost, dumbass!}
+{1021}{}{Get the hell out!}
+{1022}{}{Better don't take your chances, you freak!}
+{1023}{}{Screw you!!!}
+{1024}{}{Make like a tree and get out of here.}
+{1025}{}{You're gonna get punched in the face if you don't get lost!}
+{1026}{}{Make yourself invisible!}
+{1027}{}{What the heck do you want from me?!}
+{1028}{}{How dare you?!}
+{1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{Малыш, тебе туда нельзя.}
-{1031}{}{Там нет ничего интересного.}
-{1032}{}{Лучше пойди и поиграй, ок?}
-{1033}{}{Не трогай мой костюм!}
-{1034}{}{Нет, ты туда не пройдешь.}
-{1035}{}{Сначала подрасти, и я тебя пропущу.}
-{1036}{}{Туда маленьким деткам нельзя ходить.}
-{1037}{}{Мелкий, не путайся тут, хорошо?}
-{1038}{}{Отойди, не мешайся!}
-{1039}{}{[стоит не двигаясь]}
+{1030}{}{Kid, you can't go in here.}
+{1031}{}{There's nothing interesting for you there.}
+{1032}{}{Go play somewhere else, okay?}
+{1033}{}{Don't touch my suit!}
+{1034}{}{No, you won't go in there.}
+{1035}{}{Grow up first, and I'll let you pass.}
+{1036}{}{Little children can't go in there.}
+{1037}{}{Don't run around here, little one.}
+{1038}{}{Step back, don't be a hassle!}
+{1039}{}{[doesn't move]}
 #Спец сообщения (ГГ - мальчик)
-{1040}{}{Как дела, малыш?}
-{1041}{}{Привет-привет!}
-{1042}{}{Давай потом поболтаем, ок?}
-{1043}{}{Эй, как делища?}
-{1044}{}{Не мешайся, пожалуйста.}
-{1045}{}{Нет, давай все же попозже.}
-{1046}{}{Слушай, малыш, мне сейчас некогда.}
-{1047}{}{Как дела, карапуз?}
-{1048}{}{Передавай привет папе!}
-{1049}{}{[смотрит на Вас и улыбается]}
+{1040}{}{How are you doing, kid?}
+{1041}{}{Hey-hey!}
+{1042}{}{Let's talk later, okay?}
+{1043}{}{Hey, how are you?}
+{1044}{}{Don't get in my way please.}
+{1045}{}{No, let's talk later.}
+{1046}{}{Listen kid, I'm busy now.}
+{1047}{}{How are you doing, kiddo?}
+{1048}{}{Say hi to your dad from me!}
+{1049}{}{[looks at you and smiles]}
 #Рандомные плпвающие сообщения
-{1050}{}{Щас бы посидеть, так Вестник застукает.}
-{1051}{}{Не-е, пора работу менять.}
-{1052}{}{Раз, два, три... смотри - не помри.}
-{1053}{}{И что же скучно-то так?}
-{1054}{}{Хоть бы сунулся кто, а то ружье уже ржавеет.}
-{1055}{}{Нужно было в "Хищники" идти.}
-{1056}{}{И так вот день за днем.}
-{1057}{}{В туалет еще захотелось.}
-{1058}{}{Да-а, невесело...}
-{1059}{}{[внимательно изучает ружье]}
+{1050}{}{Would be good to sit for a little... But if Herald sees...}
+{1051}{}{Maybe it's time to get a new job.}
+{1052}{}{One, two, three - nothing to do here.}
+{1053}{}{Why is it so boring?}
+{1054}{}{Would be great if someone attacked - my rifle is getting rusty.}
+{1055}{}{Should have gone with the "Predators".}
+{1056}{}{Day after day - all the same.}
+{1057}{}{I need a toilet.}
+{1058}{}{Yeah, not much fun...}
+{1059}{}{[carefully examines his rifle]}
 #Рандомные плпвающие сообщения
-{1060}{}{Нет-нет-нет, там слишком опасно.}
-{1061}{}{Тебе туда нельзя, слуга.}
-{1062}{}{Нет, это опасно.}
-{1063}{}{Нет, тебе туда не нужно!}
-{1064}{}{Даже не думай об этом.}
-{1065}{}{Ты правда хочешь погулять по Чистилищу!?}
-{1066}{}{Лучше просто отойди.}
-{1067}{}{Я же сказал - НЕТ.}
-{1068}{}{Отвали по хорошему.}
-{1069}{}{[стоит как вкопанный]}
+{1060}{}{No, it's too dangerous there.}
+{1061}{}{You can't go there, Servant.}
+{1062}{}{No, it's dangerous there.}
+{1063}{}{You don't need to go in there!}
+{1064}{}{Don't even think about it.}
+{1065}{}{Do you really want to just take a walk around the Purgatory!?}
+{1066}{}{Just step back.}
+{1067}{}{I told you - NO.}
+{1068}{}{Get lost.}
+{1069}{}{[doesn't move]}

@@ -11,203 +11,199 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: жилистый черный паренек.}
-{2}{}{Странно смотрит на Вас, будто не решил - наброситься или бежать.}
+{1}{}{You see a scrawny black kid.}
+{2}{}{He looks at you as if he's still taking options - to attack you, or to run away.}
 #
 # после знакомства
-{3}{}{Вы видите: Джи.}
-{4}{}{Предводитель малолетних преступников Радуги.}
+{3}{}{You see G.}
+{4}{}{Leader of juvenile criminals of Rainbow.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Подростковая угловатость странно сочетается в нем со звериными повадками хищника] Ты кто такой, мать твою? [Торопливо озирается, проверяя, один ли вы] Ну так че те от Джи надо, дядя? Давай быстрее, мне на тя время тратить неохота. Понял?}
-{11}{}{Привет, Джи. Я }
-{12}{013}{. А что ты тут со своими друзьями делаешь?}
-{13}{}{Я }
-{14}{011}{. Ищу здесь работу. Ты выглядишь знатоком местных улиц. Не подскажешь, к кому я могу обратиться?}
-{15}{999}{Отвали, мелкий! Я просто мимо шел. }
-{16}{999}{Понял. Уже ухожу.}
+{10}{}{[His juvenile antics are strangely combined with the habits of a predator, when he starts talking] Who the hell are ye? [he looks around, as if checking for a threat] Whaddaya want from G, uncle? I have no time to spare. Hear me?}
+{11}{}{Hello, G. I'm }
+{12}{013}{. What are you and your friends doing here?}
+{13}{}{I'm }
+{14}{011}{. I'm here for work. You look like you know the streets. Mind telling me about locals?}
+{15}{999}{Get lost, kid! I'm just walking by. }
+{16}{999}{Got it. Already leaving.}
 
 
-{1001}{}{[Торопливо прячет за спину какую-то игрушку] Ты че здесь опять нарисовался? А? Ходит тут, хрен с бугра...}
-{101}{013}{Хотел разузнать про тебя и твоих дружков, Джи.}
-{102}{011}{Ищу работу. Не подскажешь кого-то?}
-{103}{022}{Доставай закусь - коньячный экспресс прибыл!}
-{104}{023}{Слышь, коротыш, ты че-то больной наглый. Надо вбить тебе немного уважения к старшим.}
-{105}{999}{Да так. Мимо шел. Пока.}
-{1002}{}{[Довольно улыбается при вашем появлении] Хо! Большой брат! А я... мы уж начали переживать, не урыли ли тя местные?}
-{106}{012}{Да где им... Слушай, есть идея, как бы срубить деньжат?}
-{107}{021}{Давай-ка еще разок выставим караван этих придурков из НМП! Ты со мной, маленький брат?}
-{108}{999}{Все в порядке, Джи. Просто решил проведать тебя. Дай знать, если на тебя кто-то попробует наехать. Бывай.}
-{1003}{}{[Машет вам] Давай-давай, дядя! Подгребай поближе. С чем пришел?}
-{109}{013}{Просто поговорить хотел. Например, узнать что-то интересное про твоих друзей.}
-{1010}{021}{Мне понравилось, как мы обставили дело с последним караваном. Ты как насчет повторить?}
-{1011}{999}{Так, просто решил зайти поздороваться. Но мне уже пора.}
-{1004}{}{[Вы замечаете испуг в глазах паренька, но он тут же сжимает кулаки и с решительным видом идет к вам навстречу] Ну гляньте-ка, этож самый большой дядя Радуги! И че ему надо здесь? [Сморкается и вытирает руку об оборванные до колен штаны] Джи в ваши дела не встревает, вот и ты к нам не лезь!}
-{1012}{024}{Значит так, делец, ты на моей территории. Здесь все - мое дело. Так что лучше тебе сразу рассказать, чем вы тут промышлять собрались. Узнаю сам - вам же хуже. }
-{1013}{025}{Вы все еще ходите на караваны?}
-{1014}{026}{Можешь перед своими дружками хоть весь день крутого строить, только не забывай вовремя отдавать мою долю.}
-{1015}{999}{Да не дергайся ты так, нужны вы мне. Гуляй, Джи.}
-{1005}{}{[Джи было бросается к вам, но вспоминает о своем высоком положении и резко сбавляет шаг] Хо! Большой Брат стал совсем большим! Говорил же те, держись поближе к Джи - и все будет путем. Ну все, теперь пусть попробуют на нас наехать... Большой Брат и Джи - сила!}
-{1016}{024}{Как жизнь, Джи?}
-{1017}{025}{А то. Тема с караванами НМП еще жива?}
-{1018}{026}{Пришел забрать твое щедрое пожертвование на развитие нашего общего дела.}
-{1019}{999}{Моих малых братьев никто не тронет, пока я у руля! Рад был повидаться, Джи, но мне пора. }
-{1006}{}{[Большинство малолетних соратников Джи, похоже, до сих пор отмечают смерть хозяина Радуги. Сам Джи подходит к вам, дружелюбно помахивая початой бутылкой. Вы не уверены, узнает ли он вас] Ка... Какие л-люди! Выпьем? Нет? Тогда я один... [Торопливо пьет, давится и едва не блюет вам на обувь] Блять... Не в то горло попало... }
-{1020}{028}{Гм... У вас тут все в порядке?}
-{1021}{999}{Так, мне лучше уйти...}
-{1007}{}{[Джи отбрасывает в сторону заточенную палку и машет вам] Подходи-подходи! Мы тут решили на крыс поохотиться. Как там девки твои? Че с собой-то не привел? Правда, у нас тут грязновато... Да, теперь будем отдыхать красиво, а? Урыл ты этого нигера, брат, хорошее дело сделал!}
-{1022}{012}{Это да... Слушай, есть идея, как бы деньжат срубить? Не так-то просто бордель держать...}
-{1023}{021}{Поговорим потом. А пока, давай-ка еще разок выставим караван этих придурков из НМП! Ты со мной, маленький брат?}
-{1024}{999}{Никто не смеет позорить наш народ! Он должен был умереть... Ладно, я только зашел глянуть, как тут у вас.}
-{1025}{999}{Мда... Ну, пойду я. Удачной вам охоты.}
-{1008}{}{[Начинает смеяться при виде вас, схватившись за впалый живот костлявыми руками] Хозяин всех дырок и щелей Радуги пришел! Ха-ха! Хорошая шутка, а? Никогда не надоедает! Ладно, дядя, не обижайся. Мы те все за эту мразь черножопую благодарны. Так че там у тя?}
-{1026}{013}{Хотел разузнать про тебя и твоих дружков.}
-{1027}{011}{Мне нужна подработка на стороне. Не слыхал чего?}
-{1028}{022}{Доставай посуду! Коньяк у меня. Обмоем заодно и мое назначение.}
-{1029}{023}{Слышь, коротыш, ты че-то больной наглый. Надо вбить тебе немного уважения к старшим.}
-{1030}{999}{Да так. Мимо шел. Уж извини, к себе не приглашаю. }
-{1009}{}{[Из своих лохмотьев Джи и его подручные соорудили какое-то жалкое подобие униформы с загадочными знаками различия. Сам командир скаутов Радуги приветствует вас взмахом сделанного из арматуры жезла]  Шеф! За время нашего...этого... твоюж мать, че я все время забываю...А! Дежурства, во! Короче, все тихо. Граница на замке, дядя!}
-{1031}{999}{[Дать им полсотни батареек] Это вам за хорошую работу. Только не спускайте все сразу. Бывай, Джи.}
-{1032}{999}{Благодарю за службу. Продолжайте в том же духе. Если какие проблемы будут - то сразу ко мне.}
-{1033}{999}{Смотри, если прощелкаете нападение, то я, даже если сдохну, успею тебе башку оторвать! Ладно, отдыхайте пока, воины.}
-{10010}{}{[Из своих лохмотьев Джи и его подручные соорудили какое-то жалкое подобие униформы с загадочными знаками различия. Сам командир скаутов Радуги приветствует вас взмахом сделанного из арматуры жезла]  Шеф! За время нашего...этого... твоюж мать, че я все время забываю...А! Дежурства, во! Короче, все тихо. Граница на замке, Большой Брат!}
-{1034}{999}{[Дать им полсотни батареек] Это вам за хорошую работу. Только не спускайте все сразу. Бывай, маленький брат.}
-{1035}{999}{Отличная работа, бро! Продолжайте в том же духе.}
+{1001}{}{[he hastily hides a toy in a pocket] Whaddaya doing here again? Walking around, getting on my nerves?}
+{101}{013}{I want to know more about you and your friends, G.}
+{102}{011}{I'm looking for a job. Could you give me directions?}
+{103}{022}{It's your lucky day today - the cognac delivery is here!}
+{104}{023}{You are too cocky, shorty. I think I need to beat some respect into you.}
+{105}{999}{I was just walking around. Bye.}
+{1002}{}{Hey, big brother! I-... We were worried about locals making ye bite the dust.}
+{106}{012}{You wish. Listen, do you have any more ideas about making money?}
+{107}{021}{I want to rob another caravan of these fools from NWO! Are you with me, little brother?}
+{108}{999}{It's alright, G. Just decided to visit. Tell me if someone tries to bully you. Bye.}
+{1003}{}{Hey, uncle! Come closer. What do ye have for me?}
+{109}{013}{Just wanted to talk. For example, to ask something interesting about your friends.}
+{1010}{021}{It was a good raid on the caravan. How do you feel about doing it again?}
+{1011}{999}{I wanted to say hi. And now I need to go.}
+{1004}{}{[you see fear in his eyes, but he gets up and steps forward to you] Look who it is, the meanest uncle on Rainbow! What does he want here? [he blows his nose and wipes hand with his torn pants] G doesn't get into your business, so don't get into ours!}
+{1012}{024}{Listen up, businessman, you are operating on my turf. Everything around here is my business. So you'd better tell me what you're up to. If I learn about it not from you - you're getting yourself a problem.}
+{1013}{025}{Are you guys still raiding the caravans?}
+{1014}{026}{You can act cool in front of your friends all day, but don't forget to pay my cut in time.}
+{1015}{999}{Don't be nervous, I need nothing from you. Later, G.}
+{1005}{}{[G starts running to you, but hastily stops, taking serious look] Hey, big brother! Now you are REALLY big! I told ye - be closer to G and everything's gonna be alright. No one would oppose us now... Big brother and G is a force to reckon with!}
+{1016}{024}{How's it going, G?}
+{1017}{025}{You bet. How's the raiding of NWO's caravans? Is it still up?}
+{1018}{026}{I've come to collect your generous donation to our common great cause.}
+{1019}{999}{Nobody touches my little brothers, while I'm in charge. Was nice seeing you, G, but I've got to go. }
+{1006}{}{[looks like most of G's crewmembers are still celebrating the death of Rainbow's owner. G comes to you, friendly waving with an open bottle. You are not quite sure if he recognized you] H-h... Look who's h-here! A drink? No? I'm doing it... [He hastily gulps, but chokes and almost pukes on you] F-fuck... The wrong pipe... }
+{1020}{028}{Ahem... Are you doing alright here?}
+{1021}{999}{I think it's time for me to go...}
+{1007}{}{[G drops a sharpened stick and waves to you] Hey! Come! We are thinking about hunting rats. How are your girls? Why didn't you bring it with you? It's a little dirty here, but... Still, you conked that black asshole nicely, good job!}
+{1022}{012}{Do you have any ideas about how to make a quick buck? It's not easy to run a brothel, as it turns out...}
+{1023}{021}{Leave small talk for later. And now, let's raid another caravan of these idiots from NWO! Are you with me, little brother?}
+{1024}{999}{No one dares to put our folks in shame like that! He died for this... Anyway, I was just checking how are you doing.}
+{1025}{999}{Yeah... I'll go now. Happy hunting.}
+{1008}{}{[seeing you, he starts to laugh, holding his sunken belly with his skinny hands] The master of every hole in Rainbow is here! Haha! Good one, right? Never gets old! Okay, uncle, don't be mad. We are actually very grateful for kicking this black motherfucker's ass. So, whaddaya got?}
+{1026}{013}{I want to learn more about you and your crew.}
+{1027}{011}{I need a side job. Know anything?}
+{1028}{022}{Bring the glasses! Here's a cognac. Let's drink for my promotion.}
+{1029}{023}{You are too cocky, shorty. I think I need to beat some respect into you.}
+{1030}{999}{I was just walking by. }
+{1009}{}{[you notice that G and his henchmen are wearing some kind of a uniform, made from their ragged clothes, decorated with strange insignias. The scout commander himself is waving at you with his hand-made metal staff] Chief! Nothing of significance has happened during out... Err... Damn! Always forgetting... Oh! Our shift! I mean, everything's quiet. The borders are being supervised, uncle!}
+{1031}{999}{[hand them fifty batteries] Here's a payment for a good job. Try to not spend it all at once. See you, G.}
+{1032}{999}{Thank you for your service. Keep it going. If there's a problem - report to me immediately.}
+{1033}{999}{If you miss an invasion, I will rip your head off before I die! That's it. At ease, little warriors.}
+{10010}{}{[you notice that G and his henchmen are wearing some kind of a uniform, made from their ragged clothes, decorated with strange insignias. The scout commander himself is waving at you with his hand-made metal staff] Chief! Nothing of significance has happened during out... Err... Damn! Always forgetting... Oh! Our shift! I mean, everything's quiet. The borders are being supervised, big brother!}
+{1034}{999}{[hand them fifty batteries] Here's a payment for a good job. Try to not spend it all at once. See you, little brother.}
+{1035}{999}{Great job, brother! Keep it going.}
 
 
-{110}{}{[Обеими руками чешет растрепанные волосы, разгоняя мелкую живность] Че уставился? Мне так думается лучше... Хм... А на меня поработать не хочешь?}
-{114}{}{Не-е, мы больше никакой "работой" не занимаемся - несем стражу... дозорим... Ну ты понял, дережим границу Радуги на ключе! Некогда нам теперь "работать" [подбоченивается]}
-{115}{}{Не-е, мы больше никакой "работой" не занимаемся - нужно отдохнуть пока, раны зализать. Подумываю о пенсии... Ха, да шучу я! Но отлежаться какое-то время нам надо, бойцы у меня утомились.}
-{111}{023}{Ха! Да ты че, малой? Тебя в детстве папаша не шарахал башкой об стену? Ты чем расплачиваться будешь - детскими кубиками?}
-{112}{012}{А ты можешь что-то предложить?}
-{113}{999}{Не, не интересует. Да и пора мне.}
-{116}{999}{Понятно, я позже к вам еще загляну.}
+{110}{}{[he is scratching his head with both hands, driving away small insects] Don't stare at me like this! I'm trying to think here. Hmm... Do you want to work for me?}
+{114}{}{Nah, we don't do any "jobs" - we are watchers now... You get it, keeping the Rainbow's borders under supervision. No time for petty things.}
+{115}{}{Nah, we don't do any "jobs" now - still need to rest from the last time, to lick our wounds. I'm thinking about early retirement.... Ha, just kidding! Still, we really need to rest, my fellas are tired.}
+{111}{023}{Hah! Seriously, snot? And what would you pay me with? Toys?}
+{112}{012}{What are you offering?}
+{113}{999}{No, not interested. And I need to go.}
+{116}{999}{I see, I'll come later.}
 
 
-{1201}{}{Есть верная тема - всем в итоге хватит. Из НМП регулярно ходят караваны, эт я у бара подслушал, когда по карманам одного нажратого шарился... Ну нам-то всего и нужно, что эти караваны грабануть. И они еще сказали, что с охраной там плохо. Ну как? Поможешь? Ты чел новый и вроде бывалый, мы такого давно искали.}
-{121}{023}{Да с вами только пьянь и обчищать! Какой тебе караван, черныш? Вали-ка в свою кроватку и не суши взрослым мозги.}
-{122}{018}{Я в тебе не сомневаюсь, но дело это рискованное... Ты все хорошо обдумал?}
-{123}{017}{Это мне годится. Место уже выбрали?}
-{124}{999}{Не, без меня. Информация непроверенная, подробности неизвестны... Я так не работаю. Пока!}
-{1202}{}{[Подмигивает с таинственным видом] Конечно, брат! Я тут подслушал кое-что, пока обчищал у бара карманы одного нажратого снежка... Речь о караванах из НМП. Охрана там никакая, товара полно... Сечешь,а? Здорово я придумал, скажи же? [Смотрит на вас в ожидании одобрения]}
-{125}{018}{Слушай, Джи... Все это круто, конечно, но ты понимаешь, чем это может грозить?}
-{126}{017}{Отличная тема, маленький брат! Где будем их брать? Нужно хорошее место...}
-{127}{999}{Давай-ка перетрем это попозже, бро. Мне сейчас надо идти.}
+{1201}{}{There is something, alright. Would be enough to all of us. I overheard this near the bar, cleaning pockets of one drunk... There are some regular caravans from NWO coming around. All we need is to raid one. The security must be pretty weak, or so they say. Well? Are you in? You look like an experienced fella, we could use your help.}
+{121}{023}{I think you are capable of raiding only local drunks! What caravan, black boy? Get out of here, don't buzz me!}
+{122}{018}{I have no doubts in you, but it sounds risky... Did you think this through?}
+{123}{017}{It suits me. Have you picked a place for an ambush?}
+{124}{999}{I'll pass. The info is unverified, details are unknown... I don't do work this way. See you!}
+{1202}{}{[he winks at you with a mysterious look] Sure, brother! I overheard something recently, while cleaning pockets of one drunk white boy... About the caravans from NWO. Guards are weak, much stuff to take... Get it? A good idea, don't you think? [looks at you, waiting for your approval]}
+{125}{018}{Listen, G... It's cool and all, but do you understand the consequences?}
+{126}{017}{Great, little brother! Where are we going to set up our ambush? We need a good place...}
+{127}{999}{Let's talk about it later. I need to go now.}
 
 
-{130}{}{[Упирает руки в бока, выпятив впалую грудь] Э! Ты следи, че гонишь тут! [Старается говорить громче, чтоб его сообщники все слышали] Они мне не друзья! Они мои БРАТЬЯ! Вот увидишь, мы тут все под себя подомнем со временем... А че? Кабан, конечно, дядя крутой, но совсем уже сторчался на Капле. Даже спать не может, я сам слыхал! Остальные нам че - помешают? Пастух этот... [Высмаркивается в два пальца] Позор черных братьев он! Сутенер гребаный... И че Кабан так его приподнял? А с нами лучше дружить - мы на Радуге все ходы выходы знаем и за своих любого порвем. В общем, мне только людей не хватает - вот и все наши проблемы... [Задумчиво смотрит на вас]}
-{131}{014}{Что-то  хочешь добавить, Джи?}
+{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog cares about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
+{131}{014}{Have something to add, G?}
 
 
-{1401}{}{[Мотает головой] Не, ниче.}
-{141}{012}{Тогда не подскажешь, как тут насчет работенки какой?}
-{142}{999}{Ну тогда будь здоров.}
-{1402}{}{Да так...[Достает зубочистку и начинает ковыряться в ухе] Я вот думаю, что и тебе место у нас нашлось бы... Еслиб ты сумел доказать, что чета умеешь.}
-{143}{015}{Да? Польщен, слов нет. И чего такого я уметь должен, интересно?}
-{144}{012}{Боюсь, вы пока слишком круты для меня. Но я обдумаю твое любезное предложение. А пока не скажешь - работа в ваших краях непыльная имеется?}
-{145}{999}{Ну нет уж. Чего только не услышишь... Ладно, зайду попозже.}
+{1401}{}{[he shakes head] Nah. Nothing.}
+{141}{012}{Maybe you can tell me then - is there some job for me around here?}
+{142}{999}{See you around then.}
+{1402}{}{Uh... I think we could accept you into our gang... If you can prove that you are useful.}
+{143}{015}{Really? I'm flattered. And what do you mean by "useful", I wonder?}
+{144}{012}{I think you guys are too cool for me. But I'll think about your proposal. Say - is there some job for me around here?}
+{145}{999}{No way. You hear all sorts of things these days... I'll come by later.}
 
 
-{150}{}{[Оживляется] Да ниче особенного! Притащи нам коньячка... Ну... Бутылок пять, скажем. Ты по виду тот еще проныра, сумеешь же справиться!}
-{151}{999}{И это все? Гм... Никогда не знаешь, кто в итоге может пригодиться... Ладно, вернусь с добычей.}
-{152}{016}{А вам не рановато глазенки заливать? В жизни много дерьма, но это уж точно не выход. Сам же про Кабана говорил... Сначала бухло, потом наркота...}
-{153}{999}{Еще мне не хватало малолеткам коньячок подтаскивать... Не, пока у меня не настолько все плохо.}
+{150}{}{Nothing special! Just bring us some cognac... Uh... Five bottles will be enough. You can handle it, right? You look capable.}
+{151}{999}{That's it? Hmm... You'll never know what could come in handy later. I'll be back with the stuff.}
+{152}{016}{Aren't you a little... underage, to get drunk? Sometimes the life is shitty, but this is definitely a bad step. Remember what you said about the Hog? The booze is just the beginning.}
+{153}{999}{Yeah, to fetch some cognac to some snots... No thank you. Not today.}
 
 
-{160}{}{[Хмыкает с пренебрежительной улыбкой] Ты еще поучи меня, дядя. Я ширяться не собираюсь, не боись. А выпивка меня так быстро не вгонит в гроб. Так че мне переживать за то, что подкосит меня лет через двадцать, когда в этом гребаном Радиусе  я до завтра в легкую могу не дожить? Надо брать весь кайф от жизни! А ты прям как заботливый папаша тут мне втираешь чета... [Вздыхает] В общем, спасибо, конечно, но я сам разберусь, как мне жить. Так че - притащишь коньячок? Так-то мы и сами его легко надыбать можем.}
-{161}{999}{Ок, ты прав. Сам поймешь все со временем... Будет тебе коньяк.}
-{162}{999}{Нет. Извини, но прикладывать руку к тому, чтоб твою жизнь еще хуже сделать, я не собираюсь.}
+{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I'll make it. Why should I care what happens in next twenty years, while I can die at any moment from some random shit? I should have fun! Now, in this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advices. So? Would you get us some booze? If not, we can do it ourselves.}
+{161}{999}{You're right. You'll understand... Eventually. I'll bring you your cognac. Wait.}
+{162}{999}{No. I won't participate in making your life more miserable.}
 
 
-{170}{}{[Торопливо чертит палкой на земле карту, помечая что-то цветными камушками ] Эт мы, значит... Эт они... А тут... Блять, кто опять все камушки растащил? Вот тут, тут и здесь можно их брать. Если что-то пойдет не так, можем легко уйти. Местность там подходящая. Если сейчас двинем шустро, то как раз к ближайшему каравану успеем.}
-{171}{999}{Ну ты стратег... Ладно, на месте все оценю. Выдвигаемся.}
-{172}{999}{Не, не годится. Если передумаю, я найду тебя.}
+{170}{}{[he starts to draw something on the ground with a stick, marking points with little stones] Here's the plan... That's us, this is them... And this is- fuck! Who took my stones? This is the place where we can attack them. If something goes sideways, we can easily get away through here. If we go now, we should make it to the nearest caravan.}
+{171}{999}{You are such a mastermind... Okay, we'll figure out the rest on the spot. Let's move.}
+{172}{999}{No, I won't go now. If I change my mind, I'll find you.}
 
 
-{180}{}{[Удивленно смотрит на вас] А че там думать? Я ж тебе все сказал - охрана хреновая, а груз хороший! Делов-то...}
-{181}{019}{Охрана-то может и хреновая, но вот поверь, когда в тебя попадет пуля, тебе не важно будет, кто ее выпустил - спец или дилетант. Посмотри правде в глаза - у вас недостаточно опыта, чтобы такие вещи без проблем проворачивать. Ты альтернативный метод заработка не рассматривал?}
-{182}{017}{Так-то да, ты прав... Давай попробуем провернуть это дело!}
-{183}{999}{Ладно, не буду тебя переубеждать. Зайду попозже.}
+{180}{}{What's there that makes you doubt? I'm telling you - the security is shit, the stuff is good! Easy-peasy...}
+{181}{019}{Security may be shit, but believe me, when you take a bullet it doesn't matter. Be honest, you are not experienced enough for this kind of stuff. Did you consider alternatives?}
+{182}{017}{Actually, you are mostly right... Let's do this!}
+{183}{999}{I won't try to change your mind. I'll come by later.}
 
 
-{190}{}{Че? Алтер... Типа, другим чем-то заняться? Да чем тут займешься? Кабан со своими все под себя подмял...}
-{191}{020}{Ну, например, вы бы могли охранять периметр Радуги. Я, еще когда только сюда попал, обратил внимание, что к внезапному нападению здесь не готовы. Кабан это наверняка понимает - значит,  у него просто людей не хватает наладить регулярное патрулирование прилегающей местности. Я могу с ним о вас поговорить - изложу все грамотно. Это не значит, что вы под него пойдете. Будете... Равноправными партнерами, скажем так. Как тебе? }
-{192}{017}{Мда... А вообще ты прав. Караваны грабить веселее будет. Что там у тебя за план?}
-{193}{999}{Я вернусь, как что-нибудь придумаю.}
+{190}{}{What? Alter... You mean, to do something else? What exactly? The Hog's got everything under his boot...}
+{191}{020}{For example, you could guard the Rainbow's borders. It's obvious that this place is not very protected from sudden invasions. The Hog obviously gets it, so if he is not doing something about it now, then he is short on people. I can talk about it with him. Make you equal partners in this matter. What do you think? }
+{192}{017}{Uh... Yes, you're right. Robbing caravans is more fun anyway. What was your plan?}
+{193}{999}{I'll get back when I think of something.}
 
 
-{200}{}{Гм... Это перетереть надо...[Отходит в сторонку, созывая своих дружков. Они о чем-то долго говорят, размахивая руками. В итоге Джи с довольным видом возвращается к вам] Мы согласны. Можешь договариваться с Кабаном. }
-{201}{999}{Вот и отлично! Из тебя хороший лидер вырастет. Пойду, займусь вашим вопросом. До скорого!}
+{200}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. He looks pleased] We're in. You can talk to the Hog. }
+{201}{999}{Great! You're going to grow up into a good leader. I'll go resolve this matter. See you!}
 
-{202}{}{Слушай, я перетер с Кабаном на тему охраны Радуги - он согласен, вы ему нужны.}
-{203}{}{Ну вот, ВОТ ЖЕ! Банда Джи - партнеры Кабана, а? Вот это новость! Скоро мы тут будем всем рулить! Ну ты, мужик, нам реально помог! Уж мы-то тебя теперь не подведем!}
-
-
-{210}{}{[Подпрыгивает, хлопая вас по плечу] Я знал, что в те не ошибся! Наш человек! Конечно, повторим, не вопрос! Мы только тя и ждали!}
-{211}{999}{Ну так заставим этих новых хмырей страдать! Выступаем!}
-{212}{999}{Ок! Только обожди, мне еще кое-что сделать надо.}
+{202}{}{I had a talk with the Hog about guarding the Rainbow - and he is in. He needs your services.}
+{203}{}{Yeah! YEAH! The G's gang and the Hog are PARTNERS! How's that sounds? We're going to be in charge here! Gonna do things! You are so helpful, man, we wil not let you down! Thanks!}
 
 
-{220}{}{[Вы пьете со своими новыми братьями всю ночь. Под утро Джи перед всеми, кто еще не спал или не блевал в ближайших развалинах, провозглашает вас полноценным членом банды! Жизнь удалась ]}
-{221}{999}{[Отправится спать с чувством выполненного долга]}
+{210}{}{I knew it! I knew I wasn't mistaken in you. We are of the same kind! Let's do this again, sure, we are waiting only for you to get ready!}
+{211}{999}{Let's make these bitches suffer! Move out!}
+{212}{999}{Good! Only wait a minute, I need to do something first.}
 
 
-{230}{}{[Отпрыгивает от вас, торопливо шарясь в лохмотьях] Ну ты, сучара длинная, ща мы тебя-то распотрошим! Ко мне, банда!}
-{231}{998}{Черт, это будет непросто - как бы мне от смеха не загнуться. Тоже мне, бойцы...}
+{220}{}{[You are getting drunk with your new brothers and sisters for all night. At morning, G declares you a member of the gang, in front of everyone who's still standing and not puking in the nearest ruins. Life feels great!]}
+{221}{999}{[Go to sleep with a feeling of fulfillment]}
 
 
-{2401}{}{[Джи какое-то время пытается буравить вас взглядом, но потом сдается и понуро кивает] Ладно, твоя взяла, дядя... Ну че те сказать? Мы здесь тихо себя ведем. Нам проблемы с тобой ни к чему. Тем более, что у нас и свое дело есть - грабим караваны это гребаного нового порядка. Там бывает и охрана слабая, и добыча хорошая. Еще и получше тя заживм в итоге...}
-{241}{027}{Караваны? Вы совсем охренели? А проблемы кто потом разгребать будет, если НМП на нас наехать решит? }
-{242}{999}{Вот значит как? Это интересно... Мне сейчас некогда, но я к вам еще вернусь.}
-{2402}{}{Да жизнь хороша, бро! Кто нам че скажет, если ты с нами? Но ты не думай - здесь мы срать не собираемся, чтоб проблем те не заделывать. Охотимся сейчас на караваны НМП - там охрана никакая и навариться можно нехило. }
-{243}{027}{Караваны? Знаешь, бро, от этого-то как раз и могут быть проблемы. И у меня, и у вас. Скольких ты уже потерял?}
-{244}{999}{Вот значит как? Интересная тема, бро... Мне сейчас некогда, но я к вам еще вернусь.}
+{230}{}{[he jumps away from you, pulling out something from under his rags] Okay, you tall bitch, now we are going to rip you up! Come on, guys!}
+{231}{998}{That isn't going to be easy for me - I can die from laughter. Fighters, my ass...}
 
 
-{2501}{}{[Кивает, настороженно поглядывая на вас] Ну допустим. А те че до этого?}
-{251}{027}{Слушай сюда. Мне похрен, как там было раньше. Теперь у меня из-за этого могут  быть проблемы. Да и у вас тоже. Сечешь?}
-{252}{999}{Пока ничего. Но разговор еще не закончен.}
-{2502}{}{[Широко ухмыляется] Ну так. Мы эту тему никому не отдадим!}
-{253}{027}{Послушай, бро, мне и самому это нравилось, но теперь у нас могут быть серьезные проблемы. Скольких ты уже потерял?}
-{254}{999}{Да, тема хорошая... Мне сейчас некогда, но я к вам еще вернусь.}
+{2401}{}{[G silently stares at you. Then sighs and nods] Ye win, uncle... What can I say? We are quiet, we don't need problems with you. Besides, we have our own thing - we rob caravans from NWO. The security is shit, the stuff is good...}
+{241}{027}{Caravans? Are you out of your mind? Who is going to deal with NWO if they decide to attack us? }
+{242}{999}{Is that so? Sounds interesting... I'll come to you later, to talk details.}
+{2402}{}{The life's good, brother! Who can oppose us with you by our side? Don't worry, we aren't shitting on your territory. We raid NWO's caravans now - the security is shit, the stuff is good... }
+{243}{027}{Caravans? You know, brother, it can actually cause problems. To me and you. How many of yours have you already lost?}
+{244}{999}{Is that so, brother? Sounds interesting... I'll come to you later, to talk details.}
 
 
-{260}{}{[Отдуваясь, с трудом переворачивает тяжелый валун и вытаскивает из-под него завернутые в тряпку батарейки] Все здесь, типа. Забирай, че уж там.}
-{261}{999}{Ты бы получше тайник сообразил. Ладно, увидимся еще.}
+{2501}{}{So? What do ye mean?}
+{251}{027}{Listen here. I don't care how it was before. I can have problems because of this. And you too. Get it?}
+{252}{999}{Nothing for now. But we haven't finished.}
+{2502}{}{[he grins] We're not giving this business to anyone!}
+{253}{027}{Listen, brother, I used to like this shit too. But now it can cause us problems. How many of yours have you already lost?}
+{254}{999}{I have no time for this now, but I'll come to you later.}
 
 
-{2701}{}{[Джи аж подпрыгивает на месте с возмущенным видом] А че нам делать остается? Последний хер кротокрысин без соли доедать? Те хорошо, подмял под себя Радугу... Не, ну нигде уже работать нормально не дают!}
-{271}{029}{Я не говорю вам прекращать нападения. Но если у меня могут из-за этого быть трудности, то вы должны платить мне за возможное беспокойство. Сотня в месяц.}
-{272}{030}{А если я предложу вам работать на меня? Мне нужны толковые скауты по периметру Радуги. Может найтись слишком много желающих  испортить нам жизнь...  За это я обеспечу вас бесплатной кормежкой и буду закрывать глаза на мелочи, вроде шмона карманов приезжих. Дежурить будете посменно, с этим сами разберетесь. Маршруты я вам сам назначу. Ну так как?}
-{273}{999}{Мне надо это обдумать. Еще зайду.}
-{2702}{}{[Джи заметно мрачнеет] Пятерых... Ну а чего нам остается? Последний хер кротокрысин без соли доедать? Ты не подумай, я все понимаю - ты за нас типа переживаешь. Отвечаю те, я это ценю! Хочешь, буду  долю засылать? На поддержку нашего общего дела? Сотню, а?}
-{274}{029}{Хм... Это хорошая идея. Годится, бро. Для удобства буду навещать вас по этой теме раз в месяц. }
-{275}{030}{Лучше давай-ка работать вместе. Мне нужны толковые скауты по периметру Радуги. Может найтись слишком много желающих  испортить нам жизнь...  За это я обеспечу вас бесплатной кормежкой и буду закрывать глаза на мелочи, вроде шмона карманов приезжих. Дежурить будете посменно, с этим сами разберетесь. Маршруты я вам сам назначу. Ну так как?}
-{276}{999}{Да, непросто все... Я обдумаю ситуацию, а вы пока поберегите себя, не лезьте на рожон.}
+{260}{}{[pouting, he pushes a heavy boulder, pulling out a wrapped piece of cloth laying under it] Here's everything. Take it, will you...}
+{261}{999}{You could pick a better place to make a stash. See you.}
 
 
-{280}{}{Д-да все о-отлично...  [Взгляд его на какое-то время становится вполне трезвым] Вот допьем коньяк, предохнем - и пойдем резать всех... Кто нас терь остановит? [Его неожиданно тошнит, взгляд снова мутнеет] Р-рад-дуга н-наша... }
-{281}{999}{Надеюсь, это только пьяный бред. Ладно, сейчас с вами разговаривать бесполезно. }
-{282}{999}{Ха! Вот будет зрелище - пигмеи на тропе воны! Возьму билет в первый ряд. Ну давай, готовься, боец.}
+{2701}{}{What else should we do? Eat shit and die? It is you who put all Rainbow under his belt... We are literally out of options!}
+{271}{029}{I'm not telling you to stop doing it. But if I have troubles, then you are paying me to compensate them. A hundred each month.}
+{272}{030}{What if you'll work for me? I need scouts to watch over Rainbow's perimeter. We have many enemies, you know... For this, you get free supplies and I'm going to ignore little things like empty pockets of locals and town guests. What do you say?}
+{273}{999}{I need to think. I'll come by later.}
+{2702}{}{[G gets somber] Five... But what else should we do? Eat shit and die? Don't take me wrong, I get it - you are worrying about us. And I appreciate it! Want me to pay you cut for this? A hundred, for our common cause?}
+{274}{029}{That's actually a very good idea. Deal, brother. I will be visiting you once in a month.}
+{275}{030}{I have a better proposal - let's work together. I need scouts to watch over Rainbow's perimeter. We have many enemies, you know... For this, you get free supplies and I'm going to ignore little things like empty pockets of locals and town guests. What do you say?}
+{276}{999}{Sounds difficult... I'll think about it, and you take care of yourselves. Try not to get yourself killed.}
 
+{280}{}{Y-yeh, ev-vrything'z great...  [for a moment, his sight gets sober] Just let us drink up this, take a nap and we'll go cut everyone's throat... Who can stop us? [he suddenly pukes, eyes become murky again] The R-rainbuw'z ours... }
+{281}{999}{No use in talking to you now. Get yourself some sleep and we'll talk. }
+{282}{999}{Ha! Quite a sight - midgets on a path to war! I'm definitely going to see it. Okay, later. Get yourself ready, warrior.}
 
-{2901}{}{[Уныло кивает] Ну согласен, да... Тыж все равно не отстанешь. Все вы, белые, одинаковые...}
-{291}{999}{Поверь, со мной тебе еще повезло. До следующего месяца, налетчик.}
-{2902}{}{[Довольно улыбается] Все, мы терь партнеры! Джи крут! Пойду остальным расскажу.}
-{292}{999}{С тобой приятно иметь дело, бро! Ну, до скорого.}
+{2901}{}{Uh, well, yes... You won't leave me alone anyway. All you white boys are the same...}
+{291}{999}{Believe me, you are lucky to have me. See you next month, raider.}
+{2902}{}{Now we're partners! G's cool! I'll go tell everyone. See ye.}
+{292}{999}{Pleasure doing business with you, brother. Bye.}
 
+{300}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. He looks pleased] We're in! We won't let you down!}
+{301}{999}{You should be afraid what happens if you will.}
+{302}{999}{I have no doubts, brother!}
+{303}{999}{Great! You're going to grow up into a good leader. See you!}
 
-{300}{}{Гм... Это перетереть надо...[Отходит в сторонку, созывая своих дружков. Они о чем-то долго говорят, размахивая руками. В итоге Джи с довольным видом возвращается к вам] Мы согласны. Не боись - мы тя не подведем!}
-{301}{999}{Если подведете - бояться надо будет вам.}
-{302}{999}{Не сомневаюсь в тебе, бро!}
-{303}{999}{Вот и отлично! Из тебя хороший лидер вырастет. Пойду, займусь вашим вопросом. До скорого!}
+{500}{}{Phew, this wasn't as easy as I thought. But we still did it, right? Let's grab the loot and get back to base.}
+{501}{}{Well, it was easier this time, although not without damages... Okay brothers, get the stuff and get out!}
+{502}{}{That's it, this one is last for now. We need to lay low and lick wounds. Take the shit and go, brothers!}
+{503}{999}{[end]}
 
-
-{500}{}{Ффу-ух, это оказалось не так просто, как я думал. Но мы же справились, а! Шмонаем жмуриков, гребем добычу и валим на базу.}
-{501}{}{Ну-у, в этот раз уже попроще получилось, хоть и не без ущерба... Давайте, братишки, забираем добычу и валим домой!}
-{502}{}{Все, это пока что был последний налет, нужно зализать раны, отдышаться. Забираем добычу и домой, братья!}
-{503}{999}{[готово]}
-
-{505}{}{С грабежа каравана Вы получаете }
-{506}{}{ батареек наживы! И отрицательную карму.}
+{505}{}{From robbing the caravan, you get }
+{506}{}{ batteries of profits! And bad karma.}

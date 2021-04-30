@@ -24,18 +24,18 @@
 #
 # отец болен
 #
-{1}{}{Вы видите: отец.}
-{2}{}{Это Ваш отец, он выглядит очень-очень больным. Вас посещают самые мрачные мысли при взгляде на него.}
+{1}{}{You see your father.}
+{2}{}{This is your father - and he looks very, very sick. You have the darkest thoughts when looking at him.}
 #
 # после выздоровления
 #
-{3}{}{Вы видите: отец.}
-{4}{}{После болезни он все еще плохо выглядит, но ему заметно лучше.}
+{3}{}{You see your father.}
+{4}{}{He still doesn't look good - but he feels much better.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Ты кто такой?}
-{11}{}{Я - герой!}
+{10}{}{Who're you?}
+{11}{}{Ima hero!}
 {12}{}{}
 {13}{}{}
 {14}{}{}
@@ -47,32 +47,32 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{А-а, }
-{101}{}{... Приятно вновь тебя видеть. Здесь...}
-{102}{}{[спокойно смотрит на Вас]}
-{103}{}{Отец! Как ты себя чувствуешь?}
-{104}{}{И я рад, что ты на ногах. Может нужно что-то принести? Ты ведь знаешь, я могу теперь выходить... туда.}
-{105}{}{Да-да, хорошо что ты в порядке. Еще увидимся.}
-{106}{}{Ничего. Еще увидимся.}
-{110}{}{Твое лекарство помогло. Все было... Все плыло, как будто в тумане. Знаешь, мне даже кажется, я видел Элизу... Извини, мне тяжело разговаривать, я еще не до конца пришел в себя.}
-{111}{}{Ничего-ничего, я понимаю. Знаешь...}
-{112}{}{Конечно же, отдыхай. Я зайду попозже.}
-{113}{}{Пытаюсь потихоньку встать на ноги, но эта болезнь оказалась чертовски живучей. Не думаю, что я поправился. Мне нужно отдохнуть.}
-{120}{}{*тяжело вздыхает* Знаешь, не нравится мне все это. Наше место - здесь, здесь - наш дом, а ты ходишь туда, ищешь себе смерти. Оставайся тут, мы скроем тебя от Сынов Богов.}
-{121}{}{Я еще не все закончил там, наверху. Но скоро я вернусь, уверяю тебя.}
-{122}{}{Нет! Это не жизнь для свободного человека! Там огромный мир, а вы здесь живете как рабы! Я не останусь, не проси.}
-{123}{}{Ну-у, я подумаю об этом на досуге.}
-{130}{}{*снова тяжелый вздох* Надеюсь, ты знаешь что делаешь. Береги себя, }
+{100}{}{It's you, }
+{101}{}{... So glad to see you... Here...}
+{102}{}{[he calmly looks at you]}
+{103}{}{Dad! How are you feeling?}
+{104}{}{I'm glad that you are alright. Maybe you need me to carry you something? I can go outside, remember.}
+{105}{}{Good that you are feeling better. See you later.}
+{106}{}{Nothing. See you around.}
+{110}{}{Your medicine had helped. Everything was... Blurry. I think I saw Elise... Excuse me, I still don't feel completely well. It's hard for me to talk.}
+{111}{}{It's alright, I get it. You know...}
+{112}{}{Of course. Get some rest. I'll be back.}
+{113}{}{I'm trying to get on my feet, but this sickness is damn resilient. I don't think I'm completely healed. I need to rest.}
+{120}{}{[he sighs heavily] You know that I don't like it. Our home is here, and you always go there, looking for your death. Stay with us! We'll hide you from the Sons of Gods.}
+{121}{}{I haven't finished my business outside. But I will be back, I assure you.}
+{122}{}{No. This is not a life for a free man! There's a vast and wondrous world outside, while you live here as slaves! Don't ask for it, I won't stay.}
+{123}{}{I'll think about it in my spare time.}
+{130}{}{[he sighs again] I hope you know what you're doing. Take care of yourself, }
 {131}{}{.}
-{132}{}{Конечно, не беспокойся за меня.}
+{132}{}{Of course. Don't worry about me.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{Мне кажется, что-то у нас в Тартаре не так.}
-{1001}{}{Сын, похоже, что-то изменилось... Поговорим позже.}
-{1002}{}{До нас доходят странные слухи. О мертвом Боге!}
-{1003}{}{Ни за что не поверю, что наша жизнь может измениться!}
-{1004}{}{Тут поговаривают, что ты причастен к... Богам? Чушь, такого не может быть!}
+{1000}{}{I think something wrong in the Tartarus.}
+{1001}{}{Son, something has changed... We'll talk later.}
+{1002}{}{We are hearind strage rumors. About the dead God!}
+{1003}{}{I won't ever believe that our life can change!}
+{1004}{}{Some say that you belong to... the Gods? Nonsense! It can't be!}
 {1005}{}{}
 {1006}{}{}
 {1007}{}{}
@@ -107,10 +107,10 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{::стонет::}
-{1031}{}{А?.. Элиза?..}
-{1032}{}{[закатывает глаза]}
-{1033}{}{Кто? Где? А-а-а-х...}
+{1030}{}{::moans::}
+{1031}{}{Huh?... Elise?...}
+{1032}{}{[rolls eyes]}
+{1033}{}{What? Where? Ohhh...}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}

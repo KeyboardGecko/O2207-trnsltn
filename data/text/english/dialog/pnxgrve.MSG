@@ -8,8 +8,8 @@
 # Это - надгробие Надин в городе над метро. Нужно для квеста ДЖО.
 #
 # Описание 1
-{1}{}{You see: a fancy tombstone.}
-{2}{}{You see: a tombstone with a beautiful sign.}
+{1}{}{You see a fancy tombstone.}
+{2}{}{You see a tombstone with a beautiful sign.}
 
 # Описание 2
 {3}{}{Looks like someone put a lot of effort into this gravestone.}

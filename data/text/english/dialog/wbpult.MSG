@@ -8,11 +8,11 @@
 # Это - Генератор электричества в военном бункере
 #
 # Описание 1
-{1}{}{You see: a humming generator.}
+{1}{}{You see a humming generator.}
 {2}{}{This generator works, providing devices of this base with electricity.}
 
 # Описание 2
-{3}{}{You see: non-working generator.}
+{3}{}{You see a non-working generator.}
 {4}{}{This generator was turned off by you, did you forget that?} 
 
 # Действия

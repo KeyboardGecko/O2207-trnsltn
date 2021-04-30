@@ -11,185 +11,181 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: дерганый старикашка.}
-{2}{}{У него грязные не расчесанные волосы. Даже с большого расстояния заметно, что руки дрожат - видимо, на нервной почве.}
+{1}{}{You see a twitchy old man.}
+{2}{}{He has dirty, bushy hair. Even from a distance, you can notice how shaky his hands are - looks like he is very nervous.}
 #
 # после знакомства
-{3}{}{Вы видите: Деймонд "безумный".}
-{4}{}{Похоже, в эту самую секунду он продумыет новый оригинальный способ уничтожения всего живого.}
+{3}{}{You see Diamond "the madman" Crank.}
+{4}{}{Probably, in this exact second he thinks about some mad stuff. For example, a new way to kill everything alive in Radius.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Седой лохматый неопрятный мужчина в одежде ученого еле заметно шевелит губами. Пальцами левой руки двигает так, будто невидимой ручкой записывает какие-то вычисления. Удивительно, он смотрит прямо на вас. Хотя нет. Сквозь вас - совершенно не замечая]}
-{11}{002}{[Аккуратно помахать рукой перед лицом]}
-{12}{002}{[Легонько прикоснуться к плечу]}
-{13}{998}{[Наклониться к уху - и заорать как можно громче]}
+{10}{}{[A gray-haired, unkempt man in a lab coat stands still, barely moving his lips. Fingers on his left hand are twitching, as if he is writing something down. Looks like he stares right at you - but then you see that his sight goes through you. He doesn't seem to notice you at all.]}
+{11}{002}{[slowly wave your hand in front of his face]}
+{12}{002}{[gently touch his shoulder]}
+{13}{998}{[come closer to his ear and shout as loud as you can]}
 
 
-{20}{}{[Никакой реакции. По крайней мере, вы не заметили ни малейших изменений: губы шепчут, рука пишет, глаза стекленеют все сильнее]}
-{21}{003}{[Уверенно размахивать перед лицом руками]}
-{22}{003}{[Потормошить за плечи]}
-{23}{998}{[Больно пнуть ногой в колено]}
+{20}{}{[No response. At least, nothing visible: lips are still whispering, hand is still writing, eyes get even more blank.]}
+{21}{003}{[wave both hands in front of him]}
+{22}{003}{[shake him by the shoulders]}
+{23}{998}{[kick him in the knee]}
 
 
-{30}{}{[Ученый полностью замирает на долю секунды. Потом смотрит вам на лоб - и неожиданно резко выкрикивает: "БА-БАХ! Ядерный раздолбай, как же я раньше не догадался!". Затем снова уходит в себя]}
-{31}{004}{[Смириться и ждать]}
-{32}{006}{[Смириться и ждать]}
-{34}{005}{[Начать "Эй-кать" и крепко дергать за плечи]}
-{35}{007}{[Начать "Эй-кать" и крепко дергать за плечи]}
+{30}{}{[The scientist freezes for a second. Then looks at your forehead - and suddenly shouts "KA-BOOM! Oozy mess, Why didn't I put that together before?!" The his sight becomes blank again.]}
+{31}{004}{[accept the situation and wait]}
+{32}{006}{[accept the situation and wait]}
+{34}{005}{[Start to say "hey" repeatedly, shaking him by the shoulders]}
+{35}{007}{[Start to say "hey" repeatedly, shaking him by the shoulders]}
 
 
-{40}{}{[Через 30 минут пожилой человек снова замирает. Затем делает глубокий вздох. И направляет пристальный взгляд на вас - теперь совершенно осозанно] Твою мать, ты дважды отвлек меня! Плазменый ошметок тебе в штаны! Еще немного, и этот интеграл так и остался бы нерешенным - из-за тебя. Понял, ядерный раздолбай? Ты виноват, а вину нужно заглаживать. Прямо сейчас!}
-{41}{008}{Хе-хе. Вину загладить? Нужно что-то сделать?}
-{42}{009}{Полегче! Я только хотел задать пару вопросов.}
-{43}{999}{Не-не-не. Никаких заглаживаний. Я уже ухожу. }
+{40}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! A bit more, and this integral would remain unresolved - because of you. Get it, oozy mess? You’re guilty, and you need to make up for it! Right! Now!}
+{41}{008}{Make up for it? Ha. What do you need me to do?}
+{42}{009}{Easy! I only wanted to ask a couple of questions.}
+{43}{999}{No, no, no. No making ups. I'm leaving already. }
 
 
-{50}{}{[Пожилой человек снова замирает. Затем делает глубокий вздох. И направляет пристальный взгляд на вас - теперь совершенно осозанно] Твою мать, ты трижды отвлек меня! Плазменый ошметок тебе в штаны! Этот интеграл ускользнул от меня - из-за тебя. Понял, ядерный раздолбай? Ты очень виноват, а вину нужно заглаживать. Прямо сейчас!}
-{51}{008}{Вину загладить, говоришь. Дай угадаю - нужно что-то сделать?}
-{52}{009}{Полегче! Я только хотел задать пару вопросов.}
-{53}{999}{Не-не-не. Никаких заглаживаний. Я уже ухожу. }
+{50}{}{[he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! This integral slipped away from me - because of you. Get it, oozy mess? You’re guilty, and you need to make up for it! Right! Now!}
+{51}{008}{Make up for it, you say? Let me guess - you need me to do something for you?}
+{52}{009}{Easy! I only wanted to ask a couple of questions.}
+{53}{999}{No, no, no. No making ups. I'm leaving already. }
 
 
-{60}{}{[Через 30 минут пожилой человек снова замирает. Затем делает глубокий вздох. И направляет пристальный взгляд на вас - теперь совершенно осозанно] Плазменный ошметок, кто к нам пожаловал. Пастырь неразумных овечек. Вместо того, чтобы два! Два раза отвлекать меня, мог бы подумать о том, что наука гораздо полезнее и эффективнее для "Олимпа", чем эти ваши аферы с верой! Впрочем, ядерный раздолбай, ты как никогда вовремя - и можешь сгодиться во благо познания.}
-{61}{008}{Во благо познания? Ха-ха. Дай угадаю - сейчас предолжишь что-то сделать?}
-{62}{009}{Полегче! Я только хотел задать пару вопросов.}
-{63}{999}{Не-не-не. Никакой науки. Моя парафия - исключительно вера. Иначе "овечки" не поймут. }
+{60}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Piece of plasma, look who we have here. A shepherd of mindless sheeps. Instead of distracting me - twice! - you could think about why science is much more effective for the future of Olympus than all this religious affairs of yours! Although, oozy mess, you're just in time - and can be of some use for the greater good of science.}
+{61}{008}{For a greater use of science? Let me guess - you need me to do something?}
+{62}{009}{Easy! I only wanted to ask a couple of questions.}
+{63}{999}{No, no, no. No science. My department is strictly faith. My "sheeps" wouldn't understand. }
 
 
-{70}{}{[Пожилой человек снова замирает. Затем делает глубокий вздох. И направляет пристальный взгляд на вас - теперь совершенно осозанно] Твою мать, ты трижды отвлек меня! Плазменый ошметок тебе в штаны! Этот интеграл ускользнул от меня - из-за тебя. Понял, ядерный раздолбай? Пришел рассказать о своей секте? Лучше бы пробирки моим сотрудникам мыли, фанатики чертовы - больше пользы. Ой. Кстати. О пользе. Ты можешь пригодиться науке!}
-{71}{008}{Пригодиться науке, говоришь? Ха-ха. Дай угадаю - сейчас предолжишь что-то сделать?}
-{72}{009}{Полегче! Я только хотел задать пару вопросов.}
-{73}{999}{Пригодиться науке? Нет. Мое дело - вера и только вера.}
+{70}{}{[he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! This integral slipped away from me - because of you. Get it, oozy mess? Did you come to tell me about your cult? I'd rather have you, fanatics, washing my test tubes instead - would be more useful. By the way, about being useful. You can be useful to science!}
+{71}{008}{Be useful to science? Let me guess - you need me to do something?}
+{72}{009}{Easy! I only wanted to ask a couple of questions.}
+{73}{999}{No, no, no. No science. My department is strictly faith.}
 
 
-{74}{}{Ядерный раздолбай! Люблю умных людей. Да, именно! Нужно... нужно что-то сделать. Мне нужна пушка "Барака". А она во-о-от [вытягивает из кармана засаленную мятую топокарту и показывает координаты] здесь, в штабе армии. Понял, ядерный раздолбай? Пушка "Барака" - большой БА-БАХ! }
-{75}{018}{Я уже был там. И если пушка там была, то я ее наверняка уже благополучно продал...}
-{76}{999}{Че, вот так сразу? Ну ладно... но ничего не обещаю.}
-{77}{009}{Хм, зачем это? }
-{78}{015}{Барака? Походу она? [показать пушку]}
-{79}{999}{Нет, я пас. Разбирайся сам.}
+{74}{}{Oozy mess! I like smart people. Yes, exactly! Do something! Something... I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocked and shoves it to you] In the Army Headquarters. Get it, oozy mess? "Baraka" gun - a big BA-BOOM! }
+{75}{018}{I have been there already. And if there was a gun, I might have sold it...}
+{76}{999}{Just like this? Okay... But no promises.}
+{77}{009}{Why do you need it? }
+{78}{015}{"Baraka"? This one? [show the gun]}
+{79}{999}{No, I'll pass. Handle it yourself.}
 
-{90}{}{Никаких вопросов, плазменный ошметок! Я - доктор Деймонд Кранк. Это мой робот "Билли". Ему срочно нужен апгрейд. Это все, что тебе нужно знать. С теорией закончили - переходим к практике. Ты как раз можешь помочь - мне нужна пушка "Барака". А она во-о-от [вытягивает из кармана засаленную мятую топокарту и показывает координаты] здесь, в штабе армии. Понял, неуч? Пушка "Барака" - большой БА-БАХ!}
-{91}{018}{Я бы рад. Но эта самая пушка "Барака", она была у меня. Но где-то затерялась. То ли выкинул, то ли продал - не помню.}
-{92}{999}{Ладно-ладно. Будет тебе пушка.}
-{93}{999}{Предпочитаю не иметь дел с шизиками. Решай проблемы сам.}
-
-
-{100}{}{[Стандартная для Кранка картина - полный ступор. Отключка от окружающего мира. И, несомненно, кипение "бульона" в голове - из чисел, матриц и графиков]}
-{101}{011}{Эй! Есть разговор! Пара минут - удели мне пару минут.}
-{102}{011}{[Подергать за плечо] Ау! Слышишь меня? Возвращайся в реальность!}
-{103}{999}{[Просто тихо уйти]}
+{90}{}{No questions, piece of plasma! I'm doctor Diamond Crank. This is Billy, my robot. He needs an upgrade. Urgently. That's all you need to know. Done with the theory - now to practice. You can help me. I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocked and shoves it to you] In the Army Headquarters. Get it, ignoramus? "Baraka" gun - a big BA-BOOM!}
+{91}{018}{I would gladly do it. But I had this "Baraka" gun - and I think I lost it. Maybe threw it out, maybe even sold it. I don't remember.}
+{92}{999}{Okay, okay. You'll get your gun.}
+{93}{999}{I don't deal with schizophrenics. Handle it yourself.}
 
 
-{110}{}{[В этот раз приходится ждать заметно меньше. Но ученый явно довел какое-то вычисленние до конца - и только затем обратил внимание на окружающий мир] Ядерный раздолбай, опять ты? Так... синус, 13,975 приблизительно... стремится к нулю... Черт! Говори скорее, плазменный ошметок!}
-{111}{008}{В прошлый раз ты говорил, нужно было что-то сделать?}
-{112}{013}{Хотел поговорить про пушку "Барака".}
-{113}{020}{По поводу Людвига.}
-{114}{012}{Слушай, ты хоть иногда отдыхаешь?}
+{100}{}{[A usual picture - Crank is fully catatonic and detached from an outside world. Surely, his head must be bubbling with graphics, matrices and numbers right now.]}
+{101}{011}{Hey, we need to talk! A couple of minutes! Indulge me!}
+{102}{011}{[pulll his shoulder] Heyo! Do you hear me! Get back to reality!}
+{103}{999}{[leave silently]}
 
 
-{120}{}{Ядерный раздолбай! Ты меня ради этого отвлек! БА-БАХ! Какой отдых? Может, вместо меня проведешь отладку "Бобби"? Вали отсюда! Так, что там было... 13,975... диффернциальчик вот тут возьмем... Ты еще тут? Пошел нахрен, ты меня отвлекаешь!}
-{121}{999}{[Тихо уйти]}
-{122}{998}{[зарядить ученому хрену в нос]}
+{110}{}{[this time you had to wait a little less. The scientist finishes calculating something in his mind - and only then turns his attention to you.] Oozy mess, you again? Okay, sin, 13,975 is approximately... Tends to zero... Damn! Piece of plazma! Speak! Fast!}
+{111}{008}{You wanted me to do something, remember?}
+{112}{013}{I wanted to talk about the "Baraka" gun.}
+{113}{020}{About Ludwig.}
+{114}{012}{Do you even rest? Ever?}
 
 
-{130}{}{[Похоже, Кранк изо всех сил пытается разделить внимание ровно наполовину. Одна часть будет продолжать делать вычисления в уме. А другая - контролировать органы восприятия и опорно-двигательный аппарат. Впрочем, вы понимаете, что ученый достаточно внимательно смотрит на вас]}
-{131}{014}{Я забыл, что там нужно сделать?}
-{132}{015}{Вот пушка "Барака".}
-{133}{016}{По поводу испытаний "Барака".}
+{120}{}{Oozy mess! You interrupted me for that? KA-BOOM! What rest? Maybe you will debug Billy instead of me? Get out of here! So, what was that... 13,975... Let's differential this... Are you still here? Het the hell out!! You're distracting me!}
+{121}{999}{[leave silently]}
+{122}{998}{[punch this schientist asshole's face]}
 
 
-{140}{}{БА-БАХ! Он забыл! Плазменный ошметок! Твоя приносить большая ба-бах! "Барака"! Приносить "Барака", черт тебя дери. Понятно? Как тупому объяснил. Давай! Иди уже!}
-{141}{999}{Да-да. Уже иду.}
+{130}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
+{131}{014}{Remind me, what do you want me to do?}
+{132}{015}{Here's the "Baraka" gun.}
+{133}{016}{About "Baraka" testing...}
 
 
-{150}{}{[Ученый неожиданно быстро реагирует на ваши слова] Отлично... отлично! Отлично, ядерный раздолбай! Это именно то, что нужно. Так, а-ну дай сюда... посмотрим. [Ученый забирает тяжеленное оружие и в считанные секунды разбирает на составные части. Затем также ловко собирает. Прицеливается в стену и радостно выкрикивает: "БА-БАХ". Затем делает какие-то записи и снова обращает на вас внимание] Отлично! Этот плазменный ошметок выглядит примерно так, как я и представлял. Ах-ха-ха! А теперь возьми его, ключ от этажа и езжай на 96ой этаж! Постреляй-ка в броню дефендеров! БА-БАХ. А потом возвращайся и все расскажи мне, ядерный раздолбай. Понял? Все, до малейших подробностей!}
-{151}{999}{Ух. Вот так сразу? Дай дыхание перевести. Ну ладно. Я пошел.}
+{140}{}{KA-BOOM! Look at him! He forgot! Oozy mess, you should bring me a big KA-BOOM! "Baraka"! Bring me the "Baraka", damn you! Understand? I'm explaining it like you're stupid. Go! }
+{141}{999}{Okay, okay, I'm going.}
 
 
-
-{160}{}{[Похоже, все это время Кранк думал только об испытаниях пушки. Волосы распатланы еще больше обычного. Время от времени поднимает руки, изображая стрельбу. Выкрикивает: "БА-БАХ". И вообще, выражает все признаки нетерпения. Замечает вас как только появляетесь в поле зрения] О, ядерный раздолбай! А я уже заждался. Ну что, как там? Устроил БА-БАХ? Рассказывай... быстрее рассказывай!}
-{161}{017}{Ну, что сказать. Все прошло как по маслу - почти буквально! Отличная пробиваемость, я еще долго буду дырки в животе зашивать...}
-{162}{999}{Я еще не "организовал проверку". Потерпи - cкоро буду.}
+{150}{}{[his answer is unusually fast] Wonderful... Wonderful! Wonderful, oozy mess, wonderful!! Just when I needed it. Give me that! Let's see... [he takes away heavy weapon and disassembles it in a mere seconds. Just as fast, he assembles it back, aims into the nearest wall and shouts "KA-BOOM!!" Then he drops the gun, writes something down and looks back at you.] Wondeful! This piece of plasma is exactly like I thought it would be. Hahahaaa! Now, take it, take this keycard and go to the floor 96! Shoot at the "Defender" armor, hahahaha!! KA-BOOM!! And report back to me. Oozy mess! Go! }
+{151}{999}{Right now? Let me catch a breath. Okay, I'm going.}
 
 
-{170}{}{Ну, это не совсем то описание, на которое я рассчитывал. Но, плазменный ошметок, мне понравилось! А тебе, а? Ха-ха-ха. Как ты там сказал? Как по маслу? По "дефендеру" как по маслу. Ха-ха. БА-БАХ! Это то, что нужно. Мой "Бобби" станет гораздо эффективнее. Спасибо, дорогой... А теперь пошел вон! Мне нужно работать. И начни читать "Краткий курс ядерной физики"! Одни неучи кругом!}
-{171}{999}{[Сделать вид, что ушел искать "Краткий курс ядерной физики"]}
-{172}{998}{[Перестать сдерживаться и с удовольствием дать ему в челюсть]}
+{160}{}{[his hair is even more messy than usual. He repeatedly throws hands up, as if aiming, shouts "KA-BOOM!!", giggles and twitches with impatience. He notices you immediately.] Oozy mess! You kept me waiting. So? How was it? KA-BOOM? Tell me! Tell me everything!}
+{161}{017}{What can I say... Everything was smooth as baby's bottom. A great penetrating effect. I'm gonna be sewing holes in my belly for a long time now.}
+{162}{999}{I still haven't tested it. Wait a little. Be back soon.}
+
+{170}{}{Well, that's not exactly the description I was hoping for. But! I liked it, piece of plasma! Did you? Hahaha! What were you saying? Smooth as baby's bottom? A "Defender" armor - like baby's bottom? Haha. Hahaha! HAHAHA!! KA-BOOM!! Exactly what I needed. My Billy will become much more effective. Thanks... And now get out!! I need to work. I'm surrounded by dumb cretins!}
+{171}{999}{[leave]}
+{172}{998}{[stop holding back and enjoy punching his jaw]}
 
 
-{180}{}{БА-БАХ! Вот так новости. С кем приходится работать. Может, ты еще и наркоман? Ну это же надо! Как ты мог упустить мою пушечку? Ядерный раздолбай. Стоп! Я знаю что делать. Смотри мне в глаза. Внимательно слушай и запоминай. Твоя взять вот этот коль-коль [Пытается всучить вам шприц... открытый... иголкой вперед] и делать укольчик в Людвига Швайна. А потом звать его: "Эгегей, Людвиг, твоя придохить к Деймонду". И твоя приводить мне Людвига. Понял? Объяснил как тупому. Ну надо же, упустить мою пушечку, плазменный ошметок!}
-{181}{019}{Черт. Даже не знаю как и сказать. Это явно не твой день. С Людвигом тоже проблемы - он уже никуда никогда не пойдет.}
-{182}{999}{Да не кипятись ты так. Подумаешь - "пушечка". Привести Людвига Швайна? Под действием веществ? Что-то все это здорово попахивает грязной аферой... Да! Я согласен. [Аккуратно взять шприц]}
-{183}{999}{Слушай, ты меня здорово напрягаешь. Научись элементарной вежливости. А потом проси людей о чем-то. С мудаками не прощаюсь.}
+{180}{}{That's new. That's stupid. Are you high? Look at him! How could you lose my gun? Oozy mess. Wait! I know what to do. Look into my eyes and listen carefully. You. Take this. [he hands you a syringe, almost driving a needle into you] Poke Ludwig Schwein. And tell him "Hey, Ludwig! Go to Diamond!" And bring him to me. Understand? I'm explaining it like you're stupid. Go! How could you lose my gun, oozy mess?}
+{181}{019}{Uh, I don't know how to put it... Today's not your lucky day, I guess. Ludwig is... Not going anywhere. Ever.}
+{182}{999}{Don't be so steamy. It's just a gun. Bring Ludwig Schwein to you? Drugged? Smells like a dirty business... Okay, I'll do it.}
+{183}{999}{You're making me very nervous. Try to be polite when asking people to do something. Bye.}
 
 
-{190}{}{БА-БАХ! Что за черт! Одни придурки кругом! Нет! Нет!! Нет!!! Ну почему я? [Пытается оторвать рукав халата, что не выходит. В итоге он оторвал нагрудный карман, из которого вылетела ключ-карта от лифта на более высокий уровень] Плазменный ошметок мне в мозг! Бедный "Билли", как же ты без апгрейда? [Кранк словно ребенок начинает топать ногами] Этот ядерный раздолбай не поможет мне! Черт! Пошел нахрен отсюда! У меня столько работы! Придурок. Выучи таблицу умножения - может поможет! Дебил!}
-{191}{999}{[Сделать вид, что ушел учить таблицу умножения]}
-{192}{998}{[Перестать сдерживаться и с удовольствием дать ему в челюсть]}
+{190}{}{What the hell! I'm surrounded by dumb cretins! No! No!! No!!! Why?! [he tries to rip off a sleeve from his lab coat, but fails. He ends up tearing down his pocket. You see a keycard dropping on the floor.] Piece of plasma into my brain! Poor Billy... No upgrade for you! This oozy mess won't help me! Damn! Get out!! I need to work. Idiot. Cretin!}
+{191}{999}{[leave]}
+{192}{998}{[stop holding back and enjoy punching his jaw]}
 
 
-{200}{}{[Похоже, Кранк изо всех сил пытается разделить внимание ровно наполовину. Одна часть будет продолжать делать вычисления в уме. А другая контролировать органы восприятия и опорно-двигательный аппарат. Впрочем, вы понимаете, что ученый достаточно внимательно смотрит на вас]}
-{201}{021}{Я забыл, что там нужно сделать?}
-{202}{022}{Я привел его.}
-{203}{019}{Так вот, Людвиг не придет... больше никогда и никуда не придет.}
+{200}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
+{201}{021}{Remind me, what do you want me to do?}
+{202}{022}{I brought him.}
+{203}{019}{Uh, Ludwig won't come to you... Anymore. Ever.}
 
 
-{210}{}{БА-БАХ! Он забыл! Плазменный ошметок! Твоя делать коль-коль и приводить Людвига! Черт тебя дери. Понятно? Как тупому объяснил. Давай! Иди уже!}
-{211}{999}{Да-да. Уже иду.}
+{210}{}{He forgot! Piece of plasma! You poke and bring Ludwig! Goddamit. Understand? I'm explaining it like you're stupid. Go!}
+{211}{999}{Okay, okay, I'm going.}
 
 
-{220}{}{Мне нужна пара дней... чтобы как следует расспросить этого ядерного раздолбая. Пара хитрых приемов гипноза, проверенные химические препараты и - БА-БАХ - скоро буду знать о лучевом оружии абсолютно все, что нужно! А ты потом приходи - будет еще одна просьбочка. Надеюсь, к тому времени станешь хоть немного образованнее,  плазменый ошметок. }
-{221}{999}{[Сделать вид, что пошел читать умные книжки]}
+{220}{}{I need a couple of days... To properly interrogate this oozy mess. A couple of hypnosis tricks, some drugs, and KA-BOOM!! Soon I'll know everything I need about energy weapons! You, come by later - I have something for you to do. Piece of plasma. }
+{221}{999}{[leave]}
 
 
-{230}{}{["Разговор" двух выдающихся умов в разгаре. Кранк не брезгует угрозами, уколами химией и насилием. Даже пытается использовать "секретные техники" гипноза - но они совершенно не работают. Все выглядит чрезвычайно нелепо, мерзко и бесчеловечно. К тому же, ученый настолько увлечен процессом, что отвлечь его явно не получится]}
-{231}{999}{[Уйти]}
-{232}{998}{[Вмешаться и насильно прекратить допрос]}
+{230}{}{[you see a heated "conversation" of two brightest minds in Radius. Looks like Crank used everything he could - drugs, threats and hypnosis. Nothing has any effect on Ludwig. It looks as ridiculous as nasty and dehumanizing. Still, the scientist is so deep in the process that you won't be able to speak to him.]}
+{231}{999}{[leave]}
+{232}{998}{[interrupt the interrogation]}
 
 
-{240}{}{[Кажется, Деймон окончил "разговор" с Людвигом Швайном. И начал обдумывать, как использовать новые знания для улучшения любимого робота "Бобби". Впрочем, размышления еще не увели ученого слишком далеко от реального мира. При вашем приближении начинает делать призывные жесты руками - явно желая обратиться с еще одной просьбой] А, плазменный ошметок. Как я рад тебя видеть. Смотри, что у меня есть [Поднимает оружие, которое не выпускал из рук, наверно, целый час] С такой пушкой: БА-БАХ! Хе-хе. В ощем, ты понял. Иди на 96-й этаж... и там испытай ее на "дефендере". А потом принеси и подробно опиши как эта малышка справляется с броней. Понял, ядерный раздолбай?}
-{241}{999}{Блин, ты как обычно, с места в карьер. Ладно - но это в последний раз.}
-{242}{999}{Не в этот раз. Найди кого-нибудь другого.}
+{240}{}{[Looks like the Diamond is done "speaking" to Ludwig. He looks more brooding than before. Seeing you, he makes gestures with his hands. He definitely wants something from you.] Oh, piece of plasma! Glad to see you. Look what I have. [he shows you a huge weapon he's holding] This gun - a big KA-BOOM!! Haha! You get it. Go to floor 96 and test it on a "Defender". And then bring it back and tell me how it went. Understand, oozy mess?}
+{241}{999}{As usual... Okay, but this is the last time.}
+{242}{999}{No. Find someone else.}
+
+{250}{}{[A usual picture - Crank is fully catatonic and detached from an outside world. Surely, his head must be bubbling with graphics, matrices and numbers right now.]}
+{251}{026}{Hey, we need to talk! A couple of minutes! Indulge me!}
+{252}{026}{[pulll his shoulder] Heyo! Do you hear me! Get back to reality!}
+{253}{027}{[wait patiently]}
+{254}{}{[leave silently]}
+
+{260}{}{[No response]}
+{261}{027}{[keep waiting]}
+{262}{029}{[keep waiting]}
+{263}{999}{[leave silently]}
 
 
-{250}{}{[Стандартная для Кранка картина - полный ступор. Нулевое восприятие окружающего мира. И, несомненно, кипение "бульона" в голове - из чисел, матриц и графиков]}
-{251}{026}{Эй! Есть разговор! Пара минут - удели мне пару минут.}
-{252}{026}{[Подергать за плечо] Ау! Слышишь меня? Возвращайся в реальность!}
-{253}{027}{[Набраться терпения и ждать]}
-{254}{}{[Просто тихо уйти]}
+{270}{}{[Diamond is deep into his thoughts. This time you decide to wait and listen to him whispering.]}
+{271}{028}{[keep waiting]}
 
 
-{260}{}{[Никакой реакции]}
-{261}{027}{[Продолжать ждать]}
-{262}{029}{[Продолжать ждать]}
-{263}{999}{[Просто тихо уйти]}
+{280}{}{[The scientist almost reflexively reaches into his pocket. Pulls out something, glances over it, then sighs and drops it. Nothing else is happening.]}
+{281}{999}{[Bend down and pick up the thing]}
 
 
-{270}{}{[Деймонд снова полностью сосредоточен на размышлениях. В этот раз вы без колебаний принимаете решение подождать, краем уха прислушиваясь к шептанию сумасшедшего ученого]}
-{271}{028}{[Продолжать ждать]}
+{290}{}{[Crank is still busy with himself. You keep waiting. Suddenly, you become interested in his quiet ramblings.]}
+{291}{030}{[his whisper becomes more loud. More loud. And more loud. It fills everything around. Looks like this voice pushes every thought out of your head. You don't see anything, don't feel anything. You only hear whisper: formulas, calculations, graphs decriptions... Suddenly, something clicks in your head, and you clearly say "1 874 449 234 744 934, 375 88".] }
 
 
-{280}{}{[Ученый почти рефлекторно тянется рукой в карман. Видимо, за какой-то бумажкой, нужной для вычислений.  Но вытягивает что-то другое. Бросает на вещь беглый взгляд, разочаровано вздыхает - и выкидывает ее на пол. Больше ничего не происходит]}
-{281}{999}{[Наклониться и подобрать вещь]}
+{300}{}{What?! Goddamit, piece of plasma! What did you just say?}
+{301}{031}{I don't remember!}
 
 
-{290}{}{[Кранк на все 100% в себе. Вы продолжаете терпеливо ждать. В какой-то момент становится интересно - а что же он там бормочет]}
-{291}{030}{[Шепот Кранка постепенно становится громче. Еще громче. И еще. Заполняет все окружающее пространство. Кажется, будто голос ученого выдавил из головы любые мысли. Вы ничего не видите, ничего не чувствуете. Только слышите шепот: упоминание формул, вычисления, описание графиков... Вдруг в голове что-то отчетливо "клацает". И рот сам собой громко произносит последовательность цифр: "1 874 449 234 744 934, 375 88"] }
+{310}{}{You said "1 874 449 234 744 934, 375 88", - and that's genius, piece of plasma! You are totally right! Hahaha!! Who would have thought that you have some hidden talents, oozy mess! [Crank continues to ask you questions. Somehow, you find answers to them. It goes on for hours. Diamond makes a lot of notes.]}
+{311}{999}{I'm so tired... [you feel exhausted. You slowly descend to the floor and fall asleep]}
 
+{320}{}{you open your eyes and try to stretch your neck. Looks like you’ve been carelessly asleep for an hour - right on this cold floor, next to a mad scientist.}
 
-{300}{}{Что, плазменный ошметок? Черт тебя дери! Что ты только что сказал?}
-{301}{031}{Я не помню!}
-
-
-{310}{}{Ты сказал: 1 874 449 234 744 934, 375 88,- это гениально, плазменный ошметок! Ты совершенно прав! Ха-ха-ха. Кто бы мог подумать, что у такого ядерного раздолбая вдруг откроется скрытый талант! [Кранк несколько раз задает проверочные, сложнейшие для обычного человека, задачи. Вы, совершенно не задумываясь, даете правильные ответы. Радостный ученый убегает куда-то, возвращается с органайзером, толстенной стопкой бумаг и ручкой. "Перекрестный допрос" длится 4 часа - за это время Деймонд продвигается в теоретической части исследования примерно на 4 года (самостоятельной работы) вперед]}
-{311}{999}{Ох. Как же я устал. [Зрение и чувствительность снова пропадают, на этот раз из-за сильного истощения. Вы мягко опускаетесь на пол - и глубоко засыпаете].}
-
-{320}{}{Вы беспечно проспали целый час - прямо здесь, на твердом холодном полу. Совершенно забыв о том, что в полуметрах безумный ученый, помешанный на убийствах и разрушении. На всякий случай ощупываете тело - все ли на месте? И вяло пытаетесь размять шею.}
-
-{321}{}{Человек-к-к-к... Ч-ч-ч-ч...}
-{322}{}{Не п-п-п-риближайтесь.}
-{323}{}{В-в-вед-д-д-дите с-с-себя осторожно!}
-{324}{}{Ба-бах! П-п-п-плазменный ошметок!}
-{325}{}{Б-б-бобби хороший! П-п-п-послушный.}
+{321}{}{Huma-n-n-n... H-h-h-h...}
+{322}{}{Do n-n-n-ot ap-p-roach.}
+{323}{}{B-b-be carefu-u-u-u-l!}
+{324}{}{KA-BOOM! Piece of p-p-p-plasma!}
+{325}{}{B-b-billy is good! Ob-b-b-bedient.}

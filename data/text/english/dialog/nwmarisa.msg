@@ -1,7 +1,7 @@
 ##############################
 #Локация: НМП
 #Имя: Мариса
-#Краткое описание: Истеричка, жена Дана, мать Арсэна
+#Краткое описание: Истеричка, жена Дана, мать Arsene
 #Дата создания: 20.06.2014
 ##############################
 #Для игры "Олимп 2207"
@@ -11,193 +11,193 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: дерганая дамочка.}
-{2}{}{Она постоянно оглядывается, будто чего-то боится.}
+{1}{}{You see a twitchy lady.}
+{2}{}{She is constantly looking around, like being afraid of something.}
 #
 # после знакомства
-{3}{}{Вы видите: Мариса.}
-{4}{}{Она как обычно вся на нервах и слегка подрагивает.}
+{3}{}{You see Maurissa.}
+{4}{}{As usual, she is a little nervous and twitchy.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[Перед вами весьма странная женщина средних лет. Едва увидев вас, она испуганно дергается, замирает и с минуту молча смотрит на вас широко открытыми глазами. Кажется, у нее перехватило дыхание] Кто вы? Что вы здесь делаете? [кажется, она готова пуститься наутек]}
-{11}{002}{Расслабьтесь. Меня зовут }
-{12}{002}{. У вас все в порядке?}
-{13}{022}{У тебя все нормально с головой?}
-{14}{999}{Я просто прохожу мимо.}
+{10}{}{[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with wide eyes. Looks like she is ready to run away in any moment] Who are you? What are you doing here?}
+{11}{002}{Relax, I'm }
+{12}{002}{. Is everything alright?}
+{13}{022}{What's wrong with you? Not quite right in the head?}
+{14}{999}{I was only passing by.}
 
 #Node002
-{20}{}{О... я просто... подумала, что вы следите за мной. За мной постоянно следят! [она все еще подозрительно присматривается к Вам. Хотя и пытается делать вид , что все в порядке]}
-{21}{014}{Что? }
-{22}{014}{И кто же за тобой следит? Ты тут местная шишка, которая много знает?}
-{23}{003}{Я продолжу следить за тобой.}
+{20}{}{Oh, uh... I was just... I thought you are following me. They follow me all the time! [she still looks suspiciously at you, trying to act like everything is okay.]}
+{21}{014}{What? Who?}
+{22}{014}{Who is following you? Are you the big cheese around here, knowing too much?}
+{23}{003}{I'll continue following you then.}
 
 #Node003
-{30}{}{Что? Ты думаешь, это смешно?! Тут нет ничего смешного, уходи!}
-{31}{999}{[Вы уходите, сдерживая улыбку. Она определенно не в ладах с головой]}
-{32}{013}{Смотрю, у тебя это больная тема...}
-{33}{014}{Туго у тебя с юмором. Кто следит-то?}
+{30}{}{What? Do you think it's funny?! There is nothing funny, go away!}
+{31}{999}{[you walk away. She is definitely not okay.]}
+{32}{013}{I see that it's a sensitive topic for you...}
+{33}{014}{You don't really have a sense of humor. Who is following you then?}
 
 #Node010 
-{100}{}{Ты. Опять... [оглядывается по сторонам]}
-{101}{011}{Поговорим?}
-{102}{999}{Нет, я случайно зашел..}
+{100}{}{You again... [she nervously looks around]}
+{101}{011}{Want to chat?}
+{102}{999}{I was just coming by.}
 
-{103}{}{Привет, Рада тебя видеть!}
-{104}{041}{Да вот, проходил мимо, решил заглянуть. Может поболтаем?}
-{105}{999}{Привет. Просто зашел проведать-поздороваться [Улыбнуться]. Ну пока, мне уже пора бежать.}
+{103}{}{Hello, nice to see you!}
+{104}{041}{I was passing by, decided to come around. Wanna chat?}
+{105}{999}{Hey. I was wondering how are you doing [smile]. Well, I need to go, see you.}
 
-{106}{}{Ты! Даже не смей подходить ближе! Проваливай! Проваливай давай! [она потихоньку пятится от Вас назад]}
-{107}{031}{Я видел твоего шпиона...}
-{108}{032}{Да расслабься уже. Я просто поговорить зашел, задать пару вопросов. Больше не издеваюсь. Честно.}
-{109}{999}{Окей-окей. Уже ухожу!}
+{106}{}{You! Don't you dare to come any closer! Get out! Out! [she slowly steps away]}
+{107}{031}{I saw the man who is following you...}
+{108}{032}{Just relax. I'm here to talk, ask some questions. No more cruel jokes, honestly.}
+{109}{999}{Okay! I'm leaving.}
 
 #Node011
-{110}{}{[Она сложила руки на груди и внимательно уставилась на вас. Или за вашу спину?] Ну давай.}
-{111}{012}{Ты больна?}
-{112}{014}{За тобой действительно кто-то следит?}
-{113}{019}{Давай поговорим о тебе. Может, что-нибудь расскажешь о себе?}
-{114}{999}{[Посмотреть назад] Знаешь, я себя неуютно чувствую, когда люди смотрят не в глаза, а за спину. Поговорим позже.}
+{110}{}{[She crosses arms on her chest and stares at you. Or at something behind you?] Go ahead.}
+{111}{012}{Are you sick?}
+{112}{014}{Is someone following you?}
+{113}{019}{Let's talk about you. Can you tell me something about yourself?}
+{114}{999}{[look over your shoulder] You know, I don't feel comfortable when people stare at something behind me. Talk later.}
 
 #Node012
-{120}{}{Что? [ее руки вытянулись как струны вдоль тела, лицо побагровело] Ты... да что ты себе позволяешь? Я нормальная!}
-{121}{999}{У тебя действительно крыша протекает. Думаю, с тобой говорить бесполезно, хотя и забавно. Пока-пока.}
-{122}{013}{Ты такая же нормальная, как я - стриптизерша.}
+{120}{}{What? [her hands stretch like strings, face is all red] You... Who do you think you are? I am perfectly okay!}
+{121}{999}{You have definitely lost your marbles. I think it's no use talking to you, although a little interesting. Bye-bye.}
+{122}{013}{You are as okay as I'm a stripper.}
 
 #Node013
-{130}{}{Хватит, убирайся!}
-{131}{999}{Да не очень-то и хотелось оставаться. Чао.}
+{130}{}{Enough, go away!}
+{131}{999}{Sure. See ya.}
 
 #Node014
-{140}{}{Человек в плаще песчаного цвета. И еще несколько. Правда, я все никак не могу уловить их лица.}
-{141}{015}{Я тебе верю, ведь я его видел [внимательно посмотреть ей за спину]}
-{142}{999}{Ага. Знаешь, я тут понял, что у меня куча дел. Пойду-ка я.}
-{143}{999}{Вначале я сомневался, но теперь я точно знаю. У тебя проблемы с головой. [Уйти]}
-{144}{024}{Это называется паранойя. Довольно запущенная, надо отметить.}
-{145}{060}{[Попытаться улыбнуться, изобразить доброе выражение лица] Да, думаю так и есть. Звучит очень убедительно.}
+{140}{}{A man, wearing a a sand coat. And somebody else. I can't quite get their faces.}
+{141}{015}{I believe you - I see him [stare behind her]}
+{142}{999}{Yeah. You know, I've just remember about all the things I need to do. I'll go now.}
+{143}{999}{I had doubts before, but now I'm sure - you are really troubled in the head. [leave]}
+{144}{024}{It is called "paranoia". A severe case of it, I'd say.}
+{145}{060}{[try to smile, making a kind face] Yes, I think this is just how it is. Very convincing.}
 
 #Node015
-{150}{}{[на ее лице отобразился ужас. Зрачки расширились, а руки начало трясти. Но, она не повернулась, замерев на месте и, кажется, задержав дыхание] }
-{151}{016}{[Сфокусировать взгляд на ней]}
-{152}{017}{Да нету там никого, это просто шутка...}
+{150}{}{[she freezes in fear, pupils become widened, hands shaking. But she didn't turn around, she just stands on the spot, seemingly not breathing.] }
+{151}{016}{[focus your sight on her]}
+{152}{017}{I was just joking. There's no one there.}
 
 #Node016
-{160}{}{Он ушел? Всегда так... [Она ссутулилась. Выглядит она жутко измотанной]}
-{161}{999}{[Вздохнуть] Так... теперь и я пойду... [Уйти]}
-{162}{011}{Может, спрошу у тебя еще чего-нибудь, пока он не вернулся?}
+{160}{}{Did he leave? It always ends like this... [She hunches. Now she looks extremely exhausted.]}
+{161}{999}{[take a deep breath] Okay... Now... I'm going... [leave]}
+{162}{011}{Can I ask you something before he comes back?}
 
 #Node017
-{170}{}{Не смей так больше делать, у меня чуть сердце не выскочило из груди!}
-{171}{999}{Окей. А мне пока надо бежать. Я еще загляну.}
-{172}{011}{Извини, действительно глупая шутка. Можно спрошу еще?}
+{170}{}{Don't you dare to do it again! My heart almost exploded!}
+{171}{999}{Okay. Now I need to run. I'll come by.}
+{172}{011}{I'm sorry, that was really stupid. Can I ask something else?}
 
 #Node018
-{180}{}{Чт... Прочь! Пошел прочь! [Ее лицо налилось краской, а глаза яростно засверкали]}
-{181}{999}{[молча уйти]}
+{180}{}{Wh-... Get away! Out! [Her face becomes red, eyes flashing furiously]}
+{181}{999}{[leave silently]}
 
 #Node019
-{190}{}{Я живу здесь с мужем и сыном. Знаешь, они не очень довольны здешней властью. Я их понимаю... Сколько раз   уже видела здесь... всякого. Но меня не желает слушать наш руководитель! Это правильно, что моя семья старается подорвать авторитет этого... дурака!}
-{191}{020}{А можно подробнее?}
-{192}{013}{Больных вечно что-то не устраивает... ты действительно шизофреник с манией преследования.}
-{193}{023}{Я согласен, власть здесь не очень, а жизнь скучная. }
+{190}{}{I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.}
+{191}{020}{Can you tell me more details about your family?}
+{192}{013}{Those who are sick are always disappointed with something... You are a schizophrenic with a persecution mania.}
+{193}{023}{I agree, it's quite boring here. And the authorities suck. }
 
 #Node020
-{200}{}{Дан - просто прелесть! Он такой мужественный, всегда без колебаний принимает серьезные решения. Ах, этим он когда-то  и завоевал мое сердце... А теперь он очень охладел ко мне, постоянно повторяет, что я какая-то ненормальная! Арсэн весь в него. Такой же сильный, смелый, брутальный, и я очень горжусь им! Раньше в семье было как-то теплее, но как только Дан начал воплощать в жизнь свои идеи, все изменилось... Радует лишь то, что сын с отцом держатся вместе и заняты одним делом.}
-{201}{999}{Думаю, мне стоит поболтать с Даном. Пока, Мариса.}
-{202}{050}{Я думаю, что в развале нормальных отношений в семье виновата ты. Ты должна не высматривать "шпионов", а следить за домом. Разве нет?}
-{203}{021}{Сочувствую, ты достойна большего. }
+{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart.... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.}
+{201}{999}{I think I need to talk to Dan. See you around, Maurissa.}
+{202}{050}{I think it's your fault that your family is falling apart. You should look for things in your home, not watch out for someone who's "following" you. Don't you think so?}
+{203}{021}{I feel sorry for you. I think you deserve better. }
 
 
 #Node021
-{210}{}{Ты действительно так думаешь?}
-{211}{011}{Да, конечно. Однако, спрошу еще. }
-{212}{022}{[закатить глаза] Наивная дура...}
+{210}{}{Do you really think so?}
+{211}{011}{Of course. But I want to ask something else. }
+{212}{022}{[roll eyes] What a fool you are...}
 
 #Node022
-{220}{}{Вы - хам!!!}
-{221}{013}{Что поделать?}
-{222}{999}{Эм... наверное, я не так выразился. Прости... думаю, нам стоит продолжить разговор позднее. Пока!}
+{220}{}{You are such a rude!!!}
+{221}{013}{Who cares.}
+{222}{999}{Uh... I think I've picked the wrong words. I'm sorry. Let's talk later. Bye!}
 
 #Node023
-{230}{}{Хорошо, что мы сходимся во мнении!}
-{231}{020}{Расскажи еще о своей семье.}
-{232}{012}{Да я шутканул, местные жители - отличные парни. Это ты ущербная!}
+{230}{}{It's good that we are on the same page!}
+{231}{020}{Tell me more about your family.}
+{232}{012}{I was just messing with you, the locals are the best. It is you who is troubled!}
 
 #Node024
-{240}{}{Паранойя?}
-{241}{033}{Да. Это лечится.}
-{242}{011}{Не бери в голову, я лучше спрошу...}
-{243}{018}{Это означает, что ты тупая овца.}
+{240}{}{Paranoia?}
+{241}{033}{Yes. It's treatable.}
+{242}{011}{Forget about it. I'll ask something else.}
+{243}{018}{That means you are a fool.}
 
 
 #Node031
-{310}{}{[Мариса резко переменилась в лице] Уходи! Немедленно! [она отвернулась от Вас и начала озираться по сторонам]}
-{311}{999}{[конец]}
+{310}{}{[Maurissa's face expression abruptly changes] Leave! Immediately leave! [she turns away from you and starts to look around]}
+{311}{999}{[end conversation]}
 
 #Node032
-{320}{}{Мы уже все обсудили, а теперь уходи. И чтобы я больше не видела тебя!}
-{321}{999}{Ладно, удаляюсь. }
-{322}{011}{В прошлый раз я вел себя несерьезно, но ведь все можно исправить, верно? Давайте поговорим по душам заново. Мир? }
+{320}{}{We've talked. And now - leave! I'd better not see you again!!}
+{321}{999}{Okay, I'm leaving. }
+{322}{011}{I wasn't being serious the last time. But we can make things right, can't we? Let's try again. }
 
 
 #Node033
-{330}{}{Что!? Я - больная? И ты туда же!?}
-{331}{080}{Да, ты больна. Тебе периодически приходит в голову то, чего не происходит на самом деле. Заметь, выдуманных тобой явлений больше никто не замечает!}
-{332}{999}{Увы, думаю, тебе стоит все это обдумать наедине. Я еще зайду позже. Пока.}
-{333}{070}{Не совсем. Психические расстройства являются следствием воздействия совокупности влияющих на человека факторов. }
+{330}{}{What!? I am sick? You are the same as them!!}
+{331}{080}{Yes, you are definitely sick. You are periodically seeing things which does not exist. Did you notice that no one else sees these men following you?}
+{332}{999}{Sorry, but you have to think about it alone. I'll come by later. Bye.}
+{333}{070}{Not exactly. Mental disorders are often the result of a combination of influencing factors. }
 
 
 #Node034
-{340}{}{[она явно задумалась...] Ты, кажется, прав... Как же мне с этим быть? }
-{341}{035}{[попытаться вспомнить то, что читал в научных журналах и рассказать об этом]}
-{342}{999}{Мне надо подумать. Я пороюсь в книгах и вернусь.}
-{343}{035}{Мариса, ты живешь в самом безопасном, спокойном, мирном и чудесном месте Радиуса. Тут каждый, хотя и шутит друг над другом, никогда не даст тебя в обиду. Вы - большая семья. Здесь нет чужаков. Их просто не подпустят к тебе. Ты можешь просто выкинуть это из головы. И увидишь - жизнь станет намного проще, лучше.}
-{344}{035}{Да тебе просто стоит быть более уверенной в себе! Все твои проблемы от мнительности. }
-{345}{035}{Попробуй это [вы отдаете ей Брейниак]. Попроси мужа снабжать тебя подобным. }
+{340}{}{[you definitely struck something in her] I... I think you're right... What do I do? }
+{341}{035}{[try to remember the stuff you've read about in medical science literature and tell it to her]}
+{342}{999}{I need to think. I'll dig through the books and will come back.}
+{343}{035}{Maurissa, you live in the safest, calmest, peaceful and wonderful place in the whole Radius. Everyone here would stand for you - even if they are pulling some pranks sometimes. You are one big family. Any dangerous outsider just won't make it here. So you can just put it off your mind, and feel the easiness of your life.}
+{344}{035}{You need to be more self-confident! All your problems caused by your suspiciousness.}
+{345}{035}{Try this [give her Brainiac]. Ask your husband to supply you with it. }
 
 #Node035
-{350}{}{Знаешь, мне кажется, что это хорошая идея... Я попробую, спасибо!}
-{351}{999}{Отлично, совсем другое дело! Сейчас мне надо бежать. Надеюсь, что когда я в следующий раз тебя увижу - ты будешь в полном порядке.}
-{352}{999}{[И почему я всегда стараюсь помочь всяким ущербным?] Угу, пока...}
+{350}{}{You know what, it seems like a great idea. I will try it, thank you!}
+{351}{999}{That's much better! I need to go now. Hope you will be alright when I see you again.}
+{352}{999}{(Why do I always helping some messed up people?) Sure, bye.}
 
 
 #Node041
-{411}{}{Конечно, спрашивай! }
-{412}{042}{Как дела?}
-{413}{999}{О... слушай, извини. Вспомнил, что у меня срочное дело тут неподалеку. Заскочу к тебе на обратном пути. До скорого.}
+{411}{}{Of course! Ask! }
+{412}{042}{How are you doing?}
+{413}{999}{Oh... I've just remembered about some urgent thing I need to do. See you soon, bye.}
 
 #Node042
-{420}{}{Ой, дела намного лучше... И это ведь благодаря тебе!}
-{421}{999}{Отлично. Это то, что я хотел услышать. Ладно, у меня дела. Я еще забегу. }
+{420}{}{Actually, a lot better... Thanks to you!}
+{421}{999}{That's what I wanted to hear. Okay, I need to go. Will come by later. }
 
 #Node050
-{500}{}{[Она тяжело вздохнула] }
-{501}{052}{Да, это так... [Вы предпочитаете не смотреть ей в глаза]}
-{502}{051}{Я как-то прочел в одной древней книге одну фразу: "Лечите душу ощущениями". Думаю, для тебя это будет самый правильный метод, найти занятие, к которому у тебя душа будет лежать. Начни, что ли, шить одежду для детей. Или устройся в караваны торговцем. Или начни собирать какие-нибудь редкие штуки. Попробуй податься в экспедицию куда-нибудь. Займись делом!}
+{500}{}{[She heavily sighs.] }
+{501}{052}{Yes, this is how it is... [avoid looking into her eyes]}
+{502}{051}{There's a phrase I remember from one ancient book: "Treat the soul with experience". I think it would work for you. Find an occupation of your liking, something to do, something you can put your soul into. Try making clothes for children, working as a caravan merchant, collecting something rare. Take a trip somewhere. Do something!}
 
 #Node051
-{510}{}{[Она смотрит на Вас с минуту] А что я теряю? Надо... надо просто попробовать. И пробовать до тех пор, пока я не найду что-нибудь для себя. Верно?}
-{511}{999}{Верно. Я рад это слышать. Желаю тебе удачи с этим!}
+{510}{}{[she gives you a really long stare] What do I lose? I... I guess I just need to try. And keep trying until I find something I love. Right?}
+{511}{999}{Right. I'm so glad to hear it. Good luck to you.}
 
 #Node052
-{520}{}{[теперь она рыдает]}
-{521}{053}{Ну... ты это, держись...}
-{522}{999}{[оставить ее]}
+{520}{}{[now she is crying loudly.]}
+{521}{053}{Uh... Pull it together, will you...}
+{522}{999}{[leave her]}
 
 #Node053
-{530}{}{[Она Вас явно не слышит и продолжает ныть]}
-{531}{999}{[оставить ее]}
+{530}{}{[She doesn't hear you. She keeps crying.]}
+{531}{999}{[leave her]}
 
 #Node060
-{600}{}{Точно! Я просто уверена в этом! Хорошо, что ты меня понимаешь. }
-{601}{019}{Ладно, может, расскажешь о себе?}
-{602}{999}{Пойду его искать!}
+{600}{}{I am sure about that! I'm so happy you understand me. }
+{601}{019}{Maybe you can tell me about yourself?}
+{602}{999}{I'll go look for him!}
 
 #Node070
-{700}{}{[она пытается осмыслить хоть что-то из сказанного вами] И что это означает?}
-{701}{034}{Что твой мозг работает некорректно, временами искажая реальность. Ты видишь то, чего не существует. Может, тебя и устраивает все это, но посмотри, к чему привел твой недуг... Ты стала несчастной, а ведь это можно попытаться исправить!}
+{700}{}{[she is really trying to understand any bit from what you've just said] And what does it all mean?}
+{701}{034}{That your brain is working not quite right, distorting your reality. You see the things that don't exist. And look what it did to you... You became unhappy! But the good news is that everything can be fixed.}
 
 #Node080
-{800}{}{Нет! Я права, я знаю это... я... [она начала всхлипывать и подвывать]}
-{801}{052}{[подождать]}
+{800}{}{No! I am right! I know this... I... [she starts crying]}
+{801}{052}{[wait for a while]}

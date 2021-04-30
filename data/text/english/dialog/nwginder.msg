@@ -11,171 +11,171 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: бледный тип.}
-{2}{}{На удивление тощий и бледный человек в халате.}
+{1}{}{You see a pale man.}
+{2}{}{Unusually pale and thin man. He is dressed in a white lab coat.}
 #
 # после знакомства
-{3}{}{Вы видите: Доктор Гиндер.}
-{4}{}{Доктор, от одного взгляда на которого, сразу же хочется быть здоровым.}
+{3}{}{You see doctor Hinder.}
+{4}{}{One look on him makes you want to be healthy.}
 #
-{5}{}{Иди пока к Оуэну. Я скоро.}
-{6}{}{Я еще не закончил. Можешь идти к Оуэну.}
-{7}{}{Я обещал - я выполню обещание. Иди пока к мяснику.}
+{5}{}{Go talk to Owen, I'm not done yet.}
+{6}{}{I haven't finished yet. You can go to Owen for now.}
+{7}{}{I promised - I'll do it. Go to the butcher for now.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
 #Node001
-{10}{}{[Перед вами стоит человек в относительно чистом, белом халате. Это самый опрятный человек, которого вы встречали за всю свою жизнь. На его носу покоятся круглые очки с небольшими линзами увеличения. Он худощав, резкие скулы четко вырисовывают его лицо. Губы тонкие, уголки опущены вниз] Гиндер, врач. [он ожидал пару секунд вашего ответа, но, не дождавшись, вернулся к изучению бумаг в руках].}
-{11}{002}{Меня зовут }
-{12}{002}{. Я тут недавно.}
+{10}{}{[Before you stands the man in almost white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose you see a pair of round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, continues to study a huge pile of papers in his hands].}
+{11}{002}{I'm }
+{12}{002}{. I'm here recently.}
 
 #Node002
-{20}{}{Что тебе надо? [он даже не оторвал взгляд от документа. При этом он все внимательнее изучал текст и все меньше слушал Вас]}
-{21}{003}{Нуу...}
+{20}{}{What do you want? [he didn't even take his eyes off the document he is reading. The more he looks into it, the less he pays attention to you]}
+{21}{003}{Well...}
 
 #Node003
-{30}{}{[Гиндер резко переключил свое внимание на вас] Не трать мое время на чепуху. Если есть тема для разговора - говори быстро и лаконично.}
-{31}{004}{Эм, да, я вообще-то хотел задать вам несколько вопросов...}
-{32}{010}{[собраться с мыслями]}
+{30}{}{[Hinder forcefully turns to you] Don't waste my time on some nonsense. If you have something to talk about - talk, fast and short.}
+{31}{004}{Uh, um, er, I just wanted to ask something...}
+{32}{010}{[gather your thoughts]}
 
 #Node004
-{40}{}{Всего хорошего. [он показательно отвернулся от Вас]}
-{41}{999}{[разговор окончен]}
+{40}{}{All the best. [he demonstratively turns around from you]}
+{41}{999}{[end conversation]}
 
 #Node010
-{100}{}{Слушаю. }
-{101}{011}{Мне нужно лечение.}
-{102}{015}{Оуэн вывихнул руку. Ему нужна помощь.}
-{103}{028}{Мой друг вывихнул руку. Подскажите, как ему можно помочь. Я сам все сделаю, чтобы не отрывать вас.}
-{104}{Barter}{Док, я бы не прочь закупиться медпрепаратами.}
-{105}{033}{Ты всегда ведешь себя как гондон?}
-{108}{}{У меня, похоже, кость сломана... [показать разорванную в мясо руку]}
-{109}{}{Эта торчащая кость мешает мне быстро бегать... [закатать штанину]}
-{106}{010a}{Кратко - Сэм может стать новым мэром, что об этом думаешь?}
-{107}{999}{В следующий раз, док. Мне нужно идти.}
+{100}{}{I'm listening. }
+{101}{011}{I need healing.}
+{102}{015}{Owen dislocated his arm. He needs help.}
+{103}{028}{My friend have a trouble with his arm. Tell me how to help him. I'll do it myself, to not distract you from your business.}
+{104}{Barter}{Doc, I'd like to purchase some medical supplies.}
+{105}{033}{Are you always acting like a jerk?}
+{108}{}{Looks like my bone is broken... [show him your bloody, teared hand]}
+{109}{}{This thing prevents me from running faster... [show hims the bone sticking out of your leg]}
+{106}{010a}{In short - Sam could become a new Mayor. What do you think of it?}
+{107}{999}{Next time, doc. I need to go.}
 
 #Node010a
-{113}{}{Мэр - мертвяк? Глупости и вздор.}
-{114}{010b}{Ну почему же глупости? Мэр ведь должен быть в первую очередь опытным, так?}
-{115}{999}{Ну ты и правда говнюк, док.}
+{113}{}{A ghoul for a Mayor? Nonsense and rubbish.}
+{114}{010b}{Why is it nonsense? Mayor should be experienced, above all, right?}
+{115}{999}{You are such an asshole, doc.}
 
 #Node010b
-{116}{}{А Сэм и правда нажил немало опыта. Да, с этой точки зрения - я согласен.}
-{117}{999}{Вот и хорошо.}
+{116}{}{Well, it is true, Sam has a lot of experience. From this point of view, I agree.}
+{117}{999}{That's great then.}
 
 #Node011
-{110}{}{[он критично осматривает Вас] Вижу.}
-{111}{012}{И?}
-{112}{013}{И?}
-{118}{}{[он какое-то время смотрит на Вашу кость, торчащую из раны] Да, похоже на то.}
+{110}{}{[He critically examines you] I see.}
+{111}{012}{And?}
+{112}{013}{So?}
+{118}{}{[He looks at your bone for some time.] Yeah, looks like it.}
 
 #Node012
-{120}{}{Одну минуту, руководитель. Сейчас приступим...}
-{121}{014}{[пройти процедуры лечения]}
+{120}{}{One second, Leader. Let's get into it...}
+{121}{014}{[go through healing treatment]}
 
 #Node014
-{140}{}{[док закончил лечение и молча вернулся к своим обязанностям. Кажется, он не считает необходимым продолжать разговор]}
-{141}{010}{Э... док?}
-{142}{999}{[закончить разговор]}
+{140}{}{[doc finishes treating you and gets back to his duties. Looks like he doesn't think it's necessary to continue the conversation]}
+{141}{010}{Uh... Doc?}
+{142}{999}{[end dialogue]}
 
 #Node013
-{130}{}{Я не вижу повода заниматься твоим лечением. Я лечу жителей НМП. Ты такой же житель этого города, как я - сутенер в Радуге. А теперь - не трать мое время напрасно. [док молча вернулся к своим обязанностям. Кажется, он не считает необходимым продолжать разговор]}
-{131}{010}{Э... док?}
-{132}{999}{[закончить разговор]}
+{130}{}{I don't see any point in treating you. I heal people of NWO. And you belong to NWO like I belong to the club of pimps in Rainbow. Now, stop wasting my time. [he gets back to his duties. Looks like he doesn't think it's necessary to continue the conversation]}
+{131}{010}{Uh... Doc?}
+{132}{999}{[end dialogue]}
 
-{133}{}{И? Я что-то тебе должен? Нет? Вот и прекрасно. [док молча вернулся к своим обязанностям]}
-{134}{013c}{Черт, я готов заплатить. Кто же кроме тебя мне поможет!?}
-{135}{999}{[закончить разговор]}
+{133}{}{So? Do I owe you something? No? Wonderful. [he gets back to his duties]}
+{134}{013c}{I'm willing to pay, dammit! Who else can help me, except you!?}
+{135}{999}{[end dialogue]}
 
-{136}{}{[поворачивается к Вам] Кто? Никто. Восстановить такую травму могу только я. [явно приценивается к Вашей торчащей кости] }
-{137}{}{ батареек - и я берусь за тебя.}
-{138}{}{Согласен, вот батарейки...}
-{139}{999}{Хорошо, я соберу нужную сумму и вернусь...}
+{136}{}{[he turns back to you] Who? No one. Only I can heal wounds like that. [he definitely assesses your sticking bone] }
+{137}{}{ batteries, and I'll do it.}
+{138}{}{Agreed, here, your batteries...}
+{139}{999}{Okay, I'll get back with necessary amount.}
 
-{143}{}{[забирает батарейки в аккуратный кожаный мешочек] Приступаем.}
-{144}{014}{[пройти процедуры лечения]}
+{143}{}{[he puts batteries into a small leather bag] Let's begin then.}
+{144}{014}{[go through healing treatment]}
 
 #Node015
-{150}{}{Этот осел опять проявил чудеса криворукости? Нет, я не буду его лечить. }
-{151}{016}{Док, а ты слышал о клятве Гиппократа?}
-{152}{027}{Почему это?}
-{153}{018}{А что заставит вас изменить свое решение?}
+{150}{}{This thick-head is being crooked-handed again? No, I won't treat him. }
+{151}{016}{Did you hear something about the Hippocratic Oath, doc?}
+{152}{027}{Why's that?}
+{153}{018}{What would make you change your decision?}
 
 #Node016
-{160}{}{Надо же. Начитанный дикарь. [док скривился] Да, я слышал. Но я не давал эту клятву.}
-{161}{017}{Значит ты не врач в полном смысле этого слова.}
+{160}{}{Wow. A well-read savage. [he cringes] Yes, I've heard. But I never took this oath.}
+{161}{017}{So you are not actually a doctor.}
 
 #Node017
-{170}{}{Послушай, меня такой довод не заставит лечить этого осла. Не трать мое время.}
-{171}{018}{А что заставит вас изменить свое решение?}
+{170}{}{Listen, you won't make me change my mind like this. Stop wasting my time.}
+{171}{018}{What would make you change your decision?}
 
 #Node018
-{180}{}{Хмм... я провожу кое-какие исследования. Мне требуется много материала. Если ты сделаешь свой вклад, - тогда я помогу этому кретину с рукой. }
-{181}{019}{Что еще за "вклад"?}
+{180}{}{Hm... I'm doing some research. I need a lot of material. If you contribute, I'll help this cretin with his hand. }
+{181}{019}{Contribute how, exactly?}
 
 #Node019
-{190}{}{Мне потребуется твоя кровь для анализов. Еще моча, кал и соскоб. И не забудь заполнить  анкету. По рукам?}
-{191}{022}{По рукам.}
-{192}{020}{Ну уж нет. Я лучше поищу другой способ.}
-{193}{020}{Иди-ка ты нахер, умник. Я найду способ попроще.}
-{194}{021}{Соскоб?}
+{190}{}{I'll require a saple of you blood. Also, urine and stool. And a scrape. And don't forget to fill the form. Agreed?}
+{191}{022}{Agreed.}
+{192}{020}{Hell no. I'll find another way.}
+{193}{020}{Go screw yourself, smart-ass. I'm gonna find a simpler way.}
+{194}{021}{A scrape?}
 
 #Node020
-{200}{}{[доктор потерял к вам всякий интерес и вернулся к своим делам, показывая, что разговор окончен]}
-{201}{999}{[конец диалога]}
+{200}{}{[doctor loses any interest in you and gets back to his duties, demonstrating that this conversation is over.]}
+{201}{999}{[end dialogue]}
 
 #Node021
-{210}{}{Да, соскоб. Мазок из твоего ануса.}
-{211}{020}{Че-то мне не нравится эта идея... пожалуй, я воздержусь.}
-{212}{022}{Ладно, по рукам. Но чуть что - я тебе такой мазок организую...}
-{213}{025}{Не-а. Соскоб делай себе сам. Я согласен сдать кровь, поссать в баночку и даже посрать туда. И точка. Это достойная сделка.}
+{210}{}{Yes, a scrape. From your anus.}
+{211}{020}{Somehow, I don't really like the idea... I think I'll pass.}
+{212}{022}{Okay, let's do it. But if something goes wrong, I'll scrape you myself...}
+{213}{025}{Nah. You scrape yourself. I can donate some blood, piss into a bottle, even take a dump in it. And that's it. This deal is good enough.}
 
 #Node022
-{220}{}{Итак, начнем с анализа крови... }
-{221}{023}{[пройти процедуры]}
+{220}{}{Okay, we'll start with a blood test... }
+{221}{023}{[take the procedures]}
 
 #Node023
-{230}{}{[у Вас крайне неприятные ощущения в заду и чешется рука после анализа крови, Вы очень плохо себя чувствуете. Закрадывается подозрение, что шприцы доктора не такие чистые, как его халат. Да и крови он забрал совсем немало...] }
-{231}{024}{Док, твоя очередь выполнять обязательства.}
+{230}{}{[You have a very unpleasant feeling in your ass, your hand itches after being poked with needles. You don't feel very good. Maybe the doctor's syringes are not as clean as his lab coat. And the amount of blood he took from you - it's a lot...] }
+{231}{024}{Now it's your turn, doc. To carry out the obligations.}
 
 #Node024
-{240}{}{Я сейчас подготовлю к хранению анализы и заполню ряд бланков. Ты пока иди к этому кретину и скажи, что я поправлю ему руку. Подойду минут через десять-пятнадцать.}
-{241}{999}{Окей.}
+{240}{}{I'm going to prepare the samples for storage and fill in some forms. You go to this cretin and tell him I agreed to fix his hand. I'll come by in fifteen minutes.}
+{241}{999}{Okay.}
 
 #Node025
-{250}{}{[док задумался] Ладно.}
-{251}{026}{[пройти процедуры]}
+{250}{}{[doc thinks for a second] Okay.}
+{251}{026}{[take the procedures]}
 
 #Node026
-{260}{}{[у вас чешется рука после анализа крови, Вы очень плохо себя чувствуете.. Закрадывается подозрение, что шприцы доктора не такие чистые, как его халат. Да и крови он забрал совсем немало...]}
-{261}{024}{Док, твоя очередь выполнять обязательства.}
+{260}{}{[Your hand itches so much after being poked with needles. You don't feel very good. Maybe the doctor's syringes are not as clean as his lab coat. And the amount of blood he took from you - it's a lot...] }
+{261}{024}{Now it's your turn, doc. To carry out the obligations.}
 
 #Node027
-{270}{}{Потому что. Тебя это не касается.}
-{271}{017}{Но вы же доктор!}
+{270}{}{Because. It doesn't concern you.}
+{271}{017}{But you are a doctor!}
 
 #Node028
-{280}{}{[док внимательно посмотрел на вас] Чурбана с улицы, который вообще ничего не понимает в медицине, я обучать не буду. }
-{281}{029}{У Оуэна "луксатия манус". К сожалению, мне не попадалось литературы, которая объяснила бы как с этим работать.}
-{282}{031}{Это избавит вас от потного и грязного работяги, который в таком случае придет сам.}
-{283}{032}{Но... вы же должны помогать! Вы же доктор!}
+{280}{}{[doc stares at you] I won't be teaching some block from the wasteland, who knows nothing about the medical science. }
+{281}{029}{Owen has "luxatio manus". Unfortunately, I haven't run across the literature, which had the information about dealing with such condition.}
+{282}{031}{This would take care of a sweaty and dirty labourer for you. In opposite case, he will come here by himself.}
+{283}{032}{But... You should help! You are the doctor!}
 
 #Node029
-{290}{}{Беру свои слова назад. Значит, эту проблему можно решить так...}
-{291}{030}{[внимательно слушать доктора]}
+{290}{}{I take my words back. So, it can be done this way...}
+{291}{030}{[listen to him carefully]}
 
 #Node030
-{300}{}{[доктор заканчивает свою мини-лекцию] Все ясно?}
-{301}{999}{Да, док. Спасибо. Мне нужно идти.}
+{300}{}{[doctor finishes his lecture] All clear?}
+{301}{999}{Yeah, doc, thanks. I need to go.}
 
 #Node031
-{310}{}{[Гиндер скривился] Ладно... попробую объяснить...}
-{311}{030}{[внимательно слушать доктора]}
+{310}{}{[Hinder cringes] Okay... I'll try to explain...}
+{311}{030}{[listen to him carefully]}
 
 #Node032
-{320}{}{Не трать мое время на чепуху. Разговор окончен. [он отвернулся от Вас]}
-{321}{999}{[конец диалога]}
+{320}{}{Don't waste my time on some nonsense. The talk is over. [he turns around from you]}
+{321}{999}{[end dialogue]}
 
 #Node033
-{330}{}{[Гиндер посмотрел на вас исподлобья, поверх очков] Меня так каждый второй называет. Для меня вы все - ничтожества. И что с того? Даю тебе совет - не трать свое время на ерунду. [док вернулся к своим делам, показывая что разговор окончен].}
-{331}{999}{[конец диалога]}
+{330}{}{[Hinder looks at you from atop of his glasses] I am called like that by every other person. For me, you all are nobodies, so what? Here's some advice - don't waste your time on some nonsense. [he gets back to his duties, demonstrating that this conversation is over].}
+{331}{999}{[end dialogue]}

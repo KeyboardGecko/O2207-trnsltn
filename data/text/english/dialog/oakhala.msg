@@ -1,4 +1,4 @@
-f##############################
+##############################
 #Локация: Оазис
 #Имя: Кхала
 #Краткое описание: Целитльница и повар Оазиса. Квест на лечение руки, съела волка Птуны.
@@ -11,16 +11,16 @@ f##############################
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see а savage woman, wearing a blood-stained apron.}
+{1}{}{You see a tanned savage woman. She is wearing a blood-stained apron.}
 {2}{}{She looks at you like a food critic looks at sophisticated dish.}
 #
 # после знакомства
-{3}{}{You see: Khala.}
+{3}{}{You see Khala.}
 {4}{}{She successfully combines duties of chef and healer in this tribe.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[Under thin greasy locks of hair that fall on her forehead and are interwoven with little bones, you see two hateful and curious, a bit googly, eyes. The only pieces of clothes she wears are loincloths and a torn apron, which has some kind of unusual patterns, deeply hidden under the layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
+{10}{}{[Under thin, greasy, interwoven with little bones locks of hair, falling on her forehead, you see two hateful and curious, a bit googly, eyes. The only pieces of clothes she wears are loincloths and a torn apron, which has some kind of unusual patterns, deeply hidden under the layers of bloody stains. She smiles at you, licking her bitten lips, and you, with some uneasiness, notice her sharpened canine-like teeth] Ssoo... Unfed Silent One sent us an outsider? Mmm... Dinner or lunch? Lunch or dinner? [she stops and thinks] Aunt Khala is generous today, you can choose yourself... But don't choose for too long...}
 {11}{013}{Unfed who? What are you even talking about?}
 {12}{011}{I really hope you're joking. It would be better for everybody.}
 {13}{014}{What an interesting choice. And you are the local cook, I suppose?}
@@ -41,7 +41,7 @@ f##############################
 {108}{027}{Calm down! I've returned to help you.}
 {109}{999}{Wait for a little longer, soon it'll be dealt with.}
 {1010}{031}{This pain is nothing, compared to what you are going to suffer, you crazy animal! It's time to put you down!}
-{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but seeing you she hides it into one of pockets on her dirty apron. It became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
+{1003}{}{[she is sharpening her teeth with a broken makeshift hacksaw, but upon seeing you she hides it into one of pockets on her dirty apron. It became even more blood-soaked since your last conversation.] And again, the outsider comes to Khala... The Unfed Silent One is wise and great - he kept her from eating you right away... [she takes out a piece of meat from another pocket and tries to hand it to you] Want it? No? Why? It's tasty, just started to rot! The outsiders are so strange...}
 {1011}{013}{Excuse me for interrupting your make-up, but could you tell me about this Unfed one?}
 {1012}{012}{You are still calling me an outsider?}
 {1013}{031}{How are you feeling, Khala?}
@@ -51,7 +51,7 @@ f##############################
 
 {110}{}{[she gives you a surprised look] How it would be better for everybody, if no one eats anyone? You are trying to make a joke on Khala! [She hisses through teeth, stroking the handle of a huge butcher knife] Khala doesn't like jokes. Khala likes meat...}
 {111}{031}{Slow down, you wacko. Or I'm gonna find a way to make you slow down. }
-{112}{014}{Alright, let's hastly change the subject. For example, tell me, what do you do here.}
+{112}{014}{Alright, let's quickly change the subject. For example, tell me, what do you do here.}
 {113}{999}{Oh damn, I've just remembered I have some places to be. See you around, foodie.}
 
 
@@ -67,22 +67,22 @@ f##############################
 {133}{999}{Wonderful. I should go, I think.}
 
 
-{1401}{}{[Khala gently strokes knife handles, which stick up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. [she ajusts bracelet on her wrist and frowns in pain. You notice bite wounds on her elbow. Looks very nasty.]}
+{1401}{}{[Khala gently strokes knife handles, which stick up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. [she adjusts bracelet on her wrist and frowns in pain. You notice bite wounds on her elbow. Looks very nasty.]}
 {141}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
 {142}{018}{What's with your arm?}
 {143}{031}{What fucking gifts? You eat people, you crazy bitch!}
-{144}{016}{You know healing? Coud you heal me?}
+{144}{016}{You know healing? Could you heal me?}
 {145}{017}{Hmm... Mind teaching me some recipes?}
 {146}{999}{Enough information for now. See you later.}
 {1402}{}{[Khala gently strokes knife handles, sticking up from the pockets of her apron] Khala cooks food, Khala heals... Unfed Silent One generously bestowed her with his gifts. If you want, Khala can share her knowledge.}
 {147}{015}{Did you ever try to do a little cleanup here... In your, uh, kitchen? Or you are purposely breeding maggots?}
 {148}{031}{What fucking gifts? You eat people, you crazy bitch!}
-{149}{016}{You know healing? Coud you heal me?}
+{149}{016}{You know healing? Could you heal me?}
 {1410}{017}{Hmm... Mind teaching me some recipes?}
 {1411}{999}{Enough information for now. See you later.}
 
 
-{150}{}{Khala likes when air smells with blood! This smell soaks into flesh, makes you strong! That's why Khala wears sacred clothes for her everyday eating ritual... [she touches straps of her apron. So that's what this patterns are about!]}
+{150}{}{Khala likes when air smells with blood! It soaks into flesh, makes you strong! That's why Khala wears sacred clothes for her everyday eating ritual... [she touches straps of her apron. So that's what this patterns are about!]}
 {151}{031}{Okay, that's it, I'm done! Now you are getting your "smell of blood in the air"!}
 {152}{014}{Actually, I wanted to learn another thing about you...}
 {153}{999}{I see... But I need to go.}
@@ -100,7 +100,7 @@ f##############################
 {173}{999}{I need some time to wrap my head around it. See you later, don't walk me out, I know the way.}
 
 
-{180}{}{[Khala hastly puts her hand behind and snarls at you, squinting her eyes] Why do you care about Khala's arm? Why do you ask this question?}
+{180}{}{[Khala hastily puts her hand behind and snarls at you, squinting her eyes] Why do you care about Khala's arm? Why do you ask this question?}
 {181}{019}{Why so nervous? I just wanted to assess the damages and maybe do a little helping healing.}
 {182}{999}{Just saying. Well, I'd better come back later, when you calm down.}
 
@@ -157,7 +157,7 @@ f##############################
 
 
 {270}{}{[With her healthy hand, she plows through the bushes on her head in search of some insect. Little bones in her hairlocks lightly tap on each other] Let the outsider not hesitate! Khala is tired of catching little creatures with one arm!}
-{271}{029}{[make a gesture to dr. Pat] This is dr.Pat, he is a great shaman of his tribe! He will help you.}
+{271}{029}{[make a gesture to dr. Pat] This is dr. Pat, he is a great shaman of his tribe! He will help you.}
 {272}{019}{I want to examine your wounds again.}
 {273}{999}{Actually, you'll have to wait... Don't be nervous! Not for long!}
 

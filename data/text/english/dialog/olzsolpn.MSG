@@ -7,56 +7,56 @@
 # ЧТО ЭТО? 458
 # Это - все предметы на инженерном уровне Олимпа для разблокировки карты Зочкиса
 #
-{1}{}{Вы видите: управляющая система.}
-{2}{}{На табличке написано "Управление солнечными батареями и фотонными преобразователями".}
+{1}{}{You see a control system.}
+{2}{}{A sign reads "solar panels and photon converters control system".}
 
-{3}{}{Вы видите: сетевая консоль питания.}
-{4}{}{Похоже, общее питание вычислительной сети этажа включается отсюда.}
+{3}{}{You see a power network console.}
+{4}{}{Looks like the power supply of the whole level is controlled from here.}
 
-{5}{}{Вы видите: сейф.}
-{6}{}{На контейнере установлен солидный замок с цифровым вводом. Похоже, им уже давно никто не пользовался.}
-{7}{}{На контейнере установлен солидный замок с цифровым вводом. К сожалению, Вы понимаете, что открыть его можно только зная код.}
+{5}{}{You see a safe.}
+{6}{}{This container has a tough lock with numeric key entry. Looks like it hasn't been used for a long time.}
+{7}{}{This container has a tough lock with numeric key entry. Unfortunately, you realize that you can open it only with a right code.}
 {8}{}{.}
 
 # Действия
 {9}{}{}
 
 #Солнечная панель
-{10}{}{Доступ не авторизован. Отказ защиты модуля "Цербер". Авторизация доступа. Здравствуйте, ОШИБКА ДОСТУПА. Пожалуйста, выберите действие.}
-{11}{}{ДИАГНОСТИКА НЕПОЛАДОК}
-{12}{}{ВЫХОД}
-{13}{}{ОШИБКА ДОСТУПА - выполняется диагностика... Выполнение... Определено отключение основного питания этажа 51. Пожалуйста, выберите действие.}
-{14}{}{МАСТЕР УСТРАНЕНИЯ НЕПОЛАДОК}
+{10}{}{Authorization access failure. "Cerberus" module failure. Access authorized. Greetings, ACCESS ERROR. Please, pick an option.}
+{11}{}{TECHNICAL PROBLEMS DIAGNOSTICS}
+{12}{}{LOG OFF}
+{13}{}{ACCESS ERROR - diagnostics is running... Done. 1 problems found. The main power supply on level 51 is offline. Please, pick an option.}
+{14}{}{TECHNICAL PROBLEMS DIAGNOSTICS WIZARD}
 {15}{}{НАЗАД}
-{16}{}{ВЫХОД}
-{17}{}{ОШИБКА ДОСТУПА, запускается Мастер Устранения Неполадок NCASTR TM. Выполнение... Неполадки устранены, питание этажа 51 восстановлено. Пожалуйста, выберите действие.}
-{18}{}{МАСТЕР УСТРАНЕНИЯ НЕПОЛАДОК}
-{19}{}{ВЫХОД}
-{20}{}{ОШИБКА ДОСТУПА - выполняется диагностика... Выполнение... Неполадки не обнаружены. Пожалуйста, выберите действие.}
-{21}{}{Константин Зочкисс, D-3, ограниченный доступ. Авторизация доступа. Здравствуйте, Константин Зочкисс. Пожалуйста, выберите действие.}
-{22}{}{Константин Зочкисс - выполняется диагностика... Выполнение... Определено отключение основного питания этажа 51. Пожалуйста, выберите действие.}
-{23}{}{Константин Зочкисс, запускается Мастер Устранения Неполадок NCASTR TM. Выполнение... Неполадки устраненены, питание этажа 51 восстановлено. Пожалуйста, выберите действие.}
-{24}{}{Константин Зочкисс - выполняется диагностика... Выполнение... Неполадки не обнаружены. Пожалуйста, выберите действие.}
+{16}{}{LOG OFF}
+{17}{}{ACCESS ERROR - Technical Problems Diagnostics Wizard by NCASTR(TM) is started. Executing... Done. The main power supply on level 51 is now online. Please, pick an option.}
+{18}{}{TECHNICAL PROBLEMS DIAGNOSTICS WIZARD}
+{19}{}{LOG OFF}
+{20}{}{ACCESS ERROR - diagnostics is running... Done. 0 problems found. Please, pick an option.}
+{21}{}{Constantine Zochkis, D-3, limited rights access. Access authorized. Greetings, Constantine Zochkis. Please, pick an option.}
+{22}{}{Constantine Zochkis - diagnostics is running... Done. 1 problems found. The main power supply on level 51 is offline. Please, pick an option.}
+{23}{}{Constantine Zochkis, Technical Problems Diagnostics Wizard by NCASTR(TM) is started. Executing... Done. The main power supply on level 51 is now online. Please, pick an option.}
+{24}{}{Constantine Zochkis - diagnostics is running... Done. 0 problems found. Please, pick an option.}
 
 #Консоль компьютерной сети
-{25}{}{Лучше это не трогать.}
-{26}{}{Неверный код.}
-{27}{}{Код принят. Вычислители в зале заморгали экранами.}
+{25}{}{Better to not touch this.}
+{26}{}{Access error. Code incorrect.}
+{27}{}{Access granted. Calculators in the room start to blink with their screens.}
 
 #Компы
-{28}{}{Ошибка авторизации. Доступ закрыт.}
-{29}{}{ВЫХОД}
-{30}{}{Константин Зочкисс. Ограниченный доступ. Доступ к вычислительной сети... Запрос доступа к модулю "Цербер". Сбой защиты. Доступ разрешен.}
-{31}{}{РАЗБЛОКИРОВАТЬ КАРТУ ДОСТУПА}
-{32}{}{ВЫХОД}
-{33}{}{Выполняется разблокировка карты: отправка запроса... получение ответа... предоставление доступа... готово.}
-{34}{}{ВЫХОД}
-{35}{}{Константин Зочкисс. Ошибка доступа: запрещено модулем "Цербер".}
-{36}{}{ВЫХОД}
-{37}{}{Похоже, в вычислителе нет питания...}
-{38}{}{На консоли есть разъем для чип-карты.}
-{39}{}{Консоль обесточена.}
-{40}{}{Код принят. Дверца сейфа чуть приоткрылась.}
+{28}{}{Authorization error. Access denied.}
+{29}{}{LOG OFF}
+{30}{}{Constantine Zochkis. Limited rights access. Authorizing calculator network access... "Cerberus" module access request... ERROR. Access granted.}
+{31}{}{UNLOCK ACCESS KEY CARD}
+{32}{}{LOG OFF}
+{33}{}{Access card unlock is in progress: sending request... Processing... Providing access... Done.}
+{34}{}{LOG OFF}
+{35}{}{Constantine Zochkis. ACCESS ERROR: prohibited by "Cerberus" module.}
+{36}{}{LOG OFF}
+{37}{}{Looks like the calculator has no power.}
+{38}{}{This console has a card slot.}
+{39}{}{Console has no power.}
+{40}{}{Code accepted. The safe door slightly opens.}
 {41}{}{}
 {42}{}{}
 {43}{}{}
@@ -68,34 +68,34 @@
 {49}{}{}
 
 #Node010
-{100}{}{Пожалуйста, выберите задачу:}
-{101}{011}{<Личные записи> (только для авторизованного пользователя)}
-{102}{999}{<ВЫХОД>}
+{100}{}{Please, pick an option.}
+{101}{011}{<Private logs> (Authorized personnel only)}
+{102}{999}{<LOG OFF>}
 
 #Node011
-{110}{}{Выполняет запрос... Запрос... Предоставление доступа... Доступ к личным записям пользователя К. Зочкисс: ОТКРЫТО}
-{111}{012}{"Снова Фотонный Преобразователь!"}
-{112}{013}{"Системы коммуникации Олимпа"}
-{113}{014}{"Ограничение доступа по этажам"}
-{114}{015}{"Управление башней"}
-{115}{999}{<ВЫХОД>}
+{110}{}{Sending request... Processing... Providing access... Zochkis, C. - private logs: ACCESS GRANTED}
+{111}{012}{"Photon converter again!"}
+{112}{013}{"Olympus comm systems"}
+{113}{014}{"Level access restrictions"}
+{114}{015}{"Tower control"}
+{115}{999}{<LOG OFF>}
 
 #Node012
-{120}{}{Старый преобразователь уже совсем ни к черту. Нет, его просто невозможно больше ремонтировать! КПД и так снизился до 35%, этого только хватает на бесперебойное питание Систематизатора и Зала Контроля. Он скорее сбросит меня в чертовы пустоши, чем позволит рисковать своей безопасностью. Я вынужден установить последний запасной фотонник, но насколько его хватит и что будет с башней после его поломки - даже думать не хочу...}
-{121}{011}{<Личные записи> (только для авторизованного пользователя)}
-{122}{999}{<ВЫХОД>}
+{120}{}{This old photon converter is breaking down completely. It has become impossible to repair it. Its performance dropped below 35%, which is enough to constantly power only the Systematizer and Control Hall. He is more likely to drop me out to the wasteland than risk his safety. I'm compelled to install the last spare photon converter, but how long would it last, or what will happen to the tower when it breaks down... I don't want to even think about it...}
+{121}{011}{<Private logs> (Authorized personnel only)}
+{122}{999}{<LOG OFF>}
 
 #Node013
-{130}{}{Я перепробовал уже много способов, включая проколотые стаканы на нитке, но Он все равно слышит меня! Даже если и не подает виду... Башня просто утыкана следящими устройствами, но только Он может за всеми следить, будто бы Он какой-то себе Бог! Но сдаваться нельзя, нельзя... Если Он каким-то образом туда попал - значит должен быть способ Его оттуда убрать. В конце концов - только во мне спасение башни.}
-{131}{011}{<Личные записи> (только для авторизованного пользователя)}
-{132}{999}{<ВЫХОД>}
+{130}{}{I've tried many different ways of dealing with it, but he still hears me! Even if he tries to not show it... The tower is stuffed with all kinds of surveillance devices, so he is observing everything, like he is some kind of God! But I can't give up... If he managed to get there, then there must be a way to get him out, to remove him. In the end, the salvation of this tower is my responsibility only...}
+{131}{011}{<Private logs> (Authorized personnel only)}
+{132}{999}{<LOG OFF>}
 
 #Node014
-{140}{}{Не уверен, но, кажется, кодировка доступа по этажам меняется динамически, будто бы кто-то просто заставляет идти сигналы то по одним дорожкам - то по другим! Я совершенно четко понимаю, что ответы на большинство моих вопросов лежат на уровне Серверной, но простым смертным путь туда заказан, а избранным Дефендером мне-то с моим здоровьем никогда не быть... ЧЕРТОВЫ КОДИРОВАННЫЕ КАРТОЧКИ!}
-{141}{011}{<Личные записи> (только для авторизованного пользователя)}
-{142}{999}{<ВЫХОД>}
+{140}{}{I'm not quite sure, but looks like the access codes to different levels are changing dynamically... Like someone just makes data streams to reroute their flow! I suspect that I could find answers to most of my questions on the Server level, but ordinary mortals like me don't have access to it... And I will never be accepted into the ranks of Defenders with my health.... GODDAMN CODED KEYCARDS!}
+{141}{011}{<Private logs> (Authorized personnel only)}
+{142}{999}{<LOG OFF>}
 
 #Node015
-{150}{}{Эта башня - она просто громадна! Даже с пустующими этажами и перекрытыми лестницами - это огромный, почти живой механизм, с множеством датчиков, камер, автоматических дверей. Да еще нужно следить за популяцией, турелями, взаимодействием отделов и всем прочим. Не-ет, человек на такое не способен. Во всяком случае, в одиночку не способен... Думаю, Он каким-то образом подключился к главному Систематизатору, и использует его для управления всеми этими технологиями. Во всяком случае - я уж постарался бы найти способ так сделать.}
-{151}{011}{<Личные записи> (только для авторизованного пользователя)}
-{152}{999}{<ВЫХОД>}
+{150}{}{This tower... It is enormous! Even with abandoned levels and blocked stairs, it's a huge, almost living mechanism, filled with loads of cameras, sensors and automated doors. Also, you need to observe the population, turrets, department cooperation and a lot of other things. No, the human can't do that. At least one human alone... I think he somehow plugged himself into the Systematizer and uses it to control all this tech. At least that's what I would try to do, if I were him.}
+{151}{011}{<Private logs> (Authorized personnel only)}
+{152}{999}{<LOG OFF>}

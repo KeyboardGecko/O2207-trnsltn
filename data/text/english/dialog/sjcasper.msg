@@ -11,239 +11,239 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{Вы видите: парня, которого судя по лицу много били в детстве.}
-{2}{}{Он вам напоминает крысу. Большую мерзкую крысу.}
+{1}{}{You see a guy who looks like he was often beaten up in his childhood.}
+{2}{}{He reminds you of rat. Big, disgusting rat.}
 #
 # после знакомства
-{3}{}{Вы видите: Каспер.}
-{4}{}{Вам очень хочется прорядить его зубы.}
+{3}{}{You see Casper.}
+{4}{}{You are very keen on reducing the amount of teeth in his mouth.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{5}{}{Эй, сучонок! Мне Каспер все про тебя рассказал!}
-{6}{}{Э-э бля, говнюк! Мне Каспер все рассказал, ты - ТРУП!}
-{7}{}{Эй сучара, ты чо там про меня трепал!? Мне Каспер ВСЕ рассказал!}
-{8}{}{Стоп, стоп, НЕ УБИВАЙ! Окей, ты победил...}
+{5}{}{You little bitch! Casper told me everything about you!!}
+{6}{}{Fucking shithead! Casper told me everything! You are deadman!!}
+{7}{}{Hey, bitch, what were you saying about me?! Casper told me EVERYTHING!}
+{8}{}{Wait, stop! Don't kill me!! You win...}
 
-{10}{}{[перед вами хилый паренек с недобрым взглядом и раздражающей ухмылкой] Че уставился, мудила?}
-{11}{002}{И тебе не хворать, сморчок.}
-{12}{003}{Следи за базаром, так и по зубам выхватить недолго.}
-{13}{004}{А ты кто вообще?}
+{10}{}{[You see a skinny little fella with an ugly look and annoying smirk] Whatcha lookin' at, arsehole?}
+{11}{002}{Hello to you too, runt.}
+{12}{003}{Watch your mouth or you're get your teeth kicked out.}
+{13}{004}{Who the hell are you?}
 
 
-{20}{}{То ли у тебя мозга нет, ущербный, то ли страх потерял. Со мной так базарить нельзя. Для первого раза спишу на то, что ты тупорогий олень. Я Каспер. Букмекер, назначенный Крикуном.}
-{21}{005}{Значит у тебя можно сделать ставку?}
-{22}{006}{Такое говно как ты? Букмекер? Не смеши.}
-{23}{998}{Пора поучить тебя хорошим манерам... [бой]}
+{20}{}{Either you have no brains at all, you imbecile, or just eager to die. I'm not someone you could talk like that to. I'll look past your fuckin' stupidity for this time. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{21}{005}{So you can take bets then?}
+{22}{006}{A bookmaker? You? Don't make me laugh.}
+{23}{998}{It's time to teach you some manners... [attack]}
 
 
-{30}{}{Слышь, ты, говноед, тут скорее ты без зубов останешься. На первый раз, так и быть, прощаю. Ко мне обращаться на Вы. Я Каспер, букмерер, назначенный крикуном.}
-{31}{005}{Значит у тебя можно сделать ставку?}
-{32}{006}{Такое говно как ты? Букмекер? Не смеши.}
-{33}{007}{На "Вы"? "Так и быть - прощаю"? Ты че, берега попутал?}
-{34}{998}{Пора поучить тебя хорошим манерам... [бой]}
+{30}{}{You shite, it's you who'll get your mouth caved in, if you talk like that. I'll look past your fuckin' stupidity for this time. You will adress me with respect. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{31}{005}{So you can take bets then?}
+{32}{006}{A bookmaker? You? Don't make me laugh.}
+{33}{007}{"With respect"? "I'll look past your stupidity"? Do you fucking want to die?}
+{34}{998}{It's time to teach you some manners... [attack]}
 
 
-{40}{}{Я букмекер. Принимаю ставки, устраиваю бои, ебу девок, чмырю таких утырков как ты.}
-{41}{008}{Да ты просто прелесть. Можно я буду звать тебя шоколадка?}
-{42}{998}{А я чувак с пустоши, который сейчас лишит тебя возможности все это делать... [бой]}
-{43}{009}{Давно я не встречал такого отборного, высшей пробы, дерьма. }
-{44}{010}{Ага. У меня есть несколько вопросов.}
+{40}{}{I'm a bookmaker. Taking bets, setting fights, fucking girls, picking on arseholes like you.}
+{41}{008}{You are so adorable. Can I call you "sweetie"?}
+{42}{998}{And I am some guy from wasteland, who will now take away your ability to do all that. [attack]}
+{43}{009}{Wow. I haven't talked to such high-grade shit for a really long time.}
+{44}{010}{Uh-huh. I have some questions.}
 
 
-{50}{}{Ага. Но не сегодня. На сегодня ставки закрыты. Плюс для чужака нужно купить абонемент, хе-хе. Единовременный членский взнос в размере 1000 батареек для развития рукопашных боев в этом чудесном месте.}
-{51}{011}{Ага, то есть для того, чтобы ты их пропил и спустил на шлюх? }
-{52}{012}{Тысяча? У тебя щека не треснет?}
-{53}{013}{Ок, вот взнос. Когда можно будет делать ставки?}
-{54}{014}{Слишком большая сумма. Мне не интересно.}
-{55}{999}{Пожалуй, я лучше пойду потрачу деньги на что-то более полезное.}
+{50}{}{Yes. But not today. Today all bets are done. Plus, an outsider like you should purchase a subscription first, heh-heh. A contribution fee is 1000 batteries, for the development of hand-to-hand combat entertainment industry in this wonderful area.}
+{51}{011}{You mean, for encouranging your drinking habits and whores.}
+{52}{012}{Thousand? You want jam on it?}
+{53}{013}{Okay, here's my donation. When I'll be able to make bets?}
+{54}{014}{Too much. Not interested.}
+{55}{999}{I'll better go spend the money on something more valuable.}
 
 
-{60}{}{[он ухмыльнулся] да, такое [он выделил это слово ехидной интоннацией] говно как я. Впрочем, думаю, мы с тобой закончили. Или у тебя есть вопросы?}
-{61}{010}{Да, есть.}
-{62}{999}{Нет, нету. [конец диалога]}
-{63}{999}{С таким говном общаться - себя не уважать. Я лучше пойду. }
+{60}{}{[He smirks] Yes, exactly. ME. I think we're done here. Or do you have any questions?}
+{61}{010}{Yes, I do.}
+{62}{999}{No, I don't. [end the dialogue]}
+{63}{999}{I'm starting to disrespect myself while I talk to a dirt like you. I'm going.}
 
 
-{70}{}{[он ухмыльнулся, показав ровный ряд здоровых зубов] Да, на Вы. Впрочем, думаю, мы с тобой закончили. Или у тебя есть вопросы?}
-{71}{010}{Да, есть.}
-{72}{999}{Нет, нету. [конец диалога]}
-{73}{999}{С таким говном общаться - себя не уважать. Я лучше пойду. }
+{70}{}{[He smirks, showing wide row of teeth] I think we're done here. Or do you have any questions?}
+{71}{010}{Yes, I do.}
+{72}{999}{No, I don't. [end the dialogue]}
+{73}{999}{I'm starting to disrespect myself while I talk to a dirt like you. I'm going. }
 
 
-{80}{}{Нет, нельзя. У тебя есть вопросы по делу?}
-{81}{010}{Да, есть.}
-{82}{999}{Нет, нету. [конец диалога]}
+{80}{}{No. Do you have other questions?}
+{81}{010}{Yes, I do.}
+{82}{999}{No, I don't. [end the dialogue]}
 
 
-{90}{}{[он злобно смотрит на Вас] У тебя вопросы есть по делу?}
-{91}{010}{Да, есть.}
-{92}{999}{Нет, нету. [конец диалога]}
+{90}{}{[He algrily looks at you] Do you have other questions?}
+{91}{010}{Yes, I do.}
+{92}{999}{No, I don't. [end the dialogue]}
 
 
-{100}{}{Че те надо?}
-{101}{}{Ну и?}
-{102}{018}{Насчет Винса...}
-{103}{005}{Ты что-то говорил про ставки...}
-{104}{033}{Что там со ставками? Когда ближайший бой?}
-{105}{034}{Говнюк, и много ты поднял с драки со мной?}
-{106}{032}{Погодка сегодня говно, да?}
-{107}{036}{Я отмудохал Стена.}
-{108}{999}{Мне пора.}
-{109}{038}{Насчет драки с той обезьяной - я готов.}
+{100}{}{Whaddaya want?}
+{101}{}{So?}
+{102}{018}{About Vince...}
+{103}{005}{You were mentioning bets...}
+{104}{033}{What's with the bets? When's next fight?}
+{105}{034}{How much you made on my fight, fuckface?}
+{106}{032}{The weather is shitty today, don't you think?}
+{107}{036}{I kicked the shit out of Stan.}
+{108}{999}{I gotta go.}
+{109}{038}{About the fight with that ape - I'm ready.}
 
 
 
-{110}{}{[он заржал во все горло] Тебя, хер моржовый, это не касается. Я, млять, тут министр спорта и азартных игр, а ты - говно.}
-{111}{998}{Ну ты меня внатуре уже достал. Ща посмотрим, кто тут говно...}
-{112}{999}{[махнуть рукой и уйти]}
-{113}{010}{Супер. У меня есть пара вопросов.}
+{110}{}{[He loudly laughs] This doesn't concern you, fuckin' cock. I'm here the mutherfuckin' sports and gambling minister, and you are fuckin' no one.}
+{111}{998}{I'm so sick of you. Let's see now who is "no one"...}
+{112}{999}{[wave your hand and leave]}
+{113}{010}{Nice. I have some questions.}
 
 
-{120}{}{Треснуть может только у тебя очко. Либо плати тысячу, либо катись нахрен.}
-{121}{998}{Ну ты меня внатуре уже достал. Ща посмотрим, кто тут говно...}
-{122}{999}{[махнуть рукой и уйти]}
-{123}{010}{Супер. У меня есть пара вопросов.}
-{124}{013}{Ок, вот взнос. Когда можно будет делать ставки?}
-{125}{014}{Слишком большая сумма. Мне не интересно.}
-{126}{999}{Пожалуй, я лучше пойду потрачу деньги на что-то более полезное.}
+{120}{}{Jam was on the dicks you ate this morning. Either pay, or get the fuck away.}
+{121}{998}{I'm so sick of you. Let's see now who gets the fuck away...}
+{122}{999}{[wave your hand and leave]}
+{123}{010}{Nice. I have some questions.}
+{124}{013}{Okay, here's my donation. When I'll be able to make bets?}
+{125}{014}{Too much. Not interested.}
+{126}{999}{I'll better go spend the money on something more valuable.}
 
 
-{130}{}{[Каспер пересчитал батарейки и спрятал их в заплечный мешок] Отлично. Сегодня ставок нет. Возможно, появятся на этой неделе. Приходи позже.}
-{131}{017}{Эй! Ты не говорил что ставки будут через неделю!}
-{132}{010}{Окей, у меня есть несколько вопросов.}
-{133}{015}{Через неделю? Верни бабки!}
+{130}{}{[Casper counts the batteries and puts them into a shoulder bag] Good. No bets today. Maybe they'll be availabe next week. Come by later.}
+{131}{017}{Hey! You didn't say I'll be able to make bets only the next week!}
+{132}{010}{Okay, I have some questions.}
+{133}{015}{Next week? Give me my money back!}
 
 
-{140}{}{Ну так не трахай мне голову, умник. }
-{141}{010}{Хочу спросить...}
-{142}{999}{Пойду-ка я лучше погуляю.}
+{140}{}{Stop fuckin' around then, smart-ass. }
+{141}{010}{I want to ask...}
+{142}{999}{I'll better go take a walk.}
 
 
-{150}{}{У меня есть идея получше. Я своим болтом по твоему лбу постучу. Что скажешь на это?}
-{151}{998}{Я тебя сейчас так отделаю, что ты во время ходьбы будешь лупить себя своим болтом! [бой]}
-{152}{016}{Ну ты и говнюк!}
-{153}{010}{Ладно, давай вернемся к вопросам...}
-{154}{999}{[сплюнуть и уйти]}
+{150}{}{I have a better idea. I'll knock on your forehead with my dick. What do you think about that?}
+{151}{998}{I'm gonna fuck you up so hard that you won't feel your dick anymore! [attack]}
+{152}{016}{You are such a bitch.}
+{153}{010}{Okay, let's get back to the questions...}
+{154}{999}{[spit on the ground and walk away]}
 
 
-{160}{}{[он ухмыльнулся] да, такое [он выделил это слово ехидной интонацией] говно как я способно на такие гадости. Впрочем, думаю, мы с тобой закончили. Или у тебя есть вопросы?}
-{161}{010}{Да, есть.}
-{162}{999}{Нет, нету. [конец диалога]}
-{163}{999}{С таким говном общаться - себя не уважать. Я лучше пойду. }
+{160}{}{[He smirks, showing wide row of teeth] I think we're done here. Or do you have any questions?}
+{161}{010}{Yes, I do.}
+{162}{999}{No, I don't. [end the dialogue]}
+{163}{999}{I'm starting to disrespect myself while I talk to a dirt like you. I'm going. }
 
 
-{170}{}{А кому сейчас легко?}
-{171}{016}{Ну ты и говнюк!}
-{172}{010}{Ладно, давай вернемся к вопросам...}
-{173}{999}{[сплюнуть и уйти]}
+{170}{}{Tough times, you know.}
+{171}{016}{You are such a bitch.}
+{172}{010}{Okay, let's get back to the questions...}
+{173}{999}{[spit on the ground and walk away]}
 
 
-{180}{}{Ставки уже не принимаю. Сделка закрыта до исхода боя.}
-{181}{019}{Я вообще-то хотел бы обговорить изменение условий боя.}
+{180}{}{The bets are done until the end of fight.}
+{181}{019}{I'd like to talk about some conditions. About the fight.}
 
 
-{190}{}{Да ну?}
-{191}{020}{Думаю, есть тема как обогатится. Ты можешь провести раунд дополнительных ставок. Стен против меня. Я его ушатаю в легкую. Ты при деньгах будешь. Стен будет после драки не в состоянии драться толком, так что Винс его сможет символически отмудохать. Большая часть ставок - на Стена. Ты нехило поднимешь. Дважды на одном человеке.}
-{192}{021}{Сколько ты наваришь на ставках? }
-{193}{027}{Я хочу чтобы ты выставил меня против Стена до его боя с Винсом. А лучше - вместо Винса.}
+{190}{}{Really?}
+{191}{020}{I think I see a possibility to make money. You could take a second round of bets. Stan against me. I'll easily do him. You're going to make easy profits. Stan won't be able to fight properly after that, so Vince should be able to take him down with little to no effort. And everyone usually bets on Stan, so you are going to make even more cash. Twice in a row.}
+{192}{021}{How much profit do you have on bets?}
+{193}{027}{I want you to put me against Stan before his fight with Vince. Or even put me instead of Vince.}
 
 
-{200}{}{[Каспер задумался, закатил глаза, обсчитывая возможную прибыль] Да, епт! По рукам. Ты готов сейчас или тебе надо приготовится?}
-{201}{038}{Готов.}
-{202}{999}{Да, нужно подготовится. Я скоро вернусь.}
+{200}{}{[Casper ponders, rolling his eyes. Probably he's counting possible profits.] Fuck yeah! Deal. Are you ready to do it now, or you need to prepare?}
+{201}{038}{Ready.}
+{202}{999}{I need to prepare. Be right back.}
 
 
-{210}{}{Примерно тысячу батареек. }
-{211}{022}{Если я тебе заплачу тысячу сто - отменишь бой?}
+{210}{}{Thousand batteries. }
+{211}{022}{If I pay you thousand and hundred extra, would you cancel the fight?}
 
 
-{220}{}{[Каспер задумался, закатил глаза, обсчитывая возможную прибыль] Тысяча триста. Мне ведь придется выслушивать негодование из-за отмены боя... А ничто так не сберегает мои нервы, как бабло.}
-{221}{023}{Окей.}
-{222}{024}{У меня с собой ровно тысяча. Я не рассчитывал на большую сумму.}
-{223}{025}{У меня с собой ровно тысяча. Я не рассчитывал на большую сумму.}
-{224}{999}{Хорошо. Я схожу за деньгами и вернусь.}
+{220}{}{[Casper ponders, rolling his eyes. Probably he's counting possible profits.] Three hundred extra. I'll have to deal with issues about canceling the fight. And nothing calms my nerves more than the money.}
+{221}{023}{Deal.}
+{222}{024}{I have only thousand. I didn't expect to spend more.}
+{223}{025}{I have only thousand. I didn't expect to spend more.}
+{224}{999}{Okay. I'll go get the money and come back.}
 
 
-{230}{}{[Каспер пересчитал батарейки и спрятал их в заплечный мешок] Отлично. Бой отменю сегодня же. Еще что?}
-{231}{010}{Есть пара вопросов...}
-{232}{999}{Да нет, все. Я пошел.}
+{230}{}{[Casper counts the batteries and puts them into a shoulder bag] Great. Consider the fight canceled. Something else?}
+{231}{010}{I have some questions...}
+{232}{999}{No, that's it. I'm going.}
 
 
-{240}{}{[Каспер почесал затылок и пожевал губы] Лады, давай свою тысячу!}
-{241}{026}{[отдать деньги]}
-{242}{999}{Погоди, мне нужно еще подумать...}
+{240}{}{[Casper bites his lip and scratches his head.] Deal. Give me your thousand!}
+{241}{026}{[give the batteries]}
+{242}{999}{Wait, I need to think...}
 
 
-{253}{}{Не, не катит. Плати по полной или катись!}
-{250}{023}{Окей.}
-{251}{999}{Погоди, мне нужно еще подумать...}
-{252}{999}{Хорошо. Я схожу за деньгами и вернусь.}
+{253}{}{No. Pay in full or get the fuck out.}
+{250}{023}{Deal.}
+{251}{999}{Wait, I need to think...}
+{252}{999}{Okay. I'll go get the money and come back.}
 
 
-{260}{}{[Каспер пересчитал батарейки и спрятал их в заплечный мешок] Отлично. Бой отменю сегодня же. Еще что?}
-{261}{010}{Есть пара вопросов...}
-{262}{999}{Да нет, все. Я пошел.}
+{260}{}{[Casper counts the batteries and puts them into a shoulder bag] Great. Consider the fight canceled. Something else?}
+{261}{010}{I have some questions...}
+{262}{999}{No, that's it. I'm going.}
 
 
-{274}{}{[Каспер осмотрел Вас критическим взглядом] Ну допустим. Но у меня будут сложности с... переоформлением условий боя. Это будет стоить... Шесть сотен батареек.}
-{270}{028}{Окей.}
-{271}{029}{У меня с собой ровно пол тысячи. Я не рассчитывал на большую сумму.}
-{272}{030}{У меня с собой ровно пол тысячи. Я не рассчитывал на большую сумму.}
-{273}{999}{Хорошо. Я схожу за деньгами и вернусь.}
+{274}{}{[Casper critically looks at you] Well... Maybe. I'm still going to have some troubles changing the conditions of a fight. It's gonna cost you... Six hundred batteries.}
+{270}{028}{Deal.}
+{271}{029}{I have only five hundred. I didn't expect to spend more.}
+{272}{030}{I have only five hundred. I didn't expect to spend more.}
+{273}{999}{Okay. I'll go get the money and come back.}
 
 
-{280}{}{[Каспер пересчитал батарейки и спрятал их в заплечный мешок] Отлично. Я ща все организую. Ты готов сейчас или тебе надо приготовится?}
-{281}{038}{Готов.}
-{282}{999}{Да, нужно подготовится. Я скоро вернусь.}
+{280}{}{[Casper counts the batteries and puts them into a shoulder bag] Great. I'll make arrangements. Are you ready to do it now, or you need to prepare?}
+{281}{038}{Ready.}
+{282}{999}{I need to prepare. Be right back.}
 
 
-{290}{}{[Каспер почесал затылок и пожевал губы] Лады, давай свою полтыщу!}
-{291}{031}{[отдать деньги]}
-{292}{999}{Погоди, мне нужно еще подумать...}
+{290}{}{[Casper bites his lip and scratches his head.] Deal. Give me your five hudred!}
+{291}{031}{[give the batteries]}
+{292}{999}{Wait, I need to think...}
 
 
-{303}{}{Не, не катит. Плати по полной или катись!}
-{300}{028}{Окей.}
-{301}{999}{Погоди, мне нужно еще подумать...}
-{302}{999}{Хорошо. Я схожу за деньгами и вернусь.}
+{303}{}{No. Pay in full or get the fuck out!}
+{300}{028}{Deal.}
+{301}{999}{Wait, I need to think...}
+{302}{999}{Okay. I'll go get the money and come back.}
 
 
-{310}{}{[Каспер пересчитал батарейки и спрятал их в заплечный мешок] Отлично. Я ща все организую. Ты готов сейчас или тебе надо приготовится?}
-{311}{038}{Готов.}
-{312}{999}{Да, нужно подготовится. Я скоро вернусь.}
+{310}{}{[Casper counts the batteries and puts them into a shoulder bag] Great. I'll make arrangements. Are you ready to do it now, or you need to prepare?}
+{311}{038}{Ready.}
+{312}{999}{I need to prepare. Be right back.}
 
 
-{320}{}{Какая чудесная тема для разговора... для института благородных девиц. Иди со своей брехней подкатывай к кому-нибудь другому.}
-{321}{010}{Еще пара вопросов.}
-{322}{999}{[конец диалога]}
+{320}{}{Such a great topic! For bitches. Go bother somebody else with your bullshit.}
+{321}{010}{I have other questions.}
+{322}{999}{[end the dialogue]}
 
 
-{330}{}{Вот только до твоего прихода закончился бой. Ближайший будет на неделе. Подходи почаще.}
-{331}{010}{[выругаться]}
-{332}{999}{[выругаться и уйти]}
+{330}{}{The fight ended just before you came. The next one will be this week. You should come here more often.}
+{331}{010}{[swear]}
+{332}{999}{[swear and leave]}
 
 
-{340}{}{Мне хватит.}
-{341}{998}{Тебе хватит? Тебе хватит?! Я из тебя сейчас все вытрясу, до последней батарейки!}
-{342}{035}{Даже не думай еще раз такую хрень учудить. Или я тебя отделаю так, что родная мама не узнает.}
-{343}{999}{[плюнуть под ноги и уйти]}
+{340}{}{Enough for me.}
+{341}{998}{Enough? Enough?! I'm going to shake all my batteries out of you!!}
+{342}{035}{Don't even think about doing something like this again. Or I'll beat you up so hard no one will be able to recognize you.}
+{343}{999}{[spit on the ground and leave]}
 
 
-{350}{}{Ну ну. Свали отсюда.}
-{351}{999}{[закончить диалог]}
-{352}{998}{[врезать ему прямо в нос]}
+{350}{}{Uh-huh. Get lost.}
+{351}{999}{[end the dialogue]}
+{352}{998}{[throw a punch into his nose]}
 
 
-{360}{}{Молодец. Возьми с полки пирожок. Там их - два. Твой - по середине.}
-{361}{037}{И что, даже батареек не отсыплешь? Ты же неплохо поднял на этом бое.}
-{362}{999}{[махнуть рукой и уйти]}
+{360}{}{Good boy. Pat yourself on the back.}
+{361}{037}{What, no batteries for me? You made good profits on this fight.}
+{362}{999}{[wave hand and leave]}
 
 
-{372}{}{Нет. Может мне еще обнять тебя и рассказать всем какой ты молодец?}
-{370}{010}{Ха-ха. Смешно... Ладно, забей, лучше ответь на пару вопросов.}
-{371}{999}{[махнуть рукой и уйти]}
+{372}{}{No. Maybe you want me to hug you and tell everyone what a great guy you are?}
+{370}{010}{Ha-ha. Funny. Nevermind, better answer some questions.}
+{371}{999}{[wave hand and leave]}
 
 
-{380}{}{Окей. Пошли за мной.}
-{381}{999}{[следовать за Каспером к месту драки]}
+{380}{}{Okay. Follow me.}
+{381}{999}{[follow Casper]}

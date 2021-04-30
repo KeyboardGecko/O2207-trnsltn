@@ -22,13 +22,13 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see a Warden.}
-{2}{}{You see a Watcher.}
+{1}{}{You see the Warden.}
+{2}{}{You see the Watcher.}
 {3}{}{You see a Son of the Gods.}
 {4}{}{You see a Guard.}
 {5}{}{You see the Guardian.}
-{6}{}{A Warden keeping the order.}
-{7}{}{A Watcher of Tartarus.}
+{6}{}{The Warden keeping order.}
+{7}{}{The Watcher of Tartarus.}
 {8}{}{This man is responsible for keeping order in Tartarus.}
 {9}{}{He is always walking back and forth with a bored look.}
 #
@@ -53,10 +53,10 @@
 {1003}{}{Hello to you!}
 {1004}{}{Hey! How's your life going?}
 {1005}{}{Glad to see you!}
-{1006}{}{I actually don't mind chatting for a bit, but you know, duty calls.}
+{1006}{}{I actually don't mind chatting for a bit, but, you know, duty calls.}
 {1007}{}{Hey, how are you feeling?}
 {1008}{}{Of course I'm glad to see you!}
-{1009}{}{[looks friendly at you]}
+{1009}{}{[looks at you friendly]}
 # Нейтральные сообщения
 {1010}{}{Don't bother me, I'm busy.}
 {1011}{}{Can't you see? I'm busy!}
@@ -67,17 +67,17 @@
 {1016}{}{What now?}
 {1017}{}{What do you want?}
 {1018}{}{Step away, you are blocking the light.}
-{1019}{}{[watches you silently]}
+{1019}{}{[looks at you saying nothing]}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
 {1022}{}{Better don't take your chances, you freak!}
 {1023}{}{Screw you!!!}
-{1024}{}{Make it like a tree and leave!}
+{1024}{}{Make like a tree and get out of here.}
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
-{1026}{}{Get the fuck out of my sight!}
+{1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you...}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спец сообщения (ГГ - мальчик)
 {1030}{}{How are you doing, kid?}

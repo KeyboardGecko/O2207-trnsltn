@@ -24,20 +24,20 @@
 #
 # до знакомства
 #
-{1}{}{Вы видите: Кирк.}
-{2}{}{Ваш брат, несносный, задирчивый, вечно ищущий приключений на задницу брат.}
+{1}{}{You see Kirk.}
+{2}{}{Your obnoxious, cocky, always looking for an adventure on his ass brother.}
 #
 # после знакомства
 #
-{3}{}{Вы видите: Кирк.}
-{4}{}{Ваш брат, несносный, задирчивый, вечно ищущий приключений на задницу брат.}
+{3}{}{You see Kirk.}
+{4}{}{Your obnoxious, cocky, always looking for an adventure on his ass brother.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
 #
-{10}{}{Твою мать, }
-{11}{}{, где тебя черти носят?! Отцу очень хреново, посмотри на него! И доктор говорит, что не может ничего сделать...}
-{12}{}{Да ладно тебе, он сам поправится, вот увидишь!}
-{13}{}{Я что-нибудь придумаю... Не знаю, что, но обязательно придумаю...}
+{10}{}{Goddamn, }
+{11}{}{, where the hell have you been?! Dad feels extremely sick, just look at him! And the doctor says that there's nothing he can do...}
+{12}{}{Oh come on, he'll get better! You'll see!}
+{13}{}{I'll figure something out... I don't know what, but I definitely will...}
 {14}{}{}
 {15}{}{}
 {16}{}{}
@@ -47,123 +47,123 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ПОСЛЕ ЗНАКОМСТВА
 #
-{100}{}{?.. Это ты? Ничего себе принарядился! Где ты был? Неужели... СНАРУЖИ!?}
-{101}{}{Да, Кирк, я был "там". И вернулся, потому что "там" не так, как рассказывают нам вестники. То есть, совсем не так.}
-{102}{}{Да, я был там, и вернулся. Что с отцом?}
-{103}{}{Извини, мне нужно идти.}
-{104}{}{Да? Ты что-то еще хотел мне рассказать?}
-{105}{}{Ничего, потом поговорим.}
-{110}{}{Не может быть! Злые твари затуманили твой разум. Тебе показалось... что-то... Этого не может быть, потому что... НЕ МОЖЕТ БЫТЬ!}
-{111}{}{Смирись, тебе нагло врали. Нам всем врали. И отцу врали! И НАШЕЙ МАМЕ ТОЖЕ ВРАЛИ! Нас всех держат за тупорылых лавашей, или даже хуже! Признай это, Кирк.}
-{112}{}{Это твое дело, ты можешь не верить, если не можешь поверить. Как дела у отца?}
-{120}{}{Мда?... Это немного... Неважно. Отцу все хуже, с каждым вздохом он умирает все сильнее. Я так устал думать о его смерти... Тебе лучше поговорить с Пэтом.}
-{121}{}{Хорошо, он хотя бы жив... Не унывай, все будет в порядке.}
-{122}{}{Ясно, пойду повидаю дока.}
-{123}{}{Понятно. Держись.}
+{100}{}{?... Is that you? Oh Gods, look at yourself! What are you wearing... And where have you been? Could it be... Outside!?}
+{101}{}{Yes, Kirk, I was "there". And I came back, because "there" is not the place we were told by Heralds. Not at all.}
+{102}{}{Yes, I was there, and I came back. How's dad?}
+{103}{}{Sorry, I need to go.}
+{104}{}{Yeah? Do you want to tell me something else?}
+{105}{}{Nothing. Talk later.}
+{110}{}{It... Can't be! Evil creatures have clouded your mind! What you saw is not true... It can't be... Just... IT JUST CAN'T BE!}
+{111}{}{Face it, you've been told lies. We all were - dad and mom too! They treated us like narrow-minded Lavash, or even worse! Admit it, Kirk.}
+{112}{}{That's your business. You can believe, or not. How's dad?}
+{120}{}{Yeah?... It's... Oh, doesn't matter. Dad feels worse, every breath he takes gets him closer to death. I'm tired of thinking about it... You'd better talk to Pat.}
+{121}{}{At least he is still alive. Don't be sad, everything's gonna be alright.}
+{122}{}{I see. I'll go meet doc.}
+{123}{}{Got it. Hang in there.}
 {124}{}{}
-{200}{}{[брат смотрит на Вас отсутствующим взглядом] Ты опоздал, его больше нет. Теперь никого нет. И смысла нет.}
-{201}{}{[промолчать]}
-{202}{}{Я делал все что мог! ВСЕ, ЧТО МОГ!}
-{203}{}{Это не моя вина! Не я отнял его жизнь, в этом виновны Боги! Боги, живущие на вершине Олимпа!}
-{210}{}{...что теперь делать, }
-{211}{}{? Кто скажет, что через месяц и я не умру вот так же? Просто лягу - и умру... О чем я буду думать в момент смерти, что вспомню? Ради чего я жил? Богам, похоже, нет до нас никакого дела...}
-{212}{}{Мы могли бы попытаться найти истину. Вместе. Мы могли бы... пойти "туда", наверх.}
-{213}{}{Меня мучат те же мысли, брат... В моей голове родилась тысяча вопросов, и я не собираюсь умирать, пока не найду ответы.}
-{214}{}{Я не знаю... Мне жаль, я не могу здесь оставаться. Пока.}
-{220}{}{Да... и я хочу встретить Богов... Пусть держат перед нами ответ! За нашего отца, за нашу мать, за ВСЕХ НАШИХ УМЕРШИХ ДРУЗЕЙ! Я готов идти с тобой до конца, брат.}
-{221}{}{Что ж, не будем терять время. Пойдем.}
-{222}{}{Знаешь, я думаю тебе не стоит в это впутываться. Во всяком случае, не сейчас.}
-{223}{}{Возьми меня с собой, давай вместе найдем Богов и поставим их перед ответом!}
-{230}{}{ВИДИМО НЕ ВСЕ! Извини... Я не должен был срываться. Последние дни были слишком напряженными, мне нужно немного прийти в себя, передохнуть.}
-{231}{}{А ведь мы могли бы попытаться докопаться до правды вместе.}
-{232}{}{Похоже ты прав, тебе нужен отдых. А я пока разыщу "Богов", они должны ответить на мои вопросы.}
-{233}{}{Ты прав, брат. Сейчас не время для важных решений. И мне нужно подумать, побыть одному.}
-{234}{Кирк}{Извини... Я... Я не знаю что думать. Последние дни были слишком напряженными, мне нужно немного прийти в себя, передохнуть.}
-{240}{}{[брат смотрит на Вас с надеждой] Это ты! Наконец-то! Ты принес лекарства? Взгляни на отца, он же держится из последних сил! Умоляю, покажи мне лекарство...}
-{241}{}{Нет, я не смог его найти... Тот мир слишком сложен для меня!}
-{242}{}{Все в порядке, вот оно! Я уже иду к Пэту, он поставит отца на ноги!}
-{243}{}{Я... занят, не сейчас, Кирк.}
-{250}{}{Лучше бы я оказался на твоем месте.}
-{251}{}{Нет, поверь мне.}
-{252}{}{Тебе легко говорить. Я добуду лекарство.}
+{200}{}{[brother looks at you with murky eyes] You are late. He is gone. Now everybody is gone...}
+{201}{}{[be silent]}
+{202}{}{I did everything I could! EVERYTHING!}
+{203}{}{This is not my fault! It is not me who took his life, but Gods! Gods, living atop of the Olympus!}
+{210}{}{What do we do, }
+{211}{}{? Who can guarantee that I won't end up dead the same way as dad in a month? Just lay down and become dead... What would I think in the moment of death, what would I remember? That I lived, but for what? Seems like the Gods don't care about us...}
+{212}{}{We could look for the truth. Together. We could... Go there. Up. On top.}
+{213}{}{I'm haunted by the same thoughts, brother... Thousands of questions are running through my head, and I'm not going to die until I get answers.}
+{214}{}{I don't know... I'm sorry. I can't stay here. So long.}
+{220}{}{Yes... And I want to meet the Gods! To make them answer for this! For our dad, mom, our dead friends!! I'm with you until the end, brother.}
+{221}{}{Let's not waste any more time then. Let's go.}
+{222}{}{You know, I think you shouldn't get involved in this. At least for now.}
+{223}{}{Take me with you! Let's find the Olympus Gods and make them answer to us!}
+{230}{}{NOT EVERYTHING! I'm sorry... I shouldn't have snapped at you. Last days were tense, I need to rest a little. Pull myself together.}
+{231}{}{You know, we could look for the truth. You and me.}
+{232}{}{You're right, you really need to rest. And I will look for the Gods. They owe me answers.}
+{233}{}{You're right brother. Now is not the time to make an important decisions. And I need to be alone for some time.}
+{234}{Кирк}{Sorry... I... I don't know what to think. Last days were too tense... I need to rest a little. Pull myself together.}
+{240}{}{[Kirk looks at you with hope] You're back! Finally! Did you bring the medicine? Look at dad, he is barely hanging! I beg you, tell me you have the medicine...}
+{241}{}{No, I couldn't find it... The outside world is too difficult for me!}
+{242}{}{It's okay, Kirk, here it is! I'm already going to Pat, he will put dad back on his feet!}
+{243}{}{I'm... Busy, not now, Kirk.}
+{250}{}{I wish I could be in your shoes.}
+{251}{}{No, believe me.}
+{252}{}{It's easy for you to say. I will find the medicine.}
 #
 #Диалоговые реплики
 #
-{900}{}{Ну, как у нас дела?}
-{901}{}{Что скажешь, брат?}
-{902}{}{Что-нибудь новенькое?}
-{903}{}{Я уж думал, ты забыл про меня.}
-{904}{}{Что, появились новые соображения, как добраться до "Богов"? [подмигивает]}
-{905}{}{Конечно, как скажешь.}
-{906}{}{Да, конечно, тебе видней.}
-{907}{}{Нет, не думаю, что это хорошая идея.}
-{908}{}{Я не согласен, нет.}
-{909}{}{Даже не знаю...}
-{910}{}{Ты что-то неважно выглядишь. Как твое здоровье?}
-{911}{}{Слушай, на счет твоей брони...}
-{912}{}{По-поводу твоего оружия...}
-{913}{}{Хотел обсудить дистанцию между нами...}
-{914}{}{Нужно бы обсудить кое-что...}
-{915}{}{Что думаешь об этом месте?}
-{916}{}{Есть мысли, как добраться до "Богов"?}
-{917}{}{Нам предстоит серьезный бой, лучше тебе принять парочку комбатидов.}
-{918}{}{Я хотел бы еще кое о чем с тобой поговорить.}
-{919}{}{Ничего, потом поговорим.}
-{920}{}{Что-то еще хотел?}
-{921}{}{Мне, похоже, и одеть-то нечего. Ничего, обойдусь и без брони.}
-{922}{}{Даже не знаю, что и взять-то... Нет у меня ничего такого.}
-{923}{}{Тогда давай еще раз взглянем на твое вооружение.}
-{924}{}{Слушай, тебе лучше подождать меня тут, а я попозже за тобой вернусь, ок?}
-{925}{}{Эээ, ну хорошо, как скажешь. Я тут пока осмотрюсь.}
-{926}{}{Отлично. Береги себя.}
-{927}{}{Вот и чудно, до скорого.}
-{928}{}{Ок. Пока.}
-{929}{}{Не скучал тут? Пойдем, у нас много дел.}
-{930}{}{Я отлично себя чувствую, а это - так, мелкая царапина.}
-{931}{}{Да уж, похоже меня неплохо зацепило в последний раз...}
-{932}{}{::кхе-кхррре-ее:: Ты издеваешься?! Я же весь в КРОВИ!}
-{933}{}{[брат смотрит на Вас невидящим взглядом] ...похоже я ум... уммр... ахххх...}
-{934}{}{Вот держи, используй это (отдать брату }
-{935}{}{).}
-{936}{}{бинты}
-{937}{}{анальгетик}
-{938}{}{"Хилл-Ап"}
-{939}{}{"Лазарет"}
-{940}{}{Так прими скорее что-нибудь из своих запасов!}
-{941}{}{[применяет медикаменты] О-о-о, да-а-а, так лучше.}
-{942}{}{О! Ну теперь я здоров как Урс!}
-{943}{}{Да, это помогло, спасибо.}
-{944}{}{Ну-у-у... Вроде полегче стало...}
-{945}{}{Черт... Да это все равно что мертвому - припарки...}
-{946}{}{Черт, у мнея нет медикаментов... Нужно срочно тебе что-нибудь подыскать.}
-{947}{}{Да это же пустяковая царапина, до свадьбы заживет!}
-{948}{}{Да-а? Что на счет брони?}
-{949}{}{А что на счет моей брони?}
-{950}{}{Что с броней? Неужели ты нашел ту клевую куртку авиатора из рекламного плаката?}
-{951}{}{Сними броню, так надо.}
-{952}{}{Надень что-нибудь посолиднее, мы же не в яслях Тартара гуляем.}
-{953}{}{Надень что-нибудь поприличнее, вдруг тут и красивые девушки бывают?}
-{954}{}{Надень что-нибудь понадежнее, а то простудишься... Ха-ха-ха!}
-{955}{}{Надень что-нибудь покруче, чтобы нас рейдеры боялись!}
-{956}{}{Тебя убьют в ней, ее даже дохлый шакал легко прокусит!}
-{957}{}{Ну ты и дурень. Ладно, придется тебя защищать.}
-{958}{}{Я всегда хотел такую, еще когда был ребенком и видел тот рекламный проспект. Нет, ни за что не сниму!}
-{959}{}{Эээ... Ну хорошо, снял... Только не продавай ее, пожалуйста.}
-{960}{}{Что-то не так с оружием?}
-{961}{}{А что не так с оружием?}
-{962}{}{Спрячь его пожалуйста, тут лучше не отсвечивать.}
-{963}{}{Используй оружие ближнего боя.}
-{964}{}{Возьми что-нибудь метательное, патроны нужно экономить.}
-{965}{}{Не жалей патронов, бери что-нибудь огнестрельное!}
-{966}{}{Пришло время делать БУМ-БУМ! Бери гранатомет, ну или просто гранаты.}
-{967}{}{Просто возьми самое убойное из того, что у тебя есть!}
-{968}{}{Ок, возьму-ка я }
+{900}{}{So? How are we doing?}
+{901}{}{What do you say, brother?}
+{902}{}{Any news?}
+{903}{}{I was just thinking that you forgot about me.}
+{904}{}{What, have an idea how to get to the Gods? [winks at you]}
+{905}{}{Sure, as you wish.}
+{906}{}{If you say so.}
+{907}{}{No, I don't think it is a good idea.}
+{908}{}{I disagree.}
+{909}{}{I don't even know...}
+{910}{}{You don't look too good. How are you feeling?}
+{911}{}{About your armor...}
+{912}{}{About your weapon...}
+{913}{}{I'd like to discuss the distance between us.}
+{914}{}{We need to talk about something.}
+{915}{}{What do you think of this place?}
+{916}{}{Have any ideas how to get to the Gods?}
+{917}{}{We have a big fight ahead of us, better take a couple of Combatids.}
+{918}{}{I'd like to talk to you about something else.}
+{919}{}{Nothing, talk later.}
+{920}{}{Do you want something?}
+{921}{}{Looks like I got nothing to wear... It's okay, I'll be fine without armor.}
+{922}{}{I don't even know... I have nothing I could use.}
+{923}{}{Let's look at your weaponry one more time.}
+{924}{}{Better wait for me here, I'll come back for you later. Okay?}
+{925}{}{Uhh, okay, as you say. I'll look around for now.}
+{926}{}{Good. Take care.}
+{927}{}{Alright, see you soon.}
+{928}{}{Okay, bye.}
+{929}{}{Did you miss me? Let's go, we have a lot to do.}
+{930}{}{I'm feeling great. This? This is just a scratch.}
+{931}{}{Looks like I got pretty battered the last time...}
+{932}{}{[he coughs] Are you kidding me? I'm literally spitting blood!}
+{933}{}{[he looks at you with an unseeing eye] Looks like I'm... Dye... Innng... Ghhkh...}
+{934}{}{Here, use it [give him }
+{935}{}{].}
+{936}{}{bandages}
+{937}{}{painkiller}
+{938}{}{"Heal-Up"}
+{939}{}{"Surge"}
+{940}{}{Take something from what you have!}
+{941}{}{[uses meds] Ooooh yeah, that's better.}
+{942}{}{Oh! Now I'm healthy and strong as an Ursa!}
+{943}{}{This helped. Thanks.}
+{944}{}{Uhh... I think I feel a little better...}
+{945}{}{Damn... It has a little effect on me now...}
+{946}{}{I don't have anything! I need to find something as soon as I can.}
+{947}{}{It's just a scratch, nothing to worry about.}
+{948}{}{Yeah? What about my armor?}
+{949}{}{What about my armor?}
+{950}{}{What's up with armor? Oh, tell me you've found that aviator jacket we saw on an advertisement poster!}
+{951}{}{Take off your armor.}
+{952}{}{Put on something solid, we are not in Tartarus nurseries.}
+{953}{}{Put on something nicer, in case there are beautiful girls here.}
+{954}{}{Put on something more reliable - don't want you to catch a cold... Hahaha!}
+{955}{}{Put on something cool, so even raiders would be afraid of us!}
+{956}{}{You are going to be killed wearing it. It wouldn't protect even from fangs of a dead jackal.}
+{957}{}{You're such an idiot. Okay, I have to protect you better then.}
+{958}{}{I've always wanted one like this, since I was a kid. So no, I'm not taking it off!}
+{959}{}{Uhh... Okay, I'll take it off... Don't sell it please.}
+{960}{}{What's about my weapon?}
+{961}{}{What? What's wrong with my weapon?}
+{962}{}{Keep it hidden. We could have troubles here because of it.}
+{963}{}{Equip something for close combat.}
+{964}{}{Equip something throwable, we need to conserve ammo.}
+{965}{}{Take something shooty! Time to waste some bullets!}
+{966}{}{It's BABOOM time! Equip a grenade launcher, or just some grenades.}
+{967}{}{Just equip the deadliest weapon you have!}
+{968}{}{Okay, I think I'll go with }
 {969}{}{!}
-{970}{}{Думаешь, нам нужно быть... поближе?}
-{971}{}{Да, мне кажется, нужно бы мне держаться чуть подальше, нет?}
-{972}{}{Держись поближе ко мне, здесь не безопасно.}
-{973}{}{Соблюдай среднюю дистанцию, не будем путаться друг у друга под ногами.}
-{974}{}{Просто будь в поле зрения, пусть все думают, что мы не вместе.}
+{970}{}{Do you think we should stay... Near?}
+{971}{}{Yes, I think I might be better a little away from you, right?}
+{972}{}{Keep closer to me, it's not safe here.}
+{973}{}{Keep a medium distance, let's not get in each other's way.}
+{974}{}{Be somewhere around, just enough for me to see you. Let other think that we are not together.}
 {975}{}{}
 {976}{}{}
 {977}{}{}
@@ -231,13 +231,13 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{Не знаю, что и делать...}
-{1031}{}{Если бы я только мог что-нибудь сделать...}
-{1032}{}{Нужно найти какое-то сильное лекарство для отца...}
-{1033}{}{Что ты тут стоишь? Сделай что-нибудь!}
+{1030}{}{I don't know what to do...}
+{1031}{}{If only I could do something...}
+{1032}{}{Dad needs a strong medicine...}
+{1033}{}{Why are you standing here? Do something!}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
 {1037}{}{}
-{1038}{}{Просто... Не лезь ко мне, хорошо?}
-{1039}{}{Я не хочу с тобой разговаривать.}
+{1038}{}{Just... Leave me alone, okay?}
+{1039}{}{I don't want to talk to you.}

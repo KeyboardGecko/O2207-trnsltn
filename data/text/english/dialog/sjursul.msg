@@ -136,7 +136,7 @@
 {191}{020}{Because I'm no soldier. I'm a worker.}
 
 
-{200}{}{[he nods]. Once me and my partner stumbled onto someone from the Olympus. Already dead, wearing strange uniform - something with NCASTR logo. My man Fred took it. That's all experience I have about meeting people from the Olympus.}
+{200}{}{[He nods] Once me and my partner stumbled onto someone from the Olympus. Already dead, wearing strange uniform - something with NCASTR logo. My man Fred took it. That's all experience I have about meeting people from the Olympus.}
 {201}{025}{NCASTR, you say? Where can I find Fred?}
 
 

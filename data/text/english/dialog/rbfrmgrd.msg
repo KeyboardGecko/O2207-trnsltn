@@ -29,28 +29,28 @@
 #
 #ОПИСАНИЕ ПЕРСОНАЖА
 #
-{1}{}{You see: a thug-looking guard.}
-{2}{}{You see: a big guarding thug.}
-{3}{}{You see: guard.}
-{4}{}{You see: a thug.}
-{5}{}{You see: a Rainbow guard.}
+{1}{}{You see a thug-looking guard.}
+{2}{}{You see a big guarding thug.}
+{3}{}{You see a guard.}
+{4}{}{You see a thug.}
+{5}{}{You see a Rainbow guard.}
 {6}{}{This ape-like huge guy doesn't look stupid at all.}
 {7}{}{He has rainbow-colored patch on his sleeve.}
 {8}{}{Looks like he could easily tie you into a knot. Literally.}
-{9}{}{His armor is covered in cracks, scratches and bullet holes.}
+{9}{}{His armor is covered with cracks, scratches and bullet holes.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Hey, what the hell are you snitching here, you sniff? This area is fucking restricted, so get the fuck away before you drowned in bullets!}
-{11}{}{Calm down! I'm here on a mission from Kent [make a conspiratory face] "to collect ant bellies".}
+{10}{}{Hey, what the hell are you snitching here, you sniff? This area is fucking restricted, so get the fuck away before you're drowned in bullets!}
+{11}{}{Calm down! I'm here on a mission from Mate [make a conspiratory face] "to collect ant bellies".}
 {12}{}{What's the problem? I didn't see the sign saying "area is fucking restricted"!}
 {13}{}{Okay, got it, already leaving.}
 
-{14}{}{Oh, a smart guy, eh? Lazy to waste bullets on you, so I'm saying it for the last time - GET THE FUCK OUT OF HERE!}
-{15}{}{Okay you stupid piece of fuckmeat, now you'll get it!}
+{14}{}{Oh, a smart guy, eh? I'm too lazy to waste bullets on you, so I'll say it for the last time - GET THE FUCK OUT OF HERE!}
+{15}{}{Okay you stupid piece of fuckmeat, now you're getting it!}
 
-{16}{}{Hahah, Kent has found himself a fresh meat! [when he laughs, he sounds like a lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
-{17}{}{Now that's a different story...}
+{16}{}{Hahah, Mate has found himself a fresh meat! [when he laughs, he sounds like a Lavash having a seizure] Okay, "collector" - "Wellcum to our fahrm!", HAHAHAHA!}
+{17}{}{Now we're talking...}
 {18}{}{[make a shovel face and go forward]}
 {19}{}{}
 #
@@ -65,22 +65,22 @@
 {1006}{}{[spits on the ground]}
 {1007}{}{[sharpens his knife]}
 {1008}{}{[checks out his equipment]}
-{1009}{}{Let's wrestle maybe?}
+{1009}{}{Let's wrestle, maybe?}
 # Нейтральные сообщения
 {1010}{}{I don't remember seeing your face around here.}
 {1011}{}{Where the hell are the likes of you come from?}
-{1012}{}{No, I'm not an inquiry office.}
+{1012}{}{No, I'm not a helpdesk.}
 {1013}{}{Want some advice? Get lost.}
 {1014}{}{I'm boring? I'm fucking rainbowring!}
 {1015}{}{I'm serious, not stupid.} 
 {1016}{}{I think I can break both of your hands with only my left one. Wanna bet?}
 {1017}{}{Just say "stupid" one fucking time...}
-{1018}{}{Once we've met the guy like you. We beat the shit out of him so hard...}
+{1018}{}{Once I've met a guy like you. We beat the shit out of him.}
 {1019}{}{Do I look like a guide?}
 # Отрицательные сообщения
-{1020}{}{Charlie is the name of my boot. He loves to kick ass.}
-{1021}{}{Get the fuck out, whelp! Or we'll make you into a clay kicker.}
-{1022}{}{Hey you asshole, come 'ere!}
+{1020}{}{My boot is named Charlie. He loves to kick ass.}
+{1021}{}{Get the fuck out, whelp! Or we'll turn you into a clay kicker.}
+{1022}{}{Hey, you asshole, come 'ere!}
 {1023}{}{I'm gonna wash the toilets with your face!}
 {1024}{}{Come here, c'mon!}
 {1025}{}{You're dead meat, you cock!}
@@ -102,16 +102,16 @@
 #МЫСЛИ ВСЛУЁ
 #Стандартные
 {1040}{}{Where did I put my crossword puzzle?}
-{1041}{}{I wonder, was there really some LGBT organization once, having the rainbow as its symbol.}
-{1042}{}{When does my shift ends...}
+{1041}{}{I wonder if there was really some LGBT organization once, which had the rainbow as its symbol.}
+{1042}{}{When does my shift end...}
 {1043}{}{Time goes by so slowly...}
 {1044}{}{[punches an imaginary opponent]}
 #Кабан убит игроком
 {1045}{}{Man, Hog was legit. The real deal...}
-{1046}{}{What kind of asshole had him murdered?..}
-{1047}{}{We are definitely having our pays cut...}
-{1048}{}{Maybe it's time to find a new job?..}
-{1049}{}{Maybe I should go back to Dogs?..}
+{1046}{}{What asshole had him murdered?..}
+{1047}{}{We are definitely having our pay cut...}
+{1048}{}{Maybe it's time to find a new job...}
+{1049}{}{Maybe I should go back to Jackals?}
 #Наоми Янг сбежала
 {1050}{}{That bitch is the reason I didn't get promoted...}
 {1051}{}{If I'll find her, I'm going to rip her little hands out!}

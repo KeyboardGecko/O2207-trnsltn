@@ -21,11 +21,11 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{You see: beggar.}
-{2}{}{You see: local.}
-{3}{}{You see: street rat.}
-{4}{}{You see: a woman.}
-{5}{}{You see: a woman.}
+{1}{}{You see a beggar.}
+{2}{}{You see a local.}
+{3}{}{You see a street rat.}
+{4}{}{You see a woman.}
+{5}{}{You see a woman.}
 {6}{}{She looks exhausted.}
 {7}{}{Her face had lost appeal long time ago.}
 {8}{}{It seems like she's barely breathing.}
@@ -65,8 +65,8 @@
 {1015}{}{Listen, don't bother me, let me rest a little.}
 {1016}{}{What else do you want?}
 {1017}{}{Some other time, okay? I have work to do.}
-{1018}{}{Sheeesh... What? I *am* busy!}
-{1019}{}{Oh. Listen, let's talk a litte later, m?}
+{1018}{}{Sheeesh... What? I am busy!}
+{1019}{}{Oh. Listen, let's talk a litte later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
@@ -76,7 +76,7 @@
 {1025}{}{You're gonna get punched in the face if you don't get lost!}
 {1026}{}{Make yourself invisible!}
 {1027}{}{What the heck do you want from me?!}
-{1028}{}{How dare you?!..}
+{1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спящие сообщения
 {1030}{}{::Zzzzz...::}

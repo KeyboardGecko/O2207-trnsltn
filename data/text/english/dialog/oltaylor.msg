@@ -11,11 +11,11 @@
 #CRITTER DESCRIPTION
 #
 # before meeting
-{1}{}{You see: a sturdy mechanic with burning eyes.}
+{1}{}{You see a sturdy mechanic with burning eyes.}
 {2}{}{His clothes are dotted with infinite number of pockets and fasteners for tools, some of them has drawings and microchips sticking out. In his hand he holds the soldering iron.}
 #
 # after meeting
-{3}{}{You see: Taylor.}
+{3}{}{You see Taylor.}
 {4}{}{His clothes are are dotted with infinite number of pockets and fasteners for tools, some of them has drawings and microchips sticking out. In his hand he holds the soldering iron.}
 {5}{}{Come back in a couple of days, when I'll finish analyzing the results.}
 {6}{}{It is too early to draw conclusions, further research is needed.}

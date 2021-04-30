@@ -20,7 +20,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[you see a raunchy, simple man from wasteland. He can equally fit in any settlement in Radius] Hey mate, aren't you in need of excellent package of military dry rations! In great condition, only for 300 batteries, the whole 20 packs in a package! Special one-in-a-lifetime offer, only because you reminded me of my brother. Whaddaya say?}
+{10}{}{[you see a raunchy, simple man from wasteland. He can equally fit in any settlement in Radius] Hey mate, aren't you in need of excellent package of military dry rations! In great condition, only for 300 batteries, the whole 20 packs in a package! Special one-in-a-lifetime offer, only because you reminded me my brother. Whaddaya say?}
 {11}{002}{No. }
 {12}{003}{What?}
 {13}{004}{HOW MUCH?}
