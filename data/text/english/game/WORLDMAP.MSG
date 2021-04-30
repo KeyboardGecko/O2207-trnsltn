@@ -1337,7 +1337,7 @@
 {6302}{}{A couple dangerous scorpions.}
 {6303}{}{A gang of dangerous raiders.}
 {6304}{}{A group of strong bandits.}
-{6305}{}{Merchants from NMP attacked by scorpions.}
+{6305}{}{Merchants from NWO attacked by scorpions.}
 {6306}{}{Several molerats.}
 {6307}{}{Some scamps attacking raiders.}
 {6308}{}{A group of raiders.}
@@ -1357,7 +1357,7 @@
 {6352}{}{A couple dangerous scorpions.}
 {6353}{}{A gang of dangerous raiders.}
 {6354}{}{A group of strong bandits.}
-{6355}{}{Merchants from NMP attacked by scorpions.}
+{6355}{}{Merchants from NWO attacked by scorpions.}
 {6356}{}{Several molerats.}
 {6357}{}{Some scamps attacking raiders.}
 {6358}{}{A group of raiders.}
@@ -1374,7 +1374,7 @@
 {6402}{}{A couple dangerous scorpions.}
 {6403}{}{A gang of dangerous raiders.}
 {6404}{}{A group of strong bandits.}
-{6405}{}{Merchants from NMP attacked by scorpions.}
+{6405}{}{Merchants from NWO attacked by scorpions.}
 {6406}{}{Several molerats.}
 {6407}{}{Some scamps attacking raiders.}
 {6408}{}{A group of raiders.}
@@ -1541,7 +1541,7 @@
 {6902}{}{A couple of antlions.}
 {6903}{}{A few golden lions.}
 {6904}{}{A couple of coyotes.}
-{6905}{}{Merchants from NMP attacked by scorpions.}
+{6905}{}{Merchants from NWO attacked by scorpions.}
 {6906}{}{A NWO Patrol.}
 {6907}{}{A NWO Patrol fighting coyotes.}
 {6908}{}{A couple dangerous scorpions.}
@@ -1561,7 +1561,7 @@
 {6952}{}{A couple of antlions.}
 {6953}{}{A few golden lions.}
 {6954}{}{A couple of coyotes.}
-{6955}{}{Merchants from NMP attacked by scorpions.}
+{6955}{}{Merchants from NWO attacked by scorpions.}
 {6956}{}{A NWO Patrol.}
 {6957}{}{A NWO Patrol fighting coyotes.}
 {6958}{}{A couple dangerous scorpions.}
@@ -1578,7 +1578,7 @@
 {7002}{}{A couple of antlions.}
 {7003}{}{A few golden lions.}
 {7004}{}{A couple of coyotes.}
-{7005}{}{Merchants from NMP attacked by scorpions.}
+{7005}{}{Merchants from NWO attacked by scorpions.}
 {7006}{}{A NWO Patrol.}
 {7007}{}{A NWO Patrol fighting coyotes.}
 {7008}{}{A couple dangerous scorpions.}
