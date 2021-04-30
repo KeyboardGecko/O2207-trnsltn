@@ -35,11 +35,11 @@
 {100}{}{List of my Adventures!}
 {101}{}{Find and return Dad's key}
 {102}{}{Help my brother deal with the Bully}
-{103}{}{Get a "RadOut" for Catty's mom}
+{103}{}{Get a "RadOut" for Kathy's mom}
 {104}{}{Find the cause of Lavash illness}
 {105}{}{Assemble the valve filter and repair the water pump}
 {106}{}{Repair the fuse box}
-{107}{}{Collect 24 corn cobs for Catty}
+{107}{}{Collect 24 corn cobs for Kathy}
 {108}{}{Bring a bottle of moonshine to the guard}
 {109}{}{Bring the barrels of water to the Lavash keepers}
 {110}{}{Bring medicine to the Purgatory guard}
