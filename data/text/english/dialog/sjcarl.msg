@@ -124,7 +124,7 @@
 {232}{999}{Oh well, thank you for that.}
 
 
-{400}{}{Why not? We are now standing in the workshop. I'm in charge of fixing things here and Billy Stone is in charge for talking, you know what I'm saying? As he says, as it should be. And his boss is the guy named Loudmouth, our leader and chief. He is kinda nervous one, but you would be too with the customs around here, tee-hee.}
+{400}{}{Why not? We are now standing in the workshop. I'm in charge of fixing things here and Billy Stone is in charge for talking, know what I mean? Everyone here does what he says. And his boss is the guy named Loudmouth, our leader and chief. He is kinda nervous one, but you would be too with the customs around here, tee-hee.}
 {401}{041}{Who the hell is Billy Stone?}
 {402}{010}{I see. I want to ask something else.}
 {403}{}{Do not bother me, youngling. It seems you are not stupid, so you'll get how are the things here eventually.}

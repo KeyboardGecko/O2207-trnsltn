@@ -333,7 +333,7 @@
 {1174}{}{Fire!}
 {1175}{}{How do I use this thing?}
 {1176}{}{I'm gonna fuck you up!}
-{1177}{}{Is it shoots?}
+{1177}{}{Can this thing shoot?}
 {1178}{}{А-Aaaaaaaah!}
 {1179}{}{Get down!}
 #
@@ -435,10 +435,10 @@
 # Target hit in groin
 #
 {1250}{}{[holds groin and bends down]}
-{1251}{}{А-а-а-ыы-ы-ы-ы!}
-{1252}{}{За это теперь ты труп.}
-{1253}{}{Аа-а-а-а, всмятку!!!}
-{1254}{}{Бо-о-о-о-оль, ааааааа!}
+{1251}{}{Aaaaaeeeee!!}
+{1252}{}{I'm going to murder you for this.}
+{1253}{}{Aaaaah! Soft-boiled!!!}
+{1254}{}{AAAAAAAAH! PAIN!}
 {1255}{}{::groans::}
 {1256}{}{Sucker punch!}
 {1257}{}{I was taught to endure! Endure...}
@@ -448,15 +448,15 @@
 # Missing
 #
 {1260}{}{Look at you go!}
-{1261}{}{Косая свинья.}
-{1262}{}{Слава Богам, они отводят удары судьбы!}
-{1263}{}{[пригибается]}
-{1264}{}{Теперь попробуй целиться.}
-{1265}{}{Боги охраняют меня!}
-{1266}{}{Это ты по кому?}
+{1261}{}{Blind pig.}
+{1262}{}{Glory to the Gods, keeping the blows of fate away from me!}
+{1263}{}{::crouches::}
+{1264}{}{Next time try to actually aim}
+{1265}{}{The Gods are keepig me safe!}
+{1266}{}{Who were you aiming at?}
 {1267}{}{What was that?}
 {1268}{}{::laughs::}
-{1269}{}{Ты стреляешь, как лошадь!}
+{1269}{}{You shoot like a Lavash!}
 #
 # Attacking
 #
@@ -570,10 +570,10 @@
 # Target hit in groin
 #
 {1350}{}{[holds groin and bends down]}
-{1351}{}{А-а-а-ыы-ы-ы-ы!}
-{1352}{}{За это теперь ты труп.}
+{1351}{}{Aaaaaeeeee!!}
+{1352}{}{I'm going to murder you for this.}
 {1353}{}{Ты куда метишь, сволочь?}
-{1354}{}{Бо-о-о-о-оль, ааааааа!}
+{1354}{}{AAAAAAAAH! PAIN!}
 {1355}{}{::groans::}
 {1356}{}{Sucker punch!}
 {1357}{}{Не могу этого терпеть, аа-а-Aaaaaaaah!!!!!111}
@@ -583,15 +583,15 @@
 # Missing
 #
 {1360}{}{Look at you go!}
-{1361}{}{Косая свинья.}
+{1361}{}{Blind pig.}
 {1362}{}{Это по мне?}
-{1363}{}{[пригибается]}
-{1364}{}{Теперь попробуй целиться.}
+{1363}{}{::crouches::}
+{1364}{}{Next time try to actually aim}
 {1365}{}{Все мимо.}
-{1366}{}{Это ты по кому?}
+{1366}{}{Who were you aiming at?}
 {1367}{}{What was that?}
 {1368}{}{::laughs::}
-{1369}{}{Ты стреляешь, как лошадь!}
+{1369}{}{You shoot like a Lavash!}
 #
 # Attacking
 #
@@ -705,10 +705,10 @@
 # Target Hit In GROIN
 #
 {1450}{}{[holds groin and bends down]}
-{1451}{}{А-а-а-ыы-ы-ы-ы!}
-{1452}{}{За это теперь ты труп.}
-{1453}{}{Аа-а-а-а, всмятку!!!}
-{1454}{}{Бо-о-о-о-оль, ааааааа!}
+{1451}{}{Aaaaaeeeee!!}
+{1452}{}{I'm going to murder you for this.}
+{1453}{}{Aaaaah! Soft-boiled!!!}
+{1454}{}{AAAAAAAAH! PAIN!}
 {1455}{}{::groans::}
 {1456}{}{Sucker punch!}
 {1457}{}{I was taught to endure! Endure...}
@@ -840,10 +840,10 @@
 # Target Hit In GROIN
 #
 {1550}{}{[holds groin and bends down]}
-{1551}{}{А-а-а-ыы-ы-ы-ы!}
+{1551}{}{Aaaaaeeeee!!}
 {1552}{}{Где мое обезболивающее?!!}
-{1553}{}{Аа-а-а-а, всмятку!!!}
-{1554}{}{Бо-о-о-о-оль, ааааааа!}
+{1553}{}{Aaaaah! Soft-boiled!!!}
+{1554}{}{AAAAAAAAH! PAIN!}
 {1555}{}{::groans::}
 {1556}{}{Sucker punch!}
 {1557}{}{Это запрещенный прием!!!}
@@ -5460,7 +5460,7 @@
 {4974}{}{Fire!}
 {4975}{}{How do I use this thing?}
 {4976}{}{I'm gonna fuck you up!}
-{4977}{}{Is it shoots?}
+{4977}{}{Can this thing shoot?}
 {4978}{}{А-Aaaaaaaah!}
 {4979}{}{Get down!}
 #
@@ -6673,8 +6673,8 @@
 {5872}{}{Wanker!!}
 {5873}{}{I'll shank ya innit!}
 {5874}{}{I'll kick yer arse!}
-{5875}{}{For England!}
-{5876}{}{To be or not to be? Not to be!}
+{5875}{}{For the British Empire!}
+{5876}{}{C'mere lad!}
 {5877}{}{Off with your head!}
 {5878}{}{Good night, bruv.}
 {5879}{}{Alba gu bra!!}

@@ -23,7 +23,7 @@
 {100}{}{Look who we have here! Nice suit you got yourself! Did you think I would't recognize you, }
 {101}{}{? Of course it's you, I can tell by the way you walk that your hands are growing straight from your ass, HAH-HAHAHAHA! [he wipes tear] Well then, tell me, what brings you here?}
 {102}{}{Oh! It's you again! [he smiles] You scared me, little devil. So? What do you want?}
-{103}{011}{Smitty, I'd have to travel a lot, and I will probably get myself into all kinds of situations... Maybe you could teach me something? So I could assemble a helpful thing or two from some junk.}
+{103}{011}{Smitty, I have to travel a lot, and I will probably get myself into all kinds of situations... Maybe you could teach me something? So I could assemble a helpful thing or two from some junk.}
 {104}{020}{I have, uh... A specific task here. I need to unclog one to-i-let. It has too much... Sewage. Dangerous, and very smelly.}
 {105}{021}{Remember you told me about repairing a plunger using a hammer?}
 {106}{Barter}{Can you show me what you have in your stash?}
@@ -52,7 +52,7 @@
 {142}{015}{Okay, okay. When I find sugar and tin, I'll come back. Don't go anywhere! [wink]}
 
 
-{150}{}{Where could I go from here?...}
+{150}{}{Where am I gonna go from here?}
 {151}{999}{[leave Smitty to think about the meaning of your words]}
 
 
@@ -72,7 +72,7 @@
 {222}{023}{Okay, okay. Don't get so defensive. Here's a hammer for you, give me that damn plunger.}
 
 
-{230}{}{See? So much worries, so little actual problems! [Smitty instantly changes the handle of plunger to the one from hammer] Here, take your "treasure", heh-heh. I hope you'll figure out how to use it.}
+{230}{}{See? So much worries, so little actual problems! [Smitty instantly replaces the handle of plunger with the one from hammer] Here, take your "treasure", heh-heh. I hope you'll figure out how to use it.}
 {231}{999}{Come on, give it to me already.}
 {232}{999}{Don't you worry about it!}
 

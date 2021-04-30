@@ -323,7 +323,7 @@
 {347}{}{To your surprise, you stumble upon a huge mansion hidden between the cliffs! Surely, its former owner must have been very rich - and not very hospitable.}
 {348}{}{In the middle of the wasteland stands a lonely shabby hut. A very, very suspicious hut.}
 {349}{}{Almost falling off the last step, you find yourself in a stuffy room, soaked through with sweat and alcohol.}
-{350}{}{In front of you is the main entrance of a fairly large factory, very similar to the NWO. However, all plants are on the same facade.}
+{350}{}{In front of you lies the main entrance to a fairly large factory, very similar to the one in NWO. Or maybe all factories look the same to you.}
 {351}{}{The air inside of this workshop is filled with a smell of rotten rags. Around you see scattered evidence of current tenants's presence.}
 {352}{}{You hear a strange rustling in the basement. It's like someone's scratching stones with a nail.}
 {353}{}{There are only mountains around, nothing except mountains...}

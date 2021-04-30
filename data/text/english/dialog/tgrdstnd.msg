@@ -136,8 +136,8 @@
 {1050}{}{Would be good to sit for a little... But if Herald sees...}
 {1051}{}{Maybe it's time to get a new job.}
 {1052}{}{One, two, three - nothing to do here.}
-{1053}{}{Why is it so boring?}
-{1054}{}{Would be great if someone attacked - my rifle is getting rusty.}
+{1053}{}{Why is it so boring here?}
+{1054}{}{Would be great if someone attacked us - my rifle is getting rusty.}
 {1055}{}{Should have gone with the "Predators".}
 {1056}{}{Day after day - all the same.}
 {1057}{}{I need a toilet.}

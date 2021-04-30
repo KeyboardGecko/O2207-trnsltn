@@ -32,7 +32,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You are noticed when you walk by] Hey, you! Come here! [You look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a cristmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
+{10}{}{[suddenly, you hear that someone's calling you] Hey, you! Come here! [You look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a cristmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
 {11}{002}{What?}
 {12}{003}{Ask nicely.}
 {13}{999}{[Give him a middle finger and walk away]}
@@ -215,7 +215,7 @@
 {332}{010}{I still have some questions.}
 
 
-{340}{}{[Oswald gives you a reward and sinks into examining the pistol. In one moment his pretentious face becomes simple and contemplative, his eyes showing interest instead of resentment. Looks like he has no intention of continuing the conversation.]}
+{340}{}{[Oswald gives you a reward and sinks into examining the pistol. His pretentious face becomes simple and contemplative, his eyes showing interest instead of resentment. Looks like he has no intention of continuing the conversation.]}
 {341}{035}{Hey, Oswald, I still have some questions.}
 {342}{999}{[end of dialogue]}
 

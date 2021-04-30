@@ -42,7 +42,7 @@
 {2101}{}{A case of special anti-personel 9mm pistol ammunition.}
 {2200}{}{9mm AP}
 {2201}{}{A case of armor-piercing 9mm pistol ammuniton.}
-{2300}{}{Large Battery}
+{2300}{}{BigBat energy cell}
 {2301}{}{A large, self-contained energy cell.}
 {2400}{}{Rubber Bullet}
 {2401}{}{While not the most dangerous type of ammunition, rubber bullets can knock an opponent out for a while.}
@@ -52,7 +52,7 @@
 {2601}{}{A case of special 12mm incendiary ammunition for the unique Hotter shotgun.}
 {2700}{}{Magnum Bullets}
 {2701}{}{Very powerful magnum revolver cartriges.}
-{2800}{}{Small Battery}
+{2800}{}{MiniBat energy cell}
 {2801}{}{A small, self-contained energy cell.}
 {2900}{}{Napalm}
 {2901}{}{A canister of a viscous incendiary substance based on gasoline.}
@@ -618,14 +618,14 @@
 {30901}{}{At first glance it is difficult to determine what kind of book it is, at the second, too.}
 {31000}{}{Ring Finger}
 {31001}{}{This finger once belonged to a man, on the finger is a ring, at first glance it's very expensive.}
-{31100}{}{*Map Piece*}
+{31100}{}{*Piece of a map*}
 {31101}{}{This piece of paper is part of a map. This might even be useful.}
-{31200}{}{*Map Piece*}
-{31201}{}{Part of a map, find the rest of the pieces and solve the puzzle.}
-{31300}{}{*Map Piece*}
-{31301}{}{This is a map, only not complete. You need to find the rest of the pieces.}
-{31400}{}{*Map Piece*}
-{31401}{}{Map of an area, but not complete. Perhaps there are other pieces of this map.}
+{31200}{}{*Piece of a map*}
+{31201}{}{Part of a map. Find other pieces and solve the puzzle.}
+{31300}{}{*Piece of a map*}
+{31301}{}{This is a map, or more exactly the part of a map. To read it, you need to find other pieces.}
+{31400}{}{*Piece of a map*}
+{31401}{}{A partial map of some area. Perhaps there are other pieces somewhere.}
 {31500}{}{Lavash Jerky}
 {31501}{}{A juicy and delicious piece of Lavash jerky.}
 {31600}{}{NWO Basement Key}
@@ -640,16 +640,16 @@
 {32001}{}{A patched but working electric motor.}
 {32100}{}{Broken Electric Motor}
 {32101}{}{A faulty electric motor.}
-{32200}{}{*Sasou Perfume*}
+{32200}{}{*Sassou Perfume*}
 {32201}{}{Women's perfume with a wonderful gentle fragrance.}
 {32300}{}{Crystal Water}
 {32301}{}{A bottle of the purest water.}
 {32400}{}{*Romantic Collection*}
 {32401}{}{A CD with calm melodic romantic music.}
-{32500}{}{*Analogue*}
-{32501}{}{A serious textbook on wave physics.}
+{32500}{}{*A book of wave science*}
+{32501}{}{A serious educational book on wave science.}
 {32600}{}{*Card Deck*}
-{32601}{}{A deck of playing cards, 36 pieces coated in plastic.}
+{32601}{}{A deck of playing cards, 36 pieces. Coated in plastic.}
 {32700}{}{*Glowing Ant Abdomen*}
 {32701}{}{This ant's abdomen is unusually large and has a luminescent effect.}
 {32800}{}{Human Flesh}
@@ -772,8 +772,8 @@
 {38601}{}{The notes of the gunsmith Sebastian Schwein.}
 {38700}{}{Olympus Promotion}
 {38701}{}{Olympus! The greatest creation of mankind!}
-{38800}{}{On the Enlightened Ones}
-{38801}{}{Notes of a certain person about the experience of communicating with the Enlightened Ones.}
+{38800}{}{About the Lumeniers}
+{38801}{}{Someone's diary about the experience of communicating with the Lumeniers.}
 {38900}{}{Recruit's Diary}
 {38901}{}{A dusty, dirty disk from a nameless corpse.}
 {39000}{}{Solar Gun}

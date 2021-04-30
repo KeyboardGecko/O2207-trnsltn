@@ -66,7 +66,7 @@
 {405}{}{Tartarus Directive}
 {406}{}{Shvain's Notes}
 {407}{}{Olympus Promotion}
-{408}{}{On the Enlighted Ones}
+{408}{}{About the Lumeniers}
 {409}{}{Recruit's Diary}
 {410}{}{Equestria}
 {411}{}{Project Renaissance}

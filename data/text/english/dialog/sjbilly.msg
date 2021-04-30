@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. Having his beefy hands tattoed all over with skulls and gears and a big red scar on his forehead, he doesn't exactly comes across as a working type. When he turns around to punch some guy running nearby in the face, you notice a label "Billy" sewn with wires on his jacket] Who the hell are YOU? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
+{10}{}{[His glorious ginger beard is littered with metallic chips and sawdust. Having his beefy hands tattoed all over with skulls and gears, with a big red scar on his forehead, he doesn't exactly comes across as a working type. When he turns around, you notice a label "Billy" sewn with wires on his jacket] Who the hell are YOU? [he glares] There's shite from all over the Radius... Why the fuck are you hanging around here?}
 {11}{011}{I'm just looking around. You guys definitely have a way with organizing things. Your doing?}
 {12}{014}{You'd better watch your mouth - or there is a possibility that you are going to eat shit.}
 {13}{015}{I'm looking for a quick buck. Have something for a hired gun? }
@@ -32,7 +32,7 @@
 {102}{014}{And I don't like this ginger broom on your face. I wouldn't mind setting it on fire to watch you run around. So?}
 {103}{015}{I wanted to ask if there's something you want me to do.}
 {104}{999}{Then I'm leaving.}
-{1002}{}{[he adjusts wide belt on his massive belly and nods to you] Have you considered joining the Jackals yet? I have a position here reserved just for you... Maybe we'll go to Shiva together, make a party for three? }
+{1002}{}{[he adjusts wide belt on his massive belly and nods to you] Have you considered joining the Jackals yet? I have a position reserved for you... Maybe we'll go to Shiva together, make a party for three? }
 {105}{011}{What an interesting proposition... But, as I recall, you are still not completely in charge here, right? Or something has changed?}
 {106}{999}{No, thanks. I have a lot on my plate already. See you around, Billy.}
 {1003}{}{[Billy is inspecting a map before him. It crudely depicts some area of Radius. Frowning his bushy eyebrows, he is deeply focused on moving his thick finger around it.] Here are the guards... And here we may be able to pull through... [he waves at you] Hey, come here! You've traveled a lot around Radius, right? Maybe you could be of help.}
@@ -69,7 +69,7 @@
 {1501}{}{[He looks at you like if you are a squashed cockroach. Or the pile of Lavash shit] What? I won't trust you even with wanking off! A mercenary, my ass... Get some experience first, then yap!}
 {151}{014}{Watch it, you son of a bitch. Or you're gonna be pissing with blood.}
 {152}{999}{Oh, okay. We'll talk later.}
-{1502}{}{[He glares at you, excruciatingly frowning his big furry brows. You can almost hear gears turning inside his head.] Well, uh... I might have something for a rando like you... That's it, listen closely: Loudmouth has this girl named Shiva. She is cool. Don't look at the fact that nearly every Jackal here made his way into her holes in the past. But then this motherfucker blasted off the heads of some our guys, so now everybody is afraid to even come near her. Greedy son of a bitch, it's widely known that his banana is non-functioning since ancient times, everyone's just scared shiteless to say it loud... Anyway, I've been thinking - why such a good girl should go to waste? So, I decided to pay her a visit. And I need you to keep an eye out for me. If all's good - I'm gonna give you a pretty neat gun. This is much better than batteries. You are nothing here without a good weapon. }
+{1502}{}{[He glares at you, excruciatingly frowning his big furry brows. You can almost hear gears turning inside his head.] Well, uh... I might have something for a rando like you... That's it, listen closely: Loudmouth has this girl named Shiva. She is cool. Let's overlook the fact that nearly every Jackal here made his way into her holes in the past. But then this motherfucker blasted off the heads of some our guys, so now everybody is afraid to even come near her. Greedy son of a bitch, it's widely known that his banana is non-functioning since ancient times, everyone's just scared shiteless to say it loud... Anyway, I've been thinking - why such a good girl should go to waste? So, I decided to pay her a visit. And I need you to keep an eye out for me. If all goes smooth, I'm gonna give you a neat gun. This is much better than batteries. You are nothing here without a good weapon. }
 {153}{016}{That's it? Sure, I'm in.}
 {154}{999}{Uh, no, I don't want to get into beef with that psycho. I'll pass. And I've got to go.}
 
@@ -78,7 +78,7 @@
 {161}{999}{[follow him]}
 
 
-{170}{}{[He zips his pants with a smug look] This damn ass is the best you can find in the whole Radius... Don't you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he gives you a weapon pouch made of Lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl made mag extension, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
+{170}{}{[He zips his pants with a smug look] That beautiful ass is the best you can find in the whole Radius... Do you want to check on her, by the way? I won't be guarding you though [he laughs]. As we agreed - here. [he hands you a weapon pouch made of Lavash skin. It's soaked with oil. You hear parts of the gun clanking inside]. You'll handle the assembly, any dumbass can do it. Carl extended the clip, so if you are not good enough at shooting straight, it should fit you. Definitely will hit something.}
 {171}{999}{That's the deal! Thanks, Billy. I'm already itching to test it in action.}
 {172}{999}{Just as we agreed, yes. Good luck. And I've got to go.}
 

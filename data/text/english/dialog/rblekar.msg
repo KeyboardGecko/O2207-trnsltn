@@ -37,7 +37,7 @@
 {1002}{}{[swiftly pours cognac] How about a little shot to celebrate our meeting?}
 {107}{Бартер}{What happened to business? I'd like to buy something from you.}
 {108}{018}{Care to tell me about how it all started here?}
-{109}{023}{I'll keep you company when business on Raibow gets rolling. I was quite impressed by your story, but the old days won't come back by themselves, you know what I mean?}
+{109}{023}{I'll keep you company when business on Rainbow gets rolling. I was quite impressed by your story, but the old days won't come back by themselves, you know what I mean?}
 {1010}{999}{Maybe later. Take care, Apothecary.}
 {1003}{}{[Looks like he's strongly determined to break his own record for short-term cognac absorption. But for now he is able to stand straight and put words into sentences] What? Did you come to drink for the Hog? I bet he's boiling in a pot filled with Drop... }
 {1011}{014}{Are you still interested in what's the deal with Douglas?}

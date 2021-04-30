@@ -640,7 +640,7 @@
 {1502}{}{Sunset Jackals}
 {1503}{}{Chris's Stash}
 {1504}{}{New World Order}
-{1505}{}{Laivos}
+{1505}{}{Livos}
 {1506}{}{Rainbow Raiders}
 {1507}{}{Oasis}
 {1508}{}{Mangy Dog}
@@ -651,7 +651,7 @@
 {1513}{}{Meadows}
 {1514}{}{Ursa Lair}
 {1515}{}{Chimera Bunker}
-{1516}{}{Dangerous Clearing}
+{1516}{}{Death Valley}
 {1517}{}{Random Encounter}
 {1518}{}{Random Encounter}
 {1519}{}{Random Encounter}

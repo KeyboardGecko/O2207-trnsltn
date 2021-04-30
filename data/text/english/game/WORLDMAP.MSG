@@ -321,7 +321,7 @@
 {3306}{}{A beast on the hunt.}
 {3307}{}{A couple of stunted venomous chimeras.}
 {3308}{}{A chimera trying to eat an Ursa.}
-{3309}{}{A couple beasts lying in ambush.}
+{3309}{}{A couple of Onca Devils, lying in ambush.}
 {3310}{}{Graves in the desert.}
 {3311}{}{An abandoned house.}
 {3312}{}{Raiders attacking a road warrior.}
@@ -341,7 +341,7 @@
 {3356}{}{A beast on the hunt.}
 {3357}{}{A couple of stunted venomous chimeras.}
 {3358}{}{A chimera trying to eat an Ursa.}
-{3359}{}{A couple beasts lying in ambush.}
+{3359}{}{A couple of Onca Devils, lying in ambush.}
 {3360}{}{A cave in the Mountains.}
 {3361}{}{A punk on his bike.}
 {3362}{}{A fortified outpost.}
@@ -358,7 +358,7 @@
 {3406}{}{A couple of huge hungry Ursas.}
 {3407}{}{A couple of stunted venomous chimeras.}
 {3408}{}{A chimera trying to eat an Ursa.}
-{3409}{}{A couple beasts lying in ambush.}
+{3409}{}{A couple of Onca Devils, lying in ambush.}
 #
 #
 #
@@ -371,7 +371,7 @@
 {3455}{}{Some Travelers fighting off road pirates.}
 {3456}{}{A group of strong bandits.}
 {3457}{}{A couple of huge hungry Ursas.}
-{3458}{}{A couple beasts lying in ambush.}
+{3458}{}{A couple of Onca Devils, lying in ambush.}
 {3459}{}{A group of raiders fighting some beasts.}
 {3460}{}{Some graves in the desert.}
 {3461}{}{An abandoned House.}
@@ -391,7 +391,7 @@
 {3505}{}{Some Travelers fighting off road pirates.}
 {3506}{}{A group of strong bandits.}
 {3507}{}{A couple of huge hungry Ursas.}
-{3508}{}{A couple beasts lying in ambush.}
+{3508}{}{A couple of Onca Devils, lying in ambush.}
 {3509}{}{A group of raiders fighting some beasts.}
 {3510}{}{A cave in the Mountains.}
 {3511}{}{A punk on his bike.}
@@ -408,7 +408,7 @@
 {3555}{}{Some Travelers fighting off road pirates.}
 {3556}{}{A group of strong bandits.}
 {3557}{}{A couple of huge hungry Ursas.}
-{3558}{}{A couple beasts lying in ambush.}
+{3558}{}{A couple of Onca Devils, lying in ambush.}
 {3559}{}{A group of raiders fighting some beasts.}
 #
 #
@@ -423,7 +423,7 @@
 {3606}{}{A group of strong bandits.}
 {3607}{}{A few golden lions.}
 {3608}{}{A couple of stunted venomous chimeras.}
-{3609}{}{A couple beasts lying in ambush.}
+{3609}{}{A couple of Onca Devils, lying in ambush.}
 {3610}{}{Some graves in the desert.}
 {3611}{}{An abandoned House.}
 {3612}{}{Raiders attacking a road warrior.}
@@ -443,7 +443,7 @@
 {3656}{}{A group of strong bandits.}
 {3657}{}{A few golden lions.}
 {3658}{}{A couple of stunted venomous chimeras.}
-{3659}{}{A couple beasts lying in ambush.}
+{3659}{}{A couple of Onca Devils, lying in ambush.}
 {3660}{}{A cave in the Mountains.}
 {3661}{}{A punk on his bike.}
 {3662}{}{A fortified outpost.}
@@ -460,7 +460,7 @@
 {3706}{}{A group of strong bandits.}
 {3707}{}{A few golden lions.}
 {3708}{}{A couple of stunted venomous chimeras.}
-{3709}{}{A couple beasts lying in ambush.}
+{3709}{}{A couple of Onca Devils, lying in ambush.}
 #
 #
 #
@@ -978,7 +978,7 @@
 {5250}{}{A lone vicious Ursa.}
 {5251}{}{A lone hungry chimera.}
 {5252}{}{A lumenier group.}
-{5253}{}{A couple beasts lying in ambush.}
+{5253}{}{A couple of Onca Devils, lying in ambush.}
 {5254}{}{A couple of huge hungry Ursas.}
 {5255}{}{A couple of huge hungry Ursas.}
 {5256}{}{A lumenier group.}
@@ -998,7 +998,7 @@
 {5300}{}{A lone vicious Ursa.}
 {5301}{}{A lone hungry chimera.}
 {5302}{}{A lumenier group.}
-{5303}{}{A couple beasts lying in ambush.}
+{5303}{}{A couple of Onca Devils, lying in ambush.}
 {5304}{}{A couple of huge hungry Ursas.}
 {5305}{}{A couple of huge hungry Ursas.}
 {5306}{}{A lumenier group.}
@@ -1015,7 +1015,7 @@
 {5350}{}{A lone vicious Ursa.}
 {5351}{}{A lone hungry chimera.}
 {5352}{}{A lumenier group.}
-{5353}{}{A couple beasts lying in ambush.}
+{5353}{}{A couple of Onca Devils, lying in ambush.}
 {5354}{}{A couple of huge hungry Ursas.}
 {5355}{}{A couple of huge hungry Ursas.}
 {5356}{}{A lumenier group.}
@@ -1086,7 +1086,7 @@
 {5556}{}{Primitive hunters fighting with wolves.}
 {5557}{}{A couple of coyotes.}
 {5558}{}{Lumenire attacked by some chimeras.}
-{5559}{}{A couple beasts lying in ambush.}
+{5559}{}{A couple of Onca Devils, lying in ambush.}
 {5560}{}{Some graves in the desert.}
 {5561}{}{An abandoned House.}
 {5562}{}{Raiders attacking a road warrior.}
@@ -1106,7 +1106,7 @@
 {5606}{}{Primitive hunters fighting with wolves.}
 {5607}{}{A couple of coyotes.}
 {5608}{}{Lumenire attacked by some chimeras.}
-{5609}{}{A couple beasts lying in ambush.}
+{5609}{}{A couple of Onca Devils, lying in ambush.}
 {5610}{}{A cave in the Mountains.}
 {5611}{}{A punk on his bike.}
 {5612}{}{A fortified outpost.}
@@ -1123,7 +1123,7 @@
 {5656}{}{Primitive hunters fighting with wolves.}
 {5657}{}{A couple of coyotes.}
 {5658}{}{Lumenire attacked by some chimeras.}
-{5659}{}{A couple beasts lying in ambush.}
+{5659}{}{A couple of Onca Devils, lying in ambush.}
 #
 #
 #
@@ -1341,7 +1341,7 @@
 {6306}{}{Several molerats.}
 {6307}{}{Some scamps attacking raiders.}
 {6308}{}{A group of raiders.}
-{6309}{}{A couple beasts lying in ambush.}
+{6309}{}{A couple of Onca Devils, lying in ambush.}
 {6310}{}{Some graves in the desert.}
 {6311}{}{An abandoned House.}
 {6312}{}{Raiders attacking a road warrior.}
@@ -1361,7 +1361,7 @@
 {6356}{}{Several molerats.}
 {6357}{}{Some scamps attacking raiders.}
 {6358}{}{A group of raiders.}
-{6359}{}{A couple beasts lying in ambush.}
+{6359}{}{A couple of Onca Devils, lying in ambush.}
 {6360}{}{A cave in the Mountains.}
 {6361}{}{A punk on his bike.}
 {6362}{}{A fortified outpost.}
@@ -1378,7 +1378,7 @@
 {6406}{}{Several molerats.}
 {6407}{}{Some scamps attacking raiders.}
 {6408}{}{A group of raiders.}
-{6409}{}{A couple beasts lying in ambush.}
+{6409}{}{A couple of Onca Devils, lying in ambush.}
 #
 #
 #
@@ -1390,7 +1390,7 @@
 {6454}{}{A group of strong bandits.}
 {6455}{}{Road pirates attacking a merchant group.}
 {6456}{}{Several molerats.}
-{6457}{}{A couple beasts lying in ambush.}
+{6457}{}{A couple of Onca Devils, lying in ambush.}
 {6458}{}{Some coyotes and desert wolves.}
 {6459}{}{scamps driving out some lunatics.}
 {6460}{}{Some graves in the desert.}
@@ -1410,7 +1410,7 @@
 {6504}{}{A group of strong bandits.}
 {6505}{}{Road pirates attacking a merchant group.}
 {6506}{}{Several molerats.}
-{6507}{}{A couple beasts lying in ambush.}
+{6507}{}{A couple of Onca Devils, lying in ambush.}
 {6508}{}{Some coyotes and desert wolves.}
 {6509}{}{scamps driving out some lunatics.}
 {6510}{}{A cave in the Mountains.}
@@ -1427,7 +1427,7 @@
 {6554}{}{A group of strong bandits.}
 {6555}{}{Road pirates attacking a merchant group.}
 {6556}{}{Several molerats.}
-{6557}{}{A couple beasts lying in ambush.}
+{6557}{}{A couple of Onca Devils, lying in ambush.}
 {6558}{}{Some coyotes and desert wolves.}
 {6559}{}{scamps driving out some lunatics.}
 #
@@ -1693,7 +1693,7 @@
 {7351}{}{A couple dangerous scorpions.}
 {7352}{}{A couple of antlions.}
 {7353}{}{A couple of coyotes.}
-{7354}{}{A couple beasts lying in ambush.}
+{7354}{}{A couple of Onca Devils, lying in ambush.}
 {7355}{}{A bloody battle of desert wolves against scamps.}
 {7356}{}{A lone traveler.}
 {7357}{}{A lone traveler fighting coyotes.}
@@ -1713,7 +1713,7 @@
 {7401}{}{A couple dangerous scorpions.}
 {7402}{}{A couple of antlions.}
 {7403}{}{A couple of coyotes.}
-{7404}{}{A couple beasts lying in ambush.}
+{7404}{}{A couple of Onca Devils, lying in ambush.}
 {7405}{}{A bloody battle of desert wolves against scamps.}
 {7406}{}{A lone traveler.}
 {7407}{}{A lone traveler fighting coyotes.}
@@ -1730,7 +1730,7 @@
 {7451}{}{A couple dangerous scorpions.}
 {7452}{}{A couple of antlions.}
 {7453}{}{A couple of coyotes.}
-{7454}{}{A couple beasts lying in ambush.}
+{7454}{}{A couple of Onca Devils, lying in ambush.}
 {7455}{}{A bloody battle of desert wolves against scamps.}
 {7456}{}{A lone traveler.}
 {7457}{}{A lone traveler fighting coyotes.}
@@ -1798,7 +1798,7 @@
 {7654}{}{A couple of starving lunatics.}
 {7655}{}{A horde of rats.}
 {7656}{}{A group of travelers fighting off a hungry Ursa.}
-{7657}{}{A couple beasts lying in ambush.}
+{7657}{}{A couple of Onca Devils, lying in ambush.}
 {7658}{}{A couple of huge hungry Ursas.}
 {7659}{}{A starving Ursa attacking a scamp.}
 {7660}{}{Some graves in the desert.}
@@ -1818,7 +1818,7 @@
 {7704}{}{A couple of starving lunatics.}
 {7705}{}{A horde of rats.}
 {7706}{}{A group of travelers fighting off a hungry Ursa.}
-{7707}{}{A couple beasts lying in ambush.}
+{7707}{}{A couple of Onca Devils, lying in ambush.}
 {7708}{}{A couple of huge hungry Ursas.}
 {7709}{}{A starving Ursa attacking a scamp.}
 {7710}{}{A cave in the Mountains.}
@@ -1835,7 +1835,7 @@
 {7754}{}{A couple of starving lunatics.}
 {7755}{}{A horde of rats.}
 {7756}{}{A group of travelers fighting off a hungry Ursa.}
-{7757}{}{A couple beasts lying in ambush.}
+{7757}{}{A couple of Onca Devils, lying in ambush.}
 {7758}{}{A couple of huge hungry Ursas.}
 {7759}{}{A starving Ursa attacking a scamp.}
 #
