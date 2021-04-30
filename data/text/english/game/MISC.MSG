@@ -151,7 +151,7 @@
 {9133}{}{See, Boss! You can teach an old dog new tricks!}
 {9134}{}{You know what, Boss? I think I'm actually learning a thing or two.}
 {9135}{}{I'm getting pretty good at this. See, Boss. All good things get better with time.}
- 
+
 {9140}{}{I learned some new things!} 
 {9141}{}{I learned some new things!}
 {9150}{}{I learned some new things!} 
