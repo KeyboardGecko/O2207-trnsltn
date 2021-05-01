@@ -15,7 +15,7 @@
 #   Ммм-у-у-ууу!
 #   Мму! Мм-у! Мм-м-у-у-ууу!
 #   [яростно машет хвостом]
-#   [бьет копытом]
+#   [бьет hoof]
 #   ::кряхтит::
 #   ::бульк::
 #
@@ -334,7 +334,7 @@
 {1175}{}{How do I use this thing?}
 {1176}{}{I'm gonna fuck you up!}
 {1177}{}{Can this thing shoot?}
-{1178}{}{А-Aaaaaaaah!}
+{1178}{}{AAAaaaaah!}
 {1179}{}{Get down!}
 #
 # Move
@@ -424,9 +424,9 @@
 {1240}{}{I can't see shit!}
 {1241}{}{Is this... BLOOD?}
 {1242}{}{I'm gonna put your eye out for this!}
-{1243}{}{[squeeze eyes shut]}
+{1243}{}{[squeezes eyes shut]}
 {1244}{}{[covers eye]}
-{1245}{}{Almost got my eye}
+{1245}{}{Almost got my eye.}
 {1246}{}{My eye! AAaaaaah!!}
 {1247}{}{Seems like I can't see...}
 {1248}{}{Why so dark?}
@@ -435,7 +435,7 @@
 # Target hit in groin
 #
 {1250}{}{[holds groin and bends down]}
-{1251}{}{Aaaaaeeeee!!}
+{1251}{}{Aaaaaaaeeeee!!}
 {1252}{}{I'm going to murder you for this.}
 {1253}{}{Aaaaah! Soft-boiled!!!}
 {1254}{}{AAAAAAAAH! PAIN!}
@@ -481,7 +481,7 @@
 {1285}{}{Get down, asshole!}
 {1286}{}{I'll get you...}
 {1287}{}{I'm gonna tear you up when I get to you!}
-{1288}{}{Scared? ::grins::]}
+{1288}{}{Scared? ::grins::}
 {1289}{}{::puffs::}
 #
 # Running away
@@ -559,9 +559,9 @@
 {1340}{}{I can't see shit!}
 {1341}{}{Is this... BLOOD?}
 {1342}{}{I'm gonna put your eye out for this!}
-{1343}{}{[squeeze eyes shut]}
+{1343}{}{[squeezes eyes shut]}
 {1344}{}{[covers eye]}
-{1345}{}{Almost got my eye}
+{1345}{}{Almost got my eye.}
 {1346}{}{My eye! AAaaaaah!!}
 {1347}{}{Seems like I can't see...}
 {1348}{}{Why so dark?}
@@ -570,7 +570,7 @@
 # Target hit in groin
 #
 {1350}{}{[holds groin and bends down]}
-{1351}{}{Aaaaaeeeee!!}
+{1351}{}{Aaaaaaaeeeee!!}
 {1352}{}{I'm going to murder you for this.}
 {1353}{}{Where are you aiming at, bitch?}
 {1354}{}{AAAAAAAAH! PAIN!}
@@ -616,7 +616,7 @@
 {1385}{}{A couple more steps...}
 {1386}{}{I'll get you...}
 {1387}{}{I'm gonna tear you up when I get to you!}
-{1388}{}{Scared? ::grins::]}
+{1388}{}{Scared? ::grins::}
 {1389}{}{::puffs::}
 #
 # Running away
@@ -694,9 +694,9 @@
 {1440}{}{I can't see shit!}
 {1441}{}{Is this... BLOOD?}
 {1442}{}{I'm gonna put your eye out for this!}
-{1443}{}{[squeeze eyes shut]}
+{1443}{}{[squeezes eyes shut]}
 {1444}{}{[covers eye]}
-{1445}{}{Almost got my eye}
+{1445}{}{Almost got my eye.}
 {1446}{}{My eye! AAaaaaah!!}
 {1447}{}{Seems like I can't see...}
 {1448}{}{Why so dark?}
@@ -705,7 +705,7 @@
 # Target Hit In GROIN
 #
 {1450}{}{[holds groin and bends down]}
-{1451}{}{Aaaaaeeeee!!}
+{1451}{}{Aaaaaaaeeeee!!}
 {1452}{}{I'm going to murder you for this.}
 {1453}{}{Aaaaah! Soft-boiled!!!}
 {1454}{}{AAAAAAAAH! PAIN!}
@@ -730,16 +730,16 @@
 #
 # ATTACKING
 #
-{1470}{}{Ох, задам я тебе перцу, ох, задам!}
-{1471}{}{Пасть взорву!}
-{1472}{}{Убью на хрен!}
-{1473}{}{На пол, свинья!}
-{1474}{}{Сейчас я тебя буду мочить, мочить...}
-{1475}{}{Ты труп.}
-{1476}{}{Ты мертвец.}
-{1477}{}{Гори в аду, тварь!}
-{1478}{}{Почувствуй себя в мясорубке.}
-{1479}{}{Сдавайся, скотина!}
+{1470}{}{I won't go easy on you, you know!}
+{1471}{}{I'm gonna blow your shit up!}
+{1472}{}{I'll fucking murder you!}
+{1473}{}{Get down, pig!}
+{1474}{}{Now I'm gonna kill you...}
+{1475}{}{You're deadman.}
+{1476}{}{You're already dead.}
+{1477}{}{Burn in hell, filth!}
+{1478}{}{That's what grinder feels like.}
+{1479}{}{Give it up, asshole!}
 #
 # MOVE
 #
@@ -751,13 +751,13 @@
 {1485}{}{A couple more steps...}
 {1486}{}{I'll get you...}
 {1487}{}{I'm gonna tear you up when I get to you!}
-{1488}{}{Scared? ::grins::]}
+{1488}{}{Scared? ::grins::}
 {1489}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {1490}{}{АAaaaaaaah!!}
-{1491}{}{О-о-о-о-о!}
+{1491}{}{Oooooooh!}
 {1492}{}{Happy feet!!}
 {1493}{}{Let's get our bowels away from here!!!}
 {1494}{}{Run!}
@@ -765,7 +765,7 @@
 {1496}{}{I'm pretty good at running.}
 {1497}{}{A tactical retreating!.}
 {1498}{}{Try to hit a moving target! Hahaha!}
-{1499}{}{Onward, за подкреплениями!}
+{1499}{}{Retreating for backup!}
 #
 #
 ####################################################
@@ -781,33 +781,33 @@
 {1504}{}{Everything's dark...}
 {1505}{}{Right in the top of my head...}
 {1506}{}{Hit my head, I don't care!}
-{1507}{}{It's my brain. It's sturdy, как никогда.}
+{1507}{}{It's my brain. It's so sturdy you wouldn't believe.}
 {1508}{}{You won't bash through my head.}
 {1509}{}{Goddamit, it hurts!}
 #
 # Target Hit In ARM
 #
 {1510}{}{[pulls back shoulder]}
-{1511}{}{Будет шрам, как у военных.}
+{1511}{}{Will leave a scar, just like military.}
 {1512}{}{A shoulder. Nothing special.}
 {1513}{}{Punctured. Goddamit.}
 {1514}{}{Goddamit!}
 {1515}{}{It hurts!}
 {1516}{}{Ugh, it hurts.}
-{1517}{}{В лучевой нерв, Aaaaaaaah!}
-{1518}{}{Я буду жаловаться!}
-{1519}{}{Ведь только вчера одежду зашивал!}
+{1517}{}{Right on the nerve, aaaaaaahh!}
+{1518}{}{I will complain!}
+{1519}{}{Man, I fixed that one just yesterday!}
 #
 # Target Hit In TORSO
 #
-{1520}{}{Пробил!}
+{1520}{}{Penetrated!}
 {1521}{}{Goddamit, looks like the collarbone!}
 {1522}{}{In the... Gut... [bends down]]}
 {1523}{}{[spastically gasps for air]}
 {1524}{}{Oh damn you!}
 {1525}{}{::snickers::}
-{1526}{}{Прямо печень.}
-{1527}{}{Я умер?}
+{1526}{}{Right in the liver.}
+{1527}{}{Am I dead?}
 {1528}{}{It hurts' you know. }
 {1529}{}{Just a sec, I need to pull back my guts.}
 #
@@ -820,18 +820,18 @@
 {1534}{}{My leg is injured! Doc!}
 {1535}{}{I'm in a land of pain...}
 {1536}{}{Where is my holiday crutch?}
-{1537}{}{Опять драные штаны.}
+{1537}{}{Torn pants. Again.}
 {1538}{}{Got through... Damn you!}
-{1539}{}{Я буду жаловаться!}
+{1539}{}{I will complain!}
 #
 # Target Hit In EYES
 #
 {1540}{}{I can't see shit!}
 {1541}{}{Is this... BLOOD?}
-{1542}{}{Где мои очки?!}
-{1543}{}{[squeeze eyes shut]}
+{1542}{}{Where's my glasses?!}
+{1543}{}{[squeezes eyes shut]}
 {1544}{}{[covers eye]}
-{1545}{}{Almost got my eye}
+{1545}{}{Almost got my eye.}
 {1546}{}{My eye! AAaaaaah!!}
 {1547}{}{Seems like I can't see...}
 {1548}{}{Why so dark?}
@@ -840,67 +840,67 @@
 # Target Hit In GROIN
 #
 {1550}{}{[holds groin and bends down]}
-{1551}{}{Aaaaaeeeee!!}
-{1552}{}{Где мое обезболивающее?!!}
+{1551}{}{Aaaaaaaeeeee!!}
+{1552}{}{Where's my painkillers...}
 {1553}{}{Aaaaah! Soft-boiled!!!}
 {1554}{}{AAAAAAAAH! PAIN!}
 {1555}{}{::groans::}
 {1556}{}{Sucker punch!}
-{1557}{}{Это запрещенный прием!!!}
-{1558}{}{Боже мой, что же делать-то с этой болью!}
+{1557}{}{You can't do that!!!}
+{1558}{}{My God, what a pain!}
 {1559}{}{[silently gasps for air]}
 #
 # MISSING
 #
-{1560}{}{Ах ты... Близко...}
-{1561}{}{Близко, но мимо.}
-{1562}{}{Невезет, да?}
-{1563}{}{Ты лопух, явно.}
-{1564}{}{Что-то ты косой}
-{1565}{}{Ну как так?!}
-{1566}{}{Все равно не попадешь.}
-{1567}{}{Может в следующий раз.}
-{1568}{}{Ничего, ничего...}
-{1569}{}{Чуть левее...}
+{1560}{}{Oh... That was close.}
+{1561}{}{Almost.}
+{1562}{}{No luck today?}
+{1563}{}{You are so dumb.}
+{1564}{}{You're not very good at this.}
+{1565}{}{How did you even...}
+{1566}{}{Nope, still missed.}
+{1567}{}{Maybe next time.}
+{1568}{}{It's okay.}
+{1569}{}{A little more to the left...}
 #
 # ATTACKING
 #
-{1570}{}{Ох, задам я тебе перцу, ох, задам!}
-{1571}{}{Ох, тебя расчленю!}
-{1572}{}{Убью на хрен!}
-{1573}{}{На пол, свинья!}
-{1574}{}{Сейчас я тебя буду мочить, мочить...}
-{1575}{}{Ты труп.}
-{1576}{}{Ты мертвец.}
-{1577}{}{Гори в аду, тварь!}
+{1570}{}{I won't go easy on you, you know!}
+{1571}{}{I'm gonna disembowel you!}
+{1572}{}{I'll fucking murder you!}
+{1573}{}{Get down, pig!}
+{1574}{}{Now I'm gonna kill you...}
+{1575}{}{You're deadman.}
+{1576}{}{You're already dead.}
+{1577}{}{Burn in hell, filth!}
 {1578}{}{NERD RA-A-A-A-GE!!!}
-{1579}{}{Сдавайся, скотина!}
+{1579}{}{Give it up, asshole!}
 #
 # MOVE
 #
 {1580}{}{Now you're getting it...}
 {1581}{}{Just you wait!}
-{1582}{}{С удовольствием вмажу тебе.}
-{1583}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{1582}{}{Punching you will make me SO happy.}
+{1583}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {1584}{}{Tremble, you animal!}
 {1585}{}{A couple more steps...}
 {1586}{}{I'll get you...}
 {1587}{}{I'm gonna tear you up when I get to you!}
-{1588}{}{Scared? ::grins::]}
+{1588}{}{Scared? ::grins::}
 {1589}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {1590}{}{АAaaaaaaah!!}
-{1591}{}{О-о-о-о-о!}
+{1591}{}{Oooooooh!}
 {1592}{}{Happy feet!!}
-{1593}{}{Мне страшно, черт возьми!}
+{1593}{}{I'm scared, dammit!}
 {1594}{}{Run!}
-{1595}{}{Я больше сюда не ходок!}
-{1596}{}{Быстрее, быстрее!}
-{1597}{}{Я сейчас друзей своих позову.}
-{1598}{}{Все, все, сдаюсь!}
-{1599}{}{Не догонишь меня!!!}
+{1595}{}{I won't come here anymore!}
+{1596}{}{Hurry up!}
+{1597}{}{I'll go get my friends.}
+{1598}{}{Okay, okay, I surrender!}
+{1599}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -909,50 +909,50 @@
 #
 # Target Hit In HEAD
 #
-{1600}{}{А ведь больно.}
-{1601}{}{Черт возьми, я боюсь.}
-{1602}{}{Что делать, а?}
-{1603}{}{[втягивает голову]}
-{1604}{}{Что же за напасть?}
-{1605}{}{Больно-то ка-а-ак...}
-{1606}{}{Ах, синяк!}
+{1600}{}{That is quite hurtful.}
+{1601}{}{Goddamit, I'm scared.}
+{1602}{}{What do I do?}
+{1603}{}{[pulls head into shoulders]}
+{1604}{}{Why is this happening?}
+{1605}{}{Such a pain...}
+{1606}{}{Oh, a shiner!}
 {1607}{}{I have a concussion!}
-{1608}{}{В лоб!}
-{1609}{}{::хнычет::}
+{1608}{}{Right in the forehead!}
+{1609}{}{::whimpers::}
 #
 # Target Hit In ARM
 #
-{1610}{}{Ай, рука!}
+{1610}{}{My arm!}
 {1611}{}{[holds arm]}
-{1612}{}{Я труп.}
-{1613}{}{Это конец.}
-{1614}{}{Что же делать!}
-{1615}{}{Помогите!}
-{1616}{}{Не чувствую руки!}
-{1617}{}{Нету, нету локтя!}
-{1618}{}{Где моя рука?}
-{1619}{}{Не чувствую пальцев!}
+{1612}{}{I'm dead.}
+{1613}{}{This is the end.}
+{1614}{}{What to do?}
+{1615}{}{Help!}
+{1616}{}{I can't feel my arm!}
+{1617}{}{My elbow! Where is it?}
+{1618}{}{Where's my hand?}
+{1619}{}{I can't feel my fingers!}
 #
 # Target Hit In TORSO
 #
-{1620}{}{В солнечное сплетение!}
-{1621}{}{Господи, в селезенку!}
-{1622}{}{Сломалось ребро!}
-{1623}{}{Кровь!}
-{1624}{}{До крови!}
-{1625}{}{До мяса!}
-{1626}{}{Я слышал хруст?}
-{1627}{}{Болит...}
-{1628}{}{Не переношу боль!}
+{1620}{}{Right in the solar plexus!}
+{1621}{}{My God, my spleen!}
+{1622}{}{That's my rib!}
+{1623}{}{Blood!}
+{1624}{}{It's spurting blood!}
+{1625}{}{Is that a bone?}
+{1626}{}{Did I hear crackle?}
+{1627}{}{Hurts...}
+{1628}{}{I can't take it!}
 {1629}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{1630}{}{Я инвалид?}
-{1631}{}{Как же теперь ходить?}
-{1632}{}{Ползать теперь?}
-{1633}{}{Отдайте мне мою ногу!}
-{1634}{}{Ах ты ж прямо по трубчатой кости вмазал, ну надо...}
+{1630}{}{Am I a cripple now?}
+{1631}{}{How do I walk?}
+{1632}{}{Should I crawl?}
+{1633}{}{Give me back my leg!}
+{1634}{}{I think that was my tubular bone, you know.}
 {1635}{}{I need bandages!!}
 {1636}{}{Doc!}
 {1637}{}{I can't stand still!}
@@ -963,79 +963,79 @@
 #
 {1640}{}{So dark...}
 {1641}{}{What was that flash?}
-{1642}{}{Что теперь делать?}
-{1643}{}{Что теперь будет?}
-{1644}{}{Не вижу ни зги!}
-{1645}{}{Я ослеп!}
-{1646}{}{Я не могу видеть!}
-{1647}{}{Глаза...}
-{1648}{}{У меня всего два глаза!}
-{1649}{}{Не вижу ни черта...}
+{1642}{}{What do I do now?}
+{1643}{}{What's next?}
+{1644}{}{I can't see a thing!}
+{1645}{}{I'm blind!}
+{1646}{}{I can't see!}
+{1647}{}{My eyes...}
+{1648}{}{I have only two eyes, you know!}
+{1649}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {1650}{}{АAaaaaaaah!}
 {1651}{}{[holds groin]}
-{1652}{}{Не могу!!}
-{1653}{}{Туда же нельзя бить!}
-{1654}{}{Чудовищная боль...}
-{1655}{}{Как же так, так больно!!}
-{1656}{}{У меня нет промежности!!!}
-{1657}{}{Ну ты даешь...}
-{1658}{}{Боже, как больно...}
+{1652}{}{I can't!!}
+{1653}{}{You can't hit in there!}
+{1654}{}{The pain is enormous...}
+{1655}{}{How is this so painful?}
+{1656}{}{I don't have a groin anymore!!}
+{1657}{}{Just... Why?}
+{1658}{}{Oh Gods, the pain...}
 {1659}{}{::groans::}
 #
 # MISSING
 #
-{1660}{}{Фух, пронесло.}
-{1661}{}{Дааа, невезет тебе.}
-{1662}{}{Как это так?}
-{1663}{}{Ахаха!}
-{1664}{}{Что такое невезет и как с ним бороться?}
-{1665}{}{Мимо?}
-{1666}{}{Мимо...}
-{1667}{}{Почти попал!}
-{1668}{}{Мне везет!}
-{1669}{}{У тебя руки кривые.}
+{1660}{}{Phew! Lucky.}
+{1661}{}{Tough luck.}
+{1662}{}{How did you even...}
+{1663}{}{Haha!}
+{1664}{}{What is "tough luck" and what to do with it.}
+{1665}{}{Missed?}
+{1666}{}{Missed...}
+{1667}{}{Almost got me!}
+{1668}{}{I'm lucky today!}
+{1669}{}{Your hands are crooked.}
 #
 # ATTACKING
 #
-{1670}{}{Мочи сволочей!}
-{1671}{}{Бей гопников!}
-{1672}{}{Ну что, боишься?}
-{1673}{}{Ох, вмажу тебе...}
-{1674}{}{Прощайся с жизнью!}
-{1675}{}{Пасть порву!}
+{1670}{}{Kill the bastards!}
+{1671}{}{Let's murder these assholes!}
+{1672}{}{Are you afraid now?}
+{1673}{}{I'll punch you...}
+{1674}{}{Say goodbye!}
+{1675}{}{I'm gonna rip you up!}
 {1676}{}{I'll kill you!}
-{1677}{}{В гневе я страшен!}
-{1678}{}{Урою!}
-{1679}{}{Зарою в асфальт!}
+{1677}{}{You wouldn't like me when I angry.}
+{1678}{}{I'll kill you!}
+{1679}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {1680}{}{Now you're getting it...}
 {1681}{}{Just you wait!}
-{1682}{}{С удовольствием вмажу тебе.}
-{1683}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{1682}{}{Punching you will make me SO happy.}
+{1683}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {1684}{}{Tremble, you animal!}
 {1685}{}{A couple more steps...}
 {1686}{}{I'll get you...}
 {1687}{}{I'm gonna tear you up when I get to you!}
-{1688}{}{Scared? ::grins::]}
+{1688}{}{Scared? ::grins::}
 {1689}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {1690}{}{АAaaaaaaah!!}
-{1691}{}{О-о-о-о-о!}
+{1691}{}{Oooooooh!}
 {1692}{}{Happy feet!!}
-{1693}{}{Мне страшно, черт возьми!}
+{1693}{}{I'm scared, dammit!}
 {1694}{}{Run!}
-{1695}{}{Я больше сюда не ходок!}
-{1696}{}{Быстрее, быстрее!}
-{1697}{}{Я сейчас друзей своих позову.}
-{1698}{}{Все, все, сдаюсь!}
-{1699}{}{Не догонишь меня!!!}
+{1695}{}{I won't come here anymore!}
+{1696}{}{Hurry up!}
+{1697}{}{I'll go get my friends.}
+{1698}{}{Okay, okay, I surrender!}
+{1699}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1044,50 +1044,50 @@
 #
 # Target Hit In HEAD
 #
-{1700}{}{Долбаный карась! В голову!}
-{1701}{}{Ыть!}
+{1700}{}{Friggin' hell! My head!}
+{1701}{}{Whoppah!}
 {1702}{}{Might have a bump.}
 {1703}{}{It hurts!}
-{1704}{}{Терпимо.}
-{1705}{}{Не выношу боли.}
-{1706}{}{Хрустнул лоб?}
-{1707}{}{Что же делать, Aaaaaaaah!}
-{1708}{}{Чуть в сторону ? И в висок!}
-{1709}{}{Хоть не в глаз.}
+{1704}{}{I can deal with it.}
+{1705}{}{I hate pain.}
+{1706}{}{Did it crack?}
+{1707}{}{What should I do? Gyaaaaaaah!}
+{1708}{}{A little to the side, and you'll hit a temple.}
+{1709}{}{At least it's not an eye.}
 #
 # Target Hit In ARM
 #
-{1710}{}{Мой локоть!}
-{1711}{}{Капец моей кисти.}
-{1712}{}{Не чувствую ничего!}
-{1713}{}{Мне оторвало палец, аа-а-а-а!}
-{1714}{}{Не чувствую плечо!}
-{1715}{}{Хоть не в горло.}
-{1716}{}{Удачно укрылся рукой.}
-{1717}{}{Ничего, есть еще одна рука.}
-{1718}{}{Я однорук теперь?}
-{1719}{}{Оторву тебе твои руки за это!!}
+{1710}{}{My elbow!}
+{1711}{}{My wrist is done.}
+{1712}{}{I don't feel anything.}
+{1713}{}{You blew my finger off! AAAAAAAAH!}
+{1714}{}{I can't feel my shoulder!}
+{1715}{}{At least it's not my throat.}
+{1716}{}{Lucky save. Covered by the hand.}
+{1717}{}{It's okay, I have another one.}
+{1718}{}{Am I single-handed now?}
+{1719}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{1720}{}{В солнечное сплетение!}
-{1721}{}{Господи, в селезенку!}
-{1722}{}{Сломалось ребро!}
-{1723}{}{Кровь!}
-{1724}{}{До крови!}
-{1725}{}{До мяса!}
-{1726}{}{Я слышал хруст?}
-{1727}{}{Болит...}
-{1728}{}{Не переношу боль!}
+{1720}{}{Right in the solar plexus!}
+{1721}{}{My God, my spleen!}
+{1722}{}{That's my rib!}
+{1723}{}{Blood!}
+{1724}{}{It's spurting blood!}
+{1725}{}{Is that a bone?}
+{1726}{}{Did I hear crackle?}
+{1727}{}{Hurts...}
+{1728}{}{I can't take it!}
 {1729}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{1730}{}{Я инвалид?}
-{1731}{}{Как же теперь ходить?}
-{1732}{}{Ползать теперь?}
-{1733}{}{Отдайте мне мою ногу!}
-{1734}{}{Ах ты ж прямо по трубчатой кости вмазал, ну надо...}
+{1730}{}{Am I a cripple now?}
+{1731}{}{How do I walk?}
+{1732}{}{Should I crawl?}
+{1733}{}{Give me back my leg!}
+{1734}{}{I think that was my tubular bone, you know.}
 {1735}{}{I need bandages!!}
 {1736}{}{Doc!}
 {1737}{}{I can't stand still!}
@@ -1098,79 +1098,79 @@
 #
 {1740}{}{So dark...}
 {1741}{}{What was that flash?}
-{1742}{}{Что теперь делать?}
-{1743}{}{Что теперь будет?}
-{1744}{}{Не вижу ни зги!}
-{1745}{}{Я ослеп!}
-{1746}{}{Я не могу видеть!}
-{1747}{}{Глаза...}
-{1748}{}{У меня всего два глаза!}
-{1749}{}{Не вижу ни черта...}
+{1742}{}{What do I do now?}
+{1743}{}{What's next?}
+{1744}{}{I can't see a thing!}
+{1745}{}{I'm blind!}
+{1746}{}{I can't see!}
+{1747}{}{My eyes...}
+{1748}{}{I have only two eyes, you know!}
+{1749}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
-{1750}{}{Это просто праздник какой-то!}
-{1751}{}{А ч-ч-черт, I can't breathe!}
-{1752}{}{Промежность у меня железная!}
-{1753}{}{Тебе не сломить мое причинное место!}
-{1754}{}{Ниже пояса метишь?}
-{1755}{}{Ай, больно-то как!}
-{1756}{}{Я сейчас буду говорить очень тонким голосом}
-{1757}{}{Фаринелли, я тебе не завидую, а-Aaaaaaaah!}
-{1758}{}{Испорчено все хозяйство!}
-{1759}{}{Очищаешь генофонд, скотина?}
+{1750}{}{A holidayyyiiiiieeee!!!!}
+{1751}{}{Ohhh goddamn it, I can't breathe!}
+{1752}{}{I have a metal groin!!}
+{1753}{}{You won't break my crotch!}
+{1754}{}{Aiming below the belt?}
+{1755}{}{Oh shit, that hurts so much!}
+{1756}{}{I'm going to speak in a really high voice.}
+{1757}{}{Farinelly, I feel you, aaaaaahhh!}
+{1758}{}{My crotch is ruined!}
+{1759}{}{Trying to clear out my genome, you dick?}
 #
 # MISSING
 #
-{1760}{}{Фух, пронесло.}
-{1761}{}{Дааа, невезет тебе.}
-{1762}{}{Как это так?}
-{1763}{}{Ахаха!}
-{1764}{}{Что такое невезет и как с ним бороться?}
-{1765}{}{Мимо?}
+{1760}{}{Phew! Lucky.}
+{1761}{}{Tough luck.}
+{1762}{}{How did you even...}
+{1763}{}{Haha!}
+{1764}{}{What is "tough luck" and what to do with it.}
+{1765}{}{Missed?}
 {1766}{}{Missed!}
-{1767}{}{Почти попал!}
-{1768}{}{Мне везет!}
-{1769}{}{У тебя руки кривые.}
+{1767}{}{Almost got me!}
+{1768}{}{I'm lucky today!}
+{1769}{}{Your hands are crooked.}
 #
 # ATTACKING
 #
-{1770}{}{Мочи сволочей!}
-{1771}{}{Бей гопников!}
-{1772}{}{Ну что, боишься?}
-{1773}{}{Ох, вмажу тебе...}
-{1774}{}{Прощайся с жизнью!}
-{1775}{}{Пасть порву!}
+{1770}{}{Kill the bastards!}
+{1771}{}{Let's murder these assholes!}
+{1772}{}{Are you afraid now?}
+{1773}{}{I'll punch you...}
+{1774}{}{Say goodbye!}
+{1775}{}{I'm gonna rip you up!}
 {1776}{}{I'll kill you!}
-{1777}{}{В гневе я страшен!}
-{1778}{}{Урою!}
-{1779}{}{Зарою в асфальт!}
+{1777}{}{You wouldn't like me when I angry.}
+{1778}{}{I'll kill you!}
+{1779}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {1780}{}{Now you're getting it...}
 {1781}{}{Just you wait!}
-{1782}{}{С удовольствием вмажу тебе.}
-{1783}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{1782}{}{Punching you will make me SO happy.}
+{1783}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {1784}{}{Tremble, you animal!}
 {1785}{}{A couple more steps...}
 {1786}{}{I'll get you...}
 {1787}{}{I'm gonna tear you up when I get to you!}
-{1788}{}{Scared? ::grins::]}
+{1788}{}{Scared? ::grins::}
 {1789}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {1790}{}{АAaaaaaaah!!}
-{1791}{}{О-о-о-о-о!}
+{1791}{}{Oooooooh!}
 {1792}{}{Happy feet!!}
-{1793}{}{Мне страшно, черт возьми!}
+{1793}{}{I'm scared, dammit!}
 {1794}{}{Run!}
-{1795}{}{Я больше сюда не ходок!}
-{1796}{}{Быстрее, быстрее!}
-{1797}{}{Я сейчас друзей своих позову.}
-{1798}{}{Все, все, сдаюсь!}
-{1799}{}{Не догонишь меня!!!}
+{1795}{}{I won't come here anymore!}
+{1796}{}{Hurry up!}
+{1797}{}{I'll go get my friends.}
+{1798}{}{Okay, okay, I surrender!}
+{1799}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1179,50 +1179,50 @@
 #
 # Target Hit In HEAD
 #
-{1800}{}{Долбаный карась! В голову!}
-{1801}{}{Ыть!}
+{1800}{}{Friggin' hell! My head!}
+{1801}{}{Whoppah!}
 {1802}{}{Might have a bump.}
 {1803}{}{It hurts!}
-{1804}{}{Терпимо.}
-{1805}{}{Не выношу боли.}
-{1806}{}{Хрустнул лоб?}
-{1807}{}{Что же делать, Aaaaaaaah!}
-{1808}{}{Чуть в сторону ? и в висок!}
-{1809}{}{Хоть не в глаз.}
+{1804}{}{I can deal with it.}
+{1805}{}{I hate pain.}
+{1806}{}{Did it crack?}
+{1807}{}{What should I do? Gyaaaaaaah!}
+{1808}{}{A little to the side, and you'll hit a temple.}
+{1809}{}{At least it's not an eye.}
 #
 # Target Hit In ARM
 #
-{1810}{}{Мой локоть!}
-{1811}{}{Капец моей кисти.}
-{1812}{}{Не чувствую ничего!}
-{1813}{}{Мне оторвало палец, аа-а-а-а!}
-{1814}{}{Не чувствую плечо!}
-{1815}{}{Хоть не в горло.}
-{1816}{}{Удачно укрылся рукой.}
-{1817}{}{Ничего, есть еще одна рука.}
-{1818}{}{Я однорук теперь?}
-{1819}{}{Оторву тебе твои руки за это!!}
+{1810}{}{My elbow!}
+{1811}{}{My wrist is done.}
+{1812}{}{I don't feel anything.}
+{1813}{}{You blew my finger off! AAAAAAAAH!}
+{1814}{}{I can't feel my shoulder!}
+{1815}{}{At least it's not my throat.}
+{1816}{}{Lucky save. Covered by the hand.}
+{1817}{}{It's okay, I have another one.}
+{1818}{}{Am I single-handed now?}
+{1819}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{1820}{}{Хрен ты пробьешь солнечное сплетение!}
-{1821}{}{Господи, в селезенку!}
-{1822}{}{Разве ребро может хрустеть?}
-{1823}{}{Кровь!}
-{1824}{}{До крови!}
-{1825}{}{Я делаю зарядку по утрам, поэтому не пробьешь ты меня!}
-{1826}{}{Я слышал хруст?}
-{1827}{}{Болит...}
-{1828}{}{Не переношу боль!}
+{1820}{}{You won't get through my solar plexus!}
+{1821}{}{My God, my spleen!}
+{1822}{}{Does the rib can crack?}
+{1823}{}{Blood!}
+{1824}{}{It's spurting blood!}
+{1825}{}{I'm working out! You won't punch through!}
+{1826}{}{Did I hear crackle?}
+{1827}{}{Hurts...}
+{1828}{}{I can't take it!}
 {1829}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{1830}{}{Я инвалид?}
-{1831}{}{Как же теперь ходить?}
-{1832}{}{Ползать теперь?}
-{1833}{}{Отдайте мне мою ногу!}
-{1834}{}{Как теперь приседать по утрам?}
+{1830}{}{Am I a cripple now?}
+{1831}{}{How do I walk?}
+{1832}{}{Should I crawl?}
+{1833}{}{Give me back my leg!}
+{1834}{}{How do I squat now?}
 {1835}{}{I need bandages!!}
 {1836}{}{Doc!}
 {1837}{}{I can't stand still!}
@@ -1233,79 +1233,79 @@
 #
 {1840}{}{So dark...}
 {1841}{}{What was that flash?}
-{1842}{}{Что теперь делать?}
-{1843}{}{Что теперь будет?}
-{1844}{}{Не вижу ни зги!}
-{1845}{}{Я ослеп!}
-{1846}{}{Я не могу видеть!}
-{1847}{}{Глаза...}
-{1848}{}{У меня всего два глаза!}
-{1849}{}{Не вижу ни черта...}
+{1842}{}{What do I do now?}
+{1843}{}{What's next?}
+{1844}{}{I can't see a thing!}
+{1845}{}{I'm blind!}
+{1846}{}{I can't see!}
+{1847}{}{My eyes...}
+{1848}{}{I have only two eyes, you know!}
+{1849}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
-{1850}{}{Это просто праздник какой-то!}
-{1851}{}{А ч-ч-черт, I can't breathe!}
-{1852}{}{Это тебе не гольф с шариками!!}
-{1853}{}{Тебе не сломить мое причинное место!}
-{1854}{}{Ниже пояса метишь?}
-{1855}{}{Ай, больно-то как!}
-{1856}{}{Я сейчас буду говорить очень тонким голосом}
-{1857}{}{Фаринелли, я тебе не завидую, а-Aaaaaaaah!}
-{1858}{}{Испорчено все хозяйство!}
-{1859}{}{Очищаешь генофонд, скотина?}
+{1850}{}{A holidayyyiiiiieeee!!!!}
+{1851}{}{Ohhh goddamn it, I can't breathe!}
+{1852}{}{That's not a golf balls!}
+{1853}{}{You won't break my crotch!}
+{1854}{}{Aiming below the belt?}
+{1855}{}{Oh shit, that hurts so much!}
+{1856}{}{I'm going to speak in a really high voice.}
+{1857}{}{Farinelly, I feel you, aaaaaahhh!}
+{1858}{}{My crotch is ruined!}
+{1859}{}{Trying to clear out my genome, you dick?}
 #
 # MISSING
 #
-{1860}{}{Фух, пронесло.}
-{1861}{}{Дааа, невезет тебе.}
-{1862}{}{Как это так?}
-{1863}{}{Ахаха!}
-{1864}{}{Что такое невезет и как с ним бороться?}
-{1865}{}{Мимо?}
-{1866}{}{Мимо...}
-{1867}{}{Почти попал!}
-{1868}{}{Мне везет!}
-{1869}{}{У тебя руки кривые.}
+{1860}{}{Phew! Lucky.}
+{1861}{}{Tough luck.}
+{1862}{}{How did you even...}
+{1863}{}{Haha!}
+{1864}{}{What is "tough luck" and what to do with it.}
+{1865}{}{Missed?}
+{1866}{}{Missed...}
+{1867}{}{Almost got me!}
+{1868}{}{I'm lucky today!}
+{1869}{}{Your hands are crooked.}
 #
 # ATTACKING
 #
-{1870}{}{Мочи сволочей!}
-{1871}{}{Бей гопников!}
-{1872}{}{Ну что, боишься?}
-{1873}{}{Ох, вмажу тебе...}
-{1874}{}{Прощайся с жизнью!}
-{1875}{}{Почувствуй гантелю на вкус!}
+{1870}{}{Kill the bastards!}
+{1871}{}{Let's murder these assholes!}
+{1872}{}{Are you afraid now?}
+{1873}{}{I'll punch you...}
+{1874}{}{Say goodbye!}
+{1875}{}{Taste the dumbbell!}
 {1876}{}{I'll kill you!}
-{1877}{}{Удар штангой освежит тебя, поверь!}
-{1878}{}{Урою!}
-{1879}{}{Зарою в асфальт!}
+{1877}{}{A dumbbell blow is quite refreshing!}
+{1878}{}{I'll kill you!}
+{1879}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {1880}{}{Now you're getting it...}
 {1881}{}{Just you wait!}
-{1882}{}{С удовольствием вмажу тебе.}
-{1883}{}{Растяну удовольствие от втаптывания тебя в грязь...}
-{1884}{}{Дрожи, жирная скотина!}
+{1882}{}{Punching you will make me SO happy.}
+{1883}{}{I'm going to enjoy every second of drowning you in the dirt.}
+{1884}{}{Tremble, you fat fuck!}
 {1885}{}{A couple more steps...}
 {1886}{}{I'll get you...}
-{1887}{}{Ты позорная, дохлая свинья!!}
-{1888}{}{Scared? ::grins::]}
+{1887}{}{You are worthless, dead pig!}
+{1888}{}{Scared? ::grins::}
 {1889}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {1890}{}{АAaaaaaaah!!}
-{1891}{}{О-о-о-о-о!}
+{1891}{}{Oooooooh!}
 {1892}{}{Happy feet!!}
-{1893}{}{Мне страшно, черт возьми!}
+{1893}{}{I'm scared, dammit!}
 {1894}{}{Run!}
-{1895}{}{Я больше сюда не ходок!}
-{1896}{}{Быстрее, быстрее!}
-{1897}{}{Я сейчас друзей своих позову.}
-{1898}{}{Все, все, сдаюсь!}
-{1899}{}{Не догонишь меня!!!}
+{1895}{}{I won't come here anymore!}
+{1896}{}{Hurry up!}
+{1897}{}{I'll go get my friends.}
+{1898}{}{Okay, okay, I surrender!}
+{1899}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1314,53 +1314,53 @@
 #
 # Target Hit In HEAD
 #
-{1900}{}{Долбаный карась! В голову!}
-{1901}{}{Ыть!}
-{1902}{}{Я НАСЛАЖДАЮСЬ БОЛЬЮ!!}
-{1903}{}{МНЕ НЕ БОЛЬНО!!!!}
-{1904}{}{НЕ ЧУВСТВУЮ БОЛИ!!!}
-{1905}{}{БОЛЬ? МОЯ РАДОСТЬ!!}
-{1906}{}{Хрустнул лоб?}
-{1907}{}{Ты бесишь меня-а-а-а-а!!}
-{1908}{}{Мне нечего бояться-Aaaaaaaah!}
-{1909}{}{Плевать мне на укусы комара.}
+{1900}{}{Friggin' hell! My head!}
+{1901}{}{Whoppah!}
+{1902}{}{I LOVE THE PAIN!!}
+{1903}{}{I DON'T FEEL IT!!!!}
+{1904}{}{I DON'T FEEL PAIN!!!!}
+{1905}{}{PAIN? THE JOY!!!}
+{1906}{}{Did it crack?}
+{1907}{}{You are pissing me off!}
+{1908}{}{I'm not afraid!! AAAAAAAAH!!!!}
+{1909}{}{I don't care about this petty sting.}
 #
 # Target Hit In ARM
 #
-{1910}{}{Мой локоть!}
-{1911}{}{Капец моей кисти.}
-{1912}{}{Не чувствую ничего!}
-{1913}{}{КРОВЬ!!! ААААААРРРРРГХ!!}
-{1914}{}{Не чувствую плечо!}
-{1915}{}{БОЛЬШЕ, БОЛЬШЕ БОЛИ!!!}
-{1916}{}{Удачно укрылся рукой.}
-{1917}{}{КРРРРРРОВЬ??!?!?!!}
-{1918}{}{СМЕРТЬ ТРУСАМ!!!}
-{1919}{}{Оторву тебе твои руки за это!!}
+{1910}{}{My elbow!}
+{1911}{}{My wrist is done.}
+{1912}{}{I don't feel anything.}
+{1913}{}{BLOOD!! AAAAAARGH!!!!!!}
+{1914}{}{I can't feel my shoulder!}
+{1915}{}{MORE PAIN!!!! MORE!!!!}
+{1916}{}{Lucky save. Covered by the hand.}
+{1917}{}{BLOOD?!!?!?!?}
+{1918}{}{DIE, COWARDS!!!}
+{1919}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{1920}{}{Хрен ты пробьешь солнечное сплетение!}
-{1921}{}{::РЫЧИТ::}
-{1922}{}{::ВОЕТ::}
-{1923}{}{Кровь!}
-{1924}{}{До крови!}
-{1925}{}{Боль придает мне сил!}
-{1926}{}{Я слышал хруст?}
-{1927}{}{Обожаю боль!}
-{1928}{}{ХАХАХАХАХАХА!!!!}
-{1929}{}{[стойко выдерживает удар]}
+{1920}{}{You won't get through my solar plexus!}
+{1921}{}{::roars::}
+{1922}{}{::howls::}
+{1923}{}{Blood!}
+{1924}{}{It's spurting blood!}
+{1925}{}{Pain gives me strength!}
+{1926}{}{Did I hear crackle?}
+{1927}{}{I love pain!}
+{1928}{}{HAHAHAHAHAHAHA!!!!}
+{1929}{}{[endures the blow]}
 #
 # Target Hit In LEG
 #
-{1930}{}{Я инвалид?}
-{1931}{}{Я доползу и загрызу тебя собственными руками!}
-{1932}{}{Ползать теперь?}
-{1933}{}{ХАХАХАХАХА!!!}
-{1934}{}{АРРРРРР!!!}
-{1935}{}{Я засуну протез тебе в горло!}
-{1936}{}{Срезай мушку!}
-{1937}{}{Ты подохнешь, мясо!}
+{1930}{}{Am I a cripple now?}
+{1931}{}{I'm going to crawl to you and tear your throat with my teeth!}
+{1932}{}{Should I crawl?}
+{1933}{}{HAHAHAHAHA!!!}
+{1934}{}{ARRRRGH!!!}
+{1935}{}{I'm going to choke you with my crutch!}
+{1936}{}{I'm gonna shove it into your ass!}
+{1937}{}{You're deadmeat!}
 {1938}{}{I'm falling!}
 {1939}{}{That's it, I'm done.}
 #
@@ -1368,79 +1368,79 @@
 #
 {1940}{}{So dark...}
 {1941}{}{What was that flash?}
-{1942}{}{Что теперь делать?}
-{1943}{}{Что теперь будет?}
-{1944}{}{Я вижу крррровь!!}
-{1945}{}{Больше крови, хахахахаха!!}
-{1946}{}{Я не могу видеть!}
-{1947}{}{Глаза...}
-{1948}{}{У меня и так два глаза!!!}
-{1949}{}{Не вижу ни черта...}
+{1942}{}{What do I do now?}
+{1943}{}{What's next?}
+{1944}{}{I see bloooood!!}
+{1945}{}{More blood, HAHAHAHAHA!!}
+{1946}{}{I can't see!}
+{1947}{}{My eyes...}
+{1948}{}{I already have two eyes!!!}
+{1949}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
-{1950}{}{Это просто праздник какой-то!}
-{1951}{}{А ч-ч-черт, I can't breathe!}
-{1952}{}{Это тебе не гольф с шариками!!}
-{1953}{}{Тебе не сломить мое причинное место!}
-{1954}{}{Ниже пояса метишь?}
-{1955}{}{::яростно пыхтит::}
+{1950}{}{A holidayyyiiiiieeee!!!!}
+{1951}{}{Ohhh goddamn it, I can't breathe!}
+{1952}{}{That's not a golf balls!}
+{1953}{}{You won't break my crotch!}
+{1954}{}{Aiming below the belt?}
+{1955}{}{::furiously puffs::}
 {1956}{}{::mumbles::}
-{1957}{}{[не замечает боли]}
-{1958}{}{Испорчено все хозяйство!}
-{1959}{}{Очищаешь генофонд, скотина?}
+{1957}{}{[hides pain]}
+{1958}{}{My crotch is ruined!}
+{1959}{}{Trying to clear out my genome, you dick?}
 #
 # MISSING
 #
-{1960}{}{Фух, пронесло.}
-{1961}{}{Дааа, невезет тебе.}
-{1962}{}{Как это так?}
-{1963}{}{Ахаха!}
-{1964}{}{Что такое невезет и как с ним бороться?}
-{1965}{}{А ведь мимо!}
-{1966}{}{Мимо...}
-{1967}{}{Почти попал!}
-{1968}{}{Ты раззадориваешь меня?}
-{1969}{}{Ну да, ну да...}
+{1960}{}{Phew! Lucky.}
+{1961}{}{Tough luck.}
+{1962}{}{How did you even...}
+{1963}{}{Haha!}
+{1964}{}{What is "tough luck" and what to do with it.}
+{1965}{}{Oh yeah! Missed!}
+{1966}{}{Missed...}
+{1967}{}{Almost got me!}
+{1968}{}{Are you trying to piss me off?}
+{1969}{}{Yeah, yeah...}
 #
 # ATTACKING
 #
-{1970}{}{Мочи сволочей!}
-{1971}{}{Ах ты волчья сыть, травяной мешок!!}
-{1972}{}{Каналья!}
-{1973}{}{Ох, вмажу тебе...}
-{1974}{}{Прощайся с жизнью!}
-{1975}{}{Почувствуй вкус крови!}
+{1970}{}{Kill the bastards!}
+{1971}{}{Meatbag!}
+{1972}{}{You rascal!}
+{1973}{}{I'll punch you...}
+{1974}{}{Say goodbye!}
+{1975}{}{Taste the blood!}
 {1976}{}{I'll kill you!}
-{1977}{}{Порву на тряпки! И сожру!}
-{1978}{}{Урою!}
-{1979}{}{Зарою в асфальт!}
+{1977}{}{I'll rip you to shreds! And eat them!!}
+{1978}{}{I'll kill you!}
+{1979}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {1980}{}{Now you're getting it...}
 {1981}{}{Just you wait!}
-{1982}{}{С удовольствием вмажу тебе.}
-{1983}{}{Растяну удовольствие от втаптывания тебя в грязь...}
-{1984}{}{Дрожи, жирная скотина!}
+{1982}{}{Punching you will make me SO happy.}
+{1983}{}{I'm going to enjoy every second of drowning you in the dirt.}
+{1984}{}{Tremble, you fat fuck!}
 {1985}{}{A couple more steps...}
 {1986}{}{I'll get you...}
-{1987}{}{Ты позорная, дохлая свинья!!}
-{1988}{}{Scared? ::grins::]}
+{1987}{}{You are worthless, dead pig!}
+{1988}{}{Scared? ::grins::}
 {1989}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {1990}{}{АAaaaaaaah!!}
-{1991}{}{О-о-о-о-о!}
+{1991}{}{Oooooooh!}
 {1992}{}{Happy feet!!}
-{1993}{}{Бегите, я их задержу!!}
+{1993}{}{Run! I'll show the way!!!}
 {1994}{}{Run!}
-{1995}{}{Я больше сюда не ходок!}
-{1996}{}{Быстрее, быстрее!}
-{1997}{}{Мне не хватило немного ярости.}
-{1998}{}{Неееет, я не сдамся ни живым, ни мертвым!}
-{1999}{}{Не догонишь меня!!!}
+{1995}{}{I won't come here anymore!}
+{1996}{}{Hurry up!}
+{1997}{}{I didn't have enough rage.}
+{1998}{}{Nope, I'm not surrendering!}
+{1999}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1449,133 +1449,133 @@
 #
 # Target Hit In HEAD
 #
-{2000}{}{А ведь больно.}
-{2001}{}{Черт возьми, я боюсь.}
-{2002}{}{Что делать, а?}
-{2003}{}{[втягивает голову]}
-{2004}{}{Что же за напасть?}
-{2005}{}{Больно-то ка-а-ак...}
-{2006}{}{Ах, синяк!}
+{2000}{}{That is quite hurtful.}
+{2001}{}{Goddamit, I'm scared.}
+{2002}{}{What do I do?}
+{2003}{}{[pulls head into shoulders]}
+{2004}{}{Why is this happening?}
+{2005}{}{Such a pain...}
+{2006}{}{Oh, a shiner!}
 {2007}{}{I have a concussion!}
-{2008}{}{В лоб!}
-{2009}{}{::хнычет::}
+{2008}{}{Right in the forehead!}
+{2009}{}{::whimpers::}
 #
 # Target Hit In ARM
 #
-{2010}{}{Ай, рука!}
+{2010}{}{My arm!}
 {2011}{}{[holds arm]}
-{2012}{}{Я труп.}
-{2013}{}{Это конец.}
-{2014}{}{Что же делать!}
-{2015}{}{Помогите!}
-{2016}{}{Не чувствую руки!}
-{2017}{}{Нету, нету локтя!}
-{2018}{}{Где моя рука?}
-{2019}{}{Не чувствую пальцев!}
+{2012}{}{I'm dead.}
+{2013}{}{This is the end.}
+{2014}{}{What to do?}
+{2015}{}{Help!}
+{2016}{}{I can't feel my arm!}
+{2017}{}{My elbow! Where is it?}
+{2018}{}{Where's my hand?}
+{2019}{}{I can't feel my fingers!}
 #
 # Target Hit In TORSO
 #
-{2020}{}{В солнечное сплетение!}
-{2021}{}{Господи, в селезенку!}
-{2022}{}{Сломалось ребро!}
-{2023}{}{Кровь!}
-{2024}{}{До крови!}
-{2025}{}{До мяса!}
-{2026}{}{Я слышала хруст?}
-{2027}{}{Болит...}
-{2028}{}{Не переношу боль!}
+{2020}{}{Right in the solar plexus!}
+{2021}{}{My God, my spleen!}
+{2022}{}{That's my rib!}
+{2023}{}{Blood!}
+{2024}{}{It's spurting blood!}
+{2025}{}{Is that a bone?}
+{2026}{}{Did I hear crack?}
+{2027}{}{Hurts...}
+{2028}{}{I can't take it!}
 {2029}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{2030}{}{Я теперь инвалидка?}
-{2031}{}{Как же теперь ходить?}
-{2032}{}{Ползать теперь?}
-{2033}{}{Отдайте мне мою ногу!}
-{2034}{}{Ах ты ж прямо по трубчатой кости вмазал, ну надо...}
+{2030}{}{Am I a cripple now?}
+{2031}{}{How do I walk?}
+{2032}{}{Should I crawl?}
+{2033}{}{Give me back my leg!}
+{2034}{}{I think that was my tubular bone, you know.}
 {2035}{}{I need bandages!!}
 {2036}{}{Doc!}
 {2037}{}{I can't stand still!}
 {2038}{}{I'm falling!}
-{2039}{}{Все, я кончилась.}
+{2039}{}{That's it, I'm done.}
 #
 # Target Hit In EYES
 #
 {2040}{}{So dark...}
 {2041}{}{What was that flash?}
-{2042}{}{Что теперь делать?}
-{2043}{}{Что теперь будет?}
-{2044}{}{Не вижу ни зги!}
-{2045}{}{Я ослепла!}
-{2046}{}{Я не могу видеть!}
-{2047}{}{Глаза...}
-{2048}{}{У меня всего два глаза!}
-{2049}{}{Не вижу ни черта...}
+{2042}{}{What do I do now?}
+{2043}{}{What's next?}
+{2044}{}{I can't see a thing!}
+{2045}{}{I'm blind!}
+{2046}{}{I can't see!}
+{2047}{}{My eyes...}
+{2048}{}{I have only two eyes, you know!}
+{2049}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {2050}{}{АAaaaaaaah!}
 {2051}{}{[holds groin]}
-{2052}{}{Не могу!!}
-{2053}{}{Туда же нельзя бить!}
-{2054}{}{Чудовищная боль...}
-{2055}{}{Как же так, так больно!!}
-{2056}{}{У меня нет промежности!!!}
-{2057}{}{Ну ты даешь...}
-{2058}{}{Боже, как больно...}
+{2052}{}{I can't!!}
+{2053}{}{You can't hit in there!}
+{2054}{}{The pain is enormous...}
+{2055}{}{How is this so painful?}
+{2056}{}{I don't have a groin anymore!!}
+{2057}{}{Just... Why?}
+{2058}{}{Oh Gods, the pain...}
 {2059}{}{::groans::}
 #
 # MISSING
 #
-{2060}{}{Черт, чуть не попал!}
-{2061}{}{Дааа, не везет тебе...}
-{2062}{}{Как это так?}
-{2063}{}{Ты и в унитаз не попадаешь?}
-{2064}{}{Это даже не смешно уже...}
-{2065}{}{Мимо?}
-{2066}{}{Мимо...}
-{2067}{}{Не попал... От женщины это обидно слышать?}
-{2068}{}{А мне везет!}
-{2069}{}{Криворучка!}
+{2060}{}{Damn! You almost got me!}
+{2061}{}{Tough luck...}
+{2062}{}{How did you even...}
+{2063}{}{You would miss even in the toilet...}
+{2064}{}{This is really sad.}
+{2065}{}{Missed?}
+{2066}{}{Missed...}
+{2067}{}{Missed. Are you sad??}
+{2068}{}{I feel really lucky today!}
+{2069}{}{Crooked-handed!}
 #
 # ATTACKING
 #
-{2070}{}{Мочи сволочей!}
-{2071}{}{Бей гопников!}
-{2072}{}{Ну что, боишься?}
-{2073}{}{Ох, вмажу тебе...}
-{2074}{}{Прощайся с жизнью!}
-{2075}{}{Пасть порву!}
+{2070}{}{Kill the bastards!}
+{2071}{}{Let's murder these assholes!}
+{2072}{}{Are you afraid now?}
+{2073}{}{I'll punch you...}
+{2074}{}{Say goodbye!}
+{2075}{}{I'm gonna rip you up!}
 {2076}{}{I'll kill you!}
-{2077}{}{В гневе я страшна!}
-{2078}{}{Урою!}
-{2079}{}{Зарою в асфальт!}
+{2077}{}{You wouldn't like me when I'm angry!}
+{2078}{}{I'll kill you!}
+{2079}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {2080}{}{Now you're getting it...}
 {2081}{}{Just you wait!}
-{2082}{}{С удовольствием вмажу тебе.}
-{2083}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{2082}{}{Punching you will make me SO happy.}
+{2083}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {2084}{}{Tremble, you animal!}
 {2085}{}{A couple more steps...}
 {2086}{}{I'll get you...}
 {2087}{}{I'm gonna tear you up when I get to you!}
-{2088}{}{Scared? ::grins::]}
+{2088}{}{Scared? ::grins::}
 {2089}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {2090}{}{АAaaaaaaah!!}
-{2091}{}{О-о-о-о-о!}
+{2091}{}{Oooooooh!}
 {2092}{}{Happy feet!!}
-{2093}{}{Мне страшно, черт возьми!}
+{2093}{}{I'm scared, dammit!}
 {2094}{}{Run!}
-{2095}{}{Я больше сюда не буду ходить!}
-{2096}{}{Быстрее, быстрее!}
-{2097}{}{Я сейчас друзей своих позову.}
-{2098}{}{Все, все, сдаюсь!}
-{2099}{}{Не догонишь меня!!!}
+{2095}{}{I won't come here anymore!}
+{2096}{}{Hurry up!}
+{2097}{}{I'll go get my friends.}
+{2098}{}{Okay, okay, I surrender!}
+{2099}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1584,133 +1584,133 @@
 #
 # Target Hit In HEAD
 #
-{2100}{}{Долбаный карась! В голову!}
-{2101}{}{Ыть!}
+{2100}{}{Friggin' hell! My head!}
+{2101}{}{Whoppah!}
 {2102}{}{Might have a bump.}
 {2103}{}{It hurts!}
-{2104}{}{Терпимо.}
-{2105}{}{Не выношу боли.}
-{2106}{}{Хрустнул лоб?}
-{2107}{}{Что же делать, Aaaaaaaah!}
-{2108}{}{Чуть в сторону ? и в висок!}
-{2109}{}{Хоть не в глаз.}
+{2104}{}{I can deal with it.}
+{2105}{}{I hate pain.}
+{2106}{}{Did it crack?}
+{2107}{}{What should I do? Gyaaaaaaah!}
+{2108}{}{A little to the side, and you'll hit a temple.}
+{2109}{}{At least it's not an eye.}
 #
 # Target Hit In ARM
 #
-{2110}{}{Мой локоть!}
-{2111}{}{Капец моей кисти.}
-{2112}{}{Не чувствую ничего!}
-{2113}{}{Мне оторвало палец, аа-а-а-а!}
-{2114}{}{Не чувствую плечо!}
-{2115}{}{Хоть не в горло.}
-{2116}{}{Удачно укрылась рукой.}
-{2117}{}{Ничего, есть еще одна рука.}
-{2118}{}{Я однорука теперь?}
-{2119}{}{Оторву тебе твои руки за это!!}
+{2110}{}{My elbow!}
+{2111}{}{My wrist is done.}
+{2112}{}{I don't feel anything.}
+{2113}{}{You blew my finger off! AAAAAAAAH!}
+{2114}{}{I can't feel my shoulder!}
+{2115}{}{At least it's not my throat.}
+{2116}{}{Lucky save. Covered by the hand.}
+{2117}{}{It's okay, I have another one.}
+{2118}{}{Am I single-handed now?}
+{2119}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{2120}{}{В солнечное сплетение!}
-{2121}{}{Господи, в селезенку!}
-{2122}{}{Сломалось ребро!}
-{2123}{}{Кровь!}
-{2124}{}{До крови!}
-{2125}{}{До мяса!}
-{2126}{}{Я слышала хруст?}
-{2127}{}{Болит...}
-{2128}{}{Не переношу боль!}
+{2120}{}{Right in the solar plexus!}
+{2121}{}{My God, my spleen!}
+{2122}{}{That's my rib!}
+{2123}{}{Blood!}
+{2124}{}{It's spurting blood!}
+{2125}{}{Is that a bone?}
+{2126}{}{Did I hear crack?}
+{2127}{}{Hurts...}
+{2128}{}{I can't take it!}
 {2129}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{2130}{}{Я инвалидка теперь?}
-{2131}{}{Как же теперь ходить?}
-{2132}{}{Ползать теперь?}
-{2133}{}{Отдайте мне мою ногу!}
-{2134}{}{Нога теперь опухнет!}
+{2130}{}{Am I a cripple now?}
+{2131}{}{How do I walk?}
+{2132}{}{Should I crawl?}
+{2133}{}{Give me back my leg!}
+{2134}{}{My leg swells up!}
 {2135}{}{I need bandages!!}
 {2136}{}{Doc!}
 {2137}{}{I can't stand still!}
 {2138}{}{I'm falling!}
-{2139}{}{Все, я кончилась.}
+{2139}{}{That's it, I'm done.}
 #
 # Target Hit In EYES
 #
 {2140}{}{So dark...}
 {2141}{}{What was that flash?}
-{2142}{}{Что теперь делать?}
-{2143}{}{Что теперь будет?}
-{2144}{}{Не вижу ни зги!}
-{2145}{}{Я ослепла!}
-{2146}{}{Я не могу видеть!}
-{2147}{}{Глаза...}
-{2148}{}{У меня всего два глаза!}
-{2149}{}{Не вижу ни черта...}
+{2142}{}{What do I do now?}
+{2143}{}{What's next?}
+{2144}{}{I can't see a thing!}
+{2145}{}{I'm blind!}
+{2146}{}{I can't see!}
+{2147}{}{My eyes...}
+{2148}{}{I have only two eyes, you know!}
+{2149}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {2150}{}{АAaaaaaaah!}
 {2151}{}{[holds groin]}
-{2152}{}{Не могу!!}
-{2153}{}{Туда же нельзя бить!}
-{2154}{}{Чудовищная боль...}
-{2155}{}{Как же так, так больно!!}
-{2156}{}{У меня нет промежности!!!}
-{2157}{}{Ну ты даешь...}
-{2158}{}{Боже, как больно...}
+{2152}{}{I can't!!}
+{2153}{}{You can't hit in there!}
+{2154}{}{The pain is enormous...}
+{2155}{}{How is this so painful?}
+{2156}{}{I don't have a groin anymore!!}
+{2157}{}{Just... Why?}
+{2158}{}{Oh Gods, the pain...}
 {2159}{}{::groans::}
 #
 # MISSING
 #
-{2160}{}{Черт, чуть не попал!}
-{2161}{}{Дааа, не везет тебе...}
-{2162}{}{Как это так?}
-{2163}{}{Ты и в унитаз не попадаешь?}
-{2164}{}{Это даже не смешно уже...}
-{2165}{}{Мимо?}
-{2166}{}{Мимо...}
-{2167}{}{Не попал... От женщины это обидно слышать?}
-{2168}{}{А мне везет!}
-{2169}{}{Криворучка!}
+{2160}{}{Damn! You almost got me!}
+{2161}{}{Tough luck...}
+{2162}{}{How did you even...}
+{2163}{}{You would miss even in the toilet...}
+{2164}{}{This is really sad.}
+{2165}{}{Missed?}
+{2166}{}{Missed...}
+{2167}{}{Missed. Are you sad??}
+{2168}{}{I feel really lucky today!}
+{2169}{}{Crooked-handed!}
 #
 # ATTACKING
 #
-{2170}{}{Мочи сволочей!}
-{2171}{}{Бей гопников!}
-{2172}{}{Боишься ли ты эмансипированных женщин? ::гнусно ухмыляется::}
-{2173}{}{Ох, вмажу тебе...}
-{2174}{}{Прощайся с жизнью!}
-{2175}{}{Пасть порву!}
+{2170}{}{Kill the bastards!}
+{2171}{}{Let's murder these assholes!}
+{2172}{}{Are you afraid of strong women? ::grins::}
+{2173}{}{I'll punch you...}
+{2174}{}{Say goodbye!}
+{2175}{}{I'm gonna rip you up!}
 {2176}{}{TEH GIRL POWA!!!!}
-{2177}{}{В гневе я страшна!}
-{2178}{}{Урою!}
-{2179}{}{Зарою в асфальт!}
+{2177}{}{You wouldn't like me when I'm angry!}
+{2178}{}{I'll kill you!}
+{2179}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {2180}{}{Now you're getting it...}
 {2181}{}{Just you wait!}
-{2182}{}{Сейчас ты познакомишься с одинокой женщиной в гневе...}
-{2183}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{2182}{}{Behold the single angry woman...}
+{2183}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {2184}{}{Tremble, you animal!}
 {2185}{}{A couple more steps...}
 {2186}{}{I'll get you...}
 {2187}{}{I'm gonna tear you up when I get to you!}
-{2188}{}{Scared? ::grins::]}
+{2188}{}{Scared? ::grins::}
 {2189}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {2190}{}{АAaaaaaaah!!}
-{2191}{}{О-о-о-о-о!}
+{2191}{}{Oooooooh!}
 {2192}{}{Happy feet!!}
-{2193}{}{Мне страшно, черт возьми!}
+{2193}{}{I'm scared, dammit!}
 {2194}{}{Run!}
-{2195}{}{Я больше сюда не буду ходить!}
-{2196}{}{Сюда больше ? ни ногой.}
-{2197}{}{Как можно так издеваться над женщинами?!!}
-{2198}{}{Я же женщина!!}
-{2199}{}{Не догонишь меня!!!}
+{2195}{}{I won't come here anymore!}
+{2196}{}{Come here again? Not anymore.}
+{2197}{}{How can you treat a woman like that?!!}
+{2198}{}{I'm a woman, you know!!}
+{2199}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1719,133 +1719,133 @@
 #
 # Target Hit In HEAD
 #
-{2200}{}{Долбаный карась! В голову!}
-{2201}{}{Ыть!}
+{2200}{}{Friggin' hell! My head!}
+{2201}{}{Whoppah!}
 {2202}{}{Might have a bump.}
 {2203}{}{It hurts!}
-{2204}{}{Терпимо.}
-{2205}{}{Не выношу боли.}
-{2206}{}{Хрустнул лоб?}
-{2207}{}{Что же делать, Aaaaaaaah!}
-{2208}{}{Чуть в сторону ? и в висок!}
-{2209}{}{Хоть не в глаз.}
+{2204}{}{I can deal with it.}
+{2205}{}{I hate pain.}
+{2206}{}{Did it crack?}
+{2207}{}{What should I do? Gyaaaaaaah!}
+{2208}{}{A little to the side, and you'll hit a temple.}
+{2209}{}{At least it's not an eye.}
 #
 # Target Hit In ARM
 #
-{2210}{}{Мой локоть!}
-{2211}{}{Капец моей кисти.}
-{2212}{}{Не чувствую ничего!}
-{2213}{}{Мне оторвало палец, аа-а-а-а!}
-{2214}{}{Не чувствую плечо!}
-{2215}{}{Хоть не в горло.}
-{2216}{}{Удачно укрылся рукой.}
-{2217}{}{Ничего, есть еще одна рука.}
-{2218}{}{Я однорука теперь?}
-{2219}{}{Оторву тебе твои руки за это!!}
+{2210}{}{My elbow!}
+{2211}{}{My wrist is done.}
+{2212}{}{I don't feel anything.}
+{2213}{}{You blew my finger off! AAAAAAAAH!}
+{2214}{}{I can't feel my shoulder!}
+{2215}{}{At least it's not my throat.}
+{2216}{}{Lucky save. Covered by the hand.}
+{2217}{}{It's okay, I have another one.}
+{2218}{}{Am I single-handed now?}
+{2219}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{2220}{}{Хрен ты пробьешь солнечное сплетение!}
-{2221}{}{Господи, в селезенку!}
-{2222}{}{Разве ребро может хрустеть?}
-{2223}{}{Я достаточно крепка!!}
-{2224}{}{До крови!}
-{2225}{}{До мяса!}
-{2226}{}{Я слышал хруст?}
-{2227}{}{Болит...}
-{2228}{}{Не переношу боль!}
+{2220}{}{You won't get through my solar plexus!}
+{2221}{}{My God, my spleen!}
+{2222}{}{Does the rib can crack?}
+{2223}{}{I'm sturdy enough!!}
+{2224}{}{It's spurting blood!}
+{2225}{}{Is that a bone?}
+{2226}{}{Did I hear crackle?}
+{2227}{}{Hurts...}
+{2228}{}{I can't take it!}
 {2229}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{2230}{}{Я инвалид?}
-{2231}{}{Как же теперь ходить?}
-{2232}{}{Ползать теперь?}
-{2233}{}{Отдайте мне мою ногу!}
-{2234}{}{Как теперь приседать по утрам?}
+{2230}{}{Am I a cripple now?}
+{2231}{}{How do I walk?}
+{2232}{}{Should I crawl?}
+{2233}{}{Give me back my leg!}
+{2234}{}{How do I squat now?}
 {2235}{}{I need bandages!!}
 {2236}{}{Doc!}
 {2237}{}{I can't stand still!}
 {2238}{}{I'm falling!}
-{2239}{}{Все, я кончилась.}
+{2239}{}{That's it, I'm done.}
 #
 # Target Hit In EYES
 #
 {2240}{}{So dark...}
 {2241}{}{What was that flash?}
-{2242}{}{Что теперь делать?}
-{2243}{}{Что теперь будет?}
-{2244}{}{Не вижу ни зги!}
-{2245}{}{Я ослепла!}
-{2246}{}{Я не могу видеть!}
-{2247}{}{Глаза...}
-{2248}{}{У меня всего два глаза!}
-{2249}{}{Не вижу ни черта...}
+{2242}{}{What do I do now?}
+{2243}{}{What's next?}
+{2244}{}{I can't see a thing!}
+{2245}{}{I'm blind!}
+{2246}{}{I can't see!}
+{2247}{}{My eyes...}
+{2248}{}{I have only two eyes, you know!}
+{2249}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {2250}{}{АAaaaaaaah!}
 {2251}{}{[holds groin]}
-{2252}{}{Не могу!!}
-{2253}{}{Туда же нельзя бить!}
-{2254}{}{Чудовищная боль...}
-{2255}{}{Как же так, так больно!!}
-{2256}{}{У меня нет промежности!!!}
-{2257}{}{Ну ты даешь...}
-{2258}{}{Боже, как больно...}
+{2252}{}{I can't!!}
+{2253}{}{You can't hit in there!}
+{2254}{}{The pain is enormous...}
+{2255}{}{How is this so painful?}
+{2256}{}{I don't have a groin anymore!!}
+{2257}{}{Just... Why?}
+{2258}{}{Oh Gods, the pain...}
 {2259}{}{::groans::}
 #
 # MISSING
 #
-{2260}{}{Черт, чуть не попал!}
-{2261}{}{Дааа, не везет тебе...}
-{2262}{}{Как это так?}
-{2263}{}{Ты и в унитаз не попадаешь?}
-{2264}{}{Это даже не смешно уже...}
-{2265}{}{Мимо?}
-{2266}{}{Мимо...}
-{2267}{}{Не попал... От женщины это обидно слышать?}
-{2268}{}{А мне везет!}
-{2269}{}{Криворучка!}
+{2260}{}{Damn! You almost got me!}
+{2261}{}{Tough luck...}
+{2262}{}{How did you even...}
+{2263}{}{You would miss even in the toilet...}
+{2264}{}{This is really sad.}
+{2265}{}{Missed?}
+{2266}{}{Missed...}
+{2267}{}{Missed. Are you sad??}
+{2268}{}{I feel really lucky today!}
+{2269}{}{Crooked-handed!}
 #
 # ATTACKING
 #
-{2270}{}{Мочи сволочей!}
-{2271}{}{Бей гопников!}
-{2272}{}{Ну что, боишься?}
-{2273}{}{Ох, вмажу тебе...}
-{2274}{}{Прощайся с жизнью!}
-{2275}{}{Ненавижу тебя!}
+{2270}{}{Kill the bastards!}
+{2271}{}{Let's murder these assholes!}
+{2272}{}{Are you afraid now?}
+{2273}{}{I'll punch you...}
+{2274}{}{Say goodbye!}
+{2275}{}{I hate you!}
 {2276}{}{I'll kill you!}
-{2277}{}{Почувствуй силу настоящей женщины!}
-{2278}{}{Урою!}
-{2279}{}{Зарою в асфальт!}
+{2277}{}{Feel the power of a real woman!}
+{2278}{}{I'll kill you!}
+{2279}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {2280}{}{Now you're getting it...}
 {2281}{}{Just you wait!}
-{2282}{}{С удовольствием вмажу тебе.}
-{2283}{}{Растяну удовольствие от втаптывания тебя в грязь...}
-{2284}{}{Дрожи, жирная скотина!}
+{2282}{}{Punching you will make me SO happy.}
+{2283}{}{I'm going to enjoy every second of drowning you in the dirt.}
+{2284}{}{Tremble, you fat fuck!}
 {2285}{}{A couple more steps...}
 {2286}{}{I'll get you...}
-{2287}{}{Сейчас я напомню тебе, каково оно ? бесить меня.}
-{2288}{}{Scared? ::grins::]}
+{2287}{}{I'll show you how to piss me off.}
+{2288}{}{Scared? ::grins::}
 {2289}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {2290}{}{АAaaaaaaah!!}
-{2291}{}{О-о-о-о-о!}
+{2291}{}{Oooooooh!}
 {2292}{}{Happy feet!!}
-{2293}{}{Мне страшно, черт возьми!}
+{2293}{}{I'm scared, dammit!}
 {2294}{}{Run!}
-{2295}{}{Я больше сюда не ходок!}
-{2296}{}{Быстрее, быстрее!}
-{2297}{}{Я сейчас друзей своих позову.}
-{2298}{}{Все, все, сдаюсь!}
-{2299}{}{Нас не догонят!!!}
+{2295}{}{I won't come here anymore!}
+{2296}{}{Hurry up!}
+{2297}{}{I'll go get my friends.}
+{2298}{}{Okay, okay, I surrender!}
+{2299}{}{Not gonna get us!!!}
 #
 #
 ####################################################
@@ -1854,133 +1854,133 @@
 #
 # Target Hit In HEAD
 #
-{2300}{}{Долбаный карась! В голову!}
-{2301}{}{Ыть!}
-{2302}{}{Я НАСЛАЖДАЮСЬ БОЛЬЮ!!}
-{2303}{}{МНЕ НЕ БОЛЬНО!!!!}
-{2304}{}{НЕ ЧУВСТВУЮ БОЛИ!!!}
-{2305}{}{БОЛЬ ? МОЯ РАДОСТЬ!!}
-{2306}{}{Хрустнул лоб?}
-{2307}{}{Ты бесишь меня-а-а-а-а!!}
-{2308}{}{Мне нечего бояться-Aaaaaaaah!}
-{2309}{}{Плевать мне на укусы комара.}
+{2300}{}{Friggin' hell! My head!}
+{2301}{}{Whoppah!}
+{2302}{}{I LOVE THE PAIN!!}
+{2303}{}{I DON'T FEEL IT!!!!}
+{2304}{}{I DON'T FEEL PAIN!!!!}
+{2305}{}{PAIN? THE JOY!!}
+{2306}{}{Did it crack?}
+{2307}{}{You are pissing me off!}
+{2308}{}{I'm not afraid!! AAAAAAAAH!!!!}
+{2309}{}{I don't care about this petty sting.}
 #
 # Target Hit In ARM
 #
-{2310}{}{Мой локоть!}
-{2311}{}{Капец моей кисти.}
-{2312}{}{Не чувствую ничего!}
-{2313}{}{КРОВЬ!!! ААААААРРРРРГХ!!}
-{2314}{}{Не чувствую плечо!}
-{2315}{}{БОЛЬШЕ, БОЛЬШЕ БОЛИ!!!}
-{2316}{}{Удачно укрылась рукой.}
-{2317}{}{КРРРРРРОВЬ??!?!?!!}
-{2318}{}{СМЕРТЬ ТРУСАМ!!!}
-{2319}{}{Оторву тебе твои руки за это!!}
+{2310}{}{My elbow!}
+{2311}{}{My wrist is done.}
+{2312}{}{I don't feel anything.}
+{2313}{}{BLOOD!! AAAAAARGH!!!!!!}
+{2314}{}{I can't feel my shoulder!}
+{2315}{}{MORE PAIN!!!! MORE!!!!}
+{2316}{}{Lucky save. Covered by the hand.}
+{2317}{}{BLOOD?!!?!?!?}
+{2318}{}{DIE, COWARDS!!!}
+{2319}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{2320}{}{Хрен ты пробьешь солнечное сплетение!}
-{2321}{}{::РЫЧИТ::}
-{2322}{}{::ВОЕТ::}
-{2323}{}{Кровь!}
-{2324}{}{Нравится истязать женщин? Хахахаха!}
-{2325}{}{Боль придает мне сил!}
-{2326}{}{Я слышал хруст?}
-{2327}{}{Обожаю боль!}
-{2328}{}{ХАХАХАХАХАХА!!!!}
-{2329}{}{[стойко выдерживает удар]}
+{2320}{}{You won't get through my solar plexus!}
+{2321}{}{::roars::}
+{2322}{}{::howls::}
+{2323}{}{Blood!}
+{2324}{}{Do you like torturing women? Hahaha!}
+{2325}{}{Pain gives me strength!}
+{2326}{}{Did I hear crackle?}
+{2327}{}{I love pain!}
+{2328}{}{HAHAHAHAHAHAHA!!!!}
+{2329}{}{[endures the blow]}
 #
 # Target Hit In LEG
 #
-{2330}{}{Я инвалидка?}
-{2331}{}{Я доползу и загрызу тебя собственными руками!}
-{2332}{}{Ползать теперь?}
-{2333}{}{ХАХАХАХАХА!!!}
-{2334}{}{АРРРРРР!!!}
-{2335}{}{Я засуну протез тебе в горло!}
-{2336}{}{Срезай мушку!}
-{2337}{}{Ты подохнешь, мясо!}
+{2330}{}{Am I a cripple?}
+{2331}{}{I'm going to crawl to you and tear your throat with my teeth!}
+{2332}{}{Should I crawl?}
+{2333}{}{HAHAHAHAHA!!!}
+{2334}{}{ARRRRGH!!!}
+{2335}{}{I'm going to choke you with my crutch!}
+{2336}{}{I'm gonna shove it into your ass!}
+{2337}{}{You're deadmeat!}
 {2338}{}{I'm falling!}
-{2339}{}{Все, я кончилась.}
+{2339}{}{That's it, I'm done.}
 #
 # Target Hit In EYES
 #
 {2340}{}{So dark...}
 {2341}{}{What was that flash?}
-{2342}{}{Что теперь делать?}
-{2343}{}{Что теперь будет?}
-{2344}{}{Я вижу крррровь!!}
-{2345}{}{Больше крови, хахахахаха!!}
-{2346}{}{Я не могу видеть!}
-{2347}{}{Глаза...}
-{2348}{}{У меня и так два глаза!!!}
-{2349}{}{Не вижу ни черта...}
+{2342}{}{What do I do now?}
+{2343}{}{What's next?}
+{2344}{}{I see bloooood!!}
+{2345}{}{More blood, HAHAHAHAHA!!}
+{2346}{}{I can't see!}
+{2347}{}{My eyes...}
+{2348}{}{I already have two eyes!!!}
+{2349}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {2350}{}{ААААААА!}
-{2351}{}{А ч-ч-черт, I can't breathe!}
-{2352}{}{Своооооолоооооооочь!!!}
-{2353}{}{Тебе не сломить мое причинное место!}
-{2354}{}{Зачем ниже пояса метишь?}
-{2355}{}{::яростно пыхтит::}
+{2351}{}{Ohhh goddamn it, I can't breathe!}
+{2352}{}{Aaaaaaaaaashooooole!!!}
+{2353}{}{You won't break my crotch!}
+{2354}{}{Why are you aiming below the belt?}
+{2355}{}{::furiously puffs::}
 {2356}{}{::mumbles::}
-{2357}{}{[не замечает боли]}
-{2358}{}{А мне плевать!!!}
-{2359}{}{Хахахаха, давай еще боль!!}
+{2357}{}{[hides pain]}
+{2358}{}{I don't care!!!}
+{2359}{}{Hahahaha, more pain!!}
 #
 # MISSING
 #
-{2360}{}{Черт, чуть не попал!}
-{2361}{}{Дааа, не везет тебе...}
-{2362}{}{Как это так?}
-{2363}{}{Ты и в унитаз не попадаешь?}
-{2364}{}{Это даже не смешно уже...}
-{2365}{}{Ты опять не попал?}
-{2366}{}{Мимо...}
-{2367}{}{Не попал... От женщины это обидно слышать?}
-{2368}{}{А мне везет!}
-{2369}{}{Криворучка!}
+{2360}{}{Damn! You almost got me!}
+{2361}{}{Tough luck...}
+{2362}{}{How did you even...}
+{2363}{}{You would miss even in the toilet...}
+{2364}{}{This is really sad.}
+{2365}{}{Did you miss again?}
+{2366}{}{Missed...}
+{2367}{}{Missed. Are you sad??}
+{2368}{}{I feel really lucky today!}
+{2369}{}{Crooked-handed!}
 #
 # ATTACKING
 #
-{2370}{}{Мочи сволочей!}
-{2371}{}{Ах ты волчья сыть, травяной мешок!!}
-{2372}{}{Каналья!}
-{2373}{}{Ох, вмажу тебе...}
-{2374}{}{Прощайся с жизнью!}
-{2375}{}{Почувствуй мое оружие на вкус!}
+{2370}{}{Kill the bastards!}
+{2371}{}{Meatbag!}
+{2372}{}{You rascal!}
+{2373}{}{I'll punch you...}
+{2374}{}{Say goodbye!}
+{2375}{}{Feel the taste of my weapon!}
 {2376}{}{I'll kill you!}
-{2377}{}{Удар штангой освежит тебя, поверь!}
-{2378}{}{Урою!}
-{2379}{}{Зарою в асфальт!}
+{2377}{}{A dumbbell blow is quite refreshing!}
+{2378}{}{I'll kill you!}
+{2379}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {2380}{}{Now you're getting it...}
-{2381}{}{Ну, ты барбос!}
-{2382}{}{С удовольствием вмажу тебе.}
-{2383}{}{Растяну удовольствие от втаптывания тебя в грязь...}
-{2384}{}{Дрожи, жирная скотина!}
+{2381}{}{You are sooo fucked!}
+{2382}{}{Punching you will make me SO happy.}
+{2383}{}{I'm going to enjoy every second of drowning you in the dirt.}
+{2384}{}{Tremble, you fat fuck!}
 {2385}{}{A couple more steps...}
 {2386}{}{I'll get you...}
-{2387}{}{Ты позорная, дохлая свинья!!}
-{2388}{}{Scared? ::grins::]}
+{2387}{}{You are worthless, dead pig!}
+{2388}{}{Scared? ::grins::}
 {2389}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {2390}{}{АAaaaaaaah!!}
-{2391}{}{О-о-о-о-о!}
+{2391}{}{Oooooooh!}
 {2392}{}{Happy feet!!}
-{2393}{}{Бег полезен!!!}
+{2393}{}{Running is good for your health!!!}
 {2394}{}{Run!}
-{2395}{}{Я больше сюда не ходок!}
-{2396}{}{Быстрее, быстрее!}
-{2397}{}{Мне не хватило немного ярости.}
-{2398}{}{Неееет, я не сдамся ни живым, ни мертвым!}
-{2399}{}{Не догонишь меня!!!}
+{2395}{}{I won't come here anymore!}
+{2396}{}{Hurry up!}
+{2397}{}{I didn't have enough rage.}
+{2398}{}{Nope, I'm not surrendering!}
+{2399}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -1989,66 +1989,66 @@
 #
 # Target Hit In HEAD
 #
-{2400}{}{[шевелит головой]}
+{2400}{}{[moves head]}
 {2401}{}{::mumbles::}
-{2402}{}{::громко мычит::}
-{2403}{}{::беспомощно мычит }
-{2404}{}{::молчит::}
+{2402}{}{::loudly moos::}
+{2403}{}{::helplessly moos::}
+{2404}{}{::stares::}
 {2405}{}{[озадаченно смотрит]}
 {2406}{}{[смотрит в землю]}
 {2407}{}{[грустно смотрит в землю]}
 {2408}{}{[подпрыгивает]}
-{2409}{}{::тихо мычит::}
+{2409}{}{::quietly moos::}
 #
 # Target Hit In ARM
 #
-{2410}{}{[отмахивается копытом]}
-{2411}{}{[шевелит копытом]}
+{2410}{}{[brushes hoof]}
+{2411}{}{[moves hoof]}
 {2412}{}{[роет копытом землю]}
 {2413}{}{[машет хвостом]}
 {2414}{}{[сильно машет хвостом]}
 {2415}{}{::mumbles::}
-{2416}{}{::громко мычит::}
-{2417}{}{::жалобно мычит::}
-{2418}{}{::неуверенно мычит::}
-{2419}{}{::молчит::}
+{2416}{}{::loudly moos::}
+{2417}{}{::pitifully moos::}
+{2418}{}{::uncertainly moos::}
+{2419}{}{::stares::}
 #
 # Target Hit In TORSO
 #
 {2420}{}{[бьет хвостом по бокам]}
 {2421}{}{[вздрагивает]}
 {2422}{}{::mumbles::}
-{2423}{}{::громко мычит::}
-{2424}{}{::неуверенно мычит::}
+{2423}{}{::loudly moos::}
+{2424}{}{::uncertainly moos::}
 {2425}{}{[обреченно смотрит на небо]}
 {2426}{}{[мрачно смотрит в ответ]}
-{2427}{}{::молчит::}
-{2428}{}{::злобно мычит::}
+{2427}{}{::stares::}
+{2428}{}{::angrily moos::}
 {2429}{}{[высовывает язык]}
 #
 # Target Hit In LEG
 #
-{2430}{}{[отмахивается копытом]}
-{2431}{}{[шевелит копытом]}
+{2430}{}{[brushes hoof]}
+{2431}{}{[moves hoof]}
 {2432}{}{[роет копытом землю]}
 {2433}{}{[машет хвостом]}
 {2434}{}{[сильно машет хвостом]}
 {2435}{}{::mumbles::}
-{2436}{}{::громко мычит::}
-{2437}{}{::жалобно мычит::}
-{2438}{}{::неуверенно мычит::}
-{2439}{}{::молчит::}
+{2436}{}{::loudly moos::}
+{2437}{}{::pitifully moos::}
+{2438}{}{::uncertainly moos::}
+{2439}{}{::stares::}
 #
 # Target Hit In EYES
 #
-{2440}{}{[squeeze eyes shut]}
+{2440}{}{[squeezes eyes shut]}
 {2441}{}{::mumbles::}
-{2442}{}{::зло мычит::}
-{2443}{}{::осуждающе мычит::}
+{2442}{}{::madly moos::}
+{2443}{}{::осуждающе moos::}
 {2444}{}{[наклоняет голову]}
 {2445}{}{[зло смотрит в ответ]}
 {2446}{}{[закрывает глаз]}
-{2447}{}{::молчит::}
+{2447}{}{::stares::}
 {2448}{}{[машет хвостом]}
 {2449}{}{[зло машет хвостом]}
 #
@@ -2056,13 +2056,13 @@
 #
 {2450}{}{[удивленно смотрит]}
 {2451}{}{[зло смотрит]}
-{2452}{}{::яростно мычит::}
-{2453}{}{::бешено мычит::}
+{2452}{}{::furiously moos::}
+{2453}{}{::frantically moos::}
 {2454}{}{[дергается всем телом]}
 {2455}{}{[машет хвостом]}
 {2456}{}{[роет землю всеми копытами]}
 {2457}{}{[приседает]}
-{2458}{}{::молчит::}
+{2458}{}{::stares::}
 {2459}{}{::wheezes::}
 #
 # MISSING
@@ -2070,25 +2070,25 @@
 {2460}{}{[бьет хвостом по бокам]}
 {2461}{}{[держит равновесие]}
 {2462}{}{::mumbles::}
-{2463}{}{::громко мычит::}
-{2464}{}{::зло мычит::}
+{2463}{}{::loudly moos::}
+{2464}{}{::madly moos::}
 {2465}{}{[зло смотрит в глаза]}
 {2466}{}{[готовится снова напасть]}
-{2467}{}{::молчит::}
-{2468}{}{::злобно мычит::}
+{2467}{}{::stares::}
+{2468}{}{::angrily moos::}
 {2469}{}{[высовывает язык]}
 #
 # ATTACKING
 #
 {2470}{}{[нагибает голову]}
-{2471}{}{::яростно мычит::}
-{2472}{}{::яростно булькает::}
+{2471}{}{::furiously moos::}
+{2472}{}{::furiously gurgles::}
 {2473}{}{[бешено топчется]}
-{2474}{}{::бешено мычит::}
-{2475}{}{::молчит::}
+{2474}{}{::frantically moos::}
+{2475}{}{::stares::}
 {2476}{}{::puffs::}
-{2477}{}{::громко пыхтит::}
-{2478}{}{::яростно пыхтит::}
+{2477}{}{::loudly puffs::}
+{2478}{}{::furiously puffs::}
 {2479}{}{[налетает всей массой]}
 #
 # MOVE
@@ -2097,12 +2097,12 @@
 {2481}{}{[медленно moves]}
 {2482}{}{[скачет]}
 {2483}{}{::mumbles::}
-{2484}{}{::яростно мычит::}
-{2485}{}{::бешено мычит::}
-{2486}{}{::зло мычит::}
+{2484}{}{::furiously moos::}
+{2485}{}{::frantically moos::}
+{2486}{}{::madly moos::}
 {2487}{}{::puffs::}
-{2488}{}{::молчит::}
-{2489}{}{::яростно пыхтит::}
+{2488}{}{::stares::}
+{2489}{}{::furiously puffs::}
 #
 # RUNNING AWAY
 #
@@ -2110,12 +2110,12 @@
 {2491}{}{[скачет]}
 {2492}{}{[быстро скачет]}
 {2493}{}{::mumbles::}
-{2494}{}{::яростно мычит::}
-{2495}{}{::бешено мычит::}
-{2496}{}{::зло мычит::}
+{2494}{}{::furiously moos::}
+{2495}{}{::frantically moos::}
+{2496}{}{::madly moos::}
 {2497}{}{::puffs::}
-{2498}{}{::молчит::}
-{2499}{}{::яростно пыхтит::}
+{2498}{}{::stares::}
+{2499}{}{::furiously puffs::}
 #
 #
 ####################################################
@@ -2124,9 +2124,9 @@
 #
 # Target Hit In HEAD
 #
-{2500}{}{[дергает головой]}
-{2501}{}{[дергает головой]}
-{2502}{}{[дергает головой]}
+{2500}{}{[twitches head]}
+{2501}{}{[twitches head]}
+{2502}{}{[twitches head]}
 {2503}{}{::пускает слюни::}
 {2504}{}{::пускает слюни::}
 {2505}{}{::пускает слюни::}
@@ -2137,12 +2137,12 @@
 #
 # Target Hit In ARM
 #
-{2510}{}{[дергает рукой]}
-{2511}{}{[дергает рукой]}
-{2512}{}{[дергает рукой]}
-{2513}{}{::злобно рычит::}
-{2514}{}{::злобно рычит::}
-{2515}{}{::злобно рычит::}
+{2510}{}{[twitches hand]}
+{2511}{}{[twitches hand]}
+{2512}{}{[twitches hand]}
+{2513}{}{::angrily рычит::}
+{2514}{}{::angrily рычит::}
+{2515}{}{::angrily рычит::}
 {2516}{}{Рр-р-р!}
 {2517}{}{Рр-р-р!}
 {2518}{}{Рр-р-р!}
@@ -2163,12 +2163,12 @@
 #
 # Target Hit In LEG
 #
-{2530}{}{[дергает ногой]}
-{2531}{}{[дергает ногой]}
-{2532}{}{[дергает ногой]}
-{2533}{}{::злобно воет::}
-{2534}{}{::злобно воет::}
-{2535}{}{::злобно воет::}
+{2530}{}{[twitches leg]}
+{2531}{}{[twitches leg]}
+{2532}{}{[twitches leg]}
+{2533}{}{::angrily howls::}
+{2534}{}{::angrily howls::}
+{2535}{}{::angrily howls::}
 {2536}{}{Арр-у-у-а-у-у!}
 {2537}{}{Арр-у-у-а-у-у!}
 {2538}{}{Арр-у-у-а-у-у!}
@@ -2244,9 +2244,9 @@
 {2590}{}{[running away hastily]}
 {2591}{}{[running away hastily]}
 {2592}{}{[running away hastily]}
-{2593}{}{::жалобно скулит::}
-{2594}{}{::жалобно скулит::}
-{2595}{}{::жалобно скулит::}
+{2593}{}{::pitifully whines::}
+{2594}{}{::pitifully whines::}
+{2595}{}{::pitifully whines::}
 {2596}{}{Мм-м, мм-м...}
 {2597}{}{Мм-м, мм-м...}
 {2598}{}{Мм-м, мм-м...}
@@ -2312,7 +2312,7 @@
 #
 {2640}{}{Все плывет!}
 {2641}{}{Еще хуже видно...}
-{2642}{}{Ааа!!! Я ослеп!}
+{2642}{}{Ааа!!! I'm blind!}
 {2643}{}{Что же ты делаешь, выродок?!}
 {2644}{}{Я и вслепую задам тебе трепку!}
 {2645}{}{Doc!}
@@ -2401,7 +2401,7 @@
 {2706}{}{А?! Что?!}
 {2707}{}{Что за шум?}
 {2708}{}{Прекрати меня дырявить...}
-{2709}{}{Ммм, What was that?}
+{2709}{}{Huh. What was that?}
 #
 # Target Hit In ARM
 #
@@ -2470,7 +2470,7 @@
 #
 # MISSED
 #
-{2760}{}{Если ты в меня, то мимо...}
+{2760}{}{Если ты в меня, то Missed...}
 {2761}{}{Ммм?}
 {2762}{}{[оглядывается]}
 {2763}{}{[дернулся]}
@@ -2531,7 +2531,7 @@
 {2801}{}{Я уже умирал, однажды...}
 {2802}{}{Что за шум?}
 {2803}{}{Прекрати меня дырявить...}
-{2804}{}{Ммм, What was that?}
+{2804}{}{Huh. What was that?}
 {2805}{}{Снова голова болит.}
 {2806}{}{А?! Что?!}
 {2807}{}{Что ты делаешь?}
@@ -2605,7 +2605,7 @@
 #
 # MISSED
 #
-{2860}{}{Если ты в меня, то мимо...}
+{2860}{}{Если ты в меня, то Missed...}
 {2861}{}{Ммм?}
 {2862}{}{[оглядывается]}
 {2863}{}{[дернулся]}
@@ -2740,7 +2740,7 @@
 #
 # MISSED
 #
-{2960}{}{Если ты в меня, то мимо...}
+{2960}{}{Если ты в меня, то Missed...}
 {2961}{}{Ммм?}
 {2962}{}{[оглядывается]}
 {2963}{}{[дернулся]}
@@ -2824,7 +2824,7 @@
 # Target Hit In TORSO
 #
 {3020}{}{Вот так зарядил...}
-{3021}{}{Больно, но терпимо.}
+{3021}{}{Больно, но I can deal with it.}
 {3022}{}{Я крепче, чем кажется!}
 {3023}{}{Чуть ребро не сломал!}
 {3024}{}{Да ну тебя.}
@@ -3013,7 +3013,7 @@
 {3160}{}{Missed!}
 {3161}{}{Промах.}
 {3162}{}{Не попал.}
-{3163}{}{Фух, пронесло.}
+{3163}{}{Phew! Lucky.}
 {3164}{}{А ведь близко было.}
 {3165}{}{А так не плохо.}
 {3166}{}{Всегда бы так.}
@@ -3069,7 +3069,7 @@
 #
 {3200}{}{Моя башка...}
 {3201}{}{Прям как с бодуна...}
-{3202}{}{[трясет головой]}
+{3202}{}{[shakes head]}
 {3203}{}{Бля, больно же.}
 {3204}{}{Глядика, попал.}
 {3205}{}{Эй ты!!!}
@@ -3177,7 +3177,7 @@
 {3283}{}{[медленно идет]}
 {3284}{}{[быстро идет]}
 {3285}{}{Чего-то ты далеко...}
-{3286}{}{О, A couple more steps!}
+{3286}{}{Yeah, a couple more steps!}
 {3287}{}{Хватит бегатни!}
 {3288}{}{Иди сюда!}
 {3289}{}{Чего-то ты далеко...}
@@ -3294,14 +3294,14 @@
 # ATTACKING
 #
 {3370}{}{Эгегей, держись мразота!}
-{3371}{}{Сейчас прольется чья-то кровь!}
+{3371}{}{Сейчас прольется чья-то Blood!}
 {3372}{}{Все чувак - конец тебе!}
 {3373}{}{Теперь мой черед!}
 {3374}{}{Мозги вышибу!}
 {3375}{}{Молись!!!}
 {3376}{}{[скрипит зубами]}
 {3377}{}{[сверкает глазами]}
-{3378}{}{Сейчас ты увидишь свою кровь!}
+{3378}{}{Сейчас ты увидишь свою Blood!}
 {3379}{}{Держи подачу!}
 #
 # MOVE
@@ -3344,7 +3344,7 @@
 {3404}{}{Ты сдохнешь выродок!}
 {3405}{}{Твои кишки пойдут на корм собакам!}
 {3406}{}{[growls ferociously]}
-{3407}{}{Ахаха!}
+{3407}{}{Haha!}
 {3408}{}{Ах ты ж дерьмо!}
 {3409}{}{У меня гранитный лоб!}
 #
@@ -3554,7 +3554,7 @@
 {3561}{}{Чурка ты...}
 {3562}{}{Косорылая свинья!}
 {3563}{}{Баран, штоле?}
-{3564}{}{Опять мимо?}
+{3564}{}{Missed again?}
 {3565}{}{Да целься уже!}
 {3566}{}{Не трать мое время!}
 {3567}{}{Слушай! Застрелись уже!}
@@ -3614,44 +3614,44 @@
 {3604}{}{[shakes head]}
 {3605}{}{Звездочки...}
 {3606}{}{Прям искры из глаз...}
-{3607}{}{Не выношу боли.}
-{3608}{}{Ыть!}
-{3609}{}{Может договоримся?}
+{3607}{}{I hate pain.}
+{3608}{}{Whoppah!}
+{3609}{}{Maybe we could negotiate?}
 #
 # Target Hit In ARM
 #
 {3610}{}{[groans]}
-{3611}{}{Может договоримся?}
-{3612}{}{Капец моей кисти.}
-{3613}{}{Хоть не в горло.}
-{3614}{}{Ничего, есть еще одна рука.}
-{3615}{}{Оторву тебе твои руки за это!!}
-{3616}{}{Не чувствую плечо!}
-{3617}{}{Не чувствую ничего!}
-{3618}{}{Мне оторвало палец, аа-а-а-а!}
-{3619}{}{Я однорук теперь?}
+{3611}{}{Maybe we could negotiate?}
+{3612}{}{My wrist is done.}
+{3613}{}{At least it's not my throat.}
+{3614}{}{It's okay, I have another one.}
+{3615}{}{I'm gonna rip your arms for this!}
+{3616}{}{I can't feel my shoulder!}
+{3617}{}{I don't feel anything.}
+{3618}{}{You blew my finger off! AAAAAAAAH!}
+{3619}{}{Am I single-handed now?}
 #
 # Target Hit In TORSO
 #
-{3620}{}{Может договоримся?}
-{3621}{}{В солнечное сплетение!}
-{3622}{}{Господи, в селезенку!}
-{3623}{}{Сломалось ребро!}
-{3624}{}{Кровь!}
-{3625}{}{До крови!}
-{3626}{}{До мяса!}
-{3627}{}{Я слышал хруст?}
-{3628}{}{Болит...}
-{3629}{}{Не переношу боль!}
+{3620}{}{Maybe we could negotiate?}
+{3621}{}{Right in the solar plexus!}
+{3622}{}{My God, my spleen!}
+{3623}{}{That's my rib!}
+{3624}{}{Blood!}
+{3625}{}{It's spurting blood!}
+{3626}{}{Is that a bone?}
+{3627}{}{Did I hear crackle?}
+{3628}{}{Hurts...}
+{3629}{}{I can't take it!}
 #
 # Target Hit In LEG
 #
-{3630}{}{Может договоримся?}
-{3631}{}{Я инвалид?}
-{3632}{}{Как же теперь ходить?}
-{3633}{}{Ползать теперь?}
-{3634}{}{Отдайте мне мою ногу!}
-{3635}{}{Ах ты ж прямо по трубчатой кости вмазал, ну надо...}
+{3630}{}{Maybe we could negotiate?}
+{3631}{}{Am I a cripple now?}
+{3632}{}{How do I walk?}
+{3633}{}{Should I crawl?}
+{3634}{}{Give me back my leg!}
+{3635}{}{I think that was my tubular bone, you know.}
 {3636}{}{I need bandages!!}
 {3637}{}{Doc!}
 {3638}{}{I can't stand still!}
@@ -3660,80 +3660,80 @@
 # Target Hit In EYES
 #
 {3640}{}{Прям искры из глаз...}
-{3641}{}{Может договоримся?}
+{3641}{}{Maybe we could negotiate?}
 {3642}{}{So dark...}
 {3643}{}{What was that flash?}
-{3644}{}{Что теперь делать?}
-{3645}{}{Что теперь будет?}
-{3646}{}{Не вижу ни зги!}
-{3647}{}{Я ослеп!}
-{3648}{}{Я не могу видеть!}
-{3649}{}{У меня всего два глаза!}
+{3644}{}{What do I do now?}
+{3645}{}{What's next?}
+{3646}{}{I can't see a thing!}
+{3647}{}{I'm blind!}
+{3648}{}{I can't see!}
+{3649}{}{I have only two eyes, you know!}
 #
 # Target Hit In GROIN
 #
-{3650}{}{Может договоримся?}
-{3651}{}{Это просто праздник какой-то!}
-{3652}{}{А ч-ч-черт, I can't breathe!}
-{3653}{}{Промежность у меня железная!}
-{3654}{}{Тебе не сломить мое причинное место!}
-{3655}{}{Ниже пояса метишь?}
-{3656}{}{Ай, больно-то как!}
-{3657}{}{Я сейчас буду говорить очень тонким голосом}
-{3658}{}{Фаринелли, я тебе не завидую, а-Aaaaaaaah!}
-{3659}{}{Очищаешь генофонд, скотина?}
+{3650}{}{Maybe we could negotiate?}
+{3651}{}{A holidayyyiiiiieeee!!!!}
+{3652}{}{Ohhh goddamn it, I can't breathe!}
+{3653}{}{I have a metal groin!!}
+{3654}{}{You won't break my crotch!}
+{3655}{}{Aiming below the belt?}
+{3656}{}{Oh shit, that hurts so much!}
+{3657}{}{I'm going to speak in a really high voice.}
+{3658}{}{Farinelly, I feel you, aaaaaahhh!}
+{3659}{}{Trying to clear out my genome, you dick?}
 #
 # MISSED
 #
-{3660}{}{Фух, пронесло.}
-{3661}{}{Дааа, невезет тебе.}
-{3662}{}{Как это так?}
-{3663}{}{Ахаха!}
-{3664}{}{Что такое невезет и как с ним бороться?}
-{3665}{}{Мимо?}
+{3660}{}{Phew! Lucky.}
+{3661}{}{Tough luck.}
+{3662}{}{How did you even...}
+{3663}{}{Haha!}
+{3664}{}{What is "tough luck" and what to do with it.}
+{3665}{}{Missed?}
 {3666}{}{Missed!}
-{3667}{}{Почти попал!}
-{3668}{}{Мне везет!}
-{3669}{}{У тебя руки кривые.}
+{3667}{}{Almost got me!}
+{3668}{}{I'm lucky today!}
+{3669}{}{Your hands are crooked.}
 #
 # ATTACKING
 #
-{3670}{}{Мочи сволочей!}
-{3671}{}{Бей гопников!}
-{3672}{}{Ну что, боишься?}
-{3673}{}{Ох, вмажу тебе...}
-{3674}{}{Прощайся с жизнью!}
-{3675}{}{Пасть порву!}
+{3670}{}{Kill the bastards!}
+{3671}{}{Let's murder these assholes!}
+{3672}{}{Are you afraid now?}
+{3673}{}{I'll punch you...}
+{3674}{}{Say goodbye!}
+{3675}{}{I'm gonna rip you up!}
 {3676}{}{I'll kill you!}
-{3677}{}{В гневе я страшен!}
-{3678}{}{Урою!}
-{3679}{}{Зарою в асфальт!}
+{3677}{}{You wouldn't like me when I angry.}
+{3678}{}{I'll kill you!}
+{3679}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {3680}{}{Now you're getting it...}
 {3681}{}{Just you wait!}
-{3682}{}{С удовольствием вмажу тебе.}
-{3683}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{3682}{}{Punching you will make me SO happy.}
+{3683}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {3684}{}{Tremble, you animal!}
 {3685}{}{A couple more steps...}
 {3686}{}{I'll get you...}
 {3687}{}{I'm gonna tear you up when I get to you!}
-{3688}{}{Scared? ::grins::]}
+{3688}{}{Scared? ::grins::}
 {3689}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {3690}{}{АAaaaaaaah!!}
-{3691}{}{О-о-о-о-о!}
+{3691}{}{Oooooooh!}
 {3692}{}{Happy feet!!}
-{3693}{}{Мне страшно, черт возьми!}
+{3693}{}{I'm scared, dammit!}
 {3694}{}{Run!}
-{3695}{}{Я больше сюда не ходок!}
-{3696}{}{Быстрее, быстрее!}
-{3697}{}{Я сейчас друзей своих позову.}
-{3698}{}{Все, все, сдаюсь!}
-{3699}{}{Не догонишь меня!!!}
+{3695}{}{I won't come here anymore!}
+{3696}{}{Hurry up!}
+{3697}{}{I'll go get my friends.}
+{3698}{}{Okay, okay, I surrender!}
+{3699}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -3758,13 +3758,13 @@
 {3710}{}{Как же больно.}
 {3711}{}{Моя ручка...}
 {3712}{}{Серьезная рана...}
-{3713}{}{Помогите!}
-{3714}{}{[трясет рукой]}
+{3713}{}{Help!}
+{3714}{}{[shakes hand]}
 {3715}{}{Как же больно.}
 {3716}{}{Моя ручка...}
 {3717}{}{Серьезная рана...}
-{3718}{}{Помогите!}
-{3719}{}{[трясет рукой]}
+{3718}{}{Help!}
+{3719}{}{[shakes hand]}
 #
 # Target Hit In TORSO
 #
@@ -3828,7 +3828,7 @@
 {3765}{}{[пригнулась]}
 {3766}{}{Ан нет...}
 {3767}{}{Что же ты?}
-{3768}{}{Мне везет!}
+{3768}{}{I'm lucky today!}
 {3769}{}{Ты забавный!}
 #
 # ATTACKING
@@ -3995,9 +3995,9 @@
 # RUNNING AWAY
 #
 {3890}{}{О Боги!!!}
-{3891}{}{Помогите!}
+{3891}{}{Help!}
 {3892}{}{О Боги!!!}
-{3893}{}{Помогите!}
+{3893}{}{Help!}
 {3894}{}{Сгинь нечесть!}
 {3895}{}{Сгинь нечесть!}
 {3896}{}{Отвали собака!}
@@ -4012,50 +4012,50 @@
 #
 # Target Hit In HEAD
 #
-{3900}{}{А ведь больно.}
+{3900}{}{That is quite hurtful.}
 {3901}{}{Что же это за боль такая...}
-{3902}{}{Что делать, а?}
-{3903}{}{[втягивает голову]}
-{3904}{}{Что же за напасть?}
-{3905}{}{Больно-то ка-а-ак...}
-{3906}{}{Ах, синяк!}
+{3902}{}{What do I do?}
+{3903}{}{[pulls head into shoulders]}
+{3904}{}{Why is this happening?}
+{3905}{}{Such a pain...}
+{3906}{}{Oh, a shiner!}
 {3907}{}{I have a concussion!}
-{3908}{}{В лоб!}
-{3909}{}{::хнычет::}
+{3908}{}{Right in the forehead!}
+{3909}{}{::whimpers::}
 #
 # Target Hit In ARM
 #
-{3910}{}{Ай, рука!}
+{3910}{}{My arm!}
 {3911}{}{[holds arm]}
 {3912}{}{Ах, я умираю...}
-{3913}{}{Это конец.}
-{3914}{}{Что же делать!}
-{3915}{}{Помогите!}
-{3916}{}{Не чувствую руки!}
-{3917}{}{Нету, нету локтя!}
-{3918}{}{Где моя рука?}
-{3919}{}{Не чувствую пальцев!}
+{3913}{}{This is the end.}
+{3914}{}{What to do?}
+{3915}{}{Help!}
+{3916}{}{I can't feel my arm!}
+{3917}{}{My elbow! Where is it?}
+{3918}{}{Where's my hand?}
+{3919}{}{I can't feel my fingers!}
 #
 # Target Hit In TORSO
 #
-{3920}{}{В солнечное сплетение!}
-{3921}{}{Господи, в селезенку!}
-{3922}{}{Сломалось ребро!}
-{3923}{}{Кровь!}
-{3924}{}{До крови!}
-{3925}{}{До мяса!}
-{3926}{}{Я слышала хруст?}
-{3927}{}{Болит...}
-{3928}{}{Не переношу боль!}
+{3920}{}{Right in the solar plexus!}
+{3921}{}{My God, my spleen!}
+{3922}{}{That's my rib!}
+{3923}{}{Blood!}
+{3924}{}{It's spurting blood!}
+{3925}{}{Is that a bone?}
+{3926}{}{Did I hear crack?}
+{3927}{}{Hurts...}
+{3928}{}{I can't take it!}
 {3929}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{3930}{}{Я теперь инвалидка?}
-{3931}{}{Как же теперь ходить?}
-{3932}{}{Ползать теперь?}
-{3933}{}{Отдайте мне мою ногу!}
-{3934}{}{Ах ты ж прямо по трубчатой кости вмазал, ну надо...}
+{3930}{}{Am I a cripple now?}
+{3931}{}{How do I walk?}
+{3932}{}{Should I crawl?}
+{3933}{}{Give me back my leg!}
+{3934}{}{I think that was my tubular bone, you know.}
 {3935}{}{I need bandages!!}
 {3936}{}{Doc!}
 {3937}{}{I can't stand still!}
@@ -4066,79 +4066,79 @@
 #
 {3940}{}{So dark...}
 {3941}{}{What was that flash?}
-{3942}{}{Что теперь делать?}
-{3943}{}{Что теперь будет?}
-{3944}{}{Не вижу ни зги!}
-{3945}{}{Я ослепла!}
-{3946}{}{Я не могу видеть!}
-{3947}{}{Глаза...}
-{3948}{}{У меня всего два глаза!}
-{3949}{}{Не вижу ни черта...}
+{3942}{}{What do I do now?}
+{3943}{}{What's next?}
+{3944}{}{I can't see a thing!}
+{3945}{}{I'm blind!}
+{3946}{}{I can't see!}
+{3947}{}{My eyes...}
+{3948}{}{I have only two eyes, you know!}
+{3949}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {3950}{}{АAaaaaaaah!}
 {3951}{}{[holds groin]}
-{3952}{}{Не могу!!}
-{3953}{}{Туда же нельзя бить!}
-{3954}{}{Чудовищная боль...}
-{3955}{}{Как же так, так больно!!}
-{3956}{}{У меня нет промежности!!!}
-{3957}{}{Ну ты даешь...}
-{3958}{}{Боже, как больно...}
+{3952}{}{I can't!!}
+{3953}{}{You can't hit in there!}
+{3954}{}{The pain is enormous...}
+{3955}{}{How is this so painful?}
+{3956}{}{I don't have a groin anymore!!}
+{3957}{}{Just... Why?}
+{3958}{}{Oh Gods, the pain...}
 {3959}{}{::groans::}
 #
 # MISSED
 #
-{3960}{}{Черт, чуть не попал!}
-{3961}{}{Дааа, не везет тебе...}
-{3962}{}{Как это так?}
-{3963}{}{Ты и в унитаз не попадаешь?}
-{3964}{}{Это даже не смешно уже...}
-{3965}{}{Мимо?}
-{3966}{}{Мимо...}
-{3967}{}{Не попал... От женщины это обидно слышать?}
-{3968}{}{А мне везет!}
-{3969}{}{Криворучка!}
+{3960}{}{Damn! You almost got me!}
+{3961}{}{Tough luck...}
+{3962}{}{How did you even...}
+{3963}{}{You would miss even in the toilet...}
+{3964}{}{This is really sad.}
+{3965}{}{Missed?}
+{3966}{}{Missed...}
+{3967}{}{Missed. Are you sad??}
+{3968}{}{I feel really lucky today!}
+{3969}{}{Crooked-handed!}
 #
 # ATTACKING
 #
-{3970}{}{Бей гопников!}
+{3970}{}{Let's murder these assholes!}
 {3971}{}{Вы подлец! Получайте!}
-{3972}{}{Ну что, боишься?}
-{3973}{}{Ох, вмажу тебе...}
-{3974}{}{Прощайся с жизнью!}
-{3975}{}{В гневе я страшна!}
+{3972}{}{Are you afraid now?}
+{3973}{}{I'll punch you...}
+{3974}{}{Say goodbye!}
+{3975}{}{You wouldn't like me when I'm angry!}
 {3976}{}{Тебе несдобровать!}
 {3977}{}{Ты раб!}
-{3978}{}{Зарою в асфальт!}
+{3978}{}{I'm gonna drown you in the asphalt!}
 {3979}{}{I'll kill you!}
 #
 # MOVE
 #
 {3980}{}{Сейчас ты огребешь...}
 {3981}{}{Just you wait!}
-{3982}{}{С удовольствием вмажу тебе.}
-{3983}{}{Растяну удовольствие от втаптывания тебя в грязь...}
+{3982}{}{Punching you will make me SO happy.}
+{3983}{}{I'm going to enjoy every second of drowning you in the dirt.}
 {3984}{}{Tremble, you animal!}
 {3985}{}{A couple more steps...}
 {3986}{}{I'll get you...}
 {3987}{}{I'm gonna tear you up when I get to you!}
-{3988}{}{Scared? ::grins::]}
+{3988}{}{Scared? ::grins::}
 {3989}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {3990}{}{АAaaaaaaah!!}
-{3991}{}{О-о-о-о-о!}
+{3991}{}{Oooooooh!}
 {3992}{}{Happy feet!!}
-{3993}{}{Мне страшно, черт возьми!}
+{3993}{}{I'm scared, dammit!}
 {3994}{}{Run!}
-{3995}{}{Я больше сюда не буду ходить!}
-{3996}{}{Быстрее, быстрее!}
-{3997}{}{Я сейчас друзей своих позову.}
-{3998}{}{Все, все, сдаюсь!}
-{3999}{}{Не догонишь меня!!!}
+{3995}{}{I won't come here anymore!}
+{3996}{}{Hurry up!}
+{3997}{}{I'll go get my friends.}
+{3998}{}{Okay, okay, I surrender!}
+{3999}{}{Catch me, if you can!}
 #
 #
 ####################################################
@@ -4147,133 +4147,133 @@
 #
 # Target Hit In HEAD
 #
-{4000}{}{Долбаный карась! В голову!}
-{4001}{}{Ыть!}
+{4000}{}{Friggin' hell! My head!}
+{4001}{}{Whoppah!}
 {4002}{}{Might have a bump.}
 {4003}{}{It hurts!}
-{4004}{}{Терпимо.}
-{4005}{}{Не выношу боли.}
-{4006}{}{Хрустнул лоб?}
-{4007}{}{Что же делать, Aaaaaaaah!}
-{4008}{}{Чуть в сторону ? и в висок!}
-{4009}{}{Хоть не в глаз.}
+{4004}{}{I can deal with it.}
+{4005}{}{I hate pain.}
+{4006}{}{Did it crack?}
+{4007}{}{What should I do? Gyaaaaaaah!}
+{4008}{}{A little to the side, and you'll hit a temple.}
+{4009}{}{At least it's not an eye.}
 #
 # Target Hit In ARM
 #
-{4010}{}{Мой локоть!}
-{4011}{}{Капец моей кисти.}
-{4012}{}{Не чувствую ничего!}
-{4013}{}{Мне оторвало палец, аа-а-а-а!}
-{4014}{}{Не чувствую плечо!}
-{4015}{}{Хоть не в горло.}
-{4016}{}{Удачно укрылся рукой.}
-{4017}{}{Ничего, есть еще одна рука.}
-{4018}{}{Я однорука теперь?}
-{4019}{}{Оторву тебе твои руки за это!!}
+{4010}{}{My elbow!}
+{4011}{}{My wrist is done.}
+{4012}{}{I don't feel anything.}
+{4013}{}{You blew my finger off! AAAAAAAAH!}
+{4014}{}{I can't feel my shoulder!}
+{4015}{}{At least it's not my throat.}
+{4016}{}{Lucky save. Covered by the hand.}
+{4017}{}{It's okay, I have another one.}
+{4018}{}{Am I single-handed now?}
+{4019}{}{I'm gonna rip your arms for this!}
 #
 # Target Hit In TORSO
 #
-{4020}{}{Хрен ты пробьешь солнечное сплетение!}
-{4021}{}{Господи, в селезенку!}
-{4022}{}{Разве ребро может хрустеть?}
-{4023}{}{Я достаточно крепка!!}
-{4024}{}{До крови!}
-{4025}{}{До мяса!}
-{4026}{}{Я слышал хруст?}
-{4027}{}{Болит...}
-{4028}{}{Не переношу боль!}
+{4020}{}{You won't get through my solar plexus!}
+{4021}{}{My God, my spleen!}
+{4022}{}{Does the rib can crack?}
+{4023}{}{I'm sturdy enough!!}
+{4024}{}{It's spurting blood!}
+{4025}{}{Is that a bone?}
+{4026}{}{Did I hear crackle?}
+{4027}{}{Hurts...}
+{4028}{}{I can't take it!}
 {4029}{}{[bends over]}
 #
 # Target Hit In LEG
 #
-{4030}{}{Я инвалид?}
-{4031}{}{Как же теперь ходить?}
-{4032}{}{Ползать теперь?}
-{4033}{}{Отдайте мне мою ногу!}
-{4034}{}{Как теперь приседать по утрам?}
+{4030}{}{Am I a cripple now?}
+{4031}{}{How do I walk?}
+{4032}{}{Should I crawl?}
+{4033}{}{Give me back my leg!}
+{4034}{}{How do I squat now?}
 {4035}{}{I need bandages!!}
 {4036}{}{Doc!}
 {4037}{}{I can't stand still!}
 {4038}{}{I'm falling!}
-{4039}{}{Все, я кончилась.}
+{4039}{}{That's it, I'm done.}
 #
 # Target Hit In EYES
 #
 {4040}{}{So dark...}
 {4041}{}{What was that flash?}
-{4042}{}{Что теперь делать?}
-{4043}{}{Что теперь будет?}
-{4044}{}{Не вижу ни зги!}
-{4045}{}{Я ослепла!}
-{4046}{}{Я не могу видеть!}
-{4047}{}{Глаза...}
-{4048}{}{У меня всего два глаза!}
-{4049}{}{Не вижу ни черта...}
+{4042}{}{What do I do now?}
+{4043}{}{What's next?}
+{4044}{}{I can't see a thing!}
+{4045}{}{I'm blind!}
+{4046}{}{I can't see!}
+{4047}{}{My eyes...}
+{4048}{}{I have only two eyes, you know!}
+{4049}{}{Can't see a damn thing...}
 #
 # Target Hit In GROIN
 #
 {4050}{}{АAaaaaaaah!}
 {4051}{}{[holds groin]}
-{4052}{}{Не могу!!}
-{4053}{}{Туда же нельзя бить!}
-{4054}{}{Чудовищная боль...}
-{4055}{}{Как же так, так больно!!}
-{4056}{}{У меня нет промежности!!!}
-{4057}{}{Ну ты даешь...}
-{4058}{}{Боже, как больно...}
+{4052}{}{I can't!!}
+{4053}{}{You can't hit in there!}
+{4054}{}{The pain is enormous...}
+{4055}{}{How is this so painful?}
+{4056}{}{I don't have a groin anymore!!}
+{4057}{}{Just... Why?}
+{4058}{}{Oh Gods, the pain...}
 {4059}{}{::groans::}
 #
 # MISSED
 #
-{4060}{}{Черт, чуть не попал!}
-{4061}{}{Дааа, не везет тебе...}
-{4062}{}{Как это так?}
-{4063}{}{Ты и в унитаз не попадаешь?}
-{4064}{}{Это даже не смешно уже...}
-{4065}{}{Мимо?}
-{4066}{}{Мимо...}
-{4067}{}{Не попал... От женщины это обидно слышать?}
-{4068}{}{А мне везет!}
-{4069}{}{Криворучка!}
+{4060}{}{Damn! You almost got me!}
+{4061}{}{Tough luck...}
+{4062}{}{How did you even...}
+{4063}{}{You would miss even in the toilet...}
+{4064}{}{This is really sad.}
+{4065}{}{Missed?}
+{4066}{}{Missed...}
+{4067}{}{Missed. Are you sad??}
+{4068}{}{I feel really lucky today!}
+{4069}{}{Crooked-handed!}
 #
 # ATTACKING
 #
 {4070}{}{Чертов урод!}
 {4071}{}{Ты сдохнешь!}
-{4072}{}{Мочи сволочей!}
-{4073}{}{Прощайся с жизнью!}
-{4074}{}{Зарою в асфальт!}
-{4075}{}{Почувствуй силу настоящей женщины!}
+{4072}{}{Kill the bastards!}
+{4073}{}{Say goodbye!}
+{4074}{}{I'm gonna drown you in the asphalt!}
+{4075}{}{Feel the power of a real woman!}
 {4076}{}{Чувствуешь запах смерти?}
 {4077}{}{Ааааа!!!}
-{4078}{}{Ненавижу тебя!}
-{4079}{}{Зарою в асфальт!}
+{4078}{}{I hate you!}
+{4079}{}{I'm gonna drown you in the asphalt!}
 #
 # MOVE
 #
 {4080}{}{Now you're getting it...}
 {4081}{}{Just you wait!}
-{4082}{}{С удовольствием вмажу тебе.}
-{4083}{}{Растяну удовольствие от втаптывания тебя в грязь...}
-{4084}{}{Дрожи, жирная скотина!}
+{4082}{}{Punching you will make me SO happy.}
+{4083}{}{I'm going to enjoy every second of drowning you in the dirt.}
+{4084}{}{Tremble, you fat fuck!}
 {4085}{}{A couple more steps...}
 {4086}{}{I'll get you...}
 {4087}{}{Сейчас я напомню тебе, каково оно, бесить меня.}
-{4088}{}{Scared? ::grins::]}
+{4088}{}{Scared? ::grins::}
 {4089}{}{::puffs::}
 #
 # RUNNING AWAY
 #
 {4090}{}{АAaaaaaaah!!}
-{4091}{}{О-о-о-о-о!}
+{4091}{}{Oooooooh!}
 {4092}{}{Happy feet!!}
-{4093}{}{Мне страшно, черт возьми!}
+{4093}{}{I'm scared, dammit!}
 {4094}{}{Run!}
-{4095}{}{Я больше сюда не ходок!}
-{4096}{}{Быстрее, быстрее!}
-{4097}{}{Я сейчас друзей своих позову.}
-{4098}{}{Все, все, сдаюсь!}
-{4099}{}{Нас не догонят!!!}
+{4095}{}{I won't come here anymore!}
+{4096}{}{Hurry up!}
+{4097}{}{I'll go get my friends.}
+{4098}{}{Okay, okay, I surrender!}
+{4099}{}{Not gonna get us!!!}
 #
 #
 ####################################################
@@ -4314,7 +4314,7 @@
 {4123}{}{За что вы так?}
 {4124}{}{Легкое пробито...}
 {4125}{}{Мои ребра...}
-{4126}{}{Прям в солнечное сплетение...}
+{4126}{}{Прям Right in the solar plexus...}
 {4127}{}{[тяжело дышит]}
 {4128}{}{[держится за грудь]}
 {4129}{}{[пытается отдышаться]}
@@ -4401,7 +4401,7 @@
 #
 {4190}{}{О нет!}
 {4191}{}{В укрытие!}
-{4192}{}{Помогите!}
+{4192}{}{Help!}
 {4193}{}{Боже!}
 {4194}{}{Мама!}
 {4195}{}{На помощь!}
@@ -4503,7 +4503,7 @@
 {4265}{}{[пригнулась]}
 {4266}{}{[зажмурилась]}
 {4267}{}{[закрывает лицо руками]}
-{4268}{}{Мимо...}
+{4268}{}{Missed...}
 {4269}{}{А вот и нет...}
 #
 # ATTACKING
@@ -4574,7 +4574,7 @@
 {4316}{}{Ммм, теперь без руки...}
 {4317}{}{А я левша!}
 {4318}{}{Мой кулак!}
-{4319}{}{[мотает рукой]}
+{4319}{}{[мотает hand]}
 #
 # Target Hit In TORSO
 #
@@ -4690,7 +4690,7 @@
 {4400}{}{Ты че бля творишь?!}
 {4401}{}{Я тебе рожу разобью!}
 {4402}{}{Этой башкой и ушатаю!}
-{4403}{}{Череп пробил!}
+{4403}{}{Череп Penetrated!}
 {4404}{}{Череп шумит!}
 {4405}{}{Ты паскуда, шапку попортил!}
 {4406}{}{Ааа, кровища!}
@@ -4716,7 +4716,7 @@
 {4420}{}{::бха-кха-кхе::}
 {4421}{}{Шкурку попортил!}
 {4422}{}{По пузу...}
-{4423}{}{Грудак пробил!}
+{4423}{}{Грудак Penetrated!}
 {4424}{}{Ты сдохнешь как собака!}
 {4425}{}{[смотрит на дырку в куртке]}
 {4426}{}{Ты че такой дерзкий?}
@@ -4848,11 +4848,11 @@
 #
 # Target Hit In TORSO
 #
-{4520}{}{Грудак пробил!}
+{4520}{}{Грудак Penetrated!}
 {4521}{}{Легкие отшибешь, паскуда!}
 {4522}{}{Ребрышки...}
 {4523}{}{Эй ты, уродец!}
-{4524}{}{Я тебе урою!}
+{4524}{}{Я тебе I'll kill you!}
 {4525}{}{Все в крови, черт...}
 {4526}{}{Нужен укол! Срочно!}
 {4527}{}{Что ты делаешь?}
@@ -4867,7 +4867,7 @@
 {4533}{}{Вот тварь!}
 {4534}{}{Ааа! Нога!}
 {4535}{}{Прям в чашечку! Коленную...}
-{4536}{}{Мышцу пробил!}
+{4536}{}{Мышцу Penetrated!}
 {4537}{}{А?! Что?!}
 {4538}{}{Да ну нах!}
 {4539}{}{Ааа! Моя пятка!}
@@ -4879,7 +4879,7 @@
 {4542}{}{Круги! Разноцветные! Ништяк!}
 {4543}{}{Ммм! Какая боль!}
 {4544}{}{Да Just die already!}
-{4545}{}{[машет головой]}
+{4545}{}{[машет head]}
 {4546}{}{[жмурится]}
 {4547}{}{[моргает]}
 {4548}{}{[машет руками]}
@@ -5064,7 +5064,7 @@
 {4680}{}{[идет шатается]}
 {4681}{}{Я сейчас!}
 {4682}{}{Иду, уже иду!}
-{4683}{}{Вот, A couple more steps.}
+{4683}{}{There, a couple more steps.}
 {4684}{}{Стой там!}
 {4685}{}{Ну что же ты так далеко?}
 {4686}{}{Куда блеать?! А ну стой!}
@@ -5132,7 +5132,7 @@
 # Target Hit In LEG
 #
 {4730}{}{Тяжело стоять.}
-{4731}{}{Кровь!}
+{4731}{}{Blood!}
 {4732}{}{Ты сейчас получишь!}
 {4733}{}{Теперь не смогу ходить...}
 {4734}{}{Мне плевать!}
@@ -5173,10 +5173,10 @@
 {4760}{}{Не попал!}
 {4761}{}{Missed!}
 {4762}{}{Гы!}
-{4763}{}{Хахаха!}
+{4763}{}{ХHaha!}
 {4764}{}{[чешет затылок]}
 {4765}{}{[чешет затылок]}
-{4766}{}{Хахаха!}
+{4766}{}{ХHaha!}
 {4767}{}{Гы!}
 {4768}{}{Missed!}
 {4769}{}{Не попал!}
@@ -5461,7 +5461,7 @@
 {4975}{}{How do I use this thing?}
 {4976}{}{I'm gonna fuck you up!}
 {4977}{}{Can this thing shoot?}
-{4978}{}{А-Aaaaaaaah!}
+{4978}{}{AAAaaaaah!}
 {4979}{}{Get down!}
 #
 # MOVE
@@ -5505,7 +5505,7 @@
 {5005}{}{ЫЫЫ!}
 {5006}{}{[shows teeth]}
 {5007}{}{[grabs head]}
-{5008}{}{[терпит боль]}
+{5008}{}{[endures]}
 {5009}{}{Убивааать!!!}
 #
 # Target Hit In ARM
@@ -5514,7 +5514,7 @@
 {5011}{}{Just die already!}
 {5012}{}{Моя говорит, что твоя умереть за это!}
 {5013}{}{Замразени северни елени лайна!}
-{5014}{}{Рука, кровь!}
+{5014}{}{Hand, blood!}
 {5015}{}{Я тебя задушу!}
 {5016}{}{Боль всюду...}
 {5017}{}{Ты тварь! Меня ранил!}
@@ -5549,7 +5549,7 @@
 #
 # Target Hit In EYES
 #
-{5040}{}{[машет головой]}
+{5040}{}{[машет head]}
 {5041}{}{[growls]}
 {5042}{}{Я вырву твои глаза за мои!}
 {5043}{}{Тебя распотрашу!}
@@ -5634,7 +5634,7 @@
 #
 {5100}{}{Я тебя I'll kill you!}
 {5101}{}{Я тебя съем!}
-{5102}{}{::рычит::}
+{5102}{}{::roars::}
 {5103}{}{[shows teeth]}
 {5104}{}{Голова!!! Боль!!!}
 {5105}{}{Я сожру твои кишки!}
@@ -5649,7 +5649,7 @@
 {5111}{}{Just die already!}
 {5112}{}{Моя говорит, что твоя умереть за это!}
 {5113}{}{Замразени северни елени лайна!}
-{5114}{}{Рука, кровь!}
+{5114}{}{Hand, blood!}
 {5115}{}{Я тебя задушу!}
 {5116}{}{Боль всюду...}
 {5117}{}{Ты тварь! Меня ранил!}
@@ -5685,7 +5685,7 @@
 # Target Hit In EYES
 #
 {5140}{}{Моя не видеть света.}
-{5141}{}{[машет головой]}
+{5141}{}{[машет head]}
 {5142}{}{[growls]}
 {5143}{}{Стемнело быстро.}
 {5144}{}{Не видать мне Солнца.}
@@ -5756,7 +5756,7 @@
 {5194}{}{В кусты!}
 {5195}{}{В тень!}
 {5196}{}{Укрыться}
-{5197}{}{Помогите!}
+{5197}{}{Help!}
 {5198}{}{Предки, защитите меня!}
 {5199}{}{Назад!}
 #
@@ -5771,7 +5771,7 @@
 {5201}{}{Я тебя I'll kill you!}
 {5202}{}{Я тебя съем!}
 {5203}{}{Ааа!!!}
-{5204}{}{::рычит::}
+{5204}{}{::roars::}
 {5205}{}{[shows teeth]}
 {5206}{}{[prepares to lunge forward]}
 {5207}{}{Замразени северни елени лайна!}
@@ -5780,7 +5780,7 @@
 #
 # Target Hit In ARM
 #
-{5210}{}{Рука, кровь!}
+{5210}{}{Hand, blood!}
 {5211}{}{It hurts!}
 {5212}{}{Замразени северни елени лайна!}
 {5213}{}{Моя говорит, что твоя умереть за это!}
@@ -5800,7 +5800,7 @@
 {5224}{}{Ты сдохнешь!}
 {5225}{}{Кровь...}
 {5226}{}{Я буду мстить!}
-{5227}{}{Помогите!}
+{5227}{}{Help!}
 {5228}{}{Косточка хрустнула.}
 {5229}{}{Боль!}
 #
@@ -5828,7 +5828,7 @@
 {5246}{}{[groans]}
 {5247}{}{[плачет]}
 {5248}{}{[growls]}
-{5249}{}{[машет головой]}
+{5249}{}{[машет head]}
 #
 # Target Hit In GROIN
 #
@@ -5850,7 +5850,7 @@
 {5262}{}{::laugh::}
 {5263}{}{Ты плохой охотник!}
 {5264}{}{Прекрати!}
-{5265}{}{Мимо...}
+{5265}{}{Missed...}
 {5266}{}{Барсучий хрен.}
 {5267}{}{Ну же, давай!}
 {5268}{}{Опять промазал?}
@@ -5890,7 +5890,7 @@
 {5293}{}{Ооо нееет...}
 {5294}{}{Духи, унесите меня!}
 {5295}{}{Догоняй!}
-{5296}{}{Помогите!}
+{5296}{}{Help!}
 {5297}{}{Моя прятаться от твоя. Твоя искать меня?}
 {5298}{}{Как можно дальше.}
 {5299}{}{В кусты!}
@@ -5974,7 +5974,7 @@
 {5354}{}{Куда ты целишь?!}
 {5355}{}{Фу-фу-фу!}
 {5356}{}{Подлец!}
-{5357}{}{Кровь!}
+{5357}{}{Blood!}
 {5358}{}{Дохтора!}
 {5359}{}{Ай-яй!}
 #
@@ -5982,7 +5982,7 @@
 #
 {5360}{}{Щенок!}
 {5361}{}{Слепошара!}
-{5362}{}{Ахаха!}
+{5362}{}{Haha!}
 {5363}{}{[вяжет]}
 {5364}{}{[читает газетку]}
 {5365}{}{Давай! Обидь бабушку!}
@@ -6050,53 +6050,53 @@
 #
 # Target Hit In ARM
 #
-{5410}{}{Повреждение конечности.}
-{5411}{}{Механизм 248 дал сбой.}
+{5410}{}{Limb is damaged.}
+{5411}{}{Module 248 is failing.}
 {5412}{}{?!&@34^&!!!}
-{5413}{}{Повреждение конечности.}
-{5414}{}{Механизм 248 дал сбой.}
+{5413}{}{Limb is damaged.}
+{5414}{}{Module 248 is failing.}
 {5415}{}{?!&@34^&!!!}
-{5416}{}{Урон не критичен.}
-{5417}{}{Урон не критичен.}
-{5418}{}{Сражение может продолжаться.}
-{5419}{}{Сражение может продолжаться.}
+{5416}{}{Damage is minimal.}
+{5417}{}{Damage is minimal.}
+{5418}{}{Attack capability: 80%.}
+{5419}{}{Attack capability: 80%.}
 #
 # Target Hit In TORSO
 #
-{5420}{}{Броня не пробита.}
-{5421}{}{Броня не пробита.}
-{5422}{}{Атака корпуса.}
-{5423}{}{Атака корпуса.}
+{5420}{}{Armor breach: none.}
+{5421}{}{Armor breach: none.}
+{5422}{}{The hull is under attack.}
+{5423}{}{The hull is under attack.}
 {5424}{}{Error.}
 {5425}{}{Error.}
-{5426}{}{Короткое замыкание.}
-{5427}{}{Короткое замыкание.}
-{5428}{}{Незначительный урон.}
-{5429}{}{Незначительный урон.}
+{5426}{}{Short-circuit.}
+{5427}{}{Short-circuit.}
+{5428}{}{Damage is not critical.}
+{5429}{}{Damage is not critical.}
 #
 # Target Hit In LEG
 #
-{5430}{}{Конечность повреждена.}
-{5431}{}{Конечность повреждена.}
-{5432}{}{Повреждение конечности.}
-{5433}{}{Повреждение конечности.}
-{5434}{}{Затруднение движения.}
-{5435}{}{Затруднение движения.}
+{5430}{}{Limb is damaged.}
+{5431}{}{Limb is damaged.}
+{5432}{}{Limb is damaged.}
+{5433}{}{Limb is damaged.}
+{5434}{}{Movement is obstructed.}
+{5435}{}{Movement is obstructed.}
 {5436}{}{Error.}
 {5437}{}{Error.}
-{5438}{}{Незначительный урон.}
-{5439}{}{Незначительный урон.}
+{5438}{}{Damage is not critical.}
+{5439}{}{Damage is not critical.}
 #
 # Target Hit In EYES
 #
-{5440}{}{Датчик наведения поврежден.}
-{5441}{}{Датчик наведения поврежден.}
+{5440}{}{Targeting sensor is damaged.}
+{5441}{}{Targeting sensor is damaged.}
 {5442}{}{Временное ослепление.}
 {5443}{}{Временное ослепление.}
 {5444}{}{Error.}
 {5445}{}{Error.}
-{5446}{}{Незначительный урон.}
-{5447}{}{Незначительный урон.}
+{5446}{}{Damage is not critical.}
+{5447}{}{Damage is not critical.}
 {5448}{}{Затруднение прицеливания.}
 {5449}{}{Затруднение прицеливания.}
 #
@@ -6115,7 +6115,7 @@
 #
 # MISSED
 #
-{5460}{}{Состояние не изменилось.}
+{5460}{}{State: unchanged.}
 {5461}{}{Промах.}
 {5462}{}{Попадания не зафиксированно.}
 {5463}{}{Ожидание.}
@@ -6131,12 +6131,12 @@
 {5470}{}{Атака.}
 {5471}{}{Цель захвачена.}
 {5472}{}{Огонь.}
-{5473}{}{Залп.}
+{5473}{}{Firing...}
 {5474}{}{Уничтожить врага.}
 {5475}{}{Атака.}
 {5476}{}{Цель захвачена.}
 {5477}{}{Огонь.}
-{5478}{}{Залп.}
+{5478}{}{Firing...}
 {5479}{}{Уничтожить врага.}
 #
 # MOVE
@@ -6167,7 +6167,7 @@
 #
 #
 ####################################################
-# 5500 Роботрон
+# 5500 Robotron 
 ####################################################
 #
 # Target Hit In HEAD
@@ -6206,7 +6206,7 @@
 {5525}{}{::ping::}
 {5526}{}{Short-circuit.}
 {5527}{}{::bling::}
-{5528}{}{Incoming damage: external shell}
+{5528}{}{Incoming damage: external plating}
 {5529}{}{::clang::}
 #
 # Target Hit In LEG
@@ -6230,9 +6230,9 @@
 {5543}{}{::glass shattering::}
 {5544}{}{Visibility is reduced.}
 {5545}{}{::ping::}
-{5546}{}{Vision range is affected.}
+{5546}{}{Visibility range is affected.}
 {5547}{}{::blamm::}
-{5548}{}{Ifravisor is functioning properly.}
+{5548}{}{Ifra-red visor is functioning properly.}
 {5549}{}{::clink::}
 #
 # Target Hit In GROIN
@@ -6733,7 +6733,7 @@
 {5915}{}{Заклинило привод...}
 {5916}{}{Ты портишь мой костюм!}
 {5917}{}{Наивная попытка.}
-{5918}{}{[мотает рукой]}
+{5918}{}{[мотает hand]}
 {5919}{}{Как жжет...}
 #
 # Target Hit In TORSO
@@ -6782,7 +6782,7 @@
 {5952}{}{Как баба!}
 {5953}{}{Детей не будет...}
 {5954}{}{[пищит]}
-{5955}{}{Ах ты ж ептыть!}
+{5955}{}{Ах ты ж ептWhoppah!}
 {5956}{}{Теперь ты точно dead...}
 {5957}{}{Нет прощения!}
 {5958}{}{Нестерпимая боль!}
@@ -6807,9 +6807,9 @@
 {5971}{}{Защитим Олимп!}
 {5972}{}{Дальше ты не пройдешь!}
 {5973}{}{Умри, жалкое существо!}
-{5974}{}{Прощайся с жизнью!}
+{5974}{}{Say goodbye!}
 {5975}{}{Ты слаб!}
-{5976}{}{Я пролью твою кровь!}
+{5976}{}{Я пролью твою Blood!}
 {5977}{}{Подохни, гнида!}
 {5978}{}{Я несу смерть!}
 {5979}{}{Это последнее, что ты видишь!}
@@ -6852,7 +6852,7 @@
 {6002}{}{А это больно.}
 {6003}{}{За правду и головы не жалко!}
 {6004}{}{Ммм...}
-{6005}{}{[трясет головой]}
+{6005}{}{[shakes head]}
 {6006}{}{В ушах звенит!}
 {6007}{}{Я отомщу!}
 {6008}{}{Ну надо же, попал!}
@@ -6933,7 +6933,7 @@
 {6065}{}{[рикошет]}
 {6066}{}{[рикошет]}
 {6067}{}{[уклонение]}
-{6068}{}{Мимо...}
+{6068}{}{Missed...}
 {6069}{}{Я словно призрак.}
 #
 # ATTACKING
@@ -7040,8 +7040,8 @@
 {6143}{}{[helplessly wiggles]}
 {6144}{}{[examines the surroundings]}
 {6145}{}{[examines the surroundings]}
-{6146}{}{::hss vzz vzz hss::}
-{6147}{}{::hss vzz vzz hss::}
+{6146}{}{::hiss zzz zzz hiss::}
+{6147}{}{::hiss zzz zzz hiss::}
 {6148}{}{[bleeds]}
 {6149}{}{[bleeds]}
 #
@@ -7203,7 +7203,7 @@
 {6265}{}{Grrr-rrr!}
 {6266}{}{Hrraugh!}
 {6267}{}{Ghk-khgr-khrr!}
-{6268}{}{::абыр абыр абырвалг::}
+{6268}{}{::angry stare::}
 {6269}{}{[wildly roars]}
 #
 # ATTACKING
@@ -7252,15 +7252,15 @@
 #
 # Target Hit In HEAD
 #
-{6300}{}{Повреждение датчика.}
-{6301}{}{Сбой процессора.}
+{6300}{}{Damage to the sensors.}
+{6301}{}{CPU failure.}
 {6302}{}{Error.}
 {6303}{}{Error message.}
 {6304}{}{[sparkles]}
-{6305}{}{::вж ж ж::}
+{6305}{}{::bzzz::}
 {6306}{}{1010 0100 0110}
 {6307}{}{16CBA34h}
-{6308}{}{[короткое замыкание]}
+{6308}{}{[Short-circuit]}
 {6309}{}{for(1) this.Attack.Continue();}
 #
 # Target Hit In ARM
@@ -7278,16 +7278,16 @@
 #
 # Target Hit In TORSO
 #
-{6320}{}{Повреждение корпуса.}
-{6321}{}{Нет пробития.}
+{6320}{}{Hull damage.}
+{6321}{}{Hull is intact.}
 {6322}{}{[sparkles]}
-{6323}{}{::вж ж ж::}
+{6323}{}{::bzzz::}
 {6324}{}{Argument out of range.}
 {6325}{}{Null reference.}
 {6326}{}{1001110100111101}
 {6327}{}{Press any key...}
-{6328}{}{Сбой системы.}
-{6329}{}{Корпус пробит.}
+{6328}{}{System error.}
+{6329}{}{Hull is breached.}
 #
 # Target Hit In LEG
 #
@@ -7304,16 +7304,16 @@
 #
 # Target Hit In EYES
 #
-{6340}{}{Датчик наведения поврежден.}
-{6341}{}{Прицеливание невозможно.}
-{6342}{}{Сбой матрицы.}
+{6340}{}{Targeting sensor is damaged.}
+{6341}{}{Aiming is unavailable.}
+{6342}{}{Matrix glitch.}
 {6343}{}{[sparkles]}
-{6344}{}{[попытка наведения]}
+{6344}{}{[attempt to aim]}
 {6345}{}{1011000111001}
 {6346}{}{25859036ACD34h}
 {6347}{}{Exception: target.Vector3 null!}
-{6348}{}{Резервный датчик активирован.}
-{6349}{}{System message: Transmitter is damaged}
+{6348}{}{Reserve sensor is activated.}
+{6349}{}{System message: Transmitter is damaged.}
 #
 # Target Hit In GROIN
 #
@@ -7330,29 +7330,29 @@
 #
 # MISSED
 #
-{6360}{}{Нет попадания.}
-{6361}{}{Урона нет.}
-{6362}{}{Нет пробития.}
-{6363}{}{Корпус не поврежден.}
+{6360}{}{Damage avoided.}
+{6361}{}{Damage: 0%.}
+{6362}{}{Hull is intact.}
+{6363}{}{External plating is intact.}
 {6364}{}{!!!}
 {6365}{}{?!}
 {6366}{}{Wait...}
 {6367}{}{Missed...}
-{6368}{}{Состояние не изменилось.}
-{6369}{}{Изменений нет.}
+{6368}{}{State: unchanged.}
+{6369}{}{No damage detected.}
 #
 # ATTACKING
 #
-{6370}{}{Атака по цели.}
-{6371}{}{Упреждение 2м.}
+{6370}{}{Commencing attack on target.}
+{6371}{}{Correction: 2m.}
 {6372}{}{target.position = new Vector3(112, 1, 536);}
-{6373}{}{Залп.}
-{6374}{}{Режим уничтожения.}
-{6375}{}{Уничтожить.}
-{6376}{}{[наведение орудий]}
-{6377}{}{::вжжж вжжж::}
-{6378}{}{[жжужит]}
-{6379}{}{Вероятность попадания: 0.7548}
+{6373}{}{Firing...}
+{6374}{}{Attack mode on.}
+{6375}{}{Exterminate!}
+{6376}{}{[weapons humming]}
+{6377}{}{::zzzz zzzz::}
+{6378}{}{[buzzes]}
+{6379}{}{Chance to hit: 0.7548}
 #
 # MOVE
 #
