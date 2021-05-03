@@ -31,7 +31,7 @@
 {101}{011}{Yes, I wanted to ask - what is this "Steel law"?}
 {102}{015}{I've recently learned something interesting about you and Lucy... I see in whose honour Daniel was named.}
 {103}{999}{I was just walking by. Talk later, Dan.}
-{1002}{}{[He puts his palm to the chest and respectfully nods to you, hiding his eyes] Greetings and admiration to the worthy successor of our old man Mark! I hope now NWO will follow its new course? [he smiles a little]}
+{1002}{}{[He puts his palm to the chest and respectfully nods to you, hiding his eyes] Greetings and respect to the worthy successor of our old man Mark! I hope now NWO will follow its new course? [he smiles a little]}
 {104}{016}{What, you have some ideas about that? Tell me!}
 {105}{999}{That's for me to decide, Dan. Your duty is to follow orders. Remember that. I'll see you around.}
 {106}{017}{Sure! Enough of tolerating the expansion of Jackals and Rainbow! It's time to impose in Radius our law... Steel law!}

@@ -601,7 +601,7 @@
 {30100}{}{*Ultra Repair Kit*}
 {30101}{}{A serious repair kit. In it you find probably almost everything you need for every repair.}
 {30200}{}{*Rapture*}
-{30201}{}{One does of the drug Rapture, don't misuse it.}
+{30201}{}{One dose of the drug Rapture, don't misuse it.}
 {30300}{}{*Elevator Card 2B*}
 {30301}{}{Elevator access card 2B.}
 {30400}{}{*Voice Modulator*}

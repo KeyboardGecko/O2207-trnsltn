@@ -106,7 +106,7 @@
 {161}{998}{Oh man...}
 
 
-{170}{}{[disappointedly pours another shot] Well, I mean, yeah, he was never noticed near the lab or barracks... But - you know how it is. Nowadays, if you are not paranoid, it doesn't mean that no one wants to kill you. [he sighs] Okay, you did your part. Here. It's called "Admiration". It's a sample, not in mass production for now. The effect is something you've never felt before. I mean it.}
+{170}{}{[disappointedly pours another shot] Well, I mean, yeah, he was never noticed near the lab or barracks... But - you know how it is. Nowadays, if you are not paranoid, it doesn't mean that no one wants to kill you. [he sighs] Okay, you did your part. Here. It's called "Rapture". It's a sample, not in mass production for now. The effect is something you've never felt before. I mean it.}
 {171}{999}{If you say so... I'll figure it out. See you soon!}
 
 
@@ -196,7 +196,7 @@
 {334}{034}{This is in your own interests. You didn't surprise me.}
 
 
-{3401}{}{[his squinted eyes look at you for some time. Then he starts talking.] You wasted the Hog. And it is a big problem, man, because he held the place together. And we don't want everything here to go to shit. This place needs someone cheeky enough to lead it. And we are observing your doings for a long time already - the Rainbow makes everyone to show their true colors, you know... So, my boys think that you are suited for this position, and I agree with them. Your turn, champ. Tell me, what you think. And take this, as a gesture of good will. It's called "Admiration" - a pretty rare stuff, you won't find it anywhere else. [he hands you something]}
+{3401}{}{[his squinted eyes look at you for some time. Then he starts talking.] You wasted the Hog. And it is a big problem, man, because he held the place together. And we don't want everything here to go to shit. This place needs someone cheeky enough to lead it. And we are observing your doings for a long time already - the Rainbow makes everyone to show their true colors, you know... So, my boys think that you are suited for this position, and I agree with them. Your turn, champ. Tell me, what you think. And take this, as a gesture of good will. It's called "Rapture" - a pretty rare stuff, you won't find it anywhere else. [he hands you something]}
 {341}{036}{Why the hell not? I think I can do it. No need for inauguration, I'm too humble for that.}
 {342}{036}{I'm in. Tell me, what's the deal around here at the moment.}
 {343}{035}{Nah, it's not for me. Solve your problems by yourselves.}
