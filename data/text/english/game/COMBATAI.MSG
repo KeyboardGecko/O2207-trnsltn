@@ -3302,7 +3302,7 @@
 {3376}{}{[grits teeth]}
 {3377}{}{[flashes eyes]}
 {3378}{}{Let's see your blood!}
-{3379}{}{Here's a pitch!}
+{3379}{}{Here's a tough one!}
 #
 # MOVE
 #
@@ -4648,8 +4648,8 @@
 {4372}{}{You're done, mate!}
 {4373}{}{Gimme your munny?}
 {4374}{}{You what mate? I'll wreck you!!}
-{4375}{}{You what! Take this!}
-{4376}{}{Here's a pitch!}
+{4375}{}{You twat! Take this!}
+{4376}{}{Here's a tough one!}
 {4377}{}{Ha-ha!!}
 {4378}{}{Take this one!}
 {4379}{}{Take that!}
