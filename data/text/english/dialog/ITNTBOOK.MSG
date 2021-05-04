@@ -33,15 +33,15 @@
 {9}{}{9) }
 #######################
 {100}{}{List of my Adventures!}
-{101}{}{Find and return Dad's wrench}
-{102}{}{Help my brother deal with the Bully}
-{103}{}{Get a "RadOut" for Kathy's mom}
+{101}{}{Find and bring back Dad's wrench}
+{102}{}{Help my brother to deal with Bully}
+{103}{}{Get a "RadOut" for Catty's mom}
 {104}{}{Find the cause of Lavash illness}
-{105}{}{Assemble the filter and repair the water pump}
+{105}{}{Assemble the pump filter and repair the water filtering unit}
 {106}{}{Repair the fuse box}
-{107}{}{Collect 24 corn cobs for Kathy}
+{107}{}{Collect 24 corn cobs for Catty}
 {108}{}{Bring a bottle of moonshine to the guard}
-{109}{}{Bring the barrels of water to the Lavash keepers}
+{109}{}{Carry the barrels of water to the Lavash keepers}
 {110}{}{Bring medicine to the Purgatory guard}
 {111}{}{Find out what happened to Dad}
 {112}{}{A new entry has been added to your personal diary.}
@@ -51,7 +51,7 @@
 {201}{}{There's a note in the organizer about something called "Renaissance". On occasion, you should try to learn more.}
 {202}{}{I have all the parts of the Renaissance map! The coordinates are in the organizer, I should definitely go there.}
 {203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck and Hinder about Sam.}
-{204}{}{I'm the new head of the NWO... What orders do I give out now?}
+{204}{}{I'm the new head of the NWO... Can I give orders now?}
 {205}{}{It looks like you can get into Olympus under the guise of this Douglas guy. I need the same uniform and his badge...}
 {206}{}{List of items for Olympus: "Rapture", Ultra-Repair-Kit, Plasma rifle prototype and the NWO Encyclopedia.}
 {207}{}{Just in case, I'll write down the code from the panel at Zochkis level: 2358.}

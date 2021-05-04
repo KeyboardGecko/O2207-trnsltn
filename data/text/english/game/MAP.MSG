@@ -667,7 +667,7 @@
 {1529}{}{Girl with a Tank}
 {1530}{}{Lone Wanderer}
 {1531}{}{Abandoned Settlement}
-{1532}{}{Biker with Guitar}
+{1532}{}{Biker}
 {1533}{}{Outpost}
 {1534}{}{Tent Camp}
 {1535}{}{Graves}
