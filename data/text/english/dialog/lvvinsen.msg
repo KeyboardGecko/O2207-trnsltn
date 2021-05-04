@@ -236,13 +236,13 @@
 {3702}{}{No, access to Livos is allowed only to its members who are hereditary nobles and aristocrats. Vagrants are strictly forbidden. If you try to get through, I'll turn the turret on.}
 {371}{038}{I was asked by the NWO to find out what happened to the water supply. There was a taste is water, people are worried.}
 {372}{039}{I'm not a tramp! I am a famous nobleman in where I came from! I can become a member of your family for our common benefit.}
-{373}{045}{Wonderful! I've been looking for you for so long! This is a refuge with my distant relatives, true aristocrats!}
+{373}{045}{Wonderful! I've been looking for you for so long! A home of my distant relatives, true aristocrats!}
 {374}{058}{I brought you the Constitution, didn't I deserve to be one of you?}
-{375}{010}{Clear. I'll ask again.}
+{375}{010}{Understood. I'd like to ask something else.}
 {376}{999}{Okay. I'll come later.}
 
 {380}{}{[Edward looks at you with bewilderment] Uh-uh... I don't know anything about this. I do not supply water. Ask Christopher, he is at the trading table, maybe he knows.}
-{381}{010}{I'll ask again.}
+{381}{010}{I'd like to ask something else.}
 {382}{999}{I'll go talk to him.}
 
 {390}{}{[Edward looks at you with suspicion.] Really? You look more like an ordinary vagabond, rather than a rich and famous person. It is full of beggar rabble, novadays everyone wants to become a member of Livos. What evidence do you have?}

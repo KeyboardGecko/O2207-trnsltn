@@ -71,7 +71,7 @@
 {1013}{}{[spins her breasts]}
 {1014}{}{[looks at you, sensually breathing]}
 {1015}{}{[dances clumsily]}
-{1016}{}{[pulls out her panties, demonstrating herself to the clients]}
+{1016}{}{[pulls her panties, demonstrating herself to the clients]}
 {1017}{}{Someone like it hot.}
 {1018}{}{[a couple drops of sweat are running down her forehead]}
 {1019}{}{[she leans forward, squeezing her breasts]}

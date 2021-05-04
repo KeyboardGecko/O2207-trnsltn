@@ -51,7 +51,7 @@
 {101}{}{... So glad to see you... Here...}
 {102}{}{[he calmly looks at you]}
 {103}{}{Dad! How are you feeling?}
-{104}{}{I'm glad that you are alright. Maybe you need me to carry you something? I can go outside, remember.}
+{104}{}{I'm glad that you are alright. Maybe you need me to bring you something? I can go outside, remember?}
 {105}{}{Good that you are feeling better. See you later.}
 {106}{}{Nothing. See you around.}
 {110}{}{Your medicine had helped. Everything was... Blurry. I think I saw Elise... Excuse me, I still don't feel completely well. It's hard for me to talk.}
@@ -64,7 +64,7 @@
 {123}{}{I'll think about it in my spare time.}
 {130}{}{[he sighs again] I hope you know what you're doing. Take care of yourself, }
 {131}{}{.}
-{132}{}{Of course. Don't worry about me.}
+{132}{}{Of course. Don't worry about me. How are you feeling?}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß (Ïîëîæèòåëüíàÿ ğåàêöèÿ)
 #

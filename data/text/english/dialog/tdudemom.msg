@@ -94,7 +94,7 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
-{1000}{}{Hey there, Sweetie!}
+{1000}{}{Hey there, Sweetie! }
 {1001}{}{How are you feeling? Does your tummy hurt?}
 {1002}{}{Honey, this isn't the time. Go play with your brother.}
 {1003}{}{Honey, Mom needs to do some work.}

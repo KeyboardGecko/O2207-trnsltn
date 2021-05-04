@@ -44,7 +44,7 @@
 {11}{002}{Yes, it's-}
 {12}{002}{No, it's not me.}
 
-{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods didn't forget how you ran off after the guard's death.}
+{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgot how you ran off after the guard's death.}
 {21}{003}{Yeah, I'm glad to see you too, Catty.}
 {22}{004}{I didn't even lay a finger on that guard!}
 {23}{005}{I was actually trying to help that guard!}
@@ -109,7 +109,7 @@
 {170}{}{Oh Gods, just take off this goddamn helmet!}
 {171}{003}{Okay... [take off your helmet]}
 
-{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods didn't forget how you ran off after the guard's death.}
+{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgot how you ran off after the guard's death.}
 {181}{019}{You know, I'm wearing this armor not just for kicks.}
 
 {190}{}{Yeah... Sure... [Catty still looks nervous. She makes sure no one is looking one more time, then sighs and silently hugs you] Oh Gods... I'm so glad to see you again. I never thought you'd survive... I've seen the guard's corpse. The wounds were... Scary. And he had armor on him, unlike you. And that damn guards still think that it was you who killed him. They have their brains completely murky from all of the booze...}
@@ -181,7 +181,7 @@
 {351}{999}{I should think it over. [end of dialogue]}
 {352}{010}{I need... Let's talk about something else.}
 
-{360}{}{Tell me, of course! I'm very curious!}
+{360}{}{Of course! Tell me, I'm very curious!}
 {361}{037}{[tell her some insignificant details from your travels]}
 {362}{038}{Do you know what Livos is?}
 {363}{039}{Did you know that there are settlements where everyone is treated equally, and where the leader is someone of its inhabitants?}

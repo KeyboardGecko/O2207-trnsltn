@@ -68,7 +68,7 @@
 
 
 {1201}{}{And I'd like a blowjob from both of Hog's bitches simultaneously. Want to get to the Arena? Come and fight. That's the rule.}
-{121}{013}{Here's how it is... That thing belonged to one Seeker, who's at the Bar now. Get it? He's always going around Radius, knows every nook. You would want to have such man as a friend. And if I can't go to Arena, maybe you could help? It's a badge, you can't mix it up. And I'll have a word with him for you.  }
+{121}{013}{Here's how it is... That thing belonged to one Seeker, who's at the Bar now. Get it? He's always going around Radius, knows every nook. You would want to have a friend like him. And if I can't go to Arena, maybe you could help? It's a badge, you can't mix it up. And I'll have a word with him for you.  }
 {122}{015}{This is definitely an option. Is there anyone ready to stand against me?}
 {123}{999}{If that's how it is - I'd better go.}
 {1202}{}{No problem, champ! You can stop asking, because this is your second home now! Haha!}
@@ -77,7 +77,7 @@
 {125}{999}{Uh... Yeah, thanks. I'm going.}
 
 
-{130}{}{Well, yeah, but... Wait a second... [he leaves. You observe local flies for some time, then he returns] Here. But if you try to fuck me up... [he shows you his metal teeth] I'll give you a lot of unforgettable moments on the Arena.}
+{130}{}{Well, yeah, but... Wait a second... [he leaves. You observe local flies for some time, then he returns] Here. But if you try to fuck me up, I'll give you a lot of unforgettable moments on the Arena. [he smiles, showing his metal teeth]}
 {131}{999}{Everything's going to be alright, man! Don't you doubt it. Okay, see you around.}
 {132}{999}{Did I ever lie to you? No! Let's not waste time then. Thanks again, for your help.}
 

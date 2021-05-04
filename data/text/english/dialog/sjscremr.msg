@@ -128,7 +128,7 @@
 {232}{999}{Uh, um... Just rumors, nothing serious. Well, it's time for me to go.}
 
 
-{2401}{}{[He is definitely not in the mood and the sight of you doesn't make it better] Why the hell I see you ventilating your balls near the room door to my bitch, you dirty rat poop?! ANSWER ME!!}
+{2401}{}{[He is definitely not in the mood and the sight of you doesn't make it better] Why the hell I see you ventilating your balls near the door to my bitch, you dirty rat poop?! ANSWER ME!!}
 {241}{030}{What? I didn't even know there was someone in there! I just liked this door, you know... I love doors.}
 {242}{025}{There's no one inside anyway! I've just seen her walking out and going riiiight there...}
 {243}{026}{At last I found you! I have a very important information, you're gonna thank me later!}
@@ -146,7 +146,7 @@
 
 
 {260}{}{[He menacingly approaches you] The fuck? What could you possibly have to tell me?!}
-{261}{027}{I managed to overhear a couple of your Jackals talking - I've always been very curious, you know. I've heard them talking about something important and snuck upon them to eavesdrop...}
+{261}{027}{I recently eavesdropped on a couple of your Jackals - I'm very curious, you know... So, I've heard them talking about something important and snuck upon them...}
 {262}{027}{Yes, you are right, don't know what came over me... But your girl isn't there, I saw her walking away in that direction, just before you arrived.}
 {263}{999}{I have nothing to do here, sorry. I won't stop you anymore.}
 
@@ -154,12 +154,12 @@
 {270}{}{[His spit flies around when he talks] What? Snuck? The one like you wouldn't snuck even upon a Jackal who's blind and deaf! Try to piss into my ears one more time and I will turn your insides out!! Got it? Now fucking shoo, pick up the speed!!}
 {271}{031}{Be that as it may, you won't enter this room.}
 {272}{999}{I see, I'm going...}
-{273}{}{[He tries not to look like it, but your words definitely sparked some interest in him] Why did you stop? Go on.}
-{274}{028}{Of course, I can't tell for sure - there was dark there, I heard not very clearly... But in short they were planning to catch up with the Hog's man at some factory, near the water barrels. They meet in an hour, today.}
-{275}{999}{You know, I've just remembered something! I need to run. Find you later, 'kay?}
+{273}{}{[He tries to hide it, but your words definitely sparked some interest in him] Why did you stop? Go on.}
+{274}{028}{Of course, I can't tell for sure - there was dark there, and what I've heard was not very clear... But in short they were planning to catch up with the Hog's man at some factory, near the water barrels. They meet in an hour, today.}
+{275}{999}{You know, I've just remembered something! I need to run. Catch you later, 'kay?}
 
 
-{280}{}{A Hog's man? Another bitch running to this pig? Fucking assholes!! [He grabs for the gun with rabid look, but almost immediately comes to senses] Sure or not, I need to check on it. Right fucking now!! [he turns around and hastily walks away]}
+{280}{}{A Hog's man? Another bitch running away to join this pig? Fucking assholes!! [With a rabid look, he reaches for the gun - but almost immediately comes to his senses] True or not, I need to check it. Right fucking now!! [he turns around and hastily walks away]}
 {281}{999}{Good luck! And you're welcome.}
 
 

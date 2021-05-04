@@ -55,7 +55,7 @@
 {51}{002}{[continue]}
 
 #Node010
-{1000}{}{[He either doesn't hear you, or trying to make it look like it. Now he just stares at you]}
+{1000}{}{[He either didn't hear you, or tries to make it look like it. Now he just stares.]}
 {1001}{}{You again? What do you want?}
 {1002}{}{Commander?}
 {101}{011}{I have some questions.}
@@ -219,7 +219,7 @@
 #Node040
 {400}{}{Okay. Three hundred - one way, remember? Where to?}
 {401}{999}{Livos.}
-{402}{999}{Raibow.}
+{402}{999}{Rainbow.}
 {403}{999}{Jackals.}
 
 #Node041

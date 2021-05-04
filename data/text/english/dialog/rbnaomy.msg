@@ -20,15 +20,15 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Her lab coat is pretty worn, albeit clean. Her face is a mask of exhaustion and strain, green eyes are looking at you dismissively] Who the hell are you? How many times do I have to tell - don't bother me, while I'm working! I'm not even talking about the need to desinfect the place after every other narrow-minded oligophren walking in here...}
+{10}{}{[Her lab coat is pretty worn, albeit clean. Her face is a mask of exhaustion and strain, green eyes are looking at you dismissively] Who the hell are you? How many times do I have to tell - don't bother me while I'm working! I'm not even talking about the need to desinfect the place after every other narrow-minded oligophren walking in here...}
 {11}{011}{Sorry, didn't mean to interrupt. We haven't met, by the way. I'm }
 {12}{999}{. And you are?}
 {13}{999}{Sheesh, lady, chill! I'm already leaving. The name's }
 {14}{}{, by the way. Nice to meet you.}
 
 
-{1001}{011}{[She indifferently nods] Good day to you... How's the life behind the walls going? And what's the reason I have to tolerate you here again? Maybe, you are here for "de ting to have a hard-on for anoder twentee for ours"? Geez... Oh, and tell Hog that the next batch will be ready in time.}
-{101}{015}{Remind me, please, who are you, actually?}
+{1001}{011}{[She indifferently nods] Good day to you... How's the life behind the walls going? And - what's the reason I have to tolerate you here again? Maybe, you came for "de ting to have a hard-on for anoder twentee for ours"? Geez... Oh, and tell Hog that the next batch will be ready in time.}
+{101}{015}{Remind me, who are you, actually?}
 {102}{014}{I wanted to talk about your situation here.}
 {103}{999}{I definintely will. By the way, what can you tell me about him?}
 {104}{999}{I was just lookind around. Good day to you too.}
@@ -53,7 +53,7 @@
 {123}{}{Thanks for the info, but I need to go.}
 
 
-{130}{022}{The Drop? The Drop is a perfect drug with instantaneous effect. Has a direct impact on the adjacent core of limbic system, causing the feeling of euphoria, among other things. Addiction forms from the very first dose in 98,14% of cases. The pre-war "Combatid" drug is used as a basis for it. My father made some changes to the formula, while researching unique properties of fire ant feromones... But I don't have time for lecturing, and you wouldn't understand details. Good if even a little part of what I've just said stuck in this primate head of yours.}
+{130}{022}{The Drop? The Drop is a perfect drug with instantaneous effect. Has a direct impact on the adjacent core of limbic system, causing the feeling of euphoria, among other things. Addiction forms from the very first dose in 98,14% of cases. The pre-war "Combatid" drug is used as a basis for it. My father made some changes to the formula while researching unique properties of fire ant feromones... But I don't have time for lecturing, and you wouldn't understand details. You're lucky if even a little part of what I've just said stuck in this primate head of yours.}
 {131}{021}{Your father must have been very famous scientist. Could I hear his name?}
 {132}{999}{Do you give this scientific mumbo-jumbo bullshit to everyone you see? If you do - I guess you don't have a lot of friends, haha!}
 {133}{999}{Thanks for the information. but I need to go. Take care.}
@@ -86,12 +86,12 @@
 
 
 {180}{019}{[You notice a shadow of emotion on her tired face] Why would I trust you? Maybe the Hog sent you to test my loyalty! And... There's that sleazy guy near the entrance...}
-{181}{021}{Do you really thing that Hog would do something like this? You work for him, and for him that's enough. As for the guard - I'll handle him. don't worry.}
-{182}{999}{Why should I smooth talk you into this? Out, now!}
+{181}{021}{Do you really thing that Hog would do something like this? You work for him, he's satisfied with that. As for the guard - it's my problem, don't you worry.}
+{182}{999}{Why should I smooth-talk you into this? Out, now!}
 {183}{}{Uh, I didn't think about it... Okay. see you later then.}
 
 
-{190}{020}{[She bites her lip, glancing on the entrance. Then she suddenly giggles] Okay, let's do it! What do I lose? Just a second... [She opens the drawer in her table and starts to pack some things into her pockets. It looks like she thought about running away before!] Done, I'm ready!}
+{190}{020}{[She bites her lip, glancing over the entrance. Then suddenly giggles] Okay, let's do it! What do I lose? Just a second... [She opens the drawer in her table and starts to hastily put things into her pockets. Looks like she was thinking about running away before you came] Done, I'm ready!}
 {191}{025}{Good. Let's not waste any more time then.}
 {192}{}{Great! But, uh... Er... You go, I'm right behind you. I'll cover you if there's a problem.}
 
@@ -102,7 +102,7 @@
 {210}{999}{Put that thing back, you crazy bitch! I'm leaving!}
 {211}{}{Apologies. All the best.}
 
-{223}{013}{My father was Carlos Young... The brightest mind, the best chemist in Radius. And it's not only an opinion of his daughter, but a fact. Self-taught, he showed everyone! He invented the Drop... And he always loved me... Anyway, we're not here to remember the past. Understand this - even if there were a some kind of collective inteligence on the Rainbow, it couldn't create anything even slightly comparable with a tiny bit of his research.}
+{223}{013}{My father was Carlos Young... The brightest mind, the best chemist in Radius. And it's not only an opinion of his daughter, but a fact. Self-taught, he showed everyone! He invented the Drop... And he always loved me... Anyway, we're not here to remember the past. Understand this - even if some kind of collective inteligence would have existed on the Rainbow, it wouldn't be able to create anything even slightly comparable to a tiny bit of his research.}
 {220}{999}{You are a worthy daughter, to remember him like that. What about the Drop?}
 {221}{021}{I see. Well, I'm off, all the best.}
 {222}{}{I'm so sick of you bragging about your smart brain! Here's a secret for you - if the skull is smashed, they all look the same, smart or stupid! Wanna see?}
@@ -112,7 +112,7 @@
 {230}{}{Just wonderful. We've spent more time talking about it... Won't be distracting you anymore, you have a lot of work to do. Good luck!}
 
 
-{240}{018}{[she still sounds sarcastic, but you hear doubt in her voice] How could YOU know something about the science? I don't think you can even read... The Drop is a unique chemical compound, researching it is a delight for any scientist! By the way, I have food, roof over my head, protection... How many people in Radius can say the same?}
+{240}{018}{[she still sounds sarcastic, but you hear doubt in her voice] How could YOU know something about being the scientist? I don't think you can even read... The Drop is a unique chemical compound, researching it is a delight! By the way, I have food, roof over my head, protection... How many people in Radius can say the same?}
 {241}{018}{Sure, sure. Are you trying to convince me, or yourself? I can see that this job is not making you happy. There's a plenty of places where your skills could have a better application! Where you could help people, make a difference!}
 {242}{999}{Oh really? Why didn't you make any progress in your research then? I know enough about chemistry to name some fields where you, judging by what I see, weren't even trying to make an improvement. Heterogeneous catalysts, enzyme inhibitors... Do I need to continue?}
 {243}{999}{Suit yourself. All the best.}

@@ -102,12 +102,12 @@
 {134}{999}{Good. You know, I need to go now.}
 
 #Node014
-{140}{}{I don't like to brag about others, except someone who got caught with his pants down between the legs of some beauty, hahaha!! I'm Burns, I work for NWO's mayor. Now it's Mark, so for now - I work for him.}
+{140}{}{I don't like to brag about others, except the ones who got caught with his pants down between the legs of some beauty, hahaha!! I'm Burns, I work for NWO's mayor. Now it's Mark, so for now - I work for him.}
 {141}{015}{"For now"? Why, are you leaving?}
 {142}{016}{Tell me about Mark.}
 {143}{019}{Tell me more about yourself.}
 {144}{010}{Another question then.}
-{145}{}{I don't like to brag about others, except someone who got caught with his pants down between the legs of some beauty, hahaha!! Actually, I don't have much to say. You'd better talk with everyone personally.}
+{145}{}{I don't like to brag about others, except the ones who got caught with his pants down between the legs of some beauty, hahaha!! Actually, I don't have much to say. You'd better talk with everyone personally.}
 {146}{016}{Tell me about Mark.}
 {147}{019}{Tell me more about yourself.}
 {148}{010}{Another question then.}
@@ -130,7 +130,7 @@
 {1701}{}{After Mark dies, his son Daniel should succeed him. But everybody says that Daniel is a wussie and a total moron, so I suppose there are some options... Listen, I was thinking that you could help me sort this shit out. I will protect a new Mayor in any case, whoever he would be. But every person has weaknesses, enemies and such. So, I need to prepare. Try to find out who will succeed Mark. Talk to Mark himself, and ask others around here, what do they think about it. Will you do this for me?}
 {1702}{}{Shit, that's what I want to know! I'd like you to talk to people and figure it out. Would you?}
 {171}{010}{Probably not, I have a lot of things to do. I'd better ask a question.}
-{172}{010}{Okay, I'll do it. I'll talk to Mark about his successor. And now - to other questions.}
+{172}{010}{Sure. I'll talk to Mark about his successor. And now - to other questions.}
 
 #Node018
 {180}{}{NWO will quickly descend into the depths of the same ass from which Mark tried to pull it out the most of his life! The town will drown in Lavash shit and dissolve in it, like a piss in the river.}

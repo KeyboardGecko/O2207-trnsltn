@@ -57,10 +57,10 @@
 {307}{}{25mm}
 {308}{}{40mm}
 {309}{}{9mm}
-{310}{}{Large Battery}
-{311}{}{Small Battery}
+{310}{}{BigBat energy cell}
+{311}{}{MiniBat energy cell}
 {312}{}{Rubber Bullet}
-{313}{}{Darts}
+{313}{}{Dart}
 {314}{}{Magnum}
 {315}{}{Napalm}
 {316}{}{Rocket}

@@ -7,116 +7,116 @@
 {100}{}{You need %d action points.}
 {101}{}{Out of ammo.}
 {102}{}{Target is too far away.}
-{103}{}{The battle can't be ended while enemies are nearby.}
-{104}{}{Target is out of range.}
-{105}{}{You can't use weapons with your hands broken.}
-{106}{}{You can't use two-handed weapon with a broken arm.}
-{107}{}{You are not strong enough to use this weapon.}
+{103}{}{Combat cannot end with nearby hostile creatures.}
+{104}{}{Your aim is blocked.}
+{105}{}{You cannot use weapons with both arms crippled.}
+{106}{}{You cannot use two-handed weapons with a crippled arm.}
+{107}{}{You are not strong enough to use this weapon properly.}
 {108}{}{ and }
 #
 # Combat Flag Strings (all of these happen to you, the MALE player)
 #
-{200}{}{unconscious}
-{201}{}{unconscious}
-{202}{}{your left leg is damaged}
-{203}{}{your right leg is damaged}
-{204}{}{your left hand is damaged}
-{205}{}{your right hand is damaged}
+{200}{}{knocked out}
+{201}{}{knocked down}
+{202}{}{crippled your left leg}
+{203}{}{crippled your right leg}
+{204}{}{crippled your left arm}
+{205}{}{crippled your right arm}
 {206}{}{blinded}
-{207}{}{dead}
-{208}{}{wounded}
+{207}{}{were killed}
+{208}{}{hit}
 {209}{}{critical}
-{210}{}{под огнем}
-{211}{}{ваша броня пробита}
-{212}{}{ваше оружие взорвалось}
-{213}{}{ваше оружие уничтожено}
-{214}{}{ваше оружие упало}
-{215}{}{потерял следующий ход}
-{216}{}{попал в себя}
-{217}{}{потерял все патроны}
-{218}{}{хреново выстрелил}
-{219}{}{попал в себя}
-{220}{}{случайно попал}
-{221}{}{поврежден какой-то член тела}
-{222}{}{усыпан кусками}
+{210}{}{on fire}
+{211}{}{had your armor bypassed}
+{212}{}{your weapon exploded}
+{213}{}{your weapon destroyed}
+{214}{}{your weapon dropped}
+{215}{}{lost your next turn}
+{216}{}{hit yourself}
+{217}{}{lost the rest of your ammo}
+{218}{}{fired a dud shot}
+{219}{}{hurt yourself}
+{220}{}{hit randomly}
+{221}{}{crippled a random limb}
+{222}{}{peppered with fragments}
 #
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
-{250}{}{unconscious}
-{251}{}{unconscious}
-{252}{}{your left leg is damaged}
-{253}{}{your right leg is damaged}
-{254}{}{your left hand is damaged}
-{255}{}{your right hand is damaged}
+{250}{}{knocked out}
+{251}{}{knocked down}
+{252}{}{crippled your left leg}
+{253}{}{crippled your right leg}
+{254}{}{crippled your left arm}
+{255}{}{crippled your right arm}
 {256}{}{blinded}
-{257}{}{killed}
-{258}{}{wounded}
+{257}{}{were killed}
+{258}{}{hit}
 {259}{}{critical}
-{260}{}{под огнем}
-{261}{}{ваша броня пробита}
-{262}{}{ваше оружие взорвалось}
-{263}{}{ваше оружие уничтожено}
-{264}{}{ваше оружие упало}
-{265}{}{потерял следующий ход}
-{266}{}{попал в себя}
-{267}{}{потерял все патроны}
-{268}{}{хреново выстрелил}
-{269}{}{попал в себя}
-{270}{}{случайно попал}
-{271}{}{поврежден какой-то член тела}
-{272}{}{усыпан кусками}
+{260}{}{on fire}
+{261}{}{had your armor bypassed}
+{262}{}{your weapon exploded}
+{263}{}{your weapon destroyed}
+{264}{}{your weapon dropped}
+{265}{}{lost your next turn}
+{266}{}{hit yourself}
+{267}{}{lost the rest of your ammo}
+{268}{}{fired a dud shot}
+{269}{}{hurt yourself}
+{270}{}{hit randomly}
+{271}{}{crippled a random limb}
+{272}{}{peppered with fragments}
 #
 # Combat Flag Strings (all of these happen to a male)
 #
-{300}{}{unconscious}
-{301}{}{unconscious}
-{302}{}{повредил его левую ногу}
-{303}{}{повредил его правую ногу}
-{304}{}{повредил его левую руку}
-{305}{}{повредил его правую руку}
+{300}{}{knocked out}
+{301}{}{knocked down}
+{302}{}{crippled his left leg}
+{303}{}{crippled his right leg}
+{304}{}{crippled his left arm}
+{305}{}{crippled his right arm}
 {306}{}{blinded}
-{307}{}{убит}
-{308}{}{wounded}
+{307}{}{was killed}
+{308}{}{hit}
 {309}{}{critical}
-{310}{}{под огнем}
-{311}{}{его броня пробита}
-{312}{}{его оружие взорвалось}
-{313}{}{его оружие уничтожено}
-{314}{}{его оружие упало}
-{315}{}{потерял следующий ход}
-{316}{}{попал в себя}
-{317}{}{потерял все патроны}
-{318}{}{хреново выстрелил}
-{319}{}{попал в себя}
-{320}{}{случайно попал}
-{321}{}{поврежден какой-то член тела}
-{322}{}{усыпан кусками}
+{310}{}{on fire}
+{311}{}{had his armor bypassed}
+{312}{}{his weapon exploded}
+{313}{}{his weapon destroyed}
+{314}{}{his weapon dropped}
+{315}{}{lost his next turn}
+{316}{}{hit himself}
+{317}{}{lost the rest of his ammo}
+{318}{}{fired a dud shot}
+{319}{}{hurt himself}
+{320}{}{hit randomly}
+{321}{}{crippled a random limb}
+{322}{}{peppered with fragments}
 #
 # Combat Flag Strings (all of these happen to a female)
 #
-{400}{}{unconscious}
-{401}{}{unconscious}
-{402}{}{повредили ее левую ногу}
-{403}{}{повредили ее правую ногу}
-{404}{}{повредили ее левую руку}
-{405}{}{повредили ее правую руку}
-{406}{}{blindedа}
-{407}{}{убита}
-{408}{}{woundedа}
+{400}{}{knocked out}
+{401}{}{knocked down}
+{402}{}{crippled her left leg}
+{403}{}{crippled her right leg}
+{404}{}{crippled her left arm}
+{405}{}{crippled her right arm}
+{406}{}{blinded}
+{407}{}{was killed}
+{408}{}{hit}
 {409}{}{critical}
-{410}{}{под огнем}
-{411}{}{ее броня пробита}
-{412}{}{ее оружие взорвалось}
-{413}{}{ее оружие уничтожено}
-{414}{}{ее оружие упало}
-{415}{}{потеряла следующий ход}
-{416}{}{попала в себя}
-{417}{}{потеряла все патроны}
-{418}{}{хреново выстрелила}
-{419}{}{попала в себя}
-{420}{}{случайно попала}
-{421}{}{поврежден какой-то член тела}
-{422}{}{усыпана кусками}
+{410}{}{on fire}
+{411}{}{had her armor bypassed}
+{412}{}{her weapon exploded}
+{413}{}{her weapon destroyed}
+{414}{}{her weapon dropped}
+{415}{}{lost her next turn}
+{416}{}{hit herself}
+{417}{}{lost the rest of her ammo}
+{418}{}{fired a dud shot}
+{419}{}{hurt herself}
+{420}{}{hit randomly}
+{421}{}{crippled a random limb}
+{422}{}{peppered with fragments}
 #
 # Miscellaneous combat messages (all of these happen to you, the male player)
 # Note: the first  will be replaced by the value of line 506, which
@@ -127,24 +127,24 @@
 #          will be a string from the section Hit Locations starting
 #          in the 1000's in this file, with the exception of line 509
 #          where the second  is the name of another creature
-{506}{}{Вы}
-{509}{}{Ой! woundedы %s, а не %s!}
-{511}{}{%s были критически woundedы в %s на %d оч. жизни}
-{512}{}{%s были woundedы в %s на %d оч. жизни}
-{513}{}{%s woundedы на %d оч. жизни}
-{514}{}{%s критически промахнулись}
-{515}{}{%s промазали}
-{520}{}{%s были критически woundedы на %d оч. жизни}
-{521}{}{%s были критически woundedы в %s на 1 оч. жизни}
-{522}{}{%s были woundedы в %s на 1 оч. жизни}
-{523}{}{%s были woundedы на 1 оч. жизни}
-{524}{}{%s были критически woundedы на 1 оч. жизни}
-{525}{}{%s перенесли критическое woundedие в %s без последствий}
-{526}{}{%s выдержали попадание в %s без последствий}
-{527}{}{%s перенесли woundedие без последствий}
-{528}{}{%s перенесли критическое woundedие без последствий}
-{533}{}{%s критически промахнулись и потеряли 1 оч. жизни}
-{534}{}{%s критически промахнулись и потеряли %d оч. жизни}
+{506}{}{You}
+{509}{}{Oops! %s were hit instead of %s!}
+{511}{}{%s were critically hit in %s for %d hit points}
+{512}{}{%s were hit in %s for %d hit points}
+{513}{}{%s were hit for %d hit points}
+{514}{}{%s critically missed}
+{515}{}{%s missed}
+{520}{}{%s were critically hit for %d hit points}
+{521}{}{%s were critically hit in %s for 1 hit point}
+{522}{}{%s were hit in %s for 1 hit point}
+{523}{}{%s were hit for 1 hit point}
+{524}{}{%s were critically hit for 1 hit point}
+{525}{}{%s were critically hit in %s for no damage}
+{526}{}{%s were hit in %s for no damage}
+{527}{}{%s were hit for no damage}
+{528}{}{%s were critically hit for no damage}
+{533}{}{%s critically missed and took 1 hit point}
+{534}{}{%s critically missed and took %d hit points}
 #
 # Miscellaneous combat messages (all of these happen to you, the female player)
 # Note: the first  will be replaced by the value of line 556, which
@@ -155,24 +155,24 @@
 #          will be a string from the section Hit Locations starting
 #          in the 1000's in this file, with the exception of line 559
 #          where the second  is the name of another creature
-{556}{}{Вы}
-{559}{}{Ой! woundedы %s, а не %s!}
-{561}{}{%s были критически woundedы в %s на %d оч. жизни}
-{562}{}{%s были woundedы в %s на %d оч. жизни}
-{563}{}{%s woundedы на %d оч. жизни}
-{564}{}{%s критически промахнулись}
-{565}{}{%s промазали}
-{570}{}{%s были критически woundedы на %d оч. жизни}
-{571}{}{%s были критически woundedы в %s на 1 оч. жизни}
-{572}{}{%s были woundedы в %s на 1 оч. жизни}
-{573}{}{%s были woundedы на 1 оч. жизни}
-{574}{}{%s были критически woundedы на 1 оч. жизни}
-{575}{}{%s перенесли критическое woundedие в %s без последствий}
-{576}{}{%s выдержали попадание в %s без последствий}
-{577}{}{%s перенесли woundedие без последствий}
-{578}{}{%s перенесли серьезное woundedие без последствий}
-{583}{}{%s критически промахнулись и потеряли 1 оч. жизни}
-{584}{}{%s критически промахнулись и потеряли %d оч. жизни}
+{556}{}{You}
+{559}{}{Oops! %s were hit instead of %s!}
+{561}{}{%s were critically hit in %s for %d hit points}
+{562}{}{%s were hit in %s for %d hit points}
+{563}{}{%s were hit for %d hit points}
+{564}{}{%s critically missed}
+{565}{}{%s missed}
+{570}{}{%s were critically hit for %d hit points}
+{571}{}{%s were critically hit in %s for 1 hit point}
+{572}{}{%s were hit in %s for 1 hit point}
+{573}{}{%s were hit for 1 hit point}
+{574}{}{%s were critically hit for 1 hit point}
+{575}{}{%s were critically hit in %s for no damage}
+{576}{}{%s were hit in %s for no damage}
+{577}{}{%s were hit for no damage}
+{578}{}{%s were critically hit for no damage}
+{583}{}{%s critically missed and took 1 hit point}
+{584}{}{%s critically missed and took %d hit points}
 #
 # Miscellaneous combat messages (all of these happen to a male)
 # Note: the first  is the name of the male creature
@@ -181,24 +181,24 @@
 #          in the 1000's in this file, with the exception of line 609
 #          where the second  is the name of another creature
 #
-{608}{}{Ого! Вместо вас был wounded %s!}
-{609}{}{Ух! Был wounded %s, а не %s!}
-{611}{}{%s был критически wounded в %s на %d оч. жизни}
-{612}{}{%s получил woundedие в %s на %d оч. жизни}
-{613}{}{%s wounded на %d оч. жизни}
-{614}{}{%s критически промахнулся}
-{615}{}{%s промазал}
-{620}{}{%s был критически wounded на %d оч. жизни}
-{621}{}{%s был критически wounded в %s на 1 оч. жизни}
-{622}{}{%s получил woundedие в %s на 1 оч. жизни}
-{623}{}{%s получил woundedие на 1 оч. жизни}
-{624}{}{%s был критически wounded на 1 оч. жизни}
-{625}{}{%s выдержал критичное попадание в %s без последствий}
-{626}{}{%s перенес woundedие в %s без последствий}
-{627}{}{%s перенес woundedие без последствий}
-{628}{}{%s выдержал критическое попадание без последствий}
-{633}{}{%s критически промахнулся и потерял 1 оч. жизни}
-{634}{}{%s критически промахнулся и потерял %d оч. жизни}
+{608}{}{Oops! %s was hit instead of you!}
+{609}{}{Oops! %s was hit instead of %s!}
+{611}{}{%s was critically hit in %s for %d hit points}
+{612}{}{%s was hit in %s for %d hit points}
+{613}{}{%s was hit for %d hit points}
+{614}{}{%s critically missed}
+{615}{}{%s missed}
+{620}{}{%s was critically hit for %d hit points}
+{621}{}{%s was critically hit in %s for 1 hit point}
+{622}{}{%s was hit in %s for 1 hit point}
+{623}{}{%s was hit for 1 hit point}
+{624}{}{%s was critically hit for 1 hit point}
+{625}{}{%s was critically hit in %s for no damage}
+{626}{}{%s was hit in %s for no damage}
+{627}{}{%s was hit for no damage}
+{628}{}{%s was critically hit for no damage}
+{633}{}{%s critically missed and took 1 hit point}
+{634}{}{%s critically missed and took %d hit points}
 #
 # Miscellaneous combat messages (all of these happen to a female)
 # Note: the first  is the name of the female creature
@@ -207,24 +207,24 @@
 #          in the 1000's in this file, with the exception of line 709
 #          where the second  is the name of another creature
 #
-{708}{}{Oh! %s was wounded instead of you!}
-{709}{}{%s was wounded instead of %s!}
-{711}{}{%s has been critically wounded in %s on %d damage points}
-{712}{}{%s has been wounded in %s on %d damage points}
-{713}{}{%s is wounded in %d damage points}
+{708}{}{Oops! %s was hit instead of you!}
+{709}{}{Oops! %s was hit instead of %s!}
+{711}{}{%s was critically hit in %s for %d hit points}
+{712}{}{%s was hit in %s for %d hit points}
+{713}{}{%s was hit for %d hit points}
 {714}{}{%s critically missed}
 {715}{}{%s missed}
-{720}{}{%s critically wounded on %d damage points}
-{721}{}{%s получила критическое woundedие в %s на 1 оч. жизни}
-{722}{}{%s woundedа в %s на 1 оч. жизни}
-{723}{}{%s была woundedа на 1 оч. жизни}
-{724}{}{%s критически woundedа на 1 оч. жизни}
-{725}{}{%s перенесла критическое woundedие в %s без последствий}
-{726}{}{%s выдержала попадание в %s без последствий}
-{727}{}{%s перенесла woundedие без последствий}
-{728}{}{%s выдержала критическое попадание без последствий}
-{733}{}{%s критически промахнулась и взяла 1 оч. жизни}
-{734}{}{%s критически промахнулась и взяла %d оч. жизни}
+{720}{}{%s was critically hit for %d hit points}
+{721}{}{%s was critically hit in %s for 1 hit point}
+{722}{}{%s was hit in %s for 1 hit point}
+{723}{}{%s was hit for 1 hit point}
+{724}{}{%s was critically hit for 1 hit point}
+{725}{}{%s was critically hit in %s for no damage}
+{726}{}{%s was hit in %s for no damage}
+{727}{}{%s was hit for no damage}
+{728}{}{%s was critically hit for no damage}
+{733}{}{%s critically missed and took 1 hit point}
+{734}{}{%s critically missed and took %d hit points}
 #
 # Hit Locations (by art_num alias)
 #
@@ -288,38 +288,38 @@
 {1167}{}{crotch}
 {1168}{}{undescribed}
 #
-# Lavache (Mutant 2-Headed Cows) this thil conform to file critters.lst, for exemple for brahmins - mabrom,25
+# Lavache (Mutant Cow) this thil conform to file critters.lst, for exemple for Lavashs - mabrom,25
 #
 {1250}{}{head}
-{1251}{}{hind leg}
-{1252}{}{hind leg}
+{1251}{}{left hindleg}
+{1252}{}{right hindleg}
 {1253}{}{body}
-{1254}{}{front leg}
-{1255}{}{front leg}
+{1254}{}{right foreleg}
+{1255}{}{left foreleg}
 {1256}{}{eyes}
-{1257}{}{вымя}
+{1257}{}{udder}
 {1258}{}{undescribed}
 #
 # dogs
 #
 {1770}{}{head}
-{1771}{}{hind leg}
-{1772}{}{hind leg}
+{1771}{}{hindleg}
+{1772}{}{hindleg}
 {1773}{}{body}
-{1774}{}{front leg}
-{1775}{}{front leg}
+{1774}{}{foreleg}
+{1775}{}{foreleg}
 {1776}{}{eyes}
-{1777}{}{яйца}
+{1777}{}{groin}
 {1778}{}{undescribed}
 #
 # Rat
 #
 {1810}{}{head}
-{1811}{}{front leg}
-{1812}{}{front leg}
-{1813}{}{body}
-{1814}{}{hind leg}
-{1815}{}{hind leg}
+{1811}{}{left paw}
+{1812}{}{right paw}
+{1813}{}{torso}
+{1814}{}{right leg}
+{1815}{}{left leg}
 {1816}{}{little eyes}
 {1817}{}{tail}
 {1818}{}{undescribed}
@@ -333,566 +333,569 @@
 {1824}{}{right leg}
 {1825}{}{left leg}
 {1826}{}{little eyes}
-{1827}{}{genitals}
+{1827}{}{groin}
 {1828}{}{undescribed}
 #
 # Ant
 #
 {1830}{}{head}
-{1831}{}{front leg}
-{1832}{}{front leg}
-{1833}{}{тело}
-{1834}{}{hind leg}
-{1835}{}{hind leg}
-{1836}{}{усики}
-{1837}{}{брюхо}
+{1831}{}{left foreleg}
+{1832}{}{right foreleg}
+{1833}{}{body}
+{1834}{}{right hindleg}
+{1835}{}{left hindleg}
+{1836}{}{feelers}
+{1837}{}{metathorax}
 {1838}{}{undescribed}
 #
 # Radscorpion
 #
 {1850}{}{head}
-{1851}{}{хвост}
-{1852}{}{клешню}
-{1853}{}{панцирь}
-{1854}{}{правые ноги}
-{1855}{}{левые ноги}
+{1851}{}{tail}
+{1852}{}{claw}
+{1853}{}{carapace}
+{1854}{}{forelegs}
+{1855}{}{hindlegs}
 {1856}{}{eyes}
-{1857}{}{нервный центр}
+{1857}{}{ganglion}
 {1858}{}{undescribed}
 #
 # Security Robot
 #
 {1860}{}{head}
-{1861}{}{руку с ракетницей}
-{1862}{}{руку с пушкой}
+{1861}{}{missile hand}
+{1862}{}{руку gun hand}
 {1863}{}{body}
 {1864}{}{right leg}
 {1865}{}{left leg}
-{1866}{}{сенсоры}
-{1867}{}{багажник}
+{1866}{}{sensors}
+{1867}{}{rack}
 {1868}{}{undescribed}
 #
 # Robotron
 #
-{1870}{}{центр координации}
-{1871}{}{левый манипулятор}
-{1872}{}{правый манипулятор}
+{1870}{}{coordination module}
+{1871}{}{left manipulator}
+{1872}{}{right manipulator}
 {1873}{}{body}
-{1874}{}{правую ходильню}
-{1875}{}{левую ходильню}
-{1876}{}{узел питания}
-{1877}{}{резервный модуль}
+{1874}{}{right stilt}
+{1875}{}{right stilt}
+{1876}{}{power node}
+{1877}{}{reserve power node}
 {1878}{}{undescribed}
 #
 # Chimeras
 #
-{1890}{}{рогатую голову}
-{1891}{}{переднюю лапу}
-{1892}{}{переднюю лапу}
-{1893}{}{торс}
-{1894}{}{заднюю лапу}
-{1895}{}{заднюю лапу}
+{1890}{}{horned head}
+{1891}{}{left paw}
+{1892}{}{right paw}
+{1893}{}{torso}
+{1894}{}{right leg}
+{1895}{}{left leg}
 {1896}{}{eyes}
-{1897}{}{паховую область}
+{1897}{}{groin}
 {1898}{}{undescribed}
 #
 # Onca Devils
 #
 {1930}{}{head}
-{1931}{}{переднюю лапу}
-{1932}{}{переднюю лапу}
-{1933}{}{тело}
-{1934}{}{заднюю лапу}
-{1935}{}{заднюю лапу}
+{1931}{}{left paw}
+{1932}{}{right paw}
+{1933}{}{torso}
+{1934}{}{right leg}
+{1935}{}{left leg}
 {1936}{}{eyes}
-{1937}{}{crotch}
+{1937}{}{groin}
 {1938}{}{undescribed}
 #
 # Gun Turret
 #
-{1940}{}{ЦПУ}
-{1941}{}{сервомеханизм пушки}
-{1942}{}{сервомеханизм пушки}
-{1943}{}{раму}
-{1944}{}{сервомеханизм башни}
-{1945}{}{сервомеханизм башни}
-{1946}{}{дальновизор}
-{1947}{}{регулятор}
+{1940}{}{CPU}
+{1941}{}{gun's left servo}
+{1942}{}{gun's right servo}
+{1943}{}{rack}
+{1944}{}{cupola's right servo}
+{1945}{}{cupola's left servo}
+{1946}{}{hypervisor}
+{1947}{}{regulator}
 {1948}{}{undescribed}
 #
 # Urs
 #
-{1950}{}{темечко}
-{1951}{}{переднюю лапу}
-{1952}{}{переднюю лапу}
-{1953}{}{тело}
-{1954}{}{заднюю лапу}
-{1955}{}{заднюю лапу}
+{1950}{}{head}
+{1951}{}{left paw}
+{1952}{}{right paw}
+{1953}{}{torso}
+{1954}{}{right leg}
+{1955}{}{left leg}
 {1956}{}{eyes}
 {1957}{}{crotch}
 {1958}{}{undescribed}
 #
 # Laser turret
 #
-{1990}{}{ЦПУ}
-{1991}{}{опору фокусатора}
-{1992}{}{опору фокусатора}
-{1993}{}{раму}
-{1994}{}{опорный кронштейн}
-{1995}{}{опорный кронштейн}
-{1996}{}{дальновизор}
-{1997}{}{регулятор}
+{1990}{}{CPU}
+{1991}{}{target system's support}
+{1992}{}{target system's support}
+{1993}{}{rack}
+{1994}{}{supporting bracket}
+{1995}{}{supporting bracket}
+{1996}{}{hypervisor}
+{1997}{}{regulator}
 {1998}{}{undescribed}
 #
 # Minigun turret
 #
-{2000}{}{ЦПУ}
-{2001}{}{сервомеханизм спуска}
-{2002}{}{сервомеханизм спуска}
-{2003}{}{раму}
-{2004}{}{опорный кронштейн}
-{2005}{}{опорный кронштейн}
-{2006}{}{дальновизор}
-{2007}{}{регулятор}
+{2000}{}{CPU}
+{2001}{}{trigger's servo}
+{2002}{}{trigger's servo}
+{2003}{}{rack}
+{2004}{}{supporting bracket}
+{2005}{}{supporting bracket}
+{2006}{}{hypervisor}
+{2007}{}{regulator}
 {2008}{}{undescribed}
 #
 # Plasma turret
 #
-{2010}{}{ЦПУ}
-{2011}{}{сервомеханизм спуска}
-{2012}{}{сервомеханизм спуска}
-{2013}{}{раму}
-{2014}{}{опорный кронштейн}
-{2015}{}{опорный кронштейн}
-{2016}{}{дальновизор}
-{2017}{}{регулятор}
+{2010}{}{CPU}
+{2011}{}{trigger's servo}
+{2012}{}{trigger's servo}
+{2013}{}{rack}
+{2014}{}{supporting bracket}
+{2015}{}{supporting bracket}
+{2016}{}{hypervisor}
+{2017}{}{regulator}
 {2018}{}{undescribed}
 #
 # BOSS1
 #
-{2020}{}{сенсор}
-{2021}{}{левую опору}
-{2022}{}{правую опору}
-{2023}{}{раму}
-{2024}{}{правый кронштейн}
-{2025}{}{левый кронштейн}
-{2026}{}{контактор визионара}
-{2027}{}{штепсель}
+{2020}{}{sensor}
+{2021}{}{left support}
+{2022}{}{right suport}
+{2023}{}{rack}
+{2024}{}{right bracket}
+{2025}{}{left bracket}
+{2026}{}{visor's contactor}
+{2027}{}{switchplug}
 {2028}{}{undescribed}
 #
 # Rocket turret
 #
-{2030}{}{ЦПУ}
-{2031}{}{сервомеханизм запуска}
-{2032}{}{сервомеханизм запуска}
-{2033}{}{раму}
-{2034}{}{опорный кронштейн}
-{2035}{}{опорный кронштейн}
-{2036}{}{дальновизор}
-{2037}{}{регулятор}
+{2030}{}{CPU}
+{2031}{}{trigger's servo}
+{2032}{}{trigger's servo}
+{2033}{}{rack}
+{2034}{}{supporting bracket}
+{2035}{}{supporting bracket}
+{2036}{}{hypervisor}
+{2037}{}{regulator}
 {2038}{}{undescribed}
 #
 # Left shield
 #
-{2040}{}{излучатель}
-{2041}{}{левую опору}
-{2042}{}{правую стойку}
-{2043}{}{излучатель}
-{2044}{}{крепление опоры}
-{2045}{}{крепление опоры}
-{2046}{}{питающий кабель}
-{2047}{}{кожух излучателя}
+{2040}{}{emitter}
+{2041}{}{left support}
+{2042}{}{right support}
+{2043}{}{emitter}
+{2044}{}{support's anchor}
+{2045}{}{support's anchor}
+{2046}{}{power cable}
+{2047}{}{emitter's casing}
 {2048}{}{---}
 #
 # Center shield
 #
-{2050}{}{излучатель}
-{2051}{}{левую опору}
-{2052}{}{правую стойку}
-{2053}{}{излучатель}
-{2054}{}{крепление опоры}
-{2055}{}{крепление опоры}
-{2056}{}{питающий кабель}
-{2057}{}{кожух излучателя}
+{2050}{}{emitter}
+{2051}{}{left support}
+{2052}{}{right support}
+{2053}{}{emitter}
+{2054}{}{support's anchor}
+{2055}{}{support's anchor}
+{2056}{}{power cable}
+{2057}{}{emitter's casing}
 {2058}{}{---}
 #
 # Right shield
 #
-{2060}{}{излучатель}
-{2061}{}{левую опору}
-{2062}{}{правую стойку}
-{2063}{}{излучатель}
-{2064}{}{крепление опоры}
-{2065}{}{крепление опоры}
-{2066}{}{питающий кабель}
-{2067}{}{кожух излучателя}
+{2060}{}{emitter}
+{2061}{}{left support}
+{2062}{}{right support}
+{2063}{}{emitter}
+{2064}{}{support's anchor}
+{2065}{}{support's anchor}
+{2066}{}{power cable}
+{2067}{}{emitter's casing}
 {2068}{}{---}
 #
 # Critical Hit Messages
 #
 # 5000 series - men (including generics) - see file PROTO.MSG, section on line 1469 - Kill Types
 #
-{5000}{}{ и это больно.}
-{5001}{}{. Нанесена тяжелая рана}
-{5002}{}{, броня не защитила его}
-{5003}{}{. Мощная атака оставила его unconscious}
-{5004}{}{. Сильный удар бросил его на землю}
-{5005}{}{. Сильный удар в голову оставил его unconscious}
-{5006}{}{. сильный удар раскалывает череп. Спокойной ночи, приятель}
-{5007}{}{, смерть была мгновенной}
-{5008}{}{, заработал повреждение локтя}
-{5009}{}{, он вывернул себе руку, пытаясь уклониться}
-{5010}{}{, заработал большой синяк}
-{5011}{}{, его левая рука повреждена}
-{5012}{}{, его левая рука остается болтаться на куске кожи}
-{5013}{}{. Теперь его рука похожа на кровавое месиво}
-{5014}{}{, осталась поврежденной правая рука}
-{5015}{}{. Его рука страшно изуродована этим мощным ударом}
-{5016}{}{ после одного сильного удара}
-{5017}{}{, броня насквозь пробита}
-{5018}{}{, причинены добавочные повреждения}
-{5019}{}{ без защиты брони, боец сбит на землю}
-{5020}{}{ у него перехватило дыхание, после чего он рухнул на землю}
-{5021}{}{. К сожалению, его позвоночник теперь ясно виден со стороны живота}
-{5022}{}{ и это причинило серьезные повреждения его ноге}
-{5023}{}{, что сбило его на землю, как кеглю после удара шаром в игре лиги}
-{5024}{}{, что отбросило его и повредило ему ногу}
-{5025}{}{, и это отбросило его колено очень далеко. Рыдая он упал}
-{5026}{}{. Сильная боль от оторванной ноги заставляет его на мгновенье отключиться}
-{5027}{}{ это причинило дополнительную боль}
-{5028}{}{ что вызвало blindedие, к несчастью для него}
-{5029}{}{, что безо всяких помех со стороны доспехов, причинило ему серьезную боль}
-{5030}{}{, разящий удар ослепил его}
-{5031}{}{. Потеря глаза причиняет ему чрезмерную боль и он падает на землю}
-{5032}{}{, к несчастью, он слишком задумался, чтобы заметить приближающуюся смерть}
-{5033}{}{. Ой! Это больно}
-{5034}{}{, и он больше никогда не будет носить плавки}
-{5035}{}{ и, не имея дополнительной защиты, он повалился, дергаясь в агонии}
-{5036}{}{. Боль слишком сильна для него и он шлепнулся, как мешок дерьма}
-{5037}{}{. Он бормочет "Мама", и глаза его закатываются}
+{5000}{}{ and it really hurts}
+{5001}{}{. A serious wound is inflicted}
+{5002}{}{ with no armor defenses}
+{5003}{}{. The damaging attack knocks him unconscious}
+{5004}{}{. The blow knocks him to the ground}
+{5005}{}{. The strong blow to the head knocks him out}
+{5006}{}{. The attack crushes his temple. Good night, sweet prince}
+{5007}{}{, death is instantaneous}
+{5008}{}{, causing severe tennis elbow}
+{5009}{}{, pushing the arm out of the way}
+{5010}{}{, leaving a big bruise}
+{5011}{}{, crippling the left arm}
+{5012}{}{, leaving the left arm dangling by the skin}
+{5013}{}{. That arm now looks like a bloody stump}
+{5014}{}{, leaving a crippled right arm}
+{5015}{}{. His right arm is pulverized by this powerful blow}
+{5016}{}{ in a forceful blow}
+{5017}{}{ blowing through the armor}
+{5018}{}{, inflicting an extra helping of damage}
+{5019}{}{ with no armor, knocking the combatant to the ground}
+{5020}{}{ knocking the air out, he slumps to the ground out of the fight}
+{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
+{5022}{}{ putting a major hurt on his leg}
+{5023}{}{, knocking him to the ground like a bowling pin in a league game}
+{5024}{}{, bowling him over and crippling that leg}
+{5025}{}{, smashing the knee into the next town. He falls}
+{5026}{}{. The intense pain of having a leg removed causes him to quit}
+{5027}{}{ inflicting some extra pain}
+{5028}{}{ causing blindness, unluckily for him}
+{5029}{}{, and with no protection there, causing serious pain}
+{5030}{}{, and blinding him with a stunning blow}
+{5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
+{5032}{}{, sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
+{5033}{}{. Ouch! That had to hurt}
+{5034}{}{, and he's not wearing a cup, either}
+{5035}{}{ and without protection, he falls over, groaning in agony}
+{5036}{}{. The pain is too much for him and he collapses like a rag}
+{5037}{}{. He mumbles "Mother", as his eyes roll into the back of his head}
 #
 # series 5100 - women
 #
-{5100}{}{ и это больно.}
-{5101}{}{. Нанесена тяжелая рана}
-{5102}{}{ без защиты брони}
-{5103}{}{. Серьезная атака заставила ее потерять сознание}
-{5104}{}{. Удар сбивает ее на землю}
-{5105}{}{. Сильный удар в голову сбивает ее на землю}
-{5106}{}{. Сильный удар раскалывает ее голову. Спокойной ночи, любимая}
-{5107}{}{, смерть была мгновенной}
-{5108}{}{, заработала повреждение локтя}
-{5109}{}{, она вывернула себе руку, пытаясь уклониться}
-{5110}{}{, заработала большой синяк}
-{5111}{}{, ее левая рука повреждена}
-{5112}{}{. Ее левая рука еле держится на обломках костей}
-{5113}{}{. Теперь ее рука похожа на кровавое месиво}
-{5114}{}{, осталась поврежденной правая рука}
-{5115}{}{. Ее правая рука превращена сильным ударом в отбивную}
-{5116}{}{ после одного сильного удара}
-{5117}{}{, ее защита пробита}
-{5118}{}{, причинены добавочные повреждения}
-{5119}{}{ без защиты брони, удар опрокидывает женщину на землю}
-{5120}{}{ она падает на землю, пока воздух со свистом выходит из ее легких}
-{5121}{}{. К сожалению, ее основные органы медленно вываливаются наружу}
-{5122}{}{ и это причиняет основные повреждения ее ноге}
-{5123}{}{, что ошеломляет ее, как литр неразбавленного спирта}
-{5124}{}{, сбита с ног, ее конечность повреждена}
-{5125}{}{, ее колено разбито. Она падает на землю, корчась от боли}
-{5126}{}{. Она кричит от боли в сломанной ноге}
-{5127}{}{ это причинило дополнительную боль}
-{5128}{}{ вызвано blindedие. Ее лицо искажает гримаса боли}
-{5129}{}{, что безо всяких помех со стороны доспехов, причинило ей сильнейшую боль}
-{5130}{}{. Рана вызывала сильное blindedие}
-{5131}{}{. Она слабеет от ослепляющей атаки}
-{5132}{}{, к несчастью, она не помолилась своим богам перед встречей с ними}
-{5133}{}{. Она принимает это как мужчина. А это, кстати, больно}
-{5134}{}{, это сбивает ее на землю}
-{5135}{}{. Ее будущие дети под угрозой, так как она падает на землю как куча тряпок}
+{5100}{}{ and really hurts}
+{5101}{}{. A serious wound is inflicted}
+{5102}{}{ with no armor}
+{5103}{}{. The damaging attack knocks her unconscious}
+{5104}{}{. The blow knocks her to the ground}
+{5105}{}{. The strong blow to the head knocks her out}
+{5106}{}{. The attack crushes her temple. Good night, Gracie}
+{5107}{}{, death is instantaneous}
+{5108}{}{, causing severe tennis elbow}
+{5109}{}{, pushing the arm out of the way}
+{5110}{}{, leaving a big bruise}
+{5111}{}{, crippling the left arm}
+{5112}{}{. The left arm is barely attached to her shoulder}
+{5113}{}{. That arm now looks like a bloody stump}
+{5114}{}{, leaving a crippled right arm}
+{5115}{}{. Her right arm is turned into hamburger by the blow}
+{5116}{}{ in a forceful blow}
+{5117}{}{ piercing through her defenses}
+{5118}{}{, inflicting an extra helping of damage}
+{5119}{}{ with no armor, knocking the female fighter to the ground}
+{5120}{}{ knocking the air out, she slumps to the ground}
+{5121}{}{. Unfortunately, her major organs have been exposed to the light}
+{5122}{}{ putting a major hurt on her leg}
+{5123}{}{, knocking her over like a bad blind date}
+{5124}{}{, knocking her down and crippling that leg}
+{5125}{}{, smashing the knee into the next town. She takes the fast track to the ground}
+{5126}{}{. She screams in pain from the broken leg}
+{5127}{}{ inflicting some extra pain}
+{5128}{}{ causing blindness. She grimaces}
+{5129}{}{, and with no protection there, causing serious pain}
+{5130}{}{. The wound causes severe blindness, as if there is any other kind}
+{5131}{}{. She faints from the blinding attack}
+{5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
+{5133}{}{. She takes it like a man. That is to say, it hurts}
+{5134}{}{, knocking her to the ground}
+{5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
 #
 # series 5200 - little boy
 #
-{5200}{}{. Маленький мальчик начинает плакать}
-{5201}{}{. Маленький мальчик падает unconscious}
-{5202}{}{. Ой!}
-{5203}{}{. Удар силен, и мальчик падает unconscious}
-{5204}{}{, маленький мальчик смят, как снеговик}
-{5205}{}{. Левая рука этого мальчика теперь живет своей жизнью}
-{5206}{}{, равновесие малыша нарушено}
-{5207}{}{, рука сломана сильным ударом. Малыш начинает плакать}
-{5208}{}{, рука оторвана легко, как ветка у дерева}
-{5209}{}{. Правая рука начинает пухнуть, как воздушный шар}
-{5210}{}{, и начинает орать}
-{5211}{}{ в чувствительное место}
-{5212}{}{. Атака на жизненно важные органы опрокидывает малыша}
-{5213}{}{, мальчик сбит с ног}
-{5214}{}{. Этот малыш так никогда и не узнает, что такое жизнь}
-{5215}{}{, и сильно порезан}
-{5216}{}{. Атака сбивает малыша и его нога ломается}
-{5217}{}{, малышу нанесены страшные woundedия}
-{5218}{}{. Мальчик смотрит вверх и начинает плакать}
-{5219}{}{, и это ослепляет мальчика}
-{5220}{}{, что сокрушает юный нос}
-{5221}{}{. Над глазами появился порез, из которого начинает течь кровь}
-{5222}{}{, и глаз лопается, как перезрелый виноград. Малыш выглядит удивленным}
-{5223}{}{ вызвана слепота. Малыш бросается на землю}
-{5224}{}{, удар сминает голову малыша}
-{5225}{}{. Мальчик выглядит испуганным и дрожит}
-{5226}{}{, и это сшибает мальчика на землю}
+{5200}{}{. The little kid starts to cry from a terrible pain}
+{5201}{}{. Unconscious, the small child falls over}
+{5202}{}{. Ouchie!}
+{5203}{}{. The blow is strong, and the child is knocked unconscious}
+{5204}{}{, smashing the small child around like a limp rag}
+{5205}{}{. The left arm of this kid now has an owie}
+{5206}{}{, throwing the small child off balance}
+{5207}{}{, breaking that arm with a loud snap. Some serious tears start to flow}
+{5208}{}{, easily snapping that arm like a small piece of candy}
+{5209}{}{. The right arm starts to swell, like a balloon}
+{5210}{}{, and starts to cry}
+{5211}{}{ in a sensitive spot}
+{5212}{}{. The attack to a vital organ knocks the kid over}
+{5213}{}{, knocking the little kid over like a toy}
+{5214}{}{. Now this young child will never really experience life}
+{5215}{}{, inflicting a deep cut}
+{5216}{}{. The attack bowls the child over, and breaks the leg}
+{5217}{}{, inflicting great harm to the small child}
+{5218}{}{. The young child looks up and starts to cry}
+{5219}{}{, which blinds the youth}
+{5220}{}{, bashing in the youthful looking nose}
+{5221}{}{. A cut appears above the eyes and the blood starts to flow freely}
+{5222}{}{, which opens an eye like an exploding grape. The child looks bewildered}
+{5223}{}{ causing blindness. The young child drops to the ground}
+{5224}{}{, the blow continues into the small brain}
+{5225}{}{. The child looks confused and shaken}
+{5226}{}{, knocking this young target to the ground}
 #
 # series 5300 - Little girl
 #
-{5300}{}{, маленькая девочка начинает реветь от сильной боли}
-{5301}{}{, удар по нежному месту}
-{5302}{}{, удар по болевой точке сбивает малышку с ног}
-{5303}{}{. Маленькую девочку разворачивает от удара и она плюхается наземь}
-{5304}{}{. Голова девочки лопается, как перезрелый арбуз}
-{5305}{}{, маленькая девочка начинает реветь от сильной боли}
-{5306}{}{, девочка начинает истошно кричать и умолять о пощаде}
-{5307}{}{, рука девочки судорожно болтается, как тряпка}
-{5308}{}{. Взрыв дробит маленькую коленку, и это заставляет девочку закатить глаза}
-{5309}{}{, девочка судорожно сжимает оторванную руку, но кровь продолжает хлестать}
-{5310}{}{, девочка падает, как подкошенная}
-{5311}{}{, поврежденные органы девочки повсюду разбрызгивают кровь}
-{5312}{}{, это сбивает малышку на землю}
-{5313}{}{. Нога девочки держится лишь на остатках кожи}
-{5314}{}{, удар по болевой точке. Крича, девочка падает и ломает ногу}
-{5315}{}{. Боль от сломанной ноги заставляет малышку истошно кричать и звать на помощь}
-{5316}{}{, кровь заливает маленькое личико}
-{5317}{}{, глаза девочки вытекли из глазниц, она начинает биться в истерике}
-{5318}{}{, атака по глазам сбивает бедняжку на землю}
-{5319}{}{. Девочка потеряла зрение, кровь и слезы капают на землю}
+{5300}{}{. The little girl starts to cry from a terrible pain}
+{5301}{}{, hitting a weak spot. }
+{5302}{}{. Hitting a soft spot makes girl fall over.}
+{5303}{}{. The blow is strong, and the child is knocked unconscious}
+{5304}{}{, smashing the little girl's head like a melon}
+{5305}{}{. The young child looks up and starts to cry}
+{5306}{}{, girl starts to cry and beg for mercy}
+{5307}{}{, the girl's arm now hangs in a limp}
+{5308}{}{, the blow damages her knee, which makes the girl rolls her eyes}
+{5309}{}{, girl holds her severed arm but the blood continues to spurt around}
+{5310}{}{, the girl falls in an instant}
+{5311}{}{, her damaged organs are bleeding}
+{5312}{}{, which knocks the girl to the ground}
+{5313}{}{. her leg is holding only on the remaining skin}
+{5314}{}{, hitting a weak spot. The little girl falls down, breaking her leg}
+{5315}{}{. The pain from a broken leg makes the girl to cry for help}
+{5316}{}{, the blood covers her little face}
+{5317}{}{, her eyes are flowing out, she is cathartic}
+{5318}{}{, attack on her eyes makes the poor sob to fall}
+{5319}{}{. The girl lost her sight, blood and tears are dripping on the ground}
 {5320}{}{, the girl is blinded and unconscious}
-{5321}{}{. Бедняжка начинает медленно оседать на землю}
+{5321}{}{. Poor girl slowly descends on the ground}
 #
 # series 5400 - Ghouls
 #
-{5400}{}{. Мертвяк удивлен, и не может сопротивляться атаке}
-{5401}{}{. Этот удар убивает мертвяка}
-{5402}{}{. Рука ошеломленного мертвяка пролетает мимо}
-{5403}{}{, броня пробита и ползадницы оторвало}
-{5404}{}{, броня пробита и рука оторвана}
-{5405}{}{. Он совершает неверное движение в неверный момент, и теряет глаз}
-{5406}{}{. Там у мертвяка брони нет}
-{5407}{}{, bypassing armor, ghoul is blinded}
-{5408}{}{, атака вынуждает мертвяка выглядеть разъяренным в его последние мгновения}
+{5400}{}{. The ghoul is surprised, and fails to defend against this attack}
+{5401}{}{. This blow buries this ghoul}
+{5402}{}{. The stunned ghoul's hand flies open}
+{5403}{}{, sneaking through his armor and striking a critical joint}
+{5404}{}{, sneaking through his armor and lopping the arm off}
+{5405}{}{. The ghoul makes a wrong move at the wrong moment, leading to an eye loss}
+{5406}{}{. The ghoul is wearing no armor there}
+{5407}{}{, and without armor, the ghoul is blinded}
+{5408}{}{, causing the ghoul to look bewildered in his final moments}
 #
-# series 5500 - La Vache
+# series 5500 - Lavash
 #
-{5500}{}{, большой зверь сбит на землю}
-{5501}{}{, это ошеломляет и убивает гигантское животное}
-{5502}{}{. Корова-мутант издает громкий, протяжный крик}
-{5503}{}{, одна из ног лаваша сломана}
-{5504}{}{, корова-мутант серьезно woundedа}
-{5505}{}{, гигантский зверь не может уклониться}
-{5506}{}{, сквозное проникновение через оба сердца коровы-мутанта}
-{5507}{}{, все глаза blindedы одним ударом}
-{5508}{}{, обе головы blindedы, лаваш не может понять, как так получилось}
-{5509}{}{, это полностью ослепляет лаваша и вырубает его}
-{5510}{}{, большой уродец на мгновение оступился}
-{5511}{}{. Лаваш дрожит от ярости}
-{5512}{}{. Лаваш дергается от боли}
-{5513}{}{. Лаваш очень расстроен этой неожиданной атакой}
+{5500}{}{, knocking the big beast to the ground}
+{5501}{}{, stunning both brains and felling the giant animal}
+{5502}{}{. The Lavash gives a loud, startled cry}
+{5503}{}{, breaking one of the Lavash's legs}
+{5504}{}{, seriously hurting the Lavash}
+{5505}{}{, easily penetrating the thick hide of the giant beast}
+{5506}{}{, penetrating straight through both hearts of the two-headed beast}
+{5507}{}{, blinding both sets of eyes with a single blow}
+{5508}{}{, blinding both heads and stunning the animal}
+{5509}{}{, completely blinding the Lavash and knocking it out}
+{5510}{}{, the large mutant bovine stumbles for a moment}
+{5511}{}{. The Lavash shakes with rage}
+{5512}{}{. The Lavash snorts with pain}
+{5513}{}{. The Lavash is most upset with this udderly devastating attack}
 #
 # series 5600 - Radscorpions
 #
-{5600}{}{, скорпион отправлен в полет на спину}
-{5601}{}{, голова отделена от туловища}
-{5602}{}{, серьезно поврежден хвост}
-{5603}{}{, в основном повреждены его клыки}
-{5604}{}{. Взрыв пробивает прочный панцирь скорпиона}
-{5605}{}{, что сразу же пробивает прочный панцирь}
-{5606}{}{, это пробивает естественную броню и сбивает скорпиона с конечностей}
-{5607}{}{. Скорпион не может врубиться в происходящее и то, куда делись некоторые внутренние органы}
-{5608}{}{, скорпион отправлен в полет, некоторые его ноги повреждены}
-{5609}{}{. Атака пробивает незащищенное место конечности, серьезно повреждая ее}
-{5610}{}{, he is seriously wounded and blinded}
-{5611}{}{, достали почти до мозга. Просто, как жука раздавить}
-{5612}{}{, проникновение почти в мозг, the creature is blinded}
-{5613}{}{. Атака прекрасна, и, наверное, слишком наворочена для такого тупого существа}
-{5614}{}{. Если бы это был человек, я мог бы поклясться, что он рассержен}
-{5615}{}{, это оставляет бедное существо без чувств}
-{5616}{}{, роняя мозги на землю}
+{5600}{}{, sending the Radscorpion flying on its back}
+{5601}{}{, separating the head from the carapace}
+{5602}{}{, seriously damaging the tail}
+{5603}{}{, causing a magor damage of its claws}
+{5604}{}{. The blow slips between the cracks of the Radscorpion's tough carapace}
+{5605}{}{, striking through the tough carapace}
+{5606}{}{, passing through the natural armor and knocking the Radscorpion over}
+{5607}{}{. The Radscorpion cannot cope with a new sensation, like missing internal organs}
+{5608}{}{, sending the scorpion flying and crippling some of its legs}
+{5609}{}{. The attack cuts through an unprotected leg joint, severing it}
+{5610}{}{, seriously wounding and blinding the mutant creature}
+{5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
+{5612}{}{, almost penetrating to the brain, but blinding the creature instead}
+{5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
+{5614}{}{. If it was human, you would swear it's pretty pissed off}
+{5615}{}{, knocking the poor creature senseless}
+{5616}{}{, spiking the brain to the floor}
+
 #
 # series 5700 - Rats
 #
-{5700}{}{. Зубы издают неприятный звук}
-{5701}{}{, скулы крысы сокрушены как бумажный пакет}
-{5702}{}{, а левая лапа выглядит сейчас плосковатой}
-{5703}{}{. Левая лапа крысы оторвана}
-{5704}{}{. Правая лапа сильно повреждена}
-{5705}{}{, правая лапа оторвана нахрен}
-{5706}{}{. Крыса серьезно woundedа в этой атаке}
-{5707}{}{, serious damage knocks the rat down}
-{5708}{}{, крыса расплющена по полу}
-{5709}{}{, повреждена правая нога}
-{5710}{}{, пробита большая дыра в левой ноге}
-{5711}{}{, причинены дополнительные повреждения}
-{5712}{}{, эта зверюга отправлена к великому крысолову на небеса}
+{5700}{}{. The rodent's skull makes several unhealthy sounds}
+{5701}{}{, squashing the rodent's skull like a wet paper bag}
+{5702}{}{, and the left paw now looks a little flat}
+{5703}{}{. The left paw of the rat is blown off}
+{5704}{}{. The right paw is heavily damaged}
+{5705}{}{, blowing the right paw off}
+{5706}{}{. The rat is seriously wounded by this attack}
+{5707}{}{, seriously wounding the rat and knocking it around}
+{5708}{}{, splattering the rat across the floor}
+{5709}{}{, crippling the right leg}
+{5710}{}{, putting a big hole in the left leg}
+{5711}{}{, doing some extra damage due to the sensitive location}
+{5712}{}{, summoning this creature to the great ratcatcher in the sky}
 #
 # series 5800 - Onca Devils
 #
-{5800}{}{, повалился на землю}
-{5801}{}{, он упал на землю, корчась от боли}
-{5802}{}{, став препятствием своему дальнейшему существованию}
-{5803}{}{, существо ошеломлено}
-{5804}{}{, удар в болевую точку ошеломляет бродягу}
-{5805}{}{. Удар красиво разрывает бродягу в пурпурное облако крови}
-{5806}{}{, удар провоцирует нездоровую реакцию у существа}
-{5807}{}{. Он неожиданно хорошо загорелся}
-{5808}{}{ это становится для него сюрпризом}
-{5809}{}{, удар попадает по болевой точке}
-{5810}{}{. Существо, очевидно, недовольно}
+{5800}{}{, the creature drops to the ground}
+{5801}{}{, Onca falls to the ground, agonizing in pain}
+{5802}{}{, with serious consequences to the creature's continued existance}
+{5803}{}{, stunning the foul creature}
+{5804}{}{, hitting a sensitive spot there and stunning the Onca}
+{5805}{}{. The blow causes the Onca to explode violently in a crimson cloud}
+{5806}{}{, the blow causes some sort of violent reaction from the creature}
+{5807}{}{. The animal suddenly bursts into flames}
+{5808}{}{ which surprises him}
+{5809}{}{, with the blow hitting a sensitive spot}
+{5810}{}{. The creature is obviously agitated}
 #
 # series 5900 - Mindless
 #
-{5900}{}{, после сильного толчка безумный впал в ступор и повалился на землю}
-{5901}{}{ этот удар приходится в жизненно важное место}
-{5902}{}{, многие органы повреждены}
-{5903}{}{, он ошеломлен такой жестокой атакой}
-{5904}{}{, повреждена рука}
-{5905}{}{ удар в болевую точку повреждает руку}
-{5906}{}{, безумный сбит с ног и повреждает коленку}
-{5907}{}{, сломанная нога заставляет безумного рухнуть на землю}
-{5908}{}{, безвекие глаза сильно повреждены, безумный теперь вообще ничего не видит}
-{5909}{}{, безумный поражен. Он тупо стоит секунду}
-{5910}{}{, грохаясь на землю, безумный выкатывает изумленные глаза из орбит}
-{5911}{}{, безумный удивлен. Он падает словно куча лавашьего дерьма}
-{5912}{}{. Атака не такая эффективная, как могла бы быть. Там уже давно ничего нет}
+{5900}{}{, pushed like a bad habit, the Feral falls over and is stunned}
+{5901}{}{ as the blow strikes a critical spot}
+{5902}{}{, causing a massive neurological failure}
+{5903}{}{, stunning it with your violent attack}
+{5904}{}{, crippling the arm}
+{5905}{}{ striking a critical spot, and crippling the arm}
+{5906}{}{, knocking the creature over and crippling the leg}
+{5907}{}{, stunning the Feral as it is knocked over with a crippled leg}
+{5908}{}{, rendering its lidless eyes completely useless. The Feral can't see.}
+{5909}{}{, surprising the Feral. It blindly stumbles for a moment}
+{5910}{}{, surprising the Feral. Bulging its eyes, it collapses to the ground}
+{5911}{}{, surprising the Feral. It collapses in a pile of goo}
+{5912}{}{. The attack was not as effective as it could have been - the creature has not enough organs}
 #
 # series 6000 - Robots
 #
-{6000}{}{, причинены некоторые структурные повреждения}
-{6001}{}{, летят искры и робот моментально выходит из под контроля}
-{6002}{}{, удар в важную деталь выводит робота из под контроля}
-{6003}{}{, удар в важный блок вызывает глубокие неполадки}
-{6004}{}{. Робот пытается компенсировать}
-{6005}{}{. Робот пытается компенсировать}
-{6006}{}{, удар в важный узел вызывает тяжелые повреждения}
-{6007}{}{, причинены серьезные структурные повреждения}
-{6008}{}{, удар в важный узел вызывает серьезные неполадки}
-{6009}{}{. Робот не выдерживает интенсивной атаки}
-{6010}{}{, придется разобрать его на запчасти}
-{6011}{}{. Робот пытается компенсировать, но ему это не удается и он падает на землю}
-{6012}{}{. Робот не выдерживает удара, падая на землю}
-{6013}{}{, разбиты линзы сенсоров}
+{6000}{}{, inflicting some structural damage}
+{6001}{}{, sparks fly and the robot goes momentarily out of control}
+{6002}{}{, hitting a critical component and forcing the robot out of control}
+{6003}{}{, hitting a critical component and causing a massive malfunction}
+{6004}{}{. The robot attempts to compensate}
+{6005}{}{. The robot strains to compensate}
+{6006}{}{, hitting some key part and causing heavy damage}
+{6007}{}{, inflicting heavy structural damage}
+{6008}{}{, hitting a critical component and causing severe damage}
+{6009}{}{. The robot shudders under this intense attack}
+{6010}{}{, dismantling the robot}
+{6011}{}{. The robot attempts to compensate, but fails, falling to the ground}
+{6012}{}{. The robot strains under the pressure, falling to the ground}
+{6013}{}{, breaking the sensor lenses}
 #
 # series 6100 - Sand Jackals
 #
-{6100}{}{, удар сбивает его на землю}
-{6101}{}{, так как и замышлялось}
-{6102}{}{. Шакал падает, но все еще дышит}
-{6103}{}{, шакал кашляет, плюясь кровью}
-{6104}{}{, нога шакала сильно повреждена, от его дикого воя мороз пробегает по коже}
-{6105}{}{, нога повреждена. Шакал пытается устоять, но валится как куча тряпок}
-{6106}{}{. blindedный зверь воет от боли}
-{6107}{}{, шакал скулит в приступе агонии}
+{6100}{}{, knocking the animal to the ground}
+{6101}{}{, just as intended}
+{6102}{}{. The jackal falls over, but it is still breathing}
+{6103}{}{, the jackal coughs up a splurt of blood}
+{6104}{}{, crippling the leg. The howl makes your skin crawl}
+{6105}{}{, crippling the leg. The animal tries to stand still, but fails}
+{6106}{}{. The blinded animal howls in pain}
+{6107}{}{, the jackal howls in agony}
 #
-# series 6200 - Fathorners
+# series 6200 - Mantis
 #
-{6200}{}{, это мутировавшее насекомое сбито}
-{6201}{}{, и падает}
-{6202}{}{. Мантис думает, стоит ли ему жить}
-{6203}{}{, поврежден член}
-{6204}{}{, Мантис судорожно лижет свои раны и настороженно смотрит}
-{6205}{}{, хитиновый панцирь пробит}
-{6206}{}{. Мантис кричит нечеловеческим голосом}
-{6207}{}{, атака заставляет Мантис упасть. Он побит и готов умереть}
-{6208}{}{, крылья разрезаны}
-{6209}{}{, атака пробивает хитиновую броню и разбрызгивает Мантис по округе}
-{6210}{}{, насекомое blindedо аккуратной вспышкой}
+{6200}{}{, knocking down this mutated insect}
+{6201}{}{, which makes it collapse}
+{6202}{}{. The mantis ponders whether to continue living}
+{6203}{}{, crippling the limb}
+{6204}{}{, causing the Mantis to lick its wounds and nervously gaze}
+{6205}{}{, bypassing the chitinous armor}
+{6206}{}{. The mantis inhumanly shrieks and begins to shivers}
+{6207}{}{, which causes the mantis to fall over. A limb is bent at an odd shape}
+{6208}{}{, shredding the wings}
+{6209}{}{, bypassing the chitinous armor and spurting the mantis around}
+{6210}{}{, blinding the insect with an accurate blow}
 #
 # series 6300 - Chimeras
 #
-{6300}{}{. Кажется, что даже это чудовище ошеломлено такой атакой}
-{6301}{}{, огромные клыки не спасают чудовище от удара. Химера дрожит и боится}
-{6302}{}{. Результатом является обширное повреждение глаз Химеры}
+{6300}{}{. Looks like the creature is dazzled by this attack}
+{6301}{}{, its huge fangs don't protect from a huge blow. Chimera shivers, frightened}
+{6302}{}{, resulting in a vast damage to the Chimera's eyes}
 #
 # series 6400 - Turrets
 #
-{6400}{}{, защитный кожух турели пробит насквозь}
-{6401}{}{, несколько винтов и шайб разлетелись в разные стороны}
-{6402}{}{, некоторые сервоприводы шипят, выпуская воздух из пробитых шлангов}
-{6403}{}{, важные механизмы получили серьезные повреждения}
-{6404}{}{, одна из линз системы наведения весело разлетается на тысячу осколков}
-{6405}{}{. Турель дергается и искрит. Очевидно, она почти разрушена}
-{6406}{}{, многие приводы и цилиндры критически повреждены}
+{6400}{}{, turret's protective casing is penetrated}
+{6401}{}{, some screws and wires are sent flying in different directions}
+{6402}{}{, damaged servos are hissing air from leaked hoses}
+{6403}{}{, important machinery has been severely damaged}
+{6404}{}{, one of the targeting system's lenses happily explodes in a myriad of sparkling pieces}
+{6405}{}{. The turret twitches and sparkles. Looks like it's almost completely destroyed}
+{6406}{}{, most of the servos and cylinders are critically damaged}
 #
 # series 6500 - The Player
 #
-{6500}{}{. Завтра утром у вас будет раскалываться голова, конечно, если вы проживете так долго}
-{6501}{}{. От такого выстрела ваша броня вас не предохранит}
-{6502}{}{. На мгновение вы чувствуете боль, и затем темнота обволакивает вас..}
-{6503}{}{, ваша броня пробита. Удар сбивает вас с ног}
-{6504}{}{, от шока у вас темнеет в глазах. Через секунду вы замечаете, что зрение так и не вернулось к вам}
-{6505}{}{. Вы получаете хороший обзор местности, когда ваша голова летит по воздуху}
-{6506}{}{. Удивительно, но ущерб оказался не очень велик}
-{6507}{}{, на момент вы были ошеломлены}
-{6508}{}{. Чувствуете боль}
-{6509}{}{. Атака оставляет вашу руку бесполезной}
-{6510}{}{, броня пробита. Удар ломает кости вашей руки, как хворост}
-{6511}{}{, броня пробита. Теперь ваша рука беспомощно свисает с плеча}
-{6512}{}{. Синяк будет выглядеть прекрасно, и шрамы составят ему хорошую компанию}
-{6513}{}{, внутренние органы смяты. Вы можете только булькать кровью}
-{6514}{}{, роняете наземь голову}
-{6515}{}{, вас послали в полет и сломали вам ногу}
-{6516}{}{, вашу броню прожгли. Удар сбивает вас с ног и серьезно повреждает колено}
-{6517}{}{. Боль от сломанной ноги так сильна, что вы теряете сознание}
-{6518}{}{. Болезненный удар заставляет вас отступить, и происходит еще что-то}
-{6519}{}{. К несчастью для вас, это также вызывает немедленную потерю зрения}
-{6520}{}{. За секунду вы вытираете кровь с глаз}
-{6521}{}{, броня пробита. Вы стоите ошеломленным, понимая, что больше ничего не видите}
-{6522}{}{. Вы чувствуете странное ощущение в голове. Вы понимаете, что это смертельная травма мозга}
-{6523}{}{, вас вынуждают преклоняться}
-{6524}{}{. Вы хватаетесь за яйца и падаете, корчась на пол}
-{6525}{}{. Боль достаточно сильна, чтобы оставить вас unconscious}
-{6526}{}{. Нет таких слов, которыми можно было бы описать боль, которую вы испытываете в этот момент}
+{6500}{}{. You'll have a headache tomorrow, if you live that long}
+{6501}{}{. Your armor provides no protection from this well-aimed blow}
+{6502}{}{. You feel the pain for just a moment, and then darkness takes you..}
+{6503}{}{, bypassing your armor. The blow knocks you off your feet}
+{6504}{}{, the shock makes your vision go dark. After a moment, you notice that your vision has not returned}
+{6505}{}{. You get a nice view of your body as your head sails through the air}
+{6506}{}{. Surprisingly, the damage feels no worse than normal}
+{6507}{}{, stunning you for a moment}
+{6508}{}{. Feel the pain}
+{6509}{}{. The attack leaves your arm useless}
+{6510}{}{, slipping past your armor. The blow cracks the bones in your arm like deadwood}
+{6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
+{6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
+{6513}{}{, crushing your internal organs. All you can do is gurgle blood}
+{6514}{}{, sending head over heels}
+{6515}{}{, sending you flying and breaking your leg}
+{6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
+{6517}{}{. The pain from your broken leg sends you into unconsciousness}
+{6518}{}{. The painful blow makes you flinch, but does little else}
+{6519}{}{. Unlucky for you, it also causes immediate vision loss}
+{6520}{}{. It takes you a moment to wipe the blood from your eyes}
+{6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore}
+{6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death}
+{6523}{}{, making you cringe}
+{6524}{}{. You cup your groin and fall to the floor in pain}
+{6525}{}{. The pain is sufficient to knock you out. Ouch}
+{6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}
 # Fallout 2:
 #
 # series 6700 - Molerats
 #
-{6700}{}{, шкура мерзкого мутанта пробита}
-{6701}{}{, часть скользкой кожи с него сорвана}
-{6702}{}{, ему оторвало несколько пальцев}
-{6703}{}{, ему пробило дыхалку.}
-{6704}{}{, ему выпустили кишки}
-{6705}{}{, он почти сбит с ног}
-{6706}{}{, повреждено несколько его конечностей}
+{6700}{}{, the skin of disgusting creature is penetrated}
+{6701}{}{, tearing some of its slimy skin off}
+{6702}{}{, breaking some of its digits}
+{6703}{}{, damaging its breathing ability}
+{6704}{}{, knocking the stuffing out of it}
+{6705}{}{, almost tipping it over}
+{6706}{}{, damaging some of its limbs}
 #
 # series 6800 - Les ours
 #
-{6800}{}{, толстая шкура могучего урса пробита}
-{6801}{}{, кусок шкуры оторвался и полетел по ветру. Урс рычит, сотрясая землю}
-{6802}{}{, лапа урса сломана и кости торчат наружу. Глаза зверя багровеют от крови}
-{6803}{}{, легкое медведя пробито и явственно слышно бульканье крови}
-{6804}{}{, удар вспарывает могучему зверю брюхо и его кишки валятся в пыль}
-{6805}{}{, медведь-мутант еле стоит на слабых лапах}
-{6806}{}{, лапа урса сломана и кости разрывают шкуру. Медведь удивленно смотрит на обмякшую конечность}
+{6800}{}{, a thick hide of mighty beast is penetrated}
+{6801}{}{, a piece of hide is sent off flying. Ursa roars, shaking the ground}
+{6802}{}{, his paw is broken, bones are sticking out. The beast's eyes are flashing with red}
+{6803}{}{, the bear's lung is punctured, the plucking of blood is heard}
+{6804}{}{, the blow opens up the mighty beast's belly and his guts are falling out into the dust}
+{6805}{}{, a mutated bear is barely holding up on his weak paws}
+{6806}{}{, Ursa's paw is broken, bones penetrating through the hide. The bear gives a surprised look to his limb}
 #
 # series 6900 - Giant Ant
 #
-{6900}{}{, хитиновый панцирь насекомого пробит}
-{6901}{}{, ему оторвало несколько антенн}
-{6902}{}{, ему оторвало несколько усиков}
-{6903}{}{, ему снесло полжизни}
-{6904}{}{, он слегка оглушен}
-{6905}{}{, он почти сбит с ног}
-{6906}{}{, его панцирь поврежден}
+{6900}{}{, the chitin shell of an insect is penetrated}
+{6901}{}{, ripping some of its antennae off}
+{6902}{}{, breaking some of its feelers}
+{6903}{}{, damaging its health}
+{6904}{}{, knocking it around a bit}
+{6905}{}{, almost tipping it over}
+{6906}{}{, damaging some of its shell}
+
 #
 # series 7000 - Gun Turret  -- WIP! Won't Work!
 #
-{7000}{}{, пробивая хитиновый панцирь насекомого}
-{7001}{}{, отрывая ему несколько антенн}
-{7002}{}{, отрывая ему несколько усиков}
-{7003}{}{, снося ему пол-жизни}
-{7004}{}{, слегка оглушая его}
-{7005}{}{, почти сбивая его с ног}
-{7006}{}{, повреждая его панцирь}
+{7000}{}{, breaking past the ant's defenses}
+{7001}{}{, ripping some of its antennae off}
+{7002}{}{, breaking some of its feelers}
+{7003}{}{, damaging its health}
+{7004}{}{, knocking it around a bit}
+{7005}{}{, almost tipping it over}
+{7006}{}{, damaging some of its exoskeleton}
+
 # Series 7100 - Reserved
-{7100}{}{, пробивая навылет броню Телохранителя}
-{7101}{}{, повергая Телохранителя на колени}
-{7102}{}{, разрушен механизм управления руками}
-{7103}{}{, разрушен механизм поворота ног}
-{7104}{}{, его синтетический глаз поврежден}
-{7105}{}{, это заставило его остановиться чтобы отбить вашу атаку}
-{7106}{}{, его броня повреждена}
+{7100}{}{, blowing past the Bodyguard's armor}
+{7101}{}{, bringing the Bodyguard to his knees}
+{7102}{}{, destroying his arm control mechanism}
+{7103}{}{, destroying his leg rotator mechanism}
+{7104}{}{, shattering his bionic eye}
+{7105}{}{, causing him to pause and shake of your massive attack}
+{7106}{}{, compacting his chest plate}

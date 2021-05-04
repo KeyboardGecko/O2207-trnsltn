@@ -188,7 +188,7 @@
 {322}{037}{A little bittery, but will do.}
 
 
-{331}{}{Haha! Hindquartets is a hip part of Lavash. This name was used in an old culinary books. Well, if you don't want - suit youself, I won't be forcing you.}
+{331}{}{Haha! Hindquarters is a hip part of Lavash. This name was used in old culinary books. Well, if you don't want - suit youself, I won't be forcing you.}
 {332}{034}{Meh...}
 {333}{032}{Okay, I'm convinced, let me try it!}
 {334}{999}{Let's talk later.}
@@ -206,7 +206,7 @@
 {354}{999}{Talk later.}
 
 
-{360}{}{We have plenty of Lavash meat, in addition I gather rare herbs that I know of. But lately it becomes harder. And meat all the time is, you know... Tiresome.}
+{360}{}{We have plenty of Lavash meat. In addition, I gather rare herbs that I know of. But lately it becomes harder. And to eat only meat all the time is, you know... Tiresome.}
 {361}{040}{I could look for new products for you to cook with.}
 {362}{039}{I see. I want to ask something else.}
 
@@ -216,7 +216,7 @@
 {372}{039}{I want to ask something.}
 
 
-{380}{}{I don't ike to be an eyesore for the locals. This place is not as calm as it looks like... It may seem stupid, but I'm still alone, and I have no one to protect me. I'd be better sitting quietly, cooking my favourite dishes, with no one threatening me.}
+{380}{}{I don't like to be an eyesore for the locals. This place is not as calm as it looks like... It may seem stupid, but I'm alone, and I have no one to protect me. I'd be better sitting quietly, cooking my favourite dishes, with no one threatening me.}
 {381}{036}{Where do you get your ingredients?}
 {382}{039}{I see. I want to ask something else.}
 
@@ -233,12 +233,12 @@
 {402}{042}{That's not for me. I don't chase myths.}
 
 
-{410}{}{Livos. I think this is how it's called. If you find it for me, I will cook the dishes that no one ever heard of for all of your life! [he gulps]}
+{410}{}{Livos. I think this is how it's called. If you find it for me, I will cook the most unbelievable dishes in your life! [he gulps]}
 {411}{043}{Deal, I'll try to find the place.}
-{412}{042}{No, it seems to unnatural to me.}
+{412}{042}{No, it seems too improbable to me.}
 
 
-{420}{}{All that's left for me is to believe in such unnatural things. What else can I hope for?}
+{420}{}{All that's left for me is to believe in such improbable things. What else can I hope for?}
 {421}{039}{Let's talk about something else.}
 {422}{043}{Okay, I'll look for your Livos.}
 {423}{999}{Cheer up. I'll see you later.}
@@ -264,7 +264,7 @@
 {440}{}{What?!... How dare you...}
 {441}{999}{Take this!}
 
-{450}{}{I see this old bastard is spreading rumors about me. This fits him so well.}
+{450}{}{I see this old bastard is spreading rumors about me. It fits him so well.}
 {451}{046}{What happened between two of you?}
 {453}{999}{I'll come by later.}
 
