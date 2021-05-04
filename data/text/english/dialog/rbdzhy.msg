@@ -3,7 +3,7 @@
 #Имя: Джи
 #Краткое описание: Вождь  детей Радуги. Квесты на алкоголь и ограбление караванов
 #Дата создания: 13.09.2014
-##############################
+############################## 
 #Для игры "Олимп 2207"
 #Артем "Rainman" Самойлов
 ##############################
@@ -20,7 +20,7 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[His juvenile antics are strangely combined with the habits of a predator, when he starts talking] Who the hell are ye? [he looks around, as if checking for a threat] Whaddaya want from G, uncle? I have no time to spare. Hear me?}
+{10}{}{[His juvenile antics are strangely combining with the habits of a predator when he starts talking] Who the hell are ye? [he looks around as if checking for a threat] Whaddaya want from G, uncle? I have no time to spare. Hear me?}
 {11}{}{Hello, G. I'm }
 {12}{013}{. What are you and your friends doing here?}
 {13}{}{I'm }
@@ -43,12 +43,12 @@
 {109}{013}{Just wanted to talk. For example, to ask something interesting about your friends.}
 {1010}{021}{It was a good raid on the caravan. How do you feel about doing it again?}
 {1011}{999}{I wanted to say hi. And now I need to go.}
-{1004}{}{[you see fear in his eyes, but he gets up and steps forward to you] Look who it is, the meanest uncle on Rainbow! What does he want here? [he blows his nose and wipes hand with his torn pants] G doesn't get into your business, so don't get into ours!}
+{1004}{}{[you see fear in his eyes, but he gets up and steps forward to you] Look who it is, the meanest uncle on Rainbow! What does he want here? [he blows his nose and wipes his hand onto his torn pants] G doesn't get into your business, so don't get into ours!}
 {1012}{024}{Listen up, businessman, you are operating on my turf. Everything around here is my business. So you'd better tell me what you're up to. If I learn about it not from you - you're getting yourself a problem.}
 {1013}{025}{Are you guys still raiding the caravans?}
 {1014}{026}{You can act cool in front of your friends all day, but don't forget to pay my cut in time.}
 {1015}{999}{Don't be nervous, I need nothing from you. Later, G.}
-{1005}{}{[G starts running to you, but hastily stops, taking serious look] Hey, big brother! Now you are REALLY big! I told ye - be closer to G and everything's gonna be alright. No one would oppose us now... Big brother and G is a force to reckon with!}
+{1005}{}{[G starts running to you, but hastily stops, taking a serious look] Hey, big brother! Now you are REALLY big! I told ye - be closer to G and everything's gonna be alright. No one would oppose us now... Big brother and G is a force to reckon with!}
 {1016}{024}{How's it going, G?}
 {1017}{025}{You bet. How's the raiding of NWO's caravans? Is it still up?}
 {1018}{026}{I've come to collect your generous donation to our common great cause.}
@@ -78,25 +78,25 @@
 
 {110}{}{[he is scratching his head with both hands, driving away small insects] Don't stare at me like this! I'm trying to think here. Hmm... Do you want to work for me?}
 {114}{}{Nah, we don't do any "jobs" - we are watchers now... You get it, keeping the Rainbow's borders under supervision. No time for petty things.}
-{115}{}{Nah, we don't do any "jobs" now - still need to rest from the last time, to lick our wounds. I'm thinking about early retirement.... Ha, just kidding! Still, we really need to rest, my fellas are tired.}
+{115}{}{Nah, we don't do any "jobs" now - still need to rest from the last time, to lick our wounds. I'm thinking about early retirement... Ha, just kidding! Still, we really need to rest, my fellas are tired.}
 {111}{023}{Hah! Seriously, snot? And what would you pay me with? Toys?}
 {112}{012}{What are you offering?}
 {113}{999}{No, not interested. And I need to go.}
 {116}{999}{I see, I'll come later.}
 
 
-{1201}{}{There is something, alright. Would be enough to all of us. I overheard this near the bar, cleaning pockets of one drunk... There are some regular caravans from NWO coming around. All we need is to raid one. The security must be pretty weak, or so they say. Well? Are you in? You look like an experienced fella, we could use your help.}
+{1201}{}{There is something, alright. Would be enough for all of us. I overheard this near the bar, cleaning pockets of one drunk... There are some regular caravans from NWO coming around. All we need is to raid one. The security must be pretty weak, or so they say. Well? Are you in? You look like an experienced fella, we could use your help.}
 {121}{023}{I think you are capable of raiding only local drunks! What caravan, black boy? Get out of here, don't buzz me!}
-{122}{018}{I have no doubts in you, but it sounds risky... Did you think this through?}
+{122}{018}{I have no doubts about you, but it sounds risky... Did you think this through?}
 {123}{017}{It suits me. Have you picked a place for an ambush?}
 {124}{999}{I'll pass. The info is unverified, details are unknown... I don't do work this way. See you!}
-{1202}{}{[he winks at you with a mysterious look] Sure, brother! I overheard something recently, while cleaning pockets of one drunk white boy... About the caravans from NWO. Guards are weak, much stuff to take... Get it? A good idea, don't you think? [looks at you, waiting for your approval]}
+{1202}{}{[he winks at you with a mysterious look] Sure, brother! I overheard something recently while cleaning pockets of one drunk white boy... About the caravans from NWO. Guards are weak, much stuff to take... Get it? A good idea, don't you think? [looks at you, waiting for your approval]}
 {125}{018}{Listen, G... It's cool and all, but do you understand the consequences?}
 {126}{017}{Great, little brother! Where are we going to set up our ambush? We need a good place...}
 {127}{999}{Let's talk about it later. I need to go now.}
 
 
-{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog cares about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
+{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog care about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
 {131}{014}{Have something to add, G?}
 
 
@@ -115,7 +115,7 @@
 {153}{999}{Yeah, to fetch some cognac to some snots... No thank you. Not today.}
 
 
-{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I'll make it. Why should I care what happens in next twenty years, while I can die at any moment from some random shit? I should have fun! Now, in this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advices. So? Would you get us some booze? If not, we can do it ourselves.}
+{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I'll make it. Why should I care what happens in the next twenty years, while I can die at any moment from some random shit? I should have fun! Now, at this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advice. So? Would you get us some booze? If not, we can do it ourselves.}
 {161}{999}{You're right. You'll understand... Eventually. I'll bring you your cognac. Wait.}
 {162}{999}{No. I won't participate in making your life more miserable.}
 
@@ -141,7 +141,7 @@
 {201}{999}{Great! You're going to grow up into a good leader. I'll go resolve this matter. See you!}
 
 {202}{}{I had a talk with the Hog about guarding the Rainbow - and he is in. He needs your services.}
-{203}{}{Yeah! YEAH! The G's gang and the Hog are PARTNERS! How's that sounds? We're going to be in charge here! Gonna do things! You are so helpful, man, we wil not let you down! Thanks!}
+{203}{}{Yeah! YEAH! The G's gang and the Hog are PARTNERS! How's that sound? We're going to be in charge here! Gonna do things! You are so helpful, man, we will not let you down! Thanks!}
 
 
 {210}{}{I knew it! I knew I wasn't mistaken in you. We are of the same kind! Let's do this again, sure, we are waiting only for you to get ready!}
@@ -149,7 +149,7 @@
 {212}{999}{Good! Only wait a minute, I need to do something first.}
 
 
-{220}{}{[You are getting drunk with your new brothers and sisters for all night. At morning, G declares you a member of the gang, in front of everyone who's still standing and not puking in the nearest ruins. Life feels great!]}
+{220}{}{[You are getting drunk with your new brothers and sisters all night. In the morning, G declares you a member of the gang, in front of everyone who's still standing and not puking in the nearest ruins. Life feels great!]}
 {221}{999}{[Go to sleep with a feeling of fulfillment]}
 
 
@@ -161,7 +161,7 @@
 {241}{027}{Caravans? Are you out of your mind? Who is going to deal with NWO if they decide to attack us? }
 {242}{999}{Is that so? Sounds interesting... I'll come to you later, to talk details.}
 {2402}{}{The life's good, brother! Who can oppose us with you by our side? Don't worry, we aren't shitting on your territory. We raid NWO's caravans now - the security is shit, the stuff is good... }
-{243}{027}{Caravans? You know, brother, it can actually cause problems. To me and you. How many of yours have you already lost?}
+{243}{027}{Caravans? You know, brother, it can actually cause problems. To me and you. How many of your people have you already lost?}
 {244}{999}{Is that so, brother? Sounds interesting... I'll come to you later, to talk details.}
 
 
@@ -169,7 +169,7 @@
 {251}{027}{Listen here. I don't care how it was before. I can have problems because of this. And you too. Get it?}
 {252}{999}{Nothing for now. But we haven't finished.}
 {2502}{}{[he grins] We're not giving this business to anyone!}
-{253}{027}{Listen, brother, I used to like this shit too. But now it can cause us problems. How many of yours have you already lost?}
+{253}{027}{Listen, brother, I used to like this shit too. But now it can cause us problems. How many of your people have you already lost?}
 {254}{999}{I have no time for this now, but I'll come to you later.}
 
 
@@ -181,8 +181,8 @@
 {271}{029}{I'm not telling you to stop doing it. But if I have troubles, then you are paying me to compensate them. A hundred each month.}
 {272}{030}{What if you'll work for me? I need scouts to watch over Rainbow's perimeter. We have many enemies, you know... For this, you get free supplies and I'm going to ignore little things like empty pockets of locals and town guests. What do you say?}
 {273}{999}{I need to think. I'll come by later.}
-{2702}{}{[G gets somber] Five... But what else should we do? Eat shit and die? Don't take me wrong, I get it - you are worrying about us. And I appreciate it! Want me to pay you cut for this? A hundred, for our common cause?}
-{274}{029}{That's actually a very good idea. Deal, brother. I will be visiting you once in a month.}
+{2702}{}{[G gets somber] Five... But what else should we do? Eat shit and die? Don't take me wrong, I get it - you are worried about us. And I appreciate it! Want me to pay you a cut for this? A hundred, for our common cause?}
+{274}{029}{That's actually a very good idea. Deal, brother. I will be visiting you once a month.}
 {275}{030}{I have a better proposal - let's work together. I need scouts to watch over Rainbow's perimeter. We have many enemies, you know... For this, you get free supplies and I'm going to ignore little things like empty pockets of locals and town guests. What do you say?}
 {276}{999}{Sounds difficult... I'll think about it, and you take care of yourselves. Try not to get yourself killed.}
 
@@ -196,12 +196,12 @@
 {292}{999}{Pleasure doing business with you, brother. Bye.}
 
 {300}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. He looks pleased] We're in! We won't let you down!}
-{301}{999}{You should be afraid what happens if you will.}
+{301}{999}{You should be afraid of what happens if you will.}
 {302}{999}{I have no doubts, brother!}
 {303}{999}{Great! You're going to grow up into a good leader. See you!}
 
 {500}{}{Phew, this wasn't as easy as I thought. But we still did it, right? Let's grab the loot and get back to base.}
-{501}{}{Well, it was easier this time, although not without damages... Okay brothers, get the stuff and get out!}
+{501}{}{Well, it was easier this time, although not without damages... Okay, brothers, get the stuff and get out!}
 {502}{}{That's it, this one is last for now. We need to lay low and lick wounds. Take the shit and go, brothers!}
 {503}{999}{[end]}
 

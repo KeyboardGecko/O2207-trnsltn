@@ -89,7 +89,7 @@
 #
 {900}{}{Richards orders you to use a pheromone to tame a feral chimera and bring it to Phillip Gray (The injection works only for 8 days).}
 {901}{}{Phillipp Gray is convinced that Constantine Zochkis, the head of the Bureau of Design and Engineering, must die as soon as possible.}
-{902}{}{Diamond Crank needs a pre-war prototype of the Barrack Minigun. Bring it to him.}
+{902}{}{Diamond Crank needs a pre-war prototype of the "Baraka" Minigun. Bring it to him.}
 {903}{}{Diamond Crank is confident that Ludwig Shwein will be able to help him break through a deadlock of his research. Bring Ludwig to him.}
 {904}{}{Captain N34 asks you to fill out all the documentation forms and conduct weapon tests.}
 {905}{}{It's time to change the password for the Control Room. Go to the Server floor and follow the instructions.}

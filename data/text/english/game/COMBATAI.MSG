@@ -6674,7 +6674,7 @@
 {5873}{}{I'll shank ya innit!}
 {5874}{}{I'm gon' kick yer arse!}
 {5875}{}{For the British Empire!}
-{5876}{}{C'mere u twat!}
+{5876}{}{Ye minging, numpty!}
 {5877}{}{Fancy meetin' ya!}
 {5878}{}{Good night, bruv.}
 {5879}{}{Bonk.}
@@ -6688,9 +6688,9 @@
 {5884}{}{Now ye gettit, wanker!!}
 {5885}{}{I'll gie ye a skelpit lug!}
 {5886}{}{The game is on!}
-{5887}{}{Time to friggin' back-hand you roun' yer head!}
+{5887}{}{C'mere u twat!}
 {5888}{}{It's toim to tek or contree beck!}
-{5889}{}{I'm gonna punch yer arse, you blithering idiot.}
+{5889}{}{I'm comin' to punch yer arse, you blithering idiot.}
 #
 # RUNNING AWAY
 #
@@ -7101,8 +7101,8 @@
 #
 {6190}{}{[crawls away]}
 {6191}{}{[crawls away]}
-{6192}{}{[retreating]}
-{6193}{}{[retreatins]}
+{6192}{}{[retreats]}
+{6193}{}{[retreats]}
 {6194}{}{[buzzes]}
 {6195}{}{[buzzes]}
 {6196}{}{::shhh-shhh-shhh::}

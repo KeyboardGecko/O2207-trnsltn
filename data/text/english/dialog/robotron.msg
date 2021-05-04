@@ -27,9 +27,9 @@
 {13}{999}{I'm outta here.}
 
 #добавочные сообщения
-{14}{}{Robotron lacks necessary amount of "Bigbat" energy cells.}
+{14}{}{Robotron lacks the necessary amount of "Bigbat" energy cells.}
 {15}{}{You have successfully installed "Bigbat" energy cells into Robotron, but you need more of them.}
-{16}{}{You have successfully installed the final "Bigbat" node into Robotron!}
+{16}{}{You have successfully installed the final "Bigbat" energy cells pack into Robotron!}
 {17}{}{Robotron is repaired on }
 {18}{}{ points of durability.}
 {19}{}{You are not capable of repairing Robotron further.}
@@ -43,8 +43,8 @@
 {24}{003}{, glad to meet you, robot!}
 
 #Node003
-{30}{}{Recognition complete. Lower manipulators power supply depleted. A replacement is required. }
-{31}{}{ will have to install a "Bigbat" energy cells pack in the necessary amount of 3. Switch to power saving mode.}
+{30}{}{Recognition complete. Lower manipulator power supply depleted. A replacement is required. }
+{31}{}{ will have to install a "Bigbat" energy cells pack in the necessary amount of 3. Switch to power-saving mode.}
 {32}{999}{[push the robot] Hey, Tin can! Knock-knock! Uhh...}
 {33}{999}{A battery is dead then... Hey, are you still there? Okay...}
 
@@ -58,7 +58,7 @@
 #Node011
 {110}{}{Objective: escort and protection. Confirm an objective.}
 {111}{PartyIn}{Uhh... I confirm an objective.}
-{112}{999}{No, I don't need you for now. Stay here, get a little more rusty.}
+{112}{999}{No, I don't need you for now. Stay here, get a little rustier.}
 
 #Node012
 {120}{}{Objective options: construction works - error. Escort and protection - available. Energy system maintenance - forbidden: administrator access required.}
@@ -108,7 +108,7 @@
 
 #NodeMD
 {550}{}{Order: follow. Distance: middle. Confirmation accepted.}
-{551}{}{Honto ni? Hai, senpai, but remember than I'm still nearby! And I will come closer sometimes!}
+{551}{}{Honto ni? Hai, senpai, but remember that I'm still nearby! And I will come closer sometimes!}
 {552}{}{Gonna be easy. Tell me if you need help.}
 {553}{}{A wise choice, I might say. Hope all goes hunky-dory.}
 {554}{InParty}{Good. Another thing...}
@@ -123,7 +123,7 @@
 {565}{999}{Good. Let's move.}
 
 #NodePartyOut
-{570}{}{Order: wait. Switch to power saving mode. Confirmation accepted.}
+{570}{}{Order: wait. Switch to power-saving mode. Confirmation accepted.}
 {571}{}{Naniiiiiii?! Dame yo!! I won't leave my senpai, it's too dangerous! My senpai needs me! Iya, senpai... Okay, senpai, I'll do what you tell me to. Uwuuuuu...}
 {572}{}{Oh shit, here we go again. Suit yourself.}
 {573}{}{God, mate, I'm absolutely gutted. But you're the boss.}
@@ -148,7 +148,7 @@
 {596}{999}{Nothing, let's move.}
 
 #NodeHowToSpeak
-{600}{}{Current comminucation pattern: Standart. Options available: 0 - Standart, 1 - Japanese school girl, 2 - American crewmate, 3 - British gentleman.}
+{600}{}{Current comminucation pattern: Default. Options available: 0 - Default, 1 - Japanese school girl, 2 - American crewmate, 3 - British gentleman.}
 {601}{HTS0}{Let it be a standart one. I like robots.}
 {602}{HTS1}{Japanese school girl? Interesting, let's try it!}
 {603}{HTS2}{A crewmate is what I need. Pick 2.}
@@ -156,7 +156,7 @@
 
 #NodeAmmo
 {610}{}{[Robotron takes batteries] Power supply accepted. Behavior adjustments: complete.}
-{611}{}{Uwaaaa, sugooooi! A new batteries! Senpai, now I'm going to shoot lasers, like a Gundam!}
+{611}{}{Uwaaaa, sugooooi! Batteries! Senpai, now I'm going to shoot lasers, like a Gundam!}
 {612}{}{Hell yeah! Look at me and weep, assholes!}
 {613}{}{I'm chuffed to bits, mate. Cheers.}
 {614}{InParty}{Uh... I'm glad you like it. One more thing...}

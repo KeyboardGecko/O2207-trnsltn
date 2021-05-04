@@ -24,49 +24,49 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see Catty.}
-{2}{}{Her robe of a repairworker is covered with myriads of differently colored stains.}
+{2}{}{Her robe of a repairing worker is covered with myriads of differently colored stains.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Catty.}
-{4}{}{She smiles to you. Then tries to wipe the oil spot off her face - and gets even more dirty.}
+{4}{}{She smiles at you. Then tries to wipe the dirt spot off her face - and gets even dirtier.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ ƒŒ «Õ¿ ŒÃ—“¬¿
 #
 {5}{}{How can you sleep for so long, }
-{6}{}{?? Get up, it's urgent! You father got sick on the farms! He lost consciousness, Kirk barely managed to drag him to doctor Pat!}
+{6}{}{?? Get up, it's urgent! Your father got sick on the farms! He lost consciousness, Kirk barely managed to drag him to doctor Pat!}
 {7}{}{Uuuuuhhh... And what?}
 {8}{}{Got it, I'm running to the doc right away!}
 {9}{}{What's wrong with you!? Get up and go see them! Hurry!}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ œŒ—À≈ «Õ¿ ŒÃ—“¬¿
 #
-{10}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. Dirty, baggy robe that she is wearing, pached in a dozen places and covered in oil and dirt, surprises with a letters "Brook" sewn onto it. You remember that female Technology Servant is not very common thing in Tartarus. Catty looks tired, but pretty happy. When you approach, she notices you - and her face explodes with a look of surprise and happiness] You?! Is it really you?}
+{10}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. A dirty, baggy robe that she is wearing, patched in a dozen places and covered in oil and dirt, surprises with the letters "Brook" sewn onto it. You remember that female Technology Servant is not a very common thing in Tartarus. Catty looks tired but pretty happy. When you approach, she notices you - and her face explodes with a look of surprise and happiness] You?! Is it really you?}
 {11}{002}{Yes, it's-}
 {12}{002}{No, it's not me.}
 
-{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgot how you ran off after the guard's death.}
+{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgotten how you ran off after the guard's death.}
 {21}{003}{Yeah, I'm glad to see you too, Catty.}
 {22}{004}{I didn't even lay a finger on that guard!}
 {23}{005}{I was actually trying to help that guard!}
 {24}{003}{It's gonna be alright - if you won't be shouting and waving hands, pointing at me.}
 
-{30}{}{[She looks around again, making sure no one is looking, and smacks your head with a ringing slap with all her might. Judging by the power of slapping, her job keeps her in a pretty good physical shape.]}
+{30}{}{[She looks around again, making sure no one is looking and smacks your head with a ringing slap with all her might. Judging by the power of slapping, her job keeps her in a pretty good physical shape.]}
 {31}{}{[She looks around again, making sure no one is looking, and with one fast move wraps her hands around you, hugging.]}
 {32}{006}{Hey!}
 {33}{006}{[tightly hug her back]}
 
-{40}{}{Yeah, I'm not stupid. I've seen the body. You couldn't do it with your bare hands even if you tried to... Even if you armed yourself with some metal junk... Anyway, the guards don't care. They will kill you when they see you.}
+{40}{}{Yeah, I'm not stupid. I've seen the body. You couldn't do it with your bare hands even if you tried to... Even if you were armed with some metal junk... Anyway, the guards don't care. They will kill you when they see you.}
 {41}{003}{Are you always meeting your friends with "they will kill you"?}
 {42}{003}{So, I suppose you are glad to see me?}
 
-{50}{}{I remember. But the guard doesn't care. If you get in sight of someone not wasted by booze - and they will kill you.}
+{50}{}{I remember. But the guard doesn't care. If you get in a sight of someone not wasted by booze, they will kill you.}
 {51}{003}{Are you always meeting your friends with "they will kill you"?}
 {52}{003}{So, I suppose you are glad to see me?}
 
-{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn't think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so much things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
-{61}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius and its inhabitants]}
+{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn't think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so many things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{61}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius, and its inhabitants]}
 
-{70}{}{[Catty listened to you thoughtfully, without interrupting. Looks like she became more serious and calm since your last meeting] Holy shit - that's all I can say. I'm still having troubles believing it. And about the Radius - you know, it sounds like not a bad place... [she looks at a big wrench in her hand] If you have a big gun and many bullets. Looks like this place is a lot safer. And we have order maintained here - for example, three days ago one guard punished some boy for stealing. Ten strokes of stick, and then he got his hand mangled with the guard's armored boot. }
+{70}{}{[Catty listened to you thoughtfully, without interrupting. Looks like she became more serious and calm since your last meeting] Holy shit - that's all I can say. I'm still having trouble believing it. And about the Radius - you know, it sounds like not a bad place... [she looks at a big wrench in her hand] If you have a big gun and many bullets. Looks like this place is a lot safer. And we have order maintained here - for example, three days ago one guard punished some boy for stealing. Ten strokes with a stick, and then he got his hand mangled with the guard's armored boot. }
 {71}{010}{Uhh... }
 
 {100}{}{Hey! Glad to see you alive and well. [Catty hugs you, then steps back and glances over you] How are you?}
@@ -82,23 +82,23 @@
 {110}{}{[she comes closer and hugs you] Take care.}
 {111}{999}{[end of dialogue]}
 
-{120}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. Dirty, baggy robe that she is wearing, pached in a dozen places and covered in oil and dirt, surprises with a letters "Brook" sewn onto it. You remember that female Technology Servant is not very common thing in Tartarus. Catty looks tired, but pretty happy. When you approach, she raises her eyes on you, wiping the sweat from her forehead with a tired gesture] Yes? I'm doing my daily duties. What can I help the noble Son of Gods with?}
+{120}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. A dirty, baggy robe that she is wearing, patched in a dozen places and covered in oil and dirt, surprises with the letters "Brook" sewn onto it. You remember that female Technology Servant is not a very common thing in Tartarus. Catty looks tired but pretty happy. When you approach, she raises her eyes on you, wiping the sweat from her forehead with a tired gesture] Yes? I'm doing my daily duties. What can I help the noble Son of Gods with?}
 {121}{013}{Clean my boots, for a start.}
 {122}{013}{We have toilets clogged, they need to be taken care of...}
-{123}{018}{[remove helmet, wink at her, then put it back]}
+{123}{018}{[remove the helmet, wink at her, then put it back]}
 {124}{013}{I'm looking for a female to spend the night with.}
 {125}{022}{I missed you, that's all.}
 
 {130}{}{Wh-... What?}
-{131}{014}{[remove helmet, wink at her, then put it back]}
+{131}{014}{[remove the helmet, wink at her, then put it back]}
 {132}{021}{You heard me, Servant!}
 
-{140}{}{[Looks like she is speechless. Her face indicates she is shocked, then you see a shadow of happiness - and then she suddenly turs red, grabs wrench and strikes you between your legs]}
+{140}{}{[Looks like she is speechless. Her face indicates she is shocked, then you see a shadow of happiness - and then she suddenly turns red, grabs a wrench, and strikes you between your legs]}
 {141}{015}{[you try to cover your groin, although your armor turned out to be sturdy enough to protect you from the blow. Still, your heart is pounding] I suppose you are glad to see me.}
 
 {150}{}{You, asshole! [Catty is furiously flaring her nostrils] What kind of joke is that? Especially after you escaped the way you did! }
 {151}{016}{Calm down, Catty! I was just goofing around! }
-{152}{016}{Can't I make a joke once it a while?}
+{152}{016}{Can't I make a joke once in a while?}
 {153}{016}{Okay, chill!}
 
 {160}{}{Take off your helmet. }
@@ -109,23 +109,23 @@
 {170}{}{Oh Gods, just take off this goddamn helmet!}
 {171}{003}{Okay... [take off your helmet]}
 
-{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgot how you ran off after the guard's death.}
+{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgotten how you ran off after the guard's death.}
 {181}{019}{You know, I'm wearing this armor not just for kicks.}
 
 {190}{}{Yeah... Sure... [Catty still looks nervous. She makes sure no one is looking one more time, then sighs and silently hugs you] Oh Gods... I'm so glad to see you again. I never thought you'd survive... I've seen the guard's corpse. The wounds were... Scary. And he had armor on him, unlike you. And that damn guards still think that it was you who killed him. They have their brains completely murky from all of the booze...}
 {191}{}{Can we talk safely here?}
 
-{200}{}{Sure, I think. If there's no load of guards around, then everything's alright. Your disguise is working. [She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I still can't believe my eyes. I'm so glad to see you! But I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so much things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
-{201}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius and its inhabitants]}
+{200}{}{Sure, I think. If there's no load of guards around, then everything's alright. Your disguise is working. [She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I still can't believe my eyes. I'm so glad to see you! But I'm still willing to unscrew that head of yours for so mindlessly wandering in here like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so many things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{201}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius, and its inhabitants]}
 
 {210}{}{[her hands start shaking]}
-{211}{014}{Oh come on, I'm just being silly. It's me! [remove helmet, wink at her, then put it back]}
-{212}{014}{This was a stupid joke, sorry, Catty, It's me... [remove helmet, wink at her, then put it back]}
+{211}{014}{Oh come on, I'm just being silly. It's me! [remove the helmet, wink at her, then put it back]}
+{212}{014}{This was a stupid joke, sorry, Catty, It's me... [remove the helmet, wink at her, then put it back]}
 
 {220}{}{What?}
-{221}{018}{[remove helmet, wink at her, then put it back]}
+{221}{018}{[remove the helmet, wink at her, then put it back]}
 
-{230}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. Dirty, baggy robe that she is wearing, pached in a dozen places and covered in oil and dirt, surprises with a letters "Brook" sewn onto it. You remember that female Technology Servant is not very common thing in Tartarus. Catty looks tired. Strangely enough, the shots echoing around Tartarus seems to not worry her a bit, like it's a commin thing around here.]}
+{230}{}{[Catty was never very girly in her manners, but now only her cute face reminds you that she is a woman. A dirty, baggy robe that she is wearing, patched in a dozen places and covered in oil and dirt, surprises with the letters "Brook" sewn onto it. You remember that female Technology Servant is not a very common thing in Tartarus. Catty looks tired. Strangely enough, the shots echoing around Tartarus seem to not worry her a bit like it's a common thing around here.]}
 {231}{024}{Catty?}
 
 {240}{}{[she freezes, hearing your voice]}
@@ -136,7 +136,7 @@
 {250}{}{It's... You! I... I'm so glad to see you! I would even hug you, but... Is this your blood on your armor? Oh, is that brain on your boots? }
 {251}{026}{Huh... That was not the way I envisioned our meeting.}
 
-{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of Gods. You know I don't approve it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think it's better for me to hide, I know some places. Let's meet after it's over. [she runs off]}
+{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of Gods. You know I don't approve of it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think I should hide, I know some places. Let's meet after it's over. [she runs off]}
 {261}{999}{[end of dialogue]}
 
 {270}{}{[she blushes and lowers her eyes] No, not at all. It's just... You were absent for a really long time. I thought you died. And... I started to think about my future, you know. You, uh, do get it, right?}
@@ -150,9 +150,9 @@
 {291}{010}{[smile]}
 
 {300}{}{You know, nothing special, since we've met last time. It's the same... Nothing is going on.}
-{301}{}{[she lowers her eyes] Lately, Sons of Gods are in need of sacrifices. The guards just grab women and take them away at least once in every two weeks. And we have only one who returned, but she doesn't speak and behaves strangely. Doc said she has bruises on her back, arms and legs... I... I'm scared. I try not to think much, but I am scared.}
-{302}{}{Do you remember me telling you about the guards taking women away? Looks like even Sons of Gods themselves started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harrasments. I doubt she made it alive... But more scary is to think what Herald did to her.}
-{303}{}{[Catty gives you a weak smile] The life gets worse, the food is scarce, the water is more dirty, less children around... Do you want me to go on?}
+{301}{}{[she lowers her eyes] Lately, the Sons of Gods require sacrifices. The guards just grab women and take them away at least once every two weeks. And we have only one who returned, but she doesn't speak and behaves strangely. Doc said she has bruises on her back, arms, and legs... I... I'm scared. I try not to think much, but I am scared.}
+{302}{}{Do you remember me telling you about the guards taking women away? Looks like even Sons of Gods themselves started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harassment. I doubt she made it alive... But scarier is to think what Herald did to her.}
+{303}{}{[Catty gives you a weak smile] The life gets worse, the food is scarce, the water is dirtier, fewer children around... Do you want me to go on?}
 {304}{010}{Well... The stability isn't so bad. Better than worsening, at least.}
 {305}{010}{Yeah, the stability sucks, when it's consistently bad.}
 {306}{031}{That assholes... I'll cut their balls off!}
@@ -189,22 +189,22 @@
 {365}{047}{Did you hear about the Rainbow?}
 {366}{048}{Did you hear about the Drop?}
 {367}{050}{Catty... I did it! I got inside the Olympus!}
-{368}{010}{I, uh... Don't think there was something interesting lately. Better let's talk about what's happening here.}
+{368}{010}{I, uh... Don't think there was anything interesting lately. Better let's talk about what's happening here.}
 
 {370}{}{Cool! I guess... Do you have something else interesting to tell me?}
 {371}{036}{Of course!}
-{372}{010}{Enough for today! [wink] Let's talk about something else.}
+{372}{010}{Enough for today! [wink at her] Let's talk about something else.}
 
 {380}{}{No. Is it some kind of God?}
 {381}{041}{[laugh] No, it's a place. Maybe you didn't see the Chimeras, but you must have heard of them. Nasty creatures. And I had to fight one of these... [tell about your battle with Chimera]}
 {382}{010}{Yeah... You know, I'll tell you about it later. Let's talk about more recent things.}
 
 {390}{}{Really? What about the Gods?}
-{391}{040}{The Gods, they... Uh... They don't have power there. So, I ended up in such place when they were in the process of changing their leader!}
+{391}{040}{The Gods, they... Uh... They don't have the power there. So, I ended up in such a place when they were in the process of changing their leader!}
 
 {400}{}{And? How they did it? Did the Herald come to tell them who is worthy of leading people?}
-{401}{041}{You will be surprised - to chose someome they had to cast a vote, each of them. And the most interesting part - they voted for a rotten ghoul, named Sam. }
-{402}{042}{Yes... And Herald fell to his knees and told that I'm the saviour of the Radius. So, now I'm the leader of that town.}
+{401}{041}{You will be surprised - to chose someone they had to cast a vote, each of them. And the most interesting part - they voted for a rotten ghoul, named Sam. }
+{402}{042}{Yes... And Herald fell to his knees and told that I'm the savior of the Radius. So, now I'm the leader of that town.}
 {403}{042}{No, it's not... It's not like... Long story short, I'm their leader now.}
 
 {410}{}{What?! [she stares at you as if you said something stupid]}
@@ -227,23 +227,23 @@
 
 {460}{}{He is so cute! Do you have something else to tell me? I would play with him while you do it. [you notice that Shaggy is actively wagging his tail]}
 {461}{036}{Of course!}
-{462}{010}{Enough for today! [wink] Let's talk about something else.}
+{462}{010}{Enough for today! [wink at her] Let's talk about something else.}
 
 {470}{}{You mean, a thing in the sea? I've seen pictures...}
-{471}{037}{It's also a name of one place... Pretty far away from here. There are some pretty bad people living in there. And they had a big and dumb guy in charge, an evil bandit by the name of Hog... [tell her about you dealing with Hog]}
+{471}{037}{It's also the name of one place... Pretty far away from here. There are some pretty bad people living in there. And they had a big and dumb guy in charge, an evil bandit by the name of Hog... [tell her about you dealing with Hog]}
 {472}{010}{Yeah... I saw one, can you imagine? Okay, let's talk about simpler things...}
 
 {480}{}{No. What is it?}
-{481}{049}{It's a drug. Poison. And it's creator was... You can say, a slave, who was forced to produce it. I helped her escape. If you only knew how risky it was... [tell about Naomi and her lab]}
+{481}{049}{It's a drug. Poison. And its creator was... You can say, a slave, who was forced to produce it. I helped her escape. If you only knew how risky it was... [tell about Naomi and her lab]}
 
 {490}{}{Naomi? Did something happen between the two of you?}
 {491}{}{Cool! I guess... Do you have more interesting stories to tell? }
 {492}{037}{Of course not! Although I heard that she likes to follow people around... But I got away. [laugh]}
 {493}{036}{Yeah!}
-{494}{010}{Enough for today! [wink] Let's talk about something else.}
+{494}{010}{Enough for today! [wink at her] Let's talk about something else.}
 
 {500}{}{Did you meet the Gods? }
-{501}{051}{I... Listen, Catty, there are no Gods. Only people who pretend to be Gods. Only people... Living in the tower. Well, maybe some of them are a little nuts, but that's beside the point. We can overthrow them, Catty! I'm close to it!}
+{501}{051}{I... Listen, Catty, there are no Gods. Only people who pretend to be Gods. Only people... Living in the tower. Well, maybe some of them are little nuts, but that's beside the point. We can overthrow them, Catty! I'm close to it!}
 
 {510}{}{[she sighs] Why? Why are you doing it?}
 {511}{052}{If not me, then who would?}

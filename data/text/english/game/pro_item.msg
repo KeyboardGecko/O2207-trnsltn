@@ -49,7 +49,7 @@
 {2500}{}{Poisoned Dart}
 {2501}{}{Although made of junk, the darts are perfectly balanced. Inside each is a cavity containing poison. Too bad they're single use only.}
 {2600}{}{12mm Nitro}
-{2601}{}{A case of special 12mm incendiary ammunition for the unique Hotter shotgun.}
+{2601}{}{A case of special 12mm incendiary ammunition for the unique "Hotter" shotgun.}
 {2700}{}{Magnum Bullets}
 {2701}{}{Very powerful magnum revolver cartriges.}
 {2800}{}{MiniBat energy cell}
@@ -67,25 +67,25 @@
 {3400}{}{Shotgun Fist}
 {3401}{}{Whoa, someone mounted a shotgun in these knuckles. Be careful, the blood of your victims can jam the mechanism. Min ST: 5}
 {3500}{}{Aluminium Knuckles}
-{3501}{}{Small, light, featureless, but this brass knuckles will help you not to hurt your knuckles on someone's jaw. Min ST: 2}
+{3501}{}{Small, light, featureless, but this brass knuckles will help you not to snap your fingers with someone's jaw. Min ST: 2}
 {3600}{}{Brass Knuckles}
 {3601}{}{That's more like it! With this brass knuckles, you can break someone's skull or kneecaps. Min ST: 4}
 {3700}{}{Spiked Knuckles}
 {3701}{}{The most dangerous of brass knuckles: rips the skin, breaks bones and lifts the mood of its owner! Min ST: 4}
 {3800}{}{Lead Gloves}
-{3801}{}{Very useful, breaks bones like it's nothing. Min ST: 5}
+{3801}{}{Very useful, crushes bones like it's nothing. Min ST: 5}
 {3900}{}{Corkscrew}
-{3901}{}{A rather dangerous and inconspicuous weapon. Aim for their eyes! Min ST: 3}
+{3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes! Min ST: 3}
 {4000}{}{Buzz Blade}
-{4001}{}{A chainsaw with a handle. Chopping meat, cutting sinew, crushing bone was never easier! It's so light and comfortable that you can forget about it when you decide to scratch yourself. Min. sl: 6}
+{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bone were never easier! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. Min ST: 6}
 {4100}{}{Batteries}
-{4101}{}{The only widely accepted means of tender in the Wastes.}
+{4101}{}{The only generally accepted means of payment in the Radius.}
 {4200}{}{Mine}
-{4201}{}{A typical american made anti-personal mine with a chemical activation trigger.}
+{4201}{}{A typical american made anti-personnel mine with a chemical activation trigger.}
 {4300}{}{C4 Explosives}
 {4301}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive.}
 {4400}{}{Armed C4 Explosives}
-{4401}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. It's armed!}
+{4401}{}{!!Activated!! A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. It's armed!}
 {4500}{}{C4 Detonator}
 {4501}{}{A radio-controlled detonator for C4 explosives.}
 {4600}{}{C4 Deactivator}
@@ -103,39 +103,39 @@
 {5200}{}{Geiger Counter}
 {5201}{}{A vital tool in the wasteland. It determines the exposure of gamma and beta radiation.}
 {5300}{}{Watch}
-{5301}{}{A "Single-Tronic" wristwatch, with a quartz mechanism and shockproof case.}
+{5301}{}{A "Singletronic" wristwatch with a quartz mechanism and shockproof case.}
 {5400}{}{Stealth Boy}
 {5401}{}{A device that uses an electromagnetic field to create an invisibility effect around the user.}
 {5500}{}{Lockpicks}
-{5501}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.}
+{5501}{}{A set of locksmith tools. A key instrument of a burglar.}
 {5600}{}{Expanded Lockpick Set}
-{5601}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks. This set also includes some special tools for more difficult mechanical locking mechanisms.}
+{5601}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open locks. This set also includes some special tools for more difficult mechanical locking mechanisms.}
 {5700}{}{Electronic Lockpick}
-{5701}{}{An universal tools for defeating electronic locks and security devices.}
+{5701}{}{An universal tool for defeating electronic locks and security devices.}
 {5800}{}{Electronic Lockpick MKII}
-{5801}{}{A more advanced version of electronic lockpick. For defeating electronic locks and security devices. This Mark II version includes updated software and interface tools.}
+{5801}{}{A more advanced version of electronic lockpick for electronic locks and security devices. Now you can open twice as much locks!}
 {5900}{}{Motion Sensor}
 {5901}{}{A motion sensor detects even the slightest movements over a long distance, using a tuned radar device.}
 {6000}{}{Chainsaw Sword}
-{6001}{}{Cuts people better than wood, way better! Purge the Heretic! Kill the Xeno! Min ST: 6}
+{6001}{}{You can even chop wood with it, but chopping people feels way better. Min ST: 6}
 {6100}{}{Laser Saw}
-{6101}{}{This tool can cut almost anything. Take extreme care when using it. Min ST: 4}
+{6101}{}{This tool can cut through almost anything. Take extreme care when using it. Min ST: 4}
 {6200}{}{Combat Throwing Knife}
-{6201}{}{A very sharp and balanced knife that is excellent for throwing. You heard that squads of Navy SEALS used them for silent takedowns. Min ST: 4}
+{6201}{}{A very sharp and balanced knife that is excellent for throwing. You've read that squads of Navy SEALS used them for silent takedowns. Min ST: 4}
 {6300}{}{Throwing Knife}
-{6301}{}{A Hand-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory made though. Min ST: 3}
+{6301}{}{A hand-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory made though. Min ST: 3}
 {6400}{}{Combat Knife}
-{6401}{}{A heavy knife with a wide blade to allow for much bloodloss. In the right hands this piece of cold steel can a lot of people! Min ST: 4}
+{6401}{}{A heavy knife with a wide blade which allows dealing an extended bloodloss. In the right hands, this piece of cold steel can kill a lot of people! Min ST: 4}
 {6500}{}{Cutting Knife}
-{6501}{}{If you can't decide if you want to cut up bread, sausages or an annoying neighbor. Min ST: 3}
+{6501}{}{If you can't decide if you want to cut up bread, sausages or your annoying neighbor. Min ST: 3}
 {6600}{}{Cleaver}
-{6601}{}{A butcher's knife that cuts through bones in a single swing of the hand. Min ST: 5}
+{6601}{}{A butcher's knife that cuts through bones in a single swing. Min ST: 5}
 {6700}{}{Scalpel}
 {6701}{}{A surgical scalpel, very sharp and simple to use. Be careful with it! Min ST: 2}
 {6800}{}{Serrated Cleaver}
-{6801}{}{The tool of maniacs! A powerful edged weapon with a serrated blade will cut down any enemy. Min ST: 4}
+{6801}{}{The maniac's tool! A powerful edged weapon with a serrated blade will cut down any enemy. Min ST: 4}
 {6900}{}{Lightning Spear}
-{6901}{}{A heavy metal spear with a power source connected to it. Hits the enemy not only with its pointed tip, but also with a hefty electric shock. Min ST: 5}
+{6901}{}{A heavy metal spear with a power source connected to it. Hits the enemy not only with its pointed tip but also with a hefty electric shock. Min ST: 5}
 {7000}{}{Wooden Spear}
 {7001}{}{A sharp wooden spear made using Stone Age technology. Min ST: 4}
 {7100}{}{Iron Spear}
@@ -143,259 +143,259 @@
 {7200}{}{Placeholder Spear}
 {7201}{}{}
 {7300}{}{Science Book}
-{7301}{}{Study science, at this time any information is worth its weight in gold.}
+{7301}{}{Study science. At this time any information is worth its weight in gold.}
 {7400}{}{Pistol Parts}
-{7401}{}{You can assemble a pistol from this, if you have the skills and a special repair kit.}
+{7401}{}{You can assemble a pistol from this if you have the skills and a special repair kit.}
 {7500}{}{Revolver Parts}
-{7501}{}{You can assemble a revolver from this, if you have the skills and a special repair kit.}
+{7501}{}{You can assemble a revolver from this if you have the skills, persistence, and a special repair kit.}
 {7600}{}{Engineering Book}
 {7601}{}{A manual for repairing broken equipment, machines and electronics.}
 {7700}{}{Rifle Parts}
-{7701}{}{You can assemble a rifle from this, if you have the skills and a special repair kit.}
+{7701}{}{This heap of parts can be assembled into a good rifle if you have the skills and a special repair kit.}
 {7800}{}{Shotgun Parts}
-{7801}{}{You can assemble a shotgun from this, if you have the skills and a special repair kit.}
+{7801}{}{You can assemble a shotgun from this if you have the skills and a special repair kit.}
 {7900}{}{Flare}
 {7901}{}{An old flashlight.}
 {8000}{}{Medical Book}
-{8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary things.}
-{8100}{}{Automatic Parts}
-{8101}{}{You can assemble an automatic weapon from this, if you have the skills and a special repair kit.}
+{8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary medical skills.}
+{8100}{}{Assault rifle Parts}
+{8101}{}{These parts can be assembled into an assault rifle if you have the skills and a special repair kit.}
 {8200}{}{Universal Screwdriver}
 {8201}{}{A screwdriver with multiple attachments, suitable for many operations.}
-{8300}{}{Tool Kit}
-{8301}{}{A universal repair set, containing various useful tools, including pliers.}
+{8300}{}{Repair Kit}
+{8301}{}{A universal repair set, containing various useful tools. Pliers included.}
 {8400}{}{Pistol Repair Kit}
 {8401}{}{A kit for the maintenance and assembly of pistols.}
 {8500}{}{Explosives}
 {8501}{}{A bundle of good old trinitrotoluene.}
 {8600}{}{Scout Handbook}
 {8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
-{8700}{}{Zeus Hammer}
-{8701}{}{A huge metal hammer powered by batteries. See how merrily the crushed skull of the enemy twitches under the influence of an electric charge! Min ST: 7}
+{8700}{}{Zeus Electric Hammer}
+{8701}{}{A huge metal hammer powered with batteries. See how merrily the crushed skull of the enemy twitches under the electric charge! Min ST: 7}
 {8800}{}{Sledgehammer}
 {8801}{}{This hammer can crush granite and skulls! More often it is skulls. Min ST: 7}
-{8900}{}{Battlehammer}
-{8901}{}{A very large hammer with a big handle. Very popular with the muscular crowd. Min ST: 7}
+{8900}{}{Battle Sledge}
+{8901}{}{A heavy, primitive, but still very efficient way to calm down a nervous bipedal. Or any-pedal. Min ST: 7}
 {9000}{}{Placeholder Hammer}
 {9001}{}{}
 {9100}{}{Doctor's Bag}
 {9101}{}{A roomy bag that contains instruments and chems used by doctors in the application of their trade.}
 {9200}{}{Light Support Weapon}
 {9201}{}{A military support machine gun that was in service with the heavy infantry of the US Armed Forces from 1978 to 1989. Min ST: 7}
-{9300}{}{Barrack Machinegun}
-{9301}{}{An experimental super-heavy machine gun, developed by the company "Britanic Engineering" for the Advanced Research Projects Agency "Defender" project. The recoil has incredible power and can easily tear out an untrained arm! Min ST: 10}
+{9300}{}{"Baraka" Machinegun}
+{9301}{}{An experimental super-heavy machinegun, developed by the company "Britannic Engineering" to be used with the "Defender" mechanized combat armor system. An incredibly powerful recoil can easily tear out an arm! Min ST: 10}
 {9400}{}{Turret Machinegun}
-{9401}{}{How did you manage to wrest the machine gun from the chassis of the turret? Min ST: 9}
-{9500}{}{LVS Machinegun}
-{9501}{}{A heavy machine gun, developed by "Civil Defense" for the US Army for paramilitary police units. Mounted on lightly armored vehicles, it prooved itself excellent against protesters! Min ST: 8}
-{9600}{}{SLR-3 Laser Rifle}
-{9601}{}{A modification of the "Grand Schwein Laser Rifle" developed by Sebastian Schwein in 2198. Awkward and heavy, but damn it's a laser! Min ST: 7}
-{9700}{}{SLR-4 Laser Rifle}
-{9701}{}{This model replaced the "SLR-3" rifle in 2202. Differences from its predecessor are a slightly higher weight, but a greater firing range and laser pulse stability. Min ST: 8}
+{9401}{}{How did you manage to take the machine gun off the turret? Min ST: 9}
+{9500}{}{"Law" Machinegun}
+{9501}{}{A heavy machine gun, developed by "Civil Defense" company for the US Army for paramilitary police units. Usually mounted on lightly armored vehicles, it has proven itself as an excellent tool against protesters! Min ST: 8}
+{9600}{}{"SLR-3" Laser Rifle}
+{9601}{}{A modification of "The Great Schwein's Superior Laser Rifle" developed by Sebastian Schwein in 2198. Heavy, and uncomfortable to use, but damn - it's a laser! Min ST: 7}
+{9700}{}{"SLR-4" Laser Rifle}
+{9701}{}{This model is a replacement for the "SLR-3" model, made in 2202. Differences from its predecessor include a slightly bigger weight, increased firing range, and laser pulse stability. Min ST: 8}
 {9800}{}{Plasma Rifle}
-{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Just don't forget to feed it with a lot of energy cells. Without your participation this beast of massive destruction would never have seen the light of day! Min ST: 9}
-{9900}{}{FT2A Flamethrower}
-{9901}{}{A military flamethrower that spits searing flames of napalm. Burn, baby burn! Min ST: 8}
-{10000}{}{Hellbringer}
+{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Don't forget to feed it with vast amounts of energy cells. Without your participation, this beast of mass destruction would never have seen the light of day! Be proud of yourself. Min ST: 9}
+{9900}{}{"FT2A" Flamethrower}
+{9901}{}{A military flamethrower that spits searing flames of napalm. Burn baby, burn! Min ST: 8}
+{10000}{}{"Hellbringer"}
 {10001}{}{The poetic name of this incendiary monster speaks for itself. With this gun, the smell of burnt meat will stick firmly in your nostrils! Min ST: 9}
-{10100}{}{Festering Flamer}
-{10101}{}{A Hand-made and rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into the nozzle! Min ST: 9}
+{10100}{}{"F4ster" Flamer}
+{10101}{}{A hand-made and rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into its nozzle! Min ST: 9}
 {10200}{}{Gunpoint Magazine}
 {10201}{}{A gun magazine devoted to the practical use of firearms, and the occasional biased review.}
 {10300}{}{Taser}
-{10301}{}{A fairly strong electric shock will sober up any bully who attacks you! Min ST: 5}
+{10301}{}{A fairly strong electric shock will sober up any bully who picks on you! Min ST: 5}
 {10400}{}{Crowbar}
-{10401}{}{Rips out nails, opens doors, knocks out teeth. The range of applications of this piece of iron is limitless! Min ST: 5}
+{10401}{}{Rips out nails, opens doors, knocks out teeth. The application range of this piece of metal is limitless! Min ST: 5}
 {10500}{}{Placeholder Club}
 {10501}{}{}
 {10600}{}{Pipe Wrench}
 {10601}{}{Old, rusty, but heavy and with a comfortable handle! Min ST: 6}
-{10700}{}{Ratcatcher}
-{10701}{}{Homemade weapon for clobbering small creatures. Although, it is also suitable for large ones. Min ST: 6}
+{10700}{}{"Ratcatcher"}
+{10701}{}{Home-made weapon for clobbering small rodents. Large ones will do too. Min ST: 6}
 {10800}{}{Hammer}
 {10801}{}{A blunt instrument for work and self-defense. Min ST: 5}
 {10900}{}{Nail Board}
-{10901}{}{What people will come up with against other people. Min ST: 5}
+{10901}{}{When it comes to hurting others, some people get very creative. Min ST: 5}
 {11000}{}{Bludgeon}
-{11001}{}{In fact it's just an old stick, but it fits easily and comfortably in your hand. Min ST: 4}
+{11001}{}{In fact it's just a handle from a pool cue, but it fits in your hand easily and comfortably. Min ST: 4}
 {11100}{}{Pipe}
-{11101}{}{Just a piece of rusty pipe. When you hit someone on the head, there is a cheerful ringing sound. Min ST: 6}
-{11200}{}{Police Baton}
-{11201}{}{An old police tool for dealing with the unruly. The Baton causes a lot of pain, but it leaves almost no traces on the body! Min ST: 5}
+{11101}{}{Just a piece of rusty pipe. When you hit someone on the head it makes a cheerful ringing sound. Min ST: 6}
+{11200}{}{"Calmer" Police Baton}
+{11201}{}{An old police tool for dealing with the protesters. The Baton causes a lot of pain, but it leaves almost no traces on the body! Min ST: 5}
 {11300}{}{Leather Jacket}
 {11301}{}{A leather jacket, thick and heavy. Although it will hardly protect you from a bullet.}
 {11400}{}{Aviator Jacket}
-{11401}{}{A fashionable jacket made of very thick and high-quality leather. It will reliably protect you not only from wind and cold, but also from a knife strike!}
-{11500}{}{Baseball Protector}
-{11501}{}{Once sports equipment, now very good combat protection.}
-{11600}{}{Super Protector}
-{11601}{}{Baseball sports equipment serves as a decent protection against blows and hits from small-caliber weapons.}
-{11700}{}{Hockey Protector}
-{11701}{}{Durable and comfortable hockey protection, will protect you from many blows.}
+{11401}{}{A fashionable jacket made of very thick and high-quality leather. It will reliably protect you not only from wind and cold, but also from being stabbed with a knife.}
+{11500}{}{Baseball Gear}
+{11501}{}{A sports equipment in the past, now it's a very good combat protection.}
+{11600}{}{"Super Catcher"}
+{11601}{}{Baseball sports equipment provides a decent protection against blows and hits from small-caliber weapons.}
+{11700}{}{Hockey Gear}
+{11701}{}{Durable and comfortable hockey protection. It will protect you from many blows.}
 {11800}{}{Rusty Cuirass}
-{11801}{}{Looks like a rusty mess of scrap metal, but it still gives you good protection from bullets.}
+{11801}{}{Looks just like a rusty pile of scrap metal. It still gives you some protection, but don't ask too much of it.}
 {11900}{}{Metal Armor}
-{11901}{}{Strong and heavy armor made of sheet metal. Constricts movement somewhat but offers great protection.}
+{11901}{}{Strong and heavy armor made of sheet metal. Constricts movement but offers great protective capabilities.}
 {12000}{}{Military Armor}
-{12001}{}{The most common armor used by army infantry in the war. Still reliable.}
+{12001}{}{The most wide-spread armor used by army infantry in the war. Still reliable.}
 {12100}{}{Combat Armor}
-{12101}{}{Infantry combat armor, leather, Kevlar, metal layers. Perfectly shields against many types of projectiles.}
+{12101}{}{Infantry combat armor: leather, kevlar, metal layers. Perfectly shields from different projectile types.}
 {12200}{}{Scout Armor}
-{12201}{}{Lightweight version of combat armor, upgraded for long-term reconnaissance operations in the deep behind enemy lines. It is light, comfortable, functional, and also gives the wearer a trim and sporty look!}
+{12201}{}{Lightweight version of combat armor, upgraded for long-term reconnaissance operations behind enemy lines. Light, comfortable, functional, and also gives its wearer a trim and sporty look!}
 {12300}{}{Fake Military Armor}
-{12301}{}{While this armor looks like the classic military armor of the Olympus Scouts, it's only a fake. Oh, and don't expect any good protection while wearing it!}
+{12301}{}{While this armor looks like the classic military armor of the Olympus Scouts, it's still fake. Oh, and don't expect any good protection while wearing it!}
 {12400}{}{Enviromental Armor}
-{12401}{}{The suit is designed specifically for use in extreme hostile environments, and as such most resistant to radioactive and gas contaminations. The best radiation protection in the entire Wastes!}
+{12401}{}{The suit is designed specifically for usage in extreme hostile environments, therefore, it is extremely resistant to radioactive and gas contaminations. The best radiation protection in the entire Radius!}
 {12500}{}{Battle Armor}
-{12501}{}{The armor offers nearly total protection, and is specially made for infantry assault groups. It increases mobility and maneuverability by reducing the thickness of the armor and using composite materials.}
+{12501}{}{The armor offers almost full-body protection, and is specially made for infantry assault groups. It offers an increases mobility and maneuverability, because of reduced thickness of the armor and the usage of composite materials.}
 {12600}{}{Battle Armor MKII}
-{12601}{}{An even improved version of the standard battle armor, even stronger, even more impressive! And you will surely appreciate the comfort of the new leather inserts between the hip plates!}
-{12700}{}{AS-2000}
-{12701}{}{A mechanized exo-suit, driven by a nuclear battery, with hydraulic and servo motors. This model saves poorly against radiation, but the thick layer of armor is an excellent protection against firearms and energy weapons!}
-{12800}{}{AS-2000 MKII}
-{12801}{}{The AS-2000 has been replaced by a modern upgraded and modified MKII, that features an added programmable stabilization system and an inverse kinematics system.}
-{12900}{}{MCA Defender}
-{12901}{}{This is a legendary mechanized combat armor system, powered by diesel-nuclear propulsion. Only the elite defenders of Olympus, the Protectors, are worthy to wear such a suit!}
-{13000}{}{Slugger}
-{13001}{}{An award-winning German-made pistol, characterized by it's high accuracy, stopping power, reliability and an elegant intrinsic handle design. Min ST: 4}
-{13100}{}{Detective Revolver}
-{13101}{}{A short-barreled revolver Model ST-115, nicknamed "Detective" as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many! Min ST: 4}
+{12601}{}{An improved version of the standard battle armor, stronger, and more impressive! You will surely appreciate the comfort of the new leather inserts between the hip plates!}
+{12700}{}{"AS-2000"}
+{12701}{}{A mechanized exo-suit based on a system of hydraulic and servo-motors, powered by a nuclear battery. This model offers a poor protection against radiation, but the thick layers of armor are excellent against firearms and energy weapons!}
+{12800}{}{"AS-2000" MKII}
+{12801}{}{The "AS-2000" has been replaced by a modern upgraded and modified MKII, now featuring the programmable stabilization system and inverse kinematics system.}
+{12900}{}{MCA "Defender"}
+{12901}{}{This is a legendary mechanized combat armor system, powered by diesel-nuclear propulsion. Only the elite warriors of Olympus - the Defenders - are worthy of wearing this!}
+{13000}{}{"Slugger"}
+{13001}{}{An award-winning German-made pistol, characterized by it's high accuracy, stopping power, reliability, and elegant, intricate handle design. Min ST: 4}
+{13100}{}{"Detective" Revolver}
+{13101}{}{A short-barreled revolver, model ST-115, nicknamed "Detective", as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many! Min ST: 4}
 {13200}{}{.45 Revolver}
-{13201}{}{A basic average revolver, named after the fact that the mechanism feeding the loaded cartridges is revolving like rotating drum. Min ST: 5}
+{13201}{}{A basic average revolver, named after the fact that the loaded cartridges feeding mechanism is designed in a shape of rotating drum. Min ST: 5}
 {13300}{}{Magnum Revolver}
 {13301}{}{Being that this is the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: "Do I feel lucky?" Well, do ya, punk? Min ST: 5}
 {13400}{}{Flare Gun}
 {13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor. Min ST: 5}
-{13500}{}{Thunderer}
-{13501}{}{This weapon is made on the basis of an single-fire under-barrel 40mm grenade launcher. It will bring quite a few merry moments to its owner. Min ST: 6}
-{13600}{}{9mm Glocker}
-{13601}{}{The 9mm Glocker pistol, manufactured by D&R, is a classic representative of the German military industry, very accurate and reliable. Min ST: 4}
-{13700}{}{9mm Glocker Auto}
-{13701}{}{An improved model of the Glocker Pistol family, that can fire bursts for even more fun with 9mm. Min ST: 5}
+{13500}{}{"Thunder"}
+{13501}{}{This pistol is a remade single-fire under-barrel 40mm grenade launcher. This little thing will give many moments of fun to its owner. Min ST: 6}
+{13600}{}{9mm "Glocker" Pistol}
+{13601}{}{The 9mm "Glocker" pistol, manufactured by D&R, is a classic representative of the German military industry. Very accurate and reliable. Min ST: 4}
+{13700}{}{9mm "Glocker" Pistol (Auto)}
+{13701}{}{An improved model of the "Glocker" pistol that can fire with bursts. Even more fun with 9mm weapon. Min ST: 5}
 {13800}{}{9mm Pistol}
-{13801}{}{A basic average pistol in 9mm, nothing special about it. Min ST: 4}
+{13801}{}{A basic average 9mm pistol. Nothing special about it. Min ST: 4}
 {13900}{}{9mm Revolver}
-{13901}{}{A very basic and Hand-made 9mm revolver, not very reliable. Min ST: 2}
-{14000}{}{Stun Pistol}
-{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it could save your life. Min ST: 3}
-{14100}{}{Sting}
-{14101}{}{A pneumatic launching device for hurling poisonous darts at your adversaries. Min ST: 3}
-{14200}{}{Python Revolver}
-{14201}{}{This one blows heads clean off! One of the most popular revolvers, made famous in the cinema's of the 70's, starring many detective noir movies. Min ST: 6}
-{14300}{}{.223 Pistol (Scoped)}
-{14301}{}{A special custom-made pistol in .223 with an attached scope, which allows to pick off your enemies at a distance with ease. Min ST: 4}
+{13901}{}{A very basic, hand-made 9mm revolver. Not very reliable. Min ST: 2}
+{14000}{}{"Break" Stun Gun}
+{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it still can save your life. Min ST: 3}
+{14100}{}{"Sting" Pistol}
+{14101}{}{A pneumatic device for hurling poisonous darts at your adversaries. Min ST: 3}
+{14200}{}{"Colt Python" Revolver}
+{14201}{}{This one blows heads clean off! One of the most popular revolvers, made famous by starring in many detective noir movies of the 70's. Min ST: 6}
+{14300}{}{"Optics" .223 Pistol}
+{14301}{}{A technical wonder - a special custom-made pistol in .223 with an attached scope, which allows you to pick off your enemies at a distance with ease. Min ST: 4}
 {14400}{}{Jackal's Revolver}
-{14401}{}{The signature revolver of the Jackal. A nice gun to pop the heads of your enemies like melons. Min ST: 6}
-{14500}{}{SL-10 Laser Pistol}
-{14501}{}{Compact and advanced version of the SL-9 laser pistol. Light, fast and deadly! Powered by small batteries. Min ST: 5}
+{14401}{}{The signature revolver of the Jackal himself. A nice gun to pop the heads of your enemies like melons. Min ST: 6}
+{14500}{}{"SL-10" Laser Pistol}
+{14501}{}{Compact and advanced version of the "SL-9" laser pistol. Light, fast and deadly! Powered by "MiniBat" energy cells. Min ST: 5}
 {14600}{}{Pneumatic Pistol}
-{14601}{}{A pistol that shoots small BB Pellets with the help of compressed air. Only really suitable for shooting rodents. Min ST: 2}
-{14700}{}{Red Robin Pistol}
-{14701}{}{A pneumatic pistol, model "Red Robin". While it is the most powerful model of airguns, that doesn't count for much. Min ST: 3}
+{14601}{}{A pistol that shoots small BB Pellets with the help of compressed air. The only suitable application for it is to shoot rodents. Min ST: 2}
+{14700}{}{"Red Robin" Pistol}
+{14701}{}{A pneumatic pistol, model "Red Robin". While it is the most powerful model of pneumatic guns, it doesn't count for much. Min ST: 3}
 {14800}{}{Laser Cutter}
 {14801}{}{An "Isaac Industries" laser cutting tool. Designed for cutting through unyielding rocks or soft organic tissue. Min ST: 5}
 {14900}{}{Gun Placeholder}
 {14901}{}{}
-{15000}{}{Dread SMG}
-{15001}{}{A "Dread" submachine gun that was in service with the National Guard until 2002. The main value is in simplicity and reliability, as well as decent firepower. Min ST: 4}
-{15100}{}{Ghetto SMG}
-{15101}{}{In the personal mob of any mafia boss is at least one man with this gun. An inspiring look is half the power of this weapon, as soon as the enemy sees this piece, he immediately loses all desire to behave inappropriately. Min ST: 5}
-{15200}{}{Cricket SMG}
-{15201}{}{A british submachine gun that was in service with the MI-6 operational special forces. Min ST: 4}
-{15300}{}{Vendetta SMG}
-{15301}{}{A favorite submaschine gun of mafiosi and bandits. Light, small and lethal, what else does one want? Min ST: 5}
-{15400}{}{FSP-10 SMG}
-{15401}{}{An elite prototype of an assault submachine gun for the marines. A light, reliable and water-resistant deliverer of pain and suffering for all the enemies of America! Min ST: 6}
-{15500}{}{Dread SMG (Scoped)}
-{15501}{}{A modified "Dread" submachine gun with an optical sight, to even better keep your enemies at bay. Min ST: 4}
-{15600}{}{Dread SMG (Exp. Mag.))}
-{15601}{}{A modified "Dread" SMG with an added magazine for even more bursting fun. Min ST: 5}
-{15700}{}{SL-9 Laser Pistol}
-{15701}{}{One of the first successful models of Schwein's laser pistols. Though a bit heavy it's not just a laser pointer but quite deadly! Min ST: 5}
+{15000}{}{"Helmuth" SMG}
+{15001}{}{A "Helmuth" submachine gun that was widely used by the National Guard until 2002. Its main qualities are simplicity and reliability, as well as decent firepower. Min ST: 4}
+{15100}{}{"Ghetto" SMG}
+{15101}{}{In the personal mob of any mafia boss is at least one man with this gun. An inspiring look is half the power of this weapon: as soon as enemy sees this piece, he immediately loses the desire to misbehave. Min ST: 5}
+{15200}{}{"Cricket" SMG}
+{15201}{}{A British submachine gun that was in service with the MI-6 operational special forces. Min ST: 4}
+{15300}{}{"Vendetta" SMG}
+{15301}{}{A favorite submachine gun of mafiosi and bandits. Light, small and lethal. What else to want? Min ST: 5}
+{15400}{}{"FCP-10" SMG}
+{15401}{}{An elite prototype of an assault submachine gun for the marines. A light, reliable and water-resistant deliverer of pain and suffering to every enemy of America! Min ST: 6}
+{15500}{}{"Helmuth" SMG (Scoped)}
+{15501}{}{A modified "Helmuth" submachine gun with an optical sight, to even better keep your enemies at bay. Min ST: 4}
+{15600}{}{"Helmuth" SMG (Exp. Mag.))}
+{15601}{}{A modified "Helmuth" SMG with an added magazine for even more bursting fun. Min ST: 5}
+{15700}{}{"SL-9" Laser Pistol}
+{15701}{}{One of the first successful models of Schwein's laser pistols. It is a bit heavy, but that is because it's more deadly than just a laser pointer! Min ST: 5}
 {15800}{}{Plasma Pistol}
-{15801}{}{A strong electromagnet disperses super-heated globs of plasma at a high rate of fire. It burns easily through metal, wood, stone and of course also living tissue. Min ST: 5}
-{15900}{}{9mm Submachine gun}
+{15801}{}{A strong electromagnet disperses super-heated globs of plasma at a high rate of fire. It burns easily through metal, wood, stone, and - of course - living tissue. Min ST: 5}
+{15900}{}{9mm Submachine Gun}
 {15901}{}{A basic average SMG in 9mm, nothing special about it. Min ST: 6}
-{16000}{}{N17A1 Assault Rifle}
-{16001}{}{An automatic rifle from the 90s of the twentieth century, a reliable rifle, valuable in combat, easy to handle and not quirky to maintain. Min ST: 6}
-{16100}{}{N17A1 Assault Rifle (Scoped)}
-{16101}{}{A standard N17A1 with a scope attached for even more long range precission. Min ST: 6}
+{16000}{}{"N17A1" Assault Rifle}
+{16001}{}{An automatic rifle from the 90s of the twentieth century. A reliable thing - valuable in combat, easy to handle and maintain. Min ST: 6}
+{16100}{}{"N17A1" Assault Rifle (Scoped)}
+{16101}{}{A standard N17A1 with a scope attached, for even more long range precision. Min ST: 6}
 {16200}{}{Barrage Machinegun}
 {16201}{}{A quite unique .223 modification of an old legendary Tommygun. It is rumored to have been in use by the mafia bosses of the east coast.  Min ST: 7}
 {16300}{}{Civilian Carbine}
 {16301}{}{A very old model of carbine, used in the pre-war period by hunters. Min ST: 5}
-{16400}{}{KLH74 Assault Rifle}
-{16401}{}{A legendary rifle trophy from the old wars, manufactured in the United Russian Empire. Min ST: 6}
+{16400}{}{"KLH74" Assault Rifle}
+{16401}{}{A legendary rifle trophy from the old wars, manufactured in the United Empire of Russia. Min ST: 6}
 {16500}{}{Assault Rifle}
-{16501}{}{A basic average assault rifle, nothing special about it. Min ST: 6}
-{16600}{}{Hunting Rifle}
-{16601}{}{A hunting rifle for large animals, or bigger two legged game. Min ST: 5}
-{16700}{}{Hunting Rifle (Scoped)}
+{16501}{}{Just an assault rifle. Perfectly suitable for hunting small and medium-sized prey. Min ST: 6}
+{16600}{}{"Hunter" Rifle}
+{16601}{}{A hunting rifle for large animals. And humans. Min ST: 5}
+{16700}{}{"Hunter" Rifle (Scoped)}
 {16701}{}{A hunting rifle with an attached scope that makes it easier to hunt from a distance, no matter what kind of game you're aiming for. Min ST: 5}
 {16800}{}{Personal Assault Rifle}
 {16801}{}{A personalized assault rifle. Min ST: 8}
-{16900}{}{Bulldog Assault Rifle}
+{16900}{}{"Bulldog" Assault Rifle}
 {16901}{}{A modern and decent assault rifle, named after the fact that it tears through enemies like a rabid dog through freshly killed prey. Min ST: 7}
 {17000}{}{Sniper Rifle}
 {17001}{}{A nice balanced rifle with an optical sight, good range and perfect accuracy. What more does a sniper need? Min ST: 6}
-{17100}{}{R-6 Assault Rifle}
-{17101}{}{An excellent assault rifle that was in use by the pre-war special forces. Very reliable and precise. Min ST: 7}
-{17200}{}{Varmint Rifle}
-{17201}{}{Despite the name and size of this rifle, this little baby can cause quite a few problems for your opponents. Min ST: 4}
-{17300}{}{Lilith Rifle}
-{17301}{}{A very deadly sniper rifle that many elite sniper used. Has a very long range and stopping power. Min ST: 9}
-{17400}{}{Phobos Shotgun}
+{17100}{}{"Rainbow-6" Assault Rifle}
+{17101}{}{An excellent assault rifle that was used by the pre-war special forces. Very reliable and precise. Min ST: 7}
+{17200}{}{"Nail" Rifle}
+{17201}{}{Despite the size of this rifle, this baby can cause quite a few problems for your opponents. Min ST: 4}
+{17300}{}{"Lilith" Rifle}
+{17301}{}{A very deadly sniper rifle that was used by many elite snipers. Has a very long range and stopping power. Min ST: 9}
+{17400}{}{"Phobos" Shotgun}
 {17401}{}{The automatic propellant gas rapid reloading system makes this shotgun a most dreadful experience for your enemies. Min ST: 7}
 {17500}{}{Double-barreled Shotgun}
 {17501}{}{A double-barreled hunting shotgun, ideal for unarmored targets. Min ST: 5}
-{17600}{}{Remington Shotgun}
-{17601}{}{A pump-action shotgun that was widely in use as a police weapon. It's in good condition. Min ST: 5}
-{17700}{}{Pump-Action Shotgun}
+{17600}{}{"Revengeton" Shotgun}
+{17601}{}{A pump-action shotgun that was widely in use by the police against not-so-innocent civilians. It's in good condition. Min ST: 5}
+{17700}{}{"Pocket" Shotgun}
 {17701}{}{A small and comfortable civilian pump-action shotgun. Min ST: 4}
-{17800}{}{Sawn-off Shotgun}
-{17801}{}{A sawn-off shotgun is the most common weapon among small-time bandits, robbers and other crooks. Min ST: 4}
+{17800}{}{Sawed-off Shotgun}
+{17801}{}{A sawed-off shotgun is the most common weapon among small-time bandits, robbers and other crooks. Min ST: 4}
 {17900}{}{12 ga. Shotgun}
 {17901}{}{A very basic civilian pump-action shotgun that was widely in use. Min ST: 5}
-{18000}{}{Wilderer Shotgun}
+{18000}{}{"Wilderer" Shotgun}
 {18001}{}{A big nasty revolving long range shotgun for hunting large game. Min ST: 6}
-{18100}{}{Hardener Shotgun}
-{18101}{}{This is more like a shotgun cannon than a normal revolving shotgun. It is definately one of the most powerful and with a very long range to boot. The downside is it needs special 12 gauge Long cartriges. Min ST: 9}
-{18200}{}{EMP Launcher}
+{18100}{}{"Hardener" Shotgun}
+{18101}{}{Looks more like a shotgun cannon than a normal shotgun. With a very long range to boot, it is among the most powerful ones. The downside is that it needs special 12 gauge cartridges. Min ST: 9}
+{18200}{}{EMP Grenade Launcher}
 {18201}{}{A grenade launcher for special 40mm EMP grenades, designed against robots and electronics. Min ST: 8}
-{18300}{}{40mm Launcher}
+{18300}{}{40mm Grenade Launcher}
 {18301}{}{A grenade launcher for high explosive 40mm grenades against fortified targets. Min ST: 6}
-{18400}{}{Strike Launcher}
+{18400}{}{"Strike" Grenade Launcher}
 {18401}{}{Grenades shot by this grenade launcher will supress your enemies and penetrate their armor. Min ST: 7}
-{18500}{}{Hotter Shotgun}
+{18500}{}{"Hotter" Shotgun}
 {18501}{}{This revolving shotgun fires special 12 gauge incendiary shells in the face of your enemies. Oh, and it has a burst mode too! Min ST: 5}
 {18600}{}{Pneumatic Rifle}
 {18601}{}{A rifle that shoots small BB Pellets with the help of compressed air. Has more power than the pistol versions. Min ST: 3}
-{18700}{}{Raven Rifle}
-{18701}{}{A descent rifle that shoots small BB Pellets. Even a wild coyote would not like to get hit by a bullet from this one. Min ST: 3}
+{18700}{}{"Raven" Rifle}
+{18701}{}{A decent rifle that shoots small BB Pellets. Even a wild jackal would not like to get hit by a bullet from this one. Min ST: 3}
 {18800}{}{Repaired Rifle}
-{18801}{}{A repaired and worn rifle, but still deadly. Min ST: 5}
+{18801}{}{A repaired and worn, but still a deadly weapon. Min ST: 5}
 {18900}{}{Placeholder Rifle}
 {18901}{}{}
-{19000}{}{Hurricane Minigun}
-{19001}{}{The portable six-barreled NCASTR minigun "Hurricane" is *the* weapon for suppress your opponents. A 75,000 rounds per minute .223 rain of lead makes it not likely to leave anything standing alive. Min ST: 8}
-{19100}{}{Heavy Rain Minigun}
-{19101}{}{Like it's predecessor, the "Heavy Rain" minigun tears through enemies like wet paper. It even powerful enough to destroy barricades and armored vehicles. Min ST: 9}
+{19000}{}{"Hurricane" Minigun}
+{19001}{}{The portable six-barreled NCASTR minigun "Hurricane" is *the* weapon for suppressing your opponents. A 75,000 rounds per minute .223 rain of lead is unlikely to leave anything standing alive. Min ST: 8}
+{19100}{}{"Heavy Rain" Minigun}
+{19101}{}{Like its predecessor, the "Heavy Rain" minigun tears through enemies like they are sheets of a wet paper. It is powerful enough to destroy barricades and armored vehicles. Min ST: 9}
 {19200}{}{Turret Minigun}
-{19201}{}{This gun made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by with it's nearly limitless 90,000 rounds per minute hail of bullets. Min ST: 10}
-{19300}{}{HMG-1A4 Flamelance}
-{19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically it's more a plasma minigun, but nobody seems to care when they, and everything around them, melt away at a searing 3000 degrees Celsius. Min ST: 8}
+{19201}{}{This gun, made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by. The cause of it is a nearly limitless 90,000 rounds per minute hail of bullets. Min ST: 10}
+{19300}{}{"HMG-1A4" Flamelance}
+{19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically, it's more of a plasma minigun - but nobody seems to care, especially when everything around melts down at a searing 3000 degrees Celsius. Min ST: 8}
 {19400}{}{Placeholder Minigun}
 {19401}{}{}
 {19500}{}{EMP Rocket Launcher}
-{19501}{}{A rocket launcher for special EMP rockets, designed against robots and electronics. Min ST: 7}
-{19600}{}{Crusader Rocket Launcher}
-{19601}{}{The NCASTR "Crusader" missile launcher fires surface-to-surface rockets, sufficient power and accuracy ensures a high level of target destruction. Min ST: 8}
+{19501}{}{A rocket launcher for special EMP rockets, designed against robots and electronics. The strongest burst of electromagnetic impulse doesn't leave them any chance. Min ST: 7}
+{19600}{}{"Crusader" Rocket Launcher}
+{19601}{}{The NCASTR "Crusader" missile launcher fires surface-to-surface rockets. Sufficient power and accuracy ensure a high level of target destruction. Min ST: 8}
 {19700}{}{Hand-made Rocket Launcher}
-{19701}{}{A short range single shot rocket launcher, basically just a pipe with a trigger mechanism. Be very careful fireing that thing! Min ST: 7}
-{19800}{}{Placeholder Rokcet Launcher}
+{19701}{}{A short-range single-shot rocket launcher... Basically, it's just a pipe with a trigger. Be extremely careful with this thing. Min ST: 7}
+{19800}{}{Placeholder Rocket Launcher}
 {19801}{}{Min ST: 7}
-{19900}{}{SnR Rocket Launcher}
-{19901}{}{A single use rocket launcher type "Shoot'n'Run" that is impossible to reload, just throw it away after use. Min ST: 6}
+{19900}{}{"SnR" Rocket Launcher}
+{19901}{}{A ultra-long range rocket launcher of "Shoot'n'Run" type. That means it is impossible to reload. Just throw it away after a single shot. Min ST: 6}
 {20000}{}{Weapon 1}
 {20001}{}{}
 {20100}{}{Weapon 2}
@@ -407,7 +407,7 @@
 {20400}{}{Weapon 5}
 {20401}{}{}
 {20500}{}{Flare (lit)}
-{20501}{}{An old flashlight. It's lit}
+{20501}{}{An old flashlight. It's lit.}
 {20600}{}{Dynamite (lit)}
 {20601}{}{A stick of good old dynamite with a lit fuse.}
 {20700}{}{Geiger Counter (active)}
@@ -421,53 +421,53 @@
 {21100}{}{EMP Grenade}
 {21101}{}{This type of grenade is designed specifically for the destruction of electronics. Min ST: 5}
 {21200}{}{WP Grenade}
-{21201}{}{If you need to start a fire, then this grenade is just perfect. Min ST: 4}
+{21201}{}{If you want to start a fire, this grenade is perfect. Min ST: 4}
 {21300}{}{Rock}
-{21301}{}{It's a rock. The Granite-Inc. model is an upgraded version. Min ST: 4}
+{21301}{}{It's a rock. The "Granite-Inc." model. This one is an upgraded version. Min ST: 4}
 {21400}{}{Molotov Cocktail}
-{21401}{}{A home-made flammable grenade. Min ST: 5}
+{21401}{}{A good old home-made flammable grenade. Burns your enemies to the ground. Min ST: 5}
 {21500}{}{HE Grenade}
 {21501}{}{An ordinary high-explosive grenade. Min ST: 6}
-{21600}{}{Fist of God}
-{21601}{}{One of the strongest grenades, a secret military design. Min ST: 7}
+{21600}{}{"Fist of God" Grenade}
+{21601}{}{One of the strongest grenades, a secret military technology. Min ST: 7}
 {21700}{}{Sawblade}
-{21701}{}{Sharp teeth can easily cut through unprotected flesh, and it flies perfectly! Min ST: 6}
+{21701}{}{Sharp teeth can easily cut through unprotected flesh. And it flies perfectly! Min ST: 6}
 {21800}{}{Billiard Ball}
-{21801}{}{Old, cracked, but weighty and with good flight characteristics. The ball may not kill anyone, but it will lead to some heavy bruises for sure! Min ST: 2}
+{21801}{}{Old, cracked, but weighty and with good flight characteristics. The ball may not kill anyone, but it will surely lead to some heavy bruises! Min ST: 2}
 {21900}{}{Hand-made Grenade}
-{21901}{}{A homemade grenade, dangerous for both, the enemy and the thrower. Min ST: 5}
+{21901}{}{A homemade grenade, dangerous for both the enemy and the thrower. Min ST: 5}
 {22000}{}{Bandages}
-{22001}{}{Inefficient, yet cheap and affordable. Bandages will not reconstitute your severed arm, but they will help you heal a cut.}
+{22001}{}{Inefficient, yet cheap and affordable. Bandages will not reconstitute your severed arm, but can help you heal the cut.}
 {22100}{}{Painkiller}
-{22101}{}{A couple of pills will reduce the pain, and will heal up light wounds!}
-{22200}{}{Heal-Up}
-{22201}{}{Developed on the basis of an army painkiller, this injection is designed for household use. Not really cheap, but pretty essential in the wastes.}
-{22300}{}{Surge}
-{22301}{}{A powerful army painkiller that heals even very deep wounds. It also increases strength and resistance to damage. Very essential in battle!}
-{22400}{}{Antidote}
-{22401}{}{If you are poisoned take a couple of pills and you will not face death from bloody diarrhea!}
-{22500}{}{Poison-Out}
-{22501}{}{Maybe the smell from this bottle of hooch can knock you off your feet, but this folk remedy still makes you sweat out the poison pretty good!}
-{22600}{}{RadOut}
+{22101}{}{A couple of pills will reduce the pain, and - if you're lucky - heal minor wounds.}
+{22200}{}{"Heal-Up"}
+{22201}{}{Developed on the basis of an army painkiller, this injection is for personal use. Not cheap, but really essential for every person in the Radius.}
+{22300}{}{"Surge"}
+{22301}{}{A powerful military painkiller that heals even very deep wounds. It also increases strength and resistance to damage. Essential in battle!}
+{22400}{}{"Poison-Out"}
+{22401}{}{If you happened to be poisoned, take a couple of pills and you will not face death from bloody diarrhea!}
+{22500}{}{Fruit Antidote}
+{22501}{}{Maybe the smell from this bottle of hooch can knock you off your feet, but this folk remedy is really great in making you sweat out the poison!}
+{22600}{}{"RadOut"}
 {22601}{}{An injection that removes radioactive particles from your bloodstream. Unpleasant, but useful!}
 {22700}{}{Wild Potion}
-{22701}{}{Scorpion tails, rat claws, molerat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation better than factory drugs!}
-{22800}{}{Iodide}
-{22801}{}{If you are going to toy around the core of a nuclear reactor this miracle pill will help you not to burn out from your insides. Take before exposure!}
-{22900}{}{Resistanol}
+{22701}{}{Scorpion tails, rat claws, molerat scales. Thinking of all the things mixed in there makes you queasy, but this potion removes radiation even better than factory drugs!}
+{22800}{}{"Radiom"}
+{22801}{}{If you are going to toy around the core of a nuclear reactor, this miracle pill will help you not to burn out from inside. Take before exposure!}
+{22900}{}{"Resistanol"}
 {22901}{}{A military miracle remedy that covers the skin with hard scales, even a knife will not harm you! May cause itching and cancer.}
-{23000}{}{Combatid}
-{23001}{}{If you want to rush though combat and cause mayhem and destruction stock up on Combatid. Not only does it heal your wounds, but also increases your resistances to damage. Possibly highly addictive with dangerous side effects.}
-{23100}{}{Brainiac}
-{23101}{}{No scientist can do without this nose spray! The composition of the drug gets directly into the brain, fully revealing its dormant potential!}
-{23200}{}{Strongman}
-{23201}{}{Hasn't nature awarded you with muscles of steel? Never mind, Stronghold is always there to help you. Just rub the ointment into your muscles and start clobbering!}
-{23300}{}{Drop}
-{23301}{}{Break off the nozzle of the ampoule and pour it into your mouth and in a second you will feel like a God!}
+{23000}{}{"Combatid"}
+{23001}{}{If you want to rush through combat causing mayhem and destruction, stock yourself up with a "Combatid". It does not only heal your wounds but also increases resistance to damage. Warning - a possibility of addiction with dangerous side effects.}
+{23100}{}{"Brainiac"}
+{23101}{}{No scientist can do without this nose spray! The composition of the drug allows to get it directly into the brain, revealing its dormant potential!}
+{23200}{}{"Stronghold"}
+{23201}{}{The nature didn't award you with muscles of steel? Never mind, "Stronghold" is always there to help you. Just rub the ointment into your muscles and start clobbering!}
+{23300}{}{"Drop"}
+{23301}{}{Break off the nozzle and pour the ampoule's content into your mouth - and in a second you will feel like a God!}
 {23400}{}{Whiskey}
 {23401}{}{Good old whiskey, with a nice bouquet and taste.}
 {23500}{}{Cognac}
-{23501}{}{A smooth and noble drink. If you smell if it, you certainly will be respected among your peers.}
+{23501}{}{A smooth and noble drink. If you smell of it, you certainly will be respected among your peers.}
 {23600}{}{Booze}
 {23601}{}{You aren't sure if this strong home-brewed hootch is meant to be used as drink, or as a desinfectant.}
 {23700}{}{Spot-Up}
@@ -487,9 +487,9 @@
 {24400}{}{Screwdriver}
 {24401}{}{A typical screwdriver. Useful tool both in repairing and in self-defense.}
 {24500}{}{Silk Gloves}
-{24501}{}{If you want to rob someone this item of clothing will be very useful.}
+{24501}{}{If you want to rob someone, this item of clothing will be very useful.}
 {24600}{}{Energy Drink}
-{24601}{}{Relieves fatigue, removes drowsiness, helps to concentrate and gives cheerfulness!}
+{24601}{}{Relieves fatigue, reduces drowsiness, helps to concentrate and makes you cheerful!}
 {24700}{}{Rad-O-meter}
 {24701}{}{An indispensable assistant in the fight against radiation. If there is a nuclear war, take the Rad-O-meter with you!}
 {24800}{}{Instrument}
@@ -497,29 +497,29 @@
 {24900}{}{Instrument}
 {24901}{}{}
 {25000}{}{Rusty Locker}
-{25001}{}{Do not judge the locker by its appearance but the content in it.}
+{25001}{}{Judge the locker not by its appearance, but by the content.}
 {25100}{}{Rusty Locker}
 {25101}{}{It is slightly askew, but it is unlikely that this affected its contents.}
-{25200}{}{Rusty Lokcer}
+{25200}{}{Rusty Locker}
 {25201}{}{Even lying on the ground, this locker didn't stop being a locker.}
 {25300}{}{Shelves}
 {25301}{}{Old and dusty shelves with plenty of junk on them.}
 {25400}{}{Stuff}
-{25401}{}{There might be something usefull in such a large pile of stuff.}
+{25401}{}{Surely, there might be something useful in such a large pile of stuff.}
 {25500}{}{Boxes}
 {25501}{}{Small boxes with unknown contents.}
 {25600}{}{Tub}
 {25601}{}{An old roomy bowl.}
 {25700}{}{Stuff}
-{25701}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but it makes you curious.}
+{25701}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but you are still curious.}
 {25800}{}{Stuff}
-{25801}{}{A pile of some stuff and boxes.}
+{25801}{}{A pile of stuff and boxes.}
 {25900}{}{Machine}
 {25901}{}{A small machine for working with different materials.}
 {26000}{}{Stuff}
-{26001}{}{Usually people store their stuff something like it.}
+{26001}{}{Usually people store their stuff in places like this.}
 {26100}{}{Stuff}
-{26101}{}{Usually people store their stuff something like it.}
+{26101}{}{Usually people store their stuff in places like this.}
 {26200}{}{Stuff}
 {26201}{}{Usually valuables don't pile up like this, but who knows - people are strange.}
 {26300}{}{Stuff}
@@ -527,7 +527,7 @@
 {26400}{}{Stuff}
 {26401}{}{Rummaging through a large pile of things is time-consuming. Sometimes it's worth it, sometimes not.}
 {26500}{}{Stuff}
-{26501}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but it makes you curious.}
+{26501}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but you are still curious.}
 {26600}{}{Box}
 {26601}{}{Usually people keep their stuff in something like it.}
 {26700}{}{Footlocker}
@@ -537,13 +537,13 @@
 {26900}{}{Shelves}
 {26901}{}{There's a lot of junk on these shelves.}
 {27000}{}{Stuff}
-{27001}{}{Cartons, boxes, crates - all these are simply made for storing things.}
+{27001}{}{Cartons, boxes, crates - all these made for storing things.}
 {27100}{}{Firehose Box}
 {27101}{}{You have always liked to set things on fire rather than putting it out.}
-{27200}{}{Vending Machine}
-{27201}{}{Be careful with them, it seems like this containers are very dilapidated.}
+{27200}{}{Wall drawers}
+{27201}{}{Be careful with them, it seems like these containers are very dilapidated.}
 {27300}{}{Hood}
-{27301}{}{A hood of a car with obvious traces of corrosion.}
+{27301}{}{A hood of a car, covered with obvious traces of corrosion.}
 {27400}{}{Trunk}
 {27401}{}{The trunk of an old car.}
 {27500}{}{Car Door}
@@ -579,9 +579,9 @@
 {29000}{}{*Dad's Wrench*}
 {29001}{}{A small adjustable pipe wrench in perfect condition.}
 {29100}{}{Corn}
-{29101}{}{A mouth watering ear of corn.}
+{29101}{}{A mouthwatering cob of corn.}
 {29200}{}{Water Container}
-{29201}{}{The water smells strongly of rotten meat.}
+{29201}{}{The water strongly smells of rotten meat.}
 {29300}{}{*Bracket*}
 {29301}{}{One of the parts for the pump valve filter.}
 {29400}{}{*Filter*}
@@ -593,49 +593,49 @@
 {29700}{}{Nuclear Moonshine}
 {29701}{}{A bottle of an extremely strong liquor. It glows in the dark!}
 {29800}{}{*Douglas's Badge*}
-{29801}{}{The shiny badge of Sheriff Douglas.}
+{29801}{}{The shiny badge of the Seeker named Douglas.}
 {29900}{}{*Encyclopedia*}
-{29901}{}{A scientific reference guide containing useful information from various fields of life.}
-{30000}{}{*Prototype Plasma Rifle*}
-{30001}{}{A prototype plasma rifle, a weapon from the latest generation. Possibly the only surviving copy.}
+{29901}{}{A hand-written reference guide containing useful information about various life experiences.}
+{30000}{}{*Plasma Rifle Prototype*}
+{30001}{}{A prototype of the latest generation's plasma weapon. It may be the only copy.}
 {30100}{}{*Ultra Repair Kit*}
-{30101}{}{A serious repair kit. In it you find probably almost everything you need for every repair.}
+{30101}{}{A quite serious repair kit. Within it, you can find probably almost everything you need for any repairs.}
 {30200}{}{*Rapture*}
-{30201}{}{One dose of the drug Rapture, don't misuse it.}
+{30201}{}{One dose of the "Rapture" drug. Don't misuse it.}
 {30300}{}{*Elevator Card 2B*}
 {30301}{}{Elevator access card 2B.}
 {30400}{}{*Voice Modulator*}
-{30401}{}{A device for generating sound waves in the form of specified phrases that mimic a voice.}
+{30401}{}{A device for generating sound waves in the form of specified phrases that mimics a voice.}
 {30500}{}{Bag of Fertilizer}
-{30501}{}{A bag of organic fertilizers. Just a handful of this fertilizer and the corn will grow fine and dandy.}
+{30501}{}{A bag of organic fertilizer. Just a handful of this fertilizer, and the corn will grow fine and dandy.}
 {30600}{}{*Whetstone*}
 {30601}{}{This stone can be used to sharpen any edged weapon.}
 {30700}{}{Chimera's Fang}
-{30701}{}{The tooth - or rather, the fang - of the most dangerous creature, the Chimera! You are lucky that you were able to get it and keep all your limbs.}
+{30701}{}{The tooth - or rather, the fang - of the most dangerous creature in Radius, the Chimera! You are lucky that you were able to get it and keep all your limbs.}
 {30800}{}{S-Virus Strain}
 {30801}{}{A sealed ampoule containing a deadly virus. Be very careful with it!}
 {30900}{}{Strange Book}
-{30901}{}{At first glance it is difficult to determine what kind of book it is, at the second, too.}
-{31000}{}{Ring Finger}
-{31001}{}{This finger once belonged to a man, on the finger is a ring, at first glance it's very expensive.}
+{30901}{}{At first glance it is difficult to determine what kind of book it is. At the second, too.}
+{31000}{}{Finger with a Ring}
+{31001}{}{This finger once belonged to someone. There is a ring on it. Looks very expensive.}
 {31100}{}{*Piece of a map*}
 {31101}{}{This piece of paper is part of a map. This might even be useful.}
 {31200}{}{*Piece of a map*}
 {31201}{}{Part of a map. Find other pieces and solve the puzzle.}
 {31300}{}{*Piece of a map*}
-{31301}{}{This is a map, or more exactly the part of a map. To read it, you need to find other pieces.}
+{31301}{}{This is a map, or more exactly the part of a map. To read it you need to find other pieces.}
 {31400}{}{*Piece of a map*}
 {31401}{}{A partial map of some area. Perhaps there are other pieces somewhere.}
 {31500}{}{Lavash Jerky}
 {31501}{}{A juicy and delicious piece of Lavash jerky.}
 {31600}{}{NWO Basement Key}
-{31601}{}{A well-preserved key, use it for its intended purpose.}
-{31700}{}{*Machine Parts*}
-{31701}{}{One of the most important parts of the machine.}
+{31601}{}{A well-preserved key. Use it for its intended purpose.}
+{31700}{}{*Machine Part*}
+{31701}{}{One of the most important parts of the NWO's conveyor machinery.}
 {31800}{}{*Constitution of 15 Rights*}
-{31801}{}{The Livos Constitution for the inhabitants of the new world, created by the inhabitants for posterity. Perhaps it is useful to know the situation.}
+{31801}{}{The Livos Constitution for the Inhabitants of the New World, created by the Inhabitants for posterity. It may be useful to read it. Or not.}
 {31900}{}{*Robotron Hand*}
-{31901}{}{The electro-mechanical limb of a combat robotron.}
+{31901}{}{The electro-mechanical limb of a Robotron.}
 {32000}{}{*Electric Motor*}
 {32001}{}{A patched but working electric motor.}
 {32100}{}{Broken Electric Motor}
@@ -653,46 +653,46 @@
 {32700}{}{*Glowing Ant Abdomen*}
 {32701}{}{This ant's abdomen is unusually large and has a luminescent effect.}
 {32800}{}{Human Flesh}
-{32801}{}{A piece of human flesh. Mmm... Yes, it's definitely human flesh.}
+{32801}{}{A piece of human flesh. Wait a second... Yes, it's definitely human flesh.}
 {32900}{}{Porn Disk}
 {32901}{}{A disk with a XXX video, the author of this creation is unfortunately unknown.}
-{33000}{}{IOS Access Card}
-{33001}{}{An electronic access card for the Institute of Organic Sciences.}
-{33100}{}{BDE Access Card}
-{33101}{}{An electronic access card for the Bureau of Design and Engineering.}
-{33200}{}{LPS Access Card}
-{33201}{}{An electronic access card for the Laboratories of Physical Sciences.}
+{33000}{}{"Biology" Access Card}
+{33001}{}{An electronic access card for the "Institute of Organic Science" level.}
+{33100}{}{"Engineering" Access Card}
+{33101}{}{An electronic access card for the "Bureau of Design and Engineering" level.}
+{33200}{}{"Physics" Access Card}
+{33201}{}{An electronic access card for the "Laboratories of Physical Science" level.}
 {33300}{}{Õ2 Access Card}
 {33301}{}{An electronic access card marked X2.}
 {33400}{}{X1 Access Card}
 {33401}{}{An electronic access card marked X1.}
 {33500}{}{*Antiradine*}
-{33501}{}{A blister with a strange, slightly bubbling murky liquid. It is not clear whether this remedy is made in a factory, or Hand-made, but it is rumored to be an excellent cure for radiation.}
+{33501}{}{A vial with a strange, slightly bubbling murky liquid. It is not clear whether this remedy produced in a factory or hand-made, but it is rumored to be an excellent cure for radiation.}
 {33600}{}{Firewood}
 {33601}{}{A huge armful of excellent wooden fuel for a nice cozy fire!}
 {33700}{}{Scorpion Tail}
 {33701}{}{The big fleshy tail of some poor scorpion.}
 {33800}{}{*Plunger*}
-{33801}{}{A stick with a rubber pump on the end. It is practical if you want to hit someone gently. It is also suitable for unclogg toilets.}
+{33801}{}{A stick with a rubber pump on the end. It can come in handy if you want to gently hit someone. It is also suitable for unclogging toilets.}
 {33900}{}{"Name Certificate"}
-{33901}{}{On a rotten piece of paper, it is illegibly written that "The Bearer is INDEED a member of the GREAT and ANCIENT Schwein family."}
+{33901}{}{On a rotten piece of paper is illegibly written that "The Bearer of this paper is INDEED a member of the GREAT and ANCIENT Schwein family."}
 {34000}{}{A Note from Douglas}
 {34001}{}{Looks like a list of things Olympus needs.}
 {34100}{}{*Spare Parts Kit*}
 {34101}{}{A heavy box with a lot of hardware inside.}
 {34200}{}{*Vibrator*}
 {34201}{}{A polished, well-oiled device for relieving female tension.}
-{34300}{}{Obedience}
-{34301}{}{A small chemical injection that causes loyality between the person who administers the drug and whomever it is injected to. Seems to work only on specific organisms.}
+{34300}{}{"Obedience" syringe}
+{34301}{}{A small chemical injection that causes chemically induced loyality of whoever is injected to the person who administers. Seems to work only on specific organisms.}
 {34400}{}{Canned Meat}
-{34401}{}{Seems that the food was only recently canned. The meat inside might be a suprise, though.}
+{34401}{}{Seems that the food was only recently canned. The meat inside might be a surprise, though.}
 {34500}{}{Torn Note}
-{34501}{}{Part of the text is missing, but you can make out the ending: "...Why you would need this, but the code for the console is 2358. And remember, Gray, it's your responsibility!"}
-{34600}{}{*Energy Cell*}
+{34501}{}{Part of the text is missing, but you can make out the ending: "why you would need this, but the code for the console is 2358. And remember, Gray, we're in it together now!"}
+{34600}{}{*Power Cell*}
 {34601}{}{An incredibly heavy battery. You can't help but wonder what will happen if you hit it with a sledgehammer.}
 {34700}{}{*Stem Cell Essence*}
 {34701}{}{A jar with a viscous organic substance. It's probably better not to even know what it is made of.}
-{34800}{}{*Servo Motor*}
+{34800}{}{*Servo Actuator*}
 {34801}{}{It looks like a motor of rather complicated design. Partially covered with blood and skin particles.}
 {34900}{}{Quest}
 {34901}{}{}
@@ -763,29 +763,29 @@
 {38200}{}{War Chronicle}
 {38201}{}{Historical chronology of military operations.}
 {38300}{}{Work in Renaissance}
-{38301}{}{Report on the implementation and concerns about the use of robotrons.}
+{38301}{}{Report on the implementation and concerns about the use of Robotrons.}
 {38400}{}{PD Alloy Research}
 {38401}{}{Chemical analysis of a fundamentally new metal alloy.}
 {38500}{}{Tartarus Directive}
 {38501}{}{A collection of edicts distributed in Tartarus.}
 {38600}{}{Schwein's Notes}
 {38601}{}{The notes of the gunsmith Sebastian Schwein.}
-{38700}{}{Olympus Promotion}
+{38700}{}{"Olympus" Promotion}
 {38701}{}{Olympus! The greatest creation of mankind!}
 {38800}{}{About the Lumeniers}
-{38801}{}{Someone's diary about the experience of communicating with the Lumeniers.}
+{38801}{}{Someone's diary about the experience of meeting the Lumeniers.}
 {38900}{}{Recruit's Diary}
 {38901}{}{A dusty, dirty disk from a nameless corpse.}
 {39000}{}{Solar Gun}
-{39001}{}{A unique pistol powered by solar energy, a great economical weapon.}
-{39100}{}{MCA Predator}
-{39101}{}{A mechanized combat armor system from NCASTR. Only the Enlightened Ones may wear use this Holy Armor!}
+{39001}{}{A unique pistol powered by solar energy, a great cost-effective weapon.}
+{39100}{}{MCA "Predator"}
+{39101}{}{A mechanized combat armor system from NCASTR. Only its developers may wear it!}
 {39200}{}{SMG Parts}
 {39201}{}{Spare parts for a submachine gun, still oiled.}
 {39300}{}{*Personal Diary*}
-{39301}{}{This is your personal diary of smart (and not so smart) thoughts. Don't lose your mother's gift.}
+{39301}{}{This is your personal diary for smart (and not so smart) thoughts. Try not to lose your mother's gift.}
 {39400}{}{*Herald's Robes*}
-{39401}{}{Under the thick cloth cowl hides a reliable military armor, and a low hood completely hides the face of the owner.}
+{39401}{}{Under the thick cloth cowl hides a reliable military armor. The hood completely hides the face of its wearer.}
 {39500}{}{Mr. Potato Strength}
 {39501}{}{A collectible Potato Superman figurine! Rare and expensive! It will raise your strength!}
 {39600}{}{Mr. Potato Perception}
@@ -800,11 +800,11 @@
 {40001}{}{Skillful as a potato bat, collectible Potato Batman will increase your agility!}
 {40100}{}{Mr. Potato Luck}
 {40101}{}{Fortuna loves potatoes. Keep the collectible Potato Rabbit with you for good luck!}
-{40200}{}{Orange Chucky}
+{40200}{}{"Orange Chucky"}
 {40201}{}{The sparkling character of this comic book will quickly teach you the basics of self-defense and hand-to-hand combat.}
-{40300}{}{An Orange Pitcher}
+{40300}{}{"Orange Pitcher"}
 {40301}{}{In this comic, the orange baseball player will teach you some throwing techniques, one of the most important skills in this world.}
-{40400}{}{Annoying Orange}
+{40400}{}{"Annoying Orange"}
 {40401}{}{The orange babbler - that's our real hero! His witty phrases and ingenious examples can give you a lot of interesting information about communicating with people and beyond.}
 {40500}{}{Grenade Launcher Module}
 {40501}{}{}
@@ -813,15 +813,15 @@
 {40700}{}{Laser module}
 {40701}{}{}
 {40800}{}{Field Medic Kit}
-{40801}{}{Bandages, peroxide, painkillers, a tourniquet and this is not all that can be found in this first aid kit.}
-{40900}{}{Paramedic Kit}
-{40901}{}{Resuscitation kit of a paramedic, everything you need to provide quick and serious help.}
-{41000}{}{Glas Marbles}
+{40801}{}{Bandages, peroxide, painkillers - and it's not everything that can be found in this first aid kit.}
+{40900}{}{Paramedic's bag}
+{40901}{}{A salvage package of a paramedic - everything you need to provide quick and serious help.}
+{41000}{}{Glass Marbles}
 {41001}{}{Cute and smooth glass marbles, it's nice to roll them in your hands}
-{41100}{}{Rusty Bolt}
-{41101}{}{An old rusty bolt. It's so rusty that you don't even want to pick it up.}
+{41100}{}{Rusty Screw}
+{41101}{}{An old rusty screw. It's so rusty that you don't even want to pick it up.}
 {41200}{}{Tattered book}
-{41201}{}{You can still make out individual phrases, but it is no longer really possible to understand what is written there.}
+{41201}{}{You can still make out individual phrases, but it is not possible to fully understand what is written there.}
 {41300}{}{Old Comic Book}
 {41301}{}{It is quite interesting to look at the faded pictures, although there is no benefit from this.}
 {41400}{}{Glass Bottle}
@@ -829,11 +829,11 @@
 {41500}{}{Wooden Comb}
 {41501}{}{A tool for grooming - if you still have hair left on your head.}
 {41600}{}{Children's Drawing}
-{41601}{}{A crude child's drawing. Questionable art.}
+{41601}{}{A crude child's drawing. A questionable art.}
 {41700}{}{Children's Drawing}
 {41701}{}{What is drawn here? The apocalypse?}
 {41800}{}{Children's Drawing}
-{41801}{}{Well, if you can call this multicolored smudge a drawing.}
+{41801}{}{If you can call this multicolored smudge a drawing.}
 {41900}{}{Metal Fork}
 {41901}{}{The fork is in good condition. You can eat with it, or poke yourself in the eye.}
 {42000}{}{Rusty Fork}
@@ -845,7 +845,7 @@
 {42300}{}{Yarn Spool}
 {42301}{}{If your are into sewing, this spool of robust thread will definitely make your very happy.}
 {42400}{}{Crayons}
-{42401}{}{Quite a rare, but useless item. You could leave some rock paintings somewhere.}
+{42401}{}{Quite rare, but useless item. You could leave some rock paintings somewhere.}
 {42500}{}{Metal Plate}
 {42501}{}{Obviously, you can eat soup from this. Or porridge.}
 {42600}{}{Rusty Plate}
@@ -857,11 +857,11 @@
 {42900}{}{Old Spork}
 {42901}{}{The most ingenious invention of mankind, the spork. Half spoon, halt fork, and his own best friend!}
 {43000}{}{Metal Spoon}
-{43001}{}{You can eat with it, or dig a grave for a rat.}
+{43001}{}{You can eat with it. Or dig a grave for a rat.}
 {43100}{}{Metal Cup}
-{43101}{}{A container to drink liquids out of, if you don't want to use your hands.}
-{43200}{}{Seal Stamp}
-{43201}{}{An old seal with the letters "NCASTR" on it. If you slap it on your forehead, it will leave a nice marking.}
+{43101}{}{A container to drink liquids out of. If you don't want to use your hands.}
+{43200}{}{Stamp}
+{43201}{}{An old stamp with the letters "NCASTR" on it. If you slap it on your forehead, it will leave a nice marking.}
 {43300}{}{Torn Rag}
 {43301}{}{It's just a piece of blue rag. You have not seen rags of other colors.}
 {43400}{}{Candy}
@@ -870,7 +870,7 @@
 {43501}{}{An old can of oil paint. You could paint a wall.}
 {43600}{}{Lavash Skin}
 {43601}{}{The tanned skin of Lavash can be used to make leather items.}
-{43700}{}{*Metal Reel*}
+{43700}{}{*Tin Roll*}
 {43701}{}{A reel of rolled up five millimeters thick metal sheets.}
 {43800}{}{Tin can}
 {43801}{}{An old rusty tin can.}
@@ -881,19 +881,19 @@
 {44100}{}{*Dried Cheese*}
 {44101}{}{A piece of very old parmesan cheese, however it has already dried to the state of wood.}
 {44200}{}{Lavash Meat}
-{44201}{}{A piece of raw and fresh Lavash meat, rich in protein and juicy.}
+{44201}{}{A piece of raw and fresh Lavash meat, juicy and rich in protein.}
 {44300}{}{Sugar}
 {44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}
 {44401}{}{}
 {44500}{}{Seedy Disk}
-{44501}{}{Sounds like someone's amateur story.}
+{44501}{}{Sounds like someone's amateur fan-fiction.}
 {44600}{}{Scientific Report}
 {44601}{}{A label on the side reads "Project Gamma"}
 {44700}{}{Dinosaur Figurine}
 {44701}{}{The the owner probably loved this toy.}
 {44800}{}{Annotated Book}
-{44801}{}{The cover says The Holy Bible. In it a lot of passages are marked, annotated and many words have been crossed out or corrected.}
+{44801}{}{The cover says "Bible". In it a lot of passages are marked, annotated and many words have been crossed out or corrected.}
 {44900}{}{Item}
 {44901}{}{}
 {45000}{}{Item}
@@ -963,11 +963,11 @@
 {48200}{}{Item}
 {48201}{}{}
 {48300}{}{Hintbook}
-{48301}{}{Well, THIS would have been good to have at the beginning of the goddamn game.}
+{48301}{}{Well, THIS would have been good to have at the beginning of this goddamn game.}
 {48400}{}{Moonshine Tray}
-{48401}{}{Made from plastic and lovingly glued together by Smitty, the tray is for his Magic Moonshine Machine.}
+{48401}{}{Made from plastic and lovingly glued together by Smitty, the tray is for his Magical Moonshine Machine.}
 {48500}{}{Rusty Grate}
-{48501}{}{An old rusty grate. After touching it, red spots remain on the fingers.}
+{48501}{}{An old rusty grate. After touching it, red paint remain on the fingers.}
 {48600}{}{Moonshine Filter}
 {48601}{}{A simple filter for the moonshine distiller. Installing it would reduce the consumption of rare candies.}
 {48700}{}{Jackal Grip}
@@ -1024,28 +1024,28 @@
 {51201}{}{}
 {51300}{}{D.E.U.S. Weapon}
 {51301}{}{This is a unique weapon, its owner was one of the "Gods" of Olympus!}
-{51400}{}{Horn}
+{51400}{}{Chimera's Horn}
 {51401}{}{A trophy from the Chimera's corpse, you can use it as a weapon.}
-{51500}{}{Claw}
+{51500}{}{Chimera's Claw}
 {51501}{}{A claw of the Chimera. Dangerous stuff in battle.}
-{51600}{}{Fang}
-{51601}{}{You could make a necklace out of these fangs. Or a kind of knife!}
+{51600}{}{Chimera's Fang}
+{51601}{}{You could make a necklace out of these fangs. Or even a knife!}
 {51700}{}{Sharp Fang}
 {51701}{}{This jackal was clearly not eager to share this tooth with you. Appreciate it as its former owner did.}
-{51800}{}{Fang}
-{51801}{}{The sharp fang of a creepy mole rat.}
-{51900}{}{Fang}
-{51901}{}{Ursa don't like to part with their teeth very much, so whoever got it is a brave man or not a man at all.}
-{52000}{}{Claw}
+{51800}{}{Molerat's Fang}
+{51801}{}{The sharp fang of a creepy molerat.}
+{51900}{}{Ursa Fang}
+{51901}{}{Ursa don't like to part with their teeth very much, so whoever got this one is a brave man. Or not a man at all.}
+{52000}{}{Ursa Claw}
 {52001}{}{Ursa claws are not uncommon, but they are still worth something. Sharp and dangerous! You can rip open a couple of throats.}
-{52100}{}{Fang}
-{52101}{}{Rats are not uncommon in these parts, so you can collect a few dozen of these fangs if you want.}
+{52100}{}{Rat Fang}
+{52101}{}{Rats are not uncommon in these parts, so you can collect a few dozen of these if you want.}
 {52200}{}{Stinger}
-{52201}{}{From the stinger of a scorpion, you can get a sample of its venom, which is very useful in making an antidote. Or use it as a weapon.}
-{52300}{}{Fang}
+{52201}{}{From the stinger of a scorpion you can get a sample of its venom, which is very useful in making an antidote. Or you can just use it as a weapon.}
+{52300}{}{Onca's Fang}
 {52301}{}{The owner of such a trophy can be proud of himself. The sale is very profitable, and it's also very useful as a melee weapon.}
 {52400}{}{Claw}
-{52401}{}{The Beast's Claw is an excellent melee weapon.}
+{52401}{}{The Onca's Claw is an excellent melee weapon.}
 {52500}{}{Shelves}
 {52501}{}{Wooden shelves with some junk on them.}
 {52600}{}{Shelves}
@@ -1069,13 +1069,13 @@
 {53500}{}{Junk}
 {53501}{}{Sometimes there's something useful in the junk.}
 {53600}{}{Stuff}
-{53601}{}{Rummagin through other people's stuff can get you a hard piece of steel through your ribs very quickly. Better be discreet about it.}
+{53601}{}{Rummaging through other people's stuff can get you a hard piece of steel through your ribs very quickly. Better be discreet about it.}
 {53700}{}{Junk}
 {53701}{}{Some random stuff, nothing worth looking at.}
 {53800}{}{Computer Desk}
 {53801}{}{You're curious why they have two monitors here.}
 {53900}{}{Safe}
-{53901}{}{Safes were designed to hide something in them, and from people like you.}
+{53901}{}{Safes were designed to hide something in them. From people like you.}
 {54000}{}{Locker}
 {54001}{}{A metal storage cabinet.}
 {54100}{}{Locker}
@@ -1091,18 +1091,18 @@
 {54600}{}{Locker}
 {54601}{}{A rusty metal cabinet, which is also pretty dented.}
 {54700}{}{Cabinet}
-{54701}{}{The lack of doors usually does not prevent the use of drawers for storing all sorts of things.}
+{54701}{}{The lack of doors usually does not prevent storing all sorts of things in these drawers.}
 {54800}{}{Cabinet}
-{54801}{}{The lack of doors usually does not prevent the use of drawers for storing all sorts of things.}
+{54801}{}{The lack of doors usually does not prevent storing all sorts of things in these drawers.}
 {54900}{}{Makeshift Crate}
 {54901}{}{The person who built the box obviously cared little for its aesthetic properties.}
 {55000}{}{Makeshift Crate}
 {55001}{}{The person who built the box obviously cared little for its aesthetic properties.}
 {55100}{}{Sitting Crate}
-{55101}{}{A solid homemade box. It can be used as a bench, but at the risk of getting a splinter in the ass.}
+{55101}{}{A solid homemade box. It can be used as a bench, but there's a risk of getting a splinter in the ass.}
 {55200}{}{Sitting Crate}
-{55201}{}{A solid homemade box. It can be used as a bench, but at the risk of getting a splinter in the ass.}
-{55300}{}{Machine Parts}
+{55201}{}{A solid homemade box. It can be used as a bench, but there's a risk of getting a splinter in the ass.}
+{55300}{}{Car Part}
 {55301}{}{There may well be something interesting there.}
 {55400}{}{Stuff}
 {55401}{}{The presence of a box with unknown contents in this junk arouses your curiosity.}
@@ -1111,9 +1111,9 @@
 {55600}{}{Box}
 {55601}{}{Usually people use boxes to put things in them.}
 {55700}{}{Safe}
-{55701}{}{Safes were designed to hide something in them, and from people like you.}
+{55701}{}{Safes were designed to hide something in them. From people like you.}
 {55800}{}{Safe}
-{55801}{}{Safes were designed to hide something in them, and from people like you.}
+{55801}{}{Safes were designed to hide something in them. From people like you.}
 {55900}{}{Cupboard}
 {55901}{}{A dirty old cupboard.}
 {56000}{}{Box}
@@ -1135,7 +1135,7 @@
 {56800}{}{Casket}
 {56801}{}{These laser beams can easily cut off your arm, but you are not eager to test it.}
 {56900}{}{Safe}
-{56901}{}{Helps it's owner to hide his belongins from the overtly curious curious. Yes, we mean you!}
+{56901}{}{Helps its owner to hide his belongings from the overtly curious. Yes, that means you!}
 {57000}{}{Box}
 {57001}{}{A half-open box begs for a look at its contents.}
 {57100}{}{Shelves}
@@ -1151,9 +1151,9 @@
 {57600}{}{Footlocker}
 {57601}{}{A metal box, which perfectly protects things from adverse external influences.}
 {57700}{}{Wardrobe}
-{57701}{}{If you are asked why you went into someone else's closet, answer that you were looking for a transition to a fairy-tale world in it.}
+{57701}{}{If you are asked why you got into someone else's closet, answer that you were looking for a dimension door to a fairy-tale world.}
 {57800}{}{Wardrobe}
-{57801}{}{If you are asked why you went into someone else's closet, answer that you were looking for a transition to a fairy-tale world in it.}
+{57801}{}{If you are asked why you got into someone else's closet, answer that you were looking for a dimension door to a fairy-tale world.}
 {57900}{}{Shelves}
 {57901}{}{The abundance of things on the shelves encourages you to explore them.}
 {58000}{}{Shelves}
