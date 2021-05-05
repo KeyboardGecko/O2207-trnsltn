@@ -12,24 +12,24 @@
 {2}{}{This safe looks very durable.}
 
 # Описание 2
-{3}{}{The safe is locked with a magnetic lock. Nearby wall is torn apart, you can see all the wires.}
-{4}{}{You could try pick the right wires to unlock the magnetic lock.}
+{3}{}{The safe is locked with a magnetic lock. The nearby wall is torn apart, you can see all the wires.}
+{4}{}{You could try to pick the right wires to unlock the magnetic lock.}
 
 # Действия
 {5}{}{You should stop putting your fingers into live wires.}
 {6}{}{You see no switch on the generator. Looks like everything is in a fuse box.}
 {7}{}{You thoroughly study the structure... but don't understand a thing.}
-{8}{}{It seems like the defense system is powered with the generator.}
+{8}{}{It seems like the defense system is powered by the generator.}
 {9}{}{Someone with the skills of a mechanic could easily turn off the defense.}
 #
 #Подключение проводов
 #
-{10}{}{Do you want to try different combinations of wires? If you fail, you could get electrocuted, while security system changes the scheme.}
+{10}{}{Do you want to try different combinations of wires? If you fail, you could get electrocuted, while the security system changes the scheme.}
 {11}{}{Yeah, let's try!}
 {12}{}{No way, I don't want to get free electrocution!}
 {13}{}{I don't want to poke around these wires anymore.}
 {14}{}{Screw this, I'm no electrician! I'll somehow manage without it.}
-{15}{}{You see 3 wire: red, blue and green. You need to connect two of them. Which ones?}
+{15}{}{You see 3 wires: red, blue, and green. You need to connect two of them. Which ones?}
 {16}{}{Red + Blue}
 {17}{}{Green + Red}
 {18}{}{Blue + Red}

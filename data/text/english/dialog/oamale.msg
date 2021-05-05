@@ -30,7 +30,7 @@
 {6}{}{He flexes his muscles.}
 {7}{}{The expression on his face does not look hospitable at all.}
 {8}{}{His body is fully covered with tattoos.}
-{9}{}{He could probably chew off you hand with ease.}
+{9}{}{He could probably chew off your hand with ease.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #

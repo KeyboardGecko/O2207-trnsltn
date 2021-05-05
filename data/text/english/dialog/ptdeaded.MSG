@@ -9,11 +9,11 @@
 #
 # Описание 1
 {1}{}{You see a man's corpse.}
-{2}{}{You see remains of Sunny's father.}
+{2}{}{You see the remains of Sunny's father.}
 
 # Описание 2
 {3}{}{Looks like he is dead for a couple of days now. His death was horrible - he is completely torn apart.}
-{4}{}{The man lies here for a couple of days, probably, he is the Sunny's father. He is completely torn apart - his death was unpleasant.}
+{4}{}{The man lies here for a couple of days, probably, he is Sunny's father. He has been completely torn apart - his death was unpleasant.}
 
 # Действия
 {5}{}{He's got nothing on him - only rotting pieces of meat hanging from his mauled bones.}

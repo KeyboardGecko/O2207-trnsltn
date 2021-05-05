@@ -25,7 +25,7 @@
 # до знакомства
 #
 {1}{}{You see a man.}
-{2}{}{Tattered clothes, face of grey - looks like the life was harsh to him.}
+{2}{}{Tattered clothes, the face of grey - looks like the life was harsh to him.}
 #
 # после знакомства
 #

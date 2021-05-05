@@ -21,10 +21,10 @@
 #
 #ˆ‘€ˆ… Šˆ’’…€
 #
-{1}{}{You see a old man.}
+{1}{}{You see an old man.}
 {2}{}{You see an old hunk of junk.}
-{3}{}{You see a oldie.}
-{4}{}{You see a old guy.}
+{3}{}{You see an oldie.}
+{4}{}{You see an old guy.}
 {5}{}{You see a local.}
 {6}{}{He doesn't look good.}
 {7}{}{How the hell does he still breathing?}

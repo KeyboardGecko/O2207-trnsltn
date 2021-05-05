@@ -13,7 +13,7 @@
 
 # Описание 2
 {3}{}{Looks like someone put a lot of effort into this gravestone.}
-{4}{}{A plank of a beautiful and delicate craftsmanship is attached to the tombstone. It depicts a dove, flying in the clouds. There's also an inscription: "We'll meet in Heaven, my lovely Nadine".}
+{4}{}{A plank of beautiful and delicate craftsmanship is attached to the tombstone. It depicts a dove, flying in the clouds. There's also an inscription: "We'll meet in Heaven, my lovely Nadine".}
 
 # Действия
 {5}{}{}

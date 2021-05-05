@@ -28,7 +28,7 @@
 {5}{}{You see a refugee.}
 {6}{}{It is unclear where this ragged man came from.}
 {7}{}{Looks like he wandered the Radius for a long time. Maybe even beyond the Radius.}
-{8}{}{His clothes are torn apart, old scars are seen under it.}
+{8}{}{His clothes are torn apart, old scars are seen under them.}
 {9}{}{One look at him is enough to understand that he went through a lot.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
@@ -62,7 +62,7 @@
 {1012}{}{Be a kind man, spare something to a stranger!}
 {1013}{}{As a man to a man - give me something! Anything}
 {1014}{}{Oh, brother! We are all brothers, aren't we? We should help each other!}
-{1015}{}{I haven't eaten for days. Even a little piece of gecko will do!}
+{1015}{}{I haven't eaten for days. Even a little piece of a gecko will do!}
 {1016}{}{DO you have clothes to spare? Of course you do! Hand it over, show some compassion!}
 {1017}{}{I've traveled a long way to the Olympus, but now I have nothing left. Care to spare a battery?}
 {1018}{}{I can make you feel... Good, if you want. Only give me something to eat.}

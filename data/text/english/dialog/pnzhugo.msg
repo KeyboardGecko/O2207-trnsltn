@@ -24,12 +24,12 @@
 {1}{}{You see a mangy.}
 {2}{}{You see a young ghoul.}
 {3}{}{You see a crusty one.}
-{4}{}{You see a Hugo's fellow.}
+{4}{}{You see Hugo's fellow.}
 {5}{}{You see a ghoul.}
 {6}{}{His look is filled with anger.}
 {7}{}{His skin looks like it's bubbling!}
 {8}{}{A ghoul of intimidating presence.}
-{9}{}{His face says : "You come, you'll get it!"}
+{9}{}{His face says: "Come closer, and you'll get it!"}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

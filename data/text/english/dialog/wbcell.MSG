@@ -19,11 +19,11 @@
 {5}{}{You can't open it just like that, it's electrified!}
 {6}{}{You can't just open up this thing.}
 {7}{}{You thoroughly study the structure... But still don't get it.}
-{8}{}{It seems like the protection system is powered by generator.}
-{9}{}{Looks like someone with a simple skills of mechanic can easily disable this electrical protection.}
+{8}{}{It seems like the protection system is powered by the generator.}
+{9}{}{Looks like someone with the simple skills of mechanic can easily disable this electrical protection.}
 {10}{}{You need to be more careful with the wires!}
-{11}{}{You got electrocuted, but looks like the circuits are shorted out and protection is disabled.}
-{12}{}{You swiftly managed to turn off the protection from storage locker.}
+{11}{}{You got electrocuted but looks like the circuits are shorted out and protection is disabled.}
+{12}{}{You swiftly managed to turn off the protection from the storage locker.}
 {13}{}{The electrical protection of this locker was destroyed by a huge blast.}
 {14}{}{}
 {15}{}{}

@@ -9,7 +9,7 @@
 #
 # Описание 1
 {1}{}{You see some kind of mechanism.} 
-{2}{}{You see a conveyor machinery.}
+{2}{}{You see conveyor machinery.}
 
 # Описание 2
 {3}{}{Looks like this thing does not work.}
