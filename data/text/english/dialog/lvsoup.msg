@@ -26,7 +26,7 @@
 {13}{004}{Oh, you definitely don't look good. Is there something wrong?}
 
 
-{20}{}{No, we haven't... I don't know if I'm allowed to talk to you... I think, I guess... I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
+{20}{}{No, we haven't... I don't know if I'm allowed to talk to you... I think... I guess... I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
 {21}{010}{Do you have time for a few questions?}
 {22}{999}{You are not very talkative. I'd better go.}
 
@@ -69,7 +69,7 @@
 {121}{013}{What things you used to do?}
 
 
-{122}{}{Me? I feel much better! I can't say my mental health is fully restored, but, you know... I've been thinking... You could deal with many things just as easy.}
+{122}{}{Me? I feel much better! I can't say my mental health is fully restored, but, you know... I've been thinking... You could deal with many things just as easily.}
 {123}{010}{Try to think less about such things. I had other questions.}
 {124}{999}{Oh... Yeah, sure. I think I need to go...}
 
@@ -124,7 +124,7 @@
 
 
 
-{210}{}{Emily loves gambling. To play cards is everything for her. She also has a grandiose sense of self-worth. That means she always pays her debts... Maybe this information would help. You could try to set up an accident using monsters in the filter room.}
+{210}{}{Emily loves gambling. Playing cards is everything for her. She also has a grandiose sense of self-worth. That means she always pays her debts... Maybe this information would help. You could try to set up an accident using monsters in the filter room.}
 {211}{010}{Okay, I'll keep that in mind. Let's talk about something else.}
 
 
@@ -140,12 +140,12 @@
 {232}{024}{You can do it! Come on, Soup! The fate of the whole vault depends on you!}
 
 
-{240}{}{[You see determined look on his face] Yes. I should do it. The fate of all local people depends on me. Thank you for making me believe in myself. I'll go and do what I should.}
+{240}{}{[You see a determined look on his face] Yes. I should do it. The fate of all local people depends on me. Thank you for making me believe in myself. I'll go and do what I should.}
 {241}{999}{Way to go, Soup!}
 
 
 {250}{}{[For the first time, you see a smile on his face] This... This is so great! I am the head of my family again! I thank you for everything you've done!}
-{251}{026}{You are not only the head of Dunton family. You also should take the responsibilities of leading the whole Livos.}
+{251}{026}{You are not only the head of the Dunton family. You also should take the responsibility of leading the whole Livos.}
 {252}{027}{Yes, you are the head of your family now. And I will take the position of the Livos leader. And if someone opposes, I know what to do.}
 
 {260}{}{[His smile becomes even wider] I... It's an honor to me... Who could imagine that - I'm in charge for Livos, again! I will do everything for the vault to prosper!}
@@ -182,5 +182,5 @@
 {331}{999}{Cool! Little monsters, here I come!}
 
 
-{340}{}{Great! It's a good news. Here, take this voice modulator as a gift from me!}
+{340}{}{Great! Such good news! Here, take this voice modulator as a gift from me!}
 {341}{999}{Whoa, you can use tech to imitate someone's voice? It will surely come in handy. I'll go now, see you.}

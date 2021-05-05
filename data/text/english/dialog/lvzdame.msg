@@ -26,10 +26,10 @@
 {3}{}{You see an old dame.}
 {4}{}{You see a dweller of the vault.}
 {5}{}{You see an inhabitant of Livos.}
-{6}{}{A woman of venerable age with a pale grey skin.}
-{7}{}{Her look indicates that everyone else in comparison to her are just worms.}
-{8}{}{Contemptuous look of this lady makes you wonder about appropriateness of you being here.}
-{9}{}{Through the holes in fabric of once beautiful silk dress one can see wrinkles of saggy skin.}
+{6}{}{A woman of venerable age with pale grey skin.}
+{7}{}{Her look indicates that everyone else is just a worm, compared to her.}
+{8}{}{Contemptuous look of this lady makes you wonder about the appropriateness of you being here.}
+{9}{}{Through the holes in the fabric of once beautiful silk dress one can see wrinkles of saggy skin.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
@@ -63,7 +63,7 @@
 {1013}{}{You are distracting me with your presence.}
 {1014}{}{N-no, not on this day.}
 {1015}{}{My dear, be kind to hang out somewhere else.}
-{1016}{}{I can't see a family birth mark on you, young man.}
+{1016}{}{I can't see a family birthmark on you, young man.}
 {1017}{}{Ahahah, don't even think about it!}
 {1018}{}{Just step away from me to a venerable distance.}
 {1019}{}{I'm busy. Yes. Thank you.}
@@ -72,8 +72,8 @@
 {1021}{}{I hate you, scum!}
 {1022}{}{How dare you!?..}
 {1023}{}{You are insulting me just with your presence!}
-{1024}{}{Oh you fucking burp of nasty beast!}
-{1025}{}{I would tie you down and cut you up into a little pieces!}
+{1024}{}{Oh you fucking burp of a nasty beast!}
+{1025}{}{I would tie you down and cut you up into little pieces!}
 {1026}{}{Do a favor to the world by cutting your balls off!}
 {1027}{}{Eeew! Yuck! I feel sick, you filthy abomination!}
 {1028}{}{Asshole! All men are assholes, but you... You are the king of assholes!}
@@ -95,10 +95,10 @@
 {1042}{}{Women, as the future mothers of the New World inhabitants, should rule over the men!}
 {1043}{}{It's time for us to return to the surface and start populating the Earth with a new race!}
 {1044}{}{Men! Act like men for once and fix this damn water filter!}
-{1045}{}{Maybe it's time to elect the leader? I fit for the role perfectly.}
-{1046}{}{I suggest to cancel the results of yesterday's poker game! The rat has been peeking into my cards!}
-{1047}{}{I suggest to revoke the Wine Debt. It was a stupid idea to begin with.}
-{1048}{}{Let's push the morning debates to eleven'o'clock. At least we won't have to get up early...}
+{1045}{}{Maybe it's time to elect the leader? I fit the role perfectly.}
+{1046}{}{I suggest canceling the results of yesterday's poker game! The rat has been peeking into my cards!}
+{1047}{}{I suggest revoking the Wine Debt. It was a stupid idea from the start.}
+{1048}{}{Let's push the morning debates to eleven o'clock. At least we won't have to get up early...}
 {1049}{}{Has anyone seen our wonderful Constitution? I made a few notes on it and forgot what I wrote...}
 #òèõèå ïðîêëÿòüÿ ïðî ñåáÿ
 {1050}{}{Damn Schweins! They think they are the smartest.}

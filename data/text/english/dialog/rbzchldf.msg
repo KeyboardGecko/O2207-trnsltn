@@ -32,7 +32,7 @@
 {1}{}{You see a girl from a gang.}
 {2}{}{You see one of G's cutthroats.}
 {3}{}{You see a "ballsy" girl.}
-{4}{}{You see a riffraff.}
+{4}{}{You see a riff-raff.}
 {5}{}{You see a brawny kid.}
 {6}{}{She adjusts her belt with knives.}
 {7}{}{Gigging, she points her gun to the sky.}

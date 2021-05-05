@@ -11,8 +11,8 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see a big guy with grim face.}
-{2}{}{With the face expression like this he must be very much used to bury people.}
+{1}{}{You see a big guy with a grim face.}
+{2}{}{With a facial expression like this he must be very much used to bury people.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Ursul.}
@@ -25,13 +25,13 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[A huge man is sharpening his knife, periodically checking it with a finger. He's very well-built - and dressed quite good either, especially by the local standarts. His foot rests on the skull of enormous beast.]}
+{10}{}{[A huge man is sharpening his knife, periodically checking it with a finger. He's very well-built - and dressed quite well either, especially by the local standards. His foot rests on the skull of an enormous beast.]}
 {11}{002}{Hello.}
 {12}{002}{[cough silently]}
 {13}{002}{Hey, big guy!}
 
 
-{20}{}{[He stops what he was doing and looks at you. You notice that he's wearing a necklace made of little stones, empty shells and pieces of glass. On his bandolier you see a patch which reads "Angel of Anaheim"] The name?}
+{20}{}{[He stops what he was doing and looks at you. You notice that he's wearing a necklace made of little stones, empty shells, and pieces of glass. On his bandolier you see a patch which reads "Angel of Anaheim"] The name?}
 {21}{003}{Does it matter?}
 {22}{003}{A pain in the ass.}
 {23}{003}{Name's }
@@ -44,17 +44,17 @@
 {33}{004}{So what? }
 
 
-{40}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't deal in newbie stuff, I often pull them into doing something useful. So maybe we'll have something to talk about.}
+{40}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't actually responsible for the newbies, I often involve them in doing something useful. So maybe we'll have something to talk about.}
 {41}{007}{Please do continue. I'm intrigued. }
 {42}{999}{Curious, but now I'm busy. I have to go.}
 {43}{999}{I don't think I'm interested. [end of dialogue]}
 
 
-{50}{}{If there was some other Jackal instead of me here, you would have been already rectally pleased with a nailed bat, or something. [he stops talking, studying you for a moment] I'm Ursul. I can provide you with a job which would kick some experience into you. There's a chance that instead you'll kick be bucket though. When you'll drop your cockfighting attitude and get a little smarter, we can talk details. [he goes back to sharpening the knife]}
+{50}{}{If there was some other Jackal instead of me here, you would have been already rectally pleased with a nailed bat, or something. [he stops talking, studying you for a moment] I'm Ursul. I can provide you with a job which would kick some experience into you. Still, there's a chance that you'll kick be bucket instead. When you'll drop your cockfighting attitude and get a little smarter, we can talk details. [he goes back to sharpening the knife]}
 {51}{999}{[end of dialogue]}
 
 
-{60}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't deal in newbie stuff, I often pull them into doing something useful. So maybe we'll have something to talk about.}
+{60}{}{Just so you'd understand what you are dealing with here. I'm Ursul. Although I don't actually responsible for the newbies, I often involve them in doing something useful. So maybe we'll have something to talk about.}
 {61}{007}{Please do continue. I'm intrigued. }
 {62}{999}{Curious, but now I'm busy. I have to go.}
 {63}{999}{I don't think I'm interested. [end of dialogue]}
@@ -66,7 +66,7 @@
 {73}{008}{Yes.}
 
 
-{80}{}{Although, it doesn't really matter. [he smiles again] You'll help me on the hunt. If you're in, I'd recommend to prepare some meds, ammo and get the biggest gun you can. }
+{80}{}{Although, it doesn't really matter. [he smiles again] You'll help me on the hunt. If you're in, I'd recommend stocking some meds, ammo and get the biggest gun you can. }
 {81}{999}{I'm ready, let's go.}
 {82}{011}{I changed my mind - I don't really like hunting...}
 {83}{999}{I need some time to prepare.}
@@ -98,7 +98,7 @@
 {121}{013}{Tell me more about the hunt.}
 
 
-{130}{}{I found a place not far away from here, which has been chosen as a lair by the huge pack of Ursa. The goal is simple - travel there and kill them all. After that we'll carry their corpses to the camp. The rest is not our business. If you're in, I'd recommend to prepare some meds, ammo and get the biggest gun you can. If you are ready, we can leave right away. If the hunt is good, you'll get some batteries as a reward. }
+{130}{}{I found a place not far away from here, which has been chosen as a lair by the huge pack of Ursa. The goal is simple - travel there and kill them all. After that, we'll carry their corpses to the camp. The rest is not our business. If you're in, I'd recommend stocking some meds, ammo and get the biggest gun you can. If you are ready, we can leave right away. If the hunt is good, you'll get some batteries as a reward. }
 {131}{999}{I'm ready, let's go.}
 {132}{011}{I changed my mind - I don't really like hunting...}
 {133}{999}{I need some time to prepare.}
@@ -120,7 +120,7 @@
 {164}{018}{Maybe.}
 
 
-{170}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in the way that brings maximum pain an suffering to the target. [he looks at you, waiting for answer]}
+{170}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in a way that brings maximum pain and suffering to the target. [he looks at you, waiting for an answer]}
 {171}{019}{I'm from the Olympus.}
 {172}{021}{Why do you care?}
 {173}{022}{What if I don't tell you?}
@@ -136,7 +136,7 @@
 {191}{020}{Because I'm no soldier. I'm a worker.}
 
 
-{200}{}{[He nods] Once me and my partner stumbled onto someone from the Olympus. Already dead, wearing strange uniform - something with NCASTR logo. My man Fred took it. That's all experience I have about meeting people from the Olympus.}
+{200}{}{[He nods] Once me and my partner stumbled onto someone from the Olympus. Already dead, wearing a strange uniform - something with the NCASTR logo. My man Fred took it. That's all experience I have about meeting people from the Olympus.}
 {201}{025}{NCASTR, you say? Where can I find Fred?}
 
 
@@ -145,9 +145,9 @@
 
 
 {220}{}{You'll get the same attitude back.}
-{221}{019}{Olympus. I'm from the Olympus.}
+{221}{019}{Olympus. I'm from Olympus.}
 
-{230}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in the way that brings maximum pain an suffering to the target. [he looks at you, waiting for answer]}
+{230}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in a way that brings maximum pain and suffering to the target. [he looks at you, waiting for an answer]}
 {231}{020}{[continue]}
 
 
@@ -173,7 +173,7 @@
 {282}{999}{No, thanks again for the directions.}
 
 
-{290}{}{On one of our hunts we wandered off - had some troubles catching up to the prey. Came across a mansion. An empty one. There was a skeleton inside, maybe from before the war, but the house itself was untouched. Looks like we were the first ones to find this place in years. We never told about it to anyone. And then Fred laid his eyes on one of our trophy girls. Snuck her out. I advised him to take shelter into that house. As paranoid as he is, he should still be there. Not sure for how long though. }
+{290}{}{On one of our hunts we wandered off - had some troubles catching up to the prey. Came across a mansion. An empty one. There was a skeleton inside, maybe from before the war, but the house itself was untouched. Looks like we were the first ones to find this place in years. We never told about it to anyone. And then Fred laid his eyes on one of our trophy girls. Snuck her out. I advised him to take shelter in that house. As paranoid as he is, he should still be there. Not sure for how long though. }
 {291}{010}{Great, thanks. I have some questions.}
 {292}{999}{Great, thanks. I've got to go.}
 
@@ -183,7 +183,7 @@
 {302}{032}{No.}
 
 
-{310}{}{Then I won't tell you nothing new.}
+{310}{}{Then I won't tell you anything new.}
 {311}{010}{Okay. I have some more questions.}
 {312}{999}{Okay. I've got to go now.}
 
@@ -192,11 +192,11 @@
 {321}{033}{[continue]}
 
 
-{330}{}{[Ursul explains in details how to get to the Rainbow] The best place if you started to miss tight woman's ass, or just looking to have a fun time. }
+{330}{}{[Ursul explains in detail how to get to the Rainbow] The best place if you started to miss tight woman's ass, or just looking to have a fun time. }
 {331}{010}{Okay. I have some more questions.}
 {332}{999}{Okay. I've got to go now.}
 
 
-{340}{}{At the time there are no orders neither for meat, nor for fur. Nor for anything else. We are not good with long-term storage here, that's why I hunt only when our supplies begin to run dry.}
+{340}{}{At the time there are no orders neither for meat nor for fur. Nor for anything else. We are not good with long-term storage here, that's why I hunt only when our supplies begin to run dry.}
 {341}{010}{Okay. I have some more questions.}
 {342}{999}{Okay. I've got to go now.}

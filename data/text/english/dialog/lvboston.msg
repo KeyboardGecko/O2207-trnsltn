@@ -20,30 +20,30 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see an obese man with a red face and shifty eyes] Whoa! Who's that? That's someone new! Hey, look, he's here! Let's get acquaintained, newbie-doobie! Hahahah, I'm kidding! Come here, give a little hug to old Boston McKinsey! [He spreads his fat arms trying to hug you]}
+{10}{}{[You see an obese man with a red face and shifty eyes] Whoa! Who's that? That's someone new! Hey, look, he's here! Let's get acquainted, newbie-doobie! Hahahah, I'm kidding! Come here, give a little hug to old Boston McKinsey! [He spreads his fat arms trying to hug you]}
 {11}{002}{[You take a few steps back] Pleased to meet you. No need for hugging. I just want to ask a few questions.}
 {12}{003}{[You lean back a little and shake his hand] Glad to meet you. I want to know something.}
 {13}{004}{[You are trying to hug him back, but lack the length of hands, because of Boston's huge belly] Howdy, Boston! I'm glad to see you too!}
 
-{20}{}{[He disappointedly puts his arms down] How impolite! So rude! He is met with an open arms - and turns his nose up! Man! You must be another bore, who's afraid of his own shadow.}
+{20}{}{[He disappointedly puts his arms down] How impolite! So rude! He is met with open arms - and turns his nose up! Man! You must be another bore, who's afraid of his own shadow.}
 {21}{005}{I just don't like hugging strangers.}
 {22}{006}{Yes, I'm trying to keep a low profile.}
 {23}{004}{You got it all wrong, I was just taking some acceleration for a good hug!}
 
-{30}{}{[He looks a little disappointed] Man, how official! So sour and boring! It is not a trade deal, it's the greeting of new inhabitant of Livos!}
+{30}{}{[He looks a little disappointed] Man, how official! So sour and boring! It is not a trade deal, it's the greeting of the new inhabitant of Livos!}
 {31}{005}{I don't know you too well to hug.}
 {32}{006}{I want to talk business.}
 {33}{004}{Hugs - only after official introduction. Which was just now!!}
 
-{40}{}{[Boston explodes with loud laugh] HAAHAhahahahuehue!! Man, you are quite alright! It's gonna be a lot more fun around here! Because for now it's kinda stale, but we'll show them! Hahahahah!!}
+{40}{}{[Boston explodes with a loud laugh] HAAHAhahahahuehue!! Man, you are quite alright! It's gonna be a lot more fun around here! Because for now, it's kinda stale, but we'll show them! Hahahahah!!}
 {41}{010}{Of course we will! And now I want to ask something.}
-{42}{999}{Okay, Boston, I have no time for now, let's talk later.}
+{42}{999}{Okay, Boston, I have no time now, let's talk later.}
 
 {50}{}{[Boston wrinkles] Man, so touchy! Boo-hoo! What do you want, your highness?}
 {51}{010}{I want to ask a few questions.}
 {52}{999}{Nothing for now. Let's talk later.}
 
-{60}{}{[Boston playfully stands still, clicking heels, taking a serious look] What would you like, mr. Boring Person? }
+{60}{}{[Boston playfully stands still, clicking heels, taking a serious look] What would you like, Mr. Boring Person? }
 {61}{010}{I want to ask a few questions.}
 {62}{999}{Nothing for now. Let's talk later.}
 
@@ -55,10 +55,10 @@
 {103}{014}{What are you busy with here?}
 {104}{011}{Did you see Ludwig's book of wave science?}
 {105}{029}{I want to talk about Claudia.}
-{106}{041}{I've talked to Seth and Matt from NWO. They want to know with whom from Livos to forge alliance.}
+{106}{041}{I've talked to Seth and Matt from NWO. They want to know with whom from Livos to forge an alliance.}
 {107}{999}{Let's talk later, I need to go.}
 
-{110}{}{A book of waste science? Hahahaha! Books? Books are boring! Let this eggheads read their books, I wouldn't buy that for a battery! Who needs it?}
+{110}{}{A book of waste science? Hahahaha! Books? Books are boring! Let these eggheads read their books, I wouldn't buy that for a battery! Who needs it?}
 {111}{012}{Would you know who might take it?}
 
 {120}{}{No idea! This bore Ashton Horton is always digging through some books. My daughter Fox is also reading some magazines. And there's Ludwig himself. He probably put it somewhere and forgot where.}
@@ -69,17 +69,17 @@
 {131}{014}{And what's your job?}
 {132}{010}{I want to ask something else.}
 
-{140}{}{[Boston takes a proud look] I am the head of McKinseys, the most important family in Livos! And my job is to run the whole thing! My speeches on meetings have a tremendous influence. Sometimes even leading to a fights. [he suddenly stops talking] Uhh... Also, I watch over my son, Dallas. He is busy with supplying water to other settlements.}
+{140}{}{[Boston takes a proud look] I am the head of McKinseys, the most important family in Livos! And my job is to run the whole thing! My speeches on meetings have a tremendous influence. Sometimes even leading to fights. [he suddenly stops talking] Uhh... Also, I watch over my son, Dallas. He is busy with supplying water to other settlements.}
 {141}{015}{There was a problem in NWO with your last batch of water. It has some confusing flavor. Can you tell me why?}
 {142}{026}{Fights? Tell me more.}
-{143}{016}{What else can you tell me about McKinsey family?}
+{143}{016}{What else can you tell me about the McKinsey family?}
 {144}{025}{What are the other families in Livos busy with?}
 
-{150}{}{[Boston thinks] Hrm... I don't know what's wrong with the water. I don't poke into this kind of things, really. Dallas deals with it himself. }
+{150}{}{[Boston thinks] Hrm... I don't know what's wrong with the water. I don't poke into this kind of thing, really. Dallas deals with it himself. }
 {151}{999}{Okay, I'll go ask him.}
 {152}{010}{I'll talk to him later, and now I want to ask you something else.}
 
-{160}{}{The McKinsey family is the heart of Livos! We are responsible for the most valuable thing there is - clean water! I can destroy unfriendly town just with stopping the shipments of our water to it! And then burn their dried corpses, hahaha! So, you see that McKinseys are the most important in Livos.}
+{160}{}{The McKinsey family is the heart of Livos! We are responsible for the most valuable thing there is - clean water! I can destroy an unfriendly town just by stopping the shipments of our water to it! And then burn their dried corpses, hahaha! So, you see that McKinseys are the most important in Livos.}
 {161}{017}{What can you tell me about other McKinseys?}
 {162}{010}{I want to ask about something else.}
 
@@ -93,13 +93,13 @@
 {181}{010}{Okay, calm down. I want to ask something else.}
 {182}{022}{Your sister? You didn't mention that you have a sister.}
 {183}{021}{Who should become her husband then?}
-{184}{019}{If they love each other, why not to let them marry?}
+{184}{019}{If they love each other, why not let them marry?}
 {185}{999}{Easy there. We'll talk later.}
 
 {190}{}{[Boston start shouting, flailing hands] What?! You too? I will never let that happen! This is ridiculous! One more word and I won't be responsible for my actions!}
 {191}{020}{Just let them marry! And kiss, and hug each other, and sle...}
 {192}{010}{Easy, calm down. Let's change the subject while it hasn't gone too far.}
-{193}{999}{Looks like you're on edge. I'll come by later, when you calm down.}
+{193}{999}{Looks like you're on edge. I'll come by later when you calm down.}
 
 {200}{}{That's it, I'm sick of it! Come here, I'm gonna screw off this stupid head of yours!}
 {201}{998}{Uh, wait!..}
@@ -109,23 +109,23 @@
 {212}{999}{I need to go. Very urgent.}
 
 {220}{}{I mean Abilene! She is my wife - and also my sister! We were together forever, that's why she is the one for me! And she fully supports me in this matter! Fox should forget about Dallas!}
-{221}{023}{Wait a second. You are married on your sister. And you are against Fox marrying her brother?}
+{221}{023}{Wait a second. You are married to your sister. And you are against Fox marrying her brother?}
 
 {230}{}{Of course I am! What's not to understand here? Where'd she get an idea like that?! Unthinkable!}
 {231}{010}{Ahem... Let's talk about something else.}
 {232}{999}{Yeah. You figure this out and I'll go.}
 
-{2401}{}{Patron, you are not yourself lately, aren't you? Didn't you already study Livos? The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
-{2402}{}{Livos is the best! Here gathered the best people of Radius! You already noticed that! The families of McKinseys, Schweins, Hortons and Duntons are living in here. [Boston widely smiles] But everyone except McKinseys are total morons! Hahahah! }
+{2401}{}{Patron, you are not yourself lately, aren't you? Didn't you already study Livos? The families of McKinseys, Schweins, Hortons, and Duntons are living here. [Boston widely smiles] But, except for McKinseys, all of them are total morons! Hahahah! }
+{2402}{}{Livos is the best! Here gathered the best people of Radius! You already noticed that! The families of McKinseys, Schweins, Hortons, and Duntons are living here. [Boston widely smiles] But, except for McKinseys, all of them are total morons! Hahahah! }
 {241}{025}{And what are they all doing here?}
 
-{250}{}{[Boston looks disgusted] This boring pencil-pusher Ludwig Schwein digs through his cogs, his boring son Christopher deals with boring tradings at the entrance, boring old man Edward boringly sits his pants in the surveillance room. Ashton Horton, that pompous boring fool, turns screws. And boring Emily Dunton is busy only with interfering the others on meetings! [His smile becomes sad] Livos is a swamp, Livos is full of dumbs! Hahahaha!}
-{251}{010}{I see. I have other question.}
+{250}{}{[Boston looks disgusted] This boring pencil-pusher Ludwig Schwein digs through his cogs, his boring son Christopher deals with boring tradings at the entrance, boring old man Edward boringly sits his pants in the surveillance room. Ashton Horton, that pompous boring fool, turns screws. And boring Emily Dunton is busy only with interfering with the others on meetings! [His smile becomes sad] Livos is a swamp, Livos is full of dumbs! Hahahaha!}
+{251}{010}{I see. I have another question.}
 
-{260}{}{[Boston becomes very nervous, turning his eyes away from you] It's nothing... There was one case... I mean, there was this accident!! [he inadvertedly starts shouting] It's all their fault! They purposefully angered me! Poor Peter Horton, they threw him on me!}
+{260}{}{[Boston becomes very nervous, turning his eyes away from you] It's nothing... There was one case... I mean, there was this accident!! [he inadvertently starts shouting] It's all their fault! They purposefully angered me! Poor Peter Horton, they threw him on me!}
 {261}{027}{Who? Peter Horton?}
 
-{270}{}{[He starts frantically fumbling his clothes] Peter... Claudia's husband... We had an argument on a meeting, about inverting third and fourth paragraphs of the Constitution of 15 right. It is obvious that to wander around the territory is more important than to emit gases! Emily Dunton is also fanned the fire a little with her words, so I couldn't stand it and pushed Peter. He badly fell, hitting his head...}
+{270}{}{[He starts frantically fumbling his clothes] Peter... Claudia's husband... We had an argument at the meeting, about inverting the third and fourth paragraphs of the Constitution of 15 right. It is obvious that to wander around the territory is more important than to emit gases! Emily Dunton has also fanned the fire a little with her words, so I couldn't stand it and pushed Peter. He badly fell, hitting his head...}
 {271}{028}{And? What happened next?}
 
 {2801}{}{[Boston starts to whine] He died! Can you imagine? Died! Poor Peter... And his wife, Claudia, is dead too. I hope they found each other after death... [he turns away from you. Looks like he doesn't want to talk anymore.]}
@@ -166,7 +166,7 @@
 {360}{}{[Boston touches his bruises] Good that it's not for nothing. Hah, she will definitely stop following me! Here, take this, a little reward! [He hands you a custom-made "Slugger" pistol]}
 {361}{999}{Now she'll calm down. Bye, Boston.}
 
-{370}{}{What?!I won't let you beat me up! Are out of your mind?}
+{370}{}{What?! I won't let you beat me up! Are you out of your mind?}
 {371}{038}{Listen, a couple of scratches is a small payment for your peace of mind. I will hit accurately, but hard, so it would look real.}
 {372}{999}{Okay, let's find another way...}
 
@@ -179,5 +179,5 @@
 {400}{}{[Boston swiftly turns to you. There's hope in his eyes] Really? You will? That's wonderful! I'll do everything you say! Hell, I'm going to give you my gun, if you'll pull it through! Do everything you have to, but make this freaking psycho leave me alone!}
 {401}{999}{Okay, I'll think about what can be done.}
 
-{410}{}{So let them forge alliance with each other! They can even take turns! Hahahaha! I've never heard about this pathetic weaklings. You can tell them that I don't care. Maybe some other family might want to deal with them, but not mine.}
+{410}{}{So let them forge an alliance with each other! They can even take turns! Hahahaha! I've never heard about these pathetic weaklings. You can tell them that I don't care. Maybe some other family might want to deal with them, but not mine.}
 {411}{010}{Okay, I'll ask others.}

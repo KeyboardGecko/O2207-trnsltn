@@ -128,7 +128,7 @@
 {211}{999}{Thanks for the information. I definitely will.}
 
 
-{220}{}{He tells me a lot of things. He is here to prevent people I don't know from loitering around the Rainbow. And he is not good at his job if you ask me. Still, he mentioned you. But how does it matter, if you come empty-handed?}
+{220}{}{He tells me a lot of things. He is here to prevent people I don't know from loitering around the Rainbow. And he is not good at his job, if you ask me. Still, he mentioned you. But how does it matter, if you come empty-handed?}
 {221}{012}{Actually, I have a package for you. From your insect friends. Ant belly delivery!}
 {222}{999}{I'll come back later then.}
 

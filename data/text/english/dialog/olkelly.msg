@@ -16,7 +16,7 @@
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Kelly.}
-{4}{}{A perfect example that arrogance, laziness, naivety and stupidity won't disappear even after thousand nuclear bombs dropped.}
+{4}{}{A perfect example that arrogance, laziness, naivety, and stupidity won't disappear even after thousand nuclear bombs dropped.}
 {5}{}{You see Kelly.}
 {6}{}{She has bruises on her face, her clothes are torn in many places.}
 #
@@ -31,13 +31,13 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[The girl follows the moody professor, clutching a clipboard folder in her hands and occasionally writing down the things he says. You can't help but wonder, if she puts down his swearing and sarcastic remarks too.] Professor Gray, repeat the last part please! I'm writing it down!}
+{10}{}{[The girl follows the moody professor, clutching a clipboard folder in her hands and occasionally writing down the things he says. You can't help but wonder, if she puts down his swearing and sarcastic remarks too.] Professor Gray, repeat the last part, please! I'm writing it down!}
 {11}{002}{[calmly observe the situation]}
 {12}{004}{[clear your throat]}
 {13}{004}{Hey.}
 
 #Node002
-{20}{}{[Gray puts his hand on forehead and says "Oh Gods, Kelly, you are dumber than our guards". Then he suddenly notices you; his reaction is instant - "Look, talk to that guard over there, find out what he needs, I'm too busy!" The assistant immediately throws herself at you] Good day. I'm Kelly. What do you need? [you notice that Gray hastily leaves the room behind her back]}
+{20}{}{[Gray puts his hand on his forehead and says "Oh Gods, Kelly, you are dumber than our guards". Then he suddenly notices you; his reaction is instant - "Look, talk to that guard over there, find out what he needs, I'm too busy!" The assistant immediately throws herself at you] Good day. I'm Kelly. What do you need? [you notice that Gray hastily leaves the room behind her back]}
 {21}{003}{Hello. Nothing, actually. Just walking around.}
 {22}{010}{Hello, I have some questions.}
 {23}{011}{Hi, are you Kelly? I was asked to tell you something.}
@@ -65,7 +65,7 @@
 
 #Node011
 {111}{}{[she frowns] By whom? By that Moro from the upper floor? Oh, let me guess, it's this snob Jock again, right? He is actually resorting to sending someone, just to make me spread my legs for him? You can again tell him "No". I already have my assigned reproduction male partner. }
-{112}{042}{You know, I recently read in one scientific magazine that copulation actually quadruples the chances of making important scientific discoveries. There was quite a lot info on the matter.}
+{112}{042}{You know, I recently read in one scientific magazine that copulation actually quadruples the chances of making important scientific discoveries. There was quite a lot of info on the matter.}
 {113}{021}{You don't really like big hairy mountain-like creatures, am I right?}
 {114}{016}{By the way, about your partner. I have some bad news concerning Timmy.}
 {115}{013}{I take it you're looking forward to a career of a scientist here, right?}
@@ -77,7 +77,7 @@
 
 #Node013
 {131}{}{How does this concern me? How Jock is related to my career?}
-{132}{014}{I can tell dr. Gray about you being a klutz, leading to a sterilization of a few women in Tartarus. Judging by how he barely tolerates you, this would lead to him ditching you completely.}
+{132}{014}{I can tell dr. Gray about you being a klutz, leading to sterilization of a few women in Tartarus. Judging by how he barely tolerates you, this would lead to him ditching you completely.}
 
 #Node014
 {140}{}{What? I... }
@@ -101,7 +101,7 @@
 
 #Node019
 {190}{}{Preventively?}
-{191}{020}{Yes. You know, taking the initiative. Making the first move. How did you end up a lab assistant? Nevermind... So?}
+{191}{020}{Yes. You know, taking the initiative. Making the first move. How did you end up as a lab assistant? Nevermind... So?}
 
 #Node020
 {200}{}{I don't know... I should...}
@@ -131,12 +131,12 @@
 {251}{012}{Uhh...}
 
 #Node026
-{260}{}{And for this, of course, I need to let Jock fuck me, am I right? Forget it, I know that Jock has no influence on pairing process.}
+{260}{}{And for this, of course, I need to let Jock fuck me, am I right? Forget it, I know that Jock has no influence on the pairing process.}
 {261}{027}{Do YOU know how the pairing process works?}
 
 #Node027
 {270}{}{No, actually... As if you do!}
-{271}{028}{I'm actually Richard's assistant. I had an assignment to gather the list of soldiers to submit to the pairing process. We had some talk with a tech guy. So, that guy said it...}
+{271}{028}{I'm actually Richard's assistant. I had the assignment to gather the list of soldiers to submit to the pairing process. We had some talk with a tech guy. So, that guy said it...}
 
 #Node028
 {280}{}{And you believed him?}
@@ -154,7 +154,7 @@
 
 #Node031
 {310}{}{Let's assume that. So, tell me, how does it happen?}
-{311}{033}{The lists are put into a calculator, which analyzes and prints it. Tech guy makes a copy, changing pairs as needed to.}
+{311}{033}{The lists are put into a calculator, which analyzes and prints them. Tech guy makes a copy, changing pairs as needed.}
 {312}{032}{The tech guy puts some paper into a calculator and types what needs to be changed.}
 
 #Node032
@@ -172,7 +172,7 @@
 
 #Node035
 {350}{}{Oh, so he wants to fuck me first, and then put my name into it. Wonderful. I don't see any reason to let him do it.}
-{351}{036}{We're way off topic. I saw that new lists.}
+{351}{036}{We're way off-topic. I saw that new lists.}
 
 #Node036
 {360}{}{And? What's in there?}
@@ -193,7 +193,7 @@
 {391}{040}{Actually, Barnie is quite a womanizer. He will never miss a chance to hit after getting wasted...}
 
 #Node040
-{400}{}{So much efforts to make me spread my legs for Jock... [Kelly giggles] Nah, it won't work on me. }
+{400}{}{So much effort to make me spread my legs for Jock... [Kelly giggles] Nah, it won't work on me. }
 {401}{012}{Uhh...}
 
 #Node041
@@ -219,7 +219,7 @@
 {452}{999}{Then I'll go make that request.}
 
 #Node100
-{1001}{}{[Kelly looks pale as chalk, her clothes is torn and battered, lower lip is swollen. She is visiby trembling, her left eye is bruised. You notice that almost all of her nails are chipped] You!! I... I hate you! I wish you were dead! [she starts to shake uncontrollably] You sent me to that animal! I... I... [she cries and slowly descends on the floor] }
+{1001}{}{[Kelly looks pale as chalk, her clothes are torn and battered, the lower lip is swollen. She is visibly trembling, her left eye is bruised. You notice that almost all of her nails are chipped] You!! I... I hate you! I wish you were dead! [she starts to shake uncontrollably] You sent me to that animal! I... I... [she cries and slowly descends on the floor] }
 {1002}{101}{[continue]}
 
 #Node101

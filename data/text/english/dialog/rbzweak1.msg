@@ -36,7 +36,7 @@
 {5}{}{You see a ghoul.}
 {6}{}{A usual, half-decomposed ghoul.}
 {7}{}{You could swear that his ribs are sticking out under the remains of his clothes.}
-{8}{}{He is knee-deep in dirt, and... Actually, that's not dirt.}
+{8}{}{He is knee-deep in the dirt, and... Actually, that's not dirt.}
 {9}{}{From under his semi-closed eyelid, his unseeing eye is looking at you.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ

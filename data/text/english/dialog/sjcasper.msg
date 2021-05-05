@@ -12,11 +12,11 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see a guy who looks like he was often beaten up in his childhood.}
-{2}{}{He reminds you of rat. Big, disgusting rat.}
+{2}{}{He reminds you of a rat. Big, disgusting rat.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Casper.}
-{4}{}{You are very keen on reducing the amount of teeth in his mouth.}
+{4}{}{You are very keen on reducing the number of teeth in his mouth.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
@@ -27,7 +27,7 @@
 
 {10}{}{[You see a skinny little fella with an ugly look and annoying smirk] Whatcha lookin' at, arsehole?}
 {11}{002}{Hello to you too, runt.}
-{12}{003}{Watch your mouth or you're get your teeth kicked out.}
+{12}{003}{Watch your mouth or you're getting your teeth kicked out.}
 {13}{004}{Who the hell are you?}
 
 
@@ -37,7 +37,7 @@
 {23}{998}{It's time to teach you some manners... [attack]}
 
 
-{30}{}{You shite, it's you who'll get your mouth caved in, if you talk like that. I'll look past your fuckin' stupidity for this time. You will adress me with respect. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{30}{}{You shite, it's you who'll get your mouth caved in if you talk like that. I'll look past your fuckin' stupidity for this time. You will address me with respect. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
 {31}{005}{So you can take bets then?}
 {32}{006}{A bookmaker? You? Don't make me laugh.}
 {33}{007}{"With respect"? "I'll look past your stupidity"? Do you fucking want to die?}
@@ -46,14 +46,14 @@
 
 {40}{}{I'm a bookmaker. Taking bets, setting fights, fucking girls, picking on arseholes like you.}
 {41}{008}{You are so adorable. Can I call you "sweetie"?}
-{42}{998}{And I am some guy from wasteland, who will now take away your ability to do all that. [attack]}
+{42}{998}{And I am some guy from the wasteland, who will now take away your ability to do all that. [attack]}
 {43}{009}{Wow. I haven't talked to such high-grade shit for a really long time.}
 {44}{010}{Uh-huh. I have some questions.}
 
 
-{50}{}{Yes. But not today. Today all bets are done. Plus, an outsider like you should purchase a subscription first, heh-heh. A contribution fee is 1000 batteries, for the development of hand-to-hand combat entertainment industry in this wonderful area.}
-{51}{011}{You mean, for encouranging your drinking habits and whores.}
-{52}{012}{Thousand? You want jam on it?}
+{50}{}{Yes. But not today. Today all bets are done. Plus, an outsider like you should purchase a subscription first, heh-heh. A contribution fee is 1000 batteries, for the development of the hand-to-hand combat entertainment industry in this wonderful area.}
+{51}{011}{You mean, for encouraging your drinking habits and whores.}
+{52}{012}{Thousand? Do you want me to put jam on it?}
 {53}{013}{Okay, here's my donation. When I'll be able to make bets?}
 {54}{014}{Too much. Not interested.}
 {55}{999}{I'll better go spend the money on something more valuable.}
@@ -62,13 +62,13 @@
 {60}{}{[He smirks] Yes, exactly. ME. I think we're done here. Or do you have any questions?}
 {61}{010}{Yes, I do.}
 {62}{999}{No, I don't. [end the dialogue]}
-{63}{999}{I'm starting to disrespect myself while I talk to a dirt like you. I'm going.}
+{63}{999}{I'm starting to disrespect myself while talking to a speck of dirt like you. I'm going.}
 
 
-{70}{}{[He smirks, showing wide row of teeth] I think we're done here. Or do you have any questions?}
+{70}{}{[He smirks, showing a wide row of teeth] I think we're done here. Or do you have any questions?}
 {71}{010}{Yes, I do.}
 {72}{999}{No, I don't. [end the dialogue]}
-{73}{999}{I'm starting to disrespect myself while I talk to a dirt like you. I'm going. }
+{73}{999}{I'm starting to disrespect myself while talking to a speck of dirt like you. I'm going. }
 
 
 {80}{}{No. Do you have other questions?}
@@ -76,7 +76,7 @@
 {82}{999}{No, I don't. [end the dialogue]}
 
 
-{90}{}{[He algrily looks at you] Do you have other questions?}
+{90}{}{[He angrily looks at you] Do you have other questions?}
 {91}{010}{Yes, I do.}
 {92}{999}{No, I don't. [end the dialogue]}
 
@@ -85,7 +85,7 @@
 {101}{}{So?}
 {102}{018}{About Vince...}
 {103}{005}{You were mentioning bets...}
-{104}{033}{What's with the bets? When's next fight?}
+{104}{033}{What's with the bets? When's the next fight?}
 {105}{034}{How much you made on my fight, fuckface?}
 {106}{032}{The weather is shitty today, don't you think?}
 {107}{036}{I kicked the shit out of Stan.}
@@ -100,7 +100,7 @@
 {113}{010}{Nice. I have some questions.}
 
 
-{120}{}{Jam was on the dicks you ate this morning. Either pay, or get the fuck away.}
+{120}{}{Jam was on the dicks you ate this morning. Pay or get the fuck away.}
 {121}{998}{I'm so sick of you. Let's see now who gets the fuck away...}
 {122}{999}{[wave your hand and leave]}
 {123}{010}{Nice. I have some questions.}
@@ -109,7 +109,7 @@
 {126}{999}{I'll better go spend the money on something more valuable.}
 
 
-{130}{}{[Casper counts the batteries and puts them into a shoulder bag] Good. No bets today. Maybe they'll be availabe next week. Come by later.}
+{130}{}{[Casper counts the batteries and puts them into a shoulder bag] Good. No bets today. Maybe they'll be available next week. Come by later.}
 {131}{017}{Hey! You didn't say I'll be able to make bets only the next week!}
 {132}{010}{Okay, I have some questions.}
 {133}{015}{Next week? Give me my money back!}
@@ -127,10 +127,10 @@
 {154}{999}{[spit on the ground and walk away]}
 
 
-{160}{}{[He smirks, showing wide row of teeth] I think we're done here. Or do you have any questions?}
+{160}{}{[He smirks, showing a wide row of teeth] I think we're done here. Or do you have any questions?}
 {161}{010}{Yes, I do.}
 {162}{999}{No, I don't. [end the dialogue]}
-{163}{999}{I'm starting to disrespect myself while I talk to a dirt like you. I'm going. }
+{163}{999}{I'm starting to disrespect myself while talking to a speck of dirt like you. I'm going. }
 
 
 {170}{}{Tough times, you know.}
@@ -139,7 +139,7 @@
 {173}{999}{[spit on the ground and walk away]}
 
 
-{180}{}{The bets are done until the end of fight.}
+{180}{}{The bets are done until the end of the fight.}
 {181}{019}{I'd like to talk about some conditions. About the fight.}
 
 
@@ -155,13 +155,13 @@
 
 
 {210}{}{Thousand batteries. }
-{211}{022}{If I pay you thousand and hundred extra, would you cancel the fight?}
+{211}{022}{If I pay you a thousand and a hundred extra, would you cancel the fight?}
 
 
 {220}{}{[Casper ponders, rolling his eyes. Probably he's counting possible profits.] Three hundred extra. I'll have to deal with issues about canceling the fight. And nothing calms my nerves more than the money.}
 {221}{023}{Deal.}
-{222}{024}{I have only thousand. I didn't expect to spend more.}
-{223}{025}{I have only thousand. I didn't expect to spend more.}
+{222}{024}{I have only a thousand. I didn't expect to spend more.}
+{223}{025}{I have only a thousand. I didn't expect to spend more.}
 {224}{999}{Okay. I'll go get the money and come back.}
 
 
@@ -186,7 +186,7 @@
 {262}{999}{No, that's it. I'm going.}
 
 
-{274}{}{[Casper critically looks at you] Well... Maybe. I'm still going to have some troubles changing the conditions of a fight. It's gonna cost you... Six hundred batteries.}
+{274}{}{[Casper critically looks at you] Well... Maybe. I'm still going to have some trouble changing the conditions of a fight. It's gonna cost you... Six hundred batteries.}
 {270}{028}{Deal.}
 {271}{029}{I have only five hundred. I didn't expect to spend more.}
 {272}{030}{I have only five hundred. I didn't expect to spend more.}
@@ -198,7 +198,7 @@
 {282}{999}{I need to prepare. Be right back.}
 
 
-{290}{}{[Casper bites his lip and scratches his head.] Deal. Give me your five hudred!}
+{290}{}{[Casper bites his lip and scratches his head.] Deal. Give me your five hundred!}
 {291}{031}{[give the batteries]}
 {292}{999}{Wait, I need to think...}
 

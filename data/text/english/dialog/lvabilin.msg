@@ -21,15 +21,15 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{[You see an overweight middle-aged woman in untidy clothes. Looks like she stopped looking after herself a long time ago] Look what the wind blew in... What are you sniffing around?}
-{11}{002}{I'm in Livos recently. Meeting my neighbours.}
+{11}{002}{I'm in Livos recently. Meeting my neighbors.}
 {12}{003}{I'm new here. Just looking around the vault.}
 {13}{004}{Non of your business. I walk wherever I want.}
 
-{20}{}{[The woman makes disgusted face] Everyone goes here, distracting me... Meeting neighbours? Well, I'm Abilene McKinsey. And now go meet someone else.}
+{20}{}{[The woman makes a disgusted face] Everyone goes here, distracting me... Meeting neighbors? Well, I'm Abilene McKinsey. And now go meet someone else.}
 {21}{010}{Wait a second, Abilene. Can you answer a few questions?}
 {22}{999}{Glad to meet you. And I'll go do just that.}
 
-{30}{}{[The woman makes disgusted face] Everyone goes here, poking their noses around... Looking around? Well, nothing to look at here. I'm Abilene McKinsey, it's only me and my stuff in here. Go look around somewhere else.}
+{30}{}{[The woman makes a disgusted face] Everyone goes here, poking their noses around... Looking around? Well, nothing to look at here. I'm Abilene McKinsey, it's only me and my stuff in here. Go look around somewhere else.}
 {31}{010}{Wait a second, Abilene. Can you answer a few questions?}
 {32}{999}{You are right, I'll go into other places.}
 
@@ -46,21 +46,21 @@
 {104}{025}{Got any job for me?}
 {105}{999}{I need nothing right now. Talk later.}
 
-{110}{}{No, I didn't see any book. And even if i did, I wouldn't tell you. Ludwig completely lost his mind with all this hoity-toity tech stuff. He talks to no one, even to his wife, maybe they even didn't sleep together. One time I saw my husband, Boston, hitting on Ludwig's wife, Veronica. Oh, this animal Boston ruined my life, damn womanizer! I spent my best years on him, and he doesn't even respects me!}
+{110}{}{No, I didn't see any book. And even if I did, I wouldn't tell you. Ludwig completely lost his mind with all this hoity-toity tech stuff. He talks to no one, even to his wife, maybe they even didn't sleep together. One time I saw my husband, Boston, hitting on Ludwig's wife, Veronica. Oh, this animal Boston ruined my life, damn womanizer! I spent my best years on him, and he doesn't even respect me!}
 {111}{010}{I see. Let me ask something else.}
 {112}{999}{Okay, I'll go ask others about the book.}
 
-{120}{}{[Abilene unhappy grumbles] Nothing. I do nothing. [she raises her voice] And I have the right to do so! According to paragraph 10 of our Constitution, "Every inhabitant of the New World has the right to do nothing at all"! I know my rights and is not afraid to use them! For example, do you call yourself an inhabitant of the New World, or not? }
-{121}{013}{Yes, of course I do.}
+{120}{}{[Abilene unhappy grumbles] Nothing. I do nothing. [she raises her voice] And I have the right to do so! According to paragraph 10 of our Constitution, "Every inhabitant of the New World has the right to do nothing at all"! I know my rights and not afraid to use them! For example, do you call yourself an inhabitant of the New World, or not? }
+{121}{013}{Yes, of course, I do.}
 {122}{021}{No, I don't.}
 {123}{020}{I have no idea what it is or what it means.}
 
-{130}{}{Yes, According to the first paragraph of our Constitution, "Every inhabitant of the New World has the right call himself and/or others inhabitants of the New World "inhabitants of the New World"". And did you attend the last official meeting of inhabitants of the New World?}
+{130}{}{Yes, According to the first paragraph of our Constitution, "Every inhabitant of the New World has the right call himself and/or others inhabitants of the New World "inhabitants of the New World". And did you attend the last official meeting of inhabitants of the New World?}
 {131}{014}{No, I didn't.}
 {132}{019}{Yes, I was there.}
 {133}{016}{I don't understand what you are talking about.}
 
-{140}{}{Gotcha! According to paragraph 12 of our Constitution, "Every inhabitant of the New World has the right not to attend (be absent from) an official meetings of inhabitants of the New World, but if this is the case, he loses all rights until attending the next meeting". So now you don't have the right to call yourself an inhabitant of the New World!}
+{140}{}{Gotcha! According to paragraph 12 of our Constitution, "Every inhabitant of the New World has the right not to attend (be absent from) official meetings of inhabitants of the New World, but if this is the case, he loses all rights until attending the next meeting". So now you don't have the right to call yourself an inhabitant of the New World!}
 {141}{015}{Okay, I won't call myself that. }
 {142}{017}{I'm still going to call myself that.}
 
@@ -81,9 +81,9 @@
 
 {190}{}{Good, then you are not in violation of anything. There, listen to auntie Abilene and you will never violate the Constitution. You have a lot to learn, greenhorn.}
 {191}{010}{Whatever you say. I want to ask something else.}
-{192}{999}{I'll go, need to violate a coulple of rights from Constitution. Bye.}
+{192}{999}{I'll go, need to violate a couple of rights from the Constitution. Bye.}
 
-{200}{}{Gotcha! According to paragraph 15 of our Constitution, "Every inhabitant of the New World has the right to not know the rights, described in this Constitution, but if this is the case, he loses all rights, including this one, until learning the rights". So now you don't have the right to not know the rights of Constitution! You have to learn them!}
+{200}{}{Gotcha! According to paragraph 15 of our Constitution, "Every inhabitant of the New World has the right to not know the rights, described in this Constitution, but if this is the case, he loses all rights, including this one, until learning the rights". So now you don't have the right to not know the rights of the Constitution! You have to learn them!}
 {201}{015}{Okay, I will learn the rights. }
 {202}{017}{I'm not going to learn anything.}
 
@@ -91,16 +91,16 @@
 {211}{019}{Yes, I'm using my right to not have rights.}
 {212}{018}{I just don't really care what is written in this Constitution of yours.}
 
-{220}{}{Livos is our home, and now yours too. The vault was built a very long time ago, we all live here almost without any conflicts. Why would we, McKinseys, quarrel with other families? We are the most important here, after all! And we are very kind, so we let the other families to live with us here and do their little useless jobs.}
+{220}{}{Livos is our home, and now yours too. The vault was built a very long time ago, we all live here almost without any conflicts. Why would we, McKinseys, quarrel with other families? We are the most important here, after all! And we are very kind, so we let the other families live with us here and do their little useless jobs.}
 {221}{023}{Tell me about your family.}
 {222}{024}{What can you say about other families in Livos?}
 {223}{010}{I want to ask something else.}
 
-{230}{}{[Abilene cheers up] McKinseys are the most poweful family in Livos! My husband, Boston, gives speeches on a meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I know how it is - to love my own brother. But he is categorically against them having a relationships. What choice does Fox have, if the best man in the whole Livos is her brother? Boston doesn't understand that.}
+{230}{}{[Abilene cheers up] McKinseys are the most powerful family in Livos! My husband, Boston, gives speeches at meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I know how it is - to love my own brother. But he is categorically against them having a relationship. What choice does Fox have, if the best man in the whole Livos is her brother? Boston doesn't understand that.}
 {231}{024}{Tell me about other families.}
 {232}{010}{Let me ask about something else.}
 
-{240}{}{[Abilene contemptuously chuckles] What to say about them? A bunch of pathetic losers, that's who they are! I interact only with Emily Dunton, we play cards sometimes. She is very competitive, but she always pays her debts. Sometimes I think that if she loses her life in game of cards, she would go as far as killing herself.}
+{240}{}{[Abilene contemptuously chuckles] What to say about them? A bunch of pathetic losers, that's who they are! I interact only with Emily Dunton, we play cards sometimes. She is very competitive, but she always pays her debts. Sometimes I think that if she loses her life in a game of cards, she would go as far as killing herself.}
 {241}{023}{What can you tell me about your family?}
 {242}{010}{I want to ask something else.}
 

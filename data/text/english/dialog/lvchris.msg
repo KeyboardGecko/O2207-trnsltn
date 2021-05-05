@@ -12,7 +12,7 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see a tough, young man.}
-{2}{}{He is busy with inspecting some kind of energy weapon.}
+{2}{}{He is busy inspecting some kind of energy weapon.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Christopher.}
@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a young man in good physical shape. He has a clear, hard eyes] Come closer, pick a gun! The best weapons in Radius are made in Livos! Everybody knows the quality of Schwein weapons!}
+{10}{}{[You see a young man in good physical shape. His sight is clear and heavy.] Come closer, pick a gun! The best weapons in Radius are made in Livos! Everybody knows the quality of Schwein weapons!}
 {11}{Barter}{Let's see what you have.}
 {12}{010}{I want to ask some questions.}
 
@@ -34,7 +34,7 @@
 {105}{036}{There was a problem with the recent water delivery at NWO. I'm here to find out the reason.}
 {106}{029}{I'd like to talk about Mignon Horton.}
 {107}{035}{Can you give a discount? I'm one of us, after all. I'm a Livos dweller.}
-{108}{038}{Christopher! I want to talk about Mignon's behaviour!  }
+{108}{038}{Christopher! I want to talk about Mignon's behavior!  }
 {109}{999}{We'll talk later, bye.}
 
 {110}{}{I deal in the best guns. Interested?}
@@ -50,7 +50,7 @@
 {130}{}{I don't like small talk. To chat is a privilege of women. I talk business. }
 {131}{017}{Are you always like this?}
 {132}{040}{Sometimes you can do many things with just words.}
-{133}{014}{The words are meaningles. I don't like small talk too.}
+{133}{014}{The words are meaningless. I don't like small talk too.}
 
 {140}{}{Right. Let's get down to business. What do you want?}
 {141}{Barter}{I want to look at your stock.}
@@ -72,11 +72,11 @@
 
 {170}{}{[Christopher gets angry] You are pissing me off! Go fuck yourself! If you don't want to buy - get lost! }
 {171}{Barter}{Okay, show me what you have.}
-{172}{998}{YOU go fuck youself, damn psycho!}
+{172}{998}{YOU go fuck yourself, damn psycho!}
 {173}{010}{Wait, I want to ask something else.}
 {174}{999}{Easy. I'm already leaving.}
 
-{180}{}{[Christopher nervously taps his fingers on the desk] Damn... Alright. Four families are living in here. Hortons, Duntons, McKinseys and us, Schweins. We are the most influential. We are in charge of tradings, security, weapon manufacturing. My uncle, Edward, guards the entrance. My father, Ludwig, is an engineer. Mother, Veronica, is a politician. What I do is obvious.}
+{180}{}{[Christopher nervously taps his fingers on the desk] Damn... Alright. Four families are living here. Hortons, Duntons, McKinseys, and us, Schweins. We are the most influential. We are in charge of tradings, security, weapon manufacturing. My uncle, Edward, guards the entrance. My father, Ludwig, is an engineer. Mother, Veronica, is a politician. What I do is obvious.}
 {181}{022}{Who are Hortons?}
 {182}{020}{Tell me about McKinseys.}
 {183}{021}{What can you say about Duntons?}
@@ -87,18 +87,18 @@
 {192}{Barter}{Show me what you have.}
 {193}{010}{I wanted to ask something else.}
 
-{200}{}{[He is visibly irritated by this conversation] McKinseys are trading water. Dallas is responsible for it. Smart guy, can do business with him. Except he puts his nose where he shouldn't! The other McKinseys are bunch of clowns.}
+{200}{}{[He is visibly irritated by this conversation] McKinseys are trading with water. Dallas is responsible for it. Smart guy. Capable of running the business. Except he puts his nose where he shouldn't! The other McKinseys are a bunch of clowns.}
 {201}{022}{What about Hortons?}
 {202}{021}{What are Duntons doing?}
 {203}{023}{What's the problem with Dallas?}
 {204}{010}{I want to ask something else.}
 
-{210}{}{[Christopher frowns with contempt] Duntons... Emily is the one with balls, she keeps her husband Soap under the thumb. Thinks she runs this place. Always pushes her idiotic ideas forward on the meetings.}
+{210}{}{[Christopher frowns with contempt] Duntons... Emily is the one with balls, she keeps her husband Soap under the thumb. Thinks she runs this place. Always pushes her idiotic ideas forward in the meetings.}
 {211}{022}{What about Hortons?}
 {212}{020}{Tell me about McKinseys.}
 {213}{010}{Another question.}
 
-{220}{}{[Christopher becames more lively] Claudia and Ashton - phantasists an schemers. They have a daughter, Mignon. She is a wonderful girl! A little light-headed and chatty, but in a good way. Together with her beauty it makes her ideal girlfriend! }
+{220}{}{[Christopher becomes more lively] Claudia and Ashton - phantasists and schemers. They have a daughter, Mignon. She is a wonderful girl! A little light-headed and chatty, but in a good way. Together with her beauty, it makes her ideal girlfriend! }
 {221}{021}{Tell me about Duntons.}
 {222}{020}{What can you tell me about McKinseys?}
 {223}{024}{I suppose you like Mignon.}
@@ -112,7 +112,7 @@
 {240}{}{[Christopher gets excited] Damn right, I love her! And I'm proud to love the best girl in Livos! }
 {241}{025}{So what are you going to do?}
 
-{250}{}{[He ponders] Don't know. I tried everything. It's obvious I'm the best choice for her. But she and this Dallas are always talking! And she likes to talk, as you probably noticed. Unlike me. Talking is not my strongest feat. If it continues like this, I might have some accident with Dallas. So, I need to convince her. Maybe give her a present. Something valuable. She likes smelly things, for example. I undestand nothing in them.}
+{250}{}{[He ponders] Don't know. I tried everything. It's obvious I'm the best choice for her. But she and this Dallas are always talking! And she likes to talk, as you probably noticed. Unlike me. Talking is not my strongest feat. If it continues like this, I might have some accident with Dallas. So, I need to convince her. Maybe give her a present. Something valuable. She likes smelly things, for example. I understand nothing in them.}
 {251}{026}{I can try to talk with Mignon and Dallas. I am very persuasive. And I can look for something valuable or perfume-like.}
 {252}{999}{Continue your love games without me. I have things to do. Bye.}
 
@@ -133,7 +133,7 @@
 {293}{010}{Not yet, I'm still working on it. I'd like to ask something else.}
 
 {300}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - plasma rifle prototype or laser pistol. Pick one.}
-{303}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - plasma rifle prototype! Unique and deadly!}
+{303}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - a plasma rifle prototype! Unique and deadly!}
 {304}{}{[Christopher carefully takes the perfume] Great! This is the best! She will definitely appreciate it! Now she is mine for sure! So, here is the reward of your choice - laser pistol! Light-weight, precise and deadly!}
 {301}{032}{[take the prototype]}
 {302}{032}{[take the pistol]}
@@ -155,20 +155,20 @@
 {341}{}{Of course. You are one of us. You can go whenever you want.}
 {342}{010}{Another question.}
 
-{350}{}{No discounts. If you are one of us, then your money will return into Livos through me.}
+{350}{}{No discounts. If you are one of us, then your money will return to Livos through me.}
 {351}{010}{I see. Another question.}
 
-{360}{}{Hm... Boston McKinsey is responsible for the whole water supply. He is inside the vault. I heard there's some problem with the water wilter though. }
+{360}{}{Hm... Boston McKinsey is responsible for the whole water supply. He is inside the vault. I heard there's some problem with the water filter, though. }
 {361}{034}{Can I talk to him?}
 {362}{037}{I could fix the filter. I'm good with fixing things.}
 
-{370}{}{You are good in repairing water filters? We could use you. Livos needs people like you. You'll become one of us! I'll tell Edward by the entrance that we have new inhabitant, who can repair things. Welcome to Livos. You can enter.}
+{370}{}{You are good at repairing water filters? Livos could use your skills. You'll become one of us then! I'll tell Edward by the entrance that we have a new inhabitant, who can repair things. Welcome to Livos. You can enter.}
 {371}{999}{Thanks. I'll go fix the filter.}
 
 {3801}{}{Yes? What is it?}
-{3802}{}{I've talked to Mignon. Just as you warned, she denied everything. It's okay, I'll re-educate her eventually. For now she understands everything and won't do something like this anymore. Or else I'm going to kick her teeth out.}
+{3802}{}{I've talked to Mignon. Just as you warned, she denied everything. It's okay, I'll re-educate her eventually. For now, she understands everything and won't do something like this anymore. Or else I'm going to kick her teeth out.}
 {381}{041}{She behaves badly! She says so many bad things about you!}
-{382}{039}{She tried to hit on me! As your friend, I should inform you about it. She called you stupid and short-sighted. And she said that she can jerk you around as much as she wants. And even if you get married, she would still have an affairs behind your back. "This cluck won't suspect a thing! I'll deny everything and he will believe me!", - that's what she said! }
+{382}{039}{She tried to hit on me! As your friend, I should inform you about it. She called you stupid and short-sighted. And she said that she can jerk you around as much as she wants. And even if you get married, she would still have an affair behind your back. "This cluck won't suspect a thing! I'll deny everything and he will believe me!", - that's what she said! }
 {383}{010}{Actually, I wanted to ask something else.}
 
 {390}{}{[Christopher clenches fists] Bitch! Cunt! Thanks, friend, I'll go talk to her. I don't know what I'm going to do! That bitch...}

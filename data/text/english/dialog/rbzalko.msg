@@ -34,10 +34,10 @@
 {3}{}{You see a scrawny alcoholic.}
 {4}{}{You see a boozer.}
 {5}{}{You see a hammered dipso.}
-{6}{}{Looks like he is able to desinfect even a pile of humus with his breath.}
-{7}{}{His teeth look like a chessboard -  here's tootn, here's no tooth, here's tooth again...}
+{6}{}{Looks like he is able to disinfect even a pile of manure with his breath.}
+{7}{}{His teeth look like a chessboard -  here's tooth, here's no tooth, here's tooth again...}
 {8}{}{His clothes are hanging on his futile body like a shapeless sack. A smelly sack.}
-{9}{}{He is shaking like he just won the first prize in beer pong world cup.}
+{9}{}{He is shaking like he just won the first prize in the beer pong world cup.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

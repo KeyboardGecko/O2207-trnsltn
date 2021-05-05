@@ -27,19 +27,19 @@
 {4}{}{You see a merchant.}
 {5}{}{You see a trader.}
 {6}{}{You can feel the smell of Lavash meat from a mile away.}
-{7}{}{He oozes with distinctive, with delicate hints of rot, scent of Lavash meat.}
+{7}{}{He oozes with distinctive, with delicate hints of rot, the scent of Lavash meat.}
 {8}{}{All his look demonstrates that he knows his stuff about Lavash meat.}
-{9}{}{Merchant's clothes has some blood stains, but you are sure that they are not human.}
+{9}{}{Merchant's clothes have some bloody stains, but you are sure that they are not human's.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{Looking for some of meat for you and your friends? I have the best one in the whole Radius! Most fresh and fragrant!}
+{10}{}{Looking for some meat for you and your friends? I have the best one in the whole Radius! Most fresh and fragrant!}
 {11}{}{Stew? Jerky? Canned? Hell, even with blood, still warm - any kind of meat for your batteries! }
 {12}{}{Just look at yourself - all skin and bone! You need a nice big chunk of the tenderest Lavash meat! Don't be shy, check out my product!}
 {13}{}{Okay, show me what you have.}
 {14}{}{No thanks, I'm not hungry.}
 {15}{}{Why the hell are your ammo so expensive?}
-{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. Except they are no good anyway.}
+{16}{}{What do you think? They are genuine ones, factory-made! The amount of these birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses, and such - but it's still worth it! Don't like the price - go buy homemade ones from a junk dealer. Except they are no good anyway.}
 {17}{}{I see... Well, let's look at your goods one more time.}
 {18}{}{Understood. I've got to go now.}
 {19}{}{When will you sell me more serious guns?}

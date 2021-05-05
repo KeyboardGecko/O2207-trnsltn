@@ -20,19 +20,19 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[A gray-haired, unkempt man in a lab coat stands still, barely moving his lips. Fingers on his left hand are twitching, as if he is writing something down. Looks like he stares right at you - but then you see that his sight goes through you. He doesn't seem to notice you at all.]}
+{10}{}{[A gray-haired, unkempt man in a lab coat stands still, barely moving his lips. Fingers on his left hand are twitching as if he is writing something down. Looks like he stares right at you - but then you see that his sight goes through you. He doesn't seem to notice you at all.]}
 {11}{002}{[slowly wave your hand in front of his face]}
 {12}{002}{[gently touch his shoulder]}
 {13}{998}{[come closer to his ear and shout as loud as you can]}
 
 
-{20}{}{[No response. At least, nothing visible: lips are still whispering, hand is still writing, eyes get even more blank.]}
+{20}{}{[No response. At least, nothing visible: lips are still whispering, the hand is still writing, eyes get even more blank.]}
 {21}{003}{[wave both hands in front of him]}
 {22}{003}{[shake him by the shoulders]}
 {23}{998}{[kick him in the knee]}
 
 
-{30}{}{[The scientist freezes for a second. Then looks at your forehead - and suddenly shouts "KA-BOOM! Oozy mess, Why didn't I put that together before?!" The his sight becomes blank again.]}
+{30}{}{[The scientist freezes for a second. Then looks at your forehead - and suddenly shouts "KA-BOOM! Oozy mess, Why didn't I put that together before?!" His sight becomes blank again.]}
 {31}{004}{[accept the situation and wait]}
 {32}{006}{[accept the situation and wait]}
 {34}{005}{[Start to say "hey" repeatedly, shaking him by the shoulders]}
@@ -42,16 +42,16 @@
 {40}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! A bit more, and this integral would remain unresolved - because of you. Get it, oozy mess? Youíre guilty, and you need to make up for it! Right! Now!}
 {41}{008}{Make up for it? Ha. What do you need me to do?}
 {42}{009}{Easy! I only wanted to ask a couple of questions.}
-{43}{999}{No, no, no. No making ups. I'm leaving already. }
+{43}{999}{No, no, no. No making-ups. I'm leaving already. }
 
 
 {50}{}{[he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! This integral slipped away from me - because of you. Get it, oozy mess? Youíre guilty, and you need to make up for it! Right! Now!}
 {51}{008}{Make up for it, you say? Let me guess - you need me to do something for you?}
 {52}{009}{Easy! I only wanted to ask a couple of questions.}
-{53}{999}{No, no, no. No making ups. I'm leaving already. }
+{53}{999}{No, no, no. No making-ups. I'm leaving already. }
 
 
-{60}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Piece of plasma, look who we have here. A shepherd of mindless sheeps. Instead of distracting me - twice! - you could think about why science is much more effective for the future of Olympus than all this religious affairs of yours! Although, oozy mess, you're just in time - and can be of some use for the greater good of science.}
+{60}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Piece of plasma, look who we have here. A shepherd of mindless sheep. Instead of distracting me - twice! - you could think about why science is much more effective for the future of Olympus than all these religious affairs of yours! Although, oozy mess, you're just in time - and can be of some use for the greater good of science.}
 {61}{008}{For a greater use of science? Let me guess - you need me to do something?}
 {62}{009}{Easy! I only wanted to ask a couple of questions.}
 {63}{999}{No, no, no. No science. My department is strictly faith. My "sheeps" wouldn't understand. }
@@ -63,38 +63,38 @@
 {73}{999}{No, no, no. No science. My department is strictly faith.}
 
 
-{74}{}{Oozy mess! I like smart people. Yes, exactly! Do something! Something... I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocked and shoves it to you] In the Army Headquarters. Get it, oozy mess? "Baraka" gun - a big BA-BOOM! }
+{74}{}{Oozy mess! I like smart people. Yes, exactly! Do something! Something... I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocket and shoves it to you] In the Army Headquarters. Get it, oozy mess? "Baraka" gun - a big BA-BOOM! }
 {75}{018}{I have been there already. And if there was a gun, I might have sold it...}
 {76}{999}{Just like this? Okay... But no promises.}
 {77}{009}{Why do you need it? }
 {78}{015}{"Baraka"? This one? [show the gun]}
 {79}{999}{No, I'll pass. Handle it yourself.}
 
-{90}{}{No questions, piece of plasma! I'm doctor Diamond Crank. This is Billy, my robot. He needs an upgrade. Urgently. That's all you need to know. Done with the theory - now to practice. You can help me. I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocked and shoves it to you] In the Army Headquarters. Get it, ignoramus? "Baraka" gun - a big BA-BOOM!}
+{90}{}{No questions, piece of plasma! I'm doctor Diamond Crank. This is Billy, my robot. He needs an upgrade. Urgently. That's all you need to know. Done with the theory - now to practice. You can help me. I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocket and shoves it to you] In the Army Headquarters. Get it, ignoramus? "Baraka" gun - a big BA-BOOM!}
 {91}{018}{I would gladly do it. But I had this "Baraka" gun - and I think I lost it. Maybe threw it out, maybe even sold it. I don't remember.}
 {92}{999}{Okay, okay. You'll get your gun.}
 {93}{999}{I don't deal with schizophrenics. Handle it yourself.}
 
 
-{100}{}{[A usual picture - Crank is fully catatonic and detached from an outside world. Surely, his head must be bubbling with graphics, matrices and numbers right now.]}
+{100}{}{[A usual picture - Crank is fully catatonic and detached from an outside world. Surely, his head must be bubbling with graphics, matrices, and numbers right now.]}
 {101}{011}{Hey, we need to talk! A couple of minutes! Indulge me!}
 {102}{011}{[pulll his shoulder] Heyo! Do you hear me! Get back to reality!}
 {103}{999}{[leave silently]}
 
 
-{110}{}{[this time you had to wait a little less. The scientist finishes calculating something in his mind - and only then turns his attention to you.] Oozy mess, you again? Okay, sin, 13,975 is approximately... Tends to zero... Damn! Piece of plazma! Speak! Fast!}
+{110}{}{[this time you had to wait a little less. The scientist finishes calculating something in his mind - and only then turns his attention to you.] Oozy mess, you again? Okay, sin, 13,975 is approximately... Tends to zero... Damn! Piece of plasma! Speak! Fast!}
 {111}{008}{You wanted me to do something, remember?}
 {112}{013}{I wanted to talk about the "Baraka" gun.}
 {113}{020}{About Ludwig.}
 {114}{012}{Do you even rest? Ever?}
 
 
-{120}{}{Oozy mess! You interrupted me for that? KA-BOOM! What rest? Maybe you will debug Billy instead of me? Get out of here! So, what was that... 13,975... Let's differential this... Are you still here? Het the hell out!! You're distracting me!}
+{120}{}{Oozy mess! Did you interrupt me for that? KA-BOOM! What rest? Maybe you will debug Billy instead of me? Get out of here! So, what was that... 13,975... Let's differential this... Are you still here? Het the hell out!! You're distracting me!}
 {121}{999}{[leave silently]}
-{122}{998}{[punch this schientist asshole's face]}
+{122}{998}{[punch this scientist asshole's face]}
 
 
-{130}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
+{130}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and the other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
 {131}{014}{Remind me, what do you want me to do?}
 {132}{015}{Here's the "Baraka" gun.}
 {133}{016}{About "Baraka" testing...}
@@ -104,15 +104,15 @@
 {141}{999}{Okay, okay, I'm going.}
 
 
-{150}{}{[his answer is unusually fast] Wonderful... Wonderful! Wonderful, oozy mess, wonderful!! Just when I needed it. Give me that! Let's see... [he takes away heavy weapon and disassembles it in a mere seconds. Just as fast, he assembles it back, aims into the nearest wall and shouts "KA-BOOM!!" Then he drops the gun, writes something down and looks back at you.] Wondeful! This piece of plasma is exactly like I thought it would be. Hahahaaa! Now, take it, take this keycard and go to the floor 96! Shoot at the "Defender" armor, hahahaha!! KA-BOOM!! And report back to me. Oozy mess! Go! }
+{150}{}{[his answer is unusually fast] Wonderful... Wonderful! Wonderful, oozy mess, wonderful!! Just when I needed it. Give me that! Let's see... [he takes away the heavy weapon and disassembles it in mere seconds. Just as fast, he assembles it back, aims into the nearest wall, and shouts "KA-BOOM!!" Then he drops the gun, writes something down, and looks back at you.] Wonderful! This piece of plasma is exactly like I thought it would be. Hahahaaa! Now, take it, take this keycard and go to floor 96! Shoot at the "Defender" armor, hahahaha!! KA-BOOM!! And report back to me. Oozy mess! Go! }
 {151}{999}{Right now? Let me catch a breath. Okay, I'm going.}
 
 
-{160}{}{[his hair is even more messy than usual. He repeatedly throws hands up, as if aiming, shouts "KA-BOOM!!", giggles and twitches with impatience. He notices you immediately.] Oozy mess! You kept me waiting. So? How was it? KA-BOOM? Tell me! Tell me everything!}
+{160}{}{[his hair is even more messy than usual. He repeatedly throws hands up, as if aiming, shouts "KA-BOOM!!", giggles, and twitches with impatience. He notices you immediately.] Oozy mess! You kept me waiting. So? How was it? KA-BOOM? Tell me! Tell me everything!}
 {161}{017}{What can I say... Everything was smooth as baby's bottom. A great penetrating effect. I'm gonna be sewing holes in my belly for a long time now.}
-{162}{999}{I still haven't tested it. Wait a little. Be back soon.}
+{162}{999}{I still haven't tested it. Wait for a little. Be back soon.}
 
-{170}{}{Well, that's not exactly the description I was hoping for. But! I liked it, piece of plasma! Did you? Hahaha! What were you saying? Smooth as baby's bottom? A "Defender" armor - like baby's bottom? Haha. Hahaha! HAHAHA!! KA-BOOM!! Exactly what I needed. My Billy will become much more effective. Thanks... And now get out!! I need to work. I'm surrounded by dumb cretins!}
+{170}{}{Well, that's not exactly the description I was hoping for. But! I liked it, a piece of plasma! Did you? Hahaha! What were you saying? Smooth as baby's bottom? A "Defender" armor... Like baby's bottom? Haha. Hahaha! HAHAHA!! KA-BOOM!! Exactly what I needed. My Billy will become much more effective. Thanks... And now get out!! I need to work. I'm surrounded by dumb cretins!}
 {171}{999}{[leave]}
 {172}{998}{[stop holding back and enjoy punching his jaw]}
 
@@ -128,7 +128,7 @@
 {192}{998}{[stop holding back and enjoy punching his jaw]}
 
 
-{200}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
+{200}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and the other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
 {201}{021}{Remind me, what do you want me to do?}
 {202}{022}{I brought him.}
 {203}{019}{Uh, Ludwig won't come to you... Anymore. Ever.}
@@ -142,7 +142,7 @@
 {221}{999}{[leave]}
 
 
-{230}{}{[you see a heated "conversation" of two brightest minds in Radius. Looks like Crank used everything he could - drugs, threats and hypnosis. Nothing has any effect on Ludwig. It looks as ridiculous as nasty and dehumanizing. Still, the scientist is so deep in the process that you won't be able to speak to him.]}
+{230}{}{[you see a heated "conversation" of two brightest minds in Radius. Looks like Crank used everything he could - drugs, threats, and hypnosis. Nothing has any effect on Ludwig. It looks as ridiculous as nasty and dehumanizing. Still, the scientist is so deep in the process that you won't be able to speak to him.]}
 {231}{999}{[leave]}
 {232}{998}{[interrupt the interrogation]}
 
@@ -151,7 +151,7 @@
 {241}{999}{As usual... Okay, but this is the last time.}
 {242}{999}{No. Find someone else.}
 
-{250}{}{[A usual picture - Crank is fully catatonic and detached from an outside world. Surely, his head must be bubbling with graphics, matrices and numbers right now.]}
+{250}{}{[A usual picture - Crank is fully catatonic and detached from an outside world. Surely, his head must be bubbling with graphics, matrices, and numbers right now.]}
 {251}{026}{Hey, we need to talk! A couple of minutes! Indulge me!}
 {252}{026}{[pulll his shoulder] Heyo! Do you hear me! Get back to reality!}
 {253}{027}{[wait patiently]}
@@ -172,7 +172,7 @@
 
 
 {290}{}{[Crank is still busy with himself. You keep waiting. Suddenly, you become interested in his quiet ramblings.]}
-{291}{030}{[his whisper becomes more loud. More loud. And more loud. It fills everything around. Looks like this voice pushes every thought out of your head. You don't see anything, don't feel anything. You only hear whisper: formulas, calculations, graphs decriptions... Suddenly, something clicks in your head, and you clearly say "1 874 449 234 744 934, 375 88".] }
+{291}{030}{[his whisper becomes louder. Louder. And louder. It fills everything around. Looks like this voice pushes every thought out of your head. You don't see anything, don't feel anything. You only hear a whisper: formulas, calculations, graphs descriptions... Suddenly, something clicks in your head, and you clearly say "1 874 449 234 744 934, 375 88".] }
 
 
 {300}{}{What?! Goddamit, piece of plasma! What did you just say?}

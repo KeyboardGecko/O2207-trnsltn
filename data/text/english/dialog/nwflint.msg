@@ -19,14 +19,14 @@
 {4}{}{He sips from his flask, as usual.}
 #
 {5}{}{Your skill of survival is increased by 10!}
-{6}{}{The location "Sunset Jackals" is added to you map.}
-{7}{}{The location "Livos" is added to you map.}
-{8}{}{The location "Rainbow Raiders" is added to you map.}
+{6}{}{The location "Sunset Jackals" is added to your map.}
+{7}{}{The location "Livos" is added to your map.}
+{8}{}{The location "Rainbow Raiders" is added to your map.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[The man before you sips from his flask, gargles and gulps. For a moment, his eyes became more kind. Although, maybe you are imagining things] A new face around here. Where are you from?}
+{10}{}{[The man before you sips from his flask, gargles, and gulps. For a moment, his eyes became kinder. Although, maybe you are imagining things] A new face around here. Where are you from?}
 {11}{002}{From afar.}
 {12}{002}{[cross arms over the chest] None of your business.}
 {13}{003}{From Olympus.}
@@ -35,7 +35,7 @@
 {16}{}{I keep hearing about Reinassance. Do you know where is it?}
 
 #Node002
-{2001}{}{Don't want to tell me? Suit yourself. I'd lear nothing new anyway. [he spits] I'm Flint, caravan master, the god of drinking.}
+{2001}{}{Don't want to tell me? Suit yourself. I'd learn nothing new anyway. [he spits] I'm Flint, caravan master, the god of drinking.}
 {2002}{}{Flint. The man in charge for caravans around here... [he nips from his flask] Pheeew...}
 {21}{010}{My name is }
 {22}{010}{. I'm the god of drunks and such kind.}
@@ -47,7 +47,7 @@
 {31}{002}{Curious? What's your name, smart guy?}
 
 #Node004
-{40}{}{[He carefully studies you] You are lying. I notice this silver-spoon pricks from a mile away. You don't look like them. [he sips from his flask] And I don't see a glamorous hairstyle on you and glass of fucking wine in your hand. }
+{40}{}{[He carefully studies you] You are lying. I notice this silver-spoon pricks from a mile away. You don't look like them. [he sips from his flask] And I don't see a glamorous hairstyle on you and a glass of fucking wine in your hand. }
 {41}{002}{[continue]}
 
 #Node005
@@ -55,7 +55,7 @@
 {51}{002}{[continue]}
 
 #Node010
-{1000}{}{[He either didn't hear you, or tries to make it look like it. Now he just stares.]}
+{1000}{}{[He either didn't hear or tries to make it look like it. Now he just stares at you.]}
 {1001}{}{You again? What do you want?}
 {1002}{}{Commander?}
 {101}{011}{I have some questions.}
@@ -65,14 +65,14 @@
 {105}{034}{Do you need guards for the caravan?}
 {106}{029}{You must have often been to Livos?}
 {107}{023}{Look, I wanted to ask about the situation with Mark and his successor...}
-{108}{033}{Did you find out what's wrong with water in Livos?}
+{108}{033}{Did you find out what's wrong with the water in Livos?}
 {109}{999}{Although, we'd better talk later. Bye.}
 
 #Node011
-{110}{}{A million batteries each? [he chuckles and immediately burps] Come on, spill it out [he takes upon his flask again, putting head back and drinking it to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocker, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] So? }
+{110}{}{A million batteries each? [he chuckles and immediately burps] Come on, spill it out [he takes upon his flask again, putting the head back and drinking it to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocket, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] So? }
 {111}{012}{You are traveling around a lot, right? You probably have many interesting things I could use. For a price, of course. }
 {112}{024}{Can you tell me about what's where in Radius? I wouldn't want to wander around, picking wrong directions...}
-{113}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of partially decomposed corpse.}
+{113}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of a partially decomposed corpse.}
 {114}{010}{You know, no, no questions...}
 
 #Node012
@@ -98,20 +98,20 @@
 {151}{010}{Come on, don't be a cheapskate. Tell me at least something.}
 
 #Node016
-{160}{}{So... In short, when... [Flint tells you about many different cases from his vast experience of driving the caravans, not forgetting to take gulps from his flask in between the stories, and commenting about application of that experience in everyday life. Some thoughts seem really interesting to you] Okay, that's mostly it. You are still far below my level, but at least you should be fine when walking around the Radius.}
+{160}{}{So... In short, when... [Flint tells you about many different cases from his vast experience of driving the caravans, not forgetting to take gulps from his flask in between the stories, and commenting about the application of that experience in everyday life. Some thoughts seem really interesting to you] Okay, that's mostly it. You are still far below my level, but at least you should be fine when walking around the Radius.}
 {161}{017}{Man, thanks.}
 {162}{013}{It had a couple of interesting moments, but mostly - trivial stuff. }
-{163}{013}{So pretentious... As for me it was a waste of time and batteries.}
+{163}{013}{So pretentious... As for me, it was a waste of time and batteries.}
 
 #Node017
 {170}{}{You're welcome. }
-{171}{010}{I hope next lesson will be free?}
+{171}{010}{I hope the next lesson will be free?}
 
 #Node018
 {180}{}{Oh yeah? Let's see how you sing when some raiders, ambushing you, will shove a rusty pipe into your ass so far it reaches your throat. I think the price of 300 batteries is quite small for saving you from a rusty pipe in your ass.}
 {181}{020}{Flint, you had a pipe shoved into your ass?!}
 {182}{019}{Hard to argue with that...}
-{183}{010}{They won't shove nothing to me.}
+{183}{010}{They won't shove anything at mine.}
 
 #Node019
 {190}{}{Stop fucking showing off then.}
@@ -150,7 +150,7 @@
 {250}{}{I can show you something. It will cost you... A hundred batteries.}
 {251}{028}{Okay, deal.}
 {252}{027}{No, I'll manage myself.}
-{253}{026}{Oh, come on! If you hire me into your caravan then you'll pay me AND show me where these locations are, no charge. So, maybe you could show them for free?}
+{253}{026}{Oh, come on! If I'm gonna be hired into your caravan, then you'll pay me AND show me where these locations are, free of charge. So, maybe you could just show them now?}
 
 #Node026
 {260}{}{[Flint stops in a middle of a gulp] You know, there's some good logic right here. Okay, let me show you... [he makes some marks on a map] Here you go.}
@@ -171,7 +171,7 @@
 #Node030
 {300}{}{What's in it for me?}
 {301}{032}{I'll pay. Fifty batteries for a simple casual question.}
-{302}{031}{Take notice that your booze is made of that water. So, taste and quality of your beverage is dropping.}
+{302}{031}{Take notice that your booze is made of that water. That means the taste and quality of your beverage will get worse.}
 {303}{010}{You know... It's easier to walk and do it myself than ask you...}
 
 #Node031
@@ -183,16 +183,16 @@
 {321}{010}{Okay.}
 
 #Node033
-{330}{}{Yeah. They had an increase in their level of supply. So... There's something happened with their filter. Now they use carbon canisters for cleaning water. It's drinkable, you won't die. The taste is shitty though... But maybe you can get used to it.}
+{330}{}{Yeah. They had an increase in the amount of water they have to process. And there's something with their filter. Now they use carbon canisters for cleaning the water, to maintain the level of supply. It's drinkable, you won't die. The taste is shitty though... But maybe you can get used to it.}
 {331}{010}{Thanks, Flint.}
 
 #Node034
-{340}{}{Hmm... Basically, a line of people for this job is as big as the amount of pubic lice on a Rainbow slut. But if you can handle the weapon, and I can replace three guards with you reducing my costs - we can try. }
+{340}{}{Hmm... Basically, a line of people for this job is as big as the number of pubic lice on a Rainbow slut. But if you can handle the weapon, and I can replace three guards with you reducing my costs - we can try. }
 {341}{036}{[tell him about all creatures and people you've killed, also elaborate on details and tricks of using your current weapon]}
 {342}{035}{I've killed before. I'm pretty good at it...}
 
 #Node035
-{350}{}{Unconvincing. I can fucking tell that I'm prety good at dancing while wearing white dress. It's all about savings and profits, but only if it doesn't hurt the safety of my caravan. Return when you have something to show - or tell.}
+{350}{}{Unconvincing. I can fucking tell that I'm pretty good at dancing while wearing a white dress. It's all about savings and profits, but only if it doesn't hurt the safety of my caravan. Return when you have something to show - or tell.}
 {351}{010}{The hell with it then.}
 
 #Node036
@@ -206,12 +206,12 @@
 {372}{010}{I'll think about your proposition.}
 
 #Node038
-{380}{}{I pay at the destination point. You can accompany the caravan on the road back too, same pay. Three directions total - Livos, Rainbow and Jackals. Caravans are moving out on all three routes in 1, 7, 14, 21 and 28 day of each month. Just come to me in that date, choose the destination, that's it. Understood? }
+{380}{}{I pay at the destination point. You can accompany the caravan on the road back too, same pay. Three directions total - Livos, Rainbow, and Jackals. Caravans are moving out on all three routes in 1, 7, 14, 21, and 28 days of each month. Just come to me on that date, choose the destination, that's it. Understood? }
 {381}{039}{Yes.}
 {382}{041}{Yes.}
 
 #Node039
-{390}{}{By the way, we are heading out today. I can put you in the list.}
+{390}{}{By the way, we are heading out today. I can put you on the list.}
 {391}{040}{Why not? Let's do it.}
 {392}{999}{I should get some supplies, I'll be right back!}
 {393}{010}{Maybe. I have a couple of questions.}
@@ -230,7 +230,7 @@
 {420}{}{So, we made it. Here's your cut. We are going back soon, so if you want to join - you have two hours.}
 {421}{999}{Yes, I'm with you.}
 {422}{999}{Yes, I'm with you. But I should get some supplies. I'll be right back.}
-{423}{999}{No, thanks. I have a things to do around here. Good luck on the road.}
+{423}{999}{No, thanks. I have things to do around here. Good luck on the road.}
 
 #Node043
 {430}{}{You? Are you ready for a return trip?}
@@ -252,15 +252,15 @@
 
 
 
-{500}{}{If the rumors don't lie, you are our new leader, right? How can NWO caravan service be of, hah, service? [he takes a couple of huge gulps from his flask, pinches his nose and rolls his eyes] Maaan... Good one this time. I'm Flint, by the way.}
+{500}{}{If the rumors don't lie, you are our new leader, right? How can NWO caravan service be of, hah, service? [he takes a couple of huge gulps from his flask, pinches his nose, and rolls his eyes] Maaan... Good one this time. I'm Flint, by the way.}
 {501}{010}{I'm }
 {502}{010}{, And - yeah, I'm the new leader, you got that right.}
 
 
-{510}{}{[Flint puts his head back and takes upon his flask again, drinking its content to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocker, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] I doudt that I can tell something of interest to you. I'm a caravan master, not Sam. }
+{510}{}{[Flint puts his head back and takes upon his flask again, drinking its content to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocket, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] I doubt that I can tell something of interest to you. I'm a caravan master, not Sam. }
 {511}{055}{You are traveling around a lot, right? You probably have many interesting things I could use. For a price, of course. }
 {512}{052}{Look at my map. If you know some places that are not in it, mark them for me please.}
-{513}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of partially decomposed corpse.}
+{513}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of a partially decomposed corpse.}
 {514}{010}{You know, no, no questions.}
 
 
@@ -270,15 +270,15 @@
 
 
 
-{530}{}{Well, I can mark something. To you it's free, heh-heh. }
+{530}{}{Well, I can mark something. To you, it's free, heh-heh. }
 {531}{010}{An act of outstanding generosity.}
 
 
-{540}{}{I'm afraid I won't say nothing new. }
+{540}{}{I'm afraid I won't say anything new. }
 {541}{010}{Okay then.}
 
 
-{550}{}{[Flint squints his left eye and rubs his palms] You know, usually I don't sell my toys. But for you I can make an exception. My caravans could use some additional finances for modernization.}
+{550}{}{[Flint squints his left eye and rubs his palms] You know, usually I don't sell my toys. But for you, I can make an exception. My caravans could use some additional finances for modernization.}
 {551}{010}{Hell no, smart guy. Not today.}
 
 #–‡Ì‰ÓÏÌ˚Â ÒÓÓ·˘ÂÌËˇ ÔË ÒÚ˚˜Í‡ı Ò ·‡Ì‰ËÚ‡ÏË

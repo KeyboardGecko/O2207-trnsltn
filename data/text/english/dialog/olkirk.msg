@@ -66,7 +66,7 @@
 {202}{}{I did everything I could! EVERYTHING!}
 {203}{}{This is not my fault! It is not me who took his life, but Gods! Gods, living atop of the Olympus!}
 {210}{}{What do we do, }
-{211}{}{? Who can guarantee that I won't end up dead the same way as dad in a month? Just lay down and become dead... What would I think in the moment of death, what would I remember? That I lived, but for what? Seems like the Gods don't care about us...}
+{211}{}{? Who can guarantee that I won't end up like dad in a month? Just lay down and become dead... What would I think in the moment of death, what would I remember? That I lived, but for what? Seems like the Gods don't care about us...}
 {212}{}{We could look for the truth. Together. We could... Go there. Up. On top.}
 {213}{}{I'm haunted by the same thoughts, brother... Thousands of questions are running through my head, and I'm not going to die until I get answers.}
 {214}{}{I don't know... I'm sorry. I can't stay here. So long.}
@@ -74,11 +74,11 @@
 {221}{}{Let's not waste any more time then. Let's go.}
 {222}{}{You know, I think you shouldn't get involved in this. At least for now.}
 {223}{}{Take me with you! Let's find the Olympus Gods and make them answer to us!}
-{230}{}{NOT EVERYTHING! I'm sorry... I shouldn't have snapped at you. Last days were tense, I need to rest a little. Pull myself together.}
+{230}{}{NOT EVERYTHING! I'm sorry... I shouldn't have snapped at you. The last days were tense, I need to rest a little. Pull myself together.}
 {231}{}{You know, we could look for the truth. You and me.}
 {232}{}{You're right, you really need to rest. And I will look for the Gods. They owe me answers.}
-{233}{}{You're right brother. Now is not the time to make an important decisions. And I need to be alone for some time.}
-{234}{Кирк}{Sorry... I... I don't know what to think. Last days were too tense... I need to rest a little. Pull myself together.}
+{233}{}{You're right brother. Now is not the time to make important decisions. And I need to be alone for some time.}
+{234}{Кирк}{Sorry... I... I don't know what to think. The last days were too tense... I need to rest a little. Pull myself together.}
 {240}{}{[Kirk looks at you with hope] You're back! Finally! Did you bring the medicine? Look at dad, he is barely hanging! I beg you, tell me you have the medicine...}
 {241}{}{No, I couldn't find it... The outside world is too difficult for me!}
 {242}{}{It's okay, Kirk, here it is! I'm already going to Pat, he will put dad back on his feet!}
@@ -145,17 +145,17 @@
 {953}{}{Put on something nicer, in case there are beautiful girls here.}
 {954}{}{Put on something more reliable - don't want you to catch a cold... Hahaha!}
 {955}{}{Put on something cool, so even raiders would be afraid of us!}
-{956}{}{You are going to be killed wearing it. It wouldn't protect even from fangs of a dead jackal.}
+{956}{}{You are going to be killed while wearing it. It won't protect you even from the fangs of a dead jackal.}
 {957}{}{You're such an idiot. Okay, I have to protect you better then.}
-{958}{}{I've always wanted one like this, since I was a kid. So no, I'm not taking it off!}
+{958}{}{I've always wanted one like this since I was a kid. So no, I'm not taking it off!}
 {959}{}{Uhh... Okay, I'll take it off... Don't sell it please.}
 {960}{}{What's about my weapon?}
 {961}{}{What? What's wrong with my weapon?}
-{962}{}{Keep it hidden. We could have troubles here because of it.}
+{962}{}{Keep it hidden. We could get in trouble here because of it.}
 {963}{}{Equip something for close combat.}
 {964}{}{Equip something throwable, we need to conserve ammo.}
 {965}{}{Take something shooty! Time to waste some bullets!}
-{966}{}{It's BABOOM time! Equip a grenade launcher, or just some grenades.}
+{966}{}{It's BABOOM time! Equip a grenade launcher or just some grenades.}
 {967}{}{Just equip the deadliest weapon you have!}
 {968}{}{Okay, I think I'll go with }
 {969}{}{!}
@@ -163,7 +163,7 @@
 {971}{}{Yes, I think I might be better a little away from you, right?}
 {972}{}{Keep closer to me, it's not safe here.}
 {973}{}{Keep a medium distance, let's not get in each other's way.}
-{974}{}{Be somewhere around, just enough for me to see you. Let other think that we are not together.}
+{974}{}{Be somewhere around, just enough for me to see you. Let others think that we are not together.}
 {975}{}{}
 {976}{}{}
 {977}{}{}

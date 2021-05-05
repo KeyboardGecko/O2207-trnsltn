@@ -25,12 +25,12 @@
 # äî çíàêîìñòâà
 #
 {1}{}{You see your little brother.}
-{2}{}{Kirk, your obnoxious brother.}
+{2}{}{Kirk, your naughty brother.}
 #
 # ïîñëå çíàêîìñòâà
 #
-{1}{}{You see Kirk.}
-{2}{}{Kirk, your obnoxious brother.}
+{3}{}{You see your brother.}
+{4}{}{Kirk, your naughty brother.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÄÎ ÇÍÀÊÎÌÑÒÂÀ
 #
@@ -47,47 +47,47 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÏÎÑËÅ ÇÍÀÊÎÌÑÒÂÀ
 #
-{100}{}{Hi! What do you want?}
-{101}{}{What do I want? Well, I'm out!}
-{102}{}{Hi! I don't know what to do.}
+{100}{}{Hello! What do you want?}
+{101}{}{Why do you care? Nothing!}
+{102}{}{Hello! Just looking for something to do.}
 {103}{}{Why are you so nervous?}
-{104}{}{Hey, have you seen Dad's Wrench?}
-{105}{}{I know you got in trouble with that big moron, that Bully!}
-{1101}{}{Dunno either. Wanna kick some rocks around?}
-{1102}{}{Wee-ell, I don't mean to pry or give a damn, but I saw your icky-sweety girlfriend Katie bawling around here the other day. Guess something really upset her.}
-{111}{}{Oh, come on, that's not fun.}
-{112}{}{I'm not her boyfriend! But you're right, I'll go look for her.}
-{120}{}{Dunno what to do. Remember the big hunky moron Bully? You know, the one in the leather jacket that's hanging around the southeast room? So, I accidentally hit him with a rock, and he promised to beat me. Geez... I don't care!}
-{121}{}{Yeah, you're in trouble. You can tell me later how it went!}
-{122}{}{That son of a bitch! I'll knock out that big lump for you!}
-{123}{}{Don't fuss, I'll deal with him!}
-{124}{}{So what's the problem? Let's give him a hard time together! There are two of us, and he is alone! Let's go!}
-{130}{}{Keep me posted, OK? And... ehm... thanks.}
-{131}{}{[wave and leave]}
-{132}{}{Well, you are my brother!It happens!}
-{140}{}{So you know. And? What are you going to do about it?}
-{141}{}{Well, I'm still thinking about it.}
-{142}{}{Problem solved! You don't have to worry about it anymore!}
-{143}{}{Here's what I've come up with: Let's give him a hard time together! There are two of us, and he is alone! Let's go!}
-{150}{}{You're a life saver! I ower you one!}
-{151}{}{Sure! And I'll remind you of it one day!}
-{152}{}{Ah come on, forget about it.}
-{1601}{}{Huh? No? What effing wrench? I didn't see anything, so better ask your girlfriend Katie and stop bothering me.}
-{1602}{}{A wrench? About this size with a wooden grip? Of course I did! Two weeks ago in Dad's hand [laughs] I don't know where he put it, why don't you ask your sweetie Katie?}
-{161}{}{Come on! Why are you getting so worked up? Where is Katie now?}
-{162}{}{You're a fucking smartass... Where is Katie now?}
-{170}{}{Probably at home in the northeastern quarter. Don't you know?}
-{171}{}{Okay, I'll go see her.}
-{172}{}{Okay, I'll ask her. What's wrong with you?}
-{1801}{}{Uhh... no, I won't fight him! Don't think you should, either!}
-{181}{}{What a scared little chicken!}
-{182}{}{Well, maybe you're right.}
-{1802}{}{Uhh... Okay, let's try it. But... you go ahead!}
-{183}{}{Know what? I'll be back. But don't you change your mind!}
+{104}{}{Did you see dad's wrench?}
+{105}{}{You had problems with that stupid one. With Bully. Remember?}
+{1101}{}{I don't know what to do either. Wanna kick the stones together?}
+{1102}{}{Uh-huh. I don't really care, but I've seen Catty recently. She was... Crying! You're, like, her boyfriend. Maybe you could ask her what's wrong.}
+{111}{}{Man, screw you. You're boring.}
+{112}{}{I'm not her boyfriend! But you're right, I'll go find her.}
+{120}{}{I don't know what to do. Remember that stupid thug Bully? Who is usually hanging out in the southeast room? I accidentally hit him with a stone, and now he wants to beat me up. Man, I'm so screwed!}
+{121}{}{Yes, brother, you are. Tell me later how it went.}
+{122}{}{He is a menace, alright... I'll go think what to do with him.}
+{123}{}{Don't sweat it, I'll handle him!}
+{124}{}{What's the problem then? There are two of us, let's whoop his ass together! Come on, let's go!}
+{130}{}{Keep me posted, okay? And... Uh... Thanks.}
+{131}{}{[wave hand and leave]}
+{132}{}{Of course, you are my brother! Later!}
+{140}{}{Do you really need to ask? Of course I remember. And? What are you going to do?}
+{141}{}{I don't know. I'm still thinking.}
+{142}{}{The problem is solved, so stop worrying about it!}
+{143}{}{I have an idea - there are two of us, let's whoop his ass together! Come on, let's go!}
+{150}{}{Oh wow, thanks! I owe you, big time!}
+{151}{}{You sure do! One day I'll remember this!}
+{152}{}{No sweat, forget it.}
+{1601}{}{Huh? What? Man, what wrench!? I didn't see nothing! Ask your girlfriend Catty, don't bug me.}
+{1602}{}{A wrench? You mean, a small one? With a wooden handle? Of course I did! Two weeks ago. Dad had it. [he laughs] I don't know where he could put it. Maybe you'd better ask your girlfriend Catty.}
+{161}{}{Oh, come on! Why are you so tense? Better tell me, where can I find Catty?}
+{162}{}{Aren't you a funny one... Where's Catty now?}
+{170}{}{In her room, maybe. To the northwest. You know it, don't you?}
+{171}{}{Okay, I'll go visit her.}
+{172}{}{I'll ask her. But what's up with you?}
+{1801}{}{Uhh... No! I won't fight him! And I advise you not to either!}
+{181}{}{Oh, aren't you a cowardly one!}
+{182}{}{Maybe you're right...}
+{1802}{}{Uhh... Okay, let's try. But you first!}
+{183}{}{You know, let's do it later! Don't change your mind!}
 {184}{}{Let's go!}
-{190}{}{Well, let's go and get him then. The longer we wait the more scared you become.}
-{191}{}{Okay, come on, relax.}
-{192}{}{You're a girl! I don't feel comfortable myself, though. Let's go!}
+{190}{}{Come on, let's beat him up! I get more scared with every minute!}
+{191}{}{Relax, we're going.}
+{192}{}{You're like a girl! Although, I'm nervous too. Let's go!}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß (Ïîëîæèòåëüíàÿ ğåàêöèÿ)
 #
@@ -130,7 +130,7 @@
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß (Äîïîëíèòåëüíî)
 #
-{1030}{}{Niiiice! We got him!}
+{1030}{}{Cool! We beat him up!}
 {1031}{}{}
 {1032}{}{}
 {1033}{}{}

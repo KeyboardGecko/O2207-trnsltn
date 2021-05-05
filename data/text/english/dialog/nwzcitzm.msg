@@ -50,7 +50,7 @@
 {1001}{}{Howdy! How are you doing?}
 {1002}{}{Hey there! Want some fresh meat?}
 {1003}{}{Oh, hey! Wanna try some fresh meat?}
-{1004}{}{I would glagly stop and chat, but... Let's do it another time.}
+{1004}{}{I would gladly stop and chat, but... Let's do it another time.}
 {1005}{}{So glad to see you!}
 {1006}{}{Nice to see you! Just let me finish here...}
 {1007}{}{Of course, I'll help with what I can!}
@@ -93,9 +93,9 @@
 #ГГ стал Руководителем НМП
 {1040}{}{God dammit, It's such a big honor to me!}
 {1041}{}{I have a request. Several, actually. Do you have a minute?}
-{1042}{}{I know for sure how this town should be run! Want some advices?}
+{1042}{}{I know for sure how this town should be run! Want some advice?}
 {1043}{}{People know best, be sure about that!}
-{1044}{}{I remember how I used to give advices to Mark... What he would have done without me?}
+{1044}{}{I remember how I used to give advice to Mark... What he would have done without me?}
 #Мертвяк Сэм стал Руководителем
 {1045}{}{What the hell is THIS thing doing in a Mayor's chair?}
 {1046}{}{Yes, he's wise. But he is a filthy corpse.}

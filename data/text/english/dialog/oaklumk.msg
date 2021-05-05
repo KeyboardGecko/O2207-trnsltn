@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Battered leather armor, definitely smaller in size than it should be, barely covers his wide chest. On top of it there's a wide spiked collar, decorated with crooked letters, spelling out "Klumk". The armor itself is covered with all kinds of badges, bottlecaps and shells of different caliber. The gem of collection is definitely that "DO NOT ENTER" road sign on his back, covered in bullet holes] What outsider want from Klumk? Klumk make no trade now!}
+{10}{}{[Battered leather armor, definitely smaller in size than it should be, barely covers his wide chest. On top of it, there's a wide spiked collar, decorated with crooked letters, spelling out "Klumk". The armor itself is covered with all kinds of badges, bottlecaps, and shells of a different caliber. The gem of the collection is definitely that "DO NOT ENTER" road sign on his back, covered in bullet holes] What outsider want from Klumk? Klumk make no trade now!}
 {11}{011}{Hey, Klumk. So, you are not interested in fire water and beads?}
 {12}{012}{I just want to ask some questions about your tribe. }
 {13}{999}{Talk later then.}
@@ -55,20 +55,20 @@
 {133}{999}{Me go... I mean, I need to go.}
 
 
-{140}{}{[He straightens his shouders with a quiet howling. His muscles pop out so hard that it looks like the armor whould tear it any minute. Klumk looks like rabid Lavash, ring in his nose only emphasizes the similarity.] You threaten me, outsider? I kill you, in front of all tribe! I ask Elder to let me duel and eat your kindney after! No weapon, only fists and teeth!}
-{141}{999}{No problem! I'm always ready for a good warm up! Gather them!}
-{142}{999}{I'll break your spine and leave you die in the pool of your own blood, you mutt! Let everyone see this!}
+{140}{}{[He straightens his shoulders with a quiet howling. His muscles pop out so hard that it looks like the armor would tear it any minute. Klumk looks like rabid Lavash, ring in his nose only emphasizes the similarity.] You threaten me, outsider? I kill you, in front of all tribe! I ask Elder to let me duel and eat your kidney after! No weapon, only fists and teeth!}
+{141}{999}{No problem! I'm always ready for a good warm-up! Gather them!}
+{142}{999}{I'll break your spine and leave you to die in the pool of your own blood, mutt! Let everyone see this!}
 {143}{998}{I don't like being public... I'm going to dismember you right now!}
 
 
-{150}{}{[Klumk sheds his armor, grabbing some dirt from the ground and making straight line from shoulder to hip. He starts to slowly approach you, crouching, but still, his face looms over you] Outsider ready to die? Klumk hungry already!}
+{150}{}{[Klumk sheds his armor, grabbing some dirt from the ground and making a straight line from shoulder to hip. He starts to slowly approach you, crouching, but still, his face looms over you] Outsider ready to die? Klumk hungry already!}
 {151}{016}{[rip out the ring from his nose]}
 {152}{017}{[remember your martial arts training and punch him with "tiger claw"]}
 {153}{998}{You are going to swallow your teeth, savage! Pray to your spirits! }
 {154}{998}{Enough talk. Let's go!}
 
 
-{160}{}{[A strong and sudden pull - and you have the ring. Klumk, furiously roaring, takes a step back, holding on his teared nostrils and shaking his head]}
+{160}{}{[A strong and sudden pull - and you have the ring. Klumk, furiously roaring, takes a step back, holding on his torn nostrils and shaking his head]}
 {161}{998}{Look what I found! Catch! [throw him the ring and prepare to fight]}
 
 

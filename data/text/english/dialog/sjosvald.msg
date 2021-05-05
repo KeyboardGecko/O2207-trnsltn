@@ -19,20 +19,20 @@
 {4}{}{He looks for someone to eat their brains out.}
 #
 {5}{}{Your attack dazed Oswald. He reaches for a weapon.}
-{6}{}{You jaw makes clicking sound, feels like it's displaced. You clothes is soaked with piss. You feel awful.}
+{6}{}{Your jaw makes a clicking sound, you feel like it's displaced. Your clothes are soaked with piss. You feel awful.}
 {7}{}{You were ordered to guard the gate! I'll show you...}
 {8}{}{Cleaning the toilets! GO, NOW!!}
 {9}{}{Oswald was rotten and cocky even for a raider. Many here wanted him dead - but some respected. You should look out for your life.}
 {14}{}{Here goes our schmuck. Stay away from me.}
 {15}{}{Get off, wimp!}
-{16}{}{Schmuck, why I see you away from toilet?}
+{16}{}{Schmuck, why I see you away from the toilet?}
 {17}{}{Fuck you!}
 {18}{}{You should be cleaning toilets by now!}
 {19}{}{Get out of me, dirty schmuck!}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[suddenly, you hear that someone's calling you] Hey, you! Come here! [You look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a cristmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
+{10}{}{[suddenly, you hear that someone's calling you] Hey, you! Come here! [You look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a Christmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
 {11}{002}{What?}
 {12}{003}{Ask nicely.}
 {13}{999}{[Give him a middle finger and walk away]}
@@ -61,7 +61,7 @@
 
 
 {60}{}{Are you fucking lost it? You are way too far up your ass, faggot!}
-{61}{014}{Maybe it's YOU who lost it? Huh? Screaming aroung that you are Oswald Brown? Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave with your head in a bag as a souvenir.}
+{61}{014}{Maybe it's YOU who lost it? Huh? Screaming around that you are Oswald Brown? Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave this place with your head in a bag as a souvenir.}
 {62}{007}{And?}
 
 
@@ -78,7 +78,7 @@
 
 
 {90}{}{[Oswald grins] That's better, sucker. Now - lick my boots and beg for mercy. The discipline is born through punishment, heh-heh...}
-{91}{013}{[take out the knife from your boot and stab Oswald into the groin. Turn the knife around, pull off, stab twice in the belly. Stand up and cut his throad. Finish by sticking the blade into his shoulder.]}
+{91}{013}{[take out the knife from your boot and stab Oswald into the groin. Turn the knife around, pull off, stab twice in the belly. Stand up and cut his throat. Finish by sticking the blade into his shoulder.]}
 {92}{011}{[kiss Oswald's boots]}
 
 
@@ -94,7 +94,7 @@
 
 
 
-{110}{}{[Oswald laughs, then kicks you in the face. The boot goes right into your jaw, making loud cracking sound. You fall on your back. Oswald unzips his pants and starts pissing on you.]}
+{110}{}{[Oswald laughs, then kicks you in the face. The boot goes right into your jaw, making a loud cracking sound. You fall on your back. Oswald unzips his pants and starts pissing on you.]}
 {111}{012}{[lay obediently]}
 {112}{998}{[throw yourself at Oswald]}
 
@@ -126,14 +126,14 @@
 {171}{999}{[You die in an instant]}
 
 
-{180}{}{That's for you to shut up and walked by me on your toes! To remember that you are piece of shit and I'm your master!}
+{180}{}{That's for you to shut up and walked by me on your toes! To remember that you are a piece of shit and I'm your master!}
 {181}{019}{Wow.}
 {182}{016}{Why don't you go fuck yourself?}
 {183}{010}{Impressive. I mean, it would have been, if I had no brain. Let's stop this dick-measuring competition and talk business.}
 
 
 {190}{}{What?}
-{191}{010}{I said "Wow". Let's talk business already. I'm tired of bullshit.}
+{191}{010}{I said "Wow". Let's talk business already. I'm tired of this bullshit.}
 
 
 {200}{}{You have your chance to make things right. Let's see how obedient you are. Give me your weapon.}
@@ -144,7 +144,7 @@
 
 
 {210}{}{[Oswald grins] A staring contest? Cute. Go play it with your mom, cocksucker.}
-{211}{010}{I'm tired of bullshit. Let's talk business already.}
+{211}{010}{I'm tired of this bullshit. Let's talk business already.}
 
 
 {220}{}{Your weapon. Give it to me.}
@@ -192,8 +192,8 @@
 {292}{999}{Oh my god, I'm so tired of your bullshit... [leave]}
 
 
-{300}{}{[He smiles and you have sudden urge to punch him in the face] Toilets, trash, gate... Everything for you, buddy!}
-{301}{031}{So funny. I meant real job, with real pay.}
+{300}{}{[He smiles and you have a sudden urge to punch him in the face] Toilets, trash, gate... Everything for you, buddy!}
+{301}{031}{So funny. I meant a real job, with real pay.}
 
 
 {310}{}{Okay, butternut, there is actually something. I like good pistols. And I'm looking for one for my collection. Called Slugger. If you'll find one, let me know.}
@@ -201,7 +201,7 @@
 {312}{036}{I have something better. Take a look. [show Jackal's revolver]}
 {313}{999}{Okay. If I see one, I'll come by.}
 {314}{043}{The price?}
-{315}{010}{I will think about it. For now I still have some questions.}
+{315}{010}{I will think about it. For now, I still have some questions.}
 {316}{999}{I will think about it. }
 
 
@@ -242,7 +242,7 @@
 
 
 {390}{}{No. }
-{391}{040}{Why the hell no? Not only the gun is the rarest - it's big, powerful, and reliable. It costs more. I sell to you because you are authority. The others are less worthy.}
+{391}{040}{Why the hell no? Not only the gun is the rarest - it's big, powerful, and reliable. It costs more. I sell to you because you are the authority. The others are less worthy.}
 {392}{041}{One and a half thousand.}
 
 
@@ -265,7 +265,7 @@
 {430}{032}{One like this?}
 {431}{036}{I have something better. Take a look.}
 {432}{999}{Okay. If I see one, I'll come by.}
-{433}{010}{I will think about it. For now I still have some questions.}
+{433}{010}{I will think about it. For now, I still have some questions.}
 {434}{999}{I will think about it. }
 
 
@@ -291,7 +291,7 @@
 {472}{999}{Nevermind that. I'm going.}
 
 
-{480}{}{I look out for a greenhorn freaks like you and put some sense into them. No brains, no respect for authority. I'm not even talking about discipline.}
+{480}{}{I look out for greenhorn freaks like you and put some sense into them. No brains, no respect for authority. I'm not even talking about discipline.}
 {481}{050}{Who else is in charge here?}
 {482}{049}{You are pissing me off with your neglect attitude. I've seen much more of the world than you.}
 
@@ -307,11 +307,11 @@
 {503}{010}{Forget it. I still have some questions.}
 
 
-{510}{}{Billy fucking Stone. Asshole who's in charge for repairings. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
+{510}{}{Billy fucking Stone. An asshole who's in charge of repairings. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
 {511}{052}{Chris?}
 {512}{010}{Forget it. I still have some questions.}
 
 
-{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when its owner is not around.}
+{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. He has nerves worse than Loudmouth. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when its owner is not around.}
 {521}{051}{Billy?}
 {522}{010}{Forget it. I still have some questions.}

@@ -31,12 +31,12 @@
 #
 {1}{}{You see a local.}
 {2}{}{You see a man.}
-{3}{}{You see a labourer.}
+{3}{}{You see a laborer.}
 {4}{}{You see a bozo.}
 {5}{}{You see a worker.}
 {6}{}{Dirty clothes, muscular hands, eyes of an idiot.}
 {7}{}{He doesn't suspect that people can wash themselves.}
-{8}{}{He smells with feces, sweat and alcohol.}
+{8}{}{He smells of feces, sweat, and alcohol.}
 {9}{}{A walking cesspool.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ

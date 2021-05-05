@@ -110,7 +110,7 @@
 {1054}{}{What am I expecting now? A shitty future, I suppose...}
 #Марк умер, нового Руководителя нет
 {1055}{}{Do you know what'll happen to us now?}
-{1056}{}{All kinds of talks going on... One worse than other...}
+{1056}{}{All kinds of talks going on... One worse than the other...}
 {1057}{}{I think now we are doomed...}
 {1058}{}{Time to pack up my things.}
 {1059}{}{That's it, Mark's dead... Now we are... Done.}

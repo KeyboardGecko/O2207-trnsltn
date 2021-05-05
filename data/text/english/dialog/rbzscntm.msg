@@ -30,9 +30,9 @@
 #Œœ»—¿Õ»≈ œ≈–—ŒÕ¿∆¿
 #
 {1}{}{You see a slave, assisting Naomi.}
-{2}{}{You see a Naomi's ghoul.}
+{2}{}{You see Naomi's ghoul.}
 {3}{}{You see a ghoul-chemist.}
-{4}{}{You see a Naomi's worker.}
+{4}{}{You see Naomi's worker.}
 {5}{}{You see an old ghoul.}
 {6}{}{His appearance makes you feel nothing but pity.}
 {7}{}{He is wearing tattered clothes, covered in patches.}

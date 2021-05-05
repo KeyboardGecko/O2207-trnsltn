@@ -12,7 +12,7 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see a scout. He is wearing strange armor.}
-{2}{}{His armor is covered in patches, teared holes and metal plates. He holds his chin high.}
+{2}{}{His armor is covered in patches, holes, and metal plates. He holds his chin high.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Cyren.}
@@ -21,13 +21,13 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[You see a man in his thirties, wearing a smug smirk on his face. A couple of big scars on his cheeks and battered equipment identify him as someone who've been in trouble more than several times. He looks down upon you] Yes? Did you want something?}
+{10}{}{[You see a man in his thirties, wearing a smug smirk on his face. A couple of big scars on his cheeks and battered equipment identify him as someone who's been in trouble more than several times. He looks down upon you] Yes? Did you want something?}
 {11}{002}{Hello. I'm just looking around, making friends...}
-{12}{002}{Hey! I'm here recently. Looking for someone to chat.}
+{12}{002}{Hey! I'm here recently. Looking for someone to chat with.}
 {13}{002}{I'm walking here, back and forward. Want to talk.}
 
 #Node002
-{20}{}{Hah, let's get acquaintained then! I'm Cyren, the best scout in NWO! I rarely see new ones here.}
+{20}{}{Hah, let's get acquainted then! I'm Cyren, the best scout in NWO! I rarely see new ones here.}
 {21}{010}{A pleasure. Can you answer a few questions?}
 {22}{010}{Hey, can you answer some questions?}
 {23}{010}{I want to ask you a question.}
@@ -48,25 +48,25 @@
 {117}{011a}{You must have heard about the changes in leadership here. What do you think, could Sam handle it?}
 
 #Node011
-{113}{}{[Cyren gives you a conceited smile] I am scout. The best one around, mind you. Ask anyone, you'll see. I take the missions which couldn't be handled by others, the most dangerous and difficult ones.}
+{113}{}{[Cyren gives you a conceited smile] I am a scout. The best one around, mind you. Ask anyone, you'll see. I take the missions which couldn't be handled by others, the most dangerous and difficult ones.}
 {110}{012}{Sounds very impressive. You must be a real pro in your business.}
 {111}{012}{Cool. You must be good.}
 {112}{012}{Whoa!! So cool!!! You must be the best!!}
 
-{114}{}{Sam? Sam, the ghoul? I dunno [he takes a look of importance] On one hand, he is quite dead, isn't he? On the other, he is very experienced in leading people, and knows what's what here. Let's put it like this - I won't say "no" or "yes", but if everyone else supports Sam, I definitely won't be against it.}
+{114}{}{Sam? Sam, the ghoul? I dunno [he takes a look of importance] On one hand, he is quite dead, isn't he? On the other, he is very experienced in leading people and knows what's what here. Let's put it like this - I won't say "no" or "yes", but if everyone else supports Sam, I definitely won't be against it.}
 {115}{010}{What a firm and determined position! Okay, I want to ask something else.}
 {116}{999}{I'll write it down. Need to go, see you.}
 
 #Node012
-{120}{}{[Cyren's smile becomes wider] Of course. I am well-known in all of NWO! Ask my friend Blanca, for example. She loves to talk stories about me. And everything she says is true. [he makes a short pause, leans closer to you and whispers] I'm even not telling her everything, because she wouldn't let me go on missions - it's so dangerous. }
+{120}{}{[Cyren's smile becomes wider] Of course. I am well-known in all of NWO! Ask my friend, Blanca, for example. She loves to tell stories about me. And everything she says is true. [he makes a short pause, leans closer to you, and whispers] I'm even not telling her everything, because she wouldn't let me go on missions - it's so dangerous. }
 {121}{016}{I'd very much like to know how you deal with all your difficult situations. I could use this knowledge.}
 {122}{016}{Tell me, how you deal with problems? I'm curious.}
 {123}{015}{Blanca? Tell me more.}
-{124}{013}{I want the story aboyt myself too!}
+{124}{013}{I want the story about myself too!}
 {125}{014}{Blanca?}
 
 #Node013
-{130}{}{[Cyren gets to think] Hm... You could come in handy, actually. My partners are sometimes, uh... Disappear. Last one was bitten by a scorpion... The stuff happened. [mumbles] He won't be bugging me with his chit-chat... No one will be looking for him, if he gets lost... [He shows you a wide smile again] You know, let's do a run tomorrow, to the factory! We need some rolls of tin. A big, shiny things. For cans.}
+{130}{}{[Cyren gets to think] Hm... You could come in handy, actually. My partners are sometimes, uh... Disappear. The last one was bitten by a scorpion... The stuff happened. [mumbles] He won't be bugging me with his chit-chat... No one will be looking for him, if he gets lost... [He shows you a wide smile again] You know, let's do a run tomorrow, to the factory! We need some rolls of tin. Big, shiny things. For cans.}
 {131}{027}{Sure! Let's do it!}
 {132}{999}{Nah, I'll walk by for a while. See you.}
 
@@ -80,24 +80,24 @@
 {152}{999}{Okay, I'll go find her. See you later.}
 
 #Node016
-{160}{}{That's the thing! I usually go with a partner. You know, for little help, to carry things and such. But nowadays you can't find people experienced at least half as much as myself. They rarely handle the danger. I don't even know how many partners I've changed over time. The last one got bitten by a scorpion, poor guy. Died on the spot. And I had such high hopes for him...}
+{160}{}{That's the thing! I usually go with a partner. You know, for little help, to carry things and such. But nowadays you can't find people who are experienced at least half as much as I am. They are rarely capable of handling the danger. I don't even know how many partners I've changed over time. The last one got bitten by a scorpion, poor guy. Died on the spot. And I had such high hopes for him...}
 {161}{017}{Do you need a new partner? I'm really good at runs!}
 {162}{010}{Yeah, a pity. Can I ask another question?}
-{163}{999}{Partners die all the time, you say? I've just remember something, I need to run!}
+{163}{999}{Partners die all the time, you say? I've just remembered something, I need to run!}
 
 #Node017
-{170}{}{You? [Cyren glances over you] Nah, I think you won't even make it to the destination point! Although... Although, I can give you a chance. There is one simple job. We are almost out of tin for cans, so I need a partner to scout Tin Industries metalworks factory. We'll take some rolls of tin and return. }
+{170}{}{You? [Cyren glances over you] Nah, I think you won't even make it to the destination point! Although... You know, I'll give you a chance. There is one simple job. We are almost out of the tin for cans, so I need a partner to scout Tin Industries' metalworks factory. We'll take some rolls of tin and return. }
 {171}{010}{Nah, I better ask a question.}
 {172}{027}{I'm in! }
 {173}{999}{No, I won't go there. Okay, see you around.}
 
 #Node018
-{180}{}{Man, it was such a long time ago. We got into a trouble, me and that what's-his-name, I don't even remember. Explosions, shooting, chase... Only I survived. Got hit by fragments, scarred for life.}
-{181}{019}{Hm, looks just like a fingernail markings.}
+{180}{}{Man, it was such a long time ago. We got into trouble, me and that what's-his-name, I don't even remember. Explosions, shooting, chase... Only I survived. Got hit by fragments, scarred for life.}
+{181}{019}{Hm, looks just like fingernail markings.}
 
 #Node019
-{190}{}{What do YOU know about scars, greenhorn! I've been through so much, you could fill a several lives! Enough talking, don't want to remember the painful past.}
-{191}{020}{Yeah, you must have done a heroic things... And why is this armor not of your size? And the name on the tag is scrubbed out... Maybe it's not actually yours?}
+{190}{}{What do YOU know about scars, greenhorn! I've been through so much, you could fill several lives! Enough talking, don't want to remember the painful past.}
+{191}{020}{Yeah, you must have been very heroic... And why is this armor not of your size? And the name on the tag is scrubbed out... Maybe it's not actually yours?}
 
 #Node020
 {200}{}{That's my armor, hear me? And always was! I took it off my dead enemy, killed him with my bare hands! }
@@ -109,24 +109,24 @@
 {212}{999}{Then I'll go search for traders.}
 
 #Node022
-{220}{}{You don't understand a thing in the matters of scouting! I decided to go back to pick some things, I was going to find you afterwards!}
+{220}{}{You don't understand a thing in the matters of scouting! I decided to go back to pick some things, I was going to find you afterward!}
 {221}{026}{Let's go get the tin rolls.}
-{222}{999}{Here's you tin! Shiny!}
+{222}{999}{Here's your tin! Shiny!}
 
 #Node023
-{230}{}{Hey, easy! A real, experienced scout is always capable of wisely assessing the situation, to timely take a step back, and plan the maneuver! I was just going to get back to you, to get you out of there.}
+{230}{}{Hey, easy! A real, experienced scout is always capable of wisely assessing the situation, and timely take a step back, planning the maneuver! I was just going to get back to you, to get you out of there.}
 {231}{026}{Let's go, we need to try one more time.}
 {232}{999}{No need to go anywhere, I've already handled it. Here's your tin, take it and bye.}
 
 #Node024
-{240}{}{[Cyren looks tired and broken] Yeah, this was... A good run... [he lift his head up] I got you out of mess so many times...}
+{240}{}{[Cyren looks tired and broken] Yeah, this was... A good run... [he lift his head up] I got you out of the mess so many times...}
 {241}{026}{Let's go look for it one more time.}
 {242}{999}{Here's your tin. Bye.}
 
 #Node025
-{250}{}{[Cyren looks tired and broken] This is... Encouraging... [he lift his head up] I got you out of mess so many times...}
+{250}{}{[Cyren looks tired and broken] This is... Encouraging... [he lift his head up] I got you out of the mess so many times...}
 {251}{026}{Let's go get the tin rolls.}
-{252}{999}{Here's you tin! Shiny!}
+{252}{999}{Here's your tin! Shiny!}
 
 #Node026
 {260}{}{[Cyren makes a dismissive gesture] No way, I'm not going there. Do it yourself, if you want. I have, uh... Um... More important mission to do!}

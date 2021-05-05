@@ -20,8 +20,8 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{Greg? I started to think that you have taken roots in the Tartarus, with all of your preachings. How are you doing? [you notice his badge, which reads "cpt. Richards"]}
-{11}{}{Douglas! If you are here, then you've brought all the stuff for these eggheads! Right? [you notice his badge, which reads "cpt. Richards"]}
+{10}{}{Greg? I started to think that you have taken roots in Tartarus, with all of your preachings. How are you doing? [you notice his badge, which reads "Cpt. Richards"]}
+{11}{}{Douglas! If you are here, then you've brought all the stuff for these eggheads! Right? [you notice his badge, which reads "Cpt. Richards"]}
 {12}{003}{Fine. Decided to rest a little.}
 {13}{002}{I'm fine. Who're you?}
 {14}{008}{As I see it, it's you who has taken roots in this place, Richards!}
@@ -37,18 +37,18 @@
 {31}{004}{Sure, why not?}
 {32}{007}{Maybe. Is there a reward for this warm-up?}
 
-{40}{}{Then you're going to need a good equipment. Your bath robe won't do. Wait... [he takes out a worn-out armor and hands it to you. Then he gives you a small package] Here's a pheromone injection which you are goinna be using, and also the coordinates of an old bunker. A bunch of Chimeras inhabited the place, so, now it's their den, I guess. You will need to inject the Queen Chimera with this shit and bring it to Gray. But remember this VERY well - our nerds said that the beast is really huge, so the effect of the serum won't last for more than a week. When you bring the Queen to me, I'll give you the key from a Biology level, where you meet Gray.}
+{40}{}{Then you're going to need good equipment. Your bathrobe won't do. Wait... [he takes out a worn-out armor and hands it to you. Then he gives you a small package] Here's a pheromone injection which you are gonna be using, and also the coordinates of an old bunker. A bunch of Chimeras inhabited the place, so, now it's their den, I guess. You will need to inject Queen Chimera with this shit and bring it to Gray. But remember this VERY well - our nerds said that the beast is really huge, so the effect of the serum won't last for more than a week. When you bring the Queen to me, I'll give you the key from a Biology level, where you meet Gray.}
 {41}{005}{A Chimera's den? Couldn't you start with that?}
 {42}{006}{Chimeras? I love Chimeras.}
 {43}{999}{Sounds good! But I better, uh, go...}
 
-{50}{}{Greg, don't tell me you've gone completely soft in this Tartarus. Come on, goddamn it, don't be a girl, It whould be good for you! I can't look at what you are turning into.}
+{50}{}{Greg, don't tell me you've gone completely soft in this Tartarus. Come on, goddamn it, don't be a girl, It would be good for you! I can't look at what you are turning into.}
 {51}{999}{Okay, I'm going to go get prepared for this "warm-up".}
 
-{60}{}{[Richards laughs and pats you on the shoulder] Just like an old times. After you finish with it, I suggest we go grab a drink.}
+{60}{}{[Richards laughs and pats you on the shoulder] Just like old times. After you finish with it, I suggest we go grab a drink.}
 {61}{999}{Definitely.}
 
-{70}{}{Ha, you're at it again. I think it's you who will be treating, just for a given chance to breathe some fresh air.}
+{70}{}{Ha, you're at it again. I think it's you who will be paying, just for a given chance to breathe some fresh air.}
 {71}{004}{You wish... Okay, tell me details.}
 
 {80}{}{[he laughs]Are you hinting that I owe you a case of booze because of the last argument? I had my arm broken! I couldn't go into Radius, so the bet is off!}
@@ -66,8 +66,8 @@
 {112}{}{Damn, Doug, it's not funny anymore.  Next time you'll be the one writing the report.}
 {113}{999}{Okay...}
 
-{120}{}{That's how we do it! Let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject the Queen Chimera with the serum and bring her here. Questions? No questions. Come on, Doug, I'm counting on you.}
-{121}{}{At last! I started to think that our eggheads will eat my brain. And don't forget, you owe me! Now let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject the Queen Chimera with the serum and bring her here. Questions? No questions. Dismissed.}
+{120}{}{That's how we do it! Let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject Queen Chimera with the serum and bring her here. Questions? No questions. Come on, Doug, I'm counting on you.}
+{121}{}{At last! I started to think that our eggheads will eat my brain. And don't forget, you owe me! Now let's check... [Richards looks through the list and nods] Good job. But I won't let you sit around! There's an urgent task from Philipp Gray. [he hands you a small package] Here - the coordinates and the serum. Your mission is to infiltrate the Chimera's den in an old bunker, inject Queen Chimera with the serum and bring her here. Questions? No questions. Dismissed.}
 {122}{999}{[end of dialogue]}
 
 {100}{}{Greg! I see your task went great...}
@@ -87,7 +87,7 @@
 {1008}{999}{Okay, I'll come later.}
 {1009}{10a}{I wanted to clarify something: Jock has been mentioning some Timmy. Do you know who he is?}
 
-{114}{}{Of course I know who he was! All these guys are like a family to me. And I remember Timmy, such a nice young lad. I heard the rumors about Jock bullying him, but never witnessed the thing with my own eyes. Fellas have been saying that Jock made Timmy to go into the Purgatory for something - and no one saw Timmy since... Believe me, I won't let some shit like this happen again.}
+{114}{}{Of course I know who he was! All these guys are like a family to me. And I remember Timmy, such a nice young lad. I heard the rumors about Jock bullying him, but never witnessed the thing with my own eyes. Fellas have been saying that Jock made Timmy go into the Purgatory for something - and no one saw Timmy since... Believe me, I won't let some shit like this happen again.}
 {115}{999}{I see. Okay, I need to go do my job.}
 
 {130}{}{I know you would handle it better than anyone! We are an old school, after all. Okay, now I'm going to ask you to take this thing to Gray, and fast - I'm not a fan of them, unlike Philipp, and I would prefer to rip its guts instead of giving her a tour around the place. [he hands you a keycard] Here, use it to get to an Organic level, or how was it... Okay, take this holy shit away from me.}
@@ -108,4 +108,4 @@
 
 {222}{}{Looks like the idea to give you "an interesting mission outside of Olympus" was not that great...}
 {220}{012}{It's alright, really! As I said, I brought everything.}
-{221}{011}{It's alright, really! I just needed get to some rest.}
+{221}{011}{It's alright, really! I just needed to get some rest.}

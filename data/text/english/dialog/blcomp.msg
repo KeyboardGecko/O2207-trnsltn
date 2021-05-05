@@ -48,21 +48,21 @@
 {215}{999}{[LOG OFF]}
 
 #Node022
-{220}{}{...A current lead of the "Prometheus" project, Damon Stepp. Many of the specimens are completely adapted into society of Pearson Town. Some of the relatives are suspecting something, but they lack any evidence. The "Jack Brown" specimen was hit by a truck, massive internal bleeding led to his death in a local hospital. After 2 days, his body had disappeared from morgue. When questioned, relatives of the specimen looked frightened, but didn't say anything. To prove - or to prove wrong - some insane theories of my colleagues, I am going to conduct an experiment of mortifying an adult specimen...}
+{220}{}{...A current lead of the "Prometheus" project, Damon Stepp. Many of the specimens are completely adapted into the society of Pearson Town. Some of the relatives are suspecting something, but they lack any evidence. The "Jack Brown" specimen was hit by a truck, massive internal bleeding led to his death in a local hospital. After 2 days, his body had disappeared from the morgue. When questioned, relatives of the specimen looked frightened but didn't say anything. To prove - or to prove wrong - some insane theories of my colleagues, I am going to conduct an experiment of mortifying an adult specimen...}
 {221}{021}{[BACK]}
-{222}{020}{[Return to main menu]}
+{222}{020}{[Return to the main menu]}
 {223}{999}{[LOG OFF]}
 
 #Node023
-{230}{}{I have to admit, some of that insane theories had been verified. Of 20 mortified specimens, one didn't actually die... By that I mean it continued to act alive, despite having numerous signs of cadaver decomposition. Also, all processes in its body are going in a much slower pace than they should. Our next move is to find out, which method is most effective in mortyfying these... "Ghouls". P.S.: It is quite curious that the specimen has retained all the signs of a perfectly healthy consciousness, and even tries to make jokes.}
+{230}{}{I have to admit, some of that insane theories had been verified. Of 20 mortified specimens, one didn't actually die... By that I mean it continued to act alive, despite having numerous signs of cadaver decomposition. Also, all processes in its body are going at a much slower pace than they should. Our next move is to find out, which method is most effective in mortifying these... "Ghouls". P.S.: It is quite curious that the specimen has retained all the signs of perfectly healthy consciousness, and even tries to make jokes.}
 {231}{021}{[BACK]}
-{232}{020}{[Return to main menu]}
+{232}{020}{[Return to the main menu]}
 {233}{999}{[LOG OFF]}
 
 #Node024
-{240}{}{Well, I was told that a month after the incident with Stepp's team the things at last calmed down, so we can continue to research the deviations in "Prometheus". As we found out, some clones have the special "zombie-gene", which activates in extreme conditions - heart failure, brain damage, everything leading to a clinical death. After the initial stage of reborn, these, may I say, "ghouls" are hardly different from humans - except their decomposition process still goes on. Damon's research proved that the failure of brain cells goes faster when the body is exposed to radiation. The hunger can also be a crucial factor. Both of these lead to a second reborn stage, after which the specimen is left with only its primal instincts. Our next goal is to develop a strain, capable of replicating a "zombie-gene" in a normal human's body.}
+{240}{}{Well, I was told that a month after the incident with Stepp's team the things, at last, calmed down, so we can continue to research the deviations in "Prometheus". As we found out, some clones have the special "zombie-gene", which activates in extreme conditions - heart failure, brain damage, everything leading to clinical death. After the initial stage of reborn, these, may I say, "ghouls" are hardly different from humans - except their decomposition process still goes on. Damon's research proved that the failure of brain cells goes faster when the body is exposed to radiation. Hunger can also be a crucial factor. Both of these lead to a second reborn stage, after which the specimen is left with only its primal instincts. Our next goal is to develop a strain, capable of replicating a "zombie-gene" in a normal human's body.}
 {241}{021}{[BACK]}
-{242}{020}{[Return to main menu]}
+{242}{020}{[Return to the main menu]}
 {243}{999}{[LOG OFF]}
 
 #Node030
@@ -74,21 +74,21 @@
 {305}{999}{[LOG OFF]}
 
 #Node031
-{310}{}{We found something interesting concerning one of our clones. Do you remember that strange gene? Looks like this thing is going to make us rich! But I need a couple of weeks to research it further. And, of course, I need an additional financing. Maybe I should speak to Anderson directly?}
+{310}{}{We found something interesting concerning one of our clones. Do you remember that strange gene? Looks like this thing is going to make us rich! But I need a couple of weeks to research it further. And, of course, I need additional financing. Maybe I should speak to Anderson directly?}
 {311}{030}{[BACK]}
-{312}{020}{[Return to main menu]}
+{312}{020}{[Return to the main menu]}
 {313}{999}{[LOG OFF]}
 
 #Node032
 {320}{}{Bill, HE IS ALIVE! I mean, he died at first, and we were already in the process of bagging him, but then Pete noticed that he is still warm - and getting even warmer! I mean, it wasn't pretty after that: the poor guy started to twist and break, he howled and whimpered, then foam went out of his mouth - and only after that he got silent, but still breathing. I won't go into details in my reports, we'll handle the formalities later. By the way, turns out Browns were frightened for a reason - they have really seen a zombie!}
 {321}{030}{[BACK]}
-{322}{020}{[Return to main menu]}
+{322}{020}{[Return to the main menu]}
 {323}{999}{[LOG OFF]}
 
 #Node033
-{330}{}{It's all because of that gene. I call it "zombie-gene", because he turns a clone into a real immortal zombie! We haven't fed him in 10 days, and we are x-raying him all the time, you know, to track all the changes inside him - and he is only getting more active! We could potentially create a supersoldier! I mean, it looks like his brain is a little damaged, after all, maybe from hunger, because he behaves quite inadequately. He grabbed my wrist so hard that I have bruises! We had to chain him to the bed, just in case. He is lying and grunting now. A pity, of course, but it's all in the name of science, am I right? You owe me the bottle of champaigne and putting my photo on the front page of the "Sacramento Science"!}
+{330}{}{It's all because of that gene. I call it "zombie-gene" because he turns a clone into a real immortal zombie! We haven't fed him in 10 days, and we are x-raying him all the time, you know, to track all the changes inside him - and he is only getting more active! We could potentially create a supersoldier! I mean, it looks like his brain is a little damaged, after all, maybe from hunger, because he behaves quite inadequately. He grabbed my wrist so hard that I have bruises! We had to chain him to the bed, just in case. He is lying and grunting now. A pity, of course, but it's all in the name of science, am I right? You owe me the bottle of champagne and putting my photo on the front page of the "Sacramento Science"!}
 {331}{030}{[BACK]}
-{332}{020}{[Return to main menu]}
+{332}{020}{[Return to the main menu]}
 {333}{999}{[LOG OFF]}
 
 #Node040

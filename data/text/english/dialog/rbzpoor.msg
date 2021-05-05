@@ -35,9 +35,9 @@
 {4}{}{You see an old junkie.}
 {5}{}{You see a miserable creature.}
 {6}{}{She looks more like a shadow than a human.}
-{7}{}{She has a huge dark circles under her eyes.}
+{7}{}{She has huge dark circles under her eyes.}
 {8}{}{Her eyes are red, face and neck are covered with swells.}
-{9}{}{The skin on her hands, face and neck is scratched off.}
+{9}{}{The skin on her hands, face, and neck is scratched off.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

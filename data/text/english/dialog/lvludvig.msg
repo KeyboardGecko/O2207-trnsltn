@@ -58,7 +58,7 @@
 
 {70}{}{The hell do you want from me? Here, take this and let me work! [he gives you a bottle with something]}
 {71}{009}{That's better. And now I want to talk.}
-{72}{008}{What? I am going to stick this up you ass!}
+{72}{008}{What? I am going to stick this up your ass!}
 
 
 {80}{}{[He makes a move towards you] That's it, I'm going to tear your tongue out, asshole!}
@@ -100,7 +100,7 @@
 {122}{999}{Yeah, I'll better go.}
 
 
-{130}{}{Do you take me for a fool? I am old, sure, but I don't have neither Alzheimer, nor Parkinson's! I know who you are, I was told. I'm Ludwig Schwein. What do you want?}
+{130}{}{Do you take me for a fool? I am old, sure, but I have neither Alzheimer's nor Parkinson's! I know who you are, I was told. I'm Ludwig Schwein. What do you want?}
 {131}{010}{To ask a few questions.}
 {132}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
@@ -109,7 +109,7 @@
 {141}{010}{To ask a few questions.}
 {142}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
-{150}{}{I'm going to call you an idiot! Do you really think you could came in here, if I didn't know who you are? I was told already! I'm Ludwig Schwein. What do you want?}
+{150}{}{I'm going to call you an idiot! Do you really think you could come in here if I didn't know who you are? I was told already! I'm Ludwig Schwein. What do you want?}
 {151}{010}{To ask a few questions.}
 {152}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
@@ -118,7 +118,7 @@
 {162}{999}{For some reason, I don't want to continue talking to you. I'll go.}
 
 
-{170}{}{Why don't you try to find out yourself? Go and do that! I'm not a local guide, I have a things to do!}
+{170}{}{Why don't you try to find out yourself? Go and do that! I'm not a local guide, I have things to do!}
 {171}{018}{At least tell me about the inhabitants of this place.}
 {172}{022}{What are you so busy with?}
 {173}{999}{Okay, I'll go.}
@@ -131,15 +131,15 @@
 {182}{021}{What can you tell me about your family?}
 
 
-{190}{}{[Ludwig makes a contemptuous face] Who to talk here to? Look around - they are all complete idiots! Only Ashton Horton has some resemblanse of minimal technical skills, but even he is sick in the head! He thinks he lives in a Horton's hotel! A hotel! And he probably thinks that he is in charge for the whole vault.}
+{190}{}{[Ludwig makes a contemptuous face] Who to talk here to? Look around - they are all complete idiots! Only Ashton Horton has some resemblance of minimal technical skills, but even he is sick in the head! He thinks he lives in a Horton's hotel! A hotel! And he probably thinks that he is in charge of the whole vault.}
 {191}{020}{And who is actually in charge?}
-{192}{032}{Did you try talking to someone not from Livos? Maybe random stranger will turn out to be an expert.}
+{192}{032}{Did you try talking to someone who is not from Livos? Maybe a random stranger will turn out to be an expert.}
 
 
-{200}{}{All of us here are in charge. But most of others only waste resources. Only we, Schweins, are truly beneficial to the place.}
+{200}{}{All of us here are in charge. But the most of others only waste resources. Only we, Schweins, are truly beneficial to the place.}
 {201}{022}{And what exactly you do here?}
 {202}{021}{What can you tell about other Schweins?}
-{203}{010}{Okay, I want to ask about something alse.}
+{203}{010}{Okay, I want to ask about something else.}
 
 
 {210}{}{Our family is the most important. I'm busy with inventing new weapons, my son Christopher is doing external trades, and my brother Edward provides security of the entrance. We could easily do without other families. And my wife, Veronica, would handle all other matters.}
@@ -147,24 +147,24 @@
 {212}{010}{I want to ask about something else.}
 
 
-{220}{}{[Ludwig points to a table, littered with spare parts and schematics] I specialize in laser and plasma weaponry. Currently I'm studying plasma energy, more exactly - principles of wave science.}
+{220}{}{[Ludwig points to a table, littered with spare parts and schematics] I specialize in laser and plasma weaponry. Currently, I'm studying plasma energy, more exactly - principles of wave science.}
 {221}{024}{And? How is the study going?}
-{222}{035}{Emily Dunton gave me the task of cleaning the cave from monsters. Could you arm me with laser rifle for this mission?}
-{223}{033}{I'm actually very good with tech, so I could help you with optimisation process of plasma weaponry.}
+{222}{035}{Emily Dunton gave me the task of cleaning the cave from monsters. Could you arm me with a laser rifle for this mission?}
+{223}{033}{I'm actually very good with tech, so I could help you with the optimization process of plasma weaponry.}
 
 
 {230}{}{[Ludwig thinks] Hm... That's actually a good idea. I'd like to obtain the results of some field testings of this weapon, so I could upgrade the model. Here, return to me with the report when you finish. }
-{231}{010}{Great. I'll gather the data and return. The most difficult part of the report would be "problems and nuances after ten years of usage". Let's talk about something else.}
+{231}{010}{Great. I'll gather the data and get back. The most difficult part of the report would be "problems and nuances after ten years of usage". Let's talk about something else.}
 
 
-{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! No good! Someone of this morons stole my book of wave science! They won't even understand a thing from it! Idiots! How do I continue my work?!}
+{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! No good! Someone of these morons stole my book of wave science! They won't even understand a thing from it! Idiots! How do I continue my work?!}
 {2402}{}{With the book of wave science, my study of plasma energy processes is going quite well! Thanks for bringing it back.}
 {241}{026}{I could look for the book. I'll ask around and find out who could do it.}
 {242}{025}{Who could do such a thing?}
 {243}{010}{Let's talk about something else.}
 
 
-{250}{}{I don't know, anyone! I know for sure that it's not one of our family. We don't get on the way of each other. }
+{250}{}{I don't know, anyone! I know for sure that it's not one of our family. We don't get in the way of each other. }
 {251}{026}{I could help with searching. I'll talk with others and find out who could have it.}
 {252}{010}{Let's change the subject.}
 
@@ -191,11 +191,11 @@
 {301}{031}{What is it? A map?}
 
 
-{310}{}{Edward bought it. He thought it was some schematics, so he sold it to me eventually. Probably it's a piece of map, showing how to get to the Renaissance, a city of wonders. I've heard that it has clean water, fresh air. A whole city untouched by the war! I wanted to find it myself when I was younger, but now I never will. If you do, remember your old friend, who gave this to you.}
+{310}{}{Edward bought it. He thought it was some schematics, so he sold it to me eventually. Probably it's a piece of a map, showing how to get to the Renaissance, a city of wonders. I've heard that it has clean water, fresh air. A whole city untouched by the war! I wanted to find it myself when I was younger, but now I never will. If you do, remember your old friend, who gave this to you.}
 {311}{Barter}{Of course. And now show me what you have in stock.}
 {312}{999}{Thanks for the map. I'll come by later.}
 
-{320}{}{I don't have time to leave Livos and chat with some vagabonds. I got out only once, to the trading quarters by the entrance. I chose myself someone to marry. Edward gathered some girls for me and I picked the best. That's how Veronica became my wife.}
+{320}{}{I don't have time to leave Livos and chat with some vagabonds. I got out only once, to the trading quarters by the entrance. That was the time when I chose someone to marry. Edward gathered some girls for me and I picked the best one. Veronica, my current spouse.}
 {321}{010}{I see. Another question then.}
 
 
@@ -207,7 +207,7 @@
 {341}{999}{[Leave him alone]}
 
 {350}{}{[Ludwig starts to wave hands] No, no-no-no! I need my weapons for research and development!}
-{351}{023}{Maybe I could help with it then. I am ready to do a field testing of weapon prototype and return with full report about its characteristics.}
+{351}{023}{Maybe I could help with it then. I am ready to do a field testing of the weapon prototype and return with a full report about its characteristics.}
 
 {360}{}{News? From Olympus? [he looks fascinated] What are you saying?}
 {361}{037}{I have a proposition for you... Uh, to go there and, erm... Do a little science work. Let's go?}

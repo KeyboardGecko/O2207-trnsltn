@@ -11,8 +11,8 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see a man with a big moustache. }
-{2}{}{As a child, you've seen an old Ninto magazine with an chubby plumber Maro on its cover. This man looks just like that plumber.}
+{1}{}{You see a man with a big mustache. }
+{2}{}{As a child, you've seen an old Ninto magazine with a chubby plumber Maro on its cover. This man looks just like that plumber.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Ashton.}
@@ -20,10 +20,10 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a dissatisfied man with a moustache. Seeing you he starts grumbling] Another someone poking his nose around. Who are you and why did you come here? What do you want? }
+{10}{}{[You see a dissatisfied man with a mustache. Seeing you he starts grumbling] Another someone poking his nose around. Who are you and why did you come here? What do you want? }
 {11}{002}{I'm here recently. Looking around the vault.}
 {12}{009}{Who are YOU?}
-{13}{011}{Hey. I'm new, meeting my neighbours.}
+{13}{011}{Hey. I'm new, meeting my neighbors.}
 
 {20}{}{Look around, but carefully. Don't put your fingers into everything, pushing every button you see. I'm Ashton Horton, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
 {21}{003}{No.}
@@ -46,7 +46,7 @@
 {53}{007}{No, I'm not ready.}
 
 {60}{}{Okay then, first question - How do you treat the property of Livos?}
-{61}{012}{With a good care.}
+{61}{012}{With good care.}
 {62}{012}{With care.}
 {63}{013}{With a little care.}
 {64}{013}{Usually.}
@@ -56,10 +56,10 @@
 
 {70}{}{I won't let you go until you learn the rules! You will definitely go and break something! You should pass the test!}
 {71}{003}{Well, okay. Remind me, which rules are there?}
-{72}{006}{I'm ready for test.}
+{72}{006}{I'm ready for the test.}
 {73}{008}{Screw you! I don't care about that tests of yours!}
 
-{80}{}{You are stupid moron! I'm gonna beat some sense into you!}
+{80}{}{You are a stupid moron! I'm gonna beat some sense into you!}
 {81}{998}{Come on then!}
 
 {90}{}{You have a bad temper. Probably, that's because you didn't know that you are talking to Ashton Horton himself, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
@@ -74,7 +74,7 @@
 {102}{016}{I want to talk about Seth and Matt from NWO. Do you want to make an alliance with them?}
 {103}{017}{You said that you are the most important man in Livos. Tell me more about it.}
 {104}{019}{What is it that you do here?}
-{105}{026}{I want to talk about water filter.}
+{105}{026}{I want to talk about the water filter.}
 {106}{999}{I have some things to do. Let's talk later.}
 
 {110}{}{[The man smiles] Well, you've met the right person to talk to. I'm Ashton Horton, the head of Hortons family and the most important man in Livos. Do you know the first rule of Livos?}
@@ -82,15 +82,15 @@
 {112}{004}{Yes.}
 {113}{005}{I have no time to talk about rules right now. I'll go.}
 
-{120}{}{[Ashton looks satisfied] Right! You are good! If only everyone else would understand the rules as good as you. I have no more questions, you have passed. Now you can walk freely around the vault.}
+{120}{}{[Ashton looks satisfied] Right! You are good! If only everyone else would understand the rules as well as you. I have no more questions, you have passed. Now you can walk freely around the vault.}
 {121}{010}{I would like to ask some questions first.}
 {122}{999}{Okay, I'm going with a clean conscience.}
 
-{130}{}{[Ashton raises his voice] Not exactly right! You should treat the property of Livos with a GOOD CARE! How am I supposed to make all of you to remember this simple thing... Okay, you can walk around freely, but don't poke your nose where you shouldn't.}
+{130}{}{[Ashton raises his voice] Not exactly right! You should treat the property of Livos with GOOD CARE! How am I supposed to make all of you remember this simple thing... Okay, you can walk around freely, but don't poke your nose where you shouldn't.}
 {131}{010}{I would like to ask some questions first.}
 {132}{999}{Okay, I'll go walk around.}
 
-{140}{}{[Ashton frantically waves his hands] Wrong! You can't do it, it's forbidden! You should take a GOOD CARE of local property! How am I supposed to make all of you to remember this simple thing... Okay, you can walk around freely, but don't touch any equipment! At least, until you learn the rules.}
+{140}{}{[Ashton frantically waves his hands] Wrong! You can't do it, it's forbidden! You should take GOOD CARE of local property! How am I supposed to make all of you remember this simple thing... Okay, you can walk around freely, but don't touch any equipment! At least, until you learn the rules.}
 {141}{010}{I would like to ask some questions first.}
 {142}{999}{Okay, I'll go walk around.}
 
@@ -98,60 +98,60 @@
 {151}{010}{Okay. I have other questions.}
 {152}{999}{I'll go ask someone else.}
 
-{160}{}{[Ashton makes displeased face] Who the hell are Seth and Matt? I'm too busy to make some stupid alliances with some tramps wrom NWO! I don't care about their problems in the slightest. No alliances for them. Maybe some other families would talk about it. It's in their habit - to deal in nonsence.}
+{160}{}{[Ashton makes displeased face] Who the hell are Seth and Matt? I'm too busy to make some stupid alliances with some tramps from NWO! I don't care about their problems in the slightest. No alliances for them. Maybe some other families would talk about it. It's in their habit - to deal in nonsense.}
 {161}{010}{Okay. I have other questions.}
 {162}{999}{I'll go and do that then.}
 
-{170}{}{[Ashton complacently raises his chin] Yes, I'm the most important person in this place. Firstly, I do the repairs of the vital equipment. No one else does. Without my skills, everything here would have fallen apart already. This lazy amoebas can't do anything, so I forbid them to even touch the mechanisms. They will only make things worse with their crooked hands. }
+{170}{}{[Ashton complacently raises his chin] Yes, I'm the most important person in this place. Firstly, I do the repairs of the vital equipment. No one else does. Without my skills, everything here would have fallen apart already. These lazy amoebas can't do anything, so I forbid them to even touch the mechanisms. They will only make things worse with their crooked hands. }
 {171}{018}{And secondly?}
 
 {180}{}{[His smile gets wider] And secondly, I am the one and only legitimate owner of this beautiful hotel. My ancestors, who were the proprietors of a huge hotel network, built it for me and my family. And the rest are only living here because we allow it. If Livos gets crowded, I'll throw someone outside. My word is the law here, everyone knows that I'm the rightful leader. Still, despite my high status, I don't act star-struck. I'm even proud that it doesn't get in my way of doing the hard labor of repairings.}
 {181}{020}{You are able of repairing anything in the vault, right?}
 {182}{010}{Okay, I want to ask something else.}
 
-{190}{}{I'm doing repair duties. And I don't let anyone else poke into this important business. Only the hands of gold, like mine, would touch this compicated tech.}
+{190}{}{I'm doing repair duties. And I don't let anyone else poke into this important business. Only the hands of gold, like mine, would touch this complicated tech.}
 {191}{020}{Can you fix anything here?}
 {192}{010}{I see. I have other questions.}
 
-{200}{}{[Ashton stumbles] Not exactly... For example, our nutritional mixtures machine is completely out of order. There's something burned in it. Or jammed. Or something else. Despite my highest qualification, I couldn't do anything. It's all becase of carelessness of other dwellers! I keep telling them - take a good care of the property! But they just don't. Of course, they are guests in my hotel, but as an owner, I'm not very glad.}
+{200}{}{[Ashton stumbles] Not exactly... For example, our nutritional mixtures machine is completely out of order. Something burned in it. Or jammed. Or something else. Despite my highest qualification, I couldn't do anything. It's all because of the carelessness of other dwellers! I keep telling them - take good care of the property! But they just don't. Of course, they are guests in my hotel, but as an owner, I'm not very glad.}
 {201}{021}{Any other problems?}
 {202}{010}{I see. I'll ask about something else.}
 
 {2101}{}{[Ashton slowly and reluctantly continues] Uhh... You see... I don't know if I should tell you this, but, er... The thing is, there's something wrong with the water filter. He can't handle big amounts of water anymore. And I'm afraid it'll only get worse - if it breaks down completely, Livos could die out. I tried to repair it, but the situation is pretty complex. You can't just go and fix it.}
-{2102}{}{No other problems for now. There was issues with broken water filter, but it forks fine now.}
+{2102}{}{No other problems for now. There were issues with the broken water filter, but it works fine now.}
 {2103}{}{The water filter is completely dead. I've read the manual, spent much time, but still fail to fix it. Soon our water supply will become thin. Don't know what to do with it.}
-{211}{022}{I've heard that the taste of water became strange. Is it because of a problem with filter?}
-{212}{025}{I can look into the filter problem. I have a broad experience of repairing different stuff.}
+{211}{022}{I've heard that the taste of water became strange. Is it because of a problem with the filter?}
+{212}{025}{I can look into the filter problem. I have broad experience of repairing different stuff.}
 {213}{023}{You are the best repairman of Livos! How come you still didn't manage?}
 {214}{010}{I see. Let's talk about something else.}
 
 {220}{}{[Ashton shakes his head] No, the quality of water is the same. The filter problem only influences the amount of water that can be filtered. Every drop of water in Livos went through this filter, the taste is the same as before. You can see for yourself.}
-{221}{025}{I am experienced in repairings. I can see what has happened to filter.}
+{221}{025}{I am experienced in repairings. I can see what has happened to the filter.}
 {222}{023}{How come you still didn't manage it? You are the best repairman of Livos!}
 {223}{010}{Really? So it's not about the filter then. I have other questions.}
 {224}{999}{I need to find out what's wrong with the water. I'll go talk to someone else. Bye.}
 
 {230}{}{[Ashton hesitates] I don't even know... I've read the manual, but, uh, it's so difficult... I couldn't make heads or tails- I mean, I didn't have time to look into it properly! Yes, because of this other urgent business I have!}
 {231}{024}{Ashton, you are the most experienced person in this vault in the matters of repairing things! I'm sure it will be very easy for you to understand this manual, if you try!}
-{232}{025}{Let me see into it. I have some skills of fixing things.}
+{232}{025}{Let me see into it. I have some skills in fixing things.}
 {233}{010}{I'm sure you'll fix it later. I want to ask something else.}
 
 {240}{}{[Ashton shines] Yes! I'm the best in the whole Radius! I could fix the filter, sure, but I still need to deal with, uh, selling a couple of guns. Because, obviously, I need batteries for the parts. You could help me out if you buy one of them for, let's say, 350 batteries. Until I deal with this, I won't get into repairing the filter.}
-{241}{010}{I'd better look into fixing filter myself. I have other questions.}
+{241}{010}{I'd better look into fixing the filter myself. I have other questions.}
 {242}{031}{Here are the batteries. Give me one of that guns. Now you'll have the time you need to do fixings.}
 {245}{999}{I have no batteries on me right now. I'll get them to you later.}
 
-{250}{}{[Ashton has visible doubts] I don't know... I don't let anyone to fix things around here. Hm. This is a difficult case, so I could have use a fresh eye. Okay, you can go look at the filter. But be very careful!}
+{250}{}{[Ashton has visible doubts] I don't know... I don't let anyone fix things around here. Hm. But this is a difficult case, so I could have a use for a fresh eye. Okay, you can go look at the filter. But be very careful!}
 {251}{999}{Okay, I'll go check the filter out.}
 
 {260}{}{The filter is still bad at filtering. And the repair manual is so obscure!}
-{261}{024}{Ashton, you are the most experienced person in this vault in the matters of repairing things! I'm sure it will be very easy for you to understand this manual, if you try!}
+{261}{024}{Ashton, you are the most experienced person in this vault in the matter of repairing things! I'm sure it will be very easy for you to understand this manual, if you try!}
 {262}{010}{I'm still looking into the problem too. I have some questions though.}
 {263}{027}{I've repaired the filter. It works even better than before.}
 {265}{027}{I'm not quite sure, but it looks like you need a NEW filter...}
 {264}{030}{Can I look at the manual?}
 
-{270}{}{That is great! I'll check... [Ashton presses some buttons on a nearby device] The wilter is really working! That is so good you had such a wise me advising you! Still, you've helped a bit too. Here are some batteries for that. And I also have a couple of guns here, so pick one as a present. }
+{270}{}{That is great! I'll check... [Ashton presses some buttons on a nearby device] The filter is really working! You were so lucky to have such a wise me giving you advice! Still, you've helped a bit too. Here are some batteries for that. And I also have a couple of guns here, so pick one as a present. }
 {271}{028}{I want a plasma rifle prototype.}
 {272}{029}{I'm more into that laser pistol.}
 
@@ -159,21 +159,21 @@
 {274}{999}{Oh... [shrug and leave]}
 {275}{999}{Of course, you'd better hide it somewhere [wink and leave]}
 
-{280}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk...}
+{280}{}{Good choice. Here. Don't forget to take good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk...}
 {281}{999}{Thanks. Bye, Ashton.}
 
-{290}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk...}
+{290}{}{Good choice. Here. Don't forget to take good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk...}
 {291}{999}{Thanks. Bye, Ashton.}
 
-{300}{}{No! I won't let anyone to look into my documents!}
+{300}{}{No! I won't let anyone look into my documents!}
 {301}{026}{Okay then. So, what about the filter?}
 
 {310}{}{I have a laser pistol and plasma rifle prototype. Pick something and I'll go handle the filter.}
 {311}{032}{I want a plasma rifle prototype.}
 {312}{033}{I'm more into that laser pistol.}
 
-{320}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk... [Looks at you] I'll go fix the thing! Not a problem at all, especially for the best repairman in Radius!}
+{320}{}{Good choice. Here. Don't forget to take good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk... [Looks at you] I'll go fix the thing! Not a problem at all, especially for the best repairman in Radius!}
 {321}{999}{Thanks. Bye, Ashton.}
 
-{330}{}{Good choice. Here. Don't forget to take a good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk... [Looks at you] I'll go fix the thing! Not a problem at all, especially for the best repairman in Radius!}
+{330}{}{Good choice. Here. Don't forget to take good care of it! [he smiles and mumbles] Unbelievable, I finally got rid of this useless junk... [Looks at you] I'll go fix the thing! Not a problem at all, especially for the best repairman in Radius!}
 {331}{999}{Thanks. Bye, Ashton.}

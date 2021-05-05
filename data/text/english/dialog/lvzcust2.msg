@@ -26,7 +26,7 @@
 {3}{}{You see a merchant.}
 {4}{}{You see a merchant from NWO.}
 {5}{}{You see a vendor.}
-{6}{}{He looks very concerned with current price policy in Livos.}
+{6}{}{He looks very concerned with the current price policy in Livos.}
 {7}{}{Just a trader who sells all kinds of junk.}
 {8}{}{He is one of the caravan merchants from NWO.}
 {9}{}{He is intensively trying to haggle out another battery.}
@@ -34,7 +34,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{Of course, I don't have many rarities, but I assure you - you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, forged by finest craftsmen from all corners of the Radius!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by the finest craftsmen from all corners of the Radius!}
 {12}{}{I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
@@ -101,6 +101,6 @@
 {1034}{}{No lower prices - no canned food for you! You have to go hunt the cave rats!}
 {1035}{}{It's easier for us to find water somewhere else in Radius than buy from you!}
 {1036}{}{Dallas, my friend, you can't set me up like that...}
-{1037}{}{Maybe you could let our mechanic to take a look at your filters.}
+{1037}{}{Maybe you could let our mechanic take a look at your filters.}
 {1038}{}{Five tins for a canister, not a battery more!}
-{1039}{}{So what? It doesn't give you the right to sell rotten water! Especially at such price!}
+{1039}{}{So what? It doesn't give you the right to sell rotten water! Especially at such a price!}

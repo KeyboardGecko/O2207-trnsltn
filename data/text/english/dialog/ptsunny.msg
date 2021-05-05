@@ -56,7 +56,7 @@
 {71}{008}{No.}
 
 #Node008
-{80}{}{It's very bad. [she shakes her head] When we entered the town, these "locals" attacked us. At first there was only one - father fended him off. But then more of them appeared. He drew their attention and ran, shouting us to leave... We were trying to find a secluded place, but bumped into a huge jackal. He chased us to this mall. I slammed its head with something heavy, but he still got Becky - she has her leg wounded, it's covered in blood and she can't walk... We decided to wait for the father here. So far I made several forays to the town for medicines and water. The pharmacy in the mall is looted completely. I only found some painkillers and bandages. }
+{80}{}{It's very bad. [she shakes her head] When we entered the town, these "locals" attacked us. At first, there was only one - father fended him off. But then more of them appeared. He drew their attention and ran, shouting us to leave... We were trying to find a secluded place but bumped into a huge jackal. He chased us to this mall. I slammed its head with something heavy, but he still got Becky - she has her leg wounded, it's covered in blood and she can't walk... We decided to wait for the father here. So far I made several forays to the town for medicines and water. The pharmacy in the mall is looted completely. I only found some painkillers and bandages. }
 {81}{009}{How much time did you spend in this basement?}
 {82}{012}{Any idea where you can get something to help Becky?}
 
@@ -71,11 +71,11 @@
 {102}{015}{You know, I'd prefer not to talk about it.}
 
 #Node011
-{110}{}{You know, you cound stop reminding me about it.}
+{110}{}{You know, you could stop reminding me about it.}
 {111}{012}{Any idea where you can get anything to help Becky?}
 
 #Node012
-{120}{}{Yes. I found an old town map in the mall. There's a hospital somewhere nearby. Sorry, but I do not know which way to go, this map was in a very bad condition and I didn't really understand it. But I explored as much of town as I could. And if I understood everything correctly, the hospital is somewhere not far from where we were attacked. Maybe... Maybe you'll even find our father. What if he's in a such basement too?}
+{120}{}{Yes. I found an old town map in the mall. There's a hospital somewhere nearby. Sorry, but I do not know which way to go, this map was in very bad condition and I didn't really understand it. But I explored as much of town as I could. And if I understood everything correctly, the hospital is somewhere not far from where we were attacked. Maybe... Maybe you'll even find our father. What if he's in a similar basement?}
 {121}{013}{So, what exactly should I be looking for?}
 
 #Node013
@@ -88,15 +88,15 @@
 {141}{999}{[end of dialogue]}
 
 #Node015
-{150}{}{[Sunny hides her eyes. Her joy from receiving the bag quickly disappears.] Okay. Let's get out of here. We'll need your help. I can inject the painkiller and apply a splint, but dragging her and fighting off the beasts - that's out of question for me. [the girl is about to get to Becky, but stops and smiles at you] Thanks. I really appreciate your help, although I may be bad at showing it. After attitude we got in the NWO - to get some help is even nicer. A pity that I lost my father in this. I still hope he fled the town and we will meet with him eventually.}
+{150}{}{[Sunny hides her eyes. Her joy from receiving the bag quickly disappears.] Okay. Let's get out of here. We'll need your help. I can inject the painkiller and apply a splint, but dragging her and fighting off the beasts - that's out of the question for me. [the girl is about to get to Becky, but stops and smiles at you] Thanks. I really appreciate your help, although I may be bad at showing it. After attitude we got in the NWO - to get some help is even nicer. A pity that I lost my father in this. I still hope he fled the town and we will meet with him eventually.}
 {151}{016}{[treat Becky]}
 
 {160}{}{#Node016}
-{161}{}{[Sunny handled the task so well as if she had been taught this. Becky looks much better now. When Sunny changes the bandage on her leg, you have a glance at very nasty-looking wound. But in the end, the girl finally feels relieved. Probably, for the first time for days.] Well... We are ready. No more waiting for father. Let's go.}
+{161}{}{[Sunny handled the task so well as if she had been taught this. Becky looks much better now. When Sunny changes the bandage on her leg, you have a glance at a very nasty-looking wound. But in the end, the girl finally feels relieved. Probably, for the first time for days.] Well... We are ready. No more waiting for father. Let's go.}
 {163}{999}{[lead girls out of town]}
 
 #Node017
-{170}{}{[When the first joys and troubles of arriving at the NWO end, Sunny focuses her attention on you] You know, no one has ever been so good to us. I don't even know what to say... We survived only because of your help. A paramedic's bag that helped to get Becky to the NWO became our ticket to the life here. Even their cheap doctor Hinder acknowledged that we can be helpful. So now we have a house. And also, we were told that "this is more than a house! This is a family!", but I would have kept their mouth shut, if I were them. I lost my father, and he meant more to me than anyone from "family" of this place. Anyway - I don't know how to thank you. I just wanted to say it. Know that I will always be in your debt.}
+{170}{}{[When the first joys and troubles of arriving at the NWO end, Sunny focuses her attention on you] You know, no one has ever been so good to us. I don't even know what to say... We survived only because of your help. A paramedic's bag that helped to get Becky to the NWO became our ticket to life here. Even their cheap doctor Hinder acknowledged that we can be helpful. So now we have a house. And also, we were told that "this is more than a house! This is a family!", but I would have kept their mouth shut if I were them. I lost my father, and he meant more to me than anyone from the "family" of this place. Anyway - I don't know how to thank you. I just wanted to say it. Know that I will always be in your debt.}
 {171}{999}{I'm glad that you are alright. See you around!}
 {172}{999}{I'll remember this part, about the debt!}
 {173}{999}{I would prefer payment, but it's fine. See you.}

@@ -34,11 +34,11 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÄÎ ÇÍÀÊÎÌÑÒÂÀ
 #
-{10}{}{Hey, stranger! Greetings! I would thread lightly if I were you - so many cannibals around...}
+{10}{}{Hey, stranger! Greetings! I would tread lightly if I were you - so many cannibals around...}
 {11}{}{Hey yourself. I was just... Wait, who are you again?}
 {12}{}{I don't have time to talk.}
 {13}{}{}
-{14}{}{You can call me vagabond, because that's who I am. Are you interested in... Strange things?}
+{14}{}{You can call me vagabond because that's who I am. Are you interested in... Strange things?}
 {15}{}{I am. Spill it out.}
 {16}{}{No, I'm not. I better go.}
 {17}{}{}
@@ -62,7 +62,7 @@
 
 {120}{}{I am sure that it's something important, but I don't know how to crack the code. Maybe you could try? Let's do this - I will sell a book to you for ten batteries, and if you learn how to decrypt it, I will buy it back for a hundred, together with a key. Deal?}
 {121}{}{Deal, here are the batteries.}
-{122}{}{I don't have such sum.}
+{122}{}{I don't have such a sum.}
 
 {123}{}{Come back when you do. I won't leave anywhere.}
 {124}{}{Deal.}
@@ -78,7 +78,7 @@
 {150}{}{[A vagabond forcefully pushes you away] LIAR! I'm getting used to it... Still, I need the truth. Come to me with the right answer, or give the book back.}
 {151}{}{[leave]}
 
-{160}{}{Really!? That's what it says? [his breathing becomes heavy] A bible then... Okay, I'm paying you hundred and fifty for the book.}
+{160}{}{Really!? That's what it says? [his breathing becomes heavy] A bible then... Okay, I'm paying you a hundred and fifty for the book.}
 {161}{}{Deal!}
 {162}{}{What's so valuable about it? I better keep it to myself.}
 
@@ -86,7 +86,7 @@
 {171}{}{Okay, okay! Here.}
 {172}{}{No way! [fight]}
 
-{180}{}{[he throws you a bag of batteries, grabs the book and hastily leaves.]}
+{180}{}{[he throws you a bag of batteries, grabs the book, and hastily leaves.]}
 {181}{}{Bye to you too. Such a strange fella...}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß (Ïîëîæèòåëüíàÿ ğåàêöèÿ)

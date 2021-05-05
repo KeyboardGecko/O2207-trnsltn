@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see a huge guy.}
-{2}{}{The size of his fist equals to three of yours.}
+{2}{}{The size of his fist equals three of yours.}
 #
 # после знакомства
 {3}{}{You see Stan.}
@@ -28,7 +28,7 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[you see a giant man. Not much taller than you, but he's very well-built. Also, his fist is as big as three of yours. Looking at him you suddenly remember the tale about a green ogre, which your mother used to tell you before bedtime. His face looks pretty simple - like the one of orangutan solving the equation. You notice a pre-war badge of supermarket employee on his leather jacket. It says "Stan".]}
+{10}{}{[you see a giant man. Not much taller than you, but he's very well-built. Also, his fist is as big as three of yours. Looking at him you suddenly remember the tale about a green ogre, which your mother used to tell you before bedtime. His face looks pretty simple - like the one of an orangutan solving the equation. You notice a pre-war badge of a supermarket employee on his leather jacket. It says "Stan".]}
 {11}{002}{Uh... Hello?}
 {12}{003}{Hey you!}
 {13}{004}{[pose as one of the locals] Hey man.}
@@ -78,7 +78,7 @@
 
 
 {120}{}{Maybe. So?}
-{121}{013}{There's some rumor going, as far as I know: everyone's gonna bet on you in your fight with Vince, because the outcome is too obvious. So, that punk-ass bitch Casper wants to make profits of that, I tell you. He wants to set you up, so you'd drop down and he took all the cream. That cunning motherfucker...}
+{121}{013}{There's some rumor going, as far as I know: everyone's gonna bet on you in your fight with Vince because the outcome is too obvious. So, that punk-ass bitch Casper wants to make profits of that, I tell you. He wants to set you up, so you'd drop down and he took all the cream. That cunning motherfucker...}
 {122}{014}{There's an idea. A profitable one for you. You need to beat up Casper. We'll make our own bets. Deal?}
 
 
@@ -91,7 +91,7 @@
 {142}{999}{Fine. I'll deal with it myself.}
 
 
-{150}{}{Want me to tell you tales about my adulthood, first love and stuff? Go bother someone else with your fucking stupidity. }
+{150}{}{Want me to tell you tales about my adulthood, first love, and stuff? Go bother someone else with your fucking stupidity. }
 {151}{010}{Oh-kay... Another question then.}
 {152}{999}{Fine, I'll go...}
 

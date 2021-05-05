@@ -51,13 +51,13 @@
 #
 {100}{}{Want to know how I got here?}
 {101}{}{It was usual night, I was tired of running around on Herald's orders. And I already heard rumors about the outside world before, so I just started to run past guards into the Purgatory. They didn't even move! And in the Purgatory was so dark, couldn't see a thing. Only was hearing some slurping sounds around the corner. I barely made it out of there.}
-{102}{}{What happened... I got outside, pulled myself together, and was already going to walk to the Tower - but heard that ghoul calling me, telling that it's too dangerous. So we wandered around a little, and eventually came here. It was a very long time ago, if you think of it... }
+{102}{}{What happened... I got outside, pulled myself together, and was already going to walk to the tower - but heard that ghoul calling me, telling me that it's too dangerous. So we wandered around a little and eventually came here. It was a very long time ago, if you think of it... }
 {200}{}{Want to listen about how I ran away from Tartarus?}
-{201}{}{I had a friend there. He once noticed that the Sons of Gods almost never talk or move at night. Then it hit me - you can't see under the masks, if they sleep or not! So, me and my friend walked into the purgatory past them. Just out of curiosity. }
-{202}{}{Try to guess! There were this creatures, howling, so scary! So we tried to run back, but took all the wrong turns - and ended up outside. And that's where one of this local ghouls met us. We ended up coming here. Now we are deciding what do do next... [he starts to ponder]}
+{201}{}{I had a friend there. He once noticed that the Sons of Gods almost never talk or move at night. Then it hit me - you can't see under the masks if they sleep or not! So, me and my friend walked into the purgatory past them. Just out of curiosity. }
+{202}{}{Try to guess! There were these creatures, howling, so scary! So we tried to run back, but took all the wrong turns - and ended up outside. And that's where one of these local ghouls met us. We ended up coming here. Now we are deciding what to do next... [he starts to ponder]}
 {300}{}{Want me to tell you how I ended up here?}
 {301}{}{Did you see that big door in the Farms? Of course you did. I was pretty much fed up with living in Tartarus, so I stole four bottles of moonshine from Smitty... }
-{302}{}{Don't interrupt! So, I gave the moonshine to the guards, they made it look like they turned around, and the door like opened by itself. Though there were two other Son of Gods on the other side, but they just told me to get out of sight and that there's no going back for me... So there's no going back.}
+{302}{}{Don't interrupt! So, I gave the moonshine to the guards, they made it look like they turned around, and the door opened by itself. Though there were two other Son of Gods on the other side, they just told me to get out of sight and that there's no going back for me... So there's no going back.}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß
 # Ïîëîæèòåëüíûå ñîîáùåíèÿ

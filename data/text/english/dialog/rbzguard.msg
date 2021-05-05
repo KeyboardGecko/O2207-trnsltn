@@ -35,9 +35,9 @@
 {4}{}{You see a thug.}
 {5}{}{You see a Rainbow guard.}
 {6}{}{This ape-like huge guy doesn't look stupid at all.}
-{7}{}{He has rainbow-colored patch on his sleeve.}
+{7}{}{He has a rainbow-colored patch on his sleeve.}
 {8}{}{Looks like he could easily tie you into a knot. Literally.}
-{9}{}{His armor is covered with cracks, scratches and bullet holes.}
+{9}{}{His armor is covered with cracks, scratches, and bullet holes.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

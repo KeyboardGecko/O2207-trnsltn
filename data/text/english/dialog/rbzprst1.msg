@@ -29,15 +29,15 @@
 #
 #ˆ‘€ˆ… …‘€†€
 #
-{1}{}{You see a local sex-bomb.}
+{1}{}{You see a local sex bomb.}
 {2}{}{You see a half-naked girl.}
 {3}{}{You see an artist of pole and boobs.}
 {4}{}{You see a stripper.}
 {5}{}{You see a dancer.}
-{6}{}{Looks like her ass in set on a vibration mode.}
+{6}{}{Looks like her ass is set on a vibration mode.}
 {7}{}{When she smiles, her checkered teeth are shown.}
-{8}{}{She smells sweat, bad tobacco, cheap booze and... something else.}
-{9}{}{Looks like her dancing teacher was some Lavash in mating period.}
+{8}{}{She smells sweat, bad tobacco, cheap booze, and... something else.}
+{9}{}{Looks like her dancing teacher was some Lavash in the mating period.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #
@@ -45,9 +45,9 @@
 {102}{}{No sweetie, I'm paying twice a week, just as we agreed!}
 {103}{}{Don't get all hot-headed, just checking that you didn't forget about my 10 percent.}
 {104}{}{Came to collect? Here, take your 10 percent. All I have.}
-{105}{}{Look at that big bad tax autority, came for his percent! Here, "master", take it!}
+{105}{}{Look at that big bad tax authority, came for his percent! Here, "master", take it!}
 {106}{}{Yeah-yeah, twice a week... [gives you batteries] Here boss, all I could gather.}
-{107}{}{[take the batteries] Don't get too sassy or I'll put you under a pet jackals.}
+{107}{}{[take the batteries] Don't get too sassy or I'll put you under my pet jackals.}
 {17}{}{}
 {18}{}{}
 {19}{}{}

@@ -11,7 +11,7 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see a savage woman wearing woolen poncho.}
+{1}{}{You see a savage woman wearing a woolen poncho.}
 {2}{}{Unlike other locals, she looks quite friendly.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
@@ -45,7 +45,7 @@
 {115}{999}{I will be glad to talk to you, but later, okay?}
 
 
-{120}{}{[Ptuna smiles] Elder, my mother... She is a wise woman. She is able to communicate with spirits and see into souls of people. Don't try to lie to her, if she calls upon you.}
+{120}{}{[Ptuna smiles] Elder, my mother... She is a wise woman. She is able to communicate with spirits and see into the souls of people. Don't try to lie to her, if she calls upon you.}
 {121}{011}{Didn't even think about it. Another question?}
 {122}{999}{Thanks, I'll remember that. See you around, Ptuna.}
 
@@ -58,18 +58,18 @@
 {1401}{}{Khala can heal and cook, and Klumk brings the goods from strangers. [she frowns] But I don't like both of them. Khala is cruel, she likes to hurt people... Even my mother is afraid of her. And Klumk is always trying to make me play a beast with two backs with him. Ew... [she cringes]}
 {141}{011}{A what? Oh! I get it... Let's talk about something more pleasant then.}
 {142}{999}{You are popular, aren't you? Was nice seeing you, but I have to go.}
-{1402}{}{Khala could heal and cook, and Klumk brings the goods from strangers. [she frowns] But I did't like any of them. Khala was cruel, she liked to hurt people... Even my mother was afraid of her. I won't mourn her death. And Klumk is always trying to make me play a beast with two backs with him. Ew... [she cringes]}
+{1402}{}{Khala could heal and cook, and Klumk brings the goods from strangers. [she frowns] But I didn't like any of them. Khala was cruel, she liked to hurt people... Even my mother was afraid of her. I won't mourn her death. And Klumk is always trying to make me play a beast with two backs with him. Ew... [she cringes]}
 {143}{011}{A what? Oh! I get it... Let's talk about something more pleasant then.}
 {144}{999}{You are popular, aren't you? Was nice seeing you, but I have to go.}
-{1403}{}{Khala can heal and cook, and Klumk used to bring strange goods from strangers. [she frowns] But I did't like any of them. Khala is cruel, she likes to hurt people... Even my mother is afraid of her. And Klumk was always trying to make me play a beast with two backs with him. Ew... [she cringes] He was a good warrior, but I'm not going to miss him. And you gave him a good death in battle. Our spirits will greet him with honors.}
+{1403}{}{Khala can heal and cook, and Klumk used to bring strange goods from strangers. [she frowns] But I didn't like any of them. Khala is cruel, she likes to hurt people... Even my mother is afraid of her. And Klumk was always trying to make me play a beast with two backs with him. Ew... [she cringes] He was a good warrior, but I'm not going to miss him. And you gave him a good death in battle. Our spirits will greet him with honors.}
 {145}{011}{Yes, it was a good fight... But let's talk about something else.}
 {146}{999}{He stood in my way, that's it. Was nice seeing you, but I have to go.}
-{1404}{}{Khala can heal and cook, and Klumk used to bring strange goods from strangers. [she frowns] But I did't like any of them. Khala is cruel, she likes to hurt people... Even my mother is afraid of her. And Klumk was always trying to make me play a beast with two backs with him. Ew... [she cringes] He was a good warrior, but I'm not going to miss him. And you gave him a good death in battle. Our spirits will greet him with honors.}
+{1404}{}{Khala can heal and cook, and Klumk used to bring strange goods from strangers. [she frowns] But I didn't like any of them. Khala is cruel, she likes to hurt people... Even my mother is afraid of her. And Klumk was always trying to make me play a beast with two backs with him. Ew... [she cringes] He was a good warrior, but I'm not going to miss him. And you gave him a good death in battle. Our spirits will greet him with honors.}
 {147}{011}{Yes, it was a good fight... But let's talk about something else.}
 {148}{999}{He stood in my way, that's it. Was nice seeing you, but I have to go.}
 
-{150}{}{[Ptuna makes a long pause] He was one of us... I loved him, and he loved me. But Robin was kind of strange - he didn't want to eat the meat of outsiders. And he rejected our spirits! That's why he left... My mother would never let him to speak with tribe about such things. I... [her big eyes become filled with tears, but she immediately gets it together] He wanted me to go with him, but... I love my mother too much. Why, why didn't he eat this meat?! It is the same as any other!! [you notice dried bloody stains on her poncho and remind yourself about who are you dealing with]}
-{151}{016}{You know, I met Robin. Do you want me to tell him something, if I get the chance?}
+{150}{}{[Ptuna makes a long pause] He was one of us... I loved him, and he loved me. But Robin was kind of strange - he didn't want to eat the meat of outsiders. And he rejected our spirits! That's why he left... My mother would never let him speak with the tribe about such things. I... [her big eyes become filled with tears, but she immediately gets it together] He wanted me to go with him, but... I love my mother too much. Why, why didn't he eat this meat?! It is the same as any other!! [you notice dried bloody stains on her poncho and remind yourself about who are you dealing with]}
+{151}{016}{You know, I met Robin. Do you want me to tell him something if I get the chance?}
 {152}{011}{Yeah, a lot of things happen in life. Maybe let's change the subject?}
 {153}{999}{Sorry, didn't want to make you sad. It's time to take a break.}
 
@@ -81,12 +81,12 @@
 
 {170}{}{[she gets more lively] Did you see him? Where? Tell me!}
 {171}{018}{It's easy, you see. He ran off to a wasteland. I mean, Hook is a wild animal, the freedom is in his blood. So - don't worry too much, it was always coming down to this. He is going to be alright.}
-{172}{019}{He was killed and eaten by Khala. She told me that with a great pleasure.}
+{172}{019}{He was killed and eaten by Khala. She told me that with great pleasure.}
 {173}{020}{He was eaten by Khala. It was... An accident. She is very sorry about this and afraid to tell you the truth. }
-{174}{999}{Actually, I need to check upon something. I'll come by later.}
+{174}{999}{Actually, I need to check something. I'll come by later.}
 
 
-{180}{}{[Ptuna sobs and hastily wipes her eyes with bottom of a poncho] Just as I thought... But I miss him so much! Maybe he would still come back? But - I'm very grateful to you anyway. I'll tell mother to kill you fast, if it comes to this. }
+{180}{}{[Ptuna sobs and hastily wipes her eyes with the bottom of a poncho] Just as I thought... But I miss him so much! Maybe he would still come back? But - I'm very grateful to you anyway. I'll tell my mother to kill you fast if it comes to this. }
 {181}{999}{Thank you very much! Now I have nothing to worry about...}
 {182}{999}{Ha! It would be better for everyone if this doesn't happen. See you around, Ptuna.}
 
@@ -97,10 +97,10 @@
 
 {200}{}{[Ptuna sighs heavily] I want to kill her for it so much... But... If it was an accident... Khala is helpful for the tribe, and now my mother could keep her in fear... She will live then. I am grateful to you, but I ask you to leave me alone. Someone should mourn the Hook.}
 {201}{999}{Already leaving. We'll talk later.}
-{202}{999}{I understand what you feel. Of course you need to be left alone now.}
+{202}{999}{I understand what you feel. Of course, you need some time alone.}
 {213}{}{[Looks like Khala is done for...]}
 {214}{}{[exit]}
 
-{210}{}{The bitch has a very tough meat. Nasty.}
+{210}{}{The bitch has very tough meat. Nasty.}
 {211}{}{It's disgusting to eat, but necessary. I need to take her power.}
-{212}{}{Want this piece? You deserved it!}
+{212}{}{Want a piece? You deserved it!}
