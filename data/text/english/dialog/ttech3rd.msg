@@ -29,7 +29,7 @@
 {5}{}{You see a local man.}
 {6}{}{A common man, no more, no less.}
 {7}{}{Looks like he is busy with something.}
-{8}{}{He is responsible for workability of mechanisms in Tartarus.}
+{8}{}{He is responsible for the workability of mechanisms in Tartarus.}
 {9}{}{He is busy with something. Or trying to look like it.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
@@ -54,7 +54,7 @@
 {1004}{}{I would gladly stop and chat... But let's do it some other time.}
 {1005}{}{So good to see you!}
 {1006}{}{Wanna chat? Suit yourself.}
-{1007}{}{Listen, I've stashed something for you. Let's talk later, okay?}
+{1007}{}{Listen, I've stashed something for you. Okay, let's talk later.}
 {1008}{}{Visit me more often, okay?}
 {1009}{}{No sweat! Come back anytime!}
 # Íåéòğàëüíûå ñîîáùåíèÿ

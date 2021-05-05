@@ -34,12 +34,12 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{I won't brag about selling first-class merchandise, but with prices like this it's a crime not to buy!}
-{11}{}{Of course, my custom-made bullets are not as good as factory-made - but they are cheap and come in a single units!}
-{12}{}{Looking for something and can't find anywhere? Need it so badly it hurts? I have it all!}
+{11}{}{Of course, my custom-made bullets are not as good as factory-made - but they are cheap and come in single units!}
+{12}{}{Looking for something and can't find it anywhere? Need it so badly it hurts? I have it all!}
 {13}{}{Let's look at your stock.}
 {14}{}{No, I'm already leaving.}
 {15}{}{Why the hell are your ammo so expensive?}
-{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. Except they are no good anyway.}
+{16}{}{What do you think? They are genuine ones, factory-made! The amount of these birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses, and such - but it's still worth it! Don't like the price - go buy homemade ones from a junk dealer. Except they are no good anyway.}
 {17}{}{I see... Well, let's look at your goods one more time.}
 {18}{}{Understood. I've got to go now.}
 {19}{}{When will you sell me more serious guns?}

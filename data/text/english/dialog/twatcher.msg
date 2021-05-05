@@ -30,7 +30,7 @@
 {6}{}{The Warden keeping order.}
 {7}{}{The Watcher of Tartarus.}
 {8}{}{This man is responsible for keeping order in Tartarus.}
-{9}{}{He is always walking back and forth with a bored look.}
+{9}{}{He is walking back and forth with a bored look.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

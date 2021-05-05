@@ -27,7 +27,7 @@
 {3}{}{You see one of the servants.}
 {4}{}{You see a female Technology Servant.}
 {5}{}{You see a local repairwoman.}
-{6}{}{She is responsible for workability of mechanisms in Tartarus.}
+{6}{}{She is responsible for the workability of mechanisms in Tartarus.}
 {7}{}{It's very uncommon - to see a female Technology Servant.}
 {8}{}{This woman looks out for gears and pumps.}
 {9}{}{She is busy with something. Or trying to look like it.}

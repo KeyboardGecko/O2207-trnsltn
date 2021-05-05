@@ -1,25 +1,4 @@
-#############################################################
-#Текстовый файл для криттера << Слуга Технологий в тартаре на 0м этаже (м) >> 
-#Номер строки в scripts.lst << 38 >>
-#############################################################
-#Структура файла:
-#строки 1-9 - описание персонажа;
-#строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
-#Далее, по веткам диалога.
-#Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
-#Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем  
-#для реплики 100 использовать Node010, для реплики 240 - Node024.
-#Для ответов игрока - сквозная нумерация, т.е. на реплику 650 ответы будут 651, 652, 653 и т.д. 
-#Для особых ответвлений использовать дополнительные цифры (например, реплика 360 делится на 3601 и 3602,
-#это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
-#############################################################
-#Такая организационная система не позволяет создавать слишком сложные диалоги,
-#что для меня лично очень хорошо!!!
-############################################################
-#специально для "Олимп 2207", by Rainman, 06/11/2010
-#############################################################
-#
+
 #ОПИСАНИЕ КРИТТЕРА
 #
 {1}{}{You see a resident of Tartarus.}
@@ -27,7 +6,7 @@
 {3}{}{You see a Technology Servant.}
 {4}{}{You see a male servant.}
 {5}{}{You see a local man.}
-{6}{}{He is responsible for workability of mechanisms in Tartarus. It seems like he is searching for the parts here.}
+{6}{}{He is responsible for the workability of mechanisms in Tartarus. It seems like he is searching for the parts here.}
 {7}{}{Looks like he is busy with something.}
 {8}{}{Obviously, he tries to find something useful in all this junk.}
 {9}{}{He is busy with something. Or trying to look like it.}
@@ -54,7 +33,7 @@
 {1004}{}{I would gladly stop and chat... But let's do it some other time.}
 {1005}{}{So good to see you!}
 {1006}{}{Wanna chat? Suit yourself.}
-{1007}{}{Listen, I've stashed something for you. Let's talk later, okay?}
+{1007}{}{Listen, I've stashed something for you. Okay, let's talk later.}
 {1008}{}{Visit me more often, okay?}
 {1009}{}{No sweat! Come back anytime!}
 # Нейтральные сообщения
@@ -67,7 +46,7 @@
 {1016}{}{What else do you want?}
 {1017}{}{...And then I'm like - you are sparking here! Hilarious.}
 {1018}{}{...And then he's like - that's E-LEC-TREE-SEE-TEE!}
-{1019}{}{Oh. Listen, let's talk a litte later, okay?}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}
@@ -82,5 +61,5 @@
 
 #Спец сообщения ()
 {1030}{}{A valve? I recall there was one in a car, south-east corner.}
-{1031}{}{Huh? Yeah, I've seen one in south-east corner.}
-{1032}{}{Well, maybe look into that wreckage in south-east corner.}
+{1031}{}{Huh? Yeah, I've seen one in the south-east corner.}
+{1032}{}{Well, maybe look into that wreckage in the south-east corner.}

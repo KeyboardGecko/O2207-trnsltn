@@ -57,7 +57,7 @@
 {1102}{}{Uh-huh. I don't really care, but I've seen Catty recently. She was... Crying! You're, like, her boyfriend. Maybe you could ask her what's wrong.}
 {111}{}{Man, screw you. You're boring.}
 {112}{}{I'm not her boyfriend! But you're right, I'll go find her.}
-{120}{}{I don't know what to do. Remember that stupid thug Bully? Who is usually hanging out in the southeast room? I accidentally hit him with a stone, and now he wants to beat me up. Man, I'm so screwed!}
+{120}{}{I don't know what to do. Remember that stupid thug Bully? Who is usually hanging out in the south-east room? I accidentally hit him with a stone, and now he wants to beat me up. Man, I'm so screwed!}
 {121}{}{Yes, brother, you are. Tell me later how it went.}
 {122}{}{He is a menace, alright... I'll go think what to do with him.}
 {123}{}{Don't sweat it, I'll handle him!}

@@ -55,11 +55,11 @@
 {121}{}{Listen here, you little snot, give it to me right now!}
 {122}{}{But I am worthy! I can prove it!}
 {1301}{}{Huh... Not convinced! Bye, unworthy big guy!}
-{1302}{}{Yeah... You are scary, which means that you are worthy. I'll be right back! [He quickly runs off. As you start doubting your behaviour, he returns] Here it is, my treasure!}
+{1302}{}{Yeah... You are scary, which means that you are worthy. I'll be right back! [He quickly runs off. As you start doubting your behavior, he returns] Here it is, my treasure!}
 {131}{}{Oh you little...}
 {132}{}{Wow, thanks, kid! See you around!}
 {133}{}{Just what I need! Thanks, boy.}
-{140}{}{Well... [he meaningfully ponders] Okay then! Riddle me this - who is sneaking in the night through the path that's out of sight, wants to eat your tasty brains and to lay on what remains?}
+{140}{}{Well... [he meaningfully ponders] Okay then! Riddle me this - who is sneaking in the night through the path that's out of sight, wants to eat your tasty brains, and to lay on what remains?}
 {141}{}{Ugh... Scary creature?}
 {142}{}{Erm... Grey jackal?}
 {143}{}{Ahem... Hungry Feral?}

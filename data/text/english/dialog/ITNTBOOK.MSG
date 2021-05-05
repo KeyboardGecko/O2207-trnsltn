@@ -50,10 +50,10 @@
 #######################
 {201}{}{There's a note in the organizer about something called "Renaissance". On occasion, you should try to learn more.}
 {202}{}{I have all the parts of the Renaissance map! The coordinates are in the organizer, I should definitely go there.}
-{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck and Hinder about Sam.}
+{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck, and Hinder about Sam.}
 {204}{}{I'm the new head of the NWO... Can I give orders now?}
 {205}{}{It looks like you can get into Olympus under the guise of this Douglas guy. I need the same uniform and his badge...}
-{206}{}{List of items for Olympus: "Rapture", Ultra Repair Kit, Plasma rifle prototype and the NWO Encyclopedia.}
+{206}{}{List of items for Olympus: "Rapture", Ultra Repair Kit, Plasma rifle prototype, and the NWO Encyclopedia.}
 {207}{}{Just in case, I'll write down the code from the panel at Zochkis level: 2358.}
 {208}{}{}
 {209}{}{}
@@ -63,5 +63,5 @@
 {212}{}{Thick hide of Ursa is not susceptible to fire, but can be easily penetrated with bullets!}
 {213}{}{Ants and Scorpions easily shrug off flames and bullets, but they have clearly not adapted to explosives.}
 {214}{}{Jackals can be killed with an explosion or bullets, but fire is useless against them.}
-{215}{}{Bullets just bounce off the skins of Onca Devils! Your best chance against them is using the explosives or energy weapons!}
+{215}{}{Bullets just bounce off the skins of Onca Devils! Your best chance against them is using explosives or energy weapons!}
 {216}{}{}

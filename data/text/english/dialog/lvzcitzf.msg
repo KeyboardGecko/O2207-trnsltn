@@ -48,7 +48,7 @@
 # Положительные сообщения
 {1000}{}{Hello, handsome!}
 {1001}{}{Good day to you!}
-{1002}{}{Hello! Let's hang out by the wine machine some time later!}
+{1002}{}{Hello! Let's hang out by the wine machine later!}
 {1003}{}{Yes, I'm glad to see you too.}
 {1004}{}{It's a wonderful day to have sex isn't it? [winks]}
 {1005}{}{I am SO glad to see you!}
@@ -72,8 +72,8 @@
 {1021}{}{I hate you, scum!}
 {1022}{}{How dare you!?..}
 {1023}{}{You are insulting me just with your presence!}
-{1024}{}{Oh you fucking burp of nasty beast!}
-{1025}{}{I would tie you down and cut you up into a little pieces!}
+{1024}{}{Oh you fucking burp of a nasty beast!}
+{1025}{}{I would tie you down and cut you up into little pieces!}
 {1026}{}{Do a favor to the world by cutting your balls off!}
 {1027}{}{Eeew! Yuck! I feel sick, you filthy abomination!}
 {1028}{}{Asshole! All men are assholes, but you... You are the king of assholes!}

@@ -39,10 +39,10 @@
 {12}{}{Lily? Lily-y? Do you hear me? You have such a beautiful name, Lily... Lily-ly-ly-ly-lyy. Oh, it turns into a great lullaby! Lily-lily-lily-leee, lee-lily-lee-lily-leee...}
 {13}{}{[The girl doesn't react to your attempts to calm her, she continues to moan.]}
 {14}{}{[leave Lily alone]}
-{15}{}{[looks like the melody starts to have effect on a girl. She calms down and, after a few minutes, falls asleep.]}
+{15}{}{[looks like the melody starts to have an effect on a girl. She calms down and, after a few minutes, falls asleep.]}
 {16}{}{[quietly leave]}
-{17}{}{You feed the baby a few drops of alcohol. In a couple of minutes she calmly asleeps.}
-{18}{}{You sharply and precisely hit the baby in the top of her head. She goes off instantly. Now that's a skill!}
+{17}{}{You feed the baby a few drops of alcohol. In a couple of minutes, she is calmly asleep.}
+{18}{}{You sharply and precisely hit the baby on the top of her head. She blanks off instantly. Now that's a skill!}
 {19}{}{You are not quite sure your experience is enough to "turn off" the baby with this stick.}
 {20}{}{The girl suffers badly, she moans and moves around.}
 {21}{}{The girl is quietly sleeping. No need to wake her up.}

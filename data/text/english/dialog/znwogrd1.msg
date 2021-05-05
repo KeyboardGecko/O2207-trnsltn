@@ -22,11 +22,11 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 {1}{}{You see a guard.}
-{2}{}{You see a NWO guard.}
+{2}{}{You see an NWO guard.}
 {3}{}{You see a merchant's guard.}
 {4}{}{You see a vendor's guard.}
 {5}{}{You see an armed guard.}
-{6}{}{His face expression expresses absolutely nothing.}
+{6}{}{His facial expression expresses absolutely nothing.}
 {7}{}{Absolutely impenetrable, stone face.}
 {8}{}{It's obvious you shouldn't mess with him.}
 {9}{}{When he looks at you, you have chills.}

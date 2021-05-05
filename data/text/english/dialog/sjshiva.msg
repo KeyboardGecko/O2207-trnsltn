@@ -30,7 +30,7 @@
 {12}{002}{...}
 
 
-{20}{}{Yeah-yeah. So, what brings you into this extremely beautiful and interesting place? Wait a minute, let me guess: you came here from some half-dead farm, because you could barely make ends meet, and decided to live by the robbery and alcoholism, like a real thug.}
+{20}{}{Yeah-yeah. So, what brings you to this extremely beautiful and interesting place? Wait a minute, let me guess: you came here from some half-dead farm because you could barely make ends meet, and decided to live by the robbery and alcoholism, like a real thug.}
 {21}{003}{Well... you can say that.}
 {22}{006}{No, it is not like that at all.}
 
@@ -62,12 +62,12 @@
 {71}{997}{Don't care. I'll go find a more talkative companion.}
 
 
-{80}{}{So? Brick is literally breaking bricks with his head. He giggles while doing it, as if he is tickled.}
+{80}{}{So? Brick is literally breaking bricks with his head. He giggles while doing it, like he is tickled.}
 {81}{005}{Oh my, you are such a bore.}
 {82}{997}{Don't care. I'll go find a more talkative companion.}
 
 
-{90}{}{Yeah? Yesterday Carl disassembled, cleaned and assembled back Vince's rifle in seven minutes. And Vince's rifle was fully covered in shit.}
+{90}{}{Yeah? Yesterday Carl disassembled, cleaned, and assembled back Vince's rifle in seven minutes. And Vince's rifle was fully covered in shit.}
 {91}{005}{Oh my, you are such a bore.}
 {92}{997}{Don't care. I'll go find a more talkative companion.}
 
@@ -87,5 +87,5 @@
 {132}{012}{You wish. I have one less problem if you won't be prattling about me around here.}
 
 
-{140}{}{[Shiva hears you out. At first, she was mostly rolling her eyes, but after a couple of minutes in, you had her full attention.] You are really from there! This is nuts! Usually we are not very fond of their people, because when we approach the tower, they tend to kill us. So I wouldn't advise to talk around here about where you are from. The others won't listen to your story and will beat the shit out of you right after the phrase "I am from Olympus." But I'll keep it as a secret. [she smiles, scratching her forehead, and moves a lock of hair from her eyes] It was really interesting... Well, don't hang around here for long - one of my boyfriends could think that you are a competitor [she giggles]}
+{140}{}{[Shiva hears you out. At first, she was mostly rolling her eyes, but after a couple of minutes in, you had her full attention.] You are really from there! This is nuts! Usually, we are not very fond of their people, because when we approach the tower, they tend to kill us. So I wouldn't advise you to talk around here about where you are from. The others won't listen to your story and will beat the shit out of you right after the phrase "I am from Olympus." But I'll keep it a secret. [she smiles, scratching her forehead, and moves a lock of hair from her eyes] It was really interesting... Well, don't hang around here for long - one of my boyfriends could think that you are a competitor [she giggles]}
 {141}{996}{Okay, I'm leaving already.}

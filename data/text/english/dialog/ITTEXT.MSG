@@ -77,8 +77,8 @@
 #Undead Cave
 #
 {150}{}{It looks like the toilet is completely clogged with sewage. You have no idea what you could do with it, it's about to spill over the edge!}
-{151}{}{After long, painfull and smelly attempts to clear the clogged drain, you finally hear a gurgling-slurping sound and a wave of sewage pours out of the toilet. Beneath this stinking mass you happen to find a piece of map neatly wrapped in plastic.}
-{152}{}{A toilet, successfully declogged by your strong hands.}
+{151}{}{After long, painful, and smelly attempts to clear the clogged drain, you finally hear a gurgling-slurping sound and a wave of sewage pours out of the toilet. Beneath this stinking mass, you happen to find a piece of map neatly wrapped in plastic.}
+{152}{}{A toilet, successfully unclogged by your strong hands.}
 {153}{}{A clogged toilet.}
 {154}{}{A cleaned toilet bowl.}
 #

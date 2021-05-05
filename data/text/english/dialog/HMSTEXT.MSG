@@ -1,6 +1,6 @@
 # This file describes the messages,
 # used for the HMS window
-#
+# 
 # Created by Artem "Rainman" Samoylov
 # 29/09/2011
 #

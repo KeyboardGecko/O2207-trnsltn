@@ -86,7 +86,7 @@
 {165}{999}{We'll see about that. If this place exists.}
 {166}{017}{I'll definitely check it out. What else can you tell me?}
 
-{170}{}{[he stops to take another gulp] But the most interesting things were in a destroyed town to the southeast of Olympus. My theory is this - when the war started, locals managed to get into catacombs. They tried to settle there... Except nature is a bitch, and it had darkness and radiation to put against their hand-made shelters. So, they changed. Now they can easily smell you a hundred feet away - but their skin is thinner than a condom, I'm telling you! You look at one - and see what he had for breakfast! Well, maybe I'm exaggerating a little, but still pretty close. You can pierce them with a finger, hehe... This is exactly what I did when trying to get a sample... But that's another story, not for your ears. }
+{170}{}{[he stops to take another gulp] But the most interesting things were in a destroyed town to the south-east of Olympus. My theory is this - when the war started, locals managed to get into catacombs. They tried to settle there... Except nature is a bitch, and it had darkness and radiation to put against their hand-made shelters. So, they changed. Now they can easily smell you a hundred feet away - but their skin is thinner than a condom, I'm telling you! You look at one - and see what he had for breakfast! Well, maybe I'm exaggerating a little, but still pretty close. You can pierce them with a finger, hehe... This is exactly what I did when trying to get a sample... But that's another story, not for your ears. }
 {171}{018}{Yeah, you see a lot of strange stuff around Radius... What about here? What are you doing here?}
 {172}{999}{Thank you for telling me all this, but I need to go.}
 

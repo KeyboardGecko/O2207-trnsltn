@@ -25,7 +25,7 @@
 {2}{}{You see a female guard.}
 {3}{}{You see a local.}
 {4}{}{You see a guard.}
-{5}{}{You see a NWO guard.}
+{5}{}{You see an NWO guard.}
 {6}{}{She stares into nothingness.}
 {7}{}{Looks like she is sleeping with her eyes open.}
 {8}{}{It seems that she is incredibly bored by standing here.}

@@ -26,7 +26,7 @@
 {3}{}{You see a local.}
 {4}{}{You see a guard.}
 {5}{}{You see an NWO watchman.}
-{6}{}{His face expression expresses absolutely nothing.}
+{6}{}{His facial expression expresses absolutely nothing.}
 {7}{}{Absolutely impenetrable, stone face.}
 {8}{}{Looks like he is very, extremely, incredibly bored.}
 {9}{}{His glassy look hints that it's better not to bother him.}

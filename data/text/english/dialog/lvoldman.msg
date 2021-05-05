@@ -21,7 +21,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[Old man looks senile and exhausted. He slowly raises his cloudy eyes to you, and says with squeaky voice] Billy? Son, is that you? }
+{10}{}{[Old man looks senile and exhausted. He slowly raises his cloudy eyes to you, and says with a squeaky voice] Billy? Son, is that you? }
 {11}{011}{No, I'm }
 {12}{011}{. What's your name, old man?}
 {13}{011}{Yeah, that's Billy, that's me. Maybe you have something valuable for your dear son?}
@@ -29,7 +29,7 @@
 #Node010
 {100}{}{Oh, Billy! Looks like I took a little nap.  The curse of being old...}
 {101}{012}{You were saying something, old man.}
-{102}{999}{Go ond and sleep then. [leave]}
+{102}{999}{Go on and sleep then. [leave]}
 
 #Node011
 {110}{}{Huh? What? I can't hear you, son, I'm very old. And Billy, come a little closer - My eyes started to fail me too.}
@@ -38,13 +38,13 @@
 {113}{999}{Sorry, old man. I've got to go. Bye.}
 
 #Node012
-{120}{}{[Looks like he gazes through you] It is so good that you are alive! I believed, I knew you would make it to the Olympus and one day you will show up with a good news, just as you promised. Nothing for so long... Mary didn't make it, I buried her recently, poor sob. She would be so glad. She felt very nervous, was thinking that you disappeared somewhere in the wasteland or forgot about your old folks. She was even saying that there's no salvation in the Olympus, it's all fairy tales. Can you imagine? But me, I believed, I hoped! And not in vain! How are the girls, how's Sam? Must be grown up by now. How are the others? }
-{121}{013}{Yeah, looks like you are really have a difficult hearing. Okay, I'll be Billy for a while.}
+{120}{}{[Looks like he gazes through you] It is so good that you are alive! I believed, I knew you would make it to the Olympus and one day you will show up with good news, just as you promised. Nothing for so long... Mary didn't make it, I buried her recently, poor sob. She would be so glad. She felt very nervous, was thinking that you disappeared somewhere in the wasteland or forgot about your old folks. She was even saying that there's no salvation in Olympus, it's all fairy tales. Can you imagine? But for me, I believed, I hoped! And not in vain! How are the girls, how's Sam? Must be grown up by now. How are the others? }
+{121}{013}{Yeah, looks like you really have a difficult hearing. Okay, I'll be Billy for a while.}
 {122}{999}{Blah, blah, blah-blah-blah. [turn around and leave]}
-{123}{888}{Naaah. I won't be listening to this nonsence. Maybe a good kick would make you more lively? [push him]}
+{123}{888}{Naaah. I won't be listening to this nonsense. Maybe a good kick would make you more lively? [push him]}
 
 #Node013
-{130}{}{You know, Billy, you were right back then to leave this place, together with everyone in the village, and to look for salvation in the Olympus. We wouldn't make it in here. The well went completely dry, we barely had enough water for me and Mary. And the soil went bad - even the dillweed didn't grow. The jackals were always coming for us, looking for food. No one even wandered in here. It was a hard time. Our only hope was that you've made it to the tower and now are safe. This hope is all we had all these years. [He sighs] Sometimes, we were sitting together on the top of the hill with Mary, looking at the Olympus, thinking about how huge it is, if you can see it from such a distance. And that means you and your family should find a place in there. I miss them so much, my little grandchildren. I wonder how big are they now... [he closes his eyes and sinks into his thoughts]}
+{130}{}{You know, Billy, you were right back then to leave this place, together with everyone in the village, and to look for salvation in the Olympus. We wouldn't make it in here. The well went completely dry, we barely had enough water for me and Mary. And the soil went bad - even the dillweed didn't grow. The jackals were always coming for us, looking for food. No one even wandered in here. It was a hard time. Our only hope was that you've made it to the tower and now are safe. This hope is all we had all these years. [He sighs] Sometimes, we were sitting together on the top of the hill with Mary, looking at the Olympus, thinking about how huge it is if you can see it from such a distance. And that means you and your family should find a place there. I miss them so much, my little grandchildren. I wonder how big are they now... [he closes his eyes and sinks into his thoughts]}
 {131}{014}{Hey, old man! I'm still here... But looks like you are talking to yourself anyway.}
 {132}{999}{What a bore. I'd better go, while I didn't get so old myself.}
 

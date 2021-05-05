@@ -56,7 +56,7 @@
 {105}{}{I'll talk to him and get the medicine for your mom, don't worry!}
 {106}{}{Catty, did you see my dad's wrench? A small one, with a wooden handle?}
 {107}{}{You asked me to get medicine for your mom...}
-{108}{}{He-ey! [as usual, Catty is smiling to you, twirling her hair.]}
+{108}{}{He-ey! [as usual, Catty is smiling at you, twirling her hair.]}
 {109}{}{Hello! You look sad, Catty.}
 {110}{}{I don't knoooow!!! [she sobs] He... He says... He already gave mom... Mom her medicineeee...}
 {111}{}{You know, it's so scary to talk to him... I wish your mom to get better, bye!}

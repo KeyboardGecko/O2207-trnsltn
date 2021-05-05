@@ -3,7 +3,7 @@
 #############################################################
 #File structure:
 #lines 1-9 - description of the character;
-#lines 10-29 - acquaintance with a pesonage;
+#lines 10-29 - acquaintance with a personage;
 #lines 30-99 - I don't know yet, but I think it will be useful...
 #Next, on the branches of the dialogue.
 #Each branch is a multiple of 100, i.e. 100 is one topic of dialogue, 200 is another.
@@ -24,7 +24,7 @@
 {1}{}{You see a guy.}
 {2}{}{You see a local guy.}
 {3}{}{You see a young man.}
-{4}{}{You see a resident of vault.}
+{4}{}{You see a resident of the vault.}
 {5}{}{You see a dweller of Livos.}
 {6}{}{A young man. The web of blue veins is clearly seen through the pale skin.}
 {7}{}{He dresses quite well.}
@@ -46,7 +46,7 @@
 # Positive messages
 {1000}{}{Greetings brother!}
 {1001}{}{Good day, friend!}
-{1002}{}{Hello! Let's hang out by the wine machine some time later!}
+{1002}{}{Hello! Let's hang out by the wine machine later!}
 {1003}{}{Yes, yes, I'm glad to see you too.}
 {1004}{}{Wonderful day today, isn't it?}
 {1005}{}{I'm so glad to see you!}
@@ -69,8 +69,8 @@
 {1020}{}{Arrrgh! Go away!}
 {1021}{}{I hate you, scum!}
 {1022}{}{How dare you!?..}
-{1023}{}{Get away, abomination of hell!}
-{1024}{}{Oh you fucking burp of nasty beast!}
+{1023}{}{Get away, the abomination of hell!}
+{1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I'm gonna tear out your spleen and eat it with a glass of Chianti!}
 {1026}{}{We urgently need to clear the world of your presence, you bastard!}
 {1027}{}{What the hell do you want from me?!}
@@ -85,5 +85,5 @@
 {1035}{}{Someone, bring me an electric hammer! I will show these gears...}
 {1036}{}{I am the light of the New World! I must breed, not sweat here...}
 {1037}{}{Rrrh, n- oh, come on! Work, you hellish device!}
-{1038}{}{Filters don't filter, generator does not generate...}
+{1038}{}{Filters don't filter, the generator does not generate...}
 {1039}{}{...We need to make filters filter and regenerate the generator!}

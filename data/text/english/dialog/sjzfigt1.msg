@@ -25,7 +25,7 @@
 {2}{}{You see one of the Jackals.}
 {3}{}{You see a brawler.}
 {4}{}{You see a raider.}
-{5}{}{You see one of thugs.}
+{5}{}{You see one of the thugs.}
 {6}{}{He frantically beats the shit out of his opponent.}
 {7}{}{Looks like he is very busy with beating up his opponent.}
 {8}{}{He is covered with scars. Looks like it isn't his first time to walk on that ring.}

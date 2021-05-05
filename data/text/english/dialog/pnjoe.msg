@@ -29,7 +29,7 @@
 {15}{999}{I just wanted to take a leak... I'll find another place.}
 
 #Node002
-{20}{}{Whut? [he puts palm to his ear] Whut-whut? Who am I? I'm Joe, even the last rat knows me 'round here. I'm lookin' fer my wife, Nadine. A reel beauty, tan and stuff. Did you two meet? I haven't seen 'er in a long time...}
+{20}{}{Whut? [he puts palm to his ear] Whut-whut? Who am I? I'm Joe, even the last rat knows me 'round here. I'm lookin' fer my wife, Nadine. A reel beauty, tan, and stuff. Did you two meet? I haven't seen 'er in a long time...}
 {21}{010}{Uh, no, I didn't see her. I actually wanted to ask something.}
 {22}{010}{What? Wife? No. I have a question though.}
 {23}{030}{Hmm... No, but I could look for her.}
@@ -64,7 +64,7 @@
 #NodeQA
 
 #Node040
-{400}{}{Well, did ye find something? Ye weren't here for a long time!}
+{400}{}{Well, did ye find something? Ye wasn't here for a long time!}
 {401}{041}{Yes Joe, I found her. She is dead. You buried her yourself. Even made a little memorial plank. With a dove.}
 {402}{999}{I'm searching. Will come back to you soon.}
 

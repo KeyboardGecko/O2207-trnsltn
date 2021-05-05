@@ -1,24 +1,4 @@
-#############################################################
-#Текстовый файл для криттера << Пес торговец оружием >> 
-#############################################################
-#Структура файла:
-#строки 1-9 - описание персонажа;
-#строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
-#Далее, по веткам диалога.
-#Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
-#Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
-#для реплики 100 использовать Node010, для реплики 240 - Node024.
-#Для ответов игрока - сквозная нумерация, т.е. на реплику 650 ответы будут 651, 652, 653 и т.д. 
-#Для особых ответвлений использовать дополнительные цифры (например, реплика 360 делится на 3601 и 3602,
-#это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
-#############################################################
-#Такая организационная система не позволяет создавать слишком сложные диалоги,
-#что для меня лично очень хорошо!!!
-############################################################
-#специально для "Олимп 2207", by Rainman, 06/11/2010
-#############################################################
-#
+
 #ОПИСАНИЕ КРИТТЕРА
 #
 {1}{}{You see a trader.}
@@ -39,7 +19,7 @@
 {13}{}{Show me what you have.}
 {14}{}{No, I'm already leaving.}
 {15}{}{Why the hell are your ammo so expensive?}
-{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. Except they are no good anyway.}
+{16}{}{What do you think? They are genuine ones, factory-made! The amount of these birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses, and such - but it's still worth it! Don't like the price - go buy homemade ones from a junk dealer. Except they are no good anyway.}
 {17}{}{I see... Well, let's look at your goods one more time.}
 {18}{}{Understood. I've got to go now.}
 {19}{}{When will you sell me more serious guns?}

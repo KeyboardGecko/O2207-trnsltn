@@ -65,7 +65,7 @@
 {130}{}{[he sighs again] I hope you know what you're doing. Take care of yourself, }
 {131}{}{.}
 {132}{}{Of course. Don't worry about me. How are you feeling?}
-#
+# 
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #
 {1000}{}{I think something wrong in the Tartarus.}
