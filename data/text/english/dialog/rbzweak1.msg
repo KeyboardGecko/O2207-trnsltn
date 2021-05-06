@@ -121,4 +121,4 @@
 {1056}{}{With the new Drop we will own the whole Radius!}
 {1057}{}{[wheezes] D-drop-p...}
 {1058}{}{Dose, dose, dose, dose...}
-{1059}{}{They are following me... That's it, they will come for each ghoul...}
+{1059}{}{They are following me... They will come for every ghoul...}

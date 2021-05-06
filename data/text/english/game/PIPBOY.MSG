@@ -185,33 +185,33 @@
 {1002}{}{for a long time... Goddamn it! One more try.}
 {1003}{}{Nicole, it's been three months since we've been }
 {1004}{}{living here, and we still haven't... What the hell?}
-{1005}{}{Nicole? Oh God! No! Ahhhh!!!! [loud noises, then}
+{1005}{}{Nicole? Oh God! No! Ahhhhh!!!! [loud noises, then}
 {1006}{}{another voice comes in] Pussy. Hey, what do we}
-{1007}{}{have here? A souvenir? Well, well… Buttons, but-}
+{1007}{}{have here? A souvenir? Huh. Let's see, buttons, but-}
 {1008}{}{**END-PAR**}
 {1009}{}{**END-PAR**}
 {1010}{}{March 4, 2151.}
-{1011}{}{Looks like it's recording... Jackal speaking. We are }
+{1011}{}{Looks like the thing's on... Jackal speaking. We are }
 {1012}{}{the Jackals, the biggest power in this goddamn }
 {1013}{}{Radius, and if you, unknown bastard, are listening}
 {1014}{}{to this recording, you're probably dead - or about }
 {1015}{}{to be! [hoarse laughter] This military base is now}
-{1016}{}{our new bas. This is where we'll settle, and this is }
-{1017}{}{where we start building our new empire. the New}
+{1016}{}{our new base. This is where we'll settle, and this is }
+{1017}{}{where we'll start building our new empire, the New}
 {1018}{}{Radius. Anyone who stands in our way will be}
 {1019}{}{wiped out, crushed, destroyed like these pussies}
-{1020}{}{who triet not to let us in here! Soon it'll be the}
+{1020}{}{who tried not to let us in here! Soon it would be the}
 {1021}{}{turn of the fucking skyscraper... Then we'll live like}
 {1022}{}{kings! Prepare yourselves, you wretches.}
 {1023}{}{**END-PAR**}
 {1024}{}{**END-PAR**}
 {1025}{}{April 12, 2151}
-{1026}{}{It's not so bad here, actually. The vagrants didn't get}
-{1027}{}{through the warehouse door, kindly leaving all the}
-{1028}{}{weapons inside to us. Half the guns are rusty, but}
-{1029}{}{that's all right, we'll fix them up and they'll be as good}
+{1026}{}{It's not so bad here, actually. The vagrants didn't}
+{1027}{}{get through the warehouse door, kindly leaving all}
+{1028}{}{the weapons inside to us. Half the guns are rusty, but}
+{1029}{}{that's all right, we'll fix them, and they'll be good}
 {1030}{}{as new. Dealing with machinery is more difficult, we }
-{1031}{}{need spare parts… Tomorrow we're moving to the}
+{1031}{}{need spare parts... Tomorrow we're moving to the}
 {1032}{}{east, the ruins should have the hardware we need.}
 {1033}{}{**END-PAR**}
 {1034}{}{**END-PAR**}
@@ -219,219 +219,219 @@
 {1036}{}{Holy Wasteland! We were seriously battered by these }
 {1037}{}{Olympian "Predators"... 28 brave Jackals went to Hell}
 {1038}{}{tonight! Fucking bastards came in through the front }
-{1039}{}{door, but acted so brainless that they haven't even }
-{1040}{}{bothered to call for backup! Naive, arrogant assholes!}
+{1039}{}{door, but were so brainless that they didn't even }
+{1040}{}{bother to call for backup! Naive, arrogant assholes!}
 {1041}{}{Maybe their armor gives them a good protection from }
-{1042}{}{bullets and radiation, but they couldn't stand up to two }
-{1043}{}{miniguns! Too bad the suits are torn to bits, I could've}
-{1044}{}{used one. Still, the engines of the three "Predators"}
+{1042}{}{radiation and shit, but they couldn't stand up to two }
+{1043}{}{miniguns! Too bad the suits are torn to bits, I could}
+{1044}{}{use one. Still, the engines of the three "Predators"}
 {1045}{}{turned out to be intact. Smartie  will attach them to}
 {1046}{}{the machinery, and we will be able to mostly replenish}
 {1047}{}{our arsenal. Next time we'll be able to fight back any}
-{1048}{}{asshole coming to us! And, uh, Johnny, my mate…}
+{1048}{}{asshole coming to us! And, uh, Johnny, my mate...}
 {1049}{}{Rest in peace.}
 {1050}{}{**END-PAR**}
 {1051}{}{**END-PAR**}
 {1052}{}{May 13th, 2153}
-{1053}{}{Of the 8 Jackals sent to the southern border, only one }
-{1054}{}{made it back. The bastard abandoned his own. It's okay,}
-{1055}{}{a public flogging will amuse the others... If it wasn't for}
-{1056}{}{the info he brought, I'd have torn his arms and legs off,}
-{1057}{}{ripped his belly open and feed his guts to the jackals.}
-{1058}{}{Six Jackals killed, one captured, and one escaped - that}
-{1059}{}{rat... So, the thing is that there's a fortified facility in}
-{1060}{}{the south part of Radius, the New World Order or}
-{1061}{}{something. They make some kind of canned food out of}
-{1062}{}{mutated things. It's not much of a delicacy, but still edible... }
-{1063}{}{And a lot safer than hunting Ursa. Their security is not very}
-{1064}{}{serious, they don't have a lot of guns, and we could}
-{1065}{}{just kill them one by one  on the street. But if they decide}
-{1066}{}{to barricade inside the factory - that'll be the problem. }
-{1067}{}{We need to figure out the way to lure them out... And in}
-{1068}{}{the meantime, let's trade our rusty rifles for their stuff…}
+{1053}{}{Of the 8 Jackals sent to the southern border, only }
+{1054}{}{one made it back. The bastard abandoned his own.}
+{1055}{}{A public flogging will amuse the others... If it }
+{1056}{}{wasn't for the info he brought, I'd have torn his arms}
+{1057}{}{off, ripped his belly open and feed guts to the dogs.}
+{1058}{}{6 Jackals killed, one captured, and one escaped - the}
+{1059}{}{rat... So, the thing is that there's a fortified}
+{1060}{}{facility in the south part of Radius, the New World}
+{1061}{}{Order or something. They make some kind of canned}
+{1062}{}{food out of mutants. It's not much of a delicacy, but}
+{1063}{}{still edible... And a lot safer than hunting Ursa.}
+{1064}{}{Their security is shit, they don't have a lot of guns,}
+{1065}{}{and we could just kill them one by one on the street.}
+{1066}{}{But if they decide to barricade inside the factory…}
+{1067}{}{We need to find the way to lure them out. And in the}
+{1068}{}{meantime, let's trade our rusty rifles for their food.}
 {1069}{}{**END-PAR**}
 {1070}{}{**END-PAR**}
-{1071}{}{26 июня 2154}
-{1072}{}{Аргх... Мы отступили... Нет, мы просто сбежали. }
-{1073}{}{Десять "Дефендеров" - это ебаная непобедимая }
-{1074}{}{армия, наши пули их просто не берут... Вот уже }
-{1075}{}{второй день идем на север, в горы, вроде нас не }
-{1076}{}{преследуют... Я... У меня... оторвало кисть }
-{1077}{}{правой руки. Даже не знаю, что у них за оружие, }
-{1078}{}{но мой револьвер просто разлетелся на куски }
-{1079}{}{вместе с мясом и костями... Черт... На все у них}
-{1080}{}{ушло минут 30, не больше. Ублюдки просто }
-{1081}{}{развлекались, убивая нас. Хорошо еще, что мы }
-{1082}{}{успели вынести большую часть стволов...}
+{1071}{}{June 26, 2154}
+{1072}{}{Argh... We retreated... Goddamn it, we just fled.}
+{1073}{}{Ten "Defenders" is a fucking invincible army, the}
+{1074}{}{bullets are like flies to them...  It's been two days}
+{1075}{}{of walking north into the mountains… and they don't}
+{1076}{}{seem to be after us. I got... I lost the right hand.}
+{1077}{}{I don't even know what kind of guns they had, but}
+{1078}{}{my revolver just exploded, together with all the }
+{1079}{}{meat and the bones... Shit... It all took them}
+{1080}{}{about 30 minutes, tops. These bastards were just }
+{1081}{}{having fun killing us. It's a good thing we managed }
+{1082}{}{to get most of the guns out there before that…}
 {1083}{}{**END-PAR**}
 {1084}{}{**END-PAR**}
-{1085}{}{02 июля 2154}
-{1086}{}{Здесь какие-то руины, но пара домов вроде еще }
-{1087}{}{стоят. Половина псов разбежались, прихватив с }
-{1088}{}{собой стволы. Неблагодарные пидары... Пока }
-{1089}{}{возвращаться нельзя, нужно переждать...}
+{1085}{}{July 02, 2154}
+{1086}{}{There are some ruins here, but a couple of houses}
+{1087}{}{still seem to stand. Half of the Jackals are ran off }
+{1088}{}{with their guns. Ungrateful motherfuckers... We}
+{1089}{}{can't go back for now, we have to wait it out...}
 {1090}{}{**END-PAR**}
 {1091}{}{**END-PAR**}
-{1092}{}{20 мая 2164}
-{1093}{}{6 месяцев на базе никого не было - настало время }
-{1094}{}{вернуться домой.}
+{1092}{}{May 20, 2164}
+{1093}{}{In the past six months no one has been to base.}
+{1094}{}{Time to come home.}
 {1095}{}{**END-PAR**}
 {1096}{}{**END-PAR**}
-{1097}{}{25 мая 2164}
-{1098}{}{Наконец-то мы дома! 10 лет жизни дикарями за }
-{1099}{}{северной границей научили нас выживать в любых }
-{1100}{}{ситуациях. Вспомнить хотя бы того урса - решил,}
-{1101}{}{что нашел легкую добычу! Чертовы урсы... Тошнит }
-{1102}{}{от их мяса... Первый осмотр ничего хорошего не }
-{1103}{}{говорит - здесь остались только стены.. Ни }
-{1104}{}{генераторов, ни инструментов. Нужно начинать все}
-{1105}{}{с нуля...}
+{1097}{}{May 25, 2164}
+{1098}{}{We are finally home! Ten years of living as savages}
+{1099}{}{across the northern border have taught us to survive}
+{1100}{}{in any situations. For example, take that Ursa, who}
+{1101}{}{thought he'd found easy prey! Damn Ursa... So sick}
+{1102}{}{of their meat... The quick inspection shows nothing}
+{1103}{}{good - the only thing left here is the walls. No }
+{1104}{}{generators, no tools. We have to start everything}
+{1105}{}{from scratch…}
 {1106}{}{**END-PAR**}
 {1107}{}{**END-PAR**}
-{1108}{}{29 мая 2164}
-{1109}{}{Отправил почти всех псов в рейд за железками и }
-{1110}{}{пищей, остались только охранники да пара }
-{1111}{}{удолбанных. Очень кстати, хе-хе-хе... Туполобым}
-{1112}{}{псам незачем знать о такой находке: эта база }
-{1113}{}{оказалась не такой уж простой! В толчке у казарм}
-{1114}{}{я заметил скрытую панель в полу, похоже под}
-{1115}{}{землей какая-то лаборатория или убежище, типа }
-{1116}{}{моего. Уж там-то должны быть железяки и источники,}
-{1117}{}{из которых рукастый Стиви сможет сварганить }
-{1118}{}{оборудование для ремонта стволов, а потом, когда}
-{1119}{}{нас станет достаточно - Олимп падет перед нашей}
-{1120}{}{мощью!}
+{1108}{}{May 29, 2164}
+{1109}{}{Sent almost all the dogs on a raid for hardware and }
+{1110}{}{food. Only the guards are here, and a couple of the}
+{1111}{}{stoned ones. Just in time hehehe... Dumb Jackals}
+{1112}{}{don't need to know about my find: this base turned}
+{1113}{}{out to be not so simple! In the toilet by the barracks}
+{1114}{}{I found a hidden panel in the floor. Looks like it}
+{1115}{}{leads to some kind of an underground laboratory or}
+{1116}{}{a vault, like the one in my room. There should surely}
+{1117}{}{be enough stuff which the handy Stevie can use to}
+{1118}{}{hack together the equipment for repairing our guns,}
+{1119}{}{and when there's enough of us, Olympus will finally}
+{1120}{}{fall before our power!}
 {1121}{}{**END-DISK**}
-###########################################################
-# GVAR_DISK_JANGS_RESEARCHES
-###########################################################
-{2000}{}{Работа над антирадиационным болеутоляющим}
+{###########################################################}{}{}
+{# GVAR_DISK_JANGS_RESEARCHES}{}{}
+{###########################################################}{}{}
+{2000}{}{Working on an anti-radiation painkiller.}
 {2001}{}{...}
-{2002}{}{30 сентября 2183}
-{2003}{}{Хотя радиация заметно спадает в большинстве }
-{2004}{}{известных зон Радиуса, и искатели не умирают так}
-{2005}{}{быстро, для них необходимо разработать }
-{2006}{}{какой-нибудь новый препарат, помогающий в дальних}
-{2007}{}{походах. Наиболее разумным выглядит создание }
-{2008}{}{препарата, обладающего свойствами болеутоляющего,}
-{2009}{}{стимулирующего и рад-выводящего воздействия. }
-{2010}{}{Очевидно, что опыты нужно начинать с глубокого }
-{2011}{}{изучения свойств "Рад-аут'а". Благо, несколько }
-{2012}{}{довоенных записей Рэйнбоу Фармасьютиклз еще }
-{2013}{}{читаемы. Что ж, приступим.}
+{2002}{}{September 30, 2183}
+{2003}{}{Although radiation is visibly dropping in the most }
+{2004}{}{known areas of Radius, and Seekers don't die as}
+{2005}{}{quickly, there is a demand for developing a new drug}
+{2006}{}{to help them on their long-range missions. The most}
+{2007}{}{sensible thing to do would be to try to synthesize }
+{2008}{}{something that has the properties of a painkiller, a}
+{2009}{}{stimulant and a radiation-removing agent. Obviously,}
+{2010}{}{the experiments should begin with an in-depth study}
+{2011}{}{of the "RadOut" properties. Fortunately, several }
+{2012}{}{pre-war documents on Rainbow Pharmaceuticals are }
+{2013}{}{still readable. Well, let's get started.}
 {2014}{}{**END-PAR**}
 {2015}{}{**END-PAR**}
-{2016}{}{26 декабря 2183}
-{2017}{}{Уже много дней и ночей я безуспешно бьюсь над }
-{2018}{}{поиском основного компонента Рад-аут'а... }
-{2019}{}{Формула, описанная в довоенных данных, чисто }
-{2020}{}{синтетическая, и ни о чем мне не говорит, }
-{2021}{}{остается лишь исследовать живность, }
-{2022}{}{приспособившуюся переносить радиацию. Пожалуй, }
-{2023}{}{начнем со скорпионов.}
+{2016}{}{December 26, 2183}
+{2017}{}{For many days and nights now, I'm unsuccessfully}
+{2018}{}{trying to find out the base  "RadOut" component. }
+{2019}{}{The formula described in the pre-war data is purely }
+{2020}{}{synthetic, it doesn't tell me anything. So, the only }
+{2021}{}{available option left is to study the wildlife that}
+{2022}{}{developed resistance to the radiation. Let's start}
+{2023}{}{with the scorpions.}
 {2024}{}{**END-PAR**}
 {2025}{}{**END-PAR**}
-{2026}{}{12 мая 2184}
-{2027}{}{Да! Вне всяких сомнений секреция муравьиных львов}
-{2028}{}{обладает мощным рад-выводящим свойством. Конечно}
-{2029}{}{же, после специальной обработки под давлением. }
-{2030}{}{Жаль, что пришлось потратить столько времени на}
-{2031}{}{изучение скорпионов, но это не главное. Теперь }
-{2032}{}{приступим к опытам!}
+{2026}{}{May 12, 2184}
+{2027}{}{Yes! There's no doubt that the secretions of ant lions}
+{2028}{}{have a powerful rad-extracting properties. After a}
+{2029}{}{special pressurized treatment, of course. A shame}
+{2030}{}{I had so much time wasted on studying scorpions,}
+{2031}{}{but that's beside the point.}
+{2032}{}{Now, let's begin our experiments!}
 {2033}{}{**END-PAR**}
 {2034}{}{**END-PAR**}
-{2035}{}{13 июля 2184}
-{2036}{}{Подопытные крайне плохо переносят эффект "Капли" }
-{2037}{}{- так я решил назвать новый препарат. У них }
-{2038}{}{проявляются все признаки сильнейшей интоксикации,}
-{2039}{}{и было уже два смертельных случая... Больше никто}
-{2040}{}{не хочет пробовать мои препараты... Придется}
-{2041}{}{испытывать на себе... Нет, пока отложу опыты. }
-{2042}{}{Нужно найти антидот муравьиной кислоте...}
+{2035}{}{July 13, 2184}
+{2036}{}{The test subjects are reacting extremely poorly to}
+{2037}{}{the effects of the "Drop". That's the name I gave to}
+{2038}{}{the drug. They show all the signs of severe }
+{2039}{}{intoxication, and there have already been two lethal}
+{2040}{}{cases... No one wants to try my medication. Maybe}
+{2041}{}{I'd have to resort to self-testing... But later.}
+{2042}{}{For now I need to find an antidote to formic acid…}
 {2043}{}{**END-PAR**}
 {2044}{}{**END-PAR**}
-{2045}{}{01 декабря 2184}
-{2046}{}{Вот оно! Нашел, нашел! Яд скорпиона нейтрализует}
-{2047}{}{муравьиную кислоту! Нужно скорее переходить к }
-{2048}{}{опытам! Как кстати один из вернувшихся искателей}
-{2049}{}{сильно приболел малокровием...}
+{2045}{}{December 01, 2184}
+{2046}{}{That's it! I found it! Scorpion venom perfectly}
+{2047}{}{neutralizes formic acid! I should proceed to the }
+{2048}{}{experiments, fast! Hmm… Actually,  one of recently}
+{2049}{}{returned Seekers shows signs of anemia. Convenient.}
 {2050}{}{**END-PAR**}
 {2051}{}{**END-PAR**}
-{2052}{}{05 января 2185}
-{2053}{}{Все идет просто великолепно! Бэн выздоравливает}
-{2054}{}{на глазах, принимая в день по 1 "Капле". Он }
-{2055}{}{кажется немного раздражительным, но физическое}
-{2056}{}{улучшение налицо! Запускаем массовое производство!}
+{2052}{}{January 05, 2185}
+{2053}{}{Everything is going great. Ben is recovering,}
+{2054}{}{feeling better every minute, taking one "Drop" a}
+{2055}{}{day. He seems more irritable, but the condition's}
+{2056}{}{improvement is evident! Time to start the production!}
 {2057}{}{**END-PAR**}
 {2058}{}{**END-PAR**}
-{2059}{}{07 января 2185}
-{2060}{}{Что-то идет не так... За резким улучшением }
-{2061}{}{самочувствия Бэна последовал еще более резкий}
-{2062}{}{спад его... ммм... мыслительной стабильности. }
-{2063}{}{Он ведет себя как животное, хрипит, огрызается, а}
-{2064}{}{сегодня утром пытался отгрызть себе руку... Может}
-{2065}{}{быть, дело в особенностях его организма, он же }
-{2066}{}{все таки мертвяк, или он схватил слишком большую}
-{2067}{}{дозу... Что ж, теперь то уж точно никто не захочет}
-{2068}{}{проверять на себе мои препараты; придется }
-{2069}{}{подправить соотношение компонентов в Капле и }
-{2070}{}{проверять на себе...}
+{2059}{}{January 07, 2185}
+{2060}{}{Something's wrong... The dramatic improvement of}
+{2061}{}{Ben's well-being was followed by an even sharper}
+{2062}{}{decline in his... uh... mental stability. }
+{2063}{}{He's acting like an animal, wheezing, snapping, and}
+{2064}{}{this morning he tried to chew his own arm off…}
+{2065}{}{Maybe it's because of his body properties - he's a}
+{2066}{}{ghoul after all. Or maybe he took too big of a dose.}
+{2067}{}{Now I'm sure that no one's would want to volunteer}
+{2068}{}{on testing the drug. I'll have to adjust the ratio of}
+{2069}{}{ingredients in the compound, and prepare for testing}
+{2070}{}{the chemical on myself…}
 {2071}{}{**END-PAR**}
 {2072}{}{**END-PAR**}
-{2073}{}{12 января 2185}
-{2074}{}{Все равно его никто не любил, а зачем закапывать }
-{2075}{}{в землю мертвяка, если им можно накормить наших }
-{2076}{}{муравьиных львов? Для опытов, они нужны мне }
-{2077}{}{живыми... Осталось всего 3 особи, и я решил не }
-{2078}{}{менять состав Капли. Все таки, думаю, Бэн }
-{2079}{}{скончался из-за каких-то особенностей его }
-{2080}{}{мертвячьего тела. Как только муравьи с ним }
-{2081}{}{закончат и наберут вес - сделаю новую Каплю и }
-{2082}{}{опробую на себе...}
+{2073}{}{January 12, 2185}
+{2074}{}{No one liked him anyway. And why bury a dead guy}
+{2075}{}{into the ground when you can feed him to our ant}
+{2076}{}{lions? I need to keep them alive for experiments…}
+{2077}{}{There are only threeof them left, so I decided not }
+{2078}{}{to change the composition of the "Drop". }
+{2079}{}{I think Ben died because of some peculiarities of his }
+{2080}{}{of his ghoul body. As soon as the ants are done with}
+{2081}{}{ him and gain some weight, I'll make a new "Drop" }
+{2082}{}{and try it out.}
 {2083}{}{**END-PAR**}
 {2084}{}{**END-PAR**}
-{2085}{}{15 января 2185}
-{2086}{}{Ооо.... Мммм.... Хэ-хэээй! Даааа...}
+{2085}{}{January 15, 2185}
+{2086}{}{Oooh... Mmmm... Hehehey! Yeahhhhhh...}
 {2087}{}{**END-PAR**}
 {2088}{}{**END-PAR**}
-{2089}{}{16 января 2185}
-{2090}{}{Это... было.. чудесно... Я думаю, что видел богов}
-{2091}{}{пустоши... Знаю-знаю, звучит как бред, но все }
-{2092}{}{было настолько реально! Капля унесла мой разум в }
-{2093}{}{какой-то другой, идеальный мир... Нужно сделать }
-{2094}{}{еще...}
+{2089}{}{January 16, 2185}
+{2090}{}{That... was... wonderful... I think I've seen the}
+{2091}{}{gods of the wasteland... I know, I know it sounds}
+{2092}{}{crazy, but it was so... real! The "Drop" took my}
+{2093}{}{mind to some other world, a perfect world…}
+{2094}{}{I need to make... more...}
 {2095}{}{**END-PAR**}
 {2096}{}{**END-PAR**}
-{2097}{}{26 января 2185}
-{2098}{}{Это чудовищный наркотик. Я могу это сказать, но }
-{2099}{}{не могу этого осознать... Капля обладает }
-{2100}{}{множеством сильных эффектов, но сильнейший - }
-{2101}{}{привыкание. У меня не осталось муравьиных львов, }
-{2102}{}{нужно отправить искателей на охоту за ними. }
-{2103}{}{Пожалуй, дам-ка им одну Каплю на пробу, чтобы не}
-{2104}{}{задавали лишних вопросов...}
+{2097}{}{January 26, 2185}
+{2098}{}{It's a monstrous drug. I can say it, but I can't}
+{2099}{}{make myself realize it... The drop has many}
+{2100}{}{powerful effects, but the strongest one is, no doubt,}
+{2101}{}{the worst kind of addiction. I have no ant lions}
+{2102}{}{left, so I need to send some Seekers to hunt some. }
+{2103}{}{I think I'll give them one sample of the "Drop",}
+{2104}{}{so they wouldn't ask too many questions...}
 {2105}{}{**END-PAR**}
 {2106}{}{**END-PAR**}
-{2107}{}{30 января 2185}
-{2108}{}{Как же крутит тело! Боже!!! Ублюдок вырвал мою}
-{2109}{}{свежую Каплю и выпил ее сам! Так ему и надо... }
-{2110}{}{Человеческое тело сдалось практически сразу же, }
-{2111}{}{он буквально выплюнул свои кровавые кишки. Все же}
-{2112}{}{дело не в том, что Бэн был мертвяком, а в том, }
-{2113}{}{что я сделал Каплю из муравьев, съевших его... }
-{2114}{}{У меня есть еще 5 муравьев... Голодных сукиных }
-{2115}{}{муравьев...}
+{2107}{}{January 30, 2185}
+{2108}{}{My body is twisting immensely!! God!!! The bastard}
+{2109}{}{ripped out my freshly-made Drop and drank it himself!}
+{2110}{}{Serves him right... His human body surrendered almost}
+{2111}{}{immediately - he literally spat out his bloody guts.}
+{2112}{}{I think the drug has this severe effect because…}
+{2113}{}{It's because I made a Drop out of the ants that ate}
+{2114}{}{Ben... And I got five more ants…}
+{2115}{}{Hungry fucking ants...}
 {2116}{}{**END-PAR**}
 {2117}{}{**END-PAR**}
-{2118}{}{03 февраля 2185}
-{2119}{}{Ффух... Ну, это было не так уж и сложно: просто }
-{2120}{}{сказал, что тот мертвяк хотел съесть мою }
-{2121}{}{новорожденную дочурку. Я же - ученый, а он - }
-{2122}{}{мертвяк. Никто не верит мертвякам. Зато моя }
-{2123}{}{догадка полностью подтвердилась: поедая плоть }
-{2124}{}{мертвяков, муравьиные львы начинают вырабатывать }
-{2125}{}{кислоту совсем другого свойства, и свойство это -}
-{2126}{}{новый, восхитительный мир "Капли"!}
+{2118}{}{February 03, 2185}
+{2119}{}{Phew... Well, it wasn't that hard. I just had to}
+{2120}{}{pretend that the ghoul wanted to eat my newborn}
+{2121}{}{baby girl. I'm a scientist, after all, and he's a }
+{2122}{}{ghoul. Nobody believes ghouls. But my... my hunch}
+{2123}{}{was confirmed completely: eating the ghoul's flesh}
+{2124}{}{makes the ant lions produce another, very different}
+{2125}{}{kind of formic acid! And that acid is… It is…}
+{2126}{}{It is the new, delightful world of The "Drop"!}
 {2127}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_WAR_CHRONICS

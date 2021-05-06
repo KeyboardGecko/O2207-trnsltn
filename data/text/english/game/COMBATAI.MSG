@@ -5575,7 +5575,7 @@
 #
 # MISSED
 #
-{5060}{}{Antlion's dick!}
+{5060}{}{Ant lion's dick!}
 {5061}{}{You bad hunter!}
 {5062}{}{Come on! Come!}
 {5063}{}{Phew...}
@@ -5710,7 +5710,7 @@
 #
 # MISSED
 #
-{5160}{}{Antlion's dick.}
+{5160}{}{Ant lion's dick.}
 {5161}{}{You bad hunter!}
 {5162}{}{Come on! Come!}
 {5163}{}{Phew...}
@@ -5851,7 +5851,7 @@
 {5263}{}{You bad hunter!}
 {5264}{}{Stop it!}
 {5265}{}{Missed...}
-{5266}{}{Antlion's dick.}
+{5266}{}{Ant lion's dick.}
 {5267}{}{Come on! Come!}
 {5268}{}{Missed again?}
 {5269}{}{Phew...}

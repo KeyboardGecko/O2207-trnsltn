@@ -53,7 +53,7 @@
 {123}{}{Thanks for the info, but I need to go.}
 
 
-{130}{022}{The Drop? The Drop is a perfect drug with instantaneous effect. Has a direct impact on the adjacent core of the limbic system, causing the feeling of euphoria, among other things. Addiction forms from the very first dose in 98,14% of cases. The pre-war "Combatid" drug is used as a basis for it. My father made some changes to the formula while researching the unique properties of fire ant pheromones... But I don't have time for lecturing, and you wouldn't understand the details. You're lucky if even a little part of what I've just said stuck in this primate head of yours.}
+{130}{022}{The Drop? The Drop is a perfect drug with instantaneous effect. Has a direct impact on the adjacent core of the limbic system, causing the feeling of euphoria, among other things. Addiction is formed from the first dose in 98,14% of cases. The pre-war "RadOut" drug is used as a basis for it. My father made some changes to the formula while researching the unique properties of fire ant pheromones and... But I don't have time for lecturing, and you wouldn't understand the details. You're lucky if even a little part of what I've just said stuck in this primate head of yours.}
 {131}{021}{Your father must have been a very famous scientist. Could I hear his name?}
 {132}{999}{Do you give this scientific mumbo-jumbo bullshit to everyone you see? If you do - I guess you don't have a lot of friends, haha!}
 {133}{999}{Thanks for the information. but I need to go. Take care.}
