@@ -6714,7 +6714,7 @@
 #
 {5900}{}{I will endure this pain!}
 {5901}{}{My armor is strong!}
-{5902}{}{You can’t get through my armor!}
+{5902}{}{You can't get through my armor!}
 {5903}{}{You are only making me angry!}
 {5904}{}{Head is buzzing...}
 {5905}{}{Oh, that ringing in ears...}

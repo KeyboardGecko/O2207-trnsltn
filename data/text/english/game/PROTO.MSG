@@ -288,7 +288,7 @@
 {1476}{}{The number of Rats you have clobbered to death, either for food or for sports.}
 {1477}{}{The number of human-sized mutated Black Panthers you have successful tracked down and hunted.}
 {1478}{}{The number of Ferals you killed, Ghouls that have gone insane from hunger and radiation.}
-{1479}{}{This is the number of Robots and Computer that you have destroyed, dismantled or formated.}
+{1479}{}{This is the number of Robots and Robotic systems that you have destroyed, dismantled or formated.}
 {1480}{}{The total number of Wild Dogs and Coyotes that you have sent to the great kennel in the sky.}
 {1481}{}{This line shows the number of how many of Anderson's protection shields you've been able to defeat.}
 {1482}{}{This modest number shows that you have killed some very dangerous Chimeras and lived.}
@@ -296,5 +296,5 @@
 {1484}{}{The number of errors of nature you have corrected, also known as Mole Rats you killed.}
 {1485}{}{The number of big hungry Ursa you have sent to the heavenly den for eternal hibernation.}
 {1486}{}{The number of all different kinds of mutated Ants you have killed in the wastes.}
-{1487}{}{The count of freakish men in metal spheres, attached to a computer control system you killed.}
+{1487}{}{The count of freakish men in metal spheres, attached to a computated control system you killed.}
 

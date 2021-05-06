@@ -1072,7 +1072,7 @@
 {53601}{}{Rummaging through other people's stuff can get you a hard piece of steel through your ribs very quickly. Better be discreet about it.}
 {53700}{}{Junk}
 {53701}{}{Some random stuff, nothing worth looking at.}
-{53800}{}{Computer Desk}
+{53800}{}{Terminal with a desk}
 {53801}{}{You're curious why they have two monitors here.}
 {53900}{}{Safe}
 {53901}{}{Safes were designed to hide something in them. From people like you.}

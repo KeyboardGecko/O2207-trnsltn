@@ -45,7 +45,7 @@
 {51}{007}{I'm in. }
 {52}{007}{I'll think about it. If I agree, I'll come back with the results. }
 
-{60}{}{You? [he scratches his chin] My gratitude. I think I can... Upgrade your status in the tower. Provide you with resources. And give you access to the computer of Zochkis. Should be many interesting things in there. [he winks]}
+{60}{}{You? [he scratches his chin] My gratitude. I think I can... Upgrade your status in the tower. Provide you with resources. And give you access to the terminal of Zochkis. Should be many interesting things in there. [he winks]}
 {61}{007}{I'm in. }
 {62}{007}{I'll think about it. If I agree, I'll come back with the results. }
 
@@ -71,7 +71,7 @@
 {110}{}{Then we have nothing to talk about for now. }
 {111}{999}{[end of dialogue]}
 
-{120}{}{Great! I'm not interested in details... I'm more interested in the results. And I need to study the results. And your result is this - a blocked keycard. The password to the dashboard panel at that level is 2358, as for the keycard - you can unlock it using bore's computer. D-3, if I'm not mistaken. If... When my time comes - I'll reward you properly. And now I have some business to attend.}
+{120}{}{Great! I'm not interested in details... I'm more interested in the results. And I need to study the results. And your result is this - a blocked keycard. The password to the dashboard panel at that level is 2358, as for the keycard - you can unlock it using bore's terminal. D-3, if I'm not mistaken. If... When my time comes - I'll reward you properly. And now I have some business to attend.}
 {121}{999}{[end of dialogue]}
 
 {130}{}{Then we have nothing to talk about for now. }

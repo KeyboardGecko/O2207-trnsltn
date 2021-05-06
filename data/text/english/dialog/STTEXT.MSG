@@ -332,7 +332,7 @@
 {356}{}{The beauty of the interior furnishings makes your jaw drop on the floor and lay there for some time.}
 {357}{}{Men and women in coats, that may have been white a long time ago, are scurrying back and forth with flasks and fancy instruments.}
 {358}{}{It's hard to figure out what's going on here, but there are even more people in white coats than on the previous floor.}
-{359}{}{The local staff is running from computer to computer with bulging eyes and disheveled hair. They must be busy with something very important and urgent.}
+{359}{}{The local staff is running from terminal to terminal with bulging eyes and disheveled hair. They must be busy with something very important and urgent.}
 {360}{}{The fresh, warm air hits you in the face, and the view takes your breath away.}
 {361}{}{This place looks like a high-tech lab. The white coats around again, but not as much fuss like at the engineering level.}
 {362}{}{The Abode of the Defenders, no other way to call it. You feel like a dwarf next to these mighty warriors.}
