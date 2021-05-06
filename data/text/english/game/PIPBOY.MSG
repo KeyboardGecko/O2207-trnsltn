@@ -180,29 +180,29 @@
 ###########################################################
 # GVAR_DISK_JACKALS_DIARY
 ###########################################################
-{1000}{}{3 марта 2151}
-{1001}{}{Николь, я давно хотел тебе сказать... Нет, черт...}
-{1002}{}{нужно перезаписать. Николь, вот уже 3 месяца, как }
-{1003}{}{мы здесь живем, а все еще никак... Что за?.. }
-{1004}{}{Николь? Николь!!! Боже! НЕТ! А-А-а-а!!!... :шумы:}
-{1005}{}{::другой голос:: Сопляк. А что это у нас? Хм, }
-{1006}{}{забавная штуковина... Будет мне подарочком. Та-ак,}
-{1007}{}{кнопки-кноп...}
+{1000}{}{March 3, 2151.}
+{1001}{}{Nicole, I've been planning to tell you something}
+{1002}{}{for a long time... Goddamn it! One more try.}
+{1003}{}{Nicole, it's been three months since we've been }
+{1004}{}{living here, and we still haven't... What the hell?}
+{1005}{}{Nicole? Oh God! No! Ahhhh!!!! [loud noises, then}
+{1006}{}{another voice comes in] Pussy. Hey, what do we}
+{1007}{}{have here? A souvenir? Well, well… Buttons, but-}
 {1008}{}{**END-PAR**}
 {1009}{}{**END-PAR**}
-{1010}{}{4 марта 2151}
-{1011}{}{Вот, вроде пошла запись... Говорит Шакал. Мы - }
-{1012}{}{Псы Заката, единственная сила в этом чертовом }
-{1013}{}{Радиусе, и если ты, неизвестный ублюдок, слушаешь}
-{1014}{}{эту запись, то скорее всего ты уже труп или сейчас}
-{1015}{}{им станешь! ::хриплый смех:: Эта военная база - }
-{1016}{}{теперь наш штаб. Здесь мы развернемся и отсюда }
-{1017}{}{будем строить новую империю, Новый Радиус. Любой,}
-{1018}{}{кто встанет на нашем пути, будет стерт, раздавлен,}
-{1019}{}{уничтожен, так же, как и эти сопляки, решившие не}
-{1020}{}{пускать нас сюда! Потом придет и очередь сраного}
-{1021}{}{небоскреба... Вот тогда уж заживем как короли!}
-{1022}{}{Готовьтесь, несчастные.}
+{1010}{}{March 4, 2151.}
+{1011}{}{Looks like it's recording... Jackal speaking. We are }
+{1012}{}{the Jackals, the biggest power in this goddamn }
+{1013}{}{Radius, and if you, unknown bastard, are listening}
+{1014}{}{to this recording, you're probably dead - or about }
+{1015}{}{to be! [hoarse laughter] This military base is now}
+{1016}{}{our new bas. This is where we'll settle, and this is }
+{1017}{}{where we start building our new empire. the New}
+{1018}{}{Radius. Anyone who stands in our way will be}
+{1019}{}{wiped out, crushed, destroyed like these pussies}
+{1020}{}{who triet not to let us in here! Soon it'll be the}
+{1021}{}{turn of the fucking skyscraper... Then we'll live like}
+{1022}{}{kings! Prepare yourselves, you wretches.}
 {1023}{}{**END-PAR**}
 {1024}{}{**END-PAR**}
 {1025}{}{12 апреля 2151}
