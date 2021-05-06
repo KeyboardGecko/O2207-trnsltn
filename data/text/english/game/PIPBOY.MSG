@@ -205,50 +205,50 @@
 {1022}{}{kings! Prepare yourselves, you wretches.}
 {1023}{}{**END-PAR**}
 {1024}{}{**END-PAR**}
-{1025}{}{12 апреля 2151}
-{1026}{}{Здесь совсем даже неплохо. Бродяги не успели }
-{1027}{}{взломать дверь склада, любезно оставив нам все }
-{1028}{}{оружие. Половина стволов, конечно, проржавели, но}
-{1029}{}{ничего, мы их подрихтуем - будут как новенькие. }
-{1030}{}{Со станками будет посложнее, нужны запчасти... }
-{1031}{}{Завтра же выдвигаемся к восточной границе, в }
-{1032}{}{руинах должны быть нужные железки.}
+{1025}{}{April 12, 2151}
+{1026}{}{It's not so bad here, actually. The vagrants didn't get}
+{1027}{}{through the warehouse door, kindly leaving all the}
+{1028}{}{weapons inside to us. Half the guns are rusty, but}
+{1029}{}{that's all right, we'll fix them up and they'll be as good}
+{1030}{}{as new. Dealing with machinery is more difficult, we }
+{1031}{}{need spare parts… Tomorrow we're moving to the}
+{1032}{}{east, the ruins should have the hardware we need.}
 {1033}{}{**END-PAR**}
 {1034}{}{**END-PAR**}
-{1035}{}{5 января 2152}
-{1036}{}{Матерь пустошей!.. Нас серьезно потрепали эти }
-{1037}{}{олимповские "Хищники"... 28 смелых псов }
-{1038}{}{отправились в Ад этой ночью! Ебаные ублюдки вошли}
-{1039}{}{через главный вход, но оказались настолько }
-{1040}{}{безмозглые, что даже не вызвали подкрепление! }
-{1041}{}{Наивные самоуверенные козлы! Может их броня и }
-{1042}{}{защищает от пуль и радиации, но против двух }
-{1043}{}{миниганов все равно не выстояли! Жаль, костюмчики}
-{1044}{}{разлетелись на куски, мне бы такой пригодился, но}
-{1045}{}{движки трех хищников не пострадали. Умник }
-{1046}{}{приладит их к станкам, и мы сможем пополнить наш}
-{1047}{}{арсенал, и в следующий раз мы дадим достойный }
-{1048}{}{отпор любому! И Джонни, дружище...}
-{1049}{}{Покойся с миром.}
+{1035}{}{January 5, 2152}
+{1036}{}{Holy Wasteland! We were seriously battered by these }
+{1037}{}{Olympian "Predators"... 28 brave Jackals went to Hell}
+{1038}{}{tonight! Fucking bastards came in through the front }
+{1039}{}{door, but acted so brainless that they haven't even }
+{1040}{}{bothered to call for backup! Naive, arrogant assholes!}
+{1041}{}{Maybe their armor gives them a good protection from }
+{1042}{}{bullets and radiation, but they couldn't stand up to two }
+{1043}{}{miniguns! Too bad the suits are torn to bits, I could've}
+{1044}{}{used one. Still, the engines of the three "Predators"}
+{1045}{}{turned out to be intact. Smartie  will attach them to}
+{1046}{}{the machinery, and we will be able to mostly replenish}
+{1047}{}{our arsenal. Next time we'll be able to fight back any}
+{1048}{}{asshole coming to us! And, uh, Johnny, my mate…}
+{1049}{}{Rest in peace.}
 {1050}{}{**END-PAR**}
 {1051}{}{**END-PAR**}
-{1052}{}{13 мая 2153}
-{1053}{}{Из 8 псов, посланных на южную границу, вернулся }
-{1054}{}{только один. Бросил своих, падла, но ничего, }
-{1055}{}{публичная порка развлечет остальных... Если бы не}
-{1056}{}{принесенные сведения, оторвал бы ему руки и ноги,}
-{1057}{}{вспорол бы пузо и скармливал бы кишки шакалам!..}
-{1058}{}{Шестеро псов убито, один взят в плен, и одна }
-{1059}{}{крыса сбежала! Да и черт с ним.. Значит, в южном }
-{1060}{}{Радиусе есть укрепленный заводик, "Новый Мировой}
-{1061}{}{Порядок", они там что-то типа консервов делают из}
-{1062}{}{мутантов. Вроде не деликатес, но жрать можно... }
-{1063}{}{Да и безопаснее, чем на урсов охотиться. Охрана }
-{1064}{}{небольшая, оружия у них немного, и на улице можно}
-{1065}{}{было бы всех перебить, но если окопаются в }
-{1066}{}{заводе - хер подберешься. Нужно придумать, как их}
-{1067}{}{выманить и перебить, а пока будем спихивать им }
-{1068}{}{ржавые винтовки за жратву...}
+{1052}{}{May 13th, 2153}
+{1053}{}{Of the 8 Jackals sent to the southern border, only one }
+{1054}{}{made it back. The bastard abandoned his own. It's okay,}
+{1055}{}{a public flogging will amuse the others... If it wasn't for}
+{1056}{}{the info he brought, I'd have torn his arms and legs off,}
+{1057}{}{ripped his belly open and feed his guts to the jackals.}
+{1058}{}{Six Jackals killed, one captured, and one escaped - that}
+{1059}{}{rat... So, the thing is that there's a fortified facility in}
+{1060}{}{the south part of Radius, the New World Order or}
+{1061}{}{something. They make some kind of canned food out of}
+{1062}{}{mutated things. It's not much of a delicacy, but still edible... }
+{1063}{}{And a lot safer than hunting Ursa. Their security is not very}
+{1064}{}{serious, they don't have a lot of guns, and we could}
+{1065}{}{just kill them one by one  on the street. But if they decide}
+{1066}{}{to barricade inside the factory - that'll be the problem. }
+{1067}{}{We need to figure out the way to lure them out... And in}
+{1068}{}{the meantime, let's trade our rusty rifles for their stuff…}
 {1069}{}{**END-PAR**}
 {1070}{}{**END-PAR**}
 {1071}{}{26 июня 2154}
