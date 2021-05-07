@@ -23,20 +23,20 @@
 #Node001
 {10}{}{Here you are, puny human. How you even dare to step a foot in here, into my Control Room? Pathetic... Now your fate is sealed!}
 {11}{002}{Wh- What the hell? Who are YOU?}
-{12}{003}{Sealed? I decide for myself what happens next!}
-{13}{004}{Puny human? Hah! Look at yourself! It's you who is pathetic!}
+{12}{003}{Sealed? No. I decide what happens next!}
+{13}{004}{Puny human? Ha! Look at yourself! It's you who is pathetic!}
 {14}{998}{Enough with your bragging. You are just a piece of flesh entangled in wires. And you're finished!}
 
 #Node002
 {20}{}{Who AM I!? I am your GOD! And you knew it since you were born! The question is - who are YOU? Think you are the smartest? The fairest? You are NOTHING!!}
-{21}{005}{You are driven mad with power. I'm here to make you answer for all the evil you've done to my people.}
+{21}{005}{You are mad. And I'm here to make you answer for all the evil you've done to my people.}
 {22}{006}{Drop it. I climbed the mountain of corpses to get to you. And I'm going to enjoy every second.}
 {23}{006}{I'm the one who will tear you into a hundred little wires and feed your intestines to jackals!}
 {24}{007}{You are not a God. You are just delusional. Think you are ruling the world? You're crazy!}
 {25}{998}{You'll see who am I - after I'll stuff your ass with led!}
 
 #Node003
-{30}{}{You?! You think you DECIDE something?? A pathetic human with a primitive brain, not capable of comprehending your purpose! Not understanding that in fulfillment of purpose lies the prosperity of Olympus- no, the whole Radius! This is the foundation of our civilization's rebirth! And you chose to not fulfill your purpose! Do you think this makes you a chosen one? Think it makes you SPECIAL?! You are an ERROR! An inevitable FLAW, a faulty cog with an inflated ego!! Think you can change the world? Make things BETTER?! NO!! You are not even the first to come here!! But I exist to keep things in order - and I am fixing errors. Take your last breath, puny human.}
+{30}{}{You?! You think you DECIDE something?? A pathetic human with a primitive brain, not capable of comprehending your purpose! Not understanding that in fulfillment of purpose lies the prosperity of Olympus- no, the whole Radius! This is the foundation of our civilization's rebirth! And you chose to not fulfill your purpose! Do you think this makes you a chosen one? Think it makes you SPECIAL?! You are an ERROR! An inevitable FLAW, a faulty cog with an inflated ego! Do you think you came here to change the world? Make things BETTER?! NO!! You are not even the first!! But I exist to keep things in order - and I am fixing errors. Take your last breath, puny human.}
 {31}{005}{You are mistaken - maybe I'm not the first to come here, but I will be the one who puts an end to your evil.}
 {32}{998}{[prepare to fight]}
 
@@ -45,7 +45,7 @@
 {41}{998}{Bring it on!}
 
 #Node005
-{50}{}{Evil... You, with your tiny brain, think that what I do is EVIL! Are you even capable of understanding your own words? For once in your boring little life, have you ever tried to distinguish EVIL from NECESSITY? Puny humans, unable to comprehend anything bigger than their pathetic existence... You see only the fact that people in Tartarus are bound to their way of life - yet by fulfilling their purpose they are saving the human civilization from becoming extinct. They are a crucial part of a coherent mechanism with an objective - a renaissance of mankind! Thousands of lives contributing to the greater good, each of them with a specific purpose! The order of things created by ME and the ones before me!! And you are willing to destroy EVERYTHING, just because you pity your people. Isn't that evil? Selfish, cynical hypocrite!}
+{50}{}{Evil... You, with your tiny brain, think that what I do is EVIL! Are you even capable of understanding your own words? For once in your boring little life, have you ever tried to distinguish EVIL from NECESSITY? Puny humans, unable to comprehend anything bigger than their pathetic existence... You see only the fact that people in Tartarus are bound to their way of life - yet by fulfilling their purpose they are saving the human civilization from becoming extinct. They are a crucial part of a coherent mechanism with an objective: a renaissance of mankind! Thousands of lives contributing to the greater good, each of them with a specific purpose! The order of things maintained by ME, created by the ones before me!! And you are willing to destroy EVERYTHING, leading to the fall of humanity, just because you pity your people. Isn't that evil? Selfish, cynical hypocrite!}
 {51}{009}{Aren't YOU the one? You're saying that your way is the only right way! That everyone who thinks otherwise is wrong!}
 {52}{998}{No! There is always another way! If I were in your place, I would do it better... And I might! Time to die!}
 {53}{004}{You think too much of yourself, the "savior of a civilization"! You just like to play God!}
@@ -57,12 +57,12 @@
 {63}{998}{It's showtime! [fight]}
 
 #Node007
-{70}{}{You are too primitive to understand how complicated the world is. Like every other puny human, you don't know what it takes to keep mankind from dying out. Look what I turned myself into! I forfeited my humanity, bounding myself to the tower's systems. Why? Because this is what needs to be done to save the Radius... As I said, you are not able to understand. You fail to see that the real evil is the desire that brought you here. You want to kill me - and condemn the human race to die? You will ruin everything! So I need to stop you... Right now!}
+{70}{}{You are too primitive to understand how complicated the world is. Like every other puny human, you don't know what it takes to keep mankind from dying out. Look what I turned myself into! I forfeited my humanity, bounding myself to the tower's systems. Why? Because this is what needs to be done to save the Radius... As I said, you are not able to understand. You fail to see that the real evil is the desire that brought you here. You want to kill me - and condemn the human race to die. You want to ruin everything! So I need to stop you. Right now!}
 {71}{008}{I don't believe you. Your worldview is based on lies! And I'm going to bring you to justice!}
 {72}{998}{No! It is ME who will stop YOU! [attack]}
 
 #Node008
-{80}{}{What is a lie, and what is justice? This world is fueled by lies, and it is much more complex than you can imagine with your tiny brain. Are you willing to destroy the remains of civilization and condemn humanity for justice and truth? Think about it, before you die. [you hear the turrets humming]}
+{80}{}{What is a lie, and what is justice? This world, fueled by lies, is much more complex than you can imagine with your tiny brain. Are you willing to destroy the remains of civilization and condemn humanity for justice and truth? Think about it, before you die. [you hear the turrets humming]}
 {81}{998}{[attack]}
 
 #Node009
@@ -73,7 +73,7 @@
 {94}{998}{We'll see about that!}
 
 #Node010
-{100}{}{You know so little. A pity. You seemed smarter than the others. "I'll save the world from you! Die, evil creature!" - every time it's the same... No one understands... No one is ever grateful. I'm so tired.}
+{100}{}{You know so little. A pity. You seemed smarter than the others. "I'll save the world from you! Die, evil creature!" - every time it's the same... No one understands... No one is ever grateful. I'm so... tired.}
 {101}{011}{Grateful? You are abusing your power to make people believe in tales about you being God! You are pathetic!}
 
 #Node011
