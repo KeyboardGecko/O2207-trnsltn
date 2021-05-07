@@ -92,12 +92,12 @@
 {507}{}{Service Lift}
 {508}{}{Control Room}
 {509}{}{Epilogue}
-{510}{}{ }
-{511}{}{ }
-{512}{}{ }
-{513}{}{ }
-{514}{}{ }
-{515}{}{ }
+{510}{}{}
+{511}{}{}
+{512}{}{}
+{513}{}{}
+{514}{}{}
+{515}{}{}
 {516}{}{Credits}
 #
 # Things for the Mac version to speak
@@ -192,11 +192,11 @@
 {1009}{}{**END-PAR**}
 {1010}{}{March 4, 2151.}
 {1011}{}{Looks like the thing's on... Jackal speaking. We}
-{1012}{}{are the Jackals, the biggest power in this }
+{1012}{}{are the Jackals, the biggest power in this}
 {1013}{}{goddamn Radius, and if you, unknown bastard,}
 {1014}{}{are listening to this recording, you're probably}
 {1015}{}{dead - or about to be! [hoarse laughter] This}
-{1016}{}{military base is now our new home. This is where }
+{1016}{}{military base is now our new home. This is where}
 {1017}{}{we'll settle, where we'll start building our new}
 {1018}{}{empire, the New Radius. Anyone who stands in our}
 {1019}{}{way will be wiped out, crushed, destroyed like}
@@ -218,10 +218,10 @@
 {1035}{}{**END-PAR**}
 {1036}{}{**END-PAR**}
 {1037}{}{January 5, 2152}
-{1038}{}{Holy Wasteland! We were seriously battered by }
+{1038}{}{Holy Wasteland! We were seriously battered by}
 {1039}{}{these Olympian "Predators"... 28 brave Jackals}
-{1040}{}{went to Hell tonight! Fucking bastards came in }
-{1041}{}{door, but were so brainless that they didn't even }
+{1040}{}{went to Hell tonight! Fucking bastards came in}
+{1041}{}{door, but were so brainless that they didn't even}
 {1042}{}{through the front bother to call for backup!}
 {1043}{}{Naive, arrogant assholes! Maybe their armor gives}
 {1044}{}{them a good protection from radiation and shit,}
@@ -316,7 +316,7 @@
 {2000}{}{Researching the anti-radiation painkiller drug.}
 {2001}{}{...}
 {2002}{}{September 30, 2183}
-{2003}{}{Although radiation is visibly dropping in the }
+{2003}{}{Although radiation is visibly dropping in the}
 {2004}{}{most known areas of Radius, and Seekers don't die}
 {2005}{}{as quickly, there is a demand for developing a}
 {2006}{}{new drug to help them on long-range missions.}
@@ -326,13 +326,13 @@
 {2010}{}{radiation-removing agent. Obviously, the}
 {2011}{}{experiments should begin with an in-depth study}
 {2012}{}{of the "RadOut" properties. Fortunately, several}
-{2013}{}{pre-war documents on Rainbow Pharmaceuticals }
+{2013}{}{pre-war documents on Rainbow Pharmaceuticals}
 {2014}{}{are still readable. Well, let's get started.}
 {2015}{}{**END-PAR**}
 {2016}{}{**END-PAR**}
 {2017}{}{December 26, 2183}
 {2018}{}{For many days and nights now, I'm unsuccessfully}
-{2019}{}{trying to find out the base "RadOut" component. }
+{2019}{}{trying to find out the base "RadOut" component.}
 {2020}{}{The formula described in the pre-war data is}
 {2021}{}{purely synthetic, it doesn't tell me anything. So,}
 {2022}{}{the only available option left is to study the}
@@ -352,7 +352,7 @@
 {2036}{}{July 13, 2184}
 {2037}{}{The test subjects are reacting extremely poorly to}
 {2038}{}{the effects of the "Drop". That's the name I gave}
-{2039}{}{the drug. They show all the signs of severe }
+{2039}{}{the drug. They show all the signs of severe}
 {2040}{}{intoxication, and there have already been two}
 {2041}{}{lethal cases... No one wants to try my medication}
 {2042}{}{willingly. There's a chance I'll have to resort}
@@ -362,7 +362,7 @@
 {2046}{}{**END-PAR**}
 {2047}{}{December 01, 2184}
 {2048}{}{That's it! I found it! Scorpion venom perfectly}
-{2049}{}{neutralizes formic acid! I should proceed to the }
+{2049}{}{neutralizes formic acid! I should proceed to the}
 {2050}{}{experiments, fast! Hmm... Actually, one of}
 {2051}{}{recently returned Seekers shows severe signs}
 {2052}{}{of anemia. Convenient.}
@@ -379,7 +379,7 @@
 {2063}{}{January 07, 2185}
 {2064}{}{Something's wrong... The dramatic improvement of}
 {2065}{}{Ben's well-being was followed by an even sharper}
-{2066}{}{decline in his... uh... mental stability. }
+{2066}{}{decline in his... uh... mental stability.}
 {2067}{}{He's acting like an animal, wheezing, snapping, and}
 {2068}{}{this morning he tried to chew his own arm off...}
 {2069}{}{Maybe it's because of his body properties - he's a}
@@ -439,7 +439,7 @@
 {2123}{}{February 03, 2185}
 {2124}{}{Phew... Well, it wasn't that hard. I just had to}
 {2125}{}{pretend that the ghoul wanted to eat my newborn}
-{2126}{}{baby girl. I'm a scientist, after all, and he's a }
+{2126}{}{baby girl. I'm a scientist, after all, and he's a}
 {2127}{}{ghoul. Nobody believes ghouls. But my... my hunch}
 {2128}{}{was confirmed completely: eating the ghoul's flesh}
 {2129}{}{makes the ant lions produce another, different}
@@ -447,14 +447,14 @@
 {2131}{}{It is the new, delightful world of The "Drop"!}
 {2132}{}{**END-DISK**}
 ###########################################################
-# GVAR_DISK_WAR_CHRONICS}{}{}
+# GVAR_DISK_WAR_CHRONICS
 ###########################################################
 {3000}{}{-GLOBAL-LEAKS.INF- "What Do We Know?"}
 {3001}{}{...}
 {3002}{}{September 13, 2010}
 {3003}{}{The last oil deposits remain in the United}
 {3004}{}{Republic of Iran. Iran begins to develop}
-{3005}{}{uranium enrichment program. Glorious States }
+{3005}{}{uranium enrichment program. Glorious States}
 {3006}{}{ambassadors are deported from Iranian territory.}
 {3007}{}{...}
 {3008}{}{September 15, 2010}
@@ -462,21 +462,21 @@
 {3010}{}{G-8 summit demanding the reinstatement}
 {3011}{}{of the presence of GSA ambassadors on}
 {3012}{}{Iranian territory and cancel the Iranian}
-{3013}{}{enriched uranium program. The United Empire }
-{3014}{}{of Russia categorically opposes the GSA's }
-{3015}{}{policy, citing the need for Iranian }
-{3016}{}{research to create a nuclear power plant }
+{3013}{}{enriched uranium program. The United Empire}
+{3014}{}{of Russia categorically opposes the GSA's}
+{3015}{}{policy, citing the need for Iranian}
+{3016}{}{research to create a nuclear power plant}
 {3017}{}{system in cooperation with the UER.}
 {3018}{}{...}
 {3019}{}{April 8, 2011}
-{3020}{}{GSA signs a treaty with Poland to establish }
-{3021}{}{a military base for the PATRIOT missile }
+{3020}{}{GSA signs a treaty with Poland to establish}
+{3021}{}{a military base for the PATRIOT missile}
 {3022}{}{defense system on Poland's southeastern}
 {3023}{}{border, motivating it with security principles}
 {3024}{}{against possible nuclear aggression from Iran.}
 {3025}{}{...}
 {3026}{}{April 12, 2011}
-{3027}{}{UER's diplomatic representative in }
+{3027}{}{UER's diplomatic representative in}
 {3028}{}{ALLIANCE recalls the need to comply with the}
 {3029}{}{START-II treaty on the point of reduction by the}
 {3030}{}{GSA of its strategic nuclear reserves and demands}
@@ -485,7 +485,7 @@
 {3033}{}{formalities in delaying compliance with "START-II".}
 {3034}{}{...}
 {3035}{}{July 30, 2011}
-{3036}{}{North Korea publicly claims a successful }
+{3036}{}{North Korea publicly claims a successful}
 {3037}{}{test of an intercontinental ballistic}
 {3038}{}{missile.}
 {3039}{}{...}
@@ -493,7 +493,7 @@
 {3041}{}{South Korea's representative to ALLIANCE}
 {3042}{}{demands strong measures against North Korea}
 {3043}{}{and the presence of ALLIANCE peacekeepers in}
-{3044}{}{North Korean territory. The command of the GSA }
+{3044}{}{North Korean territory. The command of the GSA}
 {3045}{}{Navy orders the deployment of a fleet of missile}
 {3046}{}{carriers and patrol ships off the coast of North}
 {3047}{}{Korea, as does the command of the GSA Marines}
@@ -525,9 +525,9 @@
 {3073}{}{...}
 {3074}{}{February 23, 2012}
 {3075}{}{UER together with Chinese forces holds}
-{3076}{}{the largest ever military exercise }
-{3077}{}{West-East based on a nuclear war scenario. }
-{3078}{}{Three groups of "Shark"-class submarines }
+{3076}{}{the largest ever military exercise}
+{3077}{}{West-East based on a nuclear war scenario.}
+{3078}{}{Three groups of "Shark"-class submarines}
 {3079}{}{are deployed in the Japanese Sea, the}
 {3080}{}{Arctic Ocean and near the coast of Greenland.}
 {3081}{}{Likewise, 4 "Black Jack" bombers begin cruising}
@@ -540,7 +540,7 @@
 {3088}{}{...}
 {3089}{}{March 5, 2012}
 {3090}{}{At a special ALLIANCE meeting, the GSA}
-{3091}{}{addresses the UER diplomatic representative, }
+{3091}{}{addresses the UER diplomatic representative,}
 {3092}{}{demanding the "Shark" submarines to}
 {3093}{}{return to the docks. UER cites delays in}
 {3094}{}{complying with orders and for the second time}
@@ -552,12 +552,12 @@
 {3100}{}{GSA's military presence on Poland's territory.}
 {3101}{}{...}
 {3102}{}{May 8, 2012}
-{3103}{}{CIA Intelligence reports about the sale of 4 }
+{3103}{}{CIA Intelligence reports about the sale of 4}
 {3104}{}{nuclear warheads by the UER to North Korea.}
 {3105}{}{...}
 {3106}{}{June 20, 2012}
-{3107}{}{The GSA agrees to comply with the "START-II" }
-{3108}{}{condition on nuclear reserves, but demands }
+{3107}{}{The GSA agrees to comply with the "START-II"}
+{3108}{}{condition on nuclear reserves, but demands}
 {3109}{}{the complete elimination of Iran's missile}
 {3110}{}{complex.}
 {3111}{}{...}
@@ -566,98 +566,98 @@
 {3114}{}{State of Emergency on Iranian territory.}
 {3115}{}{...}
 {3116}{}{August 12, 2012}
-{3117}{}{UER rejects GSA's conditions for the }
+{3117}{}{UER rejects GSA's conditions for the}
 {3118}{}{elimination of Iran's missile reserves}
-{3119}{}{and declares the "START-II" treaty terminated }
+{3119}{}{and declares the "START-II" treaty terminated}
 {3120}{}{due to the GSA failing to meet its obligations.}
 {3121}{}{...}
 {3122}{}{November 16, 2012}
-{3123}{}{UER demands from the GSA to withdraw the }
-{3124}{}{missile defense system in Poland. The }
-{3125}{}{GSA cites the impossibility of meeting this }
+{3123}{}{UER demands from the GSA to withdraw the}
+{3124}{}{missile defense system in Poland. The}
+{3125}{}{GSA cites the impossibility of meeting this}
 {3126}{}{demand due to the nuclear threat from Iran.}
 {3127}{}{...}
 {3128}{}{December 27, 2012}
-{3129}{}{Information about China's nuclear }
+{3129}{}{Information about China's nuclear}
 {3130}{}{capabilities is publically released,}
-{3131}{}{which is equal to approximately 57% of the }
+{3131}{}{which is equal to approximately 57% of the}
 {3132}{}{UER's and 31.5% of the GSA's.}
 {3133}{}{...}
 {3134}{}{Jan 1, 2013}
-{3135}{}{GSA declares "smart" nuclear weapons }
+{3135}{}{GSA declares "smart" nuclear weapons}
 {3136}{}{program a national priority.}
 {3137}{}{...}
 {3138}{}{Jan. 30, 2013}
-{3139}{}{UER announces ground-breaking scientific }
-{3140}{}{discoveries in nano-developments for the }
+{3139}{}{UER announces ground-breaking scientific}
+{3140}{}{discoveries in nano-developments for the}
 {3141}{}{military industry.}
 {3142}{}{...}
 {3143}{}{February 5, 2013}
-{3144}{}{UER announces the success of a national }
+{3144}{}{UER announces the success of a national}
 {3145}{}{government project at the "Celestial}
-{3146}{}{Technologies Research Institute" about }
-{3147}{}{combining nanotechnology and virology to }
-{3148}{}{create a cure for AIDS and cancer. The }
-{3149}{}{nano-biorobots grown from stem cells are }
+{3146}{}{Technologies Research Institute" about}
+{3147}{}{combining nanotechnology and virology to}
+{3148}{}{create a cure for AIDS and cancer. The}
+{3149}{}{nano-biorobots grown from stem cells are}
 {3150}{}{called "Light Matter."}
 {3151}{}{...}
 {3152}{}{February 14, 2013}
-{3153}{}{CIA Intelligence reports on Iran's purchase }
-{3154}{}{of Nuclear Shield missile defense systems }
+{3153}{}{CIA Intelligence reports on Iran's purchase}
+{3154}{}{of Nuclear Shield missile defense systems}
 {3155}{}{from UER.}
 {3156}{}{...}
 {3157}{}{March 20, 2013}
-{3158}{}{By direct orders from the GSA, ALLIANCE }
-{3159}{}{peacekeepers invade Iran without the approval }
+{3158}{}{By direct orders from the GSA, ALLIANCE}
+{3159}{}{peacekeepers invade Iran without the approval}
 {3160}{}{of ALLIANCE member countries.}
 {3161}{}{...}
 {3162}{}{March 28, 2013}
 {3163}{}{North Korea strikes a nuclear missile at GSA's}
-{3164}{}{military ships off its coast, and invades South }
+{3164}{}{military ships off its coast, and invades South}
 {3165}{}{Korea. The 2nd GSA Infantry Division in South}
 {3166}{}{Korea reports surrendering.}
 {3167}{}{...}
 {3168}{}{March 30, 2013}
 {3169}{}{GSA launches a nuclear strike against suspected}
-{3170}{}{Korean silo-based nuclear missiles in close }
-{3171}{}{proximity to China. A huge radioactive cloud }
-{3172}{}{covers the northeastern part of the People's }
-{3173}{}{Republic of China. At the Central Research }
-{3174}{}{Institute "Celestial Technologies", in full }
-{3175}{}{secrecy, Professor of "Russian Science Academy" }
-{3176}{}{Konstantin Anatolyevich Korotkin reprograms }
-{3177}{}{Light Matter into "Dark Matter" - nano-bio }
-{3178}{}{weapons for the destruction of enemy manpower. }
-{3179}{}{UER offers China "Dark Matter" weapon in }
-{3180}{}{exchange for joining forces in the fight }
-{3181}{}{against Western capitalists. }
+{3170}{}{Korean silo-based nuclear missiles in close}
+{3171}{}{proximity to China. A huge radioactive cloud}
+{3172}{}{covers the northeastern part of the People's}
+{3173}{}{Republic of China. At the Central Research}
+{3174}{}{Institute "Celestial Technologies", in full}
+{3175}{}{secrecy, Professor of "Russian Science Academy"}
+{3176}{}{Konstantin Anatolyevich Korotkin reprograms}
+{3177}{}{Light Matter into "Dark Matter" - nano-bio}
+{3178}{}{weapons for the destruction of enemy manpower.}
+{3179}{}{UER offers China "Dark Matter" weapon in}
+{3180}{}{exchange for joining forces in the fight}
+{3181}{}{against Western capitalists.}
 {3182}{}{China accepts the terms.}
 {3183}{}{...}
 {3184}{}{April 1, 2013}
-{3185}{}{UER and China mobilize their nuclear }
-{3186}{}{capabilities. China demands huge sums of }
-{3187}{}{money from the GSA to combat radioactive }
+{3185}{}{UER and China mobilize their nuclear}
+{3186}{}{capabilities. China demands huge sums of}
+{3187}{}{money from the GSA to combat radioactive}
 {3188}{}{contamination in its territory, or to "lease"}
-{3189}{}{Alaska until the complete decontamination }
-{3190}{}{of China's radiated areas. At the same time, }
+{3189}{}{Alaska until the complete decontamination}
+{3190}{}{of China's radiated areas. At the same time,}
 {3191}{}{China orders the purchase of six "Black}
-{3192}{}{Jacks" with nuclear missiles. }
+{3192}{}{Jacks" with nuclear missiles.}
 {3193}{}{...}
 {3194}{}{April 4, 2013}
-{3195}{}{The US, ravaged by the arms race of recent }
-{3196}{}{years, is unable to pay China the damages, }
-{3197}{}{neither it is ready to surrenders Alaska }
-{3198}{}{to China. Negotiations are at an impasse. }
-{3199}{}{At the emergency ALLIANCE meeting,the USA }
+{3195}{}{The US, ravaged by the arms race of recent}
+{3196}{}{years, is unable to pay China the damages,}
+{3197}{}{neither it is ready to surrenders Alaska}
+{3198}{}{to China. Negotiations are at an impasse.}
+{3199}{}{At the emergency ALLIANCE meeting,the USA}
 {3200}{}{forbids the UER to sell "Black Jacks" to}
-{3201}{}{China. UER denies the very existence of }
+{3201}{}{China. UER denies the very existence of}
 {3202}{}{such an order from China.}
 {3203}{}{...}
 {3204}{}{April 6, 2013}
-{3205}{}{The GSA State Department recalls the GSA }
-{3206}{}{ambassador from UER "for consultations" }
+{3205}{}{The GSA State Department recalls the GSA}
+{3206}{}{ambassador from UER "for consultations"}
 {3207}{}{and the White House head addresses}
-{3208}{}{the nation. The UER responds by removing }
+{3208}{}{the nation. The UER responds by removing}
 {3209}{}{all the GSA embassy staff from the country.}
 {3210}{}{...}
 {3211}{}{April 10, 2013}
@@ -665,80 +665,80 @@
 {3213}{}{approach the shores of the GSA.}
 {3214}{}{...}
 {3215}{}{April 14, 2013}
-{3216}{}{The GSA mobilizes its nuclear missiles and }
-{3217}{}{B2 bombers. The UER launches eight "Black }
+{3216}{}{The GSA mobilizes its nuclear missiles and}
+{3217}{}{B2 bombers. The UER launches eight "Black}
 {3218}{}{Jack" strategic bombers with non-nuclear}
-{3219}{}{cruise missiles on board to suppress the }
-{3220}{}{GSA air and missile defense systems, and }
-{3221}{}{then proceeds with a "limited strike" against }
-{3222}{}{the GSA base in Poland and GSA territory using }
-{3223}{}{four land- and sea-based nuclear ballistic }
-{3224}{}{missiles. At the same time, three additional }
-{3225}{}{Little Jack bombers, are launching conventional }
-{3226}{}{missiles at "Elson" Air Force Base, as well as }
+{3219}{}{cruise missiles on board to suppress the}
+{3220}{}{GSA air and missile defense systems, and}
+{3221}{}{then proceeds with a "limited strike" against}
+{3222}{}{the GSA base in Poland and GSA territory using}
+{3223}{}{four land- and sea-based nuclear ballistic}
+{3224}{}{missiles. At the same time, three additional}
+{3225}{}{Little Jack bombers, are launching conventional}
+{3226}{}{missiles at "Elson" Air Force Base, as well as}
 {3227}{}{at Canadian Air Force headquarters and "Cold Lake"}
-{3228}{}{Canadian Air Force Base. Two nuclear ballistic }
-{3229}{}{missiles launched by Russia fail, but the }
-{3230}{}{remaining two hit the "Mount Cheyenne" and }
+{3228}{}{Canadian Air Force Base. Two nuclear ballistic}
+{3229}{}{missiles launched by Russia fail, but the}
+{3230}{}{remaining two hit the "Mount Cheyenne" and}
 {3231}{}{Raven Rock bunkers.}
 {3232}{}{...}
 {3233}{}{April 15, 2013}
-{3234}{}{France and British Empire mobilize their nuclear }
+{3234}{}{France and British Empire mobilize their nuclear}
 {3235}{}{submarines and send them to the White Sea borders.}
 {3236}{}{...}
 {3237}{}{April 16, 2013}
-{3238}{}{GSA launches a nuclear strike on UER territory. }
-{3239}{}{The sabotage causes the Moscow Nuclear Shield to }
+{3238}{}{GSA launches a nuclear strike on UER territory.}
+{3239}{}{The sabotage causes the Moscow Nuclear Shield to}
 {3240}{}{function at 47% capacity, and one missile hits the}
-{3241}{}{area near Moscow. The government is urgently }
-{3242}{}{evacuated. War is declared between the UER and }
+{3241}{}{area near Moscow. The government is urgently}
+{3242}{}{evacuated. War is declared between the UER and}
 {3243}{}{the GSA.}
 {3244}{}{...}
 {3245}{}{April 17, 2013}
-{3246}{}{China and Iran side with the UER and declare war }
+{3246}{}{China and Iran side with the UER and declare war}
 {3247}{}{on the GSA.}
 {3248}{}{...}
 {3249}{}{April 18, 2013}
-{3250}{}{France withdraws from ALLIANCE, recalls its }
-{3251}{}{submarines and declares its neutrality. British }
-{3252}{}{Empire sides with the USA and declares war on }
-{3253}{}{the UER and its allies. Exchanges of "limited }
-{3254}{}{nuclear strikes" against military structures }
-{3255}{}{continue. China, with the help of the purchased }
-{3256}{}{Black Jacks, launches the first and only }
+{3250}{}{France withdraws from ALLIANCE, recalls its}
+{3251}{}{submarines and declares its neutrality. British}
+{3252}{}{Empire sides with the USA and declares war on}
+{3253}{}{the UER and its allies. Exchanges of "limited}
+{3254}{}{nuclear strikes" against military structures}
+{3255}{}{continue. China, with the help of the purchased}
+{3256}{}{Black Jacks, launches the first and only}
 {3257}{}{strategic missile "Lord Mao" with "Dark Matter"}
 {3258}{}{to the "Silicon Valley" of the GSA. The plan was}
 {3259}{}{to destroy the human presence in the area while}
 {3260}{}{leaving the technology intact, but the missile was}
 {3261}{}{shot down by GSA missile defense as early as}
-{3262}{}{12,000 meters, leading to "Dark Matter" spreading }
-{3263}{}{across much of the west coast region without }
+{3262}{}{12,000 meters, leading to "Dark Matter" spreading}
+{3263}{}{across much of the west coast region without}
 {3264}{}{causing much damage to the GSA's vital forces.}
 {3265}{}{...}
 {3266}{}{April 19, 2013}
 {3267}{}{Venezuela joins the RUE.}
 {3268}{}{...}
 {3269}{}{April 20, 2013}
-{3270}{}{Fearing further expansion of the UER alliance, }
-{3271}{}{the GSA wipes Venezuela off the map. A huge }
+{3270}{}{Fearing further expansion of the UER alliance,}
+{3271}{}{the GSA wipes Venezuela off the map. A huge}
 {3272}{}{nuclear cloud covers all of South America.}
 {3273}{}{...}
 {3274}{}{April 27, 2013}
-{3275}{}{UER and China synchronously unleash most of }
-{3276}{}{their nuclear capability on major GSA cities }
-{3277}{}{(New York, Los Angeles, Las Vegas, Detroit, }
+{3275}{}{UER and China synchronously unleash most of}
+{3276}{}{their nuclear capability on major GSA cities}
+{3277}{}{(New York, Los Angeles, Las Vegas, Detroit,}
 {3278}{}{Chicago) and military bases.}
 {3279}{}{...}
 {3280}{}{April 28, 2013}
-{3281}{}{British Empire and GSA B2 bombers launch a }
+{3281}{}{British Empire and GSA B2 bombers launch a}
 {3282}{}{massive nuclear strike against the major}
-{3283}{}{cities of the UER and China. }
+{3283}{}{cities of the UER and China.}
 {3284}{}{**END-DISK**.}
 ###########################################################
 # GVAR_DISK_WORKS_IN_RENESSANCE
 ###########################################################
 {4000}{}{November 3, 2012}
-{4001}{}{SUB: To the Command Headquarters. Classified. }
+{4001}{}{SUB: To the Command Headquarters. Classified.}
 {4002}{}{For Project Renaissance, a suitable rocky}
 {4003}{}{terrain in a sparsely populated area of the}
 {4004}{}{Valley has been chosen. The area is filled}
@@ -746,51 +746,51 @@
 {4006}{}{suppressors all around the perimeter. The}
 {4007}{}{security and secrecy of the facility are assured.}
 {4008}{}{...}
-{4009}{}{Military Observer, Lt. Cameron Douglas }
+{4009}{}{Military Observer, Lt. Cameron Douglas}
 {4010}{}{**END-PAR**}
-{4011}{}{**END-PAR** }
-{4012}{}{December 5, 2012 }
-{4013}{}{SUB: To Command Headquarters. Classified. Urgent. }
-{4014}{}{Workers and engineers have gone on strike over }
-{4015}{}{delayed wage payments. Please increase funding }
-{4016}{}{or the project will be on the verge of failure. }
-{4017}{}{... }
-{4018}{}{Military Observer, Captain Steve Jacobs }
+{4011}{}{**END-PAR**}
+{4012}{}{December 5, 2012}
+{4013}{}{SUB: To Command Headquarters. Classified. Urgent.}
+{4014}{}{Workers and engineers have gone on strike over}
+{4015}{}{delayed wage payments. Please increase funding}
+{4016}{}{or the project will be on the verge of failure.}
+{4017}{}{...}
+{4018}{}{Military Observer, Captain Steve Jacobs}
 {4019}{}{**END-PAR**}
-{4020}{}{**END-PAR** }
-{4021}{}{December 10, 2012 }
-{4022}{}{SUB: To Command Headquarters. Classified. }
-{4023}{}{The decision to replace the workers with }
-{4024}{}{Robotrons is paying off: the work is }
+{4020}{}{**END-PAR**}
+{4021}{}{December 10, 2012}
+{4022}{}{SUB: To Command Headquarters. Classified.}
+{4023}{}{The decision to replace the workers with}
+{4024}{}{Robotrons is paying off: the work is}
 {4025}{}{progressing much faster, and the original}
-{4026}{}{schedule is being followed. The remaining }
-{4027}{}{human staff is safely "handled". In order }
-{4028}{}{to avoid possible delays, please assign }
-{4029}{}{info-programmers to double-check Robotron }
-{4030}{}{work directives. }
+{4026}{}{schedule is being followed. The remaining}
+{4027}{}{human staff is safely "handled". In order}
+{4028}{}{to avoid possible delays, please assign}
+{4029}{}{info-programmers to double-check Robotron}
+{4030}{}{work directives.}
 {4031}{}{...}
 {4032}{}{Military Observer, Captain Steve Jacobs}
-{4033}{}{**END-PAR** }
-{4034}{}{**END-PAR** }
-{4035}{}{January 21, 2013 }
-{4036}{}{SUB: Military High Command. Classified. }
-{4037}{}{Garry, I don't understand why we have to }
-{4038}{}{spend money on this info-programmer? }
-{4039}{}{I was at Renaissance yesterday and that }
+{4033}{}{**END-PAR**}
+{4034}{}{**END-PAR**}
+{4035}{}{January 21, 2013}
+{4036}{}{SUB: Military High Command. Classified.}
+{4037}{}{Garry, I don't understand why we have to}
+{4038}{}{spend money on this info-programmer?}
+{4039}{}{I was at Renaissance yesterday and that}
 {4040}{}{idiot never got off his ass in 30 minutes,}
 {4041}{}{scrolling the links on the globalnet.}
-{4042}{}{Fire him the hell out, and we'll split }
-{4043}{}{his pay. And there's the deal with this }
-{4044}{}{lieutenant, Douglas... He's a helpful }
-{4045}{}{man, we should cheer him up. }
-{4046}{}{... }
-{4047}{}{Josh }
-{4048}{}{**END-PAR** }
-{4049}{}{**END-PAR** }
-{4050}{}{March 15, 2013 }
-{4051}{}{SUB: Military High Command. Classified. }
-{4052}{}{Josh, Garry, it's getting hot overseas. }
-{4053}{}{The Russians are about to fire their }
+{4042}{}{Fire him the hell out, and we'll split}
+{4043}{}{his pay. And there's the deal with this}
+{4044}{}{lieutenant, Douglas... He's a helpful}
+{4045}{}{man, we should cheer him up.}
+{4046}{}{...}
+{4047}{}{Josh}
+{4048}{}{**END-PAR**}
+{4049}{}{**END-PAR**}
+{4050}{}{March 15, 2013}
+{4051}{}{SUB: Military High Command. Classified.}
+{4052}{}{Josh, Garry, it's getting hot overseas.}
+{4053}{}{The Russians are about to fire their}
 {4054}{}{missiles at us, and you know I have a family!}
 {4055}{}{Martha, my wife, is an excellent barbecue cook,}
 {4056}{}{and Tom and Hank, my boys, are very bright and}
@@ -799,33 +799,33 @@
 {4059}{}{reconsider the list of residents and put the}
 {4060}{}{Douglas family in instead of, say, the Patterson}
 {4061}{}{family (he's been digging up our "business" for a}
-{4062}{}{long time). }
-{4063}{}{Lieutenant Colonel Douglas }
+{4062}{}{long time).}
+{4063}{}{Lieutenant Colonel Douglas}
 {4064}{}{**END-PAR**}
-{4065}{}{**END-PAR** }
-{4066}{}{March 28, 2013 }
+{4065}{}{**END-PAR**}
+{4066}{}{March 28, 2013}
 {4067}{}{SUB: Military High Command. Classified. Urgent.}
-{4068}{}{It has begun. The Koreans are already bombing }
-{4069}{}{our fleet, and all Renaissance has is a }
-{4070}{}{partially complete communications system. }
-{4071}{}{I think there's something wrong with those }
-{4072}{}{Robotrons. They sometimes stand still for }
+{4068}{}{It has begun. The Koreans are already bombing}
+{4069}{}{our fleet, and all Renaissance has is a}
+{4070}{}{partially complete communications system.}
+{4071}{}{I think there's something wrong with those}
+{4072}{}{Robotrons. They sometimes stand still for}
 {4073}{}{five minutes before they do something.}
 {4074}{}{Maybe we shouldn't have fired that programmer...}
 {4075}{}{Anyway, we need 18 more Robotrons to finish}
 {4076}{}{Renaissance in the next 3 months! How about}
 {4077}{}{making a request to NCASTR HQ? I remember they}
-{4078}{}{owe you big time for that operation in Dubai... }
+{4078}{}{owe you big time for that operation in Dubai...}
 {4079}{}{...}
-{4080}{}{Lieutenant Colonel Douglas }
+{4080}{}{Lieutenant Colonel Douglas}
 {4081}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_METAL_PD
 ###########################################################
-{5000}{}{Date: October 23, 2011 }
+{5000}{}{Date: October 23, 2011}
 {5001}{}{Subject: Research Proposal}
-{5002}{}{From: John Newell, Tin Industries RD }
-{5003}{}{To: NCASTR.Security@globalnet.inf }
+{5002}{}{From: John Newell, Tin Industries RD}
+{5003}{}{To: NCASTR.Security@globalnet.inf}
 {5004}{}{"I've given your proposal a lot of thought. And}
 {5005}{}{considered all the associated costs of meeting}
 {5006}{}{your requests. You must understand that a personal}
@@ -835,27 +835,25 @@
 {5010}{}{your research needs at least ten people to pull it}
 {5011}{}{off! All in all, I need $50,000 and a couple of}
 {5012}{}{months to start."}
-{5013}{}{... }
-{5014}{}{Date: October 27, 2011 }
-{5015}{}{Subject: Getting Started }
+{5013}{}{...}
+{5014}{}{Date: October 27, 2011}
+{5015}{}{Subject: Getting Started}
 {5016}{}{From: John Newell, Tin Industries RD}
-{5017}{}{To: NCASTR.Security@globalnet.inf }
-"{5018}{}{"I have received the funding, so I'm starting 
-}"
-{5019}{}{the experiments. But I think I got the initial }
-{5020}{}{calculations wrong somewhere and now I find it }
-{5021}{}{hard to believe that I will be able to get the }
-{5022}{}{metal with the desired properties... }
-{5023}{}{No, I'm not asking for additional funds, it's }
-{5024}{}{just that the first experiments have yielded }
+{5017}{}{To: NCASTR.Security@globalnet.inf}
+{5018}{}{"I have received the funding, so I'm starting}
+{5019}{}{the experiments. But I think I got the initial}
+{5020}{}{calculations wrong somewhere and now I find it}
+{5021}{}{hard to believe that I will be able to get the}
+{5022}{}{metal with the desired properties...}
+{5023}{}{No, I'm not asking for additional funds, it's}
+{5024}{}{just that the first experiments have yielded}
 {5025}{}{absolutely no results, so please tune in to wait."}
-{5026}{}{... }
-{5027}{}{Date: December 07, 2011 }
-{5028}{}{Subject: URGENT!!! }
-{5029}{}{From: John Newel, Tin Industries RD }
-{5030}{}{To: NCASTR.Security@globalnet.inf }
-"{5031}{}{"One of my assistant got back from vacation.
-}"
+{5026}{}{...}
+{5027}{}{Date: December 07, 2011}
+{5028}{}{Subject: URGENT!!!}
+{5029}{}{From: John Newel, Tin Industries RD}
+{5030}{}{To: NCASTR.Security@globalnet.inf}
+{5031}{}{"One of my assistant got back from vacation.}
 {5032}{}{He immediately started asking everyone what kind}
 {5033}{}{of "Power Defence" material we are developing}
 {5034}{}{here... He threatened to tell the general manager.}
@@ -863,45 +861,43 @@
 {5036}{}{raise for his silence, and help with the work,}
 {5037}{}{but the cheeky guy asked for 20,000! So far I've}
 {5038}{}{agreed, he'll be waiting for me with the money on}
-{5039}{}{December 09 at 11:00 pm, in the lab's backyard... }
-{5040}{}{Please wire me the said amount as soon as }
-{5041}{}{possible." }
-{5042}{}{... }
-{5043}{}{Date: December 08, 2011 }
-{5044}{}{Subject: FW: URGENT!!! }
+{5039}{}{December 09 at 11:00 pm, in the lab's backyard...}
+{5040}{}{Please wire me the said amount as soon as}
+{5041}{}{possible."}
+{5042}{}{...}
+{5043}{}{Date: December 08, 2011}
+{5044}{}{Subject: FW: URGENT!!!}
 {5045}{}{From: John Newel, Tin Industries RD}
-{5046}{}{To: NCASTR.Security@globalnet.inf }
+{5046}{}{To: NCASTR.Security@globalnet.inf}
 {5047}{}{"I still haven't received 20,000."}
-"{5048}{}{... 
-}"
+{5048}{}{...}
 {5049}{}{Date: December 08, 2011}
-{5050}{}{Subject: FW: FW: Urgent!!! }
-{5051}{}{From: John Newell, Tin Industries RD }
-{5052}{}{To: NCASTR.Security@globalnet.inf }
-{5053}{}{"Do you realize that he might tell the general }
-{5054}{}{and then not only "Power Defense", but all your }
-{5055}{}{other "military stuff" would come out!? Please }
-{5056}{}{transfer the funds to me as soon as possible!" }
-{5057}{}{... }
+{5050}{}{Subject: FW: FW: Urgent!!!}
+{5051}{}{From: John Newell, Tin Industries RD}
+{5052}{}{To: NCASTR.Security@globalnet.inf}
+{5053}{}{"Do you realize that he might tell the general}
+{5054}{}{and then not only "Power Defense", but all your}
+{5055}{}{other "military stuff" would come out!? Please}
+{5056}{}{transfer the funds to me as soon as possible!"}
+{5057}{}{...}
 {5058}{}{Date: December 10, 2011}
-{5059}{}{Subject: Continuing work }
-{5060}{}{From: John Newell, Tin Industries RD }
-{5061}{}{To: NCASTR.Security@globalnet.inf }
-"{5062}{}{"They say that young man suddenly lost his mind 
-}"
-{5063}{}{and ended up being put in a mental institution. }
-{5064}{}{I don't want to know what you did to him. }
-{5065}{}{But he was still a valuable employee... }
-{5066}{}{Anyway, we continue at a steady pace: The }
+{5059}{}{Subject: Continuing work}
+{5060}{}{From: John Newell, Tin Industries RD}
+{5061}{}{To: NCASTR.Security@globalnet.inf}
+{5062}{}{"They say that young man suddenly lost his mind}
+{5063}{}{and ended up being put in a mental institution.}
+{5064}{}{I don't want to know what you did to him.}
+{5065}{}{But he was still a valuable employee...}
+{5066}{}{Anyway, we continue at a steady pace: The}
 {5067}{}{first positive results for viscosity and stopping}
 {5068}{}{power have been obtained. We are moving}
 {5069}{}{on to the reducing weight phase."}
-{5070}{}{... }
-{5071}{}{Date: January 31, 2012 }
-{5072}{}{Subject: We're getting closer! }
+{5070}{}{...}
+{5071}{}{Date: January 31, 2012}
+{5072}{}{Subject: We're getting closer!}
 {5073}{}{From: John Newel, Tin Industries RD}
-{5074}{}{To: NCASTR.Security@globalnet.inf }
-{5075}{}{"By applying the properties of the electromagnetic }
+{5074}{}{To: NCASTR.Security@globalnet.inf}
+{5075}{}{"By applying the properties of the electromagnetic}
 {5076}{}{field of Earth, we have been able to reduce the}
 {5077}{}{specific weight of PD by 32%, and it looks like it}
 {5078}{}{is not the limit! Just think, how much benefit this}
@@ -909,32 +905,32 @@
 {5080}{}{publishing the results of the study! PS: I remind}
 {5081}{}{you that I still haven't received my January}
 {5082}{}{subsiding..."}
-{5083}{}{... }
-{5084}{}{Date: February 27, 2012 }
-{5085}{}{Subject: 42% less than original }
+{5083}{}{...}
+{5084}{}{Date: February 27, 2012}
+{5085}{}{Subject: 42% less than original}
 {5086}{}{From: John Newel, Tin Industries RD}
-{5087}{}{To: NCASTR.Security@globalnet.inf }
-{5088}{}{"This seems to be the limit... We're a couple of }
+{5087}{}{To: NCASTR.Security@globalnet.inf}
+{5088}{}{"This seems to be the limit... We're a couple of}
 {5089}{}{percent short of the weight reduction you asked}
-{5090}{}{for, but otherwise the material meets the }
+{5090}{}{for, but otherwise the material meets the}
 {5091}{}{required performance. Since you so categorically}
 {5092}{}{deny the possibility of publishing the study,}
 {5093}{}{can you at least tell me, for what purposes you}
-{5094}{}{need such material?  Do you want to build }
+{5094}{}{need such material?  Do you want to build}
 {5095}{}{a flying tank?}
 {5096}{}{PS: You decided not to pay me at all?"}
 {5097}{}{…}
-{5098}{}{Date: March 04, 2012 }
-{5099}{}{Subject: Contract termination }
-{5100}{}{From: John Newell, Tin Industries RD }
+{5098}{}{Date: March 04, 2012}
+{5099}{}{Subject: Contract termination}
+{5100}{}{From: John Newell, Tin Industries RD}
 {5101}{}{To: NCASTR.Security@globalnet.inf}
 {5102}{}{"I spoke to my colleague at "Ultimate Defence}
-{5103}{}{Systems" - you stole their research! And by using }
+{5103}{}{Systems" - you stole their research! And by using}
 {5104}{}{PD metal in the "AS-2000", you just want to drive}
 {5105}{}{their company into bankruptcy in a competitive}
 {5106}{}{race! This is unfair, unjust and illegal! I'm}
 {5107}{}{going to publish the research data, and the PD}
-{5108}{}{PD will benefit the world, instead of }
+{5108}{}{PD will benefit the world, instead of}
 {5109}{}{making your fat asses rich!"}
 {5110}{}{**END-DISK**}
 ###########################################################
@@ -954,41 +950,41 @@
 {6011}{}{4) Назначить психологов на должность "Вестника"}
 {6012}{}{   на каждый из этажей. Вестникам организовать из}
 {6013}{}{   слуг три касты:}
-{6014}{}{ - слуги жизни, для создания ферм и разведения }
+{6014}{}{ - слуги жизни, для создания ферм и разведения}
 {6015}{}{   коров}
 {6016}{}{ - слуги технологий, для ремонта оборудования}
-{6017}{}{ - слуги воды, для работы на нижнем этаже с }
+{6017}{}{ - слуги воды, для работы на нижнем этаже с}
 {6018}{}{   агрегатами по очистке воды}
 {6019}{}{5) Спустя два поколения слуг, рассказывать им о}
-{6020}{}{   том, что внешнего мира больше нет, а все они }
+{6020}{}{   том, что внешнего мира больше нет, а все они}
 {6021}{}{   живы только благодаря воле Богов Олимпа.}
-{6022}{}{   Создать новую веру, где они будут лишь }
+{6022}{}{   Создать новую веру, где они будут лишь}
 {6023}{}{   служителями и исполнителями "воли Богов".}
 {6024}{}{**END-PAR**}
 {6025}{}{Всему персоналу отдела биологических}
 {6026}{}{исследований:}
-{6027}{}{1) Обеспечить производство медикаментов для }
+{6027}{}{1) Обеспечить производство медикаментов для}
 {6028}{}{   жителей подвала. Нести ответственность за}
 {6029}{}{   работоспособность жителей.}
 {6030}{}{2) Обеспечить вывод беременных женщин в зал 25K}
-{6031}{}{   для родов. Перед выводом из подвала }
+{6031}{}{   для родов. Перед выводом из подвала}
 {6032}{}{   использовать психотропные средства для}
 {6033}{}{   отключения сознания. Не позволять никому из}
-{6034}{}{   жителей видеть или слышать что-либо вне }
+{6034}{}{   жителей видеть или слышать что-либо вне}
 {6035}{}{   подвала.}
 {6036}{}{**END-PAR**}
 {6037}{}{**END-PAR**}
 {6038}{}{Всему персоналу технического отдела:}
 {6039}{}{1) Обеспечить обучение двух поколений касты}
 {6040}{}{   "слуг технологий".}
-{6041}{}{2) Разработать устройство по переработке }
+{6041}{}{2) Разработать устройство по переработке}
 {6042}{}{   органического материала (кожа, кости, хрящи,}
 {6043}{}{   мышечная ткань) в компост.}
 {6044}{}{3) Смонтировать устройство на нижнем этаже}
 {6045}{}{   подвала.}
 {6046}{}{4) Мертвых слуг перерабатывать в компост.}
-{6047}{}{   Бунтарей - перерабатывать. При излишке }
-{6048}{}{   населения или нехватки пищи/воды - }
+{6047}{}{   Бунтарей - перерабатывать. При излишке}
+{6048}{}{   населения или нехватки пищи/воды -}
 {6049}{}{   перерабатывать.}
 {6050}{}{**END-PAR**}
 {6051}{}{**END-PAR**}
@@ -1005,12 +1001,12 @@
 ###########################################################
 {7000}{}{29 марта 2013}
 {7001}{}{Вот и все: все 4 семьи внутри, ворота запечатаны.}
-{7002}{}{Хм... как я и предполагал, пробиться в убежище }
+{7002}{}{Хм... как я и предполагал, пробиться в убежище}
 {7003}{}{было не так то и просто... У многих уже горят}
-{7004}{}{задницы, а после вчерашнего фейерверка, }
-{7005}{}{устроенного узкоглазыми, все оборванцы решили }
+{7004}{}{задницы, а после вчерашнего фейерверка,}
+{7005}{}{устроенного узкоглазыми, все оборванцы решили}
 {7006}{}{спасти свои душонки в нашем... нет, в МОЕМ,}
-{7007}{}{убежище! Благо, моя преданная охрана расчистила }
+{7007}{}{убежище! Благо, моя преданная охрана расчистила}
 {7008}{}{нам путь до ворот. Жаль, конечно, что нельзя было}
 {7009}{}{взять Тима и Роба сюда, но места и так мало, а}
 {7010}{}{охрана здесь нам не нужна (разве что от}
@@ -1027,10 +1023,10 @@
 {7021}{}{тут... Какой теперь смысл в продаже оружия и}
 {7022}{}{прибылях, если через месяц на планете останутся}
 {7023}{}{только пара бактерий и три эскимоса на севере?}
-{7024}{}{Хотя, и тех не останется; Русская империя и }
+{7024}{}{Хотя, и тех не останется; Русская империя и}
 {7025}{}{Великие штаты сотрут в пыль сначала союзников}
-{7026}{}{друг друга, а потом и самих себя, а Китай с }
-{7027}{}{Англией им в этом помогут... Все понятно, точка }
+{7026}{}{друг друга, а потом и самих себя, а Китай с}
+{7027}{}{Англией им в этом помогут... Все понятно, точка}
 {7028}{}{поставлена. Пойду проверю, хорошо ли работают}
 {7029}{}{машины жизнеобеспечения.}
 {7030}{}{**END-PAR**}
@@ -1038,27 +1034,27 @@
 {7032}{}{18 апреля 2013}
 {7033}{}{Беженцы проломили наружную дверь в пещеру и, если}
 {7034}{}{бы не турель, скорее всего были бы уже здесь.}
-{7035}{}{Жалко их? Пфф! Просто биомеханизмы, стремящиеся }
+{7035}{}{Жалко их? Пфф! Просто биомеханизмы, стремящиеся}
 {7036}{}{сохранить свою функциональность. Они даже лишены}
 {7037}{}{нормального сознания, ведь если бы они таковым}
 {7038}{}{обладали, то еще в 2009 бы поняли, что война}
 {7039}{}{неизбежна, и нужно личное убежище. А сломав нашу}
 {7040}{}{систему герметизации, они бы не только все равно}
-{7041}{}{умерли, но и погубили бы ценнейшие умы }
+{7041}{}{умерли, но и погубили бы ценнейшие умы}
 {7042}{}{человечества! Мой ценнейший ум! Груда мяса...}
 {7043}{}{Пусть крысы попируют напоследок.}
 {7044}{}{**END-PAR**}
 {7045}{}{**END-PAR**}
 {7046}{}{27 апреля 2013}
 {7047}{}{ГлобалНет, и так работавший через задницу,}
-{7048}{}{полностью отключился, половина наружных датчиков }
+{7048}{}{полностью отключился, половина наружных датчиков}
 {7049}{}{отключилась, вторая половина говорит, что выжить}
 {7050}{}{в таком аду просто невозможно: 3 дня - 3 ядерных}
-{7051}{}{атаки по нашей области. Лишь бы это не }
-{7052}{}{спровоцировало разломы в земной коре... Остается }
+{7051}{}{атаки по нашей области. Лишь бы это не}
+{7052}{}{спровоцировало разломы в земной коре... Остается}
 {7053}{}{надеяться, что радиация не доберется до нашего}
 {7054}{}{ручья. Нужно сообщить остальным, что мы -}
-{7055}{}{последние люди на Земле. Хм, МакКинзи наверняка }
+{7055}{}{последние люди на Земле. Хм, МакКинзи наверняка}
 {7056}{}{этой новости обрадуются.}
 {7057}{}{**END-PAR**}
 {7058}{}{**END-PAR**}
@@ -1068,38 +1064,38 @@
 {7062}{}{может быть и речи о возможности покинуть убежище}
 {7063}{}{раньше, чем через 5-6 лет! Ээх, и что же я не}
 {7064}{}{захватил эко-броню из NCASTR... Черт с ним,}
-{7065}{}{теперь у меня есть время продолжить изучение }
+{7065}{}{теперь у меня есть время продолжить изучение}
 {7066}{}{возможности боевого применения лазера, ведь когда}
 {7067}{}{мы отсюда выйдем, как знать, каких существ мы}
 {7068}{}{встретим на поверхности...}
 {7069}{}{**END-PAR**}
 {7070}{}{**END-PAR**}
 {7071}{}{12 октября 2017}
-{7072}{}{Хм, мой старый дневник... Что изменилось за 4 }
-{7073}{}{года? Ничего. Снаружи становится только хуже и я }
+{7072}{}{Хм, мой старый дневник... Что изменилось за 4}
+{7073}{}{года? Ничего. Снаружи становится только хуже и я}
 {7074}{}{даже не возьмусь предположить, когда мы сможем}
 {7075}{}{открыть убежище. Да и сможем ли вообще... Хортоны}
 {7076}{}{ведут себя... странновато: говорят, что всем}
 {7077}{}{нужно срочно "плодиться и размножаться", чтобы у}
 {7078}{}{человечества было больше шансов на выживание.}
-{7079}{}{Они, видно, забыли, что именно у Элис Хортон за }
+{7079}{}{Они, видно, забыли, что именно у Элис Хортон за}
 {7080}{}{последние два года было уже 7 абортов, а убежище}
 {7081}{}{не рассчитано на постоянное "рождение и}
-{7082}{}{размножение"... Может, при следующем аборте, ее }
+{7082}{}{размножение"... Может, при следующем аборте, ее}
 {7083}{}{стерилизовать?..}
 {7084}{}{**END-PAR**}
 {7085}{}{**END-PAR**}
 {7086}{}{15 октября 2017}
 {7087}{}{Эти Хортоны становятся все хуже с каждым днем!}
 {7088}{}{Возомнили себя хозяевами тут! Да какая разница,}
-{7089}{}{что их мебель и картины украшают убежище?? Тут }
+{7089}{}{что их мебель и картины украшают убежище?? Тут}
 {7090}{}{вам не ваш очередной отель! И уж тем более никто}
-{7091}{}{вам не давал права командовать Швайнами! Это }
+{7091}{}{вам не давал права командовать Швайнами! Это}
 {7092}{}{убежище - мое детище! Это я реанимировал проект!}
-{7093}{}{Я вложил в него средства и время! Это мои машины }
-{7094}{}{обеспечивают нас едой, водой и одеждой! }
+{7093}{}{Я вложил в него средства и время! Это мои машины}
+{7094}{}{обеспечивают нас едой, водой и одеждой!}
 {7095}{}{Немыслимо!.. Хуже Дантонов, ей Богу! В крайнем}
-{7096}{}{случае, это МакКинзи, благодаря своим нефтяным }
+{7096}{}{случае, это МакКинзи, благодаря своим нефтяным}
 {7097}{}{разработкам, обеспечили проект рабочей силой и}
 {7098}{}{стройматериалами. Нужно поставить на место обе}
 {7099}{}{сумасбродные семейки...}
@@ -1109,10 +1105,10 @@
 {7103}{}{Опять дневник... Да, нужно было ее стерилизовать.}
 {7104}{}{Она родила уже 4 раза! Нас тут становится}
 {7105}{}{многовато, еды на всех не хватает, я все чаще}
-{7106}{}{болею, концентрация нарушается, а ежечасные }
-{7107}{}{истерики Джулии Дантон только подливают масла в }
+{7106}{}{болею, концентрация нарушается, а ежечасные}
+{7107}{}{истерики Джулии Дантон только подливают масла в}
 {7108}{}{огонь. Я бы ее убил, не будь она нам нужна для}
-{7109}{}{разбавления генетического материала. Только }
+{7109}{}{разбавления генетического материала. Только}
 {7110}{}{Оливер, мой гениальный мальчик, продолжает меня}
 {7111}{}{радовать... Подумать только, парню едва}
 {7112}{}{исполнилось 21, а он уже открыл новые свойства}
@@ -1126,11 +1122,11 @@
 {7120}{}{больше не суждено увидеть солнечный свет! Но еще}
 {7121}{}{обиднее за Кристиана, моего внука... Похоже, ему}
 {7122}{}{вообще не суждено увидеть небо... Есть ли смысл в}
-{7123}{}{таком существовании? Только мысль о полном }
+{7123}{}{таком существовании? Только мысль о полном}
 {7124}{}{вымирании человечества сдерживает многих из нас}
 {7125}{}{от пьяного самоубийства. Но, мой час уже}
 {7126}{}{близок... Оливер, ты останешься за главного. Если}
-{7127}{}{хочешь - можешь завершить наше с тобой лазерное }
+{7127}{}{хочешь - можешь завершить наше с тобой лазерное}
 {7128}{}{ружье, может хоть Кристиану оно пригодится...}
 {7129}{}{**END-DISK**}
 ###########################################################
@@ -1140,19 +1136,19 @@
 {8001}{}{**END-PAR**}
 {8002}{}{**END-PAR**}
 {8003}{}{15 апреля 2012 года состоится 5-я ежегодная}
-{8004}{}{всеамериканская научно-популярная выставка }
+{8004}{}{всеамериканская научно-популярная выставка}
 {8005}{}{"NCASTR & You!". Среди прочих новейших достижений}
 {8006}{}{в областях техногенетики, волномеханики и}
 {8007}{}{инфологии вы сможете собственными глазами увидеть}
 {8008}{}{такие новейшие разработки, как:}
-{8009}{}{- Крохотный инфопередатчик, помещающийся в }
+{8009}{}{- Крохотный инфопередатчик, помещающийся в}
 {8010}{}{  оправе очков. Вы даже сможете опробовать его}
 {8011}{}{  в деле!*}
 {8012}{}{- Миниатюрный усилитель инфоволн, который}
-{8013}{}{  можно носить на брелоке и брать с собой на }
+{8013}{}{  можно носить на брелоке и брать с собой на}
 {8014}{}{  работу}
 {8015}{}{- Новейшая модель Роботрона, способного}
-{8016}{}{  воспринимать английскую речь и действовать }
+{8016}{}{  воспринимать английскую речь и действовать}
 {8017}{}{  "по-ситуации". Совсем как живой, вашему}
 {8018}{}{  ребенку он точно понравится!}
 {8019}{}{...}
@@ -1161,18 +1157,18 @@
 {8022}{}{защиты - БМК "Дефендер" - гордость и флагман}
 {8023}{}{корпорации NCASTR!**}
 {8024}{}{...}
-{8025}{}{Напоминаем, 15 апреля 2012 уникальная }
+{8025}{}{Напоминаем, 15 апреля 2012 уникальная}
 {8026}{}{возможность для Вас и Ваших детей незабываемо}
 {8027}{}{провести день!***}
 {8028}{}{...}
 {8029}{}{...}
-{8030}{}{* Требуется хирургическое вмешательство. }
+{8030}{}{* Требуется хирургическое вмешательство.}
 {8031}{}{  Условия соглашения находятся на входном билете.}
-{8032}{}{** Только для высшего военного командования }
+{8032}{}{** Только для высшего военного командования}
 {8033}{}{   уровнем не ниже AA}
 {8034}{}{*** Билеты продаются в холле "Хортон". Вход в}
 {8035}{}{    отель = 4.30 доллара. Проезд к небоскребу}
-{8036}{}{    "Олимп" осуществляется по западной ветке }
+{8036}{}{    "Олимп" осуществляется по западной ветке}
 {8037}{}{    Метро.}
 {8038}{}{**END-DISK**}
 ###########################################################
@@ -1181,23 +1177,23 @@
 {9000}{}{Дата записи: 08 июля 2207}
 {9001}{}{Как мило со стороны этих отважных воинов дать}
 {9002}{}{мне медикаменты, оружие и этот замечательный}
-{9003}{}{дискофон! Вот уже 4 недели, как я продвигаюсь к }
-{9004}{}{"Олимпу"... Нас было четверо, когда мы узнали }
+{9003}{}{дискофон! Вот уже 4 недели, как я продвигаюсь к}
+{9004}{}{"Олимпу"... Нас было четверо, когда мы узнали}
 {9005}{}{от одного мертвяка о башне. Боже, каким было}
 {9006}{}{счастьем узнать, что есть на свете}
 {9007}{}{действительно безопасное место, где нет диких}
 {9008}{}{зверей и еще более диких мужчин! Мы шли днями и}
-{9009}{}{ночами на запад, к центру долины... Потом на }
+{9009}{}{ночами на запад, к центру долины... Потом на}
 {9010}{}{нас напала Химера... Это был Ад на земле!}
 {9011}{}{Чудовище за пару секунд перегрызло Бобби}
-{9012}{}{пополам, а потом догнало и Синди... Я уже не }
+{9012}{}{пополам, а потом догнало и Синди... Я уже не}
 {9013}{}{оборачивалась, но слышала ее предсмертный крик}
 {9014}{}{и голодный звериный рев... Эти ужасные звуки до}
 {9015}{}{сих пор звучат в моей голове... Мы продолжали}
 {9016}{}{идти с моим отцом вдвоем, но костры по ночам}
 {9017}{}{больше не разводили. Как то днем, когда все}
 {9018}{}{вокруг казалось тихим и спокойным, папа вдруг}
-{9019}{}{провалился по колени в песок, и никак не мог }
+{9019}{}{провалился по колени в песок, и никак не мог}
 {9020}{}{выбраться. Я испугалась, что это были зыбучие}
 {9021}{}{пески и отпрыгнула, пытаясь найти какую-нибудь}
 {9022}{}{палку, чтобы его вытащить, но он не увязал.}
@@ -1212,7 +1208,7 @@
 {9031}{}{Боюсь даже представить, что бы они со мной}
 {9032}{}{сделали! Только благодаря этим храбрым воинам я}
 {9033}{}{в безопасности, они их всех убили! Боже, какое}
-{9034}{}{счастье и какая удача! Они предложили мне }
+{9034}{}{счастье и какая удача! Они предложили мне}
 {9035}{}{присоединиться к ним, пока они патрулируют эту}
 {9036}{}{местность. И конечно же я согласилась! На}
 {9037}{}{рассвете мы выдвинемся в боевой поход!}
@@ -1223,10 +1219,10 @@
 {9042}{}{1000 миль, я просто не чувствую ног! Но,}
 {9043}{}{главное, я в полной безопасности здесь, с ними.}
 {9044}{}{Они называют себя "Луменьеры", это что-то вроде}
-{9045}{}{"Несущие свет". Они борются со злом и }
-{9046}{}{несправедливостью по всей земле! И... они }
+{9045}{}{"Несущие свет". Они борются со злом и}
+{9046}{}{несправедливостью по всей земле! И... они}
 {9047}{}{сказали, что "Олимп" - это оплот зла... Там нет}
-{9048}{}{спасения, только смерть... Ну-у, что ж, я }
+{9048}{}{спасения, только смерть... Ну-у, что ж, я}
 {9049}{}{потеряла одну надежду, но нашла другую, в лице}
 {9050}{}{этих  храбрых рыцарей! Как хочется спа-а-ать...}
 {9051}{}{**END-PAR**}
@@ -1238,7 +1234,7 @@
 {9057}{}{Света", где я смогу пройти обряд инициации и}
 {9058}{}{тоже служить Добру! Боже, я так волнуюсь... Я}
 {9059}{}{так хочу стать одной из них, но они не говорят,}
-{9060}{}{как я должна доказать сою верность... Но я }
+{9060}{}{как я должна доказать сою верность... Но я}
 {9061}{}{смелая, я готова на все!}
 {9062}{}{**END-PAR**}
 {9063}{}{**END-PAR**}
@@ -1246,7 +1242,7 @@
 {9065}{}{Через пару минут мы пойдем в бой против}
 {9066}{}{бандитов... Мне так страшно... Они все в броне,}
 {9067}{}{практически неуязвимы, а я совсем беззащитна,}
-{9068}{}{только таблетки от радиации да пара инъекций }
+{9068}{}{только таблетки от радиации да пара инъекций}
 {9069}{}{"Лазарета"... Хоть бы не умереть вот так,}
 {9070}{}{просто...}
 {9071}{}{...}
@@ -1255,41 +1251,41 @@
 {9074}{}{Один из Луменьеров решил догнать двух последних}
 {9075}{}{негодяев, даже когда те забежали в самый центр}
 {9076}{}{Поляны.. Даже я уже знаю, что она не просто так}
-{9077}{}{называется Поляной Смерти! Там какие-то }
-{9078}{}{испарения, или что-то такое, от чего не }
+{9077}{}{называется Поляной Смерти! Там какие-то}
+{9078}{}{испарения, или что-то такое, от чего не}
 {9079}{}{защищают Ангельские Доспехи Луменьеров... Он их}
 {9080}{}{догнал, и даже убил, но вернуться так и не}
 {9081}{}{смог.. Издалека я видела, как он бился в}
-{9082}{}{судорогах... Но есть и хорошая сторона - я }
+{9082}{}{судорогах... Но есть и хорошая сторона - я}
 {9083}{}{займу его место и буду носить его Доспехи! Как}
 {9084}{}{только я пройду инициацию, мне дадут}
 {9085}{}{специальный костюм, который убережет меня от}
-{9086}{}{смертельных испарений - и я заберу доспех с }
-{9087}{}{Поляны. Остался последний день похода, скоро я }
+{9086}{}{смертельных испарений - и я заберу доспех с}
+{9087}{}{Поляны. Остался последний день похода, скоро я}
 {9088}{}{стану одной из них! Нужно отметить координаты}
 {9089}{}{Поляны, на всякий случай...}
 {9090}{}{**END-PAR**}
 {9091}{}{**END-PAR**}
 {9092}{}{Дата записи: 15 июля 2207}
 {9093}{}{Это монстры! ЧУДОВИЩА! О Господи, я больше}
-{9094}{}{никогда не смогу спать спокойно... Последней }
-{9095}{}{задачей было, как они сказали, самое простое и }
+{9094}{}{никогда не смогу спать спокойно... Последней}
+{9095}{}{задачей было, как они сказали, самое простое и}
 {9096}{}{самое ответственное - уничтожить зло до того,}
 {9097}{}{как оно окрепло... НО ЭТО ЖЕ ВСЕГО ЛИШЬ ДЕТИ!!!}
 {9098}{}{Когда я увидела, за кем мы охотились - я не}
-{9099}{}{поверила, что такое возможно! Пятеро детей, не }
-{9100}{}{старше 9-ти лет, с самодельными пистолетами и }
+{9099}{}{поверила, что такое возможно! Пятеро детей, не}
+{9100}{}{старше 9-ти лет, с самодельными пистолетами и}
 {9101}{}{пневматическими винтовками! ДА ЧТО КОМУ ПЛОХОГО}
 {9102}{}{ОНИ МОГЛИ СДЕЛАТЬ!? Но нет же, это "зарождение}
-{9103}{}{зла! его нужно уничтожить!" Боже, как они }
-{9104}{}{кричали... Когда эти ублюдки решили, что }
-{9105}{}{детишки мертвы, и развернулись в обратную }
-{9106}{}{сторону, я подошла поближе, и заметила, что }
+{9103}{}{зла! его нужно уничтожить!" Боже, как они}
+{9104}{}{кричали... Когда эти ублюдки решили, что}
+{9105}{}{детишки мертвы, и развернулись в обратную}
+{9106}{}{сторону, я подошла поближе, и заметила, что}
 {9107}{}{одна девочка только притворилась мертвой. Она}
-{9108}{}{шепнула, что отведет меня домой, если я ей }
-{9109}{}{помогу. Но что мне оставалось делать!? Мы }
+{9108}{}{шепнула, что отведет меня домой, если я ей}
+{9109}{}{помогу. Но что мне оставалось делать!? Мы}
 {9110}{}{побежали, как, наверное, еще никогда не бегали!}
-{9111}{}{Нам стреляли вслед, но мы все же скрылись, и }
+{9111}{}{Нам стреляли вслед, но мы все же скрылись, и}
 {9112}{}{вот я здесь, в Рэйнбоу Рэйдерз. Здесь мало}
 {9113}{}{хорошего и доброго, но лучше уж работать}
 {9114}{}{проституткой и есть отбросы, чем убивать детей,}
@@ -1299,47 +1295,47 @@
 # GVAR_DISK_NOVOBRANETS
 ###########################################################
 {10000}{}{День 1. 19.17}
-{10001}{}{Завтра первый день моей новой жизни! Я }
+{10001}{}{Завтра первый день моей новой жизни! Я}
 {10002}{}{наконец-то закончил обучение и завтра мой первый}
-{10003}{}{рабочий день. Поэтому я решил завести новый }
+{10003}{}{рабочий день. Поэтому я решил завести новый}
 {10004}{}{дневник, который возьму с собой в казарму. А}
-{10005}{}{старый сдам вместе со своими детскими игрушками }
-{10006}{}{и вещами на хранение. Я с нетерпением жду нового }
-{10007}{}{дня, и вряд ли мне удастся сегодня заснуть. }
+{10005}{}{старый сдам вместе со своими детскими игрушками}
+{10006}{}{и вещами на хранение. Я с нетерпением жду нового}
+{10007}{}{дня, и вряд ли мне удастся сегодня заснуть.}
 {10008}{}{Здравствуй, новая жизнь!}
 {10009}{}{**END-PAR**}
 {10010}{}{**END-PAR**}
 {10011}{}{День 2. 9.32}
-{10012}{}{Моя новая форма просто великолепна! Теперь Джок }
-{10013}{}{не будет надо мной насмехаться. Мы теперь равны }
-{10014}{}{по званию, я уже не какой-то желторотый курсант. }
-{10015}{}{Хочу посмотреть в его глаза, когда он признает }
-{10016}{}{во мне равного. Ради этого момента стоило }
-{10017}{}{терпеть все его издевательства и насмешки. А }
+{10012}{}{Моя новая форма просто великолепна! Теперь Джок}
+{10013}{}{не будет надо мной насмехаться. Мы теперь равны}
+{10014}{}{по званию, я уже не какой-то желторотый курсант.}
+{10015}{}{Хочу посмотреть в его глаза, когда он признает}
+{10016}{}{во мне равного. Ради этого момента стоило}
+{10017}{}{терпеть все его издевательства и насмешки. А}
 {10018}{}{Келли будет просто без ума от моей формы!}
 {10019}{}{**END-PAR**}
 {10020}{}{       12.06}
-{10021}{}{Джок еще больше злорадствовал. Не пойму, что ему }
-{10022}{}{еще надо? Мы теперь делаем одно и то же, }
-{10023}{}{выглядим одинаково, а он все издевается надо }
-{10024}{}{мной! Сказать, что ли, капитану об этом? Джок }
-{10025}{}{обязан теперь уважать меня. }
-{10026}{}{И этот странный обряд посвящения в охранники мне }
-{10027}{}{не дает покоя. Почему я раньше о нем не слышал? }
-{10028}{}{Странно все это. Я ожидал от своего первого }
+{10021}{}{Джок еще больше злорадствовал. Не пойму, что ему}
+{10022}{}{еще надо? Мы теперь делаем одно и то же,}
+{10023}{}{выглядим одинаково, а он все издевается надо}
+{10024}{}{мной! Сказать, что ли, капитану об этом? Джок}
+{10025}{}{обязан теперь уважать меня.}
+{10026}{}{И этот странный обряд посвящения в охранники мне}
+{10027}{}{не дает покоя. Почему я раньше о нем не слышал?}
+{10028}{}{Странно все это. Я ожидал от своего первого}
 {10029}{}{дежурства большего.}
 {10030}{}{**END-PAR**}
 {10031}{}{**END-PAR**}
 {10032}{}{День 3. 10.52}
-{10033}{}{Ненавижу этого говнюка Джока! Он сам это все }
-{10034}{}{придумал. Никого больше так не посвящали в }
-{10035}{}{охранники раньше! Они привязали меня к стене, }
-{10036}{}{закидали дерьмом лавашей и оставили так висеть }
-{10037}{}{на ночь! Что за идиотские шутки? Еще и смена на }
-{10038}{}{два часа опоздала. Мне пришлось в таком виде }
-{10039}{}{идти к капитану с докладом об отсутствии за ночь }
-{10040}{}{происшествий. Капитан орал и матерился, назначил }
-{10041}{}{мне еще пять дежурств вне очереди! А Джока так и }
+{10033}{}{Ненавижу этого говнюка Джока! Он сам это все}
+{10034}{}{придумал. Никого больше так не посвящали в}
+{10035}{}{охранники раньше! Они привязали меня к стене,}
+{10036}{}{закидали дерьмом лавашей и оставили так висеть}
+{10037}{}{на ночь! Что за идиотские шутки? Еще и смена на}
+{10038}{}{два часа опоздала. Мне пришлось в таком виде}
+{10039}{}{идти к капитану с докладом об отсутствии за ночь}
+{10040}{}{происшествий. Капитан орал и матерился, назначил}
+{10041}{}{мне еще пять дежурств вне очереди! А Джока так и}
 {10042}{}{не наказали.}
 {10043}{}{**END-PAR**}
 {10044}{}{**END-PAR**}
@@ -1347,7 +1343,7 @@
 {10046}{}{Первая приятная новость за эту неделю! У меня}
 {10047}{}{состоялась плановая встреча с Келли, моей}
 {10048}{}{будущей женой. Мы провели на 20 минут больше}
-{10049}{}{вместе, чем в прошлый раз. Через одиннадцать }
+{10049}{}{вместе, чем в прошлый раз. Через одиннадцать}
 {10050}{}{месяцев по графику наша свадьба. И, может быть,}
 {10051}{}{мне разрешат попасть к ней на медицинский этаж,}
 {10052}{}{и я увижу, как же живут люди этажом выше моего}
@@ -1376,13 +1372,13 @@
 {10075}{}{Черт, здесь в пещерах опасней, чем я}
 {10076}{}{предполагал! Когда я искал заначку с самогоном,}
 {10077}{}{меня заметили. За мной гнались четверо безумных,}
-{10078}{}{один укусил меня за руку. Я расстрелял все }
+{10078}{}{один укусил меня за руку. Я расстрелял все}
 {10079}{}{патроны и, кажется, одного немного зацепил.}
 {10080}{}{Потом я спрятался в какой-то комнате, а они}
-{10081}{}{ломились в дверь. Когда уже держать дверь не }
+{10081}{}{ломились в дверь. Когда уже держать дверь не}
 {10082}{}{оставалось сил, в двери что-то щелкнуло, и она}
-{10083}{}{закрылась. Безумные до сих пор скребутся }
-{10084}{}{снаружи, а я могу отдохнуть, перевязать руку и }
+{10083}{}{закрылась. Безумные до сих пор скребутся}
+{10084}{}{снаружи, а я могу отдохнуть, перевязать руку и}
 {10085}{}{подождать помощи. Скоро Джок и ребята}
 {10086}{}{забеспокоятся и придут за мной.}
 {10087}{}{**END-PAR**}
@@ -1417,11 +1413,11 @@
 {10116}{}{       18.56}
 {10117}{}{Это ублюдок Джок все подстроил! Меня же}
 {10118}{}{предупреждали, что Джок - редкостная мразь, а я}
-{10119}{}{не верил! И зачем меня назначили охранником? Я }
+{10119}{}{не верил! И зачем меня назначили охранником? Я}
 {10120}{}{всегда интересовался растениями и мог бы стать}
 {10121}{}{отличным биологом! А еще как повезло, когда мне}
 {10122}{}{назначили невесту. Красавица Келли с}
-{10123}{}{медицинского этажа! Все знают, что на }
+{10123}{}{медицинского этажа! Все знают, что на}
 {10124}{}{медицинском - самые красавицы. Расчет показал,}
 {10125}{}{что наши дети были бы здоровые и умные.}
 {10126}{}{Возможно, они бы добрались до самой вершины}
@@ -1431,8 +1427,8 @@
 {10130}{}{День 10 14.37}
 {10131}{}{У меня не осталось еды и воды. Рана на руке}
 {10132}{}{зудит нестерпимо. Я уже почти не могу шевелить}
-{10133}{}{пальцами. Голова трещит. Все, о чем я жалею - }
-{10134}{}{что не оставил ни одного патрона. }
+{10133}{}{пальцами. Голова трещит. Все, о чем я жалею -}
+{10134}{}{что не оставил ни одного патрона.}
 {10135}{}{**END-PAR**}
 {10136}{}{**END-PAR**}
 {10137}{}{День 11 12.12}
@@ -1457,18 +1453,18 @@
 {11006}{}{Тупица!}
 {11007}{}{Разряд молнии промелькнул мимо и разнес}
 {11008}{}{вдребезги старые часы на стене офиса, в}
-{11009}{}{котором я пряталась. В "Руководстве по }
-{11010}{}{выживанию в Пустоши" было полно }
+{11009}{}{котором я пряталась. В "Руководстве по}
+{11010}{}{выживанию в Пустоши" было полно}
 {11011}{}{всевозможных полезных советов.}
-{11012}{}{Рекомендации по собирательству, целая }
-{11013}{}{глава, посвященная минам, и многое, многое }
+{11012}{}{Рекомендации по собирательству, целая}
+{11013}{}{глава, посвященная минам, и многое, многое}
 {11014}{}{другое! А еще там были не очень полезные}
 {11015}{}{советы. После того как я прочитала главу о}
 {11016}{}{том, "Как заставить довоенные технологии}
 {11017}{}{земных пони работать на Вас", первой же}
 {11018}{}{мыслью было заглянуть в развалины}
 {11019}{}{оружейного завода "Огненные Подковы", мимо}
-{11020}{}{которого я проходила, и поискать }
+{11020}{}{которого я проходила, и поискать}
 {11021}{}{какие-нибудь технологии, которые получится}
 {11022}{}{приспособить под свои нужды.}
 {11023}{}{**END-PAR**}
@@ -1493,9 +1489,9 @@
 {11042}{}{находились настоящие мозги. Я отказывалась}
 {11043}{}{верить в то, что их создатели использовали}
 {11044}{}{мозги других пони. Эта мысль казалась}
-{11045}{}{слишком чудовищной. Даже использование }
-{11046}{}{мозгов животных было чудовищным. И }
-{11047}{}{двухсотлетнее пребывание в рабочем }
+{11045}{}{слишком чудовищной. Даже использование}
+{11046}{}{мозгов животных было чудовищным. И}
+{11047}{}{двухсотлетнее пребывание в рабочем}
 {11048}{}{состоянии явно не принесло никакой пользы}
 {11049}{}{их рассудку.}
 {11050}{}{**END-PAR**}
@@ -1505,7 +1501,7 @@
 {11054}{}{...}
 {11055}{}{Вот и пример.}
 {11056}{}{...}
-{11057}{}{То, что это был детский голос }
+{11057}{}{То, что это был детский голос}
 {11058}{}{кобылки-дошкольницы, хоть и искусственный,}
 {11059}{}{пугало еще больше. К счастью, перила на}
 {11060}{}{мостиках, ведущих к этому офису, были}
@@ -1519,10 +1515,10 @@
 {11068}{}{которых оканчивались оружием, включавшим}
 {11069}{}{циркулярную пилу и огнемет. А что было еще}
 {11070}{}{хуже, эти чертовы машины могли летать!}
-{11071}{}{Прогремел гораздо более глубокий, мощный }
+{11071}{}{Прогремел гораздо более глубокий, мощный}
 {11072}{}{голос:}
 {11073}{}{...}
-{11074}{}{- Именем Министерства Технологий }
+{11074}{}{- Именем Министерства Технологий}
 {11075}{}{приказываю сдаться, полосатое отродье!}
 {11076}{}{...}
 {11077}{}{Я вовремя скрылась за рядом металлических}
@@ -1534,20 +1530,20 @@
 {11083}{}{дождалась, пока пламя наконец утихнет.}
 {11084}{}{Металлические шкафы начинали неприятно}
 {11085}{}{жечь спину, а раскалившийся воздух обжигал}
-{11086}{}{легкие. Как только огнемет прекратил }
+{11086}{}{легкие. Как только огнемет прекратил}
 {11087}{}{изрыгать пламя, я выглянула из-за шкафов и}
 {11088}{}{левитировала гранаты прямо к}
 {11089}{}{металлическому монстру, попутно выдернув}
 {11090}{}{предохранительные кольца. Как только робот}
-{11091}{}{заметил меня, он направил в мою сторону }
+{11091}{}{заметил меня, он направил в мою сторону}
 {11092}{}{оружие, похожее на рог единорога,}
 {11093}{}{пульсирующее зеленым светом. Из него}
 {11094}{}{вырвался луч магического пламени,}
 {11095}{}{прошипевший в миллиметре от моей щеки.}
-{11096}{}{Выстрел попал в вентилятор, стоявший на }
-{11097}{}{столе позади меня; он на секунду вспыхнул }
-{11098}{}{зеленым светом, а затем расплавился! }
-{11099}{}{Отпустив гранаты из телекинетической }
+{11096}{}{Выстрел попал в вентилятор, стоявший на}
+{11097}{}{столе позади меня; он на секунду вспыхнул}
+{11098}{}{зеленым светом, а затем расплавился!}
+{11099}{}{Отпустив гранаты из телекинетической}
 {11100}{}{хватки, я нырнула обратно в укрытие.}
 {11101}{}{**END-PAR**}
 {11102}{}{**END-PAR**}
@@ -1555,7 +1551,7 @@
 {11104}{}{дорожки снаружи с пугающим хлопком}
 {11105}{}{поддалась. Выглянув из укрытия, я увидела,}
 {11106}{}{что робот превратился в гору металлолома.}
-{11107}{}{Мостик снаружи был по-прежнему цел, но }
+{11107}{}{Мостик снаружи был по-прежнему цел, но}
 {11108}{}{опасно провис. Я была не совсем уверена,}
 {11109}{}{что он выдержит мой вес.}
 {11110}{}{**END-PAR**}
@@ -1569,7 +1565,7 @@
 {11118}{}{не слишком точным. Но первые несколько}
 {11119}{}{метров мостика теперь болтались в воздухе}
 {11120}{}{и угрожающе прогнулись. И чем дольше я на}
-{11121}{}{него смотрела, тем меньше мне хотелось }
+{11121}{}{него смотрела, тем меньше мне хотелось}
 {11122}{}{оказ...}
 {11123}{}{**END-DISK**}
 ###########################################################
@@ -1592,7 +1588,7 @@
 {12014}{}{информации}
 {12015}{}{**END-PAR**}
 {12016}{}{**END-PAR**}
-{12017}{}{Мы должны обнаружить "Ренессанс" до того, как }
+{12017}{}{Мы должны обнаружить "Ренессанс" до того, как}
 {12018}{}{дикари из радиуса его найдут и разграбят.}
 {12019}{}{Технологии этого проекта могут стать залогом}
 {12020}{}{выживания человечества в будущем.}
@@ -1625,8 +1621,8 @@
 {13022}{}{самовоспроизводимым для освобождения}
 {13023}{}{инкубаторных мощностей компании.}
 {13024}{}{К сожалению, как впрочем и всегда, проект}
-{13025}{}{"Гамма" ограничен в финансировании, поэтому }
-{13026}{}{запланированы только следующие этапы }
+{13025}{}{"Гамма" ограничен в финансировании, поэтому}
+{13026}{}{запланированы только следующие этапы}
 {13027}{}{экспериментов:}
 {13028}{}{I - инъекции гормональной вытяжки серой гориллы}
 {13029}{}{II - длительное воздействие гамма-облучения}
@@ -1640,10 +1636,10 @@
 {13037}{}{**END-PAR**}
 {13038}{}{Июль, 13, 2012}
 {13039}{}{Люси довольно спокойно перенес закачивание 0,5}
-{13040}{}{пинты гормональной вытяжки внутримышечно, и с }
+{13040}{}{пинты гормональной вытяжки внутримышечно, и с}
 {13041}{}{прошлого дня беспробудно спит.}
-{13042}{}{Для протокола: Уилл постоянно проявляет }
-{13043}{}{халатность и явно симпатизирует подопытному }
+{13042}{}{Для протокола: Уилл постоянно проявляет}
+{13043}{}{халатность и явно симпатизирует подопытному}
 {13044}{}{объекту.}
 {13045}{}{**END-PAR**}
 {13046}{}{**END-PAR**}
@@ -1665,9 +1661,9 @@
 {13062}{}{**END-PAR**}
 {13063}{}{Июль, 21, 2012}
 {13064}{}{Пока еще рано судить, но судя по всему, первый}
-{13065}{}{этап не дал нужных результатов. Результат }
-{13066}{}{анализа крови Люси говорит об отсутствии }
-{13067}{}{ожидаемых генетических изменениях. Объект }
+{13065}{}{этап не дал нужных результатов. Результат}
+{13066}{}{анализа крови Люси говорит об отсутствии}
+{13067}{}{ожидаемых генетических изменениях. Объект}
 {13068}{}{успокоился и поведением ни чем не отличается от}
 {13069}{}{первичного состояния.}
 {13070}{}{Готовим материалы для второго этапа.}
@@ -1678,7 +1674,7 @@
 {13075}{}{**END-PAR**}
 {13076}{}{Август, 04, 2012}
 {13077}{}{Наконец-то из штаба пришел усовершенствованный}
-{13078}{}{излучатель. Честное слово - могли бы и }
+{13078}{}{излучатель. Честное слово - могли бы и}
 {13079}{}{поторопиться! Каждый час задержки может стоить}
 {13080}{}{провала всего проекта "Гамма"! Бюрократы}
 {13081}{}{постоянно ставят палки в колеса.}
@@ -1710,7 +1706,7 @@
 {13107}{}{**END-PAR**}
 {13108}{}{Август, 09, 2012}
 {13109}{}{Люси подвергся первому облучению, при этом}
-{13110}{}{объект вел себя крайне нестабильно и пытался }
+{13110}{}{объект вел себя крайне нестабильно и пытался}
 {13111}{}{вырваться из клетки. Мне кажется, он смотрел на}
 {13112}{}{Уилла...}
 {13113}{}{**END-PAR**}
