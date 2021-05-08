@@ -4284,7 +4284,7 @@
 {234000}{}{Poster}
 {234001}{}{You look at it for a while. You definitely like old posters.}
 {234100}{}{Poster}
-{234101}{}{It's patriotic.}
+{234101}{}{It looks very patriotic.}
 {234200}{}{Wall}
 {234300}{}{Poster}
 {234301}{}{You wish there had been a poster like this hanging over your bed when you were a kid.}

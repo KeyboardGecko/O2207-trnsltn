@@ -99,7 +99,7 @@
 {302}{QA}{I think I could try to handle it.}
 {303}{032}{I can't find the plunger! Do you know where it might be?}
 {307}{032}{The rats are dead, but I still can't find the plunger!}
-{304}{033}{All done! The rats are dead, the toilet is unclogged. I should say it was a dirty job.}
+{304}{033}{All done! The rats are dead, the toilet is unclogged. I should say it was... Dirty.}
 {305}{999}{No problem, soon it will be available for use.}
 {306}{010}{Uh, I actually wanted to talk about something else.}
 

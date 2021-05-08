@@ -675,8 +675,8 @@
 {33800}{}{*Plunger*}
 {33801}{}{A stick with a rubber pump on the end. It can come in handy if you want to gently hit someone. It is also suitable for unclogging toilets.}
 {33900}{}{Name Certificate}
-{33901}{}{On a rotten piece of paper is illegibly written that "The Bearer of this paper is INDEED a member of the GREAT and ANCIENT Schwein family."}
-{34000}{}{A Note from Douglas}
+{33901}{}{On a rotten piece of paper is illegibly written that "The bearer of this paper is INDEED a member of the GREAT and ANCIENT Schwein family."}
+{34000}{}{Note from Douglas}
 {34001}{}{Looks like a list of things Olympus needs.}
 {34100}{}{*Spare Parts Kit*}
 {34101}{}{A heavy box with a lot of hardware inside.}
