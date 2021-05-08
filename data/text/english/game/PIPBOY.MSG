@@ -265,7 +265,7 @@
 {1082}{}{they don't seem to be after us. I got... I lost}
 {1083}{}{my right hand. I don't even know what kind of}
 {1084}{}{guns they had, but my revolver just exploded,}
-{1085}{}{together with all the meat and the bones... Shit...}
+{1085}{}{together with all the meat and bones... Shit...}
 {1086}{}{It all took them about 30 minutes, tops. These}
 {1087}{}{bastards were just having fun killing us. It's a}
 {1088}{}{good thing we managed to get most of the guns}
@@ -1151,30 +1151,29 @@
 {8009}{}{science innovations as:}
 {8010}{}{- A tiny infotransmitter that fits in the}
 {8011}{}{frame of your glasses. You can even try it}
-{8012}{}{in action!*}
+{8012}{}{in action! *}
 {8013}{}{- A miniature infowave amplifier that you can}
 {8014}{}{wear on your keychain and take with you to work.}
 {8015}{}{- The latest Robotron model, capable to}
 {8016}{}{understand human speech and act accordingly.}
 {8017}{}{Just like alive! Your child will definitely}
 {8018}{}{like it!}
-{8019}{}{}
-{8020}{}{And to conclude the exhibition - a private}
-{8021}{}{presentation of the latest Mechanized Combat}
-{8022}{}{Total Defense Armor: MCA "Defender"! The main}
-{8023}{}{pride and flagship of NCASTR corporation!**}
-{8024}{}{}
-{8025}{}{We remind you that April 15, 2012 is a unique}
-{8026}{}{opportunity to spend an unforgettable day for}
-{8027}{}{you and your children!***}
-{8028}{}{}
-{8029}{}{*Surgery required. Terms and conditions are on}
-{8030}{}{the admission ticket.}
-{8031}{}{**For Military High Command, level AA or higher.}
-{8032}{}{***Tickets are sold at the "Horton Hotel" lobby.}
-{8033}{}{Hotel admission = $4.30. Transfer to the Olympus}
-{8034}{}{is conducted via the west Subway line.}
-{8035}{}{**END-DISK**}
+{8019}{}{And to conclude the exhibition - a private}
+{8020}{}{presentation of the latest Mechanized Combat}
+{8021}{}{Total Defense Armor: MCA "Defender"! The main}
+{8022}{}{pride and flagship of NCASTR corporation! **}
+{8023}{}{}
+{8024}{}{We remind you that April 15, 2012 is a unique}
+{8025}{}{opportunity to spend an unforgettable day for}
+{8026}{}{you and your children! ***}
+{8027}{}{}
+{8028}{}{* Surgery required. Terms and conditions are on}
+{8029}{}{the admission ticket.}
+{8030}{}{** For Military High Command, level AA or higher.}
+{8031}{}{*** Tickets are sold at the "Horton Hotel" lobby.}
+{8032}{}{Hotel admission = $4.30. Transfer to the Olympus}
+{8033}{}{is conducted via the west Subway line.}
+{8034}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_LUMENIERS
 ###########################################################
@@ -1443,130 +1442,112 @@
 ###########################################################
 # GVAR_DISK_PONY
 ###########################################################
-{11000}{}{...ва 4. Перспектива}
+{11000}{}{…ter Four: Perspective}
 {11001}{}{}
-{11002}{}{"Не знаю, почему ты вызвала у него такой}
-{11003}{}{интерес, но я бы был осторожен."}
-{11004}{}{**END-PAR**}
-{11005}{}{**END-PAR**}
-{11006}{}{Тупица!}
-{11007}{}{Разряд молнии промелькнул мимо и разнес}
-{11008}{}{вдребезги старые часы на стене офиса, в}
-{11009}{}{котором я пряталась. В "Руководстве по}
-{11010}{}{выживанию в Пустоши" было полно}
-{11011}{}{всевозможных полезных советов.}
-{11012}{}{Рекомендации по собирательству, целая}
-{11013}{}{глава, посвященная минам, и многое, многое}
-{11014}{}{другое! А еще там были не очень полезные}
-{11015}{}{советы. После того как я прочитала главу о}
-{11016}{}{том, "Как заставить довоенные технологии}
-{11017}{}{земных пони работать на Вас", первой же}
-{11018}{}{мыслью было заглянуть в развалины}
-{11019}{}{оружейного завода "Огненные Подковы", мимо}
-{11020}{}{которого я проходила, и поискать}
-{11021}{}{какие-нибудь технологии, которые получится}
-{11022}{}{приспособить под свои нужды.}
-{11023}{}{**END-PAR**}
-{11024}{}{**END-PAR**}
-{11025}{}{Вместо этого я очутилась в лабиринте,}
-{11026}{}{заполненном роботами-пониубийцами и}
-{11027}{}{автоматическими турелями, и убегала от них}
-{11028}{}{до тех пор, пока не оказалась загнанной в}
-{11029}{}{угол в офисе под потолком заводского цеха.}
-{11030}{}{Практически без патронов. И если бы я не}
-{11031}{}{нашла ту аптечку в туалете для персонала,}
-{11032}{}{я бы уже погибла, пытаясь пробраться через}
-{11033}{}{второй этаж.}
-{11034}{}{**END-PAR**}
-{11035}{}{**END-PAR**}
-{11036}{}{Как я вообще могла быть такой бестолковой?}
-{11037}{}{}
-{11038}{}{Внизу катались кругами три робота, пытаясь}
-{11039}{}{отыскать меня. Это были гусеничные машины,}
-{11040}{}{по форме отдаленно напоминавшие пони, с}
-{11041}{}{прозрачными резервуарами голов, в которых}
-{11042}{}{находились настоящие мозги. Я отказывалась}
-{11043}{}{верить в то, что их создатели использовали}
-{11044}{}{мозги других пони. Эта мысль казалась}
-{11045}{}{слишком чудовищной. Даже использование}
-{11046}{}{мозгов животных было чудовищным. И}
-{11047}{}{двухсотлетнее пребывание в рабочем}
-{11048}{}{состоянии явно не принесло никакой пользы}
-{11049}{}{их рассудку.}
-{11050}{}{**END-PAR**}
-{11051}{}{**END-PAR**}
-{11052}{}{- Выходи. Мы просто хотим убить тебя за}
-{11053}{}{незаконное вторжение!}
+{11002}{}{I don’t know why it took an interest in you,}
+{11003}{}{but I’d be careful. It’s never helped anyone}
+{11004}{}{before.}
+{11005}{}{}
+{11006}{}{Stupid!}
+{11007}{}{}
+{11008}{}{A blast of lightning fired past me, shattering an}
+{11009}{}{old clock at the back of the overview office I}
+{11010}{}{was cowering in. The Wasteland Survival}
+{11011}{}{Guide was full of all sorts of helpful}
+{11012}{}{tips. Scavenging guides. A whole chapter on}
+{11013}{}{mines. And more! And then there were the}
+{11014}{}{not-so-helpful ones. After having read the}
+{11015}{}{chapter on "Making Pre-War Earth Pony}
+{11016}{}{Technology Work For You", my first thought}
+{11017}{}{when I came across the ruins of Ironshod}
+{11018}{}{Firearms was to take a peek inside and see if}
+{11019}{}{there was any technology I could make work}
+{11020}{}{for me.}
+{11021}{}{}
+{11022}{}{Instead, I got myself trapped in a maze full of}
+{11023}{}{ponicidal robots and automated turrets, fleeing}
+{11024}{}{until I managed to back myself into a corner}
+{11025}{}{here in an office box high above the factory}
+{11026}{}{floor. Almost out of ammo. If I hadn’t found}
+{11027}{}{that medical box in the employee bathroom, I}
+{11028}{}{would have died trying to get across the second}
+{11029}{}{floor.}
+{11030}{}{}
+{11031}{}{How could I possibly have been so very stupid?}
+{11032}{}{}
+{11033}{}{Below, three of those robots were rolling about,}
+{11034}{}{looking for me. They were tracked things, built}
+{11035}{}{to somewhat resemble ponies, with clear}
+{11036}{}{domed heads that housed real brains. I refused}
+{11037}{}{to think that the ponies who built them might}
+{11038}{}{have used other ponies’ brains in the}
+{11039}{}{construction. The thought was just too}
+{11040}{}{horrible. Even doing that to an animal’s brain}
+{11041}{}{was awful. And clearly, two-hundred years of}
+{11042}{}{continuous operation had done nothing for their}
+{11043}{}{sanity.}
+{11044}{}{}
+{11045}{}{Come on! We only want to kill you for trespassing!}
+{11046}{}{}
+{11047}{}{Case in point.}
+{11048}{}{}
+{11049}{}{The fact that the voice sounded like a young}
+{11050}{}{filly, despite being clearly artificial, just made}
+{11051}{}{them that much freakier. Fortunately, the railing}
+{11052}{}{on the catwalks leading up to this office were}
+{11053}{}{too narrow for the brain-bots to get up here.}
 {11054}{}{}
-{11055}{}{Вот и пример.}
-{11056}{}{}
-{11057}{}{То, что это был детский голос}
-{11058}{}{кобылки-дошкольницы, хоть и искусственный,}
-{11059}{}{пугало еще больше. К счастью, перила на}
-{11060}{}{мостиках, ведущих к этому офису, были}
-{11061}{}{слишком узкими для этих роботов.}
-{11062}{}{**END-PAR**}
-{11063}{}{**END-PAR**}
-{11064}{}{К сожалению, перила никак не мешали}
-{11065}{}{другому типу роботов, с которыми я}
-{11066}{}{встретилась здесь - гигантским паукам со}
-{11067}{}{множеством конечностей, большинство из}
-{11068}{}{которых оканчивались оружием, включавшим}
-{11069}{}{циркулярную пилу и огнемет. А что было еще}
-{11070}{}{хуже, эти чертовы машины могли летать!}
-{11071}{}{Прогремел гораздо более глубокий, мощный}
-{11072}{}{голос:}
-{11073}{}{}
-{11074}{}{- Именем Министерства Технологий}
-{11075}{}{приказываю сдаться, полосатое отродье!}
-{11076}{}{}
-{11077}{}{Я вовремя скрылась за рядом металлических}
-{11078}{}{шкафов - комната вдруг наполнилась ревущим}
-{11079}{}{пламенем!}
-{11080}{}{**END-PAR**}
-{11081}{}{**END-PAR**}
-{11082}{}{Я вытащила из сумки обе гранаты и}
-{11083}{}{дождалась, пока пламя наконец утихнет.}
-{11084}{}{Металлические шкафы начинали неприятно}
-{11085}{}{жечь спину, а раскалившийся воздух обжигал}
-{11086}{}{легкие. Как только огнемет прекратил}
-{11087}{}{изрыгать пламя, я выглянула из-за шкафов и}
-{11088}{}{левитировала гранаты прямо к}
-{11089}{}{металлическому монстру, попутно выдернув}
-{11090}{}{предохранительные кольца. Как только робот}
-{11091}{}{заметил меня, он направил в мою сторону}
-{11092}{}{оружие, похожее на рог единорога,}
-{11093}{}{пульсирующее зеленым светом. Из него}
-{11094}{}{вырвался луч магического пламени,}
-{11095}{}{прошипевший в миллиметре от моей щеки.}
-{11096}{}{Выстрел попал в вентилятор, стоявший на}
-{11097}{}{столе позади меня; он на секунду вспыхнул}
-{11098}{}{зеленым светом, а затем расплавился!}
-{11099}{}{Отпустив гранаты из телекинетической}
-{11100}{}{хватки, я нырнула обратно в укрытие.}
-{11101}{}{**END-PAR**}
-{11102}{}{**END-PAR**}
-{11103}{}{Взрыв потряс офис. Я услышала, как часть}
-{11104}{}{дорожки снаружи с пугающим хлопком}
-{11105}{}{поддалась. Выглянув из укрытия, я увидела,}
-{11106}{}{что робот превратился в гору металлолома.}
-{11107}{}{Мостик снаружи был по-прежнему цел, но}
-{11108}{}{опасно провис. Я была не совсем уверена,}
-{11109}{}{что он выдержит мой вес.}
-{11110}{}{**END-PAR**}
-{11111}{}{**END-PAR**}
-{11112}{}{Оторвав все, что можно было оторвать от}
-{11113}{}{робота-паука, я взвесила доступные}
-{11114}{}{варианты. Я не могла оставаться тут вечно.}
-{11115}{}{Если я буду двигаться очень быстро, я}
-{11116}{}{успею пробежать по дорожке, и роботы внизу}
-{11117}{}{в меня не попадут. Их оружие казалось мне}
-{11118}{}{не слишком точным. Но первые несколько}
-{11119}{}{метров мостика теперь болтались в воздухе}
-{11120}{}{и угрожающе прогнулись. И чем дольше я на}
-{11121}{}{него смотрела, тем меньше мне хотелось}
-{11122}{}{оказ...}
-{11123}{}{**END-DISK**}
+{11055}{}{A much deeper, authoritative voice boomed}
+{11056}{}{across the room. "Surrender in the name of the}
+{11057}{}{Ministry of Technology, zebra scum!"}
+{11058}{}{}
+{11059}{}{I cringed behind a line of metal filing cabinets}
+{11060}{}{as the room filled with a rush of flame!}
+{11061}{}{}
+{11062}{}{Unfortunately, the same could not be said for}
+{11063}{}{}
+{11064}{}{the other type of guard robot I’d crossed paths}
+{11065}{}{with in here. The multi-limbed things looked}
+{11066}{}{like giant metal spiders, many of its arms}
+{11067}{}{seemed to end in weapons, including a}
+{11068}{}{buzzsaw and a flamethrower. And worse, the}
+{11069}{}{damn things could fly!}
+{11070}{}{}
+{11071}{}{I slipped both of my grenades out of my}
+{11072}{}{saddlebags and waited until the flames died}
+{11073}{}{away. The metal cabinets were beginning to}
+{11074}{}{get unpleasantly warm against my back, and}
+{11075}{}{the heat in the air seared my lungs. The}
+{11076}{}{second the flamethrower cut off, I turned my}
+{11077}{}{head around the corner and levitated them both}
+{11078}{}{right up to the metal monster, pulling out the}
+{11079}{}{stems on the way. The moment it saw me, the}
+{11080}{}{robot raised a pulsing green weapon that}
+{11081}{}{looked like a unicorn’s horn. Eldritch fire}
+{11082}{}{erupted from it, shooting past me close enough}
+{11083}{}{to singe my cheek. The blast struck an old fan}
+{11084}{}{sitting on the desk behind me; it glowed green}
+{11085}{}{for a moment, then melted! I ducked back as I}
+{11086}{}{dropped the grenades.}
+{11087}{}{}
+{11088}{}{The explosion rocked the office. I heard a}
+{11089}{}{fearsome twang as part of the catwalk outside}
+{11090}{}{gave. Looking back, the robot was in a non-}
+{11091}{}{functional heap. The walkway outside was still}
+{11092}{}{mostly intact, but sagging badly. I wasn’t sure it}
+{11093}{}{could hold my weight.}
+{11094}{}{}
+{11095}{}{Stripping what I could from the fallen spider-bot,}
+{11096}{}{I considered my options. I couldn’t stay up here}
+{11097}{}{}
+{11098}{}{forever. If I moved very fast, I could run the}
+{11099}{}{walkway without the brain-bots below getting}
+{11100}{}{me. Their weaponry did not seem very}
+{11101}{}{accurate. But the first few yards of the catwalk}
+{11102}{}{}
+{11103}{}{had partially torn free, and sagged}
+{11104}{}{alarmingly. The more I looked at it, the less I}
+{11105}{}{wanted to put a hoof...}
 ###########################################################
 # GVAR_DISK_RENESSANCE_CHECK
 ###########################################################
@@ -1581,10 +1562,10 @@
 {12008}{}{Therefore, your orders are:}
 {12009}{}{**END-PAR**}
 {12010}{}{ 1. Obtain as much information as possible}
-{12011}{}{about the location of the "Renaissance".}
+{12011}{}{ about the location of the "Renaissance".}
 {12012}{}{ 2. Interrogate anyone spreading the rumors.}
-{12013}{}{ 3. Report immediately to your supervisor}
-{12014}{}{if additional information becomes available.}
+{12013}{}{ 3. If additional information becomes available,}
+{12014}{}{ report to your supervisor immediately.}
 {12015}{}{**END-PAR**}
 {12016}{}{**END-PAR**}
 {12017}{}{**END-PAR**}
@@ -1596,127 +1577,137 @@
 ###########################################################
 # GVAR_DISK_LABORY3
 ###########################################################
-{13000}{}{Июль, 03, 2012}
-{13001}{}{... Уиллл, черт тебя дери! Перестань играться с}
-{13002}{}{рекордером! Вот зачем ты включил запись? Ей}
-{13003}{}{Богу, ты просто некомпетентен! Ну хорошо, потом}
-{13004}{}{сотру.}
+{13000}{}{July 03, 2012}
+{13001}{}{...Will, goddamn it! Stop playing with the}
+{13002}{}{recorder! Why did you turn the record on?}
+{13003}{}{By God, you're so incompetent! All right,}
+{13004}{}{I'll erase it later.}
 {13005}{}{**END-PAR**}
 {13006}{}{**END-PAR**}
-{13007}{}{Июль, 12, 2012}
-{13008}{}{Ну-с, приступим. Отчет ведет главный биологист}
-{13009}{}{проекта "Гамма" - Томас Штедьяк. Входные данные}
-{13010}{}{- экземпляр-детеныш проекта "Химера", мужского,}
-{13011}{}{конечно же, пола. Мы его называем "Люси" в}
-{13012}{}{надежде на удачный исход проекта, хмм...}
-{13013}{}{Как известно, образцы "Химер" - прорывной успех}
-{13014}{}{бологистов NCASTR, и в то же время -}
-{13015}{}{доказательство нашей немощности перед}
-{13016}{}{создателем. Все попытки создать "Химеру"}
-{13017}{}{женского пола и обеспечить натуральное}
-{13018}{}{размножение - провалились, и теперь мы, персонал}
-{13019}{}{биолаборатории #2 взяли на себя священную}
-{13020}{}{обязанность довести проект до конца и найти}
-{13021}{}{способ сделать проект "Химера"}
-{13022}{}{самовоспроизводимым для освобождения}
-{13023}{}{инкубаторных мощностей компании.}
-{13024}{}{К сожалению, как впрочем и всегда, проект}
-{13025}{}{"Гамма" ограничен в финансировании, поэтому}
-{13026}{}{запланированы только следующие этапы}
-{13027}{}{экспериментов:}
-{13028}{}{I - инъекции гормональной вытяжки серой гориллы}
-{13029}{}{II - длительное воздействие гамма-облучения}
-{13030}{}{III - физическое воздействие для экстремального}
-{13031}{}{снижения жизненных показателей}
-{13032}{}{IV - прочее по остатку финансирования.}
-{13033}{}{}
-{13034}{}{Материалы для первого этапа готовы и мы начинаем}
-{13035}{}{немедленно.}
-{13036}{}{**END-PAR**}
-{13037}{}{**END-PAR**}
-{13038}{}{Июль, 13, 2012}
-{13039}{}{Люси довольно спокойно перенес закачивание 0,5}
-{13040}{}{пинты гормональной вытяжки внутримышечно, и с}
-{13041}{}{прошлого дня беспробудно спит.}
-{13042}{}{Для протокола: Уилл постоянно проявляет}
-{13043}{}{халатность и явно симпатизирует подопытному}
-{13044}{}{объекту.}
-{13045}{}{**END-PAR**}
-{13046}{}{**END-PAR**}
-{13047}{}{Июль, 14, 2012}
-{13048}{}{У объекта наблюдается повышенный аппетит после}
-{13049}{}{длительного сна. Сегодня он съел 9 фунтов}
-{13050}{}{баранины за один присест! Мы настроены на успех!}
+{13007}{}{July 12, 2012}
+{13008}{}{Okay, let's start. This observation report}
+{13009}{}{is recorded by the project "Gamma" chief}
+{13010}{}{biologist, Thomas Stediak. The input data:}
+{13011}{}{a child specimen of the "Chimera" project,}
+{13012}{}{male, of course. We call him "Lucy" in...}
+{13013}{}{hmm... hopes of a successful outcome of}
+{13014}{}{the research. As we know, the Chimera}
+{13015}{}{specimens are a breakthrough success for}
+{13016}{}{the NCASTR bioligists, and, at the same time,}
+{13017}{}{proof of how weak and incapable we are in}
+{13018}{}{comparison to the creator. Every attempt}
+{13019}{}{to create a female Chimera and ensure a}
+{13020}{}{natural reproduction cycle has failed}
+{13021}{}{by now.}
+{13022}{}{}
+{13023}{}{We, the staff of Biolab #2, have taken upon}
+{13024}{}{ourselves the sacred duty to bring the project}
+{13025}{}{to success, and find a way to make the}
+{13026}{}{Chimera species capable of reproduction, with}
+{13027}{}{an additional goal of freeing up the company's}
+{13028}{}{hatchery facilities. Unfortunately, as always,}
+{13029}{}{the "Gamma" project is limited in funding, so}
+{13030}{}{only the following phases are planned:}
+{13031}{}{}
+{13032}{}{I - injections of gray gorilla hormone}
+{13033}{}{extract}
+{13034}{}{II - prolonged exposure to gamma radiation}
+{13035}{}{III - physical impact, to the point of the}
+{13036}{}{extreme reduction of vital signs}
+{13037}{}{The rest will be done in accordance to the}
+{13038}{}{available funding.}
+{13039}{}{}
+{13040}{}{Preparations for the phase I are ready. We}
+{13041}{}{shall begin immediately.}
+{13042}{}{**END-PAR**}
+{13043}{}{**END-PAR**}
+{13044}{}{July 13, 2012}
+{13045}{}{Lucy has tolerated the injection of 0.5 pints}
+{13046}{}{of hormone intramuscularly quite comfortably.}
+{13047}{}{He has been sleeping since yesterday.}
+{13048}{}{For the record: Will is consistently negligent}
+{13049}{}{and clearly sympathetic towards the subject.}
+{13050}{}{**END-PAR**}
 {13051}{}{**END-PAR**}
-{13052}{}{**END-PAR**}
-{13053}{}{Июль, 15, 2012}
-{13054}{}{Продолжаем наблюдение. Объект начинает проявлять}
-{13055}{}{признаки эмоционального расстройства: рычит на}
-{13056}{}{хозяина, не пускает к себе в клетку, пытается}
-{13057}{}{грызть прутья. Это явно свидетельствует о}
-{13058}{}{происходящих гормональных изменениях, а значит -}
-{13059}{}{мы на верном пути и в скором времени отобьем}
-{13060}{}{свое финансирование!}
-{13061}{}{**END-PAR**}
-{13062}{}{**END-PAR**}
-{13063}{}{Июль, 21, 2012}
-{13064}{}{Пока еще рано судить, но судя по всему, первый}
-{13065}{}{этап не дал нужных результатов. Результат}
-{13066}{}{анализа крови Люси говорит об отсутствии}
-{13067}{}{ожидаемых генетических изменениях. Объект}
-{13068}{}{успокоился и поведением ни чем не отличается от}
-{13069}{}{первичного состояния.}
-{13070}{}{Готовим материалы для второго этапа.}
-{13071}{}{Для протокола: из шкафчика продолжает пропадать}
-{13072}{}{морфин, установленный кодовый замок совершенно}
-{13073}{}{не помог. Это наверняка дуболом Уилл Хантинг...}
-{13074}{}{**END-PAR**}
-{13075}{}{**END-PAR**}
-{13076}{}{Август, 04, 2012}
-{13077}{}{Наконец-то из штаба пришел усовершенствованный}
-{13078}{}{излучатель. Честное слово - могли бы и}
-{13079}{}{поторопиться! Каждый час задержки может стоить}
-{13080}{}{провала всего проекта "Гамма"! Бюрократы}
-{13081}{}{постоянно ставят палки в колеса.}
-{13082}{}{**END-PAR**}
-{13083}{}{**END-PAR**}
-{13084}{}{Август, 06, 2012}
-{13085}{}{Мало того, что с задержкой, так излучатель еще и}
-{13086}{}{не работает! Мы целый день просидели без}
-{13087}{}{электричества, пока штаб не прислал электриков и}
-{13088}{}{специалистов! Надеюсь, излучатель настроят в}
-{13089}{}{ближайшие дни.}
+{13052}{}{July 14, 2012}
+{13053}{}{The subject has an increased appetite after a}
+{13054}{}{long nap. Today he ate 9 pounds of meat in one}
+{13055}{}{sitting! We are determined to succeed!}
+{13056}{}{**END-PAR**}
+{13057}{}{**END-PAR**}
+{13058}{}{July 15, 2012}
+{13059}{}{Continuing observation. The subject begins to}
+{13060}{}{show signs of emotional distress: he growls at}
+{13061}{}{our scientists, does not allow anyone to enter}
+{13062}{}{his cage, bites the bars of his cage. This}
+{13063}{}{is a clear sign of hormonal changes taking place,}
+{13064}{}{which means that we are on the right track and}
+{13065}{}{will soon show the results worthy of our funding!}
+{13066}{}{**END-PAR**}
+{13067}{}{**END-PAR**}
+{13068}{}{July 21, 2012}
+{13069}{}{It is too early to draw conclusions yet, but}
+{13070}{}{it seems that the first stage has not yielded}
+{13071}{}{the desired results. Lucy's blood test results}
+{13072}{}{show no expected genetic changes. The subject}
+{13073}{}{has calmed down and his behavior is no different}
+{13074}{}{from the initial state. Preparing materials for}
+{13075}{}{the second stage.}
+{13076}{}{For the record: the morphine keeps disappearing}
+{13077}{}{from the locker, the coded lock didn't help at}
+{13078}{}{all.}
+{13079}{}{It must be that dumb idiot Will Hunting...}
+{13080}{}{**END-PAR**}
+{13081}{}{**END-PAR**}
+{13082}{}{August 04, 2012}
+{13083}{}{The upgraded emitter finally arrived from}
+{13084}{}{headquarters! Honestly - they could be a little}
+{13085}{}{more hurried up! Every hour of delay could lead}
+{13086}{}{the "Gamma" project to a failure! Those}
+{13087}{}{bureaucrats are always putting sticks into our}
+{13088}{}{wheels.}
+{13089}{}{**END-PAR**}
 {13090}{}{**END-PAR**}
-{13091}{}{**END-PAR**}
-{13092}{}{Август, 07, 2012}
-{13093}{}{Люси заметно увеличился в размерах. не уверен,}
-{13094}{}{что конкретно на этом сказалось. Возможно стоит}
-{13095}{}{отложить второй этап и продолжить наблюдения.}
-{13096}{}{**END-PAR**}
-{13097}{}{**END-PAR**}
-{13098}{}{Август, 08, 2012}
-{13099}{}{Получены указания закончить проект в ближайшее}
-{13100}{}{время, поэтому мы начинаем второй этап.}
-{13101}{}{Для протокола: объект продолжает увеличиваться в}
-{13102}{}{размерах, рост уже достиг порядка 75%, и мы не}
-{13103}{}{знаем истинную причину этого! Я вынужден}
-{13104}{}{заявить, что эксперимент вышел из-под контроля и}
-{13105}{}{не уверен, сможем ли мы повторить результат.}
-{13106}{}{**END-PAR**}
-{13107}{}{**END-PAR**}
-{13108}{}{Август, 09, 2012}
-{13109}{}{Люси подвергся первому облучению, при этом}
-{13110}{}{объект вел себя крайне нестабильно и пытался}
-{13111}{}{вырваться из клетки. Мне кажется, он смотрел на}
-{13112}{}{Уилла...}
-{13113}{}{**END-PAR**}
-{13114}{}{**END-PAR**}
-{13115}{}{Август, 10, 2012}
-{13116}{}{Нам срочно нужны новые, усиленные прутья для}
-{13117}{}{клетки! Ночью Люси сильно повредил два прута в}
-{13118}{}{районе двери, и я опасаюсь что объект может}
-{13119}{}{выбраться. Пока что мы накачали его снотворным,}
-{13120}{}{но на это ушли почти все наши запасы! Пожалуй, я}
-{13121}{}{сам отправлюсь в штаб, чтобы подобрать прутья}
-{13122}{}{нужного качества.}
-{13123}{}{**END-DISK**}
+{13091}{}{August 06, 2012}
+{13092}{}{Not only was there a transportation delay,}
+{13093}{}{but the emitter doesn't appear to be}
+{13094}{}{working either! We've spent all day without}
+{13095}{}{electricity until HQ sent their specialists!}
+{13096}{}{Hopefully, the emitter will be set up in the}
+{13097}{}{next few days.}
+{13098}{}{**END-PAR**}
+{13099}{}{**END-PAR**}
+{13100}{}{August 07, 2012}
+{13101}{}{Lucy has noticeably increased in size. Perhaps}
+{13102}{}{we should postpone the second stage and continue}
+{13103}{}{observation.}
+{13104}{}{**END-PAR**}
+{13105}{}{**END-PAR**}
+{13106}{}{August 08, 2012}
+{13107}{}{According to the recent instructions, we have to}
+{13108}{}{finish the project as soon as possible, so we}
+{13109}{}{are proceeding to the second phase.}
+{13110}{}{For the record: the subject continues to increase}
+{13111}{}{in size, the growth has already reached about 75%,}
+{13112}{}{and we do not know the true reason for this!}
+{13113}{}{I have to state that the experiment is out of}
+{13114}{}{control and I'm not sure if we can replicate the}
+{13115}{}{result.}
+{13116}{}{**END-PAR**}
+{13117}{}{**END-PAR**}
+{13118}{}{August 09, 2012}
+{13119}{}{Lucy was exposed to the first dose of emitter}
+{13120}{}{beams. The subject behaved extremely erratically,}
+{13121}{}{trying to break free from the cage.}
+{13122}{}{I think he was looking at Will...}
+{13123}{}{**END-PAR**}
+{13124}{}{**END-PAR**}
+{13125}{}{August 10, 2012}
+{13126}{}{We urgently need new reinforced bars for the cage!}
+{13127}{}{Lucy severely damaged two of the bars around the}
+{13128}{}{door last night, and I'm worried that the subject}
+{13129}{}{might break out. So far we have drugged him with}
+{13130}{}{tranquilizers, but that has taken almost all of our}
+{13131}{}{supplies! I guess I'll head to headquarters myself}
+{13132}{}{to pick up the right quality rods.}
+{13133}{}{**END-DISK**}
