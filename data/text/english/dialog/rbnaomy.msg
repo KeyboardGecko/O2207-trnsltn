@@ -85,7 +85,7 @@
 {172}{}{Yes, actually, it is. Ha-ha. Well, I need to go.}
 
 
-{180}{019}{[You notice a shadow of emotion on her tired face] Why would I trust you? Maybe the Hog sent you to test my loyalty! And... There's that sleazy guy near the entrance...}
+{180}{019}{[You notice a shadow of emotion on her tired face] Why would I trust you? Maybe Hog sent you to test my loyalty! And... There's that sleazy guy near the entrance...}
 {181}{021}{Do you really think that Hog would do something like this? You work for him, he's satisfied with that. As for the guard - it's my problem, don't you worry.}
 {182}{999}{Why should I smooth-talk you into this? Out, now!}
 {183}{}{Uh, I didn't think about it... Okay. see you later then.}

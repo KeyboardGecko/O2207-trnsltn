@@ -9,11 +9,11 @@
 #
 # Special holiday dates
 #
-{100}{}{Happy New Year's Day!}      # New years
-{101}{}{Happy Valentine's Day!}     # April fools
-{102}{}{Happy All Fool's Day!}      # April fools
-{103}{}{Happy Fallout Day!}         # Shipping day!
-{104}{}{Happy Independence Day!}    # Independence day
+{100}{}{Happy New Year's Day!}   # New years
+{101}{}{Happy Valentine's Day!}   # April fools
+{102}{}{Happy All Fool's Day!}   # April fools
+{103}{}{Happy Fallout Day!}     # Shipping day!
+{104}{}{Happy Independence Day!}  # Independence day
 {105}{}{Happy Revolution Day!}		# Halloween
 {106}{}{Happy Constitution Day!}	# Thanksgiving
 {107}{}{Merry Christmas!}			# X-mas
@@ -24,7 +24,7 @@
 {201}{}{BACK}
 {202}{}{STATUS}
 {203}{}{No current tasks.}
-{204}{}{CLUES}  # clues gone
+{204}{}{CLUES} # clues gone
 {205}{}{AUTOMAPS}
 {206}{}{VIDEO ARCHIVES}
 {207}{}{DATA}
@@ -104,7 +104,7 @@
 #
 #
 {600}{}{Status}
-{601}{}{Clues}  # Clues gone
+{601}{}{Clues} # Clues gone
 {602}{}{Automaps}
 {603}{}{Archives}
 {604}{}{Alarm Clock}
@@ -316,13 +316,13 @@
 {2000}{}{Researching the anti-radiation painkiller drug.}
 {2001}{}{}
 {2002}{}{September 30, 2183}
-{2003}{}{Although radiation is visibly dropping in the}
-{2004}{}{most known areas of Radius, and Seekers don't die}
+{2003}{}{Although radiation is visibly dropping in the most}
+{2004}{}{known areas of Radius, and Seekers don't die}
 {2005}{}{as quickly, there is a demand for developing a}
 {2006}{}{new drug to help them on long-range missions.}
 {2007}{}{The most sensible thing to do would be to try}
-{2008}{}{to synthesize something with the properties of a}
-{2009}{}{painkiller, a stimulant and a radiation-removing}
+{2008}{}{to synthesize something with the properties of}
+{2009}{}{a painkiller, a stimulant and a radiation-removing}
 {2010}{}{agent. Obviously, the experiments should begin}
 {2011}{}{with an in-depth study of the properties of the}
 {2012}{}{pre-war "RadOut" drug. Fortunately, quite a few}
@@ -995,8 +995,8 @@
 {6056}{}{walls of Olympus. If you attempt to harm the}
 {6057}{}{skyscraper or fail to comply with the directives}
 {6058}{}{above - you will be destroyed.}
-{6059}{}{             -Head of NCASTR, Ron Anderson}
-{6060}{}{                               -May 8, 2013}
+{6059}{}{       -Head of NCASTR, Ron Anderson}
+{6060}{}{                -May 8, 2013}
 {6061}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_Schwein_DAIRY
@@ -1142,7 +1142,7 @@
 {8000}{}{Attention! Attention!}
 {8001}{}{**END-PAR**}
 {8002}{}{**END-PAR**}
-{8003}{}{On 15 April 2012, the 5th Annual All-American}
+{8003}{}{On 15 April 2012, the 5th Annual American}
 {8004}{}{Science Show Exhibition "NCASTR & You!"}
 {8005}{}{will be held. Among the state-of-the-art}
 {8006}{}{achievements in the fields of technogenetics,}
@@ -1153,7 +1153,7 @@
 {8011}{}{frame of your glasses. You can even try it}
 {8012}{}{in action!*}
 {8013}{}{- A miniature infowave amplifier that you can}
-{8014}{}{wear on your keychain and take with you to work}
+{8014}{}{wear on your keychain and take with you to work.}
 {8015}{}{- The latest Robotron model, capable to}
 {8016}{}{understand human speech and act accordingly.}
 {8017}{}{Just like alive! Your child will definitely}
@@ -1168,15 +1168,13 @@
 {8026}{}{opportunity to spend an unforgettable day for}
 {8027}{}{you and your children!***}
 {8028}{}{}
-{8029}{}{}
-{8030}{}{*Surgery required. Terms and conditions are on}
-{8031}{}{the admission ticket.}
-{8032}{}{**For Military High Command, level AA or higher.}
-{8033}{}{***Tickets are sold at the "Horton Hotel" lobby.}
-{8034}{}{Hotel admission = $4.30. Transfer to the Olympus}
-{8035}{}{skyscraper is conducted via the west branch}
-{8036}{}{of the Subway.}
-{8037}{}{**END-DISK**}
+{8029}{}{*Surgery required. Terms and conditions are on}
+{8030}{}{the admission ticket.}
+{8031}{}{**For Military High Command, level AA or higher.}
+{8032}{}{***Tickets are sold at the "Horton Hotel" lobby.}
+{8033}{}{Hotel admission = $4.30. Transfer to the Olympus}
+{8034}{}{is conducted via the west Subway line.}
+{8035}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_LUMENIERS
 ###########################################################
@@ -1198,10 +1196,10 @@
 {9015}{}{Those horrible sounds are still ringing in my}
 {9016}{}{head. We continued to walk - me and my dad, just}
 {9017}{}{the two of us. We no longer made bonfires at night.}
-{9018}{}{One afternoon, when everything around seemed quiet}
-{9019}{}{and peaceful, my dad suddenly fell knee-deep in}
-{9020}{}{the sand. I jumped away, trying to find some kind}
-{9021}{}{of a stick to pull him out, but with no effect.}
+{9018}{}{One afternoon, when everything around seemed}
+{9019}{}{very peaceful, my dad suddenly fell knee-deep in}
+{9020}{}{the sand. I jumped away, tried to find some kind}
+{9021}{}{of a stick to pull him out - but with no avail.}
 {9022}{}{Then he started screaming... Screaming so loud...}
 {9023}{}{And then the ants came... A dozen of them... Oh,}
 {9024}{}{God... They just tore dad to pieces... I think}
@@ -1220,12 +1218,12 @@
 {9037}{}{a thousand miles, I almost can't feel my feet! But,}
 {9038}{}{more importantly, with them I'm safe. They call}
 {9039}{}{themselves "the Lumeniers", it means something}
-{9040}{}{like the "light-bearers"... They fight evil and}
+{9040}{}{like "light-bearers"... They fight the evil and}
 {9041}{}{injustice all over these lands! And they said}
 {9042}{}{that Olympus is the heart of all evil. There is}
 {9043}{}{no salvation there, only death... Well, seems like}
-{9044}{}{I've lost one hope, but found another one - these}
-{9045}{}{brave knights! I'm so sleepy now, it's bedtime...}
+{9044}{}{I've lost one hope, but found another - these}
+{9045}{}{brave knights! God, I'm so sleepy...}
 {9046}{}{**END-PAR**}
 {9047}{}{**END-PAR**}
 {9048}{}{Date of entry: July 12, 2207}
@@ -1250,10 +1248,10 @@
 {9067}{}{**END-PAR**}
 {9068}{}{Date of entry: July 13, 2207}
 {9069}{}{We chased them all the way down to Death Valley!}
-{9070}{}{no one was left alive! But it had its price...}
+{9070}{}{no one is left alive! But it had its price...}
 {9071}{}{One of the Lumeniers was following the last of}
-{9072}{}{these two scoundrels when they ran into the middle}
-{9073}{}{of the Valley... Now I know why it has a name}
+{9072}{}{these two raiders when they ran farther into}
+{9073}{}{the Valley... Now I know why it has a name}
 {9074}{}{like this! There's some kind of vapor there, that}
 {9075}{}{their angelic golden lumenier armor can't protect}
 {9076}{}{against. He killed them in the end - but never}
@@ -1293,153 +1291,155 @@
 ###########################################################
 # GVAR_DISK_NOVOBRANETS
 ###########################################################
-{10000}{}{День 1. 19.17}
-{10001}{}{Завтра первый день моей новой жизни! Я}
-{10002}{}{наконец-то закончил обучение и завтра мой первый}
-{10003}{}{рабочий день. Поэтому я решил завести новый}
-{10004}{}{дневник, который возьму с собой в казарму. А}
-{10005}{}{старый сдам вместе со своими детскими игрушками}
-{10006}{}{и вещами на хранение. Я с нетерпением жду нового}
-{10007}{}{дня, и вряд ли мне удастся сегодня заснуть.}
-{10008}{}{Здравствуй, новая жизнь!}
-{10009}{}{**END-PAR**}
+{10000}{}{Day 1. 19:17}
+{10001}{}{Tomorrow is the first day of my new life!}
+{10002}{}{I finally finished my training and tomorrow}
+{10003}{}{is my first day of work. So I decided to make}
+{10004}{}{a new diary, which I will take with me to the}
+{10005}{}{barracks. And I'm going to leave the old one}
+{10006}{}{with my old toys and things in the deposit}
+{10007}{}{locker. I'm looking forward to tomorrow, and}
+{10008}{}{I don't think I'll be able to sleep tonight.}
+{10009}{}{Hello, my new life!}
 {10010}{}{**END-PAR**}
-{10011}{}{День 2. 9.32}
-{10012}{}{Моя новая форма просто великолепна! Теперь Джок}
-{10013}{}{не будет надо мной насмехаться. Мы теперь равны}
-{10014}{}{по званию, я уже не какой-то желторотый курсант.}
-{10015}{}{Хочу посмотреть в его глаза, когда он признает}
-{10016}{}{во мне равного. Ради этого момента стоило}
-{10017}{}{терпеть все его издевательства и насмешки. А}
-{10018}{}{Келли будет просто без ума от моей формы!}
-{10019}{}{**END-PAR**}
-{10020}{}{       12.06}
-{10021}{}{Джок еще больше злорадствовал. Не пойму, что ему}
-{10022}{}{еще надо? Мы теперь делаем одно и то же,}
-{10023}{}{выглядим одинаково, а он все издевается надо}
-{10024}{}{мной! Сказать, что ли, капитану об этом? Джок}
-{10025}{}{обязан теперь уважать меня.}
-{10026}{}{И этот странный обряд посвящения в охранники мне}
-{10027}{}{не дает покоя. Почему я раньше о нем не слышал?}
-{10028}{}{Странно все это. Я ожидал от своего первого}
-{10029}{}{дежурства большего.}
-{10030}{}{**END-PAR**}
+{10011}{}{**END-PAR**}
+{10012}{}{Day 2. 9:32}
+{10013}{}{My new armor is great! Now Jock will at last}
+{10014}{}{stop bullying me. We're equal in rank, I'm}
+{10015}{}{no longer some green-horned cadet. I want}
+{10016}{}{to see his face when he recognizes me as an}
+{10017}{}{equal. It was worth tolerating his harrassment}
+{10018}{}{and abuse until this moment. And Kelly is}
+{10019}{}{going to be crazy about my uniform!}
+{10020}{}{**END-PAR**}
+{10021}{}{Day 2. 12:06}
+{10022}{}{Jock gloated even more than before. I don't}
+{10023}{}{understand. What does he want? We do the same}
+{10024}{}{thing now, look the same, and he's still mocking}
+{10025}{}{me! Should I tell the captain about it? Jock}
+{10026}{}{SHOULD start to respect me.}
+{10027}{}{Also, this strange "ritual of initiation" to}
+{10028}{}{become a guard worries me. Why didn't I hear of}
+{10029}{}{it before? Looks very strange. I expected a}
+{10030}{}{little different from my first day on duty.}
 {10031}{}{**END-PAR**}
-{10032}{}{День 3. 10.52}
-{10033}{}{Ненавижу этого говнюка Джока! Он сам это все}
-{10034}{}{придумал. Никого больше так не посвящали в}
-{10035}{}{охранники раньше! Они привязали меня к стене,}
-{10036}{}{закидали дерьмом лавашей и оставили так висеть}
-{10037}{}{на ночь! Что за идиотские шутки? Еще и смена на}
-{10038}{}{два часа опоздала. Мне пришлось в таком виде}
-{10039}{}{идти к капитану с докладом об отсутствии за ночь}
-{10040}{}{происшествий. Капитан орал и матерился, назначил}
-{10041}{}{мне еще пять дежурств вне очереди! А Джока так и}
-{10042}{}{не наказали.}
-{10043}{}{**END-PAR**}
-{10044}{}{**END-PAR**}
-{10045}{}{День 4. 18.43}
-{10046}{}{Первая приятная новость за эту неделю! У меня}
-{10047}{}{состоялась плановая встреча с Келли, моей}
-{10048}{}{будущей женой. Мы провели на 20 минут больше}
-{10049}{}{вместе, чем в прошлый раз. Через одиннадцать}
-{10050}{}{месяцев по графику наша свадьба. И, может быть,}
-{10051}{}{мне разрешат попасть к ней на медицинский этаж,}
-{10052}{}{и я увижу, как же живут люди этажом выше моего}
-{10053}{}{родного.}
+{10032}{}{**END-PAR**}
+{10033}{}{Day 3. 10:52}
+{10034}{}{I hate that asshole Jock! He came up with the}
+{10035}{}{whole stupid thing! No one else has ever been}
+{10036}{}{initiated before! They tied me to the wall,}
+{10037}{}{covered me in Lavash shit, and left me to hang}
+{10038}{}{all night! What kind of idiotic joke is that?}
+{10039}{}{The shift was also two hours late. I had to}
+{10040}{}{report to the captain about the lack of incidents}
+{10041}{}{during the night while looking like this.}
+{10042}{}{The captain yelled so hard... And then he ordered}
+{10043}{}{me five more additional shifts!}
+{10044}{}{And Jock was never punished.}
+{10045}{}{**END-PAR**}
+{10046}{}{**END-PAR**}
+{10047}{}{Day 4. 6:43}
+{10048}{}{First good news this week! I had a scheduled}
+{10049}{}{meeting with Kelly, my future wife. We spent}
+{10050}{}{20 more minutes together than last time. Our}
+{10051}{}{wedding is scheduled for eleven months. And}
+{10052}{}{maybe I'll be allowed to go to her medical floor}
+{10053}{}{and see what it's like on the floor above my own.}
 {10054}{}{**END-PAR**}
 {10055}{}{**END-PAR**}
-{10056}{}{День 5 20.14}
-{10057}{}{Сегодня охраняли фермы Тартара. Ну и вонь же}
-{10058}{}{там! Мне аж два раза плохо было, даже свой паек}
-{10059}{}{не съел. Эти безмозглые черви (слуги жизни, как}
-{10060}{}{их называют) копаются в отбросах и дерьме, как}
-{10061}{}{насекомые. Здесь хоть Джок от меня отстал,}
-{10062}{}{переключился на слуг. Ох, и досталось же им!}
-{10063}{}{Я-то отказался их бить - форму жалко пачкать.}
-{10064}{}{**END-PAR**}
+{10056}{}{Day 5 20:14}
+{10057}{}{Today we guarded Tartarus Farms. What a stench!}
+{10058}{}{I felt sick twice, couldn't even eat my rations.}
+{10059}{}{Those mindless worms (Life Servants, as they're}
+{10060}{}{called) are digging through waste and shit like}
+{10061}{}{insects. At least Jock left me alone here, when}
+{10062}{}{he turned his attention to the Servants. They}
+{10063}{}{had so much from him! I refused to participate}
+{10064}{}{in beatings - didn't want to get my uniform dirty.}
 {10065}{}{**END-PAR**}
-{10066}{}{День 6 11.41}
-{10067}{}{Джок с друзьями наконец-то приняли меня в свои}
-{10068}{}{ряды! И посвятили меня в свои планы. Они хотят}
-{10069}{}{напиться втайне от капитана, и пригласили меня с}
-{10070}{}{собой. Для этого я должен спуститься в Чистилище}
-{10071}{}{и принести заначку самогона. Ха, это мое первое}
-{10072}{}{настоящее опасное задание!}
-{10073}{}{**END-PAR**}
-{10074}{}{       13.05}
-{10075}{}{Черт, здесь в пещерах опасней, чем я}
-{10076}{}{предполагал! Когда я искал заначку с самогоном,}
-{10077}{}{меня заметили. За мной гнались четверо безумных,}
-{10078}{}{один укусил меня за руку. Я расстрелял все}
-{10079}{}{патроны и, кажется, одного немного зацепил.}
-{10080}{}{Потом я спрятался в какой-то комнате, а они}
-{10081}{}{ломились в дверь. Когда уже держать дверь не}
-{10082}{}{оставалось сил, в двери что-то щелкнуло, и она}
-{10083}{}{закрылась. Безумные до сих пор скребутся}
-{10084}{}{снаружи, а я могу отдохнуть, перевязать руку и}
-{10085}{}{подождать помощи. Скоро Джок и ребята}
-{10086}{}{забеспокоятся и придут за мной.}
-{10087}{}{**END-PAR**}
-{10088}{}{       15.29}
-{10089}{}{Я сижу один в этой комнате. Безумные уже ушли}
-{10090}{}{куда-то. Где же Джок? Они уже должны были начать}
-{10091}{}{меня искать.}
-{10092}{}{**END-PAR**}
-{10093}{}{**END-PAR**}
-{10094}{}{День 7 8.16}
-{10095}{}{Я не могу открыть эту чертову дверь! Я должен}
-{10096}{}{выбраться отсюда. Жалко, патронов не осталось.}
-{10097}{}{Так бы высадил всю обойму в замок. От безумных я}
-{10098}{}{и без патронов убегу. Почему Джок не ищет меня?}
-{10099}{}{**END-PAR**}
-{10100}{}{**END-PAR**}
-{10101}{}{День 8 10.46}
-{10102}{}{Замок не поддается. У меня нет нужных}
-{10103}{}{инструментов, чтобы его открыть. Из еды остался}
-{10104}{}{только один паек. Ребята, умоляю, вытащите меня}
-{10105}{}{отсюда!}
-{10106}{}{**END-PAR**}
-{10107}{}{**END-PAR**}
-{10108}{}{День 9 9.13}
-{10109}{}{Силы начинают покидать меня. На мои стуки и}
-{10110}{}{крики не реагируют уже даже безумные. Пальцы все}
-{10111}{}{ободрал, пытаясь открыть дверь. Я в отчаянии.}
-{10112}{}{Никто из ребят меня не ищет. Почему капитан не}
-{10113}{}{отправил отряд на поиски? Почему Джок ничего не}
-{10114}{}{предпринял?}
-{10115}{}{**END-PAR**}
-{10116}{}{       18.56}
-{10117}{}{Это ублюдок Джок все подстроил! Меня же}
-{10118}{}{предупреждали, что Джок - редкостная мразь, а я}
-{10119}{}{не верил! И зачем меня назначили охранником? Я}
-{10120}{}{всегда интересовался растениями и мог бы стать}
-{10121}{}{отличным биологом! А еще как повезло, когда мне}
-{10122}{}{назначили невесту. Красавица Келли с}
-{10123}{}{медицинского этажа! Все знают, что на}
-{10124}{}{медицинском - самые красавицы. Расчет показал,}
-{10125}{}{что наши дети были бы здоровые и умные.}
-{10126}{}{Возможно, они бы добрались до самой вершины}
-{10127}{}{Олимпа!}
-{10128}{}{**END-PAR**}
-{10129}{}{**END-PAR**}
-{10130}{}{День 10 14.37}
-{10131}{}{У меня не осталось еды и воды. Рана на руке}
-{10132}{}{зудит нестерпимо. Я уже почти не могу шевелить}
-{10133}{}{пальцами. Голова трещит. Все, о чем я жалею -}
-{10134}{}{что не оставил ни одного патрона.}
-{10135}{}{**END-PAR**}
-{10136}{}{**END-PAR**}
-{10137}{}{День 11 12.12}
-{10138}{}{Это моя последняя запись. Я часто теряю}
-{10139}{}{сознание. Все труднее и труднее открывать глаза.}
-{10140}{}{Келли, если ты найдешь эту запись, знай: те}
-{10141}{}{четыре встречи, что были между нами - самое}
-{10142}{}{прекрасное, что было у меня в жизни. Я завещаю}
-{10143}{}{тебе свое жалование за 10 дней службы. Прощай.}
-{10144}{}{}
-{10145}{}{Джок, сука, чтоб ты сдох.}
-{10146}{}{**END-DISK**}
+{10066}{}{**END-PAR**}
+{10067}{}{Day 6 11:41}
+{10068}{}{Jock and his friends finally accepted me into}
+{10069}{}{their ranks! And have told me about their plans.}
+{10070}{}{They are planning to get drunk on shift,}
+{10071}{}{not letting the captain know. And they invited}
+{10072}{}{me to join. In exchange, I have to go down to}
+{10073}{}{Purgatory and bring their stash of moonshine.}
+{10074}{}{Ha, this is my first real dangerous assignment!}
+{10075}{}{**END-PAR**}
+{10076}{}{Day 6 13:05}
+{10077}{}{Damn, it's more dangerous here in the caves than}
+{10078}{}{I thought! When I was looking for this moonshine}
+{10079}{}{stash, they spotted me. Four Ferals. They chased}
+{10080}{}{me, one of them even bit my hand. I wasted all}
+{10081}{}{my bullets... I think I got one really good.}
+{10082}{}{Then I hid in some room. They were banging on}
+{10083}{}{the door, and when I couldn't hold them anymore,}
+{10084}{}{something clicked - and the door got locked.}
+{10085}{}{Ferals are still scrambling outside, but at least}
+{10086}{}{I can rest and bandage my arm, waiting for help.}
+{10087}{}{Soon Jock and the boys will become worried and}
+{10088}{}{come looking for me.}
+{10089}{}{**END-PAR**}
+{10090}{}{Day 6, 15:29}
+{10091}{}{I'm still sitting in this room. The Ferals are}
+{10092}{}{already gone. Where's Jock? They should have}
+{10093}{}{started looking for me by now.}
+{10094}{}{**END-PAR**}
+{10095}{}{**END-PAR**}
+{10096}{}{Day 7 8:16}
+{10097}{}{I can't open this damn door! I got to get out of}
+{10098}{}{here. I have no ammo left, or I'd shot a whole}
+{10099}{}{clip into the lock. I could run away from Ferals}
+{10100}{}{even without bullets anyway. Why isn't Jock}
+{10101}{}{looking for me?}
+{10102}{}{**END-PAR**}
+{10103}{}{**END-PAR**}
+{10104}{}{Day 8 10:46}
+{10105}{}{The lock won't budge. I don't have any of the}
+{10106}{}{tools to help me open it. There's only one food}
+{10107}{}{ration left. Guys, I'm begging you, get me out of}
+{10108}{}{here!}
+{10109}{}{**END-PAR**}
+{10110}{}{**END-PAR**}
+{10111}{}{Day 9 9:13}
+{10112}{}{I'm weakened... Even the Ferals don't respond}
+{10113}{}{to my pounding and screaming anymore. My}
+{10114}{}{fingers are all scratched from me trying to}
+{10115}{}{open the door. I am desperate. None of the guys}
+{10116}{}{are coming for me. Why didn't the captain send}
+{10117}{}{a search squad? Why didn't Jock do anything}
+{10118}{}{about it?}
+{10119}{}{**END-PAR**}
+{10120}{}{Day 9 18:56}
+{10121}{}{That bastard set this whole thing up! I knew that}
+{10122}{}{Jock was a scumbag, and I didn't believe it! Why}
+{10123}{}{did they make me a guard? I've always been}
+{10124}{}{interested in plants, I could have been a great}
+{10125}{}{biologist! And how lucky I was to be assigned to}
+{10126}{}{such bride... Beautiful Kelly from the Biology}
+{10127}{}{level! Everyone knows that the prettiest girls are}
+{10128}{}{from there. The calculations showed that our kids}
+{10129}{}{would be healthy and smart. Perhaps they would have}
+{10130}{}{made it to the very top of Olympus...}
+{10131}{}{**END-PAR**}
+{10132}{}{**END-PAR**}
+{10133}{}{Day 10 2:37}
+{10134}{}{I have no food or water left. The wound on my arm}
+{10135}{}{itches unbearably. I can hardly move my fingers.}
+{10136}{}{My head hurts so bad. My only regret is that I}
+{10137}{}{didn't leave myself a single bullet.}
+{10138}{}{**END-PAR**}
+{10139}{}{**END-PAR**}
+{10140}{}{Day 11 12:12}
+{10141}{}{This is my last entry. I often get unconscious...}
+{10142}{}{It's harder and harder to open my eyes.}
+{10143}{}{Kelly... If you find this tape, know that the four}
+{10144}{}{times when we met were the most beautiful things}
+{10145}{}{I've ever had in my life. I leave to you my payment}
+{10146}{}{for 10 days. Goodbye.}
+{10147}{}{Jock, you motherfucker. I wish you were dead.}
+{10148}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_PONY
 ###########################################################
@@ -1570,28 +1570,29 @@
 ###########################################################
 # GVAR_DISK_RENESSANCE_CHECK
 ###########################################################
-{12000}{}{Всем отрядам "Скаутов" и "Хищников". Обязательно}
-{12001}{}{к выполнению.}
-{12002}{}{**END-PAR**}
-{12003}{}{**END-PAR**}
-{12004}{}{В последнее время среди населения радиуса}
-{12005}{}{участились слухи о так называемом "Ренессансе" -}
-{12006}{}{подземном городе, наполненным мощными довоенными}
-{12007}{}{технологиями, в связи с чем устанавливается:}
-{12008}{}{**END-PAR**}
-{12009}{}{1. Добывать по возможности максимум информации о}
-{12010}{}{месторасположении "Ренессанса"}
-{12011}{}{2. Допрашивать любого распространителя слухов}
-{12012}{}{3. Немедленно рапортовать непосредственному}
-{12013}{}{начальнику в случае появления дополнительной}
-{12014}{}{информации}
-{12015}{}{**END-PAR**}
-{12016}{}{**END-PAR**}
-{12017}{}{Мы должны обнаружить "Ренессанс" до того, как}
-{12018}{}{дикари из радиуса его найдут и разграбят.}
-{12019}{}{Технологии этого проекта могут стать залогом}
-{12020}{}{выживания человечества в будущем.}
-{12021}{}{**END-DISK**}
+{12000}{}{>To every "Seeker" and "Predator" troop: }
+{12001}{}{>Mandatory}
+{12002}{}{**END-PAR** }
+{12003}{}{**END-PAR** }
+{12004}{}{Recently, there are rumors going among the}
+{12005}{}{Radius population about the so-called }
+{12006}{}{Renaissance - an underground city filled }
+{12007}{}{with powerful pre-war technology.  }
+{12008}{}{Therefore, your orders are:}
+{12009}{}{**END-PAR** }
+{12010}{}{1. Obtain as much information as possible }
+{12011}{}{about the location of the "Renaissance".}
+{12012}{}{2. Interrogate anyone spreading the rumors. }
+{12013}{}{3. Report immediately to your supervisor }
+{12014}{}{if additional information becomes available. }
+{12015}{}{**END-PAR** }
+{12016}{}{**END-PAR** }
+{12017}{}{**END-PAR** }
+{12018}{}{It is vital for us to locate the Renaissance }
+{12019}{}{before the savages from the Radius find it }
+{12020}{}{and loot it. This project's technology could }
+{12021}{}{be the key to humanity's survival. }
+{12022}{}{**END-DISK** }
 ###########################################################
 # GVAR_DISK_LABORY3
 ###########################################################
