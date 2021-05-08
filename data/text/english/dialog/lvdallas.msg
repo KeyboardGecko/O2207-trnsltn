@@ -97,7 +97,7 @@
 {2002}{}{I'm not into rumors. If you want to talk about them, you'd better look for my sister Fox. Actually, to be able to do that, you should become the inhabitant of Livos. Edward decides who is worthy to live among us.}
 {203}{999}{So, it's all that I need to do then... See you around.}
 
-{210}{}{The Schweins are not doing anything helpful. Ludwig sits in his laboratory, trying to turn his fantasies into the reality of the material world. Cristopher is an average and greedy vendor, you could see him by the entrance. I can't stand him. Also, need to mention an old man Edward, who thinks that he is the most important person in the vault. When in fact, he just watches the entrance. Even the child could handle this job. Other ones are not worth mentioning.}
+{210}{}{The Schweins are not doing anything helpful. Ludwig sits in his laboratory, trying to turn his fantasies into the reality of the material world. Christopher is an average and greedy vendor, you could see him by the entrance. I can't stand him. Also, need to mention an old man Edward, who thinks that he is the most important person in the vault. When in fact, he just watches the entrance. Even the child could handle this job. Other ones are not worth mentioning.}
 {211}{022}{What can you tell me about Duntons?}
 {212}{028}{I want to know about Hortons.}
 {213}{023}{Can you tell me about your family?}
