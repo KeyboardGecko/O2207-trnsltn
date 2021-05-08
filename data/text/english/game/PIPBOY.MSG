@@ -9,11 +9,11 @@
 #
 # Special holiday dates
 #
-{100}{}{Happy New Year's Day!}   # New years
-{101}{}{Happy Valentine's Day!}   # April fools
-{102}{}{Happy All Fool's Day!}   # April fools
-{103}{}{Happy Fallout Day!}     # Shipping day!
-{104}{}{Happy Independence Day!}  # Independence day
+{100}{}{Happy New Year's Day!}  # New years
+{101}{}{Happy Valentine's Day!}  # April fools
+{102}{}{Happy All Fool's Day!}  # April fools
+{103}{}{Happy Fallout Day!}   # Shipping day!
+{104}{}{Happy Independence Day!} # Independence day
 {105}{}{Happy Revolution Day!}		# Halloween
 {106}{}{Happy Constitution Day!}	# Thanksgiving
 {107}{}{Merry Christmas!}			# X-mas
@@ -995,8 +995,8 @@
 {6056}{}{walls of Olympus. If you attempt to harm the}
 {6057}{}{skyscraper or fail to comply with the directives}
 {6058}{}{above - you will be destroyed.}
-{6059}{}{       -Head of NCASTR, Ron Anderson}
-{6060}{}{                -May 8, 2013}
+{6059}{}{    -Head of NCASTR, Ron Anderson}
+{6060}{}{        -May 8, 2013}
 {6061}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_Schwein_DAIRY
@@ -1570,29 +1570,29 @@
 ###########################################################
 # GVAR_DISK_RENESSANCE_CHECK
 ###########################################################
-{12000}{}{>To every "Seeker" and "Predator" troop: }
+{12000}{}{>To every "Seeker" and "Predator" troop:}
 {12001}{}{>Mandatory}
-{12002}{}{**END-PAR** }
-{12003}{}{**END-PAR** }
+{12002}{}{**END-PAR**}
+{12003}{}{**END-PAR**}
 {12004}{}{Recently, there are rumors going among the}
-{12005}{}{Radius population about the so-called }
-{12006}{}{Renaissance - an underground city filled }
-{12007}{}{with powerful pre-war technology.  }
+{12005}{}{Radius population about the so-called}
+{12006}{}{Renaissance - an underground city filled}
+{12007}{}{with powerful pre-war technology. }
 {12008}{}{Therefore, your orders are:}
-{12009}{}{**END-PAR** }
-{12010}{}{1. Obtain as much information as possible }
+{12009}{}{**END-PAR**}
+{12010}{}{ 1. Obtain as much information as possible}
 {12011}{}{about the location of the "Renaissance".}
-{12012}{}{2. Interrogate anyone spreading the rumors. }
-{12013}{}{3. Report immediately to your supervisor }
-{12014}{}{if additional information becomes available. }
-{12015}{}{**END-PAR** }
-{12016}{}{**END-PAR** }
-{12017}{}{**END-PAR** }
-{12018}{}{It is vital for us to locate the Renaissance }
-{12019}{}{before the savages from the Radius find it }
-{12020}{}{and loot it. This project's technology could }
-{12021}{}{be the key to humanity's survival. }
-{12022}{}{**END-DISK** }
+{12012}{}{ 2. Interrogate anyone spreading the rumors.}
+{12013}{}{ 3. Report immediately to your supervisor}
+{12014}{}{if additional information becomes available.}
+{12015}{}{**END-PAR**}
+{12016}{}{**END-PAR**}
+{12017}{}{**END-PAR**}
+{12018}{}{It is vital for us to locate the Renaissance}
+{12019}{}{before the savages from the Radius find it}
+{12020}{}{and loot it. This project's technology could}
+{12021}{}{be the key to humanity's survival.}
+{12022}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_LABORY3
 ###########################################################
