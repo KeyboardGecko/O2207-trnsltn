@@ -5575,7 +5575,7 @@
 #
 # MISSED
 #
-{5060}{}{Antlion's dick!}
+{5060}{}{Ant lion's dick!}
 {5061}{}{You bad hunter!}
 {5062}{}{Come on! Come!}
 {5063}{}{Phew...}
@@ -5710,7 +5710,7 @@
 #
 # MISSED
 #
-{5160}{}{Antlion's dick.}
+{5160}{}{Ant lion's dick.}
 {5161}{}{You bad hunter!}
 {5162}{}{Come on! Come!}
 {5163}{}{Phew...}
@@ -5851,7 +5851,7 @@
 {5263}{}{You bad hunter!}
 {5264}{}{Stop it!}
 {5265}{}{Missed...}
-{5266}{}{Antlion's dick.}
+{5266}{}{Ant lion's dick.}
 {5267}{}{Come on! Come!}
 {5268}{}{Missed again?}
 {5269}{}{Phew...}
@@ -6674,7 +6674,7 @@
 {5873}{}{I'll shank ya innit!}
 {5874}{}{I'm gon' kick yer arse!}
 {5875}{}{For the British Empire!}
-{5876}{}{C'mere u twat!}
+{5876}{}{Ye minging, numpty!}
 {5877}{}{Fancy meetin' ya!}
 {5878}{}{Good night, bruv.}
 {5879}{}{Bonk.}
@@ -6688,9 +6688,9 @@
 {5884}{}{Now ye gettit, wanker!!}
 {5885}{}{I'll gie ye a skelpit lug!}
 {5886}{}{The game is on!}
-{5887}{}{Time to friggin' back-hand you roun' yer head!}
+{5887}{}{C'mere u twat!}
 {5888}{}{It's toim to tek or contree beck!}
-{5889}{}{I'm gonna punch yer arse, you blithering idiot.}
+{5889}{}{I'm comin' to punch yer arse, you blithering idiot.}
 #
 # RUNNING AWAY
 #
@@ -6714,7 +6714,7 @@
 #
 {5900}{}{I will endure this pain!}
 {5901}{}{My armor is strong!}
-{5902}{}{You can’t get through my armor!}
+{5902}{}{You can't get through my armor!}
 {5903}{}{You are only making me angry!}
 {5904}{}{Head is buzzing...}
 {5905}{}{Oh, that ringing in ears...}
@@ -7101,8 +7101,8 @@
 #
 {6190}{}{[crawls away]}
 {6191}{}{[crawls away]}
-{6192}{}{[retreating]}
-{6193}{}{[retreatins]}
+{6192}{}{[retreats]}
+{6193}{}{[retreats]}
 {6194}{}{[buzzes]}
 {6195}{}{[buzzes]}
 {6196}{}{::shhh-shhh-shhh::}

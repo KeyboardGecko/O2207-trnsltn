@@ -11,8 +11,8 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see a man dressed like butcher.}
-{2}{}{Despite trying to look like local cook, he is more resembling a pirate from children's books.}
+{1}{}{You see a man dressed as a butcher.}
+{2}{}{Despite trying to look like a local cook, he is more resembling a pirate from children's books.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see Harry.}
@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a big hairy man with glum expression on his face. He has a hook instead of his hand. His clothes are pretty stained and dirty, but you can easily identify him as a cook by his apron. To complete picture he lacks only a chef's hat.]}
+{10}{}{[You see a big hairy man with a glum expression on his face. He has a hook instead of his hand. His clothes are pretty stained and dirty, but you can easily identify him as a cook by his apron. To complete the picture he lacks only a chef's hat.]}
 {11}{002}{Hey.}
 {12}{999}{[don't start the conversation]}
 
@@ -32,7 +32,7 @@
 {23}{005}{Why does it matter? }
 
 
-{30}{}{I'm Harry [he scratches his chin with a hook] I mince meat and make food. What do you want?}
+{30}{}{I'm Harry [he scratches his chin with a hook] I mince the meat and make food. What do you want?}
 {31}{004}{You have a nice hook there.}
 {32}{Barter}{I wouldn't mind buying some food from you... [barter]}
 
@@ -56,34 +56,34 @@
 {107}{999}{Okay, I've got to go. See you.}
 
 
-{110}{}{Are you serious? Asking the cook for a job not on a kitchen? Don't you think it's kinda stupid?}
+{110}{}{Are you serious? Asking the cook for a job not in a kitchen? Don't you think it's kinda stupid?}
 {111}{012}{Well, maybe you need someone to be put down.}
 {112}{012}{Well, maybe you need something delivered.}
 {113}{012}{Well, you know, just asking.}
 
 
-{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special approach to sharpening my kitchen tools [he scratches himself with the hook again]. I need a whetstone. A good one, not some piece of shit like that ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand], I need one like this, but new. }
+{120}{}{You know, I think I might have something for you. Not a trivial task. I have a... Special approach to sharpening my kitchen tools [he scratches himself with the hook again]. I need a whetstone. A good one, not some piece of shit like those ones [Harry points at the table with some stones lying around]. So you'd understand - here [he shows you a shard of stone in his hand], I need one like this, but new. }
 {121}{013}{Where do I look for it?}
 {122}{014}{How much do you pay?}
-{123}{010}{Okay, if I'll come by one, I'll be back. For now I have some questions.}
+{123}{010}{Okay, if I'll come by one, I'll be back. For now, I have some questions.}
 {124}{999}{Okay, if I'll come by one, I'll be back. Later.}
 
 
-{130}{}{[He puts hook on his chin with a thoughtful look] Well... It's a stone. The stones can be found in caves. The caves are made out of stones, don't they?}
+{130}{}{[He puts a hook on his chin with a thoughtful look] Well... It's a stone. The stones can be found in caves. The caves are made out of stones, don't they?}
 {131}{014}{I see. How much do you pay?}
-{132}{010}{Okay, if I'll come by one, I'll be back. For now I have some questions.}
+{132}{010}{Okay, if I'll come by one, I'll be back. For now, I have some questions.}
 {133}{999}{Okay, if I'll come by one, I'll be back. Later.}
 
 
 {140}{}{If the stone is right and the quality is good - two hundred. Wanna haggle? Go to traders. If you don't like my price, remember that it's not me who came asking for work.}
 {141}{013}{I didn't even try to bargain... And where should I look for such stone?}
-{142}{010}{I didn't even try to bargain... Okay, if I'll come by one, I'll be back. For now I have some questions.}
+{142}{010}{I didn't even try to bargain... Okay, if I'll come by one, I'll be back. For now, I have some questions.}
 {143}{999}{I didn't even try to bargain... Okay, if I'll come by one, I'll be back. Later.}
 
 
 {153}{}{Well?}
 {150}{016}{I found a whetstone for you. }
-{151}{017}{Yeah, I wanted to ask if you had any thoughs where to look for the stone.}
+{151}{017}{Yeah, I wanted to ask if you had any thoughts on where to look for the stone.}
 {152}{018}{Is there the only one stone left in the whole fucking Radius?}
 
 

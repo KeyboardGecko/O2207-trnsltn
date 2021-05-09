@@ -30,7 +30,7 @@
 {6}{}{A tough-looking guard.}
 {7}{}{This guard is armed and well-protected.}
 {8}{}{He almost doesn't move. Just like a statue with a weapon.}
-{9}{}{This man guards the Tartarus dwellers from all kinds of dangerous creatures.}
+{9}{}{This man guards the Tartarus dwellers against all kinds of dangerous creatures.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
@@ -45,7 +45,7 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{Hey you! Servant! You going down, right? Get to the maintenance room on lower level, and bring me a bottle of... Uhh... That drink, from the machine.}
+{100}{}{Hey you! Servant! You going down, right? Get to the maintenance room on the lower level, and bring me a bottle of... Uhh... That drink, from the machine.}
 {101}{}{So? Did you bring what I asked for?}
 {102}{}{Of course, Son of Gods! And... How do I do that?}
 {103}{}{I don't know what you want. And I don't care.}

@@ -55,9 +55,9 @@
 {102}{}{No sweetie, I'm paying twice a week, just as we agreed!}
 {103}{}{Don't get all hot-headed, just checking that you didn't forget about my 10 percent.}
 {104}{}{Came to collect? Here, take your 10 percent. All the money I have.}
-{105}{}{Look at that big bad tax autority, came for his percent! Here, "master", take it!}
+{105}{}{Look at that big bad tax authority, came for his percent! Here, "master", take it!}
 {106}{}{Yeah-yeah, twice a week... [gives you batteries] Here boss, all I could gather.}
-{107}{}{[take the batteries] Don't get too sassy or I'll put you under a pet jackals.}
+{107}{}{[take the batteries] Don't get too sassy or I'll put you under my pet jackals.}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß
 # Ïîëîæèòåëüíûå ñîîáùåíèÿ

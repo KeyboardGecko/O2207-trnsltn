@@ -27,7 +27,7 @@
 {53}{999}{Okay, I'll come by later.}
 
 #NodeStop2
-{55}{}{Firstly, the last working toilet is clogged, so there's nothing to do anyway. Secondly, seems that the last new guy, who went to plunge the toilet, lost his consciounsness in the process, and now rats are feasting on him. And the rats here are VERY dangerous and hungry. So the bottom line is - the toilet is out of order.}
+{55}{}{Firstly, the last working toilet is clogged, so there's nothing to do anyway. Secondly, seems that the last new guy, who went to plunge the toilet, lost his consciousness in the process, and now rats are feasting on him. And the rats here are VERY dangerous and hungry. So the bottom line is - the toilet is out of order.}
 {56}{002}{Thanks for the warning. I'm }
 {57}{002}{, by the way, and I am...}
 {58}{QA}{Maybe I could help then?}
@@ -53,7 +53,7 @@
 #Node010
 {100}{}{You again, }
 {101}{}{? What's the news? Or something happened?}
-{102}{}{? I heard you helped our Seekers, right? Thank you, thank you. Even they need help sometimes. You wanted to ask something?}
+{102}{}{? I heard you helped our Seekers, right? Thank you, thank you. Even they need help sometimes. Did you want to ask something?}
 {103}{}{They say you helped Lily, right? That's very nice. We are always glad to see you here. So, you wanted to ask something?}
 {104}{}{[Peter looks at you, waiting.]}
 {105}{011}{I wanted to learn more about your position.}
@@ -66,7 +66,7 @@
 
 #Node011
 {110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is a better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
-{111}{012}{Let some of you into Tartarus? Sounds questionable. They consider all outsiders a terrible creatures.}
+{111}{012}{Let some of you into Tartarus? Sounds questionable. They take all outsiders for terrible creatures.}
 {112}{}{What can I say? Fixing the broken stuff, looking after what's working. Just helping Bono to keep things running, nothing exceptional.}
 {113}{010}{Plain and simple. Can I ask something else?}
 {114}{999}{Yeah, I see. Oh! I've got to go.}
@@ -77,14 +77,14 @@
 {122}{999}{I really doubt it - but good luck to you anyway.}
 
 #Node020
-{200}{}{We are surviving here, that's what happens. People run away from Tartarus, from Radius - and end up here. It is obvious you won't last long in wastelands alone - but in here everyone is in the same situation. So they pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over the Tartarus by force. Stay away from him, he's crazy.}
+{200}{}{We are surviving here, that's what happens. People run away from Tartarus, from Radius - and end up here. It is obvious you won't last long in wastelands alone - but here everyone is in the same situation. So they pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over Tartarus by force. Stay away from him, he's crazy.}
 {201}{021}{Hugo?}
 {202}{010}{Okay, I mostly got it.}
 {203}{}{Just stay around for a couple of days, you'll get it eventually.}
 {204}{999}{Okay, I'll see for myself.}
 
 #Node021
-{210}{}{The ghoul on the lower platform. He and his men are the only ones who walks around with guns here. Hugo himself is just a big baby who wants to play pew-pew and to show everyone he's strong. He's ex-Jackal, after all.}
+{210}{}{The ghoul on the lower platform. He and his men are the only ones who walk around with guns here. Hugo himself is just a big baby who wants to play pew-pew and to show everyone he's strong. He's ex-Jackal, after all.}
 {211}{022}{Do they have enough guns and men?}
 {212}{010}{Thanks for the warning. I'll keep that in mind.}
 
@@ -97,14 +97,14 @@
 {300}{}{Yes, there's still a lot of rats. I think they will feast on that poor guy for a few next days... And the toilet stays clogged.}
 {301}{}{I see you are in one piece? How's the unclogging going?}
 {302}{QA}{I think I could try to handle it.}
-{303}{032}{I can't find plunger! Do you know where it might be?}
-{307}{032}{The rats are dead, but I still can't find plunger!}
-{304}{033}{All done! The rats are dead, the toilet is unclogged. I should say it was a dirty job.}
-{305}{999}{No problem, soon it will be available for using.}
+{303}{032}{I can't find the plunger! Do you know where it might be?}
+{307}{032}{The rats are dead, but I still can't find the plunger!}
+{304}{033}{All done! The rats are dead, the toilet is unclogged. I should say it was... Dirty.}
+{305}{999}{No problem, soon it will be available for use.}
 {306}{010}{Uh, I actually wanted to talk about something else.}
 
 #NodeQA
-{310}{}{Okay then, I would be very grateful to you, just as all other inhabitants of the station. So, you see that there are two problems here: to kill the rats and to plunge the toilet. You can deal with rats in any way you want, but for toilet you'll need the plunger, can't get around that. Why am I even telling you this? You had enough of it in Tartarus, right?}
+{310}{}{Okay then, I would be very grateful to you, just as all other inhabitants of the station. So, you see, there are two problems here: to kill the rats and to plunge the toilet. You can deal with rats in any way you want, but you're gonna need the plunger for the toilet, can't get around that. Why am I even telling you this? You had enough of it in Tartarus, right?}
 {311}{999}{Not me, but I've seen others do it. I'll manage, be sure about that.}
 {312}{999}{No problem. Don't think it'll take a lot of time. Be back soon.}
 
@@ -113,7 +113,7 @@
 {321}{999}{Okay, I'll keep looking.}
 
 #Node033
-{330}{}{Whoa! That's what I call a job well done! Here, take your reward [gives you a little bag with something heavy inside] Take it! This bullets are one of the most common in Radius. They will sure come in handy. And if not - you can trade them for something valuable, just like batteries.}
+{330}{}{Whoa! That's what I call a job well done! Here, take your reward [gives you a little bag with something heavy inside] Take it! These bullets are one of the most common in Radius. They will surely come in handy. And if not - you can trade them for something valuable, just like batteries.}
 {331}{999}{[Take the reward] Thanks. If you need something else, just ask.}
 
 #Node040

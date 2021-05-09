@@ -30,7 +30,7 @@
 {6}{}{A tough-looking guard.}
 {7}{}{This guard is armed and well-protected.}
 {8}{}{He almost doesn't move. Just like a statue with a weapon.}
-{9}{}{This man guards the Tartarus dwellers from all kinds of dangerous creatures.}
+{9}{}{This man guards the Tartarus dwellers against all kinds of dangerous creatures.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
@@ -47,14 +47,14 @@
 #
 {100}{}{Seeker? Did you get lost, or something? You know that elevator is for Heralds only, so go, use the front door.}
 {101}{}{Yes, of course.}
-{102}{}{Aren't you overstepping? I'll show you! [reach for weapon]}
+{102}{}{Aren't you overstepping? I'll show you! [reach for a weapon]}
 {103}{}{Herald? [he unsuccessfully tries to take a good look at your face under the hood] Greg, is that you?}
 {104}{}{Yes, it's me.}
 {105}{}{Are you trying to ditch? You still have your shift going.}
-{106}{}{I need to teach a lesson to one of the impudents, but I left my baton upstairs.}
+{106}{}{I need to teach a lesson to an impudent, but I left my baton upstairs.}
 {107}{}{I... Uh... I need to go upstairs.}
 {108}{}{[quietly turn around and leave]}
-{109}{}{I don't know who you are, but I swear by the Gods, I'm going to find out. [reaches for weapon]}
+{109}{}{I don't know who you are, but I swear by the Gods, I'm going to find out. [reaches for a weapon]}
 {110}{}{Uh-huh.}
 {111}{}{Your voice sounds a little different... Greg... [takes a step towards you, staring under the hood]}
 {112}{}{[cough forcefully] Cough-chr-khah [spit] Khrr-cough ooh... I got some kind of infection, my throat is burning. Probably from slaves.}

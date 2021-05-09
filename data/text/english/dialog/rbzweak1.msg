@@ -36,7 +36,7 @@
 {5}{}{You see a ghoul.}
 {6}{}{A usual, half-decomposed ghoul.}
 {7}{}{You could swear that his ribs are sticking out under the remains of his clothes.}
-{8}{}{He is knee-deep in dirt, and... Actually, that's not dirt.}
+{8}{}{He is knee-deep in the dirt, and... Actually, that's not dirt.}
 {9}{}{From under his semi-closed eyelid, his unseeing eye is looking at you.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
@@ -121,4 +121,4 @@
 {1056}{}{With the new Drop we will own the whole Radius!}
 {1057}{}{[wheezes] D-drop-p...}
 {1058}{}{Dose, dose, dose, dose...}
-{1059}{}{They are following me... That's it, they will come for each ghoul...}
+{1059}{}{They are following me... They will come for every ghoul...}

@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[Before you stands a man in his twenties. His clothes is covered with rivets, chains and pieces of metal] Hey there! }
+{10}{}{[Before you is a man in his twenties. His clothes are covered with rivets, chains and pieces of metal] Hey there! }
 {11}{002}{Hello. I'm here recently, looking around the town.}
 
 {20}{}{[he gives you a wide smile] Hah, I'm going to tell you something about this town. It should be blown the hell up, to build a new one in its place! I'm Daniel, Mayor's son. After my dad kicks the bucket, I'll be in charge. And I'm going to turn this place upside down!}
@@ -38,28 +38,28 @@
 {105}{036}{Yes, I'm the new Mayor. And I'd like you to keep your gimmicks to yourself.}
 {106}{999}{Let's talk later, I need to go.}
 
-{110}{}{[Daniel spits on the ground] This place is a dirty pile of heap. Everything is wrong here. And something needs to be done about it! But everyone's afraid to act, because they are afraid of my pops. And I'm the only one who doesn't hesitate to openly say that he is wrong. Also, Arsene and Dan, his father, agree with me.  }
+{110}{}{[Daniel spits on the ground] This place is a dirty pile of heap. Everything is wrong here. And something needs to be done about it! But everyone's afraid to act because they are afraid of my pops. And I'm the only one who doesn't hesitate to openly say that he is wrong. Also, Arsene and Dan, his father, agrees with me.  }
 {111}{012}{How do you want to change the town?}
 {112}{013}{Tell me more about Arsene.}
 {113}{019}{I'd like to learn about Arsene's father.}
 {114}{}{[Daniel spits on the ground] This town is a dirty pile of heap. I could lead it to a great future, but then you appeared. Let's see what you can do.}
 {115}{010}{Yeah, we'll see. And now - another question.}
 
-{120}{}{[you see a fire in his eyes] I will knock down the half of local buldings to build a new ones! I'll chase all the shits out of town, so only the cool guys would stay! Arsene is going to help, Dan too. And mom. Together we are strong!}
+{120}{}{[you see a fire in his eyes] I will knock down half of the local buildings to build new ones! I'll chase all the shits out of town, so only the cool guys would stay! Arsene is going to help, Dan too. And mom. Together we are strong!}
 {121}{013}{Can you tell me about Arsene?}
 {122}{019}{Tell me about Dan.}
 {123}{020}{I'd like to hear about your mom.}
-{124}{021}{How are you going to build new buldings?}
+{124}{021}{How are you going to build new buildings?}
 {125}{022}{Who exactly do you want to chase out of town?}
 
 {130}{}{[Daniel starts proudly talking] Arsene is my best bud! He is the smartest one around. We are doing big things together, all town knows about them.}
 {131}{014}{Tell me details about your doings.}
 {132}{010}{I want to ask another question.}
 
-{140}{}{[Daniel satisfyingly smiles] Big things, all the time - that's what we do. We rock the place! Last of our jobs include political stand-off resolvement, production rate improvement and disaster prevention. What do you want to hear about?}
+{140}{}{[Daniel satisfyingly smiles] Big things, all the time - that's what we do. We rock the place! Last of our jobs include political stand-off resolvement, production rate improvement, and disaster prevention. What do you want to hear about?}
 {141}{015}{Sounds serious. Tell me about political stand-off resolvement.}
 {142}{016}{I see you actually care about the town. Tell me about production rate improvement.}
-{143}{018}{You guys must be heroes. Tell me aboud disaster prevention.}
+{143}{018}{You guys must be heroes. Tell me about disaster prevention.}
 {144}{010}{I want to ask something else.}
 {145}{999}{Let's talk later. I need to go.}
 
@@ -71,8 +71,8 @@
 {160}{}{A day before we secretly snuck into the canned meat factory. And Arsene poured a whole bucket of machine oil into the meat! Which lead to producing ten cans of meat more than usual! People didn't notice anything. The taste and smell got worse though, but they still eat it, no worries. }
 {161}{017}{You didn't happen to pour something like this into the Lavash food, did you?}
 {162}{015}{Right. Tell me about political stand-off resolvement.}
-{163}{018}{Tell me aboud disaster prevention.}
-{164}{035}{[As in all conversation, you are carefully observing the one you speak to. You notice the silouette of oil bottle in his inner pocked] You do smell some machine oil now, you know that? Here's the bottle sticking out. Do you want to pour it somewhere again? }
+{163}{018}{Tell me about disaster prevention.}
+{164}{035}{[As in all conversation, you are carefully observing the one you speak to. You notice the silhouette of the oil bottle in his inner pocket] You do smell some machine oil now, you know that? Here's the bottle sticking out. Do you want to pour it somewhere again? }
 {165}{010}{Another question then.}
 
 {170}{}{Of course! We added some oil into it too. There's more food this way!}
@@ -84,12 +84,12 @@
 {182}{016}{I want to hear about production rate improvement.}
 {183}{010}{I'll ask something else.}
 
-{190}{}{Dan is Arsene's father. A wise man! Knows politics like nobody else. He talks right things, me and Arsene like to listen to him. Sometimes I don't quite get what Dan tries to tell us, but it is definitely important.}
+{190}{}{Dan is Arsene's father. A wise man! Knows politics like nobody else. He talks the right things, me and Arsene like to listen to him. Sometimes I don't quite get what Dan tries to tell us, but it is definitely important.}
 {191}{012}{I see. Tell me, what do you want to do with a town?}
 {192}{010}{I'll ask something else.}
 {193}{999}{I see. I need to go.}
 
-{200}{}{My mom helps me greatly. She keeps my pops away, when I screw up. And she does all my stuff at home, so I could have time to do more serious things.}
+{200}{}{My mom helps me greatly. She keeps my pops away when I screw up. And she does all my stuff at home, so I could have time to do more serious things.}
 {201}{012}{I see. Tell me about your plans for a town.}
 {202}{010}{I'll ask something else.}
 {203}{999}{I'll go talk to her. Bye.}
@@ -105,17 +105,17 @@
 
 {230}{}{Because he is my grandpa. He can stay. Even if he smells a mile away... But the other ones will be chased away!}
 {231}{012}{Okay. So, what did you want to do with the town?}
-{232}{010}{Another question, on difeerent topics.}
+{232}{010}{Another question, on different topics.}
 {233}{999}{I see. I'll go talk to Sam. Bye.}
 
 {2400}{}{My father is a Mayor, his name is Mark. I don't want to talk about him, we don't see each other much. I hang out with Arsene mostly, so I talk to his father more than with mine.}
-{2401}{}{My father is an ex-Mayor, his name is Mark. Also known as old and dumb jerk, who trusted the leadership of this town to a complete stranger.}
-{2402}{}{My father is an ex-Mayor, his name is Mark. Also known as old and dumb jerk, who trusted the leadership of this town to a half-dead rotten corpse.}
+{2401}{}{My father is an ex-Mayor, his name is Mark. Also known as an old and dumb jerk, who trusted the leadership of this town to a complete stranger.}
+{2402}{}{My father is an ex-Mayor, his name is Mark. Also known as an old and dumb jerk, who trusted the leadership of this town to a half-dead rotten corpse.}
 {2403}{}{My father is a Mayor, his name is Mark. He is a bore and a fool. Although he is smart enough to put me in charge of NWO.}
 {241}{025}{If he is a Mayor, you can learn many things from him.}
 {242}{010}{I'll ask something else.}
 
-{250}{}{[Daniel cringes] Meh, pops doesn't know what he is doing. He lost it for a long time already. Look what swamp NWO has become! As Arsene says, "Dying Lavash won't give a good offsprings". And I am completely agree.}
+{250}{}{[Daniel cringes] Meh, pops doesn't know what he is doing. He lost it for a long time already. Look what swamp NWO has become! As Arsene says, "Dying Lavash won't give a good offspring". And I completely agree.}
 {251}{026}{What Arsene actually means by that?}
 {252}{027}{It's not so bad around here. You have food, water. Work.}
 {253}{010}{I want to ask something else.}
@@ -155,7 +155,7 @@
 {321}{010}{Okay then... Maybe I don't understand it. Let me ask something else.}
 {322}{999}{Suit yourself. I need to go.}
 
-{330}{}{[Daniel jumps in excitement. Chiming of his metal turns into some melody] That's it! You know, you're cool! You noticed straight away that this place needs changes!}
+{330}{}{[Daniel jumps in excitement. The chiming of his metal sounds like a melody] That's it! You know, you're cool! You noticed straight away that this place needs changes!}
 {331}{010}{Yes, a lot of changes. I'll ask something else.}
 {332}{999}{Of course! You start changing, and I need to finish something. See you.}
 
@@ -163,7 +163,7 @@
 {341}{010}{Deal then. Another question.}
 {342}{999}{Agreed. I'll go talk to your father.}
 
-{350}{}{[Daniel seems a little confused] Uh, I thought it's well-hidden in my pocket... Okay, here's a secret for you - me and Arsene decided to put some of machine oil into Lavash food, to cut costs, so to say. They don't care, we have profit.}
+{350}{}{[Daniel seems a little confused] Uh, I thought it's well-hidden in my pocket... Okay, here's a secret for you - me and Arsene decided to put some of the machine oil into Lavash food, to cut costs, so to say. They don't care, we have profit.}
 {351}{010}{I see. I want to ask something else.}
 {352}{999}{Understood. I need to go, see you later.}
 
@@ -173,17 +173,17 @@
 {363}{999}{Nevermind. I'll go.}
 
 {370}{}{Wh- What? What did you say?}
-{371}{038}{I said that starting today you work on a factory. We are all equal here, so it doesn't look good when someone does nothing for the common good. }
+{371}{038}{I said that starting today you work in a factory. We are all equal here, so it doesn't look good when someone does nothing for the common good. }
 
 {380}{}{But...}
-{381}{039}{I suggest you to start working. Or the guards will be making you work everyday. With their boots }
+{381}{039}{I suggest you start working. Or the guards will be making you work every day. With their boots }
 
-{390}{}{[the moy gazes at you with open mouth. He is, to put it mildly, bedazzled.]}
+{390}{}{[the boy gazes at you with an open mouth. He is, to put it mildly, bedazzled.]}
 {391}{999}{Okay, I need to go. See you.}
 
 {400}{}{So? Watch me. Watch me all you like.}
 {401}{999}{Sure. [end dialogue]}
-{402}{037}{I think it would be more convenient for me to watch if you will take a job on a factory in a loading stage.}
+{402}{037}{I think it would be more convenient for me to watch if you will take a job in a factory in a loading stage.}
 
 #œÎ‡‚‡˛˘ËÂ Ù‡Á˚ Ì‡ Á‡‚Ó‰Â
 {410}{}{Oh... It's you...}

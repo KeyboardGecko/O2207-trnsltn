@@ -27,8 +27,8 @@
 {4}{}{You see a raider.}
 {5}{}{You see one of the spectators.}
 {6}{}{He frantically screams his lungs out, cheering for fighters on a ring.}
-{7}{}{One of the audience. He craves for blood.}
-{8}{}{The spectator loudly shouts something encouranging.}
+{7}{}{One of the audience. He craves blood.}
+{8}{}{The spectator loudly shouts something encouraging.}
 {9}{}{He frantically screams his lungs out, cheering for fighters on a ring.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ

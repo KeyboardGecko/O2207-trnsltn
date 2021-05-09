@@ -27,9 +27,9 @@
 {4}{}{you see a vault dweller.}
 {5}{}{You see an inhabitant of Livos.}
 {6}{}{Old man, wearing an old, battered suit.}
-{7}{}{The expression on his pale face clearly says that everyone is mortal. Except him, of course.}
+{7}{}{The expression on his pale face clearly says that everyone is mortal. Except for him, of course.}
 {8}{}{If he wouldn't move from time to time, he could easily be mistaken for a statue - just as pale and cold.}
-{9}{}{His every move says "I'm more important that anyone else in this world".}
+{9}{}{His every move says "I'm more important than anyone else in this world".}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
@@ -52,7 +52,7 @@
 {1003}{}{Yes, I'm glad to see you too.}
 {1004}{}{A fine weather today, don't you think?}
 {1005}{}{Oh, such a nice young man!}
-{1006}{}{If I were younger, we could have some fun together.}
+{1006}{}{If I was younger, we could have some fun together.}
 {1007}{}{My dear friend, ask me anytime!}
 {1008}{}{Look who's here!}
 {1009}{}{Maybe we could meet tonight over a bottle of cognac?}
@@ -63,7 +63,7 @@
 {1013}{}{You are distracting me with your presence.}
 {1014}{}{N-no, I have nothing to do with your petty problems.}
 {1015}{}{My dear, be kind to hang out somewhere else.}
-{1016}{}{I can't see a family birth mark on you, young man.}
+{1016}{}{I can't see a family birthmark on you, young man.}
 {1017}{}{Ahahah, don't even think about it!}
 {1018}{}{Just step away from me to a venerable distance.}
 {1019}{}{I'm busy. Go away.}
@@ -71,9 +71,9 @@
 {1020}{}{Oh, I would punch you so hard!}
 {1021}{}{I hate you, sucker!}
 {1022}{}{How dare you!?..}
-{1023}{}{You are ruining my life with just being around!}
-{1024}{}{Oh you fucking burp of nasty beast!}
-{1025}{}{I would gladly ripped off your nails. One by one.}
+{1023}{}{You are ruining my life by just being around!}
+{1024}{}{Oh you fucking burp of a nasty beast!}
+{1025}{}{I would gladly rip off your nails. One by one.}
 {1026}{}{Just die. Free the world from your presence.}
 {1027}{}{You are so pathetic! And filthy. Shithead!}
 {1028}{}{You are the pimple on the asscheek of a swamp beast!}
@@ -98,16 +98,16 @@
 {1045}{}{I take my duty to inform you that yesterday's poker went well. Not as well as I'd like it to, but still pretty well.}
 {1046}{}{I lost a pearl button from my pants. Has anybody seen it? Round, two holes. A little black spot.}
 {1047}{}{The canned food of New World Order is poisoning us! I am absolutely positive about that! You should've seen my stool yesterday!}
-{1048}{}{Let Schweins provide each of us with a weapon! I don't trust this automatic turrets.}
-{1049}{}{We shoud have an urgent meeting to discuss updating the repertoire of jokes for the joke machine!}
+{1048}{}{Let Schweins provide each of us with a weapon! I don't trust these automatic turrets.}
+{1049}{}{We should have an urgent meeting to discuss updating the repertoire of jokes for the joke machine!}
 #òèõèå ïðîêëÿòüÿ ïðî ñåáÿ
 {1050}{}{Damn bozos. No one wants to do anything.}
-{1051}{}{This people are losing it... I'm the only one who still keeps being sane..}
+{1051}{}{These people are losing it... I'm the only one who still keeps being sane..}
 {1052}{}{Where the hell is my pony?.. My lilac pony...}
 {1053}{}{Poker nowadays is not the same as before... We should let it grow a little and put it into the cage...}
 {1054}{}{Oh that damn Minion! I would ride her...}
 {1055}{}{That bitch Emily, may she burn in hell.}
 {1056}{}{I'm surrounded by sluts, they are choking me... Ooooh yeeeah...}
-{1057}{}{I wonder, how long has it been, since we stopped using toilet paper...}
+{1057}{}{I wonder, how long has it been since we stopped using toilet paper...}
 {1058}{}{I will kill them all. On this exact night. Or better - tomorrow evening, during the poker game.}
 {1059}{}{They are all mad, absolutely mad! Only I deserve to rule the New World!}

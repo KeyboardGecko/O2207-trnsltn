@@ -21,7 +21,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[You see a young man with a full head of hair. His clothes are covered with dirt stains, holes and cuts. Seems like he never washed it in his life.] Yes? }
+{10}{}{[You see a young man with a full head of hair. His clothes are covered with dirt stains, holes, and cuts. Seems like he never washed it in his life.] Yes? }
 {11}{002}{Hello. I'm new here, just looking around.}
 {12}{003}{Hello. Who're you?}
 
@@ -38,7 +38,7 @@
 {31}{004}{Yes, I was born in a very distant settlement.}
 {32}{009}{I was born in Olympus!}
 {33}{008}{No, I lived in a nearby village, just never had the chance to get here.}
-{34}{999}{Arsene, I've just remember something I need to do. I'll come by later.}
+{34}{999}{Arsene, I've just remembered something I need to do. I'll come by later.}
 {35}{}{I'm Arsene. And you, uh, like, our new Mayor? Did you want something?}
 {36}{}{I sure am. I have some questions.}
 
@@ -53,7 +53,7 @@
 
 
 #Node005
-{50}{}{You are, like, cool, or something. Not afraid of all this, like, dangers.}
+{50}{}{You are, like, cool, or something. Not afraid of all these, like, dangers.}
 {51}{010}{Yes, nothing I couldn't handle. Let me ask you a few questions.}
 {52}{010}{I didn't even meet a single bandit on my way here. Okay, let me ask something.}
 
@@ -67,9 +67,9 @@
 
 
 #Node007
-{70}{}{You are the lucky one. I mean, uh, a lot of folk can't make it. Even the most experienced.}
+{70}{}{You are the lucky one. I mean, uh, a lot of folks can't make it. Even the most experienced.}
 {71}{010}{Yes, sometimes I had to move under heavy fire. Let me ask you a few questions.}
-{72}{010}{Caution and quick feet is what keeps you alive. Okay, let me ask something.}
+{72}{010}{Caution and quick feet are what keeps you alive. Okay, let me ask something.}
 
 
 
@@ -91,14 +91,14 @@
 {1000}{}{Uh, sure.}
 {1001}{}{Hey there. Like, came by to chat, or something?}
 {1002}{}{Hello! Man, I wish we were in the Olympus already. You want, like, to talk, or something?}
-{1003}{}{Mayor? It's, like, wrong. Daniel should be te Mayor. He knows what to do with the place.}
+{1003}{}{Mayor? It's, like, wrong. Daniel should be the Mayor. He knows what to do with the place.}
 {101}{017}{What can you tell me about this place?}
 {102}{019}{What do you do here?}
-{103}{024}{Tell me about the people who lives in this town.}
+{103}{024}{Tell me about the people who live in this town.}
 {104}{016}{Where can I find some work?}
-{105}{020}{[You notice some spots of paint on Arsene's clothes, as if he wiped hands with it. Looks just like the paint you put on the bucket with Lavash food] Why did you touch the Lavash food pen?}
+{105}{020}{[You notice some spots of paint on Arsene's clothes as if he wiped hands with it. Looks just like the paint you put on the bucket with Lavash food] Why did you touch the Lavash food pen?}
 {106}{022}{Arsene, I know that it is you who puts the machine oil into Lavash food mix.}
-{107}{022}{[Your watchful eye of experienced thief notices the traces of Lavash food on Arsene's clothes] Arsene, what is it on your clothes? A Lavash fod mix?}
+{107}{022}{[Your watchful eye of experienced thief notices the traces of Lavash food on Arsene's clothes] Arsene, what is it on your clothes? A Lavash food mix?}
 {108}{042}{Do you mind me being the Mayor?}
 {109}{999}{Let's talk later. I need to go, bye.}
 
@@ -123,8 +123,8 @@
 {142}{010}{No, I don't think I could. I'm not so important. Okay, answer me some questions.}
 
 #Node015
-{150}{}{Oh, nevermind then.. I, uh, wanted to get into Olympus, or something.}
-{151}{010}{I could snuck you in. But not now. Let me ask you some questions.}
+{150}{}{Oh, nevermind then... I, uh, wanted to get into Olympus or something.}
+{151}{010}{I could sneak you in. But not now. Let me ask you some questions.}
 {152}{010}{I doubt it is possible. Okay, answer me some questions.}
 
 #Node016
@@ -133,10 +133,10 @@
 {162}{999}{I'll go look for them.}
 
 #Node017
-{170}{}{[Arsene cringes and looks away] What to say? This is, like, boring and stupid town. Nothing to do for cool guys like me and Daniel. It's just, like, Lavash and tin cans around. And the folks here are mostly, you know, work all day. I don't know what for. As they say - "Dying Lavash won't give a good offsprings". }
+{170}{}{[Arsene cringes and looks away] What to say? This is, like, a boring and stupid town. Nothing to do for cool guys like me and Daniel. It's just, like, Lavash and tin cans around. And the folks here are mostly, you know, work all day. I don't know what for. As they say - "Dying Lavash won't give a good offspring". }
 {171}{029}{Tell me about Daniel.}
 {172}{018}{Do you have a job?}
-{173}{023}{Dying Lavash won't give a good offsprings? And what does it mean?}
+{173}{023}{Dying Lavash won't give a good offspring? And what does it mean?}
 {174}{010}{I'll ask something else then.}
 {175}{999}{I see. I'll go ask someone else about the town.}
 
@@ -156,11 +156,11 @@
 #Node020
 {200}{}{[Arsene confusingly stares at you] Er, we're, like... Me and Daniel, we... Uhh... Tried to reduce the consumption of Lavash food rations, you know! So I put some machine oil in it.}
 {201}{021}{You shouldn't, really. They refuse to eat now. At all. Philip wouldn't like to learn about this...}
-{202}{021}{Yeah? Are you really this dumb? I think you should be assigned with a job of Philip's assistant.}
+{202}{021}{Yeah? Are you really this dumb? I think you should be assigned the job of Philip's assistant.}
 
 #Node021
 {210}{}{Man, I never thought that Lavash are smarter than people. The local folk ate the oiled meat without complaining... Listen, don't tell Philip about me! I'll give you four packs of Combatid if you won't!}
-{211}{999}{Uh, I'm sorry! I won't do it anymore, I swear! And to show you I'm honest, I'm ready to part with my supply of Combatid. Four packs. And I'd like you to not tell it to Philip. I don't need another enemy...}
+{211}{999}{Uh, I'm sorry! I won't do it anymore, I swear! And to show you I'm honest, I'm ready to part with my supply of Combatid. Four packs. And I'd like you to not tell Philip. I don't need another enemy...}
 {212}{999}{Okay, give me your Combatid, I won't tell Philip. But you should stop putting oil in everything, got it? Okay, I need to go.}
 {213}{010}{I'll think about it. For now, I have some questions.}
 {214}{999}{Okay, I need to go think about it.}
@@ -175,7 +175,7 @@
 {232}{999}{I need to go now. Bye.}
 
 #Node024
-{240}{}{I can tell you about Daniel, Mark and my pa Dan. I don't really know about others, and I'm not really interested.   }
+{240}{}{I can tell you about Daniel, Mark, and my pa Dan. I don't really know about others, and I'm not really interested.   }
 {241}{029}{I'd like to know about Daniel.}
 {242}{025}{Tell me about Mark.}
 {143}{028}{Tell me about your father.}
@@ -202,26 +202,26 @@
 {273}{999}{Okay. I need to go now, see you.}
 
 #Node028
-{280}{}{[Arsene's eyes bright with pride] Dan, my pa, is the smartest man in NWO! He is, like, so smart he knows everything! Man, he always tells me and Daniel about politics. So many smart things! I want to be like him, but I'm, like, not very good at it. I guess me and Daniel are not, uh, being very serious. You need to meet my pa. He will tell you everything!}
+{280}{}{[Arsene's eyes bright with pride] Dan, my pa, is the smartest man in NWO! He is, like, so smart he knows everything! Man, he always tells Daniel and me about politics. So many smart things! I want to be like him, but I'm, like, not very good at it. I guess me and Daniel are not, uh, being very serious. You need to meet my pa. He will tell you everything!}
 {281}{029}{I see. Tell me about Daniel.}
 {282}{010}{Another question then.}
 {283}{999}{Okay, I'll go talk to him.}
 
 #Node029
-{290}{}{[Arsene starts ethusiastically gesturing, his eyes are burning] Daniel is such a cool dude! My man! We're, like, best friends! We are rocking this place so hard! Like others wouldn't dare to! }
+{290}{}{[Arsene starts enthusiastically gesturing, his eyes are burning] Daniel is such a cool dude! My man! We're, like, best friends! We are rocking this place so hard! Like others wouldn't dare to! }
 {291}{030}{And what is it that you do, exactly?}
 {292}{039}{I've heard that Daniel is going to be a new Mayor of NWO.}
 
 #Node030
-{300}{}{We are doing all kinds of things togethere. Everyone's, like, talking about us. We are the most famous in all NWO! We, like, had a hand in every matter.}
+{300}{}{We are doing all kinds of things together. Everyone's, like, talking about us. We are the most famous in all NWO! We, like, had a hand in every matter.}
 {301}{031}{Did you have a hand into Lavash food pen too?}
 {302}{032}{Tell me about something you did.}
 {303}{010}{I want to ask more.}
 
 #Node031
-{310}{}{[Arsene smiles] Oh, you, like, figured it out already! Yes, it was us! I came up with, uh, an idea - to water down the Lavash food mix with machine oil, or something. We already did the same with canned food a couple of times!}
+{310}{}{[Arsene smiles] Oh, you, like, figured it out already! Yes, it was us! I came up with, uh, an idea - to water down the Lavash food mix with machine oil or something. We already did the same with canned food a couple of times!}
 {311}{021}{You shouldn't have done it, really. Lavash refuse to eat now. At all. Philip will be very pissed.}
-{312}{021}{Yeah? Are you really this dumb? I think you should be assigned with a job of Philip's assistant.}
+{312}{021}{Yeah? Are you really this dumb? I think you should be assigned the job of Philip's assistant.}
 
 #Node032
 {320}{}{[Arsene mysteriously smiles] Lately, we were working, uh, very hard on the food problem in NWO. Our latest development is a secret stew! We are, like, just made one. Want some?}
@@ -242,16 +242,16 @@
 #Node035
 {350}{}{[You try the mysterious stew. It tastes not very good, although you've had worse. While eating, you sometimes pick from your teeth some obscure scales and thick little fragments. Still, the stew turned out to be very nutritious, so you feel recovered. Arsene carefully observes you] So? Like, tasty? How is it?}
 {351}{036}{Not bad, actually. I liked it.}
-{352}{036}{Not very tasty, but very nutririous.}
+{352}{036}{Not very tasty, but very nutritious.}
 {353}{037}{It tastes awful. But I feel full, that's good.}
 
 #Node036
-{360}{}{Great! Now about the secret recipe! It's like, stew made of four-tails!!}
-{361}{038}{From what?! You mean this little insects in the piles of manure??}
+{360}{}{Great! Now about the secret recipe! It's like, a stew made of four-tails!!}
+{361}{038}{From what?! You mean these little insects in the piles of manure??}
 
 #Node037
-{370}{}{Taste is not really important, if it's, uh, nutritious. Now about the secret recipe! It's like, stew made of four-tails!}
-{371}{038}{From what?! You mean this little insects in the piles of manure??}
+{370}{}{Taste is not really important, if it's, uh, nutritious. Now about the secret recipe! It's like, a stew made of four-tails!}
+{371}{038}{From what?! You mean these little insects in the piles of manure??}
 
 #Node038
 {380}{}{Yeah! We came up with the recipe! There's a lot of them around here, so you can feed the whole NWO! By the way, you are the first ever to try this stew. Like, congratulations.}
@@ -259,7 +259,7 @@
 {382}{999}{I really need to go pump my stomach... See you!}
 
 #Node039
-{390}{}{Yeah, Daniel is going to be in charge here. He would do great as a Mayor. Me and pa will help him. We are, like, going to make some changes around here. Big ones! But Mark don't, uh, trusts Daniel much. Mark doesn't understand. So we came up with, like, a plan - Daniel is going to act he is good, and when he becomes Mayor - will do what he wants! }
+{390}{}{Yeah, Daniel is going to be in charge here. He would do great as a Mayor. Me and pa will help him. We are, like, going to make some changes around here. Big ones! But Mark doesn't, uh, trust Daniel much. Mark doesn't understand. So we came up with, like, a plan - Daniel is going to act he is good, and when he becomes Mayor - will do what he wants! }
 {391}{010}{I see. I'll keep that in mind. Another question.}
 
 #Node040

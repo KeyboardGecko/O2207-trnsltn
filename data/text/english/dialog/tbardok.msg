@@ -36,7 +36,7 @@
 #
 {10}{}{[his voice sounds like a menacing growl through clenched teeth] Don't stick your nose around here, kid.}
 {11}{}{Do I? No, I'm here for a reason, actually.}
-{12}{}{What's wrong about it? I live here, just like you!}
+{12}{}{What's wrong with it? I live here, just like you!}
 {13}{}{Alright, I'm leaving.}
 {14}{}{He's a very suspicious character. Maybe you should ask Herald about him.}
 {15}{}{}
@@ -52,9 +52,9 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ œŒ—À≈ «Õ¿ ŒÃ—“¬¿
 #
 {100}{}{You again, skinny?! Are you dense? I told you - get the hell away from here!!}
-{101}{}{What are you guarding, Bardock? Did you hide here a treasure, or something?}
+{101}{}{What are you guarding, Bardock? Did you hide here a treasure or something?}
 {102}{·ÛÚ˚ÎÍ‡ Ò‡ÏÓ„ÓÌ‡}{You know, maybe we got off from a wrong foot. Could this bottle of wonderful moonshine help us break the ice? [wink]}
-{103}{}{Didn't Mama Monkey teach you manners, when you were a kid?}
+{103}{}{Didn't mama Monkey teach you manners when you were a kid?}
 {104}{˜ÂÌ˚È}{Come on, bro, you can tell me. I won't tattle on my kindred.}
 {105}{}{Get out.}
 {106}{}{Understood, I'm going.}
@@ -64,11 +64,11 @@
 {120}{}{I... To hell with it, I'm telling you everything! But you must swear no one learns about it! No one! SWEAR!}
 {121}{}{I SWEAR!}
 {122}{}{I won't! Screw it, you are definitely not right in the head!}
-{130}{}{Okay. Okay... It was in the morning... Yesterday. I think. Or the day before... I don't remember. It doesn't matter! I came here to look for parts, because Smitty asked to help. And I had a throat so dry that I would kill for a drop of booze! And there he was, standing near the staircase... Asshole in armor... He tells me "take some candies, and fetch me some moonshine".}
+{130}{}{Okay. Okay... It was in the morning... Yesterday. I think. Or the day before... I don't remember. It doesn't matter! I came here to look for parts because Smitty asked to help. And I had a throat so dry that I would kill for a drop of booze! And there he was, standing near the staircase... Asshole in armor... He tells me "take some candies, and fetch me some moonshine".}
 {131}{}{Sounds familiar... So? Did you do it?}
 {132}{}{He is the Son of Gods! His wishes are holy to us.}
-{133}{}{Of course I did, you wouldn't believe how much I needed that drink! So, I made a run to the Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
-{134}{}{You know that's bullshit! Are you feeling alright? Okay, so, I made a run to the Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
+{133}{}{Of course I did, you wouldn't believe how much I needed that drink! So, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
+{134}{}{You know that's bullshit! Are you feeling alright? Okay, so, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
 {135}{}{The Son of Gods?... With bare hands?}
 {136}{}{I never thought that you can... You know... Them.}
 {137}{}{Me neither, but... There he is, laying dead. I took the wall apart in half an hour, dug a little hole. Brothers helped, of course. Still, what happened on the parking lot should stay on the parking lot, hear me?!}
@@ -102,7 +102,7 @@
 {1902}{}{Aren't you a smart one? Smart and cunning... Only a little skinny... You couldn't handle the Son of Gods even if he was ALREADY DEAD! [he laughs] Let me teach you a thing or two about fighting.}
 {191}{}{Don't get so worked up, it's a slight misunderstanding. I'll come by later. Bye.}
 {192}{}{Did you!? Come on! COME HERE!!}
-{200}{}{[Bardock paifully punches you into belly. You are writhing in pain. He continues to do it again and again, until you, at last, manage to catch his hand... A couple of hours later, your lesson is over.] Great, I think you got the essentials!}
+{200}{}{[Bardock painfully punches you into the belly. You are writhing in pain. He continues to do it again and again, until you, at last, manage to catch his hand... A couple of hours later, your lesson is over.] Great, I think you got the essentials!}
 {201}{}{Yeah, thanks. That was... Enlightening.}
 {202}{}{I sure did, "teacher". Now it's going to hurt for a week.}
 #

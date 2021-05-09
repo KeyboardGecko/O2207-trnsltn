@@ -25,12 +25,12 @@
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 #
 {1}{}{You see your dad.}
-{2}{}{John, your father. Disheveled hair, pale face... You are used to see him like this.}
+{2}{}{John, your father. Disheveled hair, pale face... You are used to seeing him like this.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 #
 {3}{}{You see your dad.}
-{4}{}{John, your father. Disheveled hair, pale face... You are used to see him like this.}
+{4}{}{John, your father. Disheveled hair, pale face... You are used to seeing him like this.}
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ ƒŒ «Õ¿ ŒÃ—“¬¿
 #
@@ -56,7 +56,7 @@
 {106}{}{I'm on a daily duty already. Herald tasked me with finding out why Lavash are getting sick... I don't even know where to start.}
 {110}{}{You know how it is - the head of each family looks after his corner. And our sink is leaking again. That damn sink!}
 {111}{}{Yes, I know this, but shouldn't you be on the Farm, working for mom?}
-{112}{}{What would Herald say about it? He always complains about lack of people on the Farms.}
+{112}{}{What would Herald say about it? He always complains about the lack of people on the Farms.}
 {113}{}{I see. Well, off to do labor then.}
 {114}{}{Why didn't you save mom? You could do something!}
 {115}{}{[dad closes eyes and covers his face with palm] Again? Why do you need to blame someone all the time? I can't protect anyone from sickness, even the loved ones. I just can't! Even Kirk understands. Maybe you need to accept it too.}
@@ -65,18 +65,18 @@
 {118}{}{I'll try... And I need to go.}
 {119}{}{No way! It's somebody's fault! And one day this somebody's gonna pay! [leave]}
 {1201}{}{Ohh... These farms led Elize to the Mouth of Hades, and they will do the same to me. I'm lucky dr. Pat allows me to now overwork myself and to rest here often.}
-{121}{}{I need to talk to dr. Pat, maybe he could give me day off too.}
+{121}{}{I need to talk to dr. Pat, maybe he could give me a day off too.}
 {122}{}{Mom... I miss her so much...}
 {123}{}{You know, you're right. You need to rest.}
-{1202}{}{Herald Gregorius knows and understands problems of our people. Nothing bad comes out of me spending some time here.}
+{1202}{}{Herald Gregorius knows and understands the problems of our people. Nothing bad comes out of me spending some time here.}
 {124}{}{Damn! I have my problems too! It's not fair I have to work!}
 {125}{}{Well, if he is aware of that...}
 {126}{}{I see. Then I'll go do my labor.}
-{130}{}{You know, you can actually try. Do you want my help? I could break your hand, or something. [he gives you a weak smile]}
+{130}{}{You know, you can actually try. Do you want my help? I could break your hand or something. [he gives you a weak smile]}
 {131}{}{Uhh... You know, I'd better go do my work then.}
 {132}{}{Considering your condition, you are more likely to hurt yourself. Okay, I'll go do my labor. See you around.}
 {1401}{}{Son, uh, just look around. I don't know, I need to work.}
-{1402}{}{Oh... Well, I would start from examining the Lavash, just to try to understand what's wrong with them. Then I'd talk about what they eat and drink, with the those who oversees them. And then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
+{1402}{}{Oh... Well, I would start by examining the Lavash, just to try to understand what's wrong with them. Then I'd talk to those who oversee them about what they eat and drink. And then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
 {141}{}{Well, thanks for nothing...}
 {142}{}{You know what, that's a great plan! Thanks!}
 {149}{}{Dad, do you know who is that big gloomy black man on the parking lot?}

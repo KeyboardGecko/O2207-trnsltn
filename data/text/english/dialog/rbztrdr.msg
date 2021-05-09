@@ -36,7 +36,7 @@
 {5}{}{You see a pusher.}
 {6}{}{His face is twisted in a strange attempt to make a smile.}
 {7}{}{His clothes is covered with many little pockets, from which he periodically pulls out his merchandise.}
-{8}{}{His clothes, although old, seems to be very durable and comfotable. Looks like it's greatly maintained and often remade.}
+{8}{}{His clothes, although old, seems to be very durable and comfortable. Looks like it's greatly maintained and often remade.}
 {9}{}{He stands tall, spreading his legs, calling out to customers.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ

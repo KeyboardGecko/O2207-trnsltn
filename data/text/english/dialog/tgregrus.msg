@@ -56,7 +56,7 @@
 {50}{}{They are acting strange - don't eat, drink a lot, their feces are more smelly than usual. And most of all, they are getting thinner and don't breed. If it continues like this, we would have nothing to feed us with, and the Gods will get angry!}
 {51}{}{That's very bad... I'll go look into it.}
 {52}{}{I see. Can I ask something else?}
-{60}{}{You are wearing the suit of Techonogy Servant, yet you don't know how to deal with electricity? Another question like this, and you will become a Life Servant! Just repair this fuse box. If you have some doubts, ask your teachers, Smitty or Carol. They are on a Technical level.}
+{60}{}{You are wearing the suit of Technology Servant, yet you don't know how to deal with electricity? Another question like this, and you will become a Life Servant! Just repair this fuse box. If you have some doubts, ask your teachers, Smitty or Carol. They are on a Technical level.}
 {61}{}{I'll do that. Off to work.}
 {62}{}{Yeah, I was about to do just that... But can I ask more?}
 {70}{}{Did the Gods make you yesterday? The canisters are on a Technical level, near the water filtering machines.}
@@ -73,7 +73,7 @@
 {105}{}{No, nothing. I better go.}
 {106}{}{I'd like to specify something...}
 {107}{}{It's about that broken water filtering machine...}
-{108}{}{Herald, you know everything about everyone here, right? There's one black man on the parking lot...}
+{108}{}{Herald, you know everything about everyone here, right? There's one black man in the parking lot...}
 {109}{}{I want to report about a horrible... God-... Murder.}
 {110}{}{That task do you want to discuss?}
 {111}{}{About Lavash.}
@@ -84,7 +84,7 @@
 {1202}{}{Did you fix it?}
 {1203}{}{What's about the canisters? They should be at the Lavash overseers already!}
 {121}{}{I'm working on it. I'll come later.}
-{122}{}{Yes. The problem is in the faulty water filtering machine.}
+{122}{}{Yes. The problem is caused by the faulty water filtering machine.}
 {123}{}{It's fixed, yes. Shouldn't break so often now.}
 {124}{}{Exactly, I carried them over, all 12! They were so heavy, by the way...}
 {125}{}{The overseers would handle carrying the canisters much better! There are two of them, so they would finish it faster!}
@@ -111,11 +111,11 @@
 {162}{}{So much for an initiative... Okay.}
 {170}{}{What's about it? While it's broken and not filtering our water, we're all in great danger!}
 {171}{}{I just wanted to say that I've found the necessary parts for fixing it. Soon it will be repaired.}
-{172}{}{It's done, water filtering machine is filtering water again!}
+{172}{}{It's done, the water filtering machine is filtering water again!}
 {180}{}{You did good, Servant! And you handle your responsibilities well. I will tell other Servants about you. And now - go, get some rest.}
 {181}{}{It's... A great thing to hear, especially from Herald. Glad to serve!}
 {182}{}{It was nothing special, just doing my job. I'm going.}
-{190}{}{You've just started to make me happy - and now you are making me sad again... Ask Smitty on a Technical level, he is responsible for this. He is also in charge for every Technology Servant, isn't he? } #вроде или в роду ?)
+{190}{}{You've just started to make me happy - and now you are making me sad again... Ask Smitty on a Technical level, he is responsible for this. He is also in charge of every Technology Servant, isn't he? } #вроде или в роду ?)
 {191}{}{Oh, uh, yeah. Just making sure...}
 {192}{}{Of course. I want to ask something else.}
 
@@ -128,7 +128,7 @@
 {220}{}{DEEEEATH!!! DEATH THROUGH THE MOUTH OF HADES!!!!! GUARDS!!!!}
 {221}{}{[put your head down and step aside]}
 {222}{}{About Bardock...}
-{230}{}{He is a danger to all of us. He can't be allowed to live with us, breathe our air, have the joy in humble Serving. And you - you did the right thing. You are cleansing the flock of bad sheeps, you... You are going to go far.}
+{230}{}{He is a danger to all of us. He can't be allowed to live with us, breathe our air, have the joy in humble Serving. And you - you did the right thing. You are cleansing the flock of bad sheep, you... You are going to go far.}
 {231}{}{Oh... Thanks. I'd very much like to go... Far.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
@@ -190,7 +190,7 @@
 {1042}{}{The Gods have defeated demons of the night again!}
 {1043}{}{Those who are asleep shall be woken up immediately!}
 {1044}{}{Rise, shine, Servants of Gods!}
-{1045}{}{Wake up your children - let them live and rejoice in rise!}
+{1045}{}{Wake up your children - let them live and rejoice in the rise!}
 {1046}{}{Taste the food of the Gods and take upon your tasks!}
 {1047}{}{Don't you dare to sleep on this fine holy day!}
 {1048}{}{Wash your eyes of nightmares and go back to serving!}
@@ -201,19 +201,19 @@
 {1052}{}{Who feels overworked - rest for a quarter of an hour.}
 {1053}{}{Servants! Do not overeat!}
 {1054}{}{Who left his task uncompleted - you shall tell Warden!}
-{1055}{}{Rest not more than it's allowed to you by the God's law!}
+{1055}{}{Rest not more than it's allowed to you by God's law!}
 {1056}{}{No time to rest, Servants! Get back to your tasks!}
 {1057}{}{Patch up the water tanks, for us to have something to quench our thirst!}
 {1058}{}{Do not approach the caves!}
 {1059}{}{Take good care of your children!}
 #Спец сообщения - Вечер
-{1060}{}{The heat's coming down - evening is here!}
+{1060}{}{The heat's coming down - the evening is here!}
 {1061}{}{Work relentlessly in the name of Gods!}
 {1062}{}{Do not stop doing your work, and you will ALL be rewarded!}
 {1063}{}{Keep working for the good of your children!}
 {1064}{}{Respect Wardens and be grateful for their efforts!}
 {1065}{}{Maintain the cleanliness of your lodges!}
-{1066}{}{Put your children to bed early, for them not to interrupt you form working!}
+{1066}{}{Put your children to bed early, for them not to interrupt you from working!}
 {1067}{}{Finish all the daily tasks of yours!}
 {1068}{}{Start your most important jobs - the evening air favors you!}
 {1069}{}{Say the evening prayers to your Gods!}
@@ -226,5 +226,5 @@
 {1075}{}{Do not close your eyes, as I never get tired!}
 {1076}{}{Do not lay to rest without resolve from Wardens!}
 {1077}{}{Praise the Gods for the freshness of this night!}
-{1078}{}{Take care of a fresh water, Servants!}
+{1078}{}{Take care of the clean water, Servants!}
 {1079}{}{Feed Lavash in their pens, for them to feed us with their flesh!}

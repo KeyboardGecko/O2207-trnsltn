@@ -211,15 +211,15 @@
 {2998}{}{You encounter:}
 {2999}{}{Do you wish to encounter:}
 {3000}{}{A lone vicious Ursa.}
-{3001}{}{A couple of antlions.}
+{3001}{}{A couple of ant lions.}
 {3002}{}{A group of raiders.}
-{3003}{}{A group of raiders fighting some antlions.}
-{3004}{}{Some raiders fighting against antlions.}
-{3005}{}{A few golden antlions.}
+{3003}{}{A group of raiders fighting some ant lions.}
+{3004}{}{Some raiders fighting against ant lions.}
+{3005}{}{A few golden ant lions.}
 {3006}{}{Raiders trying to fend off an Ursa.}
 {3007}{}{A couple of huge hungry Ursas.}
 {3008}{}{A group of raiders trying to kill several Ursas.}
-{3009}{}{A couple golden antlions trying to tear up a large Ursa.}
+{3009}{}{A couple golden ant lions trying to tear up a large Ursa.}
 {3010}{}{Some graves in the desert.}
 {3011}{}{An abandoned house.}
 {3012}{}{Raiders attacking a road warrior.}
@@ -231,15 +231,15 @@
 #
 #
 {3050}{}{A lone vicious Ursa.}
-{3051}{}{A couple of antlions.}
+{3051}{}{A couple of ant lions.}
 {3052}{}{A group of raiders.}
-{3053}{}{A group of raiders fighting some antlions.}
-{3054}{}{Some raiders fighting against antlions.}
-{3055}{}{A few golden antlions.}
+{3053}{}{A group of raiders fighting some ant lions.}
+{3054}{}{Some raiders fighting against ant lions.}
+{3055}{}{A few golden ant lions.}
 {3056}{}{Raiders trying to fend off an Ursa.}
 {3057}{}{A couple of huge hungry Ursas.}
 {3058}{}{A group of raiders trying to kill several Ursas.}
-{3059}{}{A couple golden antlions trying to tear up a large Ursa.}
+{3059}{}{A couple golden ant lions trying to tear up a large Ursa.}
 {3060}{}{A passage in the rocks.}
 {3061}{}{A punk on his bike.}
 {3062}{}{A fortified outpost.}
@@ -248,15 +248,15 @@
 #
 #
 {3100}{}{A lone vicious Ursa.}
-{3101}{}{A couple of antlions.}
+{3101}{}{A couple of ant lions.}
 {3102}{}{A group of raiders.}
-{3103}{}{A group of raiders fighting some antlions.}
-{3104}{}{Some raiders fighting against antlions.}
-{3105}{}{A few golden antlions.}
+{3103}{}{A group of raiders fighting some ant lions.}
+{3104}{}{Some raiders fighting against ant lions.}
+{3105}{}{A few golden ant lions.}
 {3106}{}{Raiders trying to hunt down an Ursa.}
 {3107}{}{A couple of huge hungry Ursas.}
 {3108}{}{A group of raiders trying to kill several Ursas.}
-{3109}{}{A couple golden antlions trying to tear up a large Ursa.}
+{3109}{}{A couple golden ant lions trying to tear up a large Ursa.}
 #
 #
 #
@@ -414,14 +414,14 @@
 #
 #
 #
-{3600}{}{A couple of antlions.}
+{3600}{}{A couple of ant lions.}
 {3601}{}{A couple of starving Ferals.}
 {3602}{}{A couple of huge hungry Ursas.}
-{3603}{}{A couple of antlions.}
+{3603}{}{A couple of ant lions.}
 {3604}{}{A lone hungry Chimera.}
 {3605}{}{Some Ferals butchering raiders.}
 {3606}{}{A group of strong bandits.}
-{3607}{}{A few golden antlions.}
+{3607}{}{A few golden ant lions.}
 {3608}{}{A couple of sickly, angry Chimeras.}
 {3609}{}{A couple of Onca Devils lying in ambush.}
 {3610}{}{Some graves in the desert.}
@@ -434,14 +434,14 @@
 #
 #
 #
-{3650}{}{A couple of antlions.}
+{3650}{}{A couple of ant lions.}
 {3651}{}{A couple of starving Ferals.}
 {3652}{}{A couple of huge hungry Ursas.}
-{3653}{}{A couple of antlions.}
+{3653}{}{A couple of ant lions.}
 {3654}{}{A lone hungry Chimera.}
 {3655}{}{Some pale Ferals butchering some raiders.}
 {3656}{}{A group of strong bandits.}
-{3657}{}{A few golden antlions.}
+{3657}{}{A few golden ant lions.}
 {3658}{}{A couple of sickly, angry Chimeras.}
 {3659}{}{A couple of Onca Devils lying in ambush.}
 {3660}{}{A cave in the mountains.}
@@ -451,21 +451,21 @@
 #
 #
 #
-{3700}{}{A couple of antlions.}
+{3700}{}{A couple of ant lions.}
 {3701}{}{A couple of starving Ferals.}
 {3702}{}{A couple of huge hungry Ursas.}
-{3703}{}{A couple of antlions.}
+{3703}{}{A couple of ant lions.}
 {3704}{}{A lone hungry Chimera.}
 {3705}{}{Some pale Ferals butchering some raiders.}
 {3706}{}{A group of strong bandits.}
-{3707}{}{A few golden antlions.}
+{3707}{}{A few golden ant lions.}
 {3708}{}{A couple of sickly, angry Chimeras.}
 {3709}{}{A couple of Onca Devils lying in ambush.}
 #
 #
 #
 #
-{3750}{}{A couple of antlions.}
+{3750}{}{A couple of ant lions.}
 {3751}{}{A couple of dangerous scorpions.}
 {3752}{}{A group of strong bandits.}
 {3753}{}{A couple of jackals.}
@@ -485,7 +485,7 @@
 #
 #
 #
-{3800}{}{A couple of antlions.}
+{3800}{}{A couple of ant lions.}
 {3801}{}{A couple of dangerous scorpions.}
 {3802}{}{A group of strong bandits.}
 {3803}{}{A couple of jackals.}
@@ -502,7 +502,7 @@
 #
 #
 #
-{3850}{}{A couple of antlions.}
+{3850}{}{A couple of ant lions.}
 {3851}{}{A couple of dangerous scorpions.}
 {3852}{}{A group of strong bandits.}
 {3853}{}{A couple of jackals.}
@@ -517,12 +517,12 @@
 #
 #
 {3900}{}{A few hunters.}
-{3901}{}{A couple of antlions.}
+{3901}{}{A couple of ant lions.}
 {3902}{}{A couple of jackals.}
 {3903}{}{A hunting party.}
 {3904}{}{A group of unfortunate travelers.}
 {3905}{}{Several dangerous raiders.}
-{3906}{}{A few golden antlions.}
+{3906}{}{A few golden ant lions.}
 {3907}{}{Some hunters fighting with raiders.}
 {3908}{}{Some travelers fighting off road pirates.}
 {3909}{}{Some hunters overrun by Fire Wolves.}
@@ -537,12 +537,12 @@
 #
 #
 {3950}{}{A few hunters.}
-{3951}{}{A couple of antlions.}
+{3951}{}{A couple of ant lions.}
 {3952}{}{A couple of jackals.}
 {3953}{}{A hunting party.}
 {3954}{}{A group of unfortunate travelers.}
 {3955}{}{Several dangerous raiders.}
-{3956}{}{A few golden antlions.}
+{3956}{}{A few golden ant lions.}
 {3957}{}{Some hunters fighting with raiders.}
 {3958}{}{Some travelers fighting off road pirates.}
 {3959}{}{Some hunters overrun by Fire Wolves.}
@@ -554,12 +554,12 @@
 #
 #
 {4000}{}{A few hunters.}
-{4001}{}{A couple of antlions.}
+{4001}{}{A couple of ant lions.}
 {4002}{}{A couple of jackals.}
 {4003}{}{A hunting party.}
 {4004}{}{A group of unfortunate travelers.}
 {4005}{}{Several dangerous raiders.}
-{4006}{}{A few golden antlions.}
+{4006}{}{A few golden ant lions.}
 {4007}{}{Some hunters fighting with raiders.}
 {4008}{}{Some travelers fighting off road pirates.}
 {4009}{}{Some hunters overrun by Fire Wolves.}
@@ -567,13 +567,13 @@
 #
 #
 #
-{4050}{}{A couple of antlions.}
+{4050}{}{A couple of ant lions.}
 {4051}{}{A dangerous scorpion.}
 {4052}{}{A couple of jackals.}
-{4053}{}{A few golden antlions.}
+{4053}{}{A few golden ant lions.}
 {4054}{}{Several jackals and Fire Wolves.}
 {4055}{}{A couple of dangerous scorpions.}
-{4056}{}{Some golden antlions fighting jackals.}
+{4056}{}{Some golden ant lions fighting jackals.}
 {4057}{}{A couple of jackals.}
 {4058}{}{A pack of scorpions, surrounded by jackals.}
 {4059}{}{A couple of dangerous scorpions.}
@@ -587,13 +587,13 @@
 #
 #
 #
-{4100}{}{A couple of antlions.}
+{4100}{}{A couple of ant lions.}
 {4101}{}{A dangerous scorpion.}
 {4102}{}{A couple of jackals.}
-{4103}{}{A few golden antlions.}
+{4103}{}{A few golden ant lions.}
 {4104}{}{Several jackals and Fire Wolves.}
 {4105}{}{A couple of dangerous scorpions.}
-{4106}{}{Some golden antlions fighting jackals.}
+{4106}{}{Some golden ant lions fighting jackals.}
 {4107}{}{A couple of jackals.}
 {4108}{}{A pack of scorpions, surrounded by jackals.}
 {4109}{}{A couple of dangerous scorpions.}
@@ -604,13 +604,13 @@
 #
 #
 #
-{4150}{}{A couple of antlions.}
+{4150}{}{A couple of ant lions.}
 {4151}{}{A dangerous scorpion.}
 {4152}{}{A couple of jackals.}
-{4153}{}{A few golden antlions.}
+{4153}{}{A few golden ant lions.}
 {4154}{}{Several jackals and Fire Wolves.}
 {4155}{}{A couple of dangerous scorpions.}
-{4156}{}{Some golden antlions fighting jackals.}
+{4156}{}{Some golden ant lions fighting jackals.}
 {4157}{}{A couple of jackals.}
 {4158}{}{A pack of scorpions, surrounded by jackals.}
 {4159}{}{A couple of dangerous scorpions.}
@@ -774,9 +774,9 @@
 {4650}{}{Some strong travelers.}
 {4651}{}{A Defenders patrol.}
 {4652}{}{A few hunters.}
-{4653}{}{A couple of antlions.}
+{4653}{}{A couple of ant lions.}
 {4654}{}{A couple of pale howling Ferals.}
-{4655}{}{A few golden antlions.}
+{4655}{}{A few golden ant lions.}
 {4656}{}{Starving hunters attacking a group of travelers.}
 {4657}{}{A couple of sickly, angry Chimeras.}
 {4658}{}{Sickly Chimeras attacking some Defenders.}
@@ -794,9 +794,9 @@
 {4700}{}{Some strong travelers.}
 {4701}{}{A Defenders patrol.}
 {4702}{}{A few hunters.}
-{4703}{}{A couple of antlions.}
+{4703}{}{A couple of ant lions.}
 {4704}{}{A couple of pale howling Ferals.}
-{4705}{}{A few golden antlions.}
+{4705}{}{A few golden ant lions.}
 {4706}{}{Starving hunters attacking a group of travelers.}
 {4707}{}{A couple of sickly, angry Chimeras.}
 {4708}{}{Sickly Chimeras attacking some Defenders.}
@@ -811,9 +811,9 @@
 {4750}{}{Some strong travelers.}
 {4751}{}{A Defenders patrol.}
 {4752}{}{A few hunters.}
-{4753}{}{A couple of antlions.}
+{4753}{}{A couple of ant lions.}
 {4754}{}{A couple of pale howling Ferals.}
-{4755}{}{A few golden antlions.}
+{4755}{}{A few golden ant lions.}
 {4756}{}{Starving hunters attacking a group of travelers.}
 {4757}{}{A couple of sickly, angry Chimeras.}
 {4758}{}{Sickly Chimeras attacking some Defenders.}
@@ -1130,7 +1130,7 @@
 #
 {5700}{}{A group of unfortunate travelers.}
 {5701}{}{A NWO Patrol.}
-{5702}{}{A few golden antlions.}
+{5702}{}{A few golden ant lions.}
 {5703}{}{Some jackals and Fire Wolves.}
 {5704}{}{A lone traveler.}
 {5705}{}{A NWO Patrol.}
@@ -1150,7 +1150,7 @@
 #
 {5750}{}{A group of unfortunate travelers.}
 {5751}{}{A NWO Patrol.}
-{5752}{}{A few golden antlions.}
+{5752}{}{A few golden ant lions.}
 {5753}{}{Some jackals and Fire Wolves.}
 {5754}{}{A lone traveler.}
 {5755}{}{A NWO Patrol.}
@@ -1167,7 +1167,7 @@
 #
 {5800}{}{A group of unfortunate travelers.}
 {5801}{}{A NWO Patrol.}
-{5802}{}{A few golden antlions.}
+{5802}{}{A few golden ant lions.}
 {5803}{}{Some jackals and Fire Wolves.}
 {5804}{}{A lone traveler.}
 {5805}{}{A NWO Patrol.}
@@ -1282,15 +1282,15 @@
 #
 #
 {6150}{}{A caravan from NWO.}
-{6151}{}{A couple of antlions.}
+{6151}{}{A couple of ant lions.}
 {6152}{}{A dangerous scorpion.}
 {6153}{}{A couple of jackals.}
 {6154}{}{A group of raiders.}
-{6155}{}{A few golden antlions.}
+{6155}{}{A few golden ant lions.}
 {6156}{}{A gang of dangerous raiders.}
 {6157}{}{Road pirates attacking a caravan.}
 {6158}{}{Some jackals attacking a group of raiders.}
-{6159}{}{A few golden antlions.}
+{6159}{}{A few golden ant lions.}
 {6160}{}{Some graves in the desert.}
 {6161}{}{An abandoned house.}
 {6162}{}{Raiders attacking a road warrior.}
@@ -1302,15 +1302,15 @@
 #
 #
 {6200}{}{A caravan from NWO.}
-{6201}{}{A couple of antlions.}
+{6201}{}{A couple of ant lions.}
 {6202}{}{A dangerous scorpion.}
 {6203}{}{A couple of jackals.}
 {6204}{}{A group of raiders.}
-{6205}{}{A few golden antlions.}
+{6205}{}{A few golden ant lions.}
 {6206}{}{A gang of dangerous raiders.}
 {6207}{}{Road pirates attacking a caravan.}
 {6208}{}{Some jackals attacking a group of raiders.}
-{6209}{}{A few golden antlions.}
+{6209}{}{A few golden ant lions.}
 {6210}{}{A cave in the mountains.}
 {6211}{}{A punk on his bike.}
 {6212}{}{A fortified outpost.}
@@ -1319,15 +1319,15 @@
 #
 #
 {6250}{}{A caravan from NWO.}
-{6251}{}{A couple of antlions.}
+{6251}{}{A couple of ant lions.}
 {6252}{}{A dangerous scorpion.}
 {6253}{}{A couple of jackals.}
 {6254}{}{A group of raiders.}
-{6255}{}{A few golden antlions.}
+{6255}{}{A few golden ant lions.}
 {6256}{}{A gang of dangerous raiders.}
 {6257}{}{Road pirates attacking a caravan.}
 {6258}{}{Some jackals attacking a group of raiders.}
-{6259}{}{A few golden antlions.}
+{6259}{}{A few golden ant lions.}
 #
 #
 #
@@ -1437,10 +1437,10 @@
 {6600}{}{A caravan from NWO.}
 {6601}{}{Some strong travelers.}
 {6602}{}{A couple of jackals.}
-{6603}{}{A couple of antlions.}
+{6603}{}{A couple of ant lions.}
 {6604}{}{A group of strong bandits.}
 {6605}{}{A group of unfortunate travelers.}
-{6606}{}{A few golden antlions.}
+{6606}{}{A few golden ant lions.}
 {6607}{}{Some jackals and Fire Wolves.}
 {6608}{}{A pack of jackals attacking a caravan.}
 {6609}{}{A group of travelers fighting off scorpions.}
@@ -1457,10 +1457,10 @@
 {6650}{}{A caravan from NWO.}
 {6651}{}{Some strong travelers.}
 {6652}{}{A couple of jackals.}
-{6653}{}{A couple of antlions.}
+{6653}{}{A couple of ant lions.}
 {6654}{}{A group of strong bandits.}
 {6655}{}{A group of unfortunate travelers.}
-{6656}{}{A few golden antlions.}
+{6656}{}{A few golden ant lions.}
 {6657}{}{Some jackals and Fire Wolves.}
 {6658}{}{A pack of jackals attacking a caravan.}
 {6659}{}{A group of travelers fighting off scorpions.}
@@ -1474,10 +1474,10 @@
 {6700}{}{A caravan from NWO.}
 {6701}{}{Some strong travelers.}
 {6702}{}{A couple of jackals.}
-{6703}{}{A couple of antlions.}
+{6703}{}{A couple of ant lions.}
 {6704}{}{A group of strong bandits.}
 {6705}{}{A group of unfortunate travelers.}
-{6706}{}{A few golden antlions.}
+{6706}{}{A few golden ant lions.}
 {6707}{}{Some jackals and Fire Wolves.}
 {6708}{}{A pack of jackals attacking a caravan.}
 {6709}{}{A group of travelers fighting off scorpions.}
@@ -1494,7 +1494,7 @@
 {6756}{}{Starving travelers attacking a hunting party.}
 {6757}{}{Several molerats.}
 {6758}{}{A couple of sickly, angry Chimeras.}
-{6759}{}{An antlions attacking a scorpion.}
+{6759}{}{An ant lions attacking a scorpion.}
 {6760}{}{Some graves in the desert.}
 {6761}{}{An abandoned house.}
 {6762}{}{Raiders attacking a road warrior.}
@@ -1514,7 +1514,7 @@
 {6806}{}{Starving travelers attacking a hunting party.}
 {6807}{}{Several molerats.}
 {6808}{}{A couple of sickly, angry Chimeras.}
-{6809}{}{An antlions attacking a scorpion.}
+{6809}{}{An ant lions attacking a scorpion.}
 {6810}{}{A cave in the mountains.}
 {6811}{}{A punk on his bike.}
 {6812}{}{A fortified outpost.}
@@ -1531,15 +1531,15 @@
 {6856}{}{Starving travelers attacking a hunting party.}
 {6857}{}{Several molerats.}
 {6858}{}{A couple of sickly, angry Chimeras.}
-{6859}{}{An antlions attacking a scorpion.}
+{6859}{}{An ant lions attacking a scorpion.}
 #
 #
 #
 #
 {6900}{}{A caravan from NWO.}
 {6901}{}{A NWO Patrol.}
-{6902}{}{A couple of antlions.}
-{6903}{}{A few golden antlions.}
+{6902}{}{A couple of ant lions.}
+{6903}{}{A few golden ant lions.}
 {6904}{}{A couple of jackals.}
 {6905}{}{Merchants from NWO attacked by scorpions.}
 {6906}{}{A NWO Patrol.}
@@ -1558,8 +1558,8 @@
 #
 {6950}{}{A caravan from NWO.}
 {6951}{}{A NWO Patrol.}
-{6952}{}{A couple of antlions.}
-{6953}{}{A few golden antlions.}
+{6952}{}{A couple of ant lions.}
+{6953}{}{A few golden ant lions.}
 {6954}{}{A couple of jackals.}
 {6955}{}{Merchants from NWO attacked by scorpions.}
 {6956}{}{A NWO Patrol.}
@@ -1575,8 +1575,8 @@
 #
 {7000}{}{A caravan from NWO.}
 {7001}{}{A NWO Patrol.}
-{7002}{}{A couple of antlions.}
-{7003}{}{A few golden antlions.}
+{7002}{}{A couple of ant lions.}
+{7003}{}{A few golden ant lions.}
 {7004}{}{A couple of jackals.}
 {7005}{}{Merchants from NWO attacked by scorpions.}
 {7006}{}{A NWO Patrol.}
@@ -1588,15 +1588,15 @@
 #
 #
 {7050}{}{A caravan from NWO.}
-{7051}{}{A couple of antlions.}
+{7051}{}{A couple of ant lions.}
 {7052}{}{A couple of jackals.}
-{7053}{}{A couple of antlions.}
+{7053}{}{A couple of ant lions.}
 {7054}{}{A couple of dangerous scorpions.}
 {7055}{}{A couple of huge hungry Ursas.}
 {7056}{}{Some jackals and Fire Wolves.}
 {7057}{}{An Onca attacking a merchant's caravan.}
 {7058}{}{A bloody battle of Fire Wolves against Oncas.}
-{7059}{}{A couple of antlions.}
+{7059}{}{A couple of ant lions.}
 {7060}{}{Some graves in the desert.}
 {7061}{}{An abandoned house.}
 {7062}{}{Raiders attacking a road warrior.}
@@ -1608,15 +1608,15 @@
 #
 #
 {7100}{}{A caravan from NWO.}
-{7101}{}{A couple of antlions.}
+{7101}{}{A couple of ant lions.}
 {7102}{}{A couple of jackals.}
-{7103}{}{A couple of antlions.}
+{7103}{}{A couple of ant lions.}
 {7104}{}{A couple of dangerous scorpions.}
 {7105}{}{A couple of huge hungry Ursas.}
 {7106}{}{Some jackals and Fire Wolves.}
 {7107}{}{An Onca attacking a merchant's caravan.}
 {7108}{}{A bloody battle of Fire Wolves against Oncas.}
-{7109}{}{A couple of antlions.}
+{7109}{}{A couple of ant lions.}
 {7110}{}{A cave in the mountains.}
 {7111}{}{A punk on his bike.}
 {7112}{}{A fortified outpost.}
@@ -1625,28 +1625,28 @@
 #
 #
 {7150}{}{A caravan from NWO.}
-{7151}{}{A couple of antlions.}
+{7151}{}{A couple of ant lions.}
 {7152}{}{A couple of jackals.}
-{7153}{}{A couple of antlions.}
+{7153}{}{A couple of ant lions.}
 {7154}{}{A couple of dangerous scorpions.}
 {7155}{}{A couple of huge hungry Ursas.}
 {7156}{}{Some jackals and Fire Wolves.}
 {7157}{}{An Onca attacking a merchant's caravan.}
 {7158}{}{A bloody battle of Fire Wolves against Oncas.}
-{7159}{}{A couple of antlions.}
+{7159}{}{A couple of ant lions.}
 #
 #
 #
 #
 {7200}{}{A group of unfortunate travelers.}
 {7201}{}{A couple of dangerous scorpions.}
-{7202}{}{A couple of antlions.}
+{7202}{}{A couple of ant lions.}
 {7203}{}{Some strong travelers.}
-{7204}{}{A lone traveler fighting antlions.}
+{7204}{}{A lone traveler fighting ant lions.}
 {7205}{}{A couple of dangerous scorpions.}
 {7206}{}{A couple of starving Ferals.}
-{7207}{}{Some travelers fighting antlions.}
-{7208}{}{A couple of antlions.}
+{7207}{}{Some travelers fighting ant lions.}
+{7208}{}{A couple of ant lions.}
 {7209}{}{A couple of dangerous scorpions.}
 {7210}{}{Some graves in the desert.}
 {7211}{}{An abandoned house.}
@@ -1660,13 +1660,13 @@
 #
 {7250}{}{A group of unfortunate travelers.}
 {7251}{}{A couple of dangerous scorpions.}
-{7252}{}{A couple of antlions.}
+{7252}{}{A couple of ant lions.}
 {7253}{}{Some strong travelers.}
-{7254}{}{A lone traveler fighting antlions.}
+{7254}{}{A lone traveler fighting ant lions.}
 {7255}{}{A couple of dangerous scorpions.}
 {7256}{}{A couple of starving Ferals.}
-{7257}{}{Some travelers fighting antlions.}
-{7258}{}{A couple of antlions.}
+{7257}{}{Some travelers fighting ant lions.}
+{7258}{}{A couple of ant lions.}
 {7259}{}{A couple of dangerous scorpions.}
 {7260}{}{A cave in the mountains.}
 {7261}{}{A punk on his bike.}
@@ -1677,13 +1677,13 @@
 #
 {7300}{}{A group of unfortunate travelers.}
 {7301}{}{A couple of dangerous scorpions.}
-{7302}{}{A couple of antlions.}
+{7302}{}{A couple of ant lions.}
 {7303}{}{Some strong travelers.}
-{7304}{}{A lone traveler fighting antlions.}
+{7304}{}{A lone traveler fighting ant lions.}
 {7305}{}{A couple of dangerous scorpions.}
 {7306}{}{A couple of starving Ferals.}
-{7307}{}{Some travelers fighting antlions.}
-{7308}{}{A couple of antlions.}
+{7307}{}{Some travelers fighting ant lions.}
+{7308}{}{A couple of ant lions.}
 {7309}{}{A couple of dangerous scorpions.}
 #
 #
@@ -1691,14 +1691,14 @@
 #
 {7350}{}{A group of unfortunate travelers.}
 {7351}{}{A couple of dangerous scorpions.}
-{7352}{}{A couple of antlions.}
+{7352}{}{A couple of ant lions.}
 {7353}{}{A couple of jackals.}
 {7354}{}{A couple of Onca Devils lying in ambush.}
 {7355}{}{A bloody battle of Fire Wolves against Oncas.}
 {7356}{}{A lone traveler.}
 {7357}{}{A lone traveler fighting jackals.}
 {7358}{}{A couple of dangerous scorpions.}
-{7359}{}{A few golden antlions.}
+{7359}{}{A few golden ant lions.}
 {7360}{}{Some graves in the desert.}
 {7361}{}{An abandoned house.}
 {7362}{}{Raiders attacking a road warrior.}
@@ -1711,14 +1711,14 @@
 #
 {7400}{}{A group of unfortunate travelers.}
 {7401}{}{A couple of dangerous scorpions.}
-{7402}{}{A couple of antlions.}
+{7402}{}{A couple of ant lions.}
 {7403}{}{A couple of jackals.}
 {7404}{}{A couple of Onca Devils lying in ambush.}
 {7405}{}{A bloody battle of Fire Wolves against Oncas.}
 {7406}{}{A lone traveler.}
 {7407}{}{A lone traveler fighting jackals.}
 {7408}{}{A couple of dangerous scorpions.}
-{7409}{}{A few golden antlions.}
+{7409}{}{A few golden ant lions.}
 {7410}{}{A cave in the mountains.}
 {7411}{}{A punk on his bike.}
 {7412}{}{A fortified outpost.}
@@ -1728,19 +1728,19 @@
 #
 {7450}{}{A group of unfortunate travelers.}
 {7451}{}{A couple of dangerous scorpions.}
-{7452}{}{A couple of antlions.}
+{7452}{}{A couple of ant lions.}
 {7453}{}{A couple of jackals.}
 {7454}{}{A couple of Onca Devils lying in ambush.}
 {7455}{}{A bloody battle of Fire Wolves against Oncas.}
 {7456}{}{A lone traveler.}
 {7457}{}{A lone traveler fighting jackals.}
 {7458}{}{A couple of dangerous scorpions.}
-{7459}{}{A few golden antlions.}
+{7459}{}{A few golden ant lions.}
 #
 #
 #
 #
-{7500}{}{A couple of antlions.}
+{7500}{}{A couple of ant lions.}
 {7501}{}{A lone vicious Ursa.}
 {7502}{}{A lone hungry Chimera.}
 {7503}{}{A couple of starving Ferals.}
@@ -1748,7 +1748,7 @@
 {7505}{}{A couple of sickly, angry Chimeras.}
 {7506}{}{A couple of huge hungry Ursas.}
 {7507}{}{A horde of rats.}
-{7508}{}{A few golden antlions.}
+{7508}{}{A few golden ant lions.}
 {7509}{}{A hungry Ursa attacking a sickly Chimera.}
 {7510}{}{Some graves in the desert.}
 {7511}{}{An abandoned house.}
@@ -1760,7 +1760,7 @@
 #
 #
 #
-{7550}{}{A couple of antlions.}
+{7550}{}{A couple of ant lions.}
 {7551}{}{A lone vicious Ursa.}
 {7552}{}{A lone hungry Chimera.}
 {7553}{}{A couple of starving Ferals.}
@@ -1768,7 +1768,7 @@
 {7555}{}{A couple of sickly, angry Chimeras.}
 {7556}{}{A couple of huge hungry Ursas.}
 {7557}{}{A horde of rats.}
-{7558}{}{A few golden antlions.}
+{7558}{}{A few golden ant lions.}
 {7559}{}{A hungry Ursa attacking a sickly Chimera.}
 {7560}{}{A cave in the mountains.}
 {7561}{}{A punk on his bike.}
@@ -1777,7 +1777,7 @@
 #
 #
 #
-{7600}{}{A couple of antlions.}
+{7600}{}{A couple of ant lions.}
 {7601}{}{A lone vicious Ursa.}
 {7602}{}{A lone hungry Chimera.}
 {7603}{}{A couple of starving Ferals.}
@@ -1785,7 +1785,7 @@
 {7605}{}{A couple of sickly, angry Chimeras.}
 {7606}{}{A couple of huge hungry Ursas.}
 {7607}{}{A horde of rats.}
-{7608}{}{A few golden antlions.}
+{7608}{}{A few golden ant lions.}
 {7609}{}{A hungry Ursa attacking a sickly Chimera.}
 #
 #
@@ -1842,14 +1842,14 @@
 #
 #
 #
-{7800}{}{A couple of antlions.}
+{7800}{}{A couple of ant lions.}
 {7801}{}{A lone hungry Chimera.}
 {7802}{}{A couple of huge hungry Ursas.}
 {7803}{}{A couple of sickly, angry Chimeras.}
 {7804}{}{A couple of pale howling Ferals.}
 {7805}{}{A horde of rats.}
-{7806}{}{A few golden antlions.}
-{7807}{}{Antlions attacking a lone Onca.}
+{7806}{}{A few golden ant lions.}
+{7807}{}{Ant lions attacking a lone Onca.}
 {7808}{}{Onca Devils hunting a lone hungry Chimera.}
 {7809}{}{Starving hunters attacking a group of travelers.}
 {7810}{}{Some graves in the desert.}
@@ -1862,14 +1862,14 @@
 #
 #
 #
-{7850}{}{A couple of antlions.}
+{7850}{}{A couple of ant lions.}
 {7851}{}{A lone hungry Chimera.}
 {7852}{}{A couple of huge hungry Ursas.}
 {7853}{}{A couple of sickly, angry Chimeras.}
 {7854}{}{A couple of pale howling Ferals.}
 {7855}{}{A horde of rats.}
-{7856}{}{A few golden antlions.}
-{7857}{}{Antlions attacking a lone Onca.}
+{7856}{}{A few golden ant lions.}
+{7857}{}{Ant lions attacking a lone Onca.}
 {7858}{}{Onca Devils hunting a lone hungry Chimera.}
 {7859}{}{Starving hunters attacking a group of travelers.}
 {7860}{}{A cave in the mountains.}
@@ -1879,14 +1879,14 @@
 #
 #
 #
-{7900}{}{A couple of antlions.}
+{7900}{}{A couple of ant lions.}
 {7901}{}{A lone hungry Chimera.}
 {7902}{}{A couple of huge hungry Ursas.}
 {7903}{}{A couple of sickly, angry Chimeras.}
 {7904}{}{A couple of pale howling Ferals.}
 {7905}{}{A horde of rats.}
-{7906}{}{A few golden antlions.}
-{7907}{}{Antlions attacking a lone Onca.}
+{7906}{}{A few golden ant lions.}
+{7907}{}{Ant lions attacking a lone Onca.}
 {7908}{}{Onca Devils hunting a lone hungry Chimera.}
 {7909}{}{Starving hunters attacking a group of travelers.}
 #
@@ -1895,13 +1895,13 @@
 #
 {7950}{}{A group of unfortunate travelers.}
 {7951}{}{A couple of dangerous scorpions.}
-{7952}{}{A couple of antlions.}
+{7952}{}{A couple of ant lions.}
 {7953}{}{Some strong travelers.}
-{7954}{}{A lone traveler fighting antlions.}
+{7954}{}{A lone traveler fighting ant lions.}
 {7955}{}{A couple of dangerous scorpions.}
 {7956}{}{A couple of starving Ferals.}
-{7957}{}{Some travelers fighting antlions.}
-{7958}{}{A couple of antlions.}
+{7957}{}{Some travelers fighting ant lions.}
+{7958}{}{A couple of ant lions.}
 {7959}{}{A couple of dangerous scorpions.}
 {7960}{}{Some graves in the desert.}
 {7961}{}{An abandoned house.}
@@ -1915,13 +1915,13 @@
 #
 {8000}{}{A group of unfortunate travelers.}
 {8001}{}{A couple of dangerous scorpions.}
-{8002}{}{A couple of antlions.}
+{8002}{}{A couple of ant lions.}
 {8003}{}{Some strong travelers.}
-{8004}{}{A lone traveler fighting antlions.}
+{8004}{}{A lone traveler fighting ant lions.}
 {8005}{}{A couple of dangerous scorpions.}
 {8006}{}{A couple of starving Ferals.}
-{8007}{}{Some travelers fighting antlions.}
-{8008}{}{A couple of antlions.}
+{8007}{}{Some travelers fighting ant lions.}
+{8008}{}{A couple of ant lions.}
 {8009}{}{A couple of dangerous scorpions.}
 {8010}{}{A cave in the mountains.}
 {8011}{}{A punk on his bike.}
@@ -1932,11 +1932,11 @@
 #
 {8050}{}{A group of unfortunate travelers.}
 {8051}{}{A couple of dangerous scorpions.}
-{8052}{}{A couple of antlions.}
+{8052}{}{A couple of ant lions.}
 {8053}{}{Some strong travelers.}
-{8054}{}{A lone traveler fighting antlions.}
+{8054}{}{A lone traveler fighting ant lions.}
 {8055}{}{A couple of dangerous scorpions.}
 {8056}{}{A couple of starving Ferals.}
-{8057}{}{Some travelers fighting antlions.}
-{8058}{}{A couple of antlions.}
+{8057}{}{Some travelers fighting ant lions.}
+{8058}{}{A couple of ant lions.}
 {8059}{}{A couple of dangerous scorpions.}

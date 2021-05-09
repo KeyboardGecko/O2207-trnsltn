@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a man wearing powerful armored suit.}
+{1}{}{You see a man wearing a powerful armored suit.}
 {2}{}{He is calibrating his armor while wearing it.}
 #
 # после знакомства
@@ -31,13 +31,13 @@
 {18}{999}{[don't start the conversation]}
 {19}{999}{Okay, okay! I'm already leaving!}
 
-{20}{}{[he stops calibrating his suit and bluntly stares] Who the hell are you, blockhead? Do you even realize who you're talking to? I am the head engineer of this place, the creator of latest defense systems of Olympus, Constantine Zochkis! And you - how the hell did you even get on this level? What do you want here? Oh, let me guess - this incompetent and arrogant youngling Philipp sent you! You're his errand boy, am I right?}
+{20}{}{[he stops calibrating his suit and bluntly stares] Who the hell are you, blockhead? Do you even realize who you're talking to? I am the head engineer of this place, the creator of the latest defense systems of Olympus, Constantine Zochkis! And you - how the hell did you even get on this level? What do you want here? Oh, let me guess - this incompetent and arrogant youngling Philipp sent you! You're his errand boy, am I right?}
 {21}{998}{I was just making sure that you are Zochkis. Before ripping your head off.}
 {22}{999}{Nothing, I want nothing. Just making sure that the rumors are true. I'm already leaving. Thank Gods, my mission is on the next level.}
 
 {23}{011}{Actually, I'm here on behalf of Moro. He needs a power cell for a cloning machine.}
 
-{24}{}{Moro!? Does he understand that he had spent three cells already? We don't have many of them left! No, no and again - NO! And that's why... [suddenly, he freezes, as if seen a ghost. Or heard one.] Okay... I just had and order to not interrupt the work of Organic Research office, so... Anyway, the parts are issued by Dick, you can find him in the opposite side of this level. That's it, we're done here.}
+{24}{}{Moro!? Does he understand that he had spent three cells already? We don't have many of them left! No, no, and again - NO! And that's why... [suddenly, he freezes as if seen a ghost. Or heard one.] Okay... I just had an order to not interrupt the work of the Institute of Organic Science, so... Anyway, the parts are issued by Dick, you can find him on the opposite side of this level. That's it, we're done here.}
 {25}{999}{Okay, I'll go visit Dick.}
 
 {30}{}{[You are being ignored.]}
@@ -81,5 +81,5 @@
 {108}{999}{[don't start the conversation]}
 {109}{999}{Okay, okay! I'm already leaving!}
 
-{110}{}{Your punch comes into the junction of two armor plates in the abdomen. Some elements and parts puncture through engineer's body, penetrating his intestines. Looks like you have accidentally found a sweet spot of this suit!}
-{111}{}{ATTENTION! Administrator speaking. Access keycard of Constantine Zochkis is blocked. The floor is currently put under lockdown. Over.}
+{110}{}{Your punch comes into the junction of two armor plates in the abdomen. Some elements and parts puncture through the engineer's body, penetrating his intestines. Looks like you have accidentally found a sweet spot in this suit!}
+{111}{}{ATTENTION! Administrator speaking. The access keycard of Constantine Zochkis is blocked. The floor is currently put under lockdown. Over.}

@@ -1,6 +1,6 @@
 # This file describes the messages,
 # used for the HMS window
-#
+# 
 # Created by Artem "Rainman" Samoylov
 # 29/09/2011
 #
@@ -57,7 +57,7 @@
 {119}{}{ > Craft Energy Drink}
 {120}{}{ > Craft Fertilizer}
 {121}{}{ > Craft Jackal Revolver}
-{122}{}{ > Craft Lavash Jerky}
+{122}{}{ > Craft Sugar-coated Lavash Jerky}
 {123}{}{ > Collect the Item}
 {124}{}{ > Collect the Item}
 {125}{}{ > Collect the Item}
@@ -77,7 +77,7 @@
 {139}{}{HMS UPDATED! You now know how to make Energy Drinks.}
 {140}{}{HMS UPDATED! You now know how to make Fertilizer.}
 {141}{}{HMS UPDATED! You now know how to make a Jackal Revolver.}
-{142}{}{HMS UPDATED! You now know how to make Lavash Jerky.}
+{142}{}{HMS UPDATED! You now know how to make a Sugar-coated Lavash Jerky.}
 #
 #REPAIR WORKBENCHES
 #

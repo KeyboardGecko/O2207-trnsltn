@@ -39,9 +39,9 @@
 {13}{}{[scratches his armpit]}
 {14}{}{Huh? What, greenhorn? Want to hear about our raid to Ruins yesterday? I bet you wish you were there! We took our sweet time with that girl, and after that - impaled her father on a stake. Then we put a sign on his neck, saying "He was against us. Sunset Jackals." The Loudmouth went crazy hearing about it. Such a good day...}
 {15}{}{Yeah, just came back from the raid. Don't ask. It was okay at first, robbed some caravans, fucked some girls... Then we bumped into that damn Lumeniers... Fucking shits! There were five of us at the beginning, all mean and hardened - but only me and my mate had returned...}
-{16}{}{Oh yeah, let me tell you how we rocked the Rainbow yesterday! So, we went there... Hicc-... And, uh... There were girls, some booze... So we made a bet with one of our guys about who would win on the Arena... And, as you can see, I am standing here! Hicc-... And he must be... Uh, feeding the ants...}
+{16}{}{Oh yeah, let me tell you how we rocked the Rainbow yesterday! So, we went there... Hicc-... And, uh... There were girls, some booze... So we made a bet with one of our guys about who would win in the Arena... And, as you can see, I am standing here! Hicc-... And he must be... Uh, feeding the ants...}
 {17}{}{Are you hungry, greenhorn? Everybody is, and somehow it's only me and Ursul who goes on the hunt! Did you even meet an Ursa? How the hell do you hunt something that hunts you?! I don't even know... Sometimes it seems like it's easier to shoot off some Chimeras...}
-{18}{}{Have you heard of "Renaissance"? It's, like, an undeground city of wonders. They say it's filled with riches, a fuckloads of food, clean water... One time I've seen some piece of paper with a drawing on it. Some said that it was a part of map leading to Renaissance... They must be wrong...}
+{18}{}{Have you heard of "Renaissance"? It's, like, an underground city of wonders. They say it's filled with riches, a fuckloads of food, clean water... One time I've seen some piece of paper with a drawing on it. Some said that it was a part of the map leading to the Renaissance... They must be wrong...}
 {19}{}{[end]}
 #
 #œÀ¿¬¿ﬁŸ»≈ —ŒŒ¡Ÿ≈Õ»ﬂ

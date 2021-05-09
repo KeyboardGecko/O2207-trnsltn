@@ -53,17 +53,17 @@
 {103}{}{Hello, and see you later!}
 {104}{}{It seems like you have a lot on your hands. Maybe I can help you with something?}
 {105}{}{Catty, do you know what's wrong with your father? Seems like he doesn't care about his duties lately.}
-{106}{}{A vegetables delivery! Here, 24 cobs total!}
+{106}{}{A vegetable delivery! Here, 24 cobs total!}
 {107}{}{Look, Catty, my back hurts so much from all this crawling around patches, you wouldn't believe it! Better gather that corn yourself.}
-{1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes pouty face and taps her foot] I'm sick of all this corn! And I should not only to make patches, but also to take harvest! It never ends!}
+{1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes a pouty face and taps her foot] I'm sick of all this corn! And I should not only make patches but also take harvest! It never ends!}
 {1102}{}{You know, with you helping me, it doesn't look so hopeless! [she giggles] Thanks again!}
-{111}{}{You do realize that if "it" ends, we are going to starve? So be kind, put some effort. I'm having a hard time too!}
+{111}{}{You do realize that if "it" ends, we are going to starve? So be kind, put in some effort. I'm having a hard time too!}
 {112}{}{But you know that your job is good for all of us. Don't worry, you'll have your rest in the evening.}
 {113}{}{Yeah, it seems you are pretty busy. Let me help you! How much corn do you need to harvest?}
 {114}{}{Stop thanking me, I told you that I'm just happy to help! Anyway, see you!}
-{115}{}{I'll never get tired of listening to your words of grattitude! The job was VERY hard - but worth it! [leave, enjoying your humbleness]}
+{115}{}{I'll never get tired of listening to your words of gratitude! The job was VERY hard - but worth it! [leave, enjoying your humbleness]}
 {1201}{}{You are right, of course, but it doesn't make me feel any better.}
-{1202}{}{Really!? I knew it, I knew that you are really my best friend! Okay, so, today I need to gather.... Uhh... [she wrinkles] 23 cobs! Well, maybe 24. I'm not quite sure.}
+{1202}{}{Really!? I knew it, I knew that you are really my best friend! Okay, so, today I need to gather... Uhh... [she wrinkles] 23 cobs! Well, maybe 24. I'm not quite sure.}
 {121}{}{Of course I'm right! Okay, keep up the good work, bye!}
 {122}{}{So many?! Well, okay, if I signed up for this...}
 {123}{}{Good. Wait here, you're getting your 24 cobs. In the next 24 hours, haha! Just kidding, I'll be right back.}

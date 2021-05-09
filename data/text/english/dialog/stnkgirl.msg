@@ -25,7 +25,7 @@
 # до знакомства
 #
 {1}{}{You see a girl.}
-{2}{}{Heavy oversized boots, strange clothes and very bad haircut - this girl looks totally reckless.}
+{2}{}{Heavy oversized boots, strange clothes, and a very bad haircut - this girl looks totally reckless.}
 #
 # после знакомства
 #

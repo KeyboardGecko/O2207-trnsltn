@@ -72,9 +72,9 @@
 {1014}{}{Instead of bugging me with questions, you'd better carried over those canisters with water.}
 {1015}{}{Listen, don't touch me, let me rest a little.}
 {1016}{}{You'd better helped, I'm already strained.}
-{1017}{}{...to carry this canisters again...}
-{1018}{}{Dang it! Why do these filters always smoke like that?}
-{1019}{}{Oh... Listen, let's talk a little later, okay?}
+{1017}{}{...to carry these canisters again...}
+{1018}{}{Why? Why these filters are always in smoke???}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}

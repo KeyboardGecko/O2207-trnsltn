@@ -1,2 +1,2 @@
-1:Не смотря на нападение отряда со Станции метро на Тартар, жителей Станции оставили в покое. 
-2:Из-за плохих урожаев поселение медленно, но верно, пустело, пока окончательно не вымерло.
+1:Despite the unsuccessful attack on Tartarus, the inhabitants of the Station were left alone. 
+2:Due to poor harvests, the Subway Station slowly but surely was getting less habitable, until one day it finally died out.

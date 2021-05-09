@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{100}{}{Look who we have here! Nice suit you got yourself! Did you think I would't recognize you, }
+{100}{}{Look who we have here! Nice suit you got yourself! Did you think I wouldn't recognize you, }
 {101}{}{? Of course it's you, I can tell by the way you walk that your hands are growing straight from your ass, HAH-HAHAHAHA! [he wipes tear] Well then, tell me, what brings you here?}
 {102}{}{Oh! It's you again! [he smiles] You scared me, little devil. So? What do you want?}
 {103}{011}{Smitty, I have to travel a lot, and I will probably get myself into all kinds of situations... Maybe you could teach me something? So I could assemble a helpful thing or two from some junk.}
@@ -37,7 +37,7 @@
 {114}{999}{No, that doesn't sound interesting. I'll come by later.}
 
 
-{120}{}{[the sugar instantly disappears from your hand] Okay, here goes: you take a tin can... [Smitty starts to thoroughly explain the process of assembling hand-made grenades from junk.] ...And that's it, mostly. If you didn't get the details - it's your problems. And, of course, these grenades are not very powerful, but you still can scare the rats with them. Here, take one, for a start. Try it sometime.}
+{120}{}{[the sugar instantly disappears from your hand] Okay, here goes: you take a tin can... [Smitty starts to thoroughly explain the process of assembling hand-made grenades from junk.] ...And that's it, mostly. If you didn't get the details - it's your problem. And, of course, these grenades are not very powerful, but you still can scare the rats with them. Here, take one, for a start. Try it sometime.}
 {121}{013}{Thanks, old man. By the way, I have a tin too. Tell me about making the breastplate.}
 {122}{999}{Thanks, old man. This will come in handy.}
 
@@ -46,7 +46,7 @@
 {131}{012}{Thanks! This is very helpful. Hey, you know what? I also have some sugar! Come on, tell me, how do I make grenades?}
 {132}{999}{That's how it is? Thank you, it will come in handy.}
 
-{1401}{}{Hah, you're good at talking! And I can feel that you're a good man. Why would't I help a good man? Okay, listen [and Smitty starts to thoroughly explain in smallest details talk about creating hand-made grenades and breastplate] ...And that's it, I hope it would come in handy.}
+{1401}{}{Hah, you're good at talking! And I can feel that you're a good man. Why wouldn't I help a good man? Okay, listen [and Smitty starts to thoroughly explain in smallest details talk about creating hand-made grenades and breastplate] ...And that's it, I hope it would come in handy.}
 {141}{999}{Thanks, Smitty, it definitely will!}
 {1402}{}{What a sly man! No, that doesn't work like that! You give me, then I give you, not the other way around. Sorry, friend. [he squints]}
 {142}{015}{Okay, okay. When I find sugar and tin, I'll come back. Don't go anywhere! [wink]}
@@ -67,12 +67,12 @@
 {212}{999}{No, I'm still looking.}
 
 
-{220}{}{What do you think? That everything is easy? I'm ALWAYS making something useful practically from NOTHING. And sometimes you have to re-use the stuff you have, you know - but just to make that OTHER things better!}
-{221}{999}{Yeah, for example, your Moonshine Machina Magnifico. I get it. Okay, I'll go look for hammer.}
+{220}{}{What do you think? That everything is easy? I'm ALWAYS making something useful practically from NOTHING. And sometimes you have to re-use the stuff you have, you know - but just to make those OTHER things better!}
+{221}{999}{Yeah, for example, your Moonshine Machina Magnifico. I get it. Okay, I'll go look for a hammer.}
 {222}{023}{Okay, okay. Don't get so defensive. Here's a hammer for you, give me that damn plunger.}
 
 
-{230}{}{See? So much worries, so little actual problems! [Smitty instantly replaces the handle of plunger with the one from hammer] Here, take your "treasure", heh-heh. I hope you'll figure out how to use it.}
+{230}{}{See? So many worries, so few actual problems! [Smitty instantly replaces the handle of a plunger with the one from a hammer] Here, take your "treasure", heh-heh. I hope you'll figure out how to use it.}
 {231}{999}{Come on, give it to me already.}
 {232}{999}{Don't you worry about it!}
 
@@ -99,7 +99,7 @@
 {1016}{}{What else do you want?}
 {1017}{}{...And then I'm like - you are sparking here! Hilarious.}
 {1018}{}{...And then he's like - that's E-LEC-TREE-SEE-TEE!}
-{1019}{}{Oh. Listen, let's talk a litte later, okay?}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # ŒÚËˆ‡ÚÂÎ¸Ì˚Â ÒÓÓ·˘ÂÌËˇ
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}

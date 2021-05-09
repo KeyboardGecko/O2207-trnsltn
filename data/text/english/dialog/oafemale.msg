@@ -27,7 +27,7 @@
 {3}{}{You see a local woman.} 
 {4}{}{You see a huntress.}
 {5}{}{You see a local.}
-{6}{}{The muscles pop out of a thin skin.}
+{6}{}{The muscles pop out of thin skin.}
 {7}{}{She looks stronger than many men you encountered.}
 {8}{}{This is an embodiment of a primal, wild woman.}
 {9}{}{You have all kinds of strange thoughts in your head when looking at her trained body.}

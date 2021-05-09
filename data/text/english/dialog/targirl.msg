@@ -29,7 +29,7 @@
 {5}{}{You see a girl.}
 {6}{}{A girl running around Tartarus.}
 {7}{}{Nothing unusual, just a little girl.}
-{8}{}{This girls are always get on your way!}
+{8}{}{These girls are always getting on your way!}
 {9}{}{She looks at you so sassy that it makes you feel uncomfortable...}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ

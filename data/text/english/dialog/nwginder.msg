@@ -16,7 +16,7 @@
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see doctor Hinder.}
-{4}{}{One look on him makes you want to be healthy.}
+{4}{}{One look at him makes you want to be healthy.}
 #
 {5}{}{Go talk to Owen, I'm not done yet.}
 {6}{}{I haven't finished yet. You can go to Owen for now.}
@@ -25,7 +25,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[Before you stands the man in almost white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose you see a pair of round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, continues to study a huge pile of papers in his hands].}
+{10}{}{[Before you is the man in an almost white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose, you see a pair of round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, continues to study a huge pile of papers in his hands].}
 {11}{002}{I'm }
 {12}{002}{. I'm here recently.}
 
@@ -46,11 +46,11 @@
 {100}{}{I'm listening. }
 {101}{011}{I need healing.}
 {102}{015}{Owen dislocated his arm. He needs help.}
-{103}{028}{My friend have a trouble with his arm. Tell me how to help him. I'll do it myself, to not distract you from your business.}
+{103}{028}{My friend has a problem with his arm. Tell me how to help him. I'll do it myself, to not distract you from your business.}
 {104}{Barter}{Doc, I'd like to purchase some medical supplies.}
 {105}{033}{Are you always acting like a jerk?}
-{108}{}{Looks like my bone is broken... [show him your bloody, teared hand]}
-{109}{}{This thing prevents me from running faster... [show hims the bone sticking out of your leg]}
+{108}{}{Looks like my bone is broken... [show him your bloodied torn hand]}
+{109}{}{This thing prevents me from running faster... [show him the bone sticking out of your leg]}
 {106}{010a}{In short - Sam could become a new Mayor. What do you think of it?}
 {107}{999}{Next time, doc. I need to go.}
 
@@ -79,7 +79,7 @@
 {142}{999}{[end dialogue]}
 
 #Node013
-{130}{}{I don't see any point in treating you. I heal people of NWO. And you belong to NWO like I belong to the club of pimps in Rainbow. Now, stop wasting my time. [he gets back to his duties. Looks like he doesn't think it's necessary to continue the conversation]}
+{130}{}{I don't see any point in treating you. I heal people of NWO. And you belong to NWO as I belong to the club of pimps in Rainbow. Now, stop wasting my time. [he gets back to his duties. Looks like he doesn't think it's necessary to continue the conversation]}
 {131}{010}{Uh... Doc?}
 {132}{999}{[end dialogue]}
 
@@ -90,7 +90,7 @@
 {136}{}{[he turns back to you] Who? No one. Only I can heal wounds like that. [he definitely assesses your sticking bone] }
 {137}{}{ batteries, and I'll do it.}
 {138}{}{Agreed, here, your batteries...}
-{139}{999}{Okay, I'll get back with necessary amount.}
+{139}{999}{Okay, I'll get back with the necessary amount.}
 
 {143}{}{[he puts batteries into a small leather bag] Let's begin then.}
 {144}{014}{[go through healing treatment]}
@@ -114,7 +114,7 @@
 {181}{019}{Contribute how, exactly?}
 
 #Node019
-{190}{}{I'll require a saple of you blood. Also, urine and stool. And a scrape. And don't forget to fill the form. Agreed?}
+{190}{}{I'll require a sample of your blood. Also, urine and stool. And a scrape. And don't forget to fill the form. Agreed?}
 {191}{022}{Agreed.}
 {192}{020}{Hell no. I'll find another way.}
 {193}{020}{Go screw yourself, smart-ass. I'm gonna find a simpler way.}
@@ -157,7 +157,7 @@
 #Node028
 {280}{}{[doc stares at you] I won't be teaching some block from the wasteland, who knows nothing about the medical science. }
 {281}{029}{Owen has "luxatio manus". Unfortunately, I haven't run across the literature, which had the information about dealing with such condition.}
-{282}{031}{This would take care of a sweaty and dirty labourer for you. In opposite case, he will come here by himself.}
+{282}{031}{This would take care of a sweaty and dirty laborer for you. Otherwise, he will come here by himself.}
 {283}{032}{But... You should help! You are the doctor!}
 
 #Node029

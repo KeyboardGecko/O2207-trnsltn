@@ -31,7 +31,7 @@
 {21}{014}{What's so special about this tent?}
 {22}{003}{Sorry to bother you.}
 {23}{998}{Nobody dares to speak to me like that. [punch his face]}
-{24}{999}{Screw you. Everybody here walk wherever they want. [leave]}
+{24}{999}{Screw you. Everybody here walks wherever they want. [leave]}
 
 
 {30}{}{I'm surrounded by barbarians! Manners and politeness are forgotten completely! "New World Order" - ha! More like "Wild Bunch of Savages". The world, the order, the human nature - everything is gone to shit.}
@@ -52,19 +52,19 @@
 {54}{999}{I'm leaving your sovereign territory.}
 
 
-{60}{}{People here are ought to know manners, respect elders and act like a human! Do you hear me? H-u-m-a-n, not some mindless savage! And stop looking around! I have a hunch on petty thieves. Don't you dare touching my stuff!}
+{60}{}{People here are ought to know manners, respect elders, and act like a human! Do you hear me? H-u-m-a-n, not some mindless savage! And stop looking around! I have a hunch on petty thieves. Don't you dare to touch my stuff!}
 {61}{007}{Sounds reasonable. I accept those rules.}
 {62}{998}{That's it. That was the last drop of my patience.}
 {63}{999}{Screw you! [leave]}
 
 
-{70}{}{Oh, he accepts those rules! Of course you do! And call me "master Seth"!}
+{70}{}{Oh, he accepts those rules! Sure you do! And call me "master Seth"!}
 {71}{008}{Yes, master Seth.}
-{72}{998}{[punch him into stomach as hard as you can]}
+{72}{998}{[punch him into the stomach as hard as you can]}
 {73}{999}{[leave]}
 
 
-{80}{}{[Seth ponders] Here's the thing... I see that you are not completely lost. You can be valuable. If you complete my assignment, I'll appoint you my personal assistant. Interested?}
+{80}{}{[Seth ponders] Here's the thing... I see that you are not completely lost. You can be valuable. If you complete my assignment, I'll appoint you as my personal assistant. Interested?}
 {81}{009}{Interested.}
 {82}{020}{Not interested.}
 
@@ -74,23 +74,23 @@
 {92}{999}{I need to think about it.}
 
 
-{110}{}{Somewhere in Radius, an underground settlement of Livos is situated. An intellectual elites on the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brighten up for a moment] It's time to show these savages where they belong! }
+{110}{}{Somewhere in Radius, an underground settlement of Livos is situated. Intellectual elites of the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brighten up for a moment] It's time to show these savages where they belong! }
 {111}{012}{[keep listening]}
 {112}{021}{I see. Not interested.}
 
 
-{120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. Tell them that I'm willing to help, and ready to be their official representative here. When their troops arrive, I'll help them establish themselves here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
+{120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. Tell them that I'm willing to help and ready to be their official representative here. When their troops arrive, I'll help them establish themselves here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
 {121}{013}{Deal.}
 {122}{022}{I need to think about it.}
-{123}{020}{No, I won't involve myself into this.}
+{123}{020}{No, I won't involve myself in this.}
 
 
-{130}{}{Wonderful! But keep your mouth shut! Don't tell it to that cretin from nearby tent.}
+{130}{}{Wonderful! But keep your mouth shut! Don't tell it to that cretin from a nearby tent.}
 {131}{999}{See you soon.}
 {132}{022}{I have some questions.}
 
 
-{140}{}{What?! How you even dare! You are stepping on a sovereign territory, on my land! It's an outpost of New World! It's the place from which the expansion of a new civilization starts!}
+{140}{}{What?! How you even dare! You are stepping on sovereign territory, on my land! It's an outpost of New World! It's the place from which the expansion of a new civilization starts!}
 {141}{015}{Stop goofing around, old man. It's just an old tent.}
 {142}{006}{I see. And what are the rules around here?}
 {143}{999}{I'm leaving your sovereign territory.}
@@ -102,7 +102,7 @@
 {153}{999}{Consider that I've never been here. [leave]}
 
 
-{160}{}{Good boy. You can call me Seth. If we come to agreement, we could work out something beneficial for both of us. Who are you and where are you from?}
+{160}{}{Good boy. You can call me Seth. If we come to an agreement, we could work out something beneficial for both of us. Who are you and where are you from?}
 {161}{017}{My name is }
 {162}{017}{, I'm from Olympus tower.}
 {163}{018}{I am an ex-worker from Olympus.}
@@ -110,17 +110,17 @@
 
 
 {170}{}{Is that so? Well, pleasured to meet you, }
-{171}{}{. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guarenteed. Interested?}
+{171}{}{. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guaranteed. Interested?}
 {172}{009}{Interested.}
 {173}{020}{Not interested.}
 
 
-{180}{}{Is that so? You got pretty far from tower. Well, pleasured to meet you. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guarenteed. Interested?}
+{180}{}{Is that so? You got pretty far from the tower. Well, pleased to meet you. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guaranteed. Interested?}
 {181}{009}{Interested.}
 {182}{020}{Not interested.}
 
 
-{190}{}{Don't want to talk? As you wish. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guarenteed. Interested?}
+{190}{}{Don't want to talk? As you wish. I need some assistance with one job. It's hard and requires responsibility. Personal benefit is guaranteed. Interested?}
 {191}{009}{Interested.}
 {192}{020}{Not interested.}
 
@@ -130,15 +130,15 @@
 {202}{999}{[leave]}
 
 
-{210}{}{Of course... Is there anything interesting for a dirty savage?! Get the hell out! You'll regret not taking my side, when you had the chance!!}
+{210}{}{Of course... Is there anything interesting for a dirty savage?! Get the hell out! You'll regret not taking my side when you had the chance!!}
 {211}{998}{Okay, but I'm going to punch your face before I leave.}
 {212}{999}{[leave]}
 
 
 {220}{}{Oh you need to think about it! [you see how contemptuous he is. You can see the terrible amount of effort he's making to not send you off to where the sun doesn't shine] What is there to think?}
 {221}{}{What is bothering your wise head?}
-{222}{023}{Where did you get the information about takeover of NWO?}
-{223}{025}{Frankly speaking, the thought about occupation of NWO by dwellers of an underground settlement sounds ridiculous.}
+{222}{023}{Where did you get the information about the takeover of NWO?}
+{223}{025}{Frankly speaking, the thought about the occupation of NWO by dwellers of an underground settlement sounds ridiculous.}
 {224}{027}{Why do you hate locals so much?}
 {225}{030}{What's the deal with that guy in the nearby tent?}
 {226}{054}{I want to talk about Matt.}
@@ -163,20 +163,20 @@
 {261}{998}{[...tear his spleen open with a single blow.]}
 {262}{998}{[...knock out a handful of his teeth.]}
 {263}{998}{[...punch his Adam's Apple right into his throat.]}
-{264}{998}{[...turn his nose into mush of bone shreds and blood.]}
+{264}{998}{[...turn his nose into a mush of bone shreds and blood.]}
 {265}{998}{[...give him an uppercut to the chin, breaking his neck.]}
 {266}{998}{[...break his rib with a sharp blow.]}
 {267}{998}{[...blow his eye right out of his eye socket.]}
 {268}{998}{[...hit him into a solar plexus.]}
 {269}{999}{[...stop yourself. Then take a deep breath and calm down.]}
 
-{270}{}{[Seth quietly sighs and continues in a patronizing tone] I know, to the one of your kind, some simple things can be complicated, and sometimes even beyond reach. You see, I don't actually hate them. I only call the things by their names. Whether you like it or not, NWO is a herd of cattle. A herd of brainless, stinking cattle, which doesn't know respect, doesn't care for science or art. These things are way beyond their level. Cattle by itself is not capable of making this world a better place. The cattle has only one purpose - to serve the higher power on its way to prosperity. A quite worthy purpose, by the way. But cattle has been without its herder for too long. It became prideful and longs for power which it can't handle. Try to show the cattle its place - and it will stomp you to death.}
+{270}{}{[Seth quietly sighs and continues in a patronizing tone] I know, to the one of your kind, some simple things can be complicated, and sometimes even beyond reach. You see, I don't actually hate them. I only call the things by their names. Whether you like it or not, NWO is a herd of cattle. A herd of brainless, stinking cattle, which doesn't know respect, doesn't care for science or art. These things are way beyond their level. Cattle by itself is not capable of making this world a better place. The cattle have only one purpose - to serve the higher power on its way to prosperity. A quite worthy purpose, by the way. But cattle has been without its herder for too long. It became prideful and longs for power which it can't handle. Try to show the cattle its place - and it will stomp you to death.}
 {271}{028}{[keep listening]}
 {272}{022}{I see. I wanted to ask something else.}
 {273}{999}{I'll listen to the rest of it some other time. [end]}
 
-{280}{}{In the chaos of our world, cattle fights itself and other herds of the same cattle. But, as all chaos seeks harmony, sooner or later the master will come for the cattle. And cattle will begin to serve, fulfilling its purpose. Try to understand, I don't hate NWO at all. I'm just obliged to live near them and tolerate their smugness, ingnorance, sass and untidyness. I am patiently waiting for the master to come for his cattle. And soon my patience will be rewarded.}
-{281}{029}{Your worldview disgust me, but to discuss it with you disgust me even more.}
+{280}{}{In the chaos of our world, cattle fight themselves and other herds of the same cattle. But, as all chaos seeks harmony, sooner or later the master will come for the cattle. And cattle will begin to serve, fulfilling its purpose. Try to understand, I don't hate NWO at all. I'm just obliged to live near them and tolerate their smugness, ignorance, sass, and untidiness. I am patiently waiting for the master to come for his cattle. And soon my patience will be rewarded.}
+{281}{029}{Your worldview disgusts me, but to discuss it with you disgusts me even more.}
 {282}{999}{Maybe you have a point.}
 {283}{022}{I still have some questions.}
 {284}{999}{See you soon.}
@@ -198,11 +198,11 @@
 
 {320}{}{You wouldn't understand. That cretin never listened to me, never showed me enough respect. Instead, he chose to spend his whole life dreaming about some nonsense. Damn imbecile.}
 {321}{033}{I can speak with him. Maybe I could talk some sense into him.}
-{322}{034}{I hate little snots who doesn't respect elders.}
+{322}{034}{I hate little snots who don't respect elders.}
 {323}{022}{I want to ask something else.}
 {324}{999}{I see. See you then.}
 
-{330}{}{Don't even bother. That idiot is convinced that he doesn't need no one. He has a lot of nerve. Life will eventually teach him a lesson. }
+{330}{}{Don't even bother. That idiot is convinced that he needs no one. He has a lot of nerve. Life will eventually teach him a lesson. }
 {331}{999}{I'm going to try though.}
 {332}{022}{I want to ask about something else.}
 
@@ -225,12 +225,12 @@
 {104}{036}{I know that Matt is your brother.}
 {105}{054}{I want to talk about Matt.}
 {106}{039}{I got your message to the families in Livos.}
-{107}{048}{Here's the thing... You brother, Matt, is looking for Livos too. And, unlike you, he pays me for helping him, instead of giving empty promises...}
+{107}{048}{Here's the thing... Your brother, Matt, is looking for Livos too. And, unlike you, he pays me for helping him, instead of giving empty promises...}
 
 {380}{}{Why are you so cretin all the time? Get out of here, stop loitering around my tent!}
 {381}{014}{What's so special about this tent?}
 {382}{003}{Sorry to bother you.}
-{383}{999}{Screw you. Everybody here walk wherever they want. [leave]}
+{383}{999}{Screw you. Everybody here walks wherever they want. [leave]}
 {384}{998}{Nobody dares to speak to me like that. [punch his face]}
 
 {390}{}{Don't leave me hanging. What's their answer?}
@@ -244,10 +244,10 @@
 {401}{998}{Okay, but I'm going to punch your face before I leave.}
 {402}{999}{[leave]}
 
-{410}{}{At last! At last this moment has come! The justice, the reward for me being so patient, living near these animals!! When their forces will arrive? Where should I wait for them?}
+{410}{}{At last! At last, this moment has come! The justice, the reward for me being so patient, living near these animals!! When their forces will arrive? Where should I wait for them?}
 {411}{042}{Stay where you are, they are going to be here in a few weeks. They didn't tell me the exact moment, but asked you to wait.}
 
-{420}{}{That is just wonderful! I suppose, you are waiting for your reward? Well, I'm the man of my word. As soon as their forces take over this place, you get the position you deserved: a job of my personal assistant. As for now - take this. [Seth hands you the weapon repair kit] This belonged to my father. I don't need it, and I suppose you'll put it to better use.}
+{420}{}{That is just wonderful! I suppose you are waiting for your reward? Well, I'm the man of my word. As soon as their forces take over this place, you get the position you deserved: a job of my personal assistant. As for now - take this. [Seth hands you the weapon repair kit] This belonged to my father. I don't need it, and I suppose you'll put it to better use.}
 {421}{043}{Thanks. Glad to be of help.}
 
 {430}{}{Come back when you hear the good news about NWO! Your job will be waiting for you.}
@@ -256,16 +256,16 @@
 {440}{}{[What... What did you just say?! Come again?!}
 {441}{045}{They want to make an alliance with Matt.}
 
-{450}{}{Oh... Oh that damn...  How many times I was gonna kill that bastard, but held back! I thought it wouldn't come to this. What a fool! I should have done it a long time ago... [he pulls out his revolver]}
+{450}{}{Oh... Goddamn...  How many times I wanted to kill that bastard, but held back! I thought it wouldn't come to this. What a fool! I should have done it a long time ago... [he pulls out his revolver]}
 {451}{999}{What are you going to do?}
 
 {460}{}{I don't understand. What the hell do they want with him?}
-{461}{047}{They are demanding you to join your forces first. If you two are not capable of becoming allies in the name of commong goal, how can you be capable of making an alliance with a whole faction?}
+{461}{047}{They are demanding you to join your forces first. If you two are not capable of becoming allies in the name of a common goal, how can you be capable of making an alliance with a whole faction?}
 
-{470}{}{Tell me you're joking! I have to tolerate that idiot? Oh, stupid intellectuals! A week won't pass until they realize how wrong they are. This moron is going to do everything as he pleases... [Seth ponders for some time, then sighs] Well, if that's what they demand... }
+{470}{}{Tell me you're joking! Me, to tolerate that idiot? Oh, stupid intellectuals! A week won't pass until they realize how wrong they are. This moron is going to do everything as he pleases... [Seth ponders for some time, then sighs] Well, if that's what they demand... }
 {471}{999}{Worth a shot.}
 
-{480}{}{I... I can't believe it. Oh you... MINDLESS BASTARDS! CONSPIRING BEHIND MY BACK! THINKING YOU CAN BLACKMAIL ME! ASSHOLES! IDIOTS! MORONS! [Seth spits and wheezes, then starts to whine] Oooooh god, why have you forsaken this world! It's now a land of scoundrels...}
+{480}{}{I... I can't believe it... MINDLESS BASTARDS! CONSPIRING BEHIND MY BACK! THINKING YOU CAN BLACKMAIL ME! ASSHOLES! IDIOTS! MORONS! [Seth spits and wheezes, then starts to whine] Oooooh God, why have you forsaken this world! It's now a land of scoundrels...}
 {481}{049}{So, do you want my help or not? Or I can help Matt instead?}
 
 {490}{}{[Seth gets silent. Then quietly asks] How much did he promise you?}
@@ -274,23 +274,23 @@
 {493}{052}{1500}
 {494}{053}{2000}
 
-{500}{}{[Seth hesitates for a second] Here, but remember - they won't help you, if you don't carry out what you promised.}
-{501}{}{You are lying! This snot can't possibly have such money! Try to fool me again, and I'll pay you with lead instead!}
+{500}{}{[Seth hesitates for a second] Here, but remember - they won't help you if you don't carry out what you promised.}
+{501}{}{You are lying! This snot can't possibly have so much money! Try to fool me again, and I'll pay you with lead instead!}
 {502}{999}{Bye then.}
 {503}{022}{I still have some questions.}
 
-{510}{}{[Seth hesitates for a second] Here, but remember - they won't help you, if you don't carry out what you promised.}
-{511}{}{You are lying! This snot can't possibly have such money! Try to fool me again, and I'll pay you with lead instead!}
+{510}{}{[Seth hesitates for a second] Here, but remember - they won't help you if you don't carry out what you promised.}
+{511}{}{You are lying! This snot can't possibly have so much money! Try to fool me again, and I'll pay you with lead instead!}
 {512}{999}{Bye then.}
 {513}{022}{I still have some questions.}
 
-{520}{}{[Seth hesitates for a second] Here, but remember - they won't help you, if you don't carry out what you promised.}
-{521}{}{You are lying! This snot can't possibly have such money! Try to fool me again, and I'll pay you with lead instead!}
+{520}{}{[Seth hesitates for a second] Here, but remember - they won't help you if you don't carry out what you promised.}
+{521}{}{You are lying! This snot can't possibly have so much money! Try to fool me again, and I'll pay you with lead instead!}
 {522}{999}{Bye.}
 {523}{022}{I still have some questions.}
 
 {530}{}{Who do you think I am, you mindless savage?! Who in the whole Radius could have so much money?! Definitely not that degenerate! Try to fool me again, and I'll pay you with lead instead!}
-{531}{}{Oh... Oh that damn...  How many times I was gonna kill that bastard, but held back! I thought it wouldn't come to this. What a fool! I should have done it a long time ago... [he pulls out his revolver]}
+{531}{}{Oh... Goddamn...  How many times I was gonna kill that bastard, but held back! I thought it wouldn't come to this. What a fool! I should have done it a long time ago... [he pulls out his revolver]}
 
 {532}{999}{Bye.}
 {533}{022}{I still have some questions.}
@@ -308,19 +308,19 @@
 {551}{056}{At least he has a dream.}
 {552}{054}{I want to ask about something else.}
 
-{560}{}{Exactly! It's everything he thinks about - his dreams. That everyone will respect him for cooking! Idiot! No one in this world cares for your talents! You need to listen to elders and learn from their experience. But you won't get it from him. Damn moron.}
+{560}{}{Exactly! It's everything he thinks about - his dreams. That everyone will respect him for cooking! Idiot! No one in this world cares for your talents! You need to listen to elders and learn from their experiences. But you won't get it from him. Damn moron.}
 {561}{054}{I want to ask about something else.}
 
 {570}{}{You don't say! Maybe I should take Lavash shit seriously too?}
-{571}{058}{You think too much about yourself. Meanwhile, you don't have a half of what Matt has.}
-{572}{060}{Think about him: he needs help, care and protection of his elder brother. He won't make it alone.}
-{573}{063}{Look at yourself: you dream about power, so everyone would be afraid of you, but can't earn respect of your own brother.}
-{574}{061}{He told me that he would kill himself if you won't make peace.}
+{571}{058}{You think too much about yourself. Meanwhile, you don't have half of what Matt has.}
+{572}{060}{Think about him: he needs help, protection, and care of his elder brother. He won't make it alone.}
+{573}{063}{Look at yourself: you dream about power, so everyone would be afraid of you, but can't earn the respect of your own brother.}
+{574}{061}{He told me that he would kill himself if you two won't make peace.}
 
 {580}{}{Is that so? What is it that I don't have?}
-{581}{059}{Dream, talent and determination.}
+{581}{059}{Dream, talent, and determination.}
 
-{590}{}{Oh Holy Mary, how could I live without it! Let's see how his talent helps him, when he and the rest of the savages will be thrown over the fence.}
+{590}{}{Oh Holy Mary, how could I live without it! Let's see how his talent helps him when he and the rest of the savages will be thrown over the fence.}
 {591}{062}{But why...}
 
 {600}{}{So that's his own fault! Let him handle it!}
@@ -367,7 +367,7 @@
 {7}{}{Shoot. I always knew it would come to this.}
 {8}{}{Listen to me, Matt. Yes, we can't stand each other. But we have to unite for the common goal.}
 {9}{}{And you would listen to my opinion?}
-{15}{}{I will, if you would listen to mine.}
+{15}{}{I will if you would listen to mine.}
 {16}{}{Deal then.}
 {17}{}{Let's do it.}
 {18}{}{I'm sorry, Matt.}

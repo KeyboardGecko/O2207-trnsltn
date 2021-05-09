@@ -25,7 +25,7 @@
 {2}{}{You see a slacker.}
 {3}{}{You see a local bum.}
 {4}{}{You see a beggar.}
-{5}{}{You see a scramp.}
+{5}{}{You see a scamp.}
 {6}{}{You see someone covered in rags.}
 {7}{}{Looks like this one's having not the best period in life.}
 {8}{}{Looks like a woman. You're not sure.}
@@ -79,10 +79,10 @@
 {1028}{}{How dare you?!}
 {1029}{}{You piss me off! Go away!}
 #Спящие сообщения
-{1030}{}{::Zzzzz...::}
-{1031}{}{::Hrmhmmmhm...::}
-{1032}{}{::Mmmmnmrm...::}
-{1033}{}{::Uuuhmrmrm...::}
+{1030}{}{Zzzzz...}
+{1031}{}{Hrmhmmmhm...}
+{1032}{}{Mmmmnmrm...}
+{1033}{}{Uuuhmrmrm...}
 {1034}{}{}
 {1035}{}{}
 {1036}{}{}
@@ -90,24 +90,24 @@
 {1038}{}{}
 {1039}{}{}
 #Выкрики с трибуны мужчины
-{1040}{}{Thatch and pants, may they be kicked! And I told you, I told you! Hand of millenium and clam!}
+{1040}{}{Thatch and pants, may they be kicked! And I told you, I told you! Hand of Millenium and clam!}
 {1041}{}{I've traveled all this way not to be ignored here!}
 {1042}{}{We need more food and less work! And to kick out that freak! [points finger]}
 {1043}{}{We need to elect a new Leader! I suggest... Myself! Who's in? I'M IN!}
 {1044}{}{I've been hanging around here for a few days already. Why I haven't been given a place to live yet?}
 {1045}{}{The guards are giving sassy looks to everybody! We should forbid them to do it!}
-{1046}{}{Every refugee should be given a tent, food and water! And wine! And a woman too. Or Lavash, at least...}
+{1046}{}{Every refugee should be given a tent, food, and water! And wine! And a woman too. Or Lavash, at least...}
 {1047}{}{They are hiding the truth! Earth is not round! The turtle is moving! AAAAAAAAAAAAH!!!}
-{1048}{}{This Podium is not equipped with all needed conveniences. Where, may I ask, is the one responsible for equipment of the Podium?}
+{1048}{}{This Podium is not equipped with all the needed conveniences. Where, may I ask, is the one responsible for equipment of the Podium?}
 {1049}{}{I am convinced that we should change the politics regarding me- I mean, us, your guests from Radius, your future!}
 #Выкрики с трибуны женщины
-{1050}{}{If I'm a woman, that doesn't mean I don't want to have sex! Why I still haven't been assigned with a husband?}
-{1051}{}{Look at my boobs! I'm sure that this is more than enough to put me in position of a Mayor's secretary!}
+{1050}{}{If I'm a woman, that doesn't mean I don't want to have sex! Why I still haven't been assigned a husband?}
+{1051}{}{Look at my boobs! I'm sure that this is more than enough to put me in the position of the Mayor's secretary!}
 {1052}{}{Comrades! We should ban the lewd thoughts of men! They are practically sticking out of their pants! We need to mow them down! With a sickle!}
-{1053}{}{I find it unfair that female guards are not assigned with grenades! The woman with a grenade is capable of scarying off any intruder!}
+{1053}{}{I find it unfair that female guards are not assigned with grenades! The woman with a grenade is capable of scaring off any intruder!}
 {1054}{}{It's time to end this Leader patriarchy! Put a woman in charge! Me, for example.}
 {1055}{}{I think it's important to announce that I haven't had a man in days... Thank you for your attention! I'll be standing over there.}
-{1056}{}{Why NWO doesn't have the opposition to the authority? If it does, when would it kick Leader's ass for... For... Uh...}
+{1056}{}{Why NWO doesn't have an opposition to the authority? If it does, when would it kick Leader's ass for... For... Uh...}
 {1057}{}{I think next time we need to buy dresses from Livos, instead of water. We absolutely need evening dresses!}
 {1058}{}{I'm advocating a law on women's holidays! You know, on the red rainy days. And green rainy days...}
 {1059}{}{I am a beautiful woman, and all men are jerks. And they smell. I'm done, thank you.}

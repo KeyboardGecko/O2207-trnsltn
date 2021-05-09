@@ -16,7 +16,7 @@
 {12}{}{No, I don't want to burn my fingers!}
 {13}{}{I don't feel like tinkering with the wires...}
 {14}{}{Well, shucks! I'm not an electrician or cable guy! I think I can manage without it somehow...}
-{15}{}{There are 3 wires in front of you: red, blue and green. You need to connect two of them together. Which ones do you choose?}
+{15}{}{There are 3 wires in front of you: red, blue, and green. You need to connect two of them. Which ones do you choose?}
 {16}{}{Red and Blue}
 {17}{}{Green and Red}
 {18}{}{Blue and Green}
@@ -37,8 +37,8 @@
 {30}{}{Bravo! You did it!}
 {31}{}{This is a solid steel door. It cannot be opened with a crowbar or an explosion.}
 {32}{}{You removed the trap from the door.}
-{33}{}{Want to try to manually pick the wire combination? If you are unsuccessfull, it will shock you, and the security system will change the layout of electrical circuit! Otherwise you will need at least a skill of }
-{34}{}{You've been poking around the wires for a long time, but you still haven't been able to hack the security system. Want to try to manually pick a wire combination? If you fail, you can get an electric shock and the security system will change the layout of electrical circuit!}
+{33}{}{Want to try to manually pick the wire combination? If you are unsuccessful, it will shock you, and the security system will change the layout of the electrical circuit! Otherwise, you will need at least a skill of }
+{34}{}{You've been poking around the wires for a long time, but you still haven't been able to hack the security system. Want to try to manually pick a wire combination? If you fail, you can get an electric shock and the security system will change the layout of the electrical circuit!}
 {35}{}{Your trap has been disarmed and went into the belongings of }
 {36}{}{The door is critically damaged and about to fall apart.}
 {37}{}{The door is badly damaged and barely holds on its hinges.}
@@ -90,7 +90,7 @@
 {71}{}{No, looks like this lock won't open just like that. You can't argue with metal!}
 {72}{}{This is an IRON door! Do you really think you're that strong?!}
 {73}{}{Would you like to call for help? You alone will never bend the iron door!}
-{74}{}{You're more liekely to break your radial bone, than bend this lock!}
+{74}{}{You're more likely to break your radial bone, than bend this lock!}
 {75}{}{<<FILL IN>>}
 {76}{}{<<FILL IN>>}
 {77}{}{<<FILL IN>>}
@@ -102,7 +102,7 @@
 {80}{}{The explosion blows the door out completely, it barely keeps on its hinges.}
 {81}{}{The door opens wide with a powerful blast wave, it seems that it is about to break off its hinges.}
 {82}{}{Using all your strength you successfully bend the lock. It doesn't look like it can be repaired.}
-{83}{}{You gripped wrong and strained you muscle. You feel a lot of pain.}
+{83}{}{You gripped wrong and strained your muscle. You feel a lot of pain.}
 {84}{}{You put your foot wrong and strained your muscle. You feel a lot of pain.}
 {85}{}{Cursing and spitting, you try to set back the dislocated joint. You succeed, but the pain doesn't go away.}
 {86}{}{You can't set traps on locked doors, it's pointless.}
@@ -115,7 +115,7 @@
 {90}{}{Because of your crooked hands, the lock is now jammed.}
 {91}{}{Maybe in a few hours you could figure out a way to open the lock, but for now it's jammed.}
 {92}{}{You have no idea how to open this lock.}
-{93}{}{You thoughts are jammed. The lock too.}
+{93}{}{Your thoughts are jammed. The lock too.}
 {94}{}{Before you lock the door, you need to close it.}
 {95}{}{You locked the lock as best as you could.}
 {96}{}{The door is completely destroyed, you can't do anything with it.}
@@ -152,7 +152,7 @@
 # more locks
 #
 {120}{}{Nope, this lock is too tough for you!}
-{121}{}{No, first you need to practice on simpler locks.}
+{121}{}{No, first you need to practice with simpler locks.}
 {122}{}{It won't work. Your picking skill is not sufficient for this lock.}
 {123}{}{Do you want to open locks without keys? You need to train more on simpler locks.}
 {124}{}{After a careful cursory examination of the lock, you realize that to open it you will need at least a lockpicking skill of }
@@ -160,7 +160,7 @@
 {126}{}{After a brief cursory study of the lock, you realize that you don't understand a damn thing about it.}
 {127}{}{You need to seriously train your dexterity to defeat such a lock.}
 {128}{}{No, you are not strong enough for this kind of vandalism.}
-{129}{}{You have leaned with your whole body, but you do not have enough strength to bend the lock. }
+{129}{}{You lean with your whole body - but you still don't have enough strength to bend the lock. }
 #
 # and the damn locks again...
 #
@@ -196,9 +196,9 @@
 #
 {150}{}{Wow! You are now richer by }
 {151}{}{Congratulations! You've got }
-{152}{}{You pocket is now lined more with additional }
-{153}{}{You are a bit more richer, by }
-{154}{}{Happiness is not in Batteries, but in their quantity! You receive }
+{152}{}{Your pocket is now lined more with additional }
+{153}{}{You are a bit richer, by }
+{154}{}{Happiness is not in Batteries but their quantity! You receive }
 {155}{}{ Batteries!}
 #
 # Traps on Doors
@@ -252,13 +252,13 @@
 {253}{}{The poisonous injection is causing you great pain.}
 {254}{}{You can clearly feel the burning of the poison.}
 #Traumatic weapons
-{255}{}{ falls backwards from unbearable pain.}
+{255}{}{ falls backward from unbearable pain.}
 {256}{}{The sharp burning pain drops }
 {257}{}{ to the ground.}
 {258}{}{You can't stand the pain and pass out for a while.}
 {259}{}{You lose consciousness for a while from the severe pain.}
 #Poisoned Darts
-{260}{}{The dart hits you in an vulnerable spot. You can feel the poison pierce your skin.}
+{260}{}{The dart hits you in a vulnerable spot. You can feel the poison pierce your skin.}
 {261}{}{The poisoned dart brings great pain and you are feeling dizzy.}
 {262}{}{The dart delivers a strong dose of poison into your body. You're having a hard time pulling yourself together.}
 {263}{}{The poisoned sting penetrates your skin and the poison is spreading through your bloodstream.}
@@ -332,7 +332,7 @@
 {356}{}{The beauty of the interior furnishings makes your jaw drop on the floor and lay there for some time.}
 {357}{}{Men and women in coats, that may have been white a long time ago, are scurrying back and forth with flasks and fancy instruments.}
 {358}{}{It's hard to figure out what's going on here, but there are even more people in white coats than on the previous floor.}
-{359}{}{The local staff is running from computer to computer with bulging eyes and disheveled hair. They must be busy with something very important and urgent.}
+{359}{}{The local staff is running from terminal to terminal with bulging eyes and disheveled hair. They must be busy with something very important and urgent.}
 {360}{}{The fresh, warm air hits you in the face, and the view takes your breath away.}
 {361}{}{This place looks like a high-tech lab. The white coats around again, but not as much fuss like at the engineering level.}
 {362}{}{The Abode of the Defenders, no other way to call it. You feel like a dwarf next to these mighty warriors.}
@@ -428,13 +428,13 @@
 {448}{}{}
 {449}{}{}
 #
-#Mesages for message box
+#Mesages for a message box
 #
 {800}{}{You don't have an Automap!}
 {801}{}{You don't have an Organizer}
 {802}{}{You cannot enter combat mode!}
 {803}{}{Resolution must be at least 800õ600!}
-{804}{}{You received a new karma!}
+{804}{}{You received new karma!}
 {805}{}{}
 {806}{}{}
 {807}{}{}
@@ -453,7 +453,7 @@
 {819}{}{}
 # Messages in the mini-display (and for quests)
 {850}{}{Loading in progress, please, do not remove disk...}
-{851}{}{Disk's content was successfully loaded into organizer.}
+{851}{}{Disk's content was successfully loaded into an organizer.}
 {852}{}{Code Rejected.}
 {853}{}{Code Accepted.}
 {854}{}{Your radiation exposure has increased by }
@@ -488,8 +488,8 @@
 {880}{}{No, you won't learn anything new from this issue.}
 {881}{}{It seems that books will no longer be able to raise your skill.}
 {882}{}{In this issue, you learned a couple of new tricks on how to convince someone.}
-{883}{}{This issue details the wrist movement technique to make your throw as accurate as possible.}
-{884}{}{Jab, smash, hook, uppercut and heel to the throat! The comic strips colorfully and clearly demonstrate new ways to break your opponent in half with your bare hands!}
+{883}{}{This issue details the wrist movement technique to make your throw as accurately as possible.}
+{884}{}{Jab, smash, hook, uppercut, and heel to the throat! The comic strips colorfully and clearly demonstrate new ways to break your opponent in half with your bare hands!}
 {885}{}{Your level of intelligence does not allow you to learn from these comics.}
 #
 # Special message for plot
@@ -508,14 +508,14 @@
 #
 {910}{1}{Renaissance, you say? Yes, there are a lot of rumors about this place. Even the last ghoul in the Radius heard that there is a promising RENAISSANCE somewhere nearby, where it is warm, quiet, calm, plenty of food and water... Everyone knows this place exists, but hell, no one, absolutely no one, knows where it is.}
 {911}{}{I see. Thanks for the information.}
-{912}{2}{Renaissance... [grins] Yeah, man, there is such place, nice and warm. I know a lot of people have been looking for it. They even say someone have found it, but no one has ever seen this "someone" since. I mean, there was one kid who'd been to the Renaissance, but I don't know what happened to him.}
+{912}{2}{Renaissance... [grins] Yeah, man, there is such a place, nice and warm. I know a lot of people have been looking for it. They even say someone has found it, but no one has ever seen this "someone" since. I mean, there was one kid who'd been to the Renaissance, but I don't know what happened to him.}
 {913}{}{If somebody was there, then this place really exists. Thanks for that, too.}
-{914}{3}{Ah, so that's what you're up to! There was one just like you - just as inquisitive. But now he is not [chuckles]. The Renaissance is a locked down secret governmental city. Probably, some presidents or monarchs live in there. And people like you will be shot from half a mile on the way to this Renaissance of yours! Mark my words, stop looking for him, or you'll end up badly.}
+{914}{3}{Ah, so that's what you're up to! There was one just like you - just as inquisitive. But now he is not [chuckles]. The Renaissance is a locked-down secret governmental city. Probably, some presidents or monarchs live there. And people like you will be shot from half a mile on the way to this Renaissance of yours! Mark my words, stop looking for him, or you'll end up badly.}
 {915}{}{Yeah, that sounds dangerous... I guess I need to be more careful.}
-{916}{4}{The city of Eden, yeah... [rolls his eyes] They say it has smart vending machines that give out delicious food, provide light and heat... But, and I know for a fact, this place is very well hidden somewhere in the mountains. It's even surrounded by something that clouds your thoughts. You may not believe it, but a lot of people were looking for it and never came back! There was, however, one boy, who did. And he not only returned, but also drew a map of how to find this place. The rumor goes like he divided this map into 4 parts and hid it in different corners of the Radius... Who knows if any of that is true. Maybe there's no such place as Renaissance, after all?}
+{916}{4}{The city of Eden, yeah... [rolls his eyes] They say it has smart vending machines that give out delicious food, provide light and heat... But, and I know for a fact, this place is very well hidden somewhere in the mountains. It's even surrounded by something that clouds your thoughts. You may not believe it, but a lot of people were looking for it and never came back! There was, however, one boy, who did. And he not only returned but also drew a map of how to find this place. The rumor goes like he divided this map into 4 parts and hid it in different corners of the Radius... Who knows if any of that is true. Maybe there's no such place as Renaissance, after all?}
 {917}{}{A map? With a map, it would be much easier to find it. Of course, if the Renaissance really exists...}
 {918}{}{There's not much I can tell you. It seems that there is something somewhere, but no one knows where and what.}
-{919}{}{Renaissance, Paradise City, Heaven... [winks] It's like an ordinary heaven - it doesn't exist.}
+{919}{}{Renaissance, Paradise City, Heaven... [winks] I think it's like normal heaven - it doesn't exist.}
 {920}{}{There are many rumors, but no one knows anything specific.}
 {921}{}{Yes, people say different things, so you can choose what to believe and what not...}
 {922}{}{I see.}
@@ -534,7 +534,7 @@
 {936}{}{Herald! Tell me about the Gods!}
 {937}{}{Is it true that there are terrible creatures outside?}
 {938}{}{Mom says this is where we belong. And where is the place for the Gods, Herald?}
-{940}{}{Uuuh, Warden! What a cool armor!}
+{940}{}{Uuuh, Warden! What cool armor!}
 {941}{}{Warden, can I touch the armor? At least a little bit?}
 {942}{}{[stands at attention] Reporting! No horrible creatures have been seen under the bed!}
 #Security guards

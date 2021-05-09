@@ -45,14 +45,14 @@
 
 
 {50}{}{[He grins and returns to what he was doing] You're gonna go far, young lad }
-{51}{}{! Still, behave yourself, old man Carl can fix your rifle in a way that it'll blow yer hands off, heh-hee! Carl is me, by the way. Come by if you need something.}
+{51}{}{! Still, behave yourself, old man Carl can fix your rifle in a way that it'll blow yer hands off, heh-hee! Carl is me, by the way. Come by if you need anything.}
 {52}{010}{Good, I might need something right now.}
 {53}{999}{Got it. See you later, Carl.}
 
 
 {60}{}{[He visibly loses interest in you and continues his repairings] Oh, don't be. You are a sorry sight to see, young lad. The ones like you don't last long around here without a good piece. If you need something - ask, I'll help with what I can.}
 {61}{010}{Uh, yeah. I might need something right now.}
-{62}{999}{Okay, thanks. Will keep that in mind.}
+{62}{999}{Okay, thanks. I will keep that in mind.}
 
 {70}{}{Carl, you know, recently there was some accident with one particular warehouse keeper... Would you like to take that position?}
 {71}{}{You mean, work for Chris? Weeeell... Yeah, I suppose that lil' parts are worth it! I agree, you can tell Chris that.}
@@ -85,23 +85,23 @@
 {114}{072}{You agreed to help me fix the broken engine, remember?}
 
 
-{110}{}{A green armor?.. Let me think... Oh yeah I remember! You can just go and buy it from one of our vendors! That one, near the entrance! Didn't you realize that yourself?}
+{110}{}{A green armor?.. Let me think... Oh yeah, I remember! You can just go and buy it from one of our vendors! That one, near the entrance! Didn't you realize that yourself?}
 {111}{012}{Nah, it's too expensive... Is there any other way to get one? Or something like it?}
 {112}{999}{You are actually right, I'll go check upon that vendor.}
 
 
 {120}{}{Hmm, you want to get yourself a nice suit of armor and not to spend batteries? You know, there IS a way! I might even help you out, except, you know, there's nothing free in the world... I might have some broken machinery over here, standing idle for a week already. I would fix it myself, but I need the parts, which are in the Chris warehouse. Without the machine I'm doing everything with my bare hands...}
 {121}{QA}{I see. In the warehouse, you say? We'll fix your machinery, don't worry.}
-{122}{QA}{Yeah-yeah, here we go again, go there, find that... Okay, will do.}
+{122}{QA}{Yeah-yeah, here we go again, go there, find that... Okay, going.}
 {123}{010}{Oh, I suddenly have a headache... Let's change the subject.}
 {124}{999}{What? Go somewhere? Bring something? Nah, I'll do fine without it.}
 
 
-{125}{}{That's wonderful! You are so acommodating, young lad, everyone else just told me to get the hell off... Uh, don't mind that. That lazy ass Chris already knows I need the parts. So be kind, bring them to me, I'll stand here and wait.}
+{125}{}{That's wonderful! You are so accommodating, young lad, everyone else just told me to get the hell off... Uh, don't mind that. That lazy ass Chris already knows I need the parts. So be kind, bring them to me, I'll stand here and wait.}
 {126}{999}{Yeah, sure, be right back.}
 {127}{999}{Sounds simple. Wait here.}
 
-{130}{}{Did I? Of course I did, that's my kit. Behind these walls they call it Ultra-Duper-Something, when it's just a dozen of different common tools in one pack, heh-heh... Only somehow our boss decided that the thing is too valuable, if so many people talk about it, so he stashed it somewhere. I wouldn't advise you to poke your nose around, searching for it - things might get nasty!}
+{130}{}{Did I? Of course I did, that's my kit. Beneath these walls, they call it Ultra-Duper-Something, when it's just a dozen of different common tools in one pack, heh-heh... Only somehow our boss decided that the thing is too valuable if so many people talk about it, so he stashed it somewhere. I wouldn't advise you to poke your nose around, searching for it - things might get nasty!}
 {131}{}{Thanks for the advice. I'll go think it over.}
 {132}{}{We'll see about that. I have another question.}
 
@@ -124,7 +124,7 @@
 {232}{999}{Oh well, thank you for that.}
 
 
-{400}{}{Why not? We are now standing in the workshop. I'm in charge of fixing things here and Billy Stone is in charge for talking, know what I mean? Everyone here does what he says. And his boss is the guy named Loudmouth, our leader and chief. He is kinda nervous one, but you would be too with the customs around here, tee-hee.}
+{400}{}{Why not? We are now standing in the workshop. I'm in charge of fixing things here and Billy Stone is in charge of talking, know what I mean? Everyone here does what he says. And his boss is the guy named Loudmouth, our leader, and chief. He is kinda nervous one, but you would be too with the customs around here, tee-hee.}
 {401}{041}{Who the hell is Billy Stone?}
 {402}{010}{I see. I want to ask something else.}
 {403}{}{Do not bother me, youngling. It seems you are not stupid, so you'll get how are the things here eventually.}
@@ -135,8 +135,8 @@
 {411}{010}{Understood, I'll keep that in mind. I want to ask something else.}
 
 
-{500}{}{Don't you see it by now? Tweaking this, filling that... Mostly, I'm trying to provide our fellas with weapons they can shoot, not dig holes in the ground. Just imagine: you are young dashing Jackal, going to raid, trying to loot something far away from here - and there are some hungry mad creatures ambushing you - RRAWR! And they are biting you legs! And you would be glad to blast their ass off with your favourite sawed-off - but it's jammed! That's when - right before death - you remember that you, for a long time already, didn't take your gun to old man Carl for maintenance...}
-{501}{051}{Oh... What a colourful description. Tell me then, what kind of weapons can you fix?}
+{500}{}{Don't you see it by now? Tweaking this, filling that... Mostly, I'm trying to provide our fellas with weapons they can shoot, not dig holes in the ground. Just imagine: you are young dashing Jackal, going to raid, trying to loot something far away from here - and there are some hungry mad creatures ambushing you - RRAWR! And they are biting your legs! And you would be glad to blast their ass off with your favorite sawed-off - but it's jammed! That's when - right before death - you remember that you, for a long time already, didn't take your gun to old man Carl for maintenance...}
+{501}{051}{Oh... What a colorful description. Tell me then, what kind of weapons can you fix?}
 {502}{010}{Yeah-yeah, don't get carried away. I want to ask something else.}
 {503}{999}{Uh, I see. Okay, I need to go - have something to do...}
 
@@ -163,7 +163,7 @@
 {623}{999}{So neat! Thanks, Carl! Take care!}
 
 {700}{}{As I said - you did broke something, ain't ya? Everything you touch, you break! How you can even be like that? Man, gimme that piece of yours... [he examines engine for some time] ...Yes, just as I suspected... You already toyed with it, right? Did you try to break it on purpose?}
-{701}{}{Okay, I'm sick of your crap. [take engine and leave]}
+{701}{}{Okay, I'm sick of your crap. [take the engine and leave]}
 {702}{}{I almost had my arm crooked while trying to pull it out! Can you fix this or not?}
 
 {710}{}{Whaaat!? To fix hands is not my business, young lad. Although you might want to do it eventually, you know... Jokes aside, the job is tough... 300 batteries, no less!}
@@ -174,6 +174,6 @@
 {721}{}{Damn, I ran around the whole Radius to gather this much! Here, now repair it.}
 {722}{}{Yeah-yeah, soon I'll get the necessary amount.}
 
-{730}{}{"Now repair it", of course, princess... [Carl puts a screwdriver to the side of engine and starts to smash it with a hammer, until some piece of metal breaks off the mechanism with a funny clinking sound.] Phew, barely! This thing alone costs around one hundred batteries! [He continues to poke insides of engine. After some time he ceremonially returns it to you] Here you go, lad! Use with caution! And when you break it again...}
-{731}{}{Yeah, I remember - "300 batteries" [take engine]}
-{732}{}{No way in hell! I'll handle it myself next time... [take engine]}
+{730}{}{"Now repair it", of course, princess... [Carl puts a screwdriver to the side of the engine and starts to smash it with a hammer, until some piece of metal breaks off the mechanism with a funny clinking sound.] Phew, barely! This thing alone costs around one hundred batteries! [He continues to poke insides of the engine. After some time he ceremonially returns it to you] Here you go, lad! Use with caution! And when you break it again...}
+{731}{}{Yeah, I remember - "300 batteries" [take the engine]}
+{732}{}{No way in hell! I'll handle it myself next time... [take the engine]}

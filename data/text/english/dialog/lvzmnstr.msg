@@ -34,8 +34,8 @@
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ (á® §¢¥à¥¬???)
 #
-{10}{}{You killed enough of cave monsters, but their queen mother is still a serious threat to Livos residents!}
-{11}{}{The queen mother is dead, but other cave monsters are still a serious threat to Livos residents!}
+{10}{}{You killed enough cave monsters, but their queen mother is still a serious threat to Livos residents!}
+{11}{}{The queen is dead, but other cave monsters are still a serious threat to Livos residents!}
 {12}{}{Phew! Now this place can be considered safe enough.}
 {13}{}{}
 {14}{}{}
@@ -45,9 +45,9 @@
 ##¤«ï ¤ëàë ¢ ¯¥é¥àã
 {18}{}{A rope. I definitely need one here.}
 {19}{}{Umm... I need to put down there something flexible and reliable, so I could climb out when I need to.}
-{20}{}{Uhh.. This hole is an entrance to the cave. If I jump into it - how do I get back?}
-{21}{}{Uhhh... Err... [you have some kind of thought in your head! And now you lost it.]}
-{22}{}{You swiftly fixate the rope with a knot and climb down using it.}
+{20}{}{Uhh... This hole is an entrance to the cave. If I jump into it, how do I get back?}
+{21}{}{Uhhh... Err... [you have some kind of thought in your head! And now you've lost it.]}
+{22}{}{You swiftly fixate the rope with a knot. Now you can climb down.}
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (®«®¦¨â¥«ì­ ï à¥ ªæ¨ï)
 #

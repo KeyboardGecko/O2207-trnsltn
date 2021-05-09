@@ -23,14 +23,14 @@
 #ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
 #
 {1}{}{You see a scientist.}
-{2}{}{You see a man in white coat.}
-{3}{}{You see white collare.}
+{2}{}{You see a man in a white coat.}
+{3}{}{You see the white-collar.}
 {4}{}{You see an engineer.}
 {5}{}{You see a scientist.}
-{6}{}{This scientist looks like scientist.}
-{7}{}{Glasses, baldiness, coat that someday was white.}
+{6}{}{This scientist looks like a scientist.}
+{7}{}{Glasses, baldness, and coat that someday was white.}
 {8}{}{He is always contemplating something and wrinkles his forehead.}
-{9}{}{Shifty eyes and bitten lips make him look as a thinker.}
+{9}{}{Shifty eyes and bitten lips make him look like a thinker.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #

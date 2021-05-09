@@ -34,7 +34,7 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 {10}{}{Of course, I don't have many rarities, but I assure you - you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, forged by finest craftsmen from all corners of the Radius!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by the finest craftsmen from all corners of the Radius!}
 {12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}

@@ -25,7 +25,7 @@
 # до знакомства
 #
 {1}{}{You see a man.}
-{2}{}{Unshaved man, wearing old black tuxedo and glasses. He looks busy.}
+{2}{}{Unshaved man, wearing an old black tuxedo and glasses. He looks busy.}
 #
 # после знакомства
 #

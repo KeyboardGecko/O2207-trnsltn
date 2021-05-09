@@ -49,7 +49,7 @@
 {16}{}{You got me back on my feet!}
 {17}{}{Oh, thank you! Now I can serve much harder than before!}
 {18}{}{Thank you, I feel much better!}
-{19}{}{Thanks a lot! At last I can go back to work!}
+{19}{}{Thanks a lot! At last, I can go back to work!}
 #
 #гдеяэ мювхмюеряъ дхюкнц оняке гмюйнлярбю
 #

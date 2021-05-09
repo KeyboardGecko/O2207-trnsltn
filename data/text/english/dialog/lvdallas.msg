@@ -30,21 +30,21 @@
 {101}{011}{I'm looking for Ludwig's book of wave science. Did you see it?}
 {102}{020}{Heard any rumors?}
 {103}{013}{Tell me about this place. What's in here?}
-{104}{014}{I want to know about inhabitants of this place.}
+{104}{014}{I want to know about the inhabitants of this place.}
 {105}{024}{What is it that you do here?}
 {106}{025}{I want to talk about water deliveries to the NWO.}
 {107}{036}{Let's talk about Mignon.}
 {108}{999}{I need to go. Talk later.}
 
 {110}{}{[Dallas calmly looks into your eyes] I don't have his book. I'm not interested in science to such a degree.}
-{111}{012}{Do you know who might've took it?}
+{111}{012}{Do you know who might've taken it?}
 
-{120}{}{[Dallas thinks for a second] Let's see... My parents did't take it for sure - they just don't need it. Fox also has no interest in science book. She likes to read only old magazines, mainly because of pictures. So - it's not McKinseys. Try ask other families - Hortons or Duntons. }
+{120}{}{[Dallas thinks for a second] Let's see... My parents didn't take it for sure - they just don't need it. Fox also has no interest in a science book. She likes to read only some old magazines, mainly because of pictures. So - it's not McKinseys. Try to ask other families - Hortons or Duntons. }
 {121}{023}{Tell me about your family.}
-{122}{019}{What can yu tell me about other families?}
+{122}{019}{What can you tell me about other families?}
 {123}{999}{I see. I'll go look somewhere else.}
 
-{130}{}{[Dallas leisurely starts talking] This vault was built around two hundred years ago. It's inhabited by four families - Schweins, Hortons, Duntons and us, McKinseys. We all are the descendants of famous people.}
+{130}{}{[Dallas leisurely starts talking] This vault was built around two hundred years ago. It's inhabited by four families - Schweins, Hortons, Duntons, and us, McKinseys. We all are the descendants of famous people.}
 {131}{028}{I'd like to know more about Hortons.}
 {132}{022}{Tell me about Duntons.}
 {133}{021}{Can you tell me about Schweins?}
@@ -57,9 +57,9 @@
 {143}{016}{Oh yeah, since I have become the inhabitant of Livos, there's plus one more fanatic and schizophrenic!}
 {144}{015}{What the dwellers are busy with?}
 {145}{010}{I'd like to ask about something else.}
-{146}{999}{I've just remember I need to do something. We'll talk later.}
+{146}{999}{I've just remembered I need to do something. We'll talk later.}
 
-{150}{}{Every family has responsibilities and sphere of influence. Who you want to know about - Schweins, Duntons, Hortons or us, McKinseys?}
+{150}{}{Every family has responsibilities and a sphere of influence. Who you want to know about - Schweins, Duntons, Hortons or us, McKinseys?}
 {151}{022}{Duntons.}
 {152}{028}{Hortons.}
 {153}{021}{Schweins.}
@@ -67,7 +67,7 @@
 {155}{010}{I'm not in the mood to talk about families. Let me ask something else.}
 {156}{999}{I don't have time to chat right now. I'd better go.}
 
-{160}{}{[Dallas didn't even flinch] I never doubted it. Only a psycho would run around Radius, which is full of danger, bandits and radiation. No offense.}
+{160}{}{[Dallas didn't even flinch] I never doubted it. Only a psycho would run around Radius, which is full of danger, bandits, and radiation. No offense.}
 {161}{017}{What if this psycho would want to cave your head in?}
 {162}{010}{Maybe. Let me ask something else.}
 {163}{999}{Yes, I'm a psycho. I'd better go, I think I'm being followed.}
@@ -83,7 +83,7 @@
 {183}{999}{I'll go look for them. See you.}
 
 {1901}{}{I don't think it would be right to talk details about this with... Non-locals. No offense.}
-{1902}{}{Livos is inhabited by four families - Schweins, Hortons, Duntons and us, McKinseys. Who do you want to know about?}
+{1902}{}{Livos is inhabited by four families - Schweins, Hortons, Duntons, and us, McKinseys. Who do you want to know about?}
 {191}{023}{Tell me about your family.}
 {192}{022}{I want to know about Duntons.}
 {193}{021}{What do I need to learn about Duntons?}
@@ -94,17 +94,17 @@
 {2001}{}{I'm not into rumors. If you want to talk about them, you'd better look for my sister Fox. She likes to blab. It pisses everyone around her, even me. Sometimes, she can stick to me and chirp without end. She is able to talk for hours and give zero useful information.}
 {201}{010}{Okay, I want to ask something else.}
 {202}{999}{I'll go speak to her. Want to learn more about local rumors.}
-{2002}{}{I'm not into rumors. If you want to talk about them, you'd better look for my sister Fox. Actually, for be able to do that, you should become the inhabitant of Livos. Edward decides who is worthy to live among us.}
+{2002}{}{I'm not into rumors. If you want to talk about them, you'd better look for my sister Fox. Actually, to be able to do that, you should become the inhabitant of Livos. Edward decides who is worthy to live among us.}
 {203}{999}{So, it's all that I need to do then... See you around.}
 
-{210}{}{The Schweins are not doing anything helpful. Ludwig sits in his laboratory, trying to turn his fantasies into reality of material world. Cristopher is an average and greedy vendor, you could see him by the entrance. I can't stand him. Also, need to mention an old man Edward, who thinks that he is the most important person in the vault. When in fact, he just watches the entrance. Even the child could handle this job. Other ones are not worth mentioning.}
+{210}{}{The Schweins are not doing anything helpful. Ludwig sits in his laboratory, trying to turn his fantasies into the reality of the material world. Christopher is an average and greedy vendor, you could see him by the entrance. I can't stand him. Also, need to mention an old man Edward, who thinks that he is the most important person in the vault. When in fact, he just watches the entrance. Even the child could handle this job. Other ones are not worth mentioning.}
 {211}{022}{What can you tell me about Duntons?}
 {212}{028}{I want to know about Hortons.}
 {213}{023}{Can you tell me about your family?}
 {214}{029}{Why you don't like Christopher?}
 {215}{010}{Actually, I'd like to talk about something else.}
 
-{220}{}{Of all Dunton family, only Emily is worth mentioning. Bossy and arrogant bitch. Thinks she is better than everyone, when in reality she just has overblown self-esteem. She doesn't even take her husband for a living being, not mentioning the others. Emily gives speeches on the meetings, but for the most time, she is worthless.}
+{220}{}{Of all the Dunton family, only Emily is worth mentioning. Bossy and arrogant bitch. Thinks she is better than everyone when in reality she just has overblown self-esteem. She doesn't even take her husband for a living being, not mentioning the others. Emily gives speeches at the meetings, but for the most time, she is worthless.}
 {221}{021}{What can you tell me about Schweins?}
 {222}{028}{I want to learn about Hortons.}
 {223}{023}{Tell me about your family, McKinseys.}
@@ -117,8 +117,8 @@
 {234}{022}{I'd like to know about Duntons.}
 {235}{010}{Let's change the subject. I want to ask something else.}
 
-{2401}{}{[Dallas gives you a little smile] Why, patron, can't remember who's doing what? I deal in exports of drinkable water into settlements of Radius. I make contracts and manage the deliveries. With all gallantry, I can say that my job is the most important for survival of Livos. In exchange we get the canned food and other goods.}
-{2402}{}{[Dallas points into his papers] I deal in exports of drinkable water into settlements of Radius. I make contracts and manage the deliveries. With all gallantry, I can say that my job is the most important for survival of Livos. In exchange we get the canned food and other goods.}
+{2401}{}{[Dallas gives you a little smile] Why, patron, can't remember who's doing what? I deal in exports of drinkable water into settlements of Radius. I make contracts and manage the deliveries. With all gallantry, I can say that my job is the most important for the survival of Livos. In exchange, we get the canned food and other goods.}
+{2402}{}{[Dallas points into his papers] I deal in exports of drinkable water into settlements of Radius. I make contracts and manage the deliveries. With all gallantry, I can say that my job is the most important for the survival of Livos. In exchange, we get the canned food and other goods.}
 {241}{025}{I want to talk about water deliveries to the NWO.}
 {242}{042}{Can you sell me clean water?}
 {243}{010}{One more question.}
@@ -130,10 +130,10 @@
 {260}{}{I won't talk details about water deliveries. If there's taste, then it should be like this. Period.}
 {261}{010}{Hm... Alright, I'll ask something else.}
 
-{270}{}{[Dallas scratches his chin] Well... We are definitely not interested in profit drops. Okay, I'll tell you about the taste. Due to the large quantities of exported water, we are concerned with stability of our water filter. So we resorted to backup option of water processing. We use carbon canisters, charcoal filters. Still, the filtration quality stays at highest level. You can tell them that our water is good. Nothing to worry about.}
+{270}{}{[Dallas scratches his chin] Well... We are definitely not interested in profit drops. Okay, I'll tell you about the taste. Due to the large quantities of exported water, we are concerned with the stability of our water filter. So we resorted to the backup option of water processing. We use carbon canisters, charcoal filters. Still, the filtration quality stays at the highest level. You can tell them that our water is good. Nothing to worry about.}
 {271}{999}{Great, I'll tell them everything is alright.}
 
-{280}{}{Ashton Horton, the head of family, makes repairings in the vault. He can't fix serious ones though, only something little. He and his sister, Claudia, are a little off. You'll see what I mean when you talk to them. [His voice suddenly becomes shaky, eyes looking away] And there's Mignon, daughter of Claudia and deceased Peter... A beautiful flower, blooming in the family of schizophrenic...}
+{280}{}{Ashton Horton, the head of the family, makes repairings in the vault. He can't fix serious ones though, only something little. He and his sister, Claudia, are a little off. You'll see what I mean when you talk to them. [His voice suddenly becomes shaky, eyes looking away] And there's Mignon, daughter of Claudia and deceased Peter... A beautiful flower, blooming in the family of schizophrenic...}
 {281}{030}{I see you have a thing about Mignon.}
 {282}{021}{Tell me about Schweins.}
 {283}{022}{What can you say about Duntons?}
@@ -143,7 +143,7 @@
 {2901}{}{He was getting in the way of our relationship with Mignon, but now she will be my wife. All of this - thanks to you!}
 {2902}{}{[He clenches his fists] Christopher is getting into our relationship with Mignon! Stupid, greedy haggler!}
 {2903}{}{This scumbag stole my Mignon! I hate him!}
-{291}{030}{You and Mignon - are you in relationship?}
+{291}{030}{You and Mignon - are you in a relationship?}
 {292}{010}{I want to ask something else.}
 
 {300}{}{Yes, I'm in love with Mignon, cute little blonde beauty... And I want to marry her. But there's this Christopher Schwein, always getting in our way! He wants to steal her from me! This insolent and rough man doesn't deserve to be a husband of such an extraordinary girl!}
@@ -154,32 +154,32 @@
 {311}{032}{How exactly are you going to make your move?}
 
 {320}{}{Mignon likes romantic things. We can talk for hours - about feelings, beauty, dreams, love. But she also likes straight-forward and brazen men. Christopher is exactly like this, despite not being able to put two words together. If only I could make a romantic evening for her... She would have definitely picked me over him. Or maybe I need her to start hating Christopher for something. That would work too.}
-{321}{033}{Why don't you organize such evening?}
+{321}{033}{Why don't you organize such an evening?}
 
 {330}{}{The thing is, we don't have any music disks left in the vault. If I would have found one CD with romantic songs, her heart would definitely be mine.}
-{331}{034}{I could try to look for such CD for you. And what about Christopher?}
+{331}{034}{I could try to look for a CD for you. And what about Christopher?}
 
-{340}{}{Christopher attracts her with his straight-forwardness and self-confidence. But in reality, this opportunistic scumbag is willing to sell his own mother for a couple of extra batteries. He tends to have a bit of a temper, so he can be provoked.}
+{340}{}{Christopher attracts her with his straightforwardness and self-confidence. But in reality, this opportunistic scumbag is willing to sell his own mother for a couple of extra batteries. He tends to have a bit of a temper, so he can be provoked.}
 {341}{035}{I'd like to help you with this matter.}
-{342}{010}{I don't want to get involved into your love games. Let's change the subject.}
+{342}{010}{I don't want to get involved in your love games. Let's change the subject.}
 
-{350}{}{You would? That's great! Convince Mignon that Christopher Schwein is not right for her, that he is an agressive and stale idiot. Or if you find any CD with romantic music, bring it to me!}
+{350}{}{You would? That's great! Convince Mignon that Christopher Schwein is not right for her, that he is an aggressive and stale idiot. Or if you find any CD with romantic music, bring it to me!}
 {351}{999}{Okay, I'll remember that. See you around.}
 
 {360}{}{What do you want to talk about?}
 {361}{037}{What did you want me to do, so you and Mignon could be together?}
-{362}{038}{I've found music CD for your date.}
+{362}{038}{I've found a music CD for your date.}
 {363}{039}{I talked to Mignon, she doesn't want to see Christopher anymore. Now you two can be together.}
 {364}{040}{I talked to Christopher about you and Mignon.}
 {365}{010}{Nothing for now. I'd like to ask something else.}
 
 {370}{}{Get me some music CDs or talk Mignon into leaving Christopher. Maybe you can even get him into aggression. }
-{371}{999}{I'll se what I can do.}
+{371}{999}{I'll see what I can do.}
 
 {380}{}{Great! That's just what I need! We are going to have a wonderful evening with my lovely Mignon, it will be unforgettable! Here, take this present from me.}
 {381}{999}{Thanks, Dallas. Be happy together.}
 
-{390}{}{Great! That's great news! Now we are going to be a couple at last, nothing would get in our way! Here, take this present from me.}
+{390}{}{Great! That's great news! Now we are going to be a couple, at last, nothing would get in our way! Here, take this present from me.}
 {391}{999}{Thanks, Dallas. Be happy together.}
 
 {400}{}{So? What are you trying to say?}
@@ -208,24 +208,24 @@
 {453}{051}{To give you an opinion, I need to drink it whole.}
 {454}{047}{No, I think you can't sell this.}
 
-{460}{}{Good! Here's some batteries for your efforts. This water will be delivered into one of the Radius settlements.}
+{460}{}{Good! Here are some batteries for your efforts. This water will be delivered to one of the Radius settlements.}
 {461}{010}{Thanks. Onto the questions.}
 
-{470}{}{That's a pity. Then we'll cancel the shipment of this water into Radius settlements. Here's some batteries for your efforts.}
+{470}{}{That's a pity. Then we'll cancel the shipment of this water into Radius settlements. Here are some batteries for your efforts.}
 {471}{010}{Thanks. Onto the questions.}
 
-{480}{}{[Water has a very unpleasant taste. Just as you finish to drink half of the bottle, you feel sick. Dallas waits for your answer.] So? How is it?}
+{480}{}{[Water has a very unpleasant taste. Just as you finish drinking half of the bottle, you feel sick. Dallas waits for your answer.] So? How is it?}
 {481}{051}{I want to drink it to the bottom.}
 {482}{049}{The water is okay, you can sell it.}
 {483}{050}{This is awful, I feel sick.}
 
-{490}{}{Good! Here's some batteries for your efforts. This water will be delivered into one of the Radius settlements.}
+{490}{}{Good! Here are some batteries for your efforts. This water will be delivered to one of the Radius settlements.}
 {491}{010}{Thanks. Onto the questions.}
 
-{500}{}{That's a pity. Then we'll cancel the shipment of this water into Radius settlements. Here's some batteries for your efforts.}
+{500}{}{That's a pity. Then we'll cancel the shipment of this water into Radius settlements. Here are some batteries for your efforts.}
 {501}{010}{Thanks. Onto the questions.}
 
-{510}{}{[You suddenly feel VERY sick. Just as you finish the bottle, you instantly throw up] Hey, are you alright? This water definitely can't be put on the market. Here, take some batteries for your efforts. And here's the cure from poisoning. I think you need it. }
+{510}{}{[You suddenly feel VERY sick. Just as you finish the bottle, you instantly throw up] Hey, are you alright? This water definitely can't be put on the market. Here, take some batteries for your efforts. And here's the cure for poisoning. I think you need it. }
 {511}{010}{Yuck... [spit] Thanks... Now, onto the questions.}
 
 {520}{}{You approved the water of questionable quality. Probably, someone is going to get sick.}

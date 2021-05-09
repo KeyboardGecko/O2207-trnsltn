@@ -34,9 +34,9 @@
 {3}{}{You see Naomi's assistant.}
 {4}{}{You see Naomi's employee.}
 {5}{}{You see a young slave.}
-{6}{}{She looks frightened. She has troubles to focus her eyes on something particular.}
-{7}{}{Her clothes is covered with stains, spots and dirt.}
-{8}{}{Her hands are shaky, but when he starts to work - they became firm, like made of granite.}
+{6}{}{She looks frightened. She has troubles focusing her eyes on something particular.}
+{7}{}{Her clothes are covered with stains, spots, and dirt.}
+{8}{}{Her hands are shaky, but when he starts to work - they became firm like made of granite.}
 {9}{}{She is constantly looking around.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ

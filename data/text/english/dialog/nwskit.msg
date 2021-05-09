@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a man behind bars. He has a shady look: left eye is squinted, like he's suspicious of something, some of his front teeth are missing. This guy's soft gaze makes you feel depressed. As you want to leave, he starts to talk] Hey, what are you looking at?! Another one in line to spit into my face?}
+{10}{}{[You see a man behind bars. He has a shady look: his left eye is squinted, like he's suspicious of something, some of his front teeth are missing. This guy's soft gaze makes you feel depressed. As you want to leave, he starts to talk] Hey, what are you looking at?! Another one in line to spit into my face?}
 {11}{002}{Do I need to?}
 {12}{003}{Why are you sitting here?}
 {13}{004}{Hello, for starters.}
@@ -31,8 +31,8 @@
 {22}{006}{You are not very talkative, I see.}
 
 
-{30}{}{Hahahahaahahah! Yeah, right... No, it's a good question, really - I was just thinking about it myself. Waiting for someone to come into senses and let me out of here.}
-{31}{007}{What, is this, like, a prison? Caused some trouble and they put you here to think about your behaviour? Oh! Did you kill someone?}
+{30}{}{Hahahahaahahah! Yeah, right... No, it's a good question, really - I was just thinking about it myself. Guess I'm just waiting for someone to come and let me out.}
+{31}{007}{What, is this, like, a prison? Caused some trouble and they put you here to think about your behavior? Oh! Did you kill someone?}
 {32}{008}{And how did you end up here?}
 
 
@@ -42,7 +42,7 @@
 
 
 {50}{}{[He covers his face with a palm of his hand and shakes his head] Oh my god, what an idiot...}
-{51}{008}{Why don't you introduce yoursef and get to the point of your problem? I'm getting tired of it. }
+{51}{008}{Why don't you introduce yourself and get to the point of your problem? I'm getting tired of it. }
 {52}{009}{Okay, I'll leave you for now...}
 
 
@@ -51,13 +51,13 @@
 {62}{013}{I could try. Or I'll go.}
 
 
-{70}{}{Not exactly. Someone's been stealing the canned food from warehouse, and I'm the suspect. You know, the warehouse. Near the factory. There's also a room of our sadistic doctor Hinder in it... By the way, I'm Skeet, warehouse supervisor. Guarded, keep in mind, fuckin' warehouse. Fort Knox, my ass.}
+{70}{}{Not exactly. Someone's been stealing the canned food from the warehouse, and I'm the suspect. You know, the warehouse. Near the factory. There's also a room of our sadistic doctor Hinder in it... By the way, I'm Skeet, the warehouse supervisor. Guarded, keep in mind, fuckin' warehouse. Fort Knox, my ass.}
 {71}{011}{I'm }
 {72}{011}{. Any ideas who might be stealing?}
 {73}{012}{I really hope you don't put it on some mystical force, do you?}
 
 
-{80}{}{Man... [he heavily sighs] That's how it is: I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor]}
+{80}{}{Man... [he heavily sighs] That's how it is: I'm in charge of the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans! He's doing it pretty well! Of course, everyone around thinks it's me. The thefts are still going, even now - but no one is listening to me, let alone has a desire to help. They say I have an accomplice. [he powerfully spits on the floor]}
 {81}{999}{Okay, I'll go and try to find out something. }
 {82}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
@@ -76,12 +76,12 @@
 {122}{013}{Enough with the jokes, tired of them. Unlike you, I'm here voluntarily. I step out that door, and you are all by yourself.}
 
 
-{130}{}{Okay, okay. Listen, some asshole set me up: he steals the cans from factory warehouse at nights, with extreme success, mind that, and everyone else think it's my doing. Even after they put me here, the cans are still getting stolen - and what do they think? Of course, that I persuaded someone to continue doing it, to throw the suspicions off me! And that's all I have to tell, basically... Listen, If you can help in any way that would make me free, I won't forget that.}
+{130}{}{Okay, okay. Listen, some asshole set me up: he steals the cans from factory warehouse at nights, with extreme success, mind that, and everyone else thinks it's my doing. Even after they put me here, the cans are still getting stolen - and what do they think? Of course, that I persuaded someone to continue doing it, to throw the suspicions off me! And that's all I have to tell, basically... Listen, If you can help in any way that would make me free, I won't forget that.}
 {131}{999}{Now we're talking, Skeet. I'll try to help. See you around.}
 {132}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
 
-{140}{}{Aren't you tired of being a smart-ass? Think about it - someone set me up bloody well, using vulnerable spots of warehouse and its security, masterfully fucking up everyone, including me. }
+{140}{}{Aren't you tired of being a smart-ass? Think about it - someone set me up bloody well, using vulnerable spots of the warehouse and its security, masterfully fucking up everyone, including me. }
 {141}{999}{Okay, I'll go and try to find out something. }
 {142}{999}{Won't make any promises, but if I learn something, I'll let you know.}
 
@@ -100,12 +100,12 @@
 
 
 {160}{}{Wh- WHAT? How?! You are messing with me, man! How is that possible?!}
-{161}{020}{Easy - a wild Chimera has been climbing the fence poles, jumping through a hole and getting into a warehouse. After that, obviously, she had been stealing the cans with food, unpunished. }
+{161}{020}{Easy - a wild Chimera has been climbing the fence poles, jumping through a hole, and getting into a warehouse. After that, obviously, she had been stealing the cans with food, unpunished. }
 
 
 {170}{}{Spill it.}
-{171}{021}{Here's one - the man walks around the desert, thirsty. Suddenly, he notices a sign pointing right, saying "water - 3km". He gets excited, and goes right. Still very thirsty! On hands and knees he makes it to the next sign, pointing left, saying "water - 2km". So, with the last of his strength, he crawls even further, getting to the third sign - it points straight down, saying "water - 1km".}
-{172}{022}{For example... Skeet - that's it, behind the bars he sit. Cursing and swearing, not doing shit...}
+{171}{021}{Here's one - the man walks around the desert, thirsty. Suddenly, he notices a sign pointing right, saying "water - 3 miles". He gets excited and goes right. Still very thirsty! On hands and knees, he makes it to the next sign, pointing left, saying "water - 2 miles". So, with the last of his strength, he crawls even further, getting to the third sign - it points straight down, saying "water - 1 mile".}
+{172}{022}{For example... Skeet - that's it, behind the bars he sits. Cursing and swearing, not doing shit...}
 {173}{999}{Nah, forget it. We'll talk later.}
 
 
@@ -131,18 +131,18 @@
 {221}{999}{Haha-ha! There, there. Okay, I need to go, talk later.}
 
 
-{230}{}{What to say? There was a hole once. We fixed it pretty good -  partially covered it with some junk we had, somewhere even put a new pieces... Why do you care about the fence? Do you think someone could slip through? Even my dick won't fit in, you know. Maybe only in one place there... So, forget it.}
+{230}{}{What to say? There was a hole once. We fixed it pretty well -  partially covered it with some junk we had, somewhere even put new pieces... Why do you care about the fence? Do you think someone could slip through? Even my dick won't fit in, you know. Maybe only in one place there... So, forget it.}
 {231}{024}{Skeet, tell me, where is that hole where you put your dick?}
 {232}{024}{Tell me where it is - I want to stick mine too.}
 
 
-{240}{}{Look it up, man! Someone like you would't miss it. I mean, someone as naughty... Mwaahaha!}
+{240}{}{Look it up, man! Someone like you wouldn't miss it. I mean, someone as naughty... Mwaahaha!}
 {241}{999}{You are not completely sane, are you, Skeet? [leave in search of a mysterious hole]}
 
 
 
 
-{300}{}{[You see a man of shady looks: left eye is squinted, like he's suspicious of something, some of his front teeth are missing. This guy's soft gaze makes you feel depressed. As you want to leave, he starts to talk] Hey, what are you looking at?! Another one in line to spit into my face?}
+{300}{}{[You see a man of shady looks: the left eye is squinted, like he's suspicious of something, some of his front teeth are missing. This guy's soft gaze makes you feel depressed. As you want to leave, he starts to talk] Hey, what are you looking at?! Another one in line to spit into my face?}
 {301}{031}{Actually, I'm the new Mayor.}
 
 
@@ -155,7 +155,7 @@
 {322}{033}{Tell me details. }
 
 
-{330}{}{Man... [he heavily sighs] That's how it is: I'm in charge for the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around think it's me. The thefts are still going, even now - but no one is listening to me, let alone desires to help. They say I have an accomplice, so the stealings would continue to happen. [he powerfully spits on the floor] I'm innocent! For real!}
+{330}{}{Man... [he heavily sighs] That's how it is: I'm in charge of the warehouse near the factory, the name is Skeet. The warehouse is full of canned food. [He snaps, raising his voice] Some piece of shit is regularly skimming these cans, and he's doing pretty well at it! Of course, everyone around thinks it's me. The thefts are still going, even now - but no one is listening to me, let alone has a desire to help. They say I have an accomplice. [he powerfully spits on the floor] I'm innocent! For real!}
 
 {331}{034}{Yeah? Isn't the warehouse guarded?}
 
@@ -167,12 +167,12 @@
 {343}{035}{The fence was broken before?}
 
 
-{350}{}{Well, yeah. There was a hole once. We fixed it pretty good - partially covered it with some junk we had, somewhere even put a new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit.}
+{350}{}{Well, yeah. There was a hole once. We fixed it pretty well - partially covered it with some junk we had, somewhere even put new pieces... Why do you care about the fence? Do you think someone could slip through? I don't think so. There was some hole left, but very small. Even a kid wouldn't fit.}
 {351}{036}{Can you tell me where it was?}
 
 
 
-{360}{}{Look it up, man! Someone like you would't miss it. }
+{360}{}{Look it up, man! Someone like you wouldn't miss it. }
 {361}{999}{[leave in search of a mysterious hole]}
 
 

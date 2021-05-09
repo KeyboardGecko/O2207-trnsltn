@@ -56,7 +56,7 @@
 {106}{999}{You know, I'll better go.}
 
 #Node011
-{110}{}{I'm talking about better life, son. Life in warmth and safety, where you won't have to eat dead rats to survive and grind you teeth from cold at night. I'm talking about the life in Tartarus, not as slaves, but as free people!}
+{110}{}{I'm talking about a better life, son. Life in warmth and safety, where you won't have to eat dead rats to survive and grind your teeth from cold at night. I'm talking about life in Tartarus, not as slaves, but as free people!}
 {111}{013}{You mean... You plan to TAKE OVER the Tartarus?}
 {112}{012}{I don't quite get where this is going.}
 {113}{999}{Sounds dubious... I'll better go.}
@@ -67,7 +67,7 @@
 {122}{999}{Wow. I need to think about it. [leave]}
 
 #Node013
-{130}{}{"Take over" is a harsh words. I prefer to use the phrase "take away". We will take away what is more needed for us. Let this militarists idiots in armored suits live in their tower, we claim only the Tartarus.}
+{130}{}{"Take over" sounds harsh. I prefer to use the phrase "take away". We will take away what is more needed for us. Let these militarists idiots in armored suits live in their tower, we claim only the Tartarus.}
 {131}{010}{I don't know, sounds pretty dangerous... I'll think about it. Can I ask another question?}
 {132}{999}{Wow. I need to think about it. [leave]}
 
@@ -77,7 +77,7 @@
 {202}{999}{Nah, I thought I would be fighting. Will handle it myself then.}
 
 #Node021
-{210}{}{5 packs of Heal-Up and 1 Combatid, personally for me. I'm going to have a real fun, so I don't want to take risk for nothing. Combatid will do everything for me. So, will you deliver?}
+{210}{}{5 packs of Heal-Up and 1 Combatid, personally for me. I'm going to have real fun, so I don't want to take risks for nothing. Combatid will do everything for me. So, will you deliver?}
 {211}{QA}{I don't know what it is, but I'm going to get it. I'll return to you when I do.}
 {212}{999}{Heal-Up, Combatid... I don't even know such words, not talking about where to get something like this. No, it's too difficult. Handle it yourselves.}
 
@@ -96,12 +96,12 @@
 {321}{999}{Understood. Will get back soon.}
 
 #Node040
-{400}{}{Trust? I don't even know. A piece of advice, kid - trust no one. If you learn a secret - keep it to yourself, be healthy. Radius doesn't like blabbers, it chews them down and spits them out, because when you gave out the information, it has no need for you anymore. Listen and keep silence. You'll live long enough.}
+{400}{}{Trust? I don't even know. A piece of advice, kid - trust no one. If you learn a secret - keep it to yourself, be healthy. Radius doesn't like blabbers, it chews them down and spits them out because when you gave out the information, it has no need for you anymore. Listen and be silent. You'll live long enough.}
 {401}{}{Trust? You can trust me. I won't answer for the others. Everyone here is so... Smart-ass.}
 {402}{041}{Even the kids?}
 {403}{010}{I see. Another question.}
 
 #Node041
-{410}{}{Hah, there are no kids here! Except that little snot, Martha's offspring. I think her name is Lily. She was recently bit by a scorpion, everyone went crazy about it. Damn girl is only slowing us down. Instead of dealing with her, everyone could get together and storm the Tartarus already.}
+{410}{}{Hah, there are no kids here! Except for that little snot, Martha's offspring. I think her name is Lily. She was recently bit by a scorpion, everyone went crazy about it. That damn girl is only slowing us down. Instead of dealing with her, everyone could get together and storm the Tartarus already.}
 {411}{999}{Lily, you say? Thanks, I'll go find her.}
 {412}{010}{We were the kids once. Can I ask another question?}

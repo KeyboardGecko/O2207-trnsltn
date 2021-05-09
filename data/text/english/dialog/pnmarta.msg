@@ -36,8 +36,8 @@
 #Node003
 {30}{}{I'm glad you asked, }
 {31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are rumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
-{32}{QA}{Calm the clild? Of course I can do that [go to Lily]}
-{33}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
+{32}{QA}{Calm the child? Of course, I can do that [go to Lily]}
+{33}{999}{What? You want me to sing some lullabies? Nah, it's girl stuff, deal with it yourself.}
 
 #Node010
 {100}{}{Yes? It's you again, young man?}
@@ -57,14 +57,14 @@
 {115}{999}{Yeah, yeah. I, uh, gotta go.}
 
 #Node012
-{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius just for their amusement, and if you "got lucky" to be born pretty - a couple of rapings will correct that. A terrible people, I don't want to talk about them.}
+{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius just for their amusement, and if you "got lucky" to be born pretty - a couple of rapings will correct that. Terrible people, I don't want to talk about them.}
 {121}{010}{I'm so sorry. Can I ask another question?}
 {122}{010}{Cruel world - cruel people. I'd like to ask something else.}
 
 #Node020
 {200}{}{My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are rumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
-{201}{QA}{Calm the child? Of course I can do that [go to Lily]}
-{202}{999}{What? You want me to sing some lullabies? Nah, it's a girl stuff, deal with it yourself.}
+{201}{QA}{Calm the child? Of course, I can do that [go to Lily]}
+{202}{999}{What? You want me to sing some lullabies? Nah, it's girl stuff, deal with it yourself.}
 
 #NodeQA
 
@@ -86,7 +86,7 @@
 {321}{999}{Uh, you are always welcome.}
 
 #Node033
-{330}{}{Oh, you are such handsome young man! Thank you so much! Ask me anything, I won't say no to you!}
+{330}{}{Oh, you are such a handsome young man! Thank you so much! Ask me anything, I won't say no to you!}
 {331}{034}{Well, um, it would be great to have something useful.}
 {332}{035}{Won't say no, you say? Martha... [put your hand on her shoulder]}
 {333}{999}{It's okay, I'm glad to be helpful. All the best.}
@@ -105,7 +105,7 @@
 {361}{999}{[leave quietly]}
 
 #Node040
-{400}{}{[she sighs] Oh Joe... No one have seen Nadine for 4 years already. Poor thing had something in her blood, was always sick. Joe tried hard to take care of her, but the illnesses took their toll. He buried her himself, on the surface, under the tree near fountain. Then he got his mind clouded, looking for her all the time since. He made some kind of a beautiful labeled plate for a grave then, maybe telling him about it could make him remember.}
+{400}{}{[she sighs] Oh Joe... No one has seen Nadine for 4 years already. Poor thing had something in her blood, was always sick. Joe tried hard to take care of her, but the illnesses took their toll. He buried her himself, on the surface, under the tree near the fountain. Then he got his mind clouded, looking for her all the time since. He made some kind of a beautiful labeled plate for a grave then, maybe telling him about it could make him remember.}
 {401}{999}{Is that so? Well, I'm going to go look for that grave.}
 
 {500}{}{Martha is deeply asleep.}

@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[The ghoul walks circles around the man's bloodied corpse, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait you for so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
+{10}{}{[The ghoul walks circles around the man's bloodied corpse, fending off flies. Suddenly, he jumps to the body and starts shaking it by the shoulders] Come on, reborn, you fucking idiot! Why do I have to wait for you for so long? [seeing you, he puts his rotten finger to his toothless mouth] Shhh! Quiet! The reborn is in progress!!}
 {11}{011}{What the... What is happening here?}
 {12}{011}{Calm down, I'm just trying to understand what I'm looking at here.}
 {13}{999}{I think it would be better for me to leave.}
@@ -31,10 +31,10 @@
 {102}{019}{Reunion? Are you going to shag him, or something?}
 {103}{014}{Lenny, we need to discuss this... Situation.}
 {104}{999}{No, I was just walking by.}
-{1002}{}{[tries to hug you with his skinny, saggy hands, giving you a smell of decay, sweat and rotten food] My friend! I'm so glad to see you! I have a whole colony of some bugs under my shoulder blade - can you help me to put them out?}
+{1002}{}{[tries to hug you with his skinny, saggy hands, giving you a smell of decay, sweat, and rotten food] My friend! I'm so glad to see you! I have a whole colony of some bugs under my shoulder blade - can you help me to put them out?}
 {105}{019}{Get lost, you freak, until I puked all over this wrinkled ass-head of yours!!}
 {106}{999}{I'm glad to see you too, Lenny. I don't have time for this now, but I will definitely see you later.}
-{1003}{}{[Stops peeling scubs on his sunken chest and nods] Oh. it's you! You're lucko to see me - my fella is hanging out somewhere, I'm going to go look for him.}
+{1003}{}{[he stops peeling scrubs on his sunken chest and nods] Oh. it's you! You're lucky to see me - my fella is hanging out somewhere, I'm going to go look for him.}
 {107}{999}{Good luck with the search. I need to go.}
 {108}{019}{He just decided to screw you over. Looks like even the ghouls take you for a freak, ha-ha!}
 {1004}{}{[considering he has no lips, you can't understand if he is smiling or angry at you] You're still here, stranger? I'm going to get out. Somehow, no one wants to talk to me here. I wish Carl was around...}
@@ -42,17 +42,17 @@
 {1010}{019}{That's right, get the hell out! Ugly freaks like you should be shot on sight!}
 
 
-{110}{}{What's here you can't see? Are you thick or something? No worries, I'll explain... I'm Lenny, this is my best friend Carl. We used to hang around Radius together, looking for loot. Everything was good with the two of us. But one time I decided to go alone - into some old ruins, where geiger counter screams non-stop. And I stepped on a mine. Carl found the pile of shit I became and got me out, but I still received enough radiation. The result is in front of you.}
-{111}{012}{And? How this explains the current situation?}
+{110}{}{What's here you can't see? Are you thick or something? No worries, I'll explain... I'm Lenny, this is my best friend Carl. We used to hang around Radius together, looking for loot. Everything was good with the two of us. But one time I decided to go alone - into some old ruins, where Geiger counter screams non-stop. And I stepped on a mine. Carl found the pile of shit I became and got me out, but I still received enough radiation. The result is in front of you.}
+{111}{012}{And? How does this explain the current situation?}
 
 
-{120}{}{[he spits out a fountain of green saliva, scratching a hole, which was once his nose] It's obvious, you see - Carl needs to became a ghoul too! And then we will continue doing our things together! I did everything by the book - put a grenade into his toilet, carried him into the same ruins I was in. Then I waited for some time and brought him back here, so he could be reborn in comfort. I even reserved the table in bar to celebrate! See? He's already changing! Look at these spots at his skin. And the smell...}
-{121}{019}{You... Your brains are completely eaten away by radiation, you freak! You should be put down, before you start attacking people on the streets!}
-{122}{013}{This is called decaying. Your friend is literally dead.}
+{120}{}{[he spits out a fountain of green saliva, scratching a hole, which was once his nose] It's obvious, you see - Carl needs to become a ghoul too! And then we will continue doing our things together! I did everything by the book - put a grenade into his toilet, carried him into the same ruins I was in. Then I waited for some time and brought him back here, so he could be reborn in comfort. I even reserved the table in the bar to celebrate! See? He's already changing! Look at these spots on his skin. And the smell...}
+{121}{019}{You... Your brains are completely eaten away by radiation, you freak! You should be put down before you start attacking people on the streets!}
+{122}{013}{This is called decay. Your friend is literally dead.}
 {123}{999}{It's... Unusual. I may be able to help you, but first I need to think it over.}
 
 
-{130}{}{No! Don't you dare to piss into my ears! Carl's alive! I just need to wait a little more! If you don't want to help - move along!}
+{130}{}{No! Don't you dare to piss into my ears! Carl's alive! I just need to wait for a little more! If you don't want to help - move along!}
 {131}{019}{I should put you down, you sick freak. Out of pity, at least.}
 {132}{999}{Calm down. Let's talk about it later.}
 
@@ -65,14 +65,14 @@
 {145}{019}{I see how it is. I should put you out of your misery. Get ready, ghoul.}
 {146}{999}{You are right, we have nothing to talk about for now.}
 
-{150}{}{[he loudly exhales, fending off the flies] At last! The only normal guy around here! I'm already getting tired of carrying him around. And you're just in time, I need to take off some load real fast... Don't worry, I'll be right back. [he rans off, unzipping his pants in the process]}
+{150}{}{[he loudly exhales, fending off the flies] At last! The only normal guy around here! I'm already getting tired of carrying him around. And you're just in time, I need to take off some load real fast... Don't worry, I'll be right back. [he runs off, unzipping his pants in the process]}
 {151}{020}{Take your time... [wait for him to get out of your sight, then call for your ghoul ally and utilize Carl's body]}
 {152}{999}{I need to do something else. Lie here for now, Carl. }
 
-{160}{}{[Looks like Lenny is going to throw himself at you in any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for compassion. No one gives a shit about anyone around here... You know, actually, you're right!! We can meet with him at the other side!!! [suddenly, he drops his shotgun from shoulder and puts it to his belly]}
+{160}{}{[Looks like Lenny is going to throw himself at you at any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for your compassion. No one gives a shit about anyone around here... You know, actually, you're right!! We can meet with him on the other side!!! [suddenly, he drops his shotgun from shoulder and puts it to his belly]}
 {161}{999}{Uhh...}
 
-{170}{}{[Looks like Lenny is going to throw himself at you in any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for compassion. No one gives a shit about anyone around here... I don't have much, but still - take my bullets, you can trade them for batteries.}
+{170}{}{[Looks like Lenny is going to throw himself at you at any moment... But he starts sobbing instead] Man, I screwed up, big time... Murdered my best bud! What's wrong with me? Looks like my brains got completely messed up from that explosion... You... Thanks for your compassion. No one gives a shit about anyone around here... I don't have much, but still - take my bullets, you can trade them for batteries.}
 {171}{999}{Thanks, Lenny. I'll make good use of them.}
 
 {180}{}{[he stares at the corpse, sometimes looking at you. For a moment, his sight becomes clear - but then it is immediately clouded by madness.] Damn, you are so right! I am busting my ass here for him, and he... Man, I'm so lucky to have you opening my eyes! Lemme hug you... Oh! Wait! Take this - as a sign of our friendship! [hands you his shotgun] And I need to go drop this pile of shit into a cesspool. [he grabs corpse by its feet and drags it somewhere]}
@@ -82,7 +82,7 @@
 {191}{998}{Your first, dead meat!}
 {192}{998}{Yeah, go try it...}
 
-{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling of excitement. Delighted, he hands you his shotgun. Then the couple walks away in the bar's direction.]}
+{200}{}{[The plan goes down rather swimmingly. Seeing reborn "Carl", Lenny starts to jump around, yelling with excitement. Delighted, he hands you his shotgun. Then the couple walks away in the bar's direction.]}
 {201}{999}{That was too easy. And quite bizarre.}
 
 {500}{}{What do you want? [he patiently looks at you]}

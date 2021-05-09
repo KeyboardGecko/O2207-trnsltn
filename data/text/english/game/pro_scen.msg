@@ -1,9 +1,9 @@
 {100}{}{Fire}
-{101}{}{The flames light up the space around them.}
+{101}{}{The flames light up space around them.}
 {200}{}{Door}
 {201}{}{An old and battered metal door.}
 {300}{}{Trash Can}
-{301}{}{A too small container in the fights against littering.}
+{301}{}{A too-small container in the fights against littering.}
 {400}{}{Wooden Table}
 {401}{}{An old table with a dirty tablecloth.}
 {500}{}{Metal Barrel}
@@ -13,19 +13,19 @@
 {700}{}{Tires}
 {701}{}{A stack of old rubber tires.}
 {800}{}{Wall}
-{801}{}{This section of wand stands out.}
+{801}{}{This section of the wall stands out.}
 {900}{}{Terminal}
-{901}{}{A computer terminal.}
+{901}{}{A calculator terminal.}
 {1000}{}{Terminal}
-{1001}{}{A computer terminal.}
-{1100}{}{Computer}
-{1101}{}{A computer terminal, hooked to a mainframe computer.}
-{1200}{}{Computer}
-{1201}{}{A computer terminal, hooked to a mainframe computer.}
+{1001}{}{A calculator terminal.}
+{1100}{}{Calculator}
+{1101}{}{A calculator terminal is hooked to a mainframe.}
+{1200}{}{Calculator}
+{1201}{}{A calculator terminal is hooked to a mainframe.}
 {1300}{}{Terminal}
-{1301}{}{A computer terminal.}
+{1301}{}{A calculator terminal.}
 {1400}{}{Terminal}
-{1401}{}{A computer terminal.}
+{1401}{}{A calculator terminal.}
 {1500}{}{Bull Head}
 {1501}{}{Looks like this head of a Lavash is really happy to be canned.}
 {1600}{}{Tires}
@@ -37,11 +37,11 @@
 {1900}{}{Door}
 {1901}{}{A high-tech metal door.}
 {2000}{}{Battery}
-{2001}{}{An big and old empty battery.}
+{2001}{}{A big and old empty battery.}
 {2100}{}{Tire}
 {2101}{}{A useless old tire.}
 {2200}{}{Huge Statue}
-{2201}{}{You read somewhere that it depicts Themis, the Godess of Justice.}
+{2201}{}{You read somewhere that it depicts Themis, the Goddess of Justice.}
 {2300}{}{Door}
 {2301}{}{A high-tech metal door.}
 {2400}{}{Tire}
@@ -51,7 +51,7 @@
 {2600}{}{Monitor}
 {2601}{}{A large wall-mounted monitor.}
 {2700}{}{Tire}
-{2701}{}{A hardened old tire, not worth to digging up.}
+{2701}{}{A hardened old tire, not worth digging up.}
 {2800}{}{Rocks}
 {2801}{}{A pile of round stones.}
 {2900}{}{Junk}
@@ -65,13 +65,13 @@
 {3300}{}{Vent}
 {3301}{}{A part of the ventilation system.}
 {3400}{}{Bed}
-{3401}{}{A very dirty bed. You own on Tartarus way much cleaner.}
+{3401}{}{A very dirty bed. Your own in Tartarus is way much cleaner.}
 {3500}{}{Bed}
-{3501}{}{A very dirty bed. You own on Tartarus way much cleaner.}
+{3501}{}{A very dirty bed. Your own in Tartarus is way much cleaner.}
 {3600}{}{Bed}
-{3601}{}{A very dirty bed. You own on Tartarus way much cleaner.}
+{3601}{}{A very dirty bed. Your own in Tartarus is way much cleaner.}
 {3700}{}{Bed}
-{3701}{}{A dirty bed. You own on Tartarus way much cleaner.}
+{3701}{}{A dirty bed. Your own in Tartarus way is much cleaner.}
 {3800}{}{Elevator}
 {3801}{}{This is a service elevator.}
 {3900}{}{Chair}
@@ -97,7 +97,7 @@
 {4900}{}{Exit Grid Map Marker}
 {4901}{}{Exit Grid Map Marker}
 {5000}{}{Well}
-{5001}{}{An old dried out well.}
+{5001}{}{An old dried-out well.}
 {5100}{}{Chair}
 {5101}{}{A common chair with armrests.}
 {5200}{}{Chair}
@@ -121,7 +121,7 @@
 {6100}{}{Table}
 {6101}{}{It looks old and scratched.}
 {6200}{}{Table}
-{6201}{}{It looks old and scratched..}
+{6201}{}{It looks old and scratched.}
 {6300}{}{Cactus}
 {6301}{}{A small cactus with large spines.}
 {6400}{}{Cactus}
@@ -149,7 +149,7 @@
 {7500}{}{Rocks}
 {7501}{}{You keep a close eye on these rocks, in case they move to attack you.}
 {7600}{}{Waterflow}
-{7601}{}{An underground river that goes into the bowels of the cave. You can't see anything in the dark.}
+{7601}{}{An underground river, that goes into the bowels of the cave. You can't see anything in the dark.}
 {7700}{}{Gate}
 {7701}{}{A wooden gate.}
 {7800}{}{Rocks}
@@ -175,7 +175,7 @@
 {8800}{}{Gate}
 {8801}{}{A wooden gate.}
 {8900}{}{Gate}
-{8901}{}{A Wooden gate.}
+{8901}{}{A wooden gate.}
 {9000}{}{Merchant Shop}
 {9001}{}{You can buy armor or weapons here.}
 {9100}{}{Merchant Shop}
@@ -195,27 +195,27 @@
 {9800}{}{Seat}
 {9801}{}{It was once a car seat.}
 {9900}{}{Couch}
-{9901}{}{A very dirty and smelly couch you don't want to sir on.}
+{9901}{}{A very dirty and smelly couch you don't want to sit on.}
 {10000}{}{Couch}
-{10001}{}{A very dirty and smelly couch you don't want to sir on.}
+{10001}{}{A very dirty and smelly couch you don't want to sit on.}
 {10100}{}{Plants}
 {10101}{}{Rocks among some bushes.}
 {10200}{}{Shrub}
-{10201}{}{A dried out  травянистое растение.}
+{10201}{}{A dried outтравянистое растение.}
 {10300}{}{Shrub}
 {10301}{}{Some sort of desert weed.}
 {10400}{}{Shrub}
-{10401}{}{A dry heraceous plant.}
+{10401}{}{A dry herbaceous plant.}
 {10500}{}{Shrub}
-{10501}{}{A dry heraceous plant.}
+{10501}{}{A dry herbaceous plant.}
 {10600}{}{Shrub}
-{10601}{}{A dry heraceous plant.}
+{10601}{}{A dry herbaceous plant.}
 {10700}{}{Shrub}
 {10701}{}{Some sort of desert weed.}
 {10800}{}{Shrub}
-{10801}{}{A dry heraceous plant.}
+{10801}{}{A dry herbaceous plant.}
 {10900}{}{Shrub}
-{10901}{}{A dry heraceous plant.}
+{10901}{}{A dry herbaceous plant.}
 {11000}{}{Shrub}
 {11001}{}{Some sort of desert weed.}
 {11100}{}{Bush}
@@ -225,13 +225,13 @@
 {11300}{}{Bush}
 {11301}{}{A small, completely dry bush.}
 {11400}{}{Bush}
-{11401}{}{Типичный представитель herba vulgaris.}
+{11401}{}{Типичный представитель Herba Vulgaris.}
 {11500}{}{Bush}
-{11501}{}{A typical representative of herba vulgaris.}
+{11501}{}{A typical representative of Herba Vulgaris.}
 {11600}{}{Bush}
-{11601}{}{A typical representative of herba vulgaris.}
+{11601}{}{A typical representative of Herba Vulgaris.}
 {11700}{}{Plant}
-{11701}{}{A typical representative of herba vulgaris.}
+{11701}{}{A typical representative of Herba Vulgaris.}
 {11800}{}{Plant}
 {11801}{}{A dry bush}
 {11900}{}{Cactus}
@@ -254,18 +254,18 @@
 {12701}{}{You'll be nothing but a pile of bones someday, too.}
 {12800}{}{Blocking Hex (NoLight)}
 {12900}{}{Wall}
-{12901}{}{A damaged section of wall.}
+{12901}{}{A damaged section of the wall.}
 {13000}{}{Wall}
-{13001}{}{A damaged section of wall.}
+{13001}{}{A damaged section of the wall.}
 {13100}{}{Wall}
 {13200}{}{Wall}
-{13201}{}{A damaged section of wall.}
+{13201}{}{A damaged section of the wall.}
 {13300}{}{Wall}
 {13400}{}{Wall}
 {13500}{}{Energy Generator}
 {13501}{}{It's a big, complicated machine, probably relates to electricity.}
 {13600}{}{Wall}
-{13601}{}{A damaged section of wall.}
+{13601}{}{A damaged section of the wall.}
 {13700}{}{Chair}
 {13701}{}{This chair is ruined.}
 {13800}{}{Chair}
@@ -280,11 +280,11 @@
 {14300}{}{Door}
 {14301}{}{A rusty but still sturdy metal door.}
 {14400}{}{Cover}
-{14401}{}{A heavy manhole cover. It seems to be well preserved.}
+{14401}{}{A heavy manhole cover. It seems to be well-preserved.}
 {14500}{}{Stuff}
 {14501}{}{A huge, promising pile of junk. And absolutely nothing useful... what a disappointment!}
 {14600}{}{Stuff}
-{14601}{}{You wonder how in such a pile of things there can be nothing of value at all.}
+{14601}{}{You wonder how in such a big pile of things can be nothing of value at all.}
 {14700}{}{Wall}
 {14800}{}{Wall}
 {14900}{}{Wall}
@@ -310,7 +310,7 @@
 {16100}{}{Shrub}
 {16101}{}{A common desert shrub.}
 {16200}{}{Boat}
-{16201}{}{An old, half-broken and rusty boat.}
+{16201}{}{An old, half-broken rusty boat.}
 {16300}{}{Pickup Truck}
 {16301}{}{It was once an excellent vehicle.}
 {16400}{}{Motorcycle}
@@ -348,7 +348,7 @@
 {18200}{}{Guitar}
 {18201}{}{A battered musical instrument. Looks too complicated for you.}
 {18300}{}{Powerful Battery}
-{18301}{}{Surprisingly, there is still some charge left and this thing can be repaired.}
+{18301}{}{Surprisingly, there is still some charge left, and this thing can be repaired.}
 {18400}{}{Stuff}
 {18401}{}{It looks like these boxes have already been searched by somebody before you.}
 {18500}{}{Stuff}
@@ -388,9 +388,9 @@
 {20300}{}{Sign}
 {20301}{}{The sign on this post is pretty rust.}
 {20400}{}{Sign}
-{20401}{}{The sign on thist post is pretty rust.}
+{20401}{}{The post is pretty rust.}
 {20500}{}{Sign}
-{20501}{}{The sign on tihs post is pretty rust.}
+{20501}{}{The sign is pretty rust.}
 {20600}{}{Old Mattress}
 {20601}{}{This mattress discourages any desire to take a nap on or even go near it.}
 {20700}{}{Old Mattress}
@@ -402,21 +402,21 @@
 {21000}{}{Bed}
 {21001}{}{This bed has seen better days (and probably nights, too.)}
 {21100}{}{Bed}
-{21101}{}{There are a couple stains of dubious origin on this well-worn sleeping device.}
+{21101}{}{There are a couple of stains of dubious origin on this well-worn sleeping device.}
 {21200}{}{Bed}
 {21201}{}{This bed is neatly covered with a dirty blanket}
 {21300}{}{Bed}
 {21301}{}{This bed has seen a lot of use and wear. Something must have crawled between the mattresses and died, too.}
 {21400}{}{Counter}
-{21401}{}{Portions of foode are given out here.}
+{21401}{}{Portions of food are given out here.}
 {21500}{}{Counter}
-{21501}{}{Portions of foode are given out here.}
+{21501}{}{Portions of food are given out here.}
 {21600}{}{Counter}
-{21601}{}{Portions of foode are given out here.}
+{21601}{}{Portions of food are given out here.}
 {21700}{}{Counter}
-{21701}{}{Portions of foode are given out here.}
+{21701}{}{Portions of food are given out here.}
 {21800}{}{Counter}
-{21801}{}{Portions of foode are given out here.}
+{21801}{}{Portions of food are given out here.}
 {21900}{}{Kitchen}
 {21901}{}{The food for the whole of Tartarus is prepared here.}
 {22000}{}{Broken Table}
@@ -499,9 +499,9 @@
 {25900}{}{Door}
 {25901}{}{This door is in good condition.}
 {26000}{}{Door}
-{26001}{}{A beatuful decorated door, in good condition.}
+{26001}{}{A beautifully decorated door in good condition.}
 {26100}{}{Door}
-{26101}{}{A beatuful decorated door, in good condition.}
+{26101}{}{A beautifully decorated door in good condition.}
 {26200}{}{Crate}
 {26201}{}{A nice wooden crate with some junk in it.}
 {26300}{}{Crate}
@@ -521,9 +521,9 @@
 {27000}{}{Newspaper Machine}
 {27001}{}{The newspaper machine is empty. It looks like it once held adult magazines.}
 {27100}{}{Old Mattress}
-{27101}{}{It's not usable for it's intended purpose anymore, just useless garbage now.}
+{27101}{}{Not usable for its intended purpose anymore, it's just useless garbage now.}
 {27200}{}{Old Mattress}
-{27201}{}{Maybe in a fully hermetic sealed metal armor you wouldn't catch something while lying on it.}
+{27201}{}{Maybe if you were wearing a fully hermetic sealed metal armor suit, you wouldn't catch something while lying on it.}
 {27300}{}{Junk}
 {27301}{}{A pile of rotten old wood. It's not worth carrying around.}
 {27400}{}{Junk}
@@ -538,7 +538,7 @@
 {27900}{}{Rocks}
 {28000}{}{Rocks}
 {28100}{}{Rubble}
-{28101}{}{A small pile of rubbled stones and rocks. Watch your step!}
+{28101}{}{A small pile of stone rubble. Watch your step!}
 {28200}{}{Box}
 {28201}{}{A sturdy wooden box.}
 {28300}{}{Rocks}
@@ -556,7 +556,7 @@
 {28900}{}{Boxes}
 {28901}{}{Two wooden boxes with contents of unknown purpose.}
 {29000}{}{Box}
-{29001}{}{A patched box. It's contents long lost all value.}
+{29001}{}{A patched box. Its contents long lost all value.}
 {29100}{}{Street Lamp}
 {29101}{}{It looks like it's still working.}
 {29200}{}{Street Lamp}
@@ -580,9 +580,9 @@
 {30100}{}{Table}
 {30101}{}{A wooden table, relatively well preserved.}
 {30200}{}{Table}
-{30201}{}{A wooden table, put down to rest.}
+{30201}{}{A wooden table. It is put down to rest.}
 {30300}{}{Table}
-{30301}{}{A wooden table, with plastic surface, that has been broken for a while.}
+{30301}{}{A wooden table with a plastic surface. It has been broken for a while.}
 {30400}{}{Junk}
 {30401}{}{Completely useless junk.}
 {30500}{}{Table}
@@ -596,7 +596,7 @@
 {30900}{}{Toilet}
 {30901}{}{Whoever used it last didn't flush it away!}
 {31000}{}{Junk}
-{31001}{}{Pieces of wood, boxes and other debris.}
+{31001}{}{Pieces of wood, boxes, and other debris.}
 {31100}{}{Junk}
 {31101}{}{Even if you look at it more closely, you will not find anything of value.}
 {31200}{}{Junk}
@@ -624,13 +624,13 @@
 {32400}{}{Truck}
 {32401}{}{This diesel truck can't be fixed.}
 {32500}{}{Bath Tub}
-{32501}{}{On closer examination, you realize that you won't be taking your bath in this tub after all.}
+{32501}{}{On closer examination, you realize that you don't want to take a bath in this.}
 {32600}{}{Bath Tub}
-{32601}{}{This bath tub is broken and cracked.}
+{32601}{}{This bathtub is broken and cracked.}
 {32700}{}{Urinal}
 {32701}{}{Not the cleanest of its kind, you wouldn't want to use it.}
 {32800}{}{Table}
-{32801}{}{A table with a computator. You wonder why they need two monitors here.}
+{32801}{}{A table with a calculator. You wonder why they need two monitors here.}
 {32900}{}{Urinal}
 {32901}{}{Just a dirty urinal. Nothing special.}
 {33000}{}{Table}
@@ -652,7 +652,7 @@
 {33800}{}{Truck}
 {33801}{}{It's just a pile of rusty metal now.}
 {33900}{}{Truck}
-{33901}{}{It's back is full of broken containers and crates. Their contents lost their value a long time ago.}
+{33901}{}{Its back is full of broken containers and crates. Their contents lost their value a long time ago.}
 {34000}{}{Wall}
 {34001}{}{Wall}
 {34100}{}{Wall}
@@ -705,9 +705,9 @@
 {36500}{}{Graffiti}
 {36501}{}{Jackals Rule!}
 {36600}{}{Boards}
-{36601}{}{The fence consists of such boards.}
+{36601}{}{The fence is made of boards like these.}
 {36700}{}{Boards}
-{36701}{}{The fence consists of such boards.}
+{36701}{}{The fence is made of boards like these.}
 {36800}{}{Sign}
 {36801}{}{It says something about a certain laboratory.}
 {36900}{}{Cave Wall}
@@ -718,17 +718,17 @@
 {37200}{}{Pot}
 {37201}{}{A finely crafted clay pot.}
 {37300}{}{Rake}
-{37301}{}{This rake is the property of it's owners. You can't even conceive of a use for it.}
+{37301}{}{This rake is the property of its owners. You can't even conceive of a use for it.}
 {37400}{}{Rake}
-{37401}{}{This rake is the property of it's owners. You can't even conceive of a use for it.}
+{37401}{}{This rake is the property of its owners. You can't even conceive of a use for it.}
 {37500}{}{Rake}
-{37501}{}{This rake is the property of it's owners. You can't even conceive of a use for it.}
+{37501}{}{This rake is the property of its owners. You can't even conceive of a use for it.}
 {37600}{}{Boards}
-{37601}{}{The fence consists of such boards.}
+{37601}{}{The fence is made of boards like these.}
 {37700}{}{Boards}
-{37701}{}{The fence consists of such boards.}
+{37701}{}{The fence is made of boards like these.}
 {37800}{}{Boards}
-{37801}{}{The fence consists of such boards.}
+{37801}{}{The fence is made of boards like these.}
 {37900}{}{Basin}
 {37901}{}{It's full of junk. You don't want to look into it.}
 {38000}{}{Basin}
@@ -783,1511 +783,1511 @@
 {40401}{}{Maybe there's something inside besides rats.}
 {40500}{}{Sunbed}
 {40501}{}{An old rotten sunbed.}
-{40600}{}{Дверь}
-{40601}{}{Рассохшаяся деревянная дверь.}
-{40700}{}{Автомобиль "Перехватчик"}
-{40701}{}{Судя по турбокомпрессору на капоте, это был очень мощный автомобиль. Увы, он уже никуда не поедет.}
-{40800}{}{Доски}
-{40801}{}{Старые полусгнившие доски.}
-{40900}{}{Грузовик}
-{40901}{}{Старый сломанный военный грузовик.}
-{41000}{}{Вещи}
-{41001}{}{Куча бесполезного барахла, накрытая тентом.}
-{41100}{}{Вещи}
-{41101}{}{Куча бесполезного барахла, накрытая тентом.}
-{41200}{}{Вещи}
-{41201}{}{Куча бесполезного барахла, накрытая тентом.}
-{41300}{}{Сторожевая будка}
-{41301}{}{Либо ее переоборудовали под туалет, либо сторожить удобнее всего на унитазе.}
+{40600}{}{Door}
+{40601}{}{A dried wooden door}
+{40700}{}{"Interceptor"}
+{40701}{}{Judging by the turbocharger on the hood, it was a very powerful car. Alas, it is not going anywhere anymore.}
+{40800}{}{Wooden boards}
+{40801}{}{Old rotten boards}
+{40900}{}{Truck}
+{40901}{}{Old broken military truck.}
+{41000}{}{Things}
+{41001}{}{A pile of useless junk, covered with a piece of tarpaulin.}
+{41100}{}{Things}
+{41101}{}{A pile of useless junk, covered with a piece of tarpaulin.}
+{41200}{}{Things}
+{41201}{}{A pile of useless junk, covered with a piece of tarpaulin.}
+{41300}{}{Guarding booth}
+{41301}{}{Either it was refurbished into a latrine, or the most comfortable way to do guarding duties is while sitting on the toilet.}
 {41400}{}{Table}
-{41401}{}{Оснащен некими непонятными инструментами.}
-{41500}{}{Хлам}
-{41501}{}{Какие-то железяки, которым Вы вряд ли найдете применение.}
-{41600}{}{Хлам}
-{41601}{}{Старые инструменты, похоже, они все сломаны.}
-{41700}{}{Коробка}
-{41701}{}{Пустая складская коробка.}
-{41800}{}{Коробка}
-{41801}{}{Пустая складская коробка.}
-{41900}{}{Коробка}
-{41901}{}{Пустая складская коробка.}
-{42000}{}{Коробка}
-{42001}{}{Пустая складская коробка.}
-{42100}{}{Дверь лифта}
-{42101}{}{Эта дверь ведет в кабину лифта. Нужно сначала ее открыть, чтобы использовать сам лифт.}
-{42200}{}{Доски}
-{42201}{}{Несколько досок и другой мусор.}
-{42300}{}{Камни}
-{42400}{}{Камни}
-{42500}{}{Камни}
+{41401}{}{It is equipped with some obscure tools.}
+{41500}{}{Junk}
+{41501}{}{Some metal stuff. You don't think you can use it.}
+{41600}{}{Junk}
+{41601}{}{Old tools. Looks like they are all broken.}
+{41700}{}{Box}
+{41701}{}{An empty storage box.}
+{41800}{}{Box}
+{41801}{}{An empty storage box.}
+{41900}{}{Box}
+{41901}{}{An empty storage box.}
+{42000}{}{Box}
+{42001}{}{An empty storage box.}
+{42100}{}{Elevator door}
+{42101}{}{This is an elevator door. To access the elevator, you need to open this door first.}
+{42200}{}{Wooden boards}
+{42201}{}{Wooden boards and other garbage}
+{42300}{}{Stones}
+{42400}{}{Stones}
+{42500}{}{Stones}
 {42600}{}{Bed}
-{42601}{}{Мебельное изделие в ужасном состоянии.}
+{42601}{}{A piece of furniture in terrible condition}
 {42700}{}{Bed}
-{42701}{}{Мебельное изделие в ужасном состоянии.}
-{42800}{}{Коробка}
-{42801}{}{Пустая складская коробка.}
-{42900}{}{Коробка}
-{42901}{}{Пустая складская коробка.}
-{43000}{}{Коробка}
-{43001}{}{Пустая складская коробка.}
-{43100}{}{Коробка}
-{43101}{}{Пустая складская коробка.}
+{42701}{}{A piece of furniture in terrible condition}
+{42800}{}{Box}
+{42801}{}{An empty storage box.}
+{42900}{}{Box}
+{42901}{}{An empty storage box.}
+{43000}{}{Box}
+{43001}{}{An empty storage box.}
+{43100}{}{Box}
+{43101}{}{An empty storage box.}
 {43200}{}{Junk}
 {43300}{}{Junk}
 {43400}{}{Junk}
-{43500}{}{Камни}
-{43501}{}{Обыкновенные камни, даже если самым пристальным образом их изучить.}
-{43600}{}{Сторожевая будка}
-{43601}{}{Либо ее переоборудовали под туалет, либо сторожить удобнее всего на унитазе.}
-{43700}{}{Дверь}
-{43701}{}{Прекрасно выполненная деревянная дверь, усиленная металлическим орнаментом и скобами, производящими гипнотическое впечатление.}
-{43800}{}{Дверь}
-{43801}{}{Прекрасно выполненная деревянная дверь, усиленная металлическим орнаментом и скобами, производящими гипнотическое впечатление.}
-{43900}{}{Сорванные растения}
-{43901}{}{Кучка сорванных и перегнивающих растений.}
-{44000}{}{Сорванные растения}
-{44001}{}{Кучка сорванных и перегнивающих растений.}
-{44100}{}{Сорванные растения}
-{44101}{}{Кучка сорванных и перегнивающих растений.}
-{44200}{}{Сорванные растения}
-{44201}{}{Эта кучка неважно пахнет, скорее даже воняет.}
-{44300}{}{Сорванные растения}
-{44301}{}{Эта кучка неважно пахнет, скорее даже воняет.}
-{44400}{}{Сорняк}
-{44401}{}{Это растение очевидно несъедобно.}
-{44500}{}{Сорняк}
-{44501}{}{Вы, конечно, не специалист по растениям, но на съедобное оно не похоже.}
-{44600}{}{Сорняк}
-{44601}{}{Это растение очевидно несъедобно.}
-{44700}{}{Агрегат}
-{44701}{}{Сложное устройство непонятного назначения.}
-{44800}{}{Дверь}
-{44801}{}{Охраняемая дверь. Похоже, она сильно укреплена.}
-{44900}{}{Ядерная боеголовка.}
-{45000}{}{Генератор}
-{45001}{}{Сложное устройство для выработки электроэнергии.}
-{45100}{}{Забор}
-{45101}{}{Деревянный забор.}
-{45200}{}{Забор}
-{45201}{}{Деревянный забор.}
-{45300}{}{Забор}
-{45301}{}{Деревянный забор.}
-{45400}{}{Забор}
-{45401}{}{Деревянный забор.}
-{45500}{}{Забор}
-{45501}{}{Деревянный забор.}
-{45600}{}{Забор}
-{45601}{}{Деревянный забор.}
-{45700}{}{Забор}
-{45701}{}{Деревянный забор.}
-{45800}{}{Забор}
-{45801}{}{Построившие этот неровный забор явно не были перфекционистами.}
-{45900}{}{Забор}
-{45901}{}{Построившие этот неровный забор явно не были перфекционистами.}
-{46000}{}{Забор}
-{46001}{}{Построившие этот неровный забор явно не были перфекционистами.}
-{46100}{}{Канализационная решетка}
-{46101}{}{Маловероятно, что сама канализация сохранилась.}
-{46200}{}{Бутылки}
-{46201}{}{Треснувшие бутылки и битая посуда.}
-{46300}{}{Бутылки}
-{46301}{}{Треснувшие бутылки и битая посуда.}
-{46400}{}{Хлам}
-{46401}{}{Бесполезный мусор.}
-{46500}{}{Игральный Автомат}
-{46501}{}{Вы же не думаете, что через две сотни лет он по-прежнему работает.}
-{46600}{}{Игральный Автомат}
-{46601}{}{Вы же не думаете, что через две сотни лет он по-прежнему работает.}
-{46700}{}{Хлам}
-{46701}{}{Какой-то бесполезный хлам.}
-{46800}{}{Хлам}
-{46801}{}{Какой-то бесполезный хлам.}
-{46900}{}{Плакат}
-{46901}{}{Понять, что на нем изображено невозможно.}
-{47000}{}{Дверь лифта}
-{47100}{}{Коробка}
-{47101}{}{Пустая складская коробка.}
-{47200}{}{Коробка}
-{47201}{}{В этой коробке нет совершенно ничего интересного.}
-{47300}{}{Коробка}
-{47301}{}{В этой коробке нет совершенно ничего интересного.}
-{47400}{}{Коробка}
-{47401}{}{В этой коробке нет совершенно ничего интересного.}
-{47500}{}{Коробка}
-{47501}{}{В этой коробке нет совершенно ничего интересного.}
-{47600}{}{Коробка}
-{47601}{}{В этой коробке нет совершенно ничего интересного.}
-{47700}{}{Коробка}
-{47701}{}{В этой коробке нет совершенно ничего интересного.}
-{47800}{}{Коробка}
-{47801}{}{В этой коробке нет совершенно ничего интересного.}
-{47900}{}{Коробка}
-{47901}{}{В этой коробке нет совершенно ничего интересного.}
-{48000}{}{Коробка}
-{48001}{}{В этой коробке нет совершенно ничего интересного.}
-{48100}{}{Дверь}
-{48101}{}{Прочная металлическая дверь.}
-{48200}{}{Дверь}
-{48201}{}{Прочная металлическая дверь.}
-{48300}{}{Вещи}
-{48301}{}{Огромная гора вещей, в которой при внимательном изучении на удивление нет ничего полезного для Вас.}
-{48400}{}{Оружейная лавка.}
-{48401}{}{На прилавке целый арсенал.}
-{48500}{}{Винт}
-{48501}{}{Винт вращается.}
-{48600}{}{Алтарь}
-{48700}{}{Монитор}
-{48701}{}{Большой монитор, покрыт пылью и определенно не работает.}
+{43500}{}{Stones}
+{43501}{}{You examine them very carefully, but they are still usual stones.}
+{43600}{}{Guarding booth}
+{43601}{}{Either it was refurbished into a latrine, or the most comfortable way to do guarding duties is while sitting on the toilet.}
+{43700}{}{Door}
+{43701}{}{A beautifully designed wooden door, reinforced with metal ornaments and braces that give a hypnotic impression.}
+{43800}{}{Door}
+{43801}{}{A beautifully designed wooden door, reinforced with metal ornaments and braces that give a hypnotic impression.}
+{43900}{}{Picked plants}
+{43901}{}{A rotting pile of picked plants}
+{44000}{}{Picked plants}
+{44001}{}{A rotting pile of picked plants}
+{44100}{}{Picked plants}
+{44101}{}{A rotting pile of picked plants}
+{44200}{}{Picked plants}
+{44201}{}{This pile doesn't smell good. It is quite stinky.}
+{44300}{}{Picked plants}
+{44301}{}{This pile doesn't smell good. It is quite stinky.}
+{44400}{}{Dillweed}
+{44401}{}{This plant is obviously inedible.}
+{44500}{}{Dillweed}
+{44501}{}{You are not a plant expert, but it looks like this one is inedible.}
+{44600}{}{Dillweed}
+{44601}{}{This plant is obviously inedible.}
+{44700}{}{Device}
+{44701}{}{A complicated mechanism with an obscure purpose.}
+{44800}{}{Door}
+{44801}{}{A guarded door. Looks like it's heavily reinforced.}
+{44900}{}{Nuclear warhead}
+{45000}{}{Generator}
+{45001}{}{A sophisticated device for generating electricity.}
+{45100}{}{Fence}
+{45101}{}{A wooden fence.}
+{45200}{}{Fence}
+{45201}{}{A wooden fence.}
+{45300}{}{Fence}
+{45301}{}{A wooden fence.}
+{45400}{}{Fence}
+{45401}{}{A wooden fence.}
+{45500}{}{Fence}
+{45501}{}{A wooden fence.}
+{45600}{}{Fence}
+{45601}{}{A wooden fence.}
+{45700}{}{Fence}
+{45701}{}{A wooden fence.}
+{45800}{}{Fence}
+{45801}{}{Those who built this fence obviously weren't perfectionists.}
+{45900}{}{Fence}
+{45901}{}{Those who built this fence obviously weren't perfectionists.}
+{46000}{}{Fence}
+{46001}{}{Those who built this fence obviously weren't perfectionists.}
+{46100}{}{Sewer grid}
+{46101}{}{It's unlikely that the sewer itself is still operating.}
+{46200}{}{Bottles}
+{46201}{}{Cracked bottles and broken dishes.}
+{46300}{}{Bottles}
+{46301}{}{Cracked bottles and broken dishes.}
+{46400}{}{Junk}
+{46401}{}{A useless pile of junk.}
+{46500}{}{Slot machine}
+{46501}{}{You don't really think that in two hundred years it still works, do you?}
+{46600}{}{Slot machine}
+{46601}{}{You don't really think that in two hundred years it still works, do you?}
+{46700}{}{Junk}
+{46701}{}{Some useless junk.}
+{46800}{}{Junk}
+{46801}{}{Some useless junk.}
+{46900}{}{Poster}
+{46901}{}{It is impossible to tell what's on it.}
+{47000}{}{Elevator door}
+{47100}{}{Box}
+{47101}{}{An empty storage box.}
+{47200}{}{Box}
+{47201}{}{This box contains nothing interesting.}
+{47300}{}{Box}
+{47301}{}{This box contains nothing interesting.}
+{47400}{}{Box}
+{47401}{}{This box contains nothing interesting.}
+{47500}{}{Box}
+{47501}{}{This box contains nothing interesting.}
+{47600}{}{Box}
+{47601}{}{This box contains nothing interesting.}
+{47700}{}{Box}
+{47701}{}{This box contains nothing interesting.}
+{47800}{}{Box}
+{47801}{}{This box contains nothing interesting.}
+{47900}{}{Box}
+{47901}{}{This box contains nothing interesting.}
+{48000}{}{Box}
+{48001}{}{This box contains nothing interesting.}
+{48100}{}{Door}
+{48101}{}{A sturdy metal door.}
+{48200}{}{Door}
+{48201}{}{A sturdy metal door.}
+{48300}{}{Things}
+{48301}{}{A huge pile of things, which, on a closer inspection, contains nothing of interest for you.}
+{48400}{}{Weapons store}
+{48401}{}{There's a whole bunch of weapons on the counter.}
+{48500}{}{Propeller.}
+{48501}{}{It is spinning.}
+{48600}{}{Altar}
+{48700}{}{Monitor}
+{48701}{}{This big monitor is covered with a layer of dust. It is definitely not working}
 {48800}{}{Floor}
 {48801}{}{Floor}
-{48900}{}{Ограждение}
-{48901}{}{Ограждает лестницу с двух сторон.}
+{48900}{}{Barrier}
+{48901}{}{It surrounds the stairs from both sides.}
 {49000}{}{Wall}
-{49100}{}{Ограждение}
-{49101}{}{Доски, прибитые к листу железа.}
-{49200}{}{Ограждение}
-{49201}{}{Несколько наложенных друг на друга листов металла.}
+{49100}{}{Barrier}
+{49101}{}{Some wooden boards nailed to a sheet of iron.}
+{49200}{}{Barrier}
+{49201}{}{Several metal sheets put on each other.}
 {49300}{}{Table}
-{49301}{}{Похоже, этот стол потерял ножку.}
+{49301}{}{Looks like this table is missing a leg.}
 {49400}{}{Table}
-{49401}{}{Похоже, этот стол потерял ножку.}
+{49401}{}{Looks like this table is missing a leg.}
 {49500}{}{Table}
-{49501}{}{Старый облезший стол.}
+{49501}{}{Old dilapidated table}
 {49600}{}{Table}
-{49601}{}{Лучше не ставить на него ничего тяжелого.}
+{49601}{}{Better not to put anything heavy on it.}
 {49700}{}{Table}
-{49701}{}{Кажется, он вот-вот сломается.}
-{49800}{}{Тень}
-{49900}{}{Кукуруза}
-{49901}{}{Полезное культурное растение.}
-{50000}{}{Кукуруза}
-{50001}{}{Совсем маленький кустик.}
-{50100}{}{Кукуруза}
-{50101}{}{Вы очень любите кукурузный суп.}
-{50200}{}{Кукуруза}
-{50201}{}{Этому кустику еще расти и расти.}
-{50300}{}{Кукуруза}
-{50301}{}{Этому кустику еще расти и расти.}
-{50400}{}{Кукуруза}
-{50401}{}{Похоже этот початок почти созрел.}
-{50500}{}{Въезд на парковку}
-{50501}{}{Завал не разгрести.}
-{50600}{}{Въезд на парковку}
-{50601}{}{Завал не разгрести.}
-{50700}{}{Стул}
-{50701}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{50800}{}{Стул}
-{50801}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{50900}{}{Булыжник}
-{50901}{}{Обрушившаяся часть крыши образовала эту горку камня. Ваша веревка ведет обратно на поверхность.}
-{51000}{}{Кукуруза}
-{51001}{}{Эта кукурузина скоро будет готова к употреблению.}
+{49701}{}{Looks like it can break at any moment.}
+{49800}{}{Shadow}
+{49900}{}{Corn}
+{49901}{}{A useful domestic plant.}
+{50000}{}{Corn}
+{50001}{}{A very small bush.}
+{50100}{}{Corn}
+{50101}{}{You like the corn soup very much.}
+{50200}{}{Corn}
+{50201}{}{This bush has a long way to grow.}
+{50300}{}{Corn}
+{50301}{}{This bush has a long way to grow.}
+{50400}{}{Corn}
+{50401}{}{Looks like this cob is almost ripe.}
+{50500}{}{Parking lot entrance}
+{50501}{}{It's impossible to clear this rubble.}
+{50600}{}{Parking lot entrance}
+{50601}{}{It's impossible to clear this rubble.}
+{50700}{}{Chair.}
+{50701}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{50800}{}{Chair.}
+{50801}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{50900}{}{Boulder}
+{50901}{}{The collapsed part of the roof formed this slide of rock. Your rope leads back to the surface.}
+{51000}{}{Corn}
+{51001}{}{This corn cob will soon be ready for consumption.}
 {51100}{}{Wall}
-{51200}{}{Шланг}
-{51201}{}{Незаменимая вещь при поливе.}
-{51300}{}{Кукуруза}
-{51301}{}{Этому кустику еще расти и расти.}
-{51400}{}{Столб}
-{51500}{}{Шланг}
-{51501}{}{Незаменимая вещь при поливе.}
-{51600}{}{Стул}
-{51601}{}{Выглядит крепким.}
-{51700}{}{Стул}
-{51701}{}{Выглядит крепким.}
-{51800}{}{Стул}
-{51801}{}{Выглядит крепким.}
-{51900}{}{Стул}
-{51901}{}{Выглядит крепким.}
+{51200}{}{Hose}
+{51201}{}{An Irreplaceable tool in the business of watering crops.}
+{51300}{}{Corn}
+{51301}{}{This bush has a long way to grow.}
+{51400}{}{Pole}
+{51500}{}{Hose}
+{51501}{}{An Irreplaceable tool in the business of watering crops.}
+{51600}{}{Chair.}
+{51601}{}{Looks solid.}
+{51700}{}{Chair.}
+{51701}{}{Looks solid.}
+{51800}{}{Chair.}
+{51801}{}{Looks solid.}
+{51900}{}{Chair.}
+{51901}{}{Looks solid.}
 {52000}{}{Bed}
-{52001}{}{Лучше поспать на полу.}
-{52100}{}{Тень}
-{52200}{}{Стул}
-{52201}{}{Потрепанный, но крепкий.}
-{52300}{}{Вещи}
-{52301}{}{Очень много коробок с каким-то ненужным хламом.}
-{52400}{}{Верстак}
-{52401}{}{Старый верстак, его, похоже, часто использовали.}
-{52500}{}{Тень}
-{52600}{}{Стул}
-{52601}{}{Потрепанный, но крепкий.}
-{52700}{}{Машина}
-{52701}{}{Вы видите ведро с гайками - некогда отличный автомобиль.}
-{52800}{}{Машина}
-{52801}{}{Вы видите ведро с гайками - некогда отличный автомобиль.}
-{52900}{}{Коробка}
-{52901}{}{Пустая картонная коробка.}
-{53000}{}{Коробка}
-{53001}{}{Пустая картонная коробка.}
-{53100}{}{Коробка}
-{53101}{}{Пустая картонная коробка.}
-{53200}{}{Коробка}
-{53201}{}{Пустая картонная коробка.}
-{53300}{}{Земля}
-{53400}{}{Земля}
-{53500}{}{Земля}
-{53600}{}{Земля}
-{53700}{}{Боксерская груша}
-{53701}{}{Вам бы очень не хотелось оказаться на ее месте.}
-{53800}{}{Коробка}
-{53801}{}{Иногда коробки содержат ценные вещи, но не в этот раз.}
-{53900}{}{Коробка}
-{53901}{}{Иногда коробки содержат ценные вещи, но не в этот раз.}
-{54000}{}{Коробка}
-{54001}{}{Иногда коробки содержат ценные вещи, но не в этот раз.}
-{54100}{}{Коробка}
-{54101}{}{Иногда коробки содержат ценные вещи, но не в этот раз.}
-{54200}{}{Штанга}
-{54201}{}{Спортивный снаряд.}
-{54300}{}{Штанга}
-{54301}{}{Спортивный снаряд.}
+{52001}{}{It's better to sleep on the floor.}
+{52100}{}{Shadow}
+{52200}{}{Chair.}
+{52201}{}{Battered, but sturdy.}
+{52300}{}{Things}
+{52301}{}{A lot of boxes full of useless junk.}
+{52400}{}{Workbench.}
+{52401}{}{An old workbench, it seems to have been used a lot.}
+{52500}{}{Shadow}
+{52600}{}{Chair.}
+{52601}{}{Battered, but sturdy.}
+{52700}{}{Car}
+{52701}{}{You see a bucket of nuts and bolts. It was a great car once.}
+{52800}{}{Car}
+{52801}{}{You see a bucket of nuts and bolts. It was a great car once.}
+{52900}{}{Box}
+{52901}{}{An empty carton box.}
+{53000}{}{Box}
+{53001}{}{An empty carton box.}
+{53100}{}{Box}
+{53101}{}{An empty carton box.}
+{53200}{}{Box}
+{53201}{}{An empty carton box.}
+{53300}{}{Land}
+{53400}{}{Land}
+{53500}{}{Land}
+{53600}{}{Land}
+{53700}{}{Punching bag}
+{53701}{}{You wouldn't want to be in its place.}
+{53800}{}{Box}
+{53801}{}{Sometimes you can find something useful in boxes. Not this time.}
+{53900}{}{Box}
+{53901}{}{Sometimes you can find something useful in boxes. Not this time.}
+{54000}{}{Box}
+{54001}{}{Sometimes you can find something useful in boxes. Not this time.}
+{54100}{}{Box}
+{54101}{}{Sometimes you can find something useful in boxes. Not this time.}
+{54200}{}{Barbell}
+{54201}{}{A sports apparatus}
+{54300}{}{Barbell}
+{54301}{}{A sports apparatus}
 {54400}{}{Junk}
-{54401}{}{Похоже на часть коробки.}
+{54401}{}{Looks like a part of the box.}
 {54500}{}{Junk}
-{54501}{}{Этот мусор бесполезен.}
-{54600}{}{Турник}
-{54601}{}{Надежно закреплен в стене.}
-{54700}{}{Турник}
-{54701}{}{Надежно закреплен в стене.}
-{54800}{}{Турник}
-{54801}{}{Вы уже забыли, когда последний раз подтягивались.}
+{54501}{}{This trash is useless.}
+{54600}{}{Horizontal bar.}
+{54601}{}{It's securely fixed in the wall.}
+{54700}{}{Horizontal bar.}
+{54701}{}{It's securely fixed in the wall.}
+{54800}{}{Horizontal bar.}
+{54801}{}{You don't remember the last time you did pull-ups.}
 {54900}{}{Junk}
-{54901}{}{Вы видите коробку в стадии полураспада.}
+{54901}{}{You see a half-decayed cardboard box.}
 {55000}{}{Junk}
-{55001}{}{Вы видите коробку в стадии полураспада.}
-{55100}{}{Бетонные плиты}
-{55101}{}{Тяжелые плиты, вросшие в землю.}
-{55200}{}{Бетонные плиты}
-{55201}{}{Тяжелые плиты, вросшие в землю.}
-{55300}{}{Бетонные плиты}
-{55301}{}{Тяжелые плиты, вросшие в землю.}
-{55400}{}{Тень}
-{55500}{}{Заложенная хламом дыра в стене}
-{55501}{}{Несколько досок и мусор закрывают пролом в стене.}
-{55600}{}{Заложенная хламом дыра в стене}
-{55601}{}{Несколько досок и мусор закрывают пролом в стене.}
-{55700}{}{Плакат}
-{55701}{}{Старый плакат "счастливым быком".}
+{55001}{}{You see a half-decayed cardboard box.}
+{55100}{}{Concrete slabs.}
+{55101}{}{Heavy slabs, embedded in the ground.}
+{55200}{}{Concrete slabs.}
+{55201}{}{Heavy slabs, embedded in the ground.}
+{55300}{}{Concrete slabs.}
+{55301}{}{Heavy slabs, embedded in the ground.}
+{55400}{}{Shadow}
+{55500}{}{A covered hole in the wall}
+{55501}{}{Some boards and piles of junk are covering the hole.}
+{55600}{}{A covered hole in the wall}
+{55601}{}{Some boards and piles of junk are covering the hole.}
+{55700}{}{Poster}
+{55701}{}{An old "Happy Bull" poster.}
 {55800}{}{Junk}
-{55801}{}{Похоже на часть коробки.}
-{55900}{}{Забор}
-{55901}{}{Некогда красивая металлическая ограда.}
-{56000}{}{Забор}
-{56001}{}{Некогда красивая металлическая ограда.}
-{56100}{}{Забор}
-{56101}{}{Некогда красивая металлическая ограда.}
-{56200}{}{Забор}
-{56201}{}{Некогда красивая металлическая ограда.}
-{56300}{}{Забор}
-{56301}{}{Некогда красивая металлическая ограда.}
-{56400}{}{Забор}
-{56401}{}{Некогда красивая металлическая ограда.}
-{56500}{}{Забор}
-{56501}{}{Некогда красивая металлическая ограда.}
-{56600}{}{Забор}
-{56601}{}{Некогда красивая металлическая ограда.}
-{56700}{}{Балка}
-{56701}{}{Это прочная балка.}
-{56800}{}{Дверь}
-{56801}{}{Вход в здание завода.}
-{56900}{}{Полки}
-{56901}{}{Большие металлические полки.}
-{57000}{}{Полки}
-{57001}{}{Металлические полки, с виду крепкие и надежные.}
-{57100}{}{Полки}
-{57101}{}{Металлические полки, с виду крепкие и надежные.}
-{57200}{}{Полки}
-{57201}{}{Металлические полки, тут совсем нечего искать.}
-{57300}{}{Куст}
-{57301}{}{Пустынное растение. Для вас интереса не представляет.}
-{57400}{}{Куст}
-{57401}{}{Пустынное растение. Для вас интереса не представляет.}
-{57500}{}{Куст}
-{57501}{}{Пустынное растение. Для вас интереса не представляет.}
-{57600}{}{Стог}
-{57601}{}{Один из результатов работы слуг жизни.}
-{57700}{}{Лопата}
-{57701}{}{Главный инструмент для работы с землей.}
-{57800}{}{Стог}
-{57801}{}{Один из результатов работы слуг жизни.}
-{57900}{}{Агрегат}
-{57901}{}{Похоже переоборудован под самогонный аппарат.}
-{58000}{}{Стог}
-{58001}{}{Один из результатов работы слуг жизни.}
-{58100}{}{Дверь}
-{58101}{}{Надежная дверь из стальных прутьев.}
+{55801}{}{Looks like a part of the box.}
+{55900}{}{Fence}
+{55901}{}{Once beautiful metallic fence.}
+{56000}{}{Fence}
+{56001}{}{Once beautiful metallic fence.}
+{56100}{}{Fence}
+{56101}{}{Once beautiful metallic fence.}
+{56200}{}{Fence}
+{56201}{}{Once beautiful metallic fence.}
+{56300}{}{Fence}
+{56301}{}{Once beautiful metallic fence.}
+{56400}{}{Fence}
+{56401}{}{Once beautiful metallic fence.}
+{56500}{}{Fence}
+{56501}{}{Once beautiful metallic fence.}
+{56600}{}{Fence}
+{56601}{}{Once beautiful metallic fence.}
+{56700}{}{Beam}
+{56701}{}{This is a pretty strong beam.}
+{56800}{}{Door}
+{56801}{}{Entrance to the factory building.}
+{56900}{}{Shelves.}
+{56901}{}{Vast metal shelves}
+{57000}{}{Shelves.}
+{57001}{}{Metal shelves. They look reliable and strong.}
+{57100}{}{Shelves.}
+{57101}{}{Metal shelves. They look reliable and strong.}
+{57200}{}{Shelves.}
+{57201}{}{Metallic shelves. Nothing to pick up here.}
+{57300}{}{Bush}
+{57301}{}{A desert plant. No interest to you.}
+{57400}{}{Bush}
+{57401}{}{A desert plant. No interest to you.}
+{57500}{}{Bush}
+{57501}{}{A desert plant. No interest to you.}
+{57600}{}{Haystack}
+{57601}{}{A result of Life Servant's work.}
+{57700}{}{Shovel}
+{57701}{}{The main tool to work with the soil.}
+{57800}{}{Haystack}
+{57801}{}{A result of Life Servant's work.}
+{57900}{}{Device}
+{57901}{}{Looks like this thing was turned into producing moonshine.}
+{58000}{}{Haystack}
+{58001}{}{A result of Life Servant's work.}
+{58100}{}{Door}
+{58101}{}{A reliable door made of steel bars.}
 {58200}{}{Table}
-{58201}{}{Стол с непонятными инструментами.}
+{58201}{}{A table with obscure tools lying on it.}
 {58300}{}{Ladder}
 {58301}{}{This ladder leads into the darkness below.}
 {58400}{}{Ladder}
 {58401}{}{This ladder leads into the darkness below.}
-{58500}{}{Цепи}
-{58501}{}{Цепи заменяют канаты на этом ринге.}
-{58600}{}{Цепи}
-{58601}{}{Цепи заменяют канаты на этом ринге.}
-{58700}{}{Цепи}
-{58701}{}{Цепи заменяют канаты на этом ринге.}
-{58800}{}{Цепи}
-{58801}{}{Цепи заменяют канаты на этом ринге.}
-{58900}{}{Цепи}
-{58901}{}{Цепи заменяют канаты на этом ринге.}
-{59000}{}{Хлам}
-{59001}{}{Ничего интересного}
-{59100}{}{Шины}
-{59101}{}{Это основание ринга.}
-{59200}{}{Шины}
-{59201}{}{Это основание ринга.}
-{59300}{}{Шины}
-{59301}{}{Это основание ринга.}
-{59400}{}{Шины}
-{59401}{}{Это основание ринга.}
-{59500}{}{Цепи}
-{59501}{}{Цепи заменяют канаты на этом ринге.}
-{59600}{}{Самогонный аппарат}
-{59601}{}{Служит для производства спиртного.}
-{59700}{}{Котел}
-{59701}{}{Котел для производства "капли".}
+{58500}{}{Chains}
+{58501}{}{This ring has chains instead of ropes. Looks brutal.}
+{58600}{}{Chains}
+{58601}{}{This ring has chains instead of ropes. Looks brutal.}
+{58700}{}{Chains}
+{58701}{}{This ring has chains instead of ropes. Looks brutal.}
+{58800}{}{Chains}
+{58801}{}{This ring has chains instead of ropes. Looks brutal.}
+{58900}{}{Chains}
+{58901}{}{This ring has chains instead of ropes. Looks brutal.}
+{59000}{}{Junk}
+{59001}{}{Nothing of interest.}
+{59100}{}{Tires}
+{59101}{}{This is a ring's foundation.}
+{59200}{}{Tires}
+{59201}{}{This is a ring's foundation.}
+{59300}{}{Tires}
+{59301}{}{This is a ring's foundation.}
+{59400}{}{Tires}
+{59401}{}{This is a ring's foundation.}
+{59500}{}{Chains}
+{59501}{}{This ring has chains instead of ropes. Looks brutal.}
+{59600}{}{Moonshine machine}
+{59601}{}{Designed for producing booze.}
+{59700}{}{Boiler pot}
+{59701}{}{A boiler for producing the "Drop"}
 {59800}{}{Wall}
 {59900}{}{Wall}
 {60000}{}{Wall}
 {60100}{}{Junk}
-{60101}{}{Части складских коробок.}
+{60101}{}{Parts of warehouse boxes.}
 {60200}{}{Floor}
-{60300}{}{Столы}
-{60301}{}{Куча старых столов.}
+{60300}{}{Tables.}
+{60301}{}{A pile of old tables.}
 {60400}{}{Table}
-{60401}{}{Прекрасный образец деревянного стола.}
+{60401}{}{A wonderful example of a wooden table.}
 {60500}{}{Table}
-{60501}{}{Прекрасный образец деревянного стола.}
-{60600}{}{Сломанный стол}
-{60601}{}{Вряд ли кому-то придет в голову использовать этот стол по назначению.}
-{60700}{}{Сломанный стол}
-{60701}{}{Когда-то это было столом.}
+{60501}{}{A wonderful example of a wooden table.}
+{60600}{}{A broken table.}
+{60601}{}{It's unlikely that someone would want to use this by its purpose.}
+{60700}{}{A broken table.}
+{60701}{}{It used to be a table.}
 {60800}{}{Table}
-{60801}{}{Добротный и надежный стол, хоть и ржавый.}
+{60801}{}{Sturdy and reliable, let alone a little rusty.}
 {60900}{}{Table}
-{60901}{}{Отличный стол, выглядит почти как новый.}
+{60901}{}{A perfect table. Looks as good as new.}
 {61000}{}{Table}
-{61001}{}{Добротный и надежный стол, хоть и ржавый.}
+{61001}{}{Sturdy and reliable, let alone a little rusty.}
 {61100}{}{Table}
-{61101}{}{Прекрасный образец деревянного стола.}
-{61200}{}{Костер}
-{61201}{}{Можно вечно смотреть, как горит огонь.}
-{61300}{}{Зеркало}
-{61301}{}{Смотрите на себя некоторое время.}
-{61400}{}{Зеркало}
-{61401}{}{Смотрите на себя некоторое время.}
+{61101}{}{A wonderful example of a wooden table.}
+{61200}{}{Fire}
+{61201}{}{You can eternally stare at the fire.}
+{61300}{}{Mirror}
+{61301}{}{You look at yourself for some time.}
+{61400}{}{Mirror}
+{61401}{}{You look at yourself for some time.}
 {61500}{}{Wall}
-{61501}{}{Участок стены с освещением.}
-{61600}{}{Унитаз}
-{61601}{}{Очень чистый.}
-{61700}{}{Фонтан}
-{61701}{}{Полуразрушенный городской фонтан.}
-{61800}{}{Унитаз}
-{61801}{}{Если бы вы коллекционировали унитазы, то это был бы прекрасный экземпляр.}
-{61900}{}{Раковина}
-{61901}{}{Обычная раковина.}
-{62000}{}{Фонтан}
-{62001}{}{Полуразрушенный городской фонтан.}
-{62100}{}{Лежак}
-{62101}{}{Он грязный и воняет.}
-{62200}{}{Лежак}
-{62201}{}{Старый прогнивший лежак.}
+{61501}{}{An illuminated part of the wall.}
+{61600}{}{Toilet}
+{61601}{}{Very clean.}
+{61700}{}{Fountain}
+{61701}{}{A partially destroyed town fountain.}
+{61800}{}{Toilet}
+{61801}{}{If you were collecting toilets, it would be a beautiful addition to your collection.}
+{61900}{}{Sink}
+{61901}{}{A usual sink.}
+{62000}{}{Fountain}
+{62001}{}{A partially destroyed town fountain.}
+{62100}{}{Bed}
+{62101}{}{It is dirty and smelly.}
+{62200}{}{Bed}
+{62201}{}{An old rotten floor bed.}
 {62300}{}{Wall}
 {62400}{}{Wall}
-{62500}{}{Цепи}
-{62501}{}{Цепи вместо канатов на этом ринге.}
-{62600}{}{Цепи}
-{62601}{}{Цепи вместо канатов на этом ринге.}
-{62700}{}{Освещение}
-{62701}{}{Вокруг распространяется тусклый свет.}
-{62800}{}{Освещение}
-{62801}{}{Вокруг распространяется тусклый свет.}
+{62500}{}{Chains}
+{62501}{}{This ring has chains instead of ropes. Looks brutal.}
+{62600}{}{Chains}
+{62601}{}{This ring has chains instead of ropes. Looks brutal.}
+{62700}{}{Lights}
+{62701}{}{The surrounding area is illuminated by dim lights.}
+{62800}{}{Lights}
+{62801}{}{The surrounding area is illuminated by dim lights.}
 {62900}{}{Wall}
 {63000}{}{Wall}
 {63100}{}{Wall}
-{63200}{}{Терминал}
-{63300}{}{Терминал}
+{63200}{}{Terminal}
+{63300}{}{Terminal}
 {63400}{}{Wall}
 {63500}{}{Wall}
 {63600}{}{Wall}
-{63700}{}{Сиденье}
-{63701}{}{Живое зеленое растение в качестве элемента декорации сиденья очень удивляет.}
-{63800}{}{Сиденье}
-{63801}{}{Живое зеленое растение в качестве элемента декорации сиденья очень удивляет.}
-{63900}{}{Лежак}
-{63901}{}{Подозрительные пятна на нем отбивают всякое желание прилечь.}
-{64000}{}{Устройство}
-{64001}{}{Какая-то сложная штука с непонятным назначением.}
-{64100}{}{Земля}
-{64200}{}{Земля}
-{64300}{}{Земля}
-{64400}{}{Земля}
-{64500}{}{Дверь}
-{64501}{}{Решетчатая дверь, хорошо подходит в качестве решетки в тюрьму.}
-{64600}{}{Терминал управления лифтом}
-{64601}{}{На нажатия не реагирует. Возможно, необходимо подать электричество.}
-{64700}{}{Терминал управления лифтом}
-{64701}{}{Похоже, он до сих пор работает.}
-{64800}{}{Лежак}
-{64801}{}{Старый и вонючий.}
-{64900}{}{Лежак}
-{64901}{}{Старый прогнивший лежак.}
+{63700}{}{Seat}
+{63701}{}{The living green plant as part of the seat decoration looks very surprising.}
+{63800}{}{Seat}
+{63801}{}{The living green plant as part of the seat decoration looks very surprising.}
+{63900}{}{Bed}
+{63901}{}{The suspicious stains discourage any desire to lie down on it.}
+{64000}{}{Device}
+{64001}{}{Some intricate thing with an unknown purpose.}
+{64100}{}{Land}
+{64200}{}{Land}
+{64300}{}{Land}
+{64400}{}{Land}
+{64500}{}{Door}
+{64501}{}{Slatted door. Well-suited for a prison cell.}
+{64600}{}{Elevator control terminal}
+{64601}{}{Doesn't respond. Maybe it needs power.}
+{64700}{}{Elevator control terminal}
+{64701}{}{Looks like this one is still working.}
+{64800}{}{Bed}
+{64801}{}{Old and smelly.}
+{64900}{}{Bed}
+{64901}{}{An old rotten floor bed.}
 {65000}{}{Floor}
-{65100}{}{Вентиляция}
-{65101}{}{Высокотехнологичная система очистки воздуха.}
-{65200}{}{Вентиляция}
-{65201}{}{Высокотехнологичная система очистки воздуха.}
-{65300}{}{Лежак}
-{65301}{}{Кормление живущих на нем насекомых не входит в Ваши планы.}
+{65100}{}{Vent}
+{65101}{}{High-tech air purification system.}
+{65200}{}{Vent}
+{65201}{}{High-tech air purification system.}
+{65300}{}{Bed}
+{65301}{}{Feeding the insects living on it is not part of your plan.}
 {65400}{}{a music machine}
 {65401}{}{It still works perfectly.}
 {65500}{}{a music machine}
 {65501}{}{The song selection is not particularly varied.}
-{65600}{}{Скамья}
-{65601}{}{Удобная скамья для отдыха.}
+{65600}{}{Bench}
+{65601}{}{A comfortable bench.}
 {65700}{}{Table}
-{65701}{}{Часть сломанного стола.}
-{65800}{}{Лежак}
-{65801}{}{Дряхлый лежак, покрытый плесенью и странными пятнами.}
+{65701}{}{A part of a broken table.}
+{65800}{}{Bed}
+{65801}{}{And old floor bed, covered in mold and strange stains.}
 {65900}{}{Table}
-{65901}{}{Сломанный стол, его часть.}
+{65901}{}{A broken table. A part of it.}
 {66000}{}{Table}
-{66001}{}{Прекрасно сделанный стол.}
-{66100}{}{Опрокинутый стол}
-{66101}{}{У него сломалась ножка.}
-{66200}{}{Стул}
-{66201}{}{С виду вполне надежный стул, хотя ножки немного заржавели.}
-{66300}{}{Стул}
-{66301}{}{Это стул, самый обычный стул.}
-{66400}{}{Стул}
-{66401}{}{Передняя ножка слегка погнулась, но стул выглядит вполне крепким.}
-{66500}{}{Стул}
-{66501}{}{Очень удобный предмет мебели.}
-{66600}{}{Лежащий стул}
-{66601}{}{Кто-то уронил стул.}
-{66700}{}{Лежащий стул}
-{66701}{}{Кажется, что он прилег отдохнуть.}
-{66800}{}{Лежащий стул}
-{66801}{}{Вам это вряд ли пригодится.}
-{66900}{}{Лежащий стул}
-{66901}{}{Кто-то уронил стул.}
-{67000}{}{Кресло}
-{67001}{}{Вашей пятой точке вряд ли понравится сидеть на кресле без сиденья.}
-{67100}{}{Кресло}
-{67101}{}{Оно неплохо сохранилось.}
-{67200}{}{Кресло}
-{67201}{}{Наверно его еще можно починить.}
-{67300}{}{Кресло}
-{67301}{}{Кажется, сиденье треснуло.}
-{67400}{}{Кресло}
-{67401}{}{Вы видите останки некогда удобного кресла.}
-{67500}{}{Кресло}
-{67501}{}{Интересно, куда делось сиденье.}
-{67600}{}{Кресло}
-{67601}{}{Если бы у кресел были скелеты, они выглядели бы именно так.}
-{67700}{}{Хлам}
-{67701}{}{Кажется, это когда-то было стулом.}
+{66001}{}{A beautifully crafted table.}
+{66100}{}{Broken table}
+{66101}{}{Its leg is broken.}
+{66200}{}{Chair.}
+{66201}{}{Looks like a usual reliable chair. Its legs are a little rusty though.}
+{66300}{}{Chair.}
+{66301}{}{It's a chair. The usual one.}
+{66400}{}{Chair.}
+{66401}{}{Its front leg is a little bent, but the chair still looks pretty solid.}
+{66500}{}{Chair.}
+{66501}{}{A very comfortable piece of furniture.}
+{66600}{}{Lying chair}
+{66601}{}{Someone dropped this chair.}
+{66700}{}{Lying chair}
+{66701}{}{Looks like it's resting.}
+{66800}{}{Lying chair}
+{66801}{}{You are hardly going to use it.}
+{66900}{}{Lying chair}
+{66901}{}{Someone dropped this chair.}
+{67000}{}{Armchair}
+{67001}{}{Probably, you wouldn't like sitting on a chair without a seat.}
+{67100}{}{Armchair}
+{67101}{}{It's quite well-preserved.}
+{67200}{}{Armchair}
+{67201}{}{It can be probably fixed.}
+{67300}{}{Armchair}
+{67301}{}{Looks like there's a crack in the seat.}
+{67400}{}{Armchair}
+{67401}{}{You see the remains of a once convenient armchair.}
+{67500}{}{Armchair}
+{67501}{}{You wonder what became of the seat.}
+{67600}{}{Armchair}
+{67601}{}{If armchairs could have had skeletons, this is what they would look like.}
+{67700}{}{Junk}
+{67701}{}{Looks like it was a chair once.}
 {67800}{}{Bed}
-{67801}{}{Слишком грязная.}
-{67900}{}{Шкаф}
-{67901}{}{Там определенно ничего нет.}
+{67801}{}{Too dirty.}
+{67900}{}{Locker}
+{67901}{}{There is definitely nothing in there.}
 {68000}{}{Bed}
-{68001}{}{Почерневшая от грязи кровать.}
-{68100}{}{Шкаф}
-{68101}{}{Предмет мебели. Вряд ли тут что-то есть.}
-{68200}{}{Печка}
-{68201}{}{Похоже, она в рабочем состоянии.}
-{68300}{}{Печка}
-{68301}{}{Эта печка работает на дровах.}
-{68400}{}{Печка}
-{68401}{}{Вам сейчас некогда готовить.}
-{68500}{}{Печка}
-{68501}{}{В рабочем состоянии, работает на дровах.}
-{68600}{}{Тень}
-{68700}{}{Фонари}
-{68701}{}{Два фонаря на проводах.}
-{68800}{}{Фонари}
-{68801}{}{Два фонаря на проводах.}
-{68900}{}{Вход в пещеру}
-{68901}{}{В пещерах обычно прохладно.}
-{69000}{}{Столб}
-{69001}{}{Обрубок столба.}
-{69100}{}{Гора}
-{69101}{}{Склоны горы выглядят неприступными.}
-{69200}{}{Гора}
-{69201}{}{Склоны горы выглядят неприступными.}
-{69300}{}{Гора}
-{69301}{}{Склоны горы выглядят неприступными.}
-{69400}{}{Гора}
-{69401}{}{Склоны горы выглядят неприступными.}
-{69500}{}{Гора}
-{69501}{}{Склоны горы выглядят неприступными.}
-{69600}{}{Гора}
-{69601}{}{Склоны горы выглядят неприступными.}
-{69700}{}{Фонарь}
-{69701}{}{Их использовали для освещения местности в темное время.}
-{69800}{}{Фонарь}
-{69801}{}{Их использовали для освещения местности в темное время.}
-{69900}{}{Фонарь}
-{69901}{}{Их использовали для освещения местности в темное время.}
-{70000}{}{Фонарь}
-{70001}{}{Их использовали для освещения местности в темное время.}
-{70100}{}{Фонарь}
-{70101}{}{Этому фонарю сильно досталось.}
-{70200}{}{Фонарь}
-{70201}{}{То, что осталось от фонаря.}
-{70300}{}{Сиденье}
-{70301}{}{Растение выглядит живым, неужели его кто-то поливает.}
-{70400}{}{Труба}
-{70401}{}{Повреждение на трубе.}
-{70500}{}{Труба}
-{70501}{}{Повреждение на трубе.}
-{70600}{}{Труба}
-{70601}{}{Повреждение на трубе.}
-{70700}{}{Труба}
-{70701}{}{Повреждение на трубе.}
+{68001}{}{This bed is blackened from all the dirt.}
+{68100}{}{Locker}
+{68101}{}{A piece of furniture. You will hardly find anything interesting there.}
+{68200}{}{Oven}
+{68201}{}{Looks like it is in working condition.}
+{68300}{}{Oven}
+{68301}{}{This one works on wood.}
+{68400}{}{Oven}
+{68401}{}{You have no time to cook.}
+{68500}{}{Oven}
+{68501}{}{In working condition. Works on wood.}
+{68600}{}{Shadow}
+{68700}{}{Lights}
+{68701}{}{Two lights hanging on wires.}
+{68800}{}{Lights}
+{68801}{}{Two lights hanging on wires.}
+{68900}{}{Cave entrance}
+{68901}{}{The caves are usually quite cold.}
+{69000}{}{Pole}
+{69001}{}{Part of the pole}
+{69100}{}{Mountain}
+{69101}{}{Its cliffs look unapproachable}
+{69200}{}{Mountain}
+{69201}{}{Its cliffs look unapproachable}
+{69300}{}{Mountain}
+{69301}{}{Its cliffs look unapproachable}
+{69400}{}{Mountain}
+{69401}{}{Its cliffs look unapproachable}
+{69500}{}{Mountain}
+{69501}{}{Its cliffs look unapproachable}
+{69600}{}{Mountain}
+{69601}{}{Its cliffs look unapproachable}
+{69700}{}{Light}
+{69701}{}{The ones like this were used to illuminate the surroundings in the time of the dark.}
+{69800}{}{Light}
+{69801}{}{The ones like this were used to illuminate the surroundings in the time of the dark.}
+{69900}{}{Light}
+{69901}{}{The ones like this were used to illuminate the surroundings in the time of the dark.}
+{70000}{}{Light}
+{70001}{}{The ones like this were used to illuminate the surroundings in the time of the dark.}
+{70100}{}{Light}
+{70101}{}{This light has seen some things.}
+{70200}{}{Light}
+{70201}{}{Everything that's left of the light.}
+{70300}{}{Seat}
+{70301}{}{The plant looks alive. Maybe someone is watering it?}
+{70400}{}{Pipe}
+{70401}{}{A damaged pipe.}
+{70500}{}{Pipe}
+{70501}{}{A damaged pipe.}
+{70600}{}{Pipe}
+{70601}{}{A damaged pipe.}
+{70700}{}{Pipe}
+{70701}{}{A damaged pipe.}
 {70800}{}{Table}
-{70801}{}{Неплохой деревянный стол.}
+{70801}{}{A quite good wooden table.}
 {70900}{}{Table}
-{70901}{}{Неплохой деревянный стол.}
+{70901}{}{A quite good wooden table.}
 {71000}{}{Table}
-{71001}{}{Довольно грязный и, кажется, покрыт плесенью.}
-{71100}{}{Освещение}
-{71101}{}{Без него было бы совсем темно.}
+{71001}{}{It's pretty dirty. Looks like there's mold on it.}
+{71100}{}{Lights}
+{71101}{}{It would be complete darkness without it.}
 {71200}{}{Table}
-{71201}{}{Довольно грязный и, кажется, покрыт плесенью.}
-{71300}{}{Опрокинутый стул}
-{71301}{}{Барный стул без спинки.}
-{71400}{}{Освещение}
-{71401}{}{Без него было бы совсем темно.}
-{71500}{}{Стул}
-{71501}{}{Барный стул без спинки.}
-{71600}{}{Вывеска}
-{71601}{}{Вывеска сделана из частей машин, шин, и прочего хлама. Надпись: "Jackals" - шакалы.}
+{71201}{}{It's pretty dirty. Looks like there's mold on it.}
+{71300}{}{Lying chair.}
+{71301}{}{Bar stool with no back.}
+{71400}{}{Lights}
+{71401}{}{It would be complete darkness without it.}
+{71500}{}{Chair.}
+{71501}{}{Bar stool with no back.}
+{71600}{}{Sign}
+#Н/Д
 {71700}{}{Ladder}
 {71701}{}{This ladder leads up.}
 {71800}{}{Ladder}
 {71801}{}{This ladder leads up.}
-{71900}{}{Скамья}
-{71901}{}{Каменная скамья - для суровых задниц.}
-{72000}{}{Скамья}
-{72001}{}{Чтобы сломать каменную скамью, нужно постараться.}
-{72100}{}{Скамья}
-{72101}{}{Каменная скамья, наверное, очень жесткая.}
-{72200}{}{Скамья}
-{72201}{}{Каменная скамья - для суровых задниц.}
-{72300}{}{Скамья}
-{72301}{}{Каменная скамья - для суровых задниц.}
-{72400}{}{Вещи}
-{72401}{}{Какие-то коробки - внутри ничего интересного.}
-{72500}{}{Обломки стены}
-{72501}{}{Обломки обрушенной стены.}
-{72600}{}{Скамья}
-{72601}{}{Слегка поврежденная каменная скамья.}
-{72700}{}{Скамья}
-{72701}{}{Каменная скамья, наверное, очень жесткая.}
-{72800}{}{Опрокинутый стул}
-{72801}{}{Барный стул без спинки.}
-{72900}{}{Опрокинутый стул}
-{72901}{}{Обычный барный стул, который кто-то уронил.}
+{71900}{}{Bench}
+{71901}{}{A stone bench. For hard-asses.}
+{72000}{}{Bench}
+{72001}{}{You should put a lot of effort to break a stone bench.}
+{72100}{}{Bench}
+{72101}{}{A stone bench. Must be very firm.}
+{72200}{}{Bench}
+{72201}{}{A stone bench. For hard-asses.}
+{72300}{}{Bench}
+{72301}{}{A stone bench. For hard-asses.}
+{72400}{}{Things}
+{72401}{}{Some boxes. Nothing interesting inside.}
+{72500}{}{Wall debris}
+{72501}{}{Rubble from a destroyed wall.}
+{72600}{}{Bench}
+{72601}{}{A slightly damaged stone bench.}
+{72700}{}{Bench}
+{72701}{}{A stone bench. Must be very firm.}
+{72800}{}{Lying chair.}
+{72801}{}{Bar stool with no back.}
+{72900}{}{Lying chair.}
+{72901}{}{Just a bar stool. Someone tipped this one over.}
 {73000}{}{Table}
-{73001}{}{Довольно грязный предмет мебели.}
-{73100}{}{Вывеска}
-{73101}{}{Вывеска сделана из частей машин, шин, и прочего хлама. Надпись: "Jackals" - шакалы.}
-{73200}{}{Стул}
-{73201}{}{Барный стул без спинки.}
-{73300}{}{Вывеска}
-{73301}{}{Вывеска сделана из частей машин, шин, и прочего хлама. Надпись: "Jackals" - шакалы.}
-{73400}{}{Стул}
-{73401}{}{Барный стул без спинки.}
-{73500}{}{Стул}
-{73501}{}{Барный стул без спинки.}
-{73600}{}{Стул}
-{73601}{}{Самый обычный стул без спинки.}
-{73700}{}{Сломанный стул}
-{73701}{}{Похоже, этот хлам когда-то был стулом, собранным из хлама.}
-{73800}{}{Стул}
-{73801}{}{Похоже, этот хлам когда-то был стулом, собранным из хлама.}
-{73900}{}{Стул}
-{73901}{}{Самодельный стул из хлама и частей машин.}
-{74000}{}{Стул}
-{74001}{}{Вы не испытываете особого интереса к самодельной мебели.}
-{74100}{}{Стул}
-{74101}{}{Самодельный стул из подручных материалов.}
-{74200}{}{Стул}
-{74201}{}{Сделан из хлама и частей машин.}
-{74300}{}{Дерьмо}
-{74301}{}{Лучше не наступать в это.}
-{74400}{}{Дерьмо}
-{74401}{}{Продукт чьей-то жизнедеятельности.}
-{74500}{}{Дерьмо}
-{74501}{}{Продукт чьей-то жизнедеятельности.}
-{74600}{}{Дерьмо}
-{74601}{}{Лучше не наступать в это.}
-{74700}{}{Дерьмо}
-{74701}{}{Небольшая кучка крайне ароматного дерьма.}
-{74800}{}{Дерьмо}
-{74801}{}{Небольшая кучка крайне ароматного дерьма.}
+{73001}{}{An unusually dirty piece of furniture.}
+{73100}{}{Sign}
+#Н/Д
+{73200}{}{Chair.}
+{73201}{}{Bar stool with no back.}
+{73300}{}{Sign}
+#Н/Д
+{73400}{}{Chair.}
+{73401}{}{Bar stool with no back.}
+{73500}{}{Chair.}
+{73501}{}{Bar stool with no back.}
+{73600}{}{Chair.}
+{73601}{}{Just a chair with no back.}
+{73700}{}{Broken chair}
+{73701}{}{Looks like this pile of garbage was once a chair. Made from the garbage.}
+{73800}{}{Chair.}
+{73801}{}{Looks like this pile of garbage was once a chair. Made from the garbage.}
+{73900}{}{Chair.}
+{73901}{}{A handmade chair, assembled from trash and car parts.}
+{74000}{}{Chair.}
+{74001}{}{You don't have any feelings for handmade furniture.}
+{74100}{}{Chair.}
+{74101}{}{A handmade chair, made from all kinds of stuff.}
+{74200}{}{Chair.}
+{74201}{}{Made from junk and car parts}
+{74300}{}{Manure}
+{74301}{}{Better not to step on it.}
+{74400}{}{Manure}
+{74401}{}{A product of someone's waste.}
+{74500}{}{Manure}
+{74501}{}{A product of someone's waste.}
+{74600}{}{Manure}
+{74601}{}{Better not to step on it.}
+{74700}{}{Manure}
+{74701}{}{A little pile of extremely fragrant shit.}
+{74800}{}{Manure}
+{74801}{}{A little pile of extremely fragrant shit.}
 {74900}{}{Table}
-{74901}{}{Стол с ободранной, поцарапанной поверхностью.}
+{74901}{}{A table with a scratched surface.}
 {75000}{}{Table}
-{75001}{}{Не самый чистый, но довольно крепкий стол.}
-{75100}{}{Машина}
-{75101}{}{Теперь это груда бесполезного ржавеющего металла.}
-{75200}{}{Машина}
-{75201}{}{Этот автомобиль отслужил свое очень и очень давно.}
-{75300}{}{Машина}
-{75301}{}{Починить эту рухлядь невозможно в принципе.}
-{75400}{}{Машина}
-{75401}{}{Этому металлолому уже не колесить по хайвеям.}
+{75001}{}{Not the cleanest, but pretty tough table.}
+{75100}{}{Car}
+{75101}{}{Now it's just a pile of useless rusted metal.}
+{75200}{}{Car}
+{75201}{}{This car served its purpose a very, very long time ago}
+{75300}{}{Car}
+{75301}{}{It is impossible to repair this hunk.}
+{75400}{}{Car}
+{75401}{}{This heap of metal will never ride the highways again.}
 {75500}{}{Bed}
-{75501}{}{Выглядит удобной, но спящий здесь не отличается чистоплотностью.}
+{75501}{}{Looks comfy, but those who sleep here are not very fond of cleanliness.}
 {75600}{}{Bed}
-{75601}{}{Выглядит удобной, но белье не помешало бы постирать.}
+{75601}{}{Looks convenient. Although the sheets could be washed a little.}
 {75700}{}{Bed}
-{75701}{}{Предмет мебели, предназначенный для сна и отдыха.}
+{75701}{}{A piece of furniture. It's intended for rest and sleep.}
 {75800}{}{Bed}
-{75801}{}{Если завернуться в простыню, можно изображать приведение.}
+{75801}{}{If you wrap yourself in sheets, you can try to spook people.}
 {75900}{}{Bed}
-{75901}{}{Не время отдыхать.}
+{75901}{}{No time to lay down and rest.}
 {76000}{}{Bed}
-{76001}{}{Предмет мебели, предназначенный для сна и отдыха.}
-{76100}{}{Коммуникации}
-{76101}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{76200}{}{Коммуникации}
-{76201}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{76300}{}{Коммуникации}
-{76301}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{76400}{}{Коммуникации}
-{76401}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{76500}{}{Коммуникации}
-{76501}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{76600}{}{Коммуникации}
-{76601}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
+{76001}{}{A piece of furniture. It's intended for rest and sleep.}
+{76100}{}{Utility}
+{76101}{}{You see pipes, wires, some kind of machines and other stuff.}
+{76200}{}{Utility}
+{76201}{}{You see pipes, wires, some kind of machines and other stuff.}
+{76300}{}{Utility}
+{76301}{}{You see pipes, wires, some kind of machines and other stuff.}
+{76400}{}{Utility}
+{76401}{}{You see pipes, wires, some kind of machines and other stuff.}
+{76500}{}{Utility}
+{76501}{}{You see pipes, wires, some kind of machines and other stuff.}
+{76600}{}{Utility}
+{76601}{}{You see pipes, wires, some kind of machines and other stuff.}
 {76700}{}{Floor}
-{76800}{}{Бомба}
-{76801}{}{Это ядерная бомба. Даже сидеть рядом очень опасно.}
-{76900}{}{Подставка}
-{76901}{}{На этой подставке и лежит ядерная бомба.}
-{77000}{}{вычислительная Консоль}
-{77001}{}{Это контрольный вычислитель.}
+{76800}{}{Bomb}
+{76801}{}{It's a nuclear bomb. You feel terrified even standing near it.}
+{76900}{}{Podium}
+{76901}{}{This is the podium where the nuclear bomb currently rests.}
+{77000}{}{Calculator console}
+{77001}{}{This is a control calculator.}
 {77100}{}{Junk}
-{77101}{}{Треснутые бутылки, осколки бутылок. Ничего ценного.}
-{77200}{}{Опрокинутый стул}
-{77201}{}{Если его поднять, то вполне можно сидеть.}
-{77300}{}{Опрокинутый стул}
-{77301}{}{Если его поднять, то вполне можно сидеть.}
-{77400}{}{Опрокинутый стул}
-{77401}{}{Зачем он вам? Пусть лежит.}
-{77500}{}{Опрокинутый стул}
-{77501}{}{Зачем он вам? Пусть лежит.}
-{77600}{}{Опрокинутый стул}
-{77601}{}{Зачем он вам? Пусть лежит.}
-{77700}{}{Опрокинутый стул}
-{77701}{}{Зачем он вам? Пусть лежит.}
-{77800}{}{Опрокинутый стул}
-{77801}{}{Кто-то уронил стул.}
-{77900}{}{Опрокинутый стул}
-{77901}{}{Кто-то уронил стул.}
-{78000}{}{Опрокинутый стул}
-{78001}{}{Мирно лежащий стул.}
-{78100}{}{Стул}
-{78101}{}{Ржавая ножка, лопнувшая обивка - этот стул не похож на удобный.}
-{78200}{}{Стул}
-{78201}{}{Ржавая ножка, лопнувшая обивка - этот стул не похож на удобный.}
-{78300}{}{Стул}
-{78301}{}{Он свое отслужил.}
-{78400}{}{Оборудование}
-{78401}{}{Какое-то техническое оборудование.}
-{78500}{}{Оборудование}
-{78501}{}{Какое-то техническое оборудование.}
-{78600}{}{Оборудование}
-{78601}{}{Некое техническое оборудование в заржавевшей стойке.}
-{78700}{}{Оборудование}
-{78701}{}{Стойка с каким-то техническим оборудованием.}
-{78800}{}{Оборудование}
-{78801}{}{Некое техническое оборудование.}
-{78900}{}{Оборудование}
-{78901}{}{Некое техническое оборудование в заржавевшей стойке.}
-{79000}{}{Оборудование}
-{79001}{}{Какое-то оборудование с неизвестным Вам назначением.}
-{79100}{}{Оборудование}
-{79101}{}{Эту стойку с оборудованием сильно помяли, вряд ли оно теперь может работать.}
-{79200}{}{Окно}
-{79201}{}{Очень грязное.}
-{79300}{}{Окно}
-{79301}{}{Вы даже можете увидеть чудом сохранившиеся стекла.}
-{79400}{}{Окно}
-{79401}{}{Очень грязное.}
-{79500}{}{Окно}
-{79501}{}{Вы даже можете увидеть чудом сохранившиеся стекла.}
+{77101}{}{Shattered bottles, shards of glass. Nothing of value.}
+{77200}{}{Lying chair.}
+{77201}{}{It can still be used for sitting.}
+{77300}{}{Lying chair.}
+{77301}{}{It can still be used for sitting.}
+{77400}{}{Lying chair.}
+{77401}{}{Why do you need it? Leave it alone.}
+{77500}{}{Lying chair.}
+{77501}{}{Why do you need it? Leave it alone.}
+{77600}{}{Lying chair.}
+{77601}{}{Why do you need it? Leave it alone.}
+{77700}{}{Lying chair.}
+{77701}{}{Why do you need it? Leave it alone.}
+{77800}{}{Lying chair.}
+{77801}{}{Someone dropped this chair.}
+{77900}{}{Lying chair.}
+{77901}{}{Someone dropped this chair.}
+{78000}{}{Lying chair.}
+{78001}{}{A chair, peacefully laying around.}
+{78100}{}{Chair.}
+{78101}{}{Rusty leg, busted leather - this chair doesn't look comfy.}
+{78200}{}{Chair.}
+{78201}{}{Rusty leg, busted leather - this chair doesn't look comfy.}
+{78300}{}{Chair.}
+{78301}{}{It served its purpose.}
+{78400}{}{Equipment}
+{78401}{}{Some kind of technical equipment.}
+{78500}{}{Equipment}
+{78501}{}{Some kind of technical equipment.}
+{78600}{}{Equipment}
+{78601}{}{Some kind of technical equipment in a rusted rack.}
+{78700}{}{Equipment}
+{78701}{}{A rack containing some technical equipment.}
+{78800}{}{Equipment}
+{78801}{}{Some technical equipment.}
+{78900}{}{Equipment}
+{78901}{}{Some kind of technical equipment in a rusted rack.}
+{79000}{}{Equipment}
+{79001}{}{Some kind of technical equipment with an unknown purpose.}
+{79100}{}{Equipment}
+{79101}{}{This rack has been dented by something. It is unlikely that the equipment is able to work.}
+{79200}{}{Window}
+{79201}{}{Very dirty.}
+{79300}{}{Window}
+{79301}{}{You notice the remains of glass, miraculously preserved somehow.}
+{79400}{}{Window}
+{79401}{}{Very dirty.}
+{79500}{}{Window}
+{79501}{}{You notice the remains of glass, miraculously preserved somehow.}
 {79600}{}{Table}
-{79601}{}{Его конечно можно починить, но Вам это не нужно.}
+{79601}{}{It can be repaired - but you don't need to do it.}
 {79700}{}{Table}
-{79701}{}{Немного помятый, но в общем неплохой стол.}
-{79800}{}{Стул}
-{79801}{}{Несмотря на ржавую ножку, этот стул еще может послужить.}
-{79900}{}{Стул}
-{79901}{}{Несмотря на ржавую ножку, этот стул еще может послужить.}
-{80000}{}{Стул}
-{80001}{}{Обычный стул со спинкой.}
-{80100}{}{Стул}
-{80101}{}{Несмотря на ржавую ножку, этот стул еще может послужить.}
-{80200}{}{Стул}
-{80201}{}{Как умели, так и починили.}
-{80300}{}{Стул}
-{80301}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{80400}{}{Стул}
-{80401}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{80500}{}{Стул}
-{80501}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{80600}{}{Стул}
-{80601}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{80700}{}{Стул}
-{80701}{}{От этого стула мало что осталось.}
-{80800}{}{Опрокинутый стул}
-{80801}{}{Это самый обычный стул, наверное, прилег отдохнуть.}
-{80900}{}{Стул}
-{80901}{}{Теперь это просто хлам.}
-{81000}{}{Стул}
-{81001}{}{Мирно лежащий на боку стул.}
-{81100}{}{Стул}
-{81101}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{81200}{}{Стул}
-{81201}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{81300}{}{Стул}
-{81301}{}{Четыре ножки, сиденье и спинка - похоже перед Вами обычный стул.}
-{81400}{}{Вычислитель}
-{81401}{}{Обыкновенный вычислитель.}
-{81500}{}{Вычислитель}
-{81501}{}{Обыкновенный вычислитель.}
-{81600}{}{Оборудование}
-{81601}{}{Некое техническое оборудование с неизвестным Вам назначением.}
-{81700}{}{Вычислитель}
-{81701}{}{Кажется, он выключен.}
-{81800}{}{Вычислитель.}
-{81801}{}{Обыкновенный вычислитель.}
-{81900}{}{Вычислитель.}
-{81901}{}{Кажется, он выключен.}
-{82000}{}{Вычислитель.}
-{82001}{}{Большой и сложный вычислитель с какими-то рычагами.}
-{82100}{}{Вычислитель.}
-{82101}{}{Большой и сложный вычислитель с какими-то рычагами.}
-{82200}{}{Трубки}
-{82201}{}{Узел из трубок, какие-то коммуникации.}
-{82300}{}{Трубки}
-{82301}{}{Узел из трубок, какие-то коммуникации.}
-{82400}{}{Table с приборами}
-{82401}{}{Кажется в колбах какие-то химические составы. Не стоит трогать незнакомые жидкости.}
+{79701}{}{A little dented, but still a good table.}
+{79800}{}{Chair.}
+{79801}{}{Despite its rusty legs, it can still do its job.}
+{79900}{}{Chair.}
+{79901}{}{Despite its rusty legs, it can still do its job.}
+{80000}{}{Chair.}
+{80001}{}{A usual chair.}
+{80100}{}{Chair.}
+{80101}{}{Despite its rusty legs, it can still do its job.}
+{80200}{}{Chair.}
+{80201}{}{It was fixed by someone. They did all they could.}
+{80300}{}{Chair.}
+{80301}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{80400}{}{Chair.}
+{80401}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{80500}{}{Chair.}
+{80501}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{80600}{}{Chair.}
+{80601}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{80700}{}{Chair.}
+{80701}{}{There's almost nothing left of this chair.}
+{80800}{}{Lying chair.}
+{80801}{}{Just a usual chair. It must be tired. Don't disturb it.}
+{80900}{}{Chair.}
+{80901}{}{Now it's just junk.}
+{81000}{}{Chair.}
+{81001}{}{Just a chair, peacefully lying on the side.}
+{81100}{}{Chair.}
+{81101}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{81200}{}{Chair.}
+{81201}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{81300}{}{Chair.}
+{81301}{}{Four legs, a seat, a back - looks like you see a usual chair.}
+{81400}{}{Calculator}
+{81401}{}{A common calculator.}
+{81500}{}{Calculator}
+{81501}{}{A common calculator.}
+{81600}{}{Equipment}
+{81601}{}{Some kind of technical machinery with a purpose unknown to you.}
+{81700}{}{Calculator}
+{81701}{}{Looks like it's turned off.}
+{81800}{}{Calculator}
+{81801}{}{A common calculator.}
+{81900}{}{Calculator}
+{81901}{}{Looks like it's turned off.}
+{82000}{}{Calculator}
+{82001}{}{A large and complex calculator with levers and buttons on it.}
+{82100}{}{Calculator}
+{82101}{}{A large and complex calculator with levers and buttons on it.}
+{82200}{}{Tubes}
+{82201}{}{A knot of interwoven tubes. Some kind of communications.}
+{82300}{}{Tubes}
+{82301}{}{A knot of interwoven tubes. Some kind of communications.}
+{82400}{}{Table with reagents.}
+{82401}{}{It seems that the flasks contain some chemical compounds. You'd better not touch it.}
 {82500}{}{Wall}
-{82600}{}{Дверь машины}
-{82601}{}{Точнее того, что от нее осталось}
-{82700}{}{Бочка}
-{82701}{}{Обыкновенная металлическая бочка.}
-{82800}{}{Бочка}
-{82801}{}{Бочка с неизвестным содержимым.}
-{82900}{}{Стул}
-{82901}{}{Замечательный барный стул.}
-{83000}{}{Осветительная панель}
-{83001}{}{Служит для преобразования электрической энергии в световую. Да, прочитанный в детстве старииный учебник по физике иногда напоминает о себе.}
-{83100}{}{Плита}
-{83101}{}{Разбитый пол.}
-{83200}{}{Плита}
-{83201}{}{Разбитый пол.}
-{83300}{}{Плита}
-{83301}{}{Разбитый пол.}
-{83400}{}{Плита}
-{83401}{}{Разбитый пол.}
-{83500}{}{Плита}
-{83501}{}{Разбитый пол.}
-{83600}{}{Опорная конструкция}
-{83601}{}{Разваливается на глазах.}
-{83700}{}{Склон}
-{83701}{}{Крутой спуск вниз.}
-{83800}{}{Склон}
-{83801}{}{Крутой спуск вниз.}
-{83900}{}{Склон}
-{83901}{}{Крутой спуск вниз.}
-{84000}{}{Склон}
-{84001}{}{Крутой спуск вниз.}
-{84100}{}{Склон}
-{84101}{}{Крутой спуск вниз.}
-{84200}{}{Склон}
-{84201}{}{Крутой спуск вниз.}
-{84300}{}{Склон}
-{84301}{}{Крутой спуск вниз.}
-{84400}{}{Склон}
-{84401}{}{Крутой спуск вниз.}
-{84500}{}{Склон}
-{84501}{}{Причудливое природное образование.}
-{84600}{}{Склон}
-{84601}{}{Причудливое природное образование.}
-{84700}{}{Склон}
-{84701}{}{Причудливое природное образование.}
-{84800}{}{Дверь}                                          
-{84801}{}{Обычная деревянная дверь.}
-{84900}{}{Дверь}
-{84901}{}{Обычная деревянная дверь.}
-{85000}{}{Дверь}
-{85001}{}{Краска почти слезла, а дерево покрыл грибок.}
+{82600}{}{Car door}
+{82601}{}{More precisely, what is left of it.}
+{82700}{}{Barrel}
+{82701}{}{Just a metal barrel.}
+{82800}{}{Barrel}
+{82801}{}{A barrel with unknown content.}
+{82900}{}{Chair.}
+{82901}{}{A great bar stool.}
+{83000}{}{Lighting panel}
+{83001}{}{Converts electrical energy to light. Yes, an old physics textbook, which you read as a child, sometimes reminds of itself.}
+{83100}{}{Stove}
+{83101}{}{A smashed floor panels.}
+{83200}{}{Stove}
+{83201}{}{A smashed floor panels.}
+{83300}{}{Stove}
+{83301}{}{A smashed floor panels.}
+{83400}{}{Stove}
+{83401}{}{A smashed floor panels.}
+{83500}{}{Stove}
+{83501}{}{A smashed floor panels.}
+{83600}{}{Supporting structure}
+{83601}{}{It's falling apart right when you look at it.}
+{83700}{}{Slope}
+{83701}{}{A steep slope down.}
+{83800}{}{Slope}
+{83801}{}{A steep slope down.}
+{83900}{}{Slope}
+{83901}{}{A steep slope down.}
+{84000}{}{Slope}
+{84001}{}{A steep slope down.}
+{84100}{}{Slope}
+{84101}{}{A steep slope down.}
+{84200}{}{Slope}
+{84201}{}{A steep slope down.}
+{84300}{}{Slope}
+{84301}{}{A steep slope down.}
+{84400}{}{Slope}
+{84401}{}{A steep slope down.}
+{84500}{}{Slope}
+{84501}{}{A bizarre natural formation}
+{84600}{}{Slope}
+{84601}{}{A bizarre natural formation}
+{84700}{}{Slope}
+{84701}{}{A bizarre natural formation}
+#Н/Д
+{84801}{}{A usual wooden door.}
+{84900}{}{Door}
+{84901}{}{A usual wooden door.}
+{85000}{}{Door}
+{85001}{}{The paint is almost completely peeled off, and the wood is covered with fungus.}
 {85100}{}{Table}
-{85101}{}{Похоже, эта тряпка выполняет роль скатерти.}
-{85200}{}{Склон}
-{85201}{}{Причудливое природное образование.}
-{85300}{}{Бочка}
-{85301}{}{Пустая емкость для хранения топлива.}
-{85400}{}{Труба}
-{85401}{}{Участок трубы.}
-{85500}{}{Склон}
-{85501}{}{Крутой спуск вниз.}
-{85600}{}{Сторожевая вышка}
-{85601}{}{Вышка сколочена из чего попало, но оснащена оружием.}
+{85101}{}{This rag appears to act as a tablecloth.}
+{85200}{}{Slope}
+{85201}{}{A bizarre natural formation}
+{85300}{}{Barrel}
+{85301}{}{Empty fuel storage tank.}
+{85400}{}{Pipe}
+{85401}{}{A section of pipe.}
+{85500}{}{Slope}
+{85501}{}{A steep slope down.}
+{85600}{}{Watchtower}
+{85601}{}{A watchtower made out of all kinds of junk, but fitted with weapons.}
 {85700}{}{Wall}
-{85800}{}{Инструменты}
-{85801}{}{Какие-то ненужные Вам инструменты.}
+{85800}{}{Tools}
+{85801}{}{Tools you don't need.}
 {85900}{}{Wall}
-{86000}{}{Механизм}
-{86001}{}{Этот механизм задействован в обработке воды.}
-{86100}{}{Механизм}
-{86101}{}{Этот механизм задействован в обработке воды.}
-{86200}{}{Механизм}
-{86201}{}{Этот механизм задействован в обработке воды.}
-{86300}{}{Труба}
-{86301}{}{Участок трубы.}
-{86400}{}{Труба}
-{86401}{}{Участок трубы.}
+{86000}{}{Mechanism}
+{86001}{}{This mechanism is involved in the water cleaning process.}
+{86100}{}{Mechanism}
+{86101}{}{This mechanism is involved in the water cleaning process.}
+{86200}{}{Mechanism}
+{86201}{}{This mechanism is involved in the water cleaning process.}
+{86300}{}{Pipe}
+{86301}{}{A section of pipe.}
+{86400}{}{Pipe}
+{86401}{}{A section of pipe.}
 {86500}{}{Wall}
 {86600}{}{Wall}
 {86700}{}{Wall}
 {86800}{}{Wall}
-{86900}{}{Ограждение}
-{86901}{}{С этого металлического ограждения почти слезла краска, но оно в отличном состоянии.}
-{87000}{}{Ограждение}
-{87001}{}{С этого металлического ограждения почти слезла краска, но оно в отличном состоянии.}
-{87100}{}{Ограждение}
-{87101}{}{Обычное металлическое ограждение.}
-{87200}{}{Ограждение}
-{87201}{}{Металлическое ограждение.}
-{87300}{}{Ограждение}
-{87301}{}{С этого металлического ограждения почти слезла краска, но оно в отличном состоянии.}
-{87400}{}{Ограждение}
-{87401}{}{Сваленное металлическое ограждение.}
-{87500}{}{Ограждение}
-{87501}{}{Металлическое ограждение, лежащее на земле.}
-{87600}{}{Ограждение}
-{87601}{}{Помятое металлическое ограждение.}
-{87700}{}{Ограждение}
-{87701}{}{Сильно помятое металлическое ограждение.}
-{87800}{}{Плитка}
-{87801}{}{Разбитый пол.}
-{87900}{}{Плитка}
-{87901}{}{Разбитый пол.}
+{86900}{}{Barrier}
+{86901}{}{The paint is almost peeled off this metal fence, but it's still in excellent condition.}
+{87000}{}{Barrier}
+{87001}{}{The paint is almost peeled off this metal fence, but it's still in excellent condition.}
+{87100}{}{Barrier}
+{87101}{}{The regular metal fence.}
+{87200}{}{Barrier}
+{87201}{}{Metal fence.}
+{87300}{}{Barrier}
+{87301}{}{The paint is almost peeled off this metal fence, but it's still in excellent condition.}
+{87400}{}{Barrier}
+{87401}{}{Stacked metal fence.}
+{87500}{}{Barrier}
+{87501}{}{Metal fence lying on the ground.}
+{87600}{}{Barrier}
+{87601}{}{A battered metal fence.}
+{87700}{}{Barrier}
+{87701}{}{A badly battered metal fence.}
+{87800}{}{Tile}
+{87801}{}{A smashed floor panels.}
+{87900}{}{Tile}
+{87901}{}{A smashed floor panels.}
 {88000}{}{Junk}
-{88001}{}{Совершенно ничего интересного.}
-{88100}{}{Земля}
-{88101}{}{Кажется с фрагментами досок, но точнее сказать сложно.}
+{88001}{}{Nothing interesting at all.}
+{88100}{}{Land}
+{88101}{}{Seems to have board fragments, but it's hard to be more precise.}
 {88200}{}{Junk}
-{88201}{}{Похоже на части коробок.}
+{88201}{}{Looks like parts of boxes.}
 {88300}{}{Junk}
-{88301}{}{Совершенно ничего интересного.}
+{88301}{}{Nothing interesting at all.}
 {88400}{}{Junk}
-{88401}{}{Части складских коробок.}
+{88401}{}{Parts of warehouse boxes.}
 {88500}{}{Junk}
-{88501}{}{Совершенно ничего интересного.}
-{88600}{}{Унитаз}
-{88601}{}{Он настолько грязный, что Вы предпочтете сделать свои дела на свежем воздухе.}
+{88501}{}{Nothing interesting at all.}
+{88600}{}{Toilet}
+{88601}{}{It is so dirty that you would rather do your thing outdoors.}
 {88700}{}{Table}
-{88701}{}{Пустые грязные бутылки, остатки еды. Вам здесь явно нечем поживиться.}
-{88800}{}{Лист металла}
-{88801}{}{Ржавый с обеих сторон.}
-{88900}{}{Лист металла}
-{88901}{}{Ржавый с обеих сторон.}
+{88701}{}{Empty dirty bottles, leftover food. There's obviously nothing for you here.}
+{88800}{}{Metal sheet}
+{88801}{}{Rusty on both sides.}
+{88900}{}{Metal sheet}
+{88901}{}{Rusty on both sides.}
 {89000}{}{Junk}
-{89001}{}{Какой-то ненужный мусор.}
+{89001}{}{Some unnecessary trash.}
 {89100}{}{Junk}
-{89101}{}{Какой-то ненужный мусор.}
+{89101}{}{Some unnecessary trash.}
 {89200}{}{Junk}
-{89201}{}{Похоже на часть коробки.}
-{89300}{}{Унитаз}
-{89301}{}{Похоже, его не мыли очень давно.}
-{89400}{}{Лежак}
-{89401}{}{Старый и не особенно чистый лежак.}
-{89500}{}{Лежак}
-{89501}{}{Лучше спать на кирпичах, чем на этом.}
-{89600}{}{Станок}
-{89601}{}{Высокий станок для обработки различных материалов.}
-{89700}{}{Станок}
-{89701}{}{Большой станок для обработки твердых материалов.}
-{89800}{}{Столб с прожекторами}
-{89801}{}{Самодельный предмет для освещения местности.}
-{89900}{}{Столб с прожекторами}
-{89901}{}{Самодельный предмет для освещения местности.}
-{90000}{}{Столб с прожекторами}
-{90001}{}{Самодельный предмет для освещения местности.}
-{90100}{}{Лежак}
-{90101}{}{Наверное, кто-то на нем спит.}
-{90200}{}{Лежак}
-{90201}{}{Если прилечь на такой лежак, то наверняка можно подцепить пару неприятных болячек.}
-{90300}{}{Лежак}
-{90301}{}{Вам не хочется рассматривать эти странные пятна.}
-{90400}{}{Топливный фильтр}
-{90401}{}{Устройство для фильтрации топлива.}
-{90500}{}{Хлам}
-{90501}{}{Части коробок или ящиков.}
-{90600}{}{Части Силовых Доспехов}
-{90601}{}{Эти части подходят к Силовым Доспехам.}
-{90700}{}{Хлам}
-{90701}{}{Не представляющий интереса мусор.}
-{90800}{}{Хлам}
-{90801}{}{Не представляющий интереса мусор.}
-{90900}{}{Оградительный конус}
-{90901}{}{Из него получилась бы очень забавная шляпа.}
-{91000}{}{Оградительный конус}
-{91001}{}{Из него получилась бы очень забавная шляпа.}
-{91100}{}{Оградительный конус}
-{91101}{}{Если надеть такие конусы на голову, руки и ноги, то получится морская звезда. Вы видели такую в книжке.}
-{91200}{}{Оградительный конус}
-{91201}{}{Если надеть такие конусы на голову, руки и ноги, то получится морская звезда. Вы видели такую в книжке.}
-{91300}{}{Оградительный конус}
-{91301}{}{Раньше такими обозначали места для парковки.}
-{91400}{}{Оградительный конус}
-{91401}{}{В нем можно носить, к примеру, воду.}
-{91500}{}{Оградительный конус}
-{91501}{}{Сидеть на таком, наверное, крайне неудобно.}
-{91600}{}{Оградительный конус}
-{91601}{}{Раньше такими обозначали места для парковки.}
-{91700}{}{Части ящиков}
-{91800}{}{Части коробок}
-{91900}{}{Хлам}
-{92000}{}{Части коробок}
-{92100}{}{Части коробок или ящиков}
-{92200}{}{Части ящиков}
-{92300}{}{Вещи}
-{92301}{}{За копание в чужих вещах можно схлопотать по жизненно важным органам. Поэтому не стоит их трогать.}
-{92400}{}{Вещи}
-{92401}{}{Такое чувство, что хозяин этих вещей распихивал по коробкам мусор.}
-{92500}{}{Коммуникации}
-{92501}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{92600}{}{Коммуникации}
-{92601}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{92700}{}{Коммуникации}
-{92701}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{92800}{}{Коммуникации}
-{92801}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{92900}{}{Коммуникации}
-{92901}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{93000}{}{Коммуникации}
-{93001}{}{Здесь расположены выводы труб, кабелей, какие-то агрегаты и прочее оборудование.}
-{93100}{}{Тень}
-{93200}{}{Танк}
-{93201}{}{Старый танк очень "веселенькой" расцветочки.}
-{93300}{}{Тень}
-{93301}{}{Тень от танка.}
-{93400}{}{Стул и столик с зонтиком}
-{93401}{}{Похоже, на этом танке можно отдохнуть с комфортом.}
-{93500}{}{Бетонный блок}
-{93501}{}{Блок выглядит неподъемным.}
-{93600}{}{Камни}
-{93601}{}{Куча камней.}
-{93700}{}{Повозка}
-{93701}{}{Накрытая зеленым тентом повозка.}
-{93800}{}{Торговая лавка.}
-{93801}{}{Кажется, тут можно приобрести броню.}
-{93900}{}{Торговая лавка}
-{93901}{}{Обычно в таких местах можно что-то купить. Конечно, если Вам есть, чем платить.}
-{94000}{}{Торговая лавка}
-{94001}{}{Богатый выбор оружия.}
-{94100}{}{Торговая лавка}
-{94101}{}{Богатый выбор оружия.}
-{94200}{}{Торговая лавка}
-{94201}{}{Богатый выбор оружия.}
-{94300}{}{Бутылки}
-{94301}{}{Не надейтесь, они абсолютно пустые и битые.}
-{94400}{}{Лист металла}
-{94401}{}{Это можно назвать просто обыкновенным хламом.}
-{94500}{}{Лист металла}
-{94501}{}{Это можно назвать просто обыкновенным хламом.}
-{94600}{}{Лист металла}
-{94601}{}{Это можно назвать просто обыкновенным хламом.}
-{94700}{}{Лист металла}
-{94701}{}{Это можно назвать просто обыкновенным хламом.}
-{94800}{}{Лист металла}
-{94801}{}{Это можно назвать просто обыкновенным хламом.}
-{94900}{}{Лист металла}
-{94901}{}{Это можно назвать просто обыкновенным хламом.}
-{95000}{}{Дыра}
-{95001}{}{Подозрительная дыра в стене.}
-{95100}{}{Доски}
-{95101}{}{Несколько прогнивших досок}
-{95200}{}{Доски}
-{95201}{}{Несколько прогнивших досок}
-{95300}{}{Доски}
-{95301}{}{Несколько прогнивших досок}
-{95400}{}{Дверь}
-{95401}{}{Двухстворчатая дверь.}
-{95500}{}{Дверь}
-{95501}{}{Самая обычная дверь.}
-{95600}{}{Дверь}
-{95601}{}{Это замечательное изобретение человечества может открываться и закрываться.}
-{95700}{}{Дверь}
-{95701}{}{Это замечательное изобретение человечества может открываться и закрываться.}
-{95800}{}{Дверь}
-{95801}{}{Это замечательное изобретение человечества может открываться и закрываться.}
-{95900}{}{Дверь}
-{95901}{}{Это замечательное изобретение человечества может открываться и закрываться.}
-{96000}{}{Дверь}
-{96001}{}{Самая обычная дверь.}
-{96100}{}{Дверь}
-{96101}{}{Обычная деревянная дверь.}
-{96200}{}{Шлагбаум}
-{96201}{}{Поднимается вверх и опускается вниз.}
-{96300}{}{Костер}
-{96301}{}{Можно вечно смотреть, как горит огонь.}
-{96400}{}{Лежак}
-{96401}{}{Вы бы многое отдали, чтобы не ложиться на него.}
-{96500}{}{Опорная конструкция}
-{96501}{}{Разваливается на глазах.}
+{89201}{}{Looks like a part of the box.}
+{89300}{}{Toilet}
+{89301}{}{Looks like it hasn't been washed in a long time.}
+{89400}{}{Bed}
+{89401}{}{Old and not particularly clean floor bed.}
+{89500}{}{Bed}
+{89501}{}{Better to sleep on bricks than on this.}
+{89600}{}{Machinery}
+{89601}{}{Big machinery for processing a variety of materials.}
+{89700}{}{Machinery}
+{89701}{}{A large machine for processing hard materials.}
+{89800}{}{Pillar with spotlights.}
+{89801}{}{A homemade light for illuminating the surroundings.}
+{89900}{}{Pillar with spotlights.}
+{89901}{}{A homemade light for illuminating the surroundings.}
+{90000}{}{Pillar with spotlights.}
+{90001}{}{A homemade light for illuminating the surroundings.}
+{90100}{}{Bed}
+{90101}{}{Someone probably sleeps on it.}
+{90200}{}{Bed}
+{90201}{}{If you lie down on it, you can probably pick up a couple of nasty diseases}
+{90300}{}{Bed}
+{90301}{}{You don't want to look at those weird spots.}
+{90400}{}{Fuel filter}
+{90401}{}{A device for filtering fuel.}
+{90500}{}{Junk}
+{90501}{}{Parts of boxes or crates.}
+{90600}{}{Power Armor Parts.}
+{90601}{}{These parts fit the Power Armor.}
+{90700}{}{Junk}
+{90701}{}{Non-interesting trash.}
+{90800}{}{Junk}
+{90801}{}{Non-interesting trash.}
+{90900}{}{Fencing cone.}
+{90901}{}{This would make a very funny hat.}
+{91000}{}{Fencing cone.}
+{91001}{}{This would make a very funny hat.}
+{91100}{}{Fencing cone.}
+{91101}{}{If you put such cones on your head, arms and legs, you get a starfish. You've seen one of these in a book.}
+{91200}{}{Fencing cone.}
+{91201}{}{If you put such cones on your head, arms and legs, you get a starfish. You've seen one of these in a book.}
+{91300}{}{Fencing cone.}
+{91301}{}{They used to mark parking lots with such.}
+{91400}{}{Fencing cone.}
+{91401}{}{You could carry something in it. Water, for example.}
+{91500}{}{Fencing cone.}
+{91501}{}{Sitting on one of these must be extremely uncomfortable.}
+{91600}{}{Fencing cone.}
+{91601}{}{They used to mark parking lots with such.}
+{91700}{}{Box parts.}
+{91800}{}{Box parts.}
+{91900}{}{Junk}
+{92000}{}{Box parts.}
+{92100}{}{Parts of boxes or crates.}
+{92200}{}{Box parts.}
+{92300}{}{Things}
+{92301}{}{For rummaging through other people's things you can get punched in your vital organs. That's why you shouldn't touch them.}
+{92400}{}{Things}
+{92401}{}{It feels like the owner of these things has been shoveling trash into the boxes.}
+{92500}{}{Utility}
+{92501}{}{You see pipes, wires, some kind of machines and other stuff.}
+{92600}{}{Utility}
+{92601}{}{You see pipes, wires, some kind of machines and other stuff.}
+{92700}{}{Utility}
+{92701}{}{You see pipes, wires, some kind of machines and other stuff.}
+{92800}{}{Utility}
+{92801}{}{You see pipes, wires, some kind of machines and other stuff.}
+{92900}{}{Utility}
+{92901}{}{You see pipes, wires, some kind of machines and other stuff.}
+{93000}{}{Utility}
+{93001}{}{You see pipes, wires, some kind of machines and other stuff.}
+{93100}{}{Shadow}
+{93200}{}{Tank}
+{93201}{}{An old tank in very "fun" colors.}
+{93300}{}{Shadow}
+{93301}{}{The shadow of the tank.}
+{93400}{}{A chair and a table with an umbrella.}
+{93401}{}{Looks like you can rest comfortably on this tank.}
+{93500}{}{Concrete block}
+{93501}{}{The block looks impossible to lift.}
+{93600}{}{Stones}
+{93601}{}{A pile of rocks.}
+{93700}{}{Wagon}
+{93701}{}{A wagon, covered with a green tent.}
+{93800}{}{Trading post.}
+{93801}{}{Looks like you can buy armor here.}
+{93900}{}{Market stall}
+{93901}{}{This is usually a kind of place to buy something. If you have money to pay for it, of course.}
+{94000}{}{Market stall}
+{94001}{}{There's a great selection of weapons.}
+{94100}{}{Market stall}
+{94101}{}{There's a great selection of weapons.}
+{94200}{}{Market stall}
+{94201}{}{There's a great selection of weapons.}
+{94300}{}{Bottles}
+{94301}{}{Don't get your hopes up, they are completely empty and broken.}
+{94400}{}{Metal sheet}
+{94401}{}{You could call it just plain junk.}
+{94500}{}{Metal sheet}
+{94501}{}{You could call it just plain junk.}
+{94600}{}{Metal sheet}
+{94601}{}{You could call it just plain junk.}
+{94700}{}{Metal sheet}
+{94701}{}{You could call it just plain junk.}
+{94800}{}{Metal sheet}
+{94801}{}{You could call it just plain junk.}
+{94900}{}{Metal sheet}
+{94901}{}{You could call it just plain junk.}
+{95000}{}{Hole}
+{95001}{}{A suspicious hole in the wall.}
+{95100}{}{Wooden boards}
+{95101}{}{A few rotten boards.}
+{95200}{}{Wooden boards}
+{95201}{}{A few rotten boards.}
+{95300}{}{Wooden boards}
+{95301}{}{A few rotten boards.}
+{95400}{}{Door}
+{95401}{}{A double-leaf door.}
+{95500}{}{Door}
+{95501}{}{An ordinary door.}
+{95600}{}{Door}
+{95601}{}{This wonderful invention of mankind can open and close.}
+{95700}{}{Door}
+{95701}{}{This wonderful invention of mankind can open and close.}
+{95800}{}{Door}
+{95801}{}{This wonderful invention of mankind can open and close.}
+{95900}{}{Door}
+{95901}{}{This wonderful invention of mankind can open and close.}
+{96000}{}{Door}
+{96001}{}{An ordinary door.}
+{96100}{}{Door}
+{96101}{}{A usual wooden door.}
+{96200}{}{Barrier}
+{96201}{}{Goes up and down.}
+{96300}{}{Fire}
+{96301}{}{You can eternally stare at the fire.}
+{96400}{}{Bed}
+{96401}{}{You'd give a lot to not lie down on it.}
+{96500}{}{Supporting structure}
+{96501}{}{It's falling apart right when you look at it.}
 {96600}{}{Cave Wall}
-{96601}{}{Похоже, тут что-то завалено. Но Вам некогда заниматься раскопками.}
+{96601}{}{It looks like there's something buried here. But you don't have time to do excavations.}
 {96700}{}{Cave Wall}
-{96701}{}{Похоже, тут что-то завалено. Но Вам некогда заниматься раскопками.}
+{96701}{}{It looks like there's something buried here. But you don't have time to do excavations.}
 {96800}{}{Cave Wall}
-{96801}{}{Похоже на завал.}
+{96801}{}{Looks like rubble.}
 {96900}{}{Wall}
 {97000}{}{Wall}
 {97100}{}{Wall}
 {97200}{}{Wall}
-{97201}{}{Трещина в стене.}
+{97201}{}{Crack in the wall.}
 {97300}{}{Cave Wall}
 {97400}{}{Cave Wall}
-{97500}{}{Бочки}
-{97501}{}{Пустые емкости для хранения топлива.}
-{97600}{}{Бак}
-{97601}{}{Бак с запасом воды.}
+{97500}{}{Barrels}
+{97501}{}{Empty fuel storage tanks.}
+{97600}{}{Tank}
+{97601}{}{A tank for supplying water.}
 {97700}{}{Ladder}
 {97701}{}{A sturdy metal ladder.}
-{97800}{}{Дверь}
-{97900}{}{Вещи}
-{97901}{}{В этой куче, как ни удивительно, ничего ценного для вас нет.}
-{98000}{}{Бочки}
-{98001}{}{Пустые емкости для хранения топлива.}
-{98100}{}{Вонючий труп}
-{98101}{}{Труп чернокожего мужчины. Не просто труп - настоящее пиршество для мух!}
-{98200}{}{Дверь}
-{98300}{}{Дверь}
-{98400}{}{Дверь}
-{98500}{}{Освещение}
-{98501}{}{Прикрепленный к столбу фонарь.}
-{98600}{}{Освещение}
-{98601}{}{Прикрепленный к столбу фонарь.}
-{98700}{}{Освещение}
-{98701}{}{Прикрепленный к столбу фонарь.}
-{98800}{}{Освещение}
-{98801}{}{Прикрепленный к столбу фонарь.}
-{98900}{}{Тень}
-{99000}{}{Тень}
-{99100}{}{Мусорный кран}
-{99200}{}{Мусорный кран}
-{99300}{}{Колодец}
-{99400}{}{Колодец}
-{99500}{}{Внешнее сооружение}
-{99600}{}{Лежак}
-{99601}{}{Старый вонючий лежак.}
-{99700}{}{Лежак}
-{99701}{}{Этот лежак совсем прогнил.}
-{99800}{}{Лежак}
-{99801}{}{Обычный лежак, на таких люди как правило спят.}
-{99900}{}{Лежак}
-{99901}{}{Эти подозрительные пятна Вам не нравятся.}
-{100000}{}{Самогонный аппарат}
-{100001}{}{Похоже, это самогонный аппарат на дровах.}
-{100100}{}{Лежак}
-{100101}{}{Старый прогнивший лежак.}
-{100200}{}{Лежак}
-{100201}{}{Старый прогнивший лежак.}
-{100300}{}{Лежак}
-{100301}{}{Вонючий лежак, не располагает к отдыху.}
-{100400}{}{Лежак}
-{100401}{}{Кажется на нем чья-то кровь.}
-{100500}{}{Лежак}
-{100501}{}{Лучше спать на кирпичах, чем на этом.}
-{100600}{}{Лежак}
-{100601}{}{Старый прогнивший лежак.}
-{100700}{}{Насосный Прибор для Электростанции}
-{100701}{}{Это охлаждающий насос}
-{100800}{}{Часть Брамина}
-{100900}{}{Автомобиль}
-{101000}{}{Крайслер}
-{101001}{}{Этот Хайвеймен похоже в очень хорошей форме для своего возраста.}
-{101100}{}{Машина}
-{101200}{}{Кладбище}
-{101201}{}{Могила находится здесь.}
-{101300}{}{Могильный камень}
-{101301}{}{Старое надгробие с полустертой надписью.}
-{101400}{}{Могильный камень}
-{101401}{}{Вряд ли Вы когда-нибудь удостоитесь такого. Хотя Вам будет уже все равно.}
-{101500}{}{Могильный камень}
-{101501}{}{Вряд ли Вы когда-нибудь удостоитесь такого. Хотя Вам будет уже все равно.}
-{101600}{}{Могильный камень}
-{101601}{}{Старое надгробие с полустертой надписью.}
-{101700}{}{Вывеска}
-{101701}{}{"Новый мировой порядок".}
-{101800}{}{Вывеска}
-{101801}{}{"Новый мировой порядок".}
-{101900}{}{Экран}
-{101901}{}{Вы бы с удовольствием что-нибудь на таком посмотрели, но не знаете как.}
-{102000}{}{Экран}
-{102001}{}{Вы бы с удовольствием что-нибудь на таком посмотрели, но не знаете как.}
-{102100}{}{Бутыли с самогоном}
-{102101}{}{Похоже, здесь ценится их содержимое. Но вам все равно их не унести.}
-{102200}{}{Большой бак с водой}
-{102201}{}{Слегка проржавевший бак для хранения воды.}
-{102300}{}{Трубы}
-{102301}{}{Немного проржавевшие трубы.}
-{102400}{}{Трубы}
-{102401}{}{Немного проржавевшие трубы.}
-{102500}{}{Трубы}
-{102501}{}{Немного проржавевшие трубы.}
-{102600}{}{Трубы}
-{102601}{}{Немного проржавевшие трубы}
-{102700}{}{Трубы}
-{102701}{}{Немного проржавевшие трубы}
-{102800}{}{Трубы}
-{102801}{}{Немного проржавевшие трубы}
-{102900}{}{Бордюр}
-{102901}{}{Отделяет обочину от дороги.}
-{103000}{}{Бордюр}
-{103001}{}{Отделяет обочину от дороги.}
-{103100}{}{Бордюр}
-{103101}{}{Отделяет обочину от дороги.}
-{103200}{}{Бордюр}
-{103201}{}{Отделяет обочину от дороги.}
-{103300}{}{Бордюр}
-{103301}{}{Когда-то это было бордюром.}
-{103400}{}{Бордюр}
-{103401}{}{Точнее его обломки.}
-{103500}{}{Бордюр}
-{103501}{}{Точнее его обломки.}
-{103600}{}{Бордюр}
-{103601}{}{Точнее его обломки.}
-{103700}{}{Бордюр}
-{103701}{}{Точнее его обломки.}
-{103800}{}{Бордюр}
-{103801}{}{Точнее его обломки.}
-{103900}{}{Бордюр}
-{103901}{}{Отделяет обочину от дороги.}
-{104000}{}{Бордюр}
-{104001}{}{Точнее его обломки.}
-{104100}{}{Бордюр}
-{104101}{}{Отделяет обочину от дороги.}
-{104200}{}{Бордюр}
-{104201}{}{Точнее его обломки.}
-{104300}{}{Бордюр}
-{104301}{}{Точнее его обломки.}
-{104400}{}{Вещи}
-{104401}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{104500}{}{Вещи}
-{104501}{}{Различное барахло. Ничего интересного там нет.}
-{104600}{}{Вещи}
-{104601}{}{Различное барахло. Ничего интересного там нет.}
-{104700}{}{Вещи}
-{104701}{}{Различное барахло. Ничего интересного там нет.}
-{104800}{}{Вещи}
-{104801}{}{Различное барахло. Ничего интересного там нет.}
-{104900}{}{Вещи}
-{104901}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105000}{}{Вещи}
-{105001}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105100}{}{Вещи}
-{105101}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105200}{}{Вещи}
-{105201}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105300}{}{Вещи}
-{105301}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105400}{}{Останки автомобиля}
-{105401}{}{Передняя часть старого разбитого автомобиля.}
-{105500}{}{Вещи}
-{105501}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105600}{}{Хлам}
-{105601}{}{Кажется когда-то это было машиной.}
-{105700}{}{Вещи}
-{105701}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105800}{}{Вещи}
-{105801}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{105900}{}{Вещи}
-{105901}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{106000}{}{Вещи}
-{106001}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{106100}{}{Вещи}
-{106101}{}{Различное барахло. Там нет ничего ценного для Вас.}
-{106200}{}{Окно}
-{106201}{}{Непробиваемое стекло. Даже не пытайтесь.}
-{106300}{}{Окно}
-{106301}{}{Непробиваемое стекло. Даже не пытайтесь.}
-{106400}{}{Агрегат}
-{106401}{}{Прикрепленный к баку агрегат.}
-{106500}{}{Агрегат}
-{106501}{}{Прикрепленный к баку агрегат.}
-{106600}{}{Плакат}
-{106601}{}{Ободранный настенный плакат.}
-{106700}{}{Плакат}
-{106701}{}{Ободранный настенный плакат.}
-{106800}{}{Ящик}
-{106801}{}{Вам очень интересно, что будет, если поместить внутрь радиоактивное вещество, пузырек с ядом и, например, кота.}
-{106900}{}{Ящик}
-{106901}{}{Вам очень интересно, что будет, если поместить внутрь радиоактивное вещество, пузырек с ядом и, например, кота.}
-{107000}{}{Ящик}
-{107001}{}{Вам очень интересно, что будет, если поместить внутрь радиоактивное вещество, пузырек с ядом и, например, кота.}
-{107100}{}{Ящик}
-{107101}{}{Этот ящик определенно пуст.}
-{107200}{}{Ящик}
-{107201}{}{Вам очень интересно, что будет, если поместить внутрь радиоактивное вещество, пузырек с ядом и, например, кота.}
-{107300}{}{Ящик}
-{107301}{}{Небольшой, но вместительный ящичек.}
-{107400}{}{Ящик}
-{107401}{}{Этот ящик определенно пуст.}
-{107500}{}{Ящик}
-{107501}{}{Небольшой, но вместительный ящичек.}
-{107600}{}{Ящик}
-{107601}{}{Небольшой, но вместительный ящичек.}
-{107700}{}{Ящик}
-{107701}{}{Этот ящик определенно пуст.}
-{107800}{}{Ящик}
-{107801}{}{Небольшой, но вместительный ящичек.}
-{107900}{}{Ящик}
-{107901}{}{Небольшой, но вместительный ящичек.}
-{108000}{}{Ящик}
-{108001}{}{Небольшой, но вместительный ящичек.}
-{108100}{}{Ящик}
-{108101}{}{Вы почему-то не можете не думать о котах, глядя на эти ящики.}
-{108200}{}{Ящик}
-{108201}{}{Небольшой, но вместительный ящичек.}
-{108300}{}{Ящик}
-{108301}{}{Небольшой, но вместительный ящичек.}
-{108400}{}{Ящик}
-{108401}{}{Небольшой, но вместительный ящичек.}
-{108500}{}{Ящик}
-{108501}{}{Небольшой, но вместительный ящичек.}
-{108600}{}{Ящик}
-{108601}{}{Небольшой, но вместительный ящичек.}
-{108700}{}{Ящик}
-{108701}{}{Вы почему-то не можете не думать о котах, глядя на эти ящики.}
-{108800}{}{Ящик}
-{108801}{}{Небольшой, но вместительный ящичек.}
-{108900}{}{Ящик}
-{108901}{}{Небольшой, но вместительный ящичек.}
-{109000}{}{Ящик}
-{109001}{}{Небольшой, но вместительный ящичек.}
-{109100}{}{Трубы}
-{109101}{}{Участок массивной трубы.}
-{109200}{}{Трубы}
-{109201}{}{Участок массивной трубы.}
-{109300}{}{Трубы}
-{109301}{}{Участок массивной трубы.}
-{109400}{}{Ящик}
-{109401}{}{Небольшой, но вместительный ящичек.}
-{109500}{}{Ящик}
-{109501}{}{Небольшой, но вместительный ящичек.}
-{109600}{}{Ящик}
-{109601}{}{Небольшой, но вместительный ящичек.}
-{109700}{}{Ящик}
-{109701}{}{Небольшой, но вместительный ящичек.}
-{109800}{}{Ящик}
-{109801}{}{Небольшой, но вместительный ящичек.}
-{109900}{}{Ящик}
-{109901}{}{Вы почему-то не можете не думать о котах, глядя на эти ящики.}
-{110000}{}{Ящик}
-{110001}{}{Небольшой, но вместительный ящичек.}
-{110100}{}{Ящик}
-{110101}{}{Небольшой, но вместительный ящичек.}
-{110200}{}{Горящая бочка}
-{110201}{}{В этой бочке сгорает мусор.}
-{110300}{}{Трубы}
-{110301}{}{Участок массивной трубы.}
-{110400}{}{Бак с водой}
-{110401}{}{Очевидно в нем запасы воды.}
-{110500}{}{Трубы}
-{110501}{}{Участок массивной трубы.}
-{110600}{}{Трубы}
-{110601}{}{Участок массивной трубы.}
-{110700}{}{Трубы}
-{110701}{}{Участок массивной трубы.}
-{110800}{}{Трубы}
-{110801}{}{Участок массивной трубы.}
-{110900}{}{Бак с водой}
-{110901}{}{Очевидно в нем запасы воды.}
-{111000}{}{Хлам}
-{111001}{}{Разодранная коробка.}
-{111100}{}{Бочка}
-{111101}{}{Просто металлическая бочка.}
-{111200}{}{Бочка}
-{111201}{}{Просто металлическая бочка.}
-{111300}{}{Бочка}
-{111301}{}{Просто металлическая бочка.}
-{111400}{}{Бетонный блок}
-{111401}{}{Выглядит очень тяжелым.}
-{111500}{}{Бак}
-{111501}{}{Емкость, в которой, как правило, хранят запасы воды.}
-{111600}{}{Бак}
-{111601}{}{Емкость, в которой, как правило, хранят запасы воды.}
-{111700}{}{Бочки}
-{111701}{}{Пустые металлические бочки.}
-{111800}{}{Насосный агрегат}
-{111801}{}{Сложный массивный насос, выкачивающий и фильтрующий воду из глубинных слоев земли.}
-{111900}{}{Бочка}
-{111901}{}{Пустая металлическая бочка.}
-{112000}{}{Бетонный блок}
-{112001}{}{Выглядит очень тяжелым.}
-{112100}{}{Бочки}
-{112101}{}{Пустые металлические бочки.}
-{112200}{}{Ограждение}
-{112201}{}{Аварийное ограждение.}
-{112300}{}{Ограждение}
-{112301}{}{Аварийное ограждение.}
-{112400}{}{Бетонный блок}
-{112401}{}{Выглядит очень тяжелым.}
-{112500}{}{Бетонный блок}
-{112501}{}{Выглядит очень тяжелым.}
-{112600}{}{Ящик}
-{112601}{}{Огромный деревянный ящик.}
-{112700}{}{Бетонный блок}
-{112701}{}{Выглядит очень тяжелым.}
-{112800}{}{Тень}
-{112900}{}{Ящик}
-{112901}{}{Огромный деревянный ящик.}
-{113000}{}{Доска}
-{113001}{}{Не представляет для вас интереса.}
-{113100}{}{Доска}
-{113101}{}{Не представляет для вас интереса.}
-{113200}{}{Бочка}
-{113201}{}{Пустая металлическая бочка.}
-{113300}{}{Бочка}
-{113301}{}{Пустая металлическая бочка.}
-{113400}{}{Мешки с песком}
-{113401}{}{Военная фортификация.}
-{113500}{}{Мешки с песком}
-{113501}{}{Военная фортификация.}
-{113600}{}{Мешки с песком}
-{113601}{}{Военная фортификация.}
-{113700}{}{Мешки с песком}
-{113701}{}{Военная фортификация.}
-{113800}{}{Мешки с песком}
-{113801}{}{Военная фортификация.}
-{113900}{}{Тень}
-{114000}{}{Мешки с песком}
-{114001}{}{Военная фортификация.}
-{114100}{}{Мешки с песком}
-{114101}{}{Военная фортификация.}
-{114200}{}{Мешки с песком}
-{114201}{}{Военная фортификация.}
-{114300}{}{Мешки с песком}
-{114301}{}{Военная фортификация.}
-{114400}{}{Мешки с песком}
-{114401}{}{Военная фортификация.}
-{114500}{}{Мешки с песком}
-{114501}{}{Военная фортификация.}
-{114600}{}{Мешки с песком}
-{114601}{}{Военная фортификация.}
-{114700}{}{Мешки с песком}
-{114701}{}{Военная фортификация.}
-{114800}{}{Мешки с песком}
-{114801}{}{Военная фортификация.}
-{114900}{}{Мешки с песком}
-{114901}{}{Военная фортификация.}
-{115000}{}{Хлам}
-{115001}{}{Картонная коробка.}
-{115100}{}{Хлам}
-{115101}{}{Мятая картонная коробка и прочий бесполезный хлам.}
-{115200}{}{Минерная повозка}
-{115300}{}{Минерная повозка со стальным столбом}
-{115400}{}{Минерная повозка с динамитом}
-{115500}{}{Мешки с песком}
-{115501}{}{Военная фортификация.}
-{115600}{}{Ящик}
-{115601}{}{Огромный деревянный ящик.}
-{115700}{}{Ящик}
-{115701}{}{Огромный деревянный ящик.}
-{115800}{}{Хлам}
+{97800}{}{Door}
+{97900}{}{Things}
+{97901}{}{Surprisingly, there is nothing of value to you in this pile.}
+{98000}{}{Barrels}
+{98001}{}{Empty fuel storage tanks.}
+{98100}{}{A stinking corpse.}
+{98101}{}{The corpse of a black man. Not just a corpse - a feast for flies!}
+{98200}{}{Door}
+{98300}{}{Door}
+{98400}{}{Door}
+{98500}{}{Lights}
+{98501}{}{A lantern attached to a pole.}
+{98600}{}{Lights}
+{98601}{}{A lantern attached to a pole.}
+{98700}{}{Lights}
+{98701}{}{A lantern attached to a pole.}
+{98800}{}{Lights}
+{98801}{}{A lantern attached to a pole.}
+{98900}{}{Shadow}
+{99000}{}{Shadow}
+{99100}{}{A garbage faucet.}
+{99200}{}{A garbage faucet.}
+{99300}{}{Well}
+{99400}{}{Well}
+{99500}{}{Exterior structure.}
+{99600}{}{Bed}
+{99601}{}{Stinky old bed.}
+{99700}{}{Bed}
+{99701}{}{This floor bed is completely rotten.}
+{99800}{}{Bed}
+{99801}{}{A normal floor bed. People usually sleep on it.}
+{99900}{}{Bed}
+{99901}{}{You don't like these suspicious stains.}
+{100000}{}{Moonshine machine}
+{100001}{}{It looks like a wood-fired moonshine machine.}
+{100100}{}{Bed}
+{100101}{}{An old rotten floor bed.}
+{100200}{}{Bed}
+{100201}{}{An old rotten floor bed.}
+{100300}{}{Bed}
+{100301}{}{It's a stinky floor bed. It doesn't give you a desire to relax.}
+{100400}{}{Bed}
+{100401}{}{Looks like there's someone's blood on it.}
+{100500}{}{Bed}
+{100501}{}{Better to sleep on bricks than on this.}
+{100600}{}{Bed}
+{100601}{}{An old rotten floor bed.}
+{100700}{}{Pumping device for the power plant.}
+{100701}{}{It's a cooling pump.}
+{100800}{}{Part of the Lavash.}
+{100900}{}{Car}
+{101000}{}{Chrysler}
+{101001}{}{This Highwayman seems to be in very good shape for his age.}
+{101100}{}{Car}
+{101200}{}{Cemetery}
+{101201}{}{The grave is located here.}
+{101300}{}{Gravestone.}
+{101301}{}{An old headstone with a barely distinguishable inscription.}
+{101400}{}{Gravestone.}
+{101401}{}{You will hardly be honored with one of these. Though you won't care anymore.}
+{101500}{}{Gravestone.}
+{101501}{}{You will hardly be honored with one of these. Though you won't care anymore.}
+{101600}{}{Gravestone.}
+{101601}{}{An old headstone with a barely distinguishable inscription.}
+{101700}{}{Sign}
+{101701}{}{New World Order.}
+{101800}{}{Sign}
+{101801}{}{New World Order.}
+{101900}{}{Screen}
+{101901}{}{You'd love to watch something on it, but you don't know, how.}
+{102000}{}{Screen}
+{102001}{}{You'd love to watch something on it, but you don't know, how.}
+{102100}{}{Bottles of moonshine.}
+{102101}{}{Seems that their contents are valued here. But you can't carry them with you anyway.}
+{102200}{}{Large water tank.}
+{102201}{}{A lightly rusted water storage tank.}
+{102300}{}{Pipes}
+{102301}{}{Slightly rusted pipes.}
+{102400}{}{Pipes}
+{102401}{}{Slightly rusted pipes.}
+{102500}{}{Pipes}
+{102501}{}{Slightly rusted pipes.}
+{102600}{}{Pipes}
+{102601}{}{Slightly rusted pipes.}
+{102700}{}{Pipes}
+{102701}{}{Slightly rusted pipes.}
+{102800}{}{Pipes}
+{102801}{}{Slightly rusted pipes.}
+{102900}{}{Border}
+{102901}{}{Separates the curb from the road.}
+{103000}{}{Border}
+{103001}{}{Separates the curb from the road.}
+{103100}{}{Border}
+{103101}{}{Separates the curb from the road.}
+{103200}{}{Border}
+{103201}{}{Separates the curb from the road.}
+{103300}{}{Border}
+{103301}{}{It used to be a border.}
+{103400}{}{Border}
+{103401}{}{It used to be a border - now it's just debris.}
+{103500}{}{Border}
+{103501}{}{It used to be a border - now it's just debris.}
+{103600}{}{Border}
+{103601}{}{It used to be a border - now it's just debris.}
+{103700}{}{Border}
+{103701}{}{It used to be a border - now it's just debris.}
+{103800}{}{Border}
+{103801}{}{It used to be a border - now it's just debris.}
+{103900}{}{Border}
+{103901}{}{Separates the curb from the road.}
+{104000}{}{Border}
+{104001}{}{It used to be a border - now it's just debris.}
+{104100}{}{Border}
+{104101}{}{Separates the curb from the road.}
+{104200}{}{Border}
+{104201}{}{It used to be a border - now it's just debris.}
+{104300}{}{Border}
+{104301}{}{It used to be a border - now it's just debris.}
+{104400}{}{Things}
+{104401}{}{Miscellaneous junk. Nothing of value to you there.}
+{104500}{}{Things}
+{104501}{}{Miscellaneous junk. Nothing of interest there.}
+{104600}{}{Things}
+{104601}{}{Miscellaneous junk. Nothing of interest there.}
+{104700}{}{Things}
+{104701}{}{Miscellaneous junk. Nothing of interest there.}
+{104800}{}{Things}
+{104801}{}{Miscellaneous junk. Nothing of interest there.}
+{104900}{}{Things}
+{104901}{}{Miscellaneous junk. Nothing of value to you there.}
+{105000}{}{Things}
+{105001}{}{Miscellaneous junk. Nothing of value to you there.}
+{105100}{}{Things}
+{105101}{}{Miscellaneous junk. Nothing of value to you there.}
+{105200}{}{Things}
+{105201}{}{Miscellaneous junk. Nothing of value to you there.}
+{105300}{}{Things}
+{105301}{}{Miscellaneous junk. Nothing of value to you there.}
+{105400}{}{The wreckage of a car.}
+{105401}{}{The front part of an old wrecked car.}
+{105500}{}{Things}
+{105501}{}{Miscellaneous junk. Nothing of value to you there.}
+{105600}{}{Junk}
+{105601}{}{Looks like it used to be a car.}
+{105700}{}{Things}
+{105701}{}{Miscellaneous junk. Nothing of value to you there.}
+{105800}{}{Things}
+{105801}{}{Miscellaneous junk. Nothing of value to you there.}
+{105900}{}{Things}
+{105901}{}{Miscellaneous junk. Nothing of value to you there.}
+{106000}{}{Things}
+{106001}{}{Miscellaneous junk. Nothing of value to you there.}
+{106100}{}{Things}
+{106101}{}{Miscellaneous junk. Nothing of value to you there.}
+{106200}{}{Window}
+{106201}{}{The glass is unbreakable. Don't even try.}
+{106300}{}{Window}
+{106301}{}{The glass is unbreakable. Don't even try.}
+{106400}{}{Device}
+{106401}{}{Unit attached to the tank.}
+{106500}{}{Device}
+{106501}{}{Unit attached to the tank.}
+{106600}{}{Poster}
+{106601}{}{A tattered wall poster.}
+{106700}{}{Poster}
+{106701}{}{A tattered wall poster.}
+{106800}{}{Crate}
+{106801}{}{You're really wondering what would happen if you put a radioactive substance, a vial of poison, and, for example, a cat inside.}
+{106900}{}{Crate}
+{106901}{}{You're really wondering what would happen if you put a radioactive substance, a vial of poison, and, for example, a cat inside.}
+{107000}{}{Crate}
+{107001}{}{You're really wondering what would happen if you put a radioactive substance, a vial of poison, and, for example, a cat inside.}
+{107100}{}{Crate}
+{107101}{}{This box is definitely empty.}
+{107200}{}{Crate}
+{107201}{}{You're really wondering what would happen if you put a radioactive substance, a vial of poison, and, for example, a cat inside.}
+{107300}{}{Crate}
+{107301}{}{It's a small but roomy box.}
+{107400}{}{Crate}
+{107401}{}{This box is definitely empty.}
+{107500}{}{Crate}
+{107501}{}{It's a small but roomy box.}
+{107600}{}{Crate}
+{107601}{}{It's a small but roomy box.}
+{107700}{}{Crate}
+{107701}{}{This box is definitely empty.}
+{107800}{}{Crate}
+{107801}{}{It's a small but roomy box.}
+{107900}{}{Crate}
+{107901}{}{It's a small but roomy box.}
+{108000}{}{Crate}
+{108001}{}{It's a small but roomy box.}
+{108100}{}{Crate}
+{108101}{}{For some reason, you can't help but think of cats when looking at these crates.}
+{108200}{}{Crate}
+{108201}{}{It's a small but roomy box.}
+{108300}{}{Crate}
+{108301}{}{It's a small but roomy box.}
+{108400}{}{Crate}
+{108401}{}{It's a small but roomy box.}
+{108500}{}{Crate}
+{108501}{}{It's a small but roomy box.}
+{108600}{}{Crate}
+{108601}{}{It's a small but roomy box.}
+{108700}{}{Crate}
+{108701}{}{For some reason, you can't help but think of cats when looking at these crates.}
+{108800}{}{Crate}
+{108801}{}{It's a small but roomy box.}
+{108900}{}{Crate}
+{108901}{}{It's a small but roomy box.}
+{109000}{}{Crate}
+{109001}{}{It's a small but roomy box.}
+{109100}{}{Pipes}
+{109101}{}{A section of massive pipe.}
+{109200}{}{Pipes}
+{109201}{}{A section of massive pipe.}
+{109300}{}{Pipes}
+{109301}{}{A section of massive pipe.}
+{109400}{}{Crate}
+{109401}{}{It's a small but roomy box.}
+{109500}{}{Crate}
+{109501}{}{It's a small but roomy box.}
+{109600}{}{Crate}
+{109601}{}{It's a small but roomy box.}
+{109700}{}{Crate}
+{109701}{}{It's a small but roomy box.}
+{109800}{}{Crate}
+{109801}{}{It's a small but roomy box.}
+{109900}{}{Crate}
+{109901}{}{For some reason, you can't help but think of cats when looking at these crates.}
+{110000}{}{Crate}
+{110001}{}{It's a small but roomy box.}
+{110100}{}{Crate}
+{110101}{}{It's a small but roomy box.}
+{110200}{}{Burning barrel.}
+{110201}{}{This barrel is where the trash burns.}
+{110300}{}{Pipes}
+{110301}{}{A section of massive pipe.}
+{110400}{}{Water tank.}
+{110401}{}{Apparently, it has a water supply in it.}
+{110500}{}{Pipes}
+{110501}{}{A section of massive pipe.}
+{110600}{}{Pipes}
+{110601}{}{A section of massive pipe.}
+{110700}{}{Pipes}
+{110701}{}{A section of massive pipe.}
+{110800}{}{Pipes}
+{110801}{}{A section of massive pipe.}
+{110900}{}{Water tank.}
+{110901}{}{Apparently, it has a water supply in it.}
+{111000}{}{Junk}
+{111001}{}{A tattered box.}
+{111100}{}{Barrel}
+{111101}{}{Just a metal barrel.}
+{111200}{}{Barrel}
+{111201}{}{Just a metal barrel.}
+{111300}{}{Barrel}
+{111301}{}{Just a metal barrel.}
+{111400}{}{Concrete block}
+{111401}{}{It looks very heavy.}
+{111500}{}{Tank}
+{111501}{}{A container where water supplies are usually kept.}
+{111600}{}{Tank}
+{111601}{}{A container where water supplies are usually kept.}
+{111700}{}{Barrels}
+{111701}{}{Empty metal barrels.}
+{111800}{}{Pumping unit.}
+{111801}{}{A sophisticated, massive pump. It pumps out and filters water from deep underground.}
+{111900}{}{Barrel}
+{111901}{}{Empty metal barrel.}
+{112000}{}{Concrete block}
+{112001}{}{It looks very heavy.}
+{112100}{}{Barrels}
+{112101}{}{Empty metal barrels.}
+{112200}{}{Barrier}
+{112201}{}{Emergency fence.}
+{112300}{}{Barrier}
+{112301}{}{Emergency fence.}
+{112400}{}{Concrete block}
+{112401}{}{It looks very heavy.}
+{112500}{}{Concrete block}
+{112501}{}{It looks very heavy.}
+{112600}{}{Crate}
+{112601}{}{Huge wooden box.}
+{112700}{}{Concrete block}
+{112701}{}{It looks very heavy.}
+{112800}{}{Shadow}
+{112900}{}{Crate}
+{112901}{}{Huge wooden box.}
+{113000}{}{Board}
+{113001}{}{It holds no interest to you.}
+{113100}{}{Board}
+{113101}{}{It holds no interest to you.}
+{113200}{}{Barrel}
+{113201}{}{Empty metal barrel.}
+{113300}{}{Barrel}
+{113301}{}{Empty metal barrel.}
+{113400}{}{Sandbags.}
+{113401}{}{Military fortification.}
+{113500}{}{Sandbags.}
+{113501}{}{Military fortification.}
+{113600}{}{Sandbags.}
+{113601}{}{Military fortification.}
+{113700}{}{Sandbags.}
+{113701}{}{Military fortification.}
+{113800}{}{Sandbags.}
+{113801}{}{Military fortification.}
+{113900}{}{Shadow}
+{114000}{}{Sandbags.}
+{114001}{}{Military fortification.}
+{114100}{}{Sandbags.}
+{114101}{}{Military fortification.}
+{114200}{}{Sandbags.}
+{114201}{}{Military fortification.}
+{114300}{}{Sandbags.}
+{114301}{}{Military fortification.}
+{114400}{}{Sandbags.}
+{114401}{}{Military fortification.}
+{114500}{}{Sandbags.}
+{114501}{}{Military fortification.}
+{114600}{}{Sandbags.}
+{114601}{}{Military fortification.}
+{114700}{}{Sandbags.}
+{114701}{}{Military fortification.}
+{114800}{}{Sandbags.}
+{114801}{}{Military fortification.}
+{114900}{}{Sandbags.}
+{114901}{}{Military fortification.}
+{115000}{}{Junk}
+{115001}{}{Cardboard box.}
+{115100}{}{Junk}
+{115101}{}{Crumpled cardboard box and other useless junk.}
+{115200}{}{Mining wagon.}
+{115300}{}{Mining wagon with a steel pillar.}
+{115400}{}{Mining wagon with dynamite}
+{115500}{}{Sandbags.}
+{115501}{}{Military fortification.}
+{115600}{}{Crate}
+{115601}{}{Huge wooden box.}
+{115700}{}{Crate}
+{115701}{}{Huge wooden box.}
+{115800}{}{Junk}
 {115900}{}{Wall}
 {116000}{}{Wall}
-{116100}{}{Сетчатый Сканнер}
-{116101}{}{Это устройство безопасности, которое сканирует сетчатку глаза человека.}
-{116200}{}{Ящик}
-{116201}{}{Небольшой, но вместительный ящичек яркой расцветки.}
-{116300}{}{Ящик}
-{116301}{}{Небольшой, но вместительный ящичек.}
-{116400}{}{Ящик}
-{116401}{}{Небольшой, но вместительный ящичек.}
-{116500}{}{Ящик}
-{116501}{}{Небольшой, но вместительный ящичек.}
-{116600}{}{Ящик}
-{116601}{}{Ящичек определенно пуст.}
-{116700}{}{Тень}
-{116701}{}{Ничего необычного.}
-{116800}{}{Хлам}
-{116801}{}{Какой-то мусор.}
-{116900}{}{Дверь}
-{117000}{}{Дверь}
-{117100}{}{Хлам}
-{117101}{}{Часть разломанного ящика.}
-{117200}{}{Хлам}
-{117201}{}{Бесполезный мусор.}
-{117300}{}{Хлам}
-{117301}{}{Бесполезный мусор.}
-{117400}{}{Хлам}
-{117401}{}{Бесполезный мусор.}
-{117500}{}{Хлам}
-{117501}{}{Бесполезный мусор.}
-{117600}{}{Конвейер}
-{117601}{}{Часть заводского конвейера.}
-{117700}{}{Конвейер}
-{117701}{}{Часть заводского конвейера.}
-{117800}{}{Щиток конвейера}
-{117801}{}{Средство фиксации на конвейере.}
-{117900}{}{Щиток конвейера}
-{117901}{}{Средство фиксации на конвейере.}
-{118000}{}{Щиток конвейера}
-{118001}{}{Средство фиксации на конвейере.}
-{118100}{}{Щиток конвейера}
-{118101}{}{Средство фиксации на конвейере.}
-{118200}{}{Щиток конвейера}
-{118201}{}{Средство фиксации на конвейере.}
-{118300}{}{Щиток конвейера}
-{118301}{}{Средство фиксации на конвейере.}
-{118400}{}{Конвейер}
-{118401}{}{Часть заводского конвейера.}
-{118500}{}{Конвейер}
-{118501}{}{Часть заводского конвейера.}
-{118600}{}{Конвейер}
-{118601}{}{Часть заводского конвейера.}
-{118700}{}{Конвейер}
-{118701}{}{Часть заводского конвейера.}
-{118800}{}{Пар}
-{118900}{}{Освещение}
-{118901}{}{Осветительный прибор.}
-{119000}{}{Освещение}
-{119001}{}{Осветительный прибор.}
-{119100}{}{Освещение}
-{119101}{}{Осветительный прибор.}
-{119200}{}{Освещение}
-{119201}{}{Осветительный прибор.}
-{119300}{}{Освещение}
-{119301}{}{Осветительный прибор.}
-{119400}{}{Освещение}
-{119401}{}{Осветительный прибор.}
-{119500}{}{Освещение}
-{119501}{}{Осветительный прибор.}
-{119600}{}{Освещение}
-{119601}{}{Осветительный прибор.}
-{119700}{}{Проволока}
-{119701}{}{Колючая проволока.}
-{119800}{}{Проволока}
-{119801}{}{Колючая проволока.}
-{119900}{}{Проволока}
-{119901}{}{Колючая проволока. Опасная вещь.}
-{120000}{}{Проволока}
-{120001}{}{Колючая проволока.}
+{116100}{}{Retinal scanner.}
+{116101}{}{This is a security device that scans a person's retina.}
+{116200}{}{Crate}
+{116201}{}{It is a small but roomy box in a bright color.}
+{116300}{}{Crate}
+{116301}{}{It's a small but roomy box.}
+{116400}{}{Crate}
+{116401}{}{It's a small but roomy box.}
+{116500}{}{Crate}
+{116501}{}{It's a small but roomy box.}
+{116600}{}{Crate}
+{116601}{}{The box is definitely empty.}
+{116700}{}{Shadow}
+{116701}{}{Nothing unusual.}
+{116800}{}{Junk}
+{116801}{}{Some kind of trash.}
+{116900}{}{Door}
+{117000}{}{Door}
+{117100}{}{Junk}
+{117101}{}{Part of a broken crate.}
+{117200}{}{Junk}
+{117201}{}{A useless pile of junk.}
+{117300}{}{Junk}
+{117301}{}{A useless pile of junk.}
+{117400}{}{Junk}
+{117401}{}{A useless pile of junk.}
+{117500}{}{Junk}
+{117501}{}{A useless pile of junk.}
+{117600}{}{Conveyor}
+{117601}{}{Part of a factory conveyor.}
+{117700}{}{Conveyor}
+{117701}{}{Part of a factory conveyor.}
+{117800}{}{Conveyor shield.}
+{117801}{}{A means of holding a conveyor belt.}
+{117900}{}{Conveyor shield.}
+{117901}{}{A means of holding a conveyor belt.}
+{118000}{}{Conveyor shield.}
+{118001}{}{A means of holding a conveyor belt.}
+{118100}{}{Conveyor shield.}
+{118101}{}{A means of holding a conveyor belt.}
+{118200}{}{Conveyor shield.}
+{118201}{}{A means of holding a conveyor belt.}
+{118300}{}{Conveyor shield.}
+{118301}{}{A means of holding a conveyor belt.}
+{118400}{}{Conveyor}
+{118401}{}{Part of a factory conveyor.}
+{118500}{}{Conveyor}
+{118501}{}{Part of a factory conveyor.}
+{118600}{}{Conveyor}
+{118601}{}{Part of a factory conveyor.}
+{118700}{}{Conveyor}
+{118701}{}{Part of a factory conveyor.}
+{118800}{}{Steam}
+{118900}{}{Lights}
+{118901}{}{An illuminating device.}
+{119000}{}{Lights}
+{119001}{}{An illuminating device.}
+{119100}{}{Lights}
+{119101}{}{An illuminating device.}
+{119200}{}{Lights}
+{119201}{}{An illuminating device.}
+{119300}{}{Lights}
+{119301}{}{An illuminating device.}
+{119400}{}{Lights}
+{119401}{}{An illuminating device.}
+{119500}{}{Lights}
+{119501}{}{An illuminating device.}
+{119600}{}{Lights}
+{119601}{}{An illuminating device.}
+{119700}{}{Wire}
+{119701}{}{Barbed wire.}
+{119800}{}{Wire}
+{119801}{}{Barbed wire.}
+{119900}{}{Wire}
+{119901}{}{Barbed wire. Dangerous thing.}
+{120000}{}{Wire}
+{120001}{}{Barbed wire.}
 {120100}{}{Cave Wall}
 {120200}{}{Cave Wall}
 {120300}{}{Cave Wall}
@@ -2303,65 +2303,65 @@
 {121300}{}{Cave Wall}
 {121400}{}{Cave Wall}
 {121500}{}{Cave Wall}
-{121600}{}{Койка}
-{121601}{}{Лежанка, предназначенная для отдыха.}
-{121700}{}{Койка}
-{121701}{}{Лежанка, предназначенная для отдыха.}
-{121800}{}{Койка}
-{121801}{}{Лежанка, предназначенная для отдыха.}
-{121900}{}{Койка}
-{121901}{}{Многоярусная койка. Вы мечтали о такой в детстве.}
-{122000}{}{Койка}
-{122001}{}{Многоярусная койка. Вы мечтали о такой в детстве.}
-{122100}{}{Койка}
-{122101}{}{Лежанка, предназначенная для отдыха.}
-{122200}{}{Койка}
-{122201}{}{Не время спать!}
-{122300}{}{Койка}
-{122301}{}{Лежанка, предназначенная для отдыха.}
-{122400}{}{Койка}
-{122401}{}{Выглядит вполне чистой.}
-{122500}{}{Койка}
-{122501}{}{Лежанка, предназначенная для отдыха.}
-{122600}{}{Койка}
-{122601}{}{Лежанка, предназначенная для отдыха.}
-{122700}{}{Проволока}
-{122701}{}{Колючая проволока. Опасная вещь.}
-{122800}{}{Знак Разыскивается!}
-{122801}{}{Портрет разыскиваемого человека очень похож на вас!}
+{121600}{}{Bunk}
+{121601}{}{This thing is used for resting.}
+{121700}{}{Bunk}
+{121701}{}{This thing is used for resting.}
+{121800}{}{Bunk}
+{121801}{}{This thing is used for resting.}
+{121900}{}{Bunk}
+{121901}{}{A tiered bunk. You dreamed of one as a child.}
+{122000}{}{Bunk}
+{122001}{}{A tiered bunk. You dreamed of one as a child.}
+{122100}{}{Bunk}
+{122101}{}{This thing is used for resting.}
+{122200}{}{Bunk}
+{122201}{}{No time to sleep!}
+{122300}{}{Bunk}
+{122301}{}{This thing is used for resting.}
+{122400}{}{Bunk}
+{122401}{}{Looks clean enough.}
+{122500}{}{Bunk}
+{122501}{}{This thing is used for resting.}
+{122600}{}{Bunk}
+{122601}{}{This thing is used for resting.}
+{122700}{}{Wire}
+{122701}{}{Barbed wire. Dangerous thing.}
+{122800}{}{"Wanted!" sign}
+{122801}{}{The portrait of the wanted man looks just like you!}
 {122900}{}{Floor}
-{123000}{}{Проволока}
-{123001}{}{Колючая проволока}
-{123100}{}{Что это такое...}
-{123101}{}{Эта странная пушка похоже осталась с предвоенных времен. Удивительно, где она закончила свой жизненный путь.}
-{123200}{}{Вентиляция}
-{123201}{}{Часть системы вентиляции.}
-{123300}{}{Забор}
-{123301}{}{Повреждение на заборе.}
-{123400}{}{Забор}
-{123401}{}{Повреждение на заборе. Эти пятна похожи на кровь.}
-{123500}{}{Вентиляция}
-{123501}{}{Часть системы вентиляции.}
-{123600}{}{Выключатель Энергии}
-{123700}{}{Крест}
-{123701}{}{Надгробный крест из подручных материалов.}
-{123800}{}{Крест}
-{123801}{}{Надпись на табличке стала совсем неразборчивой.}
-{123900}{}{Крест}
-{123901}{}{Небольшой надгробный крест, кажется, сделан из старых труб.}
-{124000}{}{Крест}
-{124001}{}{Наверное, покойный при жизни носил эту шляпу.}
-{124100}{}{Крест}
-{124101}{}{Дань памяти неизвестному усопшему.}
-{124200}{}{Крест}
-{124201}{}{Все когда-нибудь умирают.}
-{124300}{}{Разбитая плитка}
-{124400}{}{Лист металла}
-{124401}{}{Тяжеленная ржавая железка, не стоит того, чтобы ее подбирать.}
-{124500}{}{Лист металла}
-{124501}{}{Тяжеленная ржавая железка, не стоит того, чтобы ее подбирать.}
-{124600}{}{Бак}
-{124601}{}{Емкость, в которой, как правило, хранят запасы воды.}
+{123000}{}{Wire}
+{123001}{}{Barbed wire.}
+{123100}{}{What is this...}
+{123101}{}{This strange cannon seems to have been left from before the war. Interesting, how it ended up here.}
+{123200}{}{Vent}
+{123201}{}{Part of the ventilation system.}
+{123300}{}{Fence}
+{123301}{}{Hole in the fence.}
+{123400}{}{Fence}
+{123401}{}{The hole in the fence. These stains look like blood.}
+{123500}{}{Vent}
+{123501}{}{Part of the ventilation system.}
+{123600}{}{Energy switch.}
+{123700}{}{Cross}
+{123701}{}{A gravestone cross made from improvised materials.}
+{123800}{}{Cross}
+{123801}{}{The inscription on the plaque has become completely illegible.}
+{123900}{}{Cross}
+{123901}{}{The small tomb cross seems to have been made from old pipes.}
+{124000}{}{Cross}
+{124001}{}{The deceased must have worn this hat during his lifetime.}
+{124100}{}{Cross}
+{124101}{}{A tribute to an unknown deceased.}
+{124200}{}{Cross}
+{124201}{}{Everyone dies sometimes.}
+{124300}{}{Broken tile.}
+{124400}{}{Metal sheet}
+{124401}{}{A heavy, rusty piece of iron, not worth picking up.}
+{124500}{}{Metal sheet}
+{124501}{}{A heavy, rusty piece of iron, not worth picking up.}
+{124600}{}{Tank}
+{124601}{}{A container where water supplies are usually kept.}
 {124700}{}{Floor}
 {124800}{}{Floor}
 {124900}{}{Floor}
@@ -2370,156 +2370,156 @@
 {125200}{}{Floor}
 {125300}{}{Floor}
 {125400}{}{Junk}
-{125401}{}{Кучка какого-то хлама.}
+{125401}{}{A pile of junk.}
 {125500}{}{Junk}
-{125501}{}{Коробки пусты, железки совсем ржавые - тут нет ничего ценного.}
-{125600}{}{Лист металла}
-{125601}{}{Ржавый с обеих сторон.}
-{125700}{}{Лист металла}
-{125701}{}{Пусть лежит, где лежал - он совершенно бесполезен.}
+{125501}{}{Boxes empty, tin cans all rusted over, nothing of value here.}
+{125600}{}{Metal sheet}
+{125601}{}{Rusty on both sides.}
+{125700}{}{Metal sheet}
+{125701}{}{Let it lie where it is - it's completely useless.}
 {125800}{}{Table}
-{125801}{}{Стол дежурного по станции.}
+{125801}{}{Station attendant's desk.}
 {125900}{}{Wall}
 {126000}{}{Wall}
 {126100}{}{A huge ladder leading up}
-{126200}{}{Хлам}
-{126201}{}{Какие-то части машин, явно потерявшие всякую ценность.}
-{126300}{}{Хлам}
-{126301}{}{Кучка ненужного мусора.}
-{126400}{}{Коммуникации}
-{126401}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{126500}{}{Коммуникации}
-{126501}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{126600}{}{Хлам}
-{126601}{}{Стекло, железо, что-то еще.}
-{126700}{}{Лежак}
-{126701}{}{Вы очень постараетесь избежать отдыха на этом вонючем лежаке.}
-{126800}{}{Лежак}
-{126801}{}{Вы очень постараетесь избежать отдыха на этом вонючем лежаке.}
-{126900}{}{Доски}
-{126901}{}{Выломанная из ближайшего строения доска.}
-{127000}{}{Доски}
-{127001}{}{Выломанная из ближайшего строения доска.}
-{127100}{}{Доски}
-{127101}{}{Выломанная из ближайшего строения доска.}
-{127200}{}{Доски}
-{127201}{}{Выломанная из ближайшего строения доска.}
-{127300}{}{Кучка Камней}
-{127301}{}{Несколько крупных булыжников в одном месте.}
+{126200}{}{Junk}
+{126201}{}{Parts of some machines, that have obviously lost their value.}
+{126300}{}{Junk}
+{126301}{}{A pile of unnecessary trash.}
+{126400}{}{Utility}
+{126401}{}{There are pipes, cables, other equipment.}
+{126500}{}{Utility}
+{126501}{}{There are pipes, cables, other equipment.}
+{126600}{}{Junk}
+{126601}{}{Glass, iron, something else.}
+{126700}{}{Bed}
+{126701}{}{You will try your best to avoid resting on this stinking bed.}
+{126800}{}{Bed}
+{126801}{}{You will try your best to avoid resting on this stinking bed.}
+{126900}{}{Wooden boards}
+{126901}{}{A board broke out of a nearby structure.}
+{127000}{}{Wooden boards}
+{127001}{}{A board broke out of a nearby structure.}
+{127100}{}{Wooden boards}
+{127101}{}{A board broke out of a nearby structure.}
+{127200}{}{Wooden boards}
+{127201}{}{A board broke out of a nearby structure.}
+{127300}{}{Pile of Stones.}
+{127301}{}{Several large cobblestones in one place.}
 {127400}{}{Wall}
-{127500}{}{Палатка}
-{127501}{}{Палатка из прочных материалов, с усиленной защитой от ветра.}
-{127600}{}{Палатка}
-{127601}{}{Через дырявую крышу можно смотреть на звезды.}
-{127700}{}{Доски}
-{127701}{}{Выломанная из ближайшего строения доска.}
-{127800}{}{Доски}
-{127801}{}{Выломанная из ближайшего строения доска.}
-{127900}{}{Доски}
-{127901}{}{Выломанная из ближайшего строения доска.}
-{128000}{}{Доски}
-{128001}{}{Выломанная из ближайшего строения доска.}
-{128100}{}{Доски}
-{128101}{}{Выломанная из ближайшего строения доска.}
-{128200}{}{Доски}
-{128201}{}{Выломанная из ближайшего строения доска.}
-{128300}{}{Доски}
-{128301}{}{Выломанная из ближайшего строения доска.}
-{128400}{}{Заваленный выход наверх}
-{128401}{}{Этот завал разгрести невозможно.}
-{128500}{}{Машины}
-{128501}{}{Стенка из двух машин.}
+{127500}{}{Tent}
+{127501}{}{A tent made of sturdy materials, with reinforced wind protection.}
+{127600}{}{Tent}
+{127601}{}{You can see the stars through the hole in the roof.}
+{127700}{}{Wooden boards}
+{127701}{}{A board broke out of a nearby structure.}
+{127800}{}{Wooden boards}
+{127801}{}{A board broke out of a nearby structure.}
+{127900}{}{Wooden boards}
+{127901}{}{A board broke out of a nearby structure.}
+{128000}{}{Wooden boards}
+{128001}{}{A board broke out of a nearby structure.}
+{128100}{}{Wooden boards}
+{128101}{}{A board broke out of a nearby structure.}
+{128200}{}{Wooden boards}
+{128201}{}{A board broke out of a nearby structure.}
+{128300}{}{Wooden boards}
+{128301}{}{A board broke out of a nearby structure.}
+{128400}{}{A blocked exit to the top.}
+{128401}{}{This rubble is impossible to clear.}
+{128500}{}{Machines}
+{128501}{}{A wall of two cars.}
 {128600}{}{Table}
-{128601}{}{Интересное дизайнерское решение - стол из капота машины.}
+{128601}{}{An interesting design solution - a table made of the car hood.}
 {128700}{}{Table}
-{128701}{}{Стол из капота машины.}
-{128800}{}{Машина}
-{128801}{}{Этой малышке больше не колесить по хайвею.}
-{128900}{}{Машина}
-{128901}{}{Этот автомобиль давно свое отъездил.}
-{129000}{}{Машины}
-{129001}{}{Стенка из двух машин.}
-{129100}{}{Машина}
-{129101}{}{Старый полуразбитый автомобиль.}
-{129200}{}{Машина}
-{129201}{}{Вряд ли она теперь вообще куда-нибудь сдвинется.}
-{129300}{}{Кабина лифта}
-{129400}{}{Балка}
-{129401}{}{Опорная конструкция.}
-{129500}{}{Балка}
-{129501}{}{Опорная конструкция.}
-{129600}{}{Балка}
-{129601}{}{Опорная конструкция.}
-{129700}{}{Веревка}
+{128701}{}{A table made of the hood of a car.}
+{128800}{}{Car}
+{128801}{}{This baby won't be riding the highway anymore.}
+{128900}{}{Car}
+{128901}{}{This car is long gone.}
+{129000}{}{Machines}
+{129001}{}{A wall of two cars.}
+{129100}{}{Car}
+{129101}{}{An old, dilapidated car.}
+{129200}{}{Car}
+{129201}{}{It is unlikely to move anywhere at all now.}
+{129300}{}{Elevator cab.}
+{129400}{}{Beam}
+{129401}{}{Supporting structure.}
+{129500}{}{Beam}
+{129501}{}{Supporting structure.}
+{129600}{}{Beam}
+{129601}{}{Supporting structure.}
+{129700}{}{Rope}
 {129800}{}{a way down}
 {129900}{}{Floor}
-{130000}{}{Доски}
-{130001}{}{Выломанная из ближайшего строения доска.}
-{130100}{}{Доски}
-{130101}{}{Выломанная из ближайшего строения доска.}
-{130200}{}{Доски}
-{130201}{}{Выломанная из ближайшего строения доска.}
-{130300}{}{Доски}
-{130301}{}{Выломанная из ближайшего строения доска.}
+{130000}{}{Wooden boards}
+{130001}{}{A board broke out of a nearby structure.}
+{130100}{}{Wooden boards}
+{130101}{}{A board broke out of a nearby structure.}
+{130200}{}{Wooden boards}
+{130201}{}{A board broke out of a nearby structure.}
+{130300}{}{Wooden boards}
+{130301}{}{A board broke out of a nearby structure.}
 {130400}{}{Floor}
-{130500}{}{Машина}
-{130501}{}{От нее осталась только бесполезная груда ржавого металла.}
-{130600}{}{Балка}
-{130601}{}{Опорная конструкция.}
-{130700}{}{Балка}
-{130701}{}{Опорная конструкция.}
-{130800}{}{Балка}
-{130801}{}{Опорная конструкция.}
-{130900}{}{Балка}
-{130901}{}{Опорная конструкция.}
-{131000}{}{Балка}
-{131001}{}{Опорная конструкция. Интересно, можно ли ней повесить взрослого человека.}
-{131100}{}{Балка}
-{131101}{}{Опорная конструкция.}
+{130500}{}{Car}
+{130501}{}{All that's left of it is a useless pile of rusty metal.}
+{130600}{}{Beam}
+{130601}{}{Supporting structure.}
+{130700}{}{Beam}
+{130701}{}{Supporting structure.}
+{130800}{}{Beam}
+{130801}{}{Supporting structure.}
+{130900}{}{Beam}
+{130901}{}{Supporting structure.}
+{131000}{}{Beam}
+{131001}{}{Support structure. You wonder if a grown man can be hung on it.}
+{131100}{}{Beam}
+{131101}{}{Supporting structure.}
 {131200}{}{Floor}
 {131300}{}{Junk}
-{131301}{}{Бесполезный хлам.}
+{131301}{}{Useless junk.}
 {131400}{}{Floor}
 {131500}{}{Floor}
 {131600}{}{Floor}
-{131700}{}{Машина}
-{131701}{}{Этой малышке больше не колесить по хайвеям.}
-{131800}{}{Машина}
-{131801}{}{Теперь лишь ржавое ведро с гайками.}
-{131900}{}{Машина}
-{131901}{}{Она уже никуда никогда не поедет.}
-{132000}{}{Коммуникации}
-{132001}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{132100}{}{Коммуникации}
-{132101}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{132200}{}{Коммуникации}
-{132201}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{132300}{}{Коммуникации}
-{132301}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{132400}{}{Машина}
-{132401}{}{Теперь этому металлолому остается только ржаветь.}
-{132500}{}{Машины}
-{132501}{}{Куча разбитых машин.}
-{132600}{}{Машина}
-{132601}{}{Ржавый мусор, постепенно поглощаемым другим мусором.}
-{132700}{}{Осветительный прибор}
-{132701}{}{Тусклое освещение парковки.}
-{132800}{}{Осветительный прибор}
-{132801}{}{Тусклое освещение парковки.}
-{132900}{}{Осветительный прибор}
-{132901}{}{Прибор не светит, видимо потому, что разбит.}
-{133000}{}{Вход в пещеру}
+{131700}{}{Car}
+{131701}{}{This baby won't be riding the highways anymore.}
+{131800}{}{Car}
+{131801}{}{Just a rusty bucket of nuts now.}
+{131900}{}{Car}
+{131901}{}{This one will never go anywhere.}
+{132000}{}{Utility}
+{132001}{}{There are pipes, cables, other equipment.}
+{132100}{}{Utility}
+{132101}{}{There are pipes, cables, other equipment.}
+{132200}{}{Utility}
+{132201}{}{There are pipes, cables, other equipment.}
+{132300}{}{Utility}
+{132301}{}{There are pipes, cables, other equipment.}
+{132400}{}{Car}
+{132401}{}{Now, all that junk can do is rust.}
+{132500}{}{Machines}
+{132501}{}{A pile of wrecked cars.}
+{132600}{}{Car}
+{132601}{}{Rusty garbage, gradually absorbed by other garbage.}
+{132700}{}{The lighting fixture.}
+{132701}{}{The dim lighting of the parking lot.}
+{132800}{}{The lighting fixture.}
+{132801}{}{The dim lighting of the parking lot.}
+{132900}{}{The lighting fixture.}
+{132901}{}{The fixture doesn't shine, apparently because it's broken.}
+{133000}{}{Cave entrance}
 {133100}{}{Floor}
 {133200}{}{Floor}
 {133300}{}{Floor}
 {133400}{}{Floor}
-{133500}{}{Терминал}
-{133501}{}{Используется для активации лифта.}
-{133600}{}{Терминал}
-{133601}{}{Используется для активации лифта.}
-{133700}{}{Дверь Зала Контроля}
-{133701}{}{Очень массивная и внушительная. Наверное, можно потратить годы, пытаясь ее открыть.}
-{133800}{}{Ворота Города Убежища}
+{133500}{}{Terminal}
+{133501}{}{Used to activate the elevator.}
+{133600}{}{Terminal}
+{133601}{}{Used to activate the elevator.}
+{133700}{}{Control Room Door.}
+{133701}{}{Very massive and imposing. Probably it could take years to try opening it.}
+{133800}{}{Vault City Gate.}
 {133900}{}{Wall}
 {134000}{}{Wall}
 {134100}{}{Wall}
@@ -2527,11 +2527,11 @@
 {134300}{}{Wall}
 {134400}{}{Wall}
 {134500}{}{Wall}
-{134600}{}{Скамья}
-{134601}{}{Широкая бетонная скамья.}
-{134700}{}{Дверь}
-{134800}{}{Дверь, открытая насильно}
-{134900}{}{Осколки Двери}
+{134600}{}{Bench}
+{134601}{}{A wide concrete bench.}
+{134700}{}{Door}
+{134800}{}{A door, forcibly opened.}
+{134900}{}{Shards of Door.}
 {135000}{}{Wall}
 {135100}{}{Wall}
 {135200}{}{Wall}
@@ -2540,92 +2540,92 @@
 {135500}{}{Wall}
 {135600}{}{Wall}
 {135700}{}{Wall}
-{135800}{}{Дверь}
+{135800}{}{Door}
 {135900}{}{Wall}
 {136000}{}{Wall}
 {136100}{}{Wall}
 {136200}{}{Wall}
-{136300}{}{Растение}
-{136301}{}{Какое-то пустынное растение.}
+{136300}{}{Plant}
+{136301}{}{Some kind of desert plant.}
 {136400}{}{Floor}
 {136500}{}{Floor}
 {136600}{}{Floor}
-{136700}{}{Говитайзер... хм... или что-то еще...}
-{136701}{}{Эта странная пушка осталась здесь с предвоенных времен. Какой конец жизненного пути.}
-{136800}{}{Уступ}
-{136900}{}{Переправа}
-{137000}{}{Ящик}
-{137001}{}{Разбитый ящик с петлями на боковой стенке.}
+{136700}{}{Hovitaser... Hmmm... Or something else...}
+{136701}{}{This strange cannon has been left here since before the war. What an end to life's journey.}
+{136800}{}{Escarpment}
+{136900}{}{Crossing}
+{137000}{}{Crate}
+{137001}{}{Broken crate with hinges on the side.}
 {137100}{}{Floor}
 {137200}{}{Floor}
-{137300}{}{Ящик}
-{137301}{}{Очень тяжелый металлический ящик с каким-то хламом.}
-{137400}{}{Ящик}
-{137401}{}{Очень тяжелый металлический ящик с каким-то хламом.}
-{137500}{}{Ящик}
-{137501}{}{Тяжелый, но пустой металлический ящик.}
-{137600}{}{Ящик}
-{137601}{}{Очень тяжелый металлический ящик с каким-то хламом.}
-{137700}{}{Верти... что?}
-{137701}{}{НУЖНО ДЛИННОЕ ОПИСАНИЕ}
-{137800}{}{Выбоина}
-{137801}{}{Большая выбоина}
-{137900}{}{Вышка}
-{137901}{}{Охранная вышка с пулеметом.}
-{138000}{}{Выбоина}
-{138100}{}{Выбоина}
-{138200}{}{Выбоина}
-{138300}{}{Выбоина}
-{138400}{}{Выбоина}
-{138500}{}{Выбоина}
-{138600}{}{Свет}
-{138700}{}{Дверь}
-{138800}{}{Дверь}
-{138900}{}{Дверь}
-{139000}{}{Дверь}
-{139100}{}{Дверь}
-{139200}{}{Дверь}
-{139300}{}{Ящик}
-{139301}{}{Этот вместительный деревянный ящик вместил кучу ненужного мусора.}
-{139400}{}{Ящик}
-{139401}{}{Этот вместительный деревянный ящик вместил кучу ненужного мусора.}
-{139500}{}{Ящик}
-{139501}{}{Этот вместительный деревянный ящик вместил кучу ненужного мусора.}
-{139600}{}{Ящик}
-{139601}{}{Этот вместительный деревянный ящик вместил кучу ненужного мусора.}
-{139700}{}{Ящик}
-{139701}{}{Удивительно какой бесполезный хлам люди иногда хранят в прочных металлических ящиках.}
-{139800}{}{Ящик}
-{139801}{}{Удивительно какой бесполезный хлам люди иногда хранят в прочных металлических ящиках.}
-{139900}{}{Ящик}
-{139901}{}{Удивительно какой бесполезный хлам люди иногда хранят в прочных металлических ящиках.}
-{140000}{}{Ящик}
-{140001}{}{Удивительно какой бесполезный хлам люди иногда хранят в прочных металлических ящиках.}
-{140100}{}{Тень}
-{140200}{}{Плакат}
-{140201}{}{Плакат неплохо сохранился.}
-{140300}{}{Машина}
-{140301}{}{Старый полуразбитый автомобиль.}
-{140400}{}{Машина}
-{140401}{}{Даже гениальный механик не заставит эту сломанную машину сдвинуться с места самостоятельно.}
-{140500}{}{Большая машина}
-{140501}{}{Старый полуразбитый автомобиль.}
-{140600}{}{Столб}
+{137300}{}{Crate}
+{137301}{}{A very heavy metal crate with some junk in it.}
+{137400}{}{Crate}
+{137401}{}{A very heavy metal crate with some junk in it.}
+{137500}{}{Crate}
+{137501}{}{A heavy but empty metal crate.}
+{137600}{}{Crate}
+{137601}{}{A very heavy metal crate with some junk in it.}
+{137700}{}{A Verti...what?}
+{137701}{}{NEED A LONG DESCRIPTION.}
+{137800}{}{Hole}
+{137801}{}{Large hole in the ground.}
+{137900}{}{Tower}
+{137901}{}{A security tower with a machine gun.}
+{138000}{}{Hole}
+{138100}{}{Hole}
+{138200}{}{Hole}
+{138300}{}{Hole}
+{138400}{}{Hole}
+{138500}{}{Hole}
+{138600}{}{Light}
+{138700}{}{Door}
+{138800}{}{Door}
+{138900}{}{Door}
+{139000}{}{Door}
+{139100}{}{Door}
+{139200}{}{Door}
+{139300}{}{Crate}
+{139301}{}{This roomy wooden crate held a bunch of unnecessary junk.}
+{139400}{}{Crate}
+{139401}{}{This roomy wooden crate held a bunch of unnecessary junk.}
+{139500}{}{Crate}
+{139501}{}{This roomy wooden crate held a bunch of unnecessary junk.}
+{139600}{}{Crate}
+{139601}{}{This roomy wooden crate held a bunch of unnecessary junk.}
+{139700}{}{Crate}
+{139701}{}{It's amazing what useless junk people sometimes store in sturdy metal crates.}
+{139800}{}{Crate}
+{139801}{}{It's amazing what useless junk people sometimes store in sturdy metal crates.}
+{139900}{}{Crate}
+{139901}{}{It's amazing what useless junk people sometimes store in sturdy metal crates.}
+{140000}{}{Crate}
+{140001}{}{It's amazing what useless junk people sometimes store in sturdy metal crates.}
+{140100}{}{Shadow}
+{140200}{}{Poster}
+{140201}{}{The poster has survived quite well.}
+{140300}{}{Car}
+{140301}{}{An old, dilapidated car.}
+{140400}{}{Car}
+{140401}{}{Not even an ingenious mechanic could make this broken machine move on its own.}
+{140500}{}{Big car}
+{140501}{}{An old, dilapidated car.}
+{140600}{}{Pole}
 {140700}{}{Wall}
 {140800}{}{Wall}
 {140900}{}{Wall}
-{141000}{}{Рубка диспетчера}
-{141001}{}{Диспетчер отсюда кортролировал движение транспорта, теперь нет ни транспорта, ни диспетчера.}
-{141100}{}{Рубка диспетчера}
-{141101}{}{Диспетчер отсюда кортролировал движение транспорта, теперь нет ни транспорта, ни диспетчера.}
-{141200}{}{Столб}
-{141300}{}{Знак Аптеки Ренеско}
-{141400}{}{Столб}
-{141500}{}{Столб}
-{141600}{}{Радиовышка}
-{141601}{}{Самодельная радиовышка.}
-{141700}{}{Дверь Мастерской}
-{141800}{}{Дверь Мастерской}
+{141000}{}{Dispatcher's Cockpit.}
+{141001}{}{The dispatcher from here used to court traffic. Now there is no traffic and no dispatcher.}
+{141100}{}{Dispatcher's Cockpit.}
+{141101}{}{The dispatcher from here used to court traffic. Now there is no traffic and no dispatcher.}
+{141200}{}{Pole}
+{141300}{}{Renesco Pharmacy sign.}
+{141400}{}{Pole}
+{141500}{}{Pole}
+{141600}{}{Radio tower}
+{141601}{}{Homemade radio tower.}
+{141700}{}{Workshop Door.}
+{141800}{}{Workshop Door.}
 {141900}{}{Wall}
 {142000}{}{Wall}
 {142100}{}{Wall}
@@ -2641,1034 +2641,1034 @@
 {143000}{}{Wall}
 {143100}{}{Wall}
 {143200}{}{Wall}
-{143300}{}{Веревка}
-{143301}{}{Вы можете подняться по стене с этой веревкой.}
-{143400}{}{Дверь}
-{143401}{}{Дверь, ведущая в закрытую часть террасы.}
-{143500}{}{Дверь}
-{143600}{}{Асфальт}
-{143700}{}{Асфальт}
-{143800}{}{Асфальт}
-{143900}{}{Асфальт}
-{144000}{}{Асфальт}
-{144100}{}{Асфальт}
-{144200}{}{Вентиляция}
-{144201}{}{Часть вентиляционной системы.}
-{144300}{}{Вентиляция}
-{144301}{}{Часть вентиляционной системы.}
-{144400}{}{Вентиляция}
-{144401}{}{Часть вентиляционной системы.}
-{144500}{}{Вентиляция}
-{144501}{}{Часть вентиляционной системы.}
-{144600}{}{Вентиляция}
-{144601}{}{Часть вентиляционной системы.}
-{144700}{}{Вентиляция}
-{144701}{}{Часть вентиляционной системы.}
-{144800}{}{Асфальт}
-{144900}{}{Дверь}
-{145000}{}{Трубы}
-{145001}{}{Огромные трубы, ведущие под воду.}
-{145100}{}{Трубы}
-{145101}{}{Огромные трубы, ведущие под воду.}
-{145200}{}{Трубы}
-{145201}{}{Огромные трубы, ведущие под воду.}
-{145300}{}{Трубы}
-{145301}{}{Огромные трубы, ведущие под воду.}
-{145400}{}{Трубы}
-{145401}{}{Огромные трубы, ведущие под воду.}
-{145500}{}{Трубы}
-{145501}{}{Огромные трубы, ведущие под воду.}
-{145600}{}{Трубы}
-{145601}{}{Огромные трубы, ведущие под воду.}
-{145700}{}{Трубы}
-{145701}{}{Огромные трубы, ведущие под воду.}
-{145800}{}{Уступ}
-{145900}{}{Трубы}
-{145901}{}{Огромные трубы, ведущие под воду.}
-{146000}{}{Трубы}
-{146001}{}{Огромные трубы, ведущие под воду.}
-{146100}{}{Трубы}
-{146101}{}{Огромные трубы, ведущие под воду.}
-{146200}{}{Вещи}
-{146201}{}{Куча бесполезного барахла.}
-{146300}{}{Вещи}
-{146301}{}{Куча бесполезного барахла.}
-{146400}{}{Огромный бак с водой}
-{146401}{}{Пробоины в баке закрыты металлическими пластинами.}
-{146500}{}{Огромный бак с водой}
-{146501}{}{Пробоины в баке закрыты металлическими пластинами.}
-{146600}{}{Дверь в заборе}
-{146700}{}{Дверь в заборе}
-{146800}{}{Командирское сиденье}
-{146801}{}{Это то, где обыкновенно сидит Смотритель.}
-{146900}{}{Камни}
-{146901}{}{Куча камней и грязи.}
-{147000}{}{Камни}
-{147001}{}{Куча камней и грязи.}
-{147100}{}{Камни}
-{147101}{}{Куча камней и грязи.}
-{147200}{}{Камни}
-{147201}{}{Куча камней и грязи.}
-{147300}{}{Камни}
-{147301}{}{Куча камней и грязи.}
-{147400}{}{Камни}
-{147401}{}{Куча камней и грязи.}
-{147500}{}{Огромный бак с водой}
-{147501}{}{Пробоины в баке закрыты металлическими пластинами.}
-{147600}{}{Трубы}
-{147601}{}{Участок массивной трубы.}
-{147700}{}{Земля}
-{147701}{}{Отсюда берется земля на верхний этаж.}
+{143300}{}{Rope}
+{143301}{}{You can climb the wall with this rope.}
+{143400}{}{Door}
+{143401}{}{The door that leads to the enclosed part of the terrace.}
+{143500}{}{Door}
+{143600}{}{Asphalt}
+{143700}{}{Asphalt}
+{143800}{}{Asphalt}
+{143900}{}{Asphalt}
+{144000}{}{Asphalt}
+{144100}{}{Asphalt}
+{144200}{}{Vent}
+{144201}{}{Part of the ventilation system.}
+{144300}{}{Vent}
+{144301}{}{Part of the ventilation system.}
+{144400}{}{Vent}
+{144401}{}{Part of the ventilation system.}
+{144500}{}{Vent}
+{144501}{}{Part of the ventilation system.}
+{144600}{}{Vent}
+{144601}{}{Part of the ventilation system.}
+{144700}{}{Vent}
+{144701}{}{Part of the ventilation system.}
+{144800}{}{Asphalt}
+{144900}{}{Door}
+{145000}{}{Pipes}
+{145001}{}{Huge pipes leading under the water.}
+{145100}{}{Pipes}
+{145101}{}{Huge pipes leading under the water.}
+{145200}{}{Pipes}
+{145201}{}{Huge pipes leading under the water.}
+{145300}{}{Pipes}
+{145301}{}{Huge pipes leading under the water.}
+{145400}{}{Pipes}
+{145401}{}{Huge pipes leading under the water.}
+{145500}{}{Pipes}
+{145501}{}{Huge pipes leading under the water.}
+{145600}{}{Pipes}
+{145601}{}{Huge pipes leading under the water.}
+{145700}{}{Pipes}
+{145701}{}{Huge pipes leading under the water.}
+{145800}{}{Escarpment}
+{145900}{}{Pipes}
+{145901}{}{Huge pipes leading under the water.}
+{146000}{}{Pipes}
+{146001}{}{Huge pipes leading under the water.}
+{146100}{}{Pipes}
+{146101}{}{Huge pipes leading under the water.}
+{146200}{}{Things}
+{146201}{}{A pile of useless junk.}
+{146300}{}{Things}
+{146301}{}{A pile of useless junk.}
+{146400}{}{A huge water tank.}
+{146401}{}{Holes in the tank covered with metal plates.}
+{146500}{}{A huge water tank.}
+{146501}{}{Holes in the tank covered with metal plates.}
+{146600}{}{Door in a fence.}
+{146700}{}{Door in a fence.}
+{146800}{}{The commander's seat.}
+{146801}{}{This is where the Overseer usually sits.}
+{146900}{}{Stones}
+{146901}{}{A pile of rocks and dirt.}
+{147000}{}{Stones}
+{147001}{}{A pile of rocks and dirt.}
+{147100}{}{Stones}
+{147101}{}{A pile of rocks and dirt.}
+{147200}{}{Stones}
+{147201}{}{A pile of rocks and dirt.}
+{147300}{}{Stones}
+{147301}{}{A pile of rocks and dirt.}
+{147400}{}{Stones}
+{147401}{}{A pile of rocks and dirt.}
+{147500}{}{A huge water tank.}
+{147501}{}{Holes in the tank covered with metal plates.}
+{147600}{}{Pipes}
+{147601}{}{A section of massive pipe.}
+{147700}{}{Land}
+{147701}{}{The ground to the top floor is taken from here.}
 {147800}{}{Wall}
-{147900}{}{Дверь}
-{148000}{}{Дверь}
-{148100}{}{Труба}
-{148101}{}{Участок массивной трубы.}
+{147900}{}{Door}
+{148000}{}{Door}
+{148100}{}{Pipe}
+{148101}{}{A section of massive pipe.}
 {148200}{}{Wall}
-{148300}{}{Вода}
-{148400}{}{Вещи}
-{148401}{}{Тут нет ничего ценного.}
+{148300}{}{Water}
+{148400}{}{Things}
+{148401}{}{There's nothing of value here.}
 {148500}{}{Floor}
-{148600}{}{"Жерло Аида"}
-{148601}{}{Выглядит омерзительно и страшно. Воняет примерно также.}
+{148600}{}{Mouth of Hades}
+{148601}{}{It looks disgusting and scary. Smells correspondingly.}
 {148700}{}{Wall}
-{148800}{}{Пропасть}
-{148801}{}{Непроглядная тьма.}
-{148900}{}{Устройства}
-{148901}{}{Устройства обеспечения работы котла.}
-{149000}{}{Устройства}
-{149001}{}{Устройства обеспечения работы котла.}
-{149100}{}{Дверь}
-{149200}{}{Дверь}
-{149201}{}{Эта дверь очень плохо сохранилась.}
-{149300}{}{Опрокинутая кровать}
-{149301}{}{Разодранная кровать с торчащими пружинами.}
-{149400}{}{Опрокинутая кровать}
-{149401}{}{Похоже, эта кровать свое отслужила.}
-{149500}{}{Хлам}
-{149501}{}{Части машин.}
+{148800}{}{The Abyss}
+{148801}{}{The darkness is impenetrable.}
+{148900}{}{Devices}
+{148901}{}{Devices to keep the boiler running.}
+{149000}{}{Devices}
+{149001}{}{Devices to keep the boiler running.}
+{149100}{}{Door}
+{149200}{}{Door}
+{149201}{}{This door is very poorly preserved.}
+{149300}{}{Tipped bed.}
+{149301}{}{Tattered bed with springs sticking out.}
+{149400}{}{Tipped bed.}
+{149401}{}{Looks like this bed has served its purpose.}
+{149500}{}{Junk}
+{149501}{}{Car parts.}
 {149600}{}{Junk}
-{149601}{}{Бесполезный хлам.}
+{149601}{}{Useless junk.}
 {149700}{}{Junk}
-{149701}{}{Битые бутылки и прочий мусор.}
-{149800}{}{Хлам}
-{149801}{}{Части старых ящиков.}
-{149900}{}{Хлам}
-{149901}{}{Три пустых ящика.}
-{150000}{}{Узор}
-{150001}{}{Фигурный узор на стене.}
-{150100}{}{Узор}
-{150101}{}{Фигурный узор на стене.}
+{149701}{}{Broken bottles and other debris.}
+{149800}{}{Junk}
+{149801}{}{Parts of old crates.}
+{149900}{}{Junk}
+{149901}{}{Three empty drawers.}
+{150000}{}{Pattern}
+{150001}{}{The shaped pattern on the wall.}
+{150100}{}{Pattern}
+{150101}{}{The shaped pattern on the wall.}
 {150200}{}{Floor}
 {150300}{}{Floor}
-{150400}{}{Коробки}
-{150401}{}{Видимо, кто-то изучил их раньше, там нет ничего ценного.}
-{150500}{}{Станок}
-{150600}{}{Сено}
-{150601}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{150700}{}{Сено}
-{150701}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{150800}{}{Сено}
-{150801}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{150900}{}{Сено}
-{150901}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{151000}{}{Сено}
-{151001}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{151100}{}{Сено}
-{151101}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{151200}{}{Сено}
-{151201}{}{Заготавливать сено из сухой пустынной травы довольно просто - ее надо только собрать.}
-{151300}{}{Хлам}
-{151301}{}{Ящики, коробки, что-то еще. Но совершенно ничего полезного.}
-{151400}{}{Обломки}
-{151401}{}{Разрушенные стены здания.}
-{151500}{}{Обломки}
-{151501}{}{Разрушенные стены здания.}
-{151600}{}{Обломки}
-{151601}{}{Разрушенные стены здания.}
-{151700}{}{Обломки}
-{151701}{}{Разрушенные стены здания.}
-{151800}{}{Дверца}
-{151801}{}{Дверца от шкафа.}
-{151900}{}{Дверца}
-{151901}{}{Дверца от шкафа.}
-{152000}{}{Труба}
-{152001}{}{Часть тяжелой трубы.}
-{152100}{}{Труба}
-{152101}{}{Часть тяжелой трубы.}
-{152200}{}{Труба}
-{152201}{}{Часть тяжелой трубы.}
-{152300}{}{Труба}
-{152301}{}{Часть тяжелой трубы.}
-{152400}{}{Ящик}
-{152401}{}{Большой пустой ящик из сухого дерева.}
-{152500}{}{Ящик}
-{152501}{}{Большой пустой ящик из сухого дерева.}
-{152600}{}{Ящик}
-{152601}{}{Большой пустой ящик из сухого дерева.}
-{152700}{}{Труба}
-{152800}{}{Труба}
-{152900}{}{Части ящика}
-{153000}{}{Части ящика}
-{153100}{}{Дверь}
-{153101}{}{Дверь, ведущая на арену.}
-{153200}{}{Дверь}
-{153201}{}{Перед вами стандартнейшая дверь.}
-{153300}{}{Дверь}
-{153301}{}{Перед вами стандартнейшая дверь.}
-{153400}{}{Дверь}
-{153401}{}{Дверь, ведущая на арену.}
-{153500}{}{Дверь}
-{153501}{}{Перед вами стандартнейшая дверь.}
-{153600}{}{Дверь}
-{153601}{}{Перед вами стандартнейшая дверь.}
-{153700}{}{Здание завода}
+{150400}{}{Boxes}
+{150401}{}{Apparently, someone inspected them before you - there's nothing of value there.}
+{150500}{}{Machinery}
+{150600}{}{Hay}
+{150601}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{150700}{}{Hay}
+{150701}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{150800}{}{Hay}
+{150801}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{150900}{}{Hay}
+{150901}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{151000}{}{Hay}
+{151001}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{151100}{}{Hay}
+{151101}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{151200}{}{Hay}
+{151201}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
+{151300}{}{Junk}
+{151301}{}{Boxes, boxes, something else. But absolutely nothing useful.}
+{151400}{}{Debris}
+{151401}{}{The ruined walls of a building.}
+{151500}{}{Debris}
+{151501}{}{The ruined walls of a building.}
+{151600}{}{Debris}
+{151601}{}{The ruined walls of a building.}
+{151700}{}{Debris}
+{151701}{}{The ruined walls of a building.}
+{151800}{}{Door}
+{151801}{}{A door from a closet.}
+{151900}{}{Door}
+{151901}{}{A door from a closet.}
+{152000}{}{Pipe}
+{152001}{}{Part of a heavy pipe.}
+{152100}{}{Pipe}
+{152101}{}{Part of a heavy pipe.}
+{152200}{}{Pipe}
+{152201}{}{Part of a heavy pipe.}
+{152300}{}{Pipe}
+{152301}{}{Part of a heavy pipe.}
+{152400}{}{Crate}
+{152401}{}{A large empty box of dry wood.}
+{152500}{}{Crate}
+{152501}{}{A large empty box of dry wood.}
+{152600}{}{Crate}
+{152601}{}{A large empty box of dry wood.}
+{152700}{}{Pipe}
+{152800}{}{Pipe}
+{152900}{}{Parts of the box.}
+{153000}{}{Parts of the box.}
+{153100}{}{Door}
+{153101}{}{The door leading into the arena.}
+{153200}{}{Door}
+{153201}{}{In front of you is a standard door.}
+{153300}{}{Door}
+{153301}{}{In front of you is a standard door.}
+{153400}{}{Door}
+{153401}{}{The door leading into the arena.}
+{153500}{}{Door}
+{153501}{}{In front of you is a standard door.}
+{153600}{}{Door}
+{153601}{}{In front of you is a standard door.}
+{153700}{}{The factory building.}
 {153800}{}{Wall}
 {153900}{}{Wall}
-{154000}{}{Унитаз}
-{154001}{}{Оттуда исходит ужасный запах.}
+{154000}{}{Toilet}
+{154001}{}{There's a horrible smell coming from it.}
 {154100}{}{Wall}
-{154200}{}{Труба}
-{154201}{}{Проржавевшая в нескольких местах.}
-{154300}{}{Труба}
-{154301}{}{Проржавевшая в нескольких местах.}
-{154400}{}{Унитаз}
-{154401}{}{Здесь проходят трубы и иное оборудование.}
-{154500}{}{Коммуникации}
-{154501}{}{Здесь проходят трубы и иное оборудование.}
-{154600}{}{Коммуникации}
-{154601}{}{Здесь проходят трубы и иное оборудование.}
-{154700}{}{Тряпье}
-{154701}{}{Старый вонючий лежак.}
-{154800}{}{Силовое поле}
-{154900}{}{Силовое поле}
-{155000}{}{Устройство для удаления органов}
-{155001}{}{Самая последняя модель из хирургической серии "Сделай это сам". Удаляет органы при нажатии на кнопку.}
-{155100}{}{Лежак}
-{155101}{}{Рядом с ним неприятно даже стоять, а от мысли на него прилечь начинает подташнивать.}
-{155200}{}{Тряпье}
-{155201}{}{Старый вонючий лежак.}
-{155300}{}{Лежак}
-{155301}{}{Рядом с ним неприятно даже стоять, а от мысли на него прилечь начинает подташнивать.}
-{155400}{}{Тряпье}
-{155401}{}{Возможно это было лежаком, но Вы не уверены.}
+{154200}{}{Pipe}
+{154201}{}{Rusted in several places.}
+{154300}{}{Pipe}
+{154301}{}{Rusted in several places.}
+{154400}{}{Toilet}
+{154401}{}{This is where the pipes and other equipment go.}
+{154500}{}{Utility}
+{154501}{}{This is where the pipes and other equipment go.}
+{154600}{}{Utility}
+{154601}{}{This is where the pipes and other equipment go.}
+{154700}{}{Rags}
+{154701}{}{Stinky old bed.}
+{154800}{}{A force field.}
+{154900}{}{A force field.}
+{155000}{}{An organ removal device.}
+{155001}{}{The latest model in the surgical DIY series. Removes organs at the push of a button.}
+{155100}{}{Bed}
+{155101}{}{It's uncomfortable to even stand next to it, and the thought of lying down makes you nauseous.}
+{155200}{}{Rags}
+{155201}{}{Stinky old bed.}
+{155300}{}{Bed}
+{155301}{}{It's uncomfortable to even stand next to it, and the thought of lying down makes you nauseous.}
+{155400}{}{Rags}
+{155401}{}{Perhaps it was a bed, but you're not sure.}
 {155500}{}{Wall}
-{155501}{}{Трубы на фоне ободранных стен.}
-{155600}{}{Хлам}
-{155601}{}{Разломанный стол}
-{155700}{}{Хлам}
-{155701}{}{Какой-то мусор.}
-{155800}{}{Электрощиток}
-{155801}{}{Электрощиток служит для распределения электроэнергии.}
-{155900}{}{Трубы}
-{155901}{}{Целый узел из труб.}
-{156000}{}{Забор}
-{156001}{}{Сооружение из гнилой древесины.}
-{156100}{}{Забор}
-{156101}{}{Сооружение из гнилой древесины.}
-{156200}{}{Бассейн с водой}
-{156201}{}{Здесь больше грязи, чем воды.}
-{156300}{}{Бассейн с водой}
-{156301}{}{Здесь больше грязи, чем воды.}
-{156400}{}{Бассейн с водой}
-{156401}{}{Здесь больше грязи, чем воды.}
-{156500}{}{Забор}
-{156501}{}{Сооружение из гнилой древесины.}
-{156600}{}{Бассейн с водой}
-{156601}{}{Здесь больше грязи, чем воды.}
-{156700}{}{Разрушенная стена}
-{156800}{}{Разрушенная стена}
+{155501}{}{Pipes on tattered walls.}
+{155600}{}{Junk}
+{155601}{}{Broken table.}
+{155700}{}{Junk}
+{155701}{}{Some kind of trash.}
+{155800}{}{Electric box}
+{155801}{}{The electrical box is used to distribute electricity.}
+{155900}{}{Pipes}
+{155901}{}{A whole assembly of pipes.}
+{156000}{}{Fence}
+{156001}{}{A structure made of rotten wood.}
+{156100}{}{Fence}
+{156101}{}{A structure made of rotten wood.}
+{156200}{}{Pool of water}
+{156201}{}{There is more dirt than water.}
+{156300}{}{Pool of water}
+{156301}{}{There is more dirt than water.}
+{156400}{}{Pool of water}
+{156401}{}{There is more dirt than water.}
+{156500}{}{Fence}
+{156501}{}{A structure made of rotten wood.}
+{156600}{}{Pool of water}
+{156601}{}{There is more dirt than water.}
+{156700}{}{Destroyed wall.}
+{156800}{}{Destroyed wall.}
 {156900}{}{Wall}
 {157000}{}{Wall}
 {157100}{}{Floor}
 {157200}{}{Floor}
-{157300}{}{Дверь}
-{157301}{}{Дверь с небольшим окошком.}
-{157400}{}{Дверь}
-{157401}{}{Массивная дверь.}
-{157500}{}{Дверь}
-{157600}{}{Дверь}
-{157700}{}{Часть автомобиля}
-{157701}{}{Похоже на двигатель, выдранный из автомобиля.}
-{157800}{}{Голова быка.}
-{157801}{}{Бык в шляпе выглядывает из консервной банки. Символ завода Happy bull.}
+{157300}{}{Door}
+{157301}{}{A door with a small window.}
+{157400}{}{Door}
+{157401}{}{A solid door.}
+{157500}{}{Door}
+{157600}{}{Door}
+{157700}{}{Part of a car}
+{157701}{}{Looks like an engine ripped out of a car.}
+{157800}{}{Bull's head.}
+{157801}{}{A bull in a hat peeking out of a tin can. A logo of the "Happy bull" factory.}
 {157900}{}{Wall}
-{157901}{}{Полуразрушенная стена}
-{158000}{}{Дыра}
-{158001}{}{Перед вами нора в полу.}
-{158100}{}{Скалы}
-{158101}{}{Выглядят неприступными.}
-{158200}{}{Скалы}
-{158201}{}{Выглядят неприступными.}
-{158300}{}{Скалы}
-{158301}{}{Выглядят неприступными.}
-{158400}{}{Балка}
-{158401}{}{Трухлявая, покрывшаяся плесенью деревянная балка.}
-{158500}{}{Поврежденная стена}
-{158600}{}{Машина}
-{158601}{}{Старый, полуразбитый автомобиль.}
-{158700}{}{Забор}
-{158701}{}{Сооружение из прогнившей древесины.}
-{158800}{}{Поврежденная стена}
+{157901}{}{Half-destroyed wall.}
+{158000}{}{Hole}
+{158001}{}{There is a hole in the floor in front of you.}
+{158100}{}{Rocks}
+{158101}{}{Look impregnable.}
+{158200}{}{Rocks}
+{158201}{}{Look impregnable.}
+{158300}{}{Rocks}
+{158301}{}{Look impregnable.}
+{158400}{}{Beam}
+{158401}{}{A moldy, rotten wooden beam.}
+{158500}{}{Damaged wall.}
+{158600}{}{Car}
+{158601}{}{An old, dilapidated car.}
+{158700}{}{Fence}
+{158701}{}{A structure made of rotten wood.}
+{158800}{}{Damaged wall.}
 {158900}{}{Wall}
-{159000}{}{Поврежденная стена}
-{159100}{}{Поврежденная стена}
-{159200}{}{Поврежденная стена}
-{159300}{}{Трубы}
-{159301}{}{Участок тяжелой трубы.}
-{159400}{}{Трубы}
-{159401}{}{Участок тяжелой трубы.}
-{159500}{}{Поврежденная стена}
+{159000}{}{Damaged wall.}
+{159100}{}{Damaged wall.}
+{159200}{}{Damaged wall.}
+{159300}{}{Pipes}
+{159301}{}{A section of heavy pipe.}
+{159400}{}{Pipes}
+{159401}{}{A section of heavy pipe.}
+{159500}{}{Damaged wall.}
 {159600}{}{Wall}
-{159700}{}{Трубы}
-{159701}{}{Склизкие, покрытые плесенью трубы.}
-{159800}{}{Трубы}
-{159801}{}{Склизкие, покрытые плесенью трубы.}
+{159700}{}{Pipes}
+{159701}{}{Slimy, mold-covered pipes.}
+{159800}{}{Pipes}
+{159801}{}{Slimy, mold-covered pipes.}
 {159900}{}{Wall}
 {160000}{}{Floor}
-{160100}{}{Машина}
-{160101}{}{Старый, полуразбитый автомобиль.}
-{160200}{}{Части ящика}
-{160201}{}{Стенки ящика из сухого дерева.}
-{160300}{}{Корыто}
-{160301}{}{Открытая емкость с грязной водой.}
-{160400}{}{Корыто}
-{160401}{}{Открытая емкость с грязной водой.}
-{160500}{}{Части ящика}
-{160501}{}{Стенки ящика из сухого дерева.}
-{160600}{}{Завод}
-{160601}{}{Здание завода.}
-{160700}{}{Завод}
-{160701}{}{Здание завода.}
-{160800}{}{Завод}
-{160801}{}{Здание завода.}
-{160900}{}{Завод}
-{160901}{}{Здание завода.}
+{160100}{}{Car}
+{160101}{}{An old, dilapidated car.}
+{160200}{}{Parts of the box.}
+{160201}{}{Dry wood box walls.}
+{160300}{}{Trough}
+{160301}{}{An open container of dirty water.}
+{160400}{}{Trough}
+{160401}{}{An open container of dirty water.}
+{160500}{}{Parts of the box.}
+{160501}{}{Dry wood box walls.}
+{160600}{}{Factory}
+{160601}{}{Factory building.}
+{160700}{}{Factory}
+{160701}{}{Factory building.}
+{160800}{}{Factory}
+{160801}{}{Factory building.}
+{160900}{}{Factory}
+{160901}{}{Factory building.}
 {161000}{}{Floor}
-{161100}{}{Лежак}
-{161101}{}{Старый вонючий лежак и какой-то мусор.}
-{161200}{}{Лежак}
-{161201}{}{Вам кажется, что по нему кто-то ползает.}
-{161300}{}{Завод}
-{161301}{}{Здание завода.}
-{161400}{}{Завод}
-{161401}{}{Здание завода.}
-{161500}{}{Лежак}
-{161501}{}{Старый вонючий лежак.}
-{161600}{}{Подушка}
-{161601}{}{Очень грязная.}
-{161700}{}{Лежак}
-{161701}{}{Если лечь на такой, то можно подцепить какую-нибудь гадость.}
-{161800}{}{Лежак}
-{161801}{}{Старый вонючий лежак.}
-{161900}{}{Части забора}
-{161901}{}{Части забора фабрики.}
-{162000}{}{Самодельная трибуна}
-{162001}{}{Наспех сложенная из досок площадка для выступлений.}
-{162100}{}{Части забора}
-{162101}{}{Части забора фабрики.}
-{162200}{}{Лежак}
-{162201}{}{Очень грязный вонючий лежак.}
-{162300}{}{Лежак}
-{162301}{}{Старый вонючий лежак.}
-{162400}{}{Лежак}
-{162401}{}{На нем определенно грибок и плесень.}
-{162500}{}{Трубы}
-{162501}{}{Участок массивной трубы.}
-{162600}{}{Коммуникации}
-{162601}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{162700}{}{Трубы}
-{162701}{}{Участок массивной трубы.}
-{162800}{}{Бочка}
-{162801}{}{Пустой деревянный бочонок.}
-{162900}{}{Бочка}
-{162901}{}{Пустой деревянный бочонок.}
-{163000}{}{Поврежденная стена}
-{163100}{}{Трубы}
-{163101}{}{Участок массивной трубы.}
-{163200}{}{Трубы}
-{163201}{}{Участок массивной трубы.}
-{163300}{}{Полуразрушенная стена}
-{163400}{}{Полки с медикаментами}
-{163401}{}{Вы не знаете назначение этих медикаментов.}
-{163500}{}{Полки с медикаментами}
-{163501}{}{Вы не знаете назначение этих медикаментов.}
-{163600}{}{Бочка}
-{163601}{}{Пустой деревянный бочонок}
-{163700}{}{Бочки}
-{163701}{}{Поставленные друг на друга бочки.}
-{163800}{}{Бочки}
-{163801}{}{Поставленные друг на друга бочки.}
-{163900}{}{Части забора}
-{163901}{}{Выломанная из забора доска.}
-{164000}{}{Палатка}
-{164001}{}{Свернутая палатка}
-{164100}{}{Части забора}
-{164101}{}{Выломанная из забора доска.}
-{164200}{}{Части забора}
-{164201}{}{Выломанная из забора доска.}
-{164300}{}{Станок}
-{164301}{}{Предназначен для работы с различными материалами.}
-{164400}{}{Станок}
-{164401}{}{Предназначен для работы с различными материалами.}
+{161100}{}{Bed}
+{161101}{}{An old stinky floor bed and some trash.}
+{161200}{}{Bed}
+{161201}{}{Looks like something is crawling on it.}
+{161300}{}{Factory}
+{161301}{}{Factory building.}
+{161400}{}{Factory}
+{161401}{}{Factory building.}
+{161500}{}{Bed}
+{161501}{}{Stinky old bed.}
+{161600}{}{Pillow}
+{161601}{}{Very dirty.}
+{161700}{}{Bed}
+{161701}{}{If you lie down on one, you can get some nasty stuff.}
+{161800}{}{Bed}
+{161801}{}{Stinky old bed.}
+{161900}{}{Parts of the fence}
+{161901}{}{Parts of the factory fence.}
+{162000}{}{Makeshift podium}
+{162001}{}{A stage for giving speeches. It is crudely assembled from planks.}
+{162100}{}{Parts of the fence}
+{162101}{}{Parts of the factory fence.}
+{162200}{}{Bed}
+{162201}{}{A very dirty, smelly, stinky floor bed.}
+{162300}{}{Bed}
+{162301}{}{Stinky old bed.}
+{162400}{}{Bed}
+{162401}{}{There's definitely fungus on it. And mold.}
+{162500}{}{Pipes}
+{162501}{}{A section of massive pipe.}
+{162600}{}{Utility}
+{162601}{}{There are pipes, cables, other equipment.}
+{162700}{}{Pipes}
+{162701}{}{A section of massive pipe.}
+{162800}{}{Barrel}
+{162801}{}{An empty wooden barrel.}
+{162900}{}{Barrel}
+{162901}{}{An empty wooden barrel.}
+{163000}{}{Damaged wall.}
+{163100}{}{Pipes}
+{163101}{}{A section of massive pipe.}
+{163200}{}{Pipes}
+{163201}{}{A section of massive pipe.}
+{163300}{}{Half-destroyed wall.}
+{163400}{}{Shelves of medicine.}
+{163401}{}{You don't know the purpose of these medications.}
+{163500}{}{Shelves of medicine.}
+{163501}{}{You don't know the purpose of these medications.}
+{163600}{}{Barrel}
+{163601}{}{Empty wooden barrel.}
+{163700}{}{Barrels}
+{163701}{}{Barrels stacked on top of each other.}
+{163800}{}{Barrels}
+{163801}{}{Barrels stacked on top of each other.}
+{163900}{}{Parts of the fence}
+{163901}{}{A board broke out of a fence.}
+{164000}{}{Tent}
+{164001}{}{Rolled up tent}
+{164100}{}{Parts of the fence}
+{164101}{}{A board broke out of a fence.}
+{164200}{}{Parts of the fence}
+{164201}{}{A board broke out of a fence.}
+{164300}{}{Machinery}
+{164301}{}{Intended for handling various materials.}
+{164400}{}{Machinery}
+{164401}{}{Intended for handling various materials.}
 {164500}{}{stairs down}
 {164600}{}{stairs up}
 {164601}{}{This stairway leads up.}
-{164700}{}{Спуск на станцию}
+{164700}{}{Entrance to the station}
 {164701}{}{The stairs end in the darkness.}
 {164800}{}{stairs down}
 {164801}{}{The stairway leads into the darkness.}
-{164900}{}{Части забора}
-{164901}{}{Выломанная из забора доска.}
-{165000}{}{Части забора}
-{165001}{}{Выломанная из забора доска.}
-{165100}{}{Части забора}
-{165101}{}{Выломанная из забора доска.}
+{164900}{}{Parts of the fence}
+{164901}{}{A board broke out of a fence.}
+{165000}{}{Parts of the fence}
+{165001}{}{A board broke out of a fence.}
+{165100}{}{Parts of the fence}
+{165101}{}{A board broke out of a fence.}
 {165200}{}{stairs up}
 {165201}{}{This stairway leads up.}
-{165300}{}{Мешки с песком}
-{165301}{}{Военная фортификация.}
-{165400}{}{Мешки с песком}
-{165401}{}{Военная фортификация.}
-{165500}{}{Шахтный лифт}
-{165600}{}{Балка}
-{165700}{}{Части забора}
-{165701}{}{Выломанная из забора доска.}
-{165800}{}{Камни}
-{165900}{}{Части забора}
-{165901}{}{Выломанная из забора доска.}
-{166000}{}{Проход}
-{166100}{}{Забор}
-{166101}{}{Сооружение из прогнившей древесины.}
-{166200}{}{Шест}
-{166201}{}{Опорная конструкция.}
-{166300}{}{Шест}
-{166301}{}{Опорная конструкция.}
-{166400}{}{Шест}
-{166401}{}{Опорная конструкция.}
-{166500}{}{Шест}
-{166501}{}{Опорная конструкция.}
-{166600}{}{Шест}
-{166601}{}{Опорная конструкция.}
-{166700}{}{Шест}
-{166701}{}{Опорная конструкция.}
-{166800}{}{Шест}
-{166801}{}{Опорная конструкция.}
-{166900}{}{Выбоина}
-{167000}{}{Шест}
-{167001}{}{Опорная конструкция.}
-{167100}{}{Выбоина}
-{167200}{}{Ограждение}
-{167201}{}{Тряпичная перегородка.}
-{167300}{}{Ограждение}
-{167301}{}{Тряпичная перегородка.}
-{167400}{}{Полуразрушенная стена}
-{167500}{}{Заложенная стена}
-{167600}{}{Часть забора}
-{167601}{}{Выломанная из забора доска.}
-{167700}{}{Ограждение}
-{167701}{}{Тряпичная перегородка.}
-{167800}{}{Ограждение}
-{167801}{}{Тряпичная перегородка.}
-{167900}{}{Выбоина}
-{168000}{}{Ограждение}
-{168001}{}{Тряпичная перегородка.}
-{168100}{}{Лежак}
-{168101}{}{Не стоит тут отдыхать.}
-{168200}{}{Баллоны}
-{168201}{}{Внутри некая субстанция.}
-{168300}{}{Баллоны}
-{168301}{}{Внутри некая субстанция.}
-{168400}{}{Плитка}
-{168500}{}{Шахтный Лифт}
-{168600}{}{Плитка}
-{168700}{}{Плитка}
-{168800}{}{Полуразрушенная стена}
-{168900}{}{Лифт}
-{169000}{}{Лифт}
-{169100}{}{Полуразрушенная стена}
-{169200}{}{Полуразрушенная стена}
-{169300}{}{Выбоина}
-{169400}{}{Угол стены}
-{169500}{}{Выбоина}
-{169600}{}{Выбоина}
-{169700}{}{Вещи}
-{169701}{}{Куча бесполезного барахла.}
-{169800}{}{Ограждение}
-{169801}{}{Тряпичная перегородка.}
-{169900}{}{Ограждение}
-{169901}{}{Тряпичная перегородка.}
-{170000}{}{Полуразрушенная стена}
-{170100}{}{Сломанный шест}
-{170200}{}{Ограждение}
-{170201}{}{Тряпичная перегородка.}
-{170300}{}{Ограждение}
-{170301}{}{Тряпичная перегородка.}
-{170400}{}{Ограждение}
-{170401}{}{Тряпичная перегородка.}
-{170500}{}{Шест}
-{170501}{}{Опорная конструкция.}
-{170600}{}{Полки}
-{170601}{}{К сожалению, вам тут нечем поживиться.}
-{170700}{}{Полки}
-{170701}{}{Тут нет ничего ценного.}
-{170800}{}{Полки}
-{170900}{}{Дверь}
-{171000}{}{Дверь}
-{171100}{}{Колонна}
-{171101}{}{Декоративное сооружение.}
-{171200}{}{Колонна}
-{171201}{}{Декоративное сооружение.}
-{171300}{}{Украшенное изображение}
-{171301}{}{Лицо портрета заклеено другим лицом, аккуратно вырезанным из фотографии. Вы узнаете одного из обитателей Лайвоса.}
-{171400}{}{Украшенное изображение}
-{171401}{}{Глядя на это изображение, Вы думаете, что искусство бывает крайне странным.}
-{171500}{}{Украшенное изображение}
-{171501}{}{Выполняет чисто эстетическую функцию.}
-{171600}{}{Украшенное изображение}
-{171601}{}{Вы не являетесь поклонником такого рода живописи.}
-{171700}{}{Украшенное изображение}
-{171701}{}{Местные обитатели видимо ценят искусство.}
-{171800}{}{Украшенное изображение}
-{171801}{}{Вы не являетесь поклонником такого рода живописи.}
-{171900}{}{Украшенное изображение}
-{171901}{}{Лицо портрета заклеено другим лицом, аккуратно вырезанным из фотографии. Вы узнаете одного из обитателей Лайвоса.}
-{172000}{}{Украшенное изображение}
-{172001}{}{Местные обитатели видимо ценят искусство.}
-{172100}{}{Пуленепробиваемое стекло}
-{172200}{}{Пуленепробиваемое стекло}
-{172300}{}{Пуленепробиваемое стекло}
-{172400}{}{Украшенное изображение}
-{172401}{}{Вы не являетесь поклонником такого рода живописи.}
-{172500}{}{Украшенное изображение}
-{172501}{}{Местные обитатели видимо ценят искусство.}
-{172600}{}{Камень}
-{172601}{}{Огромный камень с плоской гранью. Очень тяжелый.}
-{172700}{}{Камень}
-{172701}{}{Твердая горная порода.}
-{172800}{}{Камень}
-{172801}{}{Кажется, он по форме напоминает шляпу и еще на него можно присесть.}
-{172900}{}{Камень}
-{172901}{}{Камень причудливой формы.}
-{173000}{}{Ящик}
-{173001}{}{Ничего интересного в этом объекте нет.}
-{173100}{}{Части ящиков}
-{173101}{}{Стенка деревянного ящика.}
-{173200}{}{Части ящиков}
-{173201}{}{Стенка деревянного ящика.}
-{173300}{}{Части ящиков}
-{173301}{}{Стенка деревянного ящика.}
+{165300}{}{Sandbags.}
+{165301}{}{Military fortification.}
+{165400}{}{Sandbags.}
+{165401}{}{Military fortification.}
+{165500}{}{Shaft elevator}
+{165600}{}{Beam}
+{165700}{}{Parts of the fence}
+{165701}{}{A board broke out of a fence.}
+{165800}{}{Stones}
+{165900}{}{Parts of the fence}
+{165901}{}{A board broke out of a fence.}
+{166000}{}{Passageway}
+{166100}{}{Fence}
+{166101}{}{A structure made of rotten wood.}
+{166200}{}{Pole}
+{166201}{}{Supporting structure.}
+{166300}{}{Pole}
+{166301}{}{Supporting structure.}
+{166400}{}{Pole}
+{166401}{}{Supporting structure.}
+{166500}{}{Pole}
+{166501}{}{Supporting structure.}
+{166600}{}{Pole}
+{166601}{}{Supporting structure.}
+{166700}{}{Pole}
+{166701}{}{Supporting structure.}
+{166800}{}{Pole}
+{166801}{}{Supporting structure.}
+{166900}{}{Hole}
+{167000}{}{Pole}
+{167001}{}{Supporting structure.}
+{167100}{}{Hole}
+{167200}{}{Barrier}
+{167201}{}{Rag partition.}
+{167300}{}{Barrier}
+{167301}{}{Rag partition.}
+{167400}{}{Half-destroyed wall.}
+{167500}{}{A wall that has been built up.}
+{167600}{}{Part of the fence.}
+{167601}{}{A board broke out of a fence.}
+{167700}{}{Barrier}
+{167701}{}{Rag partition.}
+{167800}{}{Barrier}
+{167801}{}{Rag partition.}
+{167900}{}{Hole}
+{168000}{}{Barrier}
+{168001}{}{Rag partition.}
+{168100}{}{Bed}
+{168101}{}{Not worth resting here.}
+{168200}{}{Cylinders}
+{168201}{}{Some kind of substance inside.}
+{168300}{}{Cylinders}
+{168301}{}{Some kind of substance inside.}
+{168400}{}{Tile}
+{168500}{}{Shaft elevator}
+{168600}{}{Tile}
+{168700}{}{Tile}
+{168800}{}{Half-destroyed wall.}
+{168900}{}{Elevator}
+{169000}{}{Elevator}
+{169100}{}{Half-destroyed wall.}
+{169200}{}{Half-destroyed wall.}
+{169300}{}{Hole}
+{169400}{}{Corner of the wall}
+{169500}{}{Hole}
+{169600}{}{Hole}
+{169700}{}{Things}
+{169701}{}{A pile of useless junk.}
+{169800}{}{Barrier}
+{169801}{}{Rag partition.}
+{169900}{}{Barrier}
+{169901}{}{Rag partition.}
+{170000}{}{Half-destroyed wall.}
+{170100}{}{Broken pole}
+{170200}{}{Barrier}
+{170201}{}{Rag partition.}
+{170300}{}{Barrier}
+{170301}{}{Rag partition.}
+{170400}{}{Barrier}
+{170401}{}{Rag partition.}
+{170500}{}{Pole}
+{170501}{}{Supporting structure.}
+{170600}{}{Shelves.}
+{170601}{}{Unfortunately, you have nothing to gain here.}
+{170700}{}{Shelves.}
+{170701}{}{There's nothing of value here.}
+{170800}{}{Shelves.}
+{170900}{}{Door}
+{171000}{}{Door}
+{171100}{}{Column}
+{171101}{}{A decorative structure.}
+{171200}{}{Column}
+{171201}{}{A decorative structure.}
+{171300}{}{Decorated image}
+{171301}{}{The face of the portrait is taped over with another face, neatly carved out of a photograph. You recognize one of the Livos dwellers.}
+{171400}{}{Decorated image}
+{171401}{}{Looking at this image makes you think that art can be extremely strange.}
+{171500}{}{Decorated image}
+{171501}{}{It serves a purely aesthetic function.}
+{171600}{}{Decorated image}
+{171601}{}{You are not a fan of this kind of painting.}
+{171700}{}{Decorated image}
+{171701}{}{The locals seem to appreciate art.}
+{171800}{}{Decorated image}
+{171801}{}{You are not a fan of this kind of painting.}
+{171900}{}{Decorated image}
+{171901}{}{The face of the portrait is taped over with another face, neatly carved out of a photograph. You recognize one of the Livos dwellers.}
+{172000}{}{Decorated image}
+{172001}{}{The locals seem to appreciate art.}
+{172100}{}{Bulletproof glass}
+{172200}{}{Bulletproof glass}
+{172300}{}{Bulletproof glass}
+{172400}{}{Decorated image}
+{172401}{}{You are not a fan of this kind of painting.}
+{172500}{}{Decorated image}
+{172501}{}{The locals seem to appreciate art.}
+{172600}{}{Stone}
+{172601}{}{Huge stone with a flat facet. Very heavy.}
+{172700}{}{Stone}
+{172701}{}{A hard rock.}
+{172800}{}{Stone}
+{172801}{}{It seems to be shaped like a hat. You can also sit on it.}
+{172900}{}{Stone}
+{172901}{}{The stone is bizarrely shaped.}
+{173000}{}{Crate}
+{173001}{}{Nothing interesting about this object.}
+{173100}{}{Box parts.}
+{173101}{}{The wall of the wooden box.}
+{173200}{}{Box parts.}
+{173201}{}{The wall of the wooden box.}
+{173300}{}{Box parts.}
+{173301}{}{The wall of the wooden box.}
 {173400}{}{Floor}
 {173500}{}{Floor}
 {173600}{}{Floor}
-{173700}{}{Выход наверх}
-{173800}{}{Стол со свечкой}
-{173801}{}{Грязный стол, освещаемый пламенем свечи.}
+{173700}{}{Exit}
+{173800}{}{A table with a candle.}
+{173801}{}{Dirty table illuminated by a candle flame.}
 {173900}{}{Floor}
-{174000}{}{Вещи}
-{174001}{}{Куча бесполезного барахла.}
-{174100}{}{Бассейн с водой}
-{174101}{}{Здесь больше грязи, чем воды.}
+{174000}{}{Things}
+{174001}{}{A pile of useless junk.}
+{174100}{}{Pool of water}
+{174101}{}{There is more dirt than water.}
 {174200}{}{Floor}
-{174300}{}{Шест}
-{174301}{}{Опорная конструкция.}
-{174400}{}{Табуретка}
-{174401}{}{Старый и совершенно обычный предмет мебели.}
+{174300}{}{Pole}
+{174301}{}{Supporting structure.}
+{174400}{}{Stool}
+{174401}{}{An old and completely ordinary piece of furniture.}
 {174500}{}{Table}
-{174501}{}{Видавший виды стол с грязной разорванной скатертью и остатками еды.}
-{174600}{}{Плитка}
-{174700}{}{Плитка}
-{174800}{}{Скалы}
-{174801}{}{Выглядят неприступными.}
-{174900}{}{Часть забора}
-{174901}{}{Выломанная из забора доска.}
-{175000}{}{Баки с водой}
-{175001}{}{Большие ржавые баки с запасами воды.}
-{175100}{}{Бассейн с водой}
-{175101}{}{Здесь больше грязи, чем воды.}
-{175200}{}{Украшенное изображение}
-{175201}{}{Вы некоторое время изучаете изображение, но оно не становится от этого более понятным.}
-{175300}{}{Украшенное изображение}
-{175301}{}{Для Вас остается загадкой, что же этой работой хотел сказать автор.}
-{175400}{}{Унитаз}
-{175401}{}{В отличном состоянии.}
-{175500}{}{Крест}
-{175600}{}{Колодец}
-{175601}{}{Сооружение для добывания воды.}
-{175700}{}{Трубы}
-{175701}{}{Участок массивной трубы.}
-{175800}{}{Баки с водой}
-{175801}{}{Большие ржавые баки с запасами воды.}
-{175900}{}{Трубы}
-{175901}{}{Здесь проходят трубы, кабели, иное оборудование.}
-{176000}{}{Трубы}
-{176001}{}{Ниша для вывода каких-то труб и прочих коммуникаций.}
-{176100}{}{Труба}
-{176101}{}{Участок массивной трубы.}
-{176200}{}{Трубы}
-{176201}{}{Участок массивной трубы.}
-{176300}{}{Трубы}
-{176301}{}{Участок массивной трубы.}
-{176400}{}{Трубы}
-{176401}{}{Участок массивной трубы.}
-{176500}{}{Трубы}
-{176501}{}{Участок массивной трубы.}
-{176600}{}{Трубы}
-{176601}{}{Участок массивной трубы.}
-{176700}{}{Трубы}
-{176701}{}{Участок массивной трубы.}
-{176800}{}{Трубы}
-{176801}{}{Участок массивной трубы.}
-{176900}{}{Трубы}
-{176901}{}{Участок массивной трубы.}
-{177000}{}{Трубы}
-{177001}{}{Участок массивной трубы.}
-{177100}{}{Трубы}
-{177101}{}{Участок массивной трубы.}
-{177200}{}{Спуск к воде}
-{177300}{}{Вода}
-{177400}{}{Вода}
-{177500}{}{Вода}
-{177600}{}{Вода}
-{177700}{}{Трубы}
-{177701}{}{Участок массивной трубы.}
-{177800}{}{Лежак}
-{177801}{}{Не самый чистый предмет для отдыха.}
-{177900}{}{Костер}
-{177901}{}{Вы же не собираетесь смотреть на него вечно?}
-{178000}{}{Лежак}
-{178001}{}{Кажется, на нем может спать только человек, который не чувствует запахов.}
-{178100}{}{Лежак}
-{178101}{}{Кажется, на нем может спать только человек, который не чувствует запахов.}
-{178200}{}{Лежак}
-{178201}{}{Похоже он уже прогнил.}
-{178300}{}{Лежак}
-{178301}{}{Старый, вонючий лежак.}
-{178400}{}{Лежак}
-{178401}{}{Не время отдыхать, тем более на этом.}
+{174501}{}{A table with a dirty, torn tablecloth and food scraps.}
+{174600}{}{Tile}
+{174700}{}{Tile}
+{174800}{}{Rocks}
+{174801}{}{Look impregnable.}
+{174900}{}{Part of the fence.}
+{174901}{}{A board broke out of a fence.}
+{175000}{}{Water cisterns.}
+{175001}{}{Large, rusty water tanks.}
+{175100}{}{Pool of water}
+{175101}{}{There is more dirt than water.}
+{175200}{}{Decorated image}
+{175201}{}{You study the image for a while, but it does not become any clearer.}
+{175300}{}{Decorated image}
+{175301}{}{It remains a mystery to you what the author wanted to say with this work.}
+{175400}{}{Toilet}
+{175401}{}{In excellent condition.}
+{175500}{}{Cross}
+{175600}{}{Well}
+{175601}{}{A structure for extracting water.}
+{175700}{}{Pipes}
+{175701}{}{A section of massive pipe.}
+{175800}{}{Water cisterns.}
+{175801}{}{Large, rusty water tanks.}
+{175900}{}{Pipes}
+{175901}{}{There are pipes, cables, other equipment.}
+{176000}{}{Pipes}
+{176001}{}{Niche for the outlet of some pipes and other utilities.}
+{176100}{}{Pipe}
+{176101}{}{A section of massive pipe.}
+{176200}{}{Pipes}
+{176201}{}{A section of massive pipe.}
+{176300}{}{Pipes}
+{176301}{}{A section of massive pipe.}
+{176400}{}{Pipes}
+{176401}{}{A section of massive pipe.}
+{176500}{}{Pipes}
+{176501}{}{A section of massive pipe.}
+{176600}{}{Pipes}
+{176601}{}{A section of massive pipe.}
+{176700}{}{Pipes}
+{176701}{}{A section of massive pipe.}
+{176800}{}{Pipes}
+{176801}{}{A section of massive pipe.}
+{176900}{}{Pipes}
+{176901}{}{A section of massive pipe.}
+{177000}{}{Pipes}
+{177001}{}{A section of massive pipe.}
+{177100}{}{Pipes}
+{177101}{}{A section of massive pipe.}
+{177200}{}{The descent to the water.}
+{177300}{}{Water}
+{177400}{}{Water}
+{177500}{}{Water}
+{177600}{}{Water}
+{177700}{}{Pipes}
+{177701}{}{A section of massive pipe.}
+{177800}{}{Bed}
+{177801}{}{Not the cleanest recreational item.}
+{177900}{}{Fire}
+{177901}{}{You're not going to look at it forever, are you?}
+{178000}{}{Bed}
+{178001}{}{Seems like only someone who doesn't feel smells could sleep on it.}
+{178100}{}{Bed}
+{178101}{}{Seems like only someone who doesn't feel smells could sleep on it.}
+{178200}{}{Bed}
+{178201}{}{It looks like it's already rotten.}
+{178300}{}{Bed}
+{178301}{}{It's an old, stinking bed.}
+{178400}{}{Bed}
+{178401}{}{It's no time to rest, much less on it.}
 {178500}{}{Floor}
 {178600}{}{Floor}
-{178700}{}{Какой-то мусор в воде}
-{178701}{}{Кажется, что-то растеклось вокруг.}
-{178800}{}{Повозка}
-{178801}{}{Сооружена из автомобиля.}
-{178900}{}{Повозка}
-{178901}{}{Сооружена из автомобиля.}
-{179000}{}{Машина}
-{179001}{}{Старый, полуразбитый автомобиль.}
-{179100}{}{Инструменты}
-{179101}{}{Различные инструменты, но они не пригодны к использованию.}
-{179200}{}{Инструменты}
-{179201}{}{Различные инструменты, но они не пригодны к использованию.}
-{179300}{}{Вода}
-{179301}{}{Очень грязно. Ничего не видно сквозь муть.}
-{179400}{}{Вода}
-{179401}{}{Очень грязно. Ничего не видно сквозь муть.}
-{179500}{}{Уступ}
-{179501}{}{Дальше вода. Вы совсем не хотите в этом купаться.}
-{179600}{}{Уступ}
-{179601}{}{Дальше вода. Вы совсем не хотите в этом купаться.}
-{179700}{}{Уступ}
-{179701}{}{Дальше вода.}
-{179800}{}{Уступ}
-{179801}{}{Дальше вода.}
-{179900}{}{Решетка}
-{179901}{}{Канализационная решетка.}
-{180000}{}{Решетка}
-{180001}{}{Канализационная решетка.}
-{180100}{}{Уступ}
-{180101}{}{Дальше вода.}
-{180200}{}{Уступ}
-{180300}{}{Камни}
-{180400}{}{Ящик}
-{180500}{}{Освещение}
-{180600}{}{Шипы}
-{180601}{}{Острые шипы, легко проколют ступню.}
-{180700}{}{Выход}
-{180800}{}{Ограждение}
-{180801}{}{Тряпичная перегородка.}
-{180900}{}{Ограждение}
-{180901}{}{Тряпичная перегородка.}
-{181000}{}{Ограждение}
-{181001}{}{Тряпичная перегородка.}
-{181100}{}{Баки с водой}
-{181101}{}{Большие ржавые баки с запасами воды.}
-{181200}{}{Ограждение}
-{181201}{}{Тряпичная перегородка.}
-{181300}{}{Выход}
-{181301}{}{Ведет в темноту}
-{181400}{}{Плита}
-{181500}{}{Ограждение}
-{181501}{}{Тряпичная перегородка.}
-{181600}{}{Ограждение}
-{181601}{}{Тряпичная перегородка.}
-{181700}{}{Планка}
-{181800}{}{Дверь}
-{181801}{}{Ведет в холлы отеля.}
-{181900}{}{Дверь}
-{182000}{}{Кровь}
-{182001}{}{Кто-то здесь совсем недавно умер.}
-{182100}{}{Кровь}
-{182101}{}{Не первой свежести.}
-{182200}{}{Кровь}
-{182201}{}{Мама всегда Вам говорила, что эта жидкость должна быть ВНУТРИ, а не снаружи.}
-{182300}{}{Кровь}
-{182301}{}{Кажется в этой лужице чьи-то кости.}
-{182400}{}{Кровь}
-{182401}{}{Мама всегда Вам говорила, что эта жидкость должна быть ВНУТРИ, а не снаружи.}
-{182500}{}{Кости и кишки}
-{182501}{}{Бренные останки, пахнут свежей кровью.}
-{182600}{}{Скалы}
-{182601}{}{Выглядят неприступными.}
-{182700}{}{Скалы}
-{182701}{}{Выглядят неприступными.}
-{182800}{}{Скалы}
-{182801}{}{Выглядят неприступными.}
-{182900}{}{Скалы}
-{182901}{}{Выглядят неприступными.}
-{183000}{}{Скалы}
-{183001}{}{Выглядят неприступными.}
-{183100}{}{Скалы}
-{183101}{}{Выглядят неприступными.}
-{183200}{}{Скалы}
-{183201}{}{Выглядят неприступными.}
-{183300}{}{Скалы}
-{183301}{}{Выглядят неприступными.}
-{183400}{}{Скалы}
-{183401}{}{Выглядят неприступными.}
+{178700}{}{There's some trash in the water.}
+{178701}{}{Something seems to be leaked around.}
+{178800}{}{Wagon}
+{178801}{}{Constructed from a car.}
+{178900}{}{Wagon}
+{178901}{}{Constructed from a car.}
+{179000}{}{Car}
+{179001}{}{An old, dilapidated car.}
+{179100}{}{Tools}
+{179101}{}{Various tools, but they are not usable.}
+{179200}{}{Tools}
+{179201}{}{Various tools, but they are not usable.}
+{179300}{}{Water}
+{179301}{}{Very dirty. Can't see anything through the mud.}
+{179400}{}{Water}
+{179401}{}{Very dirty. Can't see anything through the mud.}
+{179500}{}{Escarpment}
+{179501}{}{There's only water. You don't want to swim in it at all.}
+{179600}{}{Escarpment}
+{179601}{}{There's only water. You don't want to swim in it at all.}
+{179700}{}{Escarpment}
+{179701}{}{There's only water.}
+{179800}{}{Escarpment}
+{179801}{}{There's only water.}
+{179900}{}{Grate}
+{179901}{}{Sewer grate.}
+{180000}{}{Grate}
+{180001}{}{Sewer grate.}
+{180100}{}{Escarpment}
+{180101}{}{There's only water.}
+{180200}{}{Escarpment}
+{180300}{}{Stones}
+{180400}{}{Crate}
+{180500}{}{Lights}
+{180600}{}{Spikes}
+{180601}{}{Sharp spikes, will easily puncture your foot.}
+{180700}{}{Exit}
+{180800}{}{Barrier}
+{180801}{}{Rag partition.}
+{180900}{}{Barrier}
+{180901}{}{Rag partition.}
+{181000}{}{Barrier}
+{181001}{}{Rag partition.}
+{181100}{}{Water cisterns.}
+{181101}{}{Large, rusty water tanks.}
+{181200}{}{Barrier}
+{181201}{}{Rag partition.}
+{181300}{}{Exit}
+{181301}{}{Leads to darkness.}
+{181400}{}{Stove}
+{181500}{}{Barrier}
+{181501}{}{Rag partition.}
+{181600}{}{Barrier}
+{181601}{}{Rag partition.}
+{181700}{}{Bar}
+{181800}{}{Door}
+{181801}{}{Leads to the hotel's lobby.}
+{181900}{}{Door}
+{182000}{}{Blood}
+{182001}{}{Somebody died here quite recently.}
+{182100}{}{Blood}
+{182101}{}{Not the freshest.}
+{182200}{}{Blood}
+{182201}{}{Mother always told you that this liquid should be INSIDE, not outside.}
+{182300}{}{Blood}
+{182301}{}{Looks like someone's bones are in this puddle.}
+{182400}{}{Blood}
+{182401}{}{Mother always told you that this liquid should be INSIDE, not outside.}
+{182500}{}{Bones and guts.}
+{182501}{}{The mortal remains that smell of fresh blood.}
+{182600}{}{Rocks}
+{182601}{}{Look impregnable.}
+{182700}{}{Rocks}
+{182701}{}{Look impregnable.}
+{182800}{}{Rocks}
+{182801}{}{Look impregnable.}
+{182900}{}{Rocks}
+{182901}{}{Look impregnable.}
+{183000}{}{Rocks}
+{183001}{}{Look impregnable.}
+{183100}{}{Rocks}
+{183101}{}{Look impregnable.}
+{183200}{}{Rocks}
+{183201}{}{Look impregnable.}
+{183300}{}{Rocks}
+{183301}{}{Look impregnable.}
+{183400}{}{Rocks}
+{183401}{}{Look impregnable.}
 {183500}{}{a staircase}
 {183501}{}{The steps form a wide staircase.}
-{183600}{}{Кровь}
-{183601}{}{Кровь уже успела впитаться.}
-{183700}{}{Кровь, кишки, кости}
-{183701}{}{Вы видите перед собой чей-то богатый внутренний мир.}
-{183800}{}{Палатка}
-{183801}{}{Используется для сна, отдыха, укрытия от непогоды.}
-{183900}{}{Скалы}
-{183901}{}{Выглядят неприступными.}
-{184000}{}{Скалы}
-{184001}{}{Выглядят неприступными.}
-{184100}{}{Палатка}
-{184101}{}{Используется для сна, отдыха, укрытия от непогоды.}
-{184200}{}{Палатка}
-{184201}{}{Используется для сна, отдыха, укрытия от непогоды.}
-{184300}{}{Палатка}
-{184301}{}{Используется для сна, отдыха, укрытия от непогоды.}
+{183600}{}{Blood}
+{183601}{}{The blood has already had time to soak in.}
+{183700}{}{Blood, guts, bones.}
+{183701}{}{You see someone's rich inner world in front of you.}
+{183800}{}{Tent}
+{183801}{}{Used for sleeping, resting, sheltering from the weather.}
+{183900}{}{Rocks}
+{183901}{}{Look impregnable.}
+{184000}{}{Rocks}
+{184001}{}{Look impregnable.}
+{184100}{}{Tent}
+{184101}{}{Used for sleeping, resting, sheltering from the weather.}
+{184200}{}{Tent}
+{184201}{}{Used for sleeping, resting, sheltering from the weather.}
+{184300}{}{Tent}
+{184301}{}{Used for sleeping, resting, sheltering from the weather.}
 {184400}{}{a way down}
-{184500}{}{Лежак}
-{184501}{}{При взгляде на этот лежак желание прилечь мгновенно пропадает.}
-{184600}{}{Забор}
-{184700}{}{Угол стены}
-{184800}{}{Шест}
-{184801}{}{Опорная конструкция.}
-{184900}{}{Бочка}
-{184901}{}{Металлическая бочка.}
-{185000}{}{Бочка}
-{185001}{}{Металлическая бочка.}
-{185100}{}{Пар}
-{185200}{}{Заграждение}
-{185201}{}{Аварийный знак.}
-{185300}{}{Хлам}
-{185301}{}{Различные части машин, но ничего полезного.}
-{185400}{}{Хлам}
-{185401}{}{Части ограждений.}
-{185500}{}{Хлам}
-{185501}{}{Кирпичи}
-{185600}{}{Хлам}
-{185601}{}{Бочка, автомобильные шины, что-то еще.}
-{185700}{}{Хлам}
-{185701}{}{Бесполезный мусор.}
-{185800}{}{Кресло}
-{185801}{}{Это кресло выглядит так, будто оно отслужило свое много лет назад.}
-{185900}{}{Table доктора}
-{185901}{}{Грязный стол с каким-то мусором и компьютером.}
-{186000}{}{Машина}
-{186001}{}{Старый ржавый автомобиль.}
-{186100}{}{Ящик}
-{186101}{}{Ничего особенного, просто ящик.}
-{186200}{}{Бочка с мусором}
-{186201}{}{Бесполезный хлам.}
-{186300}{}{Шины}
-{186301}{}{Автомобильные шины, ничего интересного.}
-{186400}{}{Шины}
-{186401}{}{Автомобильные шины, ничего интересного.}
-{186500}{}{Шина}
-{186501}{}{Автомобильная шина, ничего интересного.}
-{186600}{}{Повозка}
-{186601}{}{Сооружена из автомобиля.}
-{186700}{}{Повозка}
-{186701}{}{Сооружена из автомобиля.}
-{186800}{}{Хлам}
-{186801}{}{Бесполезный мусор.}
-{186900}{}{Хлам}
-{186901}{}{Бесполезный мусор.}
-{187000}{}{Сиденье}
-{187001}{}{Выдрано из машины.}
-{187100}{}{Шины}
-{187101}{}{Автомобильные шины, ничего интересного.}
-{187200}{}{Палатка}
-{187201}{}{Похоже, эта палатка свое отслужила.}
-{187300}{}{Палатка}
-{187301}{}{Похоже, эта палатка свое отслужила.}
-{187400}{}{Машина}
-{187401}{}{Старый, полуразбитый автомобиль.}
-{187500}{}{Машина}
-{187501}{}{На этом уже никто никуда не поедет.}
-{187600}{}{Машина}
-{187601}{}{Старый, полуразбитый автомобиль.}
-{187700}{}{Хлам}
-{187701}{}{Бесполезный мусор.}
-{187800}{}{Машина}
-{187801}{}{Теперь это просто груда бесполезного металла и она никуда не поедет.}
-{187900}{}{Машина}
-{187901}{}{Старый, полуразбитый автомобиль.}
-{188000}{}{Машина}
-{188001}{}{Старый, полуразбитый автомобиль.}
-{188100}{}{Машина}
-{188101}{}{Теперь это просто груда бесполезного металла и она никуда не поедет.}
-{188200}{}{Машина}
-{188201}{}{На этом уже никто никуда не поедет.}
-{188300}{}{Хлам}
-{188301}{}{Бесполезный мусор.}
-{188400}{}{Хлам}
-{188401}{}{Тут нечем поживиться.}
-{188500}{}{Хлам}
-{188501}{}{Кажется это кирпичи. Они Вам совершенно не нужны.}
-{188600}{}{Хлам}
-{188601}{}{Бесполезный мусор.}
-{188700}{}{Хлам}
-{188701}{}{Тут Вы вряд ли найдете что-то ценное.}
-{188800}{}{Хлам}
-{188801}{}{Бесполезный мусор.}
-{188900}{}{Хлам}
-{188901}{}{Тут Вы вряд ли найдете что-то ценное}
-{189000}{}{Вещи}
-{189001}{}{Куча барахла. Ничего полезного там нет.}
+{184500}{}{Bed}
+{184501}{}{When you see this bed, the desire to lie down instantly disappears.}
+{184600}{}{Fence}
+{184700}{}{Corner of the wall}
+{184800}{}{Pole}
+{184801}{}{Supporting structure.}
+{184900}{}{Barrel}
+{184901}{}{Metal barrel.}
+{185000}{}{Barrel}
+{185001}{}{Metal barrel.}
+{185100}{}{Steam}
+{185200}{}{Barrier}
+{185201}{}{Emergency sign.}
+{185300}{}{Junk}
+{185301}{}{Various machine parts, but nothing useful.}
+{185400}{}{Junk}
+{185401}{}{Fence parts.}
+{185500}{}{Junk}
+{185501}{}{Bricks}
+{185600}{}{Junk}
+{185601}{}{A barrel, car tires, something else.}
+{185700}{}{Junk}
+{185701}{}{A useless pile of junk.}
+{185800}{}{Armchair}
+{185801}{}{This chair looks like it served its purpose years ago.}
+{185900}{}{Doctor's Table.}
+{185901}{}{Dirty desk with some trash and a calculator.}
+{186000}{}{Car}
+{186001}{}{An old rusty car.}
+{186100}{}{Crate}
+{186101}{}{Nothing special, just a crate.}
+{186200}{}{Garbage barrel.}
+{186201}{}{Useless junk.}
+{186300}{}{Tires}
+{186301}{}{Car tires, nothing interesting.}
+{186400}{}{Tires}
+{186401}{}{Car tires, nothing interesting.}
+{186500}{}{Tire}
+{186501}{}{Car tire, nothing interesting.}
+{186600}{}{Wagon}
+{186601}{}{Constructed from a car.}
+{186700}{}{Wagon}
+{186701}{}{Constructed from a car.}
+{186800}{}{Junk}
+{186801}{}{A useless pile of junk.}
+{186900}{}{Junk}
+{186901}{}{A useless pile of junk.}
+{187000}{}{Seat}
+{187001}{}{Ripped out of a car.}
+{187100}{}{Tires}
+{187101}{}{Car tires, nothing interesting.}
+{187200}{}{Tent}
+{187201}{}{Looks like this tent has served its purpose.}
+{187300}{}{Tent}
+{187301}{}{Looks like this tent has served its purpose.}
+{187400}{}{Car}
+{187401}{}{An old, dilapidated car.}
+{187500}{}{Car}
+{187501}{}{No one's going anywhere with this.}
+{187600}{}{Car}
+{187601}{}{An old, dilapidated car.}
+{187700}{}{Junk}
+{187701}{}{A useless pile of junk.}
+{187800}{}{Car}
+{187801}{}{Now it's just a pile of worthless metal and it's not going anywhere.}
+{187900}{}{Car}
+{187901}{}{An old, dilapidated car.}
+{188000}{}{Car}
+{188001}{}{An old, dilapidated car.}
+{188100}{}{Car}
+{188101}{}{Now it's just a pile of worthless metal and it's not going anywhere.}
+{188200}{}{Car}
+{188201}{}{No one's going anywhere with this.}
+{188300}{}{Junk}
+{188301}{}{A useless pile of junk.}
+{188400}{}{Junk}
+{188401}{}{There's nothing to eat.}
+{188500}{}{Junk}
+{188501}{}{Looks like bricks. You don't need them at all.}
+{188600}{}{Junk}
+{188601}{}{A useless pile of junk.}
+{188700}{}{Junk}
+{188701}{}{You won't find anything of value in here.}
+{188800}{}{Junk}
+{188801}{}{A useless pile of junk.}
+{188900}{}{Junk}
+{188901}{}{You're not likely to find anything of value in here.}
+{189000}{}{Things}
+{189001}{}{A lot of junk. Nothing useful in here.}
 {189100}{}{Junk}
-{189101}{}{Бутылки пустые и грязные - поживиться нечем.}
-{189200}{}{Машина}
-{189201}{}{Старый, полуразбитый автомобиль.}
+{189101}{}{Bottles are empty and dirty - nothing to eat.}
+{189200}{}{Car}
+{189201}{}{An old, dilapidated car.}
 {189300}{}{Junk}
-{189301}{}{Бесполезный хлам.}
+{189301}{}{Useless junk.}
 {189400}{}{Junk}
-{189401}{}{Бесполезный хлам.}
-{189500}{}{Полки}
-{189501}{}{Полки с выпивкой.}
-{189600}{}{Полки}
-{189601}{}{Полки с выпивкой.}
+{189401}{}{Useless junk.}
+{189500}{}{Shelves.}
+{189501}{}{Shelves of booze.}
+{189600}{}{Shelves.}
+{189601}{}{Shelves of booze.}
 {189700}{}{Table}
-{189800}{}{Стул}
-{189801}{}{Обычный барный стул.}
-{189900}{}{Хлам}
-{189901}{}{Бесполезный мусор, заботливо накрытый тканью.}
-{190000}{}{Машина}
-{190001}{}{На этом уже никто никуда не поедет.}
-{190100}{}{Машина}
-{190101}{}{Вряд ли его можно починить.}
-{190200}{}{Ограждение}
-{190201}{}{Тряпичная перегородка.}
-{190300}{}{Ограждение}
-{190301}{}{Тряпичная перегородка.}
-{190400}{}{Ограждение}
-{190401}{}{Тряпичная перегородка.}
-{190500}{}{Ограждение}
-{190501}{}{Тряпичная перегородка.}
-{190600}{}{Ограждение}
-{190601}{}{Тряпичная перегородка.}
-{190700}{}{Ограждение}
-{190701}{}{Тряпичная перегородка.}
-{190800}{}{Бочка с землей}
-{190801}{}{В этих бочках переносят плодородную землю.}
-{190900}{}{Бочка с землей}
-{190901}{}{В этих бочках переносят плодородную землю.}
-{191000}{}{Бочки с землей}
-{191001}{}{В этих бочках переносят плодородную землю.}
-{191100}{}{Бочка с землей}
-{191101}{}{В этих бочках переносят плодородную землю.}
-{191200}{}{Бочка с землей}
-{191201}{}{В этих бочках переносят плодородную землю.}
-{191300}{}{Хлам}
-{191301}{}{Вы не найдете там ничего полезного.}
-{191400}{}{Хлам}
-{191401}{}{Бесполезный мусор.}
-{191500}{}{Бочка с землей}
-{191501}{}{В этих бочках переносят плодородную землю.}
-{191600}{}{Лежак}
-{191601}{}{На этом лежаке видимо спали не один год.}
-{191700}{}{Лежак}
-{191701}{}{Кажется, он чем-то воняет.}
-{191800}{}{Лежак}
-{191801}{}{Старый, вонючий лежак.}
-{191900}{}{Тряпье}
-{191901}{}{Спать на этом точно уже невозможно.}
+{189800}{}{Chair.}
+{189801}{}{The usual bar stool.}
+{189900}{}{Junk}
+{189901}{}{Useless garbage, carefully covered with a cloth.}
+{190000}{}{Car}
+{190001}{}{No one's going anywhere with this.}
+{190100}{}{Car}
+{190101}{}{Unlikely to be repairable.}
+{190200}{}{Barrier}
+{190201}{}{Rag partition.}
+{190300}{}{Barrier}
+{190301}{}{Rag partition.}
+{190400}{}{Barrier}
+{190401}{}{Rag partition.}
+{190500}{}{Barrier}
+{190501}{}{Rag partition.}
+{190600}{}{Barrier}
+{190601}{}{Rag partition.}
+{190700}{}{Barrier}
+{190701}{}{Rag partition.}
+{190800}{}{Barrel with soil}
+{190801}{}{These barrels contain fertile soil.}
+{190900}{}{Barrel with soil}
+{190901}{}{These barrels contain fertile soil.}
+{191000}{}{Barrels of earth.}
+{191001}{}{These barrels contain fertile soil.}
+{191100}{}{Barrel with soil}
+{191101}{}{These barrels contain fertile soil.}
+{191200}{}{Barrel with soil}
+{191201}{}{These barrels contain fertile soil.}
+{191300}{}{Junk}
+{191301}{}{You won't find anything useful there.}
+{191400}{}{Junk}
+{191401}{}{A useless pile of junk.}
+{191500}{}{Barrel with soil}
+{191501}{}{These barrels contain fertile soil.}
+{191600}{}{Bed}
+{191601}{}{This recliner must have been slept on for more than a year.}
+{191700}{}{Bed}
+{191701}{}{It seems to stink of something.}
+{191800}{}{Bed}
+{191801}{}{It's an old, stinking bed.}
+{191900}{}{Rags}
+{191901}{}{Sleeping on it is definitely no longer possible.}
 {192000}{}{Floor}
 {192100}{}{Floor}
 {192200}{}{Floor}
-{192300}{}{Дверь}
-{192400}{}{Дверь}
+{192300}{}{Door}
+{192400}{}{Door}
 {192500}{}{Table}
-{192501}{}{На удивление довольно чистый стол.}
+{192501}{}{Surprisingly clean enough table.}
 {192600}{}{Table}
-{192601}{}{Самый обычный стол с каким-то подобием скатерти.}
+{192601}{}{The most ordinary table with some kind of tablecloth.}
 {192700}{}{Table}
-{192701}{}{Обычный стол с остатками былого пиршества.}
+{192701}{}{An ordinary table with remnants of a former feast.}
 {192800}{}{Table}
-{192801}{}{Просто стол, ничего необычного.}
+{192801}{}{Just a table, nothing unusual.}
 {192900}{}{Table}
-{192901}{}{Бутылки треснули, ничего интересного.}
-{193000}{}{Бак}
-{193001}{}{Бак с запасами воды.}
-{193100}{}{Стол аренщика}
-{193101}{}{Здесь можно узнать больше про бои на арене.}
-{193200}{}{Кости}
-{193201}{}{Человеческие кости.}
-{193300}{}{Кости}
-{193301}{}{Человеческие кости. Этот бедняга умер много лет назад.}
-{193400}{}{Кости}
-{193401}{}{Когда-то давно это было человеком.}
-{193500}{}{Растение}
-{193501}{}{Живое зеленое травянистое растение.}
-{193600}{}{Растение}
-{193601}{}{Живое зеленое травянистое растение.}
-{193700}{}{Растение}
-{193701}{}{Живое зеленое травянистое растение.}
-{193800}{}{Растение}
-{193801}{}{Живое зеленое травянистое растение.}
-{193900}{}{Растение}
-{193901}{}{Живое зеленое травянистое растение.}
-{194000}{}{Шест}
-{194001}{}{Шест для стриптиза.}
-{194100}{}{Вход}
-{194200}{}{Здание}
-{194201}{}{Здание завода.}
-{194300}{}{Здание}
-{194301}{}{Здание завода.}
-{194400}{}{Хлам}
-{194401}{}{Бесполезный мусор.}
-{194500}{}{Коробка}
-{194501}{}{В ней совершенно ничего интересного.}
-{194600}{}{Ящик}
-{194601}{}{Ничем непримечательный ящик.}
-{194700}{}{Лист железа}
-{194701}{}{Бесполезный мусор.}
-{194800}{}{Лист железа}
-{194801}{}{Это Вам не пригодится.}
-{194900}{}{Лист железа}
-{194901}{}{Бесполезный мусор.}
-{195000}{}{Лист железа}
-{195001}{}{Это Вам не пригодится.}
-{195100}{}{Выгребная яма}
-{195101}{}{Отличное решение, когда нет возможности провести центральную канализацию.}
-{195200}{}{Выгребная яма}
-{195201}{}{Отличное решение, когда нет возможности провести центральную канализацию.}
-{195300}{}{Выгребная яма}
-{195301}{}{Отличное решение, когда нет возможности провести центральную канализацию.}
-{195400}{}{Выгребная яма}
-{195401}{}{Отличное решение, когда нет возможности провести центральную канализацию.}
+{192901}{}{Bottles cracked, nothing interesting.}
+{193000}{}{Tank}
+{193001}{}{A tank of water.}
+{193100}{}{The Arena Warden's table.}
+{193101}{}{Here you can learn more about the fights in the arena.}
+{193200}{}{Bones}
+{193201}{}{Human bones.}
+{193300}{}{Bones}
+{193301}{}{Human bones. This poor man died many years ago.}
+{193400}{}{Bones}
+{193401}{}{It was a human once.}
+{193500}{}{Plant}
+{193501}{}{A living green herbaceous plant.}
+{193600}{}{Plant}
+{193601}{}{A living green herbaceous plant.}
+{193700}{}{Plant}
+{193701}{}{A living green herbaceous plant.}
+{193800}{}{Plant}
+{193801}{}{A living green herbaceous plant.}
+{193900}{}{Plant}
+{193901}{}{A living green herbaceous plant.}
+{194000}{}{Pole}
+{194001}{}{A stripping pole.}
+{194100}{}{Entrance}
+{194200}{}{The building}
+{194201}{}{Factory building.}
+{194300}{}{The building}
+{194301}{}{Factory building.}
+{194400}{}{Junk}
+{194401}{}{A useless pile of junk.}
+{194500}{}{Box}
+{194501}{}{There is absolutely nothing interesting about it.}
+{194600}{}{Crate}
+{194601}{}{An unremarkable box.}
+{194700}{}{A sheet of iron.}
+{194701}{}{A useless pile of junk.}
+{194800}{}{A sheet of iron.}
+{194801}{}{That won't do you any good.}
+{194900}{}{A sheet of iron.}
+{194901}{}{A useless pile of junk.}
+{195000}{}{A sheet of iron.}
+{195001}{}{That won't do you any good.}
+{195100}{}{A cesspool}
+{195101}{}{A great solution when you can't afford a central sewer.}
+{195200}{}{A cesspool}
+{195201}{}{A great solution when you can't afford a central sewer.}
+{195300}{}{A cesspool}
+{195301}{}{A great solution when you can't afford a central sewer.}
+{195400}{}{A cesspool}
+{195401}{}{A great solution when you can't afford a central sewer.}
 {195500}{}{Table}
-{195501}{}{Обыкновенный стол.}
+{195501}{}{A simple table.}
 {195600}{}{Table}
-{195601}{}{Обыкновенный стол.}
-{195700}{}{Скалы}
-{195701}{}{Выглядят неприступными.}
-{195800}{}{Скалы}
-{195801}{}{Выглядят неприступными.}
-{195900}{}{Скалы}
-{195901}{}{Выглядят неприступными.}
-{196000}{}{Скалы}
-{196001}{}{Выглядят неприступными.}
-{196100}{}{Скалы}
-{196101}{}{Выглядят неприступными.}
-{196200}{}{Трибуна}
-{196201}{}{Кафедра для оратора.}
-{196300}{}{Экран}
-{196400}{}{Печь}
-{196401}{}{Отопительно-варочная печь.}
-{196500}{}{Печь}
-{196501}{}{Отопительно-варочная печь.}
-{196600}{}{Плитка}
-{196700}{}{Плитка}
-{196800}{}{Плитка}
-{196900}{}{Плитка}
-{197000}{}{Плитка}
-{197100}{}{Плитка}
-{197200}{}{Камни}
-{197201}{}{Просто куча камней.}
-{197300}{}{Камни}
-{197301}{}{Просто куча камней.}
-{197400}{}{Камни}
-{197401}{}{Просто куча камней.}
-{197500}{}{Балка}
-{197501}{}{Опорная балка туннеля.}
-{197600}{}{Балка}
-{197601}{}{Опорная балка туннеля.}
-{197700}{}{Балка}
-{197701}{}{Опорная балка туннеля.}
-{197800}{}{Балка}
-{197801}{}{Опорная балка туннеля.}
-{197900}{}{Балка}
-{197901}{}{Опорная балка туннеля.}
-{198000}{}{Балка}
-{198001}{}{Опорная балка туннеля.}
-{198100}{}{Балка}
-{198101}{}{Опорная балка туннеля.}
-{198200}{}{Балка}
-{198201}{}{Опорная балка туннеля.}
-{198300}{}{Балка}
-{198301}{}{Опорная балка туннеля.}
-{198400}{}{Камни}
-{198401}{}{Не время собирать камни.}
-{198500}{}{Камни}
-{198501}{}{Не время собирать камни.}
-{198600}{}{Камни}
-{198601}{}{Просто куча камней.}
-{198700}{}{Камни}
-{198701}{}{Просто куча камней.}
-{198800}{}{Коробка}
-{198801}{}{Пустая старая коробка. Не представляет никакого интереса.}
+{195601}{}{A simple table.}
+{195700}{}{Rocks}
+{195701}{}{Look impregnable.}
+{195800}{}{Rocks}
+{195801}{}{Look impregnable.}
+{195900}{}{Rocks}
+{195901}{}{Look impregnable.}
+{196000}{}{Rocks}
+{196001}{}{Look impregnable.}
+{196100}{}{Rocks}
+{196101}{}{Look impregnable.}
+{196200}{}{Tribune}
+{196201}{}{A speaker's pulpit.}
+{196300}{}{Screen}
+{196400}{}{Stove}
+{196401}{}{A heating and cooking stove.}
+{196500}{}{Stove}
+{196501}{}{A heating and cooking stove.}
+{196600}{}{Tile}
+{196700}{}{Tile}
+{196800}{}{Tile}
+{196900}{}{Tile}
+{197000}{}{Tile}
+{197100}{}{Tile}
+{197200}{}{Stones}
+{197201}{}{Just a pile of stones.}
+{197300}{}{Stones}
+{197301}{}{Just a pile of stones.}
+{197400}{}{Stones}
+{197401}{}{Just a pile of stones.}
+{197500}{}{Beam}
+{197501}{}{The support beam of the tunnel.}
+{197600}{}{Beam}
+{197601}{}{The support beam of the tunnel.}
+{197700}{}{Beam}
+{197701}{}{The support beam of the tunnel.}
+{197800}{}{Beam}
+{197801}{}{The support beam of the tunnel.}
+{197900}{}{Beam}
+{197901}{}{The support beam of the tunnel.}
+{198000}{}{Beam}
+{198001}{}{The support beam of the tunnel.}
+{198100}{}{Beam}
+{198101}{}{The support beam of the tunnel.}
+{198200}{}{Beam}
+{198201}{}{The support beam of the tunnel.}
+{198300}{}{Beam}
+{198301}{}{The support beam of the tunnel.}
+{198400}{}{Stones}
+{198401}{}{No time to gather stones.}
+{198500}{}{Stones}
+{198501}{}{No time to gather stones.}
+{198600}{}{Stones}
+{198601}{}{Just a pile of stones.}
+{198700}{}{Stones}
+{198701}{}{Just a pile of stones.}
+{198800}{}{Box}
+{198801}{}{Empty old box. Not of any interest.}
 {198900}{}{Junk}
-{198901}{}{Бесполезный хлам.}
+{198901}{}{Useless junk.}
 {199000}{}{Junk}
-{199001}{}{Это Вам не пригодится.}
+{199001}{}{That won't do you any good.}
 {199100}{}{Junk}
-{199101}{}{Это Вам не пригодится.}
+{199101}{}{That won't do you any good.}
 {199200}{}{Junk}
-{199201}{}{Бесполезный хлам.}
-{199300}{}{Хлам}
-{199301}{}{Это вряд ли кому-то сможет пригодиться.}
-{199400}{}{Хлам}
-{199401}{}{Это Вам не пригодится.}
-{199500}{}{Хлам}
-{199501}{}{Бесполезный мусор.}
-{199600}{}{Хлам}
-{199601}{}{Это Вам не пригодится.}
-{199700}{}{Хлам}
-{199701}{}{Бесполезный мусор.}
-{199800}{}{Хлам}
-{199801}{}{Это Вам не пригодится.}
-{199900}{}{Хлам}
-{199901}{}{Бесполезный мусор.}
-{200000}{}{Хлам}
-{200001}{}{Бесполезный мусор.}
-{200100}{}{Хлам}
-{200101}{}{Это Вам не пригодится.}
-{200200}{}{Генератор}
-{200201}{}{Устройство, вырабатывающее электроэнергию.}
-{200300}{}{Генератор}
-{200301}{}{Устройство, вырабатывающее электроэнергию.}
-{200400}{}{Насос}
-{200401}{}{Гидравлическая машина.}
-{200500}{}{Труба}
-{200501}{}{Уходящая в землю труба.}
-{200600}{}{Труба}
-{200601}{}{Уходящая в землю труба.}
-{200700}{}{Хлам}
-{200701}{}{Бесполезный мусор.}
-{200800}{}{Хлам}
-{200801}{}{Бесполезный мусор.}
-{200900}{}{НЕТ}
+{199201}{}{Useless junk.}
+{199300}{}{Junk}
+{199301}{}{Unlikely to be of any use to anyone.}
+{199400}{}{Junk}
+{199401}{}{That won't do you any good.}
+{199500}{}{Junk}
+{199501}{}{A useless pile of junk.}
+{199600}{}{Junk}
+{199601}{}{That won't do you any good.}
+{199700}{}{Junk}
+{199701}{}{A useless pile of junk.}
+{199800}{}{Junk}
+{199801}{}{That won't do you any good.}
+{199900}{}{Junk}
+{199901}{}{A useless pile of junk.}
+{200000}{}{Junk}
+{200001}{}{A useless pile of junk.}
+{200100}{}{Junk}
+{200101}{}{That won't do you any good.}
+{200200}{}{Generator}
+{200201}{}{A device that generates electricity.}
+{200300}{}{Generator}
+{200301}{}{A device that generates electricity.}
+{200400}{}{Pump}
+{200401}{}{A hydraulic machine.}
+{200500}{}{Pipe}
+{200501}{}{A pipe going into the ground.}
+{200600}{}{Pipe}
+{200601}{}{A pipe going into the ground.}
+{200700}{}{Junk}
+{200701}{}{A useless pile of junk.}
+{200800}{}{Junk}
+{200801}{}{A useless pile of junk.}
+{200900}{}{NO}
 {201000}{}{a food machine}
-{201001}{}{When you press the button with a "Risotto" label on it, the machine spits out a suspiciosly green slimey lump.}
+{201001}{}{When you press the button with a "Risotto" label on it, the machine spits out a suspiciously green slimy lump.}
 {201100}{}{a food machine}
 {201101}{}{When you press the button with a "Shrimp flambe" label on it, the machine spews out three gooey blobs. Tastes like chewed boogers.}
 {201200}{}{a clothing machine}
@@ -3677,925 +3677,925 @@
 {201301}{}{When you press the button with a "Tortilla" label on it, the machine spits out a soggy clump. Smells like an old sock.}
 {201400}{}{a food machine}
 {201401}{}{When you press the button with a "Brownie" label on it, the machine spews out an odorless and tasteless slurred mush.}
-{201500}{}{Доска}
-{201501}{}{Самая обычная доска. Вряд ли она вам может пригодиться.}
-{201600}{}{Доска}
-{201601}{}{Самая обычная доска. Вряд ли она вам может пригодиться.}
-{201700}{}{Доска}
-{201701}{}{Самая обычная доска. Вряд ли она вам может пригодиться.}
-{201800}{}{Доска}
-{201801}{}{Самая обычная доска. Вряд ли она вам может пригодиться.}
-{201900}{}{Доска}
-{201901}{}{Самая обычная доска. Вряд ли она вам может пригодиться.}
-{202000}{}{Растение}
-{202001}{}{Отличный представитель herba vulgaris.}
-{202100}{}{Растение}
-{202101}{}{Отличный представитель herba vulgaris.}
-{202200}{}{Растение}
-{202201}{}{Какое-то пустынное растение.}
-{202300}{}{Растение}
-{202301}{}{Отличный представитель herba vulgaris.}
-{202400}{}{Растение}
-{202401}{}{Какое-то пустынное растение.}
-{202500}{}{Растение}
-{202501}{}{Отличный представитель herba vulgaris.}
-{202600}{}{Растение}
-{202601}{}{Какое-то пустынное растение.}
-{202700}{}{Растение}
-{202701}{}{Отличный представитель herba vulgaris.}
-{202800}{}{Растение}
-{202801}{}{Отличный представитель herba vulgaris.}
-{202900}{}{Растение}
-{202901}{}{Какое-то пустынное растение.}
-{203000}{}{Растение}
-{203001}{}{Какое-то пустынное растение.}
-{203100}{}{Растение}
-{203101}{}{Отличный представитель herba vulgaris.}
-{203200}{}{Растение}
-{203201}{}{Какое-то пустынное растение.}
-{203300}{}{Растение}
-{203301}{}{Отличный представитель herba vulgaris.}
-{203400}{}{Растение}
-{203401}{}{Какое-то пустынное растение.}
-{203500}{}{Растение}
-{203501}{}{Какое-то пустынное растение.}
-{203600}{}{Лист металла}
-{203601}{}{Ржавый и очень тяжелый.}
-{203700}{}{Лист металла}
-{203701}{}{Ржавый и очень тяжелый.}
-{203800}{}{Растение}
-{203801}{}{Отличный представитель herba vulgaris.}
-{203900}{}{Растение}
-{203901}{}{Отличный представитель herba vulgaris.}
-{204000}{}{Флюгер}
-{204001}{}{Флажки, показывающие направление ветра.}
-{204100}{}{Кол с черепом}
-{204101}{}{Вам бы очень не хотелось закончить так же.}
-{204200}{}{Кол с черепом}
-{204201}{}{Устрашающий знак.}
-{204300}{}{Кол с черепом}
-{204301}{}{Вы присматриваетесь повнимательнее, кажется, у этого бедолаги был кариес.}
-{204400}{}{Кол с черепом}
-{204401}{}{В этом черепе кто-то поселился.}
-{204500}{}{Кол с черепом}
-{204501}{}{Вы смотрите на череп и в голове возникает мысль: "Быть или не быть?".}
-{204600}{}{Кол с черепом}
-{204601}{}{Его пустые глазницы как будто следят за Вами.}
-{204700}{}{Флюгер}
-{204701}{}{Флажки, показывающие направление ветра.}
-{204800}{}{Растение}
-{204801}{}{Какое-то пустынное растение.}
-{204900}{}{Растение}
-{204901}{}{Какое-то пустынное растение.}
-{205000}{}{Трава}
-{205001}{}{Живая зеленая трава, Вы с трудом удерживаетесь от искушения пожевать травинку.}
-{205100}{}{Трава}
-{205101}{}{Живая зеленая трава, Вы с трудом удерживаетесь от искушения пожевать травинку.}
-{205200}{}{Растение}
-{205201}{}{Живое травянистое зеленое растение.}
-{205300}{}{Кол}
-{205301}{}{Его старательно заостренный конец побуждает в Вас сильное желание сохранить голову на плечах.}
-{205400}{}{Кол}
-{205401}{}{Вы, кажется, догадываетесь о его предназначении.}
-{205500}{}{Кол}
-{205501}{}{Вам бы очень не хотелось украсить своим черепом этот замечательный кол.}
-{205600}{}{Кол}
-{205601}{}{Вы, кажется, догадываетесь о его предназначении.}
-{205700}{}{Кол}
-{205701}{}{Вам кажется, что на этом коле определенно чего-то не хватает.}
-{205800}{}{Кол}
-{205801}{}{Острый. Выглядит угрожающе.}
-{205900}{}{Кол}
-{205901}{}{Кто-то явно постарался, затачивая его.}
-{206000}{}{Кол}
-{206001}{}{Острый. Выглядит угрожающе.}
-{206100}{}{Кол}
-{206101}{}{Такой легко может Вас проткнуть.}
-{206200}{}{Кол}
-{206201}{}{Острый. Выглядит угрожающе.}
-{206300}{}{Кровь}
-{206301}{}{Пятно засохшей крови. }
-{206400}{}{Кровь}
-{206401}{}{Пятно засохшей крови.}
-{206500}{}{Кровь}
-{206501}{}{Выглядит довольно старой.}
-{206600}{}{Кровь}
-{206601}{}{Пятно засохшей крови.}
-{206700}{}{Кровь}
-{206701}{}{Уже высохла и впиталась.}
-{206800}{}{Флюгер}
-{206801}{}{Флажок показывает направление ветра.}
-{206900}{}{Кровь}
-{206901}{}{Интересно, чья эта кровь.}
-{207000}{}{Кровь}
-{207001}{}{Этим останкам уже несколько дней, запах соответствующий.}
-{207100}{}{Кровь}
-{207101}{}{Эти останки сильно смердят.}
-{207200}{}{Кровь}
-{207201}{}{Кому-то тут очень не повезло.}
-{207300}{}{Кровь}
-{207301}{}{Вы видите перед собой чей-то внутренний мир, причем не первой свежести.}
-{207400}{}{Чучело для битья}
-{207401}{}{Лучше пусть тренируют приемы на нем, чем на живых людях.}
-{207500}{}{Чучело для битья}
-{207501}{}{Ну и морда у него - действительно хочется врезать!}
-{207600}{}{Чучело для битья}
-{207601}{}{Отличный самодельный манекен для тренировок.}
-{207700}{}{Чучело для битья}
-{207701}{}{Заменяет боксерскую грушу.}
-{207800}{}{Чучело для битья}
-{207801}{}{Похоже ему часто достается.}
-{207900}{}{Чучело для битья}
-{207901}{}{Меньше всего на свете Вы бы хотели оказаться на его месте.}
-{208000}{}{Забитая дверь.}
-{208001}{}{Выход заблокирован.}
-{208100}{}{Скала}
-{208101}{}{Выглядит неприступной.}
-{208200}{}{Плакат}
-{208201}{}{Выцветший довоенный плакат.}
-{208300}{}{Плакат}
-{208301}{}{Выцветший довоенный плакат.}
-{208400}{}{Плакат}
-{208401}{}{Этому плакату не менее 200 лет. Люди тогда знали толк в изготовлении крепких плакатов.}
-{208500}{}{Плакат}
-{208501}{}{Выцветший довоенный плакат.}
-{208600}{}{Плакат}
-{208601}{}{Вам нравится смотреть на старые плакаты. Они хранят историю.}
-{208700}{}{Плакат}
-{208701}{}{Неужели эта агитация кого-то воодушевляла?}
-{208800}{}{Плакат}
-{208801}{}{Выцветший довоенный плакат.}
-{208900}{}{Плакат}
-{208901}{}{Неужели эта агитация кого-то воодушевляла?}
-{209000}{}{Плакат}
-{209001}{}{Выцветший довоенный плакат.}
-{209100}{}{Плакат}
-{209101}{}{Выцветший довоенный плакат.}
-{209200}{}{Плакат}
-{209201}{}{Неужели эта агитация кого-то воодушевляла?}
-{209300}{}{Плакат}
-{209301}{}{Этому плакату не менее 200 лет. Люди тогда знали толк в изготовлении крепких плакатов.}
-{209400}{}{Плакат}
-{209401}{}{Человек с плаката умер уже очень давно.}
-{209500}{}{Плакат}
-{209501}{}{Это похоже на рекламу фильма, очень жаль, что о кино Вы читали только в книжках.}
-{209600}{}{Плакат}
-{209601}{}{Этому плакату не менее 200 лет. Люди тогда знали толк в изготовлении крепких плакатов.}
-{209700}{}{Плакат}
-{209701}{}{Довоенный агитационный плакат.}
-{209800}{}{Плакат}
-{209801}{}{Довоенный агитационный плакат.}
-{209900}{}{Плакат}
-{209901}{}{Этому плакату не менее 200 лет. Люди тогда знали толк в изготовлении крепких плакатов.}
-{210000}{}{Плакат}
-{210001}{}{Жаль Вы не коллекционируете старинные плакаты - это прекрасный экземпляр.}
-{210100}{}{Плакат}
-{210101}{}{Этому плакату не менее 200 лет. Люди тогда знали толк в изготовлении крепких плакатов.}
-{210200}{}{Плакат}
-{210201}{}{Очень старый поблекший плакат.}
-{210300}{}{Плакат}
-{210301}{}{Старинный выцветший плакат.}
-{210400}{}{Плакат}
-{210401}{}{Жаль Вы не коллекционируете старинные плакаты - это прекрасный экземпляр.}
-{210500}{}{Плакат}
-{210501}{}{Ему же не менее 200 лет. Как хорошо сохранился.}
-{210600}{}{Плакат}
-{210601}{}{Выцветший довоенный плакат.}
-{210700}{}{Плакат}
-{210701}{}{Выцветший довоенный плакат.}
-{210800}{}{Кости}
-{210801}{}{Несколько чьих-то костей.}
-{210900}{}{Кости}
-{210901}{}{Кажется это ребра.}
-{211000}{}{Кости}
-{211001}{}{Когда-нибудь и вы так закончите. Тщетно бытие.}
-{211100}{}{Кости}
-{211101}{}{Когда-нибудь и вы так закончите. Тщетно бытие.}
-{211200}{}{Кости}
-{211201}{}{Несколько чьих-то костей.}
-{211300}{}{Кости}
-{211301}{}{Несколько чьих-то костей.}
-{211400}{}{Кости}
-{211401}{}{Когда-нибудь и вы так закончите. Тщетно бытие.}
-{211500}{}{Кости}
-{211501}{}{Когда-то это было чем-то живым.}
-{211600}{}{Кости}
-{211601}{}{Несколько чьих-то костей.}
-{211700}{}{Кости}
-{211701}{}{Когда-то это было чем-то живым.}
-{211800}{}{Растение}
-{211801}{}{Какое-то пустынное растение.}
-{211900}{}{Растение}
-{211901}{}{Какое-то пустынное растение.}
-{212000}{}{Растение}
-{212001}{}{Какое-то пустынное растение.}
-{212100}{}{Растение}
-{212101}{}{Какое-то пустынное растение.}
-{212200}{}{Растение}
-{212201}{}{Какое-то пустынное растение.}
-{212300}{}{Растение}
-{212301}{}{Какое-то пустынное растение.}
-{212400}{}{Растение}
-{212401}{}{Какое-то пустынное растение.}
-{212500}{}{Растение}
-{212501}{}{Какое-то пустынное растение.}
-{212600}{}{Растение}
-{212601}{}{Какое-то пустынное растение.}
-{212700}{}{Растение}
-{212701}{}{Какое-то пустынное растение.}
-{212800}{}{Растение}
-{212801}{}{Какое-то пустынное растение.}
-{212900}{}{Растение}
-{212901}{}{Какое-то пустынное растение.}
-{213000}{}{Растение}
-{213001}{}{Какое-то пустынное растение.}
-{213100}{}{Кости}
-{213101}{}{От Вас останется ненамного больше.}
-{213200}{}{Кости}
-{213201}{}{Несколько чьих-то костей.}
-{213300}{}{Кости}
-{213301}{}{От Вас останется ненамного больше.}
-{213400}{}{Кости}
-{213401}{}{Обычные кости, их здесь много.}
-{213500}{}{Кости}
-{213501}{}{Кто-то умер.}
-{213600}{}{Кости}
-{213601}{}{Кто-то умер.}
-{213700}{}{Кости}
-{213701}{}{Совсем старые кости.}
-{213800}{}{Кости}
-{213801}{}{Это кости редчайшего вымершего животного. Жаль, что Вы не коллекционируете кости.}
-{213900}{}{Кости}
-{213901}{}{Несколько чьих-то костей.}
-{214000}{}{Кости}
-{214001}{}{Очень старые кости.}
-{214100}{}{Кол}
-{214101}{}{Острый. Выглядит угрожающе.}
-{214200}{}{Кол}
-{214201}{}{Острый. Выглядит угрожающе.}
-{214300}{}{Кол}
-{214301}{}{Заостренный с одного конца шест.}
-{214400}{}{Кол}
-{214401}{}{Острый. Выглядит угрожающе.}
-{214500}{}{Кол}
-{214501}{}{Острый. Выглядит угрожающе.}
-{214600}{}{Кол}
-{214601}{}{Острый. Выглядит угрожающе.}
-{214700}{}{Кол}
-{214701}{}{Таким и проткнуть можно.}
-{214800}{}{Кол}
-{214801}{}{Таким и проткнуть можно.}
-{214900}{}{Сломанный кол}
-{215000}{}{Сломанный кол}
-{215100}{}{Кровь}
-{215101}{}{Это старая засохшая кровь.}
-{215200}{}{Кровь}
-{215201}{}{Мама всегда Вам говорила, что эта жидкость должна быть ВНУТРИ, а не снаружи.}
-{215300}{}{Кровь}
-{215301}{}{Кровь и песок.}
-{215400}{}{Кровь}
-{215401}{}{Пятно засохшей крови.}
-{215500}{}{Кровь}
-{215501}{}{Пятно засохшей крови.}
-{215600}{}{Кровь}
-{215601}{}{Пятно засохшей крови.}
-{215700}{}{Кровь}
-{215701}{}{Интересно, чья это кровь.}
-{215800}{}{Кровь}
-{215801}{}{Пятно засохшей крови.}
-{215900}{}{Кровь}
-{215901}{}{Пятно засохшей крови.}
-{216000}{}{Кровь}
-{216001}{}{Пятно засохшей крови.}
-{216100}{}{Кости}
-{216101}{}{Это кости редчайшего вымершего животного. Жаль, что Вы не коллекционируете кости.}
-{216200}{}{Кости}
-{216201}{}{Кто-то умер.}
-{216300}{}{Кости}
-{216301}{}{Вряд ли эти кости представляют для Вас какой-то интерес, если Вы, конечно, не остеолог.}
-{216400}{}{Череп}
-{216401}{}{Похоже, это было какой-то зверушкой.}
-{216500}{}{Кости}
-{216501}{}{Кажется они очень хрупкие.}
-{216600}{}{Кровь}
-{216601}{}{Пятно засохшей крови.}
-{216700}{}{Кровь}
-{216701}{}{Красная кровь, белые кости - прекрасное сочетание цветов.}
-{216800}{}{Кровь}
-{216801}{}{Интересно, кому эта кровь принадлежала.}
-{216900}{}{Кровь}
-{216901}{}{Пятно засохшей крови.}
-{217000}{}{Кровь}
-{217001}{}{Интересно, кому эта кровь принадлежала.}
-{217100}{}{Хижина}
-{217101}{}{От нее разит кровью и мочой.}
-{217200}{}{Хижина}
-{217201}{}{А на пустынных берегах стоят жилища здесь и там, приют убогого аборигена.}
-{217300}{}{Хижина}
-{217301}{}{Вам совсем не хочется туда заходить.}
-{217400}{}{Хижина}
-{217401}{}{Сооружение из дерева и сухой травы.}
-{217500}{}{Растение}
-{217501}{}{Какое-то пустынное растение.}
-{217600}{}{Растение}
-{217601}{}{Какое-то пустынное растение.}
-{217700}{}{Растение}
-{217701}{}{Какое-то пустынное растение.}
-{217800}{}{Растение}
-{217801}{}{Какое-то пустынное растение.}
-{217900}{}{Растение}
-{217901}{}{Какое-то пустынное растение.}
-{218000}{}{Растение}
-{218001}{}{Какое-то пустынное растение.}
-{218100}{}{Растение}
-{218101}{}{Какое-то пустынное растение.}
-{218200}{}{Растение}
-{218201}{}{Какое-то пустынное растение.}
-{218300}{}{Растение}
-{218301}{}{Какое-то пустынное растение.}
-{218400}{}{Растение}
-{218401}{}{Какое-то пустынное растение.}
-{218500}{}{Улов}
-{218501}{}{Крупная здесь рыба! Выглядит вполне съедобной.}
-{218600}{}{Дерево}
-{218601}{}{Ствол иссохшего дерева.}
-{218700}{}{Дерево}
-{218701}{}{Этому дереву уже не помочь.}
-{218800}{}{Дерево}
-{218801}{}{Это дерево похоже на морковку. Старую сухую серую морковку.}
-{218900}{}{Дерево}
-{218901}{}{Эти сухие ветви навевают уныние.}
-{219000}{}{Дерево}
-{219001}{}{Сухой сломанный ствол иссохшего дерева.}
-{219100}{}{Вывеска}
-{219101}{}{"Еда, вода" - похоже тут можно перекусить!}
-{219200}{}{Бильярдный стол}
-{219201}{}{Вы не очень понимаете как на нем играть, но ткань на столе выглядит очень потертой.}
-{219300}{}{Бильярдный стол}
-{219301}{}{Цветные шарики на столе выглядят забавно, жаль вы не умеете в это играть.}
-{219400}{}{Панель экранов}
-{219401}{}{К сожалению она выключена. Посмотреть на такую в деле было бы крайне любопытно.}
+{201500}{}{Board}
+{201501}{}{It's just an ordinary board. You can hardly use it.}
+{201600}{}{Board}
+{201601}{}{It's just an ordinary board. You can hardly use it.}
+{201700}{}{Board}
+{201701}{}{It's just an ordinary board. You can hardly use it.}
+{201800}{}{Board}
+{201801}{}{It's just an ordinary board. You can hardly use it.}
+{201900}{}{Board}
+{201901}{}{It's just an ordinary board. You can hardly use it.}
+{202000}{}{Plant}
+{202001}{}{An excellent representative of Herba Vulgaris.}
+{202100}{}{Plant}
+{202101}{}{An excellent representative of Herba Vulgaris.}
+{202200}{}{Plant}
+{202201}{}{Some kind of desert plant.}
+{202300}{}{Plant}
+{202301}{}{An excellent representative of Herba Vulgaris.}
+{202400}{}{Plant}
+{202401}{}{Some kind of desert plant.}
+{202500}{}{Plant}
+{202501}{}{An excellent representative of Herba Vulgaris.}
+{202600}{}{Plant}
+{202601}{}{Some kind of desert plant.}
+{202700}{}{Plant}
+{202701}{}{An excellent representative of Herba Vulgaris.}
+{202800}{}{Plant}
+{202801}{}{An excellent representative of Herba Vulgaris.}
+{202900}{}{Plant}
+{202901}{}{Some kind of desert plant.}
+{203000}{}{Plant}
+{203001}{}{Some kind of desert plant.}
+{203100}{}{Plant}
+{203101}{}{An excellent representative of Herba Vulgaris.}
+{203200}{}{Plant}
+{203201}{}{Some kind of desert plant.}
+{203300}{}{Plant}
+{203301}{}{An excellent representative of Herba Vulgaris.}
+{203400}{}{Plant}
+{203401}{}{Some kind of desert plant.}
+{203500}{}{Plant}
+{203501}{}{Some kind of desert plant.}
+{203600}{}{Metal sheet}
+{203601}{}{Rusty and very heavy.}
+{203700}{}{Metal sheet}
+{203701}{}{Rusty and very heavy.}
+{203800}{}{Plant}
+{203801}{}{An excellent representative of Herba Vulgaris.}
+{203900}{}{Plant}
+{203901}{}{An excellent representative of Herba Vulgaris.}
+{204000}{}{Weather vane}
+{204001}{}{Flags are showing wind direction.}
+{204100}{}{A stake with a skull.}
+{204101}{}{You really wouldn't want to end up like that.}
+{204200}{}{A stake with a skull.}
+{204201}{}{A frightening sign.}
+{204300}{}{A stake with a skull.}
+{204301}{}{You take a closer look. Looks like this poor guy had cavities.}
+{204400}{}{A stake with a skull.}
+{204401}{}{Someone has taken up residence in this skull.}
+{204500}{}{A stake with a skull.}
+#Н/Д
+{204600}{}{A stake with a skull.}
+{204601}{}{Its empty eye sockets seem to be watching you.}
+{204700}{}{Weather vane}
+{204701}{}{Flags are showing wind direction.}
+{204800}{}{Plant}
+{204801}{}{Some kind of desert plant.}
+{204900}{}{Plant}
+{204901}{}{Some kind of desert plant.}
+{205000}{}{Grass}
+{205001}{}{A living green grass. You can hardly resist the temptation to chew on a blade of grass.}
+{205100}{}{Grass}
+{205101}{}{A living green grass. You can hardly resist the temptation to chew on a blade of grass.}
+{205200}{}{Plant}
+{205201}{}{A living herbaceous green plant.}
+{205300}{}{Stake}
+{205301}{}{Its diligently pointed end prompts in you a strong desire to keep your head on your shoulders.}
+{205400}{}{Stake}
+{205401}{}{You seem to guess its purpose.}
+{205500}{}{Stake}
+{205501}{}{You would hate to decorate your skull with this wonderful stake.}
+{205600}{}{Stake}
+{205601}{}{You seem to guess its purpose.}
+{205700}{}{Stake}
+{205701}{}{It seems to you that there is definitely something missing on this stake.}
+{205800}{}{Stake}
+{205801}{}{It's sharp. Looks menacing.}
+{205900}{}{Stake}
+{205901}{}{Someone obviously went through a lot of trouble to sharpen it.}
+{206000}{}{Stake}
+{206001}{}{It's sharp. Looks menacing.}
+{206100}{}{Stake}
+{206101}{}{It could easily stab you.}
+{206200}{}{Stake}
+{206201}{}{It's sharp. Looks menacing.}
+{206300}{}{Blood}
+{206301}{}{Dried bloody stain.}
+{206400}{}{Blood}
+{206401}{}{Dried bloody stain.}
+{206500}{}{Blood}
+{206501}{}{Looks pretty old.}
+{206600}{}{Blood}
+{206601}{}{Dried bloody stain.}
+{206700}{}{Blood}
+{206701}{}{Already dried and soaked.}
+{206800}{}{Weather vane}
+{206801}{}{The flag shows the direction of the wind.}
+{206900}{}{Blood}
+{206901}{}{You wonder whose blood this is.}
+{207000}{}{Blood}
+{207001}{}{These remains are several days old and smell like it.}
+{207100}{}{Blood}
+{207101}{}{These remains stink a lot.}
+{207200}{}{Blood}
+{207201}{}{Somebody was very unlucky.}
+{207300}{}{Blood}
+{207301}{}{You're looking at someone's inner world, and it's not the freshest.}
+{207400}{}{A thing to practice beating.}
+{207401}{}{It's better to practice moves on it than on real people.}
+{207500}{}{A thing to practice beating.}
+{207501}{}{What a face! You really want to punch it!}
+{207600}{}{A thing to practice beating.}
+{207601}{}{A great homemade mannequin for training.}
+{207700}{}{A thing to practice beating.}
+{207701}{}{Replaces the punching bag.}
+{207800}{}{A thing to practice beating.}
+{207801}{}{Looks like he gets it a lot.}
+{207900}{}{A thing to practice beating.}
+{207901}{}{The last thing you want in the world is to be in his shoes.}
+{208000}{}{Blocked door.}
+{208001}{}{Exit blocked.}
+{208100}{}{Rock}
+{208101}{}{Looks impregnable.}
+{208200}{}{Poster}
+{208201}{}{A faded prewar poster.}
+{208300}{}{Poster}
+{208301}{}{A faded prewar poster.}
+{208400}{}{Poster}
+{208401}{}{This poster is at least 200 years old. People back then knew how to make sturdy posters.}
+{208500}{}{Poster}
+{208501}{}{A faded prewar poster.}
+{208600}{}{Poster}
+{208601}{}{You like to look at old posters. They preserve history.}
+{208700}{}{Poster}
+{208701}{}{Did this propaganda inspire anyone?}
+{208800}{}{Poster}
+{208801}{}{A faded prewar poster.}
+{208900}{}{Poster}
+{208901}{}{Did this propaganda inspire anyone?}
+{209000}{}{Poster}
+{209001}{}{A faded prewar poster.}
+{209100}{}{Poster}
+{209101}{}{A faded prewar poster.}
+{209200}{}{Poster}
+{209201}{}{Did this propaganda inspire anyone?}
+{209300}{}{Poster}
+{209301}{}{This poster is at least 200 years old. People back then knew how to make sturdy posters.}
+{209400}{}{Poster}
+{209401}{}{The poster man died a long time ago.}
+{209500}{}{Poster}
+{209501}{}{It looks like a movie commercial. Too bad you only read about movies in books.}
+{209600}{}{Poster}
+{209601}{}{This poster is at least 200 years old. People back then knew how to make sturdy posters.}
+{209700}{}{Poster}
+{209701}{}{A pre-war propaganda poster.}
+{209800}{}{Poster}
+{209801}{}{A pre-war propaganda poster.}
+{209900}{}{Poster}
+{209901}{}{This poster is at least 200 years old. People back then knew how to make sturdy posters.}
+{210000}{}{Poster}
+{210001}{}{Too bad you don't collect vintage posters - this is a fine one.}
+{210100}{}{Poster}
+{210101}{}{This poster is at least 200 years old. People back then knew how to make sturdy posters.}
+{210200}{}{Poster}
+{210201}{}{A very old faded poster.}
+{210300}{}{Poster}
+{210301}{}{An old faded poster.}
+{210400}{}{Poster}
+{210401}{}{Too bad you don't collect vintage posters - this is a fine one.}
+{210500}{}{Poster}
+{210501}{}{It's at least 200 years old. Very well-preserved.}
+{210600}{}{Poster}
+{210601}{}{A faded prewar poster.}
+{210700}{}{Poster}
+{210701}{}{A faded prewar poster.}
+{210800}{}{Bones}
+{210801}{}{A handful of someone's bones.}
+{210900}{}{Bones}
+{210901}{}{Looks like ribs.}
+{211000}{}{Bones}
+{211001}{}{You'll end up like this someday. The existence is futile.}
+{211100}{}{Bones}
+{211101}{}{You'll end up like this someday. The existence is futile.}
+{211200}{}{Bones}
+{211201}{}{A handful of someone's bones.}
+{211300}{}{Bones}
+{211301}{}{A handful of someone's bones.}
+{211400}{}{Bones}
+{211401}{}{You'll end up like this someday. The existence is futile.}
+{211500}{}{Bones}
+{211501}{}{It was once something alive.}
+{211600}{}{Bones}
+{211601}{}{A handful of someone's bones.}
+{211700}{}{Bones}
+{211701}{}{It was once something alive.}
+{211800}{}{Plant}
+{211801}{}{Some kind of desert plant.}
+{211900}{}{Plant}
+{211901}{}{Some kind of desert plant.}
+{212000}{}{Plant}
+{212001}{}{Some kind of desert plant.}
+{212100}{}{Plant}
+{212101}{}{Some kind of desert plant.}
+{212200}{}{Plant}
+{212201}{}{Some kind of desert plant.}
+{212300}{}{Plant}
+{212301}{}{Some kind of desert plant.}
+{212400}{}{Plant}
+{212401}{}{Some kind of desert plant.}
+{212500}{}{Plant}
+{212501}{}{Some kind of desert plant.}
+{212600}{}{Plant}
+{212601}{}{Some kind of desert plant.}
+{212700}{}{Plant}
+{212701}{}{Some kind of desert plant.}
+{212800}{}{Plant}
+{212801}{}{Some kind of desert plant.}
+{212900}{}{Plant}
+{212901}{}{Some kind of desert plant.}
+{213000}{}{Plant}
+{213001}{}{Some kind of desert plant.}
+{213100}{}{Bones}
+{213101}{}{There won't be much more left of you.}
+{213200}{}{Bones}
+{213201}{}{A handful of someone's bones.}
+{213300}{}{Bones}
+{213301}{}{There won't be much more left of you.}
+{213400}{}{Bones}
+{213401}{}{Ordinary bones, there's a lot of them.}
+{213500}{}{Bones}
+{213501}{}{Someone's dead.}
+{213600}{}{Bones}
+{213601}{}{Someone's dead.}
+{213700}{}{Bones}
+{213701}{}{Very old bones.}
+{213800}{}{Bones}
+{213801}{}{These are the bones of the rarest extinct animal. Too bad you don't collect bones.}
+{213900}{}{Bones}
+{213901}{}{A handful of someone's bones.}
+{214000}{}{Bones}
+{214001}{}{Very old bones.}
+{214100}{}{Stake}
+{214101}{}{It's sharp. Looks menacing.}
+{214200}{}{Stake}
+{214201}{}{It's sharp. Looks menacing.}
+{214300}{}{Stake}
+{214301}{}{A pole sharpened at one end.}
+{214400}{}{Stake}
+{214401}{}{It's sharp. Looks menacing.}
+{214500}{}{Stake}
+{214501}{}{It's sharp. Looks menacing.}
+{214600}{}{Stake}
+{214601}{}{It's sharp. Looks menacing.}
+{214700}{}{Stake}
+{214701}{}{This one can pierce something.}
+{214800}{}{Stake}
+{214801}{}{This one can pierce something.}
+{214900}{}{A broken stake.}
+{215000}{}{A broken stake.}
+{215100}{}{Blood}
+{215101}{}{It's old dried blood.}
+{215200}{}{Blood}
+{215201}{}{Mother always told you that this liquid should be INSIDE, not outside.}
+{215300}{}{Blood}
+{215301}{}{Blood and sand.}
+{215400}{}{Blood}
+{215401}{}{Dried bloody stain.}
+{215500}{}{Blood}
+{215501}{}{Dried bloody stain.}
+{215600}{}{Blood}
+{215601}{}{Dried bloody stain.}
+{215700}{}{Blood}
+{215701}{}{You wonder whose blood it is.}
+{215800}{}{Blood}
+{215801}{}{Dried bloody stain.}
+{215900}{}{Blood}
+{215901}{}{Dried bloody stain.}
+{216000}{}{Blood}
+{216001}{}{Dried bloody stain.}
+{216100}{}{Bones}
+{216101}{}{These are the bones of the rarest extinct animal. Too bad you don't collect bones.}
+{216200}{}{Bones}
+{216201}{}{Someone's dead.}
+{216300}{}{Bones}
+{216301}{}{These bones are of no interest to you. Unless you're an osteologist, of course.}
+{216400}{}{Skull}
+{216401}{}{It looks like it was some kind of animal.}
+{216500}{}{Bones}
+{216501}{}{They seem to be very fragile.}
+{216600}{}{Blood}
+{216601}{}{Dried bloody stain.}
+{216700}{}{Blood}
+{216701}{}{Red blood, white bones - a beautiful combination of colors.}
+{216800}{}{Blood}
+{216801}{}{You wonder who that blood belonged to.}
+{216900}{}{Blood}
+{216901}{}{Dried bloody stain.}
+{217000}{}{Blood}
+{217001}{}{You wonder who that blood belonged to.}
+{217100}{}{Shack}
+{217101}{}{It reeks of blood and urine.}
+{217200}{}{Shack}
+{217201}{}{"And on the deserted shores stand dwellings here and there, the shelter of the wretched aborigine."}
+{217300}{}{Shack}
+{217301}{}{You don't want to go in there at all.}
+{217400}{}{Shack}
+{217401}{}{A structure of wood and dry grass.}
+{217500}{}{Plant}
+{217501}{}{Some kind of desert plant.}
+{217600}{}{Plant}
+{217601}{}{Some kind of desert plant.}
+{217700}{}{Plant}
+{217701}{}{Some kind of desert plant.}
+{217800}{}{Plant}
+{217801}{}{Some kind of desert plant.}
+{217900}{}{Plant}
+{217901}{}{Some kind of desert plant.}
+{218000}{}{Plant}
+{218001}{}{Some kind of desert plant.}
+{218100}{}{Plant}
+{218101}{}{Some kind of desert plant.}
+{218200}{}{Plant}
+{218201}{}{Some kind of desert plant.}
+{218300}{}{Plant}
+{218301}{}{Some kind of desert plant.}
+{218400}{}{Plant}
+{218401}{}{Some kind of desert plant.}
+{218500}{}{Catch}
+{218501}{}{Big fish here! Looks quite edible.}
+{218600}{}{Tree}
+{218601}{}{The trunk of a dried-out tree.}
+{218700}{}{Tree}
+{218701}{}{This tree can no longer be helped.}
+{218800}{}{Tree}
+{218801}{}{This tree looks like a carrot. An old dried gray carrot.}
+{218900}{}{Tree}
+{218901}{}{These dry branches are depressing.}
+{219000}{}{Tree}
+{219001}{}{The dry, broken trunk of a dried-up tree.}
+{219100}{}{Sign}
+{219101}{}{Food, water - looks like a place to eat!}
+{219200}{}{Billiard table.}
+{219201}{}{You don't really understand how to play it, but the fabric on the table looks very worn.}
+{219300}{}{Billiard table.}
+{219301}{}{The colored balls on the table look fun, too bad you don't know how to play.}
+{219400}{}{Screen panel.}
+{219401}{}{Unfortunately, it's turned off. To look at the working one would be extremely interesting.}
 {219500}{}{Wall}
-{219600}{}{Диван}
-{219601}{}{Предмет мебели, способный обеспечить пятой точке максимальный комфорт.}
-{219700}{}{Диван}
-{219701}{}{Выглядит удобным, не время тут отдыхать.}
-{219800}{}{Экраны}
-{219801}{}{Интересно, что можно смотреть на таком количестве экранов. Сейчас там только полоски.}
-{219900}{}{Плакат}
-{219901}{}{Старый плакат с рекламой оружия. От такой пушки и сейчас бы никто не отказался!}
+{219600}{}{Sofa}
+{219601}{}{A piece of furniture that can provide your heel with maximum comfort.}
+{219700}{}{Sofa}
+{219701}{}{Looks comfortable, no time to rest here.}
+{219800}{}{Screens}
+{219801}{}{You wonder what can be watched on so many screens. Right now there's just white noise.}
+{219900}{}{Poster}
+{219901}{}{An old poster advertising a gun. No one would say no a gun like that, even now!}
 {220000}{}{stairs up}
 {220100}{}{stairs down}
-{220200}{}{Плакат}
-{220201}{}{Блеклый старинный плакат.}
-{220300}{}{Плакат}
-{220301}{}{Этому плакату не менее двухсот лет - умели же делать плакаты!}
-{220400}{}{Плакат}
-{220401}{}{Сейчас таких не делают.}
-{220500}{}{Плакат}
-{220501}{}{Некоторое время изучаете плакат. Похоже это реклама консервов.}
-{220600}{}{Плакат}
-{220601}{}{Вам нравятся старые плакаты. Они хранят историю.}
-{220700}{}{Плакат}
-{220701}{}{Блеклый настенный плакат.}
-{220800}{}{Плакат}
-{220801}{}{Этому плакату не менее двухсот лет - умели же делать плакаты!}
-{220900}{}{Плакат}
-{220901}{}{Жизнь до войны была совсем другой.}
-{221000}{}{Плакат}
-{221001}{}{Огромный старинный плакат.}
-{221100}{}{Плакат}
-{221101}{}{"Будь готов нанести удар".}
-{221200}{}{Плакат}
-{221201}{}{Краски расплылись и поблекли.}
-{221300}{}{Плакат}
-{221301}{}{Вам нравятся старые плакаты. Они хранят историю.}
-{221400}{}{Плитка}
-{221500}{}{Плитка}
-{221600}{}{Плитка}
-{221700}{}{Плитка}
-{221800}{}{Плитка}
-{221900}{}{Плитка}
-{222000}{}{Плитка}
-{222100}{}{Доска}
-{222101}{}{Самая обычная доска. Ничего интересного.}
-{222200}{}{Доска}
-{222201}{}{Самая обычная доска. Ничего интересного.}
-{222300}{}{Доска}
-{222301}{}{Самая обычная доска. Ничего интересного.}
-{222400}{}{Доска}
-{222401}{}{Самая обычная доска. Ничего интересного.}
-{222500}{}{Доска}
-{222501}{}{Самая обычная доска. Ничего интересного.}
-{222600}{}{Доска}
-{222601}{}{Самая обычная доска. Ничего интересного.}
-{222700}{}{Доска}
-{222701}{}{Самая обычная доска. Ничего интересного.}
-{222800}{}{Доска}
-{222801}{}{Самая обычная доска. Ничего интересного.}
-{222900}{}{Доска}
-{222901}{}{Самая обычная доска. Ничего интересного.}
-{223000}{}{Доска}
-{223001}{}{Самая обычная доска. Ничего интересного.}
-{223100}{}{Доска}
-{223101}{}{Самая обычная доска. Ничего интересного.}
-{223200}{}{Доска}
-{223201}{}{Самая обычная доска. Ничего интересного.}
-{223300}{}{Доска}
-{223301}{}{Самая обычная доска. Ничего интересного.}
-{223400}{}{Доска}
-{223401}{}{Самая обычная доска. Ничего интересного.}
-{223500}{}{Доска}
-{223501}{}{Самая обычная доска. Ничего интересного.}
-{223600}{}{Ржавый лист металла}
-{223601}{}{Зачем он Вам?}
-{223700}{}{Ржавый лист металла}
-{223701}{}{Он совершенно бесполезен.}
-{223800}{}{Ржавый лист металла}
-{223801}{}{Вы внимательно изучаете его, но более полезным он не становится.}
-{223900}{}{Хлам}
-{223901}{}{Даже самый последний бродяга не позарился бы на этот хлам.}
-{224000}{}{Хлам}
-{224001}{}{Абсолютно бесполезный хлам.}
-{224100}{}{Хлам}
-{224101}{}{Вы не найдете этому хламу применения.}
-{224200}{}{Хлам}
-{224201}{}{Ничего интересного.}
-{224300}{}{Ржавый лист металла}
-{224301}{}{Это Вам точно не пригодится.}
-{224400}{}{Ржавый лист металла}
-{224401}{}{Он совершенно бесполезен.}
-{224500}{}{Ржавый лист металла}
-{224501}{}{Пусть ржавеет дальше.}
-{224600}{}{Хлам}
-{224601}{}{Вы ведь не хотите собирать всякий мусор?}
-{224700}{}{Хлам}
-{224701}{}{Даже самый последний бродяга не позарился бы на этот хлам.}
-{224800}{}{Хлам}
-{224801}{}{Вы не найдете этому хламу применения.}
-{224900}{}{Хлам}
-{224901}{}{Вы ведь не хотите собирать всякий мусор?}
-{225000}{}{Дверь}
-{225001}{}{Эта дверь надежно заколочена.}
-{225100}{}{Лежак}
-{225101}{}{Не стоит рисковать и ложиться на это.}
-{225200}{}{Лежак}
-{225201}{}{Он совсем прогнил.}
-{225300}{}{Лежак}
-{225301}{}{Это что там такое по нему ползет?}
+{220200}{}{Poster}
+{220201}{}{A faded old poster.}
+{220300}{}{Poster}
+{220301}{}{This poster is at least two hundred years old. They used to make pretty good ones back in the day!}
+{220400}{}{Poster}
+{220401}{}{They don't make them like that now.}
+{220500}{}{Poster}
+{220501}{}{You study the poster for a while. It looks like an advertisement for canned goods.}
+{220600}{}{Poster}
+{220601}{}{You like old posters. They preserve history.}
+{220700}{}{Poster}
+{220701}{}{A faded wall poster.}
+{220800}{}{Poster}
+{220801}{}{This poster is at least two hundred years old. They used to make pretty good ones back in the day!}
+{220900}{}{Poster}
+{220901}{}{Life before the war was very different.}
+{221000}{}{Poster}
+{221001}{}{Huge old poster.}
+{221100}{}{Poster}
+{221101}{}{"Be ready to strike."}
+{221200}{}{Poster}
+{221201}{}{The colors are blurred and faded.}
+{221300}{}{Poster}
+{221301}{}{You like old posters. They preserve history.}
+{221400}{}{Tile}
+{221500}{}{Tile}
+{221600}{}{Tile}
+{221700}{}{Tile}
+{221800}{}{Tile}
+{221900}{}{Tile}
+{222000}{}{Tile}
+{222100}{}{Board}
+{222101}{}{Just an ordinary plaque. Nothing interesting.}
+{222200}{}{Board}
+{222201}{}{Just an ordinary plaque. Nothing interesting.}
+{222300}{}{Board}
+{222301}{}{Just an ordinary plaque. Nothing interesting.}
+{222400}{}{Board}
+{222401}{}{Just an ordinary plaque. Nothing interesting.}
+{222500}{}{Board}
+{222501}{}{Just an ordinary plaque. Nothing interesting.}
+{222600}{}{Board}
+{222601}{}{Just an ordinary plaque. Nothing interesting.}
+{222700}{}{Board}
+{222701}{}{Just an ordinary plaque. Nothing interesting.}
+{222800}{}{Board}
+{222801}{}{Just an ordinary plaque. Nothing interesting.}
+{222900}{}{Board}
+{222901}{}{Just an ordinary plaque. Nothing interesting.}
+{223000}{}{Board}
+{223001}{}{Just an ordinary plaque. Nothing interesting.}
+{223100}{}{Board}
+{223101}{}{Just an ordinary plaque. Nothing interesting.}
+{223200}{}{Board}
+{223201}{}{Just an ordinary plaque. Nothing interesting.}
+{223300}{}{Board}
+{223301}{}{Just an ordinary plaque. Nothing interesting.}
+{223400}{}{Board}
+{223401}{}{Just an ordinary plaque. Nothing interesting.}
+{223500}{}{Board}
+{223501}{}{Just an ordinary plaque. Nothing interesting.}
+{223600}{}{A rusty piece of metal.}
+{223601}{}{What do you need it for?}
+{223700}{}{A rusty piece of metal.}
+{223701}{}{It's completely useless.}
+{223800}{}{A rusty piece of metal.}
+{223801}{}{You examine it carefully, but it doesn't make it any more useful.}
+{223900}{}{Junk}
+{223901}{}{Even the last vagabond wouldn't go for this junk.}
+{224000}{}{Junk}
+{224001}{}{Absolutely useless junk.}
+{224100}{}{Junk}
+{224101}{}{You won't find any use for this junk.}
+{224200}{}{Junk}
+{224201}{}{Nothing of interest.}
+{224300}{}{A rusty piece of metal.}
+{224301}{}{It won't be of any use to you, that's for sure.}
+{224400}{}{A rusty piece of metal.}
+{224401}{}{It's completely useless.}
+{224500}{}{A rusty piece of metal.}
+{224501}{}{Let it rust.}
+{224600}{}{Junk}
+{224601}{}{You don't want to collect any junk, do you?}
+{224700}{}{Junk}
+{224701}{}{Even the last vagabond wouldn't go for this junk.}
+{224800}{}{Junk}
+{224801}{}{You won't find any use for this junk.}
+{224900}{}{Junk}
+{224901}{}{You don't want to collect any junk, do you?}
+{225000}{}{Door}
+{225001}{}{This door is securely boarded up.}
+{225100}{}{Bed}
+{225101}{}{It's not worth the risk of laying down on it.}
+{225200}{}{Bed}
+{225201}{}{It's completely rotten.}
+{225300}{}{Bed}
+{225301}{}{What's crawling around there?}
 {225400}{}{Wall}
 {225500}{}{Wall}
 {225600}{}{Wall}
 {225700}{}{Wall}
 {225800}{}{Wall}
-{225900}{}{Камни}
-{226000}{}{Камни}
-{226100}{}{Камни}
-{226200}{}{Камни}
-{226300}{}{Камни}
-{226400}{}{Камни}
-{226500}{}{Камни}
-{226600}{}{Камни}
-{226700}{}{Камни}
-{226800}{}{Камни}
-{226900}{}{Камни}
-{227000}{}{Камни}
-{227100}{}{Хлам}
-{227101}{}{Бесполезный мусор.}
-{227200}{}{Лист металла}
-{227201}{}{Это что, кровь?}
-{227300}{}{Хлам}
-{227301}{}{Даже самый последний бродяга не позарился бы на этот хлам.}
-{227400}{}{Лист металла}
-{227401}{}{Он ржавый тяжелый и абсолютно бесполезен.}
-{227500}{}{Лист металла}
-{227501}{}{Даже самый последний бродяга не позарился бы на этот хлам.}
-{227600}{}{Лист металла}
-{227601}{}{Вы ведь не хотите собирать всякий мусор?}
-{227700}{}{Лист металла}
-{227701}{}{Совсем заржавел.}
-{227800}{}{Лист металла}
-{227801}{}{Бесполезный мусор.}
-{227900}{}{Ящик}
-{227901}{}{Хороший большой ящик, но там нет ничего интересного.}
-{228000}{}{Ящик}
-{228001}{}{Вам очень интересно, что будет, если поместить внутрь радиоактивное вещество, пузырек с ядом и, например, кота.}
-{228100}{}{Пещерный гриб}
-{228101}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228200}{}{Пещерный гриб}
-{228201}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228300}{}{Пещерный гриб}
-{228301}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228400}{}{Пещерный гриб}
-{228401}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228500}{}{Пещерный гриб}
-{228501}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228600}{}{Пещерный гриб}
-{228601}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228700}{}{Пещерный гриб}  
-{228701}{}{Мама говорила Вам не есть незнакомые грибы.} 
-{228800}{}{Пещерный гриб}
-{228801}{}{Мама говорила Вам не есть незнакомые грибы.}
-{228900}{}{Пещерный гриб}
-{228901}{}{Мама говорила Вам не есть незнакомые грибы.}
-{229000}{}{Пещерный гриб}
-{229001}{}{Мама говорила Вам не есть незнакомые грибы.}
-{229100}{}{Лист металла}
-{229101}{}{Отличный и почти не мятый, но Вам он не пригодится.}
-{229200}{}{Лист металла}
-{229201}{}{Совершенно бесполезный для Вас предмет.}
-{229300}{}{Лист металла}
-{229301}{}{Ржавый и мятый жестяной лист.}
+{225900}{}{Stones}
+{226000}{}{Stones}
+{226100}{}{Stones}
+{226200}{}{Stones}
+{226300}{}{Stones}
+{226400}{}{Stones}
+{226500}{}{Stones}
+{226600}{}{Stones}
+{226700}{}{Stones}
+{226800}{}{Stones}
+{226900}{}{Stones}
+{227000}{}{Stones}
+{227100}{}{Junk}
+{227101}{}{A useless pile of junk.}
+{227200}{}{Metal sheet}
+{227201}{}{Is that blood?}
+{227300}{}{Junk}
+{227301}{}{Even the last vagabond wouldn't go for this junk.}
+{227400}{}{Metal sheet}
+{227401}{}{It's rusty heavy and completely useless.}
+{227500}{}{Metal sheet}
+{227501}{}{Even the last vagabond wouldn't go for this junk.}
+{227600}{}{Metal sheet}
+{227601}{}{You don't want to collect any junk, do you?}
+{227700}{}{Metal sheet}
+{227701}{}{It's all rusted out.}
+{227800}{}{Metal sheet}
+{227801}{}{A useless pile of junk.}
+{227900}{}{Crate}
+{227901}{}{It's a nice big box, but there's nothing interesting in there.}
+{228000}{}{Crate}
+{228001}{}{You're really wondering what would happen if you put a radioactive substance, a vial of poison, and, for example, a cat inside.}
+{228100}{}{Cave mushroom.}
+{228101}{}{Mom told you not to eat unfamiliar stuff.}
+{228200}{}{Cave mushroom.}
+{228201}{}{Mom told you not to eat unfamiliar stuff.}
+{228300}{}{Cave mushroom.}
+{228301}{}{Mom told you not to eat unfamiliar stuff.}
+{228400}{}{Cave mushroom.}
+{228401}{}{Mom told you not to eat unfamiliar stuff.}
+{228500}{}{Cave mushroom.}
+{228501}{}{Mom told you not to eat unfamiliar stuff.}
+{228600}{}{Cave mushroom.}
+{228601}{}{Mom told you not to eat unfamiliar stuff.}
+{228700}{}{Cave mushroom.}
+{228701}{}{Mom told you not to eat unfamiliar stuff.}
+{228800}{}{Cave mushroom.}
+{228801}{}{Mom told you not to eat unfamiliar stuff.}
+{228900}{}{Cave mushroom.}
+{228901}{}{Mom told you not to eat unfamiliar stuff.}
+{229000}{}{Cave mushroom.}
+{229001}{}{Mom told you not to eat unfamiliar stuff.}
+{229100}{}{Metal sheet}
+{229101}{}{It's nice and hardly crumpled, but you won't need it.}
+{229200}{}{Metal sheet}
+{229201}{}{Completely useless to you.}
+{229300}{}{Metal sheet}
+{229301}{}{Rusty and crumpled tin sheet.}
 {229400}{}{Cave Wall}
 {229500}{}{Cave Wall}
-{229600}{}{Камни}
-{229700}{}{Часть стены}
-{229800}{}{Часть стены}
-{229900}{}{Часть стены}
-{230000}{}{Часть стены}
-{230100}{}{Разрушенная колонна}
-{230200}{}{Разрушенная колонна}
-{230300}{}{Разрушенная колонна}
-{230400}{}{Разрушенная колонна}
-{230500}{}{Вывеска}
-{230501}{}{Краска от времени потрескалась и надпись невозможно разобрать.}
-{230600}{}{Вывеска}
-{230601}{}{Краска от времени потрескалась и надпись невозможно разобрать.}
-{230700}{}{Большая дыра в полу}
-{230701}{}{Воронка от взрыва снаряда. Внизу только обломки и камни.}
-{230800}{}{Лежак}
-{230801}{}{Лучше зажать нос рядом с этим лежаком - он воняет.}
-{230900}{}{Лежак}
-{230901}{}{Это что там такое по нему ползет?}
-{231000}{}{Лежак}
-{231001}{}{Пыль и плесень, на этом даже стоять неприятно.}
-{231100}{}{Лист металла}
-{231101}{}{Старый ржавый лист жести.}
-{231200}{}{Лист металла}
-{231201}{}{Этот жестяной хлам вам не нужен.}
-{231300}{}{Лист металла}
-{231301}{}{Бесполезная жестянка.}
-{231400}{}{Плакат}
-{231401}{}{Огромный поблекший плакат "TIN Industries".}
-{231500}{}{Осколки плитки}
-{231501}{}{Тысячи их! И каждый по-своему уникален.}
-{231600}{}{Осколки плитки}
-{231601}{}{Тысячи их! И каждый по-своему уникален.}
-{231700}{}{Осколки плитки}
-{231701}{}{Тысячи их! И каждый по-своему уникален.}
-{231800}{}{Осколки плитки}
-{231801}{}{Тысячи их! И каждый по-своему уникален.}
-{231900}{}{Осколки плитки}
-{231901}{}{Тысячи их! И каждый по-своему уникален.}
-{232000}{}{Осколки плитки}
-{232001}{}{Тысячи их! И каждый по-своему уникален.}
-{232100}{}{Осколки плитки}
-{232101}{}{Тысячи их! И каждый по-своему уникален.}
-{232200}{}{Осколки плитки}
-{232201}{}{Тысячи их! И каждый по-своему уникален.}
-{232300}{}{Осколки плитки}
-{232301}{}{Тысячи их! И каждый по-своему уникален.}
-{232400}{}{Осколки плитки}
-{232401}{}{Тысячи их! И каждый по-своему уникален.}
-{232500}{}{Осколки плитки}
-{232501}{}{Тысячи их! И каждый по-своему уникален.}
-{232600}{}{Осколки плитки}
-{232601}{}{Тысячи их! И каждый по-своему уникален.}
-{232700}{}{Осколки плитки}
-{232701}{}{Тысячи их! И каждый по-своему уникален.}
-{232800}{}{Осколки плитки}
-{232801}{}{Тысячи их! И каждый по-своему уникален.}
-{232900}{}{Осколки плитки}
-{232901}{}{Тысячи их! И каждый по-своему уникален.}
-{233000}{}{Лежак}
-{233001}{}{Ложиться на этот грязный лежак совсем не хочется.}
-{233100}{}{Хлам}
-{233101}{}{Лучше не трогайте это.}
-{233200}{}{Хлам}
-{233201}{}{Совершенно бесполезная вещь.}
+{229600}{}{Stones}
+{229700}{}{Part of a wall.}
+{229800}{}{Part of a wall.}
+{229900}{}{Part of a wall.}
+{230000}{}{Part of a wall.}
+{230100}{}{Destroyed column.}
+{230200}{}{Destroyed column.}
+{230300}{}{Destroyed column.}
+{230400}{}{Destroyed column.}
+{230500}{}{Sign}
+{230501}{}{The paint is cracked, and the letters are illegible.}
+{230600}{}{Sign}
+{230601}{}{The paint is cracked, and the letters are illegible.}
+{230700}{}{Large hole in the floor}
+{230701}{}{A crater from an explosion. Only debris and rocks lie below.}
+{230800}{}{Bed}
+{230801}{}{It's better to hold your breath next to that bed - it stinks.}
+{230900}{}{Bed}
+{230901}{}{What's crawling around there?}
+{231000}{}{Bed}
+{231001}{}{Dust and mildew. It's not pleasant even to stand on it.}
+{231100}{}{Metal sheet}
+{231101}{}{An old rusty sheet of tin.}
+{231200}{}{Metal sheet}
+{231201}{}{You don't need that tin can junk.}
+{231300}{}{Metal sheet}
+{231301}{}{Useless tin.}
+{231400}{}{Poster}
+{231401}{}{A huge faded poster of TIN Industries.}
+{231500}{}{Tile shards.}
+{231501}{}{Thousands of them! And each one is unique in its own way.}
+{231600}{}{Tile shards.}
+{231601}{}{Thousands of them! And each one is unique in its own way.}
+{231700}{}{Tile shards.}
+{231701}{}{Thousands of them! And each one is unique in its own way.}
+{231800}{}{Tile shards.}
+{231801}{}{Thousands of them! And each one is unique in its own way.}
+{231900}{}{Tile shards.}
+{231901}{}{Thousands of them! And each one is unique in its own way.}
+{232000}{}{Tile shards.}
+{232001}{}{Thousands of them! And each one is unique in its own way.}
+{232100}{}{Tile shards.}
+{232101}{}{Thousands of them! And each one is unique in its own way.}
+{232200}{}{Tile shards.}
+{232201}{}{Thousands of them! And each one is unique in its own way.}
+{232300}{}{Tile shards.}
+{232301}{}{Thousands of them! And each one is unique in its own way.}
+{232400}{}{Tile shards.}
+{232401}{}{Thousands of them! And each one is unique in its own way.}
+{232500}{}{Tile shards.}
+{232501}{}{Thousands of them! And each one is unique in its own way.}
+{232600}{}{Tile shards.}
+{232601}{}{Thousands of them! And each one is unique in its own way.}
+{232700}{}{Tile shards.}
+{232701}{}{Thousands of them! And each one is unique in its own way.}
+{232800}{}{Tile shards.}
+{232801}{}{Thousands of them! And each one is unique in its own way.}
+{232900}{}{Tile shards.}
+{232901}{}{Thousands of them! And each one is unique in its own way.}
+{233000}{}{Bed}
+{233001}{}{You don't want to lie down on this filthy recline at all.}
+{233100}{}{Junk}
+{233101}{}{It's better not to touch it.}
+{233200}{}{Junk}
+{233201}{}{Totally useless thing.}
 {233300}{}{Factory Wall}
 {233400}{}{Factory Wall}
-{233500}{}{Часть стены}
-{233600}{}{Часть стены}
-{233700}{}{Часть стены}
-{233800}{}{Часть стены}
-{233900}{}{Плакат}
-{233901}{}{Он очень старый.}
-{234000}{}{Плакат}
-{234001}{}{Рассматриваете его некоторое время, Вам определенно нравятся старые плакаты.}
-{234100}{}{Плакат}
-{234101}{}{Патриотично.}
+{233500}{}{Part of a wall.}
+{233600}{}{Part of a wall.}
+{233700}{}{Part of a wall.}
+{233800}{}{Part of a wall.}
+{233900}{}{Poster}
+{233901}{}{It's very old.}
+{234000}{}{Poster}
+{234001}{}{You look at it for a while. You definitely like old posters.}
+{234100}{}{Poster}
+{234101}{}{It looks very patriotic.}
 {234200}{}{Wall}
-{234300}{}{Плакат}
-{234301}{}{Сожалеете, что такой плакат не висел в детстве над вашей кроватью.}
-{234400}{}{Плакат}
-{234401}{}{Кажется, на нем обосновалась плесень.}
-{234500}{}{Плакат}
-{234501}{}{Блеклый настенный плакат.}
+{234300}{}{Poster}
+{234301}{}{You wish there had been a poster like this hanging over your bed when you were a kid.}
+{234400}{}{Poster}
+{234401}{}{Seems like mold has settled on it.}
+{234500}{}{Poster}
+{234501}{}{A faded wall poster.}
 {234600}{}{Wall}
 {234700}{}{Wall}
-{234800}{}{Машина}
-{234801}{}{Массивная землеройная машина.}
-{234900}{}{Машина}
-{234901}{}{Массивная землеройная машина.}
-{235000}{}{Хлам}
-{235001}{}{Ржавая железка, такой хлам не стоит Вашего внимания.}
-{235100}{}{Лист ржавого железа}
-{235101}{}{Издает забавный звук, если по нему постучать.}
-{235200}{}{Хлам}
-{235201}{}{Ржавая железка, такой хлам не стоит Вашего внимания.}
-{235300}{}{Лист ржавого железа}
-{235301}{}{Слишком тяжелый и вряд ли Вам пригодится.}
-{235400}{}{Лист ржавого железа}
-{235401}{}{Слишком тяжелый и вряд ли Вам пригодится.}
-{235500}{}{Хлам}
-{235501}{}{Не стоить тратить время на этот хлам.}
-{235600}{}{Хлам}
-{235601}{}{Теперь это всего лишь бесполезный мусор.}
-{235700}{}{Хлам}
-{235701}{}{Теперь это всего лишь бесполезный мусор.}
-{235800}{}{Хлам}
-{235801}{}{Не стоит подбирать всякий хлам.}
-{235900}{}{Хлам}
-{235901}{}{Совершенно бесполезный мусор.}
-{236000}{}{Скалы}
-{236001}{}{Выглядят неприступными.}
-{236100}{}{Скалы}
-{236101}{}{Выглядят неприступными.}
-{236200}{}{Скалы}
-{236201}{}{Выглядят неприступными.}
-{236300}{}{Доска}
-{236301}{}{Ничем непримечательная доска.}
-{236400}{}{Лист железа}
-{236401}{}{Издает забавный звук, если по нему постучать.}
-{236500}{}{Лист железа}
-{236501}{}{Слишком тяжелый.}
-{236600}{}{Лист железа}
-{236601}{}{В нем нет для Вас совершенно никакой пользы.}
-{236700}{}{Лист железа}
-{236701}{}{Выглядит крепким, но бесполезным.}
-{236800}{}{Хлам}
-{236801}{}{От этого хлама никакого толку.}
-{236900}{}{Хлам}
-{236901}{}{От этого хлама никакого толку.}
-{237000}{}{Хлам}
-{237001}{}{От этого хлама никакого толку.}
-{237100}{}{Хлам}
-{237101}{}{Совершенно бесполезный мусор.}
-{237200}{}{Хлам}
-{237201}{}{Не тратьте время на всякий бесполезный хлам.}
-{237300}{}{Хлам}
-{237301}{}{Просто обычный мусор.}
-{237400}{}{Хлам}
-{237401}{}{Это Вам точно не пригодится.}
-{237500}{}{Хлам}
-{237501}{}{Не представляет для Вас никакого интереса, если Вы, конечно, не увлекаетесь коллекционированием мусора.}
-{237600}{}{Хлам}
-{237601}{}{Не представляет для Вас никакого интереса, если Вы, конечно, не увлекаетесь коллекционированием мусора.}
-{237700}{}{Инструменты}
-{237701}{}{Эти инструменты не пригодны к использованию.}
-{237800}{}{Коробка}
-{237801}{}{Пустая старая коробка - абсолютно бесполезна.}
-{237900}{}{Хлам}
-{237901}{}{Совершенно бесполезный мусор.}
-{238000}{}{Хлам}
-{238001}{}{Совершенно бесполезный мусор.}
-{238100}{}{Хлам}
-{238101}{}{Совершенно бесполезный мусор.}
-{238200}{}{Плакат}
-{238201}{}{Поблекший старый плакат "Олимп".}
-{238300}{}{Освещение}
-{238400}{}{Освещение}
-{238500}{}{Коробка}
-{238501}{}{Старая пустая коробка.}
-{238600}{}{Коробка}
-{238601}{}{Старая пустая коробка.}
-{238700}{}{Коробка}
-{238701}{}{Старая пустая коробка.}
-{238800}{}{Коробка}
-{238801}{}{Старая пустая коробка.}
-{238900}{}{Старый ящик}
-{238901}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239000}{}{Старый ящик}
-{239001}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239100}{}{Старый ящик}
-{239101}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239200}{}{Старый ящик}
-{239201}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239300}{}{Старый ящик}
-{239301}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239400}{}{Старый ящик}
-{239401}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239500}{}{Старый ящик}
-{239501}{}{В этом грязном ящике нет ничего, кроме мусора.}
-{239600}{}{Старый ящик}
-{239601}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{239700}{}{Старый ящик}
-{239701}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{239800}{}{Старый ящик}
-{239801}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{239900}{}{Старый ящик}
-{239901}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{240000}{}{Старый ящик}
-{240001}{}{Ржавый металлический ящик, очень тяжелый и пустой.}
-{240100}{}{Старый ящик}
-{240101}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
+{234800}{}{Car}
+{234801}{}{A massive excavating machine.}
+{234900}{}{Car}
+{234901}{}{A massive excavating machine.}
+{235000}{}{Junk}
+{235001}{}{Rusty iron. This junk is not worth your attention.}
+{235100}{}{A sheet of rusty iron}
+{235101}{}{Makes a funny sound when you knock on it.}
+{235200}{}{Junk}
+{235201}{}{Rusty iron. This junk is not worth your attention.}
+{235300}{}{A sheet of rusty iron}
+{235301}{}{Too heavy. Unlikely to be of any use to you.}
+{235400}{}{A sheet of rusty iron}
+{235401}{}{Too heavy. Unlikely to be of any use to you.}
+{235500}{}{Junk}
+{235501}{}{Not worth wasting your time on this piece of junk.}
+{235600}{}{Junk}
+{235601}{}{It's just useless junk now.}
+{235700}{}{Junk}
+{235701}{}{It's just useless junk now.}
+{235800}{}{Junk}
+{235801}{}{It's not worth picking up any junk.}
+{235900}{}{Junk}
+{235901}{}{Utterly useless trash.}
+{236000}{}{Rocks}
+{236001}{}{Look impregnable.}
+{236100}{}{Rocks}
+{236101}{}{Look impregnable.}
+{236200}{}{Rocks}
+{236201}{}{Look impregnable.}
+{236300}{}{Board}
+{236301}{}{An unremarkable board.}
+{236400}{}{A sheet of iron.}
+{236401}{}{Makes a funny sound when you knock on it.}
+{236500}{}{A sheet of iron.}
+{236501}{}{Too heavy.}
+{236600}{}{A sheet of iron.}
+{236601}{}{There is absolutely no use for you in it.}
+{236700}{}{A sheet of iron.}
+{236701}{}{It looks sturdy, but it's useless.}
+{236800}{}{Junk}
+{236801}{}{This junk is useless.}
+{236900}{}{Junk}
+{236901}{}{This junk is useless.}
+{237000}{}{Junk}
+{237001}{}{This junk is useless.}
+{237100}{}{Junk}
+{237101}{}{Utterly useless trash.}
+{237200}{}{Junk}
+{237201}{}{Don't waste your time with all kinds of useless junk.}
+{237300}{}{Junk}
+{237301}{}{Just regular trash.}
+{237400}{}{Junk}
+{237401}{}{It won't be of any use to you, that's for sure.}
+{237500}{}{Junk}
+{237501}{}{Not of any interest to you, unless you are heavily into trash collecting.}
+{237600}{}{Junk}
+{237601}{}{Not of any interest to you, unless you are heavily into trash collecting.}
+{237700}{}{Tools}
+{237701}{}{These tools are not usable.}
+{237800}{}{Box}
+{237801}{}{An empty old box is completely useless.}
+{237900}{}{Junk}
+{237901}{}{Utterly useless trash.}
+{238000}{}{Junk}
+{238001}{}{Utterly useless trash.}
+{238100}{}{Junk}
+{238101}{}{Utterly useless trash.}
+{238200}{}{Poster}
+{238201}{}{An old faded "Olympus" poster.}
+{238300}{}{Lights}
+{238400}{}{Lights}
+{238500}{}{Box}
+{238501}{}{An old empty box.}
+{238600}{}{Box}
+{238601}{}{An old empty box.}
+{238700}{}{Box}
+{238701}{}{An old empty box.}
+{238800}{}{Box}
+{238801}{}{An old empty box.}
+{238900}{}{Old box.}
+{238901}{}{There is nothing but trash in this dirty box.}
+{239000}{}{Old box.}
+{239001}{}{There is nothing but trash in this dirty box.}
+{239100}{}{Old box.}
+{239101}{}{There is nothing but trash in this dirty box.}
+{239200}{}{Old box.}
+{239201}{}{There is nothing but trash in this dirty box.}
+{239300}{}{Old box.}
+{239301}{}{There is nothing but trash in this dirty box.}
+{239400}{}{Old box.}
+{239401}{}{There is nothing but trash in this dirty box.}
+{239500}{}{Old box.}
+{239501}{}{There is nothing but trash in this dirty box.}
+{239600}{}{Old box.}
+{239601}{}{Its contents may have been of interest, but that was a long time ago.}
+{239700}{}{Old box.}
+{239701}{}{Its contents may have been of interest, but that was a long time ago.}
+{239800}{}{Old box.}
+{239801}{}{Its contents may have been of interest, but that was a long time ago.}
+{239900}{}{Old box.}
+{239901}{}{Its contents may have been of interest, but that was a long time ago.}
+{240000}{}{Old box.}
+{240001}{}{A rusty metal box, very heavy and empty.}
+{240100}{}{Old box.}
+{240101}{}{Its contents may have been of interest, but that was a long time ago.}
 {240200}{}{Junk}
-{240201}{}{Крышка от ящика. Вряд ли она может Вам пригодиться.}
+{240201}{}{The lid of the box. Not likely to be of any use to you.}
 {240300}{}{Junk}
-{240301}{}{Крышка от ящика. Вряд ли она может Вам пригодиться.}
-{240400}{}{Старый ящик}
-{240401}{}{Потрепанный снаружи с бесполезным содержимым внутри. Прямо как некоторые люди.}
-{240500}{}{Старый ящик}
-{240501}{}{Потрепанный снаружи с бесполезным содержимым внутри. Прямо как некоторые люди.}
-{240600}{}{Старый ящик}
-{240601}{}{Потрепанный снаружи с бесполезным содержимым внутри. Прямо как некоторые люди.}
-{240700}{}{Старый ящик}
-{240701}{}{Внутри только древний хлам и пыль.}
-{240800}{}{Старый ящик}
-{240801}{}{Внутри только древний хлам и пыль.}
-{240900}{}{Старый ящик}
-{240901}{}{Внутри только древний хлам и пыль.}
-{241000}{}{Старый ящик}
-{241001}{}{Внутри только древний хлам и пыль.}
-{241100}{}{Старый шкаф}
-{241101}{}{Тут ничего нет. Похоже, кто-то обшарил его до Вас.}
-{241200}{}{Старый шкаф}
-{241201}{}{Тут ничего нет. Похоже, кто-то обшарил его до Вас.}
-{241300}{}{Старый ящик}
-{241301}{}{Внутри только древний хлам и пыль.}
-{241400}{}{Старый ящик}
-{241401}{}{Внутри только древний хлам и пыль.}
-{241500}{}{Старый ящик}
-{241501}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{241600}{}{Ограждение}
-{241601}{}{Небольшое переносное ограждение.}
-{241700}{}{Ограждение}
-{241701}{}{Небольшое переносное ограждение.}
-{241800}{}{Ограждение}
-{241801}{}{Небольшое переносное ограждение.}
-{241900}{}{Старый ящик}
-{241901}{}{Потрепанный снаружи с бесполезным содержимым внутри. Прямо как некоторые люди.}
-{242000}{}{Старый ящик}
-{242001}{}{Потрепанный снаружи с бесполезным содержимым внутри. Прямо как некоторые люди.}
-{242100}{}{Контейнер}
-{242101}{}{Прочный ржавый контейнер.}
-{242200}{}{Ящик}
-{242201}{}{В нем нет ничего полезного.}
-{242300}{}{Ящик}
-{242301}{}{В нем нет ничего полезного.}
+{240301}{}{The lid of the box. Not likely to be of any use to you.}
+{240400}{}{Old box.}
+{240401}{}{Tattered on the outside with useless contents inside. Just like some people.}
+{240500}{}{Old box.}
+{240501}{}{Tattered on the outside with useless contents inside. Just like some people.}
+{240600}{}{Old box.}
+{240601}{}{Tattered on the outside with useless contents inside. Just like some people.}
+{240700}{}{Old box.}
+{240701}{}{Only ancient junk and dust inside.}
+{240800}{}{Old box.}
+{240801}{}{Only ancient junk and dust inside.}
+{240900}{}{Old box.}
+{240901}{}{Only ancient junk and dust inside.}
+{241000}{}{Old box.}
+{241001}{}{Only ancient junk and dust inside.}
+{241100}{}{An old cupboard.}
+{241101}{}{There's nothing in here. Looks like someone went through it before you did.}
+{241200}{}{An old cupboard.}
+{241201}{}{There's nothing in here. Looks like someone went through it before you did.}
+{241300}{}{Old box.}
+{241301}{}{Only ancient junk and dust inside.}
+{241400}{}{Old box.}
+{241401}{}{Only ancient junk and dust inside.}
+{241500}{}{Old box.}
+{241501}{}{Its contents may have been of interest, but that was a long time ago.}
+{241600}{}{Barrier}
+{241601}{}{A small portable fence.}
+{241700}{}{Barrier}
+{241701}{}{A small portable fence.}
+{241800}{}{Barrier}
+{241801}{}{A small portable fence.}
+{241900}{}{Old box.}
+{241901}{}{Tattered on the outside with useless contents inside. Just like some people.}
+{242000}{}{Old box.}
+{242001}{}{Tattered on the outside with useless contents inside. Just like some people.}
+{242100}{}{Container}
+{242101}{}{Sturdy, rusty container.}
+{242200}{}{Crate}
+{242201}{}{Nothing useful in it.}
+{242300}{}{Crate}
+{242301}{}{Nothing useful in it.}
 {242400}{}{Wall}
 {242500}{}{Wall}
-{242600}{}{Колонна}
-{242700}{}{Колонна}
-{242800}{}{Колонна}
-{242900}{}{Колонна}
-{243000}{}{Освещение}
-{243001}{}{Освещает пространство вокруг.}
-{243100}{}{Освещение}
-{243101}{}{Освещает пространство вокруг.}
+{242600}{}{Column}
+{242700}{}{Column}
+{242800}{}{Column}
+{242900}{}{Column}
+{243000}{}{Lights}
+{243001}{}{Lights up the area around it.}
+{243100}{}{Lights}
+{243101}{}{Lights up the area around it.}
 {243200}{}{Wall}
 {243300}{}{Wall}
-{243400}{}{Колонна}
+{243400}{}{Column}
 {243500}{}{Wall}
 {243600}{}{Wall}
-{243700}{}{Колонна}
+{243700}{}{Column}
 {243800}{}{Wall}
 {243900}{}{Wall}
-{244000}{}{Картина}
-{244001}{}{Похоже настоящая и отлично сохранилась.}
-{244100}{}{Картина}
-{244101}{}{Несколько минут изучаете картину. Настоящее искусство завораживает.}
-{244200}{}{Картина}
-{244201}{}{Портрет мужчины. Ваше мужественное лицо тоже неплохо бы смотрелось на портрете в золотой раме.}
-{244300}{}{Пустота}
-{244400}{}{Пустота}
-{244500}{}{Скамейка}
-{244501}{}{Не время сейчас отдыхать.}
-{244600}{}{Скамейка}
-{244601}{}{Четыре ножки, длинное сиденье и спинка - да это же скамейка!}
-{244700}{}{Скамейка}
-{244701}{}{Не время сейчас отдыхать.}
-{244800}{}{Скамейка}
-{244801}{}{Четыре ножки, длинное сиденье и спинка - да это же скамейка!}
-{244900}{}{Старый ящик}
-{244901}{}{Заглядываете внутрь - пусто.}
-{245000}{}{Хлам}
-{245001}{}{Совершенно бесполезный хлам.}
-{245100}{}{Хлам}
-{245101}{}{Совершенно бесполезный хлам.}
-{245200}{}{Хлам}
-{245201}{}{Совершенно бесполезный хлам.}
-{245300}{}{Старый ящик}
-{245301}{}{Изучаете содержимое, там один мусор - зря пачкались ржавчиной.}
-{245400}{}{Ржавая железка}
-{245401}{}{Даже последний бродяга не заинтересовался бы этим хламом.}
-{245500}{}{Ржавая железка}
-{245501}{}{Даже последний бродяга не заинтересовался бы этим хламом.}
-{245600}{}{Ржавая железка}
-{245601}{}{Даже последний бродяга не заинтересовался бы этим хламом.}
-{245700}{}{Старый ящик}
-{245701}{}{Похоже его кто-то уже обшарил и заодно испачкал кровью.}
-{245800}{}{Хлам}
-{245801}{}{Совершенно бесполезный хлам.}
-{245900}{}{Хлам}
-{245901}{}{Совершенно бесполезный хлам.}
-{246000}{}{Хлам}
-{246001}{}{Совершенно бесполезный хлам.}
-{246100}{}{Хлам}
-{246101}{}{Совершенно бесполезный хлам.}
-{246200}{}{Хлам}
-{246201}{}{Совершенно бесполезный хлам.}
-{246300}{}{Хлам}
-{246301}{}{Совершенно бесполезный хлам.}
-{246400}{}{Хлам}
-{246401}{}{Совершенно бесполезный хлам.}
-{246500}{}{Старый ящик}
-{246501}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{246600}{}{Старый ящик}
-{246601}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
-{246700}{}{Ящик}
-{246701}{}{Внутри ничего нет. Похоже кто-то обшарил его до Вас.}
-{246800}{}{Ящик}
-{246801}{}{Внутри ничего нет. Похоже кто-то обшарил его до Вас.}
-{246900}{}{Картина}
-{246901}{}{Что-то абстрактное и непонятное. Вам больше нравится рама, нежели эта картина.}
-{247000}{}{Старинная картина}
-{247001}{}{Интересный пейзаж. Вы понимаете, что никогда не увидите его в реальности.}
-{247100}{}{Картина}
-{247101}{}{Несколько минут изучаете картину. Настоящее искусство завораживает.}
-{247200}{}{Картина}
-{247201}{}{Интересный пейзаж. Вы понимаете, что никогда не увидите его в реальности.}
-{247300}{}{Картина}
-{247301}{}{Несколько минут изучаете картину. Настоящее искусство завораживает.}
-{247400}{}{Картина}
-{247401}{}{Что-то явно съедобное и очень важное, раз люди сочли эту еду достойной золотой рамы.}
-{247500}{}{Картина}
-{247501}{}{Что-то явно съедобное и очень важное, раз люди сочли эту еду достойной золотой рамы.}
-{247600}{}{Картина}
-{247601}{}{Что-то абстрактное и непонятное. Вам больше нравится рама, нежели эта картина.}
-{247700}{}{Заваленная лестница}
-{247701}{}{Проход наверх заблокирован.}
-{247800}{}{Картина}
-{247801}{}{Интересный пейзаж. Вы понимаете, что никогда не увидите его в реальности.}
-{247900}{}{Картина}
-{247901}{}{Что-то явно съедобное и очень важное, раз люди сочли эту еду достойной золотой рамы.}
-{248000}{}{Заваленная лестница}
-{248001}{}{Проход заблокирован.}
-{248100}{}{Лифт}
-{248101}{}{Служебный лифт, ведущий в Тартар.}
+{244000}{}{Painting}
+{244001}{}{Looks real and well preserved.}
+{244100}{}{Painting}
+{244101}{}{For several minutes you study the painting. Real art is fascinating.}
+{244200}{}{Painting}
+{244201}{}{A portrait of a man. Your manly face would also look good on a portrait in a gold frame.}
+{244300}{}{Void}
+{244400}{}{Void}
+{244500}{}{Bench}
+{244501}{}{This is not a good time to rest.}
+{244600}{}{Bench}
+{244601}{}{Four legs, a long seat, a back - it's a bench!}
+{244700}{}{Bench}
+{244701}{}{This is not a good time to rest.}
+{244800}{}{Bench}
+{244801}{}{Four legs, a long seat, a back - it's a bench!}
+{244900}{}{Old box.}
+{244901}{}{You look inside - it's empty.}
+{245000}{}{Junk}
+{245001}{}{It's completely useless junk.}
+{245100}{}{Junk}
+{245101}{}{It's completely useless junk.}
+{245200}{}{Junk}
+{245201}{}{It's completely useless junk.}
+{245300}{}{Old box.}
+{245301}{}{You examine the contents. There's nothing but garbage. You are covered in rust.}
+{245400}{}{Rusty iron.}
+{245401}{}{Not even the last vagrant would be interested in this junk.}
+{245500}{}{Rusty iron.}
+{245501}{}{Not even the last vagrant would be interested in this junk.}
+{245600}{}{Rusty iron.}
+{245601}{}{Not even the last vagrant would be interested in this junk.}
+{245700}{}{Old box.}
+{245701}{}{Looks like someone's been through it and blooded it up.}
+{245800}{}{Junk}
+{245801}{}{It's completely useless junk.}
+{245900}{}{Junk}
+{245901}{}{It's completely useless junk.}
+{246000}{}{Junk}
+{246001}{}{It's completely useless junk.}
+{246100}{}{Junk}
+{246101}{}{It's completely useless junk.}
+{246200}{}{Junk}
+{246201}{}{It's completely useless junk.}
+{246300}{}{Junk}
+{246301}{}{It's completely useless junk.}
+{246400}{}{Junk}
+{246401}{}{It's completely useless junk.}
+{246500}{}{Old box.}
+{246501}{}{Its contents may have been of interest, but that was a long time ago.}
+{246600}{}{Old box.}
+{246601}{}{Its contents may have been of interest, but that was a long time ago.}
+{246700}{}{Crate}
+{246701}{}{There's nothing inside. Looks like someone went through it before you did.}
+{246800}{}{Crate}
+{246801}{}{There's nothing inside. Looks like someone went through it before you did.}
+{246900}{}{Painting}
+{246901}{}{Something abstract and incomprehensible. You like the frame more than the painting.}
+{247000}{}{An old painting.}
+{247001}{}{An interesting landscape. You realize you will never see it in reality.}
+{247100}{}{Painting}
+{247101}{}{For several minutes you study the painting. Real art is fascinating.}
+{247200}{}{Painting}
+{247201}{}{An interesting landscape. You realize you will never see it in reality.}
+{247300}{}{Painting}
+{247301}{}{For several minutes you study the painting. Real art is fascinating.}
+{247400}{}{Painting}
+{247401}{}{Something clearly edible and very important, since people have deemed this food worthy of a gold frame.}
+{247500}{}{Painting}
+{247501}{}{Something clearly edible and very important, since people have deemed this food worthy of a gold frame.}
+{247600}{}{Painting}
+{247601}{}{Something abstract and incomprehensible. You like the frame more than the painting.}
+{247700}{}{A blocked staircase.}
+{247701}{}{The way up is blocked.}
+{247800}{}{Painting}
+{247801}{}{An interesting landscape. You realize you will never see it in reality.}
+{247900}{}{Painting}
+{247901}{}{Something clearly edible and very important, since people have deemed this food worthy of a gold frame.}
+{248000}{}{A blocked staircase.}
+{248001}{}{The passage is blocked.}
+{248100}{}{Elevator}
+{248101}{}{Service elevator leading to Tartarus.}
 {248200}{}{Bed}
-{248201}{}{Эта кровать отлично сохранилась.}
+{248201}{}{This bed is perfectly preserved.}
 {248300}{}{Bed}
-{248301}{}{Эта кровать отлично сохранилась.}
+{248301}{}{This bed is perfectly preserved.}
 {248400}{}{Bed}
-{248401}{}{Эта кровать отлично сохранилась.}
+{248401}{}{This bed is perfectly preserved.}
 {248500}{}{Bed}
-{248501}{}{Эта кровать отлично сохранилась.}
-{248600}{}{Кресло}
-{248601}{}{Настоящее кожаное кресло. Вы никогда не сидели на чем-либо настолько удобном.}
-{248700}{}{Кресло}
-{248701}{}{Настоящее кожаное кресло. Вы никогда не сидели на чем-либо настолько удобном.}
-{248800}{}{Кресло}
-{248801}{}{Настоящее кожаное кресло. Вы никогда не сидели на чем-либо настолько удобном.}
-{248900}{}{Кресло}
-{248901}{}{Настоящее кожаное кресло. Вы никогда не сидели на чем-либо настолько удобном.}
-{249000}{}{Кресло}
-{249001}{}{Очутившись в таком кресле, Ваша задница испытает неизведанные вершины комфорта.}
-{249100}{}{Кресло}
-{249101}{}{Очутившись в таком кресле, Ваша задница испытает неизведанные вершины комфорта.}
-{249200}{}{Кресло}
-{249201}{}{Очутившись в таком кресле, Ваша задница испытает неизведанные вершины комфорта.}
-{249300}{}{Кресло}
-{249301}{}{Очутившись в таком кресле, Ваша задница испытает неизведанные вершины комфорта.}
-{249400}{}{Кожаный диван}
-{249401}{}{Вы даже не представляли насколько удобной может быть мебель.}
-{249500}{}{Кожаный диван}
-{249501}{}{Вы даже не представляли насколько удобной может быть мебель.}
-{249600}{}{Кожаный диван}
-{249601}{}{Вы даже не представляли насколько удобной может быть мебель.}
-{249700}{}{Кожаный диван}
-{249701}{}{Вы даже не представляли насколько удобной может быть мебель.}
-{249800}{}{Кожаный диван}
-{249801}{}{Теперь Вы знаете что такое шикарная мебель.}
-{249900}{}{Кожаный диван}
-{249901}{}{Теперь Вы знаете что такое шикарная мебель.}
-{250000}{}{Кожаный диван}
-{250001}{}{Теперь Вы знаете что такое шикарная мебель.}
-{250100}{}{Кожаный диван}
-{250101}{}{Теперь Вы знаете что такое шикарная мебель.}
-{250200}{}{Колонна}
-{250201}{}{Прекрасный образец архитектуры эпохи неоклассицизма.}
-{250300}{}{Стойка с ячейками}
-{250301}{}{В ней до сих пор лежат ключи и старые письма.}
-{250400}{}{Колонна}
-{250401}{}{Прекрасный образец архитектуры эпохи неоклассицизма.}
-{250500}{}{Стойка}
-{250501}{}{Стойка с вывеской "Отель Хортон"}
-{250600}{}{Стойка}
-{250601}{}{Стойка с вывеской "Отель Хортон"}
-{250700}{}{Стойка}
-{250701}{}{Стойка с вывеской "Отель Хортон"}
+{248501}{}{This bed is perfectly preserved.}
+{248600}{}{Armchair}
+{248601}{}{It's a real leather chair. You've never sat in anything so comfortable.}
+{248700}{}{Armchair}
+{248701}{}{It's a real leather chair. You've never sat in anything so comfortable.}
+{248800}{}{Armchair}
+{248801}{}{It's a real leather chair. You've never sat in anything so comfortable.}
+{248900}{}{Armchair}
+{248901}{}{It's a real leather chair. You've never sat in anything so comfortable.}
+{249000}{}{Armchair}
+{249001}{}{Once in this chair, your butt will experience uncharted heights of comfort.}
+{249100}{}{Armchair}
+{249101}{}{Once in this chair, your butt will experience uncharted heights of comfort.}
+{249200}{}{Armchair}
+{249201}{}{Once in this chair, your butt will experience uncharted heights of comfort.}
+{249300}{}{Armchair}
+{249301}{}{Once in this chair, your butt will experience uncharted heights of comfort.}
+{249400}{}{Leather sofa}
+{249401}{}{You had no idea how comfortable furniture can be.}
+{249500}{}{Leather sofa}
+{249501}{}{You had no idea how comfortable furniture can be.}
+{249600}{}{Leather sofa}
+{249601}{}{You had no idea how comfortable furniture can be.}
+{249700}{}{Leather sofa}
+{249701}{}{You had no idea how comfortable furniture can be.}
+{249800}{}{Leather sofa}
+{249801}{}{Now you know what "expensive furniture" means.}
+{249900}{}{Leather sofa}
+{249901}{}{Now you know what "expensive furniture" means.}
+{250000}{}{Leather sofa}
+{250001}{}{Now you know what "expensive furniture" means.}
+{250100}{}{Leather sofa}
+{250101}{}{Now you know what "expensive furniture" means.}
+{250200}{}{Column}
+{250201}{}{A fine example of neoclassical architecture.}
+{250300}{}{Hotel counter.}
+{250301}{}{Keys and old letters are still in it.}
+{250400}{}{Column}
+{250401}{}{A fine example of neoclassical architecture.}
+{250500}{}{Counter}
+{250501}{}{The "Horton Hotel" signposted counter.}
+{250600}{}{Counter}
+{250601}{}{The "Horton Hotel" signposted counter.}
+{250700}{}{Counter}
+{250701}{}{The "Horton Hotel" signposted counter.}
 {250800}{}{stairs up}
 {250801}{}{This stairway leads to the upper floor.}
 {250900}{}{Wall}
@@ -4609,379 +4609,379 @@
 {251401}{}{This stairway leads to the upper floor.}
 {251500}{}{stairs}
 {251501}{}{This stairway leads to the lower floor.}
-{251600}{}{Заваленные лестницы}
-{251601}{}{Проходы на верхний и нижний этажи заблокированы.}
-{251700}{}{Генератор}
-{251701}{}{Устройство, вырабатывающее электроэнергию.}
-{251800}{}{Большой генератор}
-{251801}{}{Он вырабатывает энергию для башни.}
-{251900}{}{Большой генератор}
-{251901}{}{Он вырабатывает энергию для башни.}
-{252000}{}{Прицеп с вещами}
-{252001}{}{Сделан из багажника автомобиля.}
-{252100}{}{Прицеп с вещами}
-{252101}{}{Умельцы похоже переделали багажник автомобиля в прицеп.}
+{251600}{}{Cluttered stairs.}
+{251601}{}{Passages to the upper and lower floors are blocked.}
+{251700}{}{Generator}
+{251701}{}{A device that generates electricity.}
+{251800}{}{Big generator.}
+{251801}{}{It generates power for the tower.}
+{251900}{}{Big generator.}
+{251901}{}{It generates power for the tower.}
+{252000}{}{Trailer with stuff}
+{252001}{}{Made from the trunk of a car.}
+{252100}{}{Trailer with stuff}
+{252101}{}{The craftsmen seem to have converted the trunk of a car into a trailer.}
 {252200}{}{Floor}
-{252201}{}{Цифровая разметка на полу.}
+{252201}{}{Digital markings on the floor.}
 {252300}{}{Floor}
-{252301}{}{Цифровая разметка на полу.}
+{252301}{}{Digital markings on the floor.}
 {252400}{}{Floor}
-{252401}{}{Цифровая разметка на полу.}
+{252401}{}{Digital markings on the floor.}
 {252500}{}{Floor}
-{252501}{}{Цифровая разметка на полу.}
+{252501}{}{Digital markings on the floor.}
 {252600}{}{Floor}
-{252601}{}{Цифровая разметка на полу.}
+{252601}{}{Digital markings on the floor.}
 {252700}{}{Floor}
-{252701}{}{Буквенная разметка на полу.}
+{252701}{}{Alphabetic markings on the floor.}
 {252800}{}{Floor}
-{252801}{}{Буквенная разметка на полу.}
+{252801}{}{Alphabetic markings on the floor.}
 {252900}{}{Floor}
-{252901}{}{Буквенная разметка на полу.}
+{252901}{}{Alphabetic markings on the floor.}
 {253000}{}{Floor}
-{253001}{}{Буквенная разметка на полу.}
-{253100}{}{Забитая дверь}
-{253101}{}{Вы не пройдете.}
+{253001}{}{Alphabetic markings on the floor.}
+{253100}{}{Clogged door.}
+{253101}{}{You won't get through.}
 {253200}{}{Table}
-{253201}{}{Медицинский стол.}
+{253201}{}{Medical table.}
 {253300}{}{Table}
-{253301}{}{Медицинский стол.}
+{253301}{}{Medical table.}
 {253400}{}{Table}
-{253401}{}{Медицинский стол.}
-{253500}{}{Электрический щиток}
-{253501}{}{Элемент системы электрообеспечения отеля.}
-{253600}{}{Олимп}
-{253601}{}{Вот он! Обитель надежд всех страждущих.}
-{253700}{}{Олимп}
-{253701}{}{Вот он! Обитель надежд всех страждущих.}
-{253800}{}{Олимп}
-{253801}{}{Вот он! Обитель надежд всех страждущих.}
-{253900}{}{Олимп}
-{253901}{}{Вот он! Обитель надежд всех страждущих.}
-{254000}{}{Олимп}
-{254001}{}{Вот он! Обитель надежд всех страждущих.}
-{254100}{}{Олимп}
-{254101}{}{Вот он! Обитель надежд всех страждущих.}
-{254200}{}{Олимп}
-{254201}{}{Вот он! Обитель надежд всех страждущих.}
-{254300}{}{Олимп}
-{254301}{}{Вот он! Обитель надежд всех страждущих.}
-{254400}{}{Олимп}
-{254401}{}{Вот он! Обитель надежд всех страждущих.}
-{254500}{}{Олимп}
-{254501}{}{Вот он! Обитель надежд всех страждущих.}
-{254600}{}{Олимп}
-{254601}{}{Вот он! Обитель надежд всех страждущих.}
-{254700}{}{Олимп}
-{254701}{}{Вот он! Обитель надежд всех страждущих.}
-{254800}{}{Олимп}
-{254801}{}{Вот он! Обитель надежд всех страждущих.}
-{254900}{}{Лифт}
-{254901}{}{Похоже, это единственный вариант перемещаться по этажам внутри башни.}
-{255000}{}{Лифт}
-{255001}{}{Похоже это единственный вариант перемещаться по этажам внутри башни.}
-{255100}{}{Олимп}
-{255101}{}{Вот он! Обитель надежд всех страждущих.}
-{255200}{}{Олимп}
-{255201}{}{Вот он! Обитель надежд всех страждущих.}
-{255300}{}{Олимп}
-{255301}{}{Вот он! Обитель надежд всех страждущих.}
-{255400}{}{Металлическая арка}
-{255401}{}{Изрядно проржавевшая, но все еще крепкая.}
-{255500}{}{Металлическая арка}
-{255501}{}{Изрядно проржавевшая, но все еще крепкая.}
-{255600}{}{Тень}
-{255700}{}{Кофе-машина}
-{255701}{}{Вы нажимаете кнопку и ничего не происходит, видимо она сломана.}
-{255800}{}{Кофе-машина}
-{255801}{}{Вы нажимаете кнопку и ничего не происходит, видимо она сломана.}
-{255900}{}{Печь}
-{255901}{}{Обычная бытовая печь.}
-{256000}{}{Памятник}
-{256001}{}{Памятник символам довоенной эпохи. Заржавел, но не потерял внушительности.}
-{256100}{}{Памятник}
-{256101}{}{Памятник символам довоенной эпохи. Заржавел, но не потерял внушительности.}
-{256200}{}{Памятник}
-{256201}{}{Памятник символам довоенной эпохи. Заржавел, но не потерял внушительности.}
-{256300}{}{Памятник}
-{256301}{}{Памятник символам довоенной эпохи. Заржавел, но не потерял внушительности.}
-{256400}{}{Коробки}
-{256401}{}{Эти коробки пусты, здесь нечем поживиться.}
-{256500}{}{Коробки}
-{256501}{}{Эти коробки пусты, здесь нечем поживиться.}
-{256600}{}{Коробки}
-{256601}{}{Эти коробки пусты, здесь нечем поживиться.}
+{253401}{}{Medical table.}
+{253500}{}{Electrical panel.}
+{253501}{}{An element of the hotel's electrical system.}
+{253600}{}{Olympus}
+{253601}{}{Here it is! The Olympus, abode of all hopefuls.}
+{253700}{}{Olympus}
+{253701}{}{Here it is! The Olympus, abode of all hopefuls.}
+{253800}{}{Olympus}
+{253801}{}{Here it is! The Olympus, abode of all hopefuls.}
+{253900}{}{Olympus}
+{253901}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254000}{}{Olympus}
+{254001}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254100}{}{Olympus}
+{254101}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254200}{}{Olympus}
+{254201}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254300}{}{Olympus}
+{254301}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254400}{}{Olympus}
+{254401}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254500}{}{Olympus}
+{254501}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254600}{}{Olympus}
+{254601}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254700}{}{Olympus}
+{254701}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254800}{}{Olympus}
+{254801}{}{Here it is! The Olympus, abode of all hopefuls.}
+{254900}{}{Elevator}
+{254901}{}{It seems to be the only way to move around the floors of the tower.}
+{255000}{}{Elevator}
+{255001}{}{It seems to be the only way to move around the floors of the tower.}
+{255100}{}{Olympus}
+{255101}{}{Here it is! The Olympus, abode of all hopefuls.}
+{255200}{}{Olympus}
+{255201}{}{Here it is! The Olympus, abode of all hopefuls.}
+{255300}{}{Olympus}
+{255301}{}{Here it is! The Olympus, abode of all hopefuls.}
+{255400}{}{Metal archway.}
+{255401}{}{Rusty, but still strong.}
+{255500}{}{Metal archway.}
+{255501}{}{Rusty, but still strong.}
+{255600}{}{Shadow}
+{255700}{}{Coffee machine}
+{255701}{}{You press the button and nothing happen. It seems to be broken.}
+{255800}{}{Coffee machine}
+{255801}{}{You press the button and nothing happen. It seems to be broken.}
+{255900}{}{Stove}
+{255901}{}{An ordinary household oven.}
+{256000}{}{Monument}
+{256001}{}{A monument to the pre-war era. Rusted, but has not lost its impressiveness.}
+{256100}{}{Monument}
+{256101}{}{A monument to the pre-war era. Rusted, but has not lost its impressiveness.}
+{256200}{}{Monument}
+{256201}{}{A monument to the pre-war era. Rusted, but has not lost its impressiveness.}
+{256300}{}{Monument}
+{256301}{}{A monument to the pre-war era. Rusted, but has not lost its impressiveness.}
+{256400}{}{Boxes}
+{256401}{}{These boxes are empty, there is nothing to eat here.}
+{256500}{}{Boxes}
+{256501}{}{These boxes are empty, there is nothing to eat here.}
+{256600}{}{Boxes}
+{256601}{}{These boxes are empty, there is nothing to eat here.}
 {256700}{}{Table}
-{256701}{}{Медицинский стол.}
+{256701}{}{Medical table.}
 {256800}{}{Table}
-{256801}{}{Медицинский стол.}
-{256900}{}{Коробки}
-{256901}{}{Столько коробок и совершенно ничего полезного - какое разочарование!}
-{257000}{}{Коробки}
-{257001}{}{Столько коробок и совершенно ничего полезного - какое разочарование!}
-{257100}{}{Коробки}
-{257101}{}{Эти коробки пусты, здесь нечем поживиться.}
-{257200}{}{Лифт}
-{257201}{}{Двери лифта.}
-{257300}{}{Лифт}
-{257301}{}{Похоже, это единственный вариант перемещаться по этажам внутри башни.}
-{257400}{}{Лифт}
-{257401}{}{Двери лифта.}
-{257500}{}{Лифт}
-{257501}{}{Двери лифта.}
-{257600}{}{Бронепластина}
-{257601}{}{Вероятно защищает заднюю стену от разлетающихся внутренностей испытуемых.}
-{257700}{}{Генератор}
-{257701}{}{Устройство, вырабатывающее электроэнергию.}
-{257800}{}{Заблокированный вход в лифт}
-{257801}{}{Вы не пройдете.}
-{257900}{}{Аккумулятор}
-{257901}{}{Резервный источник тока.}
+{256801}{}{Medical table.}
+{256900}{}{Boxes}
+{256901}{}{So many boxes and absolutely nothing useful - what a disappointment!}
+{257000}{}{Boxes}
+{257001}{}{So many boxes and absolutely nothing useful - what a disappointment!}
+{257100}{}{Boxes}
+{257101}{}{These boxes are empty, there is nothing to eat here.}
+{257200}{}{Elevator}
+{257201}{}{The elevator doors.}
+{257300}{}{Elevator}
+{257301}{}{It seems to be the only way to move around the floors of the tower.}
+{257400}{}{Elevator}
+{257401}{}{The elevator doors.}
+{257500}{}{Elevator}
+{257501}{}{The elevator doors.}
+{257600}{}{Armor plate}
+{257601}{}{Probably protects the back wall from the spraying insides of the test subjects.}
+{257700}{}{Generator}
+{257701}{}{A device that generates electricity.}
+{257800}{}{Blocked elevator entrance.}
+{257801}{}{You won't get through.}
+{257900}{}{Battery}
+{257901}{}{Backup power source.}
 {258000}{}{Table}
-{258001}{}{Судя по инструментам это стол инженера.}
+{258001}{}{Judging by the tools, this is the engineer's desk.}
 {258100}{}{Table}
-{258101}{}{Судя по инструментам это стол инженера.}
+{258101}{}{Judging by the tools, this is the engineer's desk.}
 {258200}{}{Table}
-{258201}{}{Это самый большой стол, который Вы когда-либо видели.}
+{258201}{}{This is the biggest desk you have ever seen.}
 {258300}{}{Table}
-{258301}{}{Это самый большой стол, который Вы когда-либо видели.}
-{258400}{}{Коробки}
-{258401}{}{Эти коробки пусты, здесь нечем поживиться.}
-{258500}{}{Коробки}
-{258501}{}{Эти коробки пусты, здесь нечем поживиться.}
+{258301}{}{This is the biggest desk you have ever seen.}
+{258400}{}{Boxes}
+{258401}{}{These boxes are empty, there is nothing to eat here.}
+{258500}{}{Boxes}
+{258501}{}{These boxes are empty, there is nothing to eat here.}
 {258600}{}{Wall}
 {258700}{}{Wall}
-{258800}{}{Хлам}
-{258801}{}{Совершенно бесполезный хлам.}
-{258900}{}{Хлам}
-{258901}{}{Совершенно бесполезный хлам.}
-{259000}{}{Хлам}
-{259001}{}{Совершенно бесполезный хлам.}
-{259100}{}{Старая машина}
-{259101}{}{Вряд ли это ведро с гайками еще способно ездить.}
-{259200}{}{Балка}
-{259201}{}{Опорная конструкция.}
-{259300}{}{Балка}
-{259301}{}{Опорная конструкция.}
-{259400}{}{Балка}
-{259401}{}{Опорная конструкция.}
-{259500}{}{Балка}
-{259501}{}{Опорная конструкция.}
-{259600}{}{Балка}
-{259601}{}{Опорная конструкция.}
-{259700}{}{Балка}
-{259701}{}{Опорная конструкция.}
-{259800}{}{Балка}
-{259801}{}{Опорная конструкция.}
-{259900}{}{Балка}
-{259901}{}{Опорная конструкция.}
-{260000}{}{Балка}
-{260001}{}{Опорная конструкция.}
-{260100}{}{Балка}
-{260101}{}{Опорная конструкция.}
-{260200}{}{Балка}
-{260201}{}{Опорная конструкция.}
-{260300}{}{Балка}
-{260301}{}{Опорная конструкция.}
+{258800}{}{Junk}
+{258801}{}{It's completely useless junk.}
+{258900}{}{Junk}
+{258901}{}{It's completely useless junk.}
+{259000}{}{Junk}
+{259001}{}{It's completely useless junk.}
+{259100}{}{An old car.}
+{259101}{}{This bucket of nuts is definitely unable to ride.}
+{259200}{}{Beam}
+{259201}{}{Supporting structure.}
+{259300}{}{Beam}
+{259301}{}{Supporting structure.}
+{259400}{}{Beam}
+{259401}{}{Supporting structure.}
+{259500}{}{Beam}
+{259501}{}{Supporting structure.}
+{259600}{}{Beam}
+{259601}{}{Supporting structure.}
+{259700}{}{Beam}
+{259701}{}{Supporting structure.}
+{259800}{}{Beam}
+{259801}{}{Supporting structure.}
+{259900}{}{Beam}
+{259901}{}{Supporting structure.}
+{260000}{}{Beam}
+{260001}{}{Supporting structure.}
+{260100}{}{Beam}
+{260101}{}{Supporting structure.}
+{260200}{}{Beam}
+{260201}{}{Supporting structure.}
+{260300}{}{Beam}
+{260301}{}{Supporting structure.}
 {260400}{}{Wall}
 {260500}{}{Wall}
 {260600}{}{Wall}
 {260700}{}{Wall}
 {260800}{}{Wall}
 {260900}{}{Wall}
-{261000}{}{Вентиляция}
-{261001}{}{Вентиляционная решетка.}
-{261100}{}{Вентиляция}
-{261101}{}{Грязная вентиляционная решетка.}
-{261200}{}{Вентиляция}
-{261201}{}{Вентиляционная решетка.}
-{261300}{}{Вентиляция}
-{261301}{}{Грязная вентиляционная решетка.}
-{261400}{}{Старый ящик}
-{261401}{}{Возможно его содержимое и представляло интерес, но это было очень давно.}
+{261000}{}{Vent}
+{261001}{}{Ventilation grille.}
+{261100}{}{Vent}
+{261101}{}{Dirty ventilation grill.}
+{261200}{}{Vent}
+{261201}{}{Ventilation grille.}
+{261300}{}{Vent}
+{261301}{}{Dirty ventilation grill.}
+{261400}{}{Old box.}
+{261401}{}{Its contents may have been of interest, but that was a long time ago.}
 {261500}{}{Junk}
-{261501}{}{Вряд ли кто-то способен найти этому хламу применение.}
+{261501}{}{Hardly anyone can find a use for this junk.}
 {261600}{}{Junk}
-{261601}{}{Вряд ли кто-то способен найти этому хламу применение.}
-{261700}{}{Койка}
-{261701}{}{Больничная койка с монитором.}
+{261601}{}{Hardly anyone can find a use for this junk.}
+{261700}{}{Bunk}
+{261701}{}{A hospital bed with a monitor.}
 {261800}{}{Wall}
 {261900}{}{Wall}
 {262000}{}{Wall}
 {262100}{}{Wall}
-{262200}{}{Урна}
-{262201}{}{Полная урна мусора.}
-{262300}{}{Коробка}
-{262301}{}{Ничего интересного - один бесполезный хлам.}
-{262400}{}{Труба}
-{262401}{}{Элемент коммуникационных систем Олимпа.}
-{262500}{}{Огромная машина}
-{262501}{}{На машине написано "Клон-машина".}
-{262600}{}{Огромная машина}
-{262601}{}{На машине написано "Клон-машина".}
-{262700}{}{Металлическая пластина.}
-{262701}{}{Крайне маловероятно, что она Вам пригодится.}
-{262800}{}{Металлическая пластина.}
-{262801}{}{Крайне маловероятно, что она Вам пригодится.}
-{262900}{}{Металлическая пластина.}
-{262901}{}{Крайне маловероятно, что она Вам пригодится.}
-{263000}{}{Коробка}
-{263001}{}{Полная коробка барахла и ни единого полезного предмета.}
-{263100}{}{Коробка}
-{263101}{}{Полная коробка барахла и ни единого полезного предмета.}
-{263200}{}{Коробка}
-{263201}{}{Полная коробка барахла и ни единого полезного предмета.}
-{263300}{}{Ящик}
-{263301}{}{Крепкий и надежный, но совершенно пустой.}
-{263400}{}{Хлам}
-{263401}{}{Вряд ли кто-то способен найти этому хламу применение.}
+{262200}{}{Bin}
+{262201}{}{A bin, full of garbage.}
+{262300}{}{Box}
+{262301}{}{Nothing interesting - just useless junk.}
+{262400}{}{Pipe}
+{262401}{}{An element of Olympus' communication systems.}
+{262500}{}{Huge machine.}
+{262501}{}{The sign says: "Cloning machine".}
+{262600}{}{Huge machine.}
+{262601}{}{The sign says: "Cloning machine".}
+{262700}{}{Metal plate.}
+{262701}{}{Highly unlikely to be of any use to you.}
+{262800}{}{Metal plate.}
+{262801}{}{Highly unlikely to be of any use to you.}
+{262900}{}{Metal plate.}
+{262901}{}{Highly unlikely to be of any use to you.}
+{263000}{}{Box}
+{263001}{}{Full box of junk, and not a single useful item.}
+{263100}{}{Box}
+{263101}{}{Full box of junk, and not a single useful item.}
+{263200}{}{Box}
+{263201}{}{Full box of junk, and not a single useful item.}
+{263300}{}{Crate}
+{263301}{}{Sturdy and reliable, but completely empty.}
+{263400}{}{Junk}
+{263401}{}{Hardly anyone can find a use for this junk.}
 {263500}{}{Wall}
 {263600}{}{Wall}
 {263700}{}{Wall}
 {263800}{}{Wall}
-{263900}{}{Громкоговоритель}
-{263901}{}{Старый ржавый громкоговоритель.}
-{264000}{}{Громкоговоритель}
-{264001}{}{Старый ржавый громкоговоритель.}
-{264100}{}{Огромная машина}
-{264101}{}{На машине написано "Клон-машина".}
-{264200}{}{Огромная машина}
-{264201}{}{На машине написано "Клон-машина".}
-{264300}{}{Огромная машина}
-{264301}{}{На машине написано "Клон-машина".}
-{264400}{}{Огромная машина}
-{264401}{}{На машине написано "Клон-машина".}
-{264500}{}{Труп}
-{264501}{}{Кажется в этой машине что-то пошло не так.}
-{264600}{}{Старый ящик}
-{264601}{}{Такой огромный и такой пустой.}
-{264700}{}{Ящик}
-{264701}{}{Внутри только бесполезный мусор.}
+{263900}{}{Loudspeaker}
+{263901}{}{An old, rusty loudspeaker.}
+{264000}{}{Loudspeaker}
+{264001}{}{An old, rusty loudspeaker.}
+{264100}{}{Huge machine.}
+{264101}{}{The sign says: "Cloning machine".}
+{264200}{}{Huge machine.}
+{264201}{}{The sign says: "Cloning machine".}
+{264300}{}{Huge machine.}
+{264301}{}{The sign says: "Cloning machine".}
+{264400}{}{Huge machine.}
+{264401}{}{The sign says: "Cloning machine".}
+{264500}{}{Corpse}
+{264501}{}{Something seems to have gone wrong with this car.}
+{264600}{}{Old box.}
+{264601}{}{So huge and so empty.}
+{264700}{}{Crate}
+{264701}{}{Nothing but useless junk inside.}
 {264800}{}{Wall}
 {264900}{}{Wall}
-{265000}{}{Стол с вычислителем}
-{265001}{}{Рабочее место инженера.}
-{265100}{}{Стол с вычислителем}
-{265101}{}{Рабочее место инженера с включенным вычислителем.}
-{265200}{}{Стол с вычислителем}
-{265201}{}{Рабочее место инженера.}
-{265300}{}{Стол с вычислителем}
-{265301}{}{Рабочее место инженера с включенным вычислителем.}
-{265400}{}{Стол с вычислителем}
-{265401}{}{Рабочее место инженера с включенным вычислителем.}
-{265500}{}{Стол с вычислителем}
-{265501}{}{Рабочее место инженера.}
-{265600}{}{Стол с вычислителем}
-{265601}{}{Рабочее место инженера с включенным вычислителем.}
-{265700}{}{Стол с вычислителем}
-{265701}{}{Рабочее место инженера.}
-{265800}{}{Стул}
-{265801}{}{Предмет мебели, предназначенный для поддержания тела человека в сидячем положении.}
-{265900}{}{Стул}
-{265901}{}{Этот стул был бы совсем обыкновенным, если бы не колесики. Интересно, здесь устраивали гонки на стульях?}
-{266000}{}{Стул}
-{266001}{}{Этот стул был бы совсем обыкновенным, если бы не колесики. Интересно, здесь устраивали гонки на стульях?}
-{266100}{}{Стул}
-{266101}{}{Предмет мебели, предназначенный для поддержания тела человека в сидячем положении.}
-{266200}{}{Хлам}
-{266201}{}{Даже последний бродяга не заинтересовался бы этим хламом.}
-{266300}{}{Коробка}
-{266301}{}{Обычная коробка с бесполезным хламом.}
-{266400}{}{Коробка}
-{266401}{}{Обычная коробка с бесполезным хламом.}
-{266500}{}{Провода}
-{266501}{}{Напольный кабель.}
-{266600}{}{Провода}
-{266601}{}{Напольный кабель.}
-{266700}{}{Провода}
-{266701}{}{Напольный кабель.}
-{266800}{}{Провода}
-{266801}{}{Напольный кабель.}
-{266900}{}{Провода}
-{266901}{}{Напольный кабель.}
-{267000}{}{Провода}
-{267001}{}{Напольный кабель.}
-{267100}{}{Провода}
-{267101}{}{Напольный кабель.}
-{267200}{}{Хлам}
-{267201}{}{Совершенно бесполезный хлам.}
-{267300}{}{Хлам}
-{267301}{}{Совершенно бесполезный хлам.}
-{267400}{}{Хлам}
-{267401}{}{Совершенно бесполезный хлам.}
-{267500}{}{Хлам}
-{267501}{}{Бесполезный мусор.}
-{267600}{}{Хлам}
-{267601}{}{Бесполезный мусор.}
-{267700}{}{Хлам}
-{267701}{}{Совершенно бесполезный хлам.}
+{265000}{}{A desk with a calculator.}
+{265001}{}{The engineer's workstation.}
+{265100}{}{A desk with a calculator.}
+{265101}{}{An engineer's workstation with a calculator on.}
+{265200}{}{A desk with a calculator.}
+{265201}{}{The engineer's workstation.}
+{265300}{}{A desk with a calculator.}
+{265301}{}{An engineer's workstation with a calculator on.}
+{265400}{}{A desk with a calculator.}
+{265401}{}{An engineer's workstation with a calculator on.}
+{265500}{}{A desk with a calculator.}
+{265501}{}{The engineer's workstation.}
+{265600}{}{A desk with a calculator.}
+{265601}{}{An engineer's workstation with a calculator on.}
+{265700}{}{A desk with a calculator.}
+{265701}{}{The engineer's workstation.}
+{265800}{}{Chair.}
+{265801}{}{A piece of furniture designed to support the human body in a seated position.}
+{265900}{}{Chair.}
+{265901}{}{This chair would have been quite ordinary if it weren't for the wheels. You wonder if they used to have chair races here.}
+{266000}{}{Chair.}
+{266001}{}{This chair would have been quite ordinary if it weren't for the wheels. You wonder if they used to have chair races here.}
+{266100}{}{Chair.}
+{266101}{}{A piece of furniture designed to support the human body in a seated position.}
+{266200}{}{Junk}
+{266201}{}{Not even the last vagrant would be interested in this junk.}
+{266300}{}{Box}
+{266301}{}{An ordinary box of useless junk.}
+{266400}{}{Box}
+{266401}{}{An ordinary box of useless junk.}
+{266500}{}{Wires}
+{266501}{}{Floor cable.}
+{266600}{}{Wires}
+{266601}{}{Floor cable.}
+{266700}{}{Wires}
+{266701}{}{Floor cable.}
+{266800}{}{Wires}
+{266801}{}{Floor cable.}
+{266900}{}{Wires}
+{266901}{}{Floor cable.}
+{267000}{}{Wires}
+{267001}{}{Floor cable.}
+{267100}{}{Wires}
+{267101}{}{Floor cable.}
+{267200}{}{Junk}
+{267201}{}{It's completely useless junk.}
+{267300}{}{Junk}
+{267301}{}{It's completely useless junk.}
+{267400}{}{Junk}
+{267401}{}{It's completely useless junk.}
+{267500}{}{Junk}
+{267501}{}{A useless pile of junk.}
+{267600}{}{Junk}
+{267601}{}{A useless pile of junk.}
+{267700}{}{Junk}
+{267701}{}{It's completely useless junk.}
 {267800}{}{Junk}
-{267801}{}{В бутылке какая-то сомнительная жидкость, ее лучше не трогать.}
+{267801}{}{There is some dubious liquid in the bottle. Better not to touch it.}
 {267900}{}{Junk}
-{267901}{}{Обычная пустая бутылка.}
-{268000}{}{Хлам}
-{268001}{}{Трудно вообразить, что кто-то в здравом уме способен заинтересоваться этим хламом.}
-{268100}{}{Хлам}
-{268101}{}{Кучка бесполезного хлама.}
-{268200}{}{Хлам}
-{268201}{}{Трудно вообразить, что кто-то в здравом уме способен заинтересоваться этим хламом.}
-{268300}{}{Хлам}
-{268301}{}{Трудно вообразить, что кто-то в здравом уме способен заинтересоваться этим хламом.}
-{268400}{}{Вычислитель}
-{268401}{}{Отсюда осуществляется управление солнечными батареями башни.}
-{268500}{}{Ограждение}
-{268501}{}{Заржавевшее аварийное ограждение.}
-{268600}{}{Ограждение}
-{268601}{}{Заржавевшее аварийное ограждение.}
-{268700}{}{Ограждение}
-{268701}{}{Заржавевшее аварийное ограждение.}
-{268800}{}{Ограждение}
-{268801}{}{Заржавевшее аварийное ограждение.}
+{267901}{}{Just an empty bottle.}
+{268000}{}{Junk}
+{268001}{}{It is hard to imagine that anyone in their right mind would be interested in this junk.}
+{268100}{}{Junk}
+{268101}{}{A bunch of useless junk.}
+{268200}{}{Junk}
+{268201}{}{It is hard to imagine that anyone in their right mind would be interested in this junk.}
+{268300}{}{Junk}
+{268301}{}{It is hard to imagine that anyone in their right mind would be interested in this junk.}
+{268400}{}{Calculator}
+{268401}{}{This is where the tower's solar panels are controlled.}
+{268500}{}{Barrier}
+{268501}{}{The rusted-out emergency fence.}
+{268600}{}{Barrier}
+{268601}{}{The rusted-out emergency fence.}
+{268700}{}{Barrier}
+{268701}{}{The rusted-out emergency fence.}
+{268800}{}{Barrier}
+{268801}{}{The rusted-out emergency fence.}
 {268900}{}{Wall}
 {268901}{}{The wall of the skyscraper.}
 {269000}{}{Wall}
 {269001}{}{The wall of the skyscraper.}
-{269100}{}{Парапет}
-{269101}{}{На него можно облокотиться и задумчиво смотреть вдаль.}
-{269200}{}{Парапет}
-{269201}{}{На него можно облокотиться и задумчиво смотреть вдаль.}
-{269300}{}{Парапет}
-{269301}{}{На него можно облокотиться и задумчиво смотреть вдаль.}
-{269400}{}{Освещение}
-{269500}{}{Освещение}
-{269600}{}{Пустоши}
-{269601}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{269700}{}{Пустоши}
-{269701}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{269800}{}{Пустоши}
-{269801}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{269900}{}{Пустоши}
-{269901}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270000}{}{Пустоши}
-{270001}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270100}{}{Пустоши}
-{270101}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270200}{}{Пустоши}
-{270201}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270300}{}{Пустоши}
-{270301}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270400}{}{Пустоши}
-{270401}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270500}{}{Пустоши}
-{270501}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270600}{}{Пустоши}
-{270601}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270700}{}{Пустоши}
-{270701}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270800}{}{Пустоши}
-{270801}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{270900}{}{Пустоши}
-{270901}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{271000}{}{Пустоши}
-{271001}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{271100}{}{Пустоши}
-{271101}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{271200}{}{Бронзовый орел}
-{271201}{}{Огромный орел - символ непобедимой страны.}
+{269100}{}{Parapet}
+{269101}{}{You can lean on it and look thoughtfully into the distance.}
+{269200}{}{Parapet}
+{269201}{}{You can lean on it and look thoughtfully into the distance.}
+{269300}{}{Parapet}
+{269301}{}{You can lean on it and look thoughtfully into the distance.}
+{269400}{}{Lights}
+{269500}{}{Lights}
+{269600}{}{Wasteland}
+{269601}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{269700}{}{Wasteland}
+{269701}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{269800}{}{Wasteland}
+{269801}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{269900}{}{Wasteland}
+{269901}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270000}{}{Wasteland}
+{270001}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270100}{}{Wasteland}
+{270101}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270200}{}{Wasteland}
+{270201}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270300}{}{Wasteland}
+{270301}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270400}{}{Wasteland}
+{270401}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270500}{}{Wasteland}
+{270501}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270600}{}{Wasteland}
+{270601}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270700}{}{Wasteland}
+{270701}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270800}{}{Wasteland}
+{270801}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{270900}{}{Wasteland}
+{270901}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{271000}{}{Wasteland}
+{271001}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{271100}{}{Wasteland}
+{271101}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{271200}{}{The Bronze Eagle}
+{271201}{}{The enormous eagle is the symbol of an invincible country.}
 {271300}{}{Wall}
 {271301}{}{The wall of the skyscraper.}
 {271400}{}{Wall}
@@ -4996,435 +4996,435 @@
 {271801}{}{The wall of the skyscraper.}
 {271900}{}{Wall}
 {271901}{}{The wall of the skyscraper.}
-{272000}{}{Пустоши}
-{272001}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272100}{}{Пустоши}
-{272101}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272200}{}{Пустоши}
-{272201}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272300}{}{Пустоши}
-{272301}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272400}{}{Пустоши}
-{272401}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272500}{}{Пустоши}
-{272501}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272600}{}{Диван}
-{272601}{}{Роскошный кожаный диван.}
-{272700}{}{Диван}
-{272701}{}{Роскошный кожаный диван.}
-{272800}{}{Пустоши}
-{272801}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{272900}{}{Пустоши}
-{272901}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273000}{}{Пустоши}
-{273001}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273100}{}{Пустоши}
-{273101}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273200}{}{Пустоши}
-{273201}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273300}{}{Пустоши}
-{273301}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273400}{}{Пустоши}
-{273401}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273500}{}{Пустоши}
-{273501}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273600}{}{Пустоши}
-{273601}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273700}{}{Пустоши}
-{273701}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273800}{}{Пустоши}
-{273801}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{273900}{}{Пустоши}
-{273901}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{274000}{}{Пустоши}
-{274001}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{274100}{}{Пустоши}
-{274101}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{274200}{}{Пустоши}
-{274201}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{274300}{}{Пустоши}
-{274301}{}{Отсюда пустоши выглядят мирными и спокойными. Понемногу Вы забываете о жестокости и опасностях Радиуса внизу.}
-{274400}{}{Биомасса}
-{274401}{}{Биоматерия, совокупность организмов.}
-{274500}{}{Биомасса}
-{274501}{}{Биоматерия, совокупность организмов.}
-{274600}{}{Биомасса}
-{274601}{}{Биоматерия, совокупность организмов.}
-{274700}{}{Биомасса}
-{274701}{}{Биоматерия, совокупность организмов.}
-{274800}{}{Биомасса}
-{274801}{}{Биоматерия, совокупность организмов.}
-{274900}{}{Лифт}
-{274901}{}{Двери лифта.}
-{275000}{}{Двери}
-{275001}{}{Проход заблокирован.}
-{275100}{}{Двери}
-{275101}{}{Проход заблокирован.}
+{272000}{}{Wasteland}
+{272001}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272100}{}{Wasteland}
+{272101}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272200}{}{Wasteland}
+{272201}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272300}{}{Wasteland}
+{272301}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272400}{}{Wasteland}
+{272401}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272500}{}{Wasteland}
+{272501}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272600}{}{Sofa}
+{272601}{}{A luxurious leather sofa.}
+{272700}{}{Sofa}
+{272701}{}{A luxurious leather sofa.}
+{272800}{}{Wasteland}
+{272801}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{272900}{}{Wasteland}
+{272901}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273000}{}{Wasteland}
+{273001}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273100}{}{Wasteland}
+{273101}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273200}{}{Wasteland}
+{273201}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273300}{}{Wasteland}
+{273301}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273400}{}{Wasteland}
+{273401}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273500}{}{Wasteland}
+{273501}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273600}{}{Wasteland}
+{273601}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273700}{}{Wasteland}
+{273701}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273800}{}{Wasteland}
+{273801}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{273900}{}{Wasteland}
+{273901}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{274000}{}{Wasteland}
+{274001}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{274100}{}{Wasteland}
+{274101}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{274200}{}{Wasteland}
+{274201}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{274300}{}{Wasteland}
+{274301}{}{From here, the wasteland looks peaceful and quiet. You start to forget the violence and dangers of Radius below.}
+{274400}{}{Biomass}
+{274401}{}{Biomatter, a collection of organisms.}
+{274500}{}{Biomass}
+{274501}{}{Biomatter, a collection of organisms.}
+{274600}{}{Biomass}
+{274601}{}{Biomatter, a collection of organisms.}
+{274700}{}{Biomass}
+{274701}{}{Biomatter, a collection of organisms.}
+{274800}{}{Biomass}
+{274801}{}{Biomatter, a collection of organisms.}
+{274900}{}{Elevator}
+{274901}{}{The elevator doors.}
+{275000}{}{Door}
+{275001}{}{The passage is blocked.}
+{275100}{}{Door}
+{275101}{}{The passage is blocked.}
 {275200}{}{Table}
-{275201}{}{Это самый большой стол, который Вы когда-либо видели.}
+{275201}{}{This is the biggest desk you have ever seen.}
 {275300}{}{Table}
-{275301}{}{Это самый большой стол, который Вы когда-либо видели.}
-{275400}{}{Вычислитель}
-{275401}{}{Центр адаптивной защиты "Цербер".}
-{275500}{}{Вычислитель}
-{275501}{}{Центр превентивных расчетов "Андромеда".}
-{275600}{}{Вычислитель}
-{275601}{}{Центр логических модуляций "Борей".}
-{275700}{}{Система охлаждения}
-{275701}{}{Вы слышите как по трубкам циркулирует охлаждающая жидкость.}
-{275800}{}{Систематизатор}
-{275801}{}{Огромная вычислительная машина с кучей мигающих лампочек.}
-{275900}{}{Систематизатор}
-{275901}{}{Огромная вычислительная машина с кучей мигающих лампочек.}
-{276000}{}{Экран}
-{276001}{}{Огромный покрытый пылью экран, похоже, он не работал много лет.}
-{276100}{}{Кресло}
-{276101}{}{Удобное кожаное кресло.}
-{276200}{}{Диван}
-{276201}{}{Роскошный кожаный диван.}
-{276300}{}{Диван}
-{276301}{}{Роскошный кожаный диван.}
-{276400}{}{Кресло}
-{276401}{}{Удобное кожаное кресло.}
-{276500}{}{Вычислитель}
-{276501}{}{Судя по размеру, эта махина обладает огромными вычислительными мощностями.}
-{276600}{}{вычислитель}
-{276601}{}{Судя по размеру, эта махина обладает огромными вычислительными мощностями.}
-{276700}{}{Вычислитель}
-{276701}{}{Судя по размеру, эта махина обладает огромными вычислительными мощностями.}
-{276800}{}{Вычислитель}
-{276801}{}{Судя по размеру, эта махина обладает огромными вычислительными мощностями.}
-{276900}{}{Камера}
-{276901}{}{Судя по горящей лампочке она снимает, вероятно, Вас.}
-{277000}{}{Громкоговоритель}
-{277001}{}{Старый громкоговоритель, вероятно, он еще работает.}
-{277100}{}{Лифт}
-{277101}{}{Двери лифта.}
-{277200}{}{Осколки}
-{277201}{}{Тысячи их! И каждый по-своему уникален.}
-{277300}{}{Осколки}
-{277301}{}{Тысячи их! И каждый по-своему уникален.}
-{277400}{}{Осколки}
-{277401}{}{Тысячи их! И каждый по-своему уникален.}
-{277500}{}{Осколки}
-{277501}{}{Тысячи их! И каждый по-своему уникален.}
-{277600}{}{Осколки}
-{277601}{}{Тысячи их! И каждый по-своему уникален.}
-{277700}{}{Осколки}
-{277701}{}{Тысячи их! И каждый по-своему уникален.}
-{277800}{}{Осколки}
-{277801}{}{Тысячи их! И каждый по-своему уникален.}
-{277900}{}{Осколки}
-{277901}{}{Тысячи их! И каждый по-своему уникален.}
-{278000}{}{Осколки}
-{278001}{}{Тысячи их! И каждый по-своему уникален.}
-{278100}{}{Осколки}
-{278101}{}{Тысячи их! И каждый по-своему уникален.}
-{278200}{}{Осколки}
-{278201}{}{Тысячи их! И каждый по-своему уникален.}
-{278300}{}{Осколки}
-{278301}{}{Тысячи их! И каждый по-своему уникален.}
-{278400}{}{Осколки}
-{278401}{}{Тысячи их! И каждый по-своему уникален.}
-{278500}{}{Осколки}
-{278501}{}{Тысячи их! И каждый по-своему уникален.}
-{278600}{}{Осколки}
-{278601}{}{Тысячи их! И каждый по-своему уникален.}
-{278700}{}{Осколки}
-{278701}{}{Тысячи их! И каждый по-своему уникален.}
-{278800}{}{Осколки}
-{278801}{}{Тысячи их! И каждый по-своему уникален.}
-{278900}{}{Осколки}
-{278901}{}{Тысячи их! И каждый по-своему уникален.}
-{279000}{}{Осколки}
-{279001}{}{Тысячи их! И каждый по-своему уникален.}
-{279100}{}{Осколки}
-{279101}{}{Тысячи их! И каждый по-своему уникален.}
-{279200}{}{Осколки}
-{279201}{}{Тысячи их! И каждый по-своему уникален.}
-{279300}{}{Осколки}
-{279301}{}{Тысячи их! И каждый по-своему уникален.}
-{279400}{}{Осколки}
-{279401}{}{Тысячи их! И каждый по-своему уникален.}
-{279500}{}{Осколки}
-{279501}{}{Тысячи их! И каждый по-своему уникален.}
-{279600}{}{Осколки}
-{279601}{}{Тысячи их! И каждый по-своему уникален.}
-{279700}{}{Осколки}
-{279701}{}{Тысячи их! И каждый по-своему уникален.}
-{279800}{}{Осколки}
-{279801}{}{Тысячи их! И каждый по-своему уникален.}
-{279900}{}{Осколки}
-{279901}{}{Тысячи их! И каждый по-своему уникален.}
-{280000}{}{Осколки}
-{280001}{}{Тысячи их! И каждый по-своему уникален.}
-{280100}{}{Осколки}
-{280101}{}{Тысячи их! И каждый по-своему уникален.}
-{280200}{}{Система контроля башни}
-{280201}{}{На больших мониторах с огромной скоростью пробегают строки символов.}
-{280300}{}{Система контроля башни}
-{280301}{}{На больших мониторах с огромной скоростью пробегают строки символов.}
-{280400}{}{Система контроля башни}
-{280401}{}{На больших мониторах с огромной скоростью пробегают строки символов.}
-{280500}{}{Система контроля башни}
-{280501}{}{На больших мониторах с огромной скоростью пробегают строки символов.}
+{275301}{}{This is the biggest desk you have ever seen.}
+{275400}{}{Calculator}
+{275401}{}{"Cerberus" security module}
+{275500}{}{Calculator}
+{275501}{}{"Andromeda" computation module}
+{275600}{}{Calculator}
+{275601}{}{"Borealis" logical module}
+{275700}{}{Cooling system}
+{275701}{}{You can hear the coolant circulating through the tubes.}
+{275800}{}{Systematizer}
+{275801}{}{A huge computing machine with a bunch of flashing lights.}
+{275900}{}{Systematizer}
+{275901}{}{A huge computing machine with a bunch of flashing lights.}
+{276000}{}{Screen}
+{276001}{}{A huge screen, covered in dust. Looks like it hasn't worked in years.}
+{276100}{}{Armchair}
+{276101}{}{A comfortable leather chair.}
+{276200}{}{Sofa}
+{276201}{}{A luxurious leather sofa.}
+{276300}{}{Sofa}
+{276301}{}{A luxurious leather sofa.}
+{276400}{}{Armchair}
+{276401}{}{A comfortable leather chair.}
+{276500}{}{Calculator}
+{276501}{}{Judging by its size, this machine has enormous computing power.}
+{276600}{}{Calculator}
+{276601}{}{Judging by its size, this machine has enormous computing power.}
+{276700}{}{Calculator}
+{276701}{}{Judging by its size, this machine has enormous computing power.}
+{276800}{}{Calculator}
+{276801}{}{Judging by its size, this machine has enormous computing power.}
+{276900}{}{Camera}
+{276901}{}{It's probably filming you.}
+{277000}{}{Loudspeaker}
+{277001}{}{An old loudspeaker. It probably still works.}
+{277100}{}{Elevator}
+{277101}{}{The elevator doors.}
+{277200}{}{Shards}
+{277201}{}{Thousands of them! And each one is unique in its own way.}
+{277300}{}{Shards}
+{277301}{}{Thousands of them! And each one is unique in its own way.}
+{277400}{}{Shards}
+{277401}{}{Thousands of them! And each one is unique in its own way.}
+{277500}{}{Shards}
+{277501}{}{Thousands of them! And each one is unique in its own way.}
+{277600}{}{Shards}
+{277601}{}{Thousands of them! And each one is unique in its own way.}
+{277700}{}{Shards}
+{277701}{}{Thousands of them! And each one is unique in its own way.}
+{277800}{}{Shards}
+{277801}{}{Thousands of them! And each one is unique in its own way.}
+{277900}{}{Shards}
+{277901}{}{Thousands of them! And each one is unique in its own way.}
+{278000}{}{Shards}
+{278001}{}{Thousands of them! And each one is unique in its own way.}
+{278100}{}{Shards}
+{278101}{}{Thousands of them! And each one is unique in its own way.}
+{278200}{}{Shards}
+{278201}{}{Thousands of them! And each one is unique in its own way.}
+{278300}{}{Shards}
+{278301}{}{Thousands of them! And each one is unique in its own way.}
+{278400}{}{Shards}
+{278401}{}{Thousands of them! And each one is unique in its own way.}
+{278500}{}{Shards}
+{278501}{}{Thousands of them! And each one is unique in its own way.}
+{278600}{}{Shards}
+{278601}{}{Thousands of them! And each one is unique in its own way.}
+{278700}{}{Shards}
+{278701}{}{Thousands of them! And each one is unique in its own way.}
+{278800}{}{Shards}
+{278801}{}{Thousands of them! And each one is unique in its own way.}
+{278900}{}{Shards}
+{278901}{}{Thousands of them! And each one is unique in its own way.}
+{279000}{}{Shards}
+{279001}{}{Thousands of them! And each one is unique in its own way.}
+{279100}{}{Shards}
+{279101}{}{Thousands of them! And each one is unique in its own way.}
+{279200}{}{Shards}
+{279201}{}{Thousands of them! And each one is unique in its own way.}
+{279300}{}{Shards}
+{279301}{}{Thousands of them! And each one is unique in its own way.}
+{279400}{}{Shards}
+{279401}{}{Thousands of them! And each one is unique in its own way.}
+{279500}{}{Shards}
+{279501}{}{Thousands of them! And each one is unique in its own way.}
+{279600}{}{Shards}
+{279601}{}{Thousands of them! And each one is unique in its own way.}
+{279700}{}{Shards}
+{279701}{}{Thousands of them! And each one is unique in its own way.}
+{279800}{}{Shards}
+{279801}{}{Thousands of them! And each one is unique in its own way.}
+{279900}{}{Shards}
+{279901}{}{Thousands of them! And each one is unique in its own way.}
+{280000}{}{Shards}
+{280001}{}{Thousands of them! And each one is unique in its own way.}
+{280100}{}{Shards}
+{280101}{}{Thousands of them! And each one is unique in its own way.}
+{280200}{}{Tower control system.}
+{280201}{}{On the large monitors, lines of characters run at a tremendous speed.}
+{280300}{}{Tower control system.}
+{280301}{}{On the large monitors, lines of characters run at a tremendous speed.}
+{280400}{}{Tower control system.}
+{280401}{}{On the large monitors, lines of characters run at a tremendous speed.}
+{280500}{}{Tower control system.}
+{280501}{}{On the large monitors, lines of characters run at a tremendous speed.}
 {280600}{}{Floor}
-{280601}{}{Из под решетчатых пластин на полу пробивается красноватое свечение.}
+{280601}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
 {280700}{}{Floor}
-{280701}{}{Из под решетчатых пластин на полу пробивается красноватое свечение.}
+{280701}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
 {280800}{}{Floor}
-{280801}{}{Из под решетчатых пластин на полу пробивается красноватое свечение.}
+{280801}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
 {280900}{}{Floor}
-{280901}{}{Из под решетчатых пластин на полу пробивается красноватое свечение.}
+{280901}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
 {281000}{}{Floor}
-{281001}{}{Из под решетчатых пластин на полу пробивается красноватое свечение.}
-{281100}{}{Бронестена}
-{281101}{}{Защитная конструкция.}
-{281200}{}{Бронестена}
-{281201}{}{Защитная конструкция.}
-{281300}{}{Бронестена}
-{281301}{}{Защитная конструкция.}
-{281400}{}{Бронестена}
-{281401}{}{Защитная конструкция.}
-{281500}{}{Бронестена}
-{281501}{}{Защитная конструкция.}
-{281600}{}{Бронестена}
-{281601}{}{Защитная конструкция.}
-{281700}{}{Бронестена}
-{281701}{}{Защитная конструкция.}
-{281800}{}{Бронестена}
-{281801}{}{Защитная конструкция.}
-{281900}{}{Бронестена}
-{281901}{}{Защитная конструкция.}
-{282000}{}{Разбитый защитный экран}
-{282001}{}{Экран разлетелся вдребезги.}
-{282100}{}{Разбитый защитный экран}
-{282101}{}{Экран разлетелся вдребезги.}
-{282200}{}{Разбитый защитный экран}
-{282201}{}{Экран разлетелся вдребезги.}
-{282300}{}{Ядовитая жижа}
-{282301}{}{Жутковато побулькивает.}
-{282400}{}{Ядовитая жижа}
-{282401}{}{Жутковато побулькивает.}
-{282500}{}{Ядовитая жижа}
-{282501}{}{Жутковато побулькивает.}
-{282600}{}{Стальная дверь}
-{282601}{}{Ржавая, но выглядит вполне надежной.}
-{282700}{}{Труп женщины}
-{282701}{}{Ужасно смердящие останки какой-то женщины.}
-{282800}{}{Песок}
-{282900}{}{Песок}
-{283000}{}{Песок}
-{283100}{}{Песок}
-{283200}{}{Песок}
-{283300}{}{Хлам}
-{283301}{}{Какой-то мусор в воде.}
-{283400}{}{Ваза}
-{283401}{}{Глиняная ваза, наполненная чем-то очень похожим на кровь.}
-{283500}{}{Ведро}
-{283501}{}{Ничего необычного - простое ведро, из которого свисают чьи-то кишки.}
-{283600}{}{Тотем}
-{283601}{}{Похоже аборигены молятся этой штуке.}
-{283700}{}{Тотем}
-{283701}{}{Похоже аборигены молятся этой штуке.}
-{283800}{}{Тотем}
-{283801}{}{Похоже аборигены молятся этой штуке.}
-{283900}{}{Тотем}
-{283901}{}{Похоже аборигены молятся этой штуке.}
-{284000}{}{Тотем}
-{284001}{}{Устрашаюшая штука с черепом, костями и красными глазами - у аборигенов оригинальные представления о богах.}
-{284100}{}{Тотем}
-{284101}{}{Устрашаюшая штука с черепом, костями и красными глазами - у аборигенов оригинальные представления о богах.}
-{284200}{}{Странный пень}
-{284201}{}{Непонятная конструкция с тлеющими углями, наверное, несет какой-то религиозный смысл.}
-{284300}{}{Странный пень}
-{284301}{}{Непонятная конструкция с тлеющими углями, наверное, несет какой-то религиозный смысл.}
-{284400}{}{Прут}
-{284401}{}{Толстый металлический прут.}
-{284500}{}{Дерево}
-{284501}{}{Высохшее дерево.}
-{284600}{}{Дерево}
-{284601}{}{Высохшее дерево.}
-{284700}{}{Дерево}
-{284701}{}{Высохшее дерево.}
-{284800}{}{Дерево}
-{284801}{}{Высохшее дерево.}
-{284900}{}{Дерево}
-{284901}{}{Высохшее дерево.}
-{285000}{}{Дерево}
-{285001}{}{Высохшее дерево.}
-{285100}{}{Дерево}
-{285101}{}{Высохшее дерево.}
-{285200}{}{Дерево}
-{285201}{}{Высохшее дерево.}
-{285300}{}{Дерево}
-{285301}{}{Высохшее дерево.}
-{285400}{}{Дерево}
-{285401}{}{Высохшее дерево.}
-{285500}{}{Дерево}
-{285501}{}{Высохшее дерево.}
-{285600}{}{Дерево}
-{285601}{}{Высохшее дерево.}
-{285700}{}{Дерево}
-{285701}{}{Высохшее дерево.}
-{285800}{}{Дерево}
-{285801}{}{Высохшее дерево.}
-{285900}{}{Дерево}
-{285901}{}{Высохшее дерево.}
-{286000}{}{Дерево}
-{286001}{}{Высохшее дерево.}
-{286100}{}{Листва}
-{286101}{}{Какое-то растение.}
-{286200}{}{Листва}
-{286201}{}{Какое-то растение.}
-{286300}{}{Листва}
-{286301}{}{Какое-то растение.}
-{286400}{}{Листва}
-{286401}{}{Какое-то растение.}
-{286500}{}{Листва}
-{286501}{}{Какое-то растение.}
-{286600}{}{Листва}
-{286601}{}{Какое-то растение.}
-{286700}{}{Листва}
-{286701}{}{Какое-то растение.}
-{286800}{}{Листва}
-{286801}{}{Какое-то растение.}
-{286900}{}{Листва}
-{286901}{}{Какое-то растение.}
-{287000}{}{Листва}
-{287001}{}{Какое-то растение.}
-{287100}{}{Камень}
-{287200}{}{Камень}
-{287300}{}{Камень}
-{287400}{}{Камень}
-{287500}{}{Камень}
-{287600}{}{Камень}
-{287700}{}{Камень}
-{287800}{}{Камень}
-{287900}{}{Камень}
-{288000}{}{Камень}
-{288100}{}{Камень}
-{288200}{}{Камень}
-{288300}{}{Камень}
-{288400}{}{Камень}
-{288500}{}{Камень}
-{288600}{}{Камень}
-{288700}{}{Камень}
-{288800}{}{Камень}
-{288900}{}{Камень}
-{289000}{}{Камень}
-{289100}{}{Камень}
-{289200}{}{Камень}
-{289300}{}{Камень}
-{289400}{}{Камень}
-{289500}{}{Камень}
-{289600}{}{Камень}
-{289700}{}{Камень}
-{289800}{}{Камень}
-{289900}{}{Камень}
-{289901}{}{Не время собирать камни.}
-{290000}{}{Камень}
-{290001}{}{Не время собирать камни.}
-{290100}{}{Камень}
-{290101}{}{Не время собирать камни.}
-{290200}{}{Камень}
-{290201}{}{Не время собирать камни.}
-{290300}{}{Костер}
-{290301}{}{Аккуратно обложенный камнями костер. Видимо камни сохраняют тепло.}
-{290400}{}{Факел}
-{290401}{}{Огромный горящий факел - похоже аборигены почитают огонь.}
-{290500}{}{Тотем}
-{290501}{}{Это племя, очевидно, очень религиозно.}
-{290600}{}{Тотем}
-{290601}{}{Это племя, очевидно, очень религиозно.}
-{290700}{}{Тотем}
-{290701}{}{Это племя, очевидно, очень религиозно.}
-{290800}{}{Тотем}
-{290801}{}{Каменный тотем, еще один почитаемый племенем объект.}
-{290900}{}{Тотем}
-{290901}{}{Каменный тотем, еще один почитаемый племенем объект.}
-{291000}{}{Тотем}
-{291001}{}{Каменный тотем, еще один почитаемый племенем объект.}
-{291100}{}{Тотем}
-{291101}{}{Из этого торчат кости и угли внутри потухли. Интересно, у них есть график разжигания тотемов?}
-{291200}{}{Тотем}
-{291201}{}{Какие большие кости!}
-{291300}{}{Тотем}
-{291301}{}{Из этого торчат кости и угли внутри потухли. Интересно, у них есть график разжигания тотемов?}
-{291400}{}{Тотем}
-{291401}{}{Какие большие кости!}
-{291500}{}{Скамья}
-{291501}{}{Жесткая и холодная каменная скамья.}
-{291600}{}{Кол}
-{291601}{}{Похоже на какое-то орудие племени.}
-{291700}{}{Тотем}
-{291701}{}{Похоже на этот кол насажено мясо - их боги требуют жертв.}
-{291800}{}{Части тотемов}
-{291801}{}{И тут кости, интересно, чьи это кости.}
-{291900}{}{Жаровня}
-{291901}{}{Интересно, что они там жарят.}
-{292000}{}{Забор}
-{292001}{}{Небольшой заборчик и маленький столик с чем-то, похожим на мясо.}
-{292100}{}{Странный пень}
-{292101}{}{Внутри тлеют угли - похоже боги племени любят огонь.}
-{292200}{}{Пень}
-{292201}{}{Внутри тлеют угли - похоже боги племени любят огонь.}
-{292300}{}{Камни}
-{292301}{}{Разложены ровным кругом вокруг костра.}
-{292400}{}{Камни}
-{292401}{}{Разложены ровным кругом вокруг костра.}
-{292500}{}{Склон}
-{292501}{}{Наклонный участок поверхности.}
-{292600}{}{Склон}
-{292601}{}{Наклонный участок поверхности.}
-{292700}{}{Тотем}
-{292701}{}{Шаманский тотем племени.}
-{292800}{}{Трибуна}
-{292900}{}{Паутина}
-{293000}{}{Паутина}
-{293100}{}{Паутина}
-{293200}{}{Паутина}
-{293300}{}{Паутина}
-{293400}{}{Паутина}
-{293500}{}{Паутина}
-{293600}{}{Паутина}
-{293700}{}{Паутина}
-{293800}{}{Паутина}
-{293900}{}{Паутина}
-{294000}{}{Паутина}
-{294100}{}{Грузовик}
-{294101}{}{Из разбитой цистерны на землю попали радиоактивные отходы, сделав это место смертельно опасным.}
-{294200}{}{Земля}
-{294300}{}{Земля}
-{294400}{}{Земля}
-{294500}{}{Земля}
-{294600}{}{Заборчик}
-{294601}{}{Невысокий забор из досок.}
-{294700}{}{Заборчик}
-{294701}{}{Невысокий забор из досок.}
-{294800}{}{Фонарь}
-{294801}{}{Желтое стекло создает иллюзию, что фонарь горит.}
-{294900}{}{Заборчик}
-{294901}{}{Невысокий забор из досок.}
-{295000}{}{Заборчик}
-{295001}{}{Невысокий забор из досок.}
-{295100}{}{Заборчик}
-{295101}{}{Невысокий забор из досок.}
-{295200}{}{Заборчик}
-{295201}{}{Невысокий забор из досок.}
-{295300}{}{Пустота}
-{295301}{}{Кругом только чернеющая пустота. Она всматривается в Вас.}
-{295400}{}{Табличка "Склад"}
-{295401}{}{Вы не уверены, но это может означать, что там склад.}
-{295500}{}{Больничная афиша.}
-{295501}{}{На афише улыбающийся доктор держит окровавленный скальпель.}
-{295600}{}{Дерево.}
-{295601}{}{Можно его срубить и развести костер. А можно повеситься.}
-{295700}{}{Дерево.}
-{295701}{}{Это - дерево. Оно наверняка деревянное.}
-{295800}{}{Дерево.}
-{295801}{}{Вам кажется, что оно выделяется на фоне других. Да, просто кажется.}
-{295900}{}{Дерево.}
-{295901}{}{Вам хочется обнять его и поплакать.}
-{296000}{}{Дерево.}
-{296001}{}{От накопленной радиации оно слегка мерцает.}
+{281001}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
+{281100}{}{Armor wall}
+{281101}{}{A protective structure.}
+{281200}{}{Armor wall}
+{281201}{}{A protective structure.}
+{281300}{}{Armor wall}
+{281301}{}{A protective structure.}
+{281400}{}{Armor wall}
+{281401}{}{A protective structure.}
+{281500}{}{Armor wall}
+{281501}{}{A protective structure.}
+{281600}{}{Armor wall}
+{281601}{}{A protective structure.}
+{281700}{}{Armor wall}
+{281701}{}{A protective structure.}
+{281800}{}{Armor wall}
+{281801}{}{A protective structure.}
+{281900}{}{Armor wall}
+{281901}{}{A protective structure.}
+{282000}{}{Shattered protective screen.}
+{282001}{}{The screen is completely shattered.}
+{282100}{}{Shattered protective screen.}
+{282101}{}{The screen is completely shattered.}
+{282200}{}{Shattered protective screen.}
+{282201}{}{The screen is completely shattered.}
+{282300}{}{Poisonous sludge.}
+{282301}{}{Spookily gurgling.}
+{282400}{}{Poisonous sludge.}
+{282401}{}{Spookily gurgling.}
+{282500}{}{Poisonous sludge.}
+{282501}{}{Spookily gurgling.}
+{282600}{}{Steel door.}
+{282601}{}{Rusty, but looks solid.}
+{282700}{}{The corpse of a woman.}
+{282701}{}{The horribly stinking remains of some woman.}
+{282800}{}{Sand}
+{282900}{}{Sand}
+{283000}{}{Sand}
+{283100}{}{Sand}
+{283200}{}{Sand}
+{283300}{}{Junk}
+{283301}{}{Some kind of debris in the water.}
+{283400}{}{Vase}
+{283401}{}{A clay vase filled with something very similar to blood.}
+{283500}{}{Bucket}
+{283501}{}{Nothing unusual - just a simple bucket with someone's guts hanging out of it.}
+{283600}{}{Totem}
+{283601}{}{Looks like the natives pray to this thing.}
+{283700}{}{Totem}
+{283701}{}{Looks like the natives pray to this thing.}
+{283800}{}{Totem}
+{283801}{}{Looks like the natives pray to this thing.}
+{283900}{}{Totem}
+{283901}{}{Looks like the natives pray to this thing.}
+{284000}{}{Totem}
+{284001}{}{A terrifying thing with a skull, bones, and red eyes - the natives have an original idea of the gods.}
+{284100}{}{Totem}
+{284101}{}{A terrifying thing with a skull, bones, and red eyes - the natives have an original idea of the gods.}
+{284200}{}{Strange stump}
+{284201}{}{An incomprehensible structure with burning pieces of coal inside. Probably has some religious meaning.}
+{284300}{}{Strange stump}
+{284301}{}{An incomprehensible structure with burning pieces of coal inside. Probably has some religious meaning.}
+{284400}{}{Rod}
+{284401}{}{Thick metal rod.}
+{284500}{}{Tree}
+{284501}{}{A dried-up tree.}
+{284600}{}{Tree}
+{284601}{}{A dried-up tree.}
+{284700}{}{Tree}
+{284701}{}{A dried-up tree.}
+{284800}{}{Tree}
+{284801}{}{A dried-up tree.}
+{284900}{}{Tree}
+{284901}{}{A dried-up tree.}
+{285000}{}{Tree}
+{285001}{}{A dried-up tree.}
+{285100}{}{Tree}
+{285101}{}{A dried-up tree.}
+{285200}{}{Tree}
+{285201}{}{A dried-up tree.}
+{285300}{}{Tree}
+{285301}{}{A dried-up tree.}
+{285400}{}{Tree}
+{285401}{}{A dried-up tree.}
+{285500}{}{Tree}
+{285501}{}{A dried-up tree.}
+{285600}{}{Tree}
+{285601}{}{A dried-up tree.}
+{285700}{}{Tree}
+{285701}{}{A dried-up tree.}
+{285800}{}{Tree}
+{285801}{}{A dried-up tree.}
+{285900}{}{Tree}
+{285901}{}{A dried-up tree.}
+{286000}{}{Tree}
+{286001}{}{A dried-up tree.}
+{286100}{}{Leaves}
+{286101}{}{Some kind of plant.}
+{286200}{}{Leaves}
+{286201}{}{Some kind of plant.}
+{286300}{}{Leaves}
+{286301}{}{Some kind of plant.}
+{286400}{}{Leaves}
+{286401}{}{Some kind of plant.}
+{286500}{}{Leaves}
+{286501}{}{Some kind of plant.}
+{286600}{}{Leaves}
+{286601}{}{Some kind of plant.}
+{286700}{}{Leaves}
+{286701}{}{Some kind of plant.}
+{286800}{}{Leaves}
+{286801}{}{Some kind of plant.}
+{286900}{}{Leaves}
+{286901}{}{Some kind of plant.}
+{287000}{}{Leaves}
+{287001}{}{Some kind of plant.}
+{287100}{}{Stone}
+{287200}{}{Stone}
+{287300}{}{Stone}
+{287400}{}{Stone}
+{287500}{}{Stone}
+{287600}{}{Stone}
+{287700}{}{Stone}
+{287800}{}{Stone}
+{287900}{}{Stone}
+{288000}{}{Stone}
+{288100}{}{Stone}
+{288200}{}{Stone}
+{288300}{}{Stone}
+{288400}{}{Stone}
+{288500}{}{Stone}
+{288600}{}{Stone}
+{288700}{}{Stone}
+{288800}{}{Stone}
+{288900}{}{Stone}
+{289000}{}{Stone}
+{289100}{}{Stone}
+{289200}{}{Stone}
+{289300}{}{Stone}
+{289400}{}{Stone}
+{289500}{}{Stone}
+{289600}{}{Stone}
+{289700}{}{Stone}
+{289800}{}{Stone}
+{289900}{}{Stone}
+{289901}{}{No time to gather stones.}
+{290000}{}{Stone}
+{290001}{}{No time to gather stones.}
+{290100}{}{Stone}
+{290101}{}{No time to gather stones.}
+{290200}{}{Stone}
+{290201}{}{No time to gather stones.}
+{290300}{}{Fire}
+{290301}{}{A fireplace neatly lined with rocks. Apparently, the stones keep the heat in.}
+{290400}{}{Torch}
+{290401}{}{A huge burning torch - it seems the natives revere fire.}
+{290500}{}{Totem}
+{290501}{}{This tribe is obviously very religious.}
+{290600}{}{Totem}
+{290601}{}{This tribe is obviously very religious.}
+{290700}{}{Totem}
+{290701}{}{This tribe is obviously very religious.}
+{290800}{}{Totem}
+{290801}{}{A stone totem, another object revered by the tribe.}
+{290900}{}{Totem}
+{290901}{}{A stone totem, another object revered by the tribe.}
+{291000}{}{Totem}
+{291001}{}{A stone totem, another object revered by the tribe.}
+{291100}{}{Totem}
+{291101}{}{There are bones sticking out of this one, and the fires inside are dying out. Do they have a schedule for setting totems on fire?}
+{291200}{}{Totem}
+{291201}{}{What big bones!}
+{291300}{}{Totem}
+{291301}{}{There are bones sticking out of this one, and the fires inside are dying out. Do they have a schedule for setting totems on fire?}
+{291400}{}{Totem}
+{291401}{}{What big bones!}
+{291500}{}{Bench}
+{291501}{}{A stiff and cold stone bench.}
+{291600}{}{Stake}
+{291601}{}{Looks like some kind of tribal tool.}
+{291700}{}{Totem}
+{291701}{}{Looks like there's meat on this stake. Their spirits demand sacrifices.}
+{291800}{}{Parts of totems.}
+{291801}{}{And here are bones too. You wonder who they belonged to.}
+{291900}{}{Roaster}
+{291901}{}{You wonder what they're roasting there.}
+{292000}{}{Fence}
+{292001}{}{A small fence and a little table with something that looks like meat.}
+{292100}{}{Strange stump}
+{292101}{}{There's burning coal inside. Looks like the spirits of the tribe love fire.}
+{292200}{}{Stump}
+{292201}{}{There's burning coal inside. Looks like the spirits of the tribe love fire.}
+{292300}{}{Stones}
+{292301}{}{Spread out in an even circle around the fire.}
+{292400}{}{Stones}
+{292401}{}{Spread out in an even circle around the fire.}
+{292500}{}{Slope}
+{292501}{}{A sloped surface area.}
+{292600}{}{Slope}
+{292601}{}{A sloped surface area.}
+{292700}{}{Totem}
+{292701}{}{Shamanic totem of the tribe.}
+{292800}{}{Tribune}
+{292900}{}{Web}
+{293000}{}{Web}
+{293100}{}{Web}
+{293200}{}{Web}
+{293300}{}{Web}
+{293400}{}{Web}
+{293500}{}{Web}
+{293600}{}{Web}
+{293700}{}{Web}
+{293800}{}{Web}
+{293900}{}{Web}
+{294000}{}{Web}
+{294100}{}{Truck}
+{294101}{}{Radioactive waste has leaked onto the ground from a broken cistern, making the place deadly.}
+{294200}{}{Land}
+{294300}{}{Land}
+{294400}{}{Land}
+{294500}{}{Land}
+{294600}{}{Fence}
+{294601}{}{A low fence made of planks.}
+{294700}{}{Fence}
+{294701}{}{A low fence made of planks.}
+{294800}{}{Light}
+{294801}{}{Yellow glass gives the illusion that the lantern is on.}
+{294900}{}{Fence}
+{294901}{}{A low fence made of planks.}
+{295000}{}{Fence}
+{295001}{}{A low fence made of planks.}
+{295100}{}{Fence}
+{295101}{}{A low fence made of planks.}
+{295200}{}{Fence}
+{295201}{}{A low fence made of planks.}
+{295300}{}{Void}
+{295301}{}{There is only a blackening emptiness. It is staring at you.}
+{295400}{}{A sign that reads, "Warehouse."}
+{295401}{}{You are not sure, but it could mean there is a warehouse.}
+{295500}{}{A hospital poster.}
+{295501}{}{The poster shows a smiling doctor holding a bloody scalpel.}
+{295600}{}{A tree.}
+{295601}{}{You can cut it down and make a fire. Or hang yourself on it.}
+{295700}{}{A tree.}
+{295701}{}{It's a tree. It must be wooden.}
+{295800}{}{A tree.}
+{295801}{}{You think it stands out from the others. You are seeing things.}
+{295900}{}{A tree.}
+{295901}{}{You want to hug it and cry.}
+{296000}{}{A tree.}
+{296001}{}{The accumulated radiation makes it shimmer slightly.}

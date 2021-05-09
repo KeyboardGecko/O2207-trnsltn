@@ -28,8 +28,8 @@
 {4}{}{You see Lavash.}
 {5}{}{You see an animal without horns.}
 {6}{}{Lavash looks pretty calm.}
-{7}{}{His udder constatly leaks some kind of muck.}
-{8}{}{A rigid hair prodrudes from a thick skin here and there.}
+{7}{}{His udder constantly leaks some kind of muck.}
+{8}{}{A rigid hair protrudes from a thick skin here and there.}
 {9}{}{He calmly waves his short tail.}
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ (á® §¢¥à¥¬???)

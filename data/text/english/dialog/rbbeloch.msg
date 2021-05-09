@@ -11,7 +11,7 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
-{1}{}{You see a couple of drug addict females.}
+{1}{}{You see a couple of drug-addicted females.}
 {2}{}{They lean to each other, gazing around with a frightened look.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[you see two quite pretty girls... If someone would clean them, feed them and change their torn clothes. The taller one stands up when seeing you, covering her friend] Please, don't hurt us... We'll behave! [her voice trembles. She discreetly pushes another girl - but that only makes her to hug her thin, shaking shoulders tighter] Give us the Drop... Just a little... We'll do anything... [she hastily begins to undress]}
+{10}{}{[you see two quite pretty girls... If someone would clean them, feed them, and change their torn clothes. The taller one stands up when seeing you, covering her friend] Please, don't hurt us... We'll behave! [her voice trembles. She discreetly pushes another girl - but that only makes her hug her thin, shaking shoulders tighter] Give us the Drop... Just a little... We'll do anything... [she hastily begins to undress]}
 {11}{011}{Whoa, easy! I just wanted to ask who are you.}
 {12}{011}{Wait, that's not why I'm here. Come on, put on your clothes back on. What the hell is happening here? And who are you?}
 {13}{999}{This is what I call a good service! Too bad I need to go.}
@@ -36,19 +36,19 @@
 {106}{019}{As it gets quiet - go to the Apothecary. He has the Drop and the stuff. Do you remember what to do?}
 {107}{999}{Get lost, you stupid junkie!}
 {108}{999}{Damn, how low you've fallen... I need to go.}
-{1003}{}{[she readily gets on her knees] What does our master wants? We will do everything! Just so master would be pleased...}
+{1003}{}{[she readily gets on her knees] What does our master want? We will do everything! Just so the master would be pleased...}
 {109}{999}{This is in your best interests. Anyway, get cleaned up quickly. The master needs to release some tension.}
 {1010}{020}{How are you doing, pretty girls?}
 {1011}{999}{I don't have time for you now. Sit tight and don't twitch.}
-{1004}{}{[there's almost nothing left of their clothes, they look very beaten. One is lying still in the corner, only a faint shivering shows that she's still alive. Another one looks a little better] Wh... Why would they do this to us? [she spits out blood and chipped tooth on the ground, staring at it] We... We would do anything, why did they hurt us?... So hungry... [quietly whines]}
-{1012}{999}{Damn... What an animals... }
+{1004}{}{[there's almost nothing left of their clothes, they look very beaten. One is lying still in the corner, only faint shivering shows that she's still alive. Another one looks a little better] Wh... Why would they do this to us? [she spits out blood and chipped tooth on the ground, staring at it] We... We would do anything, why did they hurt us?... So hungry... [quietly whines]}
+{1012}{999}{Damn... What animals... }
 {1013}{999}{I'm sorry. Here, take this, at least... [give her a fruit]}
-{1014}{999}{Tough luck. The life is hard, you know. Too bad I'm late to get some.}
+{1014}{999}{Tough luck. Life is hard, you know. Too bad I'm late to get some.}
 {1015}{999}{Man, the commodity is ruined. Although... Open your pie hole, bitch. I think it's gonna be even better without the teeth. Relax, will you... [continue abusing the girls]}
 
 
-{1101}{}{I'm Squirrel, this is Snowflake... [she wrinkles her forehead, pondering] Or is it the other way around? It doesn't matter. Nothing matters... Ask our master. The Hog is kind... He feeds us, takes care of us... And if we behave, he gives us the Drop.... The Drop... [the other girl smiles when hearing this. You notice she lacks some front teeth.] Will you be kind to us?}
-{111}{012}{I don't have time for this, but I know someone, who would take a good care of you.}
+{1101}{}{I'm Squirrel, this is Snowflake... [she wrinkles her forehead, pondering] Or is it the other way around? It doesn't matter. Nothing matters... Ask our master. The Hog is kind... He feeds us, takes care of us... And if we behave, he gives us the Drop... The Drop... [the other girl smiles when hearing this. You notice she lacks some front teeth.] Will you be kind to us?}
+{111}{012}{I don't have time for this, but I know someone, who would take good care of you.}
 {112}{999}{Don't even try to touch me, you stoned puddle of puke!}
 {113}{999}{Try to calm down a little... I won't disturb you for now.}
 {1102}{}{We are Squirrel and Snowflake, we are always together... [another girl vigorously nods] Always together! In all ways! It's so bad without the Hog... Mate notices us only when he wants to beat up someone... It hurts so much... [she sobs]}
@@ -66,7 +66,7 @@
 {1301}{}{[She struggles to put all her thoughts together] But... The Hog would be angry! No? He was angry at Squirrel once, she had to crawl to the toilet for a week after that... [she strokes her scraped knees]}
 {131}{014}{Of course not! The Hog and Brick are good friends! So, he will be pleased. But don't tell this to him, let it be a... Surprise. Do you know some quiet place around here, where no one would bother you and Brick?}
 {132}{999}{Suit yourself then.}
-{1302}{}{[she looks scared] We would like to leave for some time.... But Mate won't let us... }
+{1302}{}{[she looks scared] We would like to leave for some time... But Mate won't let us... }
 {133}{014}{Oh, come on! You said so yourself, that he doesn't pay any attention to you! Right? Good! Still - be cautious. Pick a quiet spot.}
 {134}{999}{Suit yourself. I won't push it.}
 
@@ -92,7 +92,7 @@
 {173}{999}{You are so useless. I won't bother with it then.}
 
 
-{180}{}{[her tears suddenly dry out] He... Did it? The he dies! Squirrel and Snowlake will avenge you, master... Give us your stuff! [another girl starts energetically jumping] }
+{180}{}{[her tears suddenly dry out] He... Did it? Then he dies! Squirrel and Snowflake will avenge you, master... Give us your stuff! [another girl starts energetically jumping] }
 {181}{019}{Not me. Go to Apothecary. He waits for you. And don't get caught.}
 {182}{999}{I'll make a deal with Apothecary and be right back.}
 

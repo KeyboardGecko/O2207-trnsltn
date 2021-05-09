@@ -47,7 +47,7 @@
 {20}{}{You see Ranger.}
 {21}{}{You see Seeker.}
 {22}{}{You see a military.}
-{23}{}{Judging by his uniform, he definitely belongs to military.}
+{23}{}{Judging by his uniform, he definitely belongs to the military.}
 {24}{}{His armor is adjusted to his body and looks very comfortable.}
 {30}{}{Seeker?}
 {31}{}{Just returned? Relax, enjoy yourself.}
@@ -62,7 +62,7 @@
 ####
 {40}{}{You see an engineer.}
 {41}{}{You see a techie.}
-{42}{}{A man wearing dirty lab coat of scientist.}
+{42}{}{A man wearing a dirty lab coat of a scientist.}
 {43}{}{You can tell for sure that this man knows his stuff about tech.}
 {44}{}{A military? Don't get in my way here!}
 {45}{}{Military, you're always useless.}
@@ -77,7 +77,7 @@
 {54}{}{No, NO! I don't know what you need!}
 {55}{}{I can't get used to this armor.}
 {56}{}{It's great to be Defender! I wish I could take a shower though.}
-{57}{}{A great armor, isn't it? I feel sorry for previous owner. Whoever he was.}
+{57}{}{A great armor, isn't it? I feel sorry for the previous owner. Whoever he was.}
 {58}{}{I'm gonna make some smoke here, alright? ::metallic laugh::}
 {59}{}{I feel INDESTRUCTIBLE!}
 ####
@@ -86,11 +86,11 @@
 {62}{}{This woman in a dirty lab coat looks very focused.}
 {63}{}{She looks quite beautiful even with this dark circles under her eyes.}
 {64}{}{Military, stop coming in here!!}
-{65}{}{You are strong, of course, and good-looking in this uniform - but I have a work to do.}
+{65}{}{You are strong, of course, and good-looking in this uniform - but I have work to do.}
 {66}{}{No, NO! And tell your friends that I don't have time for you all!}
 {67}{}{Hey, old man! What are you doing here?}
 {68}{}{Listen, you'd better go back to Tartarus, to calm slaves!}
-{69}{}{Herald, did you pick a wrong elevator? You should press down, not up!}
+{69}{}{Herald, did you pick the wrong elevator? You should press down, not up!}
 ####
 {70}{}{Oh, you! Push that gun, be so kind. It's jammed again.}
 {71}{}{Yes, just push it. It's a prototype, it gets jammed sometimes.}
@@ -103,11 +103,11 @@
 {77}{}{Alright boys, let's take care of this filthy scum!}
 {78}{}{I brought some music, so it wouldn't be too boring!}
 {79}{}{Want to go home already, rookie? We are returning when we're done, not before.}
-{80}{}{I'm not sure, rookie. You think they had enough? I don't want to waste bullets for nothing...}
+{80}{}{I'm not sure, rookie. Do you think they had enough? I don't want to waste bullets...}
 {81}{}{Yes, the rest will scatter anyway. It's time to get back.}
 {82}{}{No one should be left alive! Each of these scums must be murdered! Every last one of them!}
 {83}{}{Yes, maybe you're right.}
-{84}{}{Hah, that's the spirit! Let's look for survivors and tear them apart like herd of fucking Lavash!}
+{84}{}{Hah, that's the spirit! Let's look for survivors and tear them apart like a herd of fucking Lavash!}
 {85}{}{[more]}
 {86}{}{You see Defender from Punishers.}
 {87}{}{His armored suit, covered in blood, speaks for itself.}

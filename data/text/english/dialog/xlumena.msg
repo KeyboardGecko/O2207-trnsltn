@@ -22,51 +22,51 @@
 #
 #ОПИСАНИЕ КРИТТЕРА
 #
-{1}{}{Вы видите: Луменьер.}
-{2}{}{Вы видите: Луменьер.}
-{3}{}{Вы видите: Воин в доспехах.}
-{4}{}{Вы видите: Луменьер.}
-{5}{}{Вы видите: Броненосец.}
-{6}{}{Его доспехи кажутся непробиваемыми.}
-{7}{}{Он одет в какой-то силовой костюм.}
-{8}{}{С таким воином не хотелось бы испортить отношения.}
-{9}{}{При взгляде на него Вас охватывает сильное желание убраться подальше.}
+{1}{}{You see a Lumenier.}
+{2}{}{You see a Lumenier.}
+{3}{}{You see a warrior in armor.}
+{4}{}{You see a Lumenier.}
+{5}{}{You see an armored clad.}
+{6}{}{His armor seems impenetrable.}
+{7}{}{He is wearing some kind of mechanized armored power suit.}
+{8}{}{You wouldn't want to mess with this kind of guy.}
+{9}{}{When you look at him, you feel a strong urge to get as far away as possible.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{Странник! Не бойся, если совесть твоя чиста! Мы - Луменьеры, несем свет справедливости в эти грешные земли! Тебя нет в наших списках, ты можешь идти с миром!}
-{11}{}{Не бойся, скиталец! Не сотворивши зла да не покарает тебя огненный меч справедливости Луменьеров! Ступай с миром своим путем!}
-{12}{}{Мы - Луменьеры, сила добра, противостоящая исчадию зла Олимпа! Ты не сделал ничего плохого - продолжай спокойно свой путь!}
-{13}{}{[УЙТИ]}
-{14}{}{Спрашивай у лидера.}
-{15}{}{Не мешайся.}
-{16}{}{Просто иди дальше.}
-{17}{}{Нам нечего сказать тебе.}
-{18}{}{Продолжай свой путь.}
-{19}{}{Не твори зла, скиталец.}
+{10}{}{Wanderer! Do not be afraid if your conscience is clear! We, Lumeniers, bring the light of justice to these sinned lands! You are not on our lists, so you may go in peace!}
+{11}{}{Do not be frightened, wanderer! Do no evil, nor shall you be punished with the flaming sword of the Lumeniers! Continue your way in peace!}
+{12}{}{We are the Lumeniers, the forces of good on a crusade against the hellish incarnation of evil named Olympus! You did nothing wrong - continue your journey in peace!}
+{13}{}{[leave]}
+{14}{}{Ask the leader.}
+{15}{}{Do not bother me.}
+{16}{}{Just keep going.}
+{17}{}{We have nothing to say to you.}
+{18}{}{Be on your way.}
+{19}{}{Do no evil, wanderer.}
 
-{20}{}{Вот приспешник зла! УБИТЬ ЕГО!}
-{21}{}{Ты перешел грань дозволенного!}
-{22}{}{Зло сотворивший - умри!}
-{23}{}{Ты несешь миру зло! УМРИ ЖЕ!}
-{24}{}{Конец твоим злодеяниям!}
+{20}{}{A minion of evil! KILL HIM!}
+{21}{}{You crossed the line with your deeds!}
+{22}{}{Those, who brings evil into the world, shall die!}
+{23}{}{You are the scourge! You shall die!}
+{24}{}{We shall end your atrocities!}
 
-{25}{}{Один из Олимпа! В атаку!}
-{26}{}{Исчадие Олимпа! Готовься к смерти!}
-{27}{}{Олимп рухнет под нашим мечом!}
-{28}{}{Олимповская мразь! Убить его!}
-{29}{}{Прислужник Олимповского зла! УМРИ!}
+{25}{}{The scourge of Olympus! Attack!}
+{26}{}{A hellish spawn of Olympus! Get ready to die!}
+{27}{}{Olympus shall burn by our swords!}
+{28}{}{A minion of Olympus! Kill him!}
+{29}{}{He is from Olympus! PURGE HIM!}
 
-{30}{}{Не прикасайся к святым доспехам!}
-{31}{}{Руки прочь, недостойный!}
-{32}{}{Не провоцируй меня, несчастный!}
+{30}{}{Do not desecrate the holy armor with your touch!}
+{31}{}{Keep your hands away, unworthy one!}
+{32}{}{Do not provoke me, miserable one!}
 
-{40}{}{Мы все служим благому делу!}
-{41}{}{Твои доспехи покрыты кровью отступников. Почетно.}
-{42}{}{Видно, ты - славный воин света! Вместе мы выжжем зло с этой земли!}
-{43}{}{Незыблем священный наш круг!}
-{44}{}{Вера наша укрепит наш дух!}
-{45}{}{Да хранит тебя аура свщенного Мегарона.}
+{40}{}{We all serve a great cause!}
+{41}{}{Your armor is covered by the blood of the unworthy. Honorable.}
+{42}{}{You must be a glorious warrior of light! Together we will cleanse the evil from these lands!}
+{43}{}{Our sacred circle is inviolable!}
+{44}{}{The faith will strengthen our spirit!}
+{45}{}{May the aura of the holy Megaron keep you safe.}
 
 
 #

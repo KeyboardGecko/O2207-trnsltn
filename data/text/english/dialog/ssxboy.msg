@@ -25,7 +25,7 @@
 # до знакомства
 #
 {1}{}{You see a boy.}
-{2}{}{The boy, looks like age of seven. He is wearing some rugs.}
+{2}{}{The boy, looks like the age of seven. He is wearing some rugs.}
 #
 # после знакомства
 #

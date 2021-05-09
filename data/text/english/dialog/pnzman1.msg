@@ -22,7 +22,7 @@
 #Œœ»—¿Õ»≈  –»““≈–¿
 #
 {1}{}{You see a man.}
-{2}{}{You see a labourer.}
+{2}{}{You see a laborer.}
 {3}{}{You see a male.}
 {4}{}{You see a street rat.}
 {5}{}{You see a local.}

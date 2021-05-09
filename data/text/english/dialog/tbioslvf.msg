@@ -24,7 +24,7 @@
 #
 {1}{}{You see a resident of Tartarus.}
 {2}{}{You see a Life Servant.}
-{3}{}{You see one of servants.}
+{3}{}{You see one of the Servants.}
 {4}{}{You see a female Life Servant.}
 {5}{}{You see a local.}
 {6}{}{She is responsible for the food supply in Tartarus.}

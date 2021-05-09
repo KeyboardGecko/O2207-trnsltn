@@ -21,7 +21,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with wide eyes. Looks like she is ready to run away in any moment] Who are you? What are you doing here?}
+{10}{}{[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with wide eyes. Looks like she is ready to run away at any moment] Who are you? What are you doing here?}
 {11}{002}{Relax, I'm }
 {12}{002}{. Is everything alright?}
 {13}{022}{What's wrong with you? Not quite right in the head?}
@@ -61,7 +61,7 @@
 {114}{999}{[look over your shoulder] You know, I don't feel comfortable when people stare at something behind me. Talk later.}
 
 #Node012
-{120}{}{What? [her hands stretch like strings, face is all red] You... Who do you think you are? I am perfectly okay!}
+{120}{}{What? [her hands stretch like strings, the face is all red] You... Who do you think you are? I am perfectly okay!}
 {121}{999}{You have definitely lost your marbles. I think it's no use talking to you, although a little interesting. Bye-bye.}
 {122}{013}{You are as okay as I'm a stripper.}
 
@@ -70,9 +70,9 @@
 {131}{999}{Sure. See ya.}
 
 #Node014
-{140}{}{A man, wearing a a sand coat. And somebody else. I can't quite get their faces.}
+{140}{}{A man, wearing a sand coat. And somebody else. I can't quite get their faces.}
 {141}{015}{I believe you - I see him [stare behind her]}
-{142}{999}{Yeah. You know, I've just remember about all the things I need to do. I'll go now.}
+{142}{999}{Yeah. You know, I've just remembered about all the things I need to do. I'll go now.}
 {143}{999}{I had doubts before, but now I'm sure - you are really troubled in the head. [leave]}
 {144}{024}{It is called "paranoia". A severe case of it, I'd say.}
 {145}{060}{[try to smile, making a kind face] Yes, I think this is just how it is. Very convincing.}
@@ -97,13 +97,13 @@
 {181}{999}{[leave silently]}
 
 #Node019
-{190}{}{I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.}
+{190}{}{I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe it. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.}
 {191}{020}{Can you tell me more details about your family?}
 {192}{013}{Those who are sick are always disappointed with something... You are a schizophrenic with a persecution mania.}
 {193}{023}{I agree, it's quite boring here. And the authorities suck. }
 
 #Node020
-{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart.... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.}
+{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.}
 {201}{999}{I think I need to talk to Dan. See you around, Maurissa.}
 {202}{050}{I think it's your fault that your family is falling apart. You should look for things in your home, not watch out for someone who's "following" you. Don't you think so?}
 {203}{021}{I feel sorry for you. I think you deserve better. }
@@ -115,7 +115,7 @@
 {212}{022}{[roll eyes] What a fool you are...}
 
 #Node022
-{220}{}{You are such a rude!!!}
+{220}{}{You are such a rude person!!!}
 {221}{013}{Who cares.}
 {222}{999}{Uh... I think I've picked the wrong words. I'm sorry. Let's talk later. Bye!}
 
@@ -132,7 +132,7 @@
 
 
 #Node031
-{310}{}{[Maurissa's face expression abruptly changes] Leave! Immediately leave! [she turns away from you and starts to look around]}
+{310}{}{[Maurissa's facial expression abruptly changes] Leave! Immediately leave! [she turns away from you and starts to look around]}
 {311}{999}{[end conversation]}
 
 #Node032
@@ -143,7 +143,7 @@
 
 #Node033
 {330}{}{What!? I am sick? You are the same as them!!}
-{331}{080}{Yes, you are definitely sick. You are periodically seeing things which does not exist. Did you notice that no one else sees these men following you?}
+{331}{080}{Yes, you are definitely sick. You are periodically seeing things that don't exist. Did you notice that no one else sees these men following you?}
 {332}{999}{Sorry, but you have to think about it alone. I'll come by later. Bye.}
 {333}{070}{Not exactly. Mental disorders are often the result of a combination of influencing factors. }
 
@@ -152,7 +152,7 @@
 {340}{}{[you definitely struck something in her] I... I think you're right... What do I do? }
 {341}{035}{[try to remember the stuff you've read about in medical science literature and tell it to her]}
 {342}{999}{I need to think. I'll dig through the books and will come back.}
-{343}{035}{Maurissa, you live in the safest, calmest, peaceful and wonderful place in the whole Radius. Everyone here would stand for you - even if they are pulling some pranks sometimes. You are one big family. Any dangerous outsider just won't make it here. So you can just put it off your mind, and feel the easiness of your life.}
+{343}{035}{Maurissa, you live in the safest, calmest, peaceful, and wonderful place in the whole Radius. Everyone here would stand for you - even if they are pulling some pranks sometimes. You are one big family. Any dangerous outsider just won't make it here. So you can just put it off your mind, and feel the easiness of your life.}
 {344}{035}{You need to be more self-confident! All your problems caused by your suspiciousness.}
 {345}{035}{Try this [give her Brainiac]. Ask your husband to supply you with it. }
 
@@ -190,7 +190,7 @@
 {531}{999}{[leave her]}
 
 #Node060
-{600}{}{I am sure about that! I'm so happy you understand me. }
+{600}{}{I am sure about that! I'm so happy you understand. }
 {601}{019}{Maybe you can tell me about yourself?}
 {602}{999}{I'll go look for him!}
 

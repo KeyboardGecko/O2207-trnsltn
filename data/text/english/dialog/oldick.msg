@@ -12,7 +12,7 @@
 #
 # ‰Ó ÁÌ‡ÍÓÏÒÚ‚‡
 {1}{}{You see a hunched scientist with a sour face.}
-{2}{}{A hunched man in his late years, wearing light shirt with a pair of too tight faded suspenders.}
+{2}{}{A hunched man in his late years, wearing a light shirt with a pair of too-tight faded suspenders.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
 {3}{}{You see a hunched scientist with a sour face.}
@@ -25,9 +25,9 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[Looks like his eyebrows are too heavy for his eyes. They are too bushy, especially compared to the rare islands of hair seen around his skull. The bald spots are shining with sweat, which he wipes with a handkerchief. He sinks his gaze into you.] Do you have a permission to be here?}
-{11}{003}{I'm here on behalf of professor Zochkis. I'm assigned with obtaining a power cell from you. You are mr. Dick, am I right?}
-{12}{002}{I'm here on duty. Just waking by.}
+{10}{}{[Looks like his eyebrows are too heavy for his eyes. They are too bushy, especially compared to the rare islands of hair seen around his skull. The bald spots are shining with sweat, which he wipes with a handkerchief. He sinks his gaze into you.] Do you have permission to be here?}
+{11}{003}{I'm here on behalf of professor Zochkis. I'm assigned with obtaining a power cell from you. You are Mr. Dick, am I right?}
+{12}{002}{I'm here on duty. Just walking by.}
 
 #Node002
 {20}{}{[he cringes] If you don't have an order, assigned by Zochkis, then you have no business here. I have to ask you to not spend my time further. Leave, nothing to do for you here.}
@@ -51,7 +51,7 @@
 {53}{006}{[kick his groin]}
 
 #Node006
-{60}{}{[Your blow reaches target instantly, folding the engineer in half. He is now grunting and grasping for air, holding onto his injured organ]}
+{60}{}{[Your blow reaches target instantly, folding the engineer in half. He is now grunting and gasping for air, holding onto his injured organ]}
 {61}{007}{[strike the back of his head with an elbow]}
 
 #Node007
@@ -70,7 +70,7 @@
 
 #Node010
 {100}{}{You again. I don't see Beatrice with you. This means we have nothing to talk about. Get lost.}
-{101}{}{[Seeing you and Beatrice - more likely, only Beatrice, because he is definitely not noticing you now - Dick opens his mouth. With a a wide smile, he takes a few steps towards her, stroking his shirt and wiping big drops of sweat from his forehead.]}
+{101}{}{[Seeing you and Beatrice - more likely, only Beatrice, because he is definitely not noticing you now - Dick opens his mouth. With a wide smile, he takes a few steps towards her, stroking his shirt and wiping big drops of sweat from his forehead.]}
 {102}{999}{I'm working on it.}
 {103}{014}{Hey, I hate to spoil your family's reunion, but you promised me something.}
 
@@ -79,7 +79,7 @@
 {111}{013}{I was sent here from a Biology level to get a battery for a cloning machine.}
 
 #Node012
-{120}{}{[Dick slowly shakes his head] If you think that I'm just a stupid warehouse keeper, you can go screw yourself. Power cell is a rare thing, can't just give it around. }
+{120}{}{[Dick slowly shakes his head] If you think that I'm just a stupid warehouse keeper, you can go screw yourself. The power cell is a rare thing, can't just give it around. }
 {121}{013}{You're so boring. I was sent here from a Biology level to get a battery for a cloning machine.}
 
 #Node013
@@ -87,7 +87,7 @@
 {135}{999}{[more]}
 {134}{}{Bring the power cell to professor Gray. [he digs into some box filled with stuff] Bring it and tell him that I can go to Zochkis and... Give him a hint about some... Plans. [after a couple of minutes, he pulls out a little cardboard box and gives it to you] And for this, I'll tell you... [he whispers] the code from safe of Zockis. I'm sure, contents would please you. So - talk to Gray, it's in your best interests... Also, Moro won't be able to use the power cell anyway, until Gray marks it in the accounting framework.}
 {131}{999}{I'll do it.}
-{132}{999}{I hope the reward will be worth of all this errand boy running.}
+{132}{999}{I hope the reward will be worthy of all this errand boy running.}
 {133}{999}{We'll see.}
 
 #Node014

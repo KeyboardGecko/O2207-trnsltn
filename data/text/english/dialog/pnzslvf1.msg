@@ -50,14 +50,14 @@
 #ÄÈÀËÎÃ
 #
 {100}{}{Want to know how I got here?}
-{101}{}{It's pretty easy, actually... Still, I don't feel like talking about it. Oh, well... There was one warden, named Booke, you might remember him. He went head over heels with me, didn't even let me to take another step.  When I said "no", he started threatening, following me. He drove me to exhaustion, that horny asshole.}
-{102}{}{So... I decided that it's better to die outside, than let that bastard fuck me all the time. I made a deal with the guards on the Farm, they opened the door for me. It had a price too, of course, but... I don't know, maybe everything wasn't so bad back there. [She starts pondering]}
+{101}{}{It's pretty easy, actually... Still, I don't feel like talking about it. Oh, well... There was one warden, named Booke, you might remember him. He went head over heels with me, didn't even let me take another step.  When I said "no", he started threatening, following me. He drove me to exhaustion, that horny asshole.}
+{102}{}{So... I decided that it's better to die outside than let that bastard fuck me all the time. I made a deal with the guards on the Farm, they opened the door for me. It had a price too, of course, but... I don't know, maybe everything wasn't so bad back there. [She starts pondering]}
 {200}{}{Want to listen about how I ran away from Tartarus?}
-{201}{}{One of the guards on the Farm was giving me this whole bullshit about love, Tower and carefree life... So, one time he tells me - "You go through the tunnels this night, climb the ladder to the surface, and I'll meet you there at the sunrise. Then we'll go to the Olympus to live free..."}
+{201}{}{One of the guards on the Farm was giving me this whole bullshit about love, tower, and carefree life... So, one time he tells me - "You go through the tunnels this night, climb the ladder to the surface, and I'll meet you there at the sunrise. Then we'll go to the Olympus to live free..."}
 {202}{}{All men are the same, that's what!! The first morning I got out to the surface from the tunnels, I almost got eaten by some wild jackal! It was my luck that the Seekers were nearby! I went there for a whole week after that, hoping that he would come. Some say that's the way they get rid of "excessive people". To avoid being overcrowded.}
 {300}{}{Want me to tell you how I ended up here?}
 {301}{}{It's a funny story, really... Me and my friends decided to go take a walk into the Purgatory, to look at the Ferals. Yes, I know! Pretty stupid. While one of us distracted the Sons, me and the other one snuck past them. And we didn't notice any Ferals, but, for some reason, the Sons started firing at us.}
-{302}{}{What after... We stormed out to the outside. And then we met one of this talking ghouls. He told us that he knows a safe place. And, after arriving here, we were provided with daily tasks and started to work for the community. Safe place, you bet! The Tartarus is much more safe. And closer to the heart. My mother... Is still there.}
+{302}{}{What after... We stormed out to the outside. And then we met one of these talking ghouls. He told us that he knows a safe place. And, after arriving here, we were provided with daily tasks and started to work for the community. A safe place, ha! You wish! Tartarus is much safer. And closer to the heart. My mother is... Still there.}
 #
 #ÏËÀÂÀŞÙÈÅ ÑÎÎÁÙÅÍÈß
 # Ïîëîæèòåëüíûå ñîîáùåíèÿ

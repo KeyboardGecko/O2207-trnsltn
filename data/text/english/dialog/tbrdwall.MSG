@@ -10,16 +10,16 @@
 {2}{}{It looks like any other wall.}
 
 # Описание 2
-{3}{}{You see a fresh brickwork.}
+{3}{}{You see fresh brickwork.}
 {4}{}{It's pretty noticeable that the bricks are freshly laid. The cement also looks so weak it could be pulled out with a finger.}
 
 # Действия
-{5}{}{With little effort, you manage to pull out a couple of bricks. It makes a whole piece of the wall to crumble down.}
+{5}{}{With little effort, you manage to pull out a couple of bricks. It makes a whole piece of the wall crumble down.}
 {6}{}{Fresh brickwork can't hold the explosion. The wall folds like a house of cards.}
 {7}{}{Uh, no, that does not do anything.}
 {8}{}{How do you think it should work!?}
 {9}{}{Maybe it needs a little kick? Perhaps, some blowing onto?}
-{10}{}{Looks like you lack strength to break it.} 
+{10}{}{Looks like you lack the strength to break it.} 
 {11}{}{You have not enough strength to bring down the wall with this.}
 {12}{}{Could it be... the corpse! It is the Son of Gods corpse!}
 {13}{}{}

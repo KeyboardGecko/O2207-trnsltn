@@ -86,7 +86,7 @@
 {1033}{}{Hey, how are you?}
 {1034}{}{Don't get in my way please.}
 {1035}{}{No, let's talk later.}
-{1036}{}{Listen kid, I'm busy now.}
+{1036}{}{Listen, kid, I'm busy now.}
 {1037}{}{How are you doing, kiddo?}
 {1038}{}{Say hi to your dad from me!}
 {1039}{}{[looks at you and smiles]}
@@ -96,7 +96,7 @@
 {1042}{}{The Gods have defeated demons of the night again!}
 {1043}{}{Those who are asleep shall be woken up immediately!}
 {1044}{}{Rise, shine, Servants of Gods!}
-{1045}{}{Wake up your children - let them live and rejoice in rise!}
+{1045}{}{Wake up your children - let them live and rejoice in the rise!}
 {1046}{}{Taste the food of the Gods and take upon your tasks!}
 {1047}{}{Don't you dare to sleep on this fine holy day!}
 {1048}{}{Wash your eyes of nightmares and go back to serving!}
@@ -107,19 +107,19 @@
 {1052}{}{Who feels overworked - rest for a quarter of an hour.}
 {1053}{}{Servants! Do not overeat!}
 {1054}{}{Who left his task uncompleted - you shall tell Warden!}
-{1055}{}{Rest not more than it's allowed to you by the God's law!}
+{1055}{}{Rest not more than it's allowed to you by God's law!}
 {1056}{}{No time to rest, Servants! Get back to your tasks!}
 {1057}{}{Patch up the water tanks, for us to have something to quench our thirst!}
 {1058}{}{Do not approach the caves!}
 {1059}{}{Take good care of your children!}
 #Спец сообщения - Вечер
-{1060}{}{The heat's coming down - evening is here!}
+{1060}{}{The heat's coming down - the evening is here!}
 {1061}{}{Work relentlessly in the name of Gods!}
 {1062}{}{Do not stop doing your work, and you will ALL be rewarded!}
 {1063}{}{Keep working for the good of your children!}
 {1064}{}{Respect Wardens and be grateful for their efforts!}
 {1065}{}{Maintain the cleanliness of your lodges!}
-{1066}{}{Put your children to bed early, for them not to interrupt you form working!}
+{1066}{}{Put your children to bed early, for them not to interrupt you from working!}
 {1067}{}{Finish all the daily tasks of yours!}
 {1068}{}{Start your most important jobs - the evening air favors you!}
 {1069}{}{Say the evening prayers to your Gods!}
@@ -132,5 +132,5 @@
 {1075}{}{Do not close your eyes, as I never get tired!}
 {1076}{}{Do not lay to rest without resolve from Wardens!}
 {1077}{}{Praise the Gods for the freshness of this night!}
-{1078}{}{Take care of a fresh water, Servants!}
+{1078}{}{Take care of clean water, Servants!}
 {1079}{}{Feed Lavash in their pens, for them to feed us with their flesh!}

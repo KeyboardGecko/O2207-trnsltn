@@ -21,19 +21,19 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{Hey you! Yeah, you! What are you sniffing around here? Huh?}
-{11}{002}{I, uh... Me- I need to get to the Sunset Jackals.}
+{11}{002}{Uh... I need to get to the Sunset Jackals.}
 {12}{003}{I'm one of us, let me in.}
 {13}{002}{I need to enter your base.}
 {14}{999}{Me? No, I just wandered in here by accident.}
 
 {20}{}{Node002}
-{21}{}{You don't say?! [he laughs] Seriously!? Wow! And I've been thinking, why the hell I spend all my time here, cooking my balls under the sun? Turns out that's to let the scum like you to walk freely into our camp! [he wipes his tears] Get the fuck out, okay? So many of you here...}
+{21}{}{You don't say?! [he laughs] Seriously!? Wow! And I've been thinking, why the hell I spend all my time here, getting my balls fried under the sun? Turns out that's to let the scum like you walk freely into our camp! [he wipes his tears] Get the fuck out, okay? So many of you here...}
 {22}{004}{But I really need to...}
 {23}{005}{Hey, easy! I get it. But maybe I could get a passage for a price?}
 {24}{999}{Okay, understood.}
 
 
-{30}{}{Hmm, I don't remember you... Although, screw that, I'm here for a couple of days myself. Name's Vince, by the way. Okay, you can go in.}
+{30}{}{Hmm, I don't remember you... Although screw that, I'm here a couple of days myself. Name's Vince, by the way. Okay, you can go in.}
 {31}{999}{Thanks.}
 {32}{999}{Wonderful!}
 {33}{}{Do I look like a pussy to you, shithead!? Do you think I can't tell the real Jackal from some wasteland trash? Fuck you and get outta my sight!}
@@ -42,7 +42,7 @@
 {36}{999}{[leave]}
 
 
-{40}{}{Fuck, are you getting soft on me? [mockingly mimics] ::I reeealie need tooo:: [he spits on the ground] Eat shit!}
+{40}{}{Fuck, are you getting soft on me? "I reeealie need tooo!" [he spits on the ground] Eat shit!}
 {41}{005}{Well, uh... Maybe we could make a deal? A passage for a price.}
 {42}{999}{Okay, got that...}
 
@@ -60,7 +60,7 @@
 {63}{999}{I see. Sure.}
 
 
-{70}{}{Just as I suspected, low on cash! I have a pretty good eye, you know. Okay drifter, I'm Vince, what's your name?}
+{70}{}{Just as I suspected, low on cash! I have a pretty good eye, you know. Okay, drifter, I'm Vince, what's your name?}
 {71}{040}{I'm }
 {72}{040}{ . What's that deal you talked about?}
 {73}{040}{Vince, right. What's that matter you mentioned?}
@@ -89,21 +89,21 @@
 {212}{999}{Okay, see you around.}
 
 
-{220}{}{Hey, watch it! Although you're right, the weaklings don't last long, especially here... As far as I can remember, me and my parents had been traveling around the Ruins, through the wasteland, spending nights in caves or in basements of destroyed buildings - and we were used to such life. But one time... One time I watched a group of Jackals hunting down the pack of actual jackals. With guns and rifles, they were so fearless, so strong. That was the moment when I decided - I'd better become one of them and stand for myself than die in some cave. Still, I sent my parents away from the base. The life here is too savage for them.}
-{221}{010}{What a story! I see now. I have another questions.}
+{220}{}{Hey, watch it! Although you're right, the weaklings don't last long, especially here... As far as I can remember, me and my parents had been traveling around the Ruins, through the wasteland, spending nights in caves or in basements of destroyed buildings - and we were used to such life. But one time... One time I watched a group of Jackals hunting down the pack of actual jackals. With guns and rifles, they were so fearless, so strong. That was the moment when I decided - I'd better become one of them and stand for myself than die in some cave. Still, I've sent my parents away from the base. The life here is too savage for them.}
+{221}{010}{What a story! I see now. I have another question.}
 
 
-{300}{}{What do you want me to tell you? I'm here for a couple of days myself... There's Loudmouth, he's in charge. Sits in his headquerters all day, deciding who's right and who's not. There's mr. B - his actual name is Oscar Brown. Or maybe Oswald Bricken, I don't care. He's in charge for newbs. And mostly that's it, I don't know anyone else. Just remember not to hang around someone for too long, because the folks here are very high-strung and can rip off your head for literally nothing.}
+{300}{}{What do you want me to tell you? I'm here for a couple of days myself... There's Loudmouth, he's in charge. Sits in his headquarters all day, deciding who's right and who's not. There's Mr. B - his actual name is Oscar Brown. Or maybe Oswald Bricken, I don't care. He's in charge of newbs. And mostly that's it, I don't know anyone else. Just remember not to hang around someone for too long, because the folks here are very high-strung and can rip off your head for literally nothing.}
 {301}{010}{I see, I see... Can I ask something else?}
 {302}{999}{I get it, okay. I'll go learn about the situation here.}
 
 
-{400}{}{Ah, fuck, well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking kick-ass competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
+{400}{}{Ah. Well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking kick-ass competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into a fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
 {401}{041}{And? You want ME to deal with Stan??}
 {402}{999}{Oh screw that, I'm outta here.}
 
 
-{410}{}{I don't know! I just don't want to have my face beaten up again, you hear me? Do something about it, anything - and there will always be open house here for you. Deal?}
+{410}{}{I don't know! I just don't want to have my face beaten up again, you hear me? Do something about it, anything - and there will always be an open house here for you. Deal?}
 {411}{QA}{Okay, I'll try to make something out.}
 {412}{047}{Why won't you actually take the fight? }
 {413}{999}{I don't know, I need to think about it.}
@@ -127,7 +127,7 @@
 
 {470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole Lavash single-handedly. If he lands one punch, I'll be in the ground by the waist.}
 {471}{048}{But you can bet against yourself and take a dive. Or bet against Stan and find a way to set him up. You'll win more than you lose anyway.}
-{472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best case scenario - to clean the toilets. }
+{472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best-case scenario - to clean the toilets. }
 
 
 {480}{}{[Vince thinks. Then nods] I think you're right. I'll handle it myself. And you can pass here anytime. The gate is always open.}

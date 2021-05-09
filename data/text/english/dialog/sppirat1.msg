@@ -34,7 +34,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ ÄÎ ÇÍÀÊÎÌÑÒÂÀ
 #
-{10}{}{Hey fellas! We have a fresh meat here!}
+{10}{}{Hey fellas! We have fresh meat here!}
 {11}{}{YOU'RE DEAD MEAT!}
 {12}{}{You are so unlucky to wander in here, you blood bag!}
 {13}{}{Hey people, we've got someone from TOWER!}

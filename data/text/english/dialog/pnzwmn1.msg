@@ -27,7 +27,7 @@
 {4}{}{You see a woman.}
 {5}{}{You see a woman.}
 {6}{}{She looks exhausted.}
-{7}{}{Her face had lost appeal long time ago.}
+{7}{}{Her face had lost appeal a long time ago.}
 {8}{}{It seems like she's barely breathing.}
 {9}{}{Covered with torn pieces of clothes, she is barely breathing.}
 #

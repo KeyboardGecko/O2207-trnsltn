@@ -24,7 +24,7 @@
 {1}{}{You see a guy.}
 {2}{}{You see a local guy.}
 {3}{}{You see a young man.}
-{4}{}{You see a resident of vault.}
+{4}{}{You see a resident of the vault.}
 {5}{}{You see a dweller of Livos.}
 {6}{}{A young man. The web of blue veins is clearly seen through the pale skin.}
 {7}{}{He dresses quite well.}
@@ -48,7 +48,7 @@
 # Положительные сообщения
 {1000}{}{Greetings brother!}
 {1001}{}{Good day, friend!}
-{1002}{}{Hello! Let's hang out by the wine machine some time later!}
+{1002}{}{Hello! Let's hang out by the wine machine later!}
 {1003}{}{Yes, yes, I'm glad to see you too.}
 {1004}{}{Wonderful day today, isn't it?}
 {1005}{}{I'm so glad to see you!}
@@ -71,8 +71,8 @@
 {1020}{}{Arrrgh! Go away!}
 {1021}{}{I hate you, scum!}
 {1022}{}{How dare you!?..}
-{1023}{}{Get away, abomination of hell!}
-{1024}{}{Oh you fucking burp of nasty beast!}
+{1023}{}{Get away, the abomination of hell!}
+{1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I'm gonna tear out your spleen and eat it with a glass of Chianti!}
 {1026}{}{We urgently need to clear the world of your presence, you bastard!}
 {1027}{}{What the hell do you want from me?!}

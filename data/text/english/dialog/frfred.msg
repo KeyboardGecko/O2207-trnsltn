@@ -20,32 +20,32 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see skinny man, pale as a ghost, dressed in a riveted jacket with lots of labels; he's having a heated argument with a tall, red-haired girl. Seeing you he nervously rushes to pull out his pistol, almost pulling trigger in the process and barely avoiding shooting himself in the leg. It makes him turn even more white, but he still manages to point gun in your direction, holding it with both trembling hands. You notice letters "FRED" tattoed on his knuckles of both hands.] Stay where you are! What the hell do you want here? How did you find this place?!}
-{11}{011}{Listen here, clown, If you'll keep waving the piece like that, I'm gonna stick it up your ass. For now I need only information, but it can change at any moment.}
+{10}{}{[You see a skinny man, pale as a ghost, dressed in a riveted jacket with lots of labels; he's having a heated argument with a tall, red-haired girl. Seeing you he nervously rushes to pull out his pistol, almost pulling the trigger in the process and barely avoiding shooting himself in the leg. It makes him turn even more white, but he still manages to point the gun in your direction, holding it with both trembling hands. You notice letters "FRED" tattoed on his knuckles of both hands.] Stay where you are! What the hell do you want here? How did you find this place?!}
+{11}{011}{Listen here, clown, If you keep waving the piece like that, I'll shove it up your ass. For now, I need only information, but I can change my mind at any moment.}
 {12}{011}{Hey, easy, alright? I just want to ask a couple of questions, that's all.}
-{13}{999}{I'm going to calmly leave now. And you pull yoursef together. Don't scare a girl.}
+{13}{999}{I'm going to calmly leave now. And you pull yourself together. Don't scare a girl.}
 
 
-{1001}{}{[He starts to shiver frightened, but almost immediately takes on intimidating look. He glances on a girl, checking if she saw his fear] It would be better for everyone if you'll just go away now, fast. Do I need to repeat that?}
-{101}{012}{I leave when I want to. For now aswer some questions.}
+{1001}{}{[He starts to shiver - but almost immediately takes an intimidating look. He glances at the girl, checking if she saw his fear] It would be better for everyone if you'll just go away now, fast. Do I need to repeat that?}
+{101}{012}{I leave when I want to. For now, answer me some questions.}
 {102}{019}{I'm done with the mines.}
 {103}{016}{Are we good about the robe deal? Or you decided to take on the mines yourself?}
-{104}{999}{Don't twitch, I need to look around. I'll leave you soon. }
-{1002}{}{[Nods to you with a weak smile] Oh, mr. Cool guy... Why the hell did you drop on my head?.. }
+{104}{999}{Don't twitch, I want to look around. I'll leave this place soon. }
+{1002}{}{[Nods to you with a weak smile] Oh, Mr. Cool guy... Where did you even come from... }
 {105}{012}{Actually, you should be grateful. Better tell me this...}
 {106}{999}{We'll part ways soon, don't sweat. I'm already tired of your whining.}
 {107}{999}{Don't worry, I'll leave you in some time. Only need to finish one thing.}
 
 
-{110}{}{[He slowly puts the gun down and shrivels, as if waiting for a strike. You notice displeased look on the girl's face as she sees it] Chimera's shit... I thought it's the Jackals came for my head. Still, if you are not one of them, it doesn't mean you are welcomed here, got it? What did you want, by the way?}
-{111}{013}{You have found a robe with NCASTR logo some time ago. Do you still have it?}
+{110}{}{[He slowly puts the gun down and shrivels, as if waiting for a strike. You notice displeased look on the girl's face when she sees it] Chimera's shit... I thought it's the Jackals. Still, if you are not one of them, it doesn't mean you are welcomed here, got it? What did you want, by the way?}
+{111}{013}{You have found a robe with the NCASTR logo some time ago. Do you still have it?}
 {112}{021}{How you two ended up here?}
 {113}{020}{Why are you so worried about Jackals?}
-{114}{999}{Nothing for now, I need to look around.}
+{114}{999}{Nothing for now. I need to look around.}
 
 
-{120}{}{Okay, ask. It's not like you are going anywhere. As if the Jackals are not enough for me...}
-{121}{013}{You have found a robe with NCASTR logo some time ago. Do you still have it?}
+{120}{}{Okay, ask. It's not like you're going anywhere. As if the Jackals were not enough for me...}
+{121}{013}{You have found a robe with the NCASTR logo some time ago. Do you still have it?}
 {122}{021}{How you two ended up here?}
 {123}{020}{Why are you so worried about Jackals?}
 {124}{999}{Later, I need to look around.}
@@ -57,50 +57,50 @@
 {133}{999}{You'll know soon. When I'll come back.}
 
 
-{140}{}{[He thoughtfully scratches his chin] Is it, like, a memorabilia? A dead relative or something? Although, why do I care. No problem, but I need a favor from you.}
+{140}{}{[He thoughtfully scratches his chin] Is it, like, memorabilia? A dead relative or something? Although, why do I care? No problem, but I need a favor from you.}
 {141}{015}{Favor? What favor?}
 
 
-{150}{}{[He looks back on the girl and lowers his voice] That's the thing... When we settled here, I laid some mines around the house. You know, Jackals and such... Plus, the Onca Devils often come around. So, uh... [he embarrassingly sniffles] when I was finishing placing the mines, I noticed some Onca Devils and accelerated into the house... to protect Christie, don't take me wrong! [seems like the girl heard him, after all. She gives Fred a cold look, irritatingly kicks an empty can and walks away into farther corner of the room. Fred sighs] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Make us some path through the field. You would need to dig up only around five of them.}
+{150}{}{[He looks back on the girl and lowers his voice] That's the thing... When we settled here, I laid some mines around the house. You know, Jackals and such... Plus, the Onca Devils often come around. So, uh... [he embarrassingly sniffles] when I was finishing placing the mines, I noticed some Onca Devils nearby and accelerated into the house... To protect Christie, don't take me wrong! [seems like the girl heard him, after all. She gives Fred a cold look, irritatingly kicks an empty can, and walks away into the farther corner of the room. Fred sighs] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Make us some path through the field. You would need to dig up only around five of them.}
 {151}{016}{That's it? Why don't you do it yourself then?}
-{152}{024}{It is easier for me to kill you off, you asshole. And you can't hide from me, I'm not an Onca Devil...}
+{152}{024}{It is easier for me to kill you off, asshole. And you can't hide from me, I'm not an Onca Devil...}
 {153}{999}{I need to think it over... Talk later.}
 
 
 {160}{}{I wanted to, but uh, didn't have time... There is, uh... So much to do, you know. Housekeeping. [the girl makes a chuckle, but then looks at him and just sighs.]}
 {161}{999}{Okay, I'll do it. Be back soon. In one piece, I hope.}
-{162}{024}{So many problems with you. I'll better do what Jackals couldn't - paint this walls with your blood.}
-{163}{017}{Hey, why do you want to miss the chance of showing Christie who you really are? You do want her to look at you differently, right? And it's not about killing an Onca with bare hands - just to dig around for a little. Girls like men who ready to take risks for them, believe my experience.}
+{162}{024}{So many problems with you. I'll better do what Jackals couldn't - paint these walls with your blood.}
+{163}{017}{Hey, why do you want to miss the chance of showing Christie who you really are? You do want her to look at you differently, right? And it's not about killing an Onca with bare hands - just to dig around a little. Girls like men who ready to take risks for them, believe my experience.}
 {164}{999}{I see... I'll think about something and we'll continue the conversation.}
 
 
-{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Oh man, really, screw it, I'll do everything myself! [he grabs some kind of an instrument from the table and hurries to leave, while he didn't change his mind. You and Christie eagerly listen, awaiting for the sound of explosion, but instead, after some time, you see Fred breaking into the room, even more pale and trembling than before. Despite that, he has a smile on his face - although, a little unnatural.]}
+{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Oh man, really, screw it, I'll do everything myself! [he grabs some instrument from the table and hastily leaves. You and Christie eagerly listen, waiting for the sound of an explosion, but instead, after some time, you see Fred breaking into the room. He's even more pale and trembling than before. Despite that, he has a smile on his face - although, a little unnatural.]}
 {171}{018}{So, how did it go?}
 
 
-{180}{}{[He sits down, leaning to the wall, with his legs shaking] It's done... I'm so good!! [he giggles hysterically] Man, that was... Take the robe, here is it, under the table. That's my grattitude for motivating me to do it. Now Christie is definitely impressed, right?}
+{180}{}{[He sits down, leaning to the wall, with his legs visibly shaking] It's done... I'm so good!! [he giggles hysterically] Man, that was... Take the robe, here is it, under the table. That's my gratitude for motivating me to do it. Now Christie is definitely impressed, right?}
 {181}{999}{It's your business now. I'm going then. Maybe I'll see you around.}
 {182}{999}{Sure! Exactly that. Well, I won't bother you anymore.}
 
 
-{190}{}{No way! Shit, I was sure that your intestines are gonna be scattered around all the wasteland! You did great, no questions! [he puts his hand under the table and pulls out roll of clothes] One moment... Here you go. Looks good, right?}
+{190}{}{No way! Shit, I was sure that your intestines would be scattered around all the wasteland! You did a great job, no questions! [he puts his hand under the table and pulls out a roll of clothes] One moment... Here you go. Looks good, right?}
 {191}{999}{Will do. Okay, I'll go now. See you around, Jackal... I mean, ex-Jackal.}
 {192}{999}{That's what I need. I need to go now. Good luck.}
 
 
-{200}{}{[He nervously pulls greasy locks of hair from his forehead] What, you don't know? They are the most head-frosted gang of the whole Radius! And they doesn't forgive those who bertrays them. And that counts us, with Christie. [nods in girl's direction] If you hadn't interrupted us, I would talk her into leaving this place. It's dangerous to stay in one place for too long... [he mumbles] Maybe I'll have to leave on my own in the end...}
+{200}{}{[He nervously pulls greasy locks of hair from his forehead] What, you don't know? They are the most head-frosted gang of the whole Radius! And they don't forgive those who betray them. And that counts us, with Christie. [nods in girl's direction] If you hadn't interrupted us, I would talk her into leaving this place. It's dangerous to stay in one place for too long... [he mumbles] Maybe I'll have to leave on my own in the end...}
 {201}{022}{Looks like Christie means a lot to you.}
 {202}{012}{I see. Another question then.}
 {203}{999}{Let's finish for now.}
 
 
-{210}{}{How... We are good at running, that's how. [He stops talking, looking on the ground] It all started when me and my pack rocked some settlement... Shaked it to the bottom. We disposed of everyone, except the girls... And that's when I saw her. I mean, look at her! I would never have any chance with a girl like this in the Jackals, you know? So I dealt with it my way. I took her and ran off. Here. Me and Ursul stumbled upon this place once, while hunting. It was him who pointed you, wasn't he? No one else knows... And now we are considering our options on what to do next. That's how it is.}
+{210}{}{How... We are good at running, that's how. [He stops talking, looking on the ground] It all started when me and my pack rocked some settlement... Shook it to the bottom. We disposed of everyone, except the girls... And that's when I saw her. I mean, look at her! I would never have any chance with a girl like this in the Jackals, you know? So I dealt with it my way. I took her and ran off. Here. Me and Ursul stumbled upon this place once, while hunting. It was him who pointed you, wasn't he? No one else knows... And now we are considering our options on what to do next. That's how it is.}
 {211}{022}{Looks like Christie means a lot to you.}
 {212}{012}{I see. Let's talk about something else.}
-{213}{999}{We'll continue the conversation later, if you don't mind.}
+{213}{999}{We'll continue the conversation later if you don't mind.}
 
 
-{220}{}{[He takes on a dreamy look, picking his teeth with a finger] I guess... I didn't even know there could be someone like her. Fuck! The rat fur stuck in my teeth again... What I mean is - this is not how I imagined everything to end. If someone told me that I would have such big problems with the Jackals, I don't know if I would took her away... [He ponders, looking at Christie] But maybe it's worth it?}
+{220}{}{[He takes on a dreamy look, picking his teeth with a finger] I guess... I didn't even know there could be someone like her. Fuck! The rat fur stuck in my teeth again... What I mean is - this is not how I imagined everything to end. If someone told me that I would have such big problems with the Jackals, I don't know if I would take her away... [He ponders, looking at Christie] But maybe it's worth it?}
 {221}{023}{Who the hell needs you, hero? Do you think that Jackals have nothing to do without chasing off runaways? Did you see even one of them since you ran off?}
 {222}{012}{You decide it. And tell me this...}
 {223}{999}{Okay, I need to go. Thanks for the information.}

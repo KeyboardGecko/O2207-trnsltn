@@ -3,7 +3,7 @@
 #############################################################
 #File structure:
 #lines 1-9 - description of the character;
-#lines 10-29 - acquaintance with a pesonage;
+#lines 10-29 - acquaintance with a personage;
 #lines 30-99 - I don't know yet, but I think it will be useful... 
 #Next, on the branches of the dialogue.
 #Each branch is a multiple of 100, i.e. 100 is one topic of dialogue, 200 is another.
@@ -24,7 +24,7 @@
 {1}{}{You see a girl.}
 {2}{}{You see a local girl.}
 {3}{}{You see a young lady.}
-{4}{}{You see a resident of vault.}
+{4}{}{You see a resident of the vault.}
 {5}{}{You see a dweller of Livos.}
 {6}{}{A young lady with a haggled, pale face.}
 {7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
@@ -72,7 +72,7 @@
 {1021}{}{I hate you, asshole!}
 {1022}{}{How can you!?..}
 {1023}{}{You insult my life with your presence!}
-{1024}{}{Oh you fucking burp of nasty beast!}
+{1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I would tie you up and slowly cut you with a knife into many little pieces!}
 {1026}{}{Do a favor to the world - cut your balls off!}
 {1027}{}{You nasty thing! I'm sick of you!}

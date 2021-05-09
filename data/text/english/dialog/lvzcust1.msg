@@ -34,7 +34,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 {10}{}{Of course, I don't have many rarities, but I assure you - you won't be disappointed!}
-{11}{}{Don't forget to check out our custom-made ammo, forged by finest craftsmen from all corners of the Radius!}
+{11}{}{Don't forget to check out our custom-made ammo, forged by the finest craftsmen from all corners of the Radius!}
 {12}{}{Oh! I recognize you as a person who could appreciate little useful things - which, I'm telling you, I have enough!}
 {13}{}{Okay, let's see what you have.}
 {14}{}{Let's look at your stock.}
@@ -101,7 +101,7 @@
 {1033}{}{No, this is not how you make business.}
 {1034}{}{You do realize that you ask too much, don't you?}
 {1035}{}{So difficult to make good deals nowadays...}
-{1036}{}{Do you know how difficult it is to grow a high-quality meat?}
-{1037}{}{Last batch of your guns was... Not of the best quality.}
+{1036}{}{Do you know how difficult it is to grow high-quality meat?}
+{1037}{}{the Last batch of your guns was... Not of the best quality.}
 {1038}{}{Yeah-yeah, there WAS one delivery of not-so-fresh canned meat, I admit that.}
 {1039}{}{And now what? I can just go and buy weapons from Jackals!}

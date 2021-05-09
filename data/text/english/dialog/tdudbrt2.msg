@@ -26,7 +26,7 @@
 #
 {1}{}{You see Kirk.}
 {2}{}{Kirk, your younger brother. He looks rather moody today.}
-#
+# 
 # после знакомства
 #
 {3}{}{You see Kirk.}

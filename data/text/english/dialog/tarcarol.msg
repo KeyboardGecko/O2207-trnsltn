@@ -47,7 +47,7 @@
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ ‘‹… ‡€ŠŒ‘’‚€
 #
-{100}{}{Well-well, looks like a boy needs a heping hand from a girl?}
+{100}{}{Well-well, looks like a boy needs a helping hand from a girl?}
 {101}{}{What do you want?}
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (®«®¦¨â¥«ì­ ï à¥ ªæ¨ï)
@@ -71,9 +71,9 @@
 {1014}{}{You know, I actually don't mind - but I'm busy now.}
 {1015}{}{Listen, don't touch me, let me rest a little.}
 {1016}{}{What else do you want?}
-{1017}{}{Some other time, okay? I need to repair that damn reservoirs.}
-{1018}{}{Sheeesh... Again? See, I'm fixing that freaking mechanisms!}
-{1019}{}{Oh. Listen, let's talk a litte later, okay?}
+{1017}{}{Some other time, okay? I need to repair those damn reservoirs.}
+{1018}{}{Sheeesh... Again? See, I'm fixing those freaking mechanisms!}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # âà¨æ â¥«ì­ë¥ á®®¡é¥­¨ï
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}

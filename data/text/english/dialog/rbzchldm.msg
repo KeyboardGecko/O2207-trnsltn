@@ -34,7 +34,7 @@
 {3}{}{You see one of G's cutthroats.}
 {4}{}{You see a boy from a gang.}
 {5}{}{You see a gang member.}
-{6}{}{He is practicing a quick draw of his gun from holster.}
+{6}{}{He is practicing a quick draw of his gun from the holster.}
 {7}{}{Sticking out his tongue and biting it, he aims his gun at something.}
 {8}{}{Looks like his clothes are too big for him. A six sizes big, no less.}
 {9}{}{He counts bullets in his palm, angrily looking at people around him.}

@@ -27,7 +27,7 @@
 {4}{}{You see a vagrant.}
 {5}{}{You see a refugee.}
 {6}{}{A skinny exhausted woman, wearing some kind of rags.}
-{7}{}{Old torn clothes barely covers her unnaturally thin body.}
+{7}{}{Old torn clothes barely cover her unnaturally thin body.}
 {8}{}{Judging by fresh scars on her pale-blue skin, he suffered through a lot lately.}
 {9}{}{One look at her is enough to understand that she went through a lot.}
 #
@@ -49,7 +49,7 @@
 {1000}{}{Huh?? What do you want from me??}
 {1001}{}{Look at me! I don't resemble a woman anymore!}
 {1002}{}{What? Huh? What about me?}
-{1003}{}{Gods! Gods are angered by us! The judgement day has come, the Olympus is our only salvation!}
+{1003}{}{Gods! Gods are angered by us! The judgment day has come, the Olympus is our only salvation!}
 {1004}{}{WHat can you possibly know about it, smoothskin!?}
 {1005}{}{Don't touch me, you monster! You are one of them!}
 {1006}{}{I've seen Death... He said he likes apples...}

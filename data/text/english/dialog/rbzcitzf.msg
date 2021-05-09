@@ -35,7 +35,7 @@
 {4}{}{You see an ex-prostitute.}
 {5}{}{You see an old woman.}
 {6}{}{Her skin looks like raisins.}
-{7}{}{Her clothes is old, big and covered in dirt.}
+{7}{}{Her clothes are old, big, and covered in dirt.}
 {8}{}{She smells bad, the bottle of cheap booze sticks out of her pocket.}
 {9}{}{When smiling, she demonstrates her rotten teeth.}
 #

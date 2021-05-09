@@ -47,7 +47,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ œŒ—À≈ «Õ¿ ŒÃ—“¬¿
 #
-{100}{}{Well-well, looks like a boy needs a heping hand from a girl?}
+{100}{}{Well-well, looks like a boy needs a helping hand from a girl?}
 {101}{}{What do you want?}
 {102}{}{Hey, Carol! I was just coming by, wanted to say hi... Well, see you!}
 {103}{}{Actually, yes...}
@@ -55,16 +55,16 @@
 {105}{}{Forget it, bye!}
 {106}{}{}
 {110}{}{Spill it out.}
-{111}{}{I wanted to ask... Did you grow yourself a moustache yet?}
+{111}{}{I wanted to ask... Did you grow yourself a mustache yet?}
 {112}{}{No, nothing. I'll come by later.}
-{113}{}{I need to repair a fuse box on level 2 - and I don't know how.}
+{113}{}{I need to repair a fuse box on level 2, but I have difficulties with it.}
 {120}{}{I'll get you... Get out of here, you joker!}
 {121}{}{Okay-okay, I'm going.}
 {122}{}{Hey, don't touch it! I'm already leaving.}
-{1301}{}{What? Just do it! Look at wires, connect one to other - and that's it! You men are so useless.}
+{1301}{}{What? Just do it! Look at wires, connect one to the other - and that's it! You men are so useless.}
 {1302}{}{Still don't get it? Handle it yourself!}
 {131}{}{Easy for you to say, "push a little - and it's done"... Okay, will go try one more time.}
-{132}{}{Listen babe, maybe you could demonstrate to a greenhorn like me how it's done?}
+{132}{}{Listen, babe, maybe you could demonstrate to a greenhorn like me how it's done?}
 {133}{}{Are you serious? I bet you couldn't even do it yourself.}
 {134}{}{You are a wild one, aren't you! Okay, I'll "handle it myself".}
 {140}{}{Did you just call me "babe"!? Get lost! I don't want to see you!}

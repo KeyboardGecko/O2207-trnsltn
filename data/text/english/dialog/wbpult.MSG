@@ -19,7 +19,7 @@
 {5}{}{You should stop putting your fingers into live wires.}
 {6}{}{You see no switch on the generator. Looks like everything is in a fuse box.}
 {7}{}{You thoroughly study the structure... but don't understand a thing.}
-{8}{}{It seems like the defense system is powered with the generator.}
+{8}{}{It seems like the defense system is powered by the generator.}
 {9}{}{Someone with the skills of a mechanic could easily turn off the defense.}
 {10}{}{You should be more careful with wires!}
 {11}{}{Despite being electrocuted, you managed to turn off the generator.}

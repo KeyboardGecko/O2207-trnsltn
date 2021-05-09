@@ -30,7 +30,7 @@
 {16}{999}{[leave]}
 
 #Node002
-{20}{}{[The wolf is wagging his tail, looking at you with curiosity. He surely wouldn't mind to get some sweet treat from you.]}
+{20}{}{[The wolf is wagging his tail, looking at you with curiosity. He surely wouldn't mind getting some sweet treat from you.]}
 {21}{003}{[sit nearby and try to carefully pet him]}
 {22}{004}{[dominate his mind with a powerful stare into his eyes]}
 {23}{005}{Look what I brought you! [give him a sugarcoated Lavash steak]}
@@ -38,7 +38,7 @@
 {25}{999}{[leave]}
 
 #Node003
-{30}{}{[He cautiously observe your actions. When you get too close, he leans back, but your calm demeanor and friendliness make him trust you. You slowly put your hands into the fur on predator's chin and stroke his cheeks. When wolf relaxes a little, you inspect the dog tag on his collar. There is inscription, which reads "Shaggy".]}
+{30}{}{[He cautiously observes your actions. When you get too close, he leans back, but your calm demeanor and friendliness make him trust you. You slowly put your hands into the fur on the predator's chin and stroke his cheeks. When the wolf relaxes a little, you inspect the dog tag on his collar. There is an inscription, which reads "Shaggy".]}
 {31}{007}{So, you are Shaggy. Nice.}
 
 #Node004
@@ -105,7 +105,7 @@
 {163}{999}{Okay, furry bandit, run home. [leave]}
 
 #Node 019
-{190}{}{[Shaggy bounces up and run away. He looks frightened.]}
+{190}{}{[Shaggy bounces up and runs away. He looks frightened.]}
 {191}{999}{[end]}
 
 #Node014

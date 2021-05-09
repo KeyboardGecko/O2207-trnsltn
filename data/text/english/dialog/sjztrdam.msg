@@ -35,11 +35,11 @@
 #
 {10}{}{The better your armor - the higher your chances to see another day! Therefore, buy the most expensive one!}
 {11}{}{Listen, it doesn't matter which big friggin' gun you have - it won't keep you away from a single rusty pistol bullet! The armor - that's what saves lives!}
-{12}{}{My suits of armor not only protect you from damages, but also make you look really cool.}
+{12}{}{My suits of armor not only protect you from damages, but they also make you look really cool.}
 {13}{}{Let's see what you have.}
 {14}{}{No, I'm leaving.}
 {15}{}{Why the hell are your ammo so expensive?}
-{16}{}{What do you think? They are genuine ones, factory-made! The amount of this birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses and such - but it's still worth it! Don't like the price - go buy home-made ones from a junk dealer. Except they are no good anyway.}
+{16}{}{What do you think? They are genuine ones, factory-made! The amount of these birds in Radius is becoming smaller every day, so you have to chase them around different parts of wasteland, old warehouses, and such - but it's still worth it! Don't like the price - go buy homemade ones from a junk dealer. Except they are no good anyway.}
 {17}{}{I see... Well, let's look at your goods one more time.}
 {18}{}{Understood. I've got to go now.}
 {19}{}{When will you sell me more serious guns?}

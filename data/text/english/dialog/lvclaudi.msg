@@ -30,30 +30,30 @@
 {22}{006}{Are you afraid of someone?}
 {23}{998}{Yes, I came to kill you.}
 
-{30}{}{[Her stare becomes cold as a steel] Boston McKinsey. Don't try to look like you know nothing. It is him who sent you to kill me, Claudia Horton. }
+{30}{}{[Her stare becomes cold as steel] Boston McKinsey. Don't try to look like you don't understand. It is him who sent you to kill me, Claudia Horton. }
 {31}{006}{He wants to kill you?}
-{32}{005}{I don't understand. What are you talking about?}
+{32}{005}{I really don't understand. What are you talking about?}
 {33}{998}{Yes, I came to kill you.}
 
-{40}{}{[Her stare becomes cold as a steel] So, how do you plan to kill me? What fate Boston McKinsey prepared for Claudia Horton?}
+{40}{}{[Her stare becomes cold as steel] So, how do you plan to kill me? What fate Boston McKinsey prepared for Claudia Horton?}
 {41}{006}{He wants to kill you?}
 {42}{005}{What are you even talking about? I don't understand!}
 {43}{998}{A sad way to go. Let's begin.}
 
 {50}{}{What? You weren't sent by Boston McKinsey? Are you sure you didn't come to kill me?}
-{51}{007}{No! I'm just looking around Livos, getting acquaintained with everyone!}
+{51}{007}{No! I'm just looking around Livos, getting acquainted with everyone!}
 {52}{998}{I came exactly for that. Goodbye, Claudia.}
-{53}{999}{I don't want to kill no one! I'd better hurry up and get away from here.}
+{53}{999}{I don't want to kill anyone! I'd better hurry up and get away from here.}
 
 {60}{}{Yes, Boston McKinsey wants to kill me. Didn't he send you?}
-{61}{007}{No! I'm just looking around Livos, getting acquaintained with everyone!}
+{61}{007}{No! I'm just looking around Livos, getting acquainted with everyone!}
 {62}{998}{Yes, he actually did. Goodbye, Claudia.}
-{63}{999}{I don't want to kill no one! I'd better hurry up and get away from here..}
+{63}{999}{I don't want to kill anyone! I'd better hurry up and get away from here..}
 
-{70}{}{[You notice a glimmer of hope in her eyes] Really? Just getting acquaintained? Well, I'm Claudia Horton, the widow of Peter Horton. How can I help you?}
+{70}{}{[You notice a glimmer of hope in her eyes] Really? Just getting acquainted? Well, I'm Claudia Horton, the widow of Peter Horton. How can I help you?}
 {71}{010}{I want to ask a few questions.}
 {72}{998}{I was looking for you to send you to your dead husband. Goodbye.}
-{73}{999}{Nothing for now, we'll talk later.}
+{73}{999}{Nothing for now. Let's talk later.}
 
 {1001}{}{Boss, you are not being followed, are you? There was some shadow over there.}
 {1002}{}{Ask, but remember - we could be watched and listened to.}
@@ -69,22 +69,22 @@
 {111}{012}{I know you have the book. Someone witnessed you stashing it.}
 {112}{010}{Huh. Okay. Another question then. [She is definitely not telling you something]}
 
-{120}{}{Alright then. I admit, I took the book from Ludwig. But I hid it very well and you will never find it! And I'll deny everything if you tell someone!}
+{120}{}{Alright then. I admit I took the book from Ludwig. But I hid it very well and you will never find it! And I'll deny everything if you tell someone!}
 {121}{013}{Why do you even need it for? Ludwig can't continue his work without it.}
 
 {130}{}{[Claudia looks around and whispers] I am going to make a death ray and destroy all McKinseys!}
-{131}{014}{Claudia, you don't understand a thing in wave science. It'll take you years to develop a functional death ray. Ludwig, on the other hand, is going to make one already! I could take the book back to him - and then ask him to give first assembled weapon to you. What do you think?}
+{131}{014}{Claudia, you don't understand a thing in wave science. It'll take you years to develop a functional death ray. Ludwig, on the other hand, is going to make one already! I could take the book back to him - and then ask him to give the first assembled weapon to you. What do you think?}
 {132}{015}{Maybe I could buy it from you?}
 
 {140}{}{Hmm, maybe you're right... I tried to figure out what to do, but unsuccessfully. Return the book to Ludwig, tell him to give me the death ray as soon as he finishes!}
 {141}{010}{Okay. I want to ask something else.}
 {142}{999}{As soon as he makes a death ray, you'll get it. I'll go give him the book.}
 
-{150}{}{[Claudia thinks] I'm not interested in batteries. But if you could get something other for me, I would gladly return the book. I like the Spot-Up soda very much, I always want more - even dream of it at nights. Bring me 20 bottles and the book is yours. I can't understand anything in it anyway.}
+{150}{}{[Claudia thinks] I'm not interested in batteries. But if you could get something other for me, I would gladly return the book. I like the Spot-Up soda very much, I always want more - even dream of it at night. Bring me 20 bottles and the book is yours. I can't understand anything in it anyway.}
 {151}{016}{I have 20 bottles of Spot-Up with me. Ready to trade them for a science book.}
 {152}{010}{I don't have so many bottles right now. I want to ask something else.}
 
-{160}{}{[Claudia hands you the book, grabs the soda, opens one bottle right away and starts gulping the drink.] }
+{160}{}{[Claudia hands you the book, grabs the soda, opens one bottle right away, and starts gulping the drink.] }
 {161}{999}{...Okay, I'll go return the book then.}
 
 {170}{}{What do you want to know about this maniac, who is haunting our family and killed my husband Peter?}
@@ -93,7 +93,7 @@
 {173}{021}{I talked to Emily Dunton. She wants to organize a commemorative evening dedicated to your husband. After that, Boston will leave your family alone.}
 {174}{010}{You are right, nothing to talk about. I want to ask something else.}
 
-{180}{}{At last, the justice was served! So it was you, a noble fighter for rightful cause! Boston got what he deserved, I've seen the results of your doing. Now I won't be afraid for my life anymore. I'm glad Peter has been avenged.}
+{180}{}{At last, justice was served! So it was you, a noble fighter for the rightful cause! Boston got what he deserved, I've seen the results of your doing. Now I won't be afraid for my life anymore. I'm glad Peter has been avenged.}
 {181}{010}{Don't worry, you're safe. Now, to other questions. }
 
 {190}{}{I will forgive him when he leaves our family alone and stops harassing Hortons! }
@@ -103,23 +103,23 @@
 {200}{}{Okay, I'll forgive him. Lately, he is not following us as often as before. Probably he really is sorry about Peter's death.}
 {201}{999}{Okay, I'll tell Boston that you forgave him.}
 
-{210}{}{I'm so happy! At last my husband will get the honors he deserves! And Boston will stop harassing Hortons. I would be glad to participate!}
+{210}{}{I'm so happy! My husband will finally get the honors he deserved! And Boston will stop harassing Hortons. I would be glad to participate!}
 {211}{999}{Good. I'm sure Peter is worthy of it. I'll go tell everyone.}
 
 {220}{}{Boston McKinsey wants to destroy Hortons! He killed my husband Peter in cold blood! On a meeting, in front of everyone! And he got away with it!}
 {221}{023}{Maybe it was an accident?}
 {222}{024}{How exactly did he kill Peter?}
 
-{230}{}{[Claudia angrily clenches her fists] Boston makes a clown out of himself and everybody believe it. In reality, under this mask of stupidity hides a dangerous murderer, who wants to take out all our family! No one listens to me, but I know the truth! I stalk him all the time and foil his plans.}
+{230}{}{[Claudia angrily clenches her fists] Boston makes a clown out of himself and everybody believes it. In reality, under this mask of stupidity hides a dangerous murderer, who wants to take out all our family! No one listens to me, but I know the truth! I stalk him all the time and foil his plans.}
 {231}{024}{How did Peter die?}
-{232}{010}{I want to ask other question.}
+{232}{010}{I want to ask another question.}
 
-{240}{}{They were arguing on a meeting about changes to the Constitution. Boston made it look like he had lost control and pushed Peter hard. And he did it so precisely that Peter died!}
+{240}{}{They were arguing at the meeting about changes to the Constitution. Boston made it look like he had lost control and pushed Peter hard. And he did it so precisely that Peter died!}
 {241}{023}{Looks like an accident to me.}
 {242}{010}{Let me ask something else.}
 
-{250}{}{Inhabitants of Livos are the descendants of great people. It is us, who destined to revive the civilization, spreading the laws of a New World. This laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of the New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
+{250}{}{Inhabitants of Livos are the descendants of great people. It is us, who destined to revive the civilization, spreading the laws of a New World. These laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of the Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of the New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
 {251}{010}{Yes, this looks important. Let me ask something else.}
 
-{260}{}{The most important family in Livos is us, Hortons. Our ancestors were landlords and real estate owners, and my brother Ashton is rightful successor of the rights to own this whole place. We only let other families to live here because we are very kind. Ashton is the only one who can repair the vital equipment. If not for him, everything would break down here. Livos would fall into decline without Hortons. Schweins, McKinseys and Duntons are busy with petty things and do nothing important.}
-{261}{010}{I see, Hortons are really important for well-being of Livos. Let's move to other questions.}
+{260}{}{The most important family in Livos is us, Hortons. Our ancestors were landlords and real estate owners, and my brother Ashton is the rightful successor of the rights to own this whole place. We only let other families live here because we are very kind. Ashton is the only one who can repair the vital equipment. If not for him, everything would break down here. Livos would fall into decline without Hortons. Schweins, McKinseys, and Duntons are busy with petty things and do nothing important.}
+{261}{010}{I see, Hortons are really important for the well-being of Livos. Let's move to other questions.}
