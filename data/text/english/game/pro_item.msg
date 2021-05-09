@@ -626,8 +626,8 @@
 {31301}{}{This is a map, or more exactly the part of a map. To read it you need to find other pieces.}
 {31400}{}{*Piece of a map*}
 {31401}{}{A partial map of some area. Perhaps there are other pieces somewhere.}
-{31500}{}{Lavash Jerky}
-{31501}{}{A juicy and delicious piece of Lavash jerky.}
+{31500}{}{Sugar-coated Lavash Jerky}
+{31501}{}{A juicy and delicious piece of sugar-coated Lavash jerky.}
 {31600}{}{NWO Basement Key}
 {31601}{}{A well-preserved key. Use it for its intended purpose.}
 {31700}{}{*Machine Part*}

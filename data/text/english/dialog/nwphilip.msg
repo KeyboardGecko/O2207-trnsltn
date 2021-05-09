@@ -74,7 +74,7 @@
 {107}{034}{Can you tell me about the town? Or about the locals?}
 {108}{999}{It's all good, Philip, but I need to go. Good luck.}
 {109}{043}{So, did you catch someone?}
-{119}{039}{You have been mentioning sugarcoated Lavash steak. Can you spare me one?}
+{119}{039}{You have been mentioning sugar-coated Lavash steak. Can you spare me one?}
 
 #Node011
 {110}{}{No, I did not. I tend the cattle for many years, and I always feed them the same. I make mix myself, so I can guarantee that its composition is unchanged. Besides, it's as simple as a stick.}
@@ -202,8 +202,8 @@
 {362}{038}{Still, I'll ask. Why?}
 
 #Node037
-{370}{}{Many things. He usually eats slowly, but with sugarcoated Lavash steaks, he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave me a surprised look, smelled the meat, and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
-{371}{039}{Curious. Maybe you can give me some of this sugarcoated Lavash meat?}
+{370}{}{Many things. He usually eats slowly, but with sugar-coated Lavash steaks, he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave me a surprised look, smelled the meat, and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
+{371}{039}{Curious. Maybe you can give me some of this sugar-coated Lavash meat?}
 
 #Node038
 {380}{}{Damn it, I just don't trust the dogs! I don't understand them. The man is afraid of what he doesn't understand. }
@@ -211,8 +211,8 @@
 {382}{037}{Makes sense. So, what do you feed him?}
 
 #Node039
-{390}{}{Why not? You helped me, it is definitely worth a little piece. [Philip gives you a steak of sugarcoated Lavash meat, explaining how to cook it]}
-{391}{}{Just like that? Sorry, I can't. Let's put it this way - for five batteries I'll give you a steak and explain to you how to sugarcoat it, and the rest you do yourself. The sugar, the cooking - your problem.}
+{390}{}{Why not? You helped me, it is definitely worth a little piece. [Philip gives you a steak of sugar-coated Lavash meat, explaining how to cook it]}
+{391}{}{Just like that? Sorry, I can't. Let's put it this way - for five batteries I'll give you a steak and explain to you how to sugar-coat it, and the rest you do yourself. The sugar, the cooking - your problem.}
 {392}{041}{Thanks, Philip. Can you tell me something else about the wolf?}
 {393}{041}{Okay, here. Can you tell me something else about the wolf?}
 {394}{041}{Hm, I think I'll pass. Can you tell me something else about the wolf?}

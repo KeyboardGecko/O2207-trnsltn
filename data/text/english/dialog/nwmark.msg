@@ -584,7 +584,7 @@
 {1021}{031}{I see... Then I have a couple of other questions.}
 
 
-{1030}{}{Yes, everything is quite alright. You know, a lot of work, as usual. Seems like it never ends...}
+{1030}{}{Everything is quite alright, thank you. You know, a lot of work, as usual. Seems like it never ends...}
 {1031}{104}{How's Daniel doing?}
 {1032}{105}{How is Sam?}
 {1033}{106}{When should I start fulfilling my role as a leader?}
@@ -597,8 +597,8 @@
 {1042}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 
 
-{1050}{}{The folks are not happy, some just spit out the poison... They say that "all that's left is for Mark to become a ghoul, then he and Sam could rule here forever, changing places over time, until other people die out..." [he sighs]. So upsetting to hear that, especially after everything I gave to this town. I hope this is temporary. Our people are conservative. What else could be done here?}
-{1051}{107}{What about you? Does this malicious talk have any effect on you? It's not going to put you into an early grave, is it?}
+{1050}{}{The folks are not happy, some just spit out the poison... They say that "all that's left is for Mark to become a ghoul, then he and Sam could rule here forever, changing places over time, until other people die out..." [he sighs]. So upsetting to hear that, especially after everything I've given to this town. I hope this is temporary. Our people are conservative. Not much could be done about it, I suppose.}
+{1051}{107}{What about you? Does this malicious talk have any influence? It's not going to put you into an early grave, is it?}
 {1052}{999}{I see. Be strong. I'll come by later.}
 
 
@@ -610,7 +610,7 @@
 {1070}{}{I'm good. Still going. Walking by myself, not being fed with a spoon. No nanny is put to watch me.}
 {1071}{999}{Okay. I see you are pretty busy... So long then. I'll come by.}
 
-{1080}{}{Skeet? That thief of our canned food? And what do you want to tell me about him?}
+{1080}{}{Skeet? That thief of our canned food? What do you want to tell me about him?}
 {1081}{109}{He had nothing to do with stealing! The canned food has been eaten by an old Chimera. I killed it.}
 {1082}{999}{Nothing... Except I think he is innocent here. I will find a way to prove it.}
 {1083}{}{Well, that fits. Our watchmen detected an old Chimera in our warehouse. It's so good that no one got hurt... As for Skeet - of course, we'll release him. And... Yeah, we owe him an apology.}

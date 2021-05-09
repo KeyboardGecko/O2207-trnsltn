@@ -310,7 +310,7 @@
 {720}{}{Of course, I'll do my best. For now, I'm trying to smooch things. People ask questions, they are worried. After I deal with that - and it will take some time - we could think about expanding the town, building additional bays for the factory, and organizing new caravan routes. I'll let you know.}
 {721}{999}{Great. keep me posted.}
 
-{730}{}{Oh, no, thank you. I think I'm the one who should do the work. But thank you for the proposition, I'll keep that in mind. And now - I have a lot of work to do.}
+{730}{}{Oh, no, thank you. I think I'm the one who should do the work. But thank you for the proposition, I'll keep that in mind. And now you'll have to exuse me, I have a lot of things to take care of.}
 {731}{999}{Yeah, sure. See you around.}
 
 {740}{}{Is that humor? [he rolls his eyes] Okay, you have to excuse me, but I can't talk right now. I need to make preparations for repairings of "Master's palace". }
