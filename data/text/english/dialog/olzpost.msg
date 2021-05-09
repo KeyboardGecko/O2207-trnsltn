@@ -29,7 +29,7 @@
 {10}{}{Hold it! Report - who, from where, what mission?}
 {11}{002}{I'm - }
 {12}{002}{, ran away from Tartarus, want to go back. Let me in, maybe?}
-{13}{003}{The name's Douglas. Hey, don't you recognize me?}
+{13}{003}{The name's Douglas. Don't you recognize me?}
 {14}{002}{Gregorius, Herald. Didn't recognize me? Let me in!}
 {15}{004}{I'm Douglas, you should have heard of me.}
 {16}{GoBack}{I was just about to go to my mission... Bye.}
@@ -44,7 +44,7 @@
 #NodeGoBack
 
 #Node003
-{30}{}{[He studies your badge] Doug, is that really you? You are so different every time you return from a mission that I didn't even recognize you! Okay, let's see what you brought [he puts out a piece of paper and starts examining it]}
+{30}{}{[He studies your badge] Doug, is that really you? You look different every time you return from a mission! Okay, let's see what you brought. [he puts out a piece of paper and starts examining it]}
 {31}{005}{Don't bother, everything is in here [Show the bag with items from Douglas list]}
 {32}{006}{You know me, I never return empty-handed.}
 {33}{999}{Of course! I've just remembered that I forgot one thing. Be right back.}

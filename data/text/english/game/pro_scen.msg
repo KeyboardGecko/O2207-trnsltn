@@ -974,9 +974,9 @@
 {50501}{}{It's impossible to clear this rubble.}
 {50600}{}{Parking lot entrance}
 {50601}{}{It's impossible to clear this rubble.}
-{50700}{}{Chair.}
+{50700}{}{Chair}
 {50701}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{50800}{}{Chair.}
+{50800}{}{Chair}
 {50801}{}{Four legs, a seat, a back - looks like you see a usual chair.}
 {50900}{}{Boulder}
 {50901}{}{The collapsed part of the roof formed this slide of rock. Your rope leads back to the surface.}
@@ -990,25 +990,25 @@
 {51400}{}{Pole}
 {51500}{}{Hose}
 {51501}{}{An Irreplaceable tool in the business of watering crops.}
-{51600}{}{Chair.}
+{51600}{}{Chair}
 {51601}{}{Looks solid.}
-{51700}{}{Chair.}
+{51700}{}{Chair}
 {51701}{}{Looks solid.}
-{51800}{}{Chair.}
+{51800}{}{Chair}
 {51801}{}{Looks solid.}
-{51900}{}{Chair.}
+{51900}{}{Chair}
 {51901}{}{Looks solid.}
 {52000}{}{Bed}
 {52001}{}{It's better to sleep on the floor.}
 {52100}{}{Shadow}
-{52200}{}{Chair.}
+{52200}{}{Chair}
 {52201}{}{Battered, but sturdy.}
 {52300}{}{Things}
 {52301}{}{A lot of boxes full of useless junk.}
 {52400}{}{Workbench.}
 {52401}{}{An old workbench, it seems to have been used a lot.}
 {52500}{}{Shadow}
-{52600}{}{Chair.}
+{52600}{}{Chair}
 {52601}{}{Battered, but sturdy.}
 {52700}{}{Car}
 {52701}{}{You see a bucket of nuts and bolts. It was a great car once.}
@@ -1256,13 +1256,13 @@
 {66001}{}{A beautifully crafted table.}
 {66100}{}{Broken table}
 {66101}{}{Its leg is broken.}
-{66200}{}{Chair.}
+{66200}{}{Chair}
 {66201}{}{Looks like a usual reliable chair. Its legs are a little rusty though.}
-{66300}{}{Chair.}
+{66300}{}{Chair}
 {66301}{}{It's a chair. The usual one.}
-{66400}{}{Chair.}
+{66400}{}{Chair}
 {66401}{}{Its front leg is a little bent, but the chair still looks pretty solid.}
-{66500}{}{Chair.}
+{66500}{}{Chair}
 {66501}{}{A very comfortable piece of furniture.}
 {66600}{}{Lying chair}
 {66601}{}{Someone dropped this chair.}
@@ -1357,11 +1357,11 @@
 {71101}{}{It would be complete darkness without it.}
 {71200}{}{Table}
 {71201}{}{It's pretty dirty. Looks like there's mold on it.}
-{71300}{}{Lying chair.}
+{71300}{}{Lying chair}
 {71301}{}{Bar stool with no back.}
 {71400}{}{Lights}
 {71401}{}{It would be complete darkness without it.}
-{71500}{}{Chair.}
+{71500}{}{Chair}
 {71501}{}{Bar stool with no back.}
 {71600}{}{Sign}
 #Í/Ä
@@ -1387,35 +1387,35 @@
 {72601}{}{A slightly damaged stone bench.}
 {72700}{}{Bench}
 {72701}{}{A stone bench. Must be very firm.}
-{72800}{}{Lying chair.}
+{72800}{}{Lying chair}
 {72801}{}{Bar stool with no back.}
-{72900}{}{Lying chair.}
+{72900}{}{Lying chair}
 {72901}{}{Just a bar stool. Someone tipped this one over.}
 {73000}{}{Table}
 {73001}{}{An unusually dirty piece of furniture.}
 {73100}{}{Sign}
 #Í/Ä
-{73200}{}{Chair.}
+{73200}{}{Chair}
 {73201}{}{Bar stool with no back.}
 {73300}{}{Sign}
 #Í/Ä
-{73400}{}{Chair.}
+{73400}{}{Chair}
 {73401}{}{Bar stool with no back.}
-{73500}{}{Chair.}
+{73500}{}{Chair}
 {73501}{}{Bar stool with no back.}
-{73600}{}{Chair.}
+{73600}{}{Chair}
 {73601}{}{Just a chair with no back.}
 {73700}{}{Broken chair}
 {73701}{}{Looks like this pile of garbage was once a chair. Made from the garbage.}
-{73800}{}{Chair.}
+{73800}{}{Chair}
 {73801}{}{Looks like this pile of garbage was once a chair. Made from the garbage.}
-{73900}{}{Chair.}
+{73900}{}{Chair}
 {73901}{}{A handmade chair, assembled from trash and car parts.}
-{74000}{}{Chair.}
+{74000}{}{Chair}
 {74001}{}{You don't have any feelings for handmade furniture.}
-{74100}{}{Chair.}
+{74100}{}{Chair}
 {74101}{}{A handmade chair, made from all kinds of stuff.}
-{74200}{}{Chair.}
+{74200}{}{Chair}
 {74201}{}{Made from junk and car parts}
 {74300}{}{Manure}
 {74301}{}{Better not to step on it.}
@@ -1474,29 +1474,29 @@
 {77001}{}{This is a control calculator.}
 {77100}{}{Junk}
 {77101}{}{Shattered bottles, shards of glass. Nothing of value.}
-{77200}{}{Lying chair.}
+{77200}{}{Lying chair}
 {77201}{}{It can still be used for sitting.}
-{77300}{}{Lying chair.}
+{77300}{}{Lying chair}
 {77301}{}{It can still be used for sitting.}
-{77400}{}{Lying chair.}
+{77400}{}{Lying chair}
 {77401}{}{Why do you need it? Leave it alone.}
-{77500}{}{Lying chair.}
+{77500}{}{Lying chair}
 {77501}{}{Why do you need it? Leave it alone.}
-{77600}{}{Lying chair.}
+{77600}{}{Lying chair}
 {77601}{}{Why do you need it? Leave it alone.}
-{77700}{}{Lying chair.}
+{77700}{}{Lying chair}
 {77701}{}{Why do you need it? Leave it alone.}
-{77800}{}{Lying chair.}
+{77800}{}{Lying chair}
 {77801}{}{Someone dropped this chair.}
-{77900}{}{Lying chair.}
+{77900}{}{Lying chair}
 {77901}{}{Someone dropped this chair.}
-{78000}{}{Lying chair.}
+{78000}{}{Lying chair}
 {78001}{}{A chair, peacefully laying around.}
-{78100}{}{Chair.}
+{78100}{}{Chair}
 {78101}{}{Rusty leg, busted leather - this chair doesn't look comfy.}
-{78200}{}{Chair.}
+{78200}{}{Chair}
 {78201}{}{Rusty leg, busted leather - this chair doesn't look comfy.}
-{78300}{}{Chair.}
+{78300}{}{Chair}
 {78301}{}{It served its purpose.}
 {78400}{}{Equipment}
 {78401}{}{Some kind of technical equipment.}
@@ -1526,37 +1526,37 @@
 {79601}{}{It can be repaired - but you don't need to do it.}
 {79700}{}{Table}
 {79701}{}{A little dented, but still a good table.}
-{79800}{}{Chair.}
+{79800}{}{Chair}
 {79801}{}{Despite its rusty legs, it can still do its job.}
-{79900}{}{Chair.}
+{79900}{}{Chair}
 {79901}{}{Despite its rusty legs, it can still do its job.}
-{80000}{}{Chair.}
+{80000}{}{Chair}
 {80001}{}{A usual chair.}
-{80100}{}{Chair.}
+{80100}{}{Chair}
 {80101}{}{Despite its rusty legs, it can still do its job.}
-{80200}{}{Chair.}
+{80200}{}{Chair}
 {80201}{}{It was fixed by someone. They did all they could.}
-{80300}{}{Chair.}
+{80300}{}{Chair}
 {80301}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{80400}{}{Chair.}
+{80400}{}{Chair}
 {80401}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{80500}{}{Chair.}
+{80500}{}{Chair}
 {80501}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{80600}{}{Chair.}
+{80600}{}{Chair}
 {80601}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{80700}{}{Chair.}
+{80700}{}{Chair}
 {80701}{}{There's almost nothing left of this chair.}
-{80800}{}{Lying chair.}
+{80800}{}{Lying chair}
 {80801}{}{Just a usual chair. It must be tired. Don't disturb it.}
-{80900}{}{Chair.}
+{80900}{}{Chair}
 {80901}{}{Now it's just junk.}
-{81000}{}{Chair.}
+{81000}{}{Chair}
 {81001}{}{Just a chair, peacefully lying on the side.}
-{81100}{}{Chair.}
+{81100}{}{Chair}
 {81101}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{81200}{}{Chair.}
+{81200}{}{Chair}
 {81201}{}{Four legs, a seat, a back - looks like you see a usual chair.}
-{81300}{}{Chair.}
+{81300}{}{Chair}
 {81301}{}{Four legs, a seat, a back - looks like you see a usual chair.}
 {81400}{}{Calculator}
 {81401}{}{A common calculator.}
@@ -1578,7 +1578,7 @@
 {82201}{}{A knot of interwoven tubes. Some kind of communications.}
 {82300}{}{Tubes}
 {82301}{}{A knot of interwoven tubes. Some kind of communications.}
-{82400}{}{Table with reagents.}
+{82400}{}{Table with reagents}
 {82401}{}{It seems that the flasks contain some chemical compounds. You'd better not touch it.}
 {82500}{}{Wall}
 {82600}{}{Car door}
@@ -1587,7 +1587,7 @@
 {82701}{}{Just a metal barrel.}
 {82800}{}{Barrel}
 {82801}{}{A barrel with unknown content.}
-{82900}{}{Chair.}
+{82900}{}{Chair}
 {82901}{}{A great bar stool.}
 {83000}{}{Lighting panel}
 {83001}{}{Converts electrical energy to light. Yes, an old physics textbook, which you read as a child, sometimes reminds of itself.}
@@ -2746,7 +2746,7 @@
 {149400}{}{Tipped bed.}
 {149401}{}{Looks like this bed has served its purpose.}
 {149500}{}{Junk}
-{149501}{}{Car parts.}
+{149501}{}{Some machinery parts.}
 {149600}{}{Junk}
 {149601}{}{Useless junk.}
 {149700}{}{Junk}
@@ -2840,7 +2840,7 @@
 {154601}{}{This is where the pipes and other equipment go.}
 {154700}{}{Rags}
 {154701}{}{Stinky old bed.}
-{154800}{}{A force field.}
+{154800}{}{A force field}
 {154900}{}{A force field.}
 {155000}{}{An organ removal device.}
 {155001}{}{The latest model in the surgical DIY series. Removes organs at the push of a button.}
@@ -3316,7 +3316,7 @@
 {182301}{}{Looks like someone's bones are in this puddle.}
 {182400}{}{Blood}
 {182401}{}{Mother always told you that this liquid should be INSIDE, not outside.}
-{182500}{}{Bones and guts.}
+{182500}{}{Bones and guts}
 {182501}{}{The mortal remains that smell of fresh blood.}
 {182600}{}{Rocks}
 {182601}{}{Look impregnable.}
@@ -3457,7 +3457,7 @@
 {189600}{}{Shelves.}
 {189601}{}{Shelves of booze.}
 {189700}{}{Table}
-{189800}{}{Chair.}
+{189800}{}{Chair}
 {189801}{}{The usual bar stool.}
 {189900}{}{Junk}
 {189901}{}{Useless garbage, carefully covered with a cloth.}
@@ -4465,7 +4465,7 @@
 {244000}{}{Painting}
 {244001}{}{Looks real and well preserved.}
 {244100}{}{Painting}
-{244101}{}{For several minutes you study the painting. Real art is fascinating.}
+{244101}{}{For several minutes you study the painting. Art is fascinating.}
 {244200}{}{Painting}
 {244201}{}{A portrait of a man. Your manly face would also look good on a portrait in a gold frame.}
 {244300}{}{Void}
@@ -4685,9 +4685,9 @@
 {255201}{}{Here it is! The Olympus, abode of all hopefuls.}
 {255300}{}{Olympus}
 {255301}{}{Here it is! The Olympus, abode of all hopefuls.}
-{255400}{}{Metal archway.}
+{255400}{}{Metal archway}
 {255401}{}{Rusty, but still strong.}
-{255500}{}{Metal archway.}
+{255500}{}{Metal archway}
 {255501}{}{Rusty, but still strong.}
 {255600}{}{Shadow}
 {255700}{}{Coffee machine}
@@ -4874,13 +4874,13 @@
 {265601}{}{An engineer's workstation with a calculator on.}
 {265700}{}{A desk with a calculator.}
 {265701}{}{The engineer's workstation.}
-{265800}{}{Chair.}
+{265800}{}{Chair}
 {265801}{}{A piece of furniture designed to support the human body in a seated position.}
-{265900}{}{Chair.}
+{265900}{}{Chair}
 {265901}{}{This chair would have been quite ordinary if it weren't for the wheels. You wonder if they used to have chair races here.}
-{266000}{}{Chair.}
+{266000}{}{Chair}
 {266001}{}{This chair would have been quite ordinary if it weren't for the wheels. You wonder if they used to have chair races here.}
-{266100}{}{Chair.}
+{266100}{}{Chair}
 {266101}{}{A piece of furniture designed to support the human body in a seated position.}
 {266200}{}{Junk}
 {266201}{}{Not even the last vagrant would be interested in this junk.}

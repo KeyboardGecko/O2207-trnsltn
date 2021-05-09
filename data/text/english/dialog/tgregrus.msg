@@ -43,7 +43,7 @@
 {21}{}{But... But... The work never ends... I can't be left without a job, the others wouldn't like it!}
 {22}{}{It can't be! There, I see the lights blinking all the time, maybe I'll look into a fuse box?}
 {30}{}{You are smart, }
-{31}{}{! Good, here are your tasks: something bad is happening to the Lavash, they look sick. You need to find out why. The fuse box on the northern wall is sparking again - it needs to be fixed. And the most important thing - you need to bring 12 canisters of water from the Technical level to the Lavash overseers.}
+{31}{}{! Good, here are your tasks: something bad is happening to the Lavash, they look sick. You need to find out why. The fuse box on the northern wall is sparking again - it needs to be fixed. And the most important thing - you need to bring 12 canisters of water from the Maintenance level to the Lavash overseers.}
 {32}{}{Okay. I'll go figure it out...}
 {33}{}{Uhh... Can you tell me more details?}
 {34}{}{Man, so much to do! Alright, I'll get to it...}
@@ -56,10 +56,10 @@
 {50}{}{They are acting strange - don't eat, drink a lot, their feces are more smelly than usual. And most of all, they are getting thinner and don't breed. If it continues like this, we would have nothing to feed us with, and the Gods will get angry!}
 {51}{}{That's very bad... I'll go look into it.}
 {52}{}{I see. Can I ask something else?}
-{60}{}{You are wearing the suit of Technology Servant, yet you don't know how to deal with electricity? Another question like this, and you will become a Life Servant! Just repair this fuse box. If you have some doubts, ask your teachers, Smitty or Carol. They are on a Technical level.}
+{60}{}{You are wearing the suit of Technology Servant, yet you don't know how to deal with electricity? Another question like this, and you will become a Life Servant! Just repair this fuse box. If you have some doubts, ask your teachers, Smitty or Carol. They are on a Maintenance level.}
 {61}{}{I'll do that. Off to work.}
 {62}{}{Yeah, I was about to do just that... But can I ask more?}
-{70}{}{Did the Gods make you yesterday? The canisters are on a Technical level, near the water filtering machines.}
+{70}{}{Did the Gods make you yesterday? The canisters are on a Maintenance level, near the water filtering machines.}
 {71}{}{Of course, I was just clarifying... Okay, off to carry water.}
 {72}{}{Oh yeah! I remembered. Can I ask another one?}
 #
@@ -115,7 +115,7 @@
 {180}{}{You did good, Servant! And you handle your responsibilities well. I will tell other Servants about you. And now - go, get some rest.}
 {181}{}{It's... A great thing to hear, especially from Herald. Glad to serve!}
 {182}{}{It was nothing special, just doing my job. I'm going.}
-{190}{}{You've just started to make me happy - and now you are making me sad again... Ask Smitty on a Technical level, he is responsible for this. He is also in charge of every Technology Servant, isn't he? } #вроде или в роду ?)
+{190}{}{You've just started to make me happy - and now you are making me sad again... Ask Smitty on a Maintenance level, he is responsible for this. He is also in charge of every Technology Servant, isn't he? } #вроде или в роду ?)
 {191}{}{Oh, uh, yeah. Just making sure...}
 {192}{}{Of course. I want to ask something else.}
 

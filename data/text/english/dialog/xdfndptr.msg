@@ -44,8 +44,8 @@
 {17}{}{Get back to Tartarus before I report about you.}
 {18}{}{Herald shouldn't be here. It's dangerous.}
 {19}{}{Decided to remember the old days in Radius?}
-{20}{}{You see Ranger.}
-{21}{}{You see Seeker.}
+{20}{}{You see a scout.}
+{21}{}{You see a Seeker.}
 {22}{}{You see a military.}
 {23}{}{Judging by his uniform, he definitely belongs to the military.}
 {24}{}{His armor is adjusted to his body and looks very comfortable.}

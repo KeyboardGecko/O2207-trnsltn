@@ -75,7 +75,7 @@
 {211}{022}{Do you need me to fix dislocated wrists or something? Of course, I'll help, no problem!}  			
 {212}{022}{You mean, to do a medic's job? I'm not sure... But I could try, why not.}  		
 {213}{999}{To take care of sick and injured? Hell no, I don't have time for this. A lot of other things to do.}    	
-{220}{}{That's wonderful! Okay, listen - run around the Farms and Technical level. If you see someone lying around and groaning, try to get them back on their feet. Not by force, of course, don't make it worse for them. Help at least six, and return to me. Meanwhile, I'll think about how to thank you for this. [he winks]}  			
+{220}{}{That's wonderful! Okay, listen - run around the Farms and Maintenance level. If you see someone lying around and groaning, try to get them back on their feet. Not by force, of course, don't make it worse for them. Help at least six, and return to me. Meanwhile, I'll think about how to thank you for this. [he winks]}  			
 {221}{PetsHelper}{I see, I see. Okay, off to heal injured and sprained.}  				
 {222}{PetsHelper}{Assignment is taken, doc. See you soon!}   
 {223}{999}{Six!? Too much, if you ask me. I was thinking about bringing you a couple of sick kids or something. Nah, some other time.}
@@ -125,7 +125,7 @@
 {344}{999}{I get it. I'll go look for this... What was it again?}	
 
 
-{400}{}{Unusual, you say? I bet someone from the Technical level is sticking their hands where they are not supposed to again...}
+{400}{}{Unusual, you say? I bet someone from the Maintenance level is sticking their hands where they are not supposed to again...}
 {401}{041}{No, actually this patient is somewhere far away from here. We have to venture outside.}
 {402}{043}{Actually, I mean the savage woman, she lives in the mountains to the north. She has a nasty rotten wound.}
 

@@ -356,7 +356,7 @@
 {360}{}{}
 {361}{}{}
 # 54: Renessance City
-{362}{}{Miracle City}
+{362}{}{City of Wonders}
 {363}{}{}
 {364}{}{}
 #

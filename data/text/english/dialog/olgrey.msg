@@ -41,7 +41,7 @@
 {41}{005}{Sounds interesting. }
 {42}{006}{What do I get from it?}
 
-{50}{}{Oh... Perfect! There's a way to deal with this argument with incredible elegance. Zochkis is sitting at his office, locking himself into his motorized armor suit, because he has a strong delusion of persecution - but that's not related to the case. What is, however, is that he is afraid of Chimeras, like a little girl! But at the same time, he says that Chimeras can't be used for the defense of Olympus, because they are not very effective. So, I want you to take a Chimera and to go have a talk with this old bore. Make him attack the Chimera, so we could find out what's more effective - his armor suit or claws of my new pet. Although, if he dies in the process - I wouldn't mind... And be quite pleased too.}
+{50}{}{Oh... Perfect! There's a way to deal with our argument with incredible elegance. Zochkis is sitting at his office, locking himself into his motorized armor suit, because he has a strong delusion of persecution - but that's not related to the case. What is, however, is that he is afraid of Chimeras, like a little girl! But at the same time, he says that Chimeras can't be used for the defense of Olympus, because they are not very effective. So, I want you to take a Chimera and to go have a talk with this old bore. Make him attack the Chimera, so we could find out what's more effective - his armor suit or claws of my new pet. Although, if he dies in the process - I wouldn't mind... And be quite pleased too.}
 {51}{007}{I'm in. }
 {52}{007}{I'll think about it. If I agree, I'll come back with the results. }
 

@@ -273,75 +273,75 @@
 #First Visit on a map
 #
 {300}{}{}
-{301}{}{The same technicians roam the parking lot in search of the same spare parts.}
-{302}{}{The warm hands of your mother wake you up.}
+{301}{}{The same technicians roam the same parking lot looking for the same parts.}
+{302}{}{You are awakened by your mother's warm hands.}
 {303}{}{So many years have passed, but almost nothing has changed in Tartarus.}
 {304}{}{After another 4 years, still nothing has changed.}
-{305}{}{The Farms of Tartarus... The humid air is saturated with the smell of rotten corn and the shit of the Lavash.}
-{306}{}{It seems that with each new visit to the Farm the air here becomes even more disgusting than before...}
-{307}{}{The Maintenance Level. Continuous noise of water pumping and purification units will never let you fall asleep here.}
-{308}{}{The stench from the Mouth of Hades immediately hits you in the nose and almost knocks you to the ground.}
-{309}{}{This is the Purgatory. In the pitch darkness, you can smell fear and death.}
-{310}{}{Unbearably bright sunlight hits your eyes, you start to choke, but soon your senses are clear again.}
-{3010}{}{I need to check this box, see if there's anything interesting there.}
-{311}{}{An old parking lot with piles of twisted metal. As a child, you loved to play here so much.}
-{312}{}{The old metro line ends with a blockage, but you can see a turn to the right.}
-{313}{}{An old Olympus Station. Dim lights illuminate the frail bodies of the local inhabitants.}
-{314}{}{Apparently, here's where used to be the waiting rooms and administration cabinet of the Olympus Station.}
-{315}{}{Among the remains of houses you can see a passage into the underground.}
-{316}{}{As everywhere else, devastation and destuction reign supreme.}
-{317}{}{You clearly sense the smell of rotting meat in the old damp basement.}
+{305}{}{The Farms of Tartarus... The humid air is filled with the smell of rotten corn and the fumes of Lavash shit.}
+{306}{}{It seems that every time you visit Farms the air here becomes even more disgusting...}
+{307}{}{The Maintenance Level. A constant noise of water pumping and purification units will never let you fall asleep here.}
+{308}{}{The stench from the Mouth of Hades hits you right in the nose and almost knocks you out.}
+{309}{}{This is Purgatory. In the pitch-black darkness you can smell fear and death.}
+{310}{}{The unbearably bright sunlight hits your eyes, you start to hyperventilate, but soon your senses are clear again.}
+{3010}{}{I need to check this box, maybe there is something interesting there.}
+{311}{}{An old parking lot with piles of twisted metal. You used to love to play here as a child.}
+{312}{}{The old subway branch hits a blockage, but there's a turnoff on the right.}
+{313}{}{An old Olympus Station. A dim light illuminates the frail bodies of its inhabitants.}
+{314}{}{Apparently, here used to be the waiting rooms and administration cabinet of the Olympus Station.}
+{315}{}{Among the remains of houses, you can see a passage leading underground.}
+{316}{}{As everywhere else, devastation and destruction reign supreme.}
+{317}{}{The smell of rotting meat is palpable in this old, damp basement.}
 {318}{}{This is quite a bustling and busy place, guarded by armed men. Looks like there's a lot of trading going on.}
 {319}{}{It looks like the Headquarters of the Sunset Jackals. The building is heavily guarded.}
-{320}{}{This place reminds you of the old Tartarus parking lot. The raiders seem to dig around the old trash in search of needed scrap.}
-{321}{}{It's surprisingly lively here, with a lot of raiders sleeping or wandering around. A good half of them gathered around the ring, shouting something.}
-{322}{}{There aren't many people here, but they're all well-armed. Apparently, that building is an old warehouse.}
-{323}{}{This place doesn't look like other buildings, and no one seems to have been here for a long time. You have a bad feeling about it.}
-{324}{}{A basement room that looks more like an old army bunker for case of a nuclear attack.}
-{325}{}{On the opposite side of the plateau, you can see the entrance to a cave.}
+{320}{}{This place reminds you of the old Tartarus parking lot. The raiders seem to dig around the old junk in search of needed scrap.}
+{321}{}{It's surprisingly lively, with lots of raiders sleeping or wandering around. A good half of them gathered around the ring shouting.}
+{322}{}{There aren't many people here, but everyone is heavily armed. Apparently that building is an old warehouse.}
+{323}{}{This place doesn't look like the buildings outside at all, and from the looks of it, no one has been here in a long time. Strangely, you suddenly feel fear.}
+{324}{}{A basement room that looks more like an old army bunker in case of a nuclear attack.}
+{325}{}{On the opposite side of the plateau you can see the entrance to some kind of cave.}
 {326}{}{It's dark and damp, but it looks like someone made a shelter here.}
 {327}{}{This place is a busy shopping area. The sweet spirit of open market relations feels in the air.}
-{328}{}{The smell of machine oil and raw meat, mixed with ooze of feces and aroma of sweat from hard laboring workers, hits your nose right at the doorway. This is a factory floor.}
+{328}{}{The smell of machine oil and raw meat, mixed with an ooze of feces and the aroma of sweat from laboring workers, hits your nose right at the doorway. This is a factory floor.}
 {329}{}{...Another 4 years. You are already 21, but nothing has changed in Tartarus.}
 {330}{}{EXTRA MAP}
-{331}{}{Here and there you see residential tents and dilapidated houses. The ambience is filled with the constant lowing of Lavash and buzzing of flies.}
-{332}{}{A huge "LIVOS" sign in big, richly decorated letters, points to the entrance of the cave, near which travelers and merchants jostle.}
+{331}{}{Here and there you see residential tents and dilapidated houses. The ambiance is filled with the constant mooing of Lavash and the buzzing of flies.}
+{332}{}{A huge ""LIVOS"" sign in big, richly decorated letters, points to the entrance of the cave, near which travelers and merchants jostle.}
 {333}{}{The cave arches are merging with concrete walls, in front of which you see an automatic turret. It immediately locks onto you.}
-{334}{}{The staircase leads you to a network of rooms and corridors. Richly dressed vault dwellers are roaming back and forth.}
+{334}{}{The staircase leads you into a network of rooms and corridors. Richly dressed vault dwellers are wandering back and forth.}
 {335}{}{In the poorly lit space of rooms stand incomprehensible machines and devices. Looks like it's some kind of technical area.}
-{336}{}{It is quite dark and humid here. You can hear the splashing sounds of water nearby, the hum of machinery, and some... Grunting?}
+{336}{}{It is quite dark and humid here. You can hear the splashing of water nearby, the hum of machinery, and some kind of... Grunting?}
 {337}{}{The stale, heavy air immediately takes your breath away. You slowly calm down and let your eyes adjust to the impenetrable darkness.}
-{338}{}{This place looks like the encampment of some raiders or vagabonds. Some of the locals are dead drunk or are moaning from hunger, others constantly seem to look for something.}
-{339}{}{In this part the settlement looks more vibrant, and it seems that the excitement is associated with a nearby fenced-in square.}
-{340}{}{This is it, your first fight in the Arena! You need to make best use of your skills in melee combat and win!}
-{341}{}{The room turned out to be a real hangout, with alcohol, blackjack and whores! The drunken men tap out a melody with their feet and fists, setting the rhythm to the dancers.}
-{342}{}{The long corridor seems to end in darkness. You're willing to bet that it's been a long time since someone has set foot here.}
-{343}{}{At the entrance to the cave you see bored guards. Probably, they stand there because they are guarding that cave's entrance.}
+{338}{}{This place looks like the encampment of some raiders or vagrants. Some of the locals are dead drunk or moaning from hunger, others are constantly searching for something.}
+{339}{}{In this part, the settlement looks more vibrant, and it seems that the excitement is associated with a nearby fenced-off square.}
+{340}{}{This is it - your first battle in the Arena! You have to make the best use of your melee skills - and win!}
+{341}{}{Inside the room is a real joint, with alcohol, blackjack, and whores. Drunken men tapping out a tune with their feet and fists, setting the dancers' rhythm.}
+{342}{}{The long corridor seems to end in darkness. You're willing to bet that it's been a long time since anyone has set foot here.}
+{343}{}{At the entrance to the cave, you see bored guards. Probably, they stand there because they are guarding that cave's entrance.}
 {344}{}{In a small passageway ahead, you see a couple of burly savages, waving at you.}
 {345}{}{Looks like the settlement is securely sheltered from every direction. You would feel quite at home - if it weren't for that sweet taste in the air...}
-{346}{}{In the pitch darkness of the cave you can't see anything. You can only hear sounds. And the sounds you hear don't promise a pleasant stroll.}
-{347}{}{To your surprise, you stumble upon a huge mansion hidden between the cliffs! Surely, its former owner must have been very rich - and not very hospitable.}
+{346}{}{In the pitch blackness of the cave, you can only hear. And you hear sounds that don't promise a pleasant walk.}
+{347}{}{Surprisingly, there is a huge mansion hidden between the rocks! Surely its former owner was very rich and not very hospitable.}
 {348}{}{In the middle of the wasteland stands a lonely shabby hut. A very, very suspicious hut.}
-{349}{}{Almost falling off the last step, you find yourself in a stuffy room, soaked through with sweat and alcohol.}
+{349}{}{Almost falling down the last step, you find yourself in a stuffy room, soaked with sweat and alcohol.}
 {350}{}{In front of you lies the main entrance to a fairly large factory, very similar to the one in NWO. Or maybe all factories look the same to you.}
-{351}{}{The air inside of this workshop is filled with a smell of rotten rags. Around you see scattered evidence of current tenants's presence.}
-{352}{}{You hear a strange rustling in the basement. It's like someone's scratching stones with a nail.}
+{351}{}{The air of the workshop is saturated with the smell of rotten rags. The evidence indicating the present of current "tenants" is scattered around.}
+{352}{}{You hear a strange rustling in the basement. As if someone is driving a nail through the stones.}
 {353}{}{There are only mountains around, nothing except mountains...}
-{354}{}{The "Miracle City" that appears before you looks quite disappointing. Only a few walls, mold and pale cave mushrooms are left here.}
-{355}{}{Rising high into the sky, before you stands the huge skyscraper of Olympus. Menacing Defenders, standing next to the tower, look very insignificant in comparison.}
-{356}{}{The beauty of the interior furnishings makes your jaw drop on the floor and lay there for some time.}
-{357}{}{Men and women in coats, that may have been white a long time ago, are scurrying back and forth with flasks and fancy instruments.}
-{358}{}{It's hard to figure out what's going on here, but there are even more people in white coats than on the previous floor.}
-{359}{}{The local staff is running from terminal to terminal with bulging eyes and disheveled hair. They must be busy with something very important and urgent.}
+{354}{}{The "City of Wonders" that appears before you look quite disappointing. There are only a couple of walls, mold, and pale cave mushrooms. }
+{355}{}{Rising high into the sky, before you stand the huge skyscraper of Olympus. Menacing Defenders, standing next to the tower, look very insignificant in comparison.}
+{356}{}{The beauty of the interior makes your jaw drop on the floor and lay there for some time.}
+{357}{}{Men and women in white (once white) lab coats scurry back and forth with some kind of flasks and fancy instruments.}
+{358}{}{It is hard to make out what is going on here, but there are just as many people in white coats as on the previous floor.}
+{359}{}{The local staff are running from calculator to calculator with goggling eyes and disheveled hair. They must be busy with something very important and urgent.}
 {360}{}{The fresh, warm air hits you in the face, and the view takes your breath away.}
-{361}{}{This place looks like a high-tech lab. The white coats around again, but not as much fuss like at the engineering level.}
+{361}{}{This place looks like a high-tech lab. White coats again, but not as much fuss as on the engineering level.}
 {362}{}{The Abode of the Defenders, no other way to call it. You feel like a dwarf next to these mighty warriors.}
 {363}{}{The hum of the transformers here is incredibly loud, and the air is so electrified that you can feel the hair all over your body standing.}
-{364}{}{There is absolutely nothing in this room except the elevator and a HUGE door with a code panel.}
-{365}{}{You boldly take a step forward...}
-{366}{}{A surprisingly dense thicket. It's like a suburban forest park or something. But you are sure that the scorpions will find you.}
+{364}{}{There is absolutely nothing in this room except an elevator and a HUGE door with a code panel.}
+{365}{}{You boldly step forward.}
+{366}{}{The thickets are surprisingly dense. It's like a suburban forest park or something. But you are sure that the scorpions will find you.}
 {367}{}{You can see paths in the desert, but they are too wide to be trodden by people.}
-{368}{}{In the mountain you can see a nicely decorated entrance to the caves, from where you can hear a low rumbling sound.}
+{368}{}{In the mountain, you can see a nicely decorated entrance, from where you can hear a soft rumbling sound.}
 {369}{}{The closer you get, the more dizzy and aching your head becomes. There's clearly something wrong with this place!}
 {370}{}{All around is just desert and wasteland.}
 {371}{}{All around is just desert and wasteland.}
@@ -402,10 +402,10 @@
 {422}{}{Sorry, but for using the Elevator}
 {423}{}{you need to insert an Access Card.}
 {424}{}{Goodbye!}
-{425}{}{Access Card identified: }
-{426}{}{"Institute of Organic Sciences"}
-{427}{}{"Design and Engineering Bureau"}
-{428}{}{"Laboratories of Physical Sciences"}
+{425}{}{Access Card: }
+{426}{}{"Biology"}
+{427}{}{"Engineering"}
+{428}{}{"Physics"}
 {429}{}{"X2 Access"}
 {430}{}{"X1 Access"}
 {431}{}{Floor    Name             Access}
