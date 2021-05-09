@@ -53,8 +53,8 @@
 {500}{}{Edward SdhWwein won't let you in at Livos until you can prove that you are one of the family members.}
 {501}{}{The water filter is broken. Ashton Horton wants you to fix it.}
 {502}{}{The Danton family asks you to kill all the creatures in the cave under the filtration room.}
-{503}{}{Christopher Shwein is in love with Minnie Horton and asks you to help him hook up with her.}
-{504}{}{Dallas McKinsey is in love with Minnie Horton and asks you to help him hook up with her.}
+{503}{}{Christopher Shwein is in love with Mignon Horton and asks you to help him hook up with her.}
+{504}{}{Dallas McKinsey is in love with Mignon Horton and asks you to help him hook up with her.}
 {505}{}{Ludwig Shwein says that someone stole his textbook on wave physics. Help him return the valuable book.}
 {506}{}{Sopé Danton can no longer stand the tyranny of his wife Emily and asks you to "remove" her.}
 {507}{}{Claudia Horton gets on Boston's nerves over her husband's death. We need to find a way to calm her down.}

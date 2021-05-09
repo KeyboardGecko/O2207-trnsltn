@@ -1709,5 +1709,5 @@
 {13129}{}{might break out. So far we have drugged him with}
 {13130}{}{tranquilizers, but that has taken almost all of our}
 {13131}{}{supplies! I guess I'll head to headquarters myself}
-{13132}{}{to pick up the right quality rods.}
+{13132}{}{to pick up the bars of the right quality.}
 {13133}{}{**END-DISK**}

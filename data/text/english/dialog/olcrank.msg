@@ -39,13 +39,13 @@
 {35}{007}{[Start to say "hey" repeatedly, shaking him by the shoulders]}
 
 
-{40}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! A bit more, and this integral would remain unresolved - because of you. Get it, oozy mess? You’re guilty, and you need to make up for it! Right! Now!}
+{40}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! A bit more, and this integral would remain unresolved - because of you. Get it, oozy mess? You're guilty, and you need to make up for it! Right! Now!}
 {41}{008}{Make up for it? Ha. What do you need me to do?}
 {42}{009}{Easy! I only wanted to ask a couple of questions.}
 {43}{999}{No, no, no. No making-ups. I'm leaving already. }
 
 
-{50}{}{[he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! This integral slipped away from me - because of you. Get it, oozy mess? You’re guilty, and you need to make up for it! Right! Now!}
+{50}{}{[he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! This integral slipped away from me - because of you. Get it, oozy mess? You're guilty, and you need to make up for it! Right! Now!}
 {51}{008}{Make up for it, you say? Let me guess - you need me to do something for you?}
 {52}{009}{Easy! I only wanted to ask a couple of questions.}
 {53}{999}{No, no, no. No making-ups. I'm leaving already. }
@@ -182,7 +182,7 @@
 {310}{}{You said "1 874 449 234 744 934, 375 88", - and that's genius, piece of plasma! You are totally right! Hahaha!! Who would have thought that you have some hidden talents, oozy mess! [Crank continues to ask you questions. Somehow, you find answers to them. It goes on for hours. Diamond makes a lot of notes.]}
 {311}{999}{I'm so tired... [you feel exhausted. You slowly descend to the floor and fall asleep]}
 
-{320}{}{you open your eyes and try to stretch your neck. Looks like you’ve been carelessly asleep for an hour - right on this cold floor, next to a mad scientist.}
+{320}{}{you open your eyes and try to stretch your neck. Looks like you've been carelessly asleep for an hour - right on this cold floor, next to a mad scientist.}
 
 {321}{}{Huma-n-n-n... H-h-h-h...}
 {322}{}{Do n-n-n-ot ap-p-roach.}
