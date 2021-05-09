@@ -45,9 +45,9 @@
 ##для дыры в пещеру
 {18}{}{A rope. I definitely need one here.}
 {19}{}{Umm... I need to put down there something flexible and reliable, so I could climb out when I need to.}
-{20}{}{Uhh... This hole is an entrance to the cave. If I jump into it - how do I get back?}
-{21}{}{Uhhh... Err... [you have some kind of thought in your head! And now you lost it.]}
-{22}{}{You swiftly fixate the rope with a knot and climb down using it.}
+{20}{}{Uhh... This hole is an entrance to the cave. If I jump into it, how do I get back?}
+{21}{}{Uhhh... Err... [you have some kind of thought in your head! And now you've lost it.]}
+{22}{}{You swiftly fixate the rope with a knot. Now you can climb down.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
 #

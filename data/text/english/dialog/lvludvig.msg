@@ -195,7 +195,7 @@
 {311}{Barter}{Of course. And now show me what you have in stock.}
 {312}{999}{Thanks for the map. I'll come by later.}
 
-{320}{}{I don't have time to leave Livos and chat with some vagabonds. I got out only once, to the trading quarters by the entrance. That was the time when I chose someone to marry. Edward gathered some girls for me and I picked the best one. Veronica, my current spouse.}
+{320}{}{I don't have time to leave Livos and chat with some vagabonds. I got out only once, to the Chamber of Commerce by the entrance. That was the time when I chose someone to marry. Edward gathered some girls for me and I picked the best one. Veronica, my current spouse.}
 {321}{010}{I see. Another question then.}
 
 

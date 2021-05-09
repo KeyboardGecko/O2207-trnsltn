@@ -690,7 +690,7 @@
 {3238}{}{GSA launches a nuclear strike on UER territory.}
 {3239}{}{The sabotage causes the Moscow Nuclear Shield to}
 {3240}{}{function at 47% capacity, and one missile hits the}
-{3241}{}{area near Moscow. The government is urgently}
+{3241}{}{outskirts of Moscow. The government is urgently}
 {3242}{}{evacuated. War is declared between the UER and}
 {3243}{}{the GSA.}
 {3244}{}{}

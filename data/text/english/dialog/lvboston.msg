@@ -104,7 +104,7 @@
 {200}{}{That's it, I'm sick of it! Come here, I'm gonna screw off this stupid head of yours!}
 {201}{998}{Uh, wait!..}
 
-{210}{}{Christopher Schwein! Or someone from a dozen people in the trading quarters! Oh, I know! You are not married, are you? Go talk to her! We'll marry you in a moment!}
+{210}{}{Christopher Schwein! Or someone from a dozen people in the Chamber of Commerce! Oh, I know! You are not married, are you? Go talk to her! We'll marry you in a moment!}
 {211}{010}{Uh... Actually, I have a- ...Let's talk about something else.}
 {212}{999}{I need to go. Very urgent.}
 

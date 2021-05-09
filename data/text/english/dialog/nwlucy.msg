@@ -329,7 +329,7 @@
 
 
 
-{450}{}{You know... You are actually saying the right things! If it was someone else telling me this, I wouldn't listen. But to you I trust. So, I'll do it! No more quarrels with Sam.}
+{450}{}{You know... You are actually saying the right things! If it was someone else telling me this, I wouldn't listen. But I trust you. So, be it! No more quarrels with Sam.}
 {451}{}{You know... You are actually saying the right things, but I don't trust you much... [maybe you need to do something to make her more sympathetic to you]}
 {452}{040}{Okay, then I want to ask more about family.}
 {453}{010}{Then another question.}
@@ -337,7 +337,7 @@
 
 
 
-{460}{}{That's what I mean! I'm not cheating on him with just anyone, err, I'm not cheating on him at all! }
+{460}{}{That's what I mean! I'm not cheating on him with just anyone! Uh, I mean, I'm not cheating on him at all! }
 {461}{040}{I want to ask more about family.}
 {462}{010}{Yeah, I believe that. Can I ask another question?}
 

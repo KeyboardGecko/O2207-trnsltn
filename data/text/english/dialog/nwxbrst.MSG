@@ -22,8 +22,8 @@
 {7}{}{Well now... There should definitely be allocator here..}
 {8}{}{Oh! Someone ripped the allocator out, together with parts and cords...}
 {9}{}{No, Juan will do this job a lot better.}
-{10}{}{Come on, just a little more... Got it! Now it should work without the needed part!}
-{11}{}{Oh man, I can't! A painstaking work to do...}
+{10}{}{Just a little more... Yes! Now it should work without the needed part!}
+{11}{}{You failed to repair it. Maybe you should try harder.}
 {12}{}{No, you are too inexperienced with this task.}
 {13}{}{}
 {14}{}{}

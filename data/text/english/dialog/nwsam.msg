@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see an ancient ghoul with peeling skin and some ulcers around his body. He turns to you and smiles - but you feel terrified because it looks like the death itself grins at you in your last seconds] Hello. What can I do for you? }
+{10}{}{[You see an ancient ghoul with peeling skin and some ulcers around his body. He turns to you and smiles - but you feel terrified because it looks like the death itself grins at you in your last seconds.] Hello. What can I do for you? }
 {11}{002}{Hello. I'm looking around the town, I'm new here. Just came by to talk.}
 {12}{003}{Do you realize that you smell bad, to say the least?}
 
@@ -38,7 +38,7 @@
 
 {1000}{}{Come on then, say it.}
 {1001}{}{Hello. Come, let's talk.}
-{1002}{}{Here comes our new Leader. I hope you won't flush my life's work down the toilet [he laughs]. Ask me, if you need anything. I know every nook and cranny here.}
+{1002}{}{Here comes our new Leader. I hope you won't flush my life's work down the toilet [he smiles]. Ask me if you need anything. I know every nook and cranny here.}
 {1003}{}{Oh, hello! How are you? Have questions? I'm quite busy lately, but I can spare five minutes...}
 {1004}{}{Hello. [he looks saddened]}
 {101}{054}{Sam, what do you do here?}
@@ -213,7 +213,7 @@
 {480}{}{[Sam gets angry] I won't go to her, I won't apologize! She sleeps with everyone! }
 {481}{049}{You will. You have no choice, if you want to keep stealing the batteries for your medications.}
 
-{490}{}{[Sam lowers his shoulders, saddened] Okay... I'll talk to her. Nut no one should know about the stealing.}
+{490}{}{[Sam lowers his shoulders, saddened] Okay... I'll talk to her. But no one should know about stealing.}
 {491}{010}{That's better. It will be our little secret. Now, to other questions.}
 
 {500}{}{[Sam carefully listens for your recommendations about taking care of the skin to prevent decaying] Impressive. You really are a specialist. I respect that.}
@@ -226,7 +226,7 @@
 {520}{}{And? What is it?}
 {521}{053}{Due to the large quantities of exported water and increased usage of their water filter, they resorted to another option of water processing - charcoal filters. That's where the taste comes from.}
 
-{530}{}{I see. So, the water is alright, now need to worry. We used this kind of filtering before until our filters went out of order. I think we have some amount of batteries to reward someone who'd solve this problem... [Sam gives you a bag of batteries]}
+{530}{}{I see. So, the water is alright, no need to worry. We used the same kind of filtering before until our filters went out of order. Here. Thanks for solving this. [Sam gives you a bag of batteries]}
 {531}{999}{Thanks, it will come in handy.}
 {532}{999}{Thanks, but no need. I'm glad to help.}
 {533}{999}{Thanks, but to take care of the town's prosperity is my duty as a Mayor. Put the money into other needs.}
@@ -246,7 +246,7 @@
 {571}{999}{Thanks. Mark it on the map, please.}
 {572}{999}{I know where to go. I'll come to Livos and find out everything I can.}
 
-{580}{}{I suppose Lucy will do everything she can for her son to be put into Leader's position. This will bring us nothing good. As for me, it's I who should run this place, until he comes to a right mind.}
+{580}{}{I suppose Lucy will do everything she can to put her son in Leader's position. This will bring us nothing good. As for me, it's I who should run this place, until he comes to a right mind.}
 {581}{010}{I see... Another question then.}
 {582}{999}{Understood. Thanks for your honesty.}
 
