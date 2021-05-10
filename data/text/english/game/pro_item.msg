@@ -502,41 +502,41 @@
 {25101}{}{It is slightly askew, but it is unlikely that this affected its contents.}
 {25200}{}{Rusty Locker}
 {25201}{}{Even lying on the ground, this locker didn't stop being a locker.}
-{25300}{}{Shelves}
+{25300}{}{the shelves}
 {25301}{}{Old and dusty shelves with plenty of junk on them.}
-{25400}{}{Stuff}
+{25400}{}{stuff}
 {25401}{}{Surely, there might be something useful in such a large pile of stuff.}
-{25500}{}{Boxes}
+{25500}{}{the boxes}
 {25501}{}{Small boxes with unknown contents.}
 {25600}{}{Tub}
 {25601}{}{An old roomy bowl.}
-{25700}{}{Stuff}
+{25700}{}{stuff}
 {25701}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but you are still curious.}
-{25800}{}{Stuff}
+{25800}{}{stuff}
 {25801}{}{A pile of stuff and boxes.}
 {25900}{}{Machine}
 {25901}{}{A small machine for working with different materials.}
-{26000}{}{Stuff}
+{26000}{}{stuff}
 {26001}{}{Usually, people store their stuff in places like this.}
-{26100}{}{Stuff}
+{26100}{}{stuff}
 {26101}{}{Usually, people store their stuff in places like this.}
-{26200}{}{Stuff}
+{26200}{}{stuff}
 {26201}{}{Usually, valuables don't pile up like this, but who knows - people are strange.}
-{26300}{}{Stuff}
+{26300}{}{stuff}
 {26301}{}{There is always some ambiguity in closed boxes.}
-{26400}{}{Stuff}
+{26400}{}{stuff}
 {26401}{}{Rummaging through a large pile of things is time-consuming. Sometimes it's worth it, sometimes not.}
-{26500}{}{Stuff}
+{26500}{}{stuff}
 {26501}{}{The abundance of things in that pile does not guarantee the presence of something valuable in it, but you are still curious.}
-{26600}{}{Box}
+{26600}{}{a box}
 {26601}{}{Usually, people keep their stuff in something like it.}
-{26700}{}{Footlocker}
+{26700}{}{a footlocker}
 {26701}{}{A great place for storing items.}
 {26800}{}{Table}
 {26801}{}{The station administrator's desk.}
-{26900}{}{Shelves}
+{26900}{}{the shelves}
 {26901}{}{There's a lot of junk on these shelves.}
-{27000}{}{Stuff}
+{27000}{}{stuff}
 {27001}{}{Cartons, boxes, crates - all these made for storing things.}
 {27100}{}{Firehose Box}
 {27101}{}{You have always liked to set things on fire rather than putting it out.}
@@ -562,17 +562,17 @@
 {28101}{}{Crumpled and dirty boxes.}
 {28200}{}{Dresser}
 {28201}{}{An old chest of drawers made of the cracked, but still strong wood.}
-{28300}{}{Shelves}
+{28300}{}{the shelves}
 {28301}{}{The wooden shelves look empty, but maybe you are lucky?}
 {28400}{}{Dresser}
 {28401}{}{A broken wooden commode.}
-{28500}{}{Shelves}
+{28500}{}{the shelves}
 {28501}{}{Old broken wooden shelves. They seem to have served their time.}
-{28600}{}{Shelves}
+{28600}{}{the shelves}
 {28601}{}{Wooden shelves, designed to put things on them.}
-{28700}{}{Shelves}
+{28700}{}{the shelves}
 {28701}{}{The wooden shelves look empty, but maybe you are lucky?}
-{28800}{}{Shelves}
+{28800}{}{the shelves}
 {28801}{}{Old broken wooden shelves. They seem to have served their time.}
 {28900}{}{Firehose Box}
 {28901}{}{You have always liked to set things on fire rather than putting it out.}
@@ -1046,157 +1046,157 @@
 {52301}{}{The owner of such a trophy can be proud of himself. The sale is very profitable, and it's also very useful as a melee weapon.}
 {52400}{}{Claw}
 {52401}{}{The Onca's Claw is an excellent melee weapon.}
-{52500}{}{Shelves}
+{52500}{}{the shelves}
 {52501}{}{Wooden shelves with some junk on them.}
-{52600}{}{Shelves}
+{52600}{}{the shelves}
 {52601}{}{Wooden shelves, very convenient for storing things.}
-{52700}{}{Shelves}
+{52700}{}{the shelves}
 {52701}{}{Wooden shelves, very convenient for storing things.}
-{52800}{}{Desk}
+{52800}{}{a desk}
 {52801}{}{A wooden desk with drawers.}
-{52900}{}{Desk}
+{52900}{}{a desk}
 {52901}{}{A wooden desk with drawers.}
-{53000}{}{Boxes}
+{53000}{}{the boxes}
 {53001}{}{You can't help but wonder about the origin of these strange brown spots on the boxes.}
-{53100}{}{Boxes}
+{53100}{}{the boxes}
 {53101}{}{You can't help but wonder about the origin of these strange brown spots on the boxes.}
-{53200}{}{Stuff}
+{53200}{}{stuff}
 {53201}{}{Have you ever been told that it's not good to go through other people's belongings?}
-{53300}{}{Stuff}
+{53300}{}{stuff}
 {53301}{}{Have you ever been told that it's not good to go through other people's belongings?}
 {53400}{}{Junk}
 {53401}{}{Sometimes there's something useful in the junk.}
 {53500}{}{Junk}
 {53501}{}{Sometimes there's something useful in the junk.}
-{53600}{}{Stuff}
+{53600}{}{stuff}
 {53601}{}{Rummaging through other people's stuff can get you a hard piece of steel through your ribs very quickly. Better be discreet about it.}
 {53700}{}{Junk}
 {53701}{}{Some random stuff, nothing worth looking at.}
-{53800}{}{Terminal with a desk}
+{53800}{}{a terminal with a desk}
 {53801}{}{You're curious why they have two monitors here.}
-{53900}{}{Safe}
+{53900}{}{a safe}
 {53901}{}{Safes were designed to hide something in them. From people like you.}
-{54000}{}{Locker}
+{54000}{}{a locker}
 {54001}{}{A metal storage cabinet.}
-{54100}{}{Locker}
+{54100}{}{a locker}
 {54101}{}{A metal storage cabinet.}
-{54200}{}{Locker}
+{54200}{}{a locker}
 {54201}{}{A metal storage cabinet.}
-{54300}{}{Locker}
+{54300}{}{a locker}
 {54301}{}{A metal storage cabinet.}
-{54400}{}{Locker}
+{54400}{}{a locker}
 {54401}{}{A metal cabinet, rather rusty.}
-{54500}{}{Locker}
+{54500}{}{a locker}
 {54501}{}{A metal cabinet, rather rusty.}
-{54600}{}{Locker}
+{54600}{}{a locker}
 {54601}{}{A rusty metal cabinet, which is also pretty dented.}
-{54700}{}{Cabinet}
+{54700}{}{the cabinet}
 {54701}{}{The lack of doors usually does not prevent storing all sorts of things in these drawers.}
-{54800}{}{Cabinet}
+{54800}{}{the cabinet}
 {54801}{}{The lack of doors usually does not prevent storing all sorts of things in these drawers.}
-{54900}{}{Makeshift Crate}
+{54900}{}{a makeshift crate}
 {54901}{}{The person who built the box obviously cared little for its aesthetic properties.}
-{55000}{}{Makeshift Crate}
+{55000}{}{a makeshift crate}
 {55001}{}{The person who built the box obviously cared little for its aesthetic properties.}
-{55100}{}{Sitting Crate}
+{55100}{}{a sturdy crate}
 {55101}{}{A solid homemade box. It can be used as a bench, but there's a risk of getting a splinter in the ass.}
-{55200}{}{Sitting Crate}
+{55200}{}{a sturdy crate}
 {55201}{}{A solid homemade box. It can be used as a bench, but there's a risk of getting a splinter in the ass.}
-{55300}{}{Car Part}
+{55300}{}{a part of a car}
 {55301}{}{There may well be something interesting there.}
-{55400}{}{Stuff}
+{55400}{}{stuff}
 {55401}{}{The presence of a box with unknown contents in this junk arouses your curiosity.}
-{55500}{}{Stuff}
+{55500}{}{stuff}
 {55501}{}{The presence of a box with unknown contents in this junk arouses your curiosity.}
-{55600}{}{Box}
+{55600}{}{a box}
 {55601}{}{Usually, people use boxes to put things in them.}
-{55700}{}{Safe}
+{55700}{}{a safe}
 {55701}{}{Safes were designed to hide something in them. From people like you.}
-{55800}{}{Safe}
+{55800}{}{a safe}
 {55801}{}{Safes were designed to hide something in them. From people like you.}
 {55900}{}{Cupboard}
 {55901}{}{A dirty old cupboard.}
-{56000}{}{Box}
+{56000}{}{a box}
 {56001}{}{Usually, people use boxes to put things in them.}
-{56100}{}{Box}
+{56100}{}{a box}
 {56101}{}{Usually, people use boxes to put things in them.}
-{56200}{}{Shelves}
+{56200}{}{the shelves}
 {56201}{}{Judging by the fresh bloodstains, some poor guy has been very unlucky here recently.}
-{56300}{}{Container}
+{56300}{}{a container}
 {56301}{}{Judging by the fresh bloodstains, some poor guy has been very unlucky here recently.}
-{56400}{}{Locker}
+{56400}{}{a locker}
 {56401}{}{Its contents should definitely be examined.}
-{56500}{}{Box}
+{56500}{}{a box}
 {56501}{}{A large, slightly opened box. Its contents are slightly visible.}
 {56600}{}{Cupboard}
 {56601}{}{People usually store something in them, and that's what they were invented for.}
-{56700}{}{Shelves}
+{56700}{}{the shelves}
 {56701}{}{The abundance of things on the shelves encourages you to explore them.}
 {56800}{}{Casket}
 {56801}{}{These laser beams can easily cut off your arm, but you are not eager to test it.}
-{56900}{}{Safe}
+{56900}{}{a safe}
 {56901}{}{Helps its owner to hide his belongings from the overtly curious. Yes, that means you!}
-{57000}{}{Box}
+{57000}{}{a box}
 {57001}{}{A half-open box begs for a look at its contents.}
-{57100}{}{Shelves}
+{57100}{}{the shelves}
 {57101}{}{Wall-mounted shelves are usually used to store things.}
-{57200}{}{Shelves}
+{57200}{}{the shelves}
 {57201}{}{Wall-mounted shelves are usually used to store things.}
 {57300}{}{Personal Locker}
 {57301}{}{This is very convenient to store personal items and more here.}
-{57400}{}{Locker}
+{57400}{}{a locker}
 {57401}{}{A metal cabinet with a door.}
-{57500}{}{Footlocker}
+{57500}{}{a footlocker}
 {57501}{}{A metal box, which perfectly protects things from adverse external influences.}
-{57600}{}{Footlocker}
+{57600}{}{a footlocker}
 {57601}{}{A metal box, which perfectly protects things from adverse external influences.}
-{57700}{}{Wardrobe}
+{57700}{}{a wardrobe}
 {57701}{}{If you are asked why you got into someone else's closet, answer that you were looking for a dimension door to a fairy-tale world.}
-{57800}{}{Wardrobe}
+{57800}{}{a wardrobe}
 {57801}{}{If you are asked why you got into someone else's closet, answer that you were looking for a dimension door to a fairy-tale world.}
-{57900}{}{Shelves}
+{57900}{}{the shelves}
 {57901}{}{The abundance of things on the shelves encourages you to explore them.}
-{58000}{}{Shelves}
+{58000}{}{the shelves}
 {58001}{}{The abundance of things on the shelves encourages you to explore them.}
-{58100}{}{Shelves}
+{58100}{}{the shelves}
 {58101}{}{The abundance of things on the shelves encourages you to explore them.}
-{58200}{}{Locker}
+{58200}{}{a locker}
 {58201}{}{A metal cabinet with a door.}
-{58300}{}{Container}
+{58300}{}{a container}
 {58301}{}{}
-{58400}{}{Container}
+{58400}{}{a container}
 {58401}{}{}
-{58500}{}{Container}
+{58500}{}{a container}
 {58501}{}{}
-{58600}{}{Container}
+{58600}{}{a container}
 {58601}{}{}
-{58700}{}{Container}
+{58700}{}{a container}
 {58701}{}{}
-{58800}{}{Container}
+{58800}{}{a container}
 {58801}{}{}
-{58900}{}{Container}
+{58900}{}{a container}
 {58901}{}{}
-{59000}{}{Container}
+{59000}{}{a container}
 {59001}{}{}
-{59100}{}{Container}
+{59100}{}{a container}
 {59101}{}{}
-{59200}{}{Container}
+{59200}{}{a container}
 {59201}{}{}
-{59300}{}{Container}
+{59300}{}{a container}
 {59301}{}{}
-{59400}{}{Container}
+{59400}{}{a container}
 {59401}{}{}
-{59500}{}{Rat Hole}
+{59500}{}{a rat hole}
 {59501}{}{It's large, deep, and there must be someone living in it.}
-{59600}{}{Grave}
+{59600}{}{a grave}
 {59601}{}{Someone's grave.}
-{59700}{}{Grave}
+{59700}{}{a grave}
 {59701}{}{There must be someone lying there.}
-{59800}{}{Grave}
+{59800}{}{a grave}
 {59801}{}{It is possible that there is something to gain there.}
-{59900}{}{Grave}
+{59900}{}{a grave}
 {59901}{}{You don't care about the Gravedigger's reputation, do you?}
-{60000}{}{Grave}
+{60000}{}{a grave}
 {60001}{}{Don't even try to dig it up.}
-{60100}{}{Grave}
+{60100}{}{a grave}
 {60101}{}{Where is the shovel...}

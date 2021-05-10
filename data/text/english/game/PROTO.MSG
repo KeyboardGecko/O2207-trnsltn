@@ -122,7 +122,7 @@
 #
 # Use Container text
 #
-{485}{}{You search the %s.}
+{485}{}{You search %s.}
 {486}{}{You close the %s.}
 {487}{}{It is locked.} # new
 #
