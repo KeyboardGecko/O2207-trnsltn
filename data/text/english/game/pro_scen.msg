@@ -612,7 +612,7 @@
 {31700}{}{Tree}
 {31701}{}{A dead tree. The hollow is empty.}
 {31800}{}{Stump}
-{31801}{}{It was once a tree.}
+{31801}{}{It was once A tree}
 {31900}{}{Rope}
 {32000}{}{Barrier}
 {32001}{}{A small portable fence.}
@@ -669,21 +669,21 @@
 {34700}{}{Pipe}
 {34701}{}{Part of the pipe.}
 {34800}{}{Ladder}
-{34801}{}{Going up.}
+{34801}{}{It leads up.}
 {34900}{}{Ladder}
-{34901}{}{Going down.}
+{34901}{}{It leads down.}
 {35000}{}{Ladder}
-{35001}{}{Going up.}
+{35001}{}{It leads up.}
 {35100}{}{Ladder}
-{35101}{}{Going up.}
+{35101}{}{It leads up.}
 {35200}{}{Ladder}
-{35201}{}{Going up.}
+{35201}{}{It leads up.}
 {35300}{}{Ladder}
-{35301}{}{Going down.}
+{35301}{}{It leads down.}
 {35400}{}{Ladder}
-{35401}{}{Going down.}
+{35401}{}{It leads down.}
 {35500}{}{Ladder}
-{35501}{}{Going up.}
+{35501}{}{It leads up.}
 {35600}{}{an entrance}
 {35601}{}{An entrance to the factory building.}
 {35700}{}{Table}
@@ -1916,20 +1916,20 @@
 {100601}{}{An old rotten floor bed.}
 {100700}{}{Pumping device for the power plant.}
 {100701}{}{It's a cooling pump.}
-{100800}{}{Part of the Lavash.}
+{100800}{}{Piece of the Lavash}
 {100900}{}{Car}
 {101000}{}{Chrysler}
 {101001}{}{This Highwayman seems to be in very good shape for his age.}
 {101100}{}{Car}
 {101200}{}{Cemetery}
 {101201}{}{The grave is located here.}
-{101300}{}{Gravestone.}
+{101300}{}{Gravestone}
 {101301}{}{An old headstone with a barely distinguishable inscription.}
-{101400}{}{Gravestone.}
+{101400}{}{Gravestone}
 {101401}{}{You will hardly be honored with one of these. Though you won't care anymore.}
-{101500}{}{Gravestone.}
+{101500}{}{Gravestone}
 {101501}{}{You will hardly be honored with one of these. Though you won't care anymore.}
-{101600}{}{Gravestone.}
+{101600}{}{Gravestone}
 {101601}{}{An old headstone with a barely distinguishable inscription.}
 {101700}{}{Sign}
 {101701}{}{New World Order.}
@@ -2164,45 +2164,45 @@
 {113201}{}{Empty metal barrel.}
 {113300}{}{Barrel}
 {113301}{}{Empty metal barrel.}
-{113400}{}{Sandbags.}
+{113400}{}{Sandbags}
 {113401}{}{Military fortification.}
-{113500}{}{Sandbags.}
+{113500}{}{Sandbags}
 {113501}{}{Military fortification.}
-{113600}{}{Sandbags.}
+{113600}{}{Sandbags}
 {113601}{}{Military fortification.}
-{113700}{}{Sandbags.}
+{113700}{}{Sandbags}
 {113701}{}{Military fortification.}
-{113800}{}{Sandbags.}
+{113800}{}{Sandbags}
 {113801}{}{Military fortification.}
 {113900}{}{Shadow}
-{114000}{}{Sandbags.}
+{114000}{}{Sandbags}
 {114001}{}{Military fortification.}
-{114100}{}{Sandbags.}
+{114100}{}{Sandbags}
 {114101}{}{Military fortification.}
-{114200}{}{Sandbags.}
+{114200}{}{Sandbags}
 {114201}{}{Military fortification.}
-{114300}{}{Sandbags.}
+{114300}{}{Sandbags}
 {114301}{}{Military fortification.}
-{114400}{}{Sandbags.}
+{114400}{}{Sandbags}
 {114401}{}{Military fortification.}
-{114500}{}{Sandbags.}
+{114500}{}{Sandbags}
 {114501}{}{Military fortification.}
-{114600}{}{Sandbags.}
+{114600}{}{Sandbags}
 {114601}{}{Military fortification.}
-{114700}{}{Sandbags.}
+{114700}{}{Sandbags}
 {114701}{}{Military fortification.}
-{114800}{}{Sandbags.}
+{114800}{}{Sandbags}
 {114801}{}{Military fortification.}
-{114900}{}{Sandbags.}
+{114900}{}{Sandbags}
 {114901}{}{Military fortification.}
 {115000}{}{Junk}
-{115001}{}{Cardboard box.}
+{115001}{}{A cardboard box.}
 {115100}{}{Junk}
 {115101}{}{Crumpled cardboard box and other useless junk.}
 {115200}{}{Mining wagon.}
 {115300}{}{Mining wagon with a steel pillar.}
 {115400}{}{Mining wagon with dynamite}
-{115500}{}{Sandbags.}
+{115500}{}{Sandbags}
 {115501}{}{Military fortification.}
 {115600}{}{Crate}
 {115601}{}{Huge wooden box.}
@@ -2497,7 +2497,7 @@
 {132300}{}{Utility}
 {132301}{}{There are pipes, cables, other equipment.}
 {132400}{}{Car}
-{132401}{}{Now, all that junk can do is rust.}
+{132401}{}{All that junk can do now is rust.}
 {132500}{}{Machines}
 {132501}{}{A pile of wrecked cars.}
 {132600}{}{Car}
@@ -2517,9 +2517,9 @@
 {133501}{}{Used to activate the elevator.}
 {133600}{}{Terminal}
 {133601}{}{Used to activate the elevator.}
-{133700}{}{Control Room Door.}
+{133700}{}{Control Room Door}
 {133701}{}{Very massive and imposing. Probably it could take years to try opening it.}
-{133800}{}{Vault City Gate.}
+{133800}{}{Vault City Gate}
 {133900}{}{Wall}
 {134000}{}{Wall}
 {134100}{}{Wall}
@@ -3026,9 +3026,9 @@
 {165101}{}{A board broke out of a fence.}
 {165200}{}{stairs up}
 {165201}{}{This stairway leads up.}
-{165300}{}{Sandbags.}
+{165300}{}{Sandbags}
 {165301}{}{Military fortification.}
-{165400}{}{Sandbags.}
+{165400}{}{Sandbags}
 {165401}{}{Military fortification.}
 {165500}{}{Shaft elevator}
 {165600}{}{Beam}
@@ -3381,7 +3381,7 @@
 {185800}{}{Armchair}
 {185801}{}{This chair looks like it served its purpose years ago.}
 {185900}{}{Doctor's Table.}
-{185901}{}{Dirty desk with some trash and a calculator.}
+{185901}{}{Dirty desk with some trash and a calculator}
 {186000}{}{Car}
 {186001}{}{An old rusty car.}
 {186100}{}{Crate}
@@ -4029,9 +4029,9 @@
 {219001}{}{The dry, broken trunk of a dried-up tree.}
 {219100}{}{Sign}
 {219101}{}{Food, water - looks like a place to eat!}
-{219200}{}{Billiard table.}
+{219200}{}{Billiard table}
 {219201}{}{You don't really understand how to play it, but the fabric on the table looks very worn.}
-{219300}{}{Billiard table.}
+{219300}{}{Billiard table}
 {219301}{}{The colored balls on the table look fun, too bad you don't know how to play.}
 {219400}{}{Screen panel.}
 {219401}{}{Unfortunately, it's turned off. To look at the working one would be extremely interesting.}
@@ -4180,25 +4180,25 @@
 {227901}{}{It's a nice big box, but there's nothing interesting in there.}
 {228000}{}{Crate}
 {228001}{}{You're really wondering what would happen if you put a radioactive substance, a vial of poison, and, for example, a cat inside.}
-{228100}{}{Cave mushroom.}
+{228100}{}{Cave mushroom}
 {228101}{}{Mom told you not to eat unfamiliar stuff.}
-{228200}{}{Cave mushroom.}
+{228200}{}{Cave mushroom}
 {228201}{}{Mom told you not to eat unfamiliar stuff.}
-{228300}{}{Cave mushroom.}
+{228300}{}{Cave mushroom}
 {228301}{}{Mom told you not to eat unfamiliar stuff.}
-{228400}{}{Cave mushroom.}
+{228400}{}{Cave mushroom}
 {228401}{}{Mom told you not to eat unfamiliar stuff.}
-{228500}{}{Cave mushroom.}
+{228500}{}{Cave mushroom}
 {228501}{}{Mom told you not to eat unfamiliar stuff.}
-{228600}{}{Cave mushroom.}
+{228600}{}{Cave mushroom}
 {228601}{}{Mom told you not to eat unfamiliar stuff.}
-{228700}{}{Cave mushroom.}
+{228700}{}{Cave mushroom}
 {228701}{}{Mom told you not to eat unfamiliar stuff.}
-{228800}{}{Cave mushroom.}
+{228800}{}{Cave mushroom}
 {228801}{}{Mom told you not to eat unfamiliar stuff.}
-{228900}{}{Cave mushroom.}
+{228900}{}{Cave mushroom}
 {228901}{}{Mom told you not to eat unfamiliar stuff.}
-{229000}{}{Cave mushroom.}
+{229000}{}{Cave mushroom}
 {229001}{}{Mom told you not to eat unfamiliar stuff.}
 {229100}{}{Metal sheet}
 {229101}{}{It's nice and hardly crumpled, but you won't need it.}
@@ -4237,35 +4237,35 @@
 {231301}{}{Useless tin.}
 {231400}{}{Poster}
 {231401}{}{A huge faded poster of TIN Industries.}
-{231500}{}{Tile shards.}
+{231500}{}{Tile shards}
 {231501}{}{Thousands of them! And each one is unique in its own way.}
-{231600}{}{Tile shards.}
+{231600}{}{Tile shards}
 {231601}{}{Thousands of them! And each one is unique in its own way.}
-{231700}{}{Tile shards.}
+{231700}{}{Tile shards}
 {231701}{}{Thousands of them! And each one is unique in its own way.}
-{231800}{}{Tile shards.}
+{231800}{}{Tile shards}
 {231801}{}{Thousands of them! And each one is unique in its own way.}
-{231900}{}{Tile shards.}
+{231900}{}{Tile shards}
 {231901}{}{Thousands of them! And each one is unique in its own way.}
-{232000}{}{Tile shards.}
+{232000}{}{Tile shards}
 {232001}{}{Thousands of them! And each one is unique in its own way.}
-{232100}{}{Tile shards.}
+{232100}{}{Tile shards}
 {232101}{}{Thousands of them! And each one is unique in its own way.}
-{232200}{}{Tile shards.}
+{232200}{}{Tile shards}
 {232201}{}{Thousands of them! And each one is unique in its own way.}
-{232300}{}{Tile shards.}
+{232300}{}{Tile shards}
 {232301}{}{Thousands of them! And each one is unique in its own way.}
-{232400}{}{Tile shards.}
+{232400}{}{Tile shards}
 {232401}{}{Thousands of them! And each one is unique in its own way.}
-{232500}{}{Tile shards.}
+{232500}{}{Tile shards}
 {232501}{}{Thousands of them! And each one is unique in its own way.}
-{232600}{}{Tile shards.}
+{232600}{}{Tile shards}
 {232601}{}{Thousands of them! And each one is unique in its own way.}
-{232700}{}{Tile shards.}
+{232700}{}{Tile shards}
 {232701}{}{Thousands of them! And each one is unique in its own way.}
-{232800}{}{Tile shards.}
+{232800}{}{Tile shards}
 {232801}{}{Thousands of them! And each one is unique in its own way.}
-{232900}{}{Tile shards.}
+{232900}{}{Tile shards}
 {232901}{}{Thousands of them! And each one is unique in its own way.}
 {233000}{}{Bed}
 {233001}{}{You don't want to lie down on this filthy recline at all.}
@@ -4374,59 +4374,59 @@
 {238701}{}{An old empty box.}
 {238800}{}{Box}
 {238801}{}{An old empty box.}
-{238900}{}{Old box.}
+{238900}{}{Old box}
 {238901}{}{There is nothing but trash in this dirty box.}
-{239000}{}{Old box.}
+{239000}{}{Old box}
 {239001}{}{There is nothing but trash in this dirty box.}
-{239100}{}{Old box.}
+{239100}{}{Old box}
 {239101}{}{There is nothing but trash in this dirty box.}
-{239200}{}{Old box.}
+{239200}{}{Old box}
 {239201}{}{There is nothing but trash in this dirty box.}
-{239300}{}{Old box.}
+{239300}{}{Old box}
 {239301}{}{There is nothing but trash in this dirty box.}
-{239400}{}{Old box.}
+{239400}{}{Old box}
 {239401}{}{There is nothing but trash in this dirty box.}
-{239500}{}{Old box.}
+{239500}{}{Old box}
 {239501}{}{There is nothing but trash in this dirty box.}
-{239600}{}{Old box.}
+{239600}{}{Old box}
 {239601}{}{Its contents may have been of interest, but that was a long time ago.}
-{239700}{}{Old box.}
+{239700}{}{Old box}
 {239701}{}{Its contents may have been of interest, but that was a long time ago.}
-{239800}{}{Old box.}
+{239800}{}{Old box}
 {239801}{}{Its contents may have been of interest, but that was a long time ago.}
-{239900}{}{Old box.}
+{239900}{}{Old box}
 {239901}{}{Its contents may have been of interest, but that was a long time ago.}
-{240000}{}{Old box.}
+{240000}{}{Old box}
 {240001}{}{A rusty metal box, very heavy and empty.}
-{240100}{}{Old box.}
+{240100}{}{Old box}
 {240101}{}{Its contents may have been of interest, but that was a long time ago.}
 {240200}{}{Junk}
 {240201}{}{The lid of the box. Not likely to be of any use to you.}
 {240300}{}{Junk}
 {240301}{}{The lid of the box. Not likely to be of any use to you.}
-{240400}{}{Old box.}
+{240400}{}{Old box}
 {240401}{}{Tattered on the outside with useless contents inside. Just like some people.}
-{240500}{}{Old box.}
+{240500}{}{Old box}
 {240501}{}{Tattered on the outside with useless contents inside. Just like some people.}
-{240600}{}{Old box.}
+{240600}{}{Old box}
 {240601}{}{Tattered on the outside with useless contents inside. Just like some people.}
-{240700}{}{Old box.}
+{240700}{}{Old box}
 {240701}{}{Only ancient junk and dust inside.}
-{240800}{}{Old box.}
+{240800}{}{Old box}
 {240801}{}{Only ancient junk and dust inside.}
-{240900}{}{Old box.}
+{240900}{}{Old box}
 {240901}{}{Only ancient junk and dust inside.}
-{241000}{}{Old box.}
+{241000}{}{Old box}
 {241001}{}{Only ancient junk and dust inside.}
 {241100}{}{An old cupboard.}
 {241101}{}{There's nothing in here. Looks like someone went through it before you did.}
 {241200}{}{An old cupboard.}
 {241201}{}{There's nothing in here. Looks like someone went through it before you did.}
-{241300}{}{Old box.}
+{241300}{}{Old box}
 {241301}{}{Only ancient junk and dust inside.}
-{241400}{}{Old box.}
+{241400}{}{Old box}
 {241401}{}{Only ancient junk and dust inside.}
-{241500}{}{Old box.}
+{241500}{}{Old box}
 {241501}{}{Its contents may have been of interest, but that was a long time ago.}
 {241600}{}{Barrier}
 {241601}{}{A small portable fence.}
@@ -4434,9 +4434,9 @@
 {241701}{}{A small portable fence.}
 {241800}{}{Barrier}
 {241801}{}{A small portable fence.}
-{241900}{}{Old box.}
+{241900}{}{Old box}
 {241901}{}{Tattered on the outside with useless contents inside. Just like some people.}
-{242000}{}{Old box.}
+{242000}{}{Old box}
 {242001}{}{Tattered on the outside with useless contents inside. Just like some people.}
 {242100}{}{Container}
 {242101}{}{Sturdy, rusty container.}
@@ -4478,7 +4478,7 @@
 {244701}{}{This is not a good time to rest.}
 {244800}{}{Bench}
 {244801}{}{Four legs, a long seat, a back - it's a bench!}
-{244900}{}{Old box.}
+{244900}{}{Old box}
 {244901}{}{You look inside - it's empty.}
 {245000}{}{Junk}
 {245001}{}{It's completely useless junk.}
@@ -4486,7 +4486,7 @@
 {245101}{}{It's completely useless junk.}
 {245200}{}{Junk}
 {245201}{}{It's completely useless junk.}
-{245300}{}{Old box.}
+{245300}{}{Old box}
 {245301}{}{You examine the contents. There's nothing but garbage. You are covered in rust.}
 {245400}{}{Rusty iron.}
 {245401}{}{Not even the last vagrant would be interested in this junk.}
@@ -4494,7 +4494,7 @@
 {245501}{}{Not even the last vagrant would be interested in this junk.}
 {245600}{}{Rusty iron.}
 {245601}{}{Not even the last vagrant would be interested in this junk.}
-{245700}{}{Old box.}
+{245700}{}{Old box}
 {245701}{}{Looks like someone's been through it and blooded it up.}
 {245800}{}{Junk}
 {245801}{}{It's completely useless junk.}
@@ -4510,9 +4510,9 @@
 {246301}{}{It's completely useless junk.}
 {246400}{}{Junk}
 {246401}{}{It's completely useless junk.}
-{246500}{}{Old box.}
+{246500}{}{Old box}
 {246501}{}{Its contents may have been of interest, but that was a long time ago.}
-{246600}{}{Old box.}
+{246600}{}{Old box}
 {246601}{}{Its contents may have been of interest, but that was a long time ago.}
 {246700}{}{Crate}
 {246701}{}{There's nothing inside. Looks like someone went through it before you did.}
@@ -4796,7 +4796,7 @@
 {261201}{}{Ventilation grille.}
 {261300}{}{Vent}
 {261301}{}{Dirty ventilation grill.}
-{261400}{}{Old box.}
+{261400}{}{Old box}
 {261401}{}{Its contents may have been of interest, but that was a long time ago.}
 {261500}{}{Junk}
 {261501}{}{Hardly anyone can find a use for this junk.}
@@ -4852,27 +4852,27 @@
 {264401}{}{The sign says: "Cloning machine".}
 {264500}{}{Corpse}
 {264501}{}{Something seems to have gone wrong with this car.}
-{264600}{}{Old box.}
+{264600}{}{Old box}
 {264601}{}{So huge and so empty.}
 {264700}{}{Crate}
 {264701}{}{Nothing but useless junk inside.}
 {264800}{}{Wall}
 {264900}{}{Wall}
-{265000}{}{A desk with a calculator.}
+{265000}{}{A desk with a calculator}
 {265001}{}{The engineer's workstation.}
-{265100}{}{A desk with a calculator.}
+{265100}{}{A desk with a calculator}
 {265101}{}{An engineer's workstation with a calculator on.}
-{265200}{}{A desk with a calculator.}
+{265200}{}{A desk with a calculator}
 {265201}{}{The engineer's workstation.}
-{265300}{}{A desk with a calculator.}
+{265300}{}{A desk with a calculator}
 {265301}{}{An engineer's workstation with a calculator on.}
-{265400}{}{A desk with a calculator.}
+{265400}{}{A desk with a calculator}
 {265401}{}{An engineer's workstation with a calculator on.}
-{265500}{}{A desk with a calculator.}
+{265500}{}{A desk with a calculator}
 {265501}{}{The engineer's workstation.}
-{265600}{}{A desk with a calculator.}
+{265600}{}{A desk with a calculator}
 {265601}{}{An engineer's workstation with a calculator on.}
-{265700}{}{A desk with a calculator.}
+{265700}{}{A desk with a calculator}
 {265701}{}{The engineer's workstation.}
 {265800}{}{Chair}
 {265801}{}{A piece of furniture designed to support the human body in a seated position.}
@@ -4889,19 +4889,19 @@
 {266400}{}{Box}
 {266401}{}{An ordinary box of useless junk.}
 {266500}{}{Wires}
-{266501}{}{Floor cable.}
+{266501}{}{A floor cable.}
 {266600}{}{Wires}
-{266601}{}{Floor cable.}
+{266601}{}{A floor cable.}
 {266700}{}{Wires}
-{266701}{}{Floor cable.}
+{266701}{}{A floor cable.}
 {266800}{}{Wires}
-{266801}{}{Floor cable.}
+{266801}{}{A floor cable.}
 {266900}{}{Wires}
-{266901}{}{Floor cable.}
+{266901}{}{A floor cable.}
 {267000}{}{Wires}
-{267001}{}{Floor cable.}
+{267001}{}{A floor cable.}
 {267100}{}{Wires}
-{267101}{}{Floor cable.}
+{267101}{}{A floor cable.}
 {267200}{}{Junk}
 {267201}{}{It's completely useless junk.}
 {267300}{}{Junk}
@@ -5414,17 +5414,17 @@
 {295201}{}{A low fence made of planks.}
 {295300}{}{Void}
 {295301}{}{There is only a blackening emptiness. It is staring at you.}
-{295400}{}{A sign that reads, "Warehouse."}
+{295400}{}{A sign that reads, "Warehouse"}
 {295401}{}{You are not sure, but it could mean there is a warehouse.}
 {295500}{}{A hospital poster.}
 {295501}{}{The poster shows a smiling doctor holding a bloody scalpel.}
-{295600}{}{A tree.}
+{295600}{}{A tree}
 {295601}{}{You can cut it down and make a fire. Or hang yourself on it.}
-{295700}{}{A tree.}
+{295700}{}{A tree}
 {295701}{}{It's a tree. It must be wooden.}
-{295800}{}{A tree.}
+{295800}{}{A tree}
 {295801}{}{You think it stands out from the others. You are seeing things.}
-{295900}{}{A tree.}
+{295900}{}{A tree}
 {295901}{}{You want to hug it and cry.}
-{296000}{}{A tree.}
+{296000}{}{A tree}
 {296001}{}{The accumulated radiation makes it shimmer slightly.}

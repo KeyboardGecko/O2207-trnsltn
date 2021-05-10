@@ -64,7 +64,7 @@
 {41}{}{You see a techie.}
 {42}{}{A man wearing a dirty lab coat of a scientist.}
 {43}{}{You can tell for sure that this man knows his stuff about tech.}
-{44}{}{A military? Don't get in my way here!}
+{44}{}{A military? Don't get in my way!}
 {45}{}{Military, you're always useless.}
 {46}{}{You, Seekers, are only good to be sent into Radius.}
 {47}{}{Herald!? What are you doing around here!?}

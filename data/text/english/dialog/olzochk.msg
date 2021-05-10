@@ -20,8 +20,8 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[most likely, you see the head of Design office you've heard about.]}
-{11}{}{[most likely, you see the head of Design office you've heard about. Seeing you, he makes a few steps forward, raising his hand in a warning gesture] How DARE you to come here with this abomination?! Get out of here, idiot! And take your pet away, before I wipe the floor with you both! Leave immediately!}
+{10}{}{[most likely, you see the head of Engineering you've heard about.]}
+{11}{}{[most likely, you see the head of Engineering you've heard about. Seeing you, he makes a few steps forward, raising his hand in a warning gesture] How DARE you to come here with this abomination?! Get out of here, idiot! And take your pet away, before I wipe the floor with you both! Leave immediately!}
 {12}{002}{Hey, grandpa. Where can I find Zochkis?}
 {13}{003}{Hello there!}
 {14}{004}{Is there a wildlife lovers club around here somewhere?}
