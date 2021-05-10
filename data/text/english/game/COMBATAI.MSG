@@ -4555,7 +4555,7 @@
 {4300}{}{Right on noggin!}
 {4301}{}{My head is humming...}
 {4302}{}{Aaah! My bonce!}
-{4303}{}{The hell are ye doing, mate?}
+{4303}{}{The hell are ye doing?}
 {4304}{}{You what mate?}
 {4305}{}{The hell?}
 {4306}{}{I'll wreck you!}
@@ -4645,9 +4645,9 @@
 #
 {4370}{}{Now me!}
 {4371}{}{Hoopla!}
-{4372}{}{You're done, mate!}
+{4372}{}{You're done!}
 {4373}{}{Gimme your munny!}
-{4374}{}{You what mate? I'll wreck you!!}
+{4374}{}{You what? I'll wreck you!!}
 {4375}{}{You twat! Take this!}
 {4376}{}{Here's a tough one!}
 {4377}{}{Ha-ha!!}
