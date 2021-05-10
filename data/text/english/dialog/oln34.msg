@@ -64,10 +64,10 @@
 {108}{}{Candidate, I have no further assignments. You shall be informed about the start of the Defender training course in some time.}
 {109}{999}{Got it, on my way.}
 
-{110}{}{Good. Protocol K-77 - Condition red. You're going to be part of a group to clean-up the subway station. If the mission is a success, you will proceed to a Defender training course and become a full-time squad member.}
+{110}{}{Good. Protocol K-77 - Condition red. You're going to be part of a group send to the subway station. The mission is to purify the wasteland of every creature you'll find there. If the mission is a success, you will proceed to a Defender training course and become a full-time squad member.}
 {111}{999}{[move out on a mission]}
 
-{120}{}{Good. Protocol K-77 - Condition red. You're going to be part of a group to clean-up a settlement of cannibalistic mutants. The mission is to purify the wasteland of these creatures. If it is a success, you will proceed to a Defender training course and become a full-time squad member. The additional task comes from a request N106 by dr. Philipp Gray: every Defender who delivers samples of human flesh from the operation's area will get stimulators, in addition to standard mission equipment.}
+{120}{}{Good. Protocol K-77 - Condition red. You're going to be part of a group send to a settlement of cannibalistic mutants. The mission is to purify the wasteland of these creatures. If it is a success, you will proceed to a Defender training course and become a full-time squad member. The additional task comes from a request #106 by dr. Philipp Gray: every Defender who delivers samples of human flesh from the operation's area will get stimulators, in addition to standard mission equipment.}
 {121}{999}{[move out on a mission]}
 
 {122}{}{Enough, you can report back to a Captain.}

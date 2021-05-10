@@ -23,7 +23,7 @@
 #Node001
 {10}{}{Here you are, puny human. How you even dare to step a foot in here, into my Control Room? Pathetic... Now your fate is sealed!}
 {11}{002}{Wh- What the hell? Who are YOU?}
-{12}{003}{Sealed? No. I decide what happens next!}
+{12}{003}{Sealed? No. I decide for myself, what's going to happen next!}
 {13}{004}{Puny human? Ha! Look at yourself! It's you who is pathetic!}
 {14}{998}{Enough with your bragging. You are just a piece of flesh entangled in wires. And you're finished!}
 

@@ -101,7 +101,7 @@
 {75}{}{You see the head of the Punishers.}
 {76}{}{This Defender is a ruthless leader of cleaners.}
 {77}{}{Alright boys, let's take care of this filthy scum!}
-{78}{}{I brought some music, so it wouldn't be too boring!}
+{78}{}{I brought some music so it wouldn't be too boring!}
 {79}{}{Want to go home already, rookie? We are returning when we're done, not before.}
 {80}{}{I'm not sure, rookie. Do you think they had enough? I don't want to waste bullets...}
 {81}{}{Yes, the rest will scatter anyway. It's time to get back.}
