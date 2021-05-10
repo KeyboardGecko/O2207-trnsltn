@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a man wearing a powerful armored suit.}
+{1}{}{You see a man wearing a mechanized armor suit.}
 {2}{}{He is calibrating his armor while wearing it.}
 #
 # после знакомства

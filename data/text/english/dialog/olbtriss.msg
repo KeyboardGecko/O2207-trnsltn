@@ -24,7 +24,7 @@
 #
 # до знакомства
 #
-{1}{}{You see a clone of Beatris.}
+{1}{}{You see a clone of Beatrice.}
 {2}{}{Amazing! She was cloned together with her clothes!}
 #
 # после знакомства

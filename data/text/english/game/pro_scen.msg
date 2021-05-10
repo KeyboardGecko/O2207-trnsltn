@@ -4854,7 +4854,7 @@
 {264400}{}{a huge machine}
 {264401}{}{The sign says: "Cloning machine".}
 {264500}{}{a corpse}
-{264501}{}{Something seems to have gone wrong with this car.}
+{264501}{}{Something seems to have gone wrong with this machine.}
 {264600}{}{an old box}
 {264601}{}{So huge and so empty.}
 {264700}{}{a crate}

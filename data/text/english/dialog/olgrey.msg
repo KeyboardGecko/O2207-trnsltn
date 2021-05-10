@@ -62,7 +62,7 @@
 {97}{}{Yes, a great legacy of the past. We used these devices some time ago, to control the Tartarus population level when we had a... "Bad harvest" of Servants, let's put it like this. Well, now we are more often presented with an opposite problem, but cloning machines are still being used sometimes - as in now. Don't waste any more time and go to Moro.}
 
 {100}{}{I see you came back. Is there something important?}
-{101}{}{Here comes our supporter of the right development of the Olympus defense... Do you have any new helpful ideas?}
+{101}{}{Here comes our supporter of the right development of the Olympus defense... Do you have something for me?}
 {105}{}{I don't know what you did, and I don't want to know, but this stupid Kelly doesn't bother me anymore. Thanks. Did you want something?}
 {102}{012}{Yes. I have some news. And you're going to like it.}
 {103}{011}{No.}
@@ -71,7 +71,7 @@
 {110}{}{Then we have nothing to talk about for now. }
 {111}{999}{[end of dialogue]}
 
-{120}{}{Great! I'm not interested in details... I'm more interested in the results. And I need to study the results. And your result is this - a blocked keycard. The password to the dashboard panel at that level is 2358, as for the keycard - you can unlock it using bore's terminal. D-3, if I'm not mistaken. If... When my time comes - I'll reward you properly. And now I have some business to attend.}
+{120}{}{Great! I'm not interested in details... I'm more interested in the results. And I need to study the results. And your result is a blocked keycard. The password to the terminal panel at Zochkis room is 2358, as for the keycard - you can unlock it using any calculator on the Engineering floor, just put it in. If... When my time comes - I'll reward you properly. And now I have some business to attend.}
 {121}{999}{[end of dialogue]}
 
 {130}{}{Then we have nothing to talk about for now. }

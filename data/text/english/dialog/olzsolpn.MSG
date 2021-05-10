@@ -27,7 +27,7 @@
 {12}{}{LOG OFF}
 {13}{}{ACCESS ERROR - diagnostics is running... Done. 1 problem was found. The main power supply on level 51 is offline. Please, pick an option.}
 {14}{}{TECHNICAL PROBLEMS DIAGNOSTICS WIZARD}
-{15}{}{ÍÀÇÀÄ}
+{15}{}{BACK}
 {16}{}{LOG OFF}
 {17}{}{ACCESS ERROR - Technical Problems Diagnostics Wizard by NCASTR(TM) is started. Executing... Done. The main power supply on level 51 is now online. Please, pick an option.}
 {18}{}{TECHNICAL PROBLEMS DIAGNOSTICS WIZARD}

@@ -54,7 +54,7 @@
 {223}{999}{[LOG OFF]}
 
 #Node023
-{230}{}{I have to admit, some of that insane theories had been verified. Of 20 mortified specimens, one didn't actually die... By that I mean it continued to act alive, despite having numerous signs of cadaver decomposition. Also, all processes in its body are going at a much slower pace than they should. Our next move is to find out, which method is most effective in mortifying these... "Ghouls". P.S.: It is quite curious that the specimen has retained all the signs of perfectly healthy consciousness, and even tries to make jokes.}
+{230}{}{I have to admit, some of that insane theories had been verified. Of 20 mortified specimens, one didn't actually die... By that I mean it continued to act alive, despite having numerous signs of cadaver decomposition. Also, all processes in its body are going at much slower pace than they should. Our next move is to find out, which method is most effective in mortifying these... "Ghouls". P.S.: It is quite curious that the specimen has retained all the signs of perfectly healthy consciousness, and even tries to make jokes.}
 {231}{021}{[BACK]}
 {232}{020}{[Return to the main menu]}
 {233}{999}{[LOG OFF]}
@@ -80,7 +80,7 @@
 {313}{999}{[LOG OFF]}
 
 #Node032
-{320}{}{Bill, HE IS ALIVE! I mean, he died at first, and we were already in the process of bagging him, but then Pete noticed that he is still warm - and getting even warmer! I mean, it wasn't pretty after that: the poor guy started to twist and break, he howled and whimpered, then foam went out of his mouth - and only after that he got silent, but still breathing. I won't go into details in my reports, we'll handle the formalities later. By the way, turns out Browns were frightened for a reason - they have really seen a zombie!}
+{320}{}{Bill, HE IS ALIVE! I mean, of course, he died, and we were already in the process of bagging him, but then Pete noticed that he is still warm - and getting even warmer! I mean, it wasn't pretty after that: the poor guy started to twist and break, he howled and whimpered, then foaming at the mouth - and only after that he got silent, but still breathing. I won't go into details in my reports, we'll handle the formalities later. By the way, turns out Browns were frightened for a reason - they really saw a zombie!}
 {321}{030}{[BACK]}
 {322}{020}{[Return to the main menu]}
 {323}{999}{[LOG OFF]}

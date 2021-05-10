@@ -108,7 +108,7 @@
 {151}{017}{And what are you going to do with her?}
 
 #Node016
-{160}{}{That is beside the point.}
+{160}{}{Stop it. This is beside the point.}
 {161}{015}{How do I'm getting her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
 
 #Node017
@@ -161,11 +161,11 @@
 {271}{999}{[leave]}
 
 #Node028
-{280}{}{Gray? What? How does he even know about all this? I send you to Zochkis!}
-{281}{029}{They have their own fights going. Anyway, he needs a clone of Beatrice, the wife of Dick from Engineering level.}
+{280}{}{Gray? What? How does he even know about all this? I told you to find Zochkis!}
+{281}{029}{They have their own fight going. Anyway, he needs a clone of Beatrice, the wife of Dick from Engineering level.}
 
 #Node029
-{290}{}{[Moro cringes] Such a waste of stem cells... How far we've fallen... Like there's no one better to clone. Well, it's not for me to decide. If Gray ordered to make a clone for those half-wits from Engineering, then I'll make a clone. But for a complete product, you need to do some running around, fetching me something. You didn't think it would be easy, did you? While I install the power cell and prepare the machine, I need you to go to Biolab ¹2 and bring me the stem cells essence. Here are the coordinates. You'll have to take a walk. That's it, go.}
+{290}{}{[Moro cringes] Such a waste of stem cells... How far we've fallen... Like there's no one better to clone. Well, it's not for me to decide. If Gray ordered to make a clone for those half-wits from Engineering, then I'll make a clone. But for a complete product you need to do some running around and fetch me one thing. You didn't think it would be easy, did you? While I install the power cell and prepare the machine, I need you to go to Biolab #2 and bring me the stem cells essence. Here are the coordinates. You'll have to take a long walk. That's it, go.}
 {291}{999}{[leave]}
 
 #Node030

@@ -486,7 +486,7 @@
 #
 # Running away
 #
-{1290}{}{繟aaaaaaah!!}
+{1290}{}{AAaaaaaaah!!}
 {1291}{}{O-oh. Oooooh!}
 {1292}{}{Happy feet!!}
 {1293}{}{Let's get our bowels away from here!!!}
@@ -621,7 +621,7 @@
 #
 # Running away
 #
-{1390}{}{繟aaaaaaah!!}
+{1390}{}{AAaaaaaaah!!}
 {1391}{}{O-oh. Oooooh!}
 {1392}{}{Happy feet!!}
 {1393}{}{Let's get our bowels away from here!!!}
@@ -756,7 +756,7 @@
 #
 # RUNNING AWAY
 #
-{1490}{}{繟aaaaaaah!!}
+{1490}{}{AAaaaaaaah!!}
 {1491}{}{Oooooooh!}
 {1492}{}{Happy feet!!}
 {1493}{}{Let's get our bowels away from here!!!}
@@ -891,7 +891,7 @@
 #
 # RUNNING AWAY
 #
-{1590}{}{繟aaaaaaah!!}
+{1590}{}{AAaaaaaaah!!}
 {1591}{}{Oooooooh!}
 {1592}{}{Happy feet!!}
 {1593}{}{I'm scared, dammit!}
@@ -974,7 +974,7 @@
 #
 # Target Hit In GROIN
 #
-{1650}{}{繟aaaaaaah!}
+{1650}{}{AAaaaaaaah!}
 {1651}{}{[holds groin]}
 {1652}{}{I can't!!}
 {1653}{}{You can't hit in there!}
@@ -1026,7 +1026,7 @@
 #
 # RUNNING AWAY
 #
-{1690}{}{繟aaaaaaah!!}
+{1690}{}{AAaaaaaaah!!}
 {1691}{}{Oooooooh!}
 {1692}{}{Happy feet!!}
 {1693}{}{I'm scared, dammit!}
@@ -1161,7 +1161,7 @@
 #
 # RUNNING AWAY
 #
-{1790}{}{繟aaaaaaah!!}
+{1790}{}{AAaaaaaaah!!}
 {1791}{}{Oooooooh!}
 {1792}{}{Happy feet!!}
 {1793}{}{I'm scared, dammit!}
@@ -1296,7 +1296,7 @@
 #
 # RUNNING AWAY
 #
-{1890}{}{繟aaaaaaah!!}
+{1890}{}{AAaaaaaaah!!}
 {1891}{}{Oooooooh!}
 {1892}{}{Happy feet!!}
 {1893}{}{I'm scared, dammit!}
@@ -1431,7 +1431,7 @@
 #
 # RUNNING AWAY
 #
-{1990}{}{繟aaaaaaah!!}
+{1990}{}{AAaaaaaaah!!}
 {1991}{}{Oooooooh!}
 {1992}{}{Happy feet!!}
 {1993}{}{Run! I'll show the way!!!}
@@ -1514,7 +1514,7 @@
 #
 # Target Hit In GROIN
 #
-{2050}{}{繟aaaaaaah!}
+{2050}{}{AAaaaaaaah!}
 {2051}{}{[holds groin]}
 {2052}{}{I can't!!}
 {2053}{}{You can't hit in there!}
@@ -1566,7 +1566,7 @@
 #
 # RUNNING AWAY
 #
-{2090}{}{繟aaaaaaah!!}
+{2090}{}{AAaaaaaaah!!}
 {2091}{}{Oooooooh!}
 {2092}{}{Happy feet!!}
 {2093}{}{I'm scared, dammit!}
@@ -1649,7 +1649,7 @@
 #
 # Target Hit In GROIN
 #
-{2150}{}{繟aaaaaaah!}
+{2150}{}{AAaaaaaaah!}
 {2151}{}{[holds groin]}
 {2152}{}{I can't!!}
 {2153}{}{You can't hit in there!}
@@ -1701,7 +1701,7 @@
 #
 # RUNNING AWAY
 #
-{2190}{}{繟aaaaaaah!!}
+{2190}{}{AAaaaaaaah!!}
 {2191}{}{Oooooooh!}
 {2192}{}{Happy feet!!}
 {2193}{}{I'm scared, dammit!}
@@ -1784,7 +1784,7 @@
 #
 # Target Hit In GROIN
 #
-{2250}{}{繟aaaaaaah!}
+{2250}{}{AAaaaaaaah!}
 {2251}{}{[holds groin]}
 {2252}{}{I can't!!}
 {2253}{}{You can't hit in there!}
@@ -1836,7 +1836,7 @@
 #
 # RUNNING AWAY
 #
-{2290}{}{繟aaaaaaah!!}
+{2290}{}{AAaaaaaaah!!}
 {2291}{}{Oooooooh!}
 {2292}{}{Happy feet!!}
 {2293}{}{I'm scared, dammit!}
@@ -1919,7 +1919,7 @@
 #
 # Target Hit In GROIN
 #
-{2350}{}{览览Aaah!}
+{2350}{}{览繟Aaah!}
 {2351}{}{Ohhh goddamn it, I can't breathe!}
 {2352}{}{Aaaaaaaaaashooooole!!!}
 {2353}{}{You won't break my crotch!}
@@ -1971,7 +1971,7 @@
 #
 # RUNNING AWAY
 #
-{2390}{}{繟aaaaaaah!!}
+{2390}{}{AAaaaaaaah!!}
 {2391}{}{Oooooooh!}
 {2392}{}{Happy feet!!}
 {2393}{}{Running is good for your health!!!}
@@ -3258,7 +3258,7 @@
 {3341}{}{I can't see shit...}
 {3342}{}{Almost poked my eye!}
 {3343}{}{Eye for an eye!}
-{3344}{}{Aaaaah! 类Aaah!}
+{3344}{}{Aaaaah! 繟Aaah!}
 {3345}{}{[covers eye]}
 {3346}{}{[twitches in agony]}
 {3347}{}{I don't see!}
@@ -3724,7 +3724,7 @@
 #
 # RUNNING AWAY
 #
-{3690}{}{繟aaaaaaah!!}
+{3690}{}{AAaaaaaaah!!}
 {3691}{}{Oooooooh!}
 {3692}{}{Happy feet!!}
 {3693}{}{I'm scared, dammit!}
@@ -4077,7 +4077,7 @@
 #
 # Target Hit In GROIN
 #
-{3950}{}{繟aaaaaaah!}
+{3950}{}{AAaaaaaaah!}
 {3951}{}{[holds groin]}
 {3952}{}{I can't!!}
 {3953}{}{You can't hit in there!}
@@ -4129,7 +4129,7 @@
 #
 # RUNNING AWAY
 #
-{3990}{}{繟aaaaaaah!!}
+{3990}{}{AAaaaaaaah!!}
 {3991}{}{Oooooooh!}
 {3992}{}{Happy feet!!}
 {3993}{}{I'm scared, dammit!}
@@ -4212,7 +4212,7 @@
 #
 # Target Hit In GROIN
 #
-{4050}{}{繟aaaaaaah!}
+{4050}{}{AAaaaaaaah!}
 {4051}{}{[holds groin]}
 {4052}{}{I can't!!}
 {4053}{}{You can't hit in there!}
@@ -4264,7 +4264,7 @@
 #
 # RUNNING AWAY
 #
-{4090}{}{繟aaaaaaah!!}
+{4090}{}{AAaaaaaaah!!}
 {4091}{}{Oooooooh!}
 {4092}{}{Happy feet!!}
 {4093}{}{I'm scared, dammit!}
@@ -5562,7 +5562,7 @@
 #
 # Target Hit In GROIN
 #
-{5050}{}{类Aaah...}
+{5050}{}{繟Aaah...}
 {5051}{}{Scum!}
 {5052}{}{You rat piss!}
 {5053}{}{Asshole!}
@@ -5697,7 +5697,7 @@
 #
 # Target Hit In GROIN
 #
-{5150}{}{类Aaah...}
+{5150}{}{繟Aaah...}
 {5151}{}{Scum!}
 {5152}{}{You rat piss!}
 {5153}{}{Asshole!}
@@ -5841,7 +5841,7 @@
 {5256}{}{Asshole!}
 {5257}{}{You rat piss!}
 {5258}{}{Scum!}
-{5259}{}{类Aaah...}
+{5259}{}{繟Aaah...}
 #
 # MISSED
 #

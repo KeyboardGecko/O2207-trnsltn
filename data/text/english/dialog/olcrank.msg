@@ -65,7 +65,7 @@
 
 {74}{}{Oozy mess! I like smart people. Yes, exactly! Do something! Something... I need a gun. "Baraka". It's riiiiiight there. [he pulls out a crumpled piece of paper with a crudely drawn map from his pocket and shoves it to you] In the Army Headquarters. Get it, oozy mess? "Baraka" gun - a big BA-BOOM! }
 {75}{018}{I have been there already. And if there was a gun, I might have sold it...}
-{76}{999}{Just like this? Okay... But no promises.}
+{76}{999}{Is that it? Okay... But no promises.}
 {77}{009}{Why do you need it? }
 {78}{015}{"Baraka"? This one? [show the gun]}
 {79}{999}{No, I'll pass. Handle it yourself.}

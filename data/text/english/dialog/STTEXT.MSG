@@ -421,10 +421,10 @@
 {441}{}{NO}
 {442}{}{Please enter the 3 digits}
 {443}{}{of the desired floor now.}
-{444}{}{Floor request granted.}
-{445}{}{Floor request denied.}
+{444}{}{Floor access granted.}
+{445}{}{Floor access denied.}
 {446}{}{The board doesn't work, the power to the floor is turned off.}
-{447}{}{"DISCLAIMER: YOUR CARD IS LOCKED"}
+{447}{}{"ATTENTION! YOUR CARD IS BLOCKED!"}
 {448}{}{}
 {449}{}{}
 #

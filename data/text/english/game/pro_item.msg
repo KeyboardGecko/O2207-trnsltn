@@ -183,7 +183,7 @@
 {9200}{}{Light Support Weapon}
 {9201}{}{A military support machine gun that was in service with the heavy infantry of the US Armed Forces from 1978 to 1989. Min ST: 7}
 {9300}{}{"Baraka" Machinegun}
-{9301}{}{An experimental super-heavy machinegun, developed by the company "Britannic Engineering" to be used with the "Defender" mechanized combat armor system. An incredibly powerful recoil can easily tear out an arm! Min ST: 10}
+{9301}{}{An experimental super-heavy machinegun, developed by the company "Britannic Engineering" to be used with the "Defender" mechanized combat armor system. An incredibly powerful recoil can easily tear an arm off! Min ST: 10}
 {9400}{}{Turret Machinegun}
 {9401}{}{How did you manage to take the machine gun off the turret? Min ST: 9}
 {9500}{}{"Law" Machinegun}

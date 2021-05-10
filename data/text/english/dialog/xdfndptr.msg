@@ -76,7 +76,7 @@
 {53}{}{Can't you see!? I'm trying to work here!!!}
 {54}{}{No, NO! I don't know what you need!}
 {55}{}{I can't get used to this armor.}
-{56}{}{It's great to be Defender! I wish I could take a shower though.}
+{56}{}{It's great to be a Defender! I wish I could take a shower though.}
 {57}{}{A great armor, isn't it? I feel sorry for the previous owner. Whoever he was.}
 {58}{}{I'm gonna make some smoke here, alright? ::metallic laugh::}
 {59}{}{I feel INDESTRUCTIBLE!}

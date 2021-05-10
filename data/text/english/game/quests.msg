@@ -99,5 +99,5 @@
 {909}{}{Moreau can't calibrate the cloning machine. Bring him a woman from Tartarus to experiment with.}
 {910}{}{The cloning machine has run out of power. Go to Zochkis Bureau of Design and Engineering to find out what's up with that.}
 {911}{}{Dick is waiting for a clone of his wife Beatrice, promised to him by Gray for his services. Moreau might help.}
-{912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab №2.}
+{912}{}{To complete the clone, Dr. Moreau needs the Stem Cells Essence from Biolab #2.}
 {913}{}{Taylor can repair an advanced Powersuit of the Lumeniers if you bring him a servo from a similar suit.}
