@@ -4648,7 +4648,7 @@
 {4372}{}{You're done!}
 {4373}{}{Gimme your munny!}
 {4374}{}{You what? I'll wreck you!!}
-{4375}{}{You twat! Take this!}
+{4375}{}{You asshole! Take this!}
 {4376}{}{Here's a tough one!}
 {4377}{}{Ha-ha!!}
 {4378}{}{Take this one!}
@@ -6526,7 +6526,7 @@
 {5763}{}{Watch it, fool!}
 {5764}{}{You ain't a G!}
 {5765}{}{Are you screwing with me?}
-{5766}{}{Man, you should've smoked me, bitch!}
+{5766}{}{Turn the other cheek, boy!}
 {5767}{}{My super-speed is no match for you!}
 {5768}{}{What's the matter with you?}
 {5769}{}{Are you high?}
@@ -6534,7 +6534,7 @@
 # ATTACKING
 #
 {5770}{}{Yo homie, keep the change!}
-{5771}{}{Turn the other cheek, boy!}
+{5771}{}{Man, you should've smoked me, bitch!}
 {5772}{}{Peace out, bitch!}
 {5773}{}{I'mma tear you up!!}
 {5774}{}{Yo, yo, yo, yo!}

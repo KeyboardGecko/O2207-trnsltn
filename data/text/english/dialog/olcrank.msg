@@ -54,7 +54,7 @@
 {60}{}{[after another half an hour, he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Piece of plasma, look who we have here. A shepherd of mindless sheep. Instead of distracting me - twice! - you could think about why science is much more effective for the future of Olympus than all these religious affairs of yours! Although, oozy mess, you're just in time - and can be of some use for the greater good of science.}
 {61}{008}{For a greater use of science? Let me guess - you need me to do something?}
 {62}{009}{Easy! I only wanted to ask a couple of questions.}
-{63}{999}{No, no, no. No science. My department is strictly faith. My "sheeps" wouldn't understand. }
+{63}{999}{No, no, no. No science. My department is strictly faith. My "sheep" wouldn't understand. }
 
 
 {70}{}{[he stops moving his fingers and takes a deep breath. Then he looks right at you - now deliberately.] Goddamn it, you distracted me twice! Piece of plasma into your pants! This integral slipped away from me - because of you. Get it, oozy mess? Did you come to tell me about your cult? I'd rather have you, fanatics, washing my test tubes instead - would be more useful. By the way, about being useful. You can be useful to science!}
