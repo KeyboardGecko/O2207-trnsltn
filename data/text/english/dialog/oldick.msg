@@ -91,5 +91,5 @@
 {133}{999}{We'll see.}
 
 #Node014
-{140}{}{[Dick angrily stares at you. Looks like you ruined the moment] How do you even... Although, what else to be expected from a stupid military thug. Well, I recommend you look in Zochkis' personal safe locker. It's right beside me. The code is "2249". And now - leave.}
+{140}{}{[Dick angrily stares at you. Looks like you ruined the moment] How do you even... Although, what else to be expected from a stupid military thug. Well, I'd recommend you to look in Zochkis' personal safe locker. It's right beside me. The code is "2249". And now - leave.}
 {141}{999}{[end of dialogue]}

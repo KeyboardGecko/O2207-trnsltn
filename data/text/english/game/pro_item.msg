@@ -692,7 +692,7 @@
 {34601}{}{An incredibly heavy battery. You can't help but wonder what will happen if you hit it with a sledgehammer.}
 {34700}{}{*Stem Cell Essence*}
 {34701}{}{A jar with a viscous organic substance. It's probably better not to even know what it is made of.}
-{34800}{}{*Servo Actuator*}
+{34800}{}{*Servo-Actuator*}
 {34801}{}{It looks like a motor of a rather complicated design. Partially covered with blood and skin particles.}
 {34900}{}{Quest}
 {34901}{}{}
