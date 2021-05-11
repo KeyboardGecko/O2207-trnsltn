@@ -212,11 +212,11 @@
 {10601}{}{}
 {10700}{}{Guard}
 {10701}{}{}
-{10800}{}{Can Salesman}
+{10800}{}{Canned Food Trader}
 {10801}{}{}
 {10900}{}{Junk Dealer}
 {10901}{}{}
-{11000}{}{Guard Chief}
+{11000}{}{Mayor's Guard}
 {11001}{}{}
 {11100}{}{Local Farmer}
 {11101}{}{}
@@ -272,7 +272,7 @@
 {13601}{}{}
 {13700}{}{Shepherd}
 {13701}{}{}
-{13800}{}{Healer}
+{13800}{}{Apothecary}
 {13801}{}{}
 {13900}{}{Arena Warden}
 {13901}{}{}
@@ -381,7 +381,7 @@
 {18800}{}{Predator}
 {18801}{}{His armor is entangled with a network of tubes and powered pistons.}
 {18802}{}{This is a man in armored suit with an ominously flashing gas mask.}
-{18900}{}{Scout}
+{18900}{}{Seeker}
 {18901}{}{}
 {19000}{}{Biologist}
 {19001}{}{}
@@ -506,7 +506,7 @@
 {25000}{}{Gromus}
 {25001}{}{}
 {25100}{}{Predator}
-{25101}{}{This fighter uses an improved version of the Guardian armor suit.}
+{25101}{}{This fighter uses an improved version of the Defender armor suit.}
 {25200}{}{Machinegun Turret}
 {25201}{}{This gun looks like it can tear up meat like nothing else.}
 {25300}{}{Laser Turret}
