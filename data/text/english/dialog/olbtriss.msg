@@ -31,7 +31,7 @@
 #
 {3}{}{You see a ???.}
 {4}{}{::описание::}
-{5}{}{I... I remember only seeing dr. Moro and bright lights.}
+{5}{}{I... I remember only seeing dr. Moreau and bright lights.}
 {6}{}{What am I doing here? Is the experiment over?}
 {7}{}{I don't understand. Hope someone can explain to me what happened.}
 {8}{}{I'm feeling a little strange...}

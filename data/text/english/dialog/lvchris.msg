@@ -93,7 +93,7 @@
 {203}{023}{What's the problem with Dallas?}
 {204}{010}{I want to ask something else.}
 
-{210}{}{[Christopher frowns with contempt] Duntons... Emily is the one with balls, she keeps her husband Soap under the thumb. Thinks she runs this place. Always pushes her idiotic ideas forward in the meetings.}
+{210}{}{[Christopher frowns with contempt] Duntons... Emily is the one with balls, she keeps her husband Soup under the thumb. Thinks she runs this place. Always pushes her idiotic ideas forward in the meetings.}
 {211}{022}{What about Hortons?}
 {212}{020}{Tell me about McKinseys.}
 {213}{010}{Another question.}

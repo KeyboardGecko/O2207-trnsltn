@@ -35,9 +35,9 @@
 {21}{998}{I was just making sure that you are Zochkis. Before ripping your head off.}
 {22}{999}{Nothing, I want nothing. Just making sure that the rumors are true. I'm already leaving. Thank Gods, my mission is on the next level.}
 
-{23}{011}{Actually, I'm here on behalf of Moro. He needs a power cell for a cloning machine.}
+{23}{011}{Actually, I'm here on behalf of Moreau. He needs a power cell for a cloning machine.}
 
-{24}{}{Moro!? Does he understand that he had spent three cells already? We don't have many of them left! No, no, and again - NO! And that's why... [suddenly, he freezes as if seen a ghost. Or heard one.] Okay... I just had an order to not interrupt the work of the Institute of Organic Science, so... Anyway, the parts are issued by Dick, you can find him on the opposite side of this level. That's it, we're done here.}
+{24}{}{Moreau!? Does he understand that he had spent three cells already? We don't have many of them left! No, no, and again - NO! And that's why... [suddenly, he freezes as if seen a ghost. Or heard one.] Okay... I just had an order to not interrupt the work of the Institute of Organic Science, so... Anyway, the parts are issued by Dick, you can find him on the opposite side of this level. That's it, we're done here.}
 {25}{999}{Okay, I'll go visit Dick.}
 
 {30}{}{[You are being ignored.]}

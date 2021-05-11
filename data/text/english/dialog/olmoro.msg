@@ -15,7 +15,7 @@
 {2}{}{His rare, greasy hair perfectly complements his disgusting face with thin lips and little eyes, sitting too close to each other.}
 #
 # ÔÓÒÎÂ ÁÌ‡ÍÓÏÒÚ‚‡
-{3}{}{You see Moro.}
+{3}{}{You see Moreau.}
 {4}{}{He still looks repulsive, as always.}
 {5}{}{Not now! I am busy!}
 {6}{}{Come in later, I need a couple of hours to prepare everything.}
@@ -25,7 +25,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[You approach an old man, which looks uglier than the most disgusting Tartarus dwellers you encountered. He could make the situation a little better if he would cut off these rare, greasy hair of his - but even this wouldn't be of much help. While talking to him, it is a lot more pleasant to look at his badge, which says "dr. Moro", than at his face. Noticing you, he eerily smiles] I don't remember seeing you among the local stuff. Are you here for inspection? Or you are the assistant that I'm requesting from Richards for three months already? }
+{10}{}{[You approach an old man, which looks uglier than the most disgusting Tartarus dwellers you encountered. He could make the situation a little better if he would cut off these rare, greasy hair of his - but even this wouldn't be of much help. While talking to him, it is a lot more pleasant to look at his badge, which says "dr. Moreau", than at his face. Noticing you, he eerily smiles] I don't remember seeing you among the local stuff. Are you here for inspection? Or you are the assistant that I'm requesting from Richards for three months already? }
 {11}{002}{Hello. Yes, I'm from the captain, but not for help. I'm here with an inspection.}
 {12}{008}{Hello. Yes, I'm from the captain. What can I help you with?}
 {13}{009}{Hi. Actually, I'm here because of something else, but I could help you if there's a reward in it.}
@@ -58,7 +58,7 @@
 {63}{005}{[punch the doctor right in his nose]}
 
 #Node007
-{70}{}{[Moro covers his face with his palm. Now it's much easier for you to talk to him.] Another horny jock from the security... Well, at least you didn't try to deny it. Okay, smart guy. You shouldn't be here, but you still can be of help. Do me a favor - and you can loiter around here for as long as you want, pestering the lab girls as much as you can, I don't care. I won't take no for an answer, as you have already guessed.}
+{70}{}{[Moreau covers his face with his palm. Now it's much easier for you to talk to him.] Another horny jock from the security... Well, at least you didn't try to deny it. Okay, smart guy. You shouldn't be here, but you still can be of help. Do me a favor - and you can loiter around here for as long as you want, pestering the lab girls as much as you can, I don't care. I won't take no for an answer, as you have already guessed.}
 {71}{013}{What favor?}
 
 #Node008
@@ -104,7 +104,7 @@
 {142}{015}{How do I'm getting her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
 
 #Node015
-{150}{}{You will bring the female Servant to me, using this thing [Moro gives you a syringe]. As I said, it's simple. Pick a female, inject the serum, bring her to me.}
+{150}{}{You will bring the female Servant to me, using this thing [Moreau gives you a syringe]. As I said, it's simple. Pick a female, inject the serum, bring her to me.}
 {151}{017}{And what are you going to do with her?}
 
 #Node016
@@ -136,7 +136,7 @@
 {211}{022}{It's done, doc.}
 
 #Node022
-{220}{}{[Moro stands with his mouth open. He walks to the machine and runs some tests] What bright minds are wasted in the security! Great job, top-notch! You know what, don't tell Gray and others about this little success, and I will give you something. Here, it's my personal belonging. Sad to part with this toy, but I don't need such caliber around here. Although, if not for that stupid Kelly, I wouldn't have to give it away...}
+{220}{}{[Moreau stands with his mouth open. He walks to the machine and runs some tests] What bright minds are wasted in the security! Great job, top-notch! You know what, don't tell Gray and others about this little success, and I will give you something. Here, it's my personal belonging. Sad to part with this toy, but I don't need such caliber around here. Although, if not for that stupid Kelly, I wouldn't have to give it away...}
 {221}{023}{[take the gun] Who? What did she do?}
 
 #Node023
@@ -153,7 +153,7 @@
 {251}{999}{Alright, looks like I can't do anything here. I'll go bring you the female.}
 
 #Node026
-{260}{}{Wondeful... [Moro walks around the girl, licking his lips. He sniffs her, then squeezes her breast] I'll take it from here. Concerning your reward... Here, it's my personal belonging. Sad to part with this toy, but I don't need such caliber around here. Although, if not for that stupid Kelly, I wouldn't have to give it away...}
+{260}{}{Wondeful... [Moreau walks around the girl, licking his lips. He sniffs her, then squeezes her breast] I'll take it from here. Concerning your reward... Here, it's my personal belonging. Sad to part with this toy, but I don't need such caliber around here. Although, if not for that stupid Kelly, I wouldn't have to give it away...}
 {261}{023}{[take the gun] Who? What did she do?}
 
 #Node027
@@ -165,7 +165,7 @@
 {281}{029}{They have their own fight going. Anyway, he needs a clone of Beatrice, the wife of Dick from Engineering level.}
 
 #Node029
-{290}{}{[Moro cringes] Such a waste of stem cells... How far we've fallen... Like there's no one better to clone. Well, it's not for me to decide. If Gray ordered to make a clone for those half-wits from Engineering, then I'll make a clone. But for a complete product you need to do some running around and fetch me one thing. You didn't think it would be easy, did you? While I install the power cell and prepare the machine, I need you to go to Biolab #2 and bring me the stem cells essence. Here are the coordinates. You'll have to take a long walk. That's it, go.}
+{290}{}{[Moreau cringes] Such a waste of stem cells... How far we've fallen... Like there's no one better to clone. Well, it's not for me to decide. If Gray ordered to make a clone for those half-wits from Engineering, then I'll make a clone. But for a complete product you need to do some running around and fetch me one thing. You didn't think it would be easy, did you? While I install the power cell and prepare the machine, I need you to go to Biolab #2 and bring me the stem cells essence. Here are the coordinates. You'll have to take a long walk. That's it, go.}
 {291}{999}{[leave]}
 
 #Node030
@@ -177,5 +177,5 @@
 {311}{032}{[take a walk]}
 
 #Node032
-{320}{}{[you return to Moro. He is fully covered in sweat, bald spots on his head are shining brightly] It's working! Everything's working! I took a clone's blood sample - and she is perfectly healthy! I should tell professor Gray about this! [suddenly, the radio on the table makes static noise, and you hear the voice: "doctor Moro, an employee from the Engineering level had her water broken. We are carrying her to you in a minute."] Shit! Looks like my visit to Gray is postponed for some time. You - take the clone to this dirtbag Dick.}
+{320}{}{[you return to Moreau. He is fully covered in sweat, bald spots on his head are shining brightly] It's working! Everything's working! I took a clone's blood sample - and she is perfectly healthy! I should tell professor Gray about this! [suddenly, the radio on the table makes static noise, and you hear the voice: "doctor Moreau, an employee from the Engineering level had her water broken. We are carrying her to you in a minute."] Shit! Looks like my visit to Gray is postponed for some time. You - take the clone to this dirtbag Dick.}
 {321}{999}{[leave]}

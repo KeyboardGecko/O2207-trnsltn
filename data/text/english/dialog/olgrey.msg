@@ -56,10 +56,10 @@
 {91}{}{Yes, of course... I'm Philipp Gray. For you, it's professor Gray. I'm sure, Richards already told you about my request for... Obtaining a certain sample of Radius fauna. And I don't see the sample, so I have to ask you not to waste my time any longer.}
 {92}{999}{[leave silently]}
 {93}{092}{Professor, does the words "Dick", "promise" and "some plans" mean anything to you?}
-{94}{}{Oh, a good old man Dick... Did he decide to resort to blackmailing? Silly, he has nothing on me, only empty words. But still - a promise is a promise. I gave my word. Besides, it's a good chance to test the cloning machine after recalibration. So, please, go to the upper level - you can use the ladder at the opposite side of this floor - find dr. Moro and give him the power cell. He knows what to do.}
+{94}{}{Oh, a good old man Dick... Did he decide to resort to blackmailing? Silly, he has nothing on me, only empty words. But still - a promise is a promise. I gave my word. Besides, it's a good chance to test the cloning machine after recalibration. So, please, go to the upper level - you can use the ladder at the opposite side of this floor - find dr. Moreau and give him the power cell. He knows what to do.}
 {95}{093}{Cloning machine?}
-{96}{999}{Okay, I'll go visit this Moro.}
-{97}{}{Yes, a great legacy of the past. We used these devices some time ago, to control the Tartarus population level when we had a... "Bad harvest" of Servants, let's put it like this. Well, now we are more often presented with an opposite problem, but cloning machines are still being used sometimes - as in now. Don't waste any more time and go to Moro.}
+{96}{999}{Okay, I'll go visit this Moreau.}
+{97}{}{Yes, a great legacy of the past. We used these devices some time ago, to control the Tartarus population level when we had a... "Bad harvest" of Servants, let's put it like this. Well, now we are more often presented with an opposite problem, but cloning machines are still being used sometimes - as in now. Don't waste any more time and go to Moreau.}
 
 {100}{}{I see you came back. Is there something important?}
 {101}{}{Here comes our supporter of the right development of the Olympus defense... Do you have something for me?}

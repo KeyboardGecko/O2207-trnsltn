@@ -43,7 +43,7 @@
 {23}{011}{Hi, are you Kelly? I was asked to tell you something.}
 
 #Node003
-{30}{}{You are distracting us from an important work with your "walking around"! How do you even... Listen, if you have nothing better to do, go visit that old fart Moro and distract him! I am too busy! [looks like she noticed that Gray is not in the room. She runs out.]}
+{30}{}{You are distracting us from an important work with your "walking around"! How do you even... Listen, if you have nothing better to do, go visit that old fart Moreau and distract him! I am too busy! [looks like she noticed that Gray is not in the room. She runs out.]}
 {31}{999}{[end of dialogue]}
 
 #Node004
@@ -64,7 +64,7 @@
 {108}{999}{I'd better go - my superiors are waiting.}
 
 #Node011
-{111}{}{[she frowns] By whom? By that Moro from the upper floor? Oh, let me guess, it's this snob Jock again, right? He is actually resorting to sending someone, just to make me spread my legs for him? You can again tell him "No". I already have my assigned reproduction male partner. }
+{111}{}{[she frowns] By whom? By that Moreau from the upper floor? Oh, let me guess, it's this snob Jock again, right? He is actually resorting to sending someone, just to make me spread my legs for him? You can again tell him "No". I already have my assigned reproduction male partner. }
 {112}{042}{You know, I recently read in one scientific magazine that copulation actually quadruples the chances of making important scientific discoveries. There was quite a lot of info on the matter.}
 {113}{021}{You don't really like big hairy mountain-like creatures, am I right?}
 {114}{016}{By the way, about your partner. I have some bad news concerning Timmy.}
@@ -209,7 +209,7 @@
 {431}{999}{Nice. }
 
 #Node044
-{440}{}{Yes, but it doesn't concern you. And if that old man Moro told you something about me - it's a lie.}
+{440}{}{Yes, but it doesn't concern you. And if that old man Moreau told you something about me - it's a lie.}
 {441}{010}{Of course it is. I wanted to ask something else.}
 {442}{999}{I'll go talk to him then.}
 

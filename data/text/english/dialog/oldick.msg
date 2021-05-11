@@ -85,7 +85,7 @@
 #Node013
 {130}{}{A cloning machine, you say? [he scratches his chin and wipes the sweat off his face] That means you got this assignment from that smart-ass Gray... He promised me something. By something I mean the clone of Beatrice, my wife. And, judging by you being here, they are at last able to make one. I refuse to wait any longer!}
 {135}{999}{[more]}
-{134}{}{Bring the power cell to professor Gray. [he digs into some box filled with stuff] Bring it and tell him that I can go to Zochkis and... Give him a hint about some... Plans. [after a couple of minutes, he pulls out a little cardboard box and gives it to you] And for this, I'll tell you... [he whispers] the code from safe of Zockis. I'm sure, contents would please you. So - talk to Gray, it's in your best interests... Also, Moro won't be able to use the power cell anyway, until Gray marks it in the accounting framework.}
+{134}{}{Bring the power cell to professor Gray. [he digs into some box filled with stuff] Bring it and tell him that I can go to Zochkis and... Give him a hint about some... Plans. [after a couple of minutes, he pulls out a little cardboard box and gives it to you] And for this, I'll tell you... [he whispers] the code from safe of Zockis. I'm sure, contents would please you. So - talk to Gray, it's in your best interests... Also, Moreau won't be able to use the power cell anyway, until Gray marks it in the accounting framework.}
 {131}{999}{I'll do it.}
 {132}{999}{I hope the reward will be worthy of all this errand boy running.}
 {133}{999}{We'll see.}
