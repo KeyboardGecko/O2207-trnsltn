@@ -26,12 +26,12 @@
 # ¤® §­ ª®¬αβΆ 
 #
 {1}{}{You see a Bully.}
-{2}{}{A punk and hothead. Mom and dad say that's because he is a degenerate.}
+{2}{}{A local hot-headed punk. Mom and dad say he's like this because he is a degenerate.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
 {3}{}{You see a Bully.}
-{4}{}{A punk and hothead. Mom and dad say that's because he is a degenerate.}
+{4}{}{A local hot-headed punk. Mom and dad say he's like this because he is a degenerate.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
 #
@@ -67,7 +67,7 @@
 {121}{}{Here goes! [attack the bully]}
 {122}{}{I... I... We'll talk later!}
 {123}{}{Okay then!}
-{130}{}{Who did you call an idiot, you moron?! I'll punch you!!!}
+{130}{}{Who're you calling an idiot, you moron?! I'll punch you!!!}
 {131}{}{Oops...}
 #
 #‹€‚€™… ‘™… (®«®¦¨β¥«μ­ ο ΰ¥ ªζ¨ο)
