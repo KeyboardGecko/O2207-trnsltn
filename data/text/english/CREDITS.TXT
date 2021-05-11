@@ -1,31 +1,44 @@
 @total conversion mod
 
 "Olympus 2207"
-@Version 1.05
-
 
 NEBESA GAMES, 2010-2015
 
-@Сценарий, квесты, скриптинг, дизайн уровней, геймдизайн
-#Артем RAINMAN Самойлов
+@Lead game designer - project leading, game idea, quest writing, characters, dialogues, maps
+#Artyom RAINMAN Samoilov
 
-@Ведущий художник, арт-дизайн, моделирование, сборка уровней
-#Александр SAUR Березин
+@Lead artist - UI design, modeling and rendering, CGI videos, rendering and assembling maps
+#Alexander SAUR Berezin
 
-@Сценарист диалогов, координация, коммьюнити, дизайн
-#Сергей ZOOMER Бокарев
-
-
-Помощь проекту
-
-@Тестирование и редактирование карт, текстов, предметов
-#Елена Самойлова
-
-@Голос повествователя
-#Владимир Нерода
+@Dialog writer, coordination, community management, design
+#Sergey ZOOMER Bokarev
 
 
-Музыкальное сопровождение
+Additional help to the project
+
+@Testing and editing maps, texts, items
+#Elena Samoilova
+
+@Russian version is narrated by
+#Vladimir Neroda
+
+@English version is narrated by
+#Milky
+
+@special thanks for project development and bug fixing
+#Foxx
+#Pyran
+
+@English translation by
+#keyboard gecko
+
+@with a special thanks to
+#Matt_Drax aka FedProd
+#Quantum Apprentice
+#Milky
+
+
+Musical score:
 
 #Phragments
 #Access To Arasaka
@@ -40,97 +53,78 @@ NEBESA GAMES, 2010-2015
 #VictorYibril
 #Frank Shimski
 
-@ОСОБАЯ БЛАГОДАРНОСТЬ
-#Christian GUTI "The Glow Inc"
+@SPECIAL THANKS TO
+#Christian GUTI "The Glow Inc."
 
 
-Сценаристы диалогов
+Dialogue writers
 
-#Глеб Лапшин
-#Павел Кононов
-#Руслан Арсланов
-#Илья Низовских
-#Сергей Логинов
-#Алексей Гейнц
+#Gleb Lapshin
+#Pavel Kononov
+#Ruslan Arslanov
+#Ilya Nizovskikh
+#Sergey Loginov
+#Alexei Geintz
 
-@ОСОБАЯ БЛАГОДАРНОСТЬ
-#Сергею Коноплеву
-@и
-#Дмитрию Щадрину
+SPECIAL THANKS TO
+#Sergei Konoplev
+@and
+#Dmitry Shchadrin
 
 
-Бета-тестеры
+Beta testers
 
-#Александр Ушаков
-#Андрей Евсеев
-#Александр Керб
-#Борис Кенжебаев
-#Денис Каганов
-#Денис Федоров
-#Дмитрий Еремин
-#Илья Обломов
-#Макс Попов
-#Максим Вигилев
-#Рост Фамилия
+#Alexander Ushakov
+#Andrey Yevseyev
+#Alexander Kerb
+#Boris Kenzhebaev
+#Denis Kaganov
+#Denis Fedorov
+#Dmitry Yeremin
+#Ilya Oblomov
+#Max Popov
+#Maxim Vigilev
+#Rost Familia
 #Drobovik
 
-@ОСОБАЯ БЛАГОДАРНОСТЬ
+@SPECIAL THANKS
 #Powe Blazer
 
-@Спасибо бета-тестерам за их терпение, внимательность
-@и ценные советы по улучшению игры
+@We thank every tester for patience, attention to details
+@and every valuable advice on how to improve the game
 
 
-Дополнительное спасибо
+Additional thanks to
 
-#Игорю "DartGarry" Бурлакову
-@за красивейшие арты к игре
+#Igor "DartGarry" Burlakov
+@for the beautiful artwork related to the game
 
 
-@Мы выражаем благодарность
+Our sincere thanks to
 #TeamX
 #WastelandGhost
 #KLIMaka
 #Egalor
 #Ray
 #Jochua
-#Денис "MASTER" Волошин
-#Дмитрий Халанский
-#Николай Шетсонов
+#Denis "MASTER" Voloshin
+#Dmitry Khalansky
+#Nikolai Shetsonov
 
 
 
-@Олимп 2207 разработан
-@с использованием движка
-@Fallout2 1.02d
-@и использует некоторые
-@ресурсы игры Fallout2.
+@Olimpus 2207 developed
+@using the Fallout2 game engine (v.1.02d)
+@and uses some of the @Fallout2 game's
+@Fallout2 game assets.
 
-@Использованы sfall 2.12
-@и High_Res_Patch 2.3
-
-@Олимп 2207 - фанатская модификация,
-@распространяется абсолютно бесплатно и
-@предназначена исключительно для частного
-@домашнего ознакомления.
-
-@Права на марку "Fallout" принадлежат
-@Bethesda Softworks LLC, a ZeniMax Media company
-Все права сохранены
-
-
-
-@Olympus 2207 is created
-@on Fallout2 1.02d engine
-@and it is using some of
-@Fallout2 game content.
-
-@Sfall 2.12 and High_Res_Patch 2.3
-@are used.
+@The game additionally includes 
+@sfall (latest)
+@High_Res_Patch (latest)
 
 @Olympus 2207 is a fan modification,
-@it is absolutely free and intended for
-@private use only.
+@distributed absolutely free of charge and
+@Intended solely for private use.
 
 @"Fallout" is a trademark of
 @Bethesda Softworks LLC, a ZeniMax Media company
@@ -552,7 +546,7 @@ Thom Dohner
 
 
 
-@Stoр looking
+@StoЁ looking
 
 
 
@@ -562,10 +556,10 @@ Thom Dohner
 
 
 
-@Fallout was brought to уou bу Interрlaу Productions,
+@Fallout was brought to єou bє InterЁlaє Productions,
 @Team Fallout and the letter Q.
 
 
 
 
-Нave a nice daу!
+═ave a nice daє!
