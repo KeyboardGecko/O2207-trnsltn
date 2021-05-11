@@ -10,7 +10,7 @@
 {4}{}{Quick load game successfully loaded.}
 {5}{}{Quick save game successfully saved.}
 {6}{}{Demo time limit exceeded.}
-{7}{}{Organiser not available in combat!}
+{7}{}{Organizer is not available in combat!}
 {8}{}{Error saving screenshot.}
 {9}{}{INTRO}
 {10}{}{NEW GAME}
@@ -22,7 +22,7 @@
 {16}{}{Hit Points}
 {17}{}{The motion sensor option is not installed.}
 {18}{}{The motion sensor has no charges remaining.}
-{20}{}{English Translation by Keyboard Gecko and fedprod}
+{20}{}{English Translation v.1.0 by Keyboard Gecko.}
 {30}{}{This is not yet the end! Do you wish to continue playing?}
 {50}{}{If you see THIS message dial 555-EXTERMINATUS immediately.}
 #
@@ -38,7 +38,7 @@
 {1002}{}{You are very fatigued, the vomiting does not stop, and your recovery time is impaired.}
 {1003}{}{You are hemorrhaging violently. You are very sick, and your hair is falling out.}
 {1004}{}{You are hemorrhaging violently and continuously. The vomit is stained red from your blood. Your skin is peeling off your bones.}
-{1005}{}{You are bleeding from your intestines and have a case of severe diarrhea. You feel bloated and are in intense agony, calling for death.}
+{1005}{}{You are bleeding from your intestines and have a severe case of diarrhea. You feel bloated and are in intense agony, calling for death.}
 {1006}{}{You have died from radiation sickness.}
 {1007}{}{You have received a large dose of radiation.}
 {1008}{}{The geiger counter is clicking.}
@@ -73,7 +73,7 @@
 # from pipboy.c -- Fallout 2
 #
 #// Fallout 2:  For Pipboy
-{7000}{}{You don't have the organiser!}
+{7000}{}{You don't have the organizer!}
 #
 # from anim.c -- Fallout 2
 #
