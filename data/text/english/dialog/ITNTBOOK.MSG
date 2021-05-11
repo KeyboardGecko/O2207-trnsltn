@@ -54,7 +54,7 @@
 {204}{}{I'm the new head of the NWO... Can I give orders now?}
 {205}{}{It looks like you can get into Olympus under the guise of this Douglas guy. I need the same uniform and his badge...}
 {206}{}{List of items for Olympus: "Rapture", Ultra Repair Kit, Plasma rifle prototype, and the NWO Encyclopedia.}
-{207}{}{Just in case, I'll write down the code from the panel at Zochkis level: 2358.}
+{207}{}{Just in case, I'll write down the code from the terminal panel at Zochkis' room: 2358.}
 {208}{}{}
 {209}{}{}
 #######################

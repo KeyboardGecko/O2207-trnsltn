@@ -71,7 +71,7 @@
 {110}{}{Then we have nothing to talk about for now. }
 {111}{999}{[end of dialogue]}
 
-{120}{}{Great! I'm not interested in details... I'm more interested in the results. And I need to study the results. And your result is a blocked keycard. The password to the terminal panel at Zochkis room is 2358, as for the keycard - you can unlock it using his calculator on the Engineering floor. It's the closest to his office. Just put the card in. If... When my time comes - I'll reward you properly. And now I have some business to attend.}
+{120}{}{Great! I'm not interested in details... I'm more interested in the results. And I need to study the results. And your result is a blocked keycard. The password to the terminal panel at Zochkis' room is 2358, as for the keycard - you can unlock it using his calculator on the Engineering floor. It's the closest to his office. Just put the card in. If... When my time comes - I'll reward you properly. And now I have some business to attend.}
 {121}{999}{[end of dialogue]}
 
 {130}{}{Then we have nothing to talk about for now. }
