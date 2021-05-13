@@ -28,7 +28,7 @@
 #
 # Scenery Types
 #
-{200}{}{Portal}
+{200}{}{Door}
 {201}{}{Stairs}
 {202}{}{Elevator}
 {203}{}{Ladder Bottom}

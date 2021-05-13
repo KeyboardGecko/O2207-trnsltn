@@ -41,7 +41,7 @@
 {120}{}{DEFAULT}
 {121}{}{CANCEL}
 {122}{}{Affect player speed}
-{123}{}{Pipboy speech}
+{123}{}{Organizer speech}
 #
 # Label text
 #
@@ -69,8 +69,6 @@
 {222}{}{Loud}           # 2
 {223}{}{Brighter}
 {224}{}{Wide}
-
-
 #
 # Pause window
 #

@@ -12,8 +12,8 @@
 {53}{}{Height}
 {54}{}{Done}
 {55}{}{Cancel}
-{56}{}{Fallout must restart to apply settings.}
-{57}{}{Would you like to restart Fallout now?}
+{56}{}{Olympus 2207 must restart to apply settings.}
+{57}{}{Would you like to restart Olympus 2207 now?}
 {58}{}{True}
 {59}{}{False}
 {60}{}{}
@@ -90,7 +90,7 @@
 {507}{}{In Window Mode, this is the key you will hold down when using the mouse to scroll the Game and World maps.}
 {508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
 {509}{}{The name of the currently selected key.}
-{510}{}{Enable X2 scaling. This will also up the min res to 1280x960. With Window mode requiring more space for its frame.}
+{510}{}{Enable X2 scaling. This will also up the minimal resolution to 1280x960, with Window mode requiring more space for its frame.}
 {511}{}{Enable or Disable Fog Of War. For best results this should be enabled before entering a map for the first time.}
 {512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
 {513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
