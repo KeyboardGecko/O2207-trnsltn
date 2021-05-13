@@ -45,7 +45,7 @@
 {18}{}{}
 {19}{}{}
 #
-{100}{}{Hey you! Servant! You going down, right? Get to the maintenance room on the lower level, and bring me a bottle of... Uhh... That drink, from the machine.}
+{100}{}{Hey you! Servant! You're going down, right? Get to the maintenance room on the lower level, and bring me a bottle of... Uhh... That drink, from the machine.}
 {101}{}{So? Did you bring what I asked for?}
 {102}{}{Of course, Son of Gods! And... How do I do that?}
 {103}{}{I don't know what you want. And I don't care.}

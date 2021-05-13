@@ -2860,8 +2860,8 @@
 {155601}{}{Broken table.}
 {155700}{}{a junk}
 {155701}{}{Some kind of trash.}
-{155800}{}{an electric box}
-{155801}{}{The electrical box is used to distribute electricity.}
+{155800}{}{a fuse box}
+{155801}{}{The fuse box is used to distribute electricity.}
 {155900}{}{the pipes}
 {155901}{}{A whole assembly of pipes.}
 {156000}{}{a fence}

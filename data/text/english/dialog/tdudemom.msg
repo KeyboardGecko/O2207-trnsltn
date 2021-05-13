@@ -24,12 +24,12 @@
 #
 # до знакомства
 #
-{1}{}{You see Mom.}
+{1}{}{You see your mom.}
 {2}{}{This is Elise, your mother. Seeing her eternal carefree smile makes you feel warm and cozy.}
 #
 # после знакомства
 #
-{3}{}{You see Mom.}
+{3}{}{You see your mom.}
 {4}{}{This is Elise, your mother. Seeing her eternal carefree smile makes you feel warm and cozy.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
@@ -50,7 +50,7 @@
 {131}{}{Nothing! [smile and run away]}
 {132}{}{Mo-om, have you seen dad's wrench?}
 {133}{}{I just wanted to see if you were okay!}
-{134}{}{Mo-om, I am bored and don't know what else to do!}
+{134}{}{Mo-om, I am bored and don't know what to do!}
 {140}{}{Oh... yes, I have! Your little brother Kirk played with it a while ago.}
 {141}{}{A-haaa! The sleuth-man is on the trail! Thank you, Mom!}
 {142}{}{Brother again? I'll go and find him.}
