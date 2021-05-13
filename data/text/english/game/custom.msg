@@ -7,10 +7,8 @@
 {3}{}{Distance}
 {4}{}{Attack Who}
 {5}{}{Chem Use}
-
 {10}{}{Done}
 {11}{}{Cancel}
-
 #
 # Burst options.
 #
@@ -20,17 +18,15 @@
 {102}{}{Be sure you won't hit me}
 {103}{}{Be careful not to hit me}
 {104}{}{Be absolutely sure you won't hit me}
-
 #
 # Run away options.
 #
-{200}{}{Abject coward}
+{200}{}{When feeling tired}
 {201}{}{Your finger hurts}
 {202}{}{You're bleeding a bit}
 {203}{}{Not feeling good}
-{204}{}{You need a tourniquet}
+{204}{}{You need a crutch}
 {205}{}{Never!}
-
 #
 # Weapon pref options.
 #
@@ -40,7 +36,6 @@
 {303}{}{Ranged then melee}
 {304}{}{Ranged}
 {305}{}{Unarmed}
-
 #
 # Distance options.
 #
@@ -49,7 +44,6 @@
 {402}{}{Snipe the enemy}
 {403}{}{On your own}
 {404}{}{Stay where you are}
-
 #
 # Attack who options.
 #
@@ -58,7 +52,6 @@
 {502}{}{The weakest}
 {503}{}{Whomever you want}
 {504}{}{Whomever is closest}
-
 #
 # Chem use options.
 #

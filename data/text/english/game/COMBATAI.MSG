@@ -6538,7 +6538,7 @@
 {5772}{}{Peace out, bitch!}
 {5773}{}{I'mma tear you up!!}
 {5774}{}{Yo, yo, yo, yo!}
-{5775}{}{This gonna be easy, bitch!}
+{5775}{}{This gon' be easy, bitch!}
 {5776}{}{I'm surgical with these fists!}
 {5777}{}{Take that, ballsack!}
 {5778}{}{Who's the bitch now, homie?}

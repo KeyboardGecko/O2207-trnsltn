@@ -23,7 +23,7 @@
 {17}{}{The motion sensor option is not installed.}
 {18}{}{The motion sensor has no charges remaining.}
 {20}{}{English Translation v.1.0 by Keyboard Gecko.}
-{30}{}{This is not yet the end! Do you wish to continue playing?}
+{30}{}{Do you wish to continue playing?}
 {50}{}{If you see THIS message dial 555-EXTERMINATUS immediately.}
 #
 # Game config text. Defined in gconfig.c
