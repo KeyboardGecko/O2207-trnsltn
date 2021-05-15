@@ -69,7 +69,7 @@
 {132}{}{He is the Son of Gods! His wishes are holy to us.}
 {133}{}{Of course I did, you wouldn't believe how much I needed that drink! So, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
 {134}{}{You know that's bullshit! Are you feeling alright? Okay, so, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
-{135}{}{The Son of Gods?... With bare hands?}
+{135}{}{The Son of Gods?... With bare hands? I coudn't even think you are capable of that!}
 {136}{}{I never thought that you can... You know... Them.}
 {137}{}{Me neither, but... There he is, laying dead. I took the wall apart in half an hour, dug a little hole. Brothers helped, of course. Still, what happened on the parking lot should stay on the parking lot, hear me?!}
 {138}{}{I see... Yeah... I hear you.}

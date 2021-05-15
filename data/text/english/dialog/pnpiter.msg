@@ -41,7 +41,7 @@
 {14}{999}{Nothing. Nothing at all.}
 
 #Node002
-{20}{}{...New. That's understandable. Everyone here is. Except some came yesterday, while others - many years ago. That's all the difference there is. I'm Peter. I'm helping Bono to run things here. Someone has to make sure the walls hold the roof, and someone is me. I'm doing it.}
+{20}{}{...New. That's understandable. Everyone here is. Except some came yesterday, while others - many years ago. That's all the difference there is. I'm Peter. I'm helping Bono to run things here. Someone has to make sure the walls hold the roof, and that someone is me. I'm doing it.}
 {21}{010}{Okay. I'd like to know something.}
 {22}{999}{Okay. See you around, Peter.}
 
@@ -89,7 +89,7 @@
 {212}{010}{Thanks for the warning. I'll keep that in mind.}
 
 #Node022
-{220}{}{Of course they don't! They are going down even not making it to the door guards. And if defenders will come... I don't even want to think about it.}
+{220}{}{Of course they don't! They are not going to make it even to the door guards. And if Defenders will come... I don't even want to think about it.}
 {221}{010}{Hmm... Yeah. I want to ask something else.}
 {222}{999}{I think I might want to learn more about him. See you!}
 

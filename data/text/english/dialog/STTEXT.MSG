@@ -286,8 +286,8 @@
 {3010}{}{I need to check this box, maybe there is something interesting there.}
 {311}{}{An old parking lot with piles of twisted metal. You used to love to play here as a child.}
 {312}{}{The old subway branch hits a blockage, but there's a turnoff on the right.}
-{313}{}{An old Olympus Station. A dim light illuminates the frail bodies of its inhabitants.}
-{314}{}{Apparently, here used to be the waiting rooms and administration cabinet of the Olympus Station.}
+{313}{}{An old Subway Station. A dim light illuminates the frail bodies of its inhabitants.}
+{314}{}{Apparently, here used to be the waiting rooms and administration's office of the Subway Station.}
 {315}{}{Among the remains of houses, you can see a passage leading underground.}
 {316}{}{As everywhere else, devastation and destruction reign supreme.}
 {317}{}{The smell of rotting meat is palpable in this old, damp basement.}

@@ -12,7 +12,7 @@
 #
 # UNDEAD CAVES Quests
 #
-{200}{}{Help out the Seekers and bring them 6 apples and some firewood.}
+{200}{}{Help out the Seekers and bring them some apples and firewood.}
 {201}{}{Go hunting with Gromus and collect some scorpion tails.}
 {202}{}{Gather 10 local residents for Bono's speech.}
 {203}{}{Priestley asked to bring him a bag of fertilizer for the gardens.}
