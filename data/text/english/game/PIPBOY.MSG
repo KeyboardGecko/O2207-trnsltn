@@ -444,7 +444,7 @@
 {2128}{}{was confirmed completely: eating the ghoul's flesh}
 {2129}{}{makes the ant lions produce another, different}
 {2130}{}{kind of formic acid! And that acid is... It is...}
-{2131}{}{It is the new, delightful world of The "Drop"!}
+{2131}{}{It is the new, delightful world of the "Drop"!}
 {2132}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_WAR_CHRONICS
@@ -1180,7 +1180,7 @@
 {9000}{}{Date of entry: July 03, 2207}
 {9001}{}{How nice of these brave warriors to give me}
 {9002}{}{medicine, weapon, and this wonderful disc-o-phone!}
-{9003}{}{It's been four weeks since I've been walking to}
+{9003}{}{It's been four weeks of my journey to get to the}
 {9004}{}{Olympus... There were four of us when we learned}
 {9005}{}{of the tower from one ghoul. God, what a blessing}
 {9006}{}{it was - to know that somewhere in the world}

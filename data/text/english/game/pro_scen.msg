@@ -787,7 +787,7 @@
 {40501}{}{An old rotten sunbed.}
 {40600}{}{a door}
 {40601}{}{A dried wooden door}
-{40700}{}{a interceptor}
+{40700}{}{"Interceptor"}
 {40701}{}{Judging by the turbocharger on the hood, it was a very powerful car. Alas, it is not going anywhere anymore.}
 {40800}{}{wooden boards}
 {40801}{}{Old rotten boards}
@@ -2766,19 +2766,19 @@
 {150400}{}{a boxes}
 {150401}{}{Apparently, someone inspected them before you - there's nothing of value there.}
 {150500}{}{the machinery}
-{150600}{}{a hay}
+{150600}{}{hay}
 {150601}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{150700}{}{a hay}
+{150700}{}{hay}
 {150701}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{150800}{}{a hay}
+{150800}{}{hay}
 {150801}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{150900}{}{a hay}
+{150900}{}{hay}
 {150901}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{151000}{}{a hay}
+{151000}{}{hay}
 {151001}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{151100}{}{a hay}
+{151100}{}{hay}
 {151101}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{151200}{}{a hay}
+{151200}{}{hay}
 {151201}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
 {151300}{}{a junk}
 {151301}{}{Boxes, boxes, something else. But absolutely nothing useful.}

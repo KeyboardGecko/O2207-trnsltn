@@ -52,7 +52,7 @@
 {1003}{}{Better go walk somewhere over there.}
 {1004}{}{Just piss off.}
 {1005}{}{Don't bother me, let me rest.}
-{1006}{}{What else do you want?..}
+{1006}{}{What else do you want?...}
 {1007}{}{...We'll get there eventually...}
 {1008}{}{Don't bother me!}
 {1009}{}{We have nothing to talk about.}

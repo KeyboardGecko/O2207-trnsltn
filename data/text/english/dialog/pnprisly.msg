@@ -29,7 +29,7 @@
 
 {20}{}{Monster!? Monster... Yeah, I guess that's how it is. I've been a "monster" for many years now. The name's Priestley - and I WAS Priestley once if you know what I mean. Because now I'm "that".}
 {21}{010}{I see. I'm }
-{22}{010}{, can you tell me something?..}
+{22}{010}{, can you tell me something?...}
 {23}{999}{All I hear is blah-blah-blah. Not interested.}
 
 

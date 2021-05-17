@@ -305,7 +305,7 @@
 {329}{}{...Another 4 years. You are already 21, but nothing has changed in Tartarus.}
 {330}{}{EXTRA MAP}
 {331}{}{Here and there you see residential tents and dilapidated houses. The ambiance is filled with the constant mooing of Lavash and the buzzing of flies.}
-{332}{}{A huge ""LIVOS"" sign in big, richly decorated letters, points to the entrance of the cave, near which travelers and merchants jostle.}
+{332}{}{A huge "LIVOS" sign in big, richly decorated letters, points to the entrance of the cave, near which travelers and merchants jostle.}
 {333}{}{The cave arches are merging with concrete walls, in front of which you see an automatic turret. It immediately locks onto you.}
 {334}{}{The staircase leads you into a network of rooms and corridors. Richly dressed vault dwellers are wandering back and forth.}
 {335}{}{In the poorly lit space of rooms stand incomprehensible machines and devices. Looks like it's some kind of technical area.}
@@ -458,7 +458,7 @@
 {853}{}{Code Accepted.}
 {854}{}{Your radiation exposure has increased by }
 {855}{}{Something painfully bit your finger!}
-{856}{}{Looks like a hungry rat lives there. How can you lure a rat out?..}
+{856}{}{Looks like a hungry rat lives there. How can you lure a rat out?...}
 {857}{}{No, the rat will not eat from your hands!}
 {858}{}{Hmm, looks like the rat won't bite.}
 {859}{}{}

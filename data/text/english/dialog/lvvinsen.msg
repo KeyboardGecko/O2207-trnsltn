@@ -247,16 +247,16 @@
 
 {390}{}{[Edward looks at you with suspicion.] Really? You look more like an ordinary vagabond, rather than a rich and famous person. It is full of beggar rabble, nowadays everyone wants to become a member of Livos. What evidence do you have?}
 {391}{040}{My honest word of a nobleman - this is all I have!}
-{392}{042}{I can easily prove that I am rich by donating a small amount for the development of Livos.}
+{392}{042}{I can easily prove that I am rich by making a donation to Livos' development.}
 {393}{041}{I have no evidence.}
 {394}{010}{Let's leave this topic, I want to know about something else.}
-{395}{999}{I'll think about the evidence when I find it - I'll come.}
+{395}{999}{I'll think about the evidence. When I find it - I'll come back.}
 
 {400}{}{[Edward burst out laughing] Shove your honest word of a nobleman up yours! The beggars are often using such tricks to get to us, but it won't do!}
-{401}{042}{I can prove that I am not a beggar by donating a small amount of Livos.}
+{401}{042}{I can prove that I am not a beggar by making a donation to Livos' development.}
 {402}{041}{I have no other evidence.}
 {403}{010}{Well, then I will ask you about something else.}
-{404}{999}{I will find evidence, then I will come back.}
+{404}{999}{I will find evidence. Then I will come back.}
 
 {410}{}{Hahaha! Get out of here, nobleman! I see such nobles every day, they beg for a battery! }
 {411}{999}{Fine, I'll go...}

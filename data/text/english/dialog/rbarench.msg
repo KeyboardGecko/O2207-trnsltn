@@ -110,10 +110,10 @@
 {158}{018}{I hope you're right about your feeling. Let me warm up a little, and we can start.}
 {159}{999}{Uh... No. Not now.}
 {1504}{}{I have a special one for you. Check this out - I called him from the other side or the Radius! He is a professional fighter, albeit not young. He put down so many people... I had a chance to fight him too. Those were the days... Watch for his right hook and keep distance. I'm not trying to make you piss yourself, just giving you a picture of what you're dealing with.}
-{1510}{018}{Did you warn him too? If he approaches, I'll gauge his eyes out! Yeah! Time to kill!}
+{1510}{018}{Did you warn him too? If he approaches, I'll gouge his eyes out! Yeah! Time to kill!}
 {1511}{018}{I'm in. Let's go.}
 {1512}{999}{Wait, I need to prepare.}
-{1505}{}{[he sighs] That's how it is - Mate expressed his desire to be put against you. Don't look at his appearance, the Hog made him his right hand not just for kicks. He is smart and cunning... Honestly, I'm getting no joy from this kind of fight. Mate is my friend, but you, champ, are no stranger to me too. You made me so much money! Yeah... Anyway, give him your best, the crowd is waiting!}
+{1505}{}{[he sighs] That's how it is - Mate expressed his desire to fight you. Don't look at his appearance, the Hog made him his right hand not just for kicks. He is smart and cunning... Honestly, I'm getting no joy from this kind of fight. Mate is my friend, but you, champ, are no stranger to me too. You made me so much money! Yeah... Anyway, give him your best, the crowd is waiting!}
 {1513}{018}{I hear you. Let's mess his hair a little.}
 {1514}{018}{I can only promise that he dies quickly... And painfully! That's it, I'm going!}
 {1515}{999}{I need to prepare for this kind of fight... }
@@ -138,15 +138,15 @@
 {171}{998}{Come at me!}
 
 
-{1801}{}{[he nods, looking satisfied] Will do. You have some potential, and the crowd likes you. Here are your winnings.}
+{1801}{}{[he nods, looking satisfied] Pretty good. You have some potential, and the crowd likes you. Here are your winnings.}
 {181}{999}{Thank you very much. Later!}
 {1802}{}{[he pats you on the shoulder] Good job, kid! As you broke his jaw, I understood right away that it was a good idea to bet on you! Keep it up! And don't forget your winnings.}
 {182}{999}{Yes, it was a good warm-up. Now I can get some rest.}
-{1803}{}{You look just like me in my best years! Went so hard on that asshole, now I have to clean the Arena for a whole day after you... And I need to think really hard about who to put you against next time. For now - here, you earned it.}
+{1803}{}{You are just like me in my best years! Went so hard on that asshole, now I have to clean the Arena for a whole day after you... I need to think really hard about who to put you against next time. For now - here, you earned it.}
 {183}{999}{Notice that I won't count it! Okay, see you.}
 {1804}{}{My champion! If you only knew how much money I made on you... I'm going to fuck every girl in a brothel - and then drink every bottle of Apothecary's booze! This was a hell of a fight! Where did you learn that tricks? Teach me, when you'll get the chance. Here's your cut... And a little extra, from me.}
 {184}{999}{Blood money... Nice. Until next time.}
-{1805}{}{[he silently watches Mate's body being dragged off the Arena, leaving a blood trail] Oh, Mate, my Mate... Anyway, that was his choice. And you? You did a clean job, as always. Here, champ.}
+{1805}{}{[he silently watches Mate's body, leaving a blood trail, being dragged off the Arena] Oh, Mate, my Mate... Anyway, that was his choice. And you? You did a clean job, as always. Here, champ.}
 {185}{999}{Don't feel bad. Better him than we.}
 {1806}{}{[he gazes at the Arena, unable to say any word] Fuck me sideways by a ghoul... It's worth living to see a fight like this! It's like the next Great War! There was a Hog - and now it's just a puddle of blood with a pile of meat... Here, this is yours. [he starts counting the batteries, but suddenly gives you everything he holds] You know, take it all! Holy shit... What's going to happen now?}
 {186}{999}{You'll see. Wait here, I'm going to have a talk with you very soon.}

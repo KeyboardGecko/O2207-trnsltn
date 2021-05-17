@@ -178,7 +178,7 @@
 
 {310}{}{[He seems enjoyed by the turn of event] You know, I won't even ask why are you so stubborn. I'm just gonna enter the room - after I wash my face with your blood! [reaches for a weapon]}
 {311}{998}{Nice! I didn't kill anyone for a long time!! }
-{312}{998}{Maybe we still can talk it over? No?..}
+{312}{998}{Maybe we still can talk it over? No?...}
 
 
 {320}{}{I decided to come by my bitch... She is the trophy, after all. Okay, was nice to see you and all that, but I have no time to beat around the bush here.}
@@ -187,7 +187,7 @@
 
 
 {3301}{}{I'm gonna do just that! She shouldn't fucking run around for no reason, I'll deal with it! Okay, see you. [slowly walks away]}
-{331}{999}{Good luck?..}
+{331}{999}{Good luck?...}
 {3302}{}{Nah, I'm gonna wait inside. Shoo. Shoo, I said!}
 {332}{034}{We are not finished talking. You are not going anywhere.}
 {333}{999}{Yeah, sure, go in.}

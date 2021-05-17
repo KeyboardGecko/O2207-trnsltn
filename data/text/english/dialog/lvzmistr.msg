@@ -70,7 +70,7 @@
 # Отрицательные сообщения
 {1020}{}{Oh, I would punch you so hard!}
 {1021}{}{I hate you, sucker!}
-{1022}{}{How dare you!?..}
+{1022}{}{How dare you!?...}
 {1023}{}{You are ruining my life by just being around!}
 {1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I would gladly rip off your nails. One by one.}

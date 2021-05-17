@@ -193,7 +193,7 @@
 {412}{044}{There MUST be a way to enter it. If I could get out - I will get in.}
 
 
-{420}{}{We tried many things, actually - offered them hides of Ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! - tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?..}
+{420}{}{We tried many things, actually - offered them hides of Ursa, a bottle of whiskey with a pack of sugar, even - but don't tell anyone! - tried to offer them our women... It's still not enough! And... Uh... Umm... Yeah... Where was I?...}
 {421}{044}{I see. You don't know what the guards want. But I still need the way to get inside.}
 {422}{044}{There must be another way, without offerings or batteries...}
 

@@ -28,7 +28,7 @@
 {5}{}{You see an inhabitant of Livos.}
 {6}{}{A young girl with a pale, scrawny face.}
 {7}{}{Despite her clothes being badly battered, you are pretty sure that she never had to hunt rats or spend the night in caves.}
-{8}{}{Bags under her eyes are clumsily masked by some white powder. Or is it lime?..}
+{8}{}{Bags under her eyes are clumsily masked by some white powder. Or is it lime?...}
 {9}{}{Catching your gaze, the girl blinks with her left eye. Apparently, this is some kind of a tick.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
@@ -70,7 +70,7 @@
 # Îòğèöàòåëüíûå ñîîáùåíèÿ
 {1020}{}{Arrrgh! I'm gonna scratch your face out with this fork!}
 {1021}{}{I hate you, scum!}
-{1022}{}{How dare you!?..}
+{1022}{}{How dare you!?...}
 {1023}{}{You are insulting me just with your presence!}
 {1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I would tie you down and cut you up into little pieces!}

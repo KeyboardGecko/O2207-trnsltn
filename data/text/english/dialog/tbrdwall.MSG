@@ -14,14 +14,14 @@
 {4}{}{It's pretty noticeable that the bricks are freshly laid. The cement also looks so weak it could be pulled out with a finger.}
 
 # Действия
-{5}{}{With little effort, you manage to pull out a couple of bricks. It makes a whole piece of the wall crumble down.}
+{5}{}{You managed to pull out a couple of bricks with a little effort. It makes a whole part of the wall crumble down.}
 {6}{}{Fresh brickwork can't hold the explosion. The wall folds like a house of cards.}
 {7}{}{Uh, no, that does not do anything.}
 {8}{}{How do you think it should work!?}
 {9}{}{Maybe it needs a little kick? Perhaps, some blowing onto?}
 {10}{}{Looks like you lack the strength to break it.} 
 {11}{}{You have not enough strength to bring down the wall with this.}
-{12}{}{Could it be... the corpse! It is the Son of Gods corpse!}
+{12}{}{It's... A corpse! It's the Son of Gods!}
 {13}{}{}
 {14}{}{}
 {15}{}{}

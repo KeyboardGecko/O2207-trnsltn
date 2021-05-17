@@ -70,7 +70,7 @@
 # Отрицательные сообщения
 {1020}{}{Arrrgh! Go away!}
 {1021}{}{I hate you, scum!}
-{1022}{}{How dare you!?..}
+{1022}{}{How dare you!?...}
 {1023}{}{Get away, the abomination of hell!}
 {1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I'm gonna tear out your spleen and eat it with a glass of Chianti!}

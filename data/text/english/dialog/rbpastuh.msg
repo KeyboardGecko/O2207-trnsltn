@@ -20,7 +20,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ 
 #
-{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick he poked his black, rotten teeth with.] Hey, man! Come! Shepherd provides the biggest joy for any man! Interested?}
+{10}{}{[Black skin, black eyes, black clothes. As you approach, he drops the toothpick he used to poke in his teeth... Black, of course.] Hey, man! Come! Shepherd provides the biggest joy for any man! Interested?}
 {11}{015}{Maybe. Tell me more.}
 {12}{011}{Sounds tempting... But do you mind answering a few questions first?}
 {13}{016}{This is great and all that, but I'm more interested in work.}

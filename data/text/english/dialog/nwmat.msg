@@ -158,7 +158,7 @@
 {261}{027}{500.}
 {262}{028}{1000!}
 {263}{029}{Uhh... 1500!}
-{264}{029}{2000?..}
+{264}{029}{2000?...}
 
 
 {270}{}{Take it. Just promise me you won't do this.}
@@ -178,7 +178,7 @@
 {302}{999}{Let's talk later.}
 
 
-{310}{}{Oh, I see you took notice! This is my special over-baked ham from Lavash hindquarters. Take a bite, it's just out of the oven.}
+{310}{}{Oh, I see you've noticed! This is my special over-baked ham from Lavash hindquarters. Take a bite, it's just out of the oven.}
 {311}{032}{Gladly!}
 {312}{033}{From hind... What? Thanks, but I'm not eating the food with such an unappetizing name.}
 
@@ -199,20 +199,20 @@
 {342}{999}{Okay, let's talk later.}
 
 
-{350}{}{It could sound a little self-absorbed, but I'm somewhat a reclusive cook. Making food is my only passion in life. I don't understand when people treat food as something they just need to fill their stomachs with. What I really like is to create an unusual mix of flavors from familiar products. Here, for example [he shows you a piece of meat] - this is a slice of Lavash meat cooked in a really special way. You won't find it anywhere else.}
+{350}{}{It could sound a little self-absorbed, but I'm a reclusive cook. Making food is my only passion in life. I don't understand when people treat food as something they just need to fill their stomachs with. What I really like is to create an unusual mix of flavors from usual products. Here, for example [he shows you a piece of meat] - this is a slice of Lavash meat cooked in a really special way. You won't find it anywhere else.}
 {351}{036}{How are you doing this?}
-{352}{038}{Why people don't know about you around here?}
+{352}{038}{Why people around here don't know about you?}
 {353}{039}{I have no time to talk about this. Better tell me something else...}
 {354}{999}{Talk later.}
 
 
-{360}{}{We have plenty of Lavash meat. In addition, I gather rare herbs that I know of. But lately, it becomes harder. And to eat only meat all the time is, you know... Tiresome.}
+{360}{}{We have plenty of Lavash meat. In addition, I gather rare herbs that I know of. But lately it becomes harder. And to eat only meat all the time is, you know... Tiresome.}
 {361}{040}{I could look for new products for you to cook with.}
 {362}{039}{I see. I want to ask something else.}
 
 
 {370}{}{Thanks. If there's even one thankful person, then I don't cook for nothing. [he sadly smiles]}
-{371}{038}{Why people don't know about you around here?}
+{371}{038}{Why people around here don't know about you?}
 {372}{039}{I want to ask something.}
 
 

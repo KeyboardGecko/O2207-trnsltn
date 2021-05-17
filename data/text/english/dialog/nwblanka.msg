@@ -249,7 +249,7 @@
 {320}{}{[Blanca looks at your crotch. No, actually she STARES at your crotch for long ten seconds. You feel strange.] I guess that it's too big for me. Sorry, pretty boy. No chance.}
 {321}{999}{Too bad... I'll go ponder about my size...}
 
-{330}{}{Sorry, handsome. I don't think it could work for us. [she gives you evaluating look] But I have something to ask you, a favor. While in Rainbow, I took notice that the guys with black skin are quite experienced in... Private matters. Lately, I feel that my passion is overwhelming me, waiting to come out. I need to, uh, take care of it, you know what I'm saying? Can you do something for me?}
+{330}{}{Sorry, handsome. I don't think it could work for us. [she gives you evaluating look] But I want to ask you for a favor. While in Rainbow, I took notice that the guys with black skin are quite experienced in... Private matters. Lately, I feel that my passion is overwhelming me, waiting to come out. I need to, uh, take care of it, you know what I'm saying? Can you do something for me?}
 {331}{035}{What do you want me to do?}
 {332}{010}{I don't think I'm interested in this. Let's change the subject.}
 {333}{999}{You know, I'm actually in a hurry. See you later.}

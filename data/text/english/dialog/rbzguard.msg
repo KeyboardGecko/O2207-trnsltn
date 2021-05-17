@@ -106,7 +106,7 @@
 {1044}{}{[punches an imaginary opponent]}
 #Кабан убит игроком
 {1045}{}{Man, Hog was legit. The real deal...}
-{1046}{}{What asshole had him murdered?..}
+{1046}{}{What asshole had him murdered?...}
 {1047}{}{We are definitely having our pay cut...}
 {1048}{}{Maybe it's time to find a new job...}
 {1049}{}{Maybe I should go back to Jackals?}
