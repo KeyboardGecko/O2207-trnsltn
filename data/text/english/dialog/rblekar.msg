@@ -196,9 +196,9 @@
 {334}{034}{This is in your own interests. You didn't surprise me.}
 
 
-{3401}{}{[his squinted eyes look at you for some time. Then he starts talking.] You wasted the Hog. And it is a big problem because he held the place together. And we don't want everything here to go to shit. This place needs someone cheeky enough to lead it. And we are observing your doings for a long time already - the Rainbow makes everyone show their true colors, you know... So, my boys think that you are suited for this position, and I agree with them. Your turn, champ. Tell me, what you think. And take this, as a gesture of goodwill. It's called "Rapture" - pretty rare stuff, you won't find it anywhere else. [he hands you something]}
+{3401}{}{[his squinted eyes look at you for some time. Then he starts talking.] You wasted the Hog. And it is a big problem because he held the place together. And we don't want everything here to go to shit. This place needs someone cheeky enough to lead it. And we are observing your doings for a long time already - the Rainbow makes everyone show their true colors, you know... So, my boys think that you are suited for this position, and I agree with them. Your turn, champ. Tell me what you think. And take this, as a gesture of goodwill. It's called "Rapture" - pretty rare stuff, you won't find it anywhere else. [he hands you something]}
 {341}{036}{Why the hell not? I think I can do it. No need for the inauguration, I'm too humble for that.}
-{342}{036}{I'm in. Tell me, what's the deal around here at the moment.}
+{342}{036}{I'm in. Tell me what's the deal around here at the moment.}
 {343}{035}{Nah, it's not for me. Solve your problems by yourselves.}
 {3402}{}{[he makes a long gulp, pouring the rest of the booze down his throat] Phew... The thing is - the boys root for you. They think that the Hog solved problems... Not in a very flexible way - but he solved them. Mate was like that too. But in the current situation, we need someone smarter. That's when I thought about you, so - what do you think about leading the place? The Rainbow awaits, kid! }
 {344}{036}{Good. Fill me in - what should I start with?}
@@ -215,5 +215,5 @@
 {361}{999}{Nice. But if you think you can relax, you are dead wrong. You are free to go. I'd like to look around my domain.}
 {362}{999}{I see. Now, I need to think everything over - and don't worry, I won't forget your role in it.}
 
-{370}{}{[looks like he is going to throw himself at you, but instead, he suddenly goes limp] That's your choice then. Don't regret it. [he walks away.]}
+{370}{}{[looks like he is going to throw himself at you, but instead, he suddenly goes limp] That's your choice then. Don't regret it. [he turns away.]}
 {371}{999}{[end]}

@@ -70,7 +70,7 @@
 # Отрицательные сообщения
 {1020}{}{Arrrgh! I'm gonna scratch your face out with this fork!}
 {1021}{}{I hate you, scum!}
-{1022}{}{How dare you!?..}
+{1022}{}{How dare you!?...}
 {1023}{}{You are insulting me just with your presence!}
 {1024}{}{Oh you fucking burp of a nasty beast!}
 {1025}{}{I would tie you down and cut you up into little pieces!}

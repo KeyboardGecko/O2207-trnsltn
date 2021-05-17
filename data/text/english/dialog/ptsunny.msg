@@ -44,7 +44,7 @@
 {42}{005}{Is he your father? No. And judging by what I've seen here - he is probably already dead.}
 
 #Node005
-{50}{}{[you hear a faint moan nearby. You didn't notice at first that there is someone else here] Sunny... Who is there? Your father? [you notice a girl lying on the floor; she leans slightly to the side on her elbow]}
+{50}{}{[you hear a faint moan nearby. You didn't notice at first that there is someone else here] Sunny... Who is there? Your father? [you notice a girl lying on the floor. She leans slightly to the side on her elbow.]}
 {51}{006}{[continue]}
 
 #Node006
@@ -56,7 +56,7 @@
 {71}{008}{No.}
 
 #Node008
-{80}{}{It's very bad. [she shakes her head] When we entered the town, these "locals" attacked us. At first, there was only one - father fended him off. But then more of them appeared. He drew their attention and ran, shouting us to leave... We were trying to find a secluded place but bumped into a huge jackal. He chased us to this mall. I slammed its head with something heavy, but he still got Becky - she has her leg wounded, it's covered in blood and she can't walk... We decided to wait for the father here. So far I made several forays to the town for medicines and water. The pharmacy in the mall is looted completely. I only found some painkillers and bandages. }
+{80}{}{It's very bad. [she shakes her head] When we entered the town, these "locals" attacked us. At first, there was only one - father fended him off. But then more of them appeared. He drew their attention and ran, shouting us to leave... We were trying to find a secluded place but bumped into a huge jackal. He chased us to this mall. I slammed its head with something heavy, but he still got Becky - she has her leg wounded, it's covered in blood and she can't walk... So, we decided to wait for the father here. So far I made several forays to the town for medicines and water. The pharmacy in the mall is looted completely, I only found some painkillers and bandages. }
 {81}{009}{How much time did you spend in this basement?}
 {82}{012}{Any idea where you can get something to help Becky?}
 

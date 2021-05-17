@@ -115,12 +115,12 @@
 {153}{999}{Yeah, to fetch some cognac to some snots... No thank you. Not today.}
 
 
-{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I'll make it. Why should I care what happens in the next twenty years, while I can die at any moment from some random shit? I should have fun! Now, at this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advice. So? Would you get us some booze? If not, we can do it ourselves.}
+{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I can handle it. Besides, why should I care what happens in the next twenty years, when I can die at any moment from some random shit? I should have fun! Now, at this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advice. So? Would you get us some booze? If not, well do it ourselves.}
 {161}{999}{You're right. You'll understand... Eventually. I'll bring you your cognac. Wait.}
 {162}{999}{No. I won't participate in making your life more miserable.}
 
 
-{170}{}{[he starts to draw something on the ground with a stick, marking points with little stones] Here's the plan... That's us, this is them... And this is- fuck! Who took my stones? This is the place where we can attack them. If something goes sideways, we can easily get away through here. If we go now, we should make it to the nearest caravan.}
+{170}{}{[he starts to draw something on the ground with a stick, marking points with little stones] Here's the plan... That's us, this is them... And this is- fuck! Who took all my stones? This is the place where we can attack them. If something goes sideways, we can easily get away through here. If we go now, we should make it to the nearest caravan.}
 {171}{999}{You are such a mastermind... Okay, we'll figure out the rest on the spot. Let's move.}
 {172}{999}{No, I won't go now. If I change my mind, I'll find you.}
 

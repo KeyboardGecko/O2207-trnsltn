@@ -77,14 +77,14 @@
 {1025}{}{Get the hell away! No, away from ME!}
 {1026}{}{Better get off!}
 {1027}{}{What the Newton do you want from me?!}
-{1028}{}{How dare you?..}
+{1028}{}{How dare you?...}
 {1029}{}{Undo your existence, you mistake of nature!}
 #Рандомные плавающие сообщения
 {1030}{}{I think it doesn't smell that much.}
 {1031}{}{How did I end up here...}
 {1032}{}{Calm down, breathe. Nope, better not to breathe.}
 {1033}{}{Looks like this stupid thing is clogged again.}
-{1034}{}{Why does it break so much?..}
+{1034}{}{Why does it break so much?...}
 {1035}{}{When I'm done here, I'll go and lock myself into my office.}
 {1036}{}{It's better to die from hunger than being here.}
 {1037}{}{...And what has been broken this time?}

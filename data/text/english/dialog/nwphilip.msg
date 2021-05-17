@@ -169,7 +169,7 @@
 
 #Node030
 {300}{}{Oh, that? It's not mine, actually. It is no one's. }
-{301}{035}{And how often do you see him here?}
+{301}{035}{Really? Do you often see him here?}
 {302}{999}{Oh. I see. I need to go, see you.}
 
 #Node031
@@ -198,11 +198,11 @@
 
 #Node036
 {360}{}{Did you see his fangs? Of course I feed him! Although, he never growled at me, or showed any signs of aggression. He is quite peaceful - but I won't test it. I'm afraid of dogs, you know. Don't ask.}
-{361}{037}{And what do you feed him?}
+{361}{037}{Okay. What do you feed him?}
 {362}{038}{Still, I'll ask. Why?}
 
 #Node037
-{370}{}{Many things. He usually eats slowly, but with sugar-coated Lavash steaks, he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave me a surprised look, smelled the meat, and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
+{370}{}{Many things. And usually he eats slowly, but with sugar-coated Lavash steaks, he deals almost instantly. Once I thought he would catch it in the air - would jump, you know? - so I threw a piece at him. He didn't even flinch. Just gave me a surprised look, smelled the meat, and ate it. I didn't risk anymore. And what's interesting, I feed him for a really long time already - and he still never eats out of my hands.}
 {371}{039}{Curious. Maybe you can give me some of this sugar-coated Lavash meat?}
 
 #Node038

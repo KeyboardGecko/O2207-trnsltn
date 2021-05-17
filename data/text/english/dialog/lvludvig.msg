@@ -199,11 +199,11 @@
 {321}{010}{I see. Another question then.}
 
 
-{330}{}{[Ludwig starts to dig through his drawings and documents] I do have one schematics here, which is missing a vital fragment. Take a look. Could you advise something?..}
+{330}{}{[Ludwig starts to dig through his drawings and documents] I do have one schematics here, which is missing a vital fragment. Take a look. Could you advise something?...}
 {331}{034}{[you discuss the weapon scheme for some time, exchanging ideas and making calculations]}
 
 
-{340}{}{[In the end you gave Ludvig some pointers to solving his problems. After that Ludwig completely threw himself into work.]}
+{340}{}{[In the end you gave Ludwig some pointers to solving his problems. After that Ludwig completely threw himself into work.]}
 {341}{999}{[Leave him alone]}
 
 {350}{}{[Ludwig starts to wave hands] No, no-no-no! I need my weapons for research and development!}

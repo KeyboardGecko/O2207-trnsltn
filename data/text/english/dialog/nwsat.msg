@@ -74,12 +74,12 @@
 {92}{999}{I need to think about it.}
 
 
-{110}{}{Somewhere in Radius, an underground settlement of Livos is situated. Intellectual elites of the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brighten up for a moment] It's time to show these savages where they belong! }
+{110}{}{Somewhere in Radius, an underground settlement of Livos is situated. Intellectual elites of the New World live there. They are educated, respectable and cultural people. I heard a rumor that they are planning to take over the NWO. [Seth's face becomes brightened up for a moment] It's time to show these savages where they belong! }
 {111}{012}{[keep listening]}
 {112}{021}{I see. Not interested.}
 
 
-{120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. Tell them that I'm willing to help and ready to be their official representative here. When their troops arrive, I'll help them establish themselves here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
+{120}{}{Go there and talk to their leaders. Tell them that they won't make it without an inside man. That I'm willing to help and ready to be their official representative here. When their troops arrive, I'll help them establish themselves here and deal with the locals in the shortest possible time. Of course, I'm counting on a position in middle management or higher for this. I suppose it's obvious.}
 {121}{013}{Deal.}
 {122}{022}{I need to think about it.}
 {123}{020}{No, I won't involve myself in this.}
@@ -135,7 +135,7 @@
 {212}{999}{[leave]}
 
 
-{220}{}{Oh you need to think about it! [you see how contemptuous he is. You can see the terrible amount of effort he's making to not send you off to where the sun doesn't shine] What is there to think?}
+{220}{}{Oh you need to think about it! [he looks very contemptuous. You can see the terrible amount of effort he's putting to not lash out on you] What is there to think?}
 {221}{}{What is bothering your wise head?}
 {222}{023}{Where did you get the information about the takeover of NWO?}
 {223}{025}{Frankly speaking, the thought about the occupation of NWO by dwellers of an underground settlement sounds ridiculous.}
@@ -145,7 +145,7 @@
 {227}{999}{I need to go.}
 
 
-{230}{}{I can't reveal my sources, and it doesn't concern you. NWO is a bunch of helpless hobos, doomed to be enslaved. Someone will do it, sooner or later. Possibly, it would be Livos.}
+{230}{}{I can't reveal my sources, and it doesn't concern you. NWO is a bunch of helpless hobos doomed to be enslaved. Someone will do it, sooner or later. Possibly, it would be Livos.}
 {231}{024}{What if I tell Mark about this?}
 {232}{025}{Honestly, it sounds a little crazy.}
 {233}{022}{I see. I want to ask something else.}

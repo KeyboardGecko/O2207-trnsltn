@@ -827,7 +827,7 @@
 {4802}{}{A Defender patrol.}
 {4803}{}{A lone traveler.}
 {4804}{}{A group of raiders.}
-{4805}{}{A gang of raiders attacking a NWO merchant.}
+{4805}{}{Some raiders attacking a NWO merchant.}
 {4806}{}{Several dangerous raiders.}
 {4807}{}{A couple of jackals.}
 {4808}{}{Unfortunate raiders caught by Defenders.}
@@ -847,7 +847,7 @@
 {4852}{}{A Defender patrol.}
 {4853}{}{A lone traveler.}
 {4854}{}{A group of raiders.}
-{4855}{}{A gang of raiders attacking a NWO merchant.}
+{4855}{}{Some raiders attacking a NWO merchant.}
 {4856}{}{Several dangerous raiders.}
 {4857}{}{A couple of jackals.}
 {4858}{}{Unfortunate raiders caught by Defenders.}
@@ -864,7 +864,7 @@
 {4902}{}{A Defender patrol.}
 {4903}{}{A lone traveler.}
 {4904}{}{A group of raiders.}
-{4905}{}{A gang of raiders attacking a NWO merchant.}
+{4905}{}{Some raiders attacking a NWO merchant.}
 {4906}{}{Several dangerous raiders.}
 {4907}{}{A couple of jackals.}
 {4908}{}{Unfortunate raiders caught by Defenders.}

@@ -12,7 +12,7 @@
 {2}{}{You see a grave.}
 
 # Описание 2
-{3}{}{...where's the shovel when you need it?..}
+{3}{}{...where's the shovel when you need it?...}
 {4}{}{Fresly dug grave. Still smells like dirt and your sweat.}
 
 # Действия

@@ -51,7 +51,7 @@
 {134}{023}{I want to learn about your family.}
 {135}{010}{I'll ask about something else.}
 
-{140}{}{[Dallas smiles] Dwellers of Livos is the sorrow and delight of this place. On one hand, there are many different characters and world-views. On the other, they vary in range from fanatics to schizophrenics.}
+{140}{}{[Dallas smiles] Dwellers of Livos are the sorrow and delight of this place. On one hand, there are many different characters and world-views. On the other, they vary in range from fanatics to schizophrenics.}
 {141}{018}{Who in Livos is the fanatic and who is schizophrenic?}
 {142}{019}{Tell me more about inhabitants.}
 {143}{016}{Oh yeah, since I have become the inhabitant of Livos, there's plus one more fanatic and schizophrenic!}

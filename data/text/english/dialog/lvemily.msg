@@ -33,7 +33,7 @@
 {23}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
 
-{30}{}{[The woman raises her head even more] My condescension and kindness are so great that I forgive you your ignorance. I am Emily Dunton, the ruler of Livos. Do you realize, what luck it is for you to have a conversation with me?}
+{30}{}{[The woman raises her head even more] My condescension and kindness are so great that I forgive you your ignorance. I am Emily Dunton, the ruler of Livos. Do you realize what luck it is for you to have a conversation with me?}
 {31}{008}{I'm new at Livos. And I want to know more about people who run it.}
 {32}{007}{As for me, you are just a bitch with an inflated ego.}
 {33}{999}{I am sorry, Emily, I won't be bothering you anymore.}
@@ -45,7 +45,7 @@
 {43}{999}{I am sorry, Emily, I won't be bothering you anymore.}
 
 
-{50}{}{[The woman doesn't react to your aggression in the slightest. She only raised her eyebrow a little] I'm not surprised at all to see such manners from someone outside. I will never lower myself to your level, using brute violence to solve problems. I am Emily Dunton, the ruler of Livos. Do you realize, what luck it is for you to have a conversation with me?}
+{50}{}{[The woman doesn't react to your aggression in the slightest. She only raised her eyebrow a little] I'm not surprised at all to see such manners from someone outside. I will never lower myself to your level, using brute violence to solve problems. I am Emily Dunton, the ruler of Livos. Do you realize what luck it is for you to have a conversation with me?}
 {51}{008}{I'm new in Livos. And I want to know more about people who run it.}
 {52}{007}{As for me, you are just a bitch with an inflated ego.}
 {53}{999}{I am sorry, Emily, I won't be bothering you anymore.}
@@ -210,7 +210,7 @@
 {340}{}{[She becomes pale] What?... How?... I... }
 {341}{035}{Yes, Emily, you gambled your life away. Now I can do whatever I want with it.}
 
-{350}{}{What do I do then?..}
+{350}{}{What do I do then?...}
 {351}{037}{If the word "honor" means anything to you - you'll kill yourself.}
 {352}{038}{You will abandon Livos. I give your life to Radius.}
 {353}{010}{Okay, I am in a good mood today, so I leave your life to yourself. Let's talk about something else.}

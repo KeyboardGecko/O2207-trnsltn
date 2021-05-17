@@ -130,7 +130,7 @@
 #Node022
 {220}{}{That's none of your business.}
 {221}{}{I'm healing the wounds in my soul and rebuilding my fragile mental state. Huh.}
-{222}{010}{Of course you do.}
+{222}{010}{Right.}
 
 #Node023
 {230}{}{[He frowns and interrupts, not letting you finish] I don't give a shit. Like, at all, in any form, hugely. Do not make me involved in any business except caravan stuff. ESPECIALLY in politics. I don't give a shit who is in charge and how he does his job - if I still have my booze and my caravan, then it's okay. I don't care about the rest.}

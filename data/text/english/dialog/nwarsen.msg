@@ -166,7 +166,7 @@
 {214}{999}{Okay, I need to go think about it.}
 
 #Node022
-{220}{}{Uhh... Well, yeah, We've been putting oil in it, to increase food. We also added it into canned meat.}
+{220}{}{Uhh... Well, yeah, We've been putting oil in it, to increase the, uh, amount of food. We also added it into canned meat once.}
 {221}{021}{You shouldn't have, really. Lavash refuse to eat now. At all. Philip wouldn't like to learn about this...}
 
 #Node023
@@ -175,7 +175,7 @@
 {232}{999}{I need to go now. Bye.}
 
 #Node024
-{240}{}{I can tell you about Daniel, Mark, and my pa Dan. I don't really know about others, and I'm not really interested.   }
+{240}{}{I can tell you about Daniel, Mark, and my pa Dan. I don't really know about others, and I'm not really interested. }
 {241}{029}{I'd like to know about Daniel.}
 {242}{025}{Tell me about Mark.}
 {143}{028}{Tell me about your father.}
