@@ -33,7 +33,7 @@ Additional help to the project
 #keyboard gecko
 
 @with a special thanks to
-#Matt_Drax aka FedProd
+#Matt Drax aka fedprod
 #Quantum Apprentice
 #Milky
 
