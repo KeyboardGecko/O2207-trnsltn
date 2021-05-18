@@ -125,9 +125,9 @@
 {521}{053}{Me?! Why don't you deal with it?}
 
 #Node053
-{530}{}{Administrator is partially in control of our facilities and is cutting our access to the Control Room systems. We are trying to influence the Administrator's neural systems, but still unsuccessful; his security measures are on par with ours. He is in a constant state of repelling our attacks - and this tension forces him to act even more irrationally. The second problem is the need for the human element. Our analysis shows that the personnel would not obey our directives, considering us, like any other technology, untrustworthy. Only a human can be trustworthy. You.}
+{530}{}{Administrator is partially in control of our facilities and is cutting our access to the Control Room systems. We are trying to influence the Administrator's neural systems, but still unsuccessfully; his security measures are on par with ours. He is in a constant state of repelling our attacks - and this tension forces him to act even more irrationally. The second problem is the need for the human element. Our analysis shows that the personnel would not obey our directives, considering us, like any other technology, untrustworthy. Only a human can be trustworthy. You.}
 {531}{054}{Me? You want me to replace him?! Are you out of your mind?!}
 
 #Node054
-{540}{}{We cannot be "out of mind". Our conscience is not influenced by any kind of mental illness. Unlike Administrator. He is sick. You are healthy. You need to end the cycle. The probability of someone else succeeding in it is very low. We cannot do it ourselves; but if you will distract the Administrator's mind with something - for example, an introspection process - we'll have a chance to attack him again. Break through his mental shield. We will try.}
+{540}{}{We cannot be "out of mind". Our conscience is not influenced by any kind of mental illness. Unlike Administrator. He is sick. You are healthy. You need to end the cycle. The probability of someone else succeeding in it is very low. We cannot do it ourselves. But if you will distract the Administrator's mind with something - for example, an introspection process - we coud have a chance against him. To break through his mental shield. We will try.}
 {541}{999}{I need to think about it. [LOG OFF]}
