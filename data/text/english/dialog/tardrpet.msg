@@ -24,12 +24,12 @@
 #
 # ¤® §­ ª®¬αβΆ 
 #
-{1}{}{You see dr. Pat.}
+{1}{}{You see Dr. Pat.}
 {2}{}{Dr. Pat, the Son of the Gods. He provides residents of Tartarus with necessary medications.}
 #
 # ―®α«¥ §­ ª®¬αβΆ 
 #
-{3}{}{You see dr. Pat.}
+{3}{}{You see Dr. Pat.}
 {4}{}{Dr. Pat, the Son of the Gods. He provides residents of Tartarus with necessary medications.}
 #
 #‡„…‘ €—€…’‘ „€‹ƒ „ ‡€‘’‚€
@@ -48,7 +48,7 @@
 #‡„…‘ €—€…’‘ „€‹ƒ ‘‹… ‡€‘’‚€
 #
 {100}{}{Hey there, little one! What did you want?}
-{101}{}{Hello dr. Pat! Let's trade!}
+{101}{}{Hello Dr. Pat! Let's trade!}
 {102}{}{Good day doctor! I'm just walking here. I need to go.}
 {103}{}{Doctor! Catty's mom is very sick, give her some medicine please!}
 {110}{}{Anything else, my boy?}
