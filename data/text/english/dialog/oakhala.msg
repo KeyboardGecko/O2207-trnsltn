@@ -157,16 +157,16 @@
 
 
 {270}{}{[With her healthy hand, she plows through the bushes on her head in search of some insect. Little bones in her locks of hair lightly tap on each other] Let the outsider not hesitate! Khala is tired of catching little creatures with one arm!}
-{271}{029}{[make a gesture to dr. Pat] This is dr. Pat, a great shaman of his tribe! He will help you.}
+{271}{029}{[makes a gesture to Dr. Pat] This is Dr. Pat, a great shaman of his tribe! He will help you.}
 {272}{019}{I want to examine your wounds again.}
 {273}{999}{Actually, you'll have to wait... Don't be nervous! Not for long!}
 
 
-{280}{}{[You don't start the procedure right away. Khala insists that she should hold her butcher knife by the throat of dr. Pat as insurance; for some reason, dr. Pat doesn't agree to that. So, as a trade-off, you decide that if Pat makes a mistake, the blade goes through your neck. While the doctor does his job with the wounds, you are having not the most pleasant experience. But then Pat wipes his hands and nods to you. All done.]}
+{280}{}{[You don't start the procedure right away. Khala insists that she should hold her butcher knife by the throat of Dr. Pat as insurance; for some reason, Dr. Pat doesn't agree to that. So, as a trade-off, you decide that if Pat makes a mistake, the blade goes through your neck. While the doctor does his job with the wounds, you are having not the most pleasant experience. But then Pat wipes his hands and nods to you. All done.]}
 {281}{030}{At last...}
 
 
-{290}{}{[she rotates her forearm, evaluating the quality of work] How the outsider managed to do it? He didn't even say one prayer... But the hand is not in pain anymore! Outsider must have been helped by the Unfed, that's why no words were said! [she takes out some magazine of the apron and ceremonially hands it to dr. Pat, but he is categorically against taking anything from her. Looks like the dinery of this village made its impression. The magazine goes to you.]  Here, take these holy scribings - they give Khala energy before hard work. You are worthy of owning it, as you brought here the messenger of Silent One... And Khala will take her time to think, how she could eat you later...}
+{290}{}{[she rotates her forearm, evaluating the quality of work] How the outsider managed to do it? He didn't even say one prayer... But the hand is not in pain anymore! Outsider must have been helped by the Unfed, that's why no words were said! [she takes out some magazine of the apron and ceremonially hands it to Dr. Pat, but he is categorically against taking anything from her. Looks like the dinery of this village made its impression. The magazine goes to you.]  Here, take these holy scribings - they give Khala energy before hard work. You are worthy of owning it, as you brought here the messenger of Silent One... And Khala will take her time to think, how she could eat you later...}
 {291}{999}{Then I'll leave you alone with these beautiful thoughts.}
 
 
