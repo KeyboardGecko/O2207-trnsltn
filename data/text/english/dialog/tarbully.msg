@@ -60,7 +60,7 @@
 {110}{}{Nothing to talk about! He threw a stone at me! It was on purpose, I've seen him aiming! He is done for, your brother!}
 {111}{}{Oh... If he started it, you both figure it out. I won't be a part of this.}
 {112}{}{I know your type, always looking for an excuse to pester someone! Now you're gonna get it, come here!}
-{113}{}{Oh, come on! It was an accident! You don't look like an idiot, you understand that he didn't want any problems with you!}
+{113}{}{Oh, come on! It was an accident! You don't look like an idiot, you understand that he didn't want any problems with you!}#
 {114}{}{It was an accident, he was just playing with rocks. Forget about it. [discreetly show your biceps]}
 {1201}{}{Not convincing! Get the hell out, tell your brother that he is, uh... Screwed anyway!}
 {1202}{}{Uhhh... Erm... Damn, I don't want to get my hands dirty punching your faces, suckers. Get lost.}
