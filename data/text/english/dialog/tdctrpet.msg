@@ -11,11 +11,11 @@
 #ОПИСАНИЕ КРИТТЕРА 			
 # 			
 # до знакомства 			
-{1}{}{You see dr. Pat.}			
+{1}{}{You see Dr. Pat.}			
 {2}{}{A local healer, Pat. He is gloomy and dissatisfied with something, as always.}
 # 			
 # после знакомства 			
-{3}{}{You see dr. Pat.}			
+{3}{}{You see Dr. Pat.}			
 {4}{}{A local healer, Pat. He is gloomy and dissatisfied with something, as always.}
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ ДО ЗНАКОМСТВА
