@@ -72,7 +72,7 @@
 {3601}{}{A very dirty bed. Your own in Tartarus is way much cleaner.}
 {3700}{}{a bed}
 {3701}{}{A dirty bed. Your own in Tartarus way is much cleaner.}
-{3800}{}{a elevator}
+{3800}{}{an elevator}
 {3801}{}{This is a service elevator.}
 {3900}{}{a chair}
 {3901}{}{A chair with armrests. It looks comfortable.}
@@ -3086,8 +3086,8 @@
 {168600}{}{a tile}
 {168700}{}{a tile}
 {168800}{}{a half-destroyed wall}
-{168900}{}{a elevator}
-{169000}{}{a elevator}
+{168900}{}{an elevator}
+{169000}{}{an elevator}
 {169100}{}{a half-destroyed wall}
 {169200}{}{a half-destroyed wall}
 {169300}{}{a hole}
@@ -4545,7 +4545,7 @@
 {247901}{}{Something clearly edible and very important, since people have deemed this food worthy of a gold frame.}
 {248000}{}{a blocked staircase}
 {248001}{}{The passage is blocked.}
-{248100}{}{a elevator}
+{248100}{}{an elevator}
 {248101}{}{Service elevator leading to Tartarus.}
 {248200}{}{a bed}
 {248201}{}{This bed is perfectly preserved.}
@@ -4678,9 +4678,9 @@
 {254701}{}{Here it is! The Olympus, abode of all hopefuls.}
 {254800}{}{the Olympus}
 {254801}{}{Here it is! The Olympus, abode of all hopefuls.}
-{254900}{}{a elevator}
+{254900}{}{an elevator}
 {254901}{}{It seems to be the only way to move around the floors of the tower.}
-{255000}{}{a elevator}
+{255000}{}{an elevator}
 {255001}{}{It seems to be the only way to move around the floors of the tower.}
 {255100}{}{the Olympus}
 {255101}{}{Here it is! The Olympus, abode of all hopefuls.}
@@ -4723,13 +4723,13 @@
 {257001}{}{So many boxes and absolutely nothing useful - what a disappointment!}
 {257100}{}{a boxes}
 {257101}{}{These boxes are empty, there is nothing to eat here.}
-{257200}{}{a elevator}
+{257200}{}{an elevator}
 {257201}{}{The elevator doors.}
-{257300}{}{a elevator}
+{257300}{}{an elevator}
 {257301}{}{It seems to be the only way to move around the floors of the tower.}
-{257400}{}{a elevator}
+{257400}{}{an elevator}
 {257401}{}{The elevator doors.}
-{257500}{}{a elevator}
+{257500}{}{an elevator}
 {257501}{}{The elevator doors.}
 {257600}{}{an armor plate}
 {257601}{}{Probably protects the back wall from the spraying insides of the test subjects.}
@@ -5057,7 +5057,7 @@
 {274701}{}{Biomatter, a collection of organisms.}
 {274800}{}{the biomass}
 {274801}{}{Biomatter, a collection of organisms.}
-{274900}{}{a elevator}
+{274900}{}{an elevator}
 {274901}{}{The elevator doors.}
 {275000}{}{a door}
 {275001}{}{The passage is blocked.}
@@ -5101,7 +5101,7 @@
 {276901}{}{It's probably filming you.}
 {277000}{}{a loudspeaker}
 {277001}{}{An old loudspeaker. It probably still works.}
-{277100}{}{a elevator}
+{277100}{}{an elevator}
 {277101}{}{The elevator doors.}
 {277200}{}{the shards}
 {277201}{}{Thousands of them! And each one is unique in its own way.}

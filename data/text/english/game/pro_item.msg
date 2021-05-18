@@ -817,7 +817,7 @@
 {40900}{}{Paramedic's bag}
 {40901}{}{A salvage package of a paramedic - everything you need to provide quick and serious help.}
 {41000}{}{Glass Marbles}
-{41001}{}{Cute and smooth glass marbles, it's nice to roll them in your hands}
+{41001}{}{Cute and smooth glass marbles. It feels very nice to roll them in your hands.}
 {41100}{}{Rusty Screw}
 {41101}{}{An old rusty screw. It's so rusty that you don't even want to pick it up.}
 {41200}{}{Tattered book}

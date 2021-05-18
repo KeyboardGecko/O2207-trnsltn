@@ -17,22 +17,22 @@
 # ïîñëå çíàêîìñòâà
 {3}{}{You see a gatekeeper.}
 {4}{}{Guard at the entrance to Olympus.}
-{5}{}{Hey, John, it's you? Just kidding, of course I recognized you!}
+{5}{}{Hey, John, is that you? Just kidding, of course I recognized you!}
 {6}{}{Sure, come in, no problem...}
 {7}{}{Make yourself at home, buddy! Hahaha!}
-{8}{}{How are you doing, pal? Searching for something again?}
+{8}{}{How are you doing, pal? Seeking for something again?}
 {9}{}{Aren't you a smart-ass? Take this!!!}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 #Node001
-{10}{}{Hold it! Report - who, from where, what mission?}
+{10}{}{Hold it! Report - who, from where, what assignment?}
 {11}{002}{I'm - }
 {12}{002}{, ran away from Tartarus, want to go back. Let me in, maybe?}
 {13}{003}{The name's Douglas. Don't you recognize me?}
 {14}{002}{Gregorius, Herald. Didn't recognize me? Let me in!}
 {15}{004}{I'm Douglas, you should have heard of me.}
-{16}{GoBack}{I was just about to go to my mission... Bye.}
+{16}{GoBack}{I was just about to go to my assignment... Bye.}
 
 #Node002
 {20}{}{Listen here you funny guy, turn around and start walking away from here, while you still can. Or our pets will rip you to bloody shreds. Got it? Go!}
@@ -57,7 +57,7 @@
 {48}{003}{Here it is. [show Douglas badge]}
 
 #Node004a
-{44}{}{[He studies your badge] Doug, is that really you? You are so different every time you return from a mission that I didn't even recognize you! Okay, let's see what you brought [he puts out a piece of paper and starts examining it]}
+{44}{}{[He studies your badge] Doug, is that really you? You are so different every time you return from a mission! Okay, let's see what you brought [he puts out a piece of paper and starts examining it]}
 {45}{005}{Don't bother, everything is in here [Show the bag with items from the Douglas list]}
 {46}{006}{You know me, I never return empty-handed.}
 {47}{GoBack}{Of course! I've just remembered that I forgot one thing. Be right back.}
