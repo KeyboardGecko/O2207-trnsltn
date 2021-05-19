@@ -32,7 +32,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[suddenly, you hear that someone's calling you] Hey, you! Come here! [You look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a Christmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
+{10}{}{[suddenly, you hear that someone's calling] Hey, you! Come here! [you look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a Christmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
 {11}{002}{What?}
 {12}{003}{Ask nicely.}
 {13}{999}{[Give him a middle finger and walk away]}
@@ -44,13 +44,13 @@
 {23}{999}{[Give him a middle finger and walk away]}
 
 
-{30}{}{What? [he looks very surprised. Confused even] Do you actually know who are you talking to? Who am I?! I'm...}
+{30}{}{What? [he looks very surprised. Even confused.] Do you actually know who are you talking to? Who am I?! I'm...}
 {31}{005}{[interrupt him] A piece of shit. }
 {32}{006}{[interrupt him] I don't give a fuck who you are. }
 {33}{004}{[listen]}
 
 
-{40}{}{...Oswald Brown! The king, the fucking god! [he interrupts himself] I'm the one in charge here after Loudmouth! If you are gonna fuck with me, I'll bury you right where you stand!}
+{40}{}{...Oswald Brown! The king, the fucking god! I'm the one in charge here after Loudmouth! If you are gonna fuck with me, I'll bury you right where you stand!}
 {41}{018}{What do you want from me?}
 {42}{006}{Blah, blah, bloody blah. So interesting. }
 {43}{005}{[Give him a middle finger and walk away]}
@@ -82,7 +82,7 @@
 {92}{011}{[kiss Oswald's boots]}
 
 
-{100}{}{[He looks at you like you are fresh shit.] }
+{100}{}{[He looks at you like if you were a piece of fresh shit.] }
 {101}{030}{Have a job? }
 {102}{044}{About the pistol...}
 {103}{046}{I see you are getting hard from pistols? Why's that?}
@@ -175,7 +175,7 @@
 {263}{999}{[leave]}
 
 
-{270}{}{[Oswald giggles. Looks like he has some troubles with the head, like in some scary stories about army veterans, or something] So fearless... I think you and your titanium balls will make a great addition to the gate guards. Get your ass there, fast. If I hear that you are hanging around instead of doing your job - you are fucked.}
+{270}{}{[Oswald giggles, looking like he has some troubles with the head] So fearless... I think you and your titanium balls will make a great addition to the gate guards. Get your ass there, fast. If I hear that you are hanging around instead of doing your job - you are fucked.}
 {271}{006}{Why don't YOU go guard the gate? And while you walking there, you could come by traders and sell your asshole for a quick buck.}
 {272}{999}{Yeah. [leave]}
 {273}{028}{Do I look like one of your bitches?}
@@ -225,7 +225,7 @@
 
 
 {360}{}{[Oswald raises his eyebrows. Looks like he recognized the pistol, but has troubles believing his eyes] Where did you get THAT, greenhorn? I think I'll buy it. Thousand.}
-{361}{037}{Thousand? You must be kidding. I looked for the parts, assembled it... Even the cost of parts themselves is more than that!}
+{361}{037}{Thousand? You must be kidding. I looked for the parts, assembled it... Even the parts cost more than that!}
 {362}{042}{Okay, deal.}
 {363}{033}{I need to think. To consider options.}
 
@@ -242,7 +242,7 @@
 
 
 {390}{}{No. }
-{391}{040}{Why the hell no? Not only the gun is the rarest - it's big, powerful, and reliable. It costs more. I sell to you because you are the authority. The others are less worthy.}
+{391}{040}{Why the hell no? Not only the gun is the rarest - it's big, powerful, and reliable. It costs more. I'm selling it to you because you are the authority. The others are less worthy.}
 {392}{041}{One and a half thousand.}
 
 
@@ -312,6 +312,6 @@
 {512}{010}{Forget it. I still have some questions.}
 
 
-{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. He has nerves worse than Loudmouth. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when its owner is not around.}
+{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when its owner is not around.}
 {521}{051}{Billy?}
 {522}{010}{Forget it. I still have some questions.}
