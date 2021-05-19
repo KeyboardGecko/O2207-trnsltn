@@ -1180,12 +1180,12 @@
 {9000}{}{Date of entry: July 03, 2207}
 {9001}{}{How nice of these brave warriors to give me}
 {9002}{}{medicine, weapon, and this wonderful disc-o-phone!}
-{9003}{}{It's been four weeks of my journey to get to the}
+{9003}{}{It is a fifth week of my journey to get to the}
 {9004}{}{Olympus... There were four of us when we learned}
 {9005}{}{of the tower from one ghoul. God, what a blessing}
 {9006}{}{it was - to know that somewhere in the world}
 {9007}{}{exist a place without all the dangers, terrible}
-{9008}{}{beasts - and even more terrible men! We walked}
+{9008}{}{beasts... And even more terrible men! We walked}
 {9009}{}{for days, moving to the west, toward the center}
 {9010}{}{of the valley... Then we were ambushed by a}
 {9011}{}{Chimera. It was hell! The monster ripped Bob in}

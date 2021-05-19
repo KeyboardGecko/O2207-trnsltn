@@ -96,7 +96,7 @@
 {127}{999}{Let's talk about it later. I need to go now.}
 
 
-{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! You'll see, we are going to take over here, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, do you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog care about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
+{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! And we are going to take over this place, just wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, did you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog care about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
 {131}{014}{Have something to add, G?}
 
 
@@ -132,7 +132,7 @@
 
 
 {190}{}{What? Alter... You mean, to do something else? What exactly? The Hog's got everything under his boot...}
-{191}{020}{For example, you could guard the Rainbow's borders. It's obvious that this place is not very protected from sudden invasions. The Hog obviously gets it, so if he is not doing something about it now, then he is short on people. I can talk about it with him. Make you equal partners in this matter. What do you think? }
+{191}{020}{For example, you could watch over the Rainbow's borders. It's obvious that this place is not very protected from sudden invasions. The Hog obviously gets it, so if he is not doing something about it, then he is short on people. I can talk about it with him. Make you equal partners in this matter. What do you think? }
 {192}{017}{Uh... Yes, you're right. Robbing caravans is more fun anyway. What was your plan?}
 {193}{999}{I'll get back when I think of something.}
 

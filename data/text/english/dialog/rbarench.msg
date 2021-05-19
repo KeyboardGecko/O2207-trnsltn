@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[his shaved skull is shining under the light, just like metallic teeth under his magnificent mustache. Broken nose and facial scars are hinting that he is an experienced fighter] A new player on our Arena? Want to bet? Or to beat the shit out of someone?}
+{10}{}{[his shaved skull is shining under the light just like metallic teeth under his magnificent mustache. Broken nose and facial scars hint that he is an experienced fighter] A new player on our Arena? Want to bet? Or to beat the shit out of someone?}
 {11}{011}{What's going on here?}
 {12}{999}{Maybe some other time. See you.}
 #
@@ -61,7 +61,7 @@
 {1023}{999}{Just checking. Was nice to see you, but I need to go.}
 
 
-{110}{}{[he spreads his arms] This is the Arena! You haven't seen the Rainbow if you didn't visit this place! Here, the boys with the balls of metal turn each other into a bloody pulp to the roaring of the crowd! Even observing the Chimeras in their mating season can't compare to this! As for me, you can call me Warden. I'm leading this place, so - tell me, if you need something.}
+{110}{}{[he spreads his arms] This is the Arena! You haven't seen the Rainbow if you didn't visit this place! Here the boys with the balls of metal turn each other into a bloody pulp to the roaring of the crowd! Even observing the Chimeras in their mating season can't compare to this! As for me, you can call me Warden. I'm leading this place, so - tell me, if you need something.}
 {111}{014}{Can I make bets here?}
 {112}{015}{Sounds good... I might even want to participate. Is that possible?}
 {113}{999}{I see. Okay, see you around, Warden.}

@@ -308,7 +308,7 @@
 {15401}{}{An elite prototype of an assault submachine gun for the marines. A light, reliable and water-resistant deliverer of pain and suffering to every enemy of America! Min ST: 6}
 {15500}{}{"Helmuth" SMG (Scoped)}
 {15501}{}{A modified "Helmuth" submachine gun with an optical sight, to even better keep your enemies at bay. Min ST: 4}
-{15600}{}{"Helmuth" SMG (Exp. Mag.))}
+{15600}{}{"Helmuth" SMG (Exp. Mag.)}
 {15601}{}{A modified "Helmuth" SMG with an added magazine for even more bursting fun. Min ST: 5}
 {15700}{}{"SL-9" Laser Pistol}
 {15701}{}{One of the first successful models of Schwein's laser pistols. It is a bit heavy, but that is because it's more deadly than just a laser pointer! Min ST: 5}

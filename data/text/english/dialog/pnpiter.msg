@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see a huge black guy.}
-{2}{}{This technology servant looks surprisingly big.}
+{2}{}{This Technology Servant looks surprisingly big.}
 #
 # после знакомства
 {3}{}{You see Peter.}
@@ -65,7 +65,7 @@
 {109}{999}{Nothing. I have to go.}
 
 #Node011
-{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is a better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
+{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology Servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is a better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
 {111}{012}{Let some of you into Tartarus? Sounds questionable. They take all outsiders for terrible creatures.}
 {112}{}{What can I say? Fixing the broken stuff, looking after what's working. Just helping Bono to keep things running, nothing exceptional.}
 {113}{010}{Plain and simple. Can I ask something else?}

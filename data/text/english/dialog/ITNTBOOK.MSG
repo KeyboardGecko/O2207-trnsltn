@@ -48,9 +48,9 @@
 #######################
 {200}{}{ (done)}
 #######################
-{201}{}{There's a note in the organizer about something called "Renaissance". On occasion, you should try to learn more.}
+{201}{}{There's a note in the organizer about something called "Renaissance". On occasion, I should try to learn more.}
 {202}{}{I have all the parts of the Renaissance map! The coordinates are in the organizer, I should definitely go there.}
-{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Beck, and Hinder about Sam.}
+{203}{}{I need to talk to Juan, Cyren, Flint, Owen, Burns, and Hinder about Sam.}
 {204}{}{I'm the new head of the NWO... Can I give orders now?}
 {205}{}{It looks like you can get into Olympus under the guise of this Douglas guy. I need the same uniform and his badge...}
 {206}{}{List of items for Olympus: "Rapture", Ultra Repair Kit, Plasma rifle prototype, and the NWO Encyclopedia.}
