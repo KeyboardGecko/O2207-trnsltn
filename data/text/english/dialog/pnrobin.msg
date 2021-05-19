@@ -91,12 +91,12 @@
 {401}{999}{I get it. Bono and Hugo. I'll go talk to them.}	
 {402}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on the lower platform. He will tell you stories about power, courage, and other stuff, but you'll get the point.}	
 {403}{010}{Talk to Hugo... Okay, thanks. Can I ask something else?}	
-{500}{}{Help? Me? This ghoul with no balls really thinks I need help? HA! Hahaha! Ha. Well, Maybe my boys actually got a little tired. We are so out of luck recently! Okay, my fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}	
+{500}{}{Help? Me? This ghoul with no balls really thinks I need help? HA! Hahaha! Ha. Well, Maybe my boys actually got a little tired. Man, we are so out of luck recently! Okay, my fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}	
 {501}{051}{Uhh... Where do I look for it?}	
-{502}{}{Aren't you a perceptive son of a bitch? Yes, we look like we had just returned from a trip. You know why? Because we had just returned from a trip! We are going into the damn Radius all the time, looking for supplies, materials, and all that. But, you know... We are so out of luck recently! Fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}
+{502}{}{Aren't you a perceptive son of a bitch? Yes, we look like we had just returned from a trip. You know why? Because we had just returned from a trip! We are going into the damn Radius all the time, looking for supplies, materials, and all that. ANd, you know... We are so out of luck recently! Fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}
 {503}{051}{I don't even know. Where would I look for it?}	
-{504}{999}{Are you out of your mind? I don't know anything here!No, I'll pass.}	
-{510}{}{Don't be a pussy, you won't have to go far! Did you see the ruins above us? So, not long ago, before moving out, we left some dried apples and wood to pick up on a way back. But I don't remember where. And we are too tired to look. Also, there should be something in the nearby settlement, or even in the ruins themselves. We don't need much, maybe }
+{504}{999}{Are you out of your mind? I don't know anything here! No, I'll pass.}	
+{510}{}{Don't be a pussy, you won't have to go far! Did you see the ruins above us? So, not long ago, before moving out, we left some dried apples and wood to pick up on a way back. But I don't remember where. And we are too tired to look. Also, there should be something in the nearby settlement to the north of subway entrance, or even in the ruins themselves. We don't need much, maybe }
 {517}{}{ apples and wood, what do you say? Don't be in a hurry, return when you have enough. We won't go anywhere. [He smiles and winks]}	
 {511}{QA}{Okay, I'll do it. Doesn't look too difficult.}	
 {512}{999}{Well, I'll think about it, okay? Alright.}	
