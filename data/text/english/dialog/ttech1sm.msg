@@ -64,10 +64,10 @@
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{Instead of bugging me with questions, hand me over that wrench.}
 {1015}{}{Listen, don't touch me, let me rest a little.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...And then I'm like - you are sparking here! Hilarious.}
 {1018}{}{...And then he's like - that's E-LEC-TREE-SEE-TEE!}
-{1019}{}{Oh. Listen, let's talk a litte later, okay?}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}

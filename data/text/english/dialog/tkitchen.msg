@@ -64,10 +64,10 @@
 {1013}{}{Hey, listen, maybe not now? Good.}
 {1014}{}{You know, I actually don't mind - but there are so many mouths I need to feed!}
 {1015}{}{Listen, don't bother me, let me rest a little.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{Some other time, okay? Or you get no food.}
 {1018}{}{Oh man... Why am I the cause of the toilet getting clogged!? It's humiliating.}
-{1019}{}{Oh. Listen, let's talk a litte later, okay?}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}

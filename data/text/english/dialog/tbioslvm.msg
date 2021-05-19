@@ -64,10 +64,10 @@
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{Instead of bothering me with questions, you'd better water some crops!}
 {1015}{}{Listen, don't bother me, let me rest a little.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...Remember to comb the Lavash...}
 {1018}{}{...Crops, crops, you are gonna be my grave.}
-{1019}{}{Oh. Listen, let's talk a litte later, okay?}
+{1019}{}{Oh. Listen, let's talk a little later, okay?}
 # Отрицательные сообщения
 {1020}{}{Get lost, dumbass!}
 {1021}{}{Get the hell out!}

@@ -63,7 +63,7 @@
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{I really have no time to talk to you right now.}
 {1015}{}{Don't bother me, let me rest.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...Need to go on the surface for supplies soon...}
 {1018}{}{Don't bug me.}
 {1019}{}{We have nothing to talk about.}

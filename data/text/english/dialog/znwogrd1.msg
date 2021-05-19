@@ -63,7 +63,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Don't get on my nerves.}
 {1015}{}{Yo are no one here. Get off.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...Damn refugees...}
 {1018}{}{Who let you in here?}
 {1019}{}{Get lost.}

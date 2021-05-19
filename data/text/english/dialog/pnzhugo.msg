@@ -63,7 +63,7 @@
 {1013}{}{Just go away.}
 {1014}{}{Turn around and walk away!}
 {1015}{}{Don't bother me, let me rest.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...We'll kill them all...}
 {1018}{}{Don't bother me.}
 {1019}{}{We have nothing to talk about.}

@@ -63,7 +63,7 @@
 {1013}{}{N-no... Ooohh..}
 {1014}{}{Yeah, sure.}
 {1015}{}{I'd rather be sleeping.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{..When this will end...}
 {1018}{}{..When this will end...}
 {1019}{}{::grunts::}

@@ -78,7 +78,7 @@
 {1013}{}{Maybe some other time? Good.}
 {1014}{}{I have no time to talk to you right now.}
 {1015}{}{Don't bother me, I want to rest.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...This work never ends...}
 {1018}{}{You'd better helped, instead of bothering me.}
 {1019}{}{No. No time!}

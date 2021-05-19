@@ -189,4 +189,4 @@
 {410}{}{Oh... It's you...}
 {411}{}{I'm working, I'm working! Can't you see?}
 {412}{}{I was just having a break!}
-{413}{}{What else do you want?}
+{413}{}{What do you want?}

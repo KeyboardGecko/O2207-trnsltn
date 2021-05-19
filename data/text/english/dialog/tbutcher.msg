@@ -96,7 +96,7 @@
 {1013}{}{Listen, maybe not now? Good.}
 {1014}{}{Listen' I really don't have time to spare.}
 {1015}{}{Don't bother me, let me rest.}
-{1016}{}{What else do you want?}
+{1016}{}{What do you want?}
 {1017}{}{...And then I said: "Have you tried to milk him?" Hilarious...}
 {1018}{}{Don't slip on that shit.}
 {1019}{}{Listen, let's talk a little later, alright?}
