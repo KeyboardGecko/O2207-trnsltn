@@ -73,7 +73,7 @@
 {204}{010}{It can wait. I wanted to ask...}
 {205}{999}{Actually, I've got to go.}
 
-{130}{}{Into the Olympus, you say? Hmm... Well, if you manage to take out every armed and armored guard, together with all their pet Chimeras - yeah, you'll probably make it to the front door. Which doesn't open even for a Devil! [he laughs]}	
+{130}{}{Into the Olympus, you say? Hmm... Well, if you manage to take out every armed and armored guard, together with all their pet Chimeras - yeah, you'll probably make it to the front door. Which doesn't open even for a Devil himself! [he laughs]}	
 {131}{011}{Somehow, that's exactly what I thought. Can I ask something else?}	
 {140}{}{Hah! Hahahahah! What a joker you are! Just put yourself in the place of any woman here, and try to imagine, how it is to raise a child in these conditions. Or go ask Martha, if you can't imagine. She will probably tell you a lot of stuff... About the dad of little Lily, for example. How should I put it... That girl is daughter to all of us, everyone is equally responsible for her. And that's why there are no children here. Done with this topic!}	
 {141}{011}{Oh, okay then. I'd like to ask something else.}	
@@ -85,8 +85,8 @@
 {302}{}{Uhh, this is what I say - the less you know, the better you sleep! Or something like it... It's enough for you to know, that if I don't like you or you dare hurt someone here, we won't be having this long talks. I mean, I won't do talking at all, if you know what I mean!}	
 {303}{010}{Okay, I got that. Can I ask more?}	
 {304}{999}{Right, I'll better go.}	
-{310}{}{What after? I just wandered Radius, went to a tower, was thinking, maybe there's someone alive there. And I was always good at running, so I managed to run away from Chimeras - and they chased me down to this place. And that's how I ended up here. Easy, huh? Practically everyone here - your fellows from Tartarus included - came here this way. I can't even imagine, how many of them were not fast enough...}	
-{311}{010}{Yeah, a whole lot, I suppose. It's good I didn't try to go to Olympus. Can I ask something else?}	
+{310}{}{After? I just wandered Radius, went to a tower, was thinking, maybe there's someone alive there. And I was always good at running, so I managed to run away from Chimeras - and they chased me down to this place. That's how I ended up here. Great story, huh? Practically everyone here - your fellows from Tartarus included - came here this way. I can't even imagine, how many of them were not fast enough...}	
+{311}{010}{A whole lot, I suppose. It's good I didn't try to go to Olympus. Can I ask something else?}	
 {400}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on the lower platform. He will brag about power, courage, and other stuff, but you'll get the point. Although, you can also talk to Bono. He has a plan too, a peaceful one - but as for me, a peaceful solution in Radius is total bullshit!}	
 {401}{999}{I get it. Bono and Hugo. I'll go talk to them.}	
 {402}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on the lower platform. He will tell you stories about power, courage, and other stuff, but you'll get the point.}	
@@ -96,8 +96,8 @@
 {502}{}{Aren't you a perceptive son of a bitch? Yes, we look like we had just returned from a trip. You know why? Because we had just returned from a trip! We are going into the damn Radius all the time, looking for supplies, materials, and all that. ANd, you know... We are so out of luck recently! Fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}
 {503}{051}{I don't even know. Where would I look for it?}	
 {504}{999}{Are you out of your mind? I don't know anything here! No, I'll pass.}	
-{510}{}{Don't be a pussy, you won't have to go far! Did you see the ruins above us? So, not long ago, before moving out, we left some dried apples and wood to pick up on a way back. But I don't remember where. And we are too tired to look. Also, there should be something in the nearby settlement to the north of subway entrance, or even in the ruins themselves. We don't need much, maybe }
-{517}{}{ apples and wood, what do you say? Don't be in a hurry, return when you have enough. We won't go anywhere. [He smiles and winks]}	
+{510}{}{Don't be a pussy, you won't have to go far! Did you see the ruins above us? So, not long ago, before moving out, we left some dried apples and wood there, to pick up on a way back. But I don't remember where exactly. And we are too tired to look. Also, there should be something in the nearby settlement to the north of ruins. We don't need much, maybe }
+{517}{}{ apples. And one wood. What do you say? Don't be in a hurry, return when you have enough. We won't go anywhere. [He smiles and winks]}	
 {511}{QA}{Okay, I'll do it. Doesn't look too difficult.}	
 {512}{999}{Well, I'll think about it, okay? Alright.}	
 {513}{}{Great, my man! Also, try searching in nearby houses - closets, chests and such. Only be careful of traps, there were people living, they could've put something against the thieves. But I'd say it's unlikely, don't be afraid!}	
