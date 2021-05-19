@@ -433,7 +433,7 @@
 {800}{}{You don't have an Automap!}
 {801}{}{You don't have an Organizer}
 {802}{}{You cannot enter combat mode!}
-{803}{}{Resolution must be at least 800õ600!}
+{803}{}{Resolution must be at least 800x600!}
 {804}{}{You received new karma!}
 {805}{}{}
 {806}{}{}
