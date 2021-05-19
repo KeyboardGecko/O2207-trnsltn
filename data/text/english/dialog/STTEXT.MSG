@@ -512,7 +512,7 @@
 {913}{}{If somebody was there, then this place really exists. Thanks for that, too.}
 {914}{3}{Ah, so that's what you're up to! There was one just like you - just as inquisitive. But now he is not [chuckles]. The Renaissance is a locked-down secret governmental city. Probably, some presidents or monarchs live there. And people like you will be shot from half a mile on the way to this Renaissance of yours! Mark my words, stop looking for him, or you'll end up badly.}
 {915}{}{Yeah, that sounds dangerous... I guess I need to be more careful.}
-{916}{4}{The city of Eden, yeah... [rolls his eyes] They say it has smart vending machines that give out delicious food, provide light and heat... But, and I know for a fact, this place is very well hidden somewhere in the mountains. It's even surrounded by something that clouds your thoughts. You may not believe it, but a lot of people were looking for it and never came back! There was, however, one boy, who did. And he not only returned but also drew a map of how to find this place. The rumor goes like he divided this map into 4 parts and hid it in different corners of the Radius... Who knows if any of that is true. Maybe there's no such place as Renaissance, after all?}
+{916}{4}{The city of Eden, yeah... [rolls his eyes] They say it has smart vending machines that give out delicious food, provide light and heat... But, and I know for a fact, this place is very well hidden somewhere in the mountains. It's even surrounded by something that clouds your thoughts. You may not believe it, but a lot of people went looking for it and never came back! There was, however, one boy, who did. And he not only returned but also drew a map of how to find this place. The rumor goes like he divided this map into 4 parts and hid it in different corners of the Radius... Who knows if any of that is true. Maybe there's no such place as Renaissance?}
 {917}{}{A map? With a map, it would be much easier to find it. Of course, if the Renaissance really exists...}
 {918}{}{There's not much I can tell you. It seems that there is something somewhere, but no one knows where and what.}
 {919}{}{Renaissance, Paradise City, Heaven... [winks] I think it's like normal heaven - it doesn't exist.}
@@ -534,7 +534,7 @@
 {936}{}{Herald! Tell me about the Gods!}
 {937}{}{Is it true that there are terrible creatures outside?}
 {938}{}{Mom says this is where we belong. And where is the place for the Gods, Herald?}
-{940}{}{Uuuh, Warden! What cool armor!}
+{940}{}{Uuuh, Warden! What a cool armor!}
 {941}{}{Warden, can I touch the armor? At least a little bit?}
 {942}{}{[stands at attention] Reporting! No horrible creatures have been seen under the bed!}
 #Security guards
