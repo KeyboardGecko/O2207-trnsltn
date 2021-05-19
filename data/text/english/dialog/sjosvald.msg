@@ -32,7 +32,7 @@
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
-{10}{}{[suddenly, you hear that someone's calling] Hey, you! Come here! [you look closer: before you stands a young man wearing very clean equipment. His jacket and pants are sewn with loads of pads and plates. It makes him look more like a Christmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are shit.]}
+{10}{}{[suddenly, you hear that someone's calling] Hey, you! Come here! [you look around. Before you stands a young man in a very clean equipment. His jacket and pants are all sewn with loads of pads and plates. It makes him look more like a Christmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are a piece of shit.]}
 {11}{002}{What?}
 {12}{003}{Ask nicely.}
 {13}{999}{[Give him a middle finger and walk away]}
