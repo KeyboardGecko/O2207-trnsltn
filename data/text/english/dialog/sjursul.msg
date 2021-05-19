@@ -25,7 +25,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[A huge man is sharpening his knife, periodically checking it with a finger. He's very well-built - and dressed quite well either, especially by the local standards. His foot rests on the skull of an enormous beast.]}
+{10}{}{[A huge man is sharpening his knife, periodically checking it with a finger. He's very well-built - and dressed quite well too, especially by the local standards. His foot rests on the skull of an enormous beast.]}
 {11}{002}{Hello.}
 {12}{002}{[cough silently]}
 {13}{002}{Hey, big guy!}
@@ -66,7 +66,7 @@
 {73}{008}{Yes.}
 
 
-{80}{}{Although, it doesn't really matter. [he smiles again] You'll help me on the hunt. If you're in, I'd recommend stocking some meds, ammo and get the biggest gun you can. }
+{80}{}{Alright, forget it. [he smiles again] You'll help me on the hunt. If you're in, I'd recommend stocking some meds, ammo and get the biggest gun you can. }
 {81}{999}{I'm ready, let's go.}
 {82}{011}{I changed my mind - I don't really like hunting...}
 {83}{999}{I need some time to prepare.}
@@ -133,7 +133,7 @@
 
 
 {190}{}{From what I know, fighters from the Olympus can give hell to anyone in Radius. You are definitely not one of them.}
-{191}{020}{Because I'm no soldier. I'm a worker.}
+{191}{020}{Because I'm no soldier. I'm a Servant.}
 
 
 {200}{}{[He nods] Once me and my partner stumbled onto someone from the Olympus. Already dead, wearing a strange uniform - something with the NCASTR logo. My man Fred took it. That's all experience I have about meeting people from the Olympus.}
@@ -192,7 +192,7 @@
 {321}{033}{[continue]}
 
 
-{330}{}{[Ursul explains in detail how to get to the Rainbow] The best place if you started to miss tight woman's ass, or just looking to have a fun time. }
+{330}{}{[Ursul explains in detail how to get to the Rainbow] The best place if you started to miss woman's tight ass, or just looking to have a fun time. }
 {331}{010}{Okay. I have some more questions.}
 {332}{999}{Okay. I've got to go now.}
 
