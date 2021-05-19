@@ -87,13 +87,13 @@
 {304}{999}{Right, I'll better go.}	
 {310}{}{After? I just wandered Radius, went to a tower, was thinking, maybe there's someone alive there. And I was always good at running, so I managed to run away from Chimeras - and they chased me down to this place. That's how I ended up here. Great story, huh? Practically everyone here - your fellows from Tartarus included - came here this way. I can't even imagine, how many of them were not fast enough...}	
 {311}{010}{A whole lot, I suppose. It's good I didn't try to go to Olympus. Can I ask something else?}	
-{400}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on the lower platform. He will brag about power, courage, and other stuff, but you'll get the point. Although, you can also talk to Bono. He has a plan too, a peaceful one - but as for me, a peaceful solution in Radius is total bullshit!}	
+{400}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, you can find him on the lower platform. He will brag about power, courage, and other stuff, but you'll get the point. Although, you can also talk to Bono. He has a plan too, a peaceful one - but as for me, a peaceful solution in Radius is total bullshit!}	
 {401}{999}{I get it. Bono and Hugo. I'll go talk to them.}	
 {402}{}{Now we're talking! Go see Hugo about it, he has a plan. Hugo is a ghoul, he can easily be found on the lower platform. He will tell you stories about power, courage, and other stuff, but you'll get the point.}	
 {403}{010}{Talk to Hugo... Okay, thanks. Can I ask something else?}	
 {500}{}{Help? Me? This ghoul with no balls really thinks I need help? HA! Hahaha! Ha. Well, Maybe my boys actually got a little tired. Man, we are so out of luck recently! Okay, my fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}	
 {501}{051}{Uhh... Where do I look for it?}	
-{502}{}{Aren't you a perceptive son of a bitch? Yes, we look like we had just returned from a trip. You know why? Because we had just returned from a trip! We are going into the damn Radius all the time, looking for supplies, materials, and all that. ANd, you know... We are so out of luck recently! Fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}
+{502}{}{Aren't you a perceptive son of a bitch? Yes, we look like we had just returned from a trip. You know why? Because we had just returned from a trip! We are venturing into the damn Radius all the time, looking for supplies, materials, and all that. And, you know... We are so out of luck recently! Fellas are exhausted, and we don't have enough food to eat and wood for the fire. Maybe you could help us with it, find some wood and food?}
 {503}{051}{I don't even know. Where would I look for it?}	
 {504}{999}{Are you out of your mind? I don't know anything here! No, I'll pass.}	
 {510}{}{Don't be a pussy, you won't have to go far! Did you see the ruins above us? So, not long ago, before moving out, we left some dried apples and wood there, to pick up on a way back. But I don't remember where exactly. And we are too tired to look. Also, there should be something in the nearby settlement to the north of ruins. We don't need much, maybe }
@@ -105,16 +105,16 @@
 {515}{999}{Traps, shmaps. I'll deal with them, no problem. Be right back.}	
 {516}{999}{I see, thanks for the warning. I'll keep an eye out.}	
 {600}{}{Show me what you got.}	
-{601}{061}{I'm still looking, actually. Can't wind wood for a fire. Are you sure you've seen it?}	
+{601}{061}{I'm still looking, actually. Can't find wood for a fire. Are you sure you've seen it?}
 {602}{062}{Here [drop the wood and dry apples to the floor]}	
 {603}{999}{I just wanted to say that soon I'll bring everything you need.}
 {604}{999}{I got some wood, will find some apples and return.}	
-{610}{}{Uh, let me check on my memory. Yeah, I'm sure! In ruins to the northwest from the entrance to the station.}	
+{610}{}{Uh, let me check on my memory. Yeah, I'm sure! In in the nearby settlement, to the northwest from ruins near the entrance to the station.}	
 {611}{999}{Okay, thanks, will look there.}	
 {612}{}{Of course! Do you think I would lie to you? Just search a little more.}	
 {613}{999}{Alright.}	
 {614}{999}{Damn, you could search a little more yourself. Fine, I'll be back soon.}	
-{620}{}{So helpful! Thanks! Now my boys can have a bite and a little warmth before we hit the road again... I see that I can count on you. And you probably deserve something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
+{620}{}{So helpful! Thanks! Now my boys can have a bite and get a little warmth before we hit the road again... I see that I can count on you. And you probably deserve something for your efforts, don't you think? [he digs through his pockets and pulls out a metal piece in the shape of a petal] Here! It's my personal throwing knife, so be careful with it. And don't throw it into stones, because he will bounce back right into your eye! He likes to do it, I'm serious, hahaha!}	
 {621}{063}{[take the reward] Uh, thanks. Seriously, thanks.}	
 {622}{064}{[give the reward back] No, I don't need that. I'm not good at throwing things anyway.}	
 {630}{}{"Thanks" will not save your life, unlike a sharp piece of metal. A word of advice - learn to handle something that kills your enemies. After that, you'll see to your full potential!}
