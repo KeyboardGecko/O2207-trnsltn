@@ -89,7 +89,7 @@
 {170}{}{Of course! I'd do everything so the town would thrive. I could even apply for the Mayor and continue the legacy of our family. I even want this, damn it! No man here has such vast experience of running this settlement as me. I can handle being the Mayor, even in these sad circumstances.}
 {171}{018}{Sad circumstances? What do you mean?}
 
-{180}{}{For now, my grandson Mark is in charge. He is a good Mayor and has done a lot for the town. But he is very sick and won't last long. Mark should name his successor. And there's no one around here who is good enough for succeeding him. For example, his son Daniel is completely incapable of being the Leader. He will ruin everything! And he is a good kid, but still very light-headed. So, until he's ready, I could lead the settlement. That's what I want.}
+{180}{}{For now, my grandson Mark is in charge. He is a good Mayor and has done a lot for the town. But he is very sick and won't last long. Mark should name his successor. And there's no one around here who is good enough for succeeding him. For example, his son Daniel is completely incapable of being the Leader. He will ruin everything! And he is a good kid, but still quite light-headed. So, until he's ready, I could lead the settlement. That's what I want.}
 {181}{022}{Tell me more about Daniel.}
 {182}{021}{What else can you say about your family?}
 {183}{010}{Okay, let me ask something else.}
@@ -102,13 +102,13 @@
 {200}{}{New World Order is the best place in the whole Radius. Its name reflects all the main principles we follow. Firstly, Order. We maintain peace here, ensured by our guards. Secondly, New. We are creating a new society, where anyone could feel protected and confident in his future. Thirdly, World. Our ideas and principles go far beyond us, there are more and more people in other places who support our worldview. It is possible for us to become a center of a New World, and that's what we are aiming for.}
 {201}{010}{I see. I want to ask something else.}
 
-{210}{}{Моя семья - это все, что у меня есть. Марк, мой внук, Люси, его жена, черт бы ее побрал, и Даниэль, мой правнук. Хотя, он не совсем мой правнук.}
-{211}{018}{Расскажи о Марке.}
-{212}{023}{Что ты расскажешь о Люси?}
-{213}{022}{Я хотел бы услышать о Даниэле.}
-{214}{010}{Я хотел о другом спросить.}
+{210}{}{My family means everything to me. There's Mark, my grandson, Lucy, his wife, damn her... And there's also Daniel, my, great-grandson... If you can call him that. Who you want to know about?}
+{211}{018}{Tell me about Mark.}
+{212}{023}{What can you say about Lucy?}
+{213}{022}{I'd like to hear about Daniel.}
+{214}{010}{I want to ask something else.}
 
-{220}{}{Daniel is a good kid, but he's very young. He needs to learn so much - but all he does is petty pranks all day long. I don't mind for him to become Mayor after Mark, but now he is not ready at all. And if he won't get his mind right - I won't let him become the Mayor. Even if I have to resort to extreme measures.}
+{220}{}{Daniel is a good kid, but he's very young. He needs to learn so much - but all he is busy with is doing petty pranks all day long. I don't mind him becoming Mayor after Mark, but as for now - he is not ready at all. And if he won't get his mind right, I won't let him become the Mayor. Even if I have to resort to extreme measures.}
 {221}{023}{Why do you think Daniel is not ready?}
 {222}{027}{Do you mean you are ready to kill Daniel?}
 {223}{010}{I see. Another question then.}
