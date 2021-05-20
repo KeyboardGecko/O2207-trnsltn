@@ -47,16 +47,16 @@
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (®«®¦¨â¥«ì­ ï à¥ ªæ¨ï)
 #
-{1000}{}{}
-{1001}{}{}
-{1002}{}{}
-{1003}{}{}
-{1004}{}{}
-{1005}{}{}
-{1006}{}{}
-{1007}{}{}
-{1008}{}{}
-{1009}{}{}
+{1000}{}{Oe foliga manaia.}
+{1001}{}{Ou te 'ai lou taliga!}
+{1002}{}{E mafai ona 'u'uina oe?}
+{1003}{}{E pei o le 'aiga o le afiafi.}
+{1004}{}{O se tagata i fafo? Lelei. Manaia.}
+{1005}{}{'Ou te' ai lou ate ma fiva pi ma le fagu chianti.}
+{1006}{}{Sau sau ma matou i le 'aiga o le afiafi!}
+{1007}{}{Fia ai. O le a 'a'ai oe.}
+{1008}{}{O le tino o le tagata e pei o le moa.}
+{1009}{}{An outsider. Good.}
 #
 #‹€‚€™ˆ… ‘™…ˆŸ (¥©âà «ì­ ï à¥ ªæ¨ï)
 #
