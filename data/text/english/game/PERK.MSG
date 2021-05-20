@@ -196,7 +196,7 @@
 {1168}{}{Weapon Flameboy}
 {1169}{}{Armor Advanced I}
 {1170}{}{Armor Advanced II}
-{1171}{}{You feel terrible. Even the tips of your hair hurt. You begin to wonder who you need to kill to get another dose of the "Drop".}
+{1171}{}{You feel terrible. Even the tips of your hair hurt. You begin to wonder who you need to kill to get another dose of the Drop.}
 {1172}{}{You feel a burning desire to open another box of Tragic cards.}
 {1173}{}{Armor Charisma}
 {1174}{}{You know how to collect everything useful from the carcasses of slaughtered animals.}

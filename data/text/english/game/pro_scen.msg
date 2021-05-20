@@ -1148,7 +1148,7 @@
 {59600}{}{a moonshine machine}
 {59601}{}{Designed for producing booze.}
 {59700}{}{a boiler pot}
-{59701}{}{A boiler for producing the "Drop"}
+{59701}{}{A boiler for producing the Drop.}
 {59800}{}{a wall}
 {59900}{}{a wall}
 {60000}{}{a wall}
