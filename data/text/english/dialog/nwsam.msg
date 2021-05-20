@@ -226,7 +226,7 @@
 {520}{}{And? What is it?}
 {521}{053}{Due to the large quantities of exported water and increased usage of their water filter, they resorted to another option of water processing - charcoal filters. That's where the taste comes from.}
 
-{530}{}{I see. So, the water is alright, no need to worry. We used the same kind of filtering before until our filters went out of order. Here. Thanks for solving this. [Sam gives you a bag of batteries]}
+{530}{}{I see. So, the water is alright, no need to worry. We used the same kind of filtering before until our filters got depleted. Here. Thanks for solving this. [Sam gives you a bag of batteries]}
 {531}{999}{Thanks, it will come in handy.}
 {532}{999}{Thanks, but no need. I'm glad to help.}
 {533}{999}{Thanks, but to take care of the town's prosperity is my duty as a Mayor. Put the money into other needs.}
@@ -242,7 +242,7 @@
 {561}{010}{I'm not interested in such a job for now. I have other questions.}
 {562}{057}{Okay, I'll look into it.}
 
-{570}{}{Good. Go to Livos, find out the reason. Tell me when you do. I can show you this place on your map. Also, I'll show you the Tin Industries factory's location. It's my present to you.}
+{570}{}{Good. Go to Livos, find out the reason. Tell me when you do. I can show you this place on your map. Also, I'll show you the Tin Industries factory's location. A little bonus.}
 {571}{999}{Thanks. Mark it on the map, please.}
 {572}{999}{I know where to go. I'll come to Livos and find out everything I can.}
 
