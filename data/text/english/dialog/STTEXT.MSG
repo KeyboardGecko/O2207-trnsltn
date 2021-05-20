@@ -317,7 +317,7 @@
 {341}{}{Inside the room is a real joint, with alcohol, blackjack, and whores. Drunken men tapping out a tune with their feet and fists, setting the dancers' rhythm.}
 {342}{}{The long corridor seems to end in darkness. You're willing to bet that it's been a long time since anyone has set foot here.}
 {343}{}{At the entrance to the cave, you see bored guards. Probably, they stand there because they are guarding that cave's entrance.}
-{344}{}{In a small passageway ahead, you see a couple of burly savages, waving at you.}
+{344}{}{In a small passageway ahead, you see a couple of burly savages waving at you.}
 {345}{}{Looks like the settlement is securely sheltered from every direction. You would feel quite at home - if it weren't for that sweet taste in the air...}
 {346}{}{In the pitch blackness of the cave, you can only hear. And you hear sounds that don't promise a pleasant walk.}
 {347}{}{Surprisingly, there is a huge mansion hidden between the rocks! Surely its former owner was very rich and not very hospitable.}
