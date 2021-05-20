@@ -67,11 +67,11 @@
 {124}{010}{Another question.}
 
 {130}{}{They died, every last one of them. From old age, illnesses, hands of bandits. I outlived them all. If only they were alive, my old fellas... We could do so much more! And now you can't even find someone suitable for a Leader of this place, let alone the people with a common goal.}
-{131}{018}{The current Leader is no good?}
+{131}{018}{The current Leader is no good? Is that what you're saying?}
 {132}{014}{Why didn't you continue the work of your team?}
 {133}{010}{Let me ask something else.}
 
-{140}{}{Now here you are wrong - all these years I keep helping the development of NWO. Of course, when I was Mayor, I had more... Capabilities. Now I mostly assist Mark, my grandson. Now he's the Mayor.}
+{140}{}{Now here you are wrong - all these years I keep helping the development of NWO. Of course, when I was Mayor, I had more... Capabilities. Now I mostly assist Mark, my grandson. He's the Mayor.}
 {141}{018}{Tell me about Mark.}
 {142}{015}{Why did you leave Mayor's position?}
 {143}{010}{I want to ask something else.}
@@ -108,7 +108,7 @@
 {213}{022}{I'd like to hear about Daniel.}
 {214}{010}{I want to ask something else.}
 
-{220}{}{Daniel is a good kid, but he's very young. He needs to learn so much - but all he is busy with is doing petty pranks all day long. I don't mind him becoming Mayor after Mark, but as for now - he is not ready at all. And if he won't get his mind right, I won't let him become the Mayor. Even if I have to resort to extreme measures.}
+{220}{}{Daniel is a good kid, but he's still young. He needs to learn so much - but all he is busy with is doing petty pranks all day long. I don't mind him becoming Mayor after Mark, but as for now - he is just not ready. And if he won't get his mind right, I won't let him become the Mayor. Even if I have to resort to extreme measures.}
 {221}{023}{Why do you think Daniel is not ready?}
 {222}{027}{Do you mean you are ready to kill Daniel?}
 {223}{010}{I see. Another question then.}
@@ -120,7 +120,7 @@
 {232}{025}{Sam, did you try to make peace with her?}
 {233}{010}{I want to ask something else.}
 
-{240}{}{No, I don't hate her. But I don't love her either. If Mark married her, then it's his problem. If she wouldn't interfere with raising Daniel, everything would have been alright. And also - she sleeps with everyone. And that is noticed by everybody, except Mark. We have huge fights with her lately... As you see, I'm not fond of her at all. But if she would come and try to make peace, I'd consider doing it. The family must live in peace, after all. }
+{240}{}{No, I don't hate her. But I don't love her either. If Mark married her, then it's his problem. If she wouldn't interfere with raising Daniel, everything would have been alright. And also - she sleeps with everyone. And that is noticed by everybody, except Mark. We have huge fights with her lately... As you see, I'm not fond of her at all, and I don't try to keep it a secret. But if she would come and try to make peace, I'd consider it. The family must live in peace, after all. }
 {241}{025}{Didn't you think about making the first step yourself?}
 {242}{010}{Yeah. I better ask something else.}
 
