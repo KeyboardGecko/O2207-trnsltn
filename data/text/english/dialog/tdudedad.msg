@@ -56,15 +56,15 @@
 {105}{}{Hello! Remember you asked me to find your wrench?}
 {1101}{}{Well... You can go play with your brother. Or bother your mom.}
 {1102}{}{Hmm... Maybe you want to help me?}
-{1103}{}{Yes, I lost one thing. Hey, have you seen a professional sleuth around here? [he winks at you]}
-{111}{}{Of course! What do I need to do? A sleuth-man is ready for a mission!}
+{1103}{}{Yes, I lost one thing. Hey, have you seen a professional detective around here? [he winks at you]}
+{111}{}{Of course! What do I need to do? A detective-man is ready for a mission!}
 {112}{}{Yeah, yeah, I know. [sigh and leave]}
 {113}{}{Uh. Right! I'm gonna go stab someone with a fork.}
 
 {120}{}{[dad kindly smiles] Alright, here's a top priority assignment for you: do you remember my wrench? A small one, with a wooden handle? I can't fix this sink without it, and I don't remember where I could've put it... Maybe mom has seen it? Oh, and where did mom go? It's always like that...}
-{121}{}{Nah. This mission is too hard, even for a sleuth-man. I'll come by later, okay?}
+{121}{}{Nah. This mission is too hard, even for a detective-man. I'll come by later, okay?}
 {122}{}{Mission is taken. Citizen, await for delivery of your belonging in the nearest future!}
-{123}{}{Why do you need the help of a sleuth-man for this? Just try to remember where you saw it last!}
+{123}{}{Why do you need the help of a detective-man for this? Just try to remember where you saw it last!}
 
 {130}{}{[dad wrinkles his forehead even more than usual] No, I can't remember. All I have on my mind is work.}
 {131}{}{You just need to restore the chain of events! Try to remember where you saw it, then what you were doing with it - and that's it! Come on, try!}
@@ -74,7 +74,7 @@
 {141}{}{I'm trying my best, but still to no avail. Maybe you remembered something else?}
 {142}{}{Yes! Here it is! [give dad his treasured wrench]}
 
-{150}{}{Oh wow, you are the real sleuth-man! Thanks, dude, you helped me out so much! What can I thank you with?... Oh yeah! I know that you are not a grown-up yet, and the violence is always a bad option, but - just in case - take this. [he hands you a knuckle] What if you have to defend yourself from the creatures of the outside?}
+{150}{}{Oh wow, you are the real detective-man! Thanks, dude, you helped me out so much! What can I thank you with?... Oh yeah! I know that you are not a grown-up yet, and the violence is always a bad option, but - just in case - take this. [he hands you a knuckle] What if you have to defend yourself from the creatures of the outside?}
 {151}{}{What a cool thing! Awesome! Thanks! }
 {152}{}{Wow! Nice! I'll go try it on someone.}
 {153}{}{Hope I'll never have to use it.}
@@ -90,7 +90,7 @@
 {1002}{}{Listen, now is not a good time. Go play with your brother.}
 {1003}{}{Go bother your mom, please.}
 {1004}{}{Don't distract me now, be so kind.}
-{1005}{}{Who is the sleuth-man, hmm?}
+{1005}{}{Who is the detective-man, hmm?}
 {1006}{}{Go bother your mom, please.}
 {1007}{}{Come on kid, don't distract me. Go to mom, bother her.}
 {1008}{}{I will definitely play with you, but I need to finish here..}
