@@ -33,7 +33,7 @@
 {32}{004}{, nice to meet you!}	
 {33}{999}{Yeah, NICE THU MEETH YA. Well, I've got to go, see you later.}	
 {40}{}{Yeah, yeah, I'm fery glad thoo. Yeeah... another pathienth - thath ith, of courthe, fery good. Yeeeeeah.}	
-{41}{005}{I'm not a patient, alright? It's only a couple of scratches.}`	
+{41}{005}{I'm not a patient, alright? It's only a couple of scratches.}
 {42}{999}{Yeah, sure. Bye.}	
 {50}{}{Noth a pathienth thuday, and thumorrow you are barely walking. Here itha common thing, don'tchu doubth it. Efery newcomer efenchually cometh thu me. Yeah, you will thee.}	
 {51}{010}{Anyway, can I ask something?}	
