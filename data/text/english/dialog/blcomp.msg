@@ -86,7 +86,7 @@
 {323}{999}{[LOG OFF]}
 
 #Node033
-{330}{}{It's all that gene! I started to call it the "zombie-gene", because it turns a clone into a real immortal zombie! We haven't fed him in 10 days and x-raying him all the time to track all the changes inside him, but he only becomes more active! I think we potentially created a Supersoldier! However, it seems that his brain is damaged, because he is behaving quite inadequately. Can it be because of the malnourishment? He  grabbed my wrist so hard that I still have bruises! We had to chain him to the bed, just in case, so now he is lying there and groaning. A pity, of course, but all in the name of science, right? That's a bottle of Champagne and my photo on the front page of the "Sacramento Science"!}
+{330}{}{It's all that gene! I started to call it the "zombie-gene", because it turns a clone into a real immortal zombie! We haven't fed him in 10 days and x-raying him all the time to track all the changes inside him, but he only becomes more active! I think we potentially created a Supersoldier! However, it seems that his brain is damaged, because he is behaving quite inadequately. Can it be because of the malnourishment? He grabbed my wrist so hard that I still have bruises! We had to chain him to the bed, just in case, so now he is lying there and groaning. A pity, of course, but all in the name of science, right? That's a bottle of Champagne and my photo on the front page of the "Sacramento Science"!}
 {331}{030}{[BACK]}
 {332}{020}{[Return to the main menu]}
 {333}{999}{[LOG OFF]}
