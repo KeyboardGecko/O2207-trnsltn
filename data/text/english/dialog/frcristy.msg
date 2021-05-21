@@ -23,7 +23,7 @@
 {10}{}{[Your gaze involuntarily moves from a pretty high-cheekboned face to a luxurious, despite the dust that's covering it, shock of red hair. A short jacket with cut-off sleeves and a grey shirt leave her sunken belly exposed. The ripped jeans nicely emphasize her slender legs.] Hey... You scared the shit out of Fred! But I somehow knew from the start, that you didn't come here for our heads.}
 {11}{011}{I've seen a lot of people pissing their pants when seeing me. But you are right, I just need answers to a couple of questions.}
 {12}{011}{I didn't think my arrival would make such a fuss. Can you answer a few questions?}
-{13}{016}{Everything alright here? Need any help?}
+{13}{016}{Everything alright here? Do you need any help?}
 {14}{999}{You have nothing to worry about. We'll talk later, okay?}
 
 
@@ -45,18 +45,18 @@
 {113}{999}{You know, let's talk later.}
 
 
-{120}{}{[Her face becomes clouded and she hugs her shoulders as if freezing in a gust of cold wind] Fred and his then-bastard-friends attacked our settlement. We haven't had many able men that could fight... That's when all sort of fun things like beheadings and disembowelings started to happen. I was brought over to the pens, together with other girls, where they kindly explained what explicit deeds they expected from us... Then suddenly something exploded, everyone started to panic. The next thing I see is Fred getting me out, pulling me along and getting away from there with him. And that's mostly it.}
+{120}{}{[Her face becomes clouded and she hugs her shoulders as if freezing in a gust of cold wind] Fred and his then-bastard-friends attacked our settlement. We haven't had many able men that could fight... That's when all sort of fun things like beheadings and disembowelings started to happen. Together with other girls, I was brought over to the pens, where they thoroughly explained what awaits us, in every explicit detail... Then suddenly something exploded, everyone started to panic. The next thing I see is Fred getting me out, pulling me along and getting away from there with him. And that's mostly it.}
 {121}{014}{So you're now, like, together forever?}
 {122}{011}{Wow. I have another question.}
 {123}{999}{That turned out very lucky for you, I think. Well, I won't bother you anymore.}
 
 
-{130}{}{[She smiles nonchalantly and shrugs] I don't even know. All I remember is a desolate wasteland beyond Radius. The entertainment you have is to make bets if you die from hunger or boredom. Every day the same, endless barren land before my eyes... before we decided to settle down in one place. That's where I understood that living in the wastes was not the worst thing that can happen to you.}
+{130}{}{[She smiles nonchalantly and shrugs] I don't even know. All I remember is a desolate wasteland beyond Radius. All the entertainment we had was betting whether we would die of hunger or boredom. Every day was the same, endless barren land before my eyes... before we decided to settle down in some place. That's where I understood that living in the wastes was not the worst thing that can happen to you.}
 {131}{012}{Yeah? What happened?}
 {132}{999}{Thank you for telling me this, Christie. See you around.}
 
 
-{140}{}{[She chuckles, rubbing her snubby nose] You wish! Of course I am grateful for him to save me, but, - not that he is a bad guy, actually he's very shy... apart from being very jumpy, naturally - soon he's gonna have even more problems with handling his tool, if you catch my drift. Still, it's easier to survive together, so I'm stuck with him... As long as I can stand him, at least.}
+{140}{}{[She chuckles, rubbing her snubby nose] You wish! Of course I am grateful to him for saving me, but... It's not like he is a bad guy... He is alright - apart from being very jumpy, of course. If he keeps going like this, he's gonna have real problems with handling his tool, if you catch my drift. Still... It's easier to survive together, so I'm stuck with him. As long as I can stand him, at least.}
 {141}{999}{Well, good luck with that. I'll go and look around.}
 
 
@@ -65,7 +65,7 @@
 {152}{999}{This wasn't easy, but I'm glad everything worked out.}
 
 
-{1601}{}{As you said... sitting around, waiting for Onca Devils to show up and rip you apart is kind of a questionable pleasure. But I am mostly fine, yea.}
+{1601}{}{As you said... sitting around, waiting for Onca Devils to show up and rip you apart is kind of a questionable pleasure. But I am mostly fine, yeah.}
 {161}{011}{Answer me a question then.}
 {162}{999}{Good. Let's talk later then.}
 {1602}{}{You already did a lot for me. Thanks to you I'll be able to sleep tonight.}
@@ -73,8 +73,8 @@
 {164}{999}{Good. Let's talk later then.}
 
 
-{170}{}{[As you are trying to leave, Christie stands in your way and grabs your hand] Wait a minute, tough guy, slow down. Do you even understand what you and this genius did just now? The mines were the only protection from Onca Devils, and - you know - there are lots of them, judging by the howling, especially after the sunset! Could you, at least help us make it through this night? [Fred wants to say something, looking delighted, but she doesn't let him] I don't even want to hear it! Maybe we will leave this place, but not now when these creatures can tear us to pieces on the first mile on out! It's good that some of us are able to actually think with their heads!}
-{171}{999}{Look, honey, it's not really my problem. Where have you been before, huh? Get out of the way, I've got to go.}
+{170}{}{[As you are trying to leave, Christie stands in your way and grabs your hand] Wait a minute, tough guy, slow down. Do you even understand what you and this genius did just now? The mines were the only protection from Onca Devils, and - you know - there are lots of them outside, judging by the howling, especially after the sunset! Could you, at least help us make it through this night? [Fred wants to say something, looking delighted, but she doesn't let him] I don't even want to hear it! Maybe we will leave this place, but not now when these creatures can tear us to pieces on the first mile on out! It's good that some of us are able to actually think with their heads!}
+{171}{999}{Look, honey, it's not really my problem. Where have you been before? Get out of the way, I've got to go.}
 {172}{999}{Sure, I'll help. It's been a while since I hunted these beasts...}
 {173}{999}{I would love to stay, but I really have to hurry. Sorry.}
 {174}{999}{Damn! Why didn't this buddy of yours say so earlier? Of course, I will help you.}

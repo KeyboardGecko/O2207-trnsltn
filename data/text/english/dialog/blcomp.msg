@@ -60,7 +60,7 @@
 {233}{999}{[LOG OFF]}
 
 #Node024
-{240}{}{As I have been informed, it has been over a month since the incident with Stepp's research team. Things have calmed down and we can continue to research the deviations in "Prometheus". As we found out, some clones have a special "zombie-gene", which activates in extreme conditions, for example heart failure, brain damage, basically everything leading to a clinical death. After the initial stage of the "rebirth", these - may I say - "Ghouls" are hardly different from normal human specimens, except for  the continuation of their decomposition. The results of Damon's research proved that the decomposition of brain cells occurs at a faster rate under the influence of radiation. Hunger can also be a crucial factor. Both of these lead to a second "rebirth" stage, after which the specimen is left with only its primal instincts. Our next goal is to develop a strain capable of replicating the "zombie-gene" in a normal human body.}
+{240}{}{As I have been informed, it has been over a month since the incident with Stepp's research team. Things have calmed down and we can continue to research the deviations in "Prometheus". As we found out, some clones have a special "zombie-gene", which activates in extreme conditions, such as heart failure, brain damage, basically everything leading to a clinical death. After the initial stage of the "rebirth", these "Ghouls" are hardly different from normal human specimens, except for  the continuation of their decomposition. The results of Damon's research proved that the decomposition of brain cells occurs at a faster rate under the influence of radiation. Hunger can also be a crucial factor. Both of these lead to a second "rebirth" stage, after which the specimen is left with only its primal instincts. Our next goal is to develop a strain capable of replicating the "zombie-gene" in a normal human body.}
 {241}{021}{[BACK]}
 {242}{020}{[Return to the main menu]}
 {243}{999}{[LOG OFF]}
@@ -80,13 +80,13 @@
 {313}{999}{[LOG OFF]}
 
 #Node032
-{320}{}{Bill, HE IS ALIVE! I mean, he kind of died first... We were already in the process of bagging him, but then Pete noticed that he was not showing signs of Algor Mortis, quite to the contrary his temperature was rising! The sight afterwards was not pretty of course: The poor guy started to twist and smash around in his bed, howling and whimpering, and foam formed at his mouth. Only after that he went silent and was breathing evenly. I won't go into details in my preliminary reports, we'll handle the formalities later. By the way, turns out the Brown's were not frightened for nothing, they really saw Zombies!}
+{320}{}{Bill, HE IS ALIVE! I mean, he kind of died first... We were already in the process of bagging him, but then Pete noticed that he was not showing signs of Algor Mortis, quite to the contrary - his temperature was rising! The sight afterwards was not pretty of course: The poor guy started to twist and smash around in his bed, howling and whimpering, with foam formed at his mouth. Only after that he went silent for a while - but still breathing. I won't go into details in my preliminary reports, we'll handle the formalities later. Turns out the Brown's were not frightened for nothing, they really saw a zombie!}
 {321}{030}{[BACK]}
 {322}{020}{[Return to the main menu]}
 {323}{999}{[LOG OFF]}
 
 #Node033
-{330}{}{It's all that gene! I started to call it the "zombie-gene", because it turns a clone into a real immortal zombie! We haven't fed him in 10 days and x-raying him all the time to track all the changes inside him, as he becomes more active! We potentially created a Supersoldier! However, it seems that his brain suffered from the malnourishment, and he began to behave inappropriately. He grabbed my wrist so hard that I still have bruises! We had to chain him to the bed - just in case. Now he is lying there and groaning. A pity, of course, but all in the name of science, right? That's a bottle of Champagne and my photo on the front page of the "Sacramento Science"!}
+{330}{}{It's all that gene! I started to call it the "zombie-gene", because it turns a clone into a real immortal zombie! We haven't fed him in 10 days and x-raying him all the time to track all the changes inside him, but he only becomes more active! I think we potentially created a Supersoldier! However, it seems that his brain is damaged, because he is behaving quite inadequately. Can it be because of the malnourishment? He  grabbed my wrist so hard that I still have bruises! We had to chain him to the bed, just in case, so now he is lying there and groaning. A pity, of course, but all in the name of science, right? That's a bottle of Champagne and my photo on the front page of the "Sacramento Science"!}
 {331}{030}{[BACK]}
 {332}{020}{[Return to the main menu]}
 {333}{999}{[LOG OFF]}
