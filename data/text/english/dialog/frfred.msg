@@ -60,7 +60,7 @@
 {141}{015}{Favor? What favor?}
 
 
-{150}{}{[He glances furtively at the girl and lowers his voice] Here's the thing... When we settled here, I laid some mines around the house. You know, against Jackals and such... plus, the Onca Devils often come around. So, uh... [He sniffles embarrassingly] when I was finishing placing the mines, I noticed some Oncas nearby and rushed into the house... to protect my Christie, of course! [Seems like the girl heard him after all. Giving Fred a far from affectionate look, she kicks an empty can in annoyance and walks into the farthest corner of the room. Fred sighs.] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Clear us a path through the field, there are only about five mines you would need to dig up.}
+{150}{}{[He glances at the girl and lowers his voice] Here's the thing... When we settled here, I laid some mines around the house. You know, against Jackals and such... plus, the Onca Devils often come around. So, uh... [He sniffles embarrassingly] when I was finishing placing the mines, I noticed some Oncas nearby and rushed into the house... to protect my Christie, of course! [Seems like the girl heard him. Giving him a cold look, she kicks an empty can and walks into the farthest corner of the room. Fred sighs.] The thing is, with all this running I forgot where exactly I planted the mines. That's where I need help. Clear us a path through the field, there are only about five mines you would need to dig up.}
 {151}{016}{That's it? Why don't you do it yourself then?}
 {152}{024}{It is easier for me to kill you off, asshole. And you can't hide from me, I'm not an Onca Devil...}
 {153}{999}{I need to think it over... We'll talk later.}
