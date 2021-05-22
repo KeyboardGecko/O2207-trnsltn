@@ -100,7 +100,7 @@
 {161}{999}{That's not your business, understood? I can handle him. That's it, I'm going.}
 
 
-{170}{}{[he kicks empty bottle under his feet] This chocolate piece of shit is sticking his nose everywhere... He always feels bad when someone else feels good! Well... Okay, I'll keep quiet for now. The Hog is no joke - if he won't go to me himself, he will still send Mate. And Mate can easily cut my balls off...}
+{170}{}{[he kicks an empty bottle] This chocolate piece of shit is sticking his nose everywhere... He always feels bad when someone else feels good! Well... Okay, I'll keep quiet for now. The Hog is no joke - if he won't go to me himself, he will still send Mate. And Mate can easily cut my balls off...}
 {171}{999}{You get it. I'm glad we've come to an agreement. Good day to you.}
 
 
