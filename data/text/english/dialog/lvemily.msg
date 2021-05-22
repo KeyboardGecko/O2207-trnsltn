@@ -69,7 +69,7 @@
 {1001}{}{On what questions of yours should I shed the light of my wisdom?}
 {1002}{}{What made you ask for my cleverness again?}
 {1003}{}{What do you want here? Get out, you mindless worm!}
-{101}{012}{Ludwig had lost his book of wave science. Was it you who took it?}
+{101}{012}{Ludwig had lost his book on wave science. Was it you who took it?}
 {102}{011}{I wanted to learn of your plans about Seth and Matt from NWO.}
 {103}{013}{Emily, our last conversation went not very smoothly. I would like to fix this.}
 {104}{017}{What can you tell me about Livos?}

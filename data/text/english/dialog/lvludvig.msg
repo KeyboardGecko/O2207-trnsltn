@@ -81,7 +81,7 @@
 {101}{017}{Tell me about the Livos vault.}
 {102}{018}{I want to know about the Livos inhabitants.}
 {103}{022}{What do you do here?}
-{104}{028}{About your book of wave science...}
+{104}{028}{About your book on wave science...}
 {105}{Barter}{Show me what guns do you have.}
 {106}{036}{I have some news from the Olympus...}
 {107}{999}{0}
@@ -157,8 +157,8 @@
 {231}{010}{Great. I'll gather the data and get back. The most difficult part of the report would be "problems and nuances after ten years of usage". Let's talk about something else.}
 
 
-{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! No good! Someone of these morons stole my book of wave science! They won't even understand a thing from it! Idiots! How do I continue my work?!}
-{2402}{}{With the book of wave science, my study of plasma energy processes is going quite well! Thanks for bringing it back.}
+{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! No good! Someone of these morons stole my book on wave science! They won't even understand a thing from it! Idiots! How do I continue my work?!}
+{2402}{}{With the book on wave science, my study of plasma energy processes is going quite well! Thanks for bringing it back.}
 {241}{026}{I could look for the book. I'll ask around and find out who could do it.}
 {242}{025}{Who could do such a thing?}
 {243}{010}{Let's talk about something else.}

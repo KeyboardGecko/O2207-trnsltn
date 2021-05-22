@@ -58,7 +58,7 @@
 {1001}{}{Boss, you are not being followed, are you? There was some shadow over there.}
 {1002}{}{Ask, but remember - we could be watched and listened to.}
 {1003}{}{Hey. Careful, there's someone eavesdropping around the corner.}
-{101}{011}{I'm looking for Ludwig's book of wave science. Was it you who took it?}
+{101}{011}{I'm looking for Ludwig's book on wave science. Was it you who took it?}
 {102}{017}{I want to talk about Boston McKinsey.}
 {103}{022}{What's the problem with you and Boston McKinsey?}
 {104}{025}{Tell me about inhabitants of Livos.}

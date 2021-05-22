@@ -70,7 +70,7 @@
 {1001}{}{Come in, chief. Did something break again?}
 {1002}{}{Yes, I can answer your questions.}
 {1003}{}{Oh, you again. You didn't break anything, did you.}
-{101}{015}{Ludwig lost his book of wave science. Did you see it?}
+{101}{015}{Ludwig lost his book on wave science. Did you see it?}
 {102}{016}{I want to talk about Seth and Matt from NWO. Do you want to make an alliance with them?}
 {103}{017}{You said that you are the most important man in Livos. Tell me more about it.}
 {104}{019}{What is it that you do here?}

@@ -31,7 +31,7 @@
 {1001}{}{Hey boss! Came to have a chat again?}
 {1002}{}{Hey! Did you come to chat again?}
 {1003}{}{Sure, I'll try to answer.}
-{101}{011}{I'm looking for Ludwig's book of wave science. Do you know where it might be?}
+{101}{011}{I'm looking for Ludwig's book on wave science. Do you know where it might be?}
 {102}{013}{Is there anything to do here?}
 {103}{014}{Can you tell me about this place and its inhabitants?}
 {104}{023}{What do you do here?}

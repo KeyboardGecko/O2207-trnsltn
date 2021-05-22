@@ -40,7 +40,7 @@
 {1001}{}{What can auntie Abilene do for you, patron?}
 {1002}{}{[She has a disgusted look] Ask your question and stop distracting me with your petty things.}
 {1003}{}{Again? What are you sniffing around this time?}
-{101}{011}{Ludwig lost his book of wave science. Did you see it?}
+{101}{011}{Ludwig lost his book on wave science. Did you see it?}
 {102}{012}{What do you do here?}
 {103}{022}{What can you tell me about Livos?}
 {104}{025}{Got any job for me?}

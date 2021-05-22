@@ -53,7 +53,7 @@
 {101}{024}{I want to know more about this place.}
 {102}{013}{Do you know what I can do around here?}
 {103}{014}{What are you busy with here?}
-{104}{011}{Did you see Ludwig's book of wave science?}
+{104}{011}{Did you see Ludwig's book on wave science?}
 {105}{029}{I want to talk about Claudia.}
 {106}{041}{I've talked to Seth and Matt from NWO. They want to know with whom from Livos to forge an alliance.}
 {107}{999}{Let's talk later, I need to go.}

@@ -49,7 +49,7 @@
 {1001}{}{Hello, leader. Do you want to talk again? }
 {1002}{}{Yeah, of course, I'll try to answer your questions...}
 {1003}{}{Yes? Oh, hello. You are, probably, have some questions again. And I, maybe, can, uh, answer them.}
-{101}{011}{Ludwig Schwein had lost his book of wave science. Did you take it?}
+{101}{011}{Ludwig Schwein had lost his book on wave science. Did you take it?}
 {102}{012}{What do you do in Livos?}
 {103}{019}{Tell me about your family.}
 {104}{020}{I want to talk about your wife, Emily.}

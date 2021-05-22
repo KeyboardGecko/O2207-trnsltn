@@ -55,7 +55,7 @@
 {502}{}{The Dunton family asked you to kill all the creatures in the cave under the filtration room.}
 {503}{}{Christopher Schwein is in love with Mignon Horton and asks you to help woo the girl.}
 {504}{}{Dallas McKinsey is in love with Mignon Horton and asks you to help woo the girl.}
-{505}{}{Ludwig Schwein says that someone has stolen his book of Wave Science. Help him to get the valuable book back.}
+{505}{}{Ludwig Schwein says that someone has stolen his book on Wave Science. Help him to get the valuable book back.}
 {506}{}{Sope Dunton can no longer stand the tyranny of his wife Emily and asks you to "take her out".}
 {507}{}{Claudia Horton is pestering Boston about her husband's death. You need to find a way to calm Claudia down.}
 {508}{}{Edward Schwein has accidentally given the Livos Constitution to some huge savage. He asks you to return it.}

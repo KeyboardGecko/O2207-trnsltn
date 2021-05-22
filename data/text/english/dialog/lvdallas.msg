@@ -27,7 +27,7 @@
 {1001}{}{Hey, patron. Want to talk business?}
 {1002}{}{Sure, ask your questions, go ahead.}
 {1003}{}{Hey. Want to talk business?}
-{101}{011}{I'm looking for Ludwig's book of wave science. Did you see it?}
+{101}{011}{I'm looking for Ludwig's book on wave science. Did you see it?}
 {102}{020}{Heard any rumors?}
 {103}{013}{Tell me about this place. What's in here?}
 {104}{014}{I want to know about the inhabitants of this place.}

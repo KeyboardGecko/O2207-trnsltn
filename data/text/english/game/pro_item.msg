@@ -646,8 +646,8 @@
 {32301}{}{A bottle of the purest water.}
 {32400}{}{*Romantic Collection*}
 {32401}{}{A CD with calm melodic romantic music.}
-{32500}{}{*A book of wave science*}
-{32501}{}{A serious educational book on wave science.}
+{32500}{}{*A Book on Wave Science*}
+{32501}{}{A serious educational book on various wave science topics.}
 {32600}{}{*Card Deck*}
 {32601}{}{A deck of playing cards, 36 pieces. Coated in plastic.}
 {32700}{}{*Glowing Ant Abdomen*}
