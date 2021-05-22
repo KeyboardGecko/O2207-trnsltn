@@ -29,7 +29,7 @@
 {21}{010}{Wait a second, Abilene. Can you answer a few questions?}
 {22}{999}{Glad to meet you. And I'll go do just that.}
 
-{30}{}{[The woman makes a disgusted face] Everyone comes here, poking their noses at stuff... Just looking around? Well, nothing to look at here. I'm Abilene McKinsey, it's only me and my belongings in here. Go look around somewhere else.}
+{30}{}{[The woman makes a disgusted face] Everyone comes here, poking their noses... Just looking around? Well, nothing to look at here. I'm Abilene McKinsey, it's only me and my belongings in here. Go look around somewhere else.}
 {31}{010}{Wait a second, Abilene. Can you answer a few questions?}
 {32}{999}{You are right, I'll go into other places.}
 
@@ -40,7 +40,7 @@
 {1001}{}{What can auntie Abilene do for you, patron?}
 {1002}{}{[She has a disgusted look] Ask your question and stop distracting me with your petty things.}
 {1003}{}{Again? What are you sniffing around this time?}
-{101}{011}{Ludwig lost his book on wave science. Did you see it?}
+{101}{011}{Ludwig lost his book of wave science. Did you see it?}
 {102}{012}{What do you do here?}
 {103}{022}{What can you tell me about Livos?}
 {104}{025}{Got any job for me?}
@@ -88,7 +88,7 @@
 {202}{017}{I'm not going to learn anything.}
 
 {210}{}{Okay, according to paragraph 14 of our Constitution, "Every inhabitant of the New World has the right not to be entitled to the rights described in this Constitution". So if you don't want to have the right to call yourself an inhabitant of New World, then it's your right.}
-{211}{019}{Yes, I'm using my right not beeing entitled to my rights.}
+{211}{019}{Yes, I'm using my right not to be entitled to my rights.}
 {212}{018}{I just don't really care what is written in this Constitution of yours.}
 
 {220}{}{Livos is our home, and now yours too. The vault was built a very long time ago, we all live here almost without any conflicts. Why would we, the McKinseys, quarrel with other families? We are the most important here, after all! And we are very kind, so we let the other families live with us here and do their little useless jobs.}
@@ -96,7 +96,7 @@
 {222}{024}{What can you say about the other families in Livos?}
 {223}{010}{I want to ask something else.}
 
-{230}{}{[Abilene cheers up] The McKinseys are the most powerful family in Livos! My husband Boston gives speeches at meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I know how it is - to love thy own brother. But he is categorically against them having a relationship. What choice does Fox have, if the best man in the whole of Livos is her own brother? Boston doesn't understand that.}
+{230}{}{[Abilene cheers up] The McKinseys are the most powerful family in Livos! My husband Boston gives speeches at meetings, my lovely son Dallas trades water. He is such a wonderful boy! If someone tries to harm him, I'm gonna choke them with my bare hands! He is the best! Even my daughter Fox is into him. And I don't really mind, I understand her really well... But Boston is categorically against them having a relationship. What choice does Fox have, if the best man in the whole of Livos is her own brother? My husband just doesn't get it.}
 {231}{024}{Tell me about the other families.}
 {232}{010}{Let me ask about something else.}
 
