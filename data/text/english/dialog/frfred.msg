@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[A skinny man, pale as a ghost and wearing a riveted jacket with lots of patches, is in a heated argument with a tall, red-haired girl. Upon seeing you he quickly pulls out his pistol, almost shooting himself in the leg in the process. Going even more pale, he still manages to points the gun at you with two shacky hands. You notice the blurry letters "FRED" tattoed on the knuckles on both of them.] Stay where you are! What the hell do you want here? How did you find this place?!}
+{10}{}{[A skinny man, pale as a ghost and wearing a riveted jacket with lots of patches, is in a heated argument with a tall, red-haired girl. Upon seeing you he quickly pulls out his pistol, almost shooting himself in the leg in the process. Going even more pale, he still manages to points the gun at you with two shacky hands. You notice the blurry letters "FRED" tattoed on the knuckles on both hands.] Stay where you are! What the hell do you want here? How did you find this place?!}
 {11}{011}{Listen you clown, If you keep waving the piece like that, I'll shove it up your ass. I only need some information, but I can change my mind anytime.}
 {12}{011}{Hey, easy, alright? I just want to ask a couple of questions, that's all.}
 {13}{999}{Whoa! I'm going to slowly back up until you pull yourself together. Don't scare the girl...}
