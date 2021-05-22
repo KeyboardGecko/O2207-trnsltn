@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a skinny man, pale as a ghost wearing a riveted jacket with lots of patches, in a heated argument with a tall, red-haired girl. Upon seeing you he nervously rushes to pull out his pistol, almost pulling the trigger in the process and barely avoiding shooting himself in the leg. The near accident turns him even more pale, but he still manages to point the gun in your direction with both of his shacking hands. You notice the blurry letters "FRED" tattoed on the knuckles on both hands.] Stay where you are! What the hell do you want here? How did you find this place?!}
+{10}{}{[A skinny man, pale as a ghost and wearing a riveted jacket with lots of patches, is in a heated argument with a tall, red-haired girl. Upon seeing you he quickly pulls out his pistol, almost shooting himself in the leg in the process. Going even more pale, he still manages to points the gun at you with two shacky hands. You notice the blurry letters "FRED" tattoed on the knuckles on both of them.] Stay where you are! What the hell do you want here? How did you find this place?!}
 {11}{011}{Listen you clown, If you keep waving the piece like that, I'll shove it up your ass. I only need some information, but I can change my mind anytime.}
 {12}{011}{Hey, easy, alright? I just want to ask a couple of questions, that's all.}
 {13}{999}{Whoa! I'm going to slowly back up until you pull yourself together. Don't scare the girl...}
@@ -44,14 +44,14 @@
 {114}{999}{Nothing for now, just looking around a bit.}
 
 
-{120}{}{[He looks pitiful at the girl, but she refuses to look him in the eyes] Okay, ask. It's not like you're going anywhere. As if the Jackals were not enough to deal with...}
+{120}{}{Okay, ask. It's not like you're going anywhere. As if the Jackals were not enough to deal with...}
 {121}{013}{You've found a robe with the NCASTR logo some time ago. Do you still have it?}
 {122}{021}{How did you two ended up here?}
 {123}{020}{Why are you so worried about Jackals?}
 {124}{999}{Later, I need to have a look around.}
 
 
-{130}{}{[He looks slighty suprised] A robe? Yeah, I have it. Took it from a corpse. The body was completely rotten and partially eaten by molerats, but strangely enough, the robe wasn't affected in the slightest. Why do you ask?}
+{130}{}{A robe? Yeah, I have it. Took it from a corpse. The body was completely rotten and partially eaten by molerats, but strangely enough, the robe wasn't affected in the slightest. Why do you ask?}
 {131}{014}{I'm sure I need this robe more than you do.}
 {132}{012}{We'll talk about this later. I have other questions.}
 {133}{999}{You'll find out soon enough. I'll be back.}
