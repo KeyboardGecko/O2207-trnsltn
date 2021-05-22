@@ -73,7 +73,7 @@
 {164}{999}{I see... I'll figure something out and we'll talk again.}
 
 
-{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Ah man, screw it! I'll do it myself! [He grabs some tool from the table and hastily leaves. You and Christie eagerly listen, expecting the sound of an explosion, but a short while later, you see an even more pale and trembling Fred burst into the room again. Despite that, he has a small unnatural looking smile on his face.]}
+{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Aw man, screw it! I'll do it myself! [He grabs some tool from the table and hastily leaves. You and Christie eagerly listen, expecting the sound of an explosion, but a short while later, you see an even more pale and trembling Fred burst into the room again. Despite that, he has a small unnatural looking smile on his face.]}
 {171}{018}{So, how did it go?}
 
 
