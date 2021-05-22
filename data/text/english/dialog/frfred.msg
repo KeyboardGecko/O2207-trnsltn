@@ -26,7 +26,7 @@
 {13}{999}{Whoa! I'm going to slowly back up until you pull yourself together. Don't scare the girl...}
 
 
-{1001}{}{[He starts to shiver, but almost immediately supresses it and looks at you menacing. Then he glances at the girl, checking if she saw his fear] It would be better for everyone if you'll just go away now, fast. Do I need to repeat that?}
+{1001}{}{[He starts to shiver, but supresses it quickly and tries to look menacing while glancing at the girl.] It would be better for everyone if you'll just go away now, fast. Do I need to repeat that?}
 {101}{012}{I leave when I want to. Better answer me some questions.}
 {102}{019}{I'm done with the mines.}
 {103}{016}{Are we good about the robe deal? Or have you decided to take on the mines yourself?}
@@ -37,7 +37,7 @@
 {107}{999}{Don't worry, I'll leave you soon. I just need to finish one thing.}
 
 
-{110}{}{[He slowly puts the gun down and cringes, as if waiting for a blow. You notice a displeased look from the girl as she sees that] Chimera shit... I thought it's the Jackals. Still, just because you're not one of them, doesn't mean you are welcomed here! Got it? What do you want from us, anyhow?}
+{110}{}{[He slowly puts the gun down and cringes, as if waiting for a blow. The girl makes a face as she sees that.] Chimera shit... I thought it's the Jackals. Still, just because you're not one of them, doesn't mean you are welcomed here! Got it? What do you want from us, anyhow?}
 {111}{013}{You've found a robe with the NCASTR logo some time ago. Do you still have it?}
 {112}{021}{How did you two end up here?}
 {113}{020}{Why are you so worried about Jackals?}
@@ -73,7 +73,7 @@
 {164}{999}{I see... I'll figure something out and we'll talk again.}
 
 
-{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Oh man, really, screw it, I'll do everything myself! [he grabs some tool from the table and hastily leaves. You and Christie eagerly listen, expecting the sound of an explosion, but instead, after some time, you see Fred bursting into the room. He's even more pale and trembling than before. Despite that, he has a smile on his face - although, a little unnatural]}
+{170}{}{This, uh... Fuck me, maybe you are right. Of course, I can do it... But... Ah man, screw it! I'll do it myself! [He grabs some tool from the table and hastily leaves. You and Christie eagerly listen, expecting the sound of an explosion, but a short while later, you see an even more pale and trembling Fred burst into the room again. Despite that, he has a small unnatural looking smile on his face.]}
 {171}{018}{So, how did it go?}
 
 
