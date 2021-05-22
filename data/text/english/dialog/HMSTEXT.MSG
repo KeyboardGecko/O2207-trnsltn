@@ -15,7 +15,7 @@
 {16}{}{Sorry, but you are missing something. We remind you that the System is not to blame for your problems!}
 {17}{}{You did it! We hope that the resulting design will be useful to you!}
 {18}{}{Unbelievable! You did it! The result is definitely worth the raw materials spent on it!}
-{19}{}{It's a pleasure to be such a skilled craftsman! Enjoy the result of your labors!}
+{19}{}{It's a pleasure serving such a skilled craftsman! Enjoy the result of your labors!}
 #
 {50}{}{..CURRENT..}
 {51}{}{..REQUIRED..}
@@ -68,16 +68,16 @@
 {130}{}{HMS UPDATED! You now know how to make a Pump Filter!}
 {131}{}{HMS UPDATED! You now know how to make a Moonshine Filter.}
 {132}{}{HMS UPDATED! You now know how to make a Fake Military Armor}
-{133}{}{HMS UPDATED! You now know how to make an Electric Trap.}
-{134}{}{HMS UPDATED! You now know how to make an Explosive Trap.}
+{133}{}{HMS UPDATED! You now know how to make Electric Traps.}
+{134}{}{HMS UPDATED! You now know how to make Explosive Traps.}
 {135}{}{HMS UPDATED! You now know how to make a Serrated Cleaver.}
 {136}{}{HMS UPDATED! You now know how to make a Rusty Cuirass.}
 {137}{}{HMS UPDATED! You now know how to make a Self-made Rocket Launcher.}
-{138}{}{HMS UPDATED! You now know how to make a Self-made Grenade.}
+{138}{}{HMS UPDATED! You now know how to make Self-made Grenades.}
 {139}{}{HMS UPDATED! You now know how to make Energy Drinks.}
 {140}{}{HMS UPDATED! You now know how to make Fertilizer.}
 {141}{}{HMS UPDATED! You now know how to make a Jackal Revolver.}
-{142}{}{HMS UPDATED! You now know how to make a Sugar-coated Lavash Jerky.}
+{142}{}{HMS UPDATED! You now know how to make Sugar-coated Lavash Jerky.}
 #
 #REPAIR WORKBENCHES
 #
