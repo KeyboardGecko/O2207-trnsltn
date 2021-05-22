@@ -60,7 +60,7 @@
 #######################
 {210}{}{The monsters seem to have weaknesses. I'll write them down here.}
 {211}{}{Bullets and Knives don't work well with Chimeras - but they are afraid of fire.}
-{212}{}{The thick hide of Ursa is not susceptible to fire, but can be easily penetrated with bullets!}
+{212}{}{The thick hide of Ursas is not susceptible to fire, but can be easily penetrated with bullets!}
 {213}{}{Ants and Scorpions easily shrug off flames and bullets, but they have clearly not adapted to explosives.}
 {214}{}{Jackals can be killed with an explosion or bullets, but fire is useless against them.}
 {215}{}{Bullets just bounce off the skins of Onca Devils! Your best chance against them is using explosives or energy weapons!}
