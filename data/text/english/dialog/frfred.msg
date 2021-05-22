@@ -99,7 +99,7 @@
 {213}{999}{We'll continue the conversation later if you don't mind.}
 
 
-{220}{}{[He takes on a dreamy look, picking his teeth with a finger] I guess... I didn't even know there could be someone like her. Fuck! The rat fur stuck in my teeth again... What I mean is - this is not how I imagined the things to turn out. If someone told me beforehand that I would have such big problems with the Jackals because of this, I don't know if I would have taken her away... [He ponders, looking at Christie] But maybe it's worth it?}
+{220}{}{[He takes on a dreamy look, picking his teeth with a finger] I guess... I didn't even know there could be someone like her... Fuck! The rat fur stuck in my teeth again... What I mean is - this is not how I imagined the things to turn out. If someone told me beforehand that I would have such big problems with the Jackals because of this, I don't know if I would have taken her away... [He ponders, looking at Christie] But maybe it's worth it?}
 {221}{023}{Who the hell needs you, hero? Do you think that the Jackals have nothing better to do than chasing runaways? Did you see even one of them since you ran off?}
 {222}{012}{That's up to you. Tell me something else...}
 {223}{999}{Okay, I need to go. Thanks for the information.}
