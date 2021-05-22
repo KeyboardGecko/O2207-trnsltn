@@ -37,8 +37,8 @@
 {1003}{}{[he looks nervous] So, how are my chicks? I'm getting all shaky already - too long without a good fuck!}
 {106}{019}{All set. What's left is for you to meet them and talk details.}
 {107}{999}{Wait for a little more, I'll let you know when it's ready.}
-{1004}{}{Chief! During my time on duty, no incidents had occurred! Fuck me ghoul if someone gets past me! I swear with all my chicks that it won't happen!}
-{108}{013}{You're too lively, I see. I can give you problems. Why are you bothering Shepherd?}
+{1004}{}{Chief! During my time on duty, no incidents have occurred! Let me be fucked by a Ghoul if someone gets past me! I swear on all my chicks that it won't happen!}
+{108}{013}{You're too lively, I see. I can trouble for you. Why are you bothering Shepherd?}
 {109}{013}{I had a talk with Shepherd. Can you guess about what?}
 {1010}{023}{How's it going, soldier?}
 {1011}{999}{Good job. You know what to do. Okay, later.}
