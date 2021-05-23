@@ -201,7 +201,7 @@
 {10100}{}{plants}
 {10101}{}{Rocks among some bushes.}
 {10200}{}{a shrub}
-{10201}{}{A dried outтравянистое растение.}
+{10201}{}{A dried plant.}
 {10300}{}{a shrub}
 {10301}{}{Some sort of desert weed.}
 {10400}{}{a shrub}
@@ -225,7 +225,7 @@
 {11300}{}{a bush}
 {11301}{}{A small, completely dry bush.}
 {11400}{}{a bush}
-{11401}{}{Типичный представитель Herba Vulgaris.}
+{11401}{}{A typical representative of Herba Vulgaris.}
 {11500}{}{a bush}
 {11501}{}{A typical representative of Herba Vulgaris.}
 {11600}{}{a bush}
