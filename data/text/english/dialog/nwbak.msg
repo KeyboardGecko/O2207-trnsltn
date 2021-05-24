@@ -138,8 +138,8 @@
 {182}{010}{Sounds like quite a grim future. I'd like to ask another question.}
 
 #Node019
-{195}{}{[Burns's smile covers most of his face] What can I say! I'm the head of security, always ready to kick ass for a crime or just because, hahaha!! People call me Burns, it's my moniker. I will tear off the balls of anyone who dares to threaten Mayor, and I'm ready to die covering his ass!}
-{190}{}{[Burns's smile covers most of his face] What can I say! Despite being the head of security, I'm always ready to kick ass for a crime or just because, hahaha!! If you didn't hear, people call me Burns. It's my moniker. I will tear off the balls of anyone who dares to threaten you, and I'm ready to die covering your ass!}
+{195}{}{[Burns's smile covers most of his face] What can I say! I'm the head of security, always ready to kick ass for a crime or just because, hahaha!! People call me Burns, it's my moniker. I will tear off the balls of anyone who dares to threaten Mayor, and I'm ready to die protecting his ass!}
+{190}{}{[Burns's smile covers most of his face] What can I say! Despite being the head of security, I'm always ready to kick ass for a crime or just because, hahaha!! If you didn't hear, people call me Burns. It's my moniker. I will tear off the balls of anyone who dares to threaten you, and I'm ready to die protecting your ass!}
 {191}{020}{Are you really willing to do anything for Mayor?}
 {192}{021}{How did you get your moniker?}
 {193}{023}{How did you become the head of security?}

@@ -57,7 +57,7 @@
 {62}{003}{How long are you here?}
 {63}{007}{Tell me about NWO.}
 {64}{060}{Juan, what do you think about the upcoming changes in leadership here?}
-{65}{028}{Was nice to talk to you. Until later.}
+{65}{028}{Was nice talking to you. See you later.}
 
 #Node007
 {70}{}{New World Order is our home. Those who live here know how to value the relationships between people, friendship, loyalty. Together we are a tight-knit commune under strong leadership. I'm sure you're going to like it here.}
