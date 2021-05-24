@@ -54,7 +54,7 @@
 {2701}{}{A hardened old tire, not worth digging up.}
 {2800}{}{rocks}
 {2801}{}{A pile of round stones.}
-{2900}{}{a junk}
+{2900}{}{junk}
 {2901}{}{It used to be a large important part of a machine, now it's just useless junk.}
 {3000}{}{a monitor}
 {3001}{}{A large wall-mounted monitor.}
@@ -82,13 +82,13 @@
 {4101}{}{A chair with armrests. It looks comfortable.}
 {4200}{}{a chair}
 {4201}{}{A chair with armrests. It looks comfortable.}
-{4300}{}{a junk}
+{4300}{}{junk}
 {4301}{}{Completely useless junk.}
-{4400}{}{a junk}
+{4400}{}{junk}
 {4401}{}{Nothing worth finding here.}
-{4500}{}{a junk}
+{4500}{}{junk}
 {4501}{}{Some metal fragments and old crates. It's scarcely usable.}
-{4600}{}{a junk}
+{4600}{}{junk}
 {4601}{}{Nothing worth finding here.}
 {4700}{}{a chair}
 {4701}{}{Better not to use it for its intended purpose, it looks like it's going to fall apart.}
@@ -490,7 +490,7 @@
 {25301}{}{A sturdy metal crate.}
 {25400}{}{a crate}
 {25401}{}{A metal crate. Label reads "Livos".}
-{25500}{}{a junk}
+{25500}{}{junk}
 {25501}{}{There's nothing useful there.}
 {25600}{}{rocks}
 {25601}{}{Some small rocks.}
@@ -526,15 +526,15 @@
 {27101}{}{Not usable for its intended purpose anymore, it's just useless garbage now.}
 {27200}{}{an old mattress}
 {27201}{}{Maybe if you were wearing a fully hermetic sealed metal armor suit, you wouldn't catch something while lying on it.}
-{27300}{}{a junk}
+{27300}{}{junk}
 {27301}{}{A pile of rotten old wood. It's not worth carrying around.}
-{27400}{}{a junk}
+{27400}{}{junk}
 {27401}{}{A pile of rotten wood.}
-{27500}{}{a junk}
+{27500}{}{junk}
 {27501}{}{This junk is hardly useful.}
-{27600}{}{a junk}
+{27600}{}{junk}
 {27601}{}{This junk is hardly useful.}
-{27700}{}{a junk}
+{27700}{}{junk}
 {27701}{}{Some junk that you think might have been a bed mattress before it was destroyed by the environment.}
 {27800}{}{rocks}
 {27900}{}{rocks}
@@ -585,7 +585,7 @@
 {30201}{}{A wooden table. It is put down to rest.}
 {30300}{}{a table}
 {30301}{}{A wooden table with a plastic surface. It has been broken for a while.}
-{30400}{}{a junk}
+{30400}{}{junk}
 {30401}{}{Completely useless junk.}
 {30500}{}{a table}
 {30501}{}{An old broken table.}
@@ -597,17 +597,17 @@
 {30801}{}{a dirt}
 {30900}{}{a toilet}
 {30901}{}{Whoever used it last didn't flush it away!}
-{31000}{}{a junk}
+{31000}{}{junk}
 {31001}{}{Pieces of wood, boxes, and other debris.}
-{31100}{}{a junk}
+{31100}{}{junk}
 {31101}{}{Even if you look at it more closely, you will not find anything of value.}
-{31200}{}{a junk}
+{31200}{}{junk}
 {31201}{}{Some Bottles. Don't get your hopes up, they're all empty and broken.}
-{31300}{}{a junk}
+{31300}{}{junk}
 {31301}{}{Some Bottles. Don't get your hopes up, they're all empty and broken.}
-{31400}{}{a junk}
+{31400}{}{junk}
 {31401}{}{Something that has clearly served its purpose.}
-{31500}{}{a junk}
+{31500}{}{junk}
 {31501}{}{Some Bottles. Don't get your hopes up, they're all empty and broken.}
 {31600}{}{a tree}
 {31601}{}{A dead but still strong tree. Every beaver's dream.}
@@ -803,9 +803,9 @@
 {41301}{}{Either it was refurbished into a latrine, or the most comfortable way to do guarding duties is while sitting on the toilet.}
 {41400}{}{a table}
 {41401}{}{It is equipped with some obscure tools.}
-{41500}{}{a junk}
+{41500}{}{junk}
 {41501}{}{Some metal stuff. You don't think you can use it.}
-{41600}{}{a junk}
+{41600}{}{junk}
 {41601}{}{Old tools. Looks like they are all broken.}
 {41700}{}{a box}
 {41701}{}{An empty storage box.}
@@ -834,9 +834,9 @@
 {43001}{}{An empty storage box.}
 {43100}{}{a box}
 {43101}{}{An empty storage box.}
-{43200}{}{a junk}
-{43300}{}{a junk}
-{43400}{}{a junk}
+{43200}{}{junk}
+{43300}{}{junk}
+{43400}{}{junk}
 {43500}{}{the stones}
 {43501}{}{You examine them very carefully, but they are still usual stones.}
 {43600}{}{a guarding booth}
@@ -894,15 +894,15 @@
 {46201}{}{Cracked bottles and broken dishes.}
 {46300}{}{the bottles}
 {46301}{}{Cracked bottles and broken dishes.}
-{46400}{}{a junk}
+{46400}{}{junk}
 {46401}{}{A useless pile of junk.}
 {46500}{}{a slot machine}
 {46501}{}{You don't really think that in two hundred years it still works, do you?}
 {46600}{}{a slot machine}
 {46601}{}{You don't really think that in two hundred years it still works, do you?}
-{46700}{}{a junk}
+{46700}{}{junk}
 {46701}{}{Some useless junk.}
-{46800}{}{a junk}
+{46800}{}{junk}
 {46801}{}{Some useless junk.}
 {46900}{}{a poster}
 {46901}{}{It is impossible to tell what's on it.}
@@ -1042,9 +1042,9 @@
 {54201}{}{A sports apparatus}
 {54300}{}{a barbell}
 {54301}{}{A sports apparatus}
-{54400}{}{a junk}
+{54400}{}{junk}
 {54401}{}{Looks like a part of the box.}
-{54500}{}{a junk}
+{54500}{}{junk}
 {54501}{}{This trash is useless.}
 {54600}{}{a horizontal bar}
 {54601}{}{It's securely fixed in the wall.}
@@ -1052,9 +1052,9 @@
 {54701}{}{It's securely fixed in the wall.}
 {54800}{}{a horizontal bar}
 {54801}{}{You don't remember the last time you did pull-ups.}
-{54900}{}{a junk}
+{54900}{}{junk}
 {54901}{}{You see a half-decayed cardboard box.}
-{55000}{}{a junk}
+{55000}{}{junk}
 {55001}{}{You see a half-decayed cardboard box.}
 {55100}{}{concrete slabs}
 {55101}{}{Heavy slabs, embedded in the ground.}
@@ -1069,7 +1069,7 @@
 {55601}{}{Some boards and piles of junk are covering the hole.}
 {55700}{}{a poster}
 {55701}{}{An old "Happy Bull" poster.}
-{55800}{}{a junk}
+{55800}{}{junk}
 {55801}{}{Looks like a part of the box.}
 {55900}{}{a fence}
 {55901}{}{Once beautiful metallic fence.}
@@ -1133,7 +1133,7 @@
 {58801}{}{This ring has chains instead of ropes. Looks brutal.}
 {58900}{}{the chains}
 {58901}{}{This ring has chains instead of ropes. Looks brutal.}
-{59000}{}{a junk}
+{59000}{}{junk}
 {59001}{}{Nothing of interest.}
 {59100}{}{tires}
 {59101}{}{This is a ring's foundation.}
@@ -1152,7 +1152,7 @@
 {59800}{}{a wall}
 {59900}{}{a wall}
 {60000}{}{a wall}
-{60100}{}{a junk}
+{60100}{}{junk}
 {60101}{}{Parts of warehouse boxes.}
 {60200}{}{a floor}
 {60300}{}{the tables}
@@ -1288,7 +1288,7 @@
 {67501}{}{You wonder what became of the seat.}
 {67600}{}{an armchair}
 {67601}{}{If armchairs could have had skeletons, this is what they would look like.}
-{67700}{}{a junk}
+{67700}{}{junk}
 {67701}{}{Looks like it was a chair once.}
 {67800}{}{a bed}
 {67801}{}{Too dirty.}
@@ -1474,7 +1474,7 @@
 {76901}{}{This is the podium where the nuclear bomb currently rests.}
 {77000}{}{a calculator console}
 {77001}{}{This is a control calculator.}
-{77100}{}{a junk}
+{77100}{}{junk}
 {77101}{}{Shattered bottles, shards of glass. Nothing of value.}
 {77200}{}{a lying chair}
 {77201}{}{It can still be used for sitting.}
@@ -1685,17 +1685,17 @@
 {87801}{}{A smashed floor panels.}
 {87900}{}{a tile}
 {87901}{}{A smashed floor panels.}
-{88000}{}{a junk}
+{88000}{}{junk}
 {88001}{}{Nothing interesting at all.}
 {88100}{}{a land}
 {88101}{}{Seems to have board fragments, but it's hard to be more precise.}
-{88200}{}{a junk}
+{88200}{}{junk}
 {88201}{}{Looks like parts of boxes.}
-{88300}{}{a junk}
+{88300}{}{junk}
 {88301}{}{Nothing interesting at all.}
-{88400}{}{a junk}
+{88400}{}{junk}
 {88401}{}{Parts of warehouse boxes.}
-{88500}{}{a junk}
+{88500}{}{junk}
 {88501}{}{Nothing interesting at all.}
 {88600}{}{a toilet}
 {88601}{}{It is so dirty that you would rather do your thing outdoors.}
@@ -1705,11 +1705,11 @@
 {88801}{}{Rusty on both sides.}
 {88900}{}{a metal sheet}
 {88901}{}{Rusty on both sides.}
-{89000}{}{a junk}
+{89000}{}{junk}
 {89001}{}{Some unnecessary trash.}
-{89100}{}{a junk}
+{89100}{}{junk}
 {89101}{}{Some unnecessary trash.}
-{89200}{}{a junk}
+{89200}{}{junk}
 {89201}{}{Looks like a part of the box.}
 {89300}{}{a toilet}
 {89301}{}{Looks like it hasn't been washed in a long time.}
@@ -1735,13 +1735,13 @@
 {90301}{}{You don't want to look at those weird spots.}
 {90400}{}{a fuel filter}
 {90401}{}{A device for filtering fuel.}
-{90500}{}{a junk}
+{90500}{}{junk}
 {90501}{}{the parts of boxes or crates}
 {90600}{}{a power armor parts}
 {90601}{}{These parts fit the Power Armor.}
-{90700}{}{a junk}
+{90700}{}{junk}
 {90701}{}{Non-interesting trash.}
-{90800}{}{a junk}
+{90800}{}{junk}
 {90801}{}{Non-interesting trash.}
 {90900}{}{a fencing cone}
 {90901}{}{This would make a very funny hat.}
@@ -1761,7 +1761,7 @@
 {91601}{}{They used to mark parking lots with such.}
 {91700}{}{the box parts}
 {91800}{}{the box parts}
-{91900}{}{a junk}
+{91900}{}{junk}
 {92000}{}{the box parts}
 {92100}{}{the parts of boxes or crates}
 {92200}{}{the box parts}
@@ -1783,7 +1783,7 @@
 {93001}{}{You see pipes, wires, some kind of machines and other stuff.}
 {93100}{}{a shadow}
 {93200}{}{a tank}
-{93201}{}{An old tank in very "fun" colors.}
+{93201}{}{An old tank painted in very "fun" colors.}
 {93300}{}{a shadow}
 {93301}{}{The shadow of the tank.}
 {93400}{}{a chair and a table with an umbrella}
@@ -2011,7 +2011,7 @@
 {105401}{}{The front part of an old wrecked car.}
 {105500}{}{things}
 {105501}{}{Miscellaneous junk. Nothing of value to you there.}
-{105600}{}{a junk}
+{105600}{}{junk}
 {105601}{}{Looks like it used to be a car.}
 {105700}{}{things}
 {105701}{}{Miscellaneous junk. Nothing of value to you there.}
@@ -2119,7 +2119,7 @@
 {110801}{}{A section of massive pipe.}
 {110900}{}{a water tank}
 {110901}{}{Apparently, it has a water supply in it.}
-{111000}{}{a junk}
+{111000}{}{junk}
 {111001}{}{A tattered box.}
 {111100}{}{a barrel}
 {111101}{}{Just a metal barrel.}
@@ -2166,51 +2166,51 @@
 {113201}{}{Empty metal barrel.}
 {113300}{}{a barrel}
 {113301}{}{Empty metal barrel.}
-{113400}{}{the sandbags}
+{113400}{}{sandbags}
 {113401}{}{Military fortification.}
-{113500}{}{the sandbags}
+{113500}{}{sandbags}
 {113501}{}{Military fortification.}
-{113600}{}{the sandbags}
+{113600}{}{sandbags}
 {113601}{}{Military fortification.}
-{113700}{}{the sandbags}
+{113700}{}{sandbags}
 {113701}{}{Military fortification.}
-{113800}{}{the sandbags}
+{113800}{}{sandbags}
 {113801}{}{Military fortification.}
 {113900}{}{a shadow}
-{114000}{}{the sandbags}
+{114000}{}{sandbags}
 {114001}{}{Military fortification.}
-{114100}{}{the sandbags}
+{114100}{}{sandbags}
 {114101}{}{Military fortification.}
-{114200}{}{the sandbags}
+{114200}{}{sandbags}
 {114201}{}{Military fortification.}
-{114300}{}{the sandbags}
+{114300}{}{sandbags}
 {114301}{}{Military fortification.}
-{114400}{}{the sandbags}
+{114400}{}{sandbags}
 {114401}{}{Military fortification.}
-{114500}{}{the sandbags}
+{114500}{}{sandbags}
 {114501}{}{Military fortification.}
-{114600}{}{the sandbags}
+{114600}{}{sandbags}
 {114601}{}{Military fortification.}
-{114700}{}{the sandbags}
+{114700}{}{sandbags}
 {114701}{}{Military fortification.}
-{114800}{}{the sandbags}
+{114800}{}{sandbags}
 {114801}{}{Military fortification.}
-{114900}{}{the sandbags}
+{114900}{}{sandbags}
 {114901}{}{Military fortification.}
-{115000}{}{a junk}
+{115000}{}{junk}
 {115001}{}{A cardboard box.}
-{115100}{}{a junk}
+{115100}{}{junk}
 {115101}{}{Crumpled cardboard box and other useless junk.}
 {115200}{}{a mining wagon}
 {115300}{}{a mining wagon with a steel pillar}
 {115400}{}{a mining wagon with dynamite}
-{115500}{}{the sandbags}
+{115500}{}{sandbags}
 {115501}{}{Military fortification.}
 {115600}{}{a crate}
 {115601}{}{Huge wooden box.}
 {115700}{}{a crate}
 {115701}{}{Huge wooden box.}
-{115800}{}{a junk}
+{115800}{}{junk}
 {115900}{}{a wall}
 {116000}{}{a wall}
 {116100}{}{a retinal scanner}
@@ -2227,19 +2227,19 @@
 {116601}{}{The box is definitely empty.}
 {116700}{}{a shadow}
 {116701}{}{Nothing unusual.}
-{116800}{}{a junk}
+{116800}{}{junk}
 {116801}{}{Some kind of trash.}
 {116900}{}{a door}
 {117000}{}{a door}
-{117100}{}{a junk}
+{117100}{}{junk}
 {117101}{}{Part of a broken crate.}
-{117200}{}{a junk}
+{117200}{}{junk}
 {117201}{}{A useless pile of junk.}
-{117300}{}{a junk}
+{117300}{}{junk}
 {117301}{}{A useless pile of junk.}
-{117400}{}{a junk}
+{117400}{}{junk}
 {117401}{}{A useless pile of junk.}
-{117500}{}{a junk}
+{117500}{}{junk}
 {117501}{}{A useless pile of junk.}
 {117600}{}{a conveyor}
 {117601}{}{Part of a factory conveyor.}
@@ -2371,9 +2371,9 @@
 {125100}{}{a floor}
 {125200}{}{a floor}
 {125300}{}{a floor}
-{125400}{}{a junk}
+{125400}{}{junk}
 {125401}{}{A pile of junk.}
-{125500}{}{a junk}
+{125500}{}{junk}
 {125501}{}{Boxes empty, tin cans all rusted over, nothing of value here.}
 {125600}{}{a metal sheet}
 {125601}{}{Rusty on both sides.}
@@ -2384,15 +2384,15 @@
 {125900}{}{a wall}
 {126000}{}{a wall}
 {126100}{}{a huge ladder leading up}
-{126200}{}{a junk}
+{126200}{}{junk}
 {126201}{}{Parts of some machines, that have obviously lost their value.}
-{126300}{}{a junk}
+{126300}{}{junk}
 {126301}{}{A pile of unnecessary trash.}
 {126400}{}{a utility}
 {126401}{}{There are pipes, cables, other equipment.}
 {126500}{}{a utility}
 {126501}{}{There are pipes, cables, other equipment.}
-{126600}{}{a junk}
+{126600}{}{junk}
 {126601}{}{Glass, iron, something else.}
 {126700}{}{a bed}
 {126701}{}{You will try your best to avoid resting on this stinking bed.}
@@ -2479,7 +2479,7 @@
 {131100}{}{a beam}
 {131101}{}{Supporting structure.}
 {131200}{}{a floor}
-{131300}{}{a junk}
+{131300}{}{junk}
 {131301}{}{Useless junk.}
 {131400}{}{a floor}
 {131500}{}{a floor}
@@ -2747,15 +2747,15 @@
 {149301}{}{Tattered bed with springs sticking out.}
 {149400}{}{a tipped bed}
 {149401}{}{Looks like this bed has served its purpose.}
-{149500}{}{a junk}
+{149500}{}{junk}
 {149501}{}{Some machinery parts.}
-{149600}{}{a junk}
+{149600}{}{junk}
 {149601}{}{Useless junk.}
-{149700}{}{a junk}
+{149700}{}{junk}
 {149701}{}{Broken bottles and other debris.}
-{149800}{}{a junk}
+{149800}{}{junk}
 {149801}{}{Parts of old crates.}
-{149900}{}{a junk}
+{149900}{}{junk}
 {149901}{}{Three empty drawers.}
 {150000}{}{a pattern}
 {150001}{}{The shaped pattern on the wall.}
@@ -2780,7 +2780,7 @@
 {151101}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
 {151200}{}{hay}
 {151201}{}{Making hay from dry desert grass is pretty easy - you just have to collect it.}
-{151300}{}{a junk}
+{151300}{}{junk}
 {151301}{}{Boxes, boxes, something else. But absolutely nothing useful.}
 {151400}{}{a debris}
 {151401}{}{The ruined walls of a building.}
@@ -2856,9 +2856,9 @@
 {155401}{}{Perhaps it was a bed, but you're not sure.}
 {155500}{}{a wall}
 {155501}{}{Pipes on tattered walls.}
-{155600}{}{a junk}
+{155600}{}{junk}
 {155601}{}{Broken table.}
-{155700}{}{a junk}
+{155700}{}{junk}
 {155701}{}{Some kind of trash.}
 {155800}{}{a fuse box}
 {155801}{}{The fuse box is used to distribute electricity.}
@@ -3028,9 +3028,9 @@
 {165101}{}{A board broke out of a fence.}
 {165200}{}{the stairs up}
 {165201}{}{This stairway leads up.}
-{165300}{}{the sandbags}
+{165300}{}{sandbags}
 {165301}{}{Military fortification.}
-{165400}{}{the sandbags}
+{165400}{}{sandbags}
 {165401}{}{Military fortification.}
 {165500}{}{a shaft elevator}
 {165600}{}{a beam}
@@ -3370,15 +3370,15 @@
 {185100}{}{the steam}
 {185200}{}{a barrier}
 {185201}{}{Emergency sign.}
-{185300}{}{a junk}
+{185300}{}{junk}
 {185301}{}{Various machine parts, but nothing useful.}
-{185400}{}{a junk}
+{185400}{}{junk}
 {185401}{}{Fence parts.}
-{185500}{}{a junk}
+{185500}{}{junk}
 {185501}{}{Bricks}
-{185600}{}{a junk}
+{185600}{}{junk}
 {185601}{}{A barrel, car tires, something else.}
-{185700}{}{a junk}
+{185700}{}{junk}
 {185701}{}{A useless pile of junk.}
 {185800}{}{an armchair}
 {185801}{}{This chair looks like it served its purpose years ago.}
@@ -3400,9 +3400,9 @@
 {186601}{}{Constructed from a car.}
 {186700}{}{a wagon}
 {186701}{}{Constructed from a car.}
-{186800}{}{a junk}
+{186800}{}{junk}
 {186801}{}{A useless pile of junk.}
-{186900}{}{a junk}
+{186900}{}{junk}
 {186901}{}{A useless pile of junk.}
 {187000}{}{a seat}
 {187001}{}{Ripped out of a car.}
@@ -3418,7 +3418,7 @@
 {187501}{}{No one's going anywhere with this.}
 {187600}{}{a car}
 {187601}{}{An old, dilapidated car.}
-{187700}{}{a junk}
+{187700}{}{junk}
 {187701}{}{A useless pile of junk.}
 {187800}{}{a car}
 {187801}{}{Now it's just a pile of worthless metal and it's not going anywhere.}
@@ -3430,29 +3430,29 @@
 {188101}{}{Now it's just a pile of worthless metal and it's not going anywhere.}
 {188200}{}{a car}
 {188301}{}{A useless pile of junk.}
-{188300}{}{a junk}
+{188300}{}{junk}
 {188301}{}{A useless pile of junk.}
-{188400}{}{a junk}
+{188400}{}{junk}
 {188401}{}{There's nothing to eat.}
-{188500}{}{a junk}
+{188500}{}{junk}
 {188501}{}{Looks like bricks. You don't need them at all.}
-{188600}{}{a junk}
+{188600}{}{junk}
 {188601}{}{A useless pile of junk.}
-{188700}{}{a junk}
+{188700}{}{junk}
 {188701}{}{You won't find anything of value in here.}
-{188800}{}{a junk}
+{188800}{}{junk}
 {188801}{}{A useless pile of junk.}
-{188900}{}{a junk}
+{188900}{}{junk}
 {188901}{}{You're not likely to find anything of value in here.}
 {189000}{}{things}
 {189001}{}{A lot of junk. Nothing useful in here.}
-{189100}{}{a junk}
+{189100}{}{junk}
 {189101}{}{Bottles are empty and dirty - nothing to eat.}
 {189200}{}{a car}
 {189201}{}{An old, dilapidated car.}
-{189300}{}{a junk}
+{189300}{}{junk}
 {189301}{}{Useless junk.}
-{189400}{}{a junk}
+{189400}{}{junk}
 {189401}{}{Useless junk.}
 {189500}{}{the shelves}
 {189501}{}{Shelves of booze.}
@@ -3461,7 +3461,7 @@
 {189700}{}{a table}
 {189800}{}{a chair}
 {189801}{}{The usual bar stool.}
-{189900}{}{a junk}
+{189900}{}{junk}
 {189901}{}{Useless garbage, carefully covered with a cloth.}
 {190000}{}{a car}
 {190001}{}{No one's going anywhere with this.}
@@ -3489,9 +3489,9 @@
 {191101}{}{These barrels contain fertile soil.}
 {191200}{}{a barrel with soil}
 {191201}{}{These barrels contain fertile soil.}
-{191300}{}{a junk}
+{191300}{}{junk}
 {191301}{}{You won't find anything useful there.}
-{191400}{}{a junk}
+{191400}{}{junk}
 {191401}{}{A useless pile of junk.}
 {191500}{}{a barrel with soil}
 {191501}{}{These barrels contain fertile soil.}
@@ -3545,7 +3545,7 @@
 {194201}{}{Factory building.}
 {194300}{}{the building}
 {194301}{}{Factory building.}
-{194400}{}{a junk}
+{194400}{}{junk}
 {194401}{}{A useless pile of junk.}
 {194500}{}{a box}
 {194501}{}{There is absolutely nothing interesting about it.}
@@ -3628,31 +3628,31 @@
 {198701}{}{Just a pile of stones.}
 {198800}{}{a box}
 {198801}{}{Empty old box. Not of any interest.}
-{198900}{}{a junk}
+{198900}{}{junk}
 {198901}{}{Useless junk.}
-{199000}{}{a junk}
+{199000}{}{junk}
 {199001}{}{That won't do you any good.}
-{199100}{}{a junk}
+{199100}{}{junk}
 {199101}{}{That won't do you any good.}
-{199200}{}{a junk}
+{199200}{}{junk}
 {199201}{}{Useless junk.}
-{199300}{}{a junk}
+{199300}{}{junk}
 {199301}{}{Unlikely to be of any use to anyone.}
-{199400}{}{a junk}
+{199400}{}{junk}
 {199401}{}{That won't do you any good.}
-{199500}{}{a junk}
+{199500}{}{junk}
 {199501}{}{A useless pile of junk.}
-{199600}{}{a junk}
+{199600}{}{junk}
 {199601}{}{That won't do you any good.}
-{199700}{}{a junk}
+{199700}{}{junk}
 {199701}{}{A useless pile of junk.}
-{199800}{}{a junk}
+{199800}{}{junk}
 {199801}{}{That won't do you any good.}
-{199900}{}{a junk}
+{199900}{}{junk}
 {199901}{}{A useless pile of junk.}
-{200000}{}{a junk}
+{200000}{}{junk}
 {200001}{}{A useless pile of junk.}
-{200100}{}{a junk}
+{200100}{}{junk}
 {200101}{}{That won't do you any good.}
 {200200}{}{a generator}
 {200201}{}{A device that generates electricity.}
@@ -3664,9 +3664,9 @@
 {200501}{}{A pipe going into the ground.}
 {200600}{}{a pipe}
 {200601}{}{A pipe going into the ground.}
-{200700}{}{a junk}
+{200700}{}{junk}
 {200701}{}{A useless pile of junk.}
-{200800}{}{a junk}
+{200800}{}{junk}
 {200801}{}{A useless pile of junk.}
 {200900}{}{NO}
 {201000}{}{a food machine}
@@ -4115,13 +4115,13 @@
 {223701}{}{It's completely useless.}
 {223800}{}{a rusty piece of metal}
 {223801}{}{You examine it carefully, but it doesn't make it any more useful.}
-{223900}{}{a junk}
+{223900}{}{junk}
 {223901}{}{Even the last vagabond wouldn't go for this junk.}
-{224000}{}{a junk}
+{224000}{}{junk}
 {224001}{}{Absolutely useless junk.}
-{224100}{}{a junk}
+{224100}{}{junk}
 {224101}{}{You won't find any use for this junk.}
-{224200}{}{a junk}
+{224200}{}{junk}
 {224201}{}{Nothing of interest.}
 {224300}{}{a rusty piece of metal}
 {224301}{}{It won't be of any use to you, that's for sure.}
@@ -4129,13 +4129,13 @@
 {224401}{}{It's completely useless.}
 {224500}{}{a rusty piece of metal}
 {224501}{}{Let it rust.}
-{224600}{}{a junk}
+{224600}{}{junk}
 {224601}{}{You don't want to collect any junk, do you?}
-{224700}{}{a junk}
+{224700}{}{junk}
 {224701}{}{Even the last vagabond wouldn't go for this junk.}
-{224800}{}{a junk}
+{224800}{}{junk}
 {224801}{}{You won't find any use for this junk.}
-{224900}{}{a junk}
+{224900}{}{junk}
 {224901}{}{You don't want to collect any junk, do you?}
 {224601}{}{You don't want to collect any junk, do you?}
 {225000}{}{a door}
@@ -4163,11 +4163,11 @@
 {226800}{}{the stones}
 {226900}{}{the stones}
 {227000}{}{the stones}
-{227100}{}{a junk}
+{227100}{}{junk}
 {227101}{}{A useless pile of junk.}
 {227200}{}{a metal sheet}
 {227201}{}{Is that blood?}
-{227300}{}{a junk}
+{227300}{}{junk}
 {227301}{}{Even the last vagabond wouldn't go for this junk.}
 {227400}{}{a metal sheet}
 {227401}{}{It's rusty heavy and completely useless.}
@@ -4272,9 +4272,9 @@
 {232901}{}{Thousands of them! And each one is unique in its own way.}
 {233000}{}{a bed}
 {233001}{}{You don't want to lie down on this filthy recline at all.}
-{233100}{}{a junk}
+{233100}{}{junk}
 {233101}{}{It's better not to touch it.}
-{233200}{}{a junk}
+{233200}{}{junk}
 {233201}{}{Totally useless thing.}
 {233300}{}{a factory wall}
 {233400}{}{a factory wall}
@@ -4301,25 +4301,25 @@
 {234801}{}{A massive excavating machine.}
 {234900}{}{a car}
 {234901}{}{A massive excavating machine.}
-{235000}{}{a junk}
+{235000}{}{junk}
 {235001}{}{Rusty iron. This junk is not worth your attention.}
 {235100}{}{a sheet of rusty iron}
 {235101}{}{Makes a funny sound when you knock on it.}
-{235200}{}{a junk}
+{235200}{}{junk}
 {235201}{}{Rusty iron. This junk is not worth your attention.}
 {235300}{}{a sheet of rusty iron}
 {235301}{}{Too heavy. Unlikely to be of any use to you.}
 {235400}{}{a sheet of rusty iron}
 {235401}{}{Too heavy. Unlikely to be of any use to you.}
-{235500}{}{a junk}
+{235500}{}{junk}
 {235501}{}{Not worth wasting your time on this piece of junk.}
-{235600}{}{a junk}
+{235600}{}{junk}
 {235601}{}{It's just useless junk now.}
-{235700}{}{a junk}
+{235700}{}{junk}
 {235701}{}{It's just useless junk now.}
-{235800}{}{a junk}
+{235800}{}{junk}
 {235801}{}{It's not worth picking up any junk.}
-{235900}{}{a junk}
+{235900}{}{junk}
 {235901}{}{Utterly useless trash.}
 {236000}{}{rocks}
 {236001}{}{Look impregnable.}
@@ -4337,33 +4337,33 @@
 {236601}{}{There is absolutely no use for you in it.}
 {236700}{}{the sheet of iron}
 {236701}{}{It looks sturdy, but it's useless.}
-{236800}{}{a junk}
+{236800}{}{junk}
 {236801}{}{This junk is useless.}
-{236900}{}{a junk}
+{236900}{}{junk}
 {236901}{}{This junk is useless.}
-{237000}{}{a junk}
+{237000}{}{junk}
 {237001}{}{This junk is useless.}
-{237100}{}{a junk}
+{237100}{}{junk}
 {237101}{}{Utterly useless trash.}
-{237200}{}{a junk}
+{237200}{}{junk}
 {237201}{}{Don't waste your time with all kinds of useless junk.}
-{237300}{}{a junk}
+{237300}{}{junk}
 {237301}{}{Just regular trash.}
-{237400}{}{a junk}
+{237400}{}{junk}
 {237401}{}{It won't be of any use to you, that's for sure.}
-{237500}{}{a junk}
+{237500}{}{junk}
 {237501}{}{Not of any interest to you, unless you are heavily into trash collecting.}
-{237600}{}{a junk}
+{237600}{}{junk}
 {237601}{}{Not of any interest to you, unless you are heavily into trash collecting.}
 {237700}{}{tools}
 {237701}{}{These tools are not usable.}
 {237800}{}{a box}
 {237801}{}{An empty old box is completely useless.}
-{237900}{}{a junk}
+{237900}{}{junk}
 {237901}{}{Utterly useless trash.}
-{238000}{}{a junk}
+{238000}{}{junk}
 {238001}{}{Utterly useless trash.}
-{238100}{}{a junk}
+{238100}{}{junk}
 {238101}{}{Utterly useless trash.}
 {238200}{}{a poster}
 {238201}{}{An old faded "Olympus" poster.}
@@ -4403,9 +4403,9 @@
 {240001}{}{A rusty metal box, very heavy and empty.}
 {240100}{}{an old box}
 {240101}{}{Its contents may have been of interest, but that was a long time ago.}
-{240200}{}{a junk}
+{240200}{}{junk}
 {240201}{}{The lid of the box. Not likely to be of any use to you.}
-{240300}{}{a junk}
+{240300}{}{junk}
 {240301}{}{The lid of the box. Not likely to be of any use to you.}
 {240400}{}{an old box}
 {240401}{}{Tattered on the outside with useless contents inside. Just like some people.}
@@ -4483,11 +4483,11 @@
 {244801}{}{Four legs, a long seat, a back - it's a bench!}
 {244900}{}{an old box}
 {244901}{}{You look inside - it's empty.}
-{245000}{}{a junk}
+{245000}{}{junk}
 {245001}{}{It's completely useless junk.}
-{245100}{}{a junk}
+{245100}{}{junk}
 {245101}{}{It's completely useless junk.}
-{245200}{}{a junk}
+{245200}{}{junk}
 {245201}{}{It's completely useless junk.}
 {245300}{}{an old box}
 {245301}{}{You examine the contents. There's nothing but garbage. You are covered in rust.}
@@ -4499,19 +4499,19 @@
 {245601}{}{Not even the last vagrant would be interested in this junk.}
 {245700}{}{an old box}
 {245701}{}{Looks like someone's been through it and blooded it up.}
-{245800}{}{a junk}
+{245800}{}{junk}
 {245801}{}{It's completely useless junk.}
-{245900}{}{a junk}
+{245900}{}{junk}
 {245901}{}{It's completely useless junk.}
-{246000}{}{a junk}
+{246000}{}{junk}
 {246001}{}{It's completely useless junk.}
-{246100}{}{a junk}
+{246100}{}{junk}
 {246101}{}{It's completely useless junk.}
-{246200}{}{a junk}
+{246200}{}{junk}
 {246201}{}{It's completely useless junk.}
-{246300}{}{a junk}
+{246300}{}{junk}
 {246301}{}{It's completely useless junk.}
-{246400}{}{a junk}
+{246400}{}{junk}
 {246401}{}{It's completely useless junk.}
 {246500}{}{an old box}
 {246501}{}{Its contents may have been of interest, but that was a long time ago.}
@@ -4753,11 +4753,11 @@
 {258501}{}{These boxes are empty, there is nothing to eat here.}
 {258600}{}{a wall}
 {258700}{}{a wall}
-{258800}{}{a junk}
+{258800}{}{junk}
 {258801}{}{It's completely useless junk.}
-{258900}{}{a junk}
+{258900}{}{junk}
 {258901}{}{It's completely useless junk.}
-{259000}{}{a junk}
+{259000}{}{junk}
 {259001}{}{It's completely useless junk.}
 {259100}{}{an old car}
 {259101}{}{This bucket of nuts is definitely unable to ride.}
@@ -4801,9 +4801,9 @@
 {261301}{}{Dirty ventilation grill.}
 {261400}{}{an old box}
 {261401}{}{Its contents may have been of interest, but that was a long time ago.}
-{261500}{}{a junk}
+{261500}{}{junk}
 {261501}{}{Hardly anyone can find a use for this junk.}
-{261600}{}{a junk}
+{261600}{}{junk}
 {261601}{}{Hardly anyone can find a use for this junk.}
 {261700}{}{a bunk}
 {261701}{}{A hospital bed with a monitor.}
@@ -4835,7 +4835,7 @@
 {263201}{}{Full box of junk, and not a single useful item.}
 {263300}{}{a crate}
 {263301}{}{Sturdy and reliable, but completely empty.}
-{263400}{}{a junk}
+{263400}{}{junk}
 {263401}{}{Hardly anyone can find a use for this junk.}
 {263500}{}{a wall}
 {263600}{}{a wall}
@@ -4885,7 +4885,7 @@
 {266001}{}{This chair would have been quite ordinary if it weren't for the wheels. You wonder if they used to have chair races here.}
 {266100}{}{a chair}
 {266101}{}{A piece of furniture designed to support the human body in a seated position.}
-{266200}{}{a junk}
+{266200}{}{junk}
 {266201}{}{Not even the last vagrant would be interested in this junk.}
 {266300}{}{a box}
 {266301}{}{An ordinary box of useless junk.}
@@ -4905,29 +4905,29 @@
 {267001}{}{A floor cable.}
 {267100}{}{the wires}
 {267101}{}{A floor cable.}
-{267200}{}{a junk}
+{267200}{}{junk}
 {267201}{}{It's completely useless junk.}
-{267300}{}{a junk}
+{267300}{}{junk}
 {267301}{}{It's completely useless junk.}
-{267400}{}{a junk}
+{267400}{}{junk}
 {267401}{}{It's completely useless junk.}
-{267500}{}{a junk}
+{267500}{}{junk}
 {267501}{}{A useless pile of junk.}
-{267600}{}{a junk}
+{267600}{}{junk}
 {267601}{}{A useless pile of junk.}
-{267700}{}{a junk}
+{267700}{}{junk}
 {267701}{}{It's completely useless junk.}
-{267800}{}{a junk}
+{267800}{}{junk}
 {267801}{}{There is some dubious liquid in the bottle. Better not to touch it.}
-{267900}{}{a junk}
+{267900}{}{junk}
 {267901}{}{Just an empty bottle.}
-{268000}{}{a junk}
+{268000}{}{junk}
 {268001}{}{It is hard to imagine that anyone in their right mind would be interested in this junk.}
-{268100}{}{a junk}
+{268100}{}{junk}
 {268101}{}{A bunch of useless junk.}
-{268200}{}{a junk}
+{268200}{}{junk}
 {268201}{}{It is hard to imagine that anyone in their right mind would be interested in this junk.}
-{268300}{}{a junk}
+{268300}{}{junk}
 {268301}{}{It is hard to imagine that anyone in their right mind would be interested in this junk.}
 {268400}{}{a calculator}
 {268401}{}{This is where the tower's solar panels are controlled.}
@@ -5220,7 +5220,7 @@
 {283000}{}{the sand}
 {283100}{}{the sand}
 {283200}{}{the sand}
-{283300}{}{a junk}
+{283300}{}{junk}
 {283301}{}{Some kind of debris in the water.}
 {283400}{}{a vase}
 {283401}{}{A clay vase filled with something very similar to blood.}
@@ -5351,11 +5351,11 @@
 {291100}{}{a totem}
 {291101}{}{There are bones sticking out of this one, and the fires inside are dying out. Do they have a schedule for setting totems on fire?}
 {291200}{}{a totem}
-{291201}{}{What big bones!}
+{291201}{}{These bones are huge!}
 {291300}{}{a totem}
 {291301}{}{There are bones sticking out of this one, and the fires inside are dying out. Do they have a schedule for setting totems on fire?}
 {291400}{}{a totem}
-{291401}{}{What big bones!}
+{291401}{}{These bones are huge!}
 {291500}{}{a bench}
 {291501}{}{A stiff and cold stone bench.}
 {291600}{}{a stake}
@@ -5418,7 +5418,7 @@
 {295300}{}{a void}
 {295301}{}{There is only a blackening emptiness. It is staring at you.}
 {295400}{}{a "Warehouse" sign}
-{295401}{}{You are not sure, but it could mean there is a warehouse.}
+{295401}{}{You are not sure, but it could mean that this is a warehouse.}
 {295500}{}{a hospital poster}
 {295501}{}{The poster shows a smiling doctor holding a bloody scalpel.}
 {295600}{}{a tree}
@@ -5426,7 +5426,7 @@
 {295700}{}{a tree}
 {295701}{}{It's a tree. It must be wooden.}
 {295800}{}{a tree}
-{295801}{}{You think it stands out from the others. You are seeing things.}
+{295801}{}{You think it stands out from the others. Maybe you are seeing things.}
 {295900}{}{a tree}
 {295901}{}{You want to hug it and cry.}
 {296000}{}{a tree}
