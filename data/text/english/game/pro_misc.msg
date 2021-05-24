@@ -22,7 +22,7 @@
 {2100}{}{Exit Grid}
 {2200}{}{Exit Grid}
 {2300}{}{Exit Grid}
-{2400}{}{Flare}
+{2400}{}{Flashlight}
 {2500}{}{Grenade}
 {2600}{}{Rock}
 {2700}{}{Explosion}

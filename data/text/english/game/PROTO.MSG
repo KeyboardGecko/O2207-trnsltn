@@ -188,8 +188,8 @@
 {584}{}{As you reach down, you realize that it is already dead.}
 {585}{}{Alas, you are too late.} # This is relating to a critter being dead.
 {586}{}{That won't work on the dead.}
-{587}{}{You light the flare.}
-{588}{}{The flare is already lit.}
+{587}{}{You turn on the flashlight.}
+{588}{}{The flashlight is already turned on.}
 {589}{}{You set the timer.}
 {590}{}{The timer is already ticking!}
 {595}{}{You charge the car with more power.}

@@ -154,7 +154,7 @@
 {7701}{}{This heap of parts can be assembled into a good rifle if you have the skills and a special repair kit.}
 {7800}{}{Shotgun Parts}
 {7801}{}{You can assemble a shotgun from this if you have the skills and a special repair kit.}
-{7900}{}{Flare}
+{7900}{}{Flashlight}
 {7901}{}{An old flashlight.}
 {8000}{}{Medical Book}
 {8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary medical skills.}
@@ -406,8 +406,8 @@
 {20301}{}{}
 {20400}{}{Weapon 5}
 {20401}{}{}
-{20500}{}{Flare (lit)}
-{20501}{}{An old flashlight. It's lit.}
+{20500}{}{Flashlight (on)}
+{20501}{}{An old flashlight. It's turned on.}
 {20600}{}{Dynamite (lit)}
 {20601}{}{A stick of good old dynamite with a lit fuse.}
 {20700}{}{Geiger Counter (active)}
