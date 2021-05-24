@@ -155,7 +155,7 @@
 {7800}{}{Shotgun Parts}
 {7801}{}{You can assemble a shotgun from this if you have the skills and a special repair kit.}
 {7900}{}{Flashlight}
-{7901}{}{An old flashlight.}
+{7901}{}{An old flashlight, for disposable use. Can be used as a flare if thrown when lit.}
 {8000}{}{Medical Book}
 {8001}{}{A medical reference book with an index, a convenient guide for quickly mastering the most necessary medical skills.}
 {8100}{}{Assault rifle Parts}
