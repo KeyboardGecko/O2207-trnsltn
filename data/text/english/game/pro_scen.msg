@@ -1628,9 +1628,9 @@
 {84700}{}{a slope}
 {84701}{}{A bizarre natural formation}
 {84800}{}{a door}
-{84801}{}{A usual wooden door.}
+{84801}{}{An ordinary wooden door.}
 {84900}{}{a door}
-{84901}{}{A usual wooden door.}
+{84901}{}{An ordinary wooden door.}
 {85000}{}{a door}
 {85001}{}{The paint is almost completely peeled off, and the wood is covered with fungus.}
 {85100}{}{a table}
@@ -1841,7 +1841,7 @@
 {96000}{}{a door}
 {96001}{}{An ordinary door.}
 {96100}{}{a door}
-{96101}{}{A usual wooden door.}
+{96101}{}{An ordinary wooden door.}
 {96200}{}{a barrier}
 {96201}{}{Goes up and down.}
 {96300}{}{a fire}
