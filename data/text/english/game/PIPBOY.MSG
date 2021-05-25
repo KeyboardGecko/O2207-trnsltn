@@ -1182,7 +1182,7 @@
 {9002}{}{medicine, weapon, and this wonderful disc-o-phone!}
 {9003}{}{It is a fifth week of my journey to get to the}
 {9004}{}{Olympus... There were four of us when we learned}
-{9005}{}{of the tower from one ghoul. God, what a blessing}
+{9005}{}{of the tower from one Ghoul. God, what a blessing}
 {9006}{}{it was - to know that somewhere in the world}
 {9007}{}{exist a place without all the dangers, terrible}
 {9008}{}{beasts... And even more terrible men! We walked}
@@ -1217,7 +1217,7 @@
 {9037}{}{a thousand miles, I almost can't feel my feet! But,}
 {9038}{}{more importantly, with them I'm safe. They call}
 {9039}{}{themselves "the Lumeniers", it means something}
-{9040}{}{like "light-bearers"... They fight the evil and}
+{9040}{}{akin to "light-bearers". They fight the evil and}
 {9041}{}{injustice all over these lands! And they said}
 {9042}{}{that Olympus is the heart of all evil. There is}
 {9043}{}{no salvation there, only death... Well, seems like}
@@ -1253,14 +1253,14 @@
 {9073}{}{the Valley... Now I know why it has a name}
 {9074}{}{like this! There's some kind of vapor there, that}
 {9075}{}{their angelic golden lumenier armor can't protect}
-{9076}{}{against. He killed them in the end - but never}
+{9076}{}{against. In the end he killed them, but never}
 {9077}{}{made it back. I saw him falling down, convulsing.}
 {9078}{}{But the good thing is this - they said I can}
 {9079}{}{take his place and wear his armor! When I pass}
 {9080}{}{my initiation, I will be given a special suit that}
 {9081}{}{should keep me safe from deadly fumes, and I}
 {9082}{}{will go and take the armor from the Valley. There}
-{9083}{}{is only one day of the crusade left; soon I will}
+{9083}{}{is only one day of the crusade left. soon I will}
 {9084}{}{become one of them. I will mark the coordinates}
 {9085}{}{of the Valley here, just in case...}
 {9086}{}{**END-PAR**}
