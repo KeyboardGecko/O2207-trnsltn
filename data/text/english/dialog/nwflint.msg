@@ -11,7 +11,7 @@
 #ОПИСАНИЕ КРИТТЕРА
 #
 # до знакомства
-{1}{}{You see a caravan master.}
+{1}{}{You see a caravan master. He looks a little drunk.}
 {2}{}{His clothes look like a puzzle - it is made of everything you can find under your feet.}
 #
 # после знакомства

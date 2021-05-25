@@ -1442,10 +1442,10 @@
 ###########################################################
 # GVAR_DISK_PONY
 ###########################################################
-{11000}{}{…ter Four: Perspective}
+{11000}{}{...ter Four: Perspective}
 {11001}{}{}
-{11002}{}{I don’t know why it took an interest in you,}
-{11003}{}{but I’d be careful. It’s never helped anyone}
+{11002}{}{I don't know why it took an interest in you,}
+{11003}{}{but I'd be careful. It's never helped anyone}
 {11004}{}{before.}
 {11005}{}{}
 {11006}{}{Stupid!}
@@ -1468,7 +1468,7 @@
 {11023}{}{ponicidal robots and automated turrets, fleeing}
 {11024}{}{until I managed to back myself into a corner}
 {11025}{}{here in an office box high above the factory}
-{11026}{}{floor. Almost out of ammo. If I hadn’t found}
+{11026}{}{floor. Almost out of ammo. If I hadn't found}
 {11027}{}{that medical box in the employee bathroom, I}
 {11028}{}{would have died trying to get across the second}
 {11029}{}{floor.}
@@ -1480,9 +1480,9 @@
 {11035}{}{to somewhat resemble ponies, with clear}
 {11036}{}{domed heads that housed real brains. I refused}
 {11037}{}{to think that the ponies who built them might}
-{11038}{}{have used other ponies’ brains in the}
+{11038}{}{have used other ponies' brains in the}
 {11039}{}{construction. The thought was just too}
-{11040}{}{horrible. Even doing that to an animal’s brain}
+{11040}{}{horrible. Even doing that to an animal's brain}
 {11041}{}{was awful. And clearly, two-hundred years of}
 {11042}{}{continuous operation had done nothing for their}
 {11043}{}{sanity.}
@@ -1506,7 +1506,7 @@
 {11061}{}{}
 {11062}{}{Unfortunately, the same could not be said for}
 {11063}{}{}
-{11064}{}{the other type of guard robot I’d crossed paths}
+{11064}{}{the other type of guard robot I'd crossed paths}
 {11065}{}{with in here. The multi-limbed things looked}
 {11066}{}{like giant metal spiders, many of its arms}
 {11067}{}{seemed to end in weapons, including a}
@@ -1523,7 +1523,7 @@
 {11078}{}{right up to the metal monster, pulling out the}
 {11079}{}{stems on the way. The moment it saw me, the}
 {11080}{}{robot raised a pulsing green weapon that}
-{11081}{}{looked like a unicorn’s horn. Eldritch fire}
+{11081}{}{looked like a unicorn's horn. Eldritch fire}
 {11082}{}{erupted from it, shooting past me close enough}
 {11083}{}{to singe my cheek. The blast struck an old fan}
 {11084}{}{sitting on the desk behind me; it glowed green}
@@ -1534,11 +1534,11 @@
 {11089}{}{fearsome twang as part of the catwalk outside}
 {11090}{}{gave. Looking back, the robot was in a non-}
 {11091}{}{functional heap. The walkway outside was still}
-{11092}{}{mostly intact, but sagging badly. I wasn’t sure it}
+{11092}{}{mostly intact, but sagging badly. I wasn't sure it}
 {11093}{}{could hold my weight.}
 {11094}{}{}
 {11095}{}{Stripping what I could from the fallen spider-bot,}
-{11096}{}{I considered my options. I couldn’t stay up here}
+{11096}{}{I considered my options. I couldn't stay up here}
 {11097}{}{}
 {11098}{}{forever. If I moved very fast, I could run the}
 {11099}{}{walkway without the brain-bots below getting}
@@ -1548,6 +1548,7 @@
 {11103}{}{had partially torn free, and sagged}
 {11104}{}{alarmingly. The more I looked at it, the less I}
 {11105}{}{wanted to put a hoof...}
+{11106}{}{**END-DISK**}
 ###########################################################
 # GVAR_DISK_RENESSANCE_CHECK
 ###########################################################
