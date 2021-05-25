@@ -43,15 +43,15 @@
 {24}{010}{. }
 
 #Node003
-{30}{}{[He carefully studies you] You are not lying... Curious, but nothing more. I've met the likes of you before. They made of the same shit as all others people in Radius. }
+{30}{}{[He carefully studies you] You are not lying... Curious, but nothing more. I've met the likes of you before. They are made of the same crap as all the other people in Radius. }
 {31}{002}{Curious? What's your name, smart guy?}
 
 #Node004
-{40}{}{[He carefully studies you] You are lying. I can notice this silver-spooned pricks a mile away. You don't look like them. [he sips from his flask] You don't have a glamorous hairstyle and a glass of fucking wine in your hand. }
+{40}{}{[He carefully studies you] You are lying. I can notice this silver-spooned pricks a mile away. You don't look like them. [he sips from his flask] You don't have a glamorous hairstyle and a glass of fucking wine in your hand.}
 {41}{002}{[continue]}
 
 #Node005
-{50}{}{[He carefully studies you] Oh yeah? Did "you there" open a school for noble maidens? You don't look like that trash. [he sips from his flask]}
+{50}{}{[He carefully studies you] Oh yeah? Did you open a school for noble maidens there? You don't look like that trash. [he sips from his flask]}
 {51}{002}{[continue]}
 
 #Node010
@@ -72,7 +72,7 @@
 {110}{}{A million batteries each? [he chuckles and immediately burps] Come on, spill it out [he takes upon his flask again, putting the head back and drinking it to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocket, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] So? }
 {111}{012}{You are traveling around a lot, right? You probably have many interesting things I could use. For a price, of course. }
 {112}{024}{Can you tell me about what's where in Radius? I wouldn't want to wander around, picking wrong directions...}
-{113}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of a partially decomposed corpse.}
+{113}{022}{Flint, how do you even manage to stand on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of a partially decomposed corpse.}
 {114}{010}{You know, no, no questions...}
 
 #Node012
@@ -260,7 +260,7 @@
 {510}{}{[Flint puts his head back and takes upon his flask again, drinking its content to the last drop. Then he swiftly pulls out a bottle with some murky liquid from his inner pocket, with a strikingly light motion unscrews the cork, and pours its content into a flask, not losing a single drop. Empty bottle is thrown into a nearby crate] I doubt that I can tell something of interest to you. I'm a caravan master, not Sam. }
 {511}{055}{You are traveling around a lot, right? You probably have many interesting things I could use. For a price, of course. }
 {512}{052}{Look at my map. If you know some places that are not in it, mark them for me please.}
-{513}{022}{Flint, how are you standing on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of a partially decomposed corpse.}
+{513}{022}{Flint, how do you even manage to stand on your feet? I can smell your fumes even outside the town. I bet your breath can sterilize the underwear of a partially decomposed corpse.}
 {514}{010}{You know, no, no questions.}
 
 
@@ -270,7 +270,7 @@
 
 
 
-{530}{}{Well, I can mark something. To you, it's free, heh-heh. }
+{530}{}{Well, I can mark something. For free, heh-heh. }
 {531}{010}{An act of outstanding generosity.}
 
 
