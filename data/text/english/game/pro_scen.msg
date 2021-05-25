@@ -2552,7 +2552,7 @@
 {136400}{}{a floor}
 {136500}{}{a floor}
 {136600}{}{a floor}
-{136700}{}{a hovitaser... hmmm... or something else…}
+{136700}{}{a hovitaser... hmmm... or something else...}
 {136701}{}{This strange cannon has been left here since before the war. What an end to life's journey.}
 {136800}{}{an escarpment}
 {136900}{}{the crossing}

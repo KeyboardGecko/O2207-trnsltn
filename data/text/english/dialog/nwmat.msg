@@ -211,7 +211,7 @@
 {362}{039}{I see. I want to ask something else.}
 
 
-{370}{}{Thanks. If there's even one thankful person, then I don't cook for nothing. [he sadly smiles]}
+{370}{}{Thanks. If there is at least one grateful customer, it means I am not cooking in vain. [he sadly smiles]}
 {371}{038}{Why people around here don't know about you?}
 {372}{039}{I want to ask something.}
 

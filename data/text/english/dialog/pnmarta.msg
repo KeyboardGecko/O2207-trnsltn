@@ -8,7 +8,7 @@
 #€àâ¥¬ "Rainman" ‘ ¬®©«®¢
 ##############################
 #
-#Žˆ‘€ˆ… Šˆ''…€
+#Žˆ‘€ˆ... Šˆ''...€
 #
 # ¤® §­ ª®¬áâ¢  
 {1}{}{You see a skinny woman.}
@@ -18,7 +18,7 @@
 {3}{}{You see Martha.}
 {4}{}{This is Martha - mother of Lily, the only child on this station.}
 #
-#‡„…‘œ €—ˆ€…'‘Ÿ „ˆ€‹Žƒ
+#‡„...‘œ €—ˆ€...'‘Ÿ „ˆ€‹Žƒ
 #
 #Node001
 {10}{}{What do you want from me!?}

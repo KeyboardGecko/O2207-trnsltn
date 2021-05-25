@@ -47,15 +47,15 @@
 {31}{002}{Curious? What's your name, smart guy?}
 
 #Node004
-{40}{}{[He carefully studies you] You are lying. I notice this silver-spoon pricks from a mile away. You don't look like them. [he sips from his flask] And I don't see a glamorous hairstyle on you and a glass of fucking wine in your hand. }
+{40}{}{[He carefully studies you] You are lying. I can notice this silver-spooned pricks a mile away. You don't look like them. [he sips from his flask] You don't have a glamorous hairstyle and a glass of fucking wine in your hand. }
 {41}{002}{[continue]}
 
 #Node005
-{50}{}{[He carefully studies you] Oh yeah? Did "you there" open the posh school? You don't look like that trash. [he sips from his flask]}
+{50}{}{[He carefully studies you] Oh yeah? Did "you there" open a school for noble maidens? You don't look like that trash. [he sips from his flask]}
 {51}{002}{[continue]}
 
 #Node010
-{1000}{}{[He either didn't hear or tries to make it look like it. Now he just stares at you.]}
+{1000}{}{[He either really didn't hear what you said, or he pretended not to. Now he's just staring at you.]}
 {1001}{}{You again? What do you want?}
 {1002}{}{Commander?}
 {101}{011}{I have some questions.}
