@@ -233,7 +233,7 @@
 {423}{999}{No, thanks. I have things to do around here. Good luck on the road.}
 
 #Node043
-{430}{}{You? Are you ready for a return trip?}
+{430}{}{So? Are you ready for the return trip?}
 {431}{999}{Yes, let's go.}
 {432}{999}{No, I need to do something here before leaving.}
 {433}{999}{I have some business to take care of, so don't wait for me.}
