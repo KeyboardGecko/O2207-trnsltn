@@ -76,7 +76,7 @@
 {202}{005}{I get it. I'll ask something else.}
 
 #Node021
-{210}{}{The obvious rational solution was to drastically reduce the number of diesel consumers. Having that goal, Countries began to exterminate each other's population through the usage of nuclear bombs and "intellectual" weapons. We are currently on the territory of a Country by the name of the Glorious States of America, one of the most advanced at the moment of cleansing. Still, the Country's advancement level had an insignificant influence on the impact factors of weapons used. As a result, more than 90 percent of GSA's population was destroyed by the bombings, died out from radiation poisoning, hunger and anarchy.}
+{210}{}{The obvious rational solution was to drastically reduce the number of diesel consumers. Having that goal, Countries began to exterminate each other's population through the usage of nuclear bombs and "intellectual" weapons. We are currently on the territory of a Country by the name of the Great States of America, one of the most advanced at the moment of cleansing. Still, the Country's advancement level had an insignificant influence on the impact factors of weapons used. As a result, more than 90 percent of GSA's population was destroyed by the bombings, died out from radiation poisoning, hunger and anarchy.}
 {211}{022}{Was there any other way to prevent the catastrophe?}
 {212}{031}{But the people in Olympus have survived?}
 

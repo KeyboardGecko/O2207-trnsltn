@@ -454,7 +454,7 @@
 {3002}{}{September 13, 2010}
 {3003}{}{The last oil deposits remain in the United}
 {3004}{}{Republic of Iran. Iran begins to develop}
-{3005}{}{uranium enrichment program. Glorious States}
+{3005}{}{uranium enrichment program. Great States}
 {3006}{}{ambassadors are deported from Iranian territory.}
 {3007}{}{}
 {3008}{}{September 15, 2010}
@@ -1029,7 +1029,7 @@
 {7025}{}{left on a planet in a month is going to be a}
 {7026}{}{couple of bacteria and three Inuits in the far}
 {7027}{}{north? Although, even those are unlikely to make}
-{7028}{}{it; the Russian Empire and the Glorious States}
+{7028}{}{it; the Russian Empire and the Great States}
 {7029}{}{will turn each other's allies to dust first, and}
 {7030}{}{then themselves... and China with Britain will}
 {7031}{}{help them with that. This is... This is the end.}

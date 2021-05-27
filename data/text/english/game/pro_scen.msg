@@ -1867,8 +1867,8 @@
 {97501}{}{Empty fuel storage tanks.}
 {97600}{}{a tank}
 {97601}{}{A tank for supplying water.}
-{97700}{}{a ladder}
-{97701}{}{A sturdy metal ladder.}
+{97700}{}{stairs}
+{97701}{}{A sturdy metal stairs.}
 {97800}{}{a door}
 {97900}{}{things}
 {97901}{}{Surprisingly, there is nothing of value to you in this pile.}
@@ -2383,7 +2383,7 @@
 {125801}{}{Station attendant's desk.}
 {125900}{}{a wall}
 {126000}{}{a wall}
-{126100}{}{a huge ladder leading up}
+{126100}{}{a huge stairs leading up}
 {126200}{}{junk}
 {126201}{}{Parts of some machines, that have obviously lost their value.}
 {126300}{}{junk}
