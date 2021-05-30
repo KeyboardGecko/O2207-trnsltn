@@ -42,7 +42,7 @@
 {41}{006}{Uh... Steve?}
 {42}{006}{Kyle?}
 {43}{006}{Leonard?}
-{44}{007}{Okay, you got me. I'm here recently.}
+{44}{007}{Okay, you got me. I came here recently.}
 
 
 {50}{}{[he doesn't even look in your direction] Mark, in charge of this settlement.}

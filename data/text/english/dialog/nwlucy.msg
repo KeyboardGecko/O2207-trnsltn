@@ -21,7 +21,7 @@
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #
 {10}{}{[You see a middle-aged woman. A few wrinkles on her face indicate her age, but with impeccably made hair, clean clothes, and well-tended skin she looks very attractive. She has a light smile and shining eyes and smells with a faint sweet scent of perfume.] Good day. I don't remember seeing you before. Do I know you?}
-{11}{002}{Hello. No, I'm here recently. }
+{11}{002}{Hello. No, I came here recently. }
 {12}{014}{Hi. No, it's my first time here.}
 {13}{020}{Hah, I see you for the first time too. }
 

@@ -25,7 +25,7 @@
 {11}{002}{Uh, I'm - }
 {12}{002}{, and who are you? And what are you doing here, old man?}
 {13}{002}{The name is - }
-{14}{002}{, I'm here recently. Who are you?}
+{14}{002}{, I came here recently. Who are you?}
 {15}{999}{I just wanted to take a leak... I'll find another place.}
 
 #Node002

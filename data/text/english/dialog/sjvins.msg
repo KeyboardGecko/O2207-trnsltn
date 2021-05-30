@@ -76,8 +76,8 @@
 {106}{999}{I'll better go now.}
 
 
-{200}{}{Oh. Well, you know... I'm actually here for a couple of days myself, I mean - here, with the Jackals. They have a simple way of doing things: if something happens - they start a fight. So I just asked, why should I stand guarding the entrance, and got punched in the face! And then they continued to beat the shit out of me. Good that I'm still alive, I've heard that many ended up worse.}
-{201}{021}{So, you are here recently? Where did you come from?}
+{200}{}{Oh. Well, you know... I'm actually here for a couple of days myself, I mean - here, with the Jackals. They have a simple way of doing things: if something happens, they start a fight. So I just asked why I had to stand guarding the entrance, and I got punched in the face! And then they proceeded to beat the shit out of me. It's a good thing I survived, I've heard a lot of people ended up worse.}
+{201}{021}{So, you are new here? Where did you come from?}
 {202}{022}{Don't be a wuss, toughen up! By the way, where are you from?}
 {203}{010}{I see. I wanted to ask another question...}
 {204}{}{I don't really feel like opening up, especially to you. Did you even see yourself? You are more battered than I am.}

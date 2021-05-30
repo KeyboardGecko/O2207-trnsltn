@@ -23,7 +23,7 @@
 #Node001
 {10}{}{Greetings. What can I help you with?}
 {11}{002}{Hey, I'm }
-{14}{002}{, I'm here recently.}
+{14}{002}{, I came here recently.}
 {12}{002}{Hello. I was only looking around.}
 {13}{999}{I was just walking by. [end]}
 

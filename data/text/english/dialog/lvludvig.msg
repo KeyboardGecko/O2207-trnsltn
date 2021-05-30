@@ -21,7 +21,7 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 {10}{}{[You see an elderly man. He is busy with his business and doesn't pay you any attention.] }
-{11}{002}{Hello. I'm here recently, looking around Livos.}
+{11}{002}{Hello. I'm new here, I'm just looking around Livos.}
 {12}{002}{Hello. Do you hear me?}
 {13}{002}{Hello. Hey! I'm talking to you!}
 

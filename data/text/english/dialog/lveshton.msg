@@ -21,7 +21,7 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 {10}{}{[You see a dissatisfied man with a mustache. Seeing you he starts grumbling] Another someone poking his nose around. Who are you and why did you come here? What do you want? }
-{11}{002}{I'm here recently. Looking around the vault.}
+{11}{002}{I'm new here. Looking around the vault.}
 {12}{009}{Who are YOU?}
 {13}{011}{Hey. I'm new, meeting my neighbors.}
 

@@ -27,7 +27,7 @@
 #Node001
 {10}{}{[Before you is the man in an almost white lab coat. He is the cleanest and tidiest person you've ever seen in your life. On his nose, you see a pair of round glasses with small magnifying lenses. He looks skinny, sharp cheekbones clearly define his face. His lips are thin, its corners look down] Hinder, a doctor. [he waits a couple of seconds for your answer, but not getting anything, continues to study a huge pile of papers in his hands].}
 {11}{002}{I'm }
-{12}{002}{. I'm here recently.}
+{12}{002}{. I came here recently.}
 
 #Node002
 {20}{}{What do you want? [he didn't even take his eyes off the document he is reading. The more he looks into it, the less he pays attention to you]}

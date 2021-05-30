@@ -21,7 +21,7 @@
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
 {10}{}{[Before you is a man in his twenties. His clothes are covered with rivets, chains and pieces of metal] Hey there! }
-{11}{002}{Hello. I'm here recently, looking around the town.}
+{11}{002}{Hello. I came here recently, I'm just looking around the town.}
 
 {20}{}{[he gives you a wide smile] Hah, I'm going to tell you something about this town. It should be blown the hell up, to build a new one in its place! I'm Daniel, Mayor's son. After my dad kicks the bucket, I'll be in charge. And I'm going to turn this place upside down!}
 {21}{010}{Glad to meet you. I'd like to ask some questions.}

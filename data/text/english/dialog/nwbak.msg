@@ -45,16 +45,16 @@
 #Node004
 {40}{}{[he slightly calms down, although he isn't smiling anymore] The name's Burns. I'm the head of security around here. The kind of guys who can convince you that you are wrong and want to do the right thing. Hehe. [he grins]}
 {41}{005}{Oh, you mean your low-ranking hominids, like you?}
-{42}{010}{I'm here recently and have some questions. Of course, if the head of security can spare some time to answer them.}
+{42}{010}{I came here recently and have some questions. Of course, if the head of security can spare some time to answer them.}
 
 #Node005
 {50}{}{F- What?! }
-{51}{010}{Nevermind. I'm here recently and have some questions. Of course, if the head of security can spare some time to answer them.}
+{51}{010}{Nevermind. I came here recently and have some questions. Of course, if the head of security can spare some time to answer them.}
 {52}{998}{I'm saying that you are a retarded ape.}
 
 #Node006
 {60}{}{I'm Burns. I'm the head of security in NWO. }
-{61}{010}{I'm here recently. I'd like to ask some questions.}
+{61}{010}{I'm new here. I'd like to ask some questions.}
 
 #Node007
 {70}{}{I see you are a funny guy too? I think we'll get along just fine.}
@@ -65,7 +65,7 @@
 
 #Node008
 {80}{}{Yeah? Oh... Screw it then. I'm Burns, the head of security in this wonderful town.}
-{81}{010}{I'm here recently. I'd like to ask some questions.}
+{81}{010}{I'm new here. I'd like to ask some questions.}
 
 #Node009
 {90}{}{[he gets silent] My name is Burns. I'm in charge of the town's security. }
@@ -91,7 +91,7 @@
 
 #Node012
 {120}{}{You wouldn't make it here without jokes. Don't listen, if you don't like it. I'm Burns, the head of security.}
-{121}{010}{I'm here recently. I'd like to ask some questions.}
+{121}{010}{I'm new here. I'd like to ask some questions.}
 
 #Node013
 {136}{}{[Burns points below his belt] I can tell you about THIS place for sure, haha!! Okay, this town is called NWO, short for New World Order. We live peacefully and quietly, like in Lavash's ass. And I'm responsible for it to continue to be that way.}

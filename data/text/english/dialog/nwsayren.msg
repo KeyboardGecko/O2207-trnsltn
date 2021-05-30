@@ -23,7 +23,7 @@
 #Node001
 {10}{}{[You see a man in his thirties, wearing a smug smirk on his face. A couple of big scars on his cheeks and battered equipment identify him as someone who's been in trouble more than several times. He looks down upon you] Yes? Did you want something?}
 {11}{002}{Hello. I'm just looking around, making friends...}
-{12}{002}{Hey! I'm here recently. Looking for someone to chat with.}
+{12}{002}{Hey! I'm new here. Looking for someone to chat with.}
 {13}{002}{I'm walking here, back and forward. Want to talk.}
 
 #Node002
