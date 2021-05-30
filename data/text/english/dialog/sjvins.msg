@@ -89,16 +89,16 @@
 {212}{999}{Okay, see you around.}
 
 
-{220}{}{Hey, watch it! Although you're right, the weaklings don't last long, especially here... As far as I can remember, me and my parents had been traveling around the Ruins, through the wasteland, spending nights in caves or in basements of destroyed buildings - and we were used to such life. But one time... One time I watched a group of Jackals hunting down the pack of actual jackals. With guns and rifles, they were so fearless, so strong. That was the moment when I decided - I'd better become one of them and stand for myself than die in some cave. Still, I've sent my parents away from the base. The life here is too savage for them.}
+{220}{}{Hey, watch your mouth! You're right, though, the weak don't last long, especially here... As long as I can remember, my parents and I have always traveled through the Ruins, through the wastelands, sleeping in caves or in the basements of ruined buildings, and got used to such a life. But one day... One day I watched a group of Jackals hunt a pack of actual jackals. With pistols and rifles, they were so fearless, so strong. At that moment I decided - I'd rather be one of them and stand up for myself than die in some cave. Nevertheless, I sent my parents away from the base. Life here is too wild for them.}
 {221}{010}{What a story! I see now. I have another question.}
 
 
-{300}{}{What do you want me to tell you? I'm here for a couple of days myself... There's Loudmouth, he's in charge. Sits in his headquarters all day, deciding who's right and who's not. There's Mr. B - his actual name is Oscar Brown. Or maybe Oswald Bricken, I don't care. He's in charge of newbs. And mostly that's it, I don't know anyone else. Just remember not to hang around someone for too long, because the folks here are very high-strung and can rip off your head for literally nothing.}
+{300}{}{What do you want me to tell you? I'm here for a couple of days myself... There's Loudmouth, he's in charge. Sits in his headquarters all day, deciding who's right and who's not. There's Mr. B - his actual name is Oscar Brown. Or maybe Oswald Bricken, I don't care. He's in charge of newbs. And mostly that's it, I don't know anyone else. Just remember not to hang around someone for too long, because the folks here are very high-strung and can shoot your head off for literally nothing.}
 {301}{010}{I see, I see... Can I ask something else?}
 {302}{999}{I get it, okay. I'll go learn about the situation here.}
 
 
-{400}{}{Ah. Well, there's a rumor going that this shit-eating little dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking kick-ass competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into a fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
+{400}{}{Ah. Well, there's a rumor going that this shit-eating dick Casper talked Stan into kicking my ass... Man, he always sets up everyone, turning the guys here against each other - and then makes a fucking competition out of it! But the worst part is that he takes bets on the outcome! Long story short, I have absolutely no desire to get into a fight with Stan. I'm sure Casper already told him something stupid, and I really don't want to just stand here and wait for this fucking big-ass muscular disaster to sneak up on me.}
 {401}{041}{And? You want ME to deal with Stan??}
 {402}{999}{Oh screw that, I'm outta here.}
 
@@ -125,12 +125,12 @@
 {462}{999}{Cool. I could even apply for the Jackals, am I right? [wink and leave]}
 
 
-{470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole Lavash single-handedly. If he lands one punch, I'll be in the ground by the waist.}
+{470}{}{Are you stupid? Did you even see this behemoth? I think he's capable of eating the whole Lavash single-handedly. If he lands one punch, I'll be up to my waist in the ground.}
 {471}{048}{But you can bet against yourself and take a dive. Or bet against Stan and find a way to set him up. You'll win more than you lose anyway.}
-{472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best-case scenario - to clean the toilets. }
+{472}{049}{Bear in mind that by not standing for yourself you'll get the reputation of a weak schmuck. Then even the gate guarding duty is not an option. The best-case scenario is to clean the toilets. }
 
 
-{480}{}{[Vince thinks. Then nods] I think you're right. I'll handle it myself. And you can pass here anytime. The gate is always open.}
+{480}{}{[Vince thinks. Then nods] I think you're right. I'll handle it myself. And you can pass here anytime. The gate is open.}
 {481}{999}{Great. }
 
 

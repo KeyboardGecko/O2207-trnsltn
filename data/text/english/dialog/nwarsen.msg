@@ -264,11 +264,11 @@
 
 #Node040
 {400}{}{[Some guy in dirty clothes waves to you] Hey, wait! I've heard that you, like, asking around about Daniel. Don't side with Mark right away! Daniel is going to be a great Mayor! Come, uh, talk to me later.}
-{401}{999}{Huh. Okay, I won't be quick with my decisions.}
+{401}{999}{Huh. Okay.}
 
 #Node041
 {410}{}{[Arsene waves to you] Hey, wait! I've heard that you, like, asking around about Daniel. Don't side with Mark right away! Daniel is going to be a great Mayor! Come, uh, talk to me later.}
-{411}{999}{Okay, I will talk to you about it later.}
+{411}{999}{Okay...}
 
 {420}{}{[Arsene looks at you, opens his mouth to say something, but suddenly interrupts himself] It doesn't really, like, matter now, right? Nevermind.}
 {421}{010}{Okay, let's talk about something else.}
