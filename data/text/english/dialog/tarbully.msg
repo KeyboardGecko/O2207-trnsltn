@@ -57,7 +57,7 @@
 {105}{}{}
 {106}{}{}
 {107}{}{}
-{110}{}{Nothing to talk about! He threw a stone at me! It was on purpose, I've seen him aiming! He is done for, your brother!}
+{110}{}{Nothing to talk about! He threw a stone at me! It was on purpose, I've seen him aiming! Your brother is done for!}
 {111}{}{Oh... If he started it, you both figure it out. I won't be a part of this.}
 {112}{}{I know your type, always looking for an excuse to pester someone! Now you're gonna get it, come here!}
 {113}{}{Oh, come on! It was an accident! You don't look like an idiot, you understand that he didn't want any problems with you!}#

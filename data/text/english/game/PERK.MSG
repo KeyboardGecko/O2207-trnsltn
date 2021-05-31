@@ -87,7 +87,7 @@
 {181}{}{Cautious Nature}
 {182}{}{Comprehension}
 {183}{}{Demolition Expert}
-{184}{}{Gambler}
+{184}{}{Lover}
 {185}{}{Gain Strength}
 {186}{}{Gain Perception}
 {187}{}{Gain Endurance}
