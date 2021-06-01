@@ -31,20 +31,20 @@
 {13}{004}{Who the hell are you?}
 
 
-{20}{}{Either you have no brains at all, you imbecile, or just eager to die. I'm not someone you could talk like that to. I'll look past your fuckin' stupidity this time. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{20}{}{Either you have no brains at all, you imbecile, or just eager to die. I'm not someone you could talk like that to. I'll look past your fuckin' stupidity this time. I'm Casper, a bookie. Appointed by Loudmouth himself.}
 {21}{005}{So you can take bets then?}
-{22}{006}{A bookmaker? You? Don't make me laugh.}
+{22}{006}{A bookie? You? Don't make me laugh.}
 {23}{998}{It's time to teach you some manners... [attack]}
 
 
-{30}{}{You shite, it's you who'll get your mouth caved in if you talk like that. I'll look past your fuckin' stupidity this time. You will address me with respect. I'm Casper, a bookmaker. Appointed by Loudmouth himself.}
+{30}{}{You shite, it's you who'll get your mouth caved in if you talk like that. I'll look past your fuckin' stupidity this time. You will address me with respect. I'm Casper, a bookie. Appointed by Loudmouth himself.}
 {31}{005}{So you can take bets then?}
-{32}{006}{A bookmaker? You? Don't make me laugh.}
+{32}{006}{A bookie? You? Don't make me laugh.}
 {33}{007}{"With respect"? "I'll look past your stupidity"? Do you fucking want to die?}
 {34}{998}{It's time to teach you some manners... [attack]}
 
 
-{40}{}{I'm a bookmaker. Taking bets, setting fights, fucking girls, picking on arseholes like you.}
+{40}{}{I'm a bookie. Taking bets, setting fights, fucking girls, picking on arseholes like you.}
 {41}{008}{You are so adorable. Can I call you "sweetie"?}
 {42}{998}{And I am some guy from the wasteland, who will now take away your ability to do all that. [attack]}
 {43}{009}{Wow. I haven't talked to such high-grade shit for a really long time.}

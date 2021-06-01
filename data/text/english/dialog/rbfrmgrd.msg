@@ -41,7 +41,7 @@
 #
 #‡„…‘œ €—ˆ€…’‘Ÿ „ˆ€‹ƒ
 #
-{10}{}{Hey, what the hell are you snitching here, you sniff? This area is fucking restricted, so get the fuck away before you're drowned in bullets!}
+{10}{}{Hey, what the hell are you snooping here, you sniff? This area is fucking restricted, so get the fuck away before you're drowned in bullets!}
 {11}{}{Calm down! I'm here on a mission from Mate [make a conspiratory face] "to collect ant bellies".}
 {12}{}{What's the problem? I didn't see the sign saying "area is fucking restricted"!}
 {13}{}{Okay, got it, already leaving.}

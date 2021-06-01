@@ -94,7 +94,7 @@
 {180}{}{[he leans forward, looking into your eyes] Why do you care? I'm so sick of you all! I am just relaxing here, alright?}
 {181}{019}{You are right, that's not my business. But the folks around here are pretty suspicious. And here you are, who knows for what... Is it really such a big secret? I mean, you don't look like someone on an important mission, no offense.}
 {182}{019}{Is that so? I was just thinking about giving you a discount, for our regular customer...}
-{183}{019}{Really? When go fetch a badge, then you're the best buddy, and when I need some answer on a simple question - then you tell me to get the fuck away?}
+{183}{019}{Really? So when I find you your badge, you act like I'm your best buddy, but when I ask a simple question -  you tell me to fuck off?}
 {184}{024}{Either you tell me, or I'm putting you to eternal relaxation!}
 {185}{999}{To hell with you then, nervous one. Relax further.}
 

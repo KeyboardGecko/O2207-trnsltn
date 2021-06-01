@@ -96,7 +96,7 @@
 
 {130}{}{[Looks like Crank puts a great effort to divide his attention into two parts - one on calculations in his mind, and the other on assessing everything around and comprehending it. Although, you understand that now he sees you quite clearly.]}
 {131}{014}{Remind me, what do you want me to do?}
-{132}{015}{Here's the "Baraka" gun.}
+{132}{015}{Here is it, your "Baraka".}
 {133}{016}{About "Baraka" testing...}
 
 

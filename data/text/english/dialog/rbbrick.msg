@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[This guy looks like Ursa wearing a leather jacket. When you approach, he gets more tense, trying to look even bigger] Hey! Where do you think you're going? Better fetch me some beer from the bar, will you? Tell Apothecary that it's for Brick. No one goes here. Except maybe some juicy chicks with big boobs... And no more than for five minutes! [he hoarsely laughs]}
+{10}{}{[This guy looks like an Ursa wearing a leather jacket. When you approach, he gets more tense, trying to look even bigger] Hey! Where do you think you're going? Better fetch me some beer from the bar, will you? Tell Apothecary that it's for Brick. No one goes here. Except maybe some juicy chicks with big boobs... And no more than for five minutes! [he hoarsely laughs]}
 {11}{011}{Five minutes, that's it? Looks like they don't visit this place very often...}
 {12}{013}{Brick, right? We need to talk.}
 {13}{012}{What's it you are so furiously guarding here?}
