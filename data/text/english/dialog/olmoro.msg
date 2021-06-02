@@ -101,7 +101,7 @@
 #Node014
 {140}{}{Yes... A female Servant.}
 {141}{016}{Aren't you the charming one.}
-{142}{015}{How do I'm getting her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
+{142}{015}{How am I supposed to get her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
 
 #Node015
 {150}{}{You will bring the female Servant to me, using this thing [Moreau gives you a syringe]. As I said, it's simple. Pick a female, inject the serum, bring her to me.}
@@ -109,7 +109,7 @@
 
 #Node016
 {160}{}{Stop it. This is beside the point.}
-{161}{015}{How do I'm getting her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
+{161}{015}{How am I supposed to get her to come with me? By telling her "The mad scientist wants you up there, let's go"?}
 
 #Node017
 {170}{}{I need her to... "calibrate" the cloning machine. Recent events are messed up its "tuning" a little. }
