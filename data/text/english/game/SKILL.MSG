@@ -107,16 +107,16 @@
 # Fallout 2: Party Member skill use generic responses
 #
 #   I'll try
-{1000}{}{Let me help.}
-{1001}{}{I can do that.}
-{1002}{}{I got it.}
-{1003}{}{Glad to help.}
-{1004}{}{Okay.}
-{1005}{}{I'll try.}
+{1000}{}{}
+{1001}{}{}
+{1002}{}{}
+{1003}{}{}
+{1004}{}{}
+{1005}{}{}
 
 #   Player wants to do it
-{1100}{}{If you have trouble, let me know.}
-{1101}{}{You got it?}
-{1102}{}{If that's what you want.}
-{1103}{}{Go ahead and try.}
-{1104}{}{You go ahead.}
+{1100}{}{}
+{1101}{}{}
+{1102}{}{}
+{1103}{}{}
+{1104}{}{}
