@@ -22,9 +22,6 @@ Additional help to the project
 @Russian version is narrated by
 #Vladimir Neroda
 
-@English version is narrated by
-#Milky
-
 @special thanks for project development and bug fixing
 #Foxx
 #Pyran
@@ -36,6 +33,10 @@ Additional help to the project
 #Matt Drax aka fedprod
 #Quantum Apprentice
 #Milky
+#Mainvity
+#originalname
+#gustarballs1983
+#3pete
 
 
 Musical score:
