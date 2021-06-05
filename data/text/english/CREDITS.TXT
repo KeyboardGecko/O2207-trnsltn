@@ -22,12 +22,15 @@ Additional help to the project
 @Russian version is narrated by
 #Vladimir Neroda
 
+@English version is narrated by
+#Warlockracy
+
 @special thanks for project development and bug fixing
 #Foxx
 #Pyran
 
 @English translation by
-#keyboard gecko
+#Keyboard Gecko
 
 @with a special thanks to
 #Matt Drax aka fedprod
