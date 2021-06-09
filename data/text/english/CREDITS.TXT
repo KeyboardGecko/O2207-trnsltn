@@ -25,7 +25,7 @@ Additional help to the project
 @English version is narrated by
 #Warlockracy
 
-@special thanks for project development and bug fixing
+@special thanks for project development and bug-fixing
 #Foxx
 #Pyran
 

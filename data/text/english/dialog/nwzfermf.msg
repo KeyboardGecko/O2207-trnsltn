@@ -101,7 +101,7 @@
 {1046}{}{How can you trust the leadership of this place to someone who has his brains rotten to the core?}
 {1047}{}{I'm no racist, but Sam as the Leader is too much...}
 {1048}{}{Man, what times are we live in...}
-{1049}{}{::вздох::}
+{1049}{}{::sigh::}
 #Даниэль (сын Марка) стал Руководителем
 {1050}{}{I wouldn't say that I'm smart. But I would say that Daniel is way more stupid.}
 {1051}{}{In my childhood the child couldn't be trusted with a weapon, let alone the whole town...}

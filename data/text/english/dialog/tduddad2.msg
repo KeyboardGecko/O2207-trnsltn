@@ -55,7 +55,7 @@
 {105}{}{Uhh... Nothing.}
 {106}{}{I'm on a daily duty already. Herald tasked me with finding out why Lavash are getting sick... I don't even know where to start.}
 {110}{}{You know how it is - the head of each family looks after his corner. And our sink is leaking again. That damn sink!}
-{111}{}{Yes, I know this, but shouldn't you be on the Farm, working for mom?}
+{111}{}{Yes, I know, but shouldn't you be on the Farm, working for mom?}
 {112}{}{What would Herald say about it? He always complains about the lack of people on the Farms.}
 {113}{}{I see. Well, off to do labor then.}
 {114}{}{Why didn't you save mom? You could have done something!}
@@ -64,7 +64,7 @@
 {117}{}{Yes, you'd better believe in that.}
 {118}{}{I'll try... And I need to go.}
 {119}{}{No way! It's somebody's fault! And one day this somebody's gonna pay! [leave]}
-{1201}{}{Ohh... These farms led Elize to the Mouth of Hades, and they will do the same to me. I'm lucky Dr. Pat allows me to now overwork myself and to rest here often.}
+{1201}{}{Ohh... These farms led Elize to the Mouth of Hades, and they will do the same to me. I'm lucky Dr. Pat allows me to not to overwork myself and to rest here sometimes.}
 {121}{}{I need to talk to Dr. Pat, maybe he could give me a day off too.}
 {122}{}{Mom... I miss her so much...}
 {123}{}{You know, you're right. You need to rest.}

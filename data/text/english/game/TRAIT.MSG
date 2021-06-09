@@ -17,7 +17,7 @@
 {110}{}{Good Natured}
 {111}{}{Chem Reliant}
 {112}{}{Chem Resistant}
-{113}{}{Mechanical memory}
+{113}{}{Mech. memory}
 {114}{}{Skilled}
 {115}{}{Gifted}
 #
