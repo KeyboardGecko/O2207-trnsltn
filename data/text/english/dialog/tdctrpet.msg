@@ -43,7 +43,7 @@
 {112}{012}{Sounds difficult. Where do these rays come from?}			
 {113}{999}{I'm bored. Let's leave this boring conversation for later.}	
 {120}{}{It's hard to say for sure, but it seems that these rays come from specific stones and metal. The tower beneath us is made of metal too, but only on the outside. On the inside, it is protected by anti-radiation stuff. I don't know for sure, engineers deal with it, not doctors.}   			
-{121}{013}{En-gi-neers... Who? Are they the Sons of Gods too? Actually, who are these "Sons of Gods"? And who are the "Gods?" Do they live in the tower?} 
+{121}{013}{En-gi-neers... Who? Are they the Sons of the Gods too? Actually, who are these "Sons of the Gods"? And who are the "Gods?" Do they live in the tower?} 
 {130}{}{You are asking too many dangerous questions. I would be glad to tell you the truth, but I'm afraid this knowledge will only make more problems. I'm sure you'll find it all out in your time.}
 {131}{014}{Fine, I don't have time for it anyway. How can I help my dad?} 
 {132}{999}{Great! Thanks for the help. I'll go figure everything out right now.} 

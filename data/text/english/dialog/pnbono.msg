@@ -68,8 +68,8 @@
 
 {110}{}{Tartarus... Yeah... Tartarus is a great place to, uh, live. It's interesting, really - you, who came from Tartarus, are asking me, who has never been there, to tell you about it. Better answer me, why did you run away from there?}
 {111}{012}{Run away? This was an accident! I never even thought about running away from serving...}
-{112}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident.}
-{113}{013}{Run away... Serving, serving, nothing except serving the Sons of Gods - and the Gods themselves. But I didn't run away, this was... A strange accident. Usually, the Sons of Gods don't make such fast accusations.}
+{112}{013}{Run away... Serving, serving, nothing except serving the Sons of the Gods - and the Gods themselves. But I didn't run away, this was... A strange accident.}
+{113}{013}{Run away... Serving, serving, nothing except serving the Sons of the Gods - and the Gods themselves. But I didn't run away, this was... A strange accident. Usually, the Sons of the Gods don't make such fast accusations.}
 {114}{014}{Uh, yeah, sure I ran away! I always knew that life is not only about serving Gods, there must be something more to it, some... Higher purpose, I suppose.}
 
 

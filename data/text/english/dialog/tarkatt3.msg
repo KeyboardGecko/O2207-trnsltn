@@ -44,7 +44,7 @@
 {11}{002}{Yes, it's-}
 {12}{002}{No, it's not me.}
 
-{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgotten how you ran off after the guard's death.}
+{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. The Sons of the Gods haven't forgotten how you ran off after the guard's death.}
 {21}{003}{Yeah, I'm glad to see you too, Catty.}
 {22}{004}{I didn't even lay a finger on that guard!}
 {23}{005}{I was actually trying to help that guard!}
@@ -109,7 +109,7 @@
 {170}{}{Oh Gods, just take off this goddamn helmet!}
 {171}{003}{Okay... [take off your helmet]}
 
-{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. Sons of Gods haven't forgotten how you ran off after the guard's death.}
+{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. The Sons of the Gods haven't forgotten how you ran off after the guard's death.}
 {181}{019}{You know, I'm wearing this armor not just for kicks.}
 
 {190}{}{Yeah... Sure... [Catty still looks nervous. She makes sure no one is looking one more time, then sighs and silently hugs you] Oh Gods... I'm so glad to see you again. I never thought you'd survive... I've seen the guard's corpse. The wounds were... Scary. And he had armor on him, unlike you. And that damn guards still think that it was you who killed him. They have their brains completely murky from all of the booze...}
@@ -136,7 +136,7 @@
 {250}{}{It's... You! I... I'm so glad to see you! I would even hug you, but... Is this your blood on your armor? Oh, is that brain on your boots? }
 {251}{026}{Huh... That was not the way I envisioned our meeting.}
 
-{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of Gods. You know I don't approve of it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think I should hide, I know some places. Let's meet after it's over. [she runs off]}
+{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of the Gods. You know I don't approve of it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think I should hide, I know some places. Let's meet after it's over. [she runs off]}
 {261}{999}{[end of dialogue]}
 
 {270}{}{[she blushes and lowers her eyes] No, not at all. It's just... You were absent for a really long time. I thought you died. And... I started to think about my future, you know. You, uh, do get it, right?}
@@ -150,8 +150,8 @@
 {291}{010}{[smile]}
 
 {300}{}{You know, nothing special, since we've met last time. It's the same... Nothing is going on.}
-{301}{}{[she lowers her eyes] Lately, the Sons of Gods require sacrifices. The guards just grab women and take them away at least once every two weeks. And we have only one who returned, but she doesn't speak and behaves strangely. Doc said she has bruises on her back, arms, and legs... I... I'm scared. I try not to think much, but I am scared.}
-{302}{}{Do you remember me telling you about the guards taking women away? Looks like even Sons of Gods themselves started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harassment. I doubt she made it alive... But scarier is to think what Herald did to her.}
+{301}{}{[she lowers her eyes] Lately, the Sons of the Gods require sacrifices. The guards just grab women and take them away at least once every two weeks. And we have only one who returned, but she doesn't speak and behaves strangely. Doc said she has bruises on her back, arms, and legs... I... I'm scared. I try not to think much, but I am scared.}
+{302}{}{Do you remember me telling you about the guards taking women away? Looks like even the Sons of the Gods themselves started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harassment. I doubt she made it alive... But scarier is to think what Herald did to her.}
 {303}{}{[Catty gives you a weak smile] The life gets worse, the food is scarce, the water is dirtier, fewer children around... Do you want me to go on?}
 {304}{010}{Well... The stability isn't so bad. Better than worsening, at least.}
 {305}{010}{Yeah, the stability sucks, when it's consistently bad.}

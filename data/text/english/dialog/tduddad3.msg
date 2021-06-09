@@ -58,7 +58,7 @@
 {111}{}{It's alright, I get it. You know...}
 {112}{}{Of course. Get some rest. I'll be back.}
 {113}{}{I'm trying to get on my feet, but this sickness is damn resilient. I don't think I'm completely healed. I need to rest.}
-{120}{}{[he sighs heavily] You know that I don't like it. Our home is here, and you always go there, looking for your death. Stay with us! We'll hide you from the Sons of Gods.}
+{120}{}{[he sighs heavily] You know that I don't like it. Our home is here, and you always go there, looking for your death. Stay with us! We'll hide you from the Sons of the Gods.}
 {121}{}{I haven't finished my business outside. But I will be back, I assure you.}
 {122}{}{No. This is not a life for a free man! There's a vast and wondrous world outside, while you live here as slaves! Don't ask for it, I won't stay.}
 {123}{}{I'll think about it in my spare time.}
