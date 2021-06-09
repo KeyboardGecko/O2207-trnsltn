@@ -15,7 +15,7 @@
 {2}{}{He is busy inspecting some kind of energy weapon.}
 #
 # ïîñëå çíàêîìñòâà
-{3}{}{You see Christopher.}
+{3}{}{You see Christopher Schwein.}
 {4}{}{Looks like he tolerates you only because you are a potential buyer.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
@@ -31,9 +31,9 @@
 {102}{012}{Tell me, which goods do you have in stock?}
 {103}{011}{What do you do here?}
 {104}{015}{What is this place?}
-{105}{036}{There was a problem with the recent water delivery at NWO. I'm here to find out the reason.}
+{105}{036}{There was a problem with the recent water delivery at NWO...}
 {106}{029}{I'd like to talk about Mignon Horton.}
-{107}{035}{Can you give a discount? I'm one of us, after all. I'm a Livos dweller.}
+{107}{035}{Can you give a discount? I'm a Livos dweller.}
 {108}{038}{Christopher! I want to talk about Mignon's behavior!  }
 {109}{999}{We'll talk later, bye.}
 
@@ -158,7 +158,7 @@
 {350}{}{No discounts. If you are one of us, then your money will return to Livos through me.}
 {351}{010}{I see. Another question.}
 
-{360}{}{Hm... Boston McKinsey is responsible for the whole water supply. He is inside the vault. I heard there's some problem with the water filter, though. }
+{360}{}{Hm... Boston McKinsey is responsible for the water supply. He is inside the vault. I heard there could be a problem with the water filter. }
 {361}{034}{Can I talk to him?}
 {362}{037}{I could fix the filter. I'm good with fixing things.}
 
