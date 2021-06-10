@@ -53,7 +53,7 @@
 {43}{}{Where can I get the water canisters for Lavash?}
 {44}{}{No, nothing, I understood everything. Off to do my labor.}
 {45}{}{I fixed the fuse box...}
-{50}{}{They are acting strange - don't eat, drink a lot, their feces are more smelly than usual. And most of all, they are getting thinner and don't breed. If it continues like this, we would have nothing to feed us with, and the Gods will get angry!}
+{50}{}{They are acting strange - don't eat, drink a lot, their manure is more smelly than usual. And most of all, they are getting thinner and don't breed. If it continues like this, we would have nothing to feed us with, and the Gods will get angry!}
 {51}{}{That's very bad... I'll go look into it.}
 {52}{}{I see. Can I ask something else?}
 {60}{}{You are wearing the suit of Technology Servant, yet you don't know how to deal with electricity? Another question like this, and you will become a Life Servant! Just repair this fuse box. If you have some doubts, ask your teachers, Smitty or Carol. They are on a Maintenance level.}

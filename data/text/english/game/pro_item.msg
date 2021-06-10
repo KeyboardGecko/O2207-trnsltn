@@ -580,7 +580,7 @@
 {29001}{}{A small adjustable pipe wrench in perfect condition.}
 {29100}{}{Corn}
 {29101}{}{A mouthwatering cob of corn.}
-{29200}{}{Water Container}
+{29200}{}{Water Canister}
 {29201}{}{The water strongly smells of rotten meat.}
 {29300}{}{*Bracket*}
 {29301}{}{One of the parts for the pump valve filter.}
