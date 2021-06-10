@@ -51,7 +51,7 @@
 {103}{}{Nothing. Bye, butcher.}
 {104}{}{Herald told me that you need water. How much exactly?}
 {105}{}{I brought water. Here.}
-{110}{}{I'm looking after Lavash. You know, feed them, give them water, sometimes cut their thighs... [he laughs]}
+{110}{}{I'm looking after Lavash. You know, feed them, give them water, sometimes cut off their thighs... [he laughs]}
 {111}{}{I see. Well, keep up the good work.}
 {112}{}{I see. I heard your Lavash are getting sick? They look pretty sick to me...}
 {120}{}{Uhhh... Yeah. But it's not my fault! They just suddenly started having diarrhea, stopped eating, mooing all the time, falling. I don't know what's wrong with them.}
