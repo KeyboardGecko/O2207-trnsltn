@@ -81,7 +81,7 @@
 {152}{}{Why should I do all the work?! Although, what choice do I have... Give me that.}
 {160}{}{When you find the details, just put everything together - and you'll get a working node! Then you need to install it into the machine, and that's it! Easy!}
 {161}{}{I figured as much... Okay, I'm off to look for the parts.}
-{162}{}{I see... Thanks for the instruction, I'll go to search.}
+{162}{}{I see... Thanks for the instructions, I'll go on search.}
 {170}{}{Hah! Aren't you a sly dog? You do know that there are almost no bottles left, and yet you are still asking! You know what? I can give you a bottle. For a little favor.}
 {171}{}{Who could doubt that. Tell me about this "favor".}
 {172}{}{I don't need it right now. I want to ask something.}
@@ -91,7 +91,7 @@
 {190}{}{What a skillful man you are! Just kidding, even a baby could assemble it. [he laughs] But I keep my word, here's the bottle. Don't drop it!}
 {191}{}{Come on, you old kidder... [take a bottle] Okay, I'll go put it to use.}
 {2001}{}{[scratches his head] Well, you can't do much without a bottle here... No, you definitely can't. If you know what I mean.}
-{2002}{}{Find the parts first! Do you expect me to run around and search for them? I'm not so young, you see.}
+{2002}{}{Find the parts first! Do you expect me to run around and search for them? I'm not so young, you see. If you have already forgotten where to look for them, I'll repeat - the valve can be found on the parking lot. As for the bracket - ask the kids on a residential level.}
 {201}{}{Smitty, I know you! You are the real professional! And professionals are doing a good job in any condition!}
 {202}{}{A bottle of booze? I suppose there's a bottle needed for it, and I gave it to a guard... Be back soon.}
 {203}{}{Okay, okay, I'll go look for parts.}
