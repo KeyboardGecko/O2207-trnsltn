@@ -4,10 +4,10 @@
 
 NEBESA GAMES, 2010-2015
 
-@Lead game designer - project leading, game idea, quest writing, characters, dialogues, maps
-#Artyom RAINMAN Samoilov
+@Lead game designer: quest writing, characters, maps
+#Artem RAINMAN Samoilov
 
-@Lead artist - UI design, modeling and rendering, CGI videos, rendering and assembling maps
+@Lead artist: UI design, CGI videos, maps
 #Alexander SAUR Berezin
 
 @Dialog writer, coordination, community management, design
@@ -19,11 +19,8 @@ Additional help to the project
 @Testing and editing maps, texts, items
 #Elena Samoilova
 
-@Russian version is narrated by
-#Vladimir Neroda
-
 @English version is narrated by
-#Warlockracy
+#Nikolaj "Warlockracy" Kazimirko-Kirillov
 
 @special thanks for project development and bug-fixing
 #Foxx
