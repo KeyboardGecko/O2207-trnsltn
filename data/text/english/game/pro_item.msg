@@ -67,7 +67,7 @@
 {3400}{}{Shotgun Fist}
 {3401}{}{Whoa, someone mounted a shotgun in these knuckles. Be careful, the blood of your victims can jam the mechanism. Min ST: 5}
 {3500}{}{Aluminum Knuckles}
-{3501}{}{Small, light, featureless, but these brass knuckles will help you not to snap your fingers with someone's jaw. Min ST: 2}
+{3501}{}{Small, light, featureless, but these aluminum knuckles will help you not to snap your fingers with someone's jaw. Min ST: 2}
 {3600}{}{Brass Knuckles}
 {3601}{}{That's more like it! With these brass knuckles, you can break someone's skull or kneecaps. Min ST: 4}
 {3700}{}{Spiked Knuckles}
