@@ -8,18 +8,18 @@
 #
 {10}{}{Welcome to the Portable Crafting System "Hand-Made Stuff"!}
 {11}{}{         What would you like to build today?}
-{12}{}{Reminder: in order to successfully assemble something, you must have all of the items listed in the box to your left. In addition, your skills must meet the required minimum. Your current skills are shown in the box to your right, under "CURRENT", required skills are listed under "REQUIRED". You must have a repair skill of at least 100% to craft most things. In addition, extra requirements are possible and are listed under "INFORMATION".}
+{12}{}{Reminder: in order to successfully assemble something, you must have all of the items listed in the box to your left. In addition, your skills must meet the required minimum. Look at the right part of interface: your current skills are shown under "CURRENT", required skills are listed under "REQUIRED". You should have a repair skill of at least 100% to craft most things. In addition, extra requirements are possible and are listed under "INFORMATION".}
 {13}{}{Sorry, but you are missing something. Maybe Intelligence?}
 {14}{}{Sorry, but you are missing something. Do you really have both hands in place?}
-{15}{}{Sorry, but you are missing something. You don't have to be persistent!}
+{15}{}{Sorry, but you are missing something. You don't have to be so persistent!}
 {16}{}{Sorry, but you are missing something. We remind you that the System is not to blame for your problems!}
 {17}{}{You did it! We hope that the resulting design will be useful to you!}
 {18}{}{Unbelievable! You did it! The result is definitely worth the raw materials spent on it!}
 {19}{}{It's a pleasure serving such a skilled craftsman! Enjoy the result of your labors!}
 #
-{50}{}{..CURRENT..}
-{51}{}{..REQUIRED..}
-{52}{}{..INFORMATION..}
+{50}{}{-CURRENT-}
+{51}{}{-REQUIRED-}
+{52}{}{-INFORMATION-}
 #
 {60}{}{ > STRENGTH = }
 {61}{}{ > INTELLIGENCE = }

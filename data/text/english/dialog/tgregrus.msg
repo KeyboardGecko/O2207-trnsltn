@@ -128,7 +128,7 @@
 {220}{}{DEEEEATH!!! DEATH THROUGH THE MOUTH OF HADES!!!!! GUARDS!!!!}
 {221}{}{[put your head down and step aside]}
 {222}{}{About Bardock...}
-{230}{}{He is a danger to all of us. He can't be allowed to live with us, breathe our air, have the joy in humble Serving. And you - you did the right thing. You are cleansing the flock of bad sheep, you... You are going to go far.}
+{230}{}{He is a danger to all of us. He can't be allowed to live with us, breathe our air, have the joy in humble serving. And you - you did the right thing. You are cleansing the flock of bad sheep, you... You are going to go far.}
 {231}{}{Oh... Thanks. I'd very much like to go... Far.}
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Положительная реакция)
