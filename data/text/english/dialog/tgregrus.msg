@@ -75,7 +75,7 @@
 {107}{}{It's about that broken water filtering machine...}
 {108}{}{Herald, you know everything about everyone here, right? There's one black man in the parking lot...}
 {109}{}{I want to report about a horrible... God-... Murder.}
-{110}{}{That task do you want to discuss?}
+{110}{}{What task do you want to discuss?}
 {111}{}{About Lavash.}
 {112}{}{About the fuse box.}
 {113}{}{About water canisters.}
