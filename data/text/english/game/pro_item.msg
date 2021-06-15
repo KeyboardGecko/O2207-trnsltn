@@ -855,7 +855,7 @@
 {42800}{}{72% Soap}
 {42801}{}{Don't eat it!!!}
 {42900}{}{Old Spork}
-{42901}{}{The most ingenious invention of mankind, the spork. Half spoon, halt fork, and his own best friend!}
+{42901}{}{The most ingenious invention of mankind, the spork. Half spoon, half fork, and its own best friend!}
 {43000}{}{Metal Spoon}
 {43001}{}{You can eat with it. Or dig a grave for a rat.}
 {43100}{}{Metal Cup}
@@ -874,7 +874,7 @@
 {43701}{}{A reel of rolled up five millimeters thick metal sheets.}
 {43800}{}{Tin can}
 {43801}{}{An old rusty tin can.}
-{43900}{}{Dried Leaves}
+{43900}{}{Bag of Dried Leaves}
 {43901}{}{A couple of handfuls of dried leaves. Excellent fertilizer!}
 {44000}{}{Ash}
 {44001}{}{A handful of wood ash.}
@@ -886,7 +886,7 @@
 {44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}
 {44401}{}{}
-{44500}{}{Seedy Disk}
+{44500}{}{Shady CD-Disk}
 {44501}{}{Sounds like someone's amateur fan-fiction.}
 {44600}{}{Scientific Report}
 {44601}{}{A label on the side reads "The Gamma Project"}

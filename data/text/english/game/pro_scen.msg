@@ -384,15 +384,15 @@
 {20000}{}{a motorcycle}
 {20001}{}{A rusty motorcycle of the Sunset Jackals.}
 {20100}{}{a sign}
-{20101}{}{The sign on this post is pretty rust.}
+{20101}{}{The sign on this post is pretty rusty.}
 {20200}{}{a sign}
 {20201}{}{It's not very clear what it was pointing at.}
 {20300}{}{a sign}
-{20301}{}{The sign on this post is pretty rust.}
+{20301}{}{The sign on this post is pretty rusty.}
 {20400}{}{a sign}
-{20401}{}{The post is pretty rust.}
+{20401}{}{The post is pretty rusty.}
 {20500}{}{a sign}
-{20501}{}{The sign is pretty rust.}
+{20501}{}{The sign is pretty rusty.}
 {20600}{}{an old mattress}
 {20601}{}{This mattress discourages any desire to take a nap on or even go near it.}
 {20700}{}{an old mattress}
