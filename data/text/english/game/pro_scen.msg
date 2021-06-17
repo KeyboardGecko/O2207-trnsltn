@@ -3308,15 +3308,15 @@
 {181800}{}{a door}
 {181801}{}{Leads to the hotel's lobby.}
 {181900}{}{a door}
-{182000}{}{a blood}
+{182000}{}{blood}
 {182001}{}{Somebody died here quite recently.}
-{182100}{}{a blood}
+{182100}{}{blood}
 {182101}{}{Not the freshest.}
-{182200}{}{a blood}
+{182200}{}{blood}
 {182201}{}{Mother always told you that this liquid should be INSIDE, not outside.}
-{182300}{}{a blood}
+{182300}{}{blood}
 {182301}{}{Looks like someone's bones are in this puddle.}
-{182400}{}{a blood}
+{182400}{}{blood}
 {182401}{}{Mother always told you that this liquid should be INSIDE, not outside.}
 {182500}{}{bones and guts}
 {182501}{}{The mortal remains that smell of fresh blood.}
@@ -3340,7 +3340,7 @@
 {183401}{}{Look impregnable.}
 {183500}{}{the staircase}
 {183501}{}{The steps form a wide staircase.}
-{183600}{}{a blood}
+{183600}{}{blood}
 {183601}{}{The blood has already had time to soak in.}
 {183700}{}{blood, guts, bones.}
 {183701}{}{You see someone's rich inner world in front of you.}
@@ -3775,27 +3775,27 @@
 {206101}{}{It could easily stab you.}
 {206200}{}{a stake}
 {206201}{}{It's sharp. Looks menacing.}
-{206300}{}{a blood}
+{206300}{}{blood}
 {206301}{}{Dried bloody stain.}
-{206400}{}{a blood}
+{206400}{}{blood}
 {206401}{}{Dried bloody stain.}
-{206500}{}{a blood}
+{206500}{}{blood}
 {206501}{}{Looks pretty old.}
-{206600}{}{a blood}
+{206600}{}{blood}
 {206601}{}{Dried bloody stain.}
-{206700}{}{a blood}
+{206700}{}{blood}
 {206701}{}{Already dried and soaked.}
 {206800}{}{a weather vane}
 {206801}{}{The flag shows the direction of the wind.}
-{206900}{}{a blood}
+{206900}{}{blood}
 {206901}{}{You wonder whose blood this is.}
-{207000}{}{a blood}
+{207000}{}{blood}
 {207001}{}{These remains are several days old and smell like it.}
-{207100}{}{a blood}
+{207100}{}{blood}
 {207101}{}{These remains stink a lot.}
-{207200}{}{a blood}
+{207200}{}{blood}
 {207201}{}{Somebody was very unlucky.}
-{207300}{}{a blood}
+{207300}{}{blood}
 {207301}{}{You're looking at someone's inner world, and it's not the freshest.}
 {207400}{}{a thing to practice beating on}
 {207401}{}{It's better to practice moves on it than on real people.}
@@ -3949,25 +3949,25 @@
 {214801}{}{This one can pierce something.}
 {214900}{}{a broken stake}
 {215000}{}{a broken stake}
-{215100}{}{a blood}
+{215100}{}{blood}
 {215101}{}{It's old dried blood.}
-{215200}{}{a blood}
+{215200}{}{blood}
 {215201}{}{Mother always told you that this liquid should be INSIDE, not outside.}
-{215300}{}{a blood}
+{215300}{}{blood}
 {215301}{}{Blood and sand.}
-{215400}{}{a blood}
+{215400}{}{blood}
 {215401}{}{Dried bloody stain.}
-{215500}{}{a blood}
+{215500}{}{blood}
 {215501}{}{Dried bloody stain.}
-{215600}{}{a blood}
+{215600}{}{blood}
 {215601}{}{Dried bloody stain.}
-{215700}{}{a blood}
+{215700}{}{blood}
 {215701}{}{You wonder whose blood it is.}
-{215800}{}{a blood}
+{215800}{}{blood}
 {215801}{}{Dried bloody stain.}
-{215900}{}{a blood}
+{215900}{}{blood}
 {215901}{}{Dried bloody stain.}
-{216000}{}{a blood}
+{216000}{}{blood}
 {216001}{}{Dried bloody stain.}
 {216100}{}{bones}
 {216101}{}{These are the bones of the rarest extinct animal. Too bad you don't collect bones.}
@@ -3979,15 +3979,15 @@
 {216401}{}{It looks like it was some kind of animal.}
 {216500}{}{bones}
 {216501}{}{They seem to be very fragile.}
-{216600}{}{a blood}
+{216600}{}{blood}
 {216601}{}{Dried bloody stain.}
-{216700}{}{a blood}
+{216700}{}{blood}
 {216701}{}{Red blood, white bones - a beautiful combination of colors.}
-{216800}{}{a blood}
+{216800}{}{blood}
 {216801}{}{You wonder who that blood belonged to.}
-{216900}{}{a blood}
+{216900}{}{blood}
 {216901}{}{Dried bloody stain.}
-{217000}{}{a blood}
+{217000}{}{blood}
 {217001}{}{You wonder who that blood belonged to.}
 {217100}{}{a shack}
 {217101}{}{It reeks of blood and urine.}
