@@ -63,7 +63,7 @@
 {114}{}{Stop thanking me, I told you that I'm just happy to help! Anyway, see you!}
 {115}{}{I'll never get tired of listening to your words of gratitude! The job was VERY hard - but worth it! [leave, enjoying your humbleness]}
 {1201}{}{You are right, of course, but it doesn't make me feel any better.}
-{1202}{}{Really!? I knew it, I knew that you are really my best friend! Okay, so, today I need to gather... Uhh... [she wrinkles] 23 cobs! Well, maybe 24. I'm not quite sure.}
+{1202}{}{Really!? I knew it, I knew that you are really my best friend! Okay, so, today I need to gather... Uhh... [she wrinkles her nose] 23 cobs! Well, maybe 24. I'm not quite sure.}
 {121}{}{Of course I'm right! Okay, keep up the good work, bye!}
 {122}{}{So many?! Well, okay, if I signed up for this...}
 {123}{}{Good. Wait here, you're getting your 24 cobs. In the next 24 hours, haha! Just kidding, I'll be right back.}
