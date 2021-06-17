@@ -1,4 +1,4 @@
-# Olumpus 2207 english translation
+# Olympus 2207 english translation
 
 Dialogues are in the /dialogues, 
 Most of other stuff is in the /game.
