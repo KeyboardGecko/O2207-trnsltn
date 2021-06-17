@@ -22,7 +22,7 @@
 #
 {10}{}{Oh, it's you... Your father is very sick. His body has accumulated too much... Harmful stuff.}
 {11}{}{Doctor, is this the same thing that killed my mother and Catty's mother?}
-{20}{}{Unfortunately, yes... I don't know how long will he last. Regular injections are of no use anymore. He needs a very powerful medicine, the kind of which I do not have.}
+{20}{}{Unfortunately, yes... I don't know how long he'll last. Regular injections are of no use anymore. He needs a very powerful medicine, the kind of which I do not have.}
 {21}{}{Surely, you can do something!... Damn. There's an injured Son of the Gods, he asked me to bring him the medicine, which is called "Heal-Up".}
 {30}{}{Yes, I know. Why are you looking at me like that? The Gods informed me. Here - this is the last one.}
 {31}{}{I'll deliver the medicine and be right back! Please, look after my dad.}
