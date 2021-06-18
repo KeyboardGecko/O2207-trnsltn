@@ -55,12 +55,12 @@
 {105}{}{Forget it, bye!}
 {106}{}{}
 {110}{}{Spill it out.}
-{111}{}{I wanted to ask... Did you grow yourself a mustache yet?}
+{111}{}{I wanted to ask... Did you grow yourself a mustache already?}
 {112}{}{No, nothing. I'll come by later.}
 {113}{}{I need to repair a fuse box on level 2, but I have difficulties with it.}
 {120}{}{I'll get you... Get out of here, you joker!}
 {121}{}{Okay-okay, I'm going.}
-{122}{}{Hey, don't touch it! I'm already leaving.}
+{122}{}{Easy! I'm already leaving.}
 {1301}{}{What? Just do it! Look at wires, connect one to the other - and that's it! You men are so useless.}
 {1302}{}{Still don't get it? Handle it yourself!}
 {131}{}{Easy for you to say, "push a little - and it's done"... Okay, will go try one more time.}
