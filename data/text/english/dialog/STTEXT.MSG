@@ -314,7 +314,7 @@
 {338}{}{This place looks like the encampment of some raiders or vagrants. Some of the locals are dead drunk or moaning from hunger, others are constantly searching for something.}
 {339}{}{In this part, the settlement looks more vibrant, and it seems that the excitement is associated with a nearby fenced-off square.}
 {340}{}{This is it - your first battle in the Arena! You have to make the best use of your melee skills - and win!}
-{341}{}{Inside the room is a real joint, with alcohol, blackjack, and whores. Drunken men tapping out a tune with their feet and fists, setting the dancers' rhythm.}
+{341}{}{Inside the room is a real joint, with alcohol, blackjack, and whores. Drunken men are tapping out a tune with their feet and fists, setting the dancers' rhythm.}
 {342}{}{The long corridor seems to end in darkness. You're willing to bet that it's been a long time since anyone has set foot here.}
 {343}{}{At the entrance to the cave, you see bored guards. Probably, they stand there because they are guarding that cave's entrance.}
 {344}{}{In a small passageway ahead, you see a couple of burly savages waving at you.}
