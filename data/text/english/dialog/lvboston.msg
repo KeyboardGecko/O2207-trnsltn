@@ -23,7 +23,7 @@
 {10}{}{[You see an obese man with a red face and shifty eyes] Whoa! Who's that? That's someone new! Hey, look, he's here! Let's get acquainted, newbie-doobie! Hahahah, I'm kidding! Come here, give a little hug to old Boston McKinsey! [He spreads his fat arms trying to hug you]}
 {11}{002}{[You take a few steps back] Pleased to meet you. No need for hugging. I just want to ask a few questions.}
 {12}{003}{[You lean back a little and shake his hand] Glad to meet you. I want to know something.}
-{13}{004}{[You are trying to hug him back, but lack the length of hands, because of Boston's huge belly] Howdy, Boston! I'm glad to see you too!}
+{13}{004}{[You are trying to hug him back, but almost fail, because of Boston's huge belly] Howdy, Boston! I'm glad to see you too!}
 
 {20}{}{[He disappointedly puts his arms down] How impolite! So rude! He is met with open arms - and turns his nose up! Man! You must be another bore, who's afraid of his own shadow.}
 {21}{005}{I just don't like hugging strangers.}
@@ -48,7 +48,7 @@
 {62}{999}{Nothing for now. Let's talk later.}
 
 {1001}{}{Who is this I see! It's our new patron! Came to talk to good old Boston?}
-{1002}{}{Ask your questions to me, but don't put nose everywhere you see! Hahahaha! }
+{1002}{}{Ask your questions to me, but don't stick your nose everywhere you see! Hahahaha! }
 {1003}{}{Who is that I see! Hello there! Came again to talk to good old Boston?}
 {101}{024}{I want to know more about this place.}
 {102}{013}{Do you know what I can do around here?}
@@ -125,7 +125,7 @@
 {260}{}{[Boston becomes very nervous, turning his eyes away from you] It's nothing... There was one case... I mean, there was this accident!! [he inadvertently starts shouting] It's all their fault! They purposefully angered me! Poor Peter Horton, they threw him on me!}
 {261}{027}{Who? Peter Horton?}
 
-{270}{}{[He starts frantically fumbling his clothes] Peter... Claudia's husband... We had an argument at the meeting, about inverting the third and fourth paragraphs of the Constitution of 15 right. It is obvious that to wander around the territory is more important than to emit gases! Emily Dunton has also fanned the fire a little with her words, so I couldn't stand it and pushed Peter. He badly fell, hitting his head...}
+{270}{}{[He starts frantically fumbling his clothes] Peter... Claudia's husband... We had an argument at the meeting, about inverting the third and fourth paragraphs of the Constitution of 15 rights. It is obvious that to wander around the territory is more important than to emit gases! Emily Dunton has also fanned the fire a little with her words, so I couldn't stand it and pushed Peter. He badly fell, hitting his head...}
 {271}{028}{And? What happened next?}
 
 {2801}{}{[Boston starts to whine] He died! Can you imagine? Died! Poor Peter... And his wife, Claudia, is dead too. I hope they found each other after death... [he turns away from you. Looks like he doesn't want to talk anymore.]}
@@ -176,7 +176,7 @@
 {390}{}{[Boston holds his head] Ow, that hurts! Careful! Ow!}
 {391}{999}{Done. Now I'll go to Claudia and tell her I avenged Peter. She will leave you alone after that.}
 
-{400}{}{[Boston swiftly turns to you. There's hope in his eyes] Really? You will? That's wonderful! I'll do everything you say! Hell, I'm going to give you my gun, if you'll pull it through! Do everything you have to, but make this freaking psycho leave me alone!}
+{400}{}{[Boston swiftly turns to you. There's hope in his eyes] Really? You will? That's wonderful! I'll do everything you say! Hell, I'm going to give you my gun, if you'll pull this off! Do everything you have to, but make this freaking psycho leave me alone!}
 {401}{999}{Okay, I'll think about what can be done.}
 
 {410}{}{So let them forge an alliance with each other! They can even take turns! Hahahaha! I've never heard about these pathetic weaklings. You can tell them that I don't care. Maybe some other family might want to deal with them, but not mine.}

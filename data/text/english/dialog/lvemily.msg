@@ -27,7 +27,7 @@
 {14}{005}{Are you fucking kidding me? Wanna find out which of the two of us is the lowlife?}
 {15}{006}{Important person? You are just an arrogant bitch, there are hundreds like you around.}
 
-{20}{}{[The woman contemptuously squints] I have the right to use any words and phrases I please. Note, that you dare to initiate the conversation with me, despite the colossal differences in our social statuses. Know that I am Emily Dunton, the ruler of Livos. Do you understand how great my condescension and kindness is to just talk to you back?}
+{20}{}{[The woman contemptuously squints] I have the right to use any words and phrases I please. Note, that you dare to initiate the conversation with me, despite the colossal differences in our social statuses. Know that I am Emily Dunton, the ruler of Livos. Do you understand how great my kindness is to condescend to talk to you?}
 {21}{008}{I'm new at Livos. And I want to know more about people who run it.}
 {22}{007}{As for me, you are just a bitch with an inflated ego.}
 {23}{999}{I am sorry, Emily, I won't be bothering you anymore.}
@@ -131,7 +131,7 @@
 
 {1801}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. Do my previous assignment and your status will be changed.}
 {1802}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. But you are assigned to the duties of my personal junior assistant. You can be rightfully proud.}
-{1803}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. But you do have an opportunity to strengthen your reputation here and increase the influence on the Livos residents. If you are capable of completing the task involving risking your life, I will assign you to the position of my personal junior assistant. Your status and influence would change greatly. I could run the things here more effectively, while you would have additional privileges.}
+{1803}{}{[Emily gives you evaluating look] You don't have the proper status for leadership. But you will get an opportunity to strengthen your reputation here and increase the influence on the Livos residents. If you are capable of completing a task involving risking your life, I will assign you to the position of my personal junior assistant. Your status and influence would change greatly. I could run the things here more effectively, while you would have additional privileges.}
 {181}{017}{I'm not ready to take risks for now. What were you mentioning about Livos?}
 {182}{020}{I am ready for a dangerous job. What is needed to do?}
 {183}{010}{I want to ask another question.}
@@ -172,7 +172,7 @@
 {250}{}{You have completed the task brilliantly. I should admit - I am quite impressed with the quality of the result. Because of that, I am rewarding you with this voice modulator.}
 {251}{999}{Whoa, you can use tech to imitate someone's voice? It will surely come in handy.}
 
-{260}{}{[Emily smugly smiles] My subtle leadership is done through manipulations with a consciousness of each of the vault residents. I recall there was an ancient phrase, which I believe belongs to one of my ancestors - "divide and conquer". And that is my exact method of ruling. I made each family believe in their exclusivity and importance for the life and fate of Livos. And now they are more concerned with their own significance, rather than with taking notice of what's happening around them. If one of the families starts to take advantage, I undertake some activities to weaken it. I throw them ideas on the official meetings - and they make it look like they are their own, never realizing the truth. Pathetic bunch of worthless pompous insects!}
+{260}{}{[Emily smugly smiles] My subtle leadership is done through manipulation with a consciousness of each of the vault residents. I recall there was an ancient phrase, which I believe belongs to one of my ancestors - "divide and conquer". And that is my exact method of ruling. I made each family believe in their exclusivity and importance for the life and fate of Livos. And now they are more concerned with their own significance, rather than with taking notice of what's happening around them. If one of the families starts to take advantage, I undertake some activities to weaken it. I throw them ideas on the official meetings - and they make it look like they are their own, never realizing the truth. Pathetic bunch of worthless pompous insects!}
 {261}{027}{What if I would tell them about it?}
 
 {270}{}{[Emily chuckles] No one would listen to you! They are so accustomed to viewing themselves as the center of the universe that they became unable to see obvious things and listen to constructive criticism! Miserable losers - that's who they are!}
@@ -254,6 +254,6 @@
 
 {470}{}{I am carefully listening.}
 {471}{044}{I had a talk with your husband, Soup. He wants you dead.}
-{472}{045}{Emily! We urgently need your presence in the filter room! No one is going to do a thing without you managing!}
+{472}{045}{Emily! We urgently need your presence in the filter room! There's something that can't be done without you!}
 {473}{010}{Actually, I wanted to ask a question.}
 {474}{999}{Although, not now. I need to go.}

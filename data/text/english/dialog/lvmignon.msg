@@ -41,7 +41,7 @@
 {110}{}{[Mignon thinks] Er... I, for sure, didn't take it, this book-of-wave-something. I don't read boring books, my head always starts to ache from all these smart words and difficult drawings.}
 {111}{012}{Have you seen the book at all?}
 
-{120}{}{I've seen SOME book. At Mom's. She hid it very quickly, so I don't know is it the right one. But she doesn't like to read either, so it can be the one you looking for. My mom's name is Claudia, try asking her.}
+{120}{}{I've seen some kind of a book. At Mom's. She hid it very quickly, so I don't know if it's the right one. But she doesn't like to read either, so it could be the one you're looking for. My mom's name is Claudia, try asking her.}
 {121}{010}{Okay, I'll go talk to her later. Another question.}
 {122}{999}{I'll go do that. See you.}
 
@@ -53,11 +53,11 @@
 {141}{015}{[continue to listen]}
 {142}{010}{I wanted to ask something else.}
 
-{150}{}{...Old man Ludwig is always looking for something recently, growling at everyone, as usual. He probably lost something valuable, maybe some schematics or document. He is very absent-minded. He can forget to have lunch or to go to sleep. And then he sits all night in his lab until his wife Veronica doesn't remind him to go to bed! He's completely obsessed with his scrap. Doesn't talk to anyone except his wife and son. By the way...}
+{150}{}{...Old man Ludwig is looking for something recently, growling at everyone, as usual. He probably lost something valuable, maybe some schematics or document. He is very absent-minded. He can forget to have lunch or to go to sleep. And then he sits all night in his lab until his wife Veronica reminds him to go to bed! He's completely obsessed with his scrap. Doesn't talk to anyone except his wife and son. By the way...}
 {151}{016}{[continue to listen]}
 {152}{010}{That's all I wanted to know. I'd like to ask about other things.}
 
-{160}{}{...There's a rumor that Christopher is not Ludwig's son at all, but Boston McKinsey's. Ludwig probably never even touched his wife. At least they were never noticed. But Boston is flirting with everyone, damn womanizer. He is kinda crazy too. He jumps at people, he even pushed my father Peter Horton once, on a meeting. After that my father died. Boston is scary, because of his short temper, but no one actually takes him seriously. He's just a clown. And also...}
+{160}{}{...There's a rumor that Christopher is not Ludwig's son at all, but Boston McKinsey's. Ludwig probably never even touched his wife. At least not in front of everyone. But Boston is flirting with everyone, damn womanizer. He is kinda crazy too. He jumps at people, he even pushed my father Peter Horton once, on a meeting. After that my father died. Boston is scary, because of his short temper, but no one actually takes him seriously. He's just a clown. And also...}
 {161}{017}{[continue to listen]}
 {162}{010}{Enough news for now. I'd like to ask about other things.}
 
@@ -65,7 +65,7 @@
 {171}{018}{[continue to listen]}
 {172}{010}{Let's talk about something else.}
 
-{180}{}{..We've heard that they want to change paragraph 9 of the Constitution, which says "Every inhabitant of the New World has the right not to fornicate with any other inhabitant of the New World, even if the latter strongly insists". And they want to make it necessary to fornicate, by a special resolution. But I still think they will pass on this change. I'll ask my dad and he will definitely stand up for me in these meetings. They don't want to listen to me yet and won't let me participate in meetings. Otherwise, me and Fox would defend our rights ourselves! She also wants to participate. But...}
+{180}{}{...We've heard that they want to change paragraph 9 of the Constitution, which says "Every inhabitant of the New World has the right not to fornicate with any other inhabitant of the New World, even if the latter strongly insists". And they want to make it necessary to fornicate, by a special resolution. But I still think they will pass on this change. I'll ask my dad and he will definitely stand up for me in these meetings. They don't want to listen to me yet and won't let me participate in meetings. Otherwise, me and Fox would defend our rights ourselves! She also wants to participate. But...}
 {181}{019}{[continue to listen]}
 {182}{010}{No need for other news. I want to ask something else.}
 
@@ -77,7 +77,7 @@
 {201}{021}{[continue to listen]}
 {202}{010}{That's very interesting, but I want to talk about something else.}
 
-{210}{}{...My uncle Ashton is the one who owns the whole vault. Our ancestors used to maintain a big hotel network before the war. And that's them who created Livos as it is. I mean, this is a real paradise! Look around - everything here is just like it was in the best hotels! At least, I think it was like this in the best hotels. Floors under the ground, convenient beds, machines, producing everything you need for comfortable living. Anyone would want to live in such a hotel! And, by the right of succession, we are proprietary owners of this heavenly place. Except...}
+{210}{}{...My uncle Ashton is the one who owns the whole vault. Our ancestors used to maintain a big hotel network before the war. And that's them who created Livos for what it is now. I mean, this is a real paradise! Look around - everything here is just like it was in the best hotels! At least, I think it was like this in the best hotels. Floors under the ground, convenient beds, machines, producing everything you need for comfortable living. Anyone would want to live in such a hotel! And, by the right of succession, we are proprietary owners of this heavenly place. Except...}
 {211}{022}{[continue to listen]}
 {212}{010}{Enough information for me. I want to ask something else.}
 
@@ -85,7 +85,7 @@
 {221}{010}{Yes. I wanted to ask...}
 {222}{999}{No, I learned enough. I'll go think about it.}
 
-{230}{}{[She seems visibly stuck] Uhhh... I mean, what do you mean?... I'm just living by, like everyone else. Walking around, talking to people. Flirting with guys. Like to drink some wine with mom. In other words, I live full and bright life.}
+{230}{}{[She seems visibly stuck] Uhhh... I mean, what do you mean?... I'm just living by, like everyone else. Walking around, talking to people. Flirting with guys. Like to drink some wine with mom. In other words, I live a full and bright life.}
 {231}{010}{I see. Another question then.}
 
 {2401}{}{I'm dating Christopher. He is the best in the whole Radius! I'm so happy!}

@@ -126,12 +126,12 @@
 
 
 
-{180}{}{I don't care about any of them! They are only good while they don't distract me from doing my work. I'm not interested in interacting with them, running around, being loud and useless... Christopher buys the parts and materials I need, the rest is none of my concern. }
+{180}{}{I don't care about any of them! They are only good while they don't distract me from doing my work. I'm not interested in interacting with them! Running around, being loud and useless... Christopher buys the parts and materials I need, the rest is none of my concern. }
 {181}{019}{You don't talk to anyone?}
 {182}{021}{What can you tell me about your family?}
 
 
-{190}{}{[Ludwig makes a contemptuous face] Who to talk here to? Look around - they are all complete idiots! Only Ashton Horton has some resemblance of minimal technical skills, but even he is sick in the head! He thinks he lives in a Horton's hotel! A hotel! And he probably thinks that he is in charge of the whole vault.}
+{190}{}{[Ludwig makes a contemptuous face] Who's there to talk to? Look around - they are all complete idiots! Only Ashton Horton has some resemblance of minimal technical skills, but even he is sick in the head! He thinks he lives in a Horton's hotel! A hotel! And he probably thinks that he is in charge of the whole vault.}
 {191}{020}{And who is actually in charge?}
 {192}{032}{Did you try talking to someone who is not from Livos? Maybe a random stranger will turn out to be an expert.}
 
@@ -157,7 +157,7 @@
 {231}{010}{Great. I'll gather the data and get back. The most difficult part of the report would be "problems and nuances after ten years of usage". Let's talk about something else.}
 
 
-{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! No good! Someone of these morons stole my book on wave science! They won't even understand a thing from it! Idiots! How do I continue my work?!}
+{2401}{}{[Ludwig furiously slams his fist into the table] That's the thing! Not good! One of these morons stole my book on wave science! They won't even understand a thing from it! Idiots! How can I continue my work without a book?!}
 {2402}{}{With the book on wave science, my study of plasma energy processes is going quite well! Thanks for bringing it back.}
 {241}{026}{I could look for the book. I'll ask around and find out who could do it.}
 {242}{025}{Who could do such a thing?}
