@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[You see a hunched man with lowered shoulders. He walks around very slowly, barely moving his feet. His face is a mask of doomed fate and hopelessness] Yes?.. What?... Uh, what is it? }
+{10}{}{[You see a hunched man with lowered shoulders. He walks around very slowly, barely moving his feet. His face is a mask of doomed fate and hopelessness] Yes?... What?... Uh, what is it? }
 {11}{002}{Hello. We haven't met before. I'm new around here.}
 {12}{003}{Hey, man, brighten up! You look like your face melted off!}
 {13}{004}{Oh, you definitely don't look good. Is there something wrong?}
@@ -31,7 +31,7 @@
 {22}{999}{You are not very talkative. I'd better go.}
 
 
-{30}{}{[The man nearly jumps up surprised. Now he is staring at you] W-w-w-what?.. Uhh... What's going on? Please, don't shout... I don't recall we've met before. I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
+{30}{}{[The man nearly jumps up surprised. Now he is staring at you] W-w-w-what?... Uhh... What's going on? Please, don't shout... I don't recall we've met before. I am, uh, Soup. Soup Dunton. Oh, I forgot - hello to you...}
 {31}{010}{Do you have time for a few questions?}
 {32}{999}{You are not very talkative. I'd better go.}
 
@@ -130,7 +130,7 @@
 
 
 
-{220}{}{N-no, I, uh, don't know, actually... I... I'm afraid that won't be able to do it... [Soup hesitates]}
+{220}{}{N-no, I, uh, don't know, actually... I... I'm afraid I won't be able to do it... [Soup hesitates]}
 {221}{023}{You are the head of a family! You can make the right decisions!}
 {222}{010}{[You fail to find words to convince him] Okay, let's talk about something else for now.}
 

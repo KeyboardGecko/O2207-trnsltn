@@ -81,13 +81,13 @@
 {132}{010}{Great. I have another question.}
 
 
-{140}{}{[Veronica chuckles] The other families are a pale imitation of the Schweins. They are nothing. They do the easiest and unnecessary jobs, which could be handled by anyone. McKinseys are putting water into barrels, Hortons are busy with petty fixings, and Duntons are trying to give me a challenge in politics. In short, they all are a bunch of losers, playing the game that's too big for them.}
+{140}{}{[Veronica chuckles] The other families are a pale imitation of the Schweins. They are nothing. They do the easiest and unnecessary jobs, which could be handled by anyone. McKinseys are putting water into barrels, Hortons are busy with petty fixings, and Duntons are trying to give me a challenge in politics. In short, they all are a bunch of losers, playing a game that's too big for them.}
 {141}{010}{I see. Another question.}
 
 
-{150}{}{[She gives out a smile of a winner] Oh, that was such a story. Ludwig kept himself locked in his working quarters for ages. So Edward spread a rumor that Ludwig will come out to choose the best woman of all who attends. Notice that I said not the most beautiful, not the most smart, but "the best". That's why I became his wife. I was the best - best prepared, best planned everything, best dealt with competitors. So, I achieved my dream and became a member of a great family of Schweins!}
+{150}{}{[She gives you a winning smile] Oh, that was such a story. Ludwig kept himself locked in his working quarters for ages. So Edward spread a rumor that Ludwig will come out to choose the best woman of all who attends. Notice that I said not the most beautiful, not the most smart, but "the best". That's why I became his wife. I was the best - best prepared, best planned everything, best dealt with competitors. So, I achieved my dream and became a member of a great family of Schweins!}
 {151}{016}{Dealt with the competitors?}
 
 
-{160}{}{Yes! Someone had a bit of a stomach ache on that exact day, others had their carriage broken on the way to Livos, some run into the pack of wild jackals. So, the ones who made it to the vault were in pretty bad shape. And by the entrance, they were met by a couple of tough guys who can do anything for a handful of batteries. My competitors were very lucky to stay alive - but not so lucky to be of actual competition to me anymore.}
+{160}{}{Yes! Someone had a bit of a stomach ache on that exact day, others had their carriage broken on the way to Livos, some run into the pack of wild jackals. So, the ones who made it to the vault were in pretty bad shape. And they were greeted by a couple of tough guys by the entrance - the ones who would do anything for a handful of batteries. My competitors were very lucky to stay alive - but not so lucky to be of actual competition to me anymore.}
 {161}{010}{Good plan, I give you that. I want to ask something else.}

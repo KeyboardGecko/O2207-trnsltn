@@ -30,12 +30,12 @@
 {22}{003}{[Keep listening. You have a slight feeling of pressure in your head]}
 {23}{999}{I can't take it anymore. I need to take a walk.}
 
-{30}{}{...Because he is the smartest and handsome, and he is doing water tradings, which means he is the most important person in Livos, and even dad doesn't make as much for the vault as my lovely brother, that's why our family is the most important here and that's why we are leaders of this place, although other families disagree with it, but we know how it really is - they do not affect the prosperity of Livos at all, and soon Dallas will become the leader here and will be able to marry me, despite my parents barring it, but he may not want to, because he likes my friend Mignon, who also dates Christopher Schwein, so if she chooses Christopher, then Dallas would fall into me, and we will marry and I won't have to choose someone else... }
+{30}{}{...Because he is the smartest and handsome, and he is doing water tradings, which means he is the most important person in Livos, and even dad doesn't make as much for the vault as my lovely brother, that's why our family is the most important here and that's why we are the leaders of this place, although other families disagree with it, but we know how it really is - they do not affect the prosperity of Livos at all, and soon Dallas will become the leader here and will be able to marry me, despite my parents barring it, but he may not want to, because he likes my friend Mignon, who also dates Christopher Schwein, so if she chooses Christopher, then Dallas would fall into me, and we will marry and I won't have to choose someone else... }
 {31}{010}{Stop it! I want to ask a question!}
 {32}{004}{[Keep listening. Your head is buzzing loudly]}
 {33}{999}{Okay, I need a break. I'll go get some rest.}
 
-{40}{}{... And we will rule the vault, just like our parents do, just as their parents did, just as everybody before us did, starting with our ancestors who built this place, who knew that we will survive the war and start repopulating the planet and become the center of the whole world, which we already are...}
+{40}{}{...And we will rule the vault, just like our parents do, just as their parents did, just as everybody before us did, starting with our ancestors who built this place, who knew that we will survive the war and start repopulating the planet and become the center of the whole world, which we already are...}
 {41}{999}{[The feeling of pressure in your head becomes so painful and strong you can't take it anymore]}
 {42}{005}{[With great effort you try to listen to the rest of this flood of words]}
 
@@ -76,11 +76,11 @@
 {160}{}{The Constitution of 15 rights is our greatest document, according to paragraphs 13, 14, and 15 on the Constitution, we have the right to have rights, the right to not have rights, and even the right not to know rights described in the Constitution, but in this case, the inhabitant is deprived of any rights, including this right! }
 {161}{017}{Where I can find the Constitution?}
 
-{170}{}{Oh, I haven't seen it in a while, it always changes hands, so I don't know where is it now, it could even be accidentally left by someone somewhere, or even lost, because recently I was asking around and no one knows where is it, maybe someone hid it, so I couldn't suggest making changes into it, so now it's hidden from me, it's so bad!}
+{170}{}{Oh, I haven't seen it in a while, it always changes hands, so I don't know where it is now, it could even be accidentally left by someone somewhere, or even lost, because recently I was asking around and no one knows where it is, maybe someone hid it, so I couldn't suggest making changes to it, so now it's hidden from me, it's so bad!}
 {171}{010}{Okay, I want to ask something else.}
 {172}{999}{I need to go, urgent business. Bye.}
 
-{180}{}{[Fox hesitates for a second] Maybe Ashton Horton has some work for you, he does repairings in the vault, but he is not always able to fix everything that's broken, just like he wasn't able to repair the nutritional mixtures machine, without which we felt very bad until we started selling water in exchange for buying canned food and other food, which everyone likes, because the machine never made such tasty things, and now it's completely broken, no one knows how to fix it, and also, my friend Mignon once overheard that her dad Ashton was telling to someone it can't be fixed at all, so we need to continue trading with water to the settlements, and that means there will always be new people around here and I will always have someone to talk with!}
+{180}{}{[Fox hesitates for a second] Maybe Ashton Horton has some work for you, he does repairings in the vault, but he is not always able to fix everything that's broken, just like he wasn't able to repair the nutritional mixtures machine, without which we felt very bad until we started selling water in exchange for buying canned food and other food, which everyone likes, because the machine never made such tasty things, and now it's completely broken, no one knows how to fix it, and also, my friend Mignon once overheard that her dad Ashton was telling someone that it can't be fixed at all, so we need to continue trading water to the settlements, and that means there will always be new people around here and I will always have someone to talk with!}
 {181}{010}{I see. I want to ask something else.}
 {182}{999}{I'll go ask Ashton about work.}
 

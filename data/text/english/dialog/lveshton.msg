@@ -109,7 +109,7 @@
 {181}{020}{You are able of repairing anything in the vault, right?}
 {182}{010}{Okay, I want to ask something else.}
 
-{190}{}{I'm doing repair duties. And I don't let anyone else poke into this important business. Only the hands of gold, like mine, would touch this complicated tech.}
+{190}{}{I'm doing repair duties. And I don't let anyone else poke into this important business. Only diamond hands, like mine, would touch this complicated tech.}
 {191}{020}{Can you fix anything here?}
 {192}{010}{I see. I have other questions.}
 
@@ -117,7 +117,7 @@
 {201}{021}{Any other problems?}
 {202}{010}{I see. I'll ask about something else.}
 
-{2101}{}{[Ashton slowly and reluctantly continues] Uhh... You see... I don't know if I should tell you this, but, er... The thing is, there's something wrong with the water filter. He can't handle big amounts of water anymore. And I'm afraid it'll only get worse - if it breaks down completely, Livos could die out. I tried to repair it, but the situation is pretty complex. You can't just go and fix it.}
+{2101}{}{[Ashton slowly and reluctantly continues] Uhh... You see... I don't know if I should tell you this, but, er... The thing is, there's something wrong with the water filter. It can't handle big amounts of water anymore. And I'm afraid it'll only get worse - if it breaks down completely, Livos could die out. I tried to repair it, but the situation is pretty complex. You can't just go and fix it.}
 {2102}{}{No other problems for now. There were issues with the broken water filter, but it works fine now.}
 {2103}{}{The water filter is completely dead. I've read the manual, spent much time, but still fail to fix it. Soon our water supply will become thin. Don't know what to do with it.}
 {211}{022}{I've heard that the taste of water became strange. Is it because of a problem with the filter?}
