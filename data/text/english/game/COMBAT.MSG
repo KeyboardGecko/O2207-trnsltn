@@ -755,9 +755,9 @@
 {5905}{}{ striking a critical spot, and crippling the arm}
 {5906}{}{, knocking the creature over and crippling the leg}
 {5907}{}{, stunning the Feral as it is knocked over with a crippled leg}
-{5908}{}{, rendering its lidless eyes completely useless. The Feral can't see.}
+{5908}{}{, rendering its lidless eyes completely useless. The Feral can't see}
 {5909}{}{, surprising the Feral. It blindly stumbles for a moment}
-{5910}{}{, surprising the Feral. Bulging its eyes, it collapses to the ground}
+{5910}{}{, surprising the Feral. With its eyes bulging out, it collapses to the ground}
 {5911}{}{, surprising the Feral. It collapses in a pile of goo}
 {5912}{}{. The attack was not as effective as it could have been - the creature has not enough organs}
 #

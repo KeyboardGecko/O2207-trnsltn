@@ -21,16 +21,16 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
 #Node001
-{10}{}{[You see a strange-looking middle-aged woman. When she sees you, she nervously jumps and freezes, gazing at you with wide eyes. Looks like she is ready to run away at any moment] Who are you? What are you doing here?}
+{10}{}{[You see a strange-looking middle-aged woman. Seeing you, she nervously jumps and then freezes, gazing at you with eyes wide open. Looks like she can run away at any moment] Who are you? What are you doing here?}
 {11}{002}{Relax, I'm }
 {12}{002}{. Is everything alright?}
 {13}{022}{What's wrong with you? Not quite right in the head?}
 {14}{999}{I was only passing by.}
 
 #Node002
-{20}{}{Oh, uh... I was just... I thought you are following me. They follow me all the time! [she still looks suspiciously at you, trying to act like everything is okay.]}
+{20}{}{Oh, uh... I was just... I thought you are following me too. They follow me all the time! [she still looks suspiciously at you, trying to act like everything is okay.]}
 {21}{014}{What? Who?}
-{22}{014}{Who is following you? Are you the big cheese around here, knowing too much?}
+{22}{014}{Who is following you? What, are you some kind of a big cheese around here?}
 {23}{003}{I'll continue following you then.}
 
 #Node003
@@ -56,7 +56,7 @@
 #Node011
 {110}{}{[She crosses arms on her chest and stares at you. Or at something behind you?] Go ahead.}
 {111}{012}{Are you sick?}
-{112}{014}{Is someone following you?}
+{112}{014}{Is there someone following you?}
 {113}{019}{Let's talk about you. Can you tell me something about yourself?}
 {114}{999}{[look over your shoulder] You know, I don't feel comfortable when people stare at something behind me. Talk later.}
 
@@ -97,13 +97,13 @@
 {181}{999}{[leave silently]}
 
 #Node019
-{190}{}{I live here with my husband and son. You know, they are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe it. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.}
+{190}{}{I live here with my husband and son. They are not very fond of local authorities, and I understand them... I have seen so many bad things here... You wouldn't believe it. But our Mayor doesn't listen to me! So I fully support them undermining this... Stupid authority.}
 {191}{020}{Can you tell me more details about your family?}
 {192}{013}{Those who are sick are always disappointed with something... You are a schizophrenic with a persecution mania.}
 {193}{023}{I agree, it's quite boring here. And the authorities suck. }
 
 #Node020
-{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.}
+{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! They both used to be more caring though... Still, I'm happy they are busy with a common goal and spend time together.}
 {201}{999}{I think I need to talk to Dan. See you around, Maurissa.}
 {202}{050}{I think it's your fault that your family is falling apart. You should look for things in your home, not watch out for someone who's "following" you. Don't you think so?}
 {203}{021}{I feel sorry for you. I think you deserve better. }
@@ -143,16 +143,16 @@
 
 #Node033
 {330}{}{What!? I am sick? You are the same as them!!}
-{331}{080}{Yes, you are definitely sick. You are periodically seeing things that don't exist. Did you notice that no one else sees these men following you?}
+{331}{080}{Yes, you are definitely sick. You are seeing things that don't exist. Did you notice that no one else sees these men following you?}
 {332}{999}{Sorry, but you have to think about it alone. I'll come by later. Bye.}
 {333}{070}{Not exactly. Mental disorders are often the result of a combination of influencing factors. }
 
 
 #Node034
-{340}{}{[you definitely struck something in her] I... I think you're right... What do I do? }
+{340}{}{[you definitely struck something in her] I... I think you're right... What should I do? }
 {341}{035}{[try to remember the stuff you've read about in medical science literature and tell it to her]}
 {342}{999}{I need to think. I'll dig through the books and will come back.}
-{343}{035}{Maurissa, you live in the safest, calmest, peaceful, and wonderful place in the whole Radius. Everyone here would stand for you - even if they are pulling some pranks sometimes. You are one big family. Any dangerous outsider just won't make it here. So you can just put it off your mind, and feel the easiness of your life.}
+{343}{035}{Maurissa, you live in the safest, calmest, peaceful, and wonderful place in the whole Radius. Everyone here would stand for you - even if they are pulling some pranks on you sometimes. Everyone here is one big family. Any dangerous outsider just won't make it here. So you can just put it off your mind, and feel the easiness of your life.}
 {344}{035}{You need to be more self-confident! All your problems caused by your suspiciousness.}
 {345}{035}{Try this [give her Brainiac]. Ask your husband to supply you with it. }
 

@@ -76,8 +76,8 @@
 {3801}{}{Very useful, crushes bones like it's nothing. Min ST: 5}
 {3900}{}{Corkscrew}
 {3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes! Min ST: 3}
-{4000}{}{Buzz Blade}
-{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bone were never easier! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. Min ST: 6}
+{4000}{}{Buzz Blade Glove}
+{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bone have never been easier! It's so light and comfortable that you're likely to forget about it if deciding to scratch yourself. Min ST: 6}
 {4100}{}{Batteries}
 {4101}{}{The only generally accepted means of payment in the Radius.}
 {4200}{}{Mine}

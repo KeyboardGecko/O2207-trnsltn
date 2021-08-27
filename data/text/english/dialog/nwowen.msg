@@ -28,7 +28,7 @@
 {14}{999}{No. Somehow, I don't feel like getting acquainted with you. }
 
 #Node002
-{20}{}{Yes, I'm Owen, the cattle slaughterer. I put Lavash to sleep with my sledgehammer, debone their carcasses, and pass them further along the chain of technological progress, so to say. [he wipes sweat from his forehead with a bloody hand] Phew... So, what do you want, }
+{20}{}{Yes, I'm Owen, the cattle slaughterer. I put Lavash to rest with my sledgehammer, debone their carcasses, and pass them further along the chain of technological progress, so to say. [he wipes sweat from his forehead with a bloody hand] Phew... So, what do you want, }
 {21}{}{? Come on, ask!}
 {22}{004}{Tell me more about what you do here.}
 {23}{005}{Tell me about the local community.}

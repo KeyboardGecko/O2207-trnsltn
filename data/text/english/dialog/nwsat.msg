@@ -181,7 +181,7 @@
 {283}{022}{I still have some questions.}
 {284}{999}{See you soon.}
 
-{290}{}{[Sam grits his teeth and hisses, bulging his eyes] You know what, you, offspring of a nameless wench?! You can go and TALK about it WITH THE PILE OF MANURE OR A PUDDLE OF PUKE!! DO YOU HEAR ME, YOU, ARROGANT, PIG-FACED SAVAGE?!}
+{290}{}{[Sam grits his teeth and hisses, his eyes bulging out] You know what, you, offspring of a nameless wench?! You can go and TALK about it WITH THE PILE OF MANURE OR A PUDDLE OF PUKE!! DO YOU HEAR ME, YOU, ARROGANT, PIG-FACED SAVAGE?!}
 {291}{999}{[leave silently]}
 {292}{026}{[interrupt him mid-sentence]}
 {293}{022}{I have some other questions.}

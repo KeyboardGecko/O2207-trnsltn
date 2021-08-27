@@ -68,7 +68,7 @@
 {131}{011}{Another question then.}
 {132}{022}{So only a woman can become an Elder?}
 {133}{999}{I see... That's it for now. See you.}
-{1302}{}{[She scratches her crocheted nose with a ritual club's handle] It's one thing when some old woman, even an Elder, mumbles something, and the other - when a mighty spirit is talking through her. This knowledge is something I will eventually pass on to my successor too... }
+{1302}{}{[She scratches her crocheted nose with a ritual club's handle] It's one thing when some old woman, even an Elder, mumbles something, and another - when a mighty spirit is talking through her. This knowledge is something I will eventually pass on to my successor too... }
 {134}{011}{I see. Another question then.}
 {135}{022}{Successor? So only a woman can become an Elder?}
 {136}{999}{I see. Let's take a break.}
@@ -93,12 +93,12 @@
 
 {1601}{}{Outsider can never comprehend the thoughts of Twilight Viper's children! But ask, you have that right before the Last Supper... Last for you. }
 {161}{018}{Do you have someone around here who knows healing?}
-{162}{019}{I just need to know - do you have a normal family?}
+{162}{019}{I just want to know - do you have a normal family?}
 {163}{020}{What does your tribe do?}
 {164}{011}{To other questions...}
 {1602}{}{[Sighs] Why didn't you lose to Klumk... Ask, little man.}
 {165}{018}{Do you have someone around here who knows healing?}
-{166}{020}{I just need to know - do you have a normal family?}
+{166}{020}{I just want to know - do you have a normal family?} #that's bugged, it should lead to 019
 {167}{020}{What does your... Our tribe do?}
 {168}{011}{To other questions...}
 
@@ -114,7 +114,7 @@
 {1802}{}{[She tries to look sad, but can't hide her smile] Khala, our healer, could treat wounds and cook... What a huge loss for us! Now this bitch- this worthy daughter of our tribe is making our spirits happy with tales of her devotion!}
 {183}{011}{I share your sorrow. Now, to other questions...}
 {184}{999}{We all will be there eventually. And I've got to go.}
-{1803}{}{[She frowns, like biting a rotten apple] Khala... She is our cook and our healer. If only she doesn't like to shed blood so much... Doesn't matter which... But warriors treat her with respect, so we have to deal with her habits. And, to do her justice, her cooking is very good, I admit that. Outsider's thighs with brains as a garnish... Yum... [she slurps]}
+{1803}{}{[She frowns, like biting a rotten apple] Khala... She is our cook and our healer. If only she would't like to shed blood so much... Doesn't matter which... But warriors treat her with respect, so we have to deal with her habits. And, to do her justice, her cooking is very good, I admit that. Outsider's thighs with brains as a garnish... Yum... [she slurps]}
 {185}{011}{I'll come by her if I get the chance. Another question.}
 {186}{999}{I feel hungry already. I'd better go bite on something.}
 {1804}{}{[She grunts] Yes, there was... Khala. But our spirits made a present for me and took her away. That's where she belongs.}
@@ -144,7 +144,7 @@
 
 {2201}{}{[She starts to shake, raising the head to the sky and speaking in a sing-song voice] ...And so the woman's loin is from where our warriors come into this world, and so she is the one worthy of speaking the voice of spirits to the tribe!}
 {221}{011}{Makes perfect sense. Let's talk about something else.}
-{222}{999}{It's just sexism! Too bad I need to go, or I would explain to you something...}
+{222}{999}{Looks like a plain sexism! Too bad I need to go, or I would explain to you a thing or two...}
 {223}{999}{So that's how it is? Okay, I leave you to enjoy your chosenness. See you around.}
 {2202}{}{[She gives you a look of disdain] Who else? Men? Men put into power... Been there, done that - just look what the old world ended up with. And I won't let that happen to my tribe!}
 {224}{011}{Let's not get into details. Better answer me something else.}
