@@ -133,7 +133,7 @@
 {201}{011}{Definitely honorable. Would you mind answering another question?}
 {202}{999}{I see... Okay, I'm done with questions for now.}
 {2002}{}{[She squints her faded eyes as if trying to look beyond the mountains] What else to do here? This place has given us height and strength, but not food. We have to get it by ourselves. To try cultivating this land is pointless, so there's only one option for the tribe. And if we need something that we can't hunt, we can trade it from outsiders.}
-{203}{011}{It must be not easy to live here... Tell me about something else.}
+{203}{011}{It must be hard to live here... Tell me about something else.}
 {204}{999}{I see... Okay, I'm done with questions for now.}
 
 
