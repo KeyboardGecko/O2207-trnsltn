@@ -6548,7 +6548,7 @@
 #
 {5780}{}{You better hope we don't find you, asshole!}
 {5781}{}{Homie, let's go roll down on some bustas!}
-{5782}{}{Yo 'bout to get beaten by a metal fists, bitch!}
+{5782}{}{Yo 'bout to get beat by metal fists, bitch!}
 {5783}{}{Get ready for an ass whoopin'!}
 {5784}{}{Run, motherfucker, run!}
 {5785}{}{This gon' get REALLY ugly.}
