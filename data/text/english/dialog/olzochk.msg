@@ -81,5 +81,5 @@
 {108}{999}{[don't start the conversation]}
 {109}{999}{Okay, okay! I'm already leaving!}
 
-{110}{}{Your punch comes into the junction of two armor plates in the abdomen. Some elements and parts puncture through the engineer's body, penetrating his intestines. Looks like you have accidentally found a sweet spot in this suit!}
+{110}{}{Your punch comes into the junction of two armor plates in the abdomen. Some elements and parts puncture through the engineer's body, penetrating his intestines. Looks like you have accidentally found a sweet spot of this suit!}
 {111}{}{ATTENTION! Administrator speaking. The access keycard of Constantine Zochkis is blocked. The floor is currently put under lockdown. Over.}

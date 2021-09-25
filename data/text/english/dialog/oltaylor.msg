@@ -31,18 +31,18 @@
 {13}{999}{No. Frankly speaking, I am in no mood for helping. }
 
 #Node002
-{20}{}{Great, I thought the captain had it declined. "It's too risky and not worth the effort." Ugh. He understands nothing in matters of sword and shield...}
+{20}{}{Great, I thought the captain had it declined. "It's too risky and not worth the effort." Ugh. He understands nothing in matters of "Sword and Shield"...}
 {21}{004}{"Sword and Shield"?}
 {22}{005}{So much for starters. What do you need?}
 
 #Node003
-{30}{}{Oh. Fine, it's not bad either way. The captain provides no help here. "It's too risky and not worth the effort." Ugh. He understands nothing in matters of sword and shield...}
+{30}{}{Oh. Fine, it's not bad either way. The captain provides no help here. "It's too risky and not worth the effort." Ugh. He understands nothing in matters of "Sword and Shield"...}
 {31}{004}{"Sword and Shield"?}
 {32}{005}{So much to start with. What do you need?}
 
 #Node004
-{40}{}{Well yeah, I'm here to supervise the modernization of security turrets and that chunks of metal you wear. The captain calls it armor, but these are dresses in comparison to what we can actually make.}
-{41}{005}{Can make? There is a catch, isn't it?}
+{40}{}{Well yeah, I'm here to supervise the modernization of security turrets and that chunks of metal you wear. The captain calls it armor, but these are just dresses, compared to what we can actually make.}
+{41}{005}{"Can" make? There is a catch, isn't it?}
 {42}{005}{This, as I understand it, is related to my application. What do you need me to do?}
 
 #Node005
@@ -58,16 +58,16 @@
 {71}{008}{[continue]}
 
 #Node008
-{80}{}{[he leads you to the table with a massive shapeless pile on it, covered with a burlap sack. He throws the cover back and you see the suit of combat armor in a very, very bad condition. It has a lot of holes, most of them made by bullets, while the bigger ones are of undetermined origin. It also bears traces of explosion damage, its charred helmet is covered with soot and a number of dents from shrapnel] Beauty, isn't it? New advanced Lumenier armor. Judging by what I know, this is an upgrade of the AS-2000 version. If you fix it properly, it will be much more efficient than our Defender armor!}
+{80}{}{[he leads you to a massive shapeless pile on the table, covered with a burlap sack. He throws the cover back - and you see the suit of combat armor in a very, very bad condition. A lot of holes - bullet ones and of undetermined origin. The traces of explosion damage are all over. Charred helmet is covered with soot and a number of dents from shrapnel.] Beauty, isn't it? New advanced Lumenier armor. Judging by what I know, this is an upgrade of the AS-2000 version. If you fix it properly, it will be much more efficient than our Defender armor!}
 {81}{009}{For now, it looks like a pile of scrap metal.}
 {84}{008}{Well, yeah, it looks promising.}
 
 #Node008
-{82}{}{[he laughs] Come on, it's just a pile of scrap metal. For now. But I know how to make it ready for the field testing. And this is where I need you.}
+{82}{}{[he laughs] Come on, it's just a pile of scrap metal. For now. But I know how to prepare it for the field testing. And this is where I need you.}
 {83}{011}{Tell me more.}
 
 #Node009
-{90}{}{You are completely right. But I know how to make it ready for the field testing. And this is where I need you.}
+{90}{}{You are completely right. But I know how to prepare it for the field testing. And this is where I need you.}
 {91}{011}{Tell me more.}
 
 #Node010
@@ -80,22 +80,22 @@
 
 
 #Node011
-{110}{}{According to my applications, I collected almost everything needed. Some of the parts, unfortunately, had to be taken from the Defender suit, but I already came to terms with this. And the armor is made more than eighty percent of the original parts, which is already a major breakthrough. The catch is that during the last raid we lost too many people. The captain no longer authorizes operations in the Lumenier patrol zone. And I lack only one part - their new servo-actuator. [Taylor takes the damaged part off the table] Just like this one, but whole, not damaged. There's nothing that can replace such a thing. I need exactly that. If you can get it, you're in for a very generous gift.}
+{110}{}{According to my applications, I collected almost everything needed. Some details, unfortunately, had to be taken from the Defender suit, but I already came to terms with this. But more than eighty percent of the parts are original ones, which is already a major breakthrough. The catch is that during the last raid we lost too many people. The captain no longer authorizes operations in the Lumenier patrol zone. And I lack only one thing - their new servo-actuator. [Taylor grabs some piece from the table] Just like this one, but not damaged. There's nothing that I can replace it with.. If you can get one, you're in for a very generous gift.}
 {111}{012}{Okay, I will do my best, but no promises. A job looks complicated.}
 {112}{012}{Okay, I will do this.}
 
 #Node012
-{120}{}{Good! The only way to get a servo-actuator is to take it off the upgraded Lumenier armor. Of course, I understand that the risk is pretty great, and I advise you to be extremely careful! This suit is very good, so do not be surprised if it is worn only by the best Lumenier fighters.}
+{120}{}{Good! The only way to get a servo-actuator is to take it off the upgraded Lumenier armor. Keep in mind that it's quite risky, so I advise you to be extremely careful! This suit is very good, so do not be surprised if it is worn only by the best Lumenier fighters.}
 {121}{999}{Well then, I will be back with a spare part.}
 
 #Node013
-{130}{}{Perfect! That's the way to do it! Soon our fighters will become even more tenacious, all thanks to you! Perhaps I should mention this in the report. However, first I need to assemble a prototype model and conduct field tests. Anyway, it's time for a reward, right? Wait for a little.}
+{130}{}{Perfect! That's the way to do it! Soon our boys will become even more tenacious - and all thanks to you! Perhaps I should mention this in the report. However, first I need to assemble a prototype model and conduct field tests. Anyway, it's time for a reward, right? Wait a little.}
 {131}{014}{[wait]}
 
 #Node014
-{140}{}{[Taylor returned a little more than an hour later, he is smiling from ear to ear] Damn, this is amazing! Perhaps I can finally stop puzzling over armors and switch back to the turrets. As for your reward... Let's go.}
+{140}{}{[Taylor returned a little more than an hour later. He is smiling from ear to ear.] Damn, this is amazing! Perhaps I can finally stop puzzling over armors and switch back to the turrets. As for your reward... Let's go.}
 {141}{015}{[follow Taylor]}
 
 #Node015
-{150}{}{[Taylor triumphantly leads you to the table where pieces of armor were previously laid out. Now the suit is fully assembled - and it looks really awesome] Take it, my friend! I installed a combat effectiveness analysis module into it. Wear this for a couple of weeks and come back. Or earlier, if you often find yourself in a mess. I will measure the performance. Just be smart and remember: DO NOT WEAR THIS SUIT INSIDE THE OLYMPUS TOWER! You know that our soldier boys shoot first and ask questions later. [the engineer pats you on the shoulder] Enjoy. I need to rest. }
-{151}{999}{Thank you. I'll go try a new toy.}
+{150}{}{[Taylor triumphantly leads you to the table where pieces of armor were previously laid out. Now the suit is fully assembled - and it looks really awesome] Take it, my friend! I installed a combat effectiveness analysis module into it. Wear this for a couple of weeks and come back... Or earlier - if you often find yourself in a mess. I will measure the performance. Just be smart and remember: DO NOT WEAR THIS SUIT INSIDE THE OLYMPUS TOWER! You know that our soldier boys shoot first and ask questions later. [the engineer pats you on the shoulder] Enjoy now. I need to rest. }
+{151}{999}{Thank you. I'll go try this new toy.}

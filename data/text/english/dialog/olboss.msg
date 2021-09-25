@@ -33,7 +33,7 @@
 {22}{006}{Drop it. I climbed the mountain of corpses to get to you. And I'm going to enjoy every second.}
 {23}{006}{I'm the one who will tear you into a hundred little wires and feed your intestines to jackals!}
 {24}{007}{You are not a God. You are just delusional. Think you are ruling the world? You're crazy!}
-{25}{998}{You'll see who am I - after I'll stuff your ass with led!}
+{25}{998}{You'll see who I am - after I stuff your ass with led!}
 
 #Node003
 {30}{}{You?! You think you DECIDE something?? A pathetic human with a primitive brain, not capable of comprehending your purpose! Not understanding that in fulfillment of purpose lies the prosperity of Olympus- no, the whole Radius! This is the foundation of our civilization's rebirth! And you chose to not fulfill your purpose! Do you think this makes you a chosen one? Think it makes you SPECIAL?! You are an ERROR! An inevitable FLAW, a faulty cog with an inflated ego! Do you think you came here to change the world? Make things BETTER?! NO!! You are not even the first!! But I exist to keep things in order - and I am fixing errors. Take your last breath, puny human.}
@@ -51,13 +51,13 @@
 {53}{004}{You think too much of yourself, the "savior of a civilization"! You just like to play God!}
 
 #Node006
-{60}{}{You are so funny, puny human. So angry, so self-confident. Don't you see who you're talking to? Do you think you are the first to come here with the words like this? Yet I'm still here. And will be here tomorrow, and in ten years. And I will kill as many of you as it takes to maintain the salvation of Radius. Let's finish this. I have a lot of things to do.}
+{60}{}{You are so funny, puny human. So angry, so self-confident. Don't you see who you're talking to? Do you think you are the first to come here with the words like this? Yet I'm still here. And will be here tomorrow, and in ten years. And I will kill as many of you as it takes to maintain the salvation of Radius. Let's finish this. I have things to do.}
 {61}{012}{Wait a second! There were others before me?}
 {62}{998}{You're full of shit, false God. [reach for a weapon]}
 {63}{998}{It's showtime! [fight]}
 
 #Node007
-{70}{}{You are too primitive to understand how complicated the world is. Like every other puny human, you don't know what it takes to keep mankind from dying out. Look what I turned myself into! I forfeited my humanity, bounding myself to the tower's systems. Why? Because this is what needs to be done to save the Radius... As I said, you are not able to understand. You fail to see that the real evil is the desire that brought you here. You want to kill me - and condemn the human race to die. You want to ruin everything! So I need to stop you. Right now!}
+{70}{}{You are too primitive to understand how complicated the world is. Like every other puny human, you don't know what it takes to keep mankind from dying out. Look what I turned myself into! I forfeited my humanity, binding myself to the tower's systems. Why? Because this is what needs to be done to save the Radius... As I said, you are not able to understand. You fail to see that the real evil is the desire that brought you here. You want to kill me - and condemn the human race to die. You want to ruin everything! So I need to stop you. Right now!}
 {71}{008}{I don't believe you. Your worldview is based on lies! And I'm going to bring you to justice!}
 {72}{998}{No! It is ME who will stop YOU! [attack]}
 
@@ -66,14 +66,14 @@
 {81}{998}{[attack]}
 
 #Node009
-{90}{}{You don't know what it takes to be me. What things I've seen. What sacrifices I made. I've been witnessing the effect of my actions for years! The plans that were set in motion by my predecessors! That's why I KNOW that what I do is right! And I'm even willing to suffer for it. Each Anderson before me knew that he had to sacrifice his humanity and bound himself to this tower just to fulfill his mission, his destiny. To make sure that mankind will thrive. And each of us did it without hesitation. Yet you dare to accuse me of being selfish?}
+{90}{}{You don't know what it takes to be me. What things I've seen. What sacrifices I made. I've been witnessing the effect of my actions for years! The plans that were set in motion by my predecessors! That's why I KNOW that what I do is right! And I'm even willing to suffer for it. Each Anderson before me knew that he had to sacrifice his humanity and confine himself to this tower just to fulfill his mission, his destiny. To make sure that mankind will thrive. And each of us did it without hesitation. Yet you dare to accuse me of being selfish?}
 {91}{010}{Yes, I do! You make it look like you are the savior of Radius - but you have been sitting here for too long. The Olympus is not the center of the whole world!}
 {92}{998}{Look at him, thinks he's the martyr. All you really want is to stay in power. Just die already!}
-{93}{}{No... Each Anderson before me knew that he had to sacrifice his humanity and bound himself to this tower just to fulfill his mission, his destiny. To make sure that mankind will thrive. And each of us did it without hesitation. But you know nothing - and you shouldn't. You should only die to leave things as they are. I'm tired of you. Let's end this.}
+{93}{}{No... Each Anderson before me knew that he had to sacrifice his humanity and confine himself to this tower just to fulfill his mission, his destiny. To make sure that mankind will thrive. And each of us did it without hesitation. But you know nothing - and you shouldn't. You should only die to leave things as they are. I'm tired of you. Let's end this.}
 {94}{998}{We'll see about that!}
 
 #Node010
-{100}{}{You know so little. A pity. You seemed smarter than the others. "I'll save the world from you! Die, evil creature!" - every time it's the same... No one understands... No one is ever grateful. I'm so... tired.}
+{100}{}{You know so little. A pity - you seemed smarter than the others. "I'll save the world from you! Die, evil creature!" - every time it's the same... No one understands... No one is ever grateful. I'm so... tired.}
 {101}{011}{Grateful? You are abusing your power to make people believe in tales about you being God! You are pathetic!}
 
 #Node011

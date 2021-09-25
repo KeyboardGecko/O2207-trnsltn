@@ -65,7 +65,7 @@
 {154}{033}{What is behind that big metal door?}
 {155}{013}{You aren't very talkative.}
 
-{160}{}{[He is clearly irritated] More details? What the hell do you want? This is Livos. We trade clean water to the whole Radius. Sell the best guns. That's it. Stop bugging me with your chit-chat. Want to talk - find someone else.}
+{160}{}{[He is clearly irritated] More details? What the hell do you want? This is Livos. We sell clean water to the whole Radius. Sell the best guns. That's it. Stop bugging me with your chit-chat. Want to talk - find someone else.}
 {161}{018}{Who lives here?}
 {162}{Barter}{Can you show me the weapons you are selling?}
 {163}{017}{Let's talk more particularly about Livos. }
@@ -98,7 +98,7 @@
 {212}{020}{Tell me about McKinseys.}
 {213}{010}{Another question.}
 
-{220}{}{[Christopher becomes more lively] Claudia and Ashton - phantasists and schemers. They have a daughter, Mignon. She is a wonderful girl! A little light-headed and chatty, but in a good way. Together with her beauty, it makes her ideal girlfriend! }
+{220}{}{[Christopher becomes more lively] Claudia and Ashton - fantasists and schemers. They have a daughter, Mignon. She is a wonderful girl! A little light-headed and chatty, but in a good way. Together with her beauty, it makes her ideal girlfriend! }
 {221}{021}{Tell me about Duntons.}
 {222}{020}{What can you tell me about McKinseys?}
 {223}{024}{I suppose you like Mignon.}

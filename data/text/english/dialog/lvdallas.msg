@@ -39,12 +39,12 @@
 {110}{}{[Dallas calmly looks into your eyes] I don't have his book. I'm not interested in science to such a degree.}
 {111}{012}{Do you know who might've taken it?}
 
-{120}{}{[Dallas thinks for a second] Let's see... My parents didn't take it for sure - they just don't need it. Fox also has no interest in a science book. She likes to read only some old magazines, mainly because of pictures. So - it's not McKinseys. Try to ask other families - Hortons or Duntons. }
+{120}{}{[Dallas thinks for a second] Let's see... My parents didn't take it for sure - they just don't need it. Fox also has no interest in a science book. She reads only some old magazines, mainly because of pictures. So - it's not McKinseys. Try to ask other families - Hortons or Duntons. }
 {121}{023}{Tell me about your family.}
 {122}{019}{What can you tell me about other families?}
 {123}{999}{I see. I'll go look somewhere else.}
 
-{130}{}{[Dallas leisurely starts talking] This vault was built around two hundred years ago. It's inhabited by four families - Schweins, Hortons, Duntons, and us, McKinseys. We all are the descendants of famous people.}
+{130}{}{[Dallas leisurely starts talking] This vault was built around two hundred years ago. It's inhabited by four families - Schweins, Hortons, Duntons, and us, McKinseys. We are the descendants of famous people.}
 {131}{028}{I'd like to know more about Hortons.}
 {132}{022}{Tell me about Duntons.}
 {133}{021}{Can you tell me about Schweins?}
@@ -54,7 +54,7 @@
 {140}{}{[Dallas smiles] Dwellers of Livos are the sorrow and delight of this place. On one hand, there are many different characters and world-views. On the other, they vary in range from fanatics to schizophrenics.}
 {141}{018}{Who in Livos is the fanatic and who is schizophrenic?}
 {142}{019}{Tell me more about inhabitants.}
-{143}{016}{Oh yeah, since I have become the inhabitant of Livos, there's plus one more fanatic and schizophrenic!}
+{143}{016}{Oh yeah, considering I have recently become the inhabitant of Livos too, there is one more fanatic and schizophrenic now!}
 {144}{015}{What the dwellers are busy with?}
 {145}{010}{I'd like to ask about something else.}
 {146}{999}{I've just remembered I need to do something. We'll talk later.}
@@ -110,7 +110,7 @@
 {223}{023}{Tell me about your family, McKinseys.}
 {224}{010}{I learned what I needed. Let me ask something else.}
 
-{230}{}{[Dallas smiles and proudly continues] It's no secret that our family is the most influential in Livos. We are responsible for the vitally important product - clean water. Nothing compares to this. The head of our family is Boston McKinsey, my father. I'm doing most of the work... Practically everything. Other members of our family you'd better meet personally.}
+{230}{}{[Dallas smiles and proudly continues] It's no secret that our family is the most influential in Livos. We are responsible for an essential product - clean water. Nothing compares to this. The head of our family is Boston McKinsey, my father. I'm doing most of the work... Practically everything. Other members of our family you'd better meet personally.}
 {231}{024}{What exactly do you do here?}
 {232}{028}{Tell me about Hortons.}
 {233}{021}{What about the Schweins?}

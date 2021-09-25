@@ -328,10 +328,10 @@
 {590}{}{What? Who the hell are Seth and Matt? What union?}
 {591}{060}{They say that Radius wants to capture Livos. They want to be your allies in this war.}
 
-{600}{}{We will conquer everything around us without the help of these assholes! I'm not going to conclude an alliance! Tell them to go where the sun doesn't shine with their suggestions. The Schwein family definitely won't talk to them. Ask the heads of other families, maybe they could want something from these vagrants.}
+{600}{}{We will conquer everything around us without the help of these assholes! I'm not going to conclude an alliance! Tell them to go where the sun doesn't shine with their suggestions. The Schwein family definitely has no interest in talking to them. Ask the heads of other families, maybe they could want something from these vagrants.}
 {601}{010}{Well, I'll ask the others.}
 
-{610}{}{Oh, I have a lot of rare and unique things! From around the Radius, I bring them! True, I do not know what they are called. The main thing is that these are complex mechanical systems. I bring things from Oasis, Tin Industries, Rainbows, NWO, and even from Olympus itself!}
+{610}{}{Oh, I have a lot of rare and unique things! From around the Radius I bring them! True, I do not know what they are called. The main thing is that these are complex mechanical systems. I bring things from Oasis, Tin Industries, Rainbows, NWO, and even from Olympus itself!}
 {611}{062}{Can you show these places on the map?}
 
 {620}{}{Hm... I only know where Tin Industries and Oasis are located. Let me show you...}
