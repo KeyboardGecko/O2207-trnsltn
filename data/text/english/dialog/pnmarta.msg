@@ -35,7 +35,7 @@
 
 #Node003
 {30}{}{I'm glad you asked, }
-{31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion on the surface. I always told her not to go alone, knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are rumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
+{31}{}{... My name is Martha, and this is my daughter, Lily [she nods in the little girl's direction]. My baby was recently bit by a scorpion. I always told her not to go alone, I knew that something terrible would happen! Now she can't sleep, moans all the time. That old ghoul, Gromus, gave her some poisonous stuff to drink, but it seems that only made it worse! [whispers] You know, I don't trust those ghouls... There are rumors that they don't mind feasting on some human flesh [she gives you a meaningful look]. I can't calm my baby, maybe you could try to help? She needs to rest.}
 {32}{QA}{Calm the child? Of course, I can do that [go to Lily]}
 {33}{999}{What? You want me to sing some lullabies? Nah, it's girl stuff, deal with it yourself.}
 
@@ -50,14 +50,14 @@
 
 #Node011
 {110}{}{I don't know much. It's an old subway station, as far as I can tell. I've spent a long time being held captive by the Sunset Jackals, raped and tortured... but I got away. Then Robin and the prospectors found me and brought me here. After that my Lily was born. So we are striving through every day to see the next one - and that's how it is for us, mostly.}
-{111}{012}{Yeah, sad story. But who are the Sunset Jackals?}
+{111}{012}{What a sad story. But who are the Sunset Jackals?}
 {112}{010}{This must be hard. Can I ask another question?}
 {113}{}{We are just trying to get by to see another day - that's what we do.}
 {114}{010}{I see. Can I ask another question?}
 {115}{999}{Yeah, yeah. I, uh, gotta go.}
 
 #Node012
-{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius just for their amusement, and if you "got lucky" to be born pretty - a couple of rapings will correct that. Terrible people, I don't want to talk about them.}
+{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius for their amusement! And if you're "lucky" to be born pretty, they will correct that. Terrible people. I don't want to talk about them.}
 {121}{010}{I'm so sorry. Can I ask another question?}
 {122}{010}{Cruel world - cruel people. I'd like to ask something else.}
 
@@ -105,7 +105,7 @@
 {361}{999}{[leave quietly]}
 
 #Node040
-{400}{}{[she sighs] Oh Joe... No one has seen Nadine for 4 years already. Poor thing had something in her blood, was always sick. Joe tried hard to take care of her, but the illnesses took their toll. He buried her himself, on the surface, under the tree near the fountain. Then he got his mind clouded, looking for her all the time since. He made some kind of a beautiful labeled plate for a grave then, maybe telling him about it could make him remember.}
+{400}{}{[she sighs] Oh Joe... No one has seen Nadine for 4 years already. Poor thing had something in her blood, was always sick. Joe tried hard to take care of her, but the illness took its toll. He buried her himself - on the surface, under the tree near the fountain. Then his mind got clouded... He looks for her ever since. He made some kind of a beautiful labeled plate for a grave, maybe telling him about it could make him remember.}
 {401}{999}{Is that so? Well, I'm going to go look for that grave.}
 
 {500}{}{Martha is deeply asleep.}

@@ -65,47 +65,47 @@
 {109}{999}{Nothing. I have to go.}
 
 #Node011
-{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology Servant in Tartarus, I even remember Smitty teaching me... How long has it been, six years? Should be. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is a better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
+{110}{}{What can I say? You gotta do what you gotta do. See, I was just another Technology Servant in Tartarus, I remember Smitty teaching me... How long has it been, six years? Seems so. Then I ran away. Just couldn't take this Herald anymore, barely held the urge to kill him off. I walked around for a couple of days around the tower - and ended up here. Don't see the reason to whine - it's obvious that Tartarus is a better place to live, so I'm helping Bono to make deal with the guards. To let some of us enter.}
 {111}{012}{Let some of you into Tartarus? Sounds questionable. They take all outsiders for terrible creatures.}
 {112}{}{What can I say? Fixing the broken stuff, looking after what's working. Just helping Bono to keep things running, nothing exceptional.}
 {113}{010}{Plain and simple. Can I ask something else?}
 {114}{999}{Yeah, I see. Oh! I've got to go.}
 
 #Node012
-{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course, they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to work out a deal. Maybe offer guards batteries or drugs, I don't know. Bono had some ideas.}
+{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to work out a deal with guards. Maybe batteries or drugs will do, I don't know. Bono had some ideas.}
 {121}{010}{Well, it might work. I want to ask something else.}
 {122}{999}{I really doubt it - but good luck to you anyway.}
 
 #Node020
-{200}{}{We are surviving here, that's what happens. People run away from Tartarus, from Radius - and end up here. It is obvious you won't last long in wastelands alone - but here everyone is in the same situation. So they pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over Tartarus by force. Stay away from him, he's crazy.}
+{200}{}{We are surviving here, that's what going on. People run away from Tartarus, from Radius. Eventually they end up here. It is obvious you won't last long in wastelands alone - but here everyone are more or less the same. So we pack together. Me and Bono are trying to make a deal with guards to let some of us enter Tartarus. Robin and his Seekers are looking for food, Hugo is making plans about taking over Tartarus. Stay away from him, he's crazy.}
 {201}{021}{Hugo?}
 {202}{010}{Okay, I mostly got it.}
 {203}{}{Just stay around for a couple of days, you'll get it eventually.}
 {204}{999}{Okay, I'll see for myself.}
 
 #Node021
-{210}{}{The ghoul on the lower platform. He and his men are the only ones who walk around with guns here. Hugo himself is just a big baby who wants to play pew-pew and to show everyone he's strong. He's ex-Jackal, after all.}
-{211}{022}{Do they have enough guns and men?}
+{210}{}{The ghoul on the lower platform. He and his men are the only ones who walk around with guns here. Hugo himself is just a big baby who wants to play pew-pew and show everyone that he's strong. He's ex-Jackal, after all.}
+{211}{022}{Do they have enough guns and men to pull it off?}
 {212}{010}{Thanks for the warning. I'll keep that in mind.}
 
 #Node022
-{220}{}{Of course they don't! They are not going to make it even to the door guards. And if Defenders will come... I don't even want to think about it.}
+{220}{}{Of course they don't! They won't even make it to the door guards. And if they make Defenders angry... I don't even want to think about what happens then.}
 {221}{010}{Hmm... Yeah. I want to ask something else.}
 {222}{999}{I think I might want to learn more about him. See you!}
 
 #Node030
-{300}{}{Yes, there's still a lot of rats. I think they will feast on that poor guy for a few next days... And the toilet stays clogged.}
-{301}{}{I see you are in one piece? How's the unclogging going?}
-{302}{QA}{I think I could try to handle it.}
-{303}{032}{I can't find the plunger! Do you know where it might be?}
+{300}{}{Well, there's still a lot of rats. I think they will feast on that poor guy for a few next days... Which means the toilet stays clogged.}
+{301}{}{I see you are still in one piece. How's the unclogging going?}
+{302}{QA}{I think I could try to do something with it.}
+{303}{032}{I can't find the plunger! Do you know where I might get one?}
 {307}{032}{The rats are dead, but I still can't find the plunger!}
 {304}{033}{All done! The rats are dead, the toilet is unclogged. I should say it was... Dirty.}
-{305}{999}{No problem, soon it will be available for use.}
+{305}{999}{No problem, soon it will be ready to use.}
 {306}{010}{Uh, I actually wanted to talk about something else.}
 
 #NodeQA
-{310}{}{Okay then, I would be very grateful to you, just as all other inhabitants of the station. So, you see, there are two problems here: to kill the rats and to plunge the toilet. You can deal with rats in any way you want, but you're gonna need the plunger for the toilet, can't get around that. Why am I even telling you this? You had enough of it in Tartarus, right?}
-{311}{999}{Not me, but I've seen others do it. I'll manage, be sure about that.}
+{310}{}{Okay. I would be very grateful. Just as all other inhabitants of the station. You see, there are two problems here: to kill the rats and to plunge the toilet. You can deal with rats in any way you want, but you're gonna need the plunger for the toilet, can't get around that. Why am I even telling you this? You had enough of such situations in Tartarus, right?}
+{311}{999}{Not me, but I've seen others handle it. I'll manage, be sure about that.}
 {312}{999}{No problem. Don't think it'll take a lot of time. Be back soon.}
 
 #Node032
@@ -113,11 +113,11 @@
 {321}{999}{Okay, I'll keep looking.}
 
 #Node033
-{330}{}{Whoa! That's what I call a job well done! Here, take your reward [gives you a little bag with something heavy inside] Take it! These bullets are one of the most common in Radius. They will surely come in handy. And if not - you can trade them for something valuable, just like batteries.}
+{330}{}{Whoa! That's what I call a job well done! Here, your reward [he gives you a little bag with something heavy inside] Take it! These bullets are one of the most common in Radius. They will surely come in handy. And if not - you can trade them for something valuable, just like batteries.}
 {331}{999}{[Take the reward] Thanks. If you need something else, just ask.}
 
 #Node040
-{400}{}{WHAT!? IDIOT!! CRETIN!!! HE'LL KILL US ALL!! WE NEED TO LEAVE THIS PLACE, FAST!! [he runs off to Bono]}
+{400}{}{WHAT!? IDIOT!! CRETIN!!! HE'S GOING TO KILL US ALL!! WE NEED TO LEAVE THIS PLACE, FAST!! [he runs off to Bono]}
 {401}{999}{[end]}
 
 #Плавающие фразы
@@ -126,4 +126,4 @@
 {502}{}{The cleaning squad is probably on the way!}
 {503}{}{Stupid Hugo will kill us all!}
 {504}{}{Oh god, we are all going to die!!}
-{505}{}{We need to save ourselves as fast as we can!!}
+{505}{}{We need to get out of here as fast as we can!!}

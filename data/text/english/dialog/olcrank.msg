@@ -167,7 +167,7 @@
 {271}{028}{[keep waiting]}
 
 
-{280}{}{[The scientist almost reflexively reaches into his pocket. Pulls out something, glances over it, then sighs and drops it.]}
+{280}{}{[The scientist almost reflexively reaches into his pocket. He pulls something out, glances over it, then sighs and drops it.]}
 {281}{999}{[Bend down and pick up the thing]}
 
 

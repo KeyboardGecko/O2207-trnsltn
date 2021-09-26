@@ -29,7 +29,7 @@
 {6}{}{She looks exhausted.}
 {7}{}{Her face expresses a complete detachment.}
 {8}{}{Looks like she is barely breathing.}
-{9}{}{Her jumpsuit is very worn.}
+{9}{}{Her jumpsuit looks very worn.}
 #
 #ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
 #
