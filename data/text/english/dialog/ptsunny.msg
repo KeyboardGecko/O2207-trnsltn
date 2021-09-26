@@ -88,7 +88,7 @@
 {141}{999}{[end of dialogue]}
 
 #Node015
-{150}{}{[Sunny hides her eyes. Her joy from receiving the bag quickly disappears.] Okay. Let's get out of here. We'll need your help. I can inject the painkiller and apply a splint, but dragging her and fighting off the beasts - that's out of the question for me. [the girl is about to get to Becky, but stops and smiles at you] Thanks. I really appreciate your help, although I may be bad at showing it. After attitude we got in the NWO - to get some help is even nicer. A pity that I lost my father in this. I still hope he fled the town and we will meet with him eventually.}
+{150}{}{[Sunny hides her eyes. Her joy from receiving the bag quickly disappears.] Okay. Let's get out of here. We need your help. I can inject the painkiller and apply a splint, but dragging her and fighting off the beasts is out of the question for me. [the girl is about to get to Becky, but stops and smiles at you] Thanks. I really appreciate your help, although I may be bad at showing it. After attitude we got in the NWO it's very nice to get some help. A pity that I lost my father in this. I still hope he fled the town and we will meet with him eventually.}
 {151}{016}{[treat Becky]}
 
 {160}{}{#Node016}
@@ -96,7 +96,7 @@
 {163}{999}{[lead girls out of town]}
 
 #Node017
-{170}{}{[When the first joys and troubles of arriving at the NWO end, Sunny focuses her attention on you] You know, no one has ever been so good to us. I don't even know what to say... We survived only because of your help. A paramedic's bag that helped to get Becky to the NWO became our ticket to life here. Even their cheap doctor Hinder acknowledged that we can be helpful. So now we have a house. And also, we were told that "this is more than a house! This is a family!", but I would have kept their mouth shut if I were them. I lost my father, and he meant more to me than anyone from the "family" of this place. Anyway - I don't know how to thank you. I just wanted to say it. Know that I will always be in your debt.}
+{170}{}{[When the first joys and troubles of arriving at the NWO end, Sunny focuses her attention on you] You know, no one has ever been so good to us. I don't even know what to say... We survived only because of your help. A paramedic's bag that helped to get Becky to the NWO became our ticket to life here. Even their cheap doctor Hinder acknowledged that we can be helpful. So now we have a house. And we were told that "this is more than a house! This is a family!", but I would have kept their mouth shut if I were them. I lost my father... And he meant more to me than anyone from the "family" of this place. Anyway - I don't know how to thank you. I just wanted to say it. Know that I will always be in your debt.}
 {171}{999}{I'm glad that you are alright. See you around!}
 {172}{999}{I'll remember this part, about the debt!}
 {173}{999}{I would prefer payment, but it's fine. See you.}

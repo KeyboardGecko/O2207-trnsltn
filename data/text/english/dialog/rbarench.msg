@@ -20,7 +20,7 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[his shaved skull is shining under the light just like metallic teeth under his magnificent mustache. Broken nose and facial scars hint that he is an experienced fighter] A new player on our Arena? Want to bet? Or to beat the shit out of someone?}
+{10}{}{[his shaved skull is shining under the light just like metallic teeth under his magnificent mustache. Broken nose and facial scars hint that he is an experienced fighter] A new player on our Arena? Want to bet, or to beat the shit out of someone?}
 {11}{011}{What's going on here?}
 {12}{999}{Maybe some other time. See you.}
 #
@@ -36,7 +36,7 @@
 {103}{012}{I'd like to pick up something from the Arena.}
 {104}{999}{Okay, I won't be distracting you.}
 {1002}{}{[he salutes you] How are you doing, champion? Getting bloodthirsty? Ha! Everyone comes back here eventually... It gets you more than the Drop.}
-{105}{014}{I want to observe the fighters... And make a bet. Maybe two.}
+{105}{014}{I want to watch the fights... And to make a bet. Maybe a couple.}
 {106}{015}{Less talking. Who's ready to be put against me?}
 {107}{012}{I'd like to pick up something from the Arena.}
 {108}{999}{I'm taking a break today. Until next time, Warden.}
@@ -49,10 +49,10 @@
 {1013}{021}{I don't have a lot of free time too. So, how's the profit?}
 {1014}{020}{How's the situation here?}
 {1015}{999}{Okay, do your job. See you later.}
-{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him in the Arena! Instead, he was murdered in a ditch, like Lavash in a slaughterhouse...}
+{1005}{}{[with a grim look, he polishes his bald head with a dirty cloth] Oh, it's you... Sorry, I don't feel like talking today. The Hog... I had a dream - to see someone who could beat him in the Arena! Instead he was murdered in a ditch, like a Lavash in a slaughterhouse...}
 {1016}{015}{Life is a bitch, huh? Still, is there anyone who wants to fight me?}
 {1017}{014}{Can I make a bet though?}
-{1018}{012}{I have a small favor to ask - just to pick up something from the Arena.}
+{1018}{012}{I have a small favor to ask - to pick up something from the Arena.}
 {1019}{999}{I won't bother you then.}
 {1006}{}{[Warden looks lost, despite his huge size] What happens now?... Everything is going to hell... [he notices you] What do you come here for?}
 {1020}{014}{If I'm not mistaken, this is a place where I can make bet. Is that right?}
@@ -61,14 +61,14 @@
 {1023}{999}{Just checking. Was nice to see you, but I need to go.}
 
 
-{110}{}{[he spreads his arms] This is the Arena! You haven't seen the Rainbow if you didn't visit this place! Here the boys with the balls of metal turn each other into a bloody pulp to the roaring of the crowd! Even observing the Chimeras in their mating season can't compare to this! As for me, you can call me Warden. I'm leading this place, so - tell me, if you need something.}
+{110}{}{[he spreads his arms] This is the Arena! You haven't seen the Rainbow if you didn't visit this place! Here the boys with the balls of metal turn each other into a bloody pulp to the roaring of the crowd! Even observing the Chimeras in their mating season can't compare to this! As for me, you can call me Warden. I'm leading this place, so tell me if you need something.}
 {111}{014}{Can I make bets here?}
 {112}{015}{Sounds good... I might even want to participate. Is that possible?}
 {113}{999}{I see. Okay, see you around, Warden.}
 
 
 {1201}{}{And I'd like a blowjob from both of Hog's bitches simultaneously. Want to get to the Arena? Come and fight. That's the rule.}
-{121}{013}{Here's how it is... That thing belonged to one Seeker, who's at the Bar now. Get it? He's always going around Radius, knows every nook. You would want to have a friend like him. And if I can't go to Arena, maybe you could help? It's a badge, you can't mix it up. And I'll have a word with him for you.  }
+{121}{013}{Here's how it is... That thing belonged to one Seeker, who's at the Bar now. Get it? He's always hanging around Radius, knows every nook. You would want to have a friend like him. And if I can't go to Arena, maybe you could help? It's a badge, you can't mix it up. And I'll have a word with him for you.  }
 {122}{015}{This is definitely an option. Is there anyone ready to stand against me?}
 {123}{999}{If that's how it is - I'd better go.}
 {1202}{}{No problem, champ! You can stop asking because this is your second home now! Haha!}
@@ -77,7 +77,7 @@
 {125}{999}{Uh... Yeah, thanks. I'm going.}
 
 
-{130}{}{Well, yeah, but... Wait for a moment... [he leaves. You observe local flies for some time, then he returns] Here. But if you try to fuck me up, I'll give you a lot of unforgettable moments in the Arena. [he smiles, showing his metal teeth]}
+{130}{}{Well, yeah, but... Wait for a moment... [he leaves. You observe local flies for some time, then he returns] Here. But if you try to fuck me up - I'll make you experience a lot of unforgettable moments in the Arena. [he smiles, showing his metal teeth]}
 {131}{999}{Everything's going to be alright, man! Don't you doubt it. Okay, see you around.}
 {132}{999}{Did I ever lie to you? No! Let's not waste time then. Thanks again, for your help.}
 
@@ -92,12 +92,12 @@
 {220}{}{You do realize that we have one-on-one fights only? [looks at your brother] Let the gentleman stand aside.}
 {221}{}{You do realize that we have one-on-one fights only? [looks at robotron] This bucket of yours is going to destroy my whole Arena! Turn it off for now.}
 {222}{}{You do realize that we have one-on-one fights only? [looks at Shaggy]. No animals. Especially Fire Wolves! Tell him to sit somewhere nearby.}
-{226}{}{You do realize that we have one-on-one fights only? [looks at Ludwig, who is trying to hide behind you] I see that you are, uh, "close", but you are not going to Arena together.}
+{226}{}{You do realize that we have one-on-one fights only? [looks at Ludwig, who is trying to hide behind you] I see that you two are, uh, "close", but you are not going to Arena together.}
 {223}{}{You do realize that we have one-on-one fights only? [looks at your company] I won't let your team go with you. Let them stay around.}
 {224}{999}{Of course. Be right back.}
 {225}{999}{One-on-one only? Then I'll think about it some more.}
 
-{1501}{}{[he critically looks at you] Hmm... Okay, as a newbie, you're getting a newbie opponent. Recently, we had one guy from the east coming here - that's who you're gonna be fighting. Don't forget to pay the entrance fee - four hundred.}
+{1501}{}{[he critically looks at you] Hmm... Okay, as a newbie, you're getting a newbie opponent. Recently we had one guy from the east coming here - that's who you're gonna be fighting. Don't forget to pay the entrance fee - four hundred.}
 {151}{018}{I'm ready. Shall we start?}
 {152}{018}{I'm itching to taste his blood!}
 {153}{999}{Although, I think I'll pass.}
@@ -117,7 +117,7 @@
 {1513}{018}{I hear you. Let's mess his hair a little.}
 {1514}{018}{I can only promise that he dies quickly... And painfully! That's it, I'm going!}
 {1515}{999}{I need to prepare for this kind of fight... }
-{1506}{}{[he makes a long pause] Hog himself became interested in you, champion. I don't know what's going on in his head, but... This is really serious. You've never seen anything like it. Are you aware that he doesn't sleep? Or that he can squash Ursa's skull with his one hand? Try to avoid getting close - if he grabs you, you're going to be broken in half. So, ready?}
+{1506}{}{[he makes a long pause] Hog himself became interested in you, champion. I don't know what's going on in his head, but... This is really serious. You've never seen anything like it. Are you aware that he doesn't sleep? Or that he can squash Ursa's skull with his one hand? Try to avoid getting close - if he grabs you, you're going to be broken in half. Ready?}
 {1516}{018}{It's time to rip this Hog's fangs! Tell them I'm going!}
 {1517}{018}{I'm ready. Don't worry, we'll make this beautiful.}
 {1518}{999}{I need to deal with something. Talk later.}
@@ -144,11 +144,11 @@
 {182}{999}{Yes, it was a good warm-up. Now I can get some rest.}
 {1803}{}{You are just like me in my best years! Went so hard on that asshole, now I have to clean the Arena for a whole day after you... I need to think really hard about who to put you against next time. For now - here, you earned it.}
 {183}{999}{Notice that I won't count it! Okay, see you.}
-{1804}{}{My champion! If you only knew how much money I made on you... I'm going to fuck every girl in a brothel - and then drink every bottle of Apothecary's booze! This was a hell of a fight! Where did you learn that tricks? Teach me, when you'll get the chance. Here's your cut... And a little extra, from me.}
+{1804}{}{My champion! If you only knew how much money I made on you... I'm going to fuck every girl in a brothel - and then drink every bottle of Apothecary's booze! This was a hell of a fight! Where did you learn that tricks? Teach me, when you'll get the chance. Here's your cut... And a little extra - from me.}
 {184}{999}{Blood money... Nice. Until next time.}
 {1805}{}{[he silently watches Mate's body, leaving a blood trail, being dragged off the Arena] Oh, Mate, my Mate... Anyway, that was his choice. And you? You did a clean job, as always. Here, champ.}
 {185}{999}{Don't feel bad. Better him than we.}
-{1806}{}{[he gazes at the Arena, unable to say any word] Fuck me sideways by a ghoul... It's worth living to see a fight like this! It's like the next Great War! There was a Hog - and now it's just a puddle of blood with a pile of meat... Here, this is yours. [he starts counting the batteries, but suddenly gives you everything he holds] You know, take it all! Holy shit... What's going to happen now?}
+{1806}{}{[he gazes at the Arena, unable to say any word] Fuck me sideways by a ghoul... It's worth living to see a fight like this! It's like the next Great War! There was Hog - and now it's just a puddle of blood with a pile of meat... Here, this is yours. [he starts counting the batteries, but suddenly gives you everything he holds] You know, take it all! Holy shit... What's going to happen now?}
 {186}{999}{You'll see. Wait here, I'm going to have a talk with you very soon.}
 
 
@@ -158,7 +158,7 @@
 {193}{999}{Take care of yourself, big guy. See you around.}
 
 
-{2001}{}{[he shows his clenched fist] Like this! I'm holding the situation tightly under my control, boss! The fighters are coming to me themselves, and since you put Hog down, Arena is always full with the crowd. The place is famous now! Maybe I should put a memorial sign.}
+{2001}{}{[he shows his clenched fist] Like this! I'm keeping the situation tightly under control, boss! The fighters are coming to me themselves! And since you put Hog down, Arena is always full with the crowd. The place is famous now! Maybe I should put a memorial sign.}
 {201}{021}{A good idea, by the way... So, this means that our finances are good?}
 {202}{999}{Glad to hear. Keep them on their toes, bud. And I need to go.}
 {2002}{}{[he shrugs his strong shoulders] More or less. Like before, I'd say. We won't find anyone like Hog, that's for sure, but the Arena is still providing a steady income. }
