@@ -82,11 +82,11 @@
 {133}{999}{Understood. That's all I wanted. See you!}
 
 
-{140}{}{[he spits on the floor] They are just a bunch of pussies. After we left them, the Jackals became nothing. Now there's Loudmouth in charge, and he is pretty fucked up. Thinks he has the longest dick in the Radius, ha! Why do you think they call him that? Because he was pissing his pants and whining non-stop as a child. His father, Jackal, was... A good boss, but a terrible parent. He fucked up his son, even with turning him into a real Jackal in the end. This loud asshole cut off Hog's finger just for kicks, can you imagine? So, when we got tired of this hysterical bitch, we moved here. Took care of every annoying shit, built the Hog's crib, the bar...  Basically, started to live as white people. Especially me! [he happily laughs]}
+{140}{}{[he spits on the floor] They are just a bunch of pussies. After we left, the Jackals became nothing. Now there's Loudmouth in charge, and he is pretty fucked up. Thinks he has the longest dick in the Radius, ha! Why do you think they call him that? Because he was pissing his pants and whining non-stop as a child. His father, Jackal, was... A good boss, but a terrible parent. He fucked up his son, even with turning him into a real Jackal in the end. This loud asshole cut off Hog's finger just for kicks, can you imagine? So, when we got tired of this hysterical bitch, we moved here. Took care of every annoying shit, built the Hog's crib, the bar... Basically, started to live as white people. Especially me! [he happily laughs]}
 {141}{999}{Thanks for the info. See you around.}
 
 
-{1501}{}{[he gets more lively] Now we're talking business! Here's how it is, man - for only 27 batteries per hour, the best pussies in Radius are at your service! Do anything you want with them, but don't mess up the commodity's condition, be so kind. They won't say no, I promise you that. I work on them myself... In every hole, hahaha! And don't forget the condoms - it's on the house.}
+{1501}{}{[he gets more lively] Now we're talking business! Here's how it is, man - the best pussies in Radius are at your service just for 27 batteries per hour! Do anything you want with them, but don't mess up the commodity, be so kind. They won't say no to anything, I promise you that. I work on them myself... In every hole, hahaha! And don't forget the condoms - it's on the house.}
 {151}{999}{Such a good recommendation! I'm paying!}
 {152}{999}{No, I don't need it for now.}
 {1502}{}{Our fine establishment is always at your service, man! The price still stands - 27 batteries per hour.}
@@ -96,7 +96,7 @@
 {155}{999}{We'll see about that... Give me the rubbers and you can go.}
 
 
-{1601}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] I've been having troubles with security in my establishment lately. Some assholes are periodically coming around, four of them. In their last visit, one of my girls ended up being torn, another had her face worked with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! Of course, I could tell Hog about it, but I suspect that he would send Mate to deal with it - and I have my beef with Mate. So, will you handle the scumbags? They actually just came in... }
+{1601}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] Lately I've been having troubles with the security in my establishment. Some assholes are periodically coming around, four of them. In their last visit one of my girls ended up being torn, another had her face painted with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! Of course, I could tell Hog about it, but I suspect that he would send Mate to deal with it - and I have my beef with Mate. So, will you handle the scumbags? Actually, they just came in... }
 {161}{999}{Deal. Wait here.}
 {162}{011}{Not interested. Better answer me some questions.}
 {163}{999}{I need to think about it. Will be back.}
@@ -104,17 +104,17 @@
 {164}{999}{Deal. Get the stuff ready.}
 {165}{011}{Nah, handle him yourself. And I need answers to some questions.}
 {166}{999}{I need to think about it. Will be back.}
-{1603}{}{[he nods] There are actually four scumbags... When they came around last time, one of my girls ended up being torn, and another had her face worked with a blade. This not only means that I'm having additional costs - it's disrespectful to you, chief!! I would impale them on some stick myself, but I know how you like to personally break the bones of such disrespectful pricks!}
+{1603}{}{[he nods] There are actually four scumbags... When they came around last time, one of my girls ended up being torn, and another had her face painted with a blade. This not only means that I'm having additional costs - it's disrespectful to you, chief!! I would impale them on sticks myself, but I know how you like to personally break the bones of such disrespectful pricks!}
 {167}{999}{Ha! You are quite right. Are they here now? Good - it's time to shed some blood...}
 {168}{999}{What? I don't do such petty shit. You should deal with matters like this yourself! That's it, I'm busy, See you!}
-{1604}{}{[he sends a chewed toothpick flying into the nearest prostitute] I don't even feel comfortable distracting you with such petty matters... There's one of your guys, a guard of the local warehouse whose name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free!! Backs them into a corner and bonks them right there. How do you like that? Help me, chief, I'm pretty busy lately - trying to make more money for you!}
+{1604}{}{[he sends a chewed toothpick flying into the nearest prostitute] I don't even feel comfortable distracting you with such petty matters... There's one of your guys, a guard of the local warehouse, name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free!! Backs them into a corner and bonks them right there. How do you like that? Help me, chief, I'm pretty busy lately - trying to make more money for you!}
 {169}{999}{Okay, I'll see to it. And you should think about why would I need someone who can't handle his own matters.}
 {1610}{999}{And you will pay in time, I don't even doubt. As for the Brick - I don't have time for this, hear me? Later.}
 {1604}{}{Nah, everything's quiet. All good, man.}
 {1611}{999}{Okay. Tell me if you need anything. Later, Shepherd.}
 {1605}{}{[he scratches his nose with a toothpick] Chief, you are so good at dealing with this kind of shit, I can't believe it! We are so lucky to have you in charge! Everything is great, no problem at all!}
 {1612}{999}{Good. But you should learn to handle the matters by yourself because you are responsible. Later, Shepherd.}
-{1606}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] I've been having troubles with security in my establishment lately. Some assholes are periodically coming around, four of them. In their last visit, one of my girls ended up being torn, another had her face worked with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! As Hog went down, all this filth doesn't let me do my business! And Mate is so happy about it, that smug asshole...  So, will you handle the scumbags? They just came in...}
+{1606}{}{Actually, yes. I might use some help. [he stares at you for a while, then continues] Lately, I've been having troubles with the security in my establishment. Some assholes are periodically coming around, four of them. In their last visit one of my girls ended up being torn, another had her face painted with a blade. And that means I'm having additional costs! Fuck, I couldn't get a boner for a couple of days, that's how sad I was! As Hog went down, every filth interferes with my business! And Mate is so happy about it, that smug asshole... So, will you handle the scumbags? They just came in...}
 {1613}{999}{Deal. Wait here.}
 {1614}{999}{I need to think about it. Will be back.}
 {1607}{}{One thing is bugging me. There's a guard of the local warehouse whose name's Brick. This horny piece of Lavash shit has a habit of visiting my girls - and he fucks them for free! Backs them into a corner and bonks them right there. How do you like that? Now, man, please, deal with him, I ask you like a brother. Apothecary supplied me with some chemical stuff to loosen up, but I'm willing to give it to you, only for that freak not to be around anymore! Without Hog, all kinds of assholes are running rampant here...}
@@ -122,26 +122,26 @@
 {1616}{999}{I need to think about it. Will be back.}
 
 
-{1701}{}{Man, what a beast you are! Everything is bloody, right to the ceiling! Good job. Here. [he gives you a shiny revolver, covered in oil] It's sad to part with it, but business is business.}
+{1701}{}{Man, what a beast you are! Everything is covered in blood, right up to the ceiling! Good job. Here. [he gives you a shiny revolver, covered in oil] It's sad for me to part ways with it, but business is business.}
 {171}{999}{Nice to do it with you! Alright, see you later.}
-{1702}{}{What a bloodbath, chief! You definitely know your shit, man! Here, take this, with all respect. I used to lead the raids with it, back in the day, in Jackals. [he gives you a shiny revolver, covered in oil] }
+{1702}{}{What a bloodbath, chief! You definitely know your shit, man! Here, take this, with all respect. I used to lead the raids with it, back in the day, with Jackals. [he gives you a shiny revolver, covered in oil] }
 {172}{999}{A good addition to my collection. See you around, Shepherd.}
 
 
 {1801}{}{[he stretches his lips into a smug smile] Good to know... I hope that's how it is. Here's your package. Want me to tell you how and what to mix, so your hard-on would last for twenty-four hours? The price is pretty small.}
 {181}{999}{No thanks. I'll figure it out. See you.}
-{1802}{}{[his fat lips squeeze the toothpick. Shepherd looks pleased] You got what you deserved, you walking sperm bank... No more problems with security then, chief! Here, this is for you. [he hands you a package with some chemicals] Thanks again!}
+{1802}{}{[his fat lips squeeze the toothpick. Shepherd looks pleased] Got what he deserved, that walking sperm bank... No more problems with security then, chief! Here, this is for you. [he hands you a package with some chemicals] Thanks again!}
 {182}{999}{Next time you'll answer me for such screw-ups. You can go for now.}
 
 
 {190}{}{[he coarsely laughs with a pleasant look] Maybe I would. You don't have enough batteries for it anyway! Haha! I'm a businessman, man, not a cheap pimp from the streets.}
-{191}{020}{Really? You ARE a pimp from the streets! I'm going to spin you right round on my device for free, if I feel like it!}
+{191}{020}{Really? You ARE a pimp from the streets! I'm going to spin you right round on my device for free if I feel like it!}
 {192}{013}{Okay, businessman. Tell me about the local authorities. Who is in charge here?}
 {193}{012}{Alright. Tell me about the Rainbow.}
 {194}{999}{I get it. I'm leaving.}
 
 
-{200}{}{[He stares at you with his bulging, red eyes]  You... Who do you think you are fucking with, bitch? Do you know what Hog will do to you? Screw this, you know what I will do to you? I'll show you!}
+{200}{}{[He stares at you with his bulging, red eyes] You... Who do you think you are fucking with, bitch? Do you know what Hog will do to you? Screw this, you know what I will do to you? I'll show you!}
 {201}{998}{Come on, you scum! I will dissect your face right to the back of your head!}
 {202}{998}{As the blind man once said - let's see! Come and get it!}
 
@@ -158,9 +158,9 @@
 {222}{999}{I won't forget that. Later.}
 
 
-{2301}{}{[You see a girl running at you, screaming. As you stumble, she gets behind your back, cowering in fear. The black guy stops nearby, gasping for air, then tosses a toothpick into his mouth.] What the... Don't get in my way, man. I'm going to beat the shit out of this bitch's stupid head! Or better, help me to capture her!}
+{2301}{}{[You see a girl running at you and screaming. As you stumble, she gets behind your back, cowering in fear. The black guy stops nearby, gasping for air, then tosses a toothpick into his mouth.] What the... Don't get in my way, man. I'm going to beat the shit out of this bitch's stupid head! Or better - help me to capture her!}
 {231}{024}{What's this all about?}
-{2302}{}{[You see a girl running at you, screaming. As you stumble, she behind your back, cowering in fear. Shepherd stops nearby, gasping for air, tossing a toothpick into his mouth.]}
+{2302}{}{[You see a girl running at you and screaming. As you stumble, she behind your back, cowering in fear. Shepherd stops nearby, gasping for air, tossing a toothpick into his mouth.]}
 {232}{024}{What's this all about?}
 
 
@@ -170,7 +170,7 @@
 {243}{027}{You won't touch her, black boy. [stand in his way]}
 
 
-{250}{}{[The pimp skillfully ties the hands of the resisting girl with a rope, then puts a noose on her neck] You know, she doesn't need hands to work... Thanks for the tip, by the way! Don't you worry, I'll deal with her very thoroughly. You should come to visit us, man. I won't promise any discounts, sorry, but at least the girls won't be contagious, haha! [pulls the rope] Move, bitch! }
+{250}{}{[The pimp skillfully ties the hands of the resisting girl with a rope, then puts a noose on her neck] You know, she doesn't need her hands to work... Thanks for the tip, by the way! Don't you worry, I'll deal with her very thoroughly. You should come to visit us, man. I won't promise any discounts, sorry, but at least the girls won't be contagious, haha! [pulls the rope] Move, bitch! }
 {251}{999}{You don't trust anyone these days... Okay, I overstayed my welcome. I should go.}
 
 
@@ -188,7 +188,7 @@
 {274}{028}{[Heated by conversation, your opponent doesn't even think about defending himself. It's time to attack!]}
 
 
-{280}{}{[Your blow is so fast that the enemy didn't even notice it. With the palm of your hand, you punch his nose cartilage right into his brain. The pimp falls down like a sack of flour, twitches his leg for the last time - and stops moving. His unseeing eyes are staring into nothingness. You look around, but the girl is nowhere to be found.]}
+{280}{}{[Your blow is so fast that the enemy didn't even notice it. With the palm of your hand you punch his nose cartilage right into his brain. The pimp falls down like a sack of flour, twitches his leg for the last time - and stops moving. His unseeing eyes are staring into nothingness. You look around, but the girl is nowhere to be found.]}
 {281}{999}{Not even a thank you... Okay, what's done is done.}
 
-{285}{}{Armed raiders kindly escort you to their boss, pointing their guns in your back.}
+{285}{}{Armed raiders kindly escort you to their boss, pointing their guns at your back.}
