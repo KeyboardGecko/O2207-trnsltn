@@ -32,19 +32,19 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{10}{}{[suddenly, you hear that someone's calling] Hey, you! Come here! [you look around. Before you stands a young man in a very clean equipment. His jacket and pants are all sewn with loads of pads and plates. It makes him look more like a Christmas tree than someone who regularly goes into raids. His face expresses strong resentment. Looks like you are a piece of shit.]}
+{10}{}{[Suddenly you hear that someone's calling] Hey, you! Come here! [You look around and see a young man in very clean equipment. His jacket and pants are sewn all over with loads of pads and plates. This makes him look more like a Christmas tree than a man who regularly goes on raids. His face expresses strong resentment. Looks like you are a piece of shit.]}
 {11}{002}{What?}
 {12}{003}{Ask nicely.}
 {13}{999}{[Give him a middle finger and walk away]}
 
 
-{20}{}{I don't remember seeing your face around here. That means you are a newbie. And it's me who deal with the newbies here.}
+{20}{}{I don't remember seeing your face around here. That means you are a newbie. And it's me who deal with newbies here.}
 {21}{020}{And?}
 {22}{003}{I don't give a shit.}
 {23}{999}{[Give him a middle finger and walk away]}
 
 
-{30}{}{What? [he looks very surprised. Even confused.] Do you actually know who are you talking to? Who am I?! I'm...}
+{30}{}{What? [he looks very surprised. Even confused.] Do you actually know who are you talking to? Who I am?! I'm...}
 {31}{005}{[interrupt him] A piece of shit. }
 {32}{006}{[interrupt him] I don't give a fuck who you are. }
 {33}{004}{[listen]}
@@ -61,12 +61,12 @@
 
 
 {60}{}{Are you fucking lost it? You are way too far up your ass, faggot!}
-{61}{014}{Maybe it's YOU who lost it? Huh? Screaming around that you are Oswald Brown? Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave this place with your head in a bag as a souvenir.}
+{61}{014}{Maybe it's YOU who lost it? Huh? Screaming around that you are Oswald Brown! Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave this place with your head in a bag as a souvenir.}
 {62}{007}{And?}
 
 
-{70}{}{Now you stand on your knees and beg for forgiveness. If you'll make enough effort - you're going to be sent to guard the gate. But if I won't like how your tongue cleans the soles of my boots - you are going to clean toilets. Got it, sucker?}
-{71}{015}{What a joker. Are you for the clown here?}
+{70}{}{Now you stand on your knees and beg for forgiveness. If you'll make enough effort, you're going to be sent to guard the gate. But if I won't like how your tongue cleans the soles of my boots - you are going to clean toilets. Got it, sucker?}
+{71}{015}{What a joker. Are you the local clown?}
 {72}{998}{Yeah? [grab his collar and slam his nose with a headbutt]}
 {73}{008}{[keep silent]}
 
@@ -175,7 +175,7 @@
 {263}{999}{[leave]}
 
 
-{270}{}{[Oswald giggles, looking like he has some troubles with the head] So fearless... I think you and your titanium balls will make a great addition to the gate guards. Get your ass there, fast. If I hear that you are hanging around instead of doing your job - you are fucked.}
+{270}{}{[Oswald giggles, looking like he has some troubles with the head] So fearless... I think you and your titanium balls will make a great addition to the gate guards. Get your ass there. If I hear that you are hanging around instead of doing your job - you are fucked.}
 {271}{006}{Why don't YOU go guard the gate? And while you walking there, you could come by traders and sell your asshole for a quick buck.}
 {272}{999}{Yeah. [leave]}
 {273}{028}{Do I look like one of your bitches?}
@@ -196,7 +196,7 @@
 {301}{031}{So funny. I meant a real job, with real pay.}
 
 
-{310}{}{Okay, butternut, there is actually something. I like good pistols. And I'm looking for one for my collection. Called Slugger. If you'll find one, let me know.}
+{310}{}{Fine, butternut, there is actually something. I like good pistols. And I'm looking for one for my collection. Called Slugger. If you'll find one, let me know.}
 {311}{032}{One like this?}
 {312}{036}{I have something better. Take a look. [show Jackal's revolver]}
 {313}{999}{Okay. If I see one, I'll come by.}
@@ -291,7 +291,7 @@
 {472}{999}{Nevermind that. I'm going.}
 
 
-{480}{}{I look out for greenhorn freaks like you and put some sense into them. No brains, no respect for authority. I'm not even talking about discipline.}
+{480}{}{I look out for greenhorn freaks like you and put some sense into them. They have no brains and no respect for authority. I'm not even talking about discipline.}
 {481}{050}{Who else is in charge here?}
 {482}{049}{You are pissing me off with your neglect attitude. I've seen much more of the world than you.}
 
@@ -307,11 +307,11 @@
 {503}{010}{Forget it. I still have some questions.}
 
 
-{510}{}{Billy fucking Stone. An asshole who's in charge of repairings. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
+{510}{}{Billy fucking Stone. An asshole in charge of repairings. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
 {511}{052}{Chris?}
 {512}{010}{Forget it. I still have some questions.}
 
 
-{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when its owner is not around.}
+{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when their owner is not around.}
 {521}{051}{Billy?}
 {522}{010}{Forget it. I still have some questions.}

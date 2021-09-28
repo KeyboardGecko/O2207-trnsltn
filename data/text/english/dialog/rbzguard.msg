@@ -63,7 +63,7 @@
 {1006}{}{[spits on the ground]}
 {1007}{}{[sharpens his knife]}
 {1008}{}{[checks out his equipment]}
-{1009}{}{Let's wrestle, maybe?}
+{1009}{}{Let's wrestle maybe?}
 # Нейтральные сообщения
 {1010}{}{I don't remember seeing your face around here.}
 {1011}{}{Where the hell are the likes of you come from?}
