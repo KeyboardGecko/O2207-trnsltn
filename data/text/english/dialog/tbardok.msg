@@ -35,7 +35,7 @@
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√ ƒŒ «Õ¿ ŒÃ—“¬¿
 #
 {10}{}{[his voice sounds like a menacing growl through clenched teeth] Don't stick your nose around here, kid.}
-{11}{}{Do I? No, I'm here for a reason, actually.}
+{11}{}{Huh? No, I'm here for a reason, actually.}
 {12}{}{What's wrong with it? I live here, just like you!}
 {13}{}{Alright, I'm leaving.}
 {14}{}{He's a very suspicious character. Maybe you should ask Herald about him.}
@@ -58,17 +58,17 @@
 {104}{˜ÂÌ˚È}{Come on, bro, you can tell me. I won't tattle on my kindred.}
 {105}{}{Get out.}
 {106}{}{Understood, I'm going.}
-{110}{}{You think that if you know my name, we're like family? Get out of here, before I kick your ass!}
+{110}{}{You think that if you know my name, then we're like family? Get out of here before I kick your ass!}
 {111}{}{Oh wee, look at this rude piece of shit!...}
 {112}{}{Okay, no need to be so steamy. I'm leaving.}
 {120}{}{I... To hell with it, I'm telling you everything! But you must swear no one learns about it! No one! SWEAR!}
 {121}{}{I SWEAR!}
 {122}{}{I won't! Screw it, you are definitely not right in the head!}
-{130}{}{Okay. Okay... It was in the morning... Yesterday. I think. Or the day before... I don't remember. It doesn't matter! I came here to look for parts because Smitty asked to help. And I had a throat so dry that I would kill for a drop of booze! And there he was, standing near the staircase... Asshole in armor... He tells me "take some candies, and fetch me some moonshine".}
+{130}{}{Okay. Okay... It was in the morning... Yesterday. I think. Or the day before... I don't remember. It doesn't matter! I came here to look for parts because Smitty asked to help. And I had a throat so dry that I would kill for a drop of booze! And there he was, standing near the staircase... Asshole in armor... He tells me "take some candies, fetch me some moonshine".}
 {131}{}{Sounds familiar... So? Did you do it?}
 {132}{}{He is the Son of Gods! His wishes are holy to us.}
-{133}{}{Of course I did, you wouldn't believe how much I needed that drink! So, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
-{134}{}{You know that's bullshit! Are you feeling alright? Okay, so, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him! And I did until I punched his helmet deep into his skull! With my bare hands!}
+{133}{}{Of course I did, you wouldn't believe how much I needed that drink! So, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him up! And I did until I punched his helmet deep into his skull! With my bare hands!}
+{134}{}{You know that's bullshit! Are you feeling alright? Okay, so, I made a run to Smitty's machine, brewed it... And drank it all! When I got back, this guard was already waiting for me, asshole... He tried to punch me, but couldn't turn around on the stairs, with this armor of his. So, he fell... And I don't know what happened to me, but I started beating him up! And I did until I punched his helmet deep into his skull! With my bare hands!}
 {135}{}{The Son of Gods?... With bare hands? I coudn't even think you are capable of that!}
 {136}{}{I never thought that you can... You know... Them.}
 {137}{}{Me neither, but... There he is, laying dead. I took the wall apart in half an hour, dug a little hole. Brothers helped, of course. Still, what happened on the parking lot should stay on the parking lot, hear me?!}

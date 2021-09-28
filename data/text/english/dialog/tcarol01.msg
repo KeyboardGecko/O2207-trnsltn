@@ -60,11 +60,11 @@
 {113}{}{I need to repair a fuse box on level 2, but I have difficulties with it.}
 {120}{}{I'll get you... Get out of here, you joker!}
 {121}{}{Okay-okay, I'm going.}
-{122}{}{Easy! I'm already leaving.}
+{122}{}{Easy! I'm leaving.}
 {1301}{}{What? Just do it! Look at wires, connect one to the other - and that's it! You men are so useless.}
 {1302}{}{Still don't get it? Handle it yourself!}
 {131}{}{Easy for you to say, "push a little - and it's done"... Okay, will go try one more time.}
-{132}{}{Listen, babe, maybe you could demonstrate to a greenhorn like me how it's done?}
+{132}{}{Listen, babe, maybe you could demonstrate how it's done to a greenhorn like me?}
 {133}{}{Are you serious? I bet you couldn't even do it yourself.}
 {134}{}{You are a wild one, aren't you! Okay, I'll "handle it myself".}
 {140}{}{Did you just call me "babe"!? Get lost! I don't want to see you!}
@@ -126,8 +126,8 @@
 {1031}{}{Men. Can't do a thing by themselves.}
 {1032}{}{So, this thingie goes into that thingie.}
 {1033}{}{What the... Who took my wrench?}
-{1034}{}{Screw that, I'll do fine without it.}
-{1035}{}{Okay, it's gonna work in a minute.}
+{1034}{}{Screw that, I can do fine without it.}
+{1035}{}{Okay, it'll work in a minute.}
 {1036}{}{There! Was that so difficult?}
 {1037}{}{And who's fault is that? Right! Bozos!}
 {1038}{}{...all because of a little nudge.}

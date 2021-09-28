@@ -222,7 +222,7 @@
 {381}{999}{Great. I'll tell that to Hog. Was nice having business with you, but I've got to go.}
 
 
-{390}{}{[He puts a knife away and pats you on the shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done... But not now. Later. If you want to join the fun, just say, we'll find you something to do. Pick fingers for me, for example. Haha!}
+{390}{}{[He puts a knife away and pats you on the shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done for... But not now. Later. If you'd like to join the fun, just tell me. We'll find you something to do. Pick fingers for me, for example. Haha!}
 {391}{999}{Ahem... What an honor. Okay, that's it for me, I won't be bothering you anymore.}
 
 

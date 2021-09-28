@@ -65,7 +65,7 @@
 {1014}{}{You know, I actually don't mind - but I'm busy now.}
 {1015}{}{Listen, don't touch me, let me rest a little.}
 {1016}{}{What do you want?}
-{1017}{}{Some other time, okay? I need to make the digging for two pens.}
+{1017}{}{Some other time, okay? I need to make the digging for two more pens.}
 {1018}{}{Sheeesh... What? Can't you see I'm B-U-S-Y!}
 {1019}{}{Oh. Listen, let's talk a little later, okay?}
 # Отрицательные сообщения

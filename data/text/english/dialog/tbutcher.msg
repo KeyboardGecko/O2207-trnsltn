@@ -58,7 +58,7 @@
 {121}{}{What do you feed them with?}
 {122}{}{What do they drink?}
 {1301}{}{Corn plants, as usual.}
-{1302}{}{Filtered water, which we get from a Maintenance level. Although, wait a minute... Lately, this water is murky and doesn't smell good...}
+{1302}{}{Filtered water, which we get from a Maintenance level. Although, wait a minute... Lately, the water is murky and doesn't smell good...}
 {131}{}{What do you feed them with?}
 {132}{}{What do they drink?}
 {133}{}{I see. Okay, I'll go look into it further.}
@@ -71,7 +71,7 @@
 {160}{}{Good job! Look how you handled it by yourself, brought all 12! Thanks for the help!}
 {161}{}{You can't go against orders. Bye!}
 {162}{}{It was easy. See you!}
-{1701}{}{Well... Uh, I mean, yeah... Go do your stuff, techie. We'll bring the water ourselves.}
+{1701}{}{Well... Uh, I mean, yeah... Go do your stuff, techie. We'll deal with the water ourselves.}
 {1702}{}{It's the job of whoever the Herald assigned to it. Did he tell ME to get water? No? Maybe I need to tell him that you don't want to do your labor?}
 {171}{}{Nevermind. If I took the task, I'll complete it. Wait here.}
 {172}{}{Okay, you win. I'm getting it.}

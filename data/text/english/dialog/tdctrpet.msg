@@ -24,7 +24,7 @@
 {11}{}{Doctor, is this the same thing that killed my mother and Catty's mother?}
 {20}{}{Unfortunately, yes... I don't know how long he'll last. Regular injections are of no use anymore. He needs a very powerful medicine, the kind of which I do not have.}
 {21}{}{Surely, you can do something!... Damn. There's an injured Son of the Gods, he asked me to bring him the medicine, which is called "Heal-Up".}
-{30}{}{Yes, I know. Why are you looking at me like that? The Gods informed me. Here - this is the last one.}
+{30}{}{Yes, I know. Why are you looking at me like that? The gods have informed me. Here - this is the last one.}
 {31}{}{I'll deliver the medicine and be right back! Please, look after my dad.}
 {16}{}{}
 {17}{}{}
@@ -42,7 +42,7 @@
 {111}{014}{Too many words, doc! Just tell me, how do I help him?}	
 {112}{012}{Sounds difficult. Where do these rays come from?}			
 {113}{999}{I'm bored. Let's leave this boring conversation for later.}	
-{120}{}{It's hard to say for sure, but it seems that these rays come from specific stones and metal. The tower beneath us is made of metal too, but only on the outside. On the inside, it is protected by anti-radiation stuff. I don't know for sure, engineers deal with it, not doctors.}   			
+{120}{}{It's hard to say for sure, but it seems that these rays come from specific stones and metal. The tower beneath us is made of metal too, but only on the outside. On the inside it is protected by anti-radiation stuff. I don't know for sure, engineers deal with it, not doctors.}   			
 {121}{013}{En-gi-neers... Who? Are they the Sons of the Gods too? Actually, who are these "Sons of the Gods"? And who are the "Gods?" Do they live in the tower?} 
 {130}{}{You are asking too many dangerous questions. I would be glad to tell you the truth, but I'm afraid this knowledge will only make more problems. I'm sure you'll find it all out in your time.}
 {131}{014}{Fine, I don't have time for it anyway. How can I help my dad?} 
@@ -50,9 +50,9 @@
 {140}{}{There's only one thing that may - MAY - help your father. It's called "Antiradine". As I've heard, this drug can handle even the radiation poisoning this severe. You can get it only in one place - in the ruins of the old "Rainbow Pharmaceuticals" factory. Don't let the word "ruins" fool you - this factory is very much active and operating. They have a vile and vicious raider in charge, but I fail to see any other way to help your dad.}		
 {141}{015}{So, I need to walk across the wastelands to another gang of bandits and ask them to give me rare and, obviously, not so cheap medicine?!} 	
 {142}{016}{Raiders again? But... Goddamit. Someone has to answer for all this. Okay doc, tell me how to find them.} 			
-{150}{}{What do you want me to do about it? Okay, here's another way - go to the surface and knock into the tower doors, then ask them to cure your father. The "Olympus" definitely possesses such kind of medicine - only they don't care about anyone, be it your father, me, or you!}
+{150}{}{What do you want me to do about it? Okay, here's another way - go to the surface and knock into the tower doors, then ask them to cure your father. The "Olympus" definitely has such kind of medicine - only they don't care about anyone, be it your father, me, or you!}
 {151}{016}{I see. Well, if there's no other way - tell me how to find these "rainbow raiders".}  	
-{160}{}{Why tell? Didn't you get accustomed to your organizer? [winks] I had one just like it once... Okay, look. [Pat takes your organizer and shows what buttons to press and what they do] Here, the factory's coordinates are now on your map. Remember - you should hurry with finding the cure. I don't think your father will last longer than a couple of weeks.}		
+{160}{}{Why tell? Didn't you get accustomed to your organizer? [winks] I once had one just like this one... Okay, look. [Pat takes your organizer and shows what buttons to press and what they do] Here, the factory's coordinates are now on your map. Remember - you should hurry with finding the cure. I don't think your father will last longer than a couple of weeks.}		
 {161}{017}{I see. Antiradine then. I'll get it. Hang on, dad...}  			
 {162}{018}{Understood. Thanks for the bits of advice, doc, I'll try not to be late.}  			
 {163}{018}{Uh, we'll see how it goes. I wouldn't want to die looking for some stupid medicines. I'm off.}    	
@@ -71,11 +71,11 @@
 {207}{040}{Doc, I have some... Unusual female patient for you.}
 
 {209}{}{Yes... Huh? What?}
-{210}{}{Help? Hmm, why not, actually... Yes, seriously, do something helpful. But you need good hands and some medical skills. Yeah... You know how it is - we have all kinds of traumas, dislocations, and sprains here. Someone stucks something in the wrong place - and here it is, a new injury. And this someone can't work and feels pain. And there's only me here. It's not enough... So, would you help?} 
+{210}{}{Help? Hmm, why not, actually... Yes, seriously, do something helpful. But you need good hands and some medical skills. Yeah... You know how it is - we have all kinds of traumas, dislocations, and sprains here. Someone stucks something in the wrong place - here it is, a new injury. Then this someone can't work and lies in pain. And there's just me  here. Which is definitely not enough... So, would you help?} 
 {211}{022}{Do you need me to fix dislocated wrists or something? Of course, I'll help, no problem!}  			
 {212}{022}{You mean, to do a medic's job? I'm not sure... But I could try, why not.}  		
 {213}{999}{To take care of sick and injured? Hell no, I don't have time for this. A lot of other things to do.}    	
-{220}{}{That's wonderful! Okay, listen - run around the Farms and Maintenance level. If you see someone lying around and groaning, try to get them back on their feet. Not by force, of course, don't make it worse for them. Help at least six, and return to me. Meanwhile, I'll think about how to thank you for this. [he winks]}  			
+{220}{}{That's wonderful! Okay, listen - run around the Farms and Maintenance level. If you see someone lying around and groaning, try to get them back on their feet. Not by force, of course, don't make it worse for them. Help at least six, then return to me. Meanwhile I'll think about how to thank you for this. [he winks]}  			
 {221}{PetsHelper}{I see, I see. Okay, off to heal injured and sprained.}  				
 {222}{PetsHelper}{Assignment is taken, doc. See you soon!}   
 {223}{999}{Six!? Too much, if you ask me. I was thinking about bringing you a couple of sick kids or something. Nah, some other time.}
@@ -83,18 +83,18 @@
 {231}{999}{I'm working on it. Surprisingly, not many injured around here. I'll go look for more.}  		
 {232}{024}{ are healed in total. Not without some accidental mistakes, but now everything is alright.}    
 {233}{024}{I healed every injured I could find. Now they are back to work.}  					
-{240}{}{Good, that's good. It's still a drop in the bucket, but at least now I can have one day off - and this means a lot! I can teach you some medical skills or give you 3 "Heal-Up" and 2 "Poison-Out". What will it be?}  	
+{240}{}{Good, that's good. It's still a drop in the bucket, but at least now I can have one day off - and this means a lot! I can teach you some medical skills or give you 3 "Heal-Ups" and 2 "Poison-Outs". What will it be?}  	
 {241}{025}{The skills are always handy! Share your skills with me.}  					
 {242}{026}{A useful meds, doc! If I'm going to fight poisonous scorpions, they will help me a lot. I take them.} 
 {243}{027}{I can't choose... Can I have both?}   
-{250}{}{Okay, listen then... When you see a nasty wound... [he starts methodically and thoroughly describe all necessary actions for administering first aid] Okay, I hope this information comes in handy!} 	
-{251}{999}{Thanks, doc. Although, I hope this information DOESN'T come in handy. See you.}  		
+{250}{}{Okay, listen then... When you see a nasty wound... [he starts methodically and thoroughly describe all necessary actions for administering first aid] Okay, I hope this information will come in handy!} 	
+{251}{999}{Thanks, doc. Although, I hope this information WON'T come in handy. See you.}  		
 {260}{}{Good choice! Especially, "Poison-Out" - it has no analogs, and if you don't remove poison in time, it could be fatal to you.}					
 {261}{999}{Thanks, doc. I hope I won't have to use them. See you!}  		
 {2701}{}{What a sly! No, it doesn't work that way. Either I spend time teaching you or give you the meds. Oh, I have an idea! How about I just thank you and we call it a day?}
 {271}{025}{Okay, I get it! Teach me some medical skills.}  			
 {272}{026}{No, a deal is a deal, I take meds!!}  				
-{2702}{}{It is a little unfair, don't you think? Okay, here, take your meds. And about skills - when you see a nasty wound... [he starts methodically and thoroughly describe all necessary actions for administering first aid] Okay, I hope all of this comes in handy!} 					
+{2702}{}{It is a little unfair, don't you think? Okay, here, take your meds. And about skills - when you see a nasty wound... [he starts methodically and thoroughly describe all necessary actions for administering first aid] Okay, I hope all of this will come in handy!} 					
 {273}{999}{Thanks, doc, nice to do business with you. [wink]}
 
 {274}{999}{You know what, doc? Keep the meds and your knowledge to yourself. You would need it more around here, and I don't have time for lectures. See you.}  					
@@ -106,7 +106,7 @@
 {304}{999}{Very good. I'm counting on you, doc.}    	
 {3003}{}{I... I am truly sorry. You didn't make it in time.}    				
 {305}{999}{I tried... I did everything I could. Father...}    				
-{306}{999}{I tried... I did everything I could. [the syringe of "Antiradine" pops, crushed in your fist] Father...} 
+{306}{999}{I tried... I did everything I could. [the syringe of "Antiradine" pops, crushed with your fist] Father...} 
 {310}{}{What took you so long? What if it's too late? I hope it isn't... Give me that. [Pat puts a few drops into your dad's rolled eyes. John's body starts to shake uncontrollably] Don't stand there, help me to hold him! There, there, everything is going to be alright, John. [the seizure stops. Pat stands up] The condition is stable... That means he'll get better. Of course, he had to be taken care of, and periodically take drops of "Antiradine", but I think your brother Kirk will handle it just fine.}
 {311}{032}{Phew... Thank Gods... I mean, it's good that I made it here in time. How long will it take for him to recover?}					
 {312}{033}{Great, one less problem to worry about. I had to go through a lot to pull dad from the brink - yet he ended up there not by my fault. We are in danger because of their fault... Because of the "Gods".}  		
@@ -133,7 +133,7 @@
 {411}{}{Don't worry, I know how to get there safely. Don't you want to breathe the fresh air of freedom again?}
 {412}{}{I'll have you protected, I promise. That woman really needs your help.}
 
-{420}{}{Well, if you know safe paths and protect me... Okay then! Would be nice to remember the old days and shake off some rust, right? Let's move out, while I didn't change my mind. But promise to take me back!}
+{420}{}{Well, if you know safe paths and protect me... Okay then! Would be nice to remember the old days and shake some dust off, right? Let's move out, while I didn't change my mind. But promise to take me back!}
 {421}{}{Great! Just keep close to me.}
 {422}{999}{You know, I need to do something around here. I'll be back.}
 
@@ -194,9 +194,9 @@
 #
 #ПЛАВАЮЩИЕ СООБЩЕНИЯ (Дополнительно)
 #
-{1030}{}{I'm busy with your father.}
+{1030}{}{I'm busy with treating your father.}
 {1031}{}{Are we healing or talking?}
-{1032}{}{Not now, I'm tending your father.}
+{1032}{}{Not now, I'm tending to your father.}
 {1033}{}{}
 {1034}{}{}
 {1035}{}{}

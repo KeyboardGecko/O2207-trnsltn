@@ -20,8 +20,8 @@
 #
 #«ƒ≈—‹ Õ¿◊»Õ¿≈“—ﬂ ƒ»¿ÀŒ√
 #
-{100}{}{Look who we have here! Nice suit you got yourself! Did you think I wouldn't recognize you, }
-{101}{}{? Of course it's you, I can tell by the way you walk that your hands are growing straight from your ass, HAH-HAHAHAHA! [he wipes tear] Well then, tell me, what brings you here?}
+{100}{}{Look who we have here! Nice suit you got there! Did you think I wouldn't recognize you, }
+{101}{}{? Of course it's you! I can tell just by the way you walk that your hands are growing straight out of your ass, HAH-HAHAHAHA! [he wipes tear] Well then, tell me: what brings you here?}
 {102}{}{Oh! It's you again! [he smiles] You scared me, little devil. So? What do you want?}
 {103}{011}{Smitty, I have to travel a lot, and I will probably get myself into all kinds of situations... Maybe you could teach me something? So I could assemble a helpful thing or two from some junk.}
 {104}{020}{I have, uh... A specific task here. I need to unclog one to-i-let. It has too much... Sewage. Dangerous, and very smelly.}
@@ -30,7 +30,7 @@
 {107}{999}{I just came by to say hi. Okay, see you!}
 
 
-{110}{}{Aren't you a little weasel? [he winks]. Okay, for a pack of sugar I can show you how to make a hand-grenade. Or I can teach you how to make a rusty breastplate, for two rolls of good tin. Well, you know, your hands are still pretty crooked, so I can't promise you can handle making these, but maybe in time you would do something about it? So - deal?}
+{110}{}{Aren't you a little weasel? [he winks]. Okay, for a pack of sugar I can show you how to make a hand-grenade. Or I can teach you how to make a rusty breastplate for two rolls of good tin. Well, you know, your hands are still pretty crooked, so I can't promise you can handle making these, but maybe in time you would do something about it. So - deal?}
 {111}{012}{Deal! Here's your pack of sugar, teach me to make a grenade!}
 {112}{013}{Deal, here,s your tin. Show me how to make a breastplate.}
 {113}{014}{I have none of these things for now... Maybe you could just tell me this, as a friend?}
@@ -67,7 +67,7 @@
 {212}{999}{No, I'm still looking.}
 
 
-{220}{}{What do you think? That everything is easy? I'm ALWAYS making something useful practically from NOTHING. And sometimes you have to re-use the stuff you have, you know - but just to make those OTHER things better!}
+{220}{}{What do you think? That everything is easy? I always make useful things practically from nothing. And sometimes you have to re-use the stuff you have, you know - but just to make those OTHER things better!}
 {221}{999}{Yeah, for example, your Moonshine Machina Magnifico. I get it. Okay, I'll go look for a hammer.}
 {222}{023}{Okay, okay. Don't get so defensive. Here's a hammer for you, give me that damn plunger.}
 

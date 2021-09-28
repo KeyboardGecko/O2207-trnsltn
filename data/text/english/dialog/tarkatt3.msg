@@ -34,7 +34,7 @@
 #
 {5}{}{How can you sleep for so long, }
 {6}{}{?? Get up, it's urgent! Your father got sick on the farms! He lost consciousness, Kirk barely managed to drag him to doctor Pat!}
-{7}{}{Uuuuuhhh... And what?}
+{7}{}{Uuuuuhhh... And?}
 {8}{}{Got it, I'm running to the doc right away!}
 {9}{}{What's wrong with you!? Get up and go see them! Hurry!}
 #
@@ -44,7 +44,7 @@
 {11}{002}{Yes, it's-}
 {12}{002}{No, it's not me.}
 
-{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. The Sons of the Gods haven't forgotten how you ran off after the guard's death.}
+{20}{}{[Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that you'll get! The Sons of the Gods haven't forgotten how you ran off after the guard's death!}
 {21}{003}{Yeah, I'm glad to see you too, Catty.}
 {22}{004}{I didn't even lay a finger on that guard!}
 {23}{005}{I was actually trying to help that guard!}
@@ -55,18 +55,18 @@
 {32}{006}{Hey!}
 {33}{006}{[tightly hug her back]}
 
-{40}{}{Yeah, I'm not stupid. I've seen the body. You couldn't do it with your bare hands even if you tried to... Even if you were armed with some metal junk... Anyway, the guards don't care. They will kill you when they see you.}
+{40}{}{Yeah, I'm not stupid. I've seen the body. You couldn't do it with your bare hands even if you tried to... Even armed with some metal junk... Anyway, the guards don't care. They will shoot you on sight.}
 {41}{003}{Are you always meeting your friends with "they will kill you"?}
 {42}{003}{So, I suppose you are glad to see me?}
 
-{50}{}{I remember. But the guard doesn't care. If you get in a sight of someone not wasted by booze, they will kill you.}
+{50}{}{I remember. But the guard doesn't care. If you get in sight of any of them who's not wasted by booze, they will kill you.}
 {51}{003}{Are you always meeting your friends with "they will kill you"?}
 {52}{003}{So, I suppose you are glad to see me?}
 
-{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn't think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so many things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
-{61}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius, and its inhabitants]}
+{60}{}{[She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I didn't think you were gonna make it. That cave you ran off into... You know what they say. I'm glad to see you, of course - but I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the Gods' favorite... [she glances over you] Damn! I want to talk about so many things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{61}{007}{Well, the world outside is nothing like we thought it is... [tell her about your escape, Radius, and its inhabitants]}
 
-{70}{}{[Catty listened to you thoughtfully, without interrupting. Looks like she became more serious and calm since your last meeting] Holy shit - that's all I can say. I'm still having trouble believing it. And about the Radius - you know, it sounds like not a bad place... [she looks at a big wrench in her hand] If you have a big gun and many bullets. Looks like this place is a lot safer. And we have order maintained here - for example, three days ago one guard punished some boy for stealing. Ten strokes with a stick, and then he got his hand mangled with the guard's armored boot. }
+{70}{}{[Catty listened to you thoughtfully, without interrupting. Looks like she became more serious and calm since your last meeting] Holy shit - that's all I can say. I'm still having trouble believing it. And about the Radius - you know, it sounds like not a bad place... [she looks at a big wrench in her hand] If you have a big gun and many bullets. Looks like our home is a lot safer. And we have order maintained here - for example, three days ago one guard punished some boy for stealing. Ten strokes with a stick, then he got his hand mangled with the guard's armored boot. }
 {71}{010}{Uhh... }
 
 {100}{}{Hey! Glad to see you alive and well. [Catty hugs you, then steps back and glances over you] How are you?}
@@ -96,7 +96,7 @@
 {140}{}{[Looks like she is speechless. Her face indicates she is shocked, then you see a shadow of happiness - and then she suddenly turns red, grabs a wrench, and strikes you between your legs]}
 {141}{015}{[you try to cover your groin, although your armor turned out to be sturdy enough to protect you from the blow. Still, your heart is pounding] I suppose you are glad to see me.}
 
-{150}{}{You, asshole! [Catty is furiously flaring her nostrils] What kind of joke is that? Especially after you escaped the way you did! }
+{150}{}{You, asshole! [Catty is furiously flaring her nostrils] What kind of joke is that? Especially after you ran off the way you did! }
 {151}{016}{Calm down, Catty! I was just goofing around! }
 {152}{016}{Can't I make a joke once in a while?}
 {153}{016}{Okay, chill!}
@@ -109,14 +109,14 @@
 {170}{}{Oh Gods, just take off this goddamn helmet!}
 {171}{003}{Okay... [take off your helmet]}
 
-{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that could happen to you. The Sons of the Gods haven't forgotten how you ran off after the guard's death.}
+{180}{}{You? It's really... [Catty grabs your wrist and cautiously looks around] Are you out of your mind? If they see you, the Mouth of Hades is the easiest option that you'll get! The Sons of the Gods haven't forgotten how you ran off after the guard's death!}
 {181}{019}{You know, I'm wearing this armor not just for kicks.}
 
 {190}{}{Yeah... Sure... [Catty still looks nervous. She makes sure no one is looking one more time, then sighs and silently hugs you] Oh Gods... I'm so glad to see you again. I never thought you'd survive... I've seen the guard's corpse. The wounds were... Scary. And he had armor on him, unlike you. And that damn guards still think that it was you who killed him. They have their brains completely murky from all of the booze...}
 {191}{}{Can we talk safely here?}
 
-{200}{}{Sure, I think. If there's no load of guards around, then everything's alright. Your disguise is working. [She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I still can't believe my eyes. I'm so glad to see you! But I'm still willing to unscrew that head of yours for so mindlessly wandering in here like you are the favorite of Gods... [she glances over you] Damn! I want to talk about so many things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
-{201}{007}{Well, the world outside is nothing like we were told... [tell her about your escape, Radius, and its inhabitants]}
+{200}{}{Sure, I think. If there's no load of guards around, then everything's alright. Your disguise is working. [She takes a few steps back, calming down, and sits on the rusty pile of heap] You know, I still can't believe my eyes. I'm so glad to see you! But I'm still willing to unscrew that head of yours for so mindlessly wandering in here, like you are the Gods' favorite... [she glances over you] Damn! I want to talk about so many things... I... I don't know where to start! [she stops for a moment] How are you doing? Tell me what you went through after running off. And then I'll tell you how we are doing here. }
+{201}{007}{Well, the world outside is nothing like we thought it is... [tell her about your escape, Radius, and its inhabitants]}
 
 {210}{}{[her hands start shaking]}
 {211}{014}{Oh come on, I'm just being silly. It's me! [remove the helmet, wink at her, then put it back]}
@@ -136,7 +136,7 @@
 {250}{}{It's... You! I... I'm so glad to see you! I would even hug you, but... Is this your blood on your armor? Oh, is that brain on your boots? }
 {251}{026}{Huh... That was not the way I envisioned our meeting.}
 
-{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of the Gods. You know I don't approve of it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think I should hide, I know some places. Let's meet after it's over. [she runs off]}
+{260}{}{You tell me. Listen, you made too much noise, standing up to the Sons of the Gods. You know I don't approve of it, while I agree that they are wrong about putting that guard's murder on you. Still, looks like it doesn't really matter now. [she looks around] I'm not even sure it's safe here anymore. It's quite the opposite - I'm sure it's not safe here. Let's talk after this nightmare is over. [Catty takes your hand] I think I should hide, I know some places. Let's meet later. [she runs off]}
 {261}{999}{[end of dialogue]}
 
 {270}{}{[she blushes and lowers her eyes] No, not at all. It's just... You were absent for a really long time. I thought you died. And... I started to think about my future, you know. You, uh, do get it, right?}
@@ -146,12 +146,12 @@
 {280}{}{No one. I didn't promise anything to anyone, and I'm glad you're back. Uh... You are staying, right? [she lights with hope, but interrupts herself] Yeah, sure you do. If some guard sees your face, you're done... Just know that whatever happens, I'll be here, waiting for you.}
 {281}{010}{[smile]}
 
-{290}{}{No you don't! [she giggles] I didn't promise anything to anyone, and I'm glad you're back. Uh... You are staying, right? [she lights with hope, but interrupts herself] Yeah, sure you do. If some guard sees your face, you're done... Just know that whatever happens, I'll be here, waiting for you.}
+{290}{}{No you don't! [she giggles] I didn't promise anything to anyone, and I'm glad you're back. Uh... You are staying, right? [she lights with hope, but interrupts herself] Yeah, sure. If any guard sees your face, you're done... Still, just know that whatever happens, I'll be here, waiting for you.}
 {291}{010}{[smile]}
 
 {300}{}{You know, nothing special, since we've met last time. It's the same... Nothing is going on.}
 {301}{}{[she lowers her eyes] Lately, the Sons of the Gods require sacrifices. The guards just grab women and take them away at least once every two weeks. And we have only one who returned, but she doesn't speak and behaves strangely. Doc said she has bruises on her back, arms, and legs... I... I'm scared. I try not to think much, but I am scared.}
-{302}{}{Do you remember me telling you about the guards taking women away? Looks like even the Sons of the Gods themselves started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harassment. I doubt she made it alive... But scarier is to think what Herald did to her.}
+{302}{}{Do you remember me telling you about the guards taking women away? Looks like the Sons of the Gods started to take advantage of it. My friend, Claire, ran away from Tartarus after Herald's harassment. I doubt she made it alive... But much scarier is to think what Herald did to her.}
 {303}{}{[Catty gives you a weak smile] The life gets worse, the food is scarce, the water is dirtier, fewer children around... Do you want me to go on?}
 {304}{010}{Well... The stability isn't so bad. Better than worsening, at least.}
 {305}{010}{Yeah, the stability sucks, when it's consistently bad.}

@@ -55,11 +55,11 @@
 {105}{}{Catty, do you know what's wrong with your father? Seems like he doesn't care about his duties lately.}
 {106}{}{A vegetable delivery! Here, 24 cobs total!}
 {107}{}{Look, Catty, my back hurts so much from all this crawling around patches, you wouldn't believe it! Better gather that corn yourself.}
-{1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes a pouty face and taps her foot] I'm sick of all this corn! And I should not only make patches but also take harvest! It never ends!}
-{1102}{}{You know, with you helping me, it doesn't look so hopeless! [she giggles] Thanks again!}
+{1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes a pouty face and taps her foot] I'm sick of all this corn! I have to not only make patches but also to take harvest! It never ends!}
+{1102}{}{You know, with you helping me it doesn't look so hopeless! [she giggles] Thanks again!}
 {111}{}{You do realize that if "it" ends, we are going to starve? So be kind, put in some effort. I'm having a hard time too!}
 {112}{}{But you know that your job is good for all of us. Don't worry, you'll have your rest in the evening.}
-{113}{}{Yeah, it seems you are pretty busy. Let me help you! How much corn do you need to harvest?}
+{113}{}{Yeah, it seems you are pretty busy. Let me help you! How many corn cobs do you need to harvest?}
 {114}{}{Stop thanking me, I told you that I'm just happy to help! Anyway, see you!}
 {115}{}{I'll never get tired of listening to your words of gratitude! The job was VERY hard - but worth it! [leave, enjoying your humbleness]}
 {1201}{}{You are right, of course, but it doesn't make me feel any better.}
@@ -77,13 +77,13 @@
 {142}{}{Oh man! Catty, they are looking at us! Now we're gonna be laughed at.}
 {143}{}{Well... Uh... Umm... Err... Bye, Catty.}
 {150}{}{Oh, just ignore it! Dad has a, umm... He doesn't see the point in what he's doing. I think it's temporary. It'll go away soon.}
-{151}{}{You know, if this won't go away "soon", he would end up in the Mouth of Hades, and then fertilizing patches where you grow your corn. Do you realize it's serious?}
+{151}{}{You know, if this won't go away "soon", he would end up in the Mouth of Hades, and then fertilizing patches where you grow your corn. Don't you realize how serious it is?}
 {152}{}{Really? Alrighty then.}
 {160}{}{Yes... Yes! You are right, as always! I'll talk to him the first chance I get! }
 {161}{}{Great!}
 {162}{}{Don't forget it! I know how bad you are at remembering things.}
 {170}{}{[Catty becomes very upset now.]}
-{171}{}{Oh come on! Stop this whining, tears... It's hard for all of us, but still, everyone does what they can! Anyway, I'll go now.}
+{171}{}{Oh come on! Stop this whining, tears... It's hard for all of us, but still, everyone does what they can! Anyway, I need to go now.}
 {172}{}{Whoa, whoa, no-no-no, stop it! My back feels much better now! No, really! I'll bring you everything right away!}
 #
 #œÀ¿¬¿ﬁŸ»≈ —ŒŒ¡Ÿ≈Õ»ﬂ (œÓÎÓÊËÚÂÎ¸Ì‡ˇ Â‡ÍˆËˇ)
