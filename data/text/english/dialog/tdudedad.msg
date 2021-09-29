@@ -49,9 +49,9 @@
 #
 {100}{}{Hello, son! How are you? }
 {1001}{}{[his eyes are darting around as if he is looking for something and can't find it.]}
-{101}{}{Hey, Dad! I don't know what to get myself busy with.}
+{101}{}{Hey, Dad! I don't know what to do.}
 {102}{}{I'm not in the mood! Everything is bad! [frown and turn away]}
-{103}{}{Hey, Dad! Just hanging, having nothing to do. Did you lose something?}
+{103}{}{Hey, Dad! I'm just hanging. Did you lose something?}
 {104}{}{Hello! Just wanted to distract you a little from your work!}
 {105}{}{Hello! Remember you asked me to find your wrench?}
 {1101}{}{Well... You can go play with your brother. Or bother your mom.}
@@ -61,7 +61,7 @@
 {112}{}{Yeah, yeah, I know. [sigh and leave]}
 {113}{}{Uh. Right! I'm gonna go stab someone with a fork.}
 
-{120}{}{[Dad kindly smiles] Alright, here's a top priority assignment for you: do you remember my wrench? A small one, with a wooden handle? I can't fix the sink without it, and I can't remember where I might have put it... Maybe Mom saw it. Oh, where did Mom go? It's always like this...}
+{120}{}{[Dad kindly smiles] Alright, here's a top priority assignment for you: do you remember my wrench? A small wrench with a wooden handle. I can't fix the sink and I can't remember where I might have put it... Maybe Mom knows. Wait, where did she go? It's always like this...}
 {121}{}{Nah. This mission is too hard, even for a detective-man. I'll come by later, okay?}
 {122}{}{Mission is taken. Citizen, await for delivery of your belonging in the nearest future!}
 {123}{}{Why do you need the help of a detective-man for this? Just try to remember where you saw it last!}
@@ -74,14 +74,14 @@
 {141}{}{I'm trying my best, but still to no avail. Maybe you remembered something else?}
 {142}{}{Yes! Here it is! [give Dad his treasured wrench]}
 
-{150}{}{Oh wow, you are the real detective-man! Thanks, dude, you helped me out so much! What can I thank you with?... Oh yeah! I know that you are not a grown-up yet, and the violence is always a bad option, but - just in case - take this. [he hands you a knuckle] What if you have to defend yourself from the creatures of the outside?}
+{150}{}{Oh wow, you are the real detective-man! Thanks, dude, you helped me out so much! What can I thank you with?... Oh yeah! I know you are not a grown-up yet, and the violence is always a bad option, but - just in case - take this. [he hands you a knuckle] What if you have to defend yourself from the creatures of the outside?}
 {151}{}{What a cool thing! Awesome! Thanks! }
 {152}{}{Wow! Nice! I'll go try it on someone.}
 {153}{}{Hope I'll never have to use it.}
 
 {160}{}{Okay, so... Hmm... Huh... Yeah. And then I... And he is... Of course! Brook, the father of your friend Catty! He's the one I gave it to! Aren't you a smart one? Just like your dad! Thanks, son!}
 {161}{}{Hah! Easy-peasy!}
-{162}{}{Come on, it's not that hard to be smart. [humbly pick the ground with a foot]}
+{162}{}{Come on, it's not that hard to be so smart. [humbly pick the ground with a foot]}
 #
 #œÀ¿¬¿ﬁŸ»≈ —ŒŒ¡Ÿ≈Õ»ﬂ (œÓÎÓÊËÚÂÎ¸Ì‡ˇ Â‡ÍˆËˇ)
 #

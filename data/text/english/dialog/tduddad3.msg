@@ -54,11 +54,11 @@
 {104}{}{I'm glad that you are alright. Maybe you need me to bring you something? I can go outside, remember?}
 {105}{}{Good that you are feeling better. See you later.}
 {106}{}{Nothing. See you around.}
-{110}{}{Your medicine had helped. Everything was... Blurry. I think I saw Elise... Excuse me, I still don't feel completely well. It's hard for me to talk.}
+{110}{}{Your medicine had helped. Everything was... Blurry. I think I saw Elise... Excuse me, I still don't feel completely recovered. It's hard for me to talk.}
 {111}{}{It's alright, I get it. You know...}
 {112}{}{Of course. Get some rest. I'll be back.}
 {113}{}{I'm trying to get on my feet, but this sickness is damn resilient. I don't think I'm completely healed. I need to rest.}
-{120}{}{[he sighs heavily] You know that I don't like it. Our home is here, and you always go there, looking for your death. Stay with us! We'll hide you from the Sons of the Gods.}
+{120}{}{[he sighs heavily] You know that I don't approve it. Our home is here - and you always go there, as if looking for your death. Stay with us! We'll hide you from the Sons of the Gods.}
 {121}{}{I haven't finished my business outside. But I will be back, I assure you.}
 {122}{}{No. This is not a life for a free man! There's a vast and wondrous world outside, while you live here as slaves! Don't ask for it, I won't stay.}
 {123}{}{I'll think about it in my spare time.}

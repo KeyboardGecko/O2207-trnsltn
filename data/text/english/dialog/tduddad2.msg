@@ -50,11 +50,11 @@
 {100}{}{Son? What do you want? What are you doing here? Why aren't you doing your labor? [he frowns] You should immediately go to the Farms and ask Herald about daily duties.}
 {101}{}{Did you want to ask something? [he slightly raises his eyebrows]}
 {102}{}{I was just going, dad. See, already did.}
-{103}{}{Why aren't YOU doing the labor? You hang around here all the time!}
+{103}{}{Why aren't YOU doing the labor? You just hang around here all the time!}
 {104}{}{No, nothing to ask about.}
 {105}{}{Uhh... Nothing.}
 {106}{}{I'm on a daily duty already. Herald tasked me with finding out why Lavash are getting sick... I don't even know where to start.}
-{110}{}{You know how it is - the head of each family looks after his corner. And our sink is leaking again. That damn sink!}
+{110}{}{You know how it is - the head of each family is responsible for his corner. And our sink is leaking again. That damn sink!}
 {111}{}{Yes, I know, but shouldn't you be on the Farm, working for mom?}
 {112}{}{What would Herald say about it? He always complains about the lack of people on the Farms.}
 {113}{}{I see. Well, off to do labor then.}
@@ -68,7 +68,7 @@
 {121}{}{I need to talk to Dr. Pat, maybe he could give me a day off too.}
 {122}{}{Mom... I miss her so much...}
 {123}{}{You know, you're right. You need to rest.}
-{1202}{}{Herald Gregorius knows and understands the problems of our people. Nothing bad comes out of me spending some time here.}
+{1202}{}{Herald Gregorius knows and understands the problems of our people. Nothing wrong in me spending some time here.}
 {124}{}{Damn! I have my problems too! It's not fair I have to work!}
 {125}{}{Well, if he is aware of that...}
 {126}{}{I see. Then I'll go do my labor.}
@@ -76,11 +76,11 @@
 {131}{}{Uhh... You know, I'd better go do my work then.}
 {132}{}{Considering your condition, you are more likely to hurt yourself. Okay, I'll go do my labor. See you around.}
 {1401}{}{Son, uh, just look around. I don't know, I need to work.}
-{1402}{}{Oh... Well, I would start by examining the Lavash, just to try to understand what's wrong with them. Then I'd talk to those who oversee them about what they eat and drink. And then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
+{1402}{}{Oh... Well, I would start by examining the Lavash, just to try to understand what's wrong with them. Then I'd talk to those who look after them. Ask about what they eat and drink. Then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
 {141}{}{Well, thanks for nothing...}
 {142}{}{You know what, that's a great plan! Thanks!}
 {149}{}{Dad, do you know who is that big gloomy black man on the parking lot?}
-{1501}{}{Huh. Big and gloomy, right?... You mean, Bardock? It must be him. I know him since childhood, he was always getting into all kinds of troubles. And then this alcohol habit... Don't take me wrong, he is alright, but still - you'd better stay away from him.}
+{1501}{}{Huh. Big and gloomy, right?... You mean Bardock? It must be him. I know him since childhood, he was always getting into all kinds of troubles. And then this drinking habit... Don't take me wrong, he is alright, but still - you'd better stay away from him.}
 {1502}{}{Big and gloomy? No, I don't know. And, just to make sure - stop hanging around, you should be on the Farms, doing your labor.}
 {151}{}{Oh! Okay... I'll keep that in mind.}
 {152}{}{Yeah, sure. Thanks, dad.}
