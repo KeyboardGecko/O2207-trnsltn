@@ -140,7 +140,6 @@
 {503}{}{What the world knows of your actions and deeds. This will modify NPC reactions.}
 # Karma
 {504}{}{The effects of actions that you have taken. Important information will be displayed.}
-
 #
 # Experience-gain messages
 #

@@ -713,7 +713,6 @@
 {5614}{}{. If it was human, you would swear it's pretty pissed off}
 {5615}{}{, knocking the poor creature senseless}
 {5616}{}{, spiking the brain to the floor}
-
 #
 # series 5700 - Rats
 #
@@ -879,7 +878,6 @@
 {6904}{}{, knocking it around a bit}
 {6905}{}{, almost tipping it over}
 {6906}{}{, damaging some of its shell}
-
 #
 # series 7000 - Gun Turret  -- WIP! Won't Work!
 #
@@ -890,8 +888,9 @@
 {7004}{}{, knocking it around a bit}
 {7005}{}{, almost tipping it over}
 {7006}{}{, damaging some of its exoskeleton}
-
+#
 # Series 7100 - Reserved
+#
 {7100}{}{, blowing past the Bodyguard's armor}
 {7101}{}{, bringing the Bodyguard to his knees}
 {7102}{}{, destroying his arm control mechanism}

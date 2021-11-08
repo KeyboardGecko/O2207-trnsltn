@@ -65,19 +65,19 @@
 {3300}{}{BB Pellets}
 {3301}{}{A case of small metal ball bearings, used by pneumatic pistols and rifles.}
 {3400}{}{Shotgun Fist}
-{3401}{}{Whoa, someone mounted a shotgun in these knuckles. Be careful, the blood of your victims can jam the mechanism. Min ST: 5}
+{3401}{}{Whoa, someone mounted a shotgun in these knuckles. Be careful, the blood of your victims can jam the mechanism.\nMin. ST: 5}
 {3500}{}{Aluminum Knuckles}
-{3501}{}{Small, light, featureless, but these aluminum knuckles will help you not to snap your fingers with someone's jaw. Min ST: 2}
+{3501}{}{Small, light, featureless, but these aluminum knuckles will help you not to snap your fingers with someone's jaw.\nMin. ST: 2}
 {3600}{}{Brass Knuckles}
-{3601}{}{That's more like it! With these brass knuckles, you can break someone's skull or kneecaps. Min ST: 4}
+{3601}{}{That's more like it! With these brass knuckles, you can break someone's skull or kneecaps.\nMin. ST: 4}
 {3700}{}{Spiked Knuckles}
-{3701}{}{The most dangerous of brass knuckles: rips the skin, breaks bones, and lifts the mood of its owner! Min ST: 4}
+{3701}{}{The most dangerous of brass knuckles: rips the skin, breaks bones, and lifts the mood of its owner!\nMin. ST: 4}
 {3800}{}{Lead Gloves}
-{3801}{}{Very useful, crushes bones like it's nothing. Min ST: 5}
+{3801}{}{Very useful, crushes bones like it's nothing.\nMin. ST: 5}
 {3900}{}{Corkscrew}
-{3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes! Min ST: 3}
+{3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes!\nMin. ST: 3}
 {4000}{}{Buzz-Bladed Glove}
-{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bones never were so easy! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. A great unarmed weapon. Min ST: 6}
+{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bones never were so easy! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. A great unarmed weapon.\nMin. ST: 6}
 {4100}{}{Batteries}
 {4101}{}{The only generally accepted means of payment in the Radius.}
 {4200}{}{Mine}
@@ -117,29 +117,29 @@
 {5900}{}{Motion Sensor}
 {5901}{}{A motion sensor detects even the slightest movements over a long distance, using a tuned radar device.}
 {6000}{}{Chainsaw Sword}
-{6001}{}{You can chop wood with it, but chopping people feel way better. Min ST: 6}
+{6001}{}{You can chop wood with it, but chopping people feel way better.\nMin. ST: 6}
 {6100}{}{Laser Saw}
-{6101}{}{This tool can cut through almost anything. Take extreme care when using it. Min ST: 4}
+{6101}{}{This tool can cut through almost anything. Take extreme care when using it.\nMin. ST: 4}
 {6200}{}{Combat Throwing Knife}
-{6201}{}{A very sharp and balanced knife that is excellent for throwing. You've read that squads of Navy SEALS used them for silent takedowns. Min ST: 4}
+{6201}{}{A very sharp and balanced knife that is excellent for throwing. You've read that squads of Navy SEALS used them for silent takedowns.\nMin. ST: 4}
 {6300}{}{Throwing Knife}
-{6301}{}{A hand-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory-made though. Min ST: 3}
+{6301}{}{A hand-made sharpened and balanced throwing knife. Not quite as aerodynamic as factory-made though.\nMin. ST: 3}
 {6400}{}{Combat Knife}
-{6401}{}{A heavy knife with a wide blade allows dealing an extended blood loss. In the right hands, this piece of cold steel can kill a lot of people! Min ST: 4}
+{6401}{}{A heavy knife with a wide blade allows dealing an extended blood loss. In the right hands, this piece of cold steel can kill a lot of people!\nMin. ST: 4}
 {6500}{}{Cutting Knife}
-{6501}{}{If you can't decide if you want to cut up bread, sausages, or your annoying neighbor. Min ST: 3}
+{6501}{}{If you can't decide if you want to cut up bread, sausages, or your annoying neighbor.\nMin. ST: 3}
 {6600}{}{Cleaver}
-{6601}{}{A butcher's knife that cuts through bones in a single swing. Min ST: 5}
+{6601}{}{A butcher's knife that cuts through bones in a single swing.\nMin. ST: 5}
 {6700}{}{Scalpel}
-{6701}{}{A surgical scalpel, very sharp and simple to use. Be careful with it! Min ST: 2}
+{6701}{}{A surgical scalpel, very sharp and simple to use. Be careful with it!\nMin. ST: 2}
 {6800}{}{Serrated Cleaver}
-{6801}{}{The maniac's tool! A powerful, edged weapon with a serrated blade will cut down any enemy. Min ST: 4}
+{6801}{}{The maniac's tool! A powerful, edged weapon with a serrated blade will cut down any enemy.\nMin. ST: 4}
 {6900}{}{Lightning Spear}
-{6901}{}{A heavy metal spear with a power source connected to it. Hits the enemy not only with its pointed tip but also with a hefty electric shock. Min ST: 5}
+{6901}{}{A heavy metal spear with a power source connected to it. Hits the enemy not only with its pointed tip but also with a hefty electric shock.\nMin. ST: 5}
 {7000}{}{Wooden Spear}
-{7001}{}{A sharp wooden spear made using Stone Age technology. Min ST: 4}
+{7001}{}{A sharp wooden spear made using Stone Age technology.\nMin. ST: 4}
 {7100}{}{Iron Spear}
-{7101}{}{A metal rod with a sharp, pointed head. Min ST: 5}
+{7101}{}{A metal rod with a sharp, pointed head.\nMin. ST: 5}
 {7200}{}{Placeholder Spear}
 {7201}{}{}
 {7300}{}{Science Book}
@@ -171,57 +171,57 @@
 {8600}{}{Scout Handbook}
 {8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
 {8700}{}{Zeus Electric Hammer}
-{8701}{}{A huge metal hammer powered with batteries. See how merrily the crushed skull of the enemy twitches under the electric charge! Min ST: 7}
+{8701}{}{A huge metal hammer powered with batteries. See how merrily the crushed skull of the enemy twitches under the electric charge!\nMin. ST: 7}
 {8800}{}{Sledgehammer}
-{8801}{}{This hammer can crush granite and skulls! More often it is skulls. Min ST: 7}
+{8801}{}{This hammer can crush granite and skulls! More often it is skulls.\nMin. ST: 7}
 {8900}{}{Battle Sledge}
-{8901}{}{A heavy, primitive, but still very efficient way to calm down a nervous bipedal. Or any-pedal. Min ST: 7}
+{8901}{}{A heavy, primitive, but still very efficient way to calm down a nervous bipedal. Or any-pedal.\nMin. ST: 7}
 {9000}{}{Placeholder Hammer}
 {9001}{}{}
 {9100}{}{Doctor's Bag}
 {9101}{}{A roomy bag that contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Light Support Weapon}
-{9201}{}{A military support machine gun that was in service with the heavy infantry of the US Armed Forces from 1978 to 1989. Min ST: 7}
+{9201}{}{A military support machine gun that was in service with the heavy infantry of the US Armed Forces from 1978 to 1989.\nMin. ST: 7}
 {9300}{}{"Baraka" Machinegun}
-{9301}{}{An experimental super-heavy machinegun, developed by the company "Britannic Engineering" to be used with the "Defender" mechanized combat armor system. An incredibly powerful recoil can easily tear an arm off! Min ST: 10}
+{9301}{}{An experimental super-heavy machinegun, developed by the company "Britannic Engineering" to be used with the "Defender" mechanized combat armor system. An incredibly powerful recoil can easily tear an arm off!\nMin. ST: 10}
 {9400}{}{Turret Machinegun}
-{9401}{}{How did you manage to take the machine gun off the turret? Min ST: 9}
+{9401}{}{How did you manage to take the machine gun off the turret?\nMin. ST: 9}
 {9500}{}{"Law" Machinegun}
-{9501}{}{A heavy machine gun, developed by "Civil Defense" company for the US Army for paramilitary police units. Usually mounted on lightly armored vehicles, it has proven itself as an excellent tool against protesters! Min ST: 8}
+{9501}{}{A heavy machine gun, developed by "Civil Defense" company for the US Army for paramilitary police units. Usually mounted on lightly armored vehicles, it has proven itself as an excellent tool against protesters!\nMin. ST: 8}
 {9600}{}{"SLR-3" Laser Rifle}
-{9601}{}{A modification of "The Great Schwein's Superior Laser Rifle", developed by Sebastian Schwein in 2198. Heavy, and uncomfortable to use, but damn - it's a laser! Min ST: 7}
+{9601}{}{A modification of "The Great Schwein's Superior Laser Rifle", developed by Sebastian Schwein in 2198. Heavy, and uncomfortable to use, but damn - it's a laser!\nMin. ST: 7}
 {9700}{}{"SLR-4" Laser Rifle}
-{9701}{}{This model is a replacement for the "SLR-3" model, made in 2202. Differences from its predecessor include a slightly bigger weight, increased firing range, and laser pulse stability. Min ST: 8}
+{9701}{}{This model is a replacement for the "SLR-3" model, made in 2202. Differences from its predecessor include a slightly bigger weight, increased firing range, and laser pulse stability.\nMin. ST: 8}
 {9800}{}{Plasma Rifle}
-{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Don't forget to feed it with vast amounts of energy cells. Without your participation, this beast of mass destruction would never have seen the light of day! Be proud of yourself. Min ST: 9}
+{9801}{}{This unique weapon fires super-heated plasma that cuts metal like a hot knife through butter. Don't forget to feed it with vast amounts of energy cells. Without your participation, this beast of mass destruction would never have seen the light of day! Be proud of yourself.\nMin. ST: 9}
 {9900}{}{"FT2A" Flamethrower}
-{9901}{}{A military flamethrower that spits searing flames of napalm. Burn baby, burn! Min ST: 8}
+{9901}{}{A military flamethrower that spits searing flames of napalm. Burn baby, burn!\nMin. ST: 8}
 {10000}{}{"Hellbringer"}
-{10001}{}{The poetic name of this incendiary monster speaks for itself. With this gun, the smell of burnt meat will stick firmly in your nostrils! Min ST: 9}
+{10001}{}{The poetic name of this incendiary monster speaks for itself. With this gun, the smell of burnt meat will stick firmly in your nostrils!\nMin. ST: 9}
 {10100}{}{"F4ster" Flamer}
-{10101}{}{A hand-made and a rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into its nozzle! Min ST: 9}
+{10101}{}{A hand-made and a rather playful representative of the realm of flamethrowers. Just be careful, because this baby is very unstable due to the increased supply of hot mixture into its nozzle!\nMin. ST: 9}
 {10200}{}{Gunpoint Magazine}
 {10201}{}{A gun magazine devoted to the practical use of firearms, and the occasional biased review.}
 {10300}{}{Taser}
-{10301}{}{A fairly strong electric shock will sober up any bully who picks on you! Min ST: 5}
+{10301}{}{A fairly strong electric shock will sober up any bully who picks on you!\nMin. ST: 5}
 {10400}{}{Crowbar}
-{10401}{}{Rips out nails, opens doors, knocks out teeth. The application range of this piece of metal is limitless! Min ST: 5}
+{10401}{}{Rips out nails, opens doors, knocks out teeth. The application range of this piece of metal is limitless!\nMin. ST: 5}
 {10500}{}{Placeholder Club}
 {10501}{}{}
 {10600}{}{Pipe Wrench}
-{10601}{}{Old, rusty, but heavy and with a comfortable handle! Min ST: 6}
+{10601}{}{Old, rusty, but heavy and with a comfortable handle!\nMin. ST: 6}
 {10700}{}{"Ratcatcher"}
-{10701}{}{Home-made weapon for clobbering small rodents. Large ones will do too. Min ST: 6}
+{10701}{}{Home-made weapon for clobbering small rodents. Large ones will do too.\nMin. ST: 6}
 {10800}{}{Hammer}
-{10801}{}{A blunt instrument for work and self-defense. Min ST: 5}
+{10801}{}{A blunt instrument for work and self-defense.\nMin. ST: 5}
 {10900}{}{Nail Board}
-{10901}{}{When it comes to hurting others, some people get very creative. Min ST: 5}
+{10901}{}{When it comes to hurting others, some people get very creative.\nMin. ST: 5}
 {11000}{}{Bludgeon}
-{11001}{}{It's just a handle from a pool cue. Fits in your hand easily and comfortably. Min ST: 4}
+{11001}{}{It's just a handle from a pool cue. Fits in your hand easily and comfortably.\nMin. ST: 4}
 {11100}{}{Pipe}
-{11101}{}{Just a piece of rusty pipe. When you hit someone on the head it makes a cheerful ringing sound. Min ST: 6}
+{11101}{}{Just a piece of rusty pipe. When you hit someone on the head it makes a cheerful ringing sound.\nMin. ST: 6}
 {11200}{}{"Calmer" Police Baton}
-{11201}{}{An old police tool for dealing with the protesters. The Baton causes a lot of pain, but it leaves almost no traces on the body! Min ST: 5}
+{11201}{}{An old police tool for dealing with the protesters. The Baton causes a lot of pain, but it leaves almost no traces on the body!\nMin. ST: 5}
 {11300}{}{Leather Jacket}
 {11301}{}{A leather jacket, thick and heavy. Although it will hardly protect you from a bullet.}
 {11400}{}{Aviator Jacket}
@@ -257,145 +257,145 @@
 {12900}{}{MCA "Defender"}
 {12901}{}{This is a legendary mechanized combat armor system, powered by diesel-nuclear propulsion. Only the elite warriors of Olympus - the Defenders - are worthy of wearing this!}
 {13000}{}{"Slugger"}
-{13001}{}{An award-winning German-made pistol, characterized by its high accuracy, stopping power, reliability, and elegant, intricate handle design. Min ST: 4}
+{13001}{}{An award-winning German-made pistol, characterized by its high accuracy, stopping power, reliability, and elegant, intricate handle design.\nMin. ST: 4}
 {13100}{}{"Detective" Revolver}
-{13101}{}{A short-barreled revolver, model ST-115, nicknamed "Detective", as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many! Min ST: 4}
+{13101}{}{A short-barreled revolver, model ST-115, nicknamed "Detective", as it was a mandatory possession of any private investigator until 1988. It is said to fail at critical moments, but has also saved many!\nMin. ST: 4}
 {13200}{}{.45 Revolver}
-{13201}{}{A basic average revolver, named after the fact that the cartridge-feeding mechanism is designed in the shape of a rotating drum. Min ST: 5}
+{13201}{}{A basic average revolver, named after the fact that the cartridge-feeding mechanism is designed in the shape of a rotating drum.\nMin. ST: 5}
 {13300}{}{Magnum Revolver}
-{13301}{}{Being that this is the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: "Do I feel lucky?" Well, do ya, punk? Min ST: 5}
+{13301}{}{Being that this is the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: "Do I feel lucky?" Well, do ya, punk?\nMin. ST: 5}
 {13400}{}{Flare Gun}
-{13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor. Min ST: 5}
+{13401}{}{A signal pistol, which uses flares as a cartridge. It can easily burn through leather armor.\nMin. ST: 5}
 {13500}{}{"Thunder"}
-{13501}{}{This pistol is a remade single-fire under-barrel 40mm grenade launcher. This little thing will give many moments of fun to its owner. Min ST: 6}
+{13501}{}{This pistol is a remade single-fire under-barrel 40mm grenade launcher. This little thing will give many moments of fun to its owner.\nMin. ST: 6}
 {13600}{}{9mm "Glocker" Pistol}
-{13601}{}{The 9mm "Glocker" pistol, manufactured by D&R, is a classic representative of the German military industry. Very accurate and reliable. Min ST: 4}
+{13601}{}{The 9mm "Glocker" pistol, manufactured by D&R, is a classic representative of the German military industry. Very accurate and reliable.\nMin. ST: 4}
 {13700}{}{9mm "Glocker" Pistol (Auto)}
-{13701}{}{An improved model of the "Glocker" pistol that can fire with bursts. Even more fun with a 9mm weapon. Min ST: 5}
+{13701}{}{An improved model of the "Glocker" pistol that can fire with bursts. Even more fun with a 9mm weapon.\nMin. ST: 5}
 {13800}{}{9mm Pistol}
-{13801}{}{A basic average 9mm pistol. Nothing special about it. Min ST: 4}
+{13801}{}{A basic average 9mm pistol. Nothing special about it.\nMin. ST: 4}
 {13900}{}{9mm Revolver}
-{13901}{}{A very basic, hand-made 9mm revolver. Not very reliable. Min ST: 2}
+{13901}{}{A very basic, hand-made 9mm revolver. Not very reliable.\nMin. ST: 2}
 {14000}{}{"Break" Stun Gun}
-{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it still can save your life. Min ST: 3}
+{14001}{}{A non-lethal pistol for self-defense. Quite a weak weapon, but it still can save your life.\nMin. ST: 3}
 {14100}{}{"Sting" Pistol}
-{14101}{}{A pneumatic device for hurling poisonous darts at your adversaries. Min ST: 3}
+{14101}{}{A pneumatic device for hurling poisonous darts at your adversaries.\nMin. ST: 3}
 {14200}{}{"Colt Python" Revolver}
-{14201}{}{This one blows heads clean off! One of the most popular revolvers, made famous by starring in many detective noir movies of the '70s. Min ST: 6}
+{14201}{}{This one blows heads clean off! One of the most popular revolvers, made famous by starring in many detective noir movies of the '70s.\nMin. ST: 6}
 {14300}{}{"Optics" .223 Pistol}
-{14301}{}{A technical wonder - a special custom-made pistol in .223 with an attached scope, which allows you to pick off your enemies at a distance with ease. Min ST: 4}
+{14301}{}{A technical wonder - a special custom-made pistol in .223 with an attached scope, which allows you to pick off your enemies at a distance with ease.\nMin. ST: 4}
 {14400}{}{Jackal's Revolver}
-{14401}{}{The signature revolver of the Jackal himself. A nice gun to pop the heads of your enemies like melons. Min ST: 6}
+{14401}{}{The signature revolver of the Jackal himself. A nice gun to pop the heads of your enemies like melons.\nMin. ST: 6}
 {14500}{}{"SL-10" Laser Pistol}
-{14501}{}{Compact and advanced version of the "SL-9" laser pistol. Light, fast and deadly! Powered by "MiniBat" energy cells. Min ST: 5}
+{14501}{}{Compact and advanced version of the "SL-9" laser pistol. Light, fast and deadly! Powered by "MiniBat" energy cells.\nMin. ST: 5}
 {14600}{}{Pneumatic Pistol}
-{14601}{}{A pistol that shoots small BB Pellets with the help of compressed air. The only suitable application for it is to shoot rodents. Min ST: 2}
+{14601}{}{A pistol that shoots small BB Pellets with the help of compressed air. The only suitable application for it is to shoot rodents.\nMin. ST: 2}
 {14700}{}{"Red Robin" Pistol}
-{14701}{}{A pneumatic pistol, model "Red Robin". While it is the most powerful model of pneumatic guns, it doesn't count for much. Min ST: 3}
+{14701}{}{A pneumatic pistol, model "Red Robin". While it is the most powerful model of pneumatic guns, it doesn't count for much.\nMin. ST: 3}
 {14800}{}{Laser Cutter}
-{14801}{}{An "Isaac Industries" laser cutting tool. Designed for cutting through unyielding rocks or soft organic tissue. Min ST: 5}
+{14801}{}{An "Isaac Industries" laser cutting tool. Designed for cutting through unyielding rocks or soft organic tissue.\nMin. ST: 5}
 {14900}{}{Gun Placeholder}
 {14901}{}{}
 {15000}{}{"Helmuth" SMG}
-{15001}{}{A "Helmuth" submachine gun that was widely used by the National Guard until 2002. Its main qualities are simplicity and reliability, as well as decent firepower. Min ST: 4}
+{15001}{}{A "Helmuth" submachine gun that was widely used by the National Guard until 2002. Its main qualities are simplicity and reliability, as well as decent firepower.\nMin. ST: 4}
 {15100}{}{"Ghetto" SMG}
-{15101}{}{In the personal mob of any mafia boss is at least one man with this gun. An inspiring look is half the power of this weapon: as soon as the enemy sees this piece, he immediately loses the desire to misbehave. Min ST: 5}
+{15101}{}{In the personal mob of any mafia boss is at least one man with this gun. An inspiring look is half the power of this weapon: as soon as the enemy sees this piece, he immediately loses the desire to misbehave.\nMin. ST: 5}
 {15200}{}{"Cricket" SMG}
-{15201}{}{A British submachine gun that was in service with the MI-6 operational special forces. Min ST: 4}
+{15201}{}{A British submachine gun that was in service with the MI-6 operational special forces.\nMin. ST: 4}
 {15300}{}{"Vendetta" SMG}
-{15301}{}{A favorite submachine gun of mafiosi and bandits. Light, small and lethal. What else to want? Min ST: 5}
+{15301}{}{A favorite submachine gun of mafiosi and bandits. Light, small and lethal. What else to want?\nMin. ST: 5}
 {15400}{}{"FCP-10" SMG}
-{15401}{}{An elite prototype of an assault submachine gun for the marines. A light, reliable and water-resistant deliverer of pain and suffering to every enemy of America! Min ST: 6}
+{15401}{}{An elite prototype of an assault submachine gun for the marines. A light, reliable and water-resistant deliverer of pain and suffering to every enemy of America!\nMin. ST: 6}
 {15500}{}{"Helmuth" SMG (Scoped)}
-{15501}{}{A modified "Helmuth" submachine gun with an optical sight, to even better keep your enemies at bay. Min ST: 4}
+{15501}{}{A modified "Helmuth" submachine gun with an optical sight, to even better keep your enemies at bay.\nMin. ST: 4}
 {15600}{}{"Helmuth" SMG (Exp. Mag.)}
-{15601}{}{A modified "Helmuth" SMG with an added magazine for even more bursting fun. Min ST: 5}
+{15601}{}{A modified "Helmuth" SMG with an added magazine for even more bursting fun.\nMin. ST: 5}
 {15700}{}{"SL-9" Laser Pistol}
-{15701}{}{One of the first successful models of Schwein's laser pistols. It is a bit heavy, but that is because it's more deadly than just a laser pointer! Min ST: 5}
+{15701}{}{One of the first successful models of Schwein's laser pistols. It is a bit heavy, but that is because it's more deadly than just a laser pointer!\nMin. ST: 5}
 {15800}{}{Plasma Pistol}
-{15801}{}{A strong electromagnet disperses super-heated globs of plasma at a high rate of fire. It burns easily through metal, wood, stone, and - of course - living tissue. Min ST: 5}
+{15801}{}{A strong electromagnet disperses super-heated globs of plasma at a high rate of fire. It burns easily through metal, wood, stone, and - of course - living tissue.\nMin. ST: 5}
 {15900}{}{9mm Submachine Gun}
-{15901}{}{A basic average SMG in 9mm, nothing special about it. Min ST: 6}
+{15901}{}{A basic average SMG in 9mm, nothing special about it.\nMin. ST: 6}
 {16000}{}{"N17A1" Assault Rifle}
-{16001}{}{An automatic rifle from the 90s of the twentieth century. A reliable thing - valuable in combat, easy to handle and maintain. Min ST: 6}
+{16001}{}{An automatic rifle from the 90s of the twentieth century. A reliable thing - valuable in combat, easy to handle and maintain.\nMin. ST: 6}
 {16100}{}{"N17A1" Assault Rifle (Scoped)}
-{16101}{}{A standard N17A1 with a scope attached, for even more long-range precision. Min ST: 6}
+{16101}{}{A standard N17A1 with a scope attached, for even more long-range precision.\nMin. ST: 6}
 {16200}{}{Barrage Machinegun}
-{16201}{}{A quite unique .223 modification of an old legendary Tommygun. It is rumored to have been in use by the mafia bosses of the east coast. Min ST: 7}
+{16201}{}{A quite unique .223 modification of an old legendary Tommygun. It is rumored to have been in use by the mafia bosses of the east coast.\nMin. ST: 7}
 {16300}{}{Civilian Carbine}
-{16301}{}{A very old model of a carbine, used in the pre-war period by hunters. Min ST: 5}
+{16301}{}{A very old model of a carbine, used in the pre-war period by hunters.\nMin. ST: 5}
 {16400}{}{"KLH74" Assault Rifle}
-{16401}{}{A legendary rifle trophy from the old wars, manufactured in the United Empire of Russia. Min ST: 6}
+{16401}{}{A legendary rifle trophy from the old wars, manufactured in the United Empire of Russia.\nMin. ST: 6}
 {16500}{}{Assault Rifle}
-{16501}{}{Just an assault rifle. Perfectly suitable for hunting small and medium-sized prey. Min ST: 6}
+{16501}{}{Just an assault rifle. Perfectly suitable for hunting small and medium-sized prey.\nMin. ST: 6}
 {16600}{}{"Hunter" Rifle}
-{16601}{}{A hunting rifle for large animals. And humans. Min ST: 5}
+{16601}{}{A hunting rifle for large animals. And humans.\nMin. ST: 5}
 {16700}{}{"Hunter" Rifle (Scoped)}
-{16701}{}{A hunting rifle with an attached scope makes it easier to hunt from a distance, no matter what kind of game you're aiming for. Min ST: 5}
+{16701}{}{A hunting rifle with an attached scope makes it easier to hunt from a distance, no matter what kind of game you're aiming for.\nMin. ST: 5}
 {16800}{}{Personal Assault Rifle}
-{16801}{}{A personalized assault rifle. Min ST: 8}
+{16801}{}{A personalized assault rifle.\nMin. ST: 8}
 {16900}{}{"Bulldog" Assault Rifle}
-{16901}{}{A modern and decent assault rifle, named after the fact that it tears through enemies like a rabid dog through freshly killed prey. Min ST: 7}
+{16901}{}{A modern and decent assault rifle, named after the fact that it tears through enemies like a rabid dog through freshly killed prey.\nMin. ST: 7}
 {17000}{}{Sniper Rifle}
-{17001}{}{A nice balanced rifle with an optical sight, good range, and perfect accuracy. What more does a sniper need? Min ST: 6}
+{17001}{}{A nice balanced rifle with an optical sight, good range, and perfect accuracy. What more does a sniper need?\nMin. ST: 6}
 {17100}{}{"Rainbow-6" Assault Rifle}
-{17101}{}{An excellent assault rifle that was used by the pre-war special forces. Very reliable and precise. Min ST: 7}
+{17101}{}{An excellent assault rifle that was used by the pre-war special forces. Very reliable and precise.\nMin. ST: 7}
 {17200}{}{"Nail" Rifle}
-{17201}{}{Despite the size of this rifle, this baby can cause quite a few problems for your opponents. Min ST: 4}
+{17201}{}{Despite the size of this rifle, this baby can cause quite a few problems for your opponents.\nMin. ST: 4}
 {17300}{}{"Lilith" Rifle}
-{17301}{}{A very deadly sniper rifle that was used by many elite snipers. Has a very long range and stopping power. Min ST: 9}
+{17301}{}{A very deadly sniper rifle that was used by many elite snipers. Has a very long range and stopping power.\nMin. ST: 9}
 {17400}{}{"Phobos" Shotgun}
-{17401}{}{The automatic propellant gas rapid reloading system makes this shotgun a most dreadful experience for your enemies. Min ST: 7}
+{17401}{}{The automatic propellant gas rapid reloading system makes this shotgun a most dreadful experience for your enemies.\nMin. ST: 7}
 {17500}{}{Double-barreled Shotgun}
-{17501}{}{A double-barreled hunting shotgun, ideal for unarmored targets. Min ST: 5}
+{17501}{}{A double-barreled hunting shotgun, ideal for unarmored targets.\nMin. ST: 5}
 {17600}{}{"Revengeton" Shotgun}
-{17601}{}{A pump-action shotgun that was widely in use by the police against not-so-innocent civilians. It's in good condition. Min ST: 5}
+{17601}{}{A pump-action shotgun that was widely in use by the police against not-so-innocent civilians. It's in good condition.\nMin. ST: 5}
 {17700}{}{"Pocket" Shotgun}
-{17701}{}{A small and comfortable civilian pump-action shotgun. Min ST: 4}
+{17701}{}{A small and comfortable civilian pump-action shotgun.\nMin. ST: 4}
 {17800}{}{Sawed-off Shotgun}
-{17801}{}{A sawed-off shotgun is the most common weapon among small-time bandits, robbers, and other crooks. Min ST: 4}
+{17801}{}{A sawed-off shotgun is the most common weapon among small-time bandits, robbers, and other crooks.\nMin. ST: 4}
 {17900}{}{12 ga. Shotgun}
-{17901}{}{A very basic civilian pump-action shotgun that was widely in use. Min ST: 5}
+{17901}{}{A very basic civilian pump-action shotgun that was widely in use.\nMin. ST: 5}
 {18000}{}{"Wilderer" Shotgun}
-{18001}{}{A big nasty revolving long-range shotgun for hunting large game. Min ST: 6}
+{18001}{}{A big nasty revolving long-range shotgun for hunting large game.\nMin. ST: 6}
 {18100}{}{"Hardener" Shotgun}
-{18101}{}{Looks more like a shotgun cannon than a normal shotgun. With a very long range to boot, it is among the most powerful ones. The downside is that it needs special 12 gauge cartridges. Min ST: 9}
+{18101}{}{Looks more like a shotgun cannon than a normal shotgun. With a very long range to boot, it is among the most powerful ones. The downside is that it needs special 12 gauge cartridges.\nMin. ST: 9}
 {18200}{}{EMP Grenade Launcher}
-{18201}{}{A grenade launcher for special 40mm EMP grenades, designed against robots and electronics. Min ST: 8}
+{18201}{}{A grenade launcher for special 40mm EMP grenades, designed against robots and electronics.\nMin. ST: 8}
 {18300}{}{40mm Grenade Launcher}
-{18301}{}{A grenade launcher for high explosive 40mm grenades against fortified targets. Min ST: 6}
+{18301}{}{A grenade launcher for high explosive 40mm grenades against fortified targets.\nMin. ST: 6}
 {18400}{}{"Strike" Grenade Launcher}
-{18401}{}{Grenades shot by this grenade launcher will suppress your enemies and penetrate their armor. Min ST: 7}
+{18401}{}{Grenades shot by this grenade launcher will suppress your enemies and penetrate their armor.\nMin. ST: 7}
 {18500}{}{"Hotter" Shotgun}
-{18501}{}{This revolving shotgun fires special 12 gauge incendiary shells in the face of your enemies. Oh, and it has a burst mode too! Min ST: 5}
+{18501}{}{This revolving shotgun fires special 12 gauge incendiary shells in the face of your enemies. Oh, and it has a burst mode too!\nMin. ST: 5}
 {18600}{}{Pneumatic Rifle}
-{18601}{}{A rifle that shoots small BB Pellets with the help of compressed air. Has more power than the pistol versions. Min ST: 3}
+{18601}{}{A rifle that shoots small BB Pellets with the help of compressed air. Has more power than the pistol versions.\nMin. ST: 3}
 {18700}{}{"Raven" Rifle}
-{18701}{}{A decent rifle that shoots small BB Pellets. Even a wild jackal would not like to get hit by a bullet from this one. Min ST: 3}
+{18701}{}{A decent rifle that shoots small BB Pellets. Even a wild jackal would not like to get hit by a bullet from this one.\nMin. ST: 3}
 {18800}{}{Repaired Rifle}
-{18801}{}{A repaired and worn, but still a deadly weapon. Min ST: 5}
+{18801}{}{A repaired and worn, but still a deadly weapon.\nMin. ST: 5}
 {18900}{}{Placeholder Rifle}
 {18901}{}{}
 {19000}{}{"Hurricane" Minigun}
-{19001}{}{The portable six-barreled NCASTR minigun "Hurricane" is *the* weapon for suppressing your opponents. A 75,000 rounds per minute .223 rain of lead is unlikely to leave anything standing alive. Min ST: 8}
+{19001}{}{The portable six-barreled NCASTR minigun "Hurricane" is *the* weapon for suppressing your opponents. A 75,000 rounds per minute .223 rain of lead is unlikely to leave anything standing alive.\nMin. ST: 8}
 {19100}{}{"Heavy Rain" Minigun}
-{19101}{}{Like its predecessor, the "Heavy Rain" minigun tears through enemies like they are sheets of wet paper. It is powerful enough to destroy barricades and armored vehicles. Min ST: 9}
+{19101}{}{Like its predecessor, the "Heavy Rain" minigun tears through enemies like they are sheets of wet paper. It is powerful enough to destroy barricades and armored vehicles.\nMin. ST: 9}
 {19200}{}{Turret Minigun}
-{19201}{}{This gun, made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by. The cause of it is a nearly limitless 90,000 rounds per minute hail of bullets. Min ST: 10}
+{19201}{}{This gun, made by NCASTR for automated defense turrets, makes it very hard for anyone to sneak by. The cause of it is a nearly limitless 90,000 rounds per minute hail of bullets.\nMin. ST: 10}
 {19300}{}{"HMG-1A4" Flamelance}
-{19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically, it's more of a plasma minigun - but nobody seems to care, especially when everything around melts down at a searing 3000 degrees Celsius. Min ST: 8}
+{19301}{}{A rapid-fire flamethrower that shoots small balls of red-hot burning liquid out of six muzzles at a speed of 50,000 rounds per minute. Technically, it's more of a plasma minigun - but nobody seems to care, especially when everything around melts down at a searing 3000 degrees Celsius.\nMin. ST: 8}
 {19400}{}{Placeholder Minigun}
 {19401}{}{}
 {19500}{}{EMP Rocket Launcher}
-{19501}{}{A rocket launcher for special EMP rockets, designed against robots and electronics. The strongest burst of electromagnetic impulse doesn't leave them any chance. Min ST: 7}
+{19501}{}{A rocket launcher for special EMP rockets, designed against robots and electronics. The strongest burst of electromagnetic impulse doesn't leave them any chance.\nMin. ST: 7}
 {19600}{}{"Crusader" Rocket Launcher}
-{19601}{}{The NCASTR "Crusader" missile launcher fires surface-to-surface rockets. Sufficient power and accuracy ensure a high level of target destruction. Min ST: 8}
+{19601}{}{The NCASTR "Crusader" missile launcher fires surface-to-surface rockets. Sufficient power and accuracy ensure a high level of target destruction.\nMin. ST: 8}
 {19700}{}{Hand-made Rocket Launcher}
-{19701}{}{A short-range single-shot rocket launcher... Basically, it's just a pipe with a trigger. Be extremely careful with this thing. Min ST: 7}
+{19701}{}{A short-range single-shot rocket launcher... Basically, it's just a pipe with a trigger. Be extremely careful with this thing.\nMin. ST: 7}
 {19800}{}{Placeholder Rocket Launcher}
 {19801}{}{Min ST: 7}
 {19900}{}{"SnR" Rocket Launcher}
-{19901}{}{An ultra-long-range rocket launcher of the "Shoot'n'Run" type. That means it is impossible to reload. Just throw it away after a single shot. Min ST: 6}
+{19901}{}{An ultra-long-range rocket launcher of the "Shoot'n'Run" type. That means it is impossible to reload. Just throw it away after a single shot.\nMin. ST: 6}
 {20000}{}{Weapon 1}
 {20001}{}{}
 {20100}{}{Weapon 2}
@@ -419,23 +419,23 @@
 {21000}{}{Stealth Boy}
 {21001}{}{A device that uses an electromagnetic field to create an invisibility effect around the user. It's activated.}
 {21100}{}{EMP Grenade}
-{21101}{}{This type of grenade is designed specifically for the destruction of electronics. Min ST: 5}
+{21101}{}{This type of grenade is designed specifically for the destruction of electronics.\nMin. ST: 5}
 {21200}{}{WP Grenade}
-{21201}{}{If you want to start a fire, this grenade is perfect. Min ST: 4}
+{21201}{}{If you want to start a fire, this grenade is perfect.\nMin. ST: 4}
 {21300}{}{Rock}
-{21301}{}{It's a rock. The "Granite-Inc." model. This one is an upgraded version. Min ST: 4}
+{21301}{}{It's a rock. The "Granite-Inc." model. This one is an upgraded version.\nMin. ST: 4}
 {21400}{}{Molotov Cocktail}
-{21401}{}{A good old homemade flammable grenade. Burns your enemies to the ground. Min ST: 5}
+{21401}{}{A good old homemade flammable grenade. Burns your enemies to the ground.\nMin. ST: 5}
 {21500}{}{HE Grenade}
-{21501}{}{An ordinary high-explosive grenade. Min ST: 6}
+{21501}{}{An ordinary high-explosive grenade.\nMin. ST: 6}
 {21600}{}{"Fist of God" Grenade}
-{21601}{}{One of the strongest grenades, a secret military technology. Min ST: 7}
+{21601}{}{One of the strongest grenades, a secret military technology.\nMin. ST: 7}
 {21700}{}{Sawblade}
-{21701}{}{Sharp teeth can easily cut through unprotected flesh. And it flies perfectly! Min ST: 6}
+{21701}{}{Sharp teeth can easily cut through unprotected flesh. And it flies perfectly!\nMin. ST: 6}
 {21800}{}{Billiard Ball}
-{21801}{}{Old, cracked, but weighty and with good flight characteristics. The ball may not kill anyone, but it will surely lead to some heavy bruises! Min ST: 2}
+{21801}{}{Old, cracked, but weighty and with good flight characteristics. The ball may not kill anyone, but it will surely lead to some heavy bruises!\nMin. ST: 2}
 {21900}{}{Hand-made Grenade}
-{21901}{}{A homemade grenade, dangerous for both the enemy and the thrower. Min ST: 5}
+{21901}{}{A homemade grenade, dangerous for both the enemy and the thrower.\nMin. ST: 5}
 {22000}{}{Bandages}
 {22001}{}{Inefficient, yet cheap and affordable. Bandages will not reconstitute your severed arm, but can help you heal the cut.}
 {22100}{}{Painkiller}

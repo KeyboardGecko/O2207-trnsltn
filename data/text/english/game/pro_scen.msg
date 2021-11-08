@@ -1815,7 +1815,7 @@
 {94700}{}{a metal sheet}
 {94701}{}{You could call it just plain junk.}
 {94800}{}{a metal sheet}
-{98601}{}{A lantern attached to a pole.}
+{94801}{}{A lantern attached to a pole.}
 {94900}{}{a metal sheet}
 {94901}{}{You could call it just plain junk.}
 {95000}{}{a hole}
@@ -3429,7 +3429,7 @@
 {188100}{}{a car}
 {188101}{}{Now it's just a pile of worthless metal and it's not going anywhere.}
 {188200}{}{a car}
-{188301}{}{A useless pile of junk.}
+{188201}{}{A useless pile of junk.}
 {188300}{}{junk}
 {188301}{}{A useless pile of junk.}
 {188400}{}{junk}
@@ -4094,7 +4094,7 @@
 {222700}{}{a board}
 {222701}{}{Just an ordinary plaque. Nothing interesting.}
 {222800}{}{a board}
-{228101}{}{Mom told you not to eat unfamiliar stuff.}
+{222801}{}{Mom told you not to eat unfamiliar stuff.}
 {222900}{}{a board}
 {222901}{}{Just an ordinary plaque. Nothing interesting.}
 {223000}{}{a board}
@@ -4137,7 +4137,6 @@
 {224801}{}{You won't find any use for this junk.}
 {224900}{}{junk}
 {224901}{}{You don't want to collect any junk, do you?}
-{224601}{}{You don't want to collect any junk, do you?}
 {225000}{}{a door}
 {225001}{}{This door is securely boarded up.}
 {225100}{}{a bed}
@@ -4691,12 +4690,11 @@
 {255400}{}{a metal archway}
 {255401}{}{Rusty, but still strong.}
 {255500}{}{a metal archway}
-{255500}{}{a metal archway}
 {255600}{}{a shadow}
 {255700}{}{a coffee machine}
 {255701}{}{You press the button and nothing happen. It seems to be broken.}
 {255800}{}{a coffee machine}
-{255701}{}{You press the button and nothing happen. It seems to be broken.}
+{255801}{}{You press the button and nothing happen. It seems to be broken.}
 {255900}{}{a stove}
 {255901}{}{An ordinary household oven.}
 {256000}{}{a monument}
@@ -5180,7 +5178,7 @@
 {280900}{}{a floor}
 {280901}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
 {281000}{}{a floor}
-{280601}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
+{281001}{}{A reddish glow pierces from beneath the lattice plates on the floor.}
 {281100}{}{an armored wall}
 {281101}{}{A protective structure.}
 {281200}{}{an armored wall}
@@ -5325,7 +5323,7 @@
 {289700}{}{a stone}
 {289800}{}{a stone}
 {289900}{}{a stone}
-{290901}{}{A stone totem, another object revered by the tribe.}
+{289901}{}{A stone totem, another object revered by the tribe.}
 {290000}{}{a stone}
 {290001}{}{No time to gather stones.}
 {290100}{}{a stone}
