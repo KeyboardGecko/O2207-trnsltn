@@ -257,7 +257,7 @@
 {1080}{}{head}
 {1081}{}{left arm}
 {1082}{}{right arm}
-{1083}{}{грудь}
+{1083}{}{body}
 {1084}{}{right leg}
 {1085}{}{left leg}
 {1086}{}{eyes}
@@ -364,7 +364,7 @@
 #
 {1860}{}{head}
 {1861}{}{missile hand}
-{1862}{}{руку gun hand}
+{1862}{}{Г°ГіГЄГі gun hand}
 {1863}{}{body}
 {1864}{}{right leg}
 {1865}{}{left leg}
@@ -575,11 +575,11 @@
 #
 {5100}{}{ and really hurts}
 {5101}{}{. A serious wound is inflicted}
-{5102}{}{ with no armor}
+{5102}{}{ with no armor defenses}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}
 {5105}{}{. The strong blow to the head knocks her out}
-{5106}{}{. The attack crushes her temple. Good night, Gracie}
+{5106}{}{. The attack crushes her temple. Good night, sweet princess}
 {5107}{}{, death is instantaneous}
 {5108}{}{, causing severe tennis elbow}
 {5109}{}{, pushing the arm out of the way}
@@ -607,7 +607,7 @@
 {5131}{}{. She faints from the blinding attack}
 {5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
 {5133}{}{. She takes it like a man. That is to say, it hurts}
-{5134}{}{, knocking her to the ground}
+{5134}{}{. The pain is too much for her and she collapses like a rag}
 {5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
 #
 # series 5200 - little boy
